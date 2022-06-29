@@ -21,6 +21,9 @@ jobs:
         
       - name: Process sentences
         run: python3 run.py
+        
+      - name: Cleanup
+        run: rm sentences.*
       
       - name: Commit report
         run: |
