@@ -29,8 +29,8 @@ jobs:
         run: |
           git config --global user.name 'Daniel Doña (CI)'
           git config --global user.email 'daniel-dona@users.noreply.github.com'
-          git checkout -b "output"
           git fetch --all
+          git checkout "output"
           git add -f output/
           git commit -am "Automated generation"
           git push --set-upstream origin output
