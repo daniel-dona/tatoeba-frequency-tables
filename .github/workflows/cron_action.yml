@@ -30,6 +30,7 @@ jobs:
           git config --global user.name 'Daniel Doña (CI)'
           git config --global user.email 'daniel-dona@users.noreply.github.com'
           git fetch --all
+          git clean  -d  -f .
           git checkout "output"
           git add -f .
           git commit -am "Automated generation"
