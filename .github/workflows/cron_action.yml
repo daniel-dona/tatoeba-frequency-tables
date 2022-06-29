@@ -32,4 +32,4 @@ jobs:
           git checkout -b "output"
           git add -f output/
           git commit -am "Automated generation"
-          git push
+          git push --set-upstream origin output
