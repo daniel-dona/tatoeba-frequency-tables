@@ -3,18 +3,25 @@ name: CI
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 6 * * 1'
+    - cron:  '*/15 * * *'
 
 jobs:
   report:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Create report file
-        run: date +%s > report.txt
+      - name: Download Tatoeba exported sentences
+        run: wget https://downloads.tatoeba.org/exports/sentences.tar.bz2
+      - name: Extract compressed file
+        run: tar -xvf sentences.tar.bz2
+      - name: Process sentences:
+        run: |
+          mkdir output/
+          python3 run.py
       - name: Commit report
         run: |
           git config --global user.name 'Daniel Doña (CI)'
           git config --global user.email 'daniel-dona@users.noreply.github.com'
+          git add output/
           git commit -am "Automated report"
           git push
