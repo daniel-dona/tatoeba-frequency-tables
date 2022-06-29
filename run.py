@@ -8,20 +8,29 @@ list_size = 10000
 
 skip_lang = ["cmn", "kor", "\\N", "jpn"]
 
+gen_list = ["spa", "eng", "ita"]
+
 lang_list = []
 
-with open(sentences_file) as sentences:
-
-	for sentence in sentences:
+if len(gen_list) != 0:
 	
-		col = sentence.split("\t")
+	lang_list = gen_list
+	
+else:
+
+	with open(sentences_file) as sentences:
+
+		for sentence in sentences:
 		
-		if not col[1] in lang_list and not col[1] in skip_lang:
-		
-			lang_list.append(col[1])
+			col = sentence.split("\t")
+			
+			if not col[1] in lang_list and not col[1] in skip_lang:
+			
+				lang_list.append(col[1])
 	
 print("Language list:", lang_list, flush=True)
 	
+
 			
 for lang in lang_list:
 	
