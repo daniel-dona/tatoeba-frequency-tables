@@ -10,7 +10,7 @@ on:
   
 
 jobs:
-  report:
+  generate_lists:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -27,5 +27,5 @@ jobs:
           git config --global user.name 'Daniel Doña (CI)'
           git config --global user.email 'daniel-dona@users.noreply.github.com'
           git add output/
-          git commit -am "Automated report"
+          git commit -am "Automated generation"
           git push

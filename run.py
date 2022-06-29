@@ -20,12 +20,12 @@ with open(sentences_file) as sentences:
 		
 			lang_list.append(col[1])
 	
-print("Language list:", lang_list)
+print("Language list:", lang_list, flush=True)
 	
 			
 for lang in lang_list:
 	
-	print("Processing language:", lang)
+	print("Processing language:", lang, flush=True)
 	
 	freq_list = {}
 	
