@@ -10,6 +10,8 @@ skip_lang = ["cmn", "kor", "\\N", "jpn"]
 
 gen_list = ["spa", "eng", "ita"]
 
+remove_symb = [".", ",", "?", "!", "¿", "¡"]
+
 lang_list = []
 
 if len(gen_list) != 0:
@@ -51,6 +53,10 @@ for lang in lang_list:
 					words = col[2].replace("\n", "").split(" ")
 					
 					for word in words:
+						
+						for symb in remove_symb:
+							
+							word = word.replace(symb, "")
 						
 						if word in freq_list:
 							
