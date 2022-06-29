@@ -12,14 +12,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      
       - name: Download Tatoeba exported sentences
         run: wget https://downloads.tatoeba.org/exports/sentences.tar.bz2
+        
       - name: Extract compressed file
         run: tar -xvf sentences.tar.bz2
+        
+      - name: Prepare env
+        run: mkdir output/
+        
       - name: Process sentences
-        run: |
-          mkdir output/
-          python3 run.py
+        run: python3 run.py
+      
       - name: Commit report
         run: |
           git config --global user.name 'Daniel Doña (CI)'
