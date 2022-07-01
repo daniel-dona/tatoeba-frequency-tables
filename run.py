@@ -2,7 +2,7 @@
 
 sentences_file = "sentences.csv"
 
-output_path = "./"
+output_path = "./output/"
 
 list_size = 10000
 

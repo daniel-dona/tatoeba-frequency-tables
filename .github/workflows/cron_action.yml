@@ -7,11 +7,25 @@ on:
     - cron:  '0 6 * * 1'    
   
 
+
+
+
+
 jobs:
   generate_lists:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+    
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          path: main
+          
+      - name: Checkout tools repo
+        uses: actions/checkout@v3
+        with:
+          path: output
+          ref: output
       
       - name: Download Tatoeba exported sentences
         run: wget https://downloads.tatoeba.org/exports/sentences.tar.bz2
@@ -20,7 +34,7 @@ jobs:
         run: tar -xvf sentences.tar.bz2
         
       - name: Process sentences
-        run: python3 run.py
+        run: python3 main/run.py
         
       - name: Cleanup
         run: rm sentences.*
