@@ -16,12 +16,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
-      - name: Checkout
+      - name: Checkout master branch
         uses: actions/checkout@v3
         with:
-          path: main
+          path: .
           
-      - name: Checkout tools repo
+      - name: Checkout output branch
         uses: actions/checkout@v3
         with:
           path: output
@@ -40,8 +40,8 @@ jobs:
         run: rm sentences.*
       
       - name: Commit report
+        working-directory: ./output/
         run: |
-          cd output/
           git config --global user.name 'Daniel Doña (CI)'
           git config --global user.email 'daniel-dona@users.noreply.github.com'
           git add -f .
