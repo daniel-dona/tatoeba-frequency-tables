@@ -34,7 +34,7 @@ jobs:
         run: tar -xvf sentences.tar.bz2
         
       - name: Process sentences
-        run: python3 main/run.py
+        run: python3 run.py
         
       - name: Cleanup
         run: rm sentences.*
