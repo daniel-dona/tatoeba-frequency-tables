@@ -39,11 +39,11 @@ jobs:
       - name: Cleanup
         run: rm sentences.*
       
-      - name: Commit report
+      - name: Commit frequency lists
         working-directory: ./output/
         run: |
-          git config --global user.name 'Daniel Doña (CI)'
-          git config --global user.email 'daniel-dona@users.noreply.github.com'
+          git config --global user.name 'GitHub Actions Workflow'
+          git config --global user.email 'github-actions@github.com'
           git add -f .
           git commit -am "Automated generation"
           git push
