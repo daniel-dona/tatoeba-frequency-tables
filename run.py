@@ -8,6 +8,8 @@ list_size = 10000
 
 skip_lang = ["cmn", "kor", "\\N", "jpn"]
 
+gen_list = []
+
 remove_symb = [".", ",", "?", "!", "¿", "¡"]
 
 lang_list = []
