@@ -1,6 +1,6 @@
-kɛ 401
-Töm 352
-ɛ 194
+kɛ 402
+Töm 353
+ɛ 195
 jɛ 187
 cɛ 159
 mi̱ 110
@@ -9,18 +9,18 @@ kä 105
 Ci̱ 98
 nɛy 82
 Ɣän 77
-ci̱ 74
+ci̱ 75
+ 70
 ɣöö 69
- 69
 kɛn 66
 ɣä 62
 la̱t 58
 i̱ 57
 jɛn 55
 kɛnɛ 53
+Jɛn 52
 Ɛ 51
-Jɛn 51
-ɛmɛ 50
+ɛmɛ 51
 gɔaa 49
 Cɛ 47
 Cä 41
@@ -178,6 +178,7 @@ Bɛ 8
 liŋ 8
 päl 8
 ti̲ 8
+lɔcdɛ 8
 cop 8
 a 8
 Dee 8
@@ -193,7 +194,6 @@ dëë 7
 thiaŋ 7
 ŋa̱c 7
 du 7
-lɔcdɛ 7
 thuɔk 7
 ruun 7
 de 7
@@ -357,6 +357,7 @@ yiɛnɛ 4
 gua̲a̲th 4
 gua̱n 4
 wäl 4
+tɛ̈ɛ̈th 4
 kärɔadɛ 4
 ciaaŋ 4
 To̱m 4
@@ -505,7 +506,6 @@ ce̱tɛ 3
 diɛwä 3
 /cu 3
 määthdä 3
-tɛ̈ɛ̈th 3
 wër 3
 dɛy 3
 go̱o̱rɛ 3
@@ -847,6 +847,7 @@ wuɔc 2
 jɛndɛlkä 2
 talɛpɔn 2
 Lät 2
+guääth 2
 mäth 2
 di̱aal 2
 kuakni̱ 2
@@ -2236,7 +2237,6 @@ yiɔ̱t 1
 Ŋoti̱ 1
 gua̱a̱thɛ 1
 ki̱lɛ̈thdiɛn 1
-guääth 1
 toth 1
 gɔ̱ɔ̱rä 1
 Li̱ŋɛli̱i̱thni̱ 1
@@ -2510,3 +2510,4 @@ tudä 1
 Thi̱lɛ 1
 wi̱ää 1
 röt 1
+ci̱ëkdɛ 1

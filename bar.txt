@@ -9,7 +9,7 @@ Thomas 22
 des 21
 da 20
 hob 20
-du 15
+du 16
 Des 14
 Tom 13
 di 13
@@ -19,8 +19,8 @@ wos 11
 hot 11
 ned 10
 scho 9
+do 9
 und 9
-do 8
 ois 8
 amoi 8
 tuan 7
@@ -93,6 +93,8 @@ d‘ 3
 ma's 3
 wengal 3
 gib 3
+um 3
+fümfe 3
 braan 3
 Passt 2
 der 2
@@ -184,15 +186,16 @@ Zene 2
 zwånzge 2
 gehört 2
 Sie 2
-um 2
 leicht 2
 Bei 2
 goa 2
 dem 2
+mia 2
 Red 2
 Braan 2
 ebas 2
 kon 2
+Um 2
 konn 2
 G'rad 1
 jeder 1
@@ -595,7 +598,6 @@ Fuffzehn 1
 primzahl 1
 Dreie 1
 moi 1
-fümfe 1
 fuchzehn 1
 Hamma 1
 Grüß 1
@@ -627,7 +629,6 @@ spün 1
 Fangerl 1
 „Chef 1
 denkt 1
-mia 1
 kunntn 1
 “ 1
 „Rosi 1
@@ -711,7 +712,6 @@ guade 1
 Eierspeis 1
 aufgschriebm 1
 aufgeschriebm 1
-Um 1
 zweie 1
 schlißn 1
 Dafia 1
@@ -767,3 +767,6 @@ Ebas 1
 stimmt 1
 Etza 1
 abholen 1
+Dreffa 1
+muaßt 1
+soan 1

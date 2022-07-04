@@ -1,5 +1,5 @@
 je 1572
-se 594
+se 595
 u 531
 sam 438
 da 402
@@ -690,6 +690,7 @@ znamo 6
 Layla 6
 Sami 6
 Fadil 6
+Zovem 5
 njegovo 5
 Dobar 5
 vi 5
@@ -842,7 +843,6 @@ dokaz 5
 cijelo 5
 paket 5
 student 4
-Zovem 4
 zoveš 4
 Njezina 4
 Pas 4
@@ -7986,3 +7986,4 @@ listu 1
 Proljeće 1
 troslovno 1
 kupili 1
+Dušana 1

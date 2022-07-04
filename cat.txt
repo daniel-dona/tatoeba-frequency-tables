@@ -16,7 +16,7 @@ El 502
 Tom 453
 La 390
 les 382
-amb 371
+amb 372
 al 350
 ha 338
 els 337
@@ -363,6 +363,7 @@ se'n 21
 punt 21
 tota 21
 dormir 21
+compte 21
 marxar 21
 estudiar 21
 l'home 21
@@ -377,7 +378,6 @@ Ningú 20
 contra 20
 paraules 20
 menys 20
-compte 20
 Tu 20
 dones 20
 noia 20
@@ -1370,6 +1370,7 @@ sorpresa 5
 ven 5
 Veniu 5
 barret 5
+Ves 5
 unes 5
 juga 5
 L'any 5
@@ -1663,7 +1664,6 @@ sorprendre 4
 Espera 4
 torni 4
 voldria 4
-Ves 4
 vostres 4
 necessitat 4
 dec 4

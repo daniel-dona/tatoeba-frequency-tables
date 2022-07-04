@@ -1,4 +1,4 @@
-je 348
+je 349
 v 108
 se 97
 sem 88
@@ -14,8 +14,8 @@ ni 37
 za 35
 bo 35
 me 34
+mi 33
 Ne 33
-mi 32
 Ali 31
 To 28
 z 25
@@ -348,6 +348,7 @@ Hodil 3
 Voda 3
 spat 3
 škatle 3
+Ime 3
 Znaš 2
 Ujgur 2
 tebi 2
@@ -682,7 +683,6 @@ naredila 2
 odprl 2
 mirno 2
 pajkov 2
-Ime 2
 Imaš 2
 Zdaj 2
 umil 2
@@ -2454,3 +2454,4 @@ veterinar 1
 prijateljev 1
 Kralj 1
 gradu 1
+Dušana 1
