@@ -8,9 +8,9 @@ nə 175
 çox 163
 Biz 150
 ki 131
-idi 122
+idi 123
 Sən 120
-Mənim 115
+Mənim 116
 və 110
 deyil 110
 heç 103
@@ -45,7 +45,7 @@ bilirəm 42
 sənin 41
 bunu 41
 böyük 40
-hər 39
+hər 40
 kimi 39
 paytaxtıdır 38
 öz 36
@@ -73,10 +73,10 @@ idim 30
 kömək 30
 artıq 30
 haradadır 29
+dili 29
 yaşayır 29
 da 29
 Hər 28
-dili 28
 Onu 28
 yaşayıram 28
 nifrət 28
@@ -298,6 +298,7 @@ doğulub 9
 Fransa 9
 İtaliya 9
 Kataloniyanın 9
+tapa 8
 Pişik 8
 Məktəbə 8
 Avstraliyada 8
@@ -333,6 +334,7 @@ Evə 8
 aldım 8
 tərk 8
 Hamı 8
+yerdə 8
 səhv 8
 deyir 8
 düşürəm 8
@@ -352,7 +354,6 @@ sürücüsüdür 8
 sürücüdür 8
 müstəqilliyi 8
 söz 7
-tapa 7
 ingiliscə 7
 vaxtım 7
 evim 7
@@ -396,8 +397,8 @@ olmayacaq 7
 tez-tez 7
 etdim 7
 siqaret 7
+Atam 7
 xəstədir 7
-yerdə 7
 yağır 7
 oynayır 7
 Con 7
@@ -419,6 +420,7 @@ davam 7
 deyilsən 7
 təxminən 7
 uşaq 7
+ingilis 7
 biraz 7
 siz 7
 Qatar 7
@@ -495,7 +497,6 @@ etdilər 6
 Onlara 6
 məşğul 6
 etmirəm 6
-Atam 6
 Ümid 6
 sərbəst 6
 xoşlayır 6
@@ -508,13 +509,13 @@ Yaponiyanın 6
 Bəs 6
 istəyirsiniz 6
 dostum 6
+şeyə 6
 bilmirik 6
 hardan 6
 onları 6
 bilirlər 6
 Əlbəttə 6
 bıçaq 6
-ingilis 6
 etdik 6
 Yaponiyadan 6
 olunub 6
@@ -561,6 +562,7 @@ Fransaya 5
 ağdır 5
 Emili 5
 anam 5
+altında 5
 məşğuldur 5
 sarı 5
 idin 5
@@ -637,6 +639,7 @@ pendir 5
 Ən 5
 varlı 5
 həkimdir 5
+adım 5
 Bilmirəm 5
 gecikir 5
 Bəzi 5
@@ -645,7 +648,6 @@ tezliklə 5
 görmürəm 5
 idilər 5
 Qışda 5
-şeyə 5
 Onları 5
 qızı 5
 düşünürsən 5
@@ -694,7 +696,6 @@ təzə 4
 iyirmi 4
 evdədir 4
 ağacın 4
-altında 4
 görürəm 4
 yaşıldır 4
 suyu 4
@@ -788,7 +789,6 @@ keçdi 4
 qalmaq 4
 balacadır 4
 bilmirdim 4
-adım 4
 xəstəxanadadır 4
 sevirik 4
 İtaliyaya 4
@@ -925,6 +925,7 @@ dostumdur 3
 ilin 3
 səkkizdə 3
 keçirdim 3
+müəllimidir 3
 stolun 3
 Harada 3
 tutdu 3
@@ -1176,6 +1177,7 @@ Asiyada 3
 etmiş 3
 Koreya 3
 yük 3
+maşınını 3
 Belçikada 3
 İrlandiyada 3
 Almalar 3
@@ -1187,6 +1189,7 @@ Albaniyada 3
 respublikadır 3
 İraq 3
 Qərbi 3
+satır 3
 birinci 3
 edəcəyimi 3
 aprelin 3
@@ -1329,7 +1332,6 @@ dekabr 2
 Qış 2
 tələbə 2
 Ət 2
-müəllimidir 2
 üstündədir 2
 ağsan 2
 Beş 2
@@ -1780,6 +1782,7 @@ Lüksemburqda 2
 getdilər 2
 gedəcəksiniz 2
 Estoniyanın 2
+açar 2
 Seçim 2
 sizindir 2
 sənindir 2
@@ -1863,7 +1866,6 @@ Qazaxıstan 2
 Mərkəzi 2
 Polşa 2
 Polşada 2
-maşınını 2
 alıb 2
 əmisi 2
 Dublin 2
@@ -1892,7 +1894,6 @@ Barselona 2
 Əvvəl 2
 Avropadadır 2
 şəhər 2
-satır 2
 Fransanın 2
 yeganə 2
 müstəqilliyini 2
@@ -2305,6 +2306,7 @@ soğan 2
 Soğan 2
 xoşlamıram 2
 götürə 2
+Orada 2
 vardı 2
 LSD 2
 deyəcək 2
@@ -4013,7 +4015,6 @@ qayğıkeş 1
 ata 1
 heyvanları 1
 cibindən 1
-açar 1
 düyü 1
 becərir 1
 Andorrada 1
@@ -6645,7 +6646,6 @@ hissəsi 1
 Qvineya 1
 Limburqdanam 1
 Qəbristanlığa 1
-Orada 1
 dünyalar 1
 kadar 1
 Bədəvilər 1
@@ -7413,3 +7413,13 @@ Pomidor 1
 telekanalımdır 1
 gedirsiniz 1
 gedəcən 1
+İstənmədiyim 1
+qalmaram 1
+axtardığını 1
+bildinmi 1
+Ziri 1
+İtirilmiş 1
+divanın 1
+İstədiyimiz 1
+çatdıq 1
+Duşana 1

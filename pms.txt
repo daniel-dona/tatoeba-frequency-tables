@@ -1,9 +1,9 @@
 a 455
-l'é 183
+l'é 182
 I 136
 nèn 90
 la 88
-A 83
+A 84
 l'ha 77
 i 74
 Tom 72
@@ -67,7 +67,6 @@ cà 12
 manca 12
 it 12
 al 11
-quand 11
 piasì 11
 ti 11
 lenga 11
@@ -77,6 +76,7 @@ temp 11
 Për 11
 toa 11
 pare 11
+quand 10
 Am 10
 sai 10
 as 10
@@ -102,6 +102,7 @@ fin 8
 j'era 8
 sla 8
 deve 8
+dev 8
 sia 8
 lese 8
 sté 8
@@ -114,12 +115,13 @@ prima 8
 Mary 8
 tuti 7
 parla 7
+esse 7
 Mia 7
 part 7
 sèmper 7
 amis 7
-dev 7
 pròpe 7
+l'han 7
 costa 7
 fransèis 7
 gent 7
@@ -134,7 +136,6 @@ màchina 6
 ch'as 6
 As 6
 trovà 6
-esse 6
 Un 6
 Ij 6
 tròp 6
@@ -145,7 +146,6 @@ pens 6
 Mè 6
 bon-a 6
 podoma 6
-l'han 6
 fàit 6
 dal 6
 già 6
@@ -269,7 +269,6 @@ l'àutr 3
 morosa 3
 riva 3
 dastrà 3
-Da 3
 dame 3
 sensa 3
 parèj 3
@@ -399,6 +398,7 @@ conòss 2
 anco' 2
 sud 2
 fàcil 2
+Da 2
 perdù 2
 toe 2
 polìtich 2
@@ -1235,6 +1235,7 @@ mostremlo 1
 vërgogna 1
 giornaj 1
 publicà 1
+Vist 1
 còmpit-sì 1
 dovrisse 1
 torné 1
@@ -1826,3 +1827,4 @@ nöu 1
 dés 1
 Finì 1
 bene 1
+massala 1

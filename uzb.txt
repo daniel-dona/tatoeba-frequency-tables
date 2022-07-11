@@ -149,6 +149,7 @@ Mushuk 3
 gapira 3
 olmaydi 3
 baland 3
+ingliz 3
 musiqa 3
 hamma 3
 Ingliz 3
@@ -168,6 +169,7 @@ bormoqchi 3
 ko'raman 3
 buni 3
 ko'rgan 3
+tili 3
 hafta 3
 qanday 3
 olib 3
@@ -269,6 +271,7 @@ eshikni 2
 gapiraman 2
 xonamda 2
 bino 2
+Otam 2
 qo'shiq 2
 boshladi 2
 uyim 2
@@ -276,7 +279,6 @@ rahmat 2
 Kitoblaringizni 2
 oladi 2
 Chaqaloq 2
-ingliz 2
 Alloh 2
 to'g'ri 2
 Mushuklar 2
@@ -345,7 +347,6 @@ borish 2
 yozmoqchiman 2
 bizning 2
 Oldin 2
-tili 2
 qilmayman 2
 bosh 2
 yoqtirmaydi 2
@@ -879,7 +880,6 @@ pichoq 1
 boryapsan 1
 Pochta 1
 qo'ng'ir 1
-Otam 1
 pochta 1
 qutisini 1
 qizilga 1
@@ -2168,3 +2168,4 @@ ikkita 1
 banan 1
 yemaydilar 1
 o‘qishni 1
+o'qituvchisi 1

@@ -1,5 +1,5 @@
 is 3197
-Ik 3188
+Ik 3190
 dat 2754
 en 2502
 de 2463
@@ -11,7 +11,7 @@ in 1451
 De 1398
 to 1313
 Dat 1267
-heff 1239
+heff 1240
 ik 1210
 Se 1143
 ’n 1073
@@ -23,7 +23,7 @@ as 769
 op 716
 di 654
 an 647
-em 642
+em 643
 na 638
 mien 615
 sünd 602
@@ -35,7 +35,7 @@ he 514
 den 498
 Wat 485
 hebbt 484
-bün 480
+bün 481
 sien 473
 för 463
 ehr 462
@@ -89,8 +89,8 @@ wenn 199
 büst 198
 Worüm 197
 hier 193
+Geld 187
 mutt 186
-Geld 186
 Tied 184
 doon 183
 jüst 178
@@ -444,6 +444,7 @@ Stünn 33
 Hunnen 33
 söcht 33
 her 33
+gistern 33
 Do 32
 hitt 32
 Appel 32
@@ -457,7 +458,6 @@ Ies 32
 froh 32
 kriegen 32
 Wöörbook 32
-gistern 32
 schullen 31
 söök 31
 hören 31
@@ -1459,6 +1459,7 @@ swarte 8
 Blick 8
 tohöört 8
 Appelsien 8
+schickt 8
 Weten 8
 angrepen 8
 Ägypten 8
@@ -1604,7 +1605,6 @@ het 7
 binah 7
 Loop 7
 sünner 7
-schickt 7
 rutstellt 7
 tostahn 7
 Perfesser 7
@@ -3244,6 +3244,7 @@ mek 3
 an’t 3
 loten 3
 bäter 3
+ierst 3
 det 3
 hoff 3
 Mook 3
@@ -4741,7 +4742,6 @@ bi’t 2
 tosamen 2
 Bammel 2
 Freuhstück 2
-ierst 2
 na’n 2
 Avendäten 2
 lihrt 2

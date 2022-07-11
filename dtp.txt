@@ -1,25 +1,25 @@
-do 972
+do 973
 oku 589
-i 383
-Tom 345
+i 384
+Tom 347
 ku 319
-no 297
-di 286
+no 298
+di 288
 nga 241
 nopo 238
-id 228
-nu 201
+id 229
+nu 202
 Au 185
 ko' 176
 ko 175
-dau 139
+dau 140
 om 129
 dilo 127
 po 125
 Milo' 113
 doho 108
+o 108
 daa 107
-o 107
 tokou 106
 ilo 98
 mantad 97
@@ -27,9 +27,9 @@ boros 94
 tu 90
 Nunu 87
 kopio 82
-dot 80
-tulun 79
-hilo'd 78
+dot 81
+tulun 80
+hilo'd 80
 Haro 72
 au 65
 iyau 65
@@ -88,10 +88,10 @@ mangakan 27
 pogun 27
 milo 27
 korita 26
+koilo 26
 iti 26
 suang 26
 haro 26
-koilo 25
 sikul 25
 nogi 25
 tanak 25
@@ -131,7 +131,9 @@ ngaran 17
 Honggo 17
 nung 17
 gisom 17
+moti 17
 hiti'd 17
+tusin 16
 Ika 16
 mangan 16
 tinu 16
@@ -141,9 +143,7 @@ Onuai 16
 milo' 16
 Nung 16
 iri 16
-moti 16
 soira 15
-tusin 15
 dokoyu 15
 Ih 15
 oi 15
@@ -173,6 +173,7 @@ poingiyon 13
 Kanou 13
 Otopot 13
 Ongoi 13
+waig 13
 kosodop 13
 Poingkuro 13
 mintong 13
@@ -182,7 +183,6 @@ rasuk 12
 wagu 12
 dongkosuabon 12
 kokitanan 12
-waig 12
 tagal 12
 monikid 12
 Osonong-sonong 12
@@ -256,6 +256,7 @@ kasasari 9
 mamanau 9
 Ogumu 9
 wayaan 9
+Songkuro 9
 mumboyo 9
 tosonong 9
 tangon 9
@@ -284,7 +285,7 @@ tusak 8
 Kinorohingan 8
 tanganak 8
 Nakaanu 8
-Songkuro 8
+momoguno 8
 kaban 8
 topurimanan 8
 Umbalan 8
@@ -323,7 +324,6 @@ Yesus 7
 dangadau 7
 Owito 7
 Monuduk 7
-momoguno 7
 ayat 7
 nohopod 7
 surat 7
@@ -397,6 +397,7 @@ sada 6
 ogumu 6
 Tumingaha 6
 kuritapui 6
+poingkuro 6
 tirikohonon 6
 wokon 6
 poiloon 6
@@ -484,7 +485,6 @@ Napatai 5
 taki 5
 pakaraja 5
 tumo 5
-poingkuro 5
 kumaau 5
 lampung 5
 Ula 5
@@ -543,6 +543,7 @@ kopiruba 4
 manuk 4
 lisih 4
 nokoilo' 4
+Natagak 4
 doiti 4
 sumakai 4
 bas 4
@@ -622,6 +623,7 @@ timadang 4
 kogiu 4
 kointutun 4
 dati 4
+Sami 4
 tampanak 4
 suduon 4
 nintorusan 4
@@ -685,7 +687,6 @@ tiwanon 3
 Sumiliu 3
 monongiwan 3
 sokirim 3
-Natagak 3
 Sumakai 3
 Rongoho 3
 uhupai 3
@@ -811,6 +812,7 @@ pihatus 3
 abaabayan 3
 gonob 3
 tunturu 3
+Australia 3
 tosorou 3
 araatan 3
 kara 3
@@ -830,7 +832,6 @@ tongoulun 3
 talasu 3
 mumang 3
 koinsanan 3
-Sami 3
 Siodop 3
 kurita 3
 Yohuwah 3
@@ -1168,6 +1169,7 @@ Sushi 2
 ginavo 2
 Tuminingkod 2
 diya'd 2
+Okuri 2
 ka-8 2
 kopupuson 2
 boroson 2
@@ -1194,7 +1196,6 @@ sajaam 2
 papaharo 2
 walos 2
 ngai 2
-Australia 2
 tikid 2
 wain 2
 pomolian 2
@@ -1263,6 +1264,7 @@ kantang 2
 tompu 2
 songinan 2
 Minoboli 2
+minogidu 2
 pisompuruan 2
 tii 2
 kotolu 2
@@ -1331,6 +1333,7 @@ naratu 2
 Nabalu 2
 oyopos 2
 aakan 2
+sangod 2
 toko' 2
 tompinai 2
 nongoi 2
@@ -2195,7 +2198,6 @@ poporoloi 1
 pomubiis 1
 sipatai 1
 kolimo 1
-Okuri 1
 Minananrasuk 1
 diolo'd 1
 sinakagon 1
@@ -2690,7 +2692,6 @@ sasaapon 1
 Pungaranan 1
 Pooch 1
 nokosusi 1
-minogidu 1
 papabasa 1
 gondoling 1
 istana 1
@@ -3362,7 +3363,6 @@ Minamason 1
 bayahan 1
 yati 1
 obuliog 1
-sangod 1
 Minomoli 1
 Lao 1
 Zhang 1
@@ -3563,3 +3563,10 @@ Ziri 1
 pisoko 1
 Rima 1
 tolipaun 1
+sindata 1
+pinambarai 1
+nokokodou 1
+taap 1
+Bobos 1
+koligogon 1
+Jackson 1

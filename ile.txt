@@ -1,15 +1,15 @@
 es 2351
-Yo 1568
-un 1300
-li 1292
+Yo 1569
+un 1302
+li 1293
 ne 949
-Tom 943
+Tom 944
 Li 610
 in 605
 Il 470
 ha 452
 esset 449
-de 441
+de 442
 tu 435
 have 412
 Esque 402
@@ -19,7 +19,7 @@ me 312
 mi 290
 e 286
 it 279
-va 268
+va 269
 Noi 264
 vole 249
 To 248
@@ -27,7 +27,7 @@ yo 242
 to 233
 bon 229
 It 227
-Tu 212
+Tu 213
 ama 210
 a 208
 posse 207
@@ -43,8 +43,8 @@ Mary 165
 con 163
 del 156
 il 154
+deve 153
 save 153
-deve 152
 vu 136
 tui 127
 ti 126
@@ -56,9 +56,9 @@ bell 99
 U 98
 Ti 95
 Pro 93
+esser 87
 puella 86
-esser 86
-libre 85
+libre 86
 dit 85
 Maria 84
 tro 83
@@ -109,9 +109,9 @@ nequande 50
 qui 49
 odia 49
 vos 49
+sestra 48
 old 48
 munde 47
-sestra 47
 vor 47
 Un 47
 Qualmen 47
@@ -650,6 +650,7 @@ alienat 7
 possede 7
 comensar 7
 six 7
+té 7
 fuma 7
 Fórsan 7
 inamorat 7
@@ -739,7 +740,6 @@ Ellas 6
 serchat 6
 sequent 6
 edificie 6
-té 6
 lege 6
 diferent 6
 prender 6
@@ -4654,3 +4654,5 @@ L'alfabeto 1
 26 1
 gioca 1
 ad 1
+brassar 1
+Lee 1

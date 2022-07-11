@@ -1,38 +1,38 @@
 de 5066
-să 5019
+să 5020
 Tom 4204
 a 3705
-este 3283
-în 2819
+este 3284
+în 2818
 nu 2766
-o 2328
+o 2329
 că 2236
 la 2179
-Nu 2095
+Nu 2094
 cu 1703
-pe 1642
+pe 1643
 un 1594
 mai 1438
 ce 1230
 și 1208
 fost 1201
 Am 1058
-pentru 995
+pentru 994
 asta 982
-din 956
+din 957
 se 951
 sunt 935
 El 924
-e 876
+e 875
 Mary 862
-lui 808
+lui 807
 am 801
 fi 744
 care 666
 A 636
 s-a 621
 va 602
-te 600
+te 601
 mă 588
 foarte 576
 au 575
@@ -78,7 +78,7 @@ fac 275
 În 268
 acest 264
 Mă 264
-ta 261
+ta 260
 despre 256
 prea 254
 tine 253
@@ -169,9 +169,9 @@ Ar 141
 Voi 140
 într-o 140
 acolo 139
-îl 136
-să-l 136
 până 135
+îl 135
+să-l 135
 mâine 134
 Această 134
 cineva 134
@@ -197,8 +197,8 @@ chiar 116
 s-au 115
 vor 115
 spun 114
+să-i 113
 său 113
-să-i 112
 Nimeni 112
 sub 111
 destul 111
@@ -233,8 +233,8 @@ cumpărat 100
 sigur 100
 Aceasta 100
 merge 100
-să-ți 100
 vei 99
+să-ți 99
 Un 99
 început 98
 cauza 98
@@ -475,6 +475,7 @@ grijă 47
 arată 47
 săptămâna 47
 franceza 47
+fericită 47
 companie 47
 frică 47
 plăcea 46
@@ -496,9 +497,7 @@ atunci 45
 trăiesc 45
 uita 45
 an 45
-fericită 45
 oprit 45
-film 44
 dreptate 44
 creat 44
 foame 44
@@ -511,6 +510,7 @@ câte 44
 sunat 44
 vârstă 44
 seara 43
+film 43
 decis 43
 lăsa 43
 simplu 43
@@ -527,6 +527,7 @@ profesor 42
 deloc 42
 ne-a 42
 Probabil 42
+pasă 42
 ia 42
 locuiește 42
 lua 42
@@ -540,7 +541,6 @@ iar 41
 Dumnezeu 41
 Stai 41
 plece 41
-pasă 41
 Încă 41
 prost 41
 învățat 41
@@ -608,7 +608,6 @@ greșit 36
 multă 36
 doresc 36
 griji 36
-dimineața 35
 vremea 35
 cumpăr 35
 birou 35
@@ -624,6 +623,7 @@ răspuns 35
 prieten 35
 fugit 35
 patru 34
+dimineața 34
 Numele 34
 limbă 34
 mi 34
@@ -632,6 +632,7 @@ câinele 34
 fereastră 34
 aia 34
 engleza 34
+Nu-i 34
 Totul 34
 doctor 34
 Ați 34
@@ -650,7 +651,6 @@ felul 33
 lucrurile 33
 cunoaște 33
 Crezi 33
-Nu-i 33
 întârziat 33
 complet 33
 bucur 33
@@ -660,7 +660,6 @@ noapte 32
 rece 32
 prietenii 32
 fața 32
-numai 32
 întâmpla 32
 dolari 32
 gata 32
@@ -677,6 +676,7 @@ s-ar 32
 săturat 32
 ultima 31
 gând 31
+numai 31
 treizeci 31
 pui 31
 cald 31
@@ -741,6 +741,7 @@ iarna 29
 Continuă 29
 ușă 29
 mi-am 28
+dimineață 28
 Dan 28
 nu-l 28
 fratele 28
@@ -748,7 +749,6 @@ bolnav 28
 dejun 28
 tuturor 28
 Fata 28
-ciudat 28
 teamă 28
 accident 28
 luăm 28
@@ -767,7 +767,6 @@ sus 28
 zâmbit 28
 lucrează 27
 stai 27
-dimineață 27
 Copiii 27
 Paris 27
 drum 27
@@ -776,6 +775,7 @@ bărbat 27
 cap 27
 acestea 27
 dor 27
+ciudat 27
 ajutat 27
 extrem 27
 plajă 27
@@ -2409,7 +2409,6 @@ temperatura 8
 rațional 8
 frate 8
 siguri 8
-M-au 8
 îmbrățișat 8
 comandat 8
 națiuni 8
@@ -2708,6 +2707,7 @@ XXX 7
 oprească 7
 muncitor 7
 umplut 7
+M-au 7
 norocoși 7
 că-mi 7
 Vezi 7
@@ -2939,6 +2939,7 @@ sală 6
 comporți 6
 urgent 6
 vostru 6
+ciudată 6
 atâția 6
 rele 6
 mită 6
@@ -3384,7 +3385,6 @@ gunoi 5
 dinte 5
 numaidecât 5
 polițiști 5
-ciudată 5
 întârzii 5
 luați 5
 dietă 5
@@ -3725,12 +3725,12 @@ absurd 5
 talentat 5
 Atmosfera 5
 împins 5
+Mi-au 5
 imaginația 5
 cooperarea 5
 șerpi 5
 fan 5
 ușile 5
-adulți 5
 instalator 5
 specii 5
 cablurile 5
@@ -3858,7 +3858,6 @@ ferestre 4
 câştigă 4
 podul 4
 dos 4
-atribuit 4
 motocicletă 4
 dezvălui 4
 tinere 4
@@ -4572,13 +4571,13 @@ ingineri 4
 Evită 4
 irațional 4
 Fă-te 4
-Mi-au 4
 intrând 4
 prada 4
 rufele 4
 Cheile 4
 planetei 4
 braziliană 4
+adulți 4
 dușman 4
 conving 4
 informat 4
@@ -4780,6 +4779,7 @@ gândeşti 3
 vorbiţi 3
 jacheta 3
 opiniile 3
+atribuit 3
 încuiată 3
 Judecătorul 3
 şansă 3
@@ -5090,6 +5090,7 @@ gri 3
 rare 3
 aventură 3
 invitată 3
+plăcute 3
 Şcoala 3
 criminalul 3
 celuilalt 3
@@ -5218,6 +5219,7 @@ existenței 3
 Gusturile 3
 discută 3
 păstra 3
+prostie 3
 convenit 3
 terminăm 3
 Bătrâna 3
@@ -5286,6 +5288,7 @@ cantități 3
 Învăț 3
 urme 3
 scapă 3
+doctori 3
 pușca 3
 mingea 3
 Arătați-mi 3
@@ -6852,7 +6855,6 @@ vederi 2
 SIDA 2
 riscantă 2
 bisericii 2
-plăcute 2
 scuzaţi 2
 dragule 2
 splendidă 2
@@ -7058,7 +7060,6 @@ caracter 2
 Lunile 2
 Serios 2
 Pa 2
-prostie 2
 folositor 2
 ameţit 2
 Penitenţa 2
@@ -7567,7 +7568,6 @@ cântaseră 2
 trupă 2
 principiilor 2
 partidul 2
-doctori 2
 utilizator 2
 portocalie 2
 Femeile 2
@@ -8684,7 +8684,6 @@ buzunare 2
 repari 2
 reparat-o 2
 fantastic 2
-fericita 2
 închipuit 2
 Aruncă 2
 incapabil 2
@@ -8779,7 +8778,6 @@ culturilor 2
 ferestrele 2
 „La 2
 ani” 2
-i-e 2
 roadă 2
 Johnson 2
 suedeză 2
@@ -9998,3 +9996,5 @@ argentinian 1
 lecţii 1
 Că 1
 fiecăruia 1
+personalul 1
+greşeşti 1
