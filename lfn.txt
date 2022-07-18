@@ -1,28 +1,28 @@
-es 5779
-la 5385
+es 5790
+la 5386
 ia 4503
-de 3620
-un 3162
+de 3622
+un 3164
 ла 2802
 ес 2728
-Me 2395
+Me 2397
 иа 2153
-no 1883
+no 1885
 де 1874
-La 1692
+La 1694
 a 1674
 en 1605
-Tom 1540
+Tom 1545
 ун 1365
 Ме 1182
 e 1180
 tu 1178
 me 1121
-ave 1059
+ave 1060
 а 953
 Ла 932
 но 910
-ce 895
+ce 896
 ен 882
 El 860
 Esce 772
@@ -32,16 +32,16 @@ va 698
 sua 658
 ту 655
 el 640
-multe 638
+multe 639
 per 635
+pote 609
 cual 609
-pote 608
 е 596
 esta 589
 аве 564
-mea 546
-lo 540
-Esta 525
+mea 547
+lo 541
+Esta 527
 Nos 504
 con 484
 Том 469
@@ -53,7 +53,7 @@ casa 402
 Еске 399
 fa 379
 cosa 374
-nos 370
+nos 371
 еста 368
 ел 364
 Ел 364
@@ -62,8 +62,8 @@ nos 370
 sabe 349
 tua 346
 меа 345
+Lo 343
 gusta 342
-Lo 342
 par 337
 bon 323
 sur 320
@@ -82,7 +82,7 @@ como 281
 alga 267
 dise 262
 кон 261
-ta 259
+ta 260
 grande 255
 cuando 252
 vade 247
@@ -109,9 +109,9 @@ padre 198
 фа 196
 бон 194
 acel 185
+ma 181
 Ту 181
 bela 180
-ma 180
 густа 178
 No 175
 lingua 174
@@ -163,14 +163,14 @@ veni 127
 can 126
 tan 126
 aora 125
+sin 125
+person 125
 pos 125
 mori 125
 та 125
 madre 124
-sin 124
 Acel 124
 bevi 124
-person 124
 виде 124
 deveni 123
 se 123
@@ -239,6 +239,7 @@ matina 88
 cosas 88
 фиа 88
 auto 87
+tro 87
 crede 87
 Мариа 87
 Cuando 86
@@ -248,7 +249,6 @@ favore 85
 Ci 85
 cade 85
 pasea 84
-tro 84
 пенса 83
 site 81
 prima 81
@@ -353,6 +353,7 @@ deside 56
 Та 56
 прима 56
 Куандо 56
+Cuanto 55
 tuа 55
 nase 55
 prosima 55
@@ -361,7 +362,6 @@ fasil 55
 франсес 55
 месма 55
 Toki 55
-Cuanto 54
 dole 54
 oia 54
 sposa 54
@@ -464,9 +464,12 @@ an 42
 акуа 42
 уса 42
 се 42
+gatos 42
+simple 41
 responde 41
 Cada 41
 rompe 41
+tradui 41
 seja 41
 capas 41
 sinifia 41
@@ -477,20 +480,18 @@ juor 41
 беви 41
 абита 41
 ала 41
-gatos 41
 ensenior 41
 dias 40
 vosa 40
 plora 40
-tradui 40
 parola 40
 crese 40
 modo 40
 креде 40
 гато 40
-simple 39
 esiste 39
 deutx 39
+desira 39
 E 39
 pan 39
 umana 39
@@ -506,7 +507,6 @@ Xina 39
 моне 39
 оиос 39
 capeles 38
-desira 38
 frate 38
 papilios 38
 vino 38
@@ -526,6 +526,7 @@ catura 37
 acorda 37
 канта 37
 fria 36
+custa 36
 fio 36
 solve 36
 pronto 36
@@ -541,7 +542,6 @@ continua 36
 iudi 36
 Токи 36
 calda 35
-custa 35
 via 35
 besa 35
 fatigada 35
@@ -721,6 +721,7 @@ tipal 26
 фенетра 26
 отел 26
 jala 25
+coreta 25
 mil 25
 profonda 25
 animales 25
@@ -748,7 +749,6 @@ construi 25
 Алга 25
 aseta 24
 omes 24
-coreta 24
 Japan 24
 pesos 24
 sera 24
@@ -907,6 +907,7 @@ York 20
 cuadros 20
 Grasias 19
 envia 19
+luna 19
 preparada 19
 eda 19
 ataca 19
@@ -943,7 +944,6 @@ barba 19
 orania 18
 Nion 18
 nomi 18
-luna 18
 batalia 18
 ocupada 18
 informa 18
@@ -1240,6 +1240,7 @@ oserva 13
 produi 13
 sinistra 13
 Deutxland 13
+John 13
 studiantes 13
 insetos 13
 pede 13
@@ -1346,7 +1347,6 @@ dio 12
 destra 12
 afin 12
 declara 12
-John 12
 minutos 12
 nubes 12
 ata 12
@@ -1458,6 +1458,7 @@ Cuasi 11
 polisior 11
 manera 11
 stranjer 11
+mente 11
 SUA 11
 spesie 11
 selula 11
@@ -1582,7 +1583,6 @@ anelo 10
 direta 10
 pexes 10
 coler 10
-mente 10
 pensas 10
 vendor 10
 fuma 10
@@ -3227,6 +3227,7 @@ olimpian 4
 nador 4
 negativa 4
 sofa 4
+cava 4
 crase 4
 Labora 4
 prinsesa 4
@@ -3915,7 +3916,6 @@ Beijing 3
 continual 3
 cornos 3
 spesa 3
-cava 3
 drogi 3
 inisia 3
 netar 3
@@ -3965,6 +3965,7 @@ dialeto 3
 dito 3
 putong 3
 noncapas 3
+ap 3
 emete 3
 empleadas 3
 solisita 3
@@ -4093,6 +4094,7 @@ pica 3
 nontraduable 3
 comes 3
 dinia 3
+poxes 3
 plia 3
 jornales 3
 mures 3
@@ -4592,6 +4594,7 @@ Oro 3
 jardines 3
 duneto 3
 дунето 3
+leteral 3
 testos 3
 тестос 3
 eterosesal 3
@@ -5144,7 +5147,6 @@ parlor 2
 Dülmen 2
 Dortmund 2
 Christoph 2
-ap 2
 visa 2
 documentos 2
 esperante 2
@@ -5216,6 +5218,7 @@ diverje 2
 suprafluente 2
 Miles 2
 comparada 2
+sobrino 2
 puntua 2
 delicata 2
 Alexandro 2
@@ -5375,7 +5378,6 @@ infantes 2
 desenio 2
 nonalienable 2
 anorac 2
-poxes 2
 neblosa 2
 limon 2
 ramos 2
@@ -6330,7 +6332,6 @@ eposta 2
 Ед 2
 metro 2
 каро 2
-leteral 2
 cuna 2
 куна 2
 poesias 2
@@ -6870,6 +6871,7 @@ ojetos 2
 nanomoleculal 2
 Relijio 2
 nonsabe 2
+nonvinsable 2
 biliones 2
 nonpermeable 2
 rascasielo 2
@@ -6891,6 +6893,7 @@ gravita 2
 primeval 2
 Scopi 2
 beneficas 2
+naive 2
 nerval 2
 3333 2
 California 2
@@ -7799,7 +7802,6 @@ desloca 1
 Golfo 1
 Mexican 1
 viaje 1
-sobrino 1
 siniales 1
 caxones 1
 Virgula 1
@@ -9996,5 +9998,3 @@ otodes-tre 1
 велас 1
 Баркаса 1
 фонда 1
-каналес 1
-Бар 1

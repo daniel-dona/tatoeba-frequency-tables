@@ -2,12 +2,12 @@ không 4437
 tôi 4101
 Tôi 3820
 có 3428
-là 3366
+là 3367
 đã 3088
 ấy 2843
 một 2519
 Tom 2373
-của 2109
+của 2110
 bạn 1793
 ta 1624
 đó 1502
@@ -26,7 +26,7 @@ cho 1203
 ở 1201
 phải 1061
 với 1043
-gì 1036
+gì 1037
 đến 1021
 đang 1020
 biết 900
@@ -762,6 +762,7 @@ cân 37
 mái 37
 hứng 37
 kỷ 36
+vũ 36
 phí 36
 Công 36
 chung 36
@@ -779,7 +780,6 @@ lựa 35
 phủ 35
 lửa 35
 Sự 35
-vũ 35
 biệt 35
 Tây 35
 cáo 35
@@ -1136,6 +1136,7 @@ tùy 19
 hạ 19
 dàng 19
 xung 19
+trụ 19
 London 19
 Chúa 19
 tù 19
@@ -1169,7 +1170,6 @@ kêu 18
 tồn 18
 ngã 18
 tốn 18
-trụ 18
 khát 18
 Tuần 18
 nông 18
@@ -1482,6 +1482,7 @@ ngài 12
 Dân 12
 cướp 12
 che 12
+gốc 12
 Đôi 12
 móc 12
 hảo 12
@@ -1543,7 +1544,6 @@ tàng 11
 Đúng 11
 đền 11
 nổ 11
-gốc 11
 xếp 11
 bẩn 11
 Tay 11
@@ -3521,6 +3521,7 @@ bến 2
 karaoke 2
 Milton 2
 hách 2
+Nguồn 2
 ố 2
 Da 2
 gi 2
@@ -4855,7 +4856,6 @@ nài 1
 Quạ 1
 nghếch 1
 cảng 1
-Nguồn 1
 X 1
 Ung 1
 Voyager 1

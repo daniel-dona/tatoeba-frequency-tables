@@ -1,15 +1,15 @@
 esas 2454
-la 1945
+la 1946
 Me 1922
 ne 1085
 La 872
 me 761
 tu 728
-Tom 688
+Tom 689
 Ka 578
 en 521
-havas 497
-es 391
+havas 498
+es 394
 Il 369
 di 358
 vu 350
@@ -17,7 +17,7 @@ mea 344
 ke 330
 Ni 327
 a 322
-e 308
+e 309
 esis 290
 povas 277
 volas 274
@@ -60,14 +60,14 @@ multa 99
 granda 97
 bezonas 96
 Quon 96
+lo 95
 Mary 95
 Ta 94
 amas 94
-lo 94
 vua 94
 maxim 94
+tro 93
 pro 92
-tro 91
 du 91
 hike 89
 lernas 88
@@ -79,8 +79,8 @@ Pro 85
 pensas 84
 ilu 83
 quon 83
+ma 83
 ica 82
-ma 82
 per 81
 nun 79
 quale 79
@@ -115,8 +115,8 @@ ad 60
 esar 60
 aquo 60
 pekunio 59
+Ca 59
 dil 58
-Ca 58
 Voluntez 57
 manjas 57
 su 56
@@ -128,11 +128,11 @@ parolar 54
 lu 54
 da 54
 omno 52
+Maria 52
 al 51
 tempo 51
 odias 51
 elu 51
-Maria 51
 darfas 50
 nur 50
 nultempe 50
@@ -357,6 +357,7 @@ importas 19
 kozi 19
 parolis 19
 divenis 19
+sama 19
 flori 19
 Angla 19
 muziko 19
@@ -374,7 +375,6 @@ kelka 18
 natar 18
 audis 18
 nulu 18
-sama 18
 quar 18
 No 18
 kontre 18
@@ -437,6 +437,7 @@ Semblas 14
 pronta 14
 komencis 14
 frue 14
+Lo 14
 Chiniana 14
 teniso 14
 po 14
@@ -468,7 +469,6 @@ lernis 13
 fenestro 13
 Pos 13
 renkontris 13
-Lo 13
 amoras 13
 agas 13
 l'Angla 13
@@ -654,6 +654,7 @@ devus 9
 finis 9
 libereso 9
 - 9
+simpla 9
 chera 9
 probis 9
 mesajo 9
@@ -729,7 +730,6 @@ demandis 8
 apertar 8
 sat 8
 utila 8
-simpla 8
 divenar 8
 reguli 8
 vilajo 8
@@ -780,6 +780,7 @@ dolca 8
 volfo 8
 omnadie 8
 amikino 8
+korekta 8
 hungroza 8
 eventas 8
 boko 8
@@ -895,7 +896,6 @@ nivas 7
 rano 7
 planti 7
 chipa 7
-korekta 7
 frukti 7
 Sen 7
 dicernar 7
@@ -1453,6 +1453,7 @@ Tale 4
 prizis 4
 desaparis 4
 naraco 4
+tradukuro 4
 dineas 4
 atenco 4
 l'una 4
@@ -1876,7 +1877,6 @@ poemi 3
 dormanta 3
 parolesas 3
 Mexikia 3
-tradukuro 3
 koruptas 3
 linguon 3
 mama 3
@@ -7589,3 +7589,5 @@ navigas 1
 kanoo 1
 politikala 1
 identeso 1
+literal 1
+sangogrupo 1

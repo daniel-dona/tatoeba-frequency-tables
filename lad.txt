@@ -2,8 +2,8 @@ es 223
 un 124
 Tom 97
 El 91
-en 78
-el 76
+en 79
+el 77
 de 72
 איס 72
 no 71
@@ -13,14 +13,14 @@ No 50
 esta 50
 a 46
 איל 42
-La 40
+La 41
 Esto 33
 און 32
 ke 30
+son 30
 pan 30
 i 29
 kon 29
-son 29
 Me 29
 Los 29
 לה 29
@@ -132,6 +132,7 @@ kero 6
 fransez 6
 estamos 6
 mavi 6
+gatos 6
 ti 6
 merkando 6
 Vozotros 6
@@ -161,7 +162,6 @@ o 5
 Son 5
 mavis 5
 bisikleta 5
-gatos 5
 komprando 5
 kere 5
 Mueva 5
@@ -496,6 +496,7 @@ muerto 2
 virus 2
 erguele 2
 vedra 2
+Internet 2
 koza 2
 Djudaismo 2
 ekselente 2
@@ -570,6 +571,7 @@ santa 2
 מוסולמאנוס 2
 סיבﬞדאד 2
 סאנטה 2
+Kuantos 2
 דיל 2
 Akeya 2
 לאדﬞרון 2
@@ -615,6 +617,7 @@ Mashala 2
 סימילאריס 2
 קוראן 2
 serbio 2
+djente 2
 Amhariko 2
 מורו 2
 mozotras 2
@@ -959,7 +962,6 @@ kuerpo 1
 pronto 1
 dezir 1
 nadara 1
-Internet 1
 serioza 1
 relijion 1
 Budizmo 1
@@ -1183,7 +1185,6 @@ visitar 1
 מילייוניס 1
 פוידין 1
 בﬞיסיטאר 1
-Kuantos 1
 קואנטוס 1
 מוראן 1
 Aborresko 1
@@ -1440,7 +1441,6 @@ mintir 1
 פﬞוי 1
 איקסילינטי 1
 ambezarse 1
-djente 1
 bova 1
 אמהאריקו 1
 קולאי 1
@@ -1658,3 +1658,5 @@ dia 1
 Refua 1
 shelema 1
 atakanar 1
+miente 1
+demaziados 1

@@ -1,25 +1,25 @@
-do 973
-oku 589
-i 384
-Tom 347
+do 977
+oku 591
+i 385
+Tom 348
 ku 319
 no 298
-di 288
-nga 241
+di 289
+nga 242
 nopo 238
 id 229
 nu 202
 Au 185
+ko 177
 ko' 176
-ko 175
 dau 140
-om 129
-dilo 127
+om 132
+dilo 128
 po 125
 Milo' 113
+daa 108
 doho 108
 o 108
-daa 107
 tokou 106
 ilo 98
 mantad 97
@@ -27,8 +27,8 @@ boros 94
 tu 90
 Nunu 87
 kopio 82
+tulun 81
 dot 81
-tulun 80
 hilo'd 80
 Haro 72
 au 65
@@ -38,8 +38,8 @@ Mary 62
 baino 60
 diti 57
 diya 56
+kumaa 54
 nunu 53
-kumaa 53
 nodi 52
 isido 51
 lo 50
@@ -50,9 +50,9 @@ ti 47
 hiti 47
 dika 45
 hodi 45
+walai 45
 montok 44
 Manu 44
-walai 44
 yahai 44
 Nokuro 41
 Poransis 41
@@ -77,14 +77,15 @@ toi 31
 iyolo 31
 dahai 30
 miampai 29
+osonong 29
 kaka 28
 tomod 28
+miagal 28
 ginawo 28
-osonong 28
 okon 27
 mongoi 27
-miagal 27
 mangakan 27
+nogi 27
 pogun 27
 milo 27
 korita 26
@@ -93,7 +94,6 @@ iti 26
 suang 26
 haro 26
 sikul 25
-nogi 25
 tanak 25
 mimboros 24
 duo 24
@@ -105,10 +105,10 @@ hilo 23
 songulun 23
 I 23
 Osonong 22
+kangku 22
 Mongoi 22
 buuk 21
 Yoku 21
-kangku 21
 sondiri 21
 kawagu 20
 tondu 20
@@ -129,6 +129,7 @@ Mada 17
 jaam 17
 ngaran 17
 Honggo 17
+Soira 17
 nung 17
 gisom 17
 moti 17
@@ -137,7 +138,6 @@ tusin 16
 Ika 16
 mangan 16
 tinu 16
-Soira 16
 toinsanan 16
 Onuai 16
 milo' 16
@@ -177,6 +177,7 @@ waig 13
 kosodop 13
 Poingkuro 13
 mintong 13
+ii 13
 Sina 13
 gambar 12
 rasuk 12
@@ -203,7 +204,6 @@ tinan 11
 Alansan 11
 minggu 11
 oilaan 11
-ii 11
 Milo 11
 tulan 11
 tontok 11
@@ -238,6 +238,7 @@ Iya 9
 Jorman 9
 Nu 9
 Okuro-kuro 9
+tokoro 9
 Kopisanangan 9
 apat 9
 komoyon 9
@@ -250,6 +251,7 @@ kosorou 9
 kopiro 9
 dikoyu 9
 Apagon 9
+doid 9
 John 9
 Amorika 9
 kasasari 9
@@ -267,7 +269,6 @@ habar 8
 tokuri 8
 bogia 8
 Otood 8
-tokoro 8
 tagayo 8
 Piro 8
 iya 8
@@ -279,7 +280,6 @@ maso 8
 Ohoi 8
 Agayo 8
 iso 8
-doid 8
 Oi 8
 tusak 8
 Kinorohingan 8
@@ -325,6 +325,7 @@ dangadau 7
 Owito 7
 Monuduk 7
 ayat 7
+sompomogunan 7
 nohopod 7
 surat 7
 tuni 7
@@ -379,7 +380,6 @@ wayang 6
 koritapui 6
 moboros 6
 manahak 6
-sompomogunan 6
 nokoilo 6
 lamin 6
 kokito 6
@@ -514,6 +514,7 @@ Wagu 4
 Witilon 4
 Louson 4
 mija' 4
+Jipun 4
 Oh 4
 alaid 4
 mongingia' 4
@@ -567,6 +568,8 @@ dupot 4
 oruhai 4
 rombituon 4
 kitanak 4
+Sunudai 4
+nu" 4
 mongingia 4
 tanda 4
 tiyonon 4
@@ -647,7 +650,6 @@ Pounsikou 3
 kosuabon 3
 Kotobian 3
 tolu' 3
-Jipun 3
 Lumangad 3
 Siongoi 3
 Mugad 3
@@ -729,11 +731,9 @@ Tokou 3
 Ba 3
 Odoromot 3
 Momoli 3
-Sunudai 3
 pongusapan 3
 kotolinahasan 3
 natagakan 3
-nu" 3
 insan 3
 sumiliu 3
 minigit 3
@@ -791,6 +791,7 @@ tupis 3
 poingkaa 3
 manansawo 3
 todu 3
+tupi 3
 Tumilombus 3
 pisingilaan 3
 kompiuto 3
@@ -862,6 +863,7 @@ tam 2
 mongoruhang 2
 Nokoruba 2
 nasalaan 2
+Iso 2
 Ngaran 2
 Tatoeba 2
 patai 2
@@ -883,6 +885,7 @@ Napalid 2
 Paris 2
 wowoyoon 2
 kopunong 2
+minuhot 2
 Ula' 2
 kosimbayanan 2
 apol 2
@@ -1221,6 +1224,7 @@ kagangau 2
 akanon 2
 owitan 2
 Siruba 2
+sanganu 2
 minooi 2
 pialatan 2
 siakan 2
@@ -1278,6 +1282,7 @@ hontolon 2
 ko’ 2
 Baibol 2
 roitan 2
+mamakai 2
 suwai 2
 batos 2
 Obungou 2
@@ -1298,6 +1303,7 @@ koopud 2
 oku'ndo 2
 saat 2
 minomutul 2
+kihulu 2
 Minanganu 2
 taka 2
 ginumu 2
@@ -1334,6 +1340,7 @@ Nabalu 2
 oyopos 2
 aakan 2
 sangod 2
+bagas 2
 toko' 2
 tompinai 2
 nongoi 2
@@ -1367,7 +1374,6 @@ Gulion 1
 "Miagal 1
 nopo" 1
 Toun 1
-Iso 1
 turu' 1
 walu' 1
 siam 1
@@ -1404,7 +1410,6 @@ kamar 1
 singa 1
 binoli 1
 Noodop 1
-minuhot 1
 Yuro 1
 Kam 1
 ia 1
@@ -2081,7 +2086,6 @@ Asaga 1
 pataaman 1
 Lohowo 1
 Mamakai 1
-tupi 1
 sokodungon 1
 intang-intangan 1
 Hopod 1
@@ -2455,7 +2459,6 @@ isido" 1
 koidu 1
 kopiagalan 1
 kotorodoko 1
-sanganu 1
 Kikasarahan 1
 tumindak 1
 sunduan 1
@@ -2781,7 +2784,6 @@ momit 1
 Kristus 1
 oondos 1
 Monikid 1
-mamakai 1
 bagi’d 1
 minsingilo’d 1
 Pomorintaan 1
@@ -2912,7 +2914,6 @@ Tinomod 1
 oniba 1
 Do 1
 Pasal 1
-kihulu 1
 Kagayat 1
 kihulu-hulu 1
 Vi 1
@@ -3417,7 +3418,6 @@ Notodok 1
 tikagang 1
 rugi 1
 Onu 1
-bagas 1
 naanu 1
 pandemik 1
 Covid19 1
@@ -3570,3 +3570,28 @@ taap 1
 Bobos 1
 koligogon 1
 Jackson 1
+Minomisunud 1
+"osonong 1
+fedora 1
+kiwotik 1
+tobuhog 1
+sabab 1
+aranggou 1
+pipakai 1
+kubong 1
+poinsusui 1
+tanga 1
+gana 1
+"nunu 1
+lo" 1
+"ngoyo 1
+ihumo 1
+sondiri" 1
+Sundung 1
+monimbaba 1
+kadaaton 1
+podimbangan 1
+alansau 1
+ogirot 1
+pinopotungkus 1
+taralom 1

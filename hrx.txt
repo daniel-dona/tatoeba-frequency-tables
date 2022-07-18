@@ -1,19 +1,19 @@
 is 243
-Ich 189
+Ich 190
 en 142
-Tom 101
+Tom 103
 hod 90
-net 78
+net 79
 Das 75
 die 72
 hon 62
-de 60
+de 62
 das 60
 sin 56
 Gott 51
 Die 46
 De 44
-wees 43
+wees 44
 Sie 42
 Er 39
 Meer 39
@@ -93,6 +93,7 @@ Karre 8
 im 8
 eich 8
 Bist-du 8
+kommd 8
 En 8
 dass 8
 Geschenke 8
@@ -108,7 +109,6 @@ dun 7
 Naame 7
 Disch 7
 Aach 7
-kommd 7
 gehd 7
 em 7
 mit 7
@@ -161,6 +161,7 @@ host-du 5
 sie 5
 krieerd 5
 gebb 5
+Hod 5
 for 5
 meim 5
 wer 5
@@ -215,7 +216,6 @@ sei 4
 lieve 4
 uns 4
 glaabd 4
-Hod 4
 wieder 4
 Hand 4
 scheen 4
@@ -235,6 +235,7 @@ adoteerd 4
 Planet 4
 Wasser 4
 dääd 4
+Franzeesisch 4
 Flitte 4
 fliehe 4
 bereie 4
@@ -297,6 +298,7 @@ wach 3
 Hon-ich 3
 bist-du 3
 Diere 3
+sprechd 3
 hod-s 3
 gerehnd 3
 Net 3
@@ -342,7 +344,6 @@ nevich 3
 Guck 3
 forgester 3
 ferloer 3
-Franzeesisch 3
 drehd 3
 blau 3
 Beem 3
@@ -370,6 +371,7 @@ Zeich 2
 lebd 2
 Bett 2
 Oktover 2
+Englisch 2
 Freitach 2
 Samstach 2
 Woch 2
@@ -566,6 +568,8 @@ Blume 2
 Hod-der 2
 Iwermoie 2
 oft 2
+ob-se 2
+Weest-du 2
 nunnergeschmiss 1
 zieh-ich 1
 schlofd 1
@@ -616,7 +620,6 @@ Gundach 1
 Gunacht 1
 Gunovend 1
 Gummeuend 1
-Englisch 1
 Dienstach 1
 sprechd-der 1
 sprechst-du 1
@@ -827,7 +830,6 @@ Juchendzeid 1
 bezaald 1
 zeh 1
 koch-ich 1
-sprechd 1
 Beovachtung 1
 Aller 1
 Ferkeerder 1
@@ -1333,3 +1335,5 @@ Fliehst-du 1
 Fliehd-der 1
 Ëlefante 1
 riesiche 1
+gehollef 1
+ob 1
