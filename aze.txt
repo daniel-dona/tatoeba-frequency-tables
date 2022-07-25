@@ -1,5 +1,5 @@
 Mən 636
-O 443
+O 444
 Tom 395
 Bu 335
 var 247
@@ -17,7 +17,7 @@ heç 103
 mənim 93
 Onlar 91
 üçün 80
-yaxşı 77
+yaxşı 78
 Onun 70
 mənə 69
 Siz 68
@@ -275,6 +275,7 @@ Hələ 9
 ay 9
 həqiqəti 9
 verdiyini 9
+birlikdə 9
 dəqiqə 9
 tanıyırsan 9
 gəlib 9
@@ -328,7 +329,6 @@ qız 8
 olsun 8
 gələcək 8
 burda 8
-birlikdə 8
 hamı 8
 Evə 8
 aldım 8
@@ -482,6 +482,7 @@ müqəddəs 6
 oğlu 6
 vacibdir 6
 edirsən 6
+axşam 6
 cəhd 6
 Dərhal 6
 dərhal 6
@@ -607,7 +608,6 @@ edirsiniz 5
 harda 5
  5
 Əsla 5
-axşam 5
 Bunun 5
 Tezliklə 5
 gedə 5
@@ -1811,7 +1811,6 @@ görünürsən 2
 buludlara 2
 Əminəm 2
 açmaq 2
-birgə 2
 Bizə 2
 qoşul 2
 Avropaya 2
@@ -2333,6 +2332,7 @@ davranan 2
 dedi: 2
 başıma 2
 Leyla 2
+keçirdilər 2
 etdiyi 2
 güvənə 2
 minnətdar 2
@@ -4075,6 +4075,7 @@ Otağındakı 1
 mayın 1
 20-i 1
 uşaqlarımla 1
+birgə 1
 Tennessidə 1
 qaldılar 1
 kərpicdən 1
@@ -6907,9 +6908,6 @@ tarakanlardan 1
 qurtulmağın 1
 yolu 1
 İzlənildiyini 1
-axşamdan 1
-həzz 1
-aldılar 1
 sevincək 1
 "Sabahınız 1
 xeyir" 1
@@ -7368,7 +7366,6 @@ Cədvəli 1
 hazırlamıram 1
 Ağcaqanadlar 1
 məzuniyyətdə 1
-keçirdilər 1
 Gərək 1
 saxlayasan 1
 baxdın 1
@@ -7423,3 +7420,4 @@ divanın 1
 İstədiyimiz 1
 çatdıq 1
 Duşana 1
+danışqandır 1

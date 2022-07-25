@@ -1,14 +1,14 @@
 är 10085
-Jag 9836
-att 6040
+Jag 9838
+att 6042
 inte 5996
-Tom 5840
+Tom 5841
 en 4467
-du 4461
-på 4345
+du 4462
+på 4344
 det 4188
 i 3981
-har 3670
+har 3671
 Det 3451
 Han 3079
 jag 2877
@@ -23,14 +23,14 @@ om 2003
 Hon 1898
 ett 1694
 dig 1668
-som 1666
-den 1663
-Vi 1660
+som 1667
+den 1664
+Vi 1661
 kan 1528
 av 1406
 Du 1400
 han 1109
-kommer 1086
+kommer 1087
 så 1053
 sig 1050
 Vad 1034
@@ -53,7 +53,7 @@ Har 679
 ut 665
 vara 661
 Var 649
-ha 648
+ha 649
 Den 644
 hade 637
 vad 635
@@ -67,7 +67,7 @@ bara 534
 hon 518
 oss 518
 behöver 513
-vet 506
+vet 507
 nu 502
 går 499
 bra 493
@@ -86,7 +86,7 @@ gillar 387
 finns 383
 blev 379
 lite 372
-mitt 368
+mitt 369
 alla 368
 dag 367
 något 367
@@ -149,15 +149,15 @@ bor 238
 Sami 238
 tillbaka 229
 vid 227
+vilja 227
 se 226
-vilja 226
 franska 226
 ligger 225
 någonting 224
 Om 222
 sina 219
-äta 218
-pengar 217
+äta 219
+pengar 218
 säga 216
 hem 213
 äter 211
@@ -166,10 +166,10 @@ några 204
 säger 195
 blir 193
 morgon 189
+talar 189
 själv 189
 redan 189
 hela 188
-talar 188
 Vilken 187
 varit 184
 hus 183
@@ -181,7 +181,7 @@ inget 178
 Detta 177
 detta 175
 skolan 175
-fel 173
+fel 174
 trodde 172
 Ingen 172
 Hans 170
@@ -191,7 +191,7 @@ hennes 168
 gav 167
 stor 167
 gång 166
-Skulle 165
+Skulle 166
 hemma 163
 utan 163
 också 162
@@ -306,9 +306,9 @@ klockan 101
 rum 101
 Tycker 101
 hår 100
+ens 100
 saker 100
 dagen 99
-ens 99
 stanna 99
 Mitt 98
 läsa 98
@@ -447,12 +447,12 @@ världen 68
 bästa 68
 förstå 68
 familj 68
+helst 68
 god 68
 sätt 68
 Denna 67
 Vilket 67
 föll 67
-helst 67
 saknar 67
 träffade 67
 runt 66
@@ -483,10 +483,10 @@ råd 62
 låg 62
 undrar 62
 deras 61
-lunch 61
 medan 61
 idé 61
 tillräckligt 61
+lunch 60
 sover 60
 kort 60
 simma 59
@@ -749,6 +749,7 @@ svart 38
 månaden 38
 händerna 38
 saken 38
+vilket 38
 bär 38
 möjligt 38
 brukade 38
@@ -772,7 +773,6 @@ förklara 37
 Paris 37
 ordet 37
 stark 37
-vilket 37
 sjunger 37
 äldre 37
 skrattade 37
@@ -799,6 +799,7 @@ reda 35
 litet 35
 stolt 35
 hör 35
+eget 35
 kopp 35
 landet 35
 fisk 35
@@ -817,7 +818,6 @@ stranden 34
 fängelse 34
 största 34
 dum 34
-eget 34
 nöjd 34
 stad 34
 ungefär 34
@@ -854,7 +854,6 @@ långa 33
 val 33
 träd 33
 byta 33
-även 33
 Hämta 33
 ljuger 33
 Barnen 33
@@ -875,6 +874,7 @@ bredvid 32
 leka 32
 ändå 32
 vänlig 32
+även 32
 Stäng 32
 Liisa 32
 väntade 31
@@ -1265,6 +1265,7 @@ lag 20
 hellre 20
 sjöng 20
 hål 20
+lyckas 20
 fred 20
 lägger 20
 skjuta 20
@@ -1376,7 +1377,6 @@ York 18
 säkra 18
 stör 18
 erkände 18
-lyckas 18
 kamera 18
 gjord 18
 Trots 18
@@ -2511,6 +2511,7 @@ diska 8
 Lycka 8
 sångare 8
 blommar 8
+å 8
 spännande 8
 parkera 8
 gata 8
@@ -2879,7 +2880,6 @@ velat 7
 sons 7
 vardag 7
 ovanligt 7
-å 7
 eftermiddagen 7
 vittnen 7
 sköts 7
@@ -6658,6 +6658,7 @@ skrattande 2
 tyskan 2
 slipade 2
 Föraren 2
+vägnar 2
 funnit 2
 gångväg 2
 Rosorna 2
@@ -9887,6 +9888,8 @@ Tyskan 1
 Nederländskan 1
 Skolbarn 1
 förkylda 1
+australienska 1
+ungdomens 1
 Segla 1
 dekorerade 1
 lärd 1
@@ -9995,6 +9998,3 @@ mössan 1
 Stillhet 1
 Coles 1
 axiom: 1
-intelligensen 1
-konstant; 1
-skotsk 1
