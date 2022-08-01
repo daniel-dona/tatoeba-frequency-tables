@@ -1,16 +1,16 @@
-on 957
+on 959
 Ma 606
-ei 452
+ei 453
 Tom 354
 sa 253
 Kas 230
-et 202
+et 203
 Ta 196
 See 172
-ma 154
+ma 155
 oma 133
 see 123
-seda 118
+seda 119
 ole 105
 Mul 103
 ja 100
@@ -37,9 +37,9 @@ midagi 48
 sulle 48
 Nad 46
 sind 44
+Mu 43
 siin 42
 palju 42
-Mu 42
 sul 41
 Kus 41
 hea 41
@@ -52,9 +52,9 @@ mis 38
 Minu 38
 veel 38
 Mida 37
+saa 37
 kõik 36
 Palun 36
-saa 36
 me 35
 mida 35
 välja 34
@@ -69,13 +69,13 @@ Mulle 30
 Tomile 30
 Kes 29
 keegi 29
+teha 28
 eile 28
 kunagi 28
 Kuidas 27
-teha 27
+talle 27
 maja 27
 ütles 27
-talle 26
 sellest 26
 sõber 26
 tagasi 25
@@ -192,6 +192,7 @@ kohta 12
 olid 12
 valmis 12
 nagu 12
+tööd 12
 ukse 12
 viis 12
 meeldivad 12
@@ -211,10 +212,10 @@ kord 11
 kaasa 11
 inimene 11
 tuli 11
+nimi 11
 tegema 11
 tuleb 11
 õde 11
-tööd 11
 jaoks 11
 Mitte 11
 lapsed 11
@@ -233,7 +234,6 @@ pead 11
 Võta 11
 Thomas 11
 läheb 10
-nimi 10
 raamat 10
 kedagi 10
 mees 10
@@ -403,6 +403,7 @@ sõna 6
 varem 6
 väärt 6
 neli 6
+naise 6
 Maja 6
 kuidas 6
 edasi 6
@@ -479,7 +480,6 @@ kaheksa 5
 üheksa 5
 Kelle 5
 peame 5
-naise 5
 peaksid 5
 Talle 5
 John 5
@@ -550,6 +550,7 @@ mäe 5
 ise 5
 istus 5
 Ole 5
+Ütle 5
 üsna 5
 räägib 5
 tulla 5
@@ -695,7 +696,6 @@ linnas 4
 oska 4
 alt 4
 kindlasti 4
-Ütle 4
 jääma 4
 olime 4
 võtab 4
@@ -4886,3 +4886,6 @@ Minul 1
 Lisan 1
 soovide 1
 nimekirja 1
+Kate 1
+Maisie 1
+inglanna 1

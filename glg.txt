@@ -1,7 +1,7 @@
 a 873
 de 761
 que 743
-o 698
+o 697
 é 499
 non 410
 un 391
@@ -18,7 +18,7 @@ máis 175
 da 174
 para 171
 por 166
-ao 153
+ao 154
 os 151
 no 150
 meu 144
@@ -206,6 +206,7 @@ sabe 19
 cinco 19
 primeiro 19
 nunha 19
+nunca 19
 alto 19
 despois 19
 fillo 19
@@ -218,10 +219,10 @@ frío 18
 fala 18
 tren 18
 historia 18
-nunca 18
 menos 18
 podes 18
 ouvir 18
+vou 17
 dez 17
 vostede 17
 Xapón 17
@@ -233,11 +234,11 @@ Deus 17
 Gústame 17
 nin 17
 teléfono 17
+ó 17
 Canto 17
 persoas 17
 aniversario 16
 neno 16
-vou 16
 fixo 16
 muller 16
 persoa 16
@@ -250,7 +251,6 @@ ninguén 16
 outra 16
 ollos 16
 nova 16
-ó 16
 preto 16
 rapaz 16
 diñeiro 16
@@ -373,6 +373,7 @@ aprender 11
 libros 11
 veu 11
 podería 11
+Agora 11
 alguén 11
 algún 11
 exame 11
@@ -410,7 +411,6 @@ eles 10
 nenos 10
 razón 10
 outro 10
-Agora 10
 cunha 10
 saber 10
 somos 10
@@ -693,6 +693,7 @@ heroe 6
 Pódesme 6
 có 6
 ollo 6
+case 6
 dano 6
 Nova 6
 até 6
@@ -827,7 +828,6 @@ dálle 5
 Galicia 5
 tormenta 5
 béisbol 5
-case 5
 señor 5
 restaurante 5
 forza 5
@@ -1439,6 +1439,7 @@ Remataches 3
 Chámome 3
 escoitar 3
 ventá 3
+cine 3
 come 3
 cadra 3
 suposto 3
@@ -2192,7 +2193,6 @@ entrou 2
 quede 2
 rumor 2
 confianza 2
-cine 2
 Algúns 2
 5 2
 cantas 2

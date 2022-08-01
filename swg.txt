@@ -28,8 +28,8 @@ em 72
 hend 69
 sich 67
 dees 66
+de 63
 Wenn 63
-de 62
 sai 62
 wenn 61
 am 60
@@ -40,8 +40,8 @@ nô 54
 koi 51
 et 50
 hod 50
+scho 49
 mi 49
-scho 48
 au 47
 fir 46
 Dees 45
@@ -58,7 +58,7 @@ ma 41
 ä 40
 net 39
 Was 38
-Wär 37
+Wär 38
 aus 35
 viel 34
 abr 34
@@ -73,9 +73,9 @@ wie 31
 di 30
 A 30
 da 30
+älles 30
 om 30
 r 30
-älles 29
 Dag 29
 der 28
 ihr 28
@@ -124,6 +124,7 @@ wär 19
 wiå 19
 Wer 18
 guad 18
+macht 18
 d' 18
 machd 18
 må 18
@@ -132,7 +133,6 @@ nemme 17
 den 17
 daine 17
 ons 17
-macht 17
 Worom 17
 'S 17
 Leit 17
@@ -599,6 +599,7 @@ welled 4
 wem 4
 Aktie 4
 wissed 4
+glaubt 4
 Bruådr 4
 lasså 4
 dômôls 4
@@ -834,8 +835,8 @@ Jôhr 3
 siebå 3
 laufd 3
 romm 3
+Dommheid 3
 Erschd 3
-glaubt 3
 Kendr 3
 Monad 3
 S'gibt 3
@@ -1411,7 +1412,6 @@ Eltrå 2
 sogar 2
 hendr 2
 liegå 2
-Dommheid 2
 woichs 2
 Oi 2
 fehrt 2
@@ -5360,3 +5360,7 @@ drenga 1
 scheenore 1
 Zeida 1
 osra 1
+aeim 1
+Wissa 1
+wisr 1
+neyde 1

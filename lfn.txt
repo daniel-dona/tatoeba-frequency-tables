@@ -1,24 +1,24 @@
-es 5790
-la 5386
-ia 4503
+es 5793
+la 5387
+ia 4504
 de 3622
-un 3164
+un 3166
 ла 2802
 ес 2728
 Me 2397
 иа 2153
 no 1885
 де 1874
-La 1694
+La 1695
 a 1674
-en 1605
+en 1606
 Tom 1545
 ун 1365
 Ме 1182
 e 1180
 tu 1178
 me 1121
-ave 1060
+ave 1061
 а 953
 Ла 932
 но 910
@@ -31,8 +31,8 @@ va 698
 ме 662
 sua 658
 ту 655
+multe 640
 el 640
-multe 639
 per 635
 pote 609
 cual 609
@@ -53,7 +53,7 @@ casa 402
 Еске 399
 fa 379
 cosa 374
-nos 371
+nos 372
 еста 368
 ел 364
 Ел 364
@@ -69,7 +69,7 @@ bon 323
 sur 320
 come 319
 Mea 319
-On 316
+On 317
 суа 316
 пер 313
 куал 303
@@ -87,7 +87,7 @@ grande 255
 cuando 252
 vade 247
 los 244
-tota 237
+tota 238
 ama 234
 o 234
 воле 232
@@ -102,7 +102,7 @@ parla 216
 jua 209
 Еста 209
 vos 207
-mundo 206
+mundo 207
 туа 204
 Cual 201
 padre 198
@@ -113,7 +113,7 @@ ma 181
 Ту 181
 bela 180
 густа 178
-No 175
+No 176
 lingua 174
 pensa 172
 asi 167
@@ -168,11 +168,11 @@ person 125
 pos 125
 mori 125
 та 125
+deveni 124
 madre 124
 Acel 124
 bevi 124
 виде 124
-deveni 123
 se 123
 бела 123
 ancora 121
@@ -223,10 +223,10 @@ senti 94
 meа 92
 demanda 92
 диа 92
+Tota 91
 fia 91
 mone 91
 персонес 91
-Tota 90
 Alga 90
 tre 89
 mesma 89
@@ -285,9 +285,9 @@ ami 71
 девени 71
 vea 70
 blanca 70
+linguas 70
 atenta 70
 tenis 70
-linguas 69
 flores 69
 апренде 69
 veses 68
@@ -460,6 +460,7 @@ frases 42
 lus 42
 forte 42
 an 42
+sinifia 42
 нова 42
 акуа 42
 уса 42
@@ -470,9 +471,10 @@ responde 41
 Cada 41
 rompe 41
 tradui 41
+parola 41
+umana 41
 seja 41
 capas 41
-sinifia 41
 juor 41
 Суа 41
 ном 41
@@ -484,7 +486,6 @@ ensenior 41
 dias 40
 vosa 40
 plora 40
-parola 40
 crese 40
 modo 40
 креде 40
@@ -494,7 +495,6 @@ deutx 39
 desira 39
 E 39
 pan 39
-umana 39
 resta 39
 fura 39
 algun 39
@@ -739,6 +739,7 @@ problemes 25
 computador 25
 dentes 25
 construi 25
+ivri 25
 оиа 25
 жардин 25
 ентре 25
@@ -766,7 +767,6 @@ alora 24
 letera 24
 menti 24
 fada 24
-ivri 24
 споса 24
 респонде 24
 рио 24
@@ -996,6 +996,7 @@ internasional 17
 desembre 17
 Meа 17
 jornal 17
+direto 17
 planeta 17
 nun 17
 dotor 17
@@ -1106,7 +1107,6 @@ atende 16
 elo 16
 taxe 15
 ovo 15
-direto 15
 presidente 15
 telefon 15
 Algun 15
@@ -1848,6 +1848,7 @@ juntada 9
 женеро 9
 sindrom 9
 angusa 9
+iudis 9
 песа 9
 avion 9
 авион 9
@@ -2055,7 +2056,6 @@ Resta 8
 trauma 8
 apesta 8
 supradosa 8
-iudis 8
 piza 8
 transjenero 8
 oce 8
@@ -2376,6 +2376,7 @@ video 6
 2018 6
 regula 6
 comandas 6
+relijiosa 6
 barcones 6
 Car 6
 tas 6
@@ -2711,7 +2712,6 @@ publica 5
 intensa 5
 volunta 5
 restrinje 5
-relijiosa 5
 canal 5
 manobras 5
 data 5
@@ -3639,6 +3639,7 @@ solves 4
 Berlin 4
 Берлин 4
 есенсал 4
+leteral 4
 Yankev 4
 Benedict 4
 Considera 4
@@ -4594,7 +4595,6 @@ Oro 3
 jardines 3
 duneto 3
 дунето 3
-leteral 3
 testos 3
 тестос 3
 eterosesal 3
@@ -6533,6 +6533,7 @@ Rusce 2
 fin 2
 креадас 2
 creadas 2
+comunistes 2
 Аржентина 2
 леонес 2
 корпос 2
@@ -9997,4 +9998,3 @@ otodes-tre 1
 ремос 1
 велас 1
 Баркаса 1
-фонда 1

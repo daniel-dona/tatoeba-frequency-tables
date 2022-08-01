@@ -1,7 +1,7 @@
 Tomas 542
 No 442
 das 357
-binom 336
+binom 335
 no 332
 etosi 265
 in 250
@@ -28,7 +28,7 @@ oli 69
 obi 66
 yufön 66
 et 64
-ka 64
+ka 63
 Nolob 62
 ob 60
 omi 57
@@ -39,7 +39,7 @@ Kim 54
 binob 53
 ole 53
 buki 52
-golön 51
+golön 52
 vilob 50
 vilom 50
 kisi 49
@@ -81,12 +81,12 @@ Kiöp 34
 ni 34
 etos 34
 valik 33
-tidel 33
 nolön 33
 ola 33
 ome 33
 Löfob 32
 studön 32
+tidel 32
 om 32
 Tomasa 32
 binol 31
@@ -108,7 +108,6 @@ sagön 26
 Binos 26
 te 26
 gudiko 26
-umo 26
 Etos 26
 mödiko 26
 domo 26
@@ -116,6 +115,7 @@ eli 25
 gretik 25
 löfom 25
 ävilom 25
+umo 25
 Nek 25
 zif 24
 äsagom 24
@@ -184,12 +184,12 @@ fa 17
 tuvön 17
 vobön 17
 fidom 17
+usi 17
 ele 17
 Nedob 17
 velatik 17
 Kat 16
 mens 16
-usi 16
 timi 16
 flentapüki 16
 nemi 16
@@ -262,6 +262,7 @@ labof 12
 - 12
 son 12
 obinom 12
+Ävilob 12
 Nem 12
 kanof 12
 püki 12
@@ -285,7 +286,6 @@ Li-binol 11
 Li-labol 11
 Om 11
 ya 11
-Ävilob 11
 valikos 11
 buk 11
 podi 11
@@ -444,7 +444,6 @@ Lamerikän 6
 cils 6
 bäldikum 6
 lä 6
-Söl 6
 sil 6
 vob 6
 lilön 6
@@ -495,7 +494,6 @@ kledön 6
 flukik 6
 yufom 6
 äbinof 6
-studel 6
 Liko 6
 kanoms 6
 älogom 6
@@ -522,6 +520,7 @@ löfoms 5
 de 5
 podis 5
 vamik 5
+Söl 5
 dabinon 5
 labol 5
 pledön 5
@@ -577,6 +576,7 @@ gretiki 5
 äfidom 5
 Buks 5
 stebön 5
+studel 5
 ädunol 5
 vitön 5
 Esagob 5
@@ -3963,7 +3963,6 @@ Ayelo 1
 änifos 1
 fablüd 1
 vobon 1
-Beyker 1
 studol 1
 odunof 1
 Slipom-li 1
