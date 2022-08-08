@@ -1,6 +1,6 @@
-do 977
+do 981
 oku 591
-i 385
+i 386
 Tom 348
 ku 319
 no 298
@@ -60,10 +60,10 @@ kio 40
 disido 39
 Kada 38
 toun 38
+isio 38
 maya 37
 ih 37
 diolo 37
-isio 36
 Orohian 35
 ngawi 35
 nangku 34
@@ -76,9 +76,9 @@ amu 32
 toi 31
 iyolo 31
 dahai 30
+kaka 29
 miampai 29
 osonong 29
-kaka 28
 tomod 28
 miagal 28
 ginawo 28
@@ -121,6 +121,7 @@ kusai 18
 korikot 18
 Maan 18
 ndo 18
+nung 18
 taakanon 18
 mooi 18
 karaja 18
@@ -130,7 +131,6 @@ jaam 17
 ngaran 17
 Honggo 17
 Soira 17
-nung 17
 gisom 17
 moti 17
 hiti'd 17
@@ -260,6 +260,7 @@ Ogumu 9
 wayaan 9
 Songkuro 9
 mumboyo 9
+momoguno 9
 tosonong 9
 tangon 9
 Koilo 9
@@ -285,7 +286,6 @@ tusak 8
 Kinorohingan 8
 tanganak 8
 Nakaanu 8
-momoguno 8
 kaban 8
 topurimanan 8
 Umbalan 8
@@ -395,6 +395,7 @@ podi 6
 kada 6
 sada 6
 ogumu 6
+taki 6
 Tumingaha 6
 kuritapui 6
 poingkuro 6
@@ -482,7 +483,6 @@ Minoi 5
 mokinongou 5
 kunsi 5
 Napatai 5
-taki 5
 pakaraja 5
 tumo 5
 kumaau 5
@@ -598,8 +598,10 @@ kosoruan 4
 karamaian 4
 nointutunan 4
 Gundoling 4
+Mamain 4
 pakayan 4
 iyonon 4
+piano 4
 Nosusu 4
 momungkus 4
 kiik 4
@@ -782,9 +784,7 @@ tumau 3
 sapi 3
 China 3
 Dan 3
-Mamain 3
 mamatai 3
-piano 3
 Ihumon 3
 maso' 3
 tupis 3
@@ -3595,3 +3595,9 @@ alansau 1
 ogirot 1
 pinopotungkus 1
 taralom 1
+Monongkuyaan 1
+nosimbitan 1
+kodumaat 1
+miampahu 1
+kinilos 1
+manual 1

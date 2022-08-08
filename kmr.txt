@@ -1,32 +1,32 @@
 Ez 1168
+xwe 1015
 e 1014
-xwe 1013
-ji 963
-min 961
+ji 965
+min 963
 bi 919
 Ew 804
-li 791
+li 793
 ê 727
 û 655
 ye 618
 ku 589
 Em 539
 Tom 534
-Tu 508
+Tu 509
 me 507
-te 482
-de 443
+te 484
+de 444
 ne 388
 re 371
-Min 342
+Min 344
 Hûn 300
-di 288
+di 289
 kir 281
 çi 269
 wê 250
+em 247
 Ji 245
-em 245
-jî 241
+jî 242
 wî 236
 ez 234
 tu 229
@@ -42,9 +42,9 @@ dikin 177
 vê 175
 heye 175
 bikin 171
+ew 171
 in 170
 Wî 170
-ew 169
 Wê 166
 hez 165
 pir 165
@@ -55,20 +55,20 @@ bike 145
 Di 144
 hene 137
 Li 137
-her 133
+her 134
 We 133
 baş 124
 im 121
 bikim 117
-bawer 114
+bawer 115
 da 114
 tê 114
 ba 112
 be 110
 we 110
 dest 108
+lê 107
 ya 107
-lê 106
 yê 105
 Bi 102
 hev 99
@@ -77,8 +77,8 @@ ev 93
 kiriye 89
 dibistanê 89
 ve 86
+Divê 85
 xweş 85
-Divê 84
 nekir 84
 malê 83
 Her 81
@@ -99,12 +99,12 @@ bikî 65
 dilê 64
 pê 64
 î 63
+dikî 62
 tune 62
-dikî 61
+mezin 60
 bavê 60
-mezin 59
+kar 59
 Ma 58
-kar 58
 bûn 58
 Mary 57
 jê 57
@@ -113,11 +113,11 @@ bêriya 57
 salî 56
 asê 56
 mala 56
+kerema 56
 yên 55
 bar 55
 nas 55
 avjenî 55
-kerema 55
 tenê 54
 kî 54
 kirin 54
@@ -134,11 +134,11 @@ bûm 49
 herî 48
 yî 47
 kes 47
+bide 47
 dibim 47
 nekin 47
 fêr 46
 nakim 46
-bide 46
 dikarim 46
 araste 46
 bin 44
@@ -162,11 +162,11 @@ yek 38
 îro 38
 gelek 38
 Dilê 38
+dît 37
 dirêj 37
 rastî 37
-dît 36
+Îro 36
 rast 35
-Îro 35
 porê 35
 roj 35
 hemû 35
@@ -193,6 +193,7 @@ tiştekî 31
 niha 30
 bûye 30
 alîkariya 29
+derê 29
 gelekî 29
 dizanim 29
 çavên 29
@@ -204,7 +205,6 @@ bidin 28
 Bavê 28
 were 28
 biçim 28
-derê 28
 ti 28
 navê 27
 Kî 27
@@ -229,6 +229,7 @@ wisa 24
 dil 24
 hîn 24
 bibînim 24
+dîsa 24
 xuya 24
 avê 24
 kurdî 24
@@ -242,7 +243,6 @@ bidim 23
 dixwazin 23
 Hin 23
 benda 23
-dîsa 23
 Porê 23
 reş 23
 sar 23
@@ -262,6 +262,7 @@ Saet 22
 diêşe 22
 fêrî 22
 germ 22
+dibêje 22
 xwendekar 21
 fêm 21
 nexweş 21
@@ -271,7 +272,6 @@ pîroz 21
 paytexta 21
 kesî 21
 çû 21
-dibêje 21
 temaşe 21
 wiha 21
 rê 21
@@ -316,6 +316,7 @@ serbajarê 18
 Mala 18
 carî 18
 pêş 18
+nava 18
 tev 18
 welatê 18
 ra 18
@@ -336,7 +337,6 @@ kêfxweş 17
 cihê 17
 tînin 17
 baran 17
-nava 17
 řa 17
 karî 17
 Serê 17
@@ -445,6 +445,7 @@ Ti 13
 dev 13
 nekim 13
 Kê 13
+digere 13
 Bawer 12
 muzîkê 12
 jina 12
@@ -468,6 +469,7 @@ jiyanê 12
 gund 12
 Dinya 12
 Kes 12
+piştî 12
 dikevin 12
 cur 12
 dayîka 12
@@ -485,7 +487,6 @@ amûrên 12
 demeke 12
 ko 12
 awayî 12
-digere 12
 rizgar 12
 nêzî 11
 der 11
@@ -515,7 +516,6 @@ xwînê 11
 Mamoste 11
 girtiye 11
 rojekê 11
-piştî 11
 zivistanê 11
 bikevin 11
 doh 11
@@ -524,6 +524,7 @@ Heger 11
 fam 11
 bêdeng 11
 rengên 11
+dilîzin 11
 buharê 11
 biaxivim 11
 xwarinê 11
@@ -575,7 +576,6 @@ ne" 10
 şerm 10
 bîra 10
 hundirê 10
-dilîzin 10
 bigirin 10
 refa 10
 didim 10
@@ -688,7 +688,6 @@ bona 8
 Ziman 8
 rojek 8
 kesek 8
-dibêjî 8
 Pêdiviya 8
 şer 8
 mêze 8
@@ -783,6 +782,7 @@ can 7
 Sami 7
 zewicî 7
 Pênc 7
+dibêjî 7
 bişo 7
 Kurd 7
 odeyê 7
@@ -1080,6 +1080,7 @@ bijîm 5
 pêşniyar 5
 dinivîse 5
 ehmeq 5
+nedît 5
 xeber 5
 derketin 5
 masî 5
@@ -1297,7 +1298,6 @@ Berê 4
 sibeh 4
 dimire 4
 Bav 4
-nedît 4
 Belê 4
 Sipas 4
 şîrîn 4
@@ -1384,6 +1384,7 @@ bêaqil 4
 tiştê 4
 tenduristiya 4
 xema 4
+Kesek 4
 sereke 4
 kombersê 4
 perwerdeyê 4
@@ -1397,6 +1398,7 @@ bêyî 4
 dêvla 4
 hejand 4
 Şîr 4
+Bala 4
 hêk 4
 vexwar 4
 kengê 4
@@ -1794,7 +1796,6 @@ vedikin 3
 zivistan 3
 heke 3
 bimirî 3
-Kesek 3
 ling 3
 mirîşk 3
 hevokên 3
@@ -1814,7 +1815,6 @@ dîwêr 3
 kilît 3
 poşman 3
 Dem 3
-Bala 3
 polîtîk 3
 raweste 3
 parkê 3
@@ -2937,6 +2937,7 @@ hember 2
 dîrokê 2
 xem 2
 Dan 2
+nihêrî 2
 berdan 2
 Îtalî 2
 derfetên 2
@@ -3409,6 +3410,7 @@ Mamosteyê 2
 Saeta 2
 xerabe 2
 hişt 2
+beyzbolê 2
 hevjîna 2
 Spanî 2
 napeyive 2
@@ -3501,6 +3503,7 @@ Kurdistana 2
 fikir 2
 Amade 2
 bavekî 2
+biguherînin 2
 biryara 2
 wext 2
 rûpelê 2
@@ -5665,7 +5668,6 @@ qîza 1
 Linda 1
 lênihêrîna 1
 derûnnasekî 1
-nihêrî 1
 kenîya 1
 hevdu 1
 nerin 1
@@ -7970,7 +7972,6 @@ bimirim 1
 flortoz 1
 doxînsist 1
 çoyê 1
-beyzbolê 1
 Moskowê 1
 Trafîk 1
 rawestiyabû 1
@@ -8455,7 +8456,6 @@ biêşîne 1
 Kumpas 1
 fikrek 1
 diyariyek 1
-biguherînin 1
 îmtîhanek 1
 Pirsek 1
 lêpirsînê 1
@@ -8937,7 +8937,7 @@ qêrînî 1
 pêxist 1
 Detroit 1
 "The 1
-Sopranod"ê 1
+Sopranos"ê 1
 2007an 1
 119 1
 milyon 1
@@ -9064,3 +9064,6 @@ Kate 1
 bixebitim 1
 Alfabe 1
 werger 1
+bandaja 1
+kundirê 1
+girseyê 1

@@ -1,20 +1,20 @@
-le 12621
-es 7700
+le 12622
+es 7705
 de 6762
-un 6681
+un 6683
 Le 4720
-ha 4631
+ha 4632
 in 4210
 que 3805
-non 3607
-Io 3408
+non 3609
+Io 3410
 del 2915
 e 2890
 a 2607
 tu 2146
-Ille 1772
+Ille 1773
 me 1553
-io 1547
+io 1548
 al 1527
 su 1503
 se 1477
@@ -39,10 +39,10 @@ il 743
 grande 722
 Illa 698
 Nos 684
-Tu 682
+Tu 683
 blau 682
 Iste 649
-multe 573
+multe 574
 habeva 568
 Esque 555
 vole 547
@@ -53,8 +53,8 @@ illo 507
 qui 503
 esser 488
 isto 487
+Mi 482
 Que 482
-Mi 481
 Un 480
 sur 466
 super 444
@@ -119,9 +119,9 @@ sempre 210
 An 209
 amor 208
 durante 207
+diceva 206
 morte 206
 inter 206
-diceva 205
 haber 204
 la 199
 libro 197
@@ -855,6 +855,7 @@ evenite 29
 natar 28
 pejor 28
 comenciate 28
+"Io 28
 gruppo 28
 – 28
 folle 28
@@ -882,7 +883,6 @@ policia 27
 perfecte 27
 finalmente 27
 audite 27
-"Io 27
 cognoscer 27
 continua 27
 cantar 27
@@ -941,6 +941,7 @@ permitte 26
 alco 26
 besonia 26
 aures 26
+pecunia 26
 camisa 26
 poner 26
 Ante 26
@@ -981,7 +982,6 @@ platto 25
 curre 25
 povre 25
 vade 25
-pecunia 25
 cerebro 25
 tulipanes 25
 seculo 25
@@ -1662,6 +1662,7 @@ succedite 14
 temperatura 14
 vicinitate 14
 pois 14
+advocato 14
 planetas 14
 arbitro 14
 kilometros 14
@@ -1729,6 +1730,7 @@ large 13
 maritage 13
 Tosto 13
 conilio 13
+oncle 13
 monstrava 13
 approxima 13
 individuo 13
@@ -1762,7 +1764,6 @@ devenira 13
 gusta 13
 morite 13
 invitate 13
-advocato 13
 typos 13
 grado 13
 curiose 13
@@ -1847,7 +1848,6 @@ affaires 12
 require 12
 idiota 12
 rar 12
-oncle 12
 render 12
 election 12
 Mexico 12
@@ -3600,6 +3600,7 @@ robamento 5
 "Si 5
 immediate 5
 baniar 5
+politico 5
 parlamentari 5
 Scotia 5
 ruitose 5
@@ -4258,7 +4259,6 @@ assemblea 4
 irrational 4
 Habente 4
 cabana 4
-politico 4
 debatto 4
 assecurar 4
 attrappava 4
@@ -6583,6 +6583,7 @@ veranda 3
 thailandese 3
 silentemente 3
 anime 3
+philippin 3
 camouflage 3
 Ideas 2
 Require 2
@@ -9505,7 +9506,6 @@ nomine" 2
 programmation 2
 Python 2
 Eiffel 2
-philippin 2
 parfumos 2
 Taiwan 2
 Wenzhou 2

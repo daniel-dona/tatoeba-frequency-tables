@@ -1,10 +1,10 @@
-að 3726
+að 3727
 er 3041
 Ég 2219
-í 2031
-á 1648
-ekki 1588
-Það 839
+í 2032
+á 1649
+ekki 1589
+Það 840
 ég 831
 Hann 785
 til 762
@@ -14,12 +14,12 @@ Hún 662
 við 660
 Þú 632
 hann 628
-var 627
+var 628
 sem 596
 þú 562
 með 518
 fyrir 497
-Við 495
+Við 496
 um 474
 af 445
 eru 441
@@ -38,8 +38,8 @@ honum 242
 svo 232
 Hvað 230
 hefur 213
-gera 201
-mjög 201
+gera 202
+mjög 202
 eftir 199
 eins 183
 hans 180
@@ -221,10 +221,10 @@ nú 41
 líka 41
 þeirra 41
 sagt 41
+höfum 41
 hjálpa 41
 hverjum 40
 gerir 40
-höfum 40
 einu 40
 sama 40
 lengi 40
@@ -281,7 +281,6 @@ nokkuð 34
 gaf 34
 sitt 34
 ganga 34
-þennan 34
 án 34
 ennþá 34
 Vertu 34
@@ -289,6 +288,7 @@ hitti 33
 fætur 33
 sex 33
 hægt 33
+þennan 33
 þarna 33
 spurði 33
 eitt 33
@@ -490,6 +490,7 @@ skoðun 20
 einhvern 20
 hljóp 20
 flýta 20
+mistök 20
 skóla 20
 hræddur 20
 nokkur 20
@@ -514,7 +515,6 @@ bíða 19
 Segðu 19
 gengur 19
 vatn 19
-mistök 19
 prófinu 19
 Get 19
 hrædd 19
@@ -532,6 +532,7 @@ bílinn 19
 Peter 19
 gegnum 18
 kaffi 18
+efni 18
 komst 18
 óska 18
 sínu 18
@@ -574,7 +575,6 @@ keyra 17
 Afsakið 17
 stendur 17
 kem 17
-efni 17
 hundruð 17
 hátt 17
 vanur 17
@@ -778,6 +778,7 @@ hinn 13
 Bíllinn 13
 óvart 13
 keypt 13
+dimmt 13
 pabbi 13
 hlusta 13
 Nei 13
@@ -824,7 +825,6 @@ spurja 12
 hvern 12
 trúi 12
 þínar 12
-dimmt 12
 stelpa 12
 epli 12
 fisk 12
@@ -3178,7 +3178,6 @@ læt 3
 bragðs 3
 lokaði 3
 hleypa 3
-Dreptu 3
 brenna 3
 Dyr 3
 upplýsingum 3
@@ -4691,6 +4690,7 @@ hvítar 2
 fundist 2
 sjálft 2
 Bankaðu 2
+Dreptu 2
 Læstu 2
 mund 2
 opnaðar 2

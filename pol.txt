@@ -1,26 +1,26 @@
-się 15050
-nie 12727
+się 15054
+nie 12729
 jest 12492
 w 11328
 Tom 10080
 na 9490
 Nie 8324
-to 7593
-że 7135
+to 7595
+że 7137
 do 6894
-z 6699
+z 6700
 To 4124
 i 3950
 Czy 3544
-mi 3312
+mi 3313
 o 3225
 mnie 3099
 ma 2780
-co 2692
+co 2693
 On 2644
-za 2532
+za 2533
 jak 2424
-tego 2291
+tego 2292
 po 2245
 Mary 2160
 są 1958
@@ -29,10 +29,10 @@ W 1843
 bardzo 1795
 od 1627
 był 1611
-tak 1608
+tak 1609
 Ona 1603
 go 1475
-już 1420
+już 1422
 Jestem 1413
 ci 1365
 dla 1323
@@ -43,7 +43,7 @@ domu 1241
 Mam 1178
 być 1159
 Jak 1138
-tylko 1136
+tylko 1137
 ten 1125
 jego 1102
 było 1102
@@ -53,7 +53,7 @@ mogę 1080
 Ten 1059
 będzie 1034
 tu 1030
-zrobić 1001
+zrobić 1003
 sobie 981
 czy 972
 cię 958
@@ -91,7 +91,7 @@ wszystko 654
 teraz 635
 jesteś 634
 Gdzie 631
-ją 628
+ją 629
 tę 626
 Chciałbym 625
 Chcę 619
@@ -146,8 +146,8 @@ wczoraj 436
 książkę 435
 jutro 434
 robić 434
-dzieci 421
-raz 419
+dzieci 422
+raz 420
 ludzi 418
 gdzie 416
 nim 416
@@ -170,8 +170,8 @@ dom 378
 Lubię 377
 dwa 374
 ona 373
+Nikt 373
 został 371
-Nikt 371
 szkoły 365
 Możesz 364
 tobą 364
@@ -196,7 +196,7 @@ gdy 331
 więc 330
 mówić 329
 zostać 329
-Musisz 326
+Musisz 328
 rano 323
 Może 322
 jeśli 320
@@ -229,13 +229,13 @@ przy 281
 długo 281
 Już 281
 drzwi 281
+robi 280
 francusku 280
 te 279
 Był 279
 stało 279
 Zawsze 279
 Bostonie 279
-robi 278
 razem 278
 Tomem 276
 kto 275
@@ -564,12 +564,12 @@ dziesięć 128
 Idź 127
 Dzieci 127
 wszystkim 127
+wina 127
 twoją 127
 wyjść 127
 lubisz 127
 zdania 126
 Poproszę 126
-wina 126
 mówisz 126
 stary 126
 języka 126
@@ -710,6 +710,7 @@ zaczyna 102
 wodę 102
 Nienawidzę 102
 drodze 101
+sama 101
 kwiaty 101
 miesiącu 101
 słownik 101
@@ -721,7 +722,6 @@ naszym 101
 jaki 100
 dzieckiem 100
 widzę 100
-sama 100
 samochodem 100
 telewizji 100
 przyjaciela 100
@@ -763,13 +763,13 @@ zrobi 95
 muzyki 94
 Gdy 94
 zaraz 94
+Lubisz 94
 Nawet 94
 udało 94
 Wolę 93
 ciężko 93
 zostanie 93
 kogo 93
-Lubisz 93
 powiedziałem 93
 Cię 93
 pół 92
@@ -787,6 +787,7 @@ nadal 92
 Ależ 91
 kosztuje 91
 jedno 91
+Wydaje 91
 rady 91
 duże 91
 Czuję 91
@@ -801,7 +802,6 @@ Czego 90
 wam 90
 końca 90
 byłeś 90
-Wydaje 90
 Twoje 90
 Spotkałem 90
 pytania 90
@@ -1081,6 +1081,7 @@ jedzą 68
 Powinienem 68
 potem 68
 studentów 67
+Zrób 67
 Weź 67
 wsi 67
 rzadko 67
@@ -1094,13 +1095,13 @@ prawdopodobnie 67
  67
 przychodzi 66
 japońsku 66
-Zrób 66
 żadnego 66
 herbaty 66
 Tego 66
 ciągu 66
 wejść 66
 Wkrótce 66
+samemu 66
 Potrzebujemy 66
 jednego 66
 myślałem 65
@@ -1112,7 +1113,6 @@ domem 65
 podróży 65
 obchodzi 65
 słońce 65
-samemu 65
 sześć 65
 Próbowałem 65
 jedzie 65
@@ -1441,6 +1441,7 @@ takich 50
 lotnisko 50
 jakąś 50
 wątpliwości 50
+znalazłem 50
 mieli 50
 wyjścia 50
 Ciekawe 50
@@ -1501,7 +1502,6 @@ biurku 48
 pójdzie 48
 brakuje 48
 30 48
-znalazłem 48
 czeka 48
 sen 48
 miło 48
@@ -1631,6 +1631,7 @@ Też 45
 Tam 45
 użyć 45
 idziesz 45
+uważasz 45
 pracuję 45
 Mógłbym 45
 winien 44
@@ -1665,7 +1666,6 @@ przynajmniej 44
 nienawidzi 44
 Wolałbym 44
 konia 44
-uważasz 44
 zamiar 44
 Być 44
 oprócz 44
@@ -2601,6 +2601,7 @@ bólu 27
 uczucia 27
 popołudnie 27
 koniecznie 27
+Zdaje 27
 samą 27
 mysz 27
 Słuchaj 27
@@ -2679,7 +2680,6 @@ butów 26
 odbędzie 26
 facet 26
 gram 26
-Zdaje 26
 mapę 26
 zdobyć 26
 lepszego 26
@@ -4150,6 +4150,7 @@ Jadłeś 16
 Stany 16
 wyjdziesz 16
 zrobiony 16
+konieczne 16
 Byłbym 16
 tablicy 16
 uczestniczyć 16
@@ -4407,7 +4408,6 @@ dotrze 15
 zwyczaju 15
 kłamać 15
 poznał 15
-konieczne 15
 zasługuje 15
 opinii 15
 pojutrze 15
@@ -4945,6 +4945,7 @@ nadzieja 13
 święta 13
 humorze 13
 dawać 13
+francuskie 13
 mili 13
 Linda 13
 kierowcy 13
@@ -5301,7 +5302,6 @@ wideo 12
 swą 12
 wpada 12
 pozwoliła 12
-francuskie 12
 oceny 12
 krótko 12
 spadają 12
@@ -6606,6 +6606,7 @@ C 9
 dzikich 9
 umówić 9
 pomogą 9
+płakało 9
 czytają 9
 uprawiać 9
 podatków 9
@@ -7333,7 +7334,6 @@ gorączki 8
 duszę 8
 poczty 8
 badanie 8
-płakało 8
 ołówki 8
 Nauczę 8
 widły 8

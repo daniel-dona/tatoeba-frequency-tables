@@ -1,6 +1,6 @@
 is 3197
 Ik 3190
-dat 2757
+dat 2758
 en 2502
 de 2464
 nich 1923
@@ -27,7 +27,7 @@ em 643
 na 638
 mien 615
 sünd 602
-Tom 591
+Tom 592
 wat 538
 weer 529
 Wi 517
@@ -36,7 +36,7 @@ den 498
 Wat 485
 hebbt 485
 bün 483
-sien 474
+sien 475
 för 463
 ehr 462
 keen 450
@@ -378,6 +378,7 @@ Woord 39
 Boston 39
 Hand 39
 Been 39
+Sünd 39
 nöömt 39
 vull 39
 verstah 38
@@ -388,7 +389,6 @@ schrieven 38
 diene 38
 verstahn 38
 Dood 38
-Sünd 38
 Unkel 38
 wohr 37
 Fohrrad 37
@@ -1250,6 +1250,7 @@ wören 10
 wüßt 10
 wöör 10
 to’n 10
+Beuker 10
 mihr 10
 dann 9
 Markt 9
@@ -1342,7 +1343,6 @@ flütt 9
 küsst 9
 dwungen 9
 Appeln 9
-Beuker 9
 hüüt 9
 Fru 9
 grood 9

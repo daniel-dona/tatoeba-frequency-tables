@@ -1,31 +1,31 @@
 er 14901
 Jeg 9722
 at 7706
-en 7212
+en 7213
 i 7145
 Tom 7130
-ikke 6913
-har 6463
+ikke 6914
+har 6464
 du 4564
 til 4444
 på 4197
-det 4157
+det 4159
 og 3323
 for 3322
 jeg 3193
 Han 3025
 Det 2894
 med 2848
-af 2836
-var 2811
+af 2837
+var 2812
 et 2761
 mig 2718
 kan 2279
-den 1972
+den 1971
 der 1951
 Hun 1919
 dig 1741
-om 1675
+om 1676
 Vi 1631
 Mary 1560
 vil 1556
@@ -46,14 +46,14 @@ ham 950
 sin 939
 Er 932
 sig 921
-blev 890
+blev 891
 Der 824
 havde 822
 være 816
 Har 806
 Min 801
 din 797
-fra 780
+fra 782
 dag 762
 ud 741
 vi 741
@@ -64,7 +64,7 @@ op 710
 os 695
 have 693
 noget 676
-Den 671
+Den 672
 hun 670
 end 662
 hvad 650
@@ -86,7 +86,7 @@ Toms 497
 man 495
 eller 493
 gøre 479
-En 474
+En 475
 aldrig 472
 kun 465
 tre 459
@@ -211,8 +211,8 @@ vand 204
 lille 204
 sammen 204
 engelsk 202
+Hvornår 201
 Hans 200
-Hvornår 200
 købe 200
 navn 195
 ned 194
@@ -245,8 +245,8 @@ drikker 169
 står 168
 holde 166
 barn 165
+På 164
 land 164
-På 163
 skole 163
 kvinde 163
 ti 162
@@ -422,8 +422,8 @@ fundet 96
 løb 95
 computer 95
 skrevet 95
+seks 94
 træ 94
-seks 93
 svømme 93
 sådan 93
 koster 93
@@ -1514,6 +1514,7 @@ svømmede 21
 trætte 21
 sytten 21
 kaffen 21
+ødelagt 21
 mødet 21
 kaldte 21
 dumt 21
@@ -1578,7 +1579,6 @@ opfundet 20
 soldater 20
 trist 20
 overmorgen 20
-ødelagt 20
 varer 20
 Skynd 20
 regnet 20
@@ -1946,6 +1946,7 @@ efteråret 15
 naboer 15
 kampen 15
 korrekt 15
+modsatte 15
 underviser 15
 århundrede 15
 Bob 15
@@ -2051,7 +2052,6 @@ forgårs 14
 vidunderlig 14
 eksempler 14
 omtrent 14
-modsatte 14
 falde 14
 øre 14
 arabisk 14
@@ -2665,7 +2665,9 @@ plæneklipper 11
 røræg 11
 Ester 11
 Koranen 11
+trods 10
 jazz 10
+George 10
 hemmeligt 10
 hotellet 10
 menneskeheden 10
@@ -2874,10 +2876,8 @@ anholdt 10
 grænse 10
 youtuber 10
 algerisk 10
-trods 9
 meste 9
 resultatet 9
-George 9
 lovet 9
 tunge 9
 tilføje 9
@@ -3843,6 +3843,7 @@ køerne 7
 sømmet 7
 afstand 7
 mistanke 7
+rygter 7
 sludder 7
 Ha' 7
 synd 7
@@ -4114,7 +4115,6 @@ kinesiske 6
 styrtregner 6
 fødtes 6
 latterlig 6
-Dræb 6
 området 6
 ferien 6
 eksploderede 6
@@ -4369,7 +4369,6 @@ brækjern 6
 tålmodig 6
 fortæl 6
 moms 6
-rygter 6
 forbyde 6
 vidne 6
 redder 6
@@ -4709,6 +4708,7 @@ frygtelig 5
 Union 5
 Værelset 5
 fisken 5
+Dræb 5
 tolk 5
 ege 5
 internet 5
@@ -5205,6 +5205,7 @@ Vaccinen 5
 råbte: 5
 glemsommere 5
 covid-19 5
+Lviv 5
 spadserestok 5
 deaktiverede 5
 rigdom 4
@@ -5993,6 +5994,7 @@ i" 4
 Angela 4
 styrer 4
 coole 4
+hilsen 4
 Ringede 4
 dragen 4
 Flasken 4
@@ -7454,6 +7456,7 @@ svaner 3
 Kongerige 3
 bøder 3
 Tyvene 3
+gear 3
 Musikken 3
 Langustos 3
 søn" 3
@@ -7461,7 +7464,6 @@ søn" 3
 samtalen 3
 stearinlys 3
 beholdning 3
-hilsen 3
 skabninger 3
 slangen 3
 tapre 3
@@ -8279,7 +8281,6 @@ Tidsoptimering 3
 hule 3
 lyshudede 3
 guldæg 3
-Lviv 3
 misbrugte 3
 mestrede 3
 uagtsomhed 3
@@ -9997,4 +9998,3 @@ Tel 2
 Aviv 2
 honningen 2
 hakkede 2
-intuitivt 2

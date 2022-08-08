@@ -1,37 +1,37 @@
-es 5793
-la 5387
-ia 4504
+es 5801
+la 5390
+ia 4506
 de 3622
-un 3166
+un 3169
 ла 2802
 ес 2728
-Me 2397
+Me 2399
 иа 2153
-no 1885
+no 1887
 де 1874
-La 1695
+La 1696
 a 1674
 en 1606
 Tom 1545
 ун 1365
 Ме 1182
-e 1180
+e 1181
 tu 1178
-me 1121
-ave 1061
+me 1122
+ave 1062
 а 953
 Ла 932
 но 910
 ce 896
 ен 882
-El 860
+El 862
 Esce 772
 plu 701
 va 698
 ме 662
 sua 658
 ту 655
-multe 640
+multe 641
 el 640
 per 635
 pote 609
@@ -40,7 +40,7 @@ cual 609
 esta 589
 аве 564
 mea 547
-lo 541
+lo 542
 Esta 527
 Nos 504
 con 484
@@ -48,10 +48,10 @@ con 484
 ке 462
 vole 457
 ва 417
-Tu 415
+Tu 416
 casa 402
 Еске 399
-fa 379
+fa 380
 cosa 374
 nos 372
 еста 368
@@ -65,10 +65,10 @@ tua 346
 Lo 343
 gusta 342
 par 337
-bon 323
+bon 324
 sur 320
+Mea 320
 come 319
-Mea 319
 On 317
 суа 316
 пер 313
@@ -80,18 +80,18 @@ debe 282
 como 281
 Нос 271
 alga 267
-dise 262
+dise 263
 кон 261
 ta 260
 grande 255
-cuando 252
+cuando 253
 vade 247
 los 244
 tota 238
 ama 234
 o 234
 воле 232
-vive 230
+vive 231
 vide 227
 ca 225
 Los 222
@@ -222,10 +222,10 @@ senti 94
 мундо 94
 meа 92
 demanda 92
+mone 92
 диа 92
 Tota 91
 fia 91
-mone 91
 персонес 91
 Alga 90
 tre 89
@@ -348,12 +348,12 @@ sala 57
 sielo 57
 фини 57
 problem 56
+Cuanto 56
 sol 56
 deside 56
 Та 56
 прима 56
 Куандо 56
-Cuanto 55
 tuа 55
 nase 55
 prosima 55
@@ -516,6 +516,7 @@ Dio 38
 туa 38
 пласе 38
 атента 38
+custa 37
 aspeta 37
 viaja 37
 lasa 37
@@ -526,7 +527,6 @@ catura 37
 acorda 37
 канта 37
 fria 36
-custa 36
 fio 36
 solve 36
 pronto 36
@@ -628,6 +628,7 @@ brun 30
 umanas 30
 gida 30
 comentas 30
+Jonguo 30
 Nosa 30
 весес 30
 пасада 30
@@ -651,7 +652,6 @@ coce 29
 sonia 29
 sude 29
 des 29
-Jonguo 29
 плуве 29
 енфанте 29
 пома 29
@@ -683,6 +683,7 @@ pinti 27
 proba 27
 corpo 27
 Asta 27
+Rusia 27
 sesa 27
 orgulosa 27
 donce 27
@@ -704,7 +705,6 @@ entra 26
 prefere 26
 color 26
 denova 26
-Rusia 26
 tipal 26
 ожи 26
 контра 26
@@ -795,6 +795,7 @@ mera 23
 filma 23
 fema 23
 femes 23
+universo 23
 бланка 23
 рожа 23
 виа 23
@@ -820,7 +821,6 @@ fas 22
 popla 22
 Olimpiales 22
 novas 22
-universo 22
 Contra 22
 броси 22
 регарда 22
@@ -1022,6 +1022,7 @@ otras 17
 stato 17
 eglesa 17
 developa 17
+"Me 17
 masca 17
 Con 17
 valua 17
@@ -1073,7 +1074,6 @@ este 16
 Roma 16
 seria 16
 maladia 16
-"Me 16
 broma 16
 importa 16
 talietas 16
@@ -1192,6 +1192,7 @@ duta 14
 arde 14
 Corea 14
 usual 14
+survive 14
 nove 14
 atletas 14
 campion 14
@@ -1255,7 +1256,6 @@ situa 13
 barata 13
 partisipa 13
 Gatos 13
-survive 13
 manos 13
 petras 13
 tufa 13
@@ -2063,6 +2063,7 @@ oce 8
 Donald 8
 invita 8
 uman 8
+avocato 8
 sonias 8
 сониас 8
 вакансе 8
@@ -2079,6 +2080,7 @@ patatas 7
 enfantia 7
 franca 7
 creada 7
+George 7
 gol 7
 silente 7
 Mone 7
@@ -2297,7 +2299,6 @@ Statos 7
 cabe 7
 jus 7
 уман 7
-avocato 7
 imaje 7
 banio 7
 атенде 7
@@ -2313,7 +2314,6 @@ banana 7
 IA 7
 desmaia 7
 Lingua 6
-George 6
 amable 6
 Tal 6
 adora 6
@@ -2507,6 +2507,7 @@ protenas 6
 коста 6
 реалиа 6
 елетрика 6
+tio 6
 магиар 6
 ensende 6
 фида 6
@@ -2866,7 +2867,6 @@ opinas 5
 есенте 5
 дифере 5
 malspende 5
-tio 5
 ungarian 5
 серебро 5
 меркурди 5
@@ -3443,6 +3443,7 @@ ensinta 4
 енфантиа 4
 Моне 4
 реконосе 4
+froda 4
 Petrobras 4
 Петробрас 4
 Lava 4
@@ -4253,7 +4254,6 @@ valida 3
 дес-ду 3
 диретос 3
 инспира 3
-froda 3
 проседе 3
 фрода 3
 акусас 3
@@ -4487,6 +4487,7 @@ malodori 3
 апеста 3
 малодори 3
 lesbian 3
+Olocausto 3
 eres 3
 alcolomanica 3
 ajena 3
@@ -4683,6 +4684,7 @@ sefardi 3
 mentes 3
 ментес 3
 diferes 3
+politiciste 3
 deser 3
 capelblanca 3
 copia 3
@@ -6115,7 +6117,6 @@ israeli 2
 balia 2
 sputa 2
 desonora 2
-Olocausto 2
 Aboli 2
 Coraje 2
 Permete 2
@@ -6492,6 +6493,7 @@ pexa 2
 stimulante 2
 стимуланте 2
 Comeda 2
+Soros 2
 treno 2
 трено 2
 cordeta 2
@@ -6585,7 +6587,6 @@ pseudosiensa 2
 сежас 2
 Seso 2
 Сесо 2
-politiciste 2
 caci 2
 Bruxelles 2
 vada 2
@@ -9997,4 +9998,3 @@ otodes-tre 1
 пропулсада 1
 ремос 1
 велас 1
-Баркаса 1

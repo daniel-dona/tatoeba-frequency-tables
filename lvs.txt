@@ -1,4 +1,4 @@
-ir 715
+ir 716
 Es 500
 Toms 316
 ka 229
@@ -17,8 +17,8 @@ man 99
 bija 99
 tas 93
 Viņa 90
-no 88
-Mēs 80
+no 89
+Mēs 81
 ko 78
 tev 76
 lai 73
@@ -33,7 +33,7 @@ vai 58
 mani 57
 viņš 57
 Tomam 56
-kas 54
+kas 55
 tevi 50
 Marija 49
 ne 43
@@ -43,8 +43,8 @@ daudz 42
 šo 41
 savu 40
 viņam 38
+jums 37
 mums 37
-jums 36
 bet 36
 esi 35
 kaut 35
@@ -252,6 +252,7 @@ dzimšanas 8
 angliski 8
 vakar 8
 lūdzu 8
+pasaulē 8
 sauc 8
 negribu 8
 dara 8
@@ -266,6 +267,7 @@ kamēr 8
 kuru 8
 tam 8
 vēlies 8
+jauns 8
 nevajadzētu 8
 atkal 8
 valodas 8
@@ -289,7 +291,6 @@ valoda 7
 grāmata 7
 rīt 7
 zini 7
-pasaulē 7
 - 7
 visiem 7
 bērni 7
@@ -302,7 +303,6 @@ iespējams 7
 cilvēku 7
 pārliecināts 7
 Mariju 7
-jauns 7
 meita 7
 pirms 7
 palika 7
@@ -504,6 +504,7 @@ septiņi 4
 eju 4
 pulkstenis 4
 miris 4
+viena 4
 likās 4
 jautāju 4
 paliksi 4
@@ -656,6 +657,7 @@ students 3
 deviņi 3
 velosipēdu 3
 dāvana 3
+zelta 3
 Kaķis 3
 gripa 3
 Tava 3
@@ -675,7 +677,6 @@ divi 3
 četri 3
 pieci 3
 redzu 3
-viena 3
 prātā 3
 sniegs 3
 manā 3
@@ -954,7 +955,6 @@ mušas 2
 ziloni 2
 Karš 2
 ilga 2
-zelta 2
 lidmašīnu 2
 kaimiņš 2
 rokraksts 2
@@ -5356,3 +5356,7 @@ dzīvoklis 1
 Pēter 1
 Jāni 1
 Anda 1
+paziņosim 1
+Austrālija 1
+lielākajām 1
+ražotājām 1

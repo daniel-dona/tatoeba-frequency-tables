@@ -37,8 +37,8 @@ wake 79
 Kwa 76
 au 74
 kati 72
+nini 69
 sababu 69
-nini 68
 kitu 66
 kubwa 66
 kuliko 63
@@ -95,16 +95,16 @@ muhimu 38
 Ikiwa 38
 Hakuna 37
 sehemu 37
-yote 36
 kidogo 36
-zote 36
 Wakati 36
 Mimi 35
 leo 35
+zote 35
 unaweza 35
 lazima 35
 bila 35
 sawa 34
+yote 34
 wewe 34
 mmoja 34
 wengi 33
@@ -145,6 +145,7 @@ wetu 27
 mfalme 27
 aina 27
 ambaye 27
+yoyote 26
 hivi 26
 chakula 26
 mpya 26
@@ -170,7 +171,6 @@ mengi 24
 tatu 24
 vitu 24
 sauti 24
-yoyote 24
 mwingine 24
 rangi 24
 zake 23
@@ -1424,7 +1424,6 @@ Aina 4
 hadhi 3
 hotelini 3
 kupeleka 3
-yo 3
 Ndiyo 3
 Kwanza 3
 "Mimi 3
@@ -3150,7 +3149,6 @@ Safiri 1
 utashuhudia 1
 uitembelee 1
 "Baba 1
-nin 1
 unavaa 1
 safi" 1
 ninakwenda 1
@@ -3159,7 +3157,8 @@ twende 1
 Ijapokuwa 1
 nitakaa 1
 sitakwenda 1
-zo 1
+zozote 1
+yo 1
 "Nitakwenda 1
 sitakwenda" 1
 "Nitanunua 1
@@ -9259,7 +9258,7 @@ iligongwa 1
 bandarimjini 1
 kiroho 1
 Nilimkaribisha 1
-Ukitakata 1
+Ukitaka 1
 zijazo 1
 fikiria 1
 unaokanyaga 1
