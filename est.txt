@@ -1,4 +1,4 @@
-on 959
+on 960
 Ma 606
 ei 453
 Tom 354
@@ -478,6 +478,7 @@ Selles 5
 riik 5
 kaheksa 5
 üheksa 5
+silmad 5
 Kelle 5
 peame 5
 peaksid 5
@@ -593,7 +594,6 @@ järgmine 4
 need 4
 söönud 4
 tundsin 4
-silmad 4
 sõnastiku 4
 alasti 4
 keelest 4
@@ -748,6 +748,7 @@ miljonit 3
 Vabandage 3
 Üks 3
 seitse 3
+sinised 3
 mäleta 3
 kiri 3
 Kassid 3
@@ -1091,7 +1092,6 @@ Tähelepanu 2
 Leedu 2
 kiirustage 2
 halvasti 2
-sinised 2
 buss 2
 ratas 2
 hüppas 2
@@ -4889,3 +4889,4 @@ nimekirja 1
 Kate 1
 Maisie 1
 inglanna 1
+Milliel 1

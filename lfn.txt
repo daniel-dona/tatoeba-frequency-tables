@@ -1,24 +1,24 @@
-es 5801
+es 5802
 la 5390
-ia 4506
-de 3622
-un 3169
+ia 4507
+de 3624
+un 3170
 ла 2802
 ес 2728
-Me 2399
+Me 2400
 иа 2153
 no 1887
 де 1874
-La 1696
+La 1697
 a 1674
 en 1606
-Tom 1545
+Tom 1546
 ун 1365
 Ме 1182
 e 1181
 tu 1178
 me 1122
-ave 1062
+ave 1063
 а 953
 Ла 932
 но 910
@@ -37,12 +37,12 @@ per 635
 pote 609
 cual 609
 е 596
-esta 589
+esta 590
 аве 564
 mea 547
 lo 542
 Esta 527
-Nos 504
+Nos 505
 con 484
 Том 469
 ке 462
@@ -62,12 +62,12 @@ nos 372
 sabe 349
 tua 346
 меа 345
+gusta 343
 Lo 343
-gusta 342
 par 337
 bon 324
+Mea 321
 sur 320
-Mea 320
 come 319
 On 317
 суа 316
@@ -113,7 +113,7 @@ ma 181
 Ту 181
 bela 180
 густа 178
-No 176
+No 177
 lingua 174
 pensa 172
 asi 167
@@ -162,9 +162,9 @@ comensa 127
 veni 127
 can 126
 tan 126
+person 126
 aora 125
 sin 125
-person 125
 pos 125
 mori 125
 та 125
@@ -204,16 +204,16 @@ poma 101
 када 101
 usa 99
 nunca 99
+si 99
 gato 98
 nova 98
 anios 98
-si 98
 Но 98
 ки 97
 сола 97
+Si 96
 aida 96
 А 96
-Si 95
 ja 95
 tra 95
 каса 95
@@ -221,10 +221,10 @@ Do 94
 senti 94
 мундо 94
 meа 92
+Tota 92
 demanda 92
 mone 92
 диа 92
-Tota 91
 fia 91
 персонес 91
 Alga 90
@@ -359,12 +359,12 @@ nase 55
 prosima 55
 cualce 55
 fasil 55
+sposa 55
 франсес 55
 месма 55
 Toki 55
 dole 54
 oia 54
-sposa 54
 Frans 54
 contra 54
 testa 54
@@ -382,6 +382,7 @@ move 52
 Como 52
 Пер 52
 тенис 52
+parti 51
 кор 51
 медиа 51
 сите 51
@@ -390,7 +391,6 @@ Brasil 50
 verde 50
 pomas 50
 joven 50
-parti 50
 Boston 50
 libros 50
 падре 50
@@ -450,6 +450,7 @@ su 43
 аида 43
 сya 43
 лингуас 43
+gatos 43
 sirca 42
 core 42
 usada 42
@@ -465,7 +466,6 @@ sinifia 42
 акуа 42
 уса 42
 се 42
-gatos 42
 simple 41
 responde 41
 Cada 41
@@ -817,6 +817,7 @@ intera 22
 Oji 22
 avia 22
 famosa 22
+grupo 22
 fas 22
 popla 22
 Olimpiales 22
@@ -847,7 +848,6 @@ esperanto 21
 pas 21
 cuantia 21
 Ance 21
-grupo 21
 santa 21
 mor 21
 espaniol 21
@@ -968,6 +968,7 @@ London 18
 norde 18
 studiante 18
 descrive 18
+valua 18
 Grande 18
 capasia 18
 бус 18
@@ -1025,7 +1026,6 @@ developa 17
 "Me 17
 masca 17
 Con 17
-valua 17
 Fa 17
 sidra 17
 radio 17
@@ -1168,6 +1168,7 @@ Layla 15
 Regarda 15
 Ela 15
 Intelijentia 15
+alma 15
 colores 14
 forma 14
 Italia 14
@@ -1177,6 +1178,7 @@ comanda 14
 conoseda 14
 fluente 14
 bastante 14
+paises 14
 orolojo 14
 sangue 14
 dirije 14
@@ -1224,7 +1226,6 @@ monton 14
 Бон 14
 туркес 14
 ело 14
-alma 14
 Pardona 13
 foresta 13
 Bonveni 13
@@ -1233,7 +1234,6 @@ prefereda 13
 fida 13
 sores 13
 ferida 13
-paises 13
 tomates 13
 salon 13
 descomuta 13
@@ -1380,6 +1380,7 @@ Alora 12
 consensa 12
 saja 12
 misterio 12
+falsa 12
 sejas 12
 bangla 12
 selulas 12
@@ -1500,7 +1501,6 @@ mesura 11
 brilia 11
 duple 11
 rea 11
-falsa 11
 dura 11
 servi 11
 amira 11
@@ -1786,6 +1786,7 @@ veste 9
 amini 9
 mercato 9
 esente 9
+justia 9
 лунди 9
 куантиа 9
 Жапан 9
@@ -1976,7 +1977,6 @@ contata 8
 Brosi 8
 brosa 8
 labios 8
-justia 8
 Unida 8
 acui 8
 фоко 8
@@ -2149,6 +2149,7 @@ conserta 7
 pratical 7
 Zica 7
 relatada 7
+sperde 7
 Canes 7
 computadores 7
 area 7
@@ -2385,7 +2386,6 @@ reata 6
 Suomi 6
 B 6
 relata 6
-sperde 6
 confirma 6
 pari 6
 plaser 6
@@ -2747,6 +2747,7 @@ Evidente 5
 saluta 5
 profesal 5
 mediciste 5
+posta 5
 fronti 5
 recordo 5
 ospita 5
@@ -3071,6 +3072,7 @@ moleculas 5
 unu 5
 cuadro 5
 pantaletas 5
+ha 5
 masima 5
 mecanica 5
 куадрос 5
@@ -3218,7 +3220,6 @@ in 4
 cortesia 4
 limita 4
 foles 4
-posta 4
 Janeiro 4
 ecipos 4
 ministreria 4
@@ -6671,7 +6672,6 @@ soreta 2
 zugzwang 2
 seguente: 2
 a3 2
-ha 2
 ха 2
 Anand 2
 uso 2

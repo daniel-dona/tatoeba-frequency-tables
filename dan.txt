@@ -1,11 +1,11 @@
-er 14901
+er 14902
 Jeg 9722
 at 7706
 en 7213
 i 7145
-Tom 7130
-ikke 6914
-har 6464
+Tom 7132
+ikke 6915
+har 6466
 du 4564
 til 4444
 på 4197
@@ -14,10 +14,10 @@ og 3323
 for 3322
 jeg 3193
 Han 3025
-Det 2894
-med 2848
-af 2837
-var 2812
+Det 2895
+med 2849
+af 2838
+var 2814
 et 2761
 mig 2718
 kan 2279
@@ -25,7 +25,7 @@ den 1971
 der 1951
 Hun 1919
 dig 1741
-om 1676
+om 1677
 Vi 1631
 Mary 1560
 vil 1556
@@ -37,7 +37,7 @@ så 1446
 min 1335
 ved 1313
 meget 1216
-De 1213
+De 1214
 her 1036
 Hvor 1019
 de 1010
@@ -58,7 +58,7 @@ dag 762
 ud 741
 vi 741
 skal 731
-går 728
+går 729
 lide 717
 op 710
 os 695
@@ -244,8 +244,8 @@ døde 170
 drikker 169
 står 168
 holde 166
+På 165
 barn 165
-På 164
 land 164
 skole 163
 kvinde 163
@@ -266,8 +266,8 @@ troede 153
 hinanden 153
 Mit 152
 bror 152
+Algeriet 152
 eneste 151
-Algeriet 151
 burde 150
 alene 149
 væk 149
@@ -349,10 +349,10 @@ fire 120
 bruger 120
 holdt 119
 faldt 118
+øjne 118
 hedder 118
 født 118
 fuld 117
-øjne 117
 forstår 117
 engang 117
 jul 117
@@ -437,11 +437,11 @@ mistet 91
 At 91
 behøver 91
 giver 91
+leve 91
 sko 90
-leve 90
+blå 90
 Tyskland 90
 Når 89
-blå 89
 Så 89
 John 89
 langt 89
@@ -484,6 +484,7 @@ Efter 82
 læser 82
 syv 81
 talte 81
+Nogle 81
 æg 80
 For 80
 menneske 80
@@ -491,7 +492,6 @@ toget 80
 haven 80
 smukke 80
 time 80
-Nogle 80
 klar 80
 ung 79
 film 79
@@ -642,6 +642,7 @@ sket 59
 ét 59
 væggen 58
 Tokyo 58
+fri 58
 bus 58
 Om 58
 hører 58
@@ -649,7 +650,6 @@ ben 58
 lå 58
 fortalt 58
 nær 57
-fri 57
 Taler 57
 stationen 57
 rødt 57
@@ -1861,6 +1861,7 @@ sneede 16
 tilbud 16
 taske 16
 kreditkort 16
+modsatte 16
 april 16
 beklager 16
 Schweiz 16
@@ -1946,7 +1947,6 @@ efteråret 15
 naboer 15
 kampen 15
 korrekt 15
-modsatte 15
 underviser 15
 århundrede 15
 Bob 15
@@ -2480,8 +2480,10 @@ Tom" 12
 sinde 12
 ædelgraner 12
 luge 12
+trods 11
 søen 11
 sex 11
+George 11
 allesammen 11
 Nå 11
 Tysklands 11
@@ -2665,9 +2667,7 @@ plæneklipper 11
 røræg 11
 Ester 11
 Koranen 11
-trods 10
 jazz 10
-George 10
 hemmeligt 10
 hotellet 10
 menneskeheden 10
@@ -2859,6 +2859,7 @@ prinsesse 10
 Rio 10
 hebræisk 10
 Koncerten 10
+giftige 10
 hjemve 10
 kap 10
 Æblerne 10
@@ -3135,7 +3136,6 @@ gas 9
 skuffe 9
 akvariet 9
 hebraisk 9
-giftige 9
 håndtaske 9
 almindeligt 9
 puttet 9
@@ -3440,6 +3440,7 @@ sportsvogn 8
 Pak 8
 gris 8
 geder 8
+rygter 8
 opdrætter 8
 papirfly 8
 bedstemors 8
@@ -3843,7 +3844,6 @@ køerne 7
 sømmet 7
 afstand 7
 mistanke 7
-rygter 7
 sludder 7
 Ha' 7
 synd 7
@@ -4966,6 +4966,7 @@ spinat 5
 hæslig 5
 skrider 5
 journalist 5
+Millie 5
 pink 5
 imponeret 5
 ækvator 5
@@ -5626,6 +5627,7 @@ finansielle 4
 bageriet 4
 Tilføj 4
 mayonnaise 4
+svampe 4
 parkerer 4
 hade 4
 Træer 4
@@ -5958,7 +5960,6 @@ kommentarer 4
 bluse 4
 forhindrer 4
 Arbejdet 4
-Millie 4
 Mette 4
 udløber 4
 herretøj 4
@@ -6883,7 +6884,6 @@ opfordrede 3
 geværet 3
 ernærede 3
 tilbudt 3
-svampe 3
 forbereder 3
 basketball 3
 immun 3

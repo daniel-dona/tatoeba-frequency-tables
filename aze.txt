@@ -2,7 +2,7 @@ Mən 636
 O 444
 Tom 395
 Bu 335
-var 247
+var 248
 bir 206
 nə 175
 çox 163
@@ -886,6 +886,7 @@ Mariya 4
 evi 4
 Məktəb 4
 açılır 4
+gözləri 4
 xoşlayırsan 4
 işləyirəm 4
 sarıdır 4
@@ -935,6 +936,7 @@ pivə 3
 Xoş 3
 Taksi 3
 qızdır 3
+göy 3
 otağı 3
 təmizləyir 3
 yazmaq 3
@@ -1257,7 +1259,6 @@ götür 3
 iti 3
 xoşlamır 3
 çalışıram 3
-gözləri 3
 Bayırda 3
 mümkün 3
 limon 3
@@ -1351,7 +1352,6 @@ evliyəm 2
 toyuq 2
 istəyirsənmi 2
 Səma 2
-göy 2
 Anam 2
 təhsili 2
 gələcəksən 2
@@ -7421,3 +7421,4 @@ divanın 1
 çatdıq 1
 Duşana 1
 danışqandır 1
+Milinin 1

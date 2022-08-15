@@ -2,14 +2,14 @@ es 223
 un 124
 Tom 98
 El 91
-en 80
+en 82
 el 78
 de 74
+no 73
 איס 72
-no 71
 la 66
+una 54
 No 53
-una 51
 esta 50
 a 46
 איל 42
@@ -60,6 +60,7 @@ mansana 13
 Kero 12
 vos 12
 portokal 12
+mora 12
 York 12
 Tengo 12
 Deke 12
@@ -73,7 +74,6 @@ me 10
 mujer 10
 fue 10
 Somos 10
-mora 10
 te 10
 ladron 10
 די 10
@@ -103,8 +103,10 @@ paras 8
 padre 8
 Moro 8
 Komo 8
+Sami 8
 Trump 8
 grande 8
+Dingunos 8
 ebreo 8
 אה 8
 Shabat 7
@@ -121,7 +123,6 @@ ermano 7
 Maria 7
 Nu 7
 Se 7
-Sami 7
 mate 7
 kabil 7
 Ester 7
@@ -146,7 +147,6 @@ mundo 6
 avlash 6
 alegre 6
 גאטו 6
-Dingunos 6
 ייו 6
 קומו 6
 מוזﬞיר 6
@@ -306,8 +306,10 @@ Keremos 3
 בﬞיאו 3
 בלאנקו 3
 gerra 3
+Teman 3
 פאראס 3
 kave 3
+tienen 3
 אקי 3
 yo 3
 Avre 3
@@ -999,7 +1001,6 @@ desnudo 1
 טרוקאר 1
 פﬞוטו 1
 פערפﬞיל 1
-Teman 1
 kale 1
 akavar 1
 תימן 1
@@ -1025,7 +1026,6 @@ Tenemos 1
 סאבﬞין 1
 agrada 1
 espanyoles 1
-tienen 1
 alkunyas 1
 Zhou 1
 Wan 1
@@ -1662,3 +1662,9 @@ miente 1
 demaziados 1
 devemos 1
 tienes 1
+Uvo 1
+tentativa 1
+Akordamos 1
+neshama 1
+alma 1
+Leila 1

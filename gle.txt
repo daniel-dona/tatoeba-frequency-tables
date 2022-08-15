@@ -1,8 +1,8 @@
 an 607
-Tá 590
+Tá 591
 a 577
 mé 369
-ag 367
+ag 368
 Is 315
 é 254
 ar 224
@@ -370,6 +370,7 @@ Le 5
 aimsir 5
 Ithim 5
 airde 5
+súile 5
 áthas 5
 haon 5
 hÉire 5
@@ -465,7 +466,6 @@ domhan 4
 habair 4
 caith 4
 rún 4
-súile 4
 talamh 4
 óg 4
 ceathair 4
@@ -645,6 +645,7 @@ fágáil 3
 bháis 3
 soiléir 3
 gol 3
+Millie 3
 leath 3
 líofa 3
 tharla 3
@@ -959,7 +960,6 @@ náire 2
 ghabháil 2
 maireachtáil 2
 Pua 2
-Millie 2
 linne 2
 arán 2
 Aontaithe 2
@@ -2811,3 +2811,4 @@ dheoch 1
 óstáin 1
 caoga 1
 aoibhinn 1
+gorma 1

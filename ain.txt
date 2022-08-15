@@ -1,4 +1,4 @@
-ne 58
+ne 59
 an 45
 wa 41
 ruwe 34
@@ -7,8 +7,8 @@ ka 25
 tanpe 19
 somo 19
 pirka 19
+ya 19
 yan 18
-ya 18
 as 18
 Tom 17
 apto 15
@@ -179,6 +179,7 @@ ne" 2
 mosma 2
 rehe 2
 mak 2
+pa 2
 etoko 2
 sinot 2
 e-kopisi 2
@@ -378,7 +379,6 @@ koyra 1
 no 1
 menoko 1
 wan 1
-pa 1
 mimus 1
 poyson 1
 hekattar 1
@@ -426,3 +426,10 @@ ku-honi 1
 "iwanke-an 1
 iyayraykere" 1
 ikatay 1
+Ku=kor 1
+unarpe 1
+omkekar 1
+Hana 1
+katkemat 1
+kor=kanpisos 1
+eikka 1
