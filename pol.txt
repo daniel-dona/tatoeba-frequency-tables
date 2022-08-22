@@ -3,18 +3,18 @@ nie 12729
 jest 12492
 w 11328
 Tom 10080
-na 9490
-Nie 8324
+na 9492
+Nie 8326
 to 7595
 że 7137
-do 6894
+do 6896
 z 6700
 To 4124
 i 3950
-Czy 3544
+Czy 3545
 mi 3313
 o 3225
-mnie 3099
+mnie 3100
 ma 2781
 co 2693
 On 2644
@@ -40,14 +40,14 @@ ale 1321
 Co 1268
 Toma 1256
 domu 1241
-Mam 1178
+Mam 1179
 być 1159
 Jak 1138
 tylko 1137
 ten 1125
 jego 1102
 było 1102
-Jest 1080
+Jest 1081
 jej 1080
 mogę 1080
 Ten 1059
@@ -86,13 +86,13 @@ Na 685
 kiedy 680
 więcej 680
 Dlaczego 679
-iść 659
+iść 660
 wszystko 654
 teraz 635
 jesteś 634
 Gdzie 631
 ją 629
-tę 626
+tę 627
 Chciałbym 625
 Chcę 619
 mówi 616
@@ -126,9 +126,9 @@ Po 504
 ja 504
 dziś 500
 prawda 496
-chcesz 495
+chcesz 496
 Jeśli 493
-przed 487
+przed 488
 Muszę 484
 swoje 483
 tutaj 480
@@ -152,7 +152,7 @@ ludzi 418
 gdzie 416
 nim 416
 moim 414
-Moja 410
+Moja 411
 dzień 404
 ich 403
 Z 402
@@ -180,7 +180,7 @@ swoją 362
 rzeczy 357
 pomóc 356
 często 355
-dzisiaj 352
+dzisiaj 353
 - 350
 pracę 348
 powodu 347
@@ -264,7 +264,7 @@ dobry 258
 razy 258
 Bostonu 256
 ta 254
-Wczoraj 252
+Wczoraj 253
 wiedzieć 252
 wygląda 249
 moja 249
@@ -306,8 +306,8 @@ jesteśmy 225
 pokój 224
 nawet 223
 u 223
+jeść 222
 mieć 221
-jeść 221
 zajęty 220
 Do 219
 musisz 219
@@ -326,8 +326,8 @@ Przepraszam 213
 dlaczego 213
 miejsce 212
 końcu 210
+muszę 210
 Właśnie 210
-muszę 209
 psa 208
 szkole 206
 twoja 205
@@ -435,9 +435,9 @@ Widziałem 161
 dalej 160
 brat 160
 zeszłym 160
+śniadanie 160
 Ojciec 159
 ile 159
-śniadanie 159
 pomysł 158
 wypadku 158
 innych 158
@@ -526,6 +526,7 @@ kupił 133
 miała 133
 którzy 133
 twojego 133
+pójść 133
 włosy 132
 Przez 132
 wtedy 132
@@ -533,7 +534,6 @@ temat 132
 potrafi 132
 albo 132
 Dzisiaj 132
-pójść 132
 język 131
 nikt 131
 chwilę 131
@@ -589,6 +589,7 @@ którą 123
 będą 123
 chciałem 123
 rodziców 122
+późno 122
 duży 122
 piękna 122
 Myślisz 122
@@ -596,7 +597,6 @@ przyszłym 122
 lub 122
 źle 122
 Gdyby 122
-późno 121
 całkiem 121
 ważne 121
 Twój 120
@@ -622,6 +622,7 @@ pewno 117
 każdego 117
 których 117
 ziemi 116
+lekarza 116
 łatwo 116
 musimy 116
 dobra 116
@@ -631,15 +632,14 @@ Było 115
 Za 115
 strony 115
 trzeba 115
-lekarza 115
 komputer 115
 Bądź 115
 jakiś 115
+Uwielbiam 115
 Wszystkie 114
 śnieg 114
 również 114
 angielski 114
-Uwielbiam 114
 tobie 113
 mówię 113
 przyjaciółmi 113
@@ -694,6 +694,7 @@ Uważam 105
 ponieważ 105
 działa 105
 Twoja 105
+żona 105
 wystarczająco 105
 powiedziałeś 104
 głowy 104
@@ -701,7 +702,6 @@ gdzieś 104
 głodny 104
 coraz 104
 porządku 104
-żona 104
 Prawie 103
 ostatni 103
 kraj 102
@@ -975,6 +975,7 @@ kobiety 75
 oglądać 75
 odpowiedzieć 75
 wolny 75
+łóżka 75
 Japonia 74
 Wyglądasz 74
 zależy 74
@@ -992,7 +993,6 @@ ochotę 74
 pożyczyć 74
 kuchni 74
 jesteście 74
-łóżka 74
 Tomasz 74
 piosenkę 73
 nazwisko 73
@@ -1080,6 +1080,7 @@ mięso 68
 jedzą 68
 Powinienem 68
 potem 68
+ 68
 studentów 67
 Zrób 67
 Weź 67
@@ -1092,7 +1093,6 @@ ubrania 67
 firmy 67
 zajęta 67
 prawdopodobnie 67
- 67
 przychodzi 66
 japońsku 66
 żadnego 66
@@ -1358,6 +1358,7 @@ sklepie 53
 dziecka 53
 ciemno 53
 złe 53
+butelkę 53
 miłość 53
 Londynu 53
 Europie 53
@@ -1386,7 +1387,6 @@ granicą 52
 kwiatów 52
 powiem 52
 rozumie 52
-butelkę 52
 najlepiej 52
 biura 52
 Widziałeś 52
@@ -1475,6 +1475,7 @@ szuka 50
 widzi 49
 powiedzenia 49
 zapytał 49
+czeka 49
 sukcesu 49
 rzeki 49
 Pod 49
@@ -1502,7 +1503,6 @@ biurku 48
 pójdzie 48
 brakuje 48
 30 48
-czeka 48
 sen 48
 miło 48
 listu 48
@@ -3947,6 +3947,7 @@ Proponuję 17
 nogach 17
 podobnie 17
 kurczaka 17
+temperaturę 17
 odpowiadać 17
 wypić 17
 jesień 17
@@ -4118,6 +4119,7 @@ zamknięta 16
 plecy 16
 uratował 16
 las 16
+Latem 16
 Spędziliśmy 16
 rozmawiałem 16
 zdarzyć 16
@@ -4135,7 +4137,6 @@ mylę 16
 Albo 16
 posiłki 16
 pokonać 16
-temperaturę 16
 łóżkiem 16
 nikim 16
 reguły 16
@@ -4366,7 +4367,6 @@ uwielbiają 15
 pięknym 15
 tchórzem 15
 Żołnierze 15
-Latem 15
 zabronione 15
 zapomina 15
 głęboki 15
@@ -4767,6 +4767,7 @@ Daję 13
 mln 13
 intensywnie 13
 Spróbujmy 13
+pójściem 13
 Siostra 13
 Wstyd 13
 osiągnął 13
@@ -4913,6 +4914,7 @@ zdradził 13
 tempie 13
 spóźnimy 13
 Widać 13
+zimną 13
 korku 13
 człowiekowi 13
 plecami 13
@@ -5099,7 +5101,6 @@ wychodziłem 12
 uruchomić 12
 otwarcie 12
 pecha 12
-pójściem 12
 Zacznijmy 12
 kąpać 12
 wygodnie 12
@@ -5266,7 +5267,6 @@ współczesnej 12
 dawaj 12
 zaczekał 12
 płytę 12
-zimną 12
 bok 12
 małżeństwa 12
 szyję 12
@@ -7876,6 +7876,7 @@ leku 8
 przetłumaczone 8
 niemiły 8
 whisky 8
+powinniście 8
 zgłosił 8
 Boisz 8
 bezdomny 8
@@ -7885,6 +7886,7 @@ polski 8
 zjada 8
 kamery 8
 Błogosławieni 8
+spędzam 8
 jasny 8
 iż 8
 spaceru 8
@@ -7997,6 +7999,7 @@ atmosfera 7
 nago 7
 prośbie 7
 pożyczkę 7
+północnej 7
 gór 7
 Powodem 7
 spóźnienia 7
@@ -8786,7 +8789,6 @@ potrącony 7
 możliwy 7
 wyspą 7
 zastrzelony 7
-powinniście 7
 zostawać 7
 miasteczko 7
 finansowe 7
@@ -8813,7 +8815,6 @@ bogaci 7
 rozwodu 7
 napełnił 7
 albowiem 7
-spędzam 7
 Tomkowi 7
 oczekujesz 7
 kolejowej 7
@@ -8944,7 +8945,6 @@ brzegiem 6
 fotel 6
 prezesa 6
 słusznie 6
-północnej 6
 przeprowadza 6
 Serbii 6
 Oskarżył 6
@@ -9284,6 +9284,7 @@ Uczyć 6
 najstarszym 6
 żywcem 6
 zachowaniu 6
+prowincji 6
 65 6
 gośćmi 6
 benzyna 6
@@ -9997,4 +9998,3 @@ naturalnym 6
 czeskiego 6
 ewidentnie 6
 college'u 6
-Zajmij 6

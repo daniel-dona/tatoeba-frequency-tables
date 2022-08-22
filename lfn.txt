@@ -1,21 +1,21 @@
-es 5802
-la 5390
-ia 4507
-de 3624
-un 3170
+es 5812
+la 5392
+ia 4509
+de 3626
+un 3173
 ла 2802
 ес 2728
-Me 2400
+Me 2404
 иа 2153
-no 1887
+no 1889
 де 1874
-La 1697
+La 1698
 a 1674
 en 1606
-Tom 1546
+Tom 1548
 ун 1365
+e 1182
 Ме 1182
-e 1181
 tu 1178
 me 1122
 ave 1063
@@ -24,20 +24,20 @@ ave 1063
 но 910
 ce 896
 ен 882
-El 862
+El 864
 Esce 772
 plu 701
 va 698
 ме 662
 sua 658
 ту 655
-multe 641
+multe 642
 el 640
 per 635
-pote 609
+pote 610
 cual 609
 е 596
-esta 590
+esta 591
 аве 564
 mea 547
 lo 542
@@ -60,12 +60,12 @@ nos 372
 мулте 355
 плу 351
 sabe 349
-tua 346
+tua 347
 меа 345
-gusta 343
+gusta 344
 Lo 343
 par 337
-bon 324
+bon 325
 Mea 321
 sur 320
 come 319
@@ -88,16 +88,16 @@ cuando 253
 vade 247
 los 244
 tota 238
+o 235
 ama 234
-o 234
 воле 232
 vive 231
 vide 227
 ca 225
 Los 222
 нос 221
-Un 218
-parla 216
+Un 219
+parla 217
 коса 213
 jua 209
 Еста 209
@@ -188,8 +188,8 @@ importante 114
 ма 113
 Perce 112
 abita 112
+scrive 111
 аси 111
-scrive 110
 trova 108
 peti 108
 гранде 108
@@ -202,10 +202,10 @@ Mary 105
 fem 103
 poma 101
 када 101
+gato 99
 usa 99
 nunca 99
 si 99
-gato 98
 nova 98
 anios 98
 Но 98
@@ -214,10 +214,10 @@ anios 98
 Si 96
 aida 96
 А 96
+Do 95
 ja 95
 tra 95
 каса 95
-Do 94
 senti 94
 мундо 94
 meа 92
@@ -332,13 +332,13 @@ cara 60
 Вос 60
 нунка 60
 semana 59
+mal 59
 longa 59
 cambia 59
 cafe 59
 коносе 59
 пасеа 59
 enebriada 59
-mal 58
 scola 58
 entre 58
 mata 58
@@ -436,6 +436,7 @@ note 44
 jardin 44
 oblida 44
 causa 44
+odia 44
 negra 44
 familia 44
 cavalo 44
@@ -445,7 +446,6 @@ parolas 43
 amis 43
 cuatro 43
 fenetra 43
-odia 43
 su 43
 аида 43
 сya 43
@@ -495,6 +495,7 @@ deutx 39
 desira 39
 E 39
 pan 39
+frate 39
 resta 39
 fura 39
 algun 39
@@ -507,7 +508,6 @@ Xina 39
 моне 39
 оиос 39
 capeles 38
-frate 38
 papilios 38
 vino 38
 rusce 38
@@ -652,6 +652,7 @@ coce 29
 sonia 29
 sude 29
 des 29
+dulse 29
 плуве 29
 енфанте 29
 пома 29
@@ -669,7 +670,6 @@ nasion 28
 variosa 28
 xef 28
 distante 28
-dulse 28
 New 28
 juores 28
 студиа 28
@@ -814,6 +814,7 @@ lado 22
 lete 22
 tren 22
 intera 22
+esperanto 22
 Oji 22
 avia 22
 famosa 22
@@ -844,7 +845,6 @@ ecipo 21
 Plu 21
 cuanto 21
 vivente 21
-esperanto 21
 pas 21
 cuantia 21
 Ance 21
@@ -1015,6 +1015,7 @@ boca 17
 peso 17
 Ave 17
 paper 17
+natur 17
 barcon 17
 polisia 17
 vestes 17
@@ -1066,7 +1067,6 @@ dudes 16
 Sur 16
 oto 16
 asconde 16
-natur 16
 repara 16
 materia 16
 Australia 16
@@ -1683,6 +1683,7 @@ Musica 10
 О 10
 касо 10
 импорта 10
+povre 10
 дуи 10
 клима 10
 адорми 10
@@ -1832,7 +1833,6 @@ platos 9
 теста 9
 сентро 9
 косина 9
-povre 9
 универсо 9
 траверса 9
 аутоно 9
@@ -2692,6 +2692,7 @@ sabor 5
 jelo 5
 Nada 5
 bandetas 5
+spada 5
 eterna 5
 sinia 5
 poplas 5
@@ -3146,7 +3147,6 @@ cualia 4
 duples 4
 simbol 4
 Saturno 4
-spada 4
 armonia 4
 donadas 4
 martel 4
@@ -3419,6 +3419,7 @@ momentos 4
 Естас 4
 дана 4
 фурор 4
+biolojiste 4
 maral 4
 folida 4
 Jackson 4
@@ -3449,6 +3450,7 @@ Petrobras 4
 Петробрас 4
 Lava 4
 Сегуенте 4
+politicistes 4
 кондена 4
 nonlegal 4
 нонлегал 4
@@ -3655,6 +3657,7 @@ funsionas 4
 empleor 4
 pilote 4
 абитада 4
+anarciste 4
 bonom 4
 dorminte 4
 Sta 4
@@ -3847,6 +3850,7 @@ clusas 3
 barcos 3
 bujeta 3
 engoli 3
+obesa 3
 Nansi 3
 baldon 3
 Polsca 3
@@ -4212,7 +4216,6 @@ interlingua 3
 антоним 3
 темпеста 3
 cliente 3
-biolojiste 3
 семафор 3
 фолида 3
 нион 3
@@ -4265,7 +4268,6 @@ acusada 3
 акусада 3
 motiva 3
 ренови 3
-politicistes 3
 интеркамбиа 3
 (mil 3
 три 3
@@ -4632,7 +4634,6 @@ campana 3
 пилоте 3
 milias 3
 милиас 3
-anarciste 3
 dorso 3
 боном 3
 deserto 3
@@ -4684,6 +4685,7 @@ ronrona 3
 sefardi 3
 mentes 3
 ментес 3
+Cambia 3
 diferes 3
 politiciste 3
 deser 3
@@ -4934,6 +4936,7 @@ Er 2
 anunsias 2
 Des-ses 2
 comersial 2
+teroriste 2
 redes 2
 vestida 2
 Oserva 2
@@ -4957,7 +4960,6 @@ publicida 2
 retardas 2
 ansios 2
 pil 2
-obesa 2
 envolve 2
 vasos 2
 dejeto 2
@@ -6511,6 +6513,8 @@ tirano 2
 вестон 2
 патре 2
 patre 2
+dijital 2
+greve 2
 cooperante 2
 fidable 2
 Sena 2
@@ -6571,7 +6575,6 @@ retiles 2
 imperaliste 2
 berber 2
 itiopian 2
-Cambia 2
 Камбиа 2
 Atenta 2
 Атента 2
@@ -6632,6 +6635,7 @@ idealiste 2
 пика 2
 Esuanes 2
 otimistes 2
+Americanes 2
 maltape 2
 Stella 2
 persian 2
@@ -6904,6 +6908,7 @@ olivas 2
 muses 2
 pavones 2
 Асиа 2
+bipolal 2
 reconstrui 1
 Escusa 1
 Jim 1
@@ -7154,7 +7159,6 @@ Anunsias 1
 Atestores 1
 afirma 1
 cilometre 1
-teroriste 1
 sirculinte 1
 xutante 1
 Zimbabue 1
@@ -9994,7 +9998,3 @@ otodes-tre 1
 нарвал 1
 манадас 1
 костас 1
-Барко 1
-пропулсада 1
-ремос 1
-велас 1

@@ -1,5 +1,5 @@
 ne 59
-an 45
+an 46
 wa 41
 ruwe 34
 ta 26
@@ -56,6 +56,7 @@ amip 6
 poronno 6
 humi 6
 korka 5
+arka 5
 icen 5
 hi 5
 patek 5
@@ -63,6 +64,7 @@ numan 5
 ya" 5
 tanpaku 5
 k-eramasu 5
+kur 5
 ruy 5
 mean 5
 un" 5
@@ -71,7 +73,6 @@ ek 5
 anakne 5
 sonno 5
 kus 4
-arka 4
 k-e 4
 kani 4
 ku-nukar 4
@@ -81,7 +82,6 @@ pakno 4
 "ku-iwanke 4
 wa" 4
 Mari 4
-kur 4
 sirpirka 4
 isam 4
 sirsesek 4
@@ -167,6 +167,7 @@ tap 2
 en-mososo 2
 ye 2
 tansak 2
+ru 2
 menokoru 2
 asinru 2
 k-etun 2
@@ -191,6 +192,7 @@ ku-hok 2
 e-ku 2
 ruyka 2
 ika 2
+kane 2
 hempara 2
 e-hosipi 2
 ancikar 2
@@ -325,7 +327,6 @@ oka-an 1
 toani 1
 eteun 1
 tanpa 1
-ru 1
 simoysam 1
 harkisam 1
 k-eisramne 1
@@ -415,7 +416,6 @@ yak 1
 Anna 1
 e-ne 1
 tapne 1
-kane 1
 ipe 1
 usi 1
 ku-tokuye 1
@@ -433,3 +433,8 @@ Hana 1
 katkemat 1
 kor=kanpisos 1
 eikka 1
+Konru 1
+Ku=honi 1
+Epotara 1
+henne 1
+ku=ne 1

@@ -1,5 +1,5 @@
 U 59
-Men 57
+Men 59
 Bu 55
 bor 32
 bir 25
@@ -124,6 +124,7 @@ oz 4
 qushlarimni 4
 qaysi 4
 Eshikni 4
+Pul 4
 go'shti 4
 Bank 4
 Rahmat 3
@@ -193,7 +194,9 @@ Hozir 3
 bilasanmi 3
 Bunaqa 3
 kutib 3
+Ushbu 3
 qor 3
+yemayman 3
 Baliqni 3
 ko‘raman 3
 Sensiz 2
@@ -378,6 +381,7 @@ aytaman 2
 ayta 2
 ko'proq 2
 Keyingi 2
+ovozini 2
 aniq 2
 aql 2
 yoshda 2
@@ -399,6 +403,7 @@ telefon 2
 ko'rmadingizmi 2
 ko'rmadingmi 2
 bora 2
+olamanmi 2
 Turkcha 2
 ishni 2
 iltimos 2
@@ -434,18 +439,15 @@ bunaqa 2
 Meni 2
 o'ylaysanmi 2
 nechida 2
-Ushbu 2
 tana 2
 yogʻdi 2
 Bizda 2
 haydovchisi 2
 Nimalarni 2
 o'rganaman 2
-Pul 2
 bo'ladimi 2
 Sizga 2
 to'lashim 2
-yemayman 2
 kerakmi 2
 Inglizcha 2
 xonada 2
@@ -454,6 +456,7 @@ oltidan 2
 o'tgan 2
 tomonda 2
 o'ldirding 2
+o‘z 2
 ko‘p 2
 Germaniyaga 2
 barbod 1
@@ -1415,7 +1418,6 @@ alohida 1
 zavq 1
 berar 1
 Ayolning 1
-ovozini 1
 eshitdim 1
 Qorong'ida 1
 ko'rinmaydi 1
@@ -1506,7 +1508,6 @@ qildingmi 1
 ishonasan 1
 ishonasiz 1
 Favvoraga 1
-olamanmi 1
 Toshbaqalarning 1
 tishlari 1
 Unda 1
@@ -2123,7 +2124,6 @@ qulflanganidan 1
 do‘konga 1
 kirolmadim 1
 Jazoir 1
-o‘z 1
 bayrog‘ini 1
 o‘zgartirmagan 1
 kitobingiz 1
@@ -2169,3 +2169,15 @@ banan 1
 yemaydilar 1
 o‘qishni 1
 o'qituvchisi 1
+Televizorning 1
+pasaytira 1
+alomatga 1
+duch 1
+kelishingiz 1
+birinchi 1
+martami 1
+go‘sht 1
+kompyuterimdan 1
+foydalanyapman 1
+yeyolmaysan 1
+yeyilmas 1

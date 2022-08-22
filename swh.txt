@@ -1,5 +1,5 @@
 ya 1291
-na 1068
+na 1069
 wa 751
 kwa 695
 ni 619
@@ -31,7 +31,7 @@ watu 87
 kutoka 86
 wangu 86
 hivyo 84
-alikuwa 82
+alikuwa 83
 kazi 81
 wake 79
 Kwa 76
@@ -200,7 +200,6 @@ yeyote 22
 gari 21
 Wewe 21
 jina 21
-inaweza 21
 zamani 21
 Kila 21
 chochote 21
@@ -221,6 +220,7 @@ furaha 20
 pamoja 20
 kuona 20
 barabara 20
+inaweza 20
 mbele 20
 kula 20
 barua 19
@@ -255,7 +255,6 @@ ulikuwa 18
 karibuni 18
 damu 18
 wote 17
-huwa 17
 Sina 17
 kusema 17
 jana 17
@@ -286,6 +285,7 @@ ndiye 16
 kuchukua 16
 uhalifu 16
 meli 16
+huwa 16
 - 16
 baadaye 16
 akili 15
@@ -358,6 +358,7 @@ paka 13
 vitabu 13
 Rafiki 13
 wiki 13
+anaweza 13
 yule 13
  13
 mwezi 13
@@ -407,7 +408,6 @@ letu 12
 kuingia 12
 kwake 12
 mfano 12
-anaweza 12
 walikuwa 12
 Meli 12
 Polisi 12
@@ -935,6 +935,7 @@ zina 5
 magumu 5
 wanaishi 5
 York 5
+mjini 5
 mwana 5
 Kijerumani 5
 kiko 5
@@ -1141,7 +1142,6 @@ uchi 4
 kuogelea 4
 Chumba 4
 Nilisikia 4
-mjini 4
 Furaha 4
 Rio 4
 Unaongea 4
@@ -1881,6 +1881,7 @@ Nilitaka 3
 tembo 3
 busara 3
 kuonja 3
+kinywa 3
 viatu 3
 ukae 3
 makuu 3
@@ -2215,6 +2216,7 @@ vipya 2
 viumbe 2
 uzani 2
 kivyake 2
+bandari 2
 hutumikia 2
 itaanza 2
 inaendelea 2
@@ -2794,7 +2796,6 @@ inahitajika 2
 Marafiki 2
 ijayo 2
 mjukuu 2
-kinywa 2
 magoti 2
 unatarajia 2
 wezi 2
@@ -3120,8 +3121,8 @@ yanakuwa 1
 Pili 1
 wanafikiri 1
 wakakwenda 1
-wamechoka 1
-warudipo 1
+huchoka 1
+wakirudi 1
 Kumbe 1
 wanachelewa 1
 hamli 1
@@ -3288,7 +3289,6 @@ Tunaandika 1
 Usivute 1
 kitandani 1
 atatusema 1
-ali 1
 wasita 1
 Sisikilizi 1
 alibisha 1
@@ -3843,7 +3843,6 @@ imepewa 1
 Madison 1
 sema 1
 hangeweza 1
-bandari 1
 Wanakijiji 1
 usukani 1
 Kampeni 1
@@ -9255,7 +9254,6 @@ utoke 1
 toa 1
 kitalii 1
 iligongwa 1
-bandarimjini 1
 kiroho 1
 Nilimkaribisha 1
 Ukitaka 1
@@ -9289,7 +9287,6 @@ miezi; 1
 anatabasamu 1
 Marcus 1
 Kiamsha 1
-kinya 1
 inaudhi 1
 Sasha 1
 Kianglo-Saxon 1

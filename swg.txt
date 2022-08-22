@@ -7,7 +7,7 @@ dr 155
 ond 148
 du 144
 hôd 129
-en 116
+en 117
 han 115
 a 113
 mr 112
@@ -16,14 +16,14 @@ mr 112
 mir 107
 an 106
 dass 95
+send 84
 no 83
-send 83
 mid 81
 des 76
 so 76
 zom 76
 se 75
-Mir 72
+Mir 73
 em 72
 hend 69
 sich 67
@@ -42,14 +42,14 @@ et 50
 hod 50
 scho 49
 mi 49
+fir 47
 au 47
-fir 46
 Dees 45
 Dr 44
 will 44
+nix 44
 Des 43
 als 43
-nix 43
 Du 42
 uff 42
 die 42
@@ -93,11 +93,11 @@ mai 26
 mit 26
 es 26
 muass 26
+wo 25
 war 24
 Er 24
 ebbes 24
 wird 24
-wo 24
 koa 24
 benn 24
 äbbes 24
@@ -123,6 +123,7 @@ Frau 19
 wär 19
 wiå 19
 Wer 18
+ons 18
 guad 18
 macht 18
 d' 18
@@ -132,7 +133,6 @@ hier 17
 nemme 17
 den 17
 daine 17
-ons 17
 Worom 17
 'S 17
 Leit 17
@@ -141,13 +141,13 @@ do 16
 ohne 16
 weil 16
 ganz 16
+ra 16
 hôsch 16
 môg 16
 hot 15
 gar 15
 bis 15
 's 15
-ra 15
 kennd 15
 Siå 15
 Sia 14
@@ -238,6 +238,7 @@ für 10
 Haus 10
 geits 10
 nôch 10
+Weld 9
 gsäå 9
 beschde 9
 mol 9
@@ -258,7 +259,6 @@ kommå 9
 Ägypten 9
 Menschå 9
 Gosch 8
-Weld 8
 bessr 8
 Hend 8
 Hond 8
@@ -539,6 +539,7 @@ Fraua 4
 liab 4
 said 4
 schmeggd 4
+werd 4
 Mid 4
 isst 4
 Deifl 4
@@ -654,6 +655,7 @@ Spätzle 3
 Muader 3
 hedd 3
 Beschde 3
+onsre 3
 ällna 3
 oimol 3
 ferddig 3
@@ -720,7 +722,6 @@ nennd 3
 Ort 3
 nai 3
 Auga 3
-werd 3
 Floisch 3
 Maga 3
 iber 3
@@ -846,6 +847,7 @@ Leid 3
 liågd 3
 Hôd 3
 missed 3
+me 3
 bleib 3
 fengd 3
 fallå 3
@@ -959,6 +961,7 @@ han's 2
 Feldweg 2
 Drhoim 2
 scheenschda 2
+- 2
 Bleed 2
 Kuah 2
 Milch 2
@@ -966,7 +969,6 @@ uffheba 2
 Problem 2
 das 2
 Denn 2
-onsre 2
 Fähler 2
 welche 2
 häddat 2
@@ -1322,6 +1324,7 @@ wohnat 2
 Bedrieb 2
 Morgä 2
 schenschde 2
+außr 2
 großä 2
 dribr 2
 liäbr 2
@@ -1451,11 +1454,11 @@ Sonnå 2
 Von 2
 perseenlichå 2
 Ibr 2
-me 2
 Maske 2
 offå 2
 Konschd 2
 kôå 2
+läbed 2
 Afrika 2
 gschlôfå 2
 Kenig 2
@@ -1820,7 +1823,6 @@ uff*m 1
 iohr 1
 vorm 1
 Essa“ 1
-- 1
 kocha“ 1
 schwarza 1
 weissa 1
@@ -3431,7 +3433,6 @@ Rom 1
 benimm 1
 Remer 1
 Reschd 1
-außr 1
 kauf 1
 Arg 1
 vrdreggde 1
@@ -4526,7 +4527,6 @@ schdemmå 1
 S'Läbå 1
 ôgneehm 1
 D*Elefandå 1
-läbed 1
 Asiå 1
 elderer 1
 Duuschd 1
@@ -5364,3 +5364,4 @@ aeim 1
 Wissa 1
 wisr 1
 neyde 1
+Werte 1

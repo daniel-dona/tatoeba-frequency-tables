@@ -1,5 +1,5 @@
-do 982
-oku 591
+do 983
+oku 593
 i 386
 Tom 348
 ku 319
@@ -36,7 +36,7 @@ iyau 65
 dii 63
 Mary 62
 baino 60
-diti 57
+diti 58
 diya 56
 kumaa 54
 nunu 53
@@ -75,9 +75,9 @@ yau 32
 amu 32
 toi 31
 iyolo 31
+miampai 30
 dahai 30
 kaka 29
-miampai 29
 osonong 29
 tomod 28
 miagal 28
@@ -196,6 +196,7 @@ longon 12
 ma 12
 timpu 12
 Nokoilo 12
+dinondo 12
 Olumis 11
 Noilaan 11
 Hinonggo 11
@@ -207,7 +208,6 @@ oilaan 11
 Milo 11
 tulan 11
 tontok 11
-dinondo 11
 sumandak 11
 orohian 10
 muli 10
@@ -319,6 +319,7 @@ Maai 7
 gulu 7
 Atangkangau 7
 Araat 7
+nodii 7
 Mulau 7
 Yesus 7
 dangadau 7
@@ -365,7 +366,6 @@ minongoi 6
 Atuukoi 6
 otood 6
 otumbayaan 6
-nodii 6
 Abalantas 6
 piuhupan 6
 Nokorikot 6
@@ -893,6 +893,7 @@ Pokitonon 2
 Omulok 2
 rumuba 2
 aramai 2
+Kinoiyonon 2
 dogo 2
 mala' 2
 Ounsikou 2
@@ -1325,6 +1326,7 @@ lod 2
 Dusun 2
 komoiboros 2
 monginduruk 2
+poingion 2
 asaru 2
 dilo' 2
 Ada' 2
@@ -1431,7 +1433,6 @@ Miksiko 1
 Insasamadan 1
 Ingkakat 1
 Osogitan 1
-Kinoiyonon 1
 Ihum-ihumon 1
 Awak 1
 ikut 1
@@ -3075,7 +3076,6 @@ padalaai 1
 mongosin 1
 pinokinongou 1
 osokoyut 1
-poingion 1
 soborong 1
 baas 1
 kabar 1
@@ -3612,3 +3612,8 @@ tumuka 1
 Tinimbabaon 1
 Raat 1
 Tinolikudan 1
+obinpuawang 1
+bijih 1
+basi 1
+Nokoundaliu 1
+Songulun 1

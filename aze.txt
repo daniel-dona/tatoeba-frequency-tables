@@ -1,6 +1,6 @@
-Mən 636
+Mən 638
 O 444
-Tom 395
+Tom 396
 Bu 335
 var 248
 bir 206
@@ -34,7 +34,7 @@ yoxdur 53
 Sənin 53
 mən 52
 Bir 52
-edirəm 51
+edirəm 52
 haqqında 48
 gün 46
 Mənə 45
@@ -48,7 +48,7 @@ böyük 40
 hər 40
 kimi 39
 paytaxtıdır 38
-öz 36
+öz 37
 edir 36
 başa 36
 ən 34
@@ -327,6 +327,7 @@ deyə 8
 evdə 8
 qız 8
 olsun 8
+istifadə 8
 gələcək 8
 burda 8
 hamı 8
@@ -380,7 +381,6 @@ bilmədim 7
 kişi 7
 İngilis 7
 təmizdir 7
-istifadə 7
 mənimlə 7
 ne 7
 Bostonda 7
@@ -653,6 +653,7 @@ qızı 5
 düşünürsən 5
 hamımız 5
 istəyirlər 5
+öyrənirəm 5
 əvvəllər 5
 rəqs 5
 Yox 5
@@ -820,7 +821,6 @@ yaşaya 4
 yatdım 4
 qayğısına 4
 birbirimizə 4
-öyrənirəm 4
 Danimarkaya 4
 axtarıram 4
 üstünlük 4
@@ -846,6 +846,7 @@ Misirdə 4
 dildə 4
 danışırlar 4
 yonca 4
+unutmuşam 4
 dənə 4
 inanma 4
 yaxın 4
@@ -1170,7 +1171,6 @@ Avstraliya 3
 Avropada 3
 Kanada 3
 danışmır 3
-unutmuşam 3
 Neçə 3
 etməmişəm 3
 İsaya 3
@@ -2320,6 +2320,7 @@ gözlədik 2
 küçədə 2
 verməsi 2
 düzgün 2
+çalmağı 2
 əminəm 2
 səyahət 2
 Tom-u 2
@@ -6812,7 +6813,6 @@ bəzi 1
 şagirdlərə 1
 digərlərindən 1
 piano 1
-çalmağı 1
 inanmadığından 1
 keçirirmiş 1
 görsəndiyini 1
@@ -7422,3 +7422,9 @@ divanın 1
 Duşana 1
 danışqandır 1
 Milinin 1
+kompüterimdən 1
+gitarada 1
+Zəngli 1
+saatı 1
+söndürməyi 1
+gülür 1

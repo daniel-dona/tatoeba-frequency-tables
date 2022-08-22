@@ -1,10 +1,10 @@
 yn 509
-i 313
+i 314
 Mae 260
 y 188
 Dw 162
+Tom 153
 i'n 152
-Tom 152
 o 106
 ddim 103
 ei 87
@@ -62,11 +62,11 @@ ond 21
 gwneud 21
 mae'r 19
 gan 19
+dw 19
 o'n 19
 rhaid 19
 wneud 19
 Dych 18
-dw 18
 yfed 18
 di 17
 dim 17
@@ -2444,3 +2444,4 @@ albwmin 1
 oriawr 1
 Riga 1
 Latfia 1
+Ffrind 1
