@@ -5,7 +5,7 @@ bor 32
 bir 25
 edi 25
 Mening 24
-Tom 22
+Tom 23
 bormi 22
 nima 21
 emas 21
@@ -151,6 +151,7 @@ gapira 3
 olmaydi 3
 baland 3
 ingliz 3
+qildi 3
 musiqa 3
 hamma 3
 Ingliz 3
@@ -285,7 +286,6 @@ Chaqaloq 2
 Alloh 2
 to'g'ri 2
 Mushuklar 2
-qildi 2
 o'rganmoqchiman 2
 Qachon 2
 gullari 2
@@ -406,6 +406,7 @@ bora 2
 olamanmi 2
 Turkcha 2
 ishni 2
+qilishga 2
 iltimos 2
 sevaman 2
 berib 2
@@ -1527,7 +1528,6 @@ taniydi 1
 gaplashdingizmi 1
 suhbatlashishni 1
 o 1
-qilishga 1
 izin 1
 bermaydi 1
 O'ylisanki 1
@@ -2181,3 +2181,7 @@ kompyuterimdan 1
 foydalanyapman 1
 yeyolmaysan 1
 yeyilmas 1
+bolalarning 1
+e’tiborini 1
+jalb 1
+harakat 1

@@ -1,6 +1,6 @@
-je 1572
+je 1576
 se 595
-u 531
+u 533
 sam 438
 da 402
 li 376
@@ -14,7 +14,7 @@ Ne 190
 to 183
 što 163
 si 162
-za 158
+za 159
 nije 153
 od 144
 On 140
@@ -56,9 +56,9 @@ vrijeme 45
 Želim 45
 svoj 45
 može 44
+Zašto 44
 bila 44
 on 43
-Zašto 43
 kao 43
 jako 43
 nešto 43
@@ -157,6 +157,7 @@ dok 22
 želiš 22
 tvoje 21
 Dobro 21
+dijete 21
 sada 21
 danas 21
 godina 21
@@ -165,7 +166,6 @@ Mi 20
 tko 20
 ovaj 20
 kući 20
-dijete 20
 Uvijek 20
 tome 20
 jednu 20
@@ -196,6 +196,7 @@ Taj 18
 Znam 18
 ovu 18
 zbog 18
+svojoj 17
 volim 17
 često 17
 svojim 17
@@ -211,7 +212,6 @@ problem 17
 sati 17
 put 17
 zar 16
-svojoj 16
 neće 16
 nikada 16
 Možete 16
@@ -297,6 +297,7 @@ nalazi 12
 majka 12
 poslije 12
 koju 12
+sobi 12
 jesti 12
 tebi 12
 misli 12
@@ -331,7 +332,6 @@ ispit 11
 kuća 11
 sestra 11
 koje 11
-sobi 11
 čitati 11
 manje 11
 Moramo 11
@@ -590,6 +590,7 @@ Yorku 6
 Daj 6
 spreman 6
 cipele 6
+glazbu 6
 Dao 6
 okus 6
 možda 6
@@ -706,7 +707,6 @@ sami 5
 poslati 5
 prijedlog 5
 platiti 5
-glazbu 5
 mjeseca 5
 Nadam 5
 zaista 5
@@ -725,6 +725,7 @@ plavu 5
 njegovom 5
 izgubio 5
 Govori 5
+najbolji 5
 opet 5
 sigurno 5
 Sjećam 5
@@ -903,7 +904,6 @@ reci 4
 subotu 4
 Uzmi 4
 odeš 4
-najbolji 4
 čašu 4
 bogat 4
 siromašan 4
@@ -1298,6 +1298,7 @@ hrana 3
 napustiti 3
 zrakoplovom 3
 trebati 3
+planine 3
 njihov 3
 pričaš 3
 trudna 3
@@ -1503,6 +1504,7 @@ Zdravo 3
 Žene 3
 pogodio 3
 talijanski 3
+prekriven 3
 dogoditi 3
 mogli 3
 radio 3
@@ -1537,6 +1539,7 @@ njegovog 3
 živimo 3
 čim 3
 zaključati 3
+vaše 3
 Živjeli 3
 trenutku 3
 uz 3
@@ -1843,7 +1846,6 @@ Zaslužuješ 2
 nagradu 2
 tisuće 2
 tada 2
-planine 2
 teče 2
 Pariz 2
 Učiniti 2
@@ -2257,7 +2259,6 @@ Lišće 2
 povrijediti 2
 Stol 2
 papirom 2
-prekriven 2
 viknuo: 2
 Gudron 2
 destilacije 2
@@ -2368,7 +2369,6 @@ medalju 2
 skrila 2
 susreta 2
 Ovu 2
-vaše 2
 bradu 2
 slagao 2
 obzir 2
@@ -2474,6 +2474,7 @@ došli 2
 pročitati 2
 pregledati 2
 ljudsko 2
+vrh 2
 prevladati 2
 Smiri 2
 komadiću 2
@@ -2538,6 +2539,7 @@ praznici 2
 Sjednite 2
 Sretna 2
 Kosovo 2
+pokrajina 2
 wc 2
 Postoje 2
 otoci 2
@@ -2664,6 +2666,7 @@ Plaža 2
 plaža 2
 Šetali 2
 Istanbul 2
+Turskoj 2
 Dan 2
 "Što 2
 dopustiti 2
@@ -5982,7 +5985,6 @@ zračenje 1
 ovim 1
 isplanirao 1
 dosegnuti 1
-vrh 1
 mrav 1
 Mlađi 1
 Mlađa 1
@@ -6286,7 +6288,6 @@ vune 1
 Veliko 1
 drvo 1
 nevazisna 1
-pokrajina 1
 Dosadan 1
 sedmero 1
 Interlingue 1
@@ -7095,7 +7096,6 @@ Hodali 1
 Berlina 1
 Istanbula 1
 Godinama 1
-Turskoj 1
 Turske 1
 Tursku 1
 lingvist 1
@@ -7988,3 +7988,9 @@ troslovno 1
 kupili 1
 Dušana 1
 Millie 1
+Slušao 1
+Muğla 1
+Zimi 1
+snijegom 1
+džudo 1
+izbor 1

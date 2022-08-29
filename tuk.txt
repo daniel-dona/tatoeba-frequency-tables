@@ -1,4 +1,4 @@
-Tom 1155
+Tom 1156
 Men 861
 Ol 483
 bilen 431
@@ -34,8 +34,8 @@ maňa 105
 meniň 102
 pikir 102
 edip 99
+gün 99
 hem 98
-gün 98
 gerek 93
 Siz 91
 wagt 91
@@ -130,6 +130,7 @@ gitdi 32
 Hemme 32
 hakykatdanam 32
 Onuň 31
+Şu 31
 diňe 31
 bize 31
 ýerine 31
@@ -137,7 +138,6 @@ uly 31
 saña 31
 dilini 30
 söz 30
-Şu 30
 Awstraliýa 30
 biler 30
 gelýär 30
@@ -246,6 +246,7 @@ zatlar 18
 olar 18
 iñ 18
 öñ 18
+gitmek 17
 aýdym 17
 okap 17
 owadan 17
@@ -260,7 +261,6 @@ bilenok 17
 isledi 17
 Tomuñ 17
 islemeýärin 16
-gitmek 16
 saz 16
 uzyn 16
 gelenok 16
@@ -423,6 +423,7 @@ bilerdi 10
 jaň 10
 Tomdan 10
 boljakdygyny 10
+islämok 10
 bilmeýär 10
 wagty 10
 aýdyň 10
@@ -474,9 +475,9 @@ galdy 9
 çykyp 9
 edýärler 9
 adamlary 9
-islämok 9
 bilemokdym 9
 sebäbi 9
+synanyşdy 9
 agşamlyk 9
 çagalary 9
 hakynda 9
@@ -541,7 +542,6 @@ tapyp 8
 görmek 8
 puly 8
 haýsy 8
-synanyşdy 8
 gürrüň 8
 gyza 8
 özbaşdak 8
@@ -1755,6 +1755,7 @@ arz 3
 durýar 3
 haýran 3
 geñ 3
+ýüzmäge 3
 berilmeýär 3
 Isleýän 3
 sözünde 3
@@ -1795,6 +1796,7 @@ beýini 3
 üýtgedýär 3
 sakalyny 3
 wajyp 3
+ünsüni 3
 alýar 3
 etdiñ 3
 eger-de 3
@@ -1813,6 +1815,7 @@ minnetdarlygymy 3
 janly 3
 kitaphana 3
 penjireden 3
+çagalaryň 3
 seredendigiňi 3
 öñünden 3
 üýtgeýär 3
@@ -2962,7 +2965,6 @@ elleri 2
 etmezdi 2
 ulagyna 2
 jogabym 2
-ýüzmäge 2
 garady 2
 küýsär 2
 ruçkalaryny 2
@@ -3069,7 +3071,6 @@ başlajak 2
 Georgler 2
 Otlaryñ 2
 syrdy 2
-ünsüni 2
 gabanar 2
 gabanjañ 2
 göwnüme 2
@@ -3169,7 +3170,6 @@ seretdi 2
 gözýaş 2
 dökdi 2
 bolmaryn 2
-çagalaryň 2
 kynçylyksyz 2
 Kiçijek 2
 gaçmaga 2

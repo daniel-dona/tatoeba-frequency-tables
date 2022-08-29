@@ -1,5 +1,5 @@
-Aku 108
-ora 97
+Aku 110
+ora 99
 Tom 97
 sing 53
 aku 38
@@ -7,13 +7,13 @@ iku 37
 Kowé 33
 ing 32
 karo 32
+iki 30
 Dhèwèké 30
 kowé 29
-iki 29
 kuwi 24
+lunga 23
 ana 22
 wis 22
-lunga 22
 seneng 20
 kudu 19
 menyang 19
@@ -32,11 +32,11 @@ duwé 14
 Aja 14
 bisa 14
 yèn 14
+manèh 13
 Ora 13
 saka 13
 ta 13
 weruh 12
-manèh 12
 kaya 12
 Iki 11
 marang 11
@@ -61,6 +61,7 @@ Panjenengan 8
 boten 8
 Awak 8
 tak 8
+dina 8
 ning 8
 kéné 8
 endi 8
@@ -70,7 +71,6 @@ Iku 7
 kanggo 7
 Mary 7
 pa 7
-dina 7
 teka 7
 akèh 7
 ya 7
@@ -103,6 +103,7 @@ paling 5
 mèh 5
 dhèké 5
 pira 5
+gelem 5
 tindak 5
 dhateng 5
 asu 5
@@ -141,7 +142,6 @@ maca 4
 Sampéyan 4
 loro 4
 Kabèh 4
-gelem 4
 Prancis 4
 ngendi 4
 Ayo 4
@@ -306,6 +306,7 @@ Sesuk 2
 banter 2
 telat 2
 tinimbang 2
+piyé 2
 tenanan 2
 Nalika 2
 sujana 2
@@ -341,6 +342,7 @@ gréja 2
 Paling 2
 Ostrali 2
 taman 2
+lumayan 2
 layang 2
 énggal 2
 ketemu 2
@@ -375,6 +377,7 @@ kancané 2
 layangmu 2
 ngelak 2
 bocah 2
+pati 2
 angèl 2
 dalan 2
 wajikan 2
@@ -812,7 +815,6 @@ mendhing 1
 ꦣꦺꦏꦺꦮꦶꦱ꧀ꦫꦧꦶ 1
 kayané 1
 tenané 1
-piyé 1
 Percaya 1
 malih 1
 pucet 1
@@ -986,7 +988,6 @@ Kawit 1
 ꦮꦶꦮꦶꦠ꧀ꦏꦥꦤ꧀ꦏꦺꦴꦮꦺꦱꦶꦤꦲꦸꦧꦱꦥꦿꦚ꧀ꦕꦶꦱ꧀ 1
 ꦏꦮꦶꦠ꧀ꦏꦥꦤ꧀ꦏꦺꦴꦮꦺꦱꦶꦤꦲꦸꦧꦱꦥꦿꦚ꧀ꦕꦶꦱ꧀ 1
 Bolongané 1
-lumayan 1
 ꦧꦺꦴꦭꦺꦴꦔꦤꦺꦭꦸꦩꦪꦤ꧀ꦒꦝꦺ꧉ 1
 ngirimaké 1
 ꦄꦗꦭꦭꦶꦔꦶꦫꦶꦩꦏꦺꦭꦪꦁꦏꦸꦮꦶ꧉ 1
@@ -1201,7 +1202,6 @@ sumringah 1
 Mayonès 1
 endhog 1
 ꦩꦪꦺꦴꦤꦺꦱ꧀ꦲꦱꦭ꧀ꦭꦺꦱꦏꦲꦼꦤ꧀ꦝꦺꦴꦒ꧀꧈ 1
-pati 1
 ngedol 1
 Montorku 1
 dakdol 1
@@ -1478,3 +1478,15 @@ késah 1
 ꦏꦸꦭꦲꦱꦿꦶꦁꦏꦺꦱꦃꦝꦠꦼꦁꦠꦺꦴꦏꦺꦴꦧꦸꦏꦸꦥꦸꦤꦶꦏ꧉ 1
 réncangipun 1
 kamarku 1
+ꦲꦏꦸꦏꦚ꧀ꦕꦤꦺꦠꦺꦴꦩ꧀꧈ 1
+ꦏꦸꦭꦫꦺꦚ꧀ꦕꦁꦔꦶꦥꦸꦤ꧀ꦠꦺꦴꦩ꧀꧈ 1
+ꦲꦏꦸꦢꦸꦮꦺꦏꦩꦂꦏꦸꦝꦺꦮꦺꦤꦁꦲꦺꦴꦩꦃ꧉ 1
+paham 1
+pitakonmu 1
+ꦲꦏꦸꦲꦺꦴꦫꦥꦠꦶꦥꦲꦩ꧀ꦥꦶꦠꦏꦺꦴꦤ꧀ꦩꦸ꧉ 1
+Sijiné 1
+ꦱꦶꦗꦶꦤꦺꦩꦤꦺꦃꦥꦶꦪꦺ 1
+nglangi 1
+ꦲꦏꦸꦲꦺꦴꦫꦒꦼꦊꦩ꧀ꦭꦸꦔꦔ꧀ꦭꦔꦶꦢꦶꦤꦲꦶꦏꦶ꧉ 1
+Panganané 1
+ꦥꦔꦤ꧀ꦤꦤ꧀ꦤꦺꦭꦸꦩꦪꦤ꧀꧈ 1

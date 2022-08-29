@@ -3,8 +3,8 @@ i 314
 Mae 260
 y 188
 Dw 162
+i'n 153
 Tom 153
-i'n 152
 o 106
 ddim 103
 ei 87
@@ -333,6 +333,7 @@ wybod 4
 arall 4
 parti 4
 Nos 4
+lân 4
 Y 4
 bwysig 4
 Un 4
@@ -443,7 +444,6 @@ Dwyt 3
 goch 3
 lliw 3
 tywydd 3
-lân 3
 athro 3
 dosbarth 3
 fwy 3
@@ -671,7 +671,6 @@ cwestiwn 2
 mawr 2
 rhoi 2
 tlodion 2
-y'n 2
 'ngalw 2
 docyn 2
 flasus 2
@@ -1207,9 +1206,9 @@ drwg 1
 Ellen 1
 cefnfor 1
 dywyll 1
-glân 1
 tal 1
 saint 1
+y'n 1
 gomiwnydd 1
 Gwelon 1
 Gwelodd 1

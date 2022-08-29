@@ -1,12 +1,12 @@
-kɛ 507
+kɛ 508
 Töm 423
 ɛ 255
-jɛ 236
+jɛ 237
 cɛ 184
  157
 mi̱ 137
 ɛn 135
-kä 122
+kä 123
 Ci̱ 120
 nɛy 101
 ɣöö 95
@@ -85,11 +85,11 @@ thuɔ̱k 19
 lɔ̱ŋ 19
 Mɛri̱ 19
 jek 19
+luäŋ 19
 Thiɛlɛ 19
 wee 19
 kɛl 19
 kɛɛl 18
-luäŋ 18
 Päl 18
 Kɛn 18
 Tee 18
@@ -161,6 +161,7 @@ jakä 10
 tɔt 10
 rɛw 10
 thuk 10
+kɔ 10
 Bër 10
 tëë 10
 Deri̱ 10
@@ -184,8 +185,8 @@ kuën 9
 riɛk 9
 bath 9
 cam 9
-kɔ 9
 Bɛ 9
+ɣɔ̱n 9
 liŋ 9
 päl 9
 känɛ 9
@@ -202,7 +203,6 @@ rɛc 8
 gaat 8
 Mi̱ 8
 Kä 8
-ɣɔ̱n 8
 ɔ 8
 ŋa̱c 8
 ti̲ 8
@@ -263,6 +263,7 @@ duer 6
 mɛrɛ 6
 Ciɛ 6
 Guic 6
+pek 6
 ruëëc 6
 to̱kdɔl 6
 cäŋdäär 6
@@ -314,7 +315,6 @@ rami 5
 ma̱th 5
 Luäk 5
 wiee 5
-pek 5
 ba 5
 Malɛ 5
 dɔ̱ŋ 5
@@ -375,6 +375,7 @@ guicɛ 4
 gaak 4
 diɛɛr 4
 ɛmääth 4
+da 4
 pa̱l 4
 caam 4
 ɣok 4
@@ -481,7 +482,6 @@ kap 3
 tiit 3
 Cam 3
 rɔa 3
-da 3
 derɛ 3
 dɛ 3
 jälɛ 3
@@ -2790,3 +2790,4 @@ text 1
 kuen 1
 Määthni 1
 ɛnikä 1
+Ca̱k 1

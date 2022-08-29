@@ -1,4 +1,4 @@
-je 349
+je 350
 v 108
 se 97
 sem 88
@@ -11,7 +11,7 @@ si 50
 in 44
 bi 37
 ni 37
-za 35
+za 36
 bo 35
 me 34
 mi 33
@@ -47,6 +47,7 @@ veliko 12
 s 12
 On 12
 boš 12
+Zakaj 12
 že 12
 dan 11
 prosim 11
@@ -56,7 +57,6 @@ Lahko 11
 knjigo 11
 Kdaj 11
 Imam 11
-Zakaj 11
 Kje 10
 če 10
 Grem 10
@@ -686,6 +686,7 @@ pajkov 2
 Imaš 2
 Zdaj 2
 umil 2
+vašega 2
 Naučil 2
 Naučila 2
 nemško 2
@@ -2415,7 +2416,6 @@ Karl 1
 Valentin 1
 filozof 1
 Žal 1
-vašega 1
 seznamu 1
 Alžirijo 1
 gas 1
@@ -2457,3 +2457,7 @@ gradu 1
 Dušana 1
 Millie 1
 modre 1
+judo 1
+najboljša 1
+izbira 1
+otroka 1

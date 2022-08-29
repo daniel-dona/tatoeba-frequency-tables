@@ -1,4 +1,4 @@
-ya 11347
+ya 11346
 na 7135
 kwa 3135
 wa 3050
@@ -8,11 +8,11 @@ ku 1715
 mu 1412
 sana 1411
 yake 1356
-za 1309
+za 1308
 yangu 1116
 kuwa 1099
 wakati 1049
-yako 852
+yako 850
 kwenye 827
 muzuri 781
 Ni 737
@@ -43,12 +43,12 @@ mwenye 424
 kidogo 409
 nini 404
 ma 402
-tena 383
 kwamba 382
+tena 382
 ile 370
 vile 362
-saa 359
 yote 358
+saa 358
 kutoka 356
 wake 355
 Je 354
@@ -67,8 +67,8 @@ kabisa 308
 cha 306
 sawa 305
 Wakati 305
-moya 298
 Kama 298
+moya 297
 wangu 295
 kwanza 293
 nyumba 291
@@ -83,7 +83,7 @@ ana 264
 ao 264
 ili 261
 gani 260
-nguvu 260
+nguvu 259
 njia 250
  241
 nyuma 237
@@ -131,8 +131,8 @@ mwaka 165
 Kila 164
 mzuri 164
 hivyo 163
-yenyi 161
 wazi 161
+yenyi 160
 Uko 158
 ndege 158
 chakula 157
@@ -340,12 +340,12 @@ byenye 75
 bado 75
 ulikuwa 75
 ule 75
-zetu 75
 bote 75
 inayo 75
 mapema 74
 ulimwengu 74
 hewa 74
+zetu 74
 Maria 74
 Marekani 73
 matokeo 73
@@ -519,7 +519,6 @@ Sitaki 49
 kusikia 49
 hili 49
 siwezi 49
-kuandika 49
 matumaini 49
 angani 49
 kuleta 49
@@ -528,6 +527,7 @@ duniani 48
 hana 48
 zile 48
 ivi 48
+kuandika 48
 bure 48
 kali 48
 nyota 48
@@ -567,7 +567,6 @@ uyu 46
 muzima 46
 beyi 45
 hiki 45
-Labda 45
 familia 45
 zawadi 45
 de 45
@@ -576,6 +575,7 @@ nafanya 45
 kike 45
 Miye 44
 ka 44
+Labda 44
 mmoja 44
 ngumu 44
 zabo 44
@@ -718,7 +718,6 @@ duka 36
 anapashwa 36
 Uyu 36
 ambacho 36
-zilikuwa 36
 mweusi 36
 zenyi 36
 makuta 36
@@ -743,6 +742,7 @@ joto 35
 Tunaweza 35
 boga 35
 angalia 35
+zilikuwa 35
 Saa 35
 ndiyo 35
 huruma 35
@@ -891,7 +891,6 @@ kanuni 30
 kupunguza 30
 majina 30
 Niliona 29
-timu 29
 sinema 29
 kyenye 29
 raisi 29
@@ -914,6 +913,7 @@ kuji 28
 Uta 28
 kulipa 28
 pusi 28
+timu 28
 kutembea 28
 kisiwa 28
 kusaidia 28
@@ -929,7 +929,6 @@ video 28
 huduma 28
 bawili 28
 bana 28
-kwenyi 28
 Gari 28
 ambapo 28
 Ingekuwa 28
@@ -949,7 +948,6 @@ nime 27
 Ata 27
 nje 27
 jukumu 27
-mashindano 27
 busara 27
 kufikiria 27
 uzuri 27
@@ -963,6 +961,7 @@ juya 27
 Tuli 27
 suluhisho 27
 kutumikisha 27
+kwenyi 27
 haikukuwa 27
 mwema 27
 kimapenzi 27
@@ -978,6 +977,7 @@ mgonjwa 26
 siasa 26
 asiye 26
 muganga 26
+mashindano 26
 kibambazi 26
 Jack 26
 sai 26
@@ -1740,7 +1740,6 @@ Askari 14
 mifuko 14
 Lisa 14
 takatifu 14
-kuongoza 14
 tunaona 14
 mjinga 14
 anaonekana 14
@@ -1868,6 +1867,7 @@ udanganyifu 13
 Inaweza 13
 vitendo 13
 kingine 13
+kuongoza 13
 aende 13
 kutambua 13
 Wazazi 13
@@ -2679,7 +2679,6 @@ mtakatifu 9
 unaonekana 9
 alimwambia 9
 kuenea 9
-mutandao 9
 kuvunjika 9
 Mwenyi 9
 haba 9
@@ -2970,6 +2969,7 @@ anaamini 8
 Kadiri 8
 bata 8
 umbo 8
+mutandao 8
 Huwezi 8
 Ulishaka 8
 kimwili 8
@@ -3844,7 +3844,6 @@ Tunaenda 6
 itaji 6
 sport 6
 «Sawa 6
-Kibaya 6
 subiri 6
 Munaweza 6
 kutereza 6
@@ -4491,6 +4490,7 @@ ichi 5
 réception 5
 nyakati 5
 Sikia 5
+Kibaya 5
 Ninaogopa 5
 babu 5
 hiver 5
@@ -4984,7 +4984,6 @@ Atafika 4
 kufunika 4
 mshtuko 4
 poupée 4
-shurti 4
 Katibu 4
 profiter 4
 sipendi 4
@@ -5629,7 +5628,6 @@ crème 4
 Sean 4
 kukupigia 4
 Kunywa 4
-ulishaka 4
 zabibu 4
 Binafsi 4
 Unaitwa 4
@@ -6211,6 +6209,7 @@ Nitakuacha 3
 naiba 3
 nukuu 3
 sijali 3
+shurti 3
 lalana 3
 miandiko 3
 naya 3
@@ -7402,6 +7401,7 @@ majivu 3
 château 3
 hama 3
 Zamiri 3
+ulishaka 3
 bili 3
 unasubutu 3
 friji 3

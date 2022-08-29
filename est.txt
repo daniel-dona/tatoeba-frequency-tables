@@ -1,20 +1,20 @@
-on 960
-Ma 606
-ei 453
+on 961
+Ma 607
+ei 454
 Tom 354
-sa 253
-Kas 230
+sa 255
+Kas 233
 et 203
-Ta 196
+Ta 197
 See 172
 ma 155
-oma 133
+oma 134
 see 123
 seda 119
 ole 105
 Mul 103
+olen 101
 ja 100
-olen 100
 Sa 95
 oli 94
 ta 90
@@ -78,9 +78,10 @@ maja 27
 ütles 27
 sellest 26
 sõber 26
+te 25
 tagasi 25
 aru 24
-te 24
+aega 24
 kolm 24
 Mary 24
 prantsuse 24
@@ -89,7 +90,6 @@ Tema 23
 Tere 23
 üle 23
 mul 23
-aega 23
 Ära 23
 ilus 23
 ainult 22
@@ -107,6 +107,7 @@ Kõik 20
 ema 20
 tahab 20
 seal 20
+Toomas 20
 oleks 19
 pärast 19
 tema 19
@@ -125,7 +126,6 @@ tea 18
 Sul 18
 arvan 18
 meeldi 18
-Toomas 18
 mitte 17
 raha 17
 või 17
@@ -183,10 +183,12 @@ kinni 13
 üles 13
 tee 13
 saada 13
+tahad 13
 Olen 13
 välismaal 13
 õppida 13
 peidus 13
+ikka 12
 alati 12
 kohta 12
 olid 12
@@ -204,10 +206,8 @@ auto 12
 pea 12
 polnud 12
 emakeel 12
-tahad 12
 elada 12
 pani 11
-ikka 11
 kord 11
 kaasa 11
 inimene 11
@@ -271,6 +271,7 @@ teeb 9
 saab 9
 hõivatud 9
 keele 9
+neid 9
 olema 9
 nägin 9
 oleksin 9
@@ -313,7 +314,6 @@ töötab 8
 asi 8
 tahtsin 8
 peaksin 8
-neid 8
 rääkinud 8
 sest 8
 lihtne 8
@@ -581,6 +581,7 @@ laul 4
 Eesti 4
 Laual 4
 loom 4
+toas 4
 Nagu 4
 lähed 4
 rääkis 4
@@ -618,6 +619,7 @@ roheline 4
 tähtsam 4
 pärit 4
 ütleb 4
+muusikat 4
 vanaisa 4
 hommikul 4
 sinine 4
@@ -697,6 +699,7 @@ oska 4
 alt 4
 kindlasti 4
 jääma 4
+tähelepanu 4
 olime 4
 võtab 4
 inimesi 4
@@ -739,7 +742,6 @@ sõitis 3
 arvamus 3
 poolest 3
 suu 3
-toas 3
 selga 3
 vesi 3
 pidid 3
@@ -810,7 +812,6 @@ unustas 3
 vihkab 3
 õun 3
 aitäh 3
-muusikat 3
 venda 3
 elad 3
 teeme 3
@@ -966,7 +967,6 @@ saame 3
 nutma 3
 üritas 3
 mõlemad 3
-tähelepanu 3
 vaevu 3
 Millest 3
 sobib 3
@@ -1004,6 +1004,7 @@ Inimene 3
 3 3
 elanud 3
 sild 3
+tahate 3
 puidust 3
 kooki 3
 rivi 3
@@ -1608,6 +1609,7 @@ vastata 2
 sünnipäevaks 2
 sport 2
 hullemaks 2
+kuulis 2
 Mind 2
 loodab 2
 kuulen 2
@@ -1692,7 +1694,6 @@ tagastada 2
 suurem 2
 viiskümmend 2
 käekell 2
-tahate 2
 saatsin 2
 e-maili 2
 vigu 2
@@ -1717,6 +1718,7 @@ rigatoni 2
 rohelist 2
 test 2
 sentence 2
+arsti 2
 Sellises 1
 kärestikus 1
 ujuma 1
@@ -3988,7 +3990,6 @@ genotsiid 1
 ajalooline 1
 fakt 1
 Olukord 1
-kuulis 1
 vestlust 1
 pealt 1
 Matused 1
@@ -4890,3 +4891,9 @@ Kate 1
 Maisie 1
 inglanna 1
 Milliel 1
+roosavereline 1
+püüdnud 1
+laste 1
+köita 1
+kuuled 1
+kaota 1

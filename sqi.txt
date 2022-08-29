@@ -1,15 +1,15 @@
-të 885
-e 577
-në 376
-është 327
-i 268
+të 887
+e 580
+në 378
+është 330
+i 270
 një 262
 nuk 248
 Nuk 230
 Tomi 219
-me 176
+me 178
 do 176
-për 168
+për 169
 që 162
 më 161
 Unë 129
@@ -19,7 +19,7 @@ te 105
 ta 86
 dhe 84
 po 82
-ka 77
+ka 78
 u 73
 jam 73
 Ajo 65
@@ -35,18 +35,18 @@ mirë 54
 Më 50
 ju 50
 Të 49
+A 44
 Po 44
-A 43
 ti 41
 këtë 40
 di 40
 Është 40
 atë 39
 këtu 39
-duhet 37
+duhet 38
 ne 37
 apo 35
-Jam 34
+Jam 35
 tij 34
 Kam 33
 Ju 33
@@ -63,12 +63,12 @@ Kjo 30
 unë 29
 Mos 29
 im 29
+mua 28
 pëlqen 28
 kurrë 28
 shtëpi 27
 kishte 27
 ime 27
-mua 27
 Ti 27
 shkoj 26
 duke 26
@@ -80,10 +80,10 @@ kombësie 25
 "Të 25
 gjithë 24
 parë 24
+Çfarë 24
 Ata 23
 qe 23
 je 23
-Çfarë 23
 Shqiptarët 23
 para 22
 Si 22
@@ -115,6 +115,7 @@ Ne 18
  18
 kur 18
 qenë 18
+bëj 18
 Tomin 18
 eshte 17
 keni 17
@@ -123,7 +124,6 @@ gjë 17
 Ku 17
 Tom 17
 vërtetë 17
-bëj 17
 Mary 17
 shkojmë 17
 kemi 16
@@ -137,6 +137,7 @@ ku 15
 ty 15
 tuaj 15
 Një 15
+saj 15
 Maria 15
 shkoni 15
 keq 14
@@ -147,7 +148,7 @@ per 14
 kohë 14
 gjithmonë 14
 shkosh 14
-saj 14
+deri 14
 flet 14
 kanë 13
 tyre 13
@@ -156,7 +157,6 @@ pak 13
 Ky 13
 duket 13
 bësh 13
-deri 13
 nëse 13
 shkojnë 13
 vështirë 12
@@ -176,6 +176,7 @@ pse 11
 punë 11
 nesër 11
 Askush 11
+Në 11
 së 11
 libër 11
 jem 11
@@ -187,6 +188,7 @@ duan 11
 Ç'farë 11
 shume 10
 Une 10
+juaj 10
 pas 10
 kisha 10
 Për 10
@@ -197,7 +199,6 @@ kaq 10
 bëri 10
 Je 10
 gjuha 10
-Në 10
 asnjë 10
 them 10
 njeri 10
@@ -205,7 +206,6 @@ Gratë 10
 Ka 9
 çfarë 9
 Keni 9
-juaj 9
 akoma 9
 ose 9
 jote 9
@@ -214,6 +214,7 @@ Ishte 9
 re 9
 ri 9
 kaluar 9
+gjuhën 9
 madhe 9
 fortë 9
 as 9
@@ -237,7 +238,6 @@ jemi 8
 mos 8
 Kemi 8
 thashë 8
-gjuhën 8
 mësues 8
 frikë 8
 gati 8
@@ -299,6 +299,7 @@ marrë 6
 thënë 6
 orë 6
 bëni 6
+orën 6
 tre 6
 thuash 6
 Sot 6
@@ -326,6 +327,7 @@ kem 6
 Na 6
 fat 6
 bëjë 6
+sigurt 6
 ja 6
 madh 6
 t'ju 6
@@ -341,12 +343,14 @@ Di 5
 Ma 5
 përgjigje 5
 vitin 5
+nënën 5
 ato 5
 midis 5
 gabime 5
 kete 5
 shpesh 5
 përveç 5
+jonë 5
 qytet 5
 tënde 5
 fundit 5
@@ -357,7 +361,6 @@ atje 5
 Eja 5
 pyetje 5
 tek 5
-orën 5
 këto 5
 cilën 5
 mbrëmje 5
@@ -369,6 +372,7 @@ asaj 5
 ndihmoj 5
 Greqi 5
 vërtetën 5
+sy 5
 ftohtë 5
 Angli 5
 bukë 5
@@ -401,7 +405,6 @@ krenar 5
 njerëz 5
 brenda 5
 përgjigj 5
-sigurt 5
 dije 5
 Francë 5
 bënte 5
@@ -411,7 +414,6 @@ Faleminderit 4
 a 4
 Shkojmë 4
 harro 4
-nënën 4
 emri 4
 emrin 4
 pastaj 4
@@ -429,7 +431,6 @@ takuar 4
 student 4
 sikur 4
 njoh 4
-jonë 4
 Disa 4
 mundësi 4
 Shqipëri 4
@@ -462,7 +463,6 @@ Njeriu 4
 Vajza 4
 huaj 4
 shikoj 4
-sy 4
 shqip 4
 Greqia 4
 vogël 4
@@ -511,6 +511,7 @@ Brazil 4
 hanë 4
 javën 4
 tillë 4
+tetë 4
 martohen 4
 Arabinë 4
 Saudite 4
@@ -652,6 +653,7 @@ tokë 3
 jetojë 3
 shi 3
 shkova 3
+Shkova 3
 rri 3
 Kosova 3
 gabuar 3
@@ -659,6 +661,7 @@ historinë 3
 Njerëzit 3
 shtëpia 3
 turistë 3
+humbi 3
 Rumania 3
 quhet 3
 mësoj 3
@@ -738,7 +741,6 @@ Zelandën 3
 ndihmojë 3
 shqetëson 3
 dhënë 3
-tetë 3
 sonte 3
 fare 3
 shkollën 3
@@ -913,6 +915,7 @@ mprehtë 2
 Gota 2
 dini 2
 Vëllai 2
+kishë 2
 kuqe 2
 ide 2
 telefon 2
@@ -1009,7 +1012,6 @@ Bleva 2
 gjallë 2
 dhemb 2
 supermarket 2
-Shkova 2
 shëmtuar 2
 probleme 2
 Evropë 2
@@ -1020,7 +1022,6 @@ puthen 2
 xheloz 2
 Zot 2
 Punoj 2
-humbi 2
 Ndoshta 2
 shkëlqyeshme 2
 lau 2
@@ -1222,6 +1223,7 @@ ndërtesë 2
 fillojnë 2
 pushimet 2
 esperantos 2
+interesuar 2
 golf 2
 dush 2
 donin 2
@@ -1313,6 +1315,7 @@ bleu 2
 Danimarkë 2
 Juve 2
 vajzat 2
+borë 2
 mora 2
 Suedi 2
 As 2
@@ -1864,7 +1867,6 @@ anglez 1
 francez 1
 kaltër 1
 Pua 1
-kishë 1
 banane 1
 sekretin 1
 kuptojnë 1
@@ -3029,7 +3031,6 @@ gërma 1
 bindur 1
 asnjeri 1
 përfshirë 1
-interesuar 1
 lojërat 1
 fantasy 1
 përdorte 1
@@ -3724,7 +3725,6 @@ Thjeshtë 1
 linit 1
 thonë 1
 varrosur 1
-borë 1
 Hiqi 1
 duart 1
 fillime 1
@@ -4102,3 +4102,17 @@ Lipës 1
 paguaj 1
 lehtësisht 1
 S'di 1
+dimër 1
+maja 1
+malit 1
+mbuluar 1
+Brad 1
+Pit 1
+aktor 1
+Sekreti 1
+Mili 1
+kaltërt 1
+pranoni 1
+çeqe 1
+Shoqja 1
+angleze 1

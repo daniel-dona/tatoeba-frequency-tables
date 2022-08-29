@@ -1,6 +1,6 @@
-es 225
+es 226
 un 124
-Tom 98
+Tom 99
 El 91
 en 82
 el 78
@@ -12,14 +12,14 @@ No 54
 una 54
 esta 50
 a 46
-La 42
+La 43
 איל 42
 Esto 33
 און 32
 son 31
+i 30
 ke 30
 pan 30
-i 29
 kon 29
 Me 29
 Los 29
@@ -47,6 +47,7 @@ esto 16
 אין 16
 לוס 16
 djudio 15
+inglez 14
 mansana 14
 so 14
 preto 14
@@ -54,7 +55,6 @@ preto 14
 סו 14
 puerta 14
 las 13
-inglez 13
 kaza 13
 איסטה 13
 Kero 12
@@ -62,16 +62,16 @@ vos 12
 portokal 12
 mora 12
 York 12
+Onde 12
 Tengo 12
 Deke 12
+mujer 11
 Sosh 11
 era 11
 estan 11
-Onde 11
 סון 11
 vedre 11
 me 10
-mujer 10
 fue 10
 Somos 10
 te 10
@@ -442,6 +442,7 @@ yamash 2
 Tom" 2
 tio 2
 moran 2
+melda 2
 mis 2
 Ma 2
 Yukina 2
@@ -844,7 +845,6 @@ ambezavamos 1
 Ambeza 1
 ambeza 1
 Meldo 1
-melda 1
 Melda 1
 Meldamos 1
 Meldan 1
@@ -1668,3 +1668,5 @@ Akordamos 1
 neshama 1
 alma 1
 Leila 1
+djoven 1
+naivo 1
