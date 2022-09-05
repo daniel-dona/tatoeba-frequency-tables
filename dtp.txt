@@ -1,19 +1,19 @@
-do 987
-oku 595
-i 387
+do 988
+oku 597
+i 389
 Tom 349
 ku 321
-no 299
+no 300
 di 290
 nga 242
 nopo 239
-id 231
+id 233
 nu 205
 Au 186
 ko 181
 ko' 177
 dau 141
-om 132
+om 133
 dilo 129
 po 125
 Milo' 113
@@ -22,7 +22,7 @@ daa 108
 doho 108
 tokou 106
 mantad 99
-ilo 98
+ilo 99
 boros 94
 tu 94
 Nunu 87
@@ -58,9 +58,9 @@ Nokuro 43
 Poransis 41
 kio 40
 disido 39
+Kada 39
 isio 39
 ih 38
-Kada 38
 toun 38
 maya 37
 diolo 37
@@ -91,11 +91,11 @@ pogun 27
 milo 27
 korita 26
 koilo 26
+sikul 26
 iti 26
+hilo 26
 suang 26
 mimboros 25
-sikul 25
-hilo 25
 tanak 25
 duo 24
 kou 24
@@ -225,6 +225,7 @@ araat 10
 songkuro 10
 tungau 10
 isai 10
+kasasari 10
 Kokito 10
 piipiro 10
 kalas 10
@@ -255,7 +256,6 @@ dikoyu 9
 Apagon 9
 John 9
 Amorika 9
-kasasari 9
 mamanau 9
 Ogumu 9
 wayaan 9
@@ -497,6 +497,7 @@ okito 5
 kowowoyoon 5
 Malaysia 5
 konihab 5
+Sami 5
 tulu 5
 iyahai 5
 kasari 5
@@ -552,6 +553,7 @@ bas 4
 popoilo' 4
 uhoto 4
 Osongulun 4
+sawat 4
 monguhot 4
 ginayo 4
 otulid 4
@@ -629,7 +631,6 @@ timadang 4
 kogiu 4
 kointutun 4
 dati 4
-Sami 4
 tampanak 4
 suduon 4
 nintorusan 4
@@ -692,6 +693,7 @@ tiwanon 3
 Sumiliu 3
 monongiwan 3
 sokirim 3
+karatas 3
 Sumakai 3
 Rongoho 3
 uhupai 3
@@ -709,7 +711,6 @@ Sumonu 3
 Nokosodia 3
 watas 3
 toguangon 3
-sawat 3
 Adalaan 3
 Nokosunud 3
 da 3
@@ -820,6 +821,7 @@ tosorou 3
 araatan 3
 kara 3
 Hunter 3
+poboroso 3
 laid 3
 Winonsoi 3
 ku'ndo 3
@@ -834,6 +836,7 @@ rontob 3
 tongoulun 3
 talasu 3
 mumang 3
+Layla 3
 koinsanan 3
 Siodop 3
 kurita 3
@@ -924,9 +927,9 @@ dumo 2
 Papadagang 2
 mononginan 2
 injiniur 2
+gouton 2
 tusap 2
 kumut 2
-karatas 2
 Natagakan 2
 tadau-adau 2
 podsu 2
@@ -1208,7 +1211,6 @@ pomolian 2
 supamakit 2
 padagangan 2
 kuda 2
-poboroso 2
 poinsomok 2
 mikuwo 2
 Otuo 2
@@ -1259,7 +1261,6 @@ kawawagu 2
 a'adahan 2
 mija 2
 Nokointutun 2
-Layla 2
 pagasu 2
 Toruol 2
 ningkokoton 2
@@ -1350,6 +1351,9 @@ tompinai 2
 nongoi 2
 Minooi 2
 Kantonis 2
+tanga 2
+sumikul 2
+Mimbosiling 2
 Ruputan 1
 kinoutusan 1
 Osopung 1
@@ -1515,7 +1519,6 @@ tipagon 1
 kupang 1
 sasomi 1
 toitom 1
-gouton 1
 posik 1
 suat 1
 sonlopot 1
@@ -3580,7 +3583,6 @@ aranggou 1
 pipakai 1
 kubong 1
 poinsusui 1
-tanga 1
 gana 1
 "nunu 1
 lo" 1
@@ -3620,7 +3622,6 @@ Songulun 1
 Potindalo 1
 kulung 1
 mikot 1
-sumikul 1
 minsingilo 1
 boos 1
 Papaharo 1
@@ -3630,3 +3631,8 @@ wonsoion 1
 kawakasan 1
 popointalang 1
 taba 1
+Gantayo 1
+sili 1
+kasasaie 1
+Momisulap 1
+hid 1

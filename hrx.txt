@@ -1,8 +1,8 @@
 is 243
 Ich 190
-en 142
+en 143
 Tom 103
-hod 90
+hod 91
 net 79
 Das 75
 die 72
@@ -47,9 +47,9 @@ will 17
 nichs 17
 gern 16
 uff 16
+Do 16
 mein 15
 esse 15
-Do 15
 dich 15
 ab 15
 Hallebnacht 15
@@ -62,10 +62,10 @@ Haus 13
 schun 13
 Aff 13
 gehn 12
+fun 12
 kann 12
 abgebrennd 12
 Host-du 11
-fun 11
 Buch 11
 etwas 11
 sich 11
@@ -110,6 +110,7 @@ Naame 7
 Disch 7
 Aach 7
 gehd 7
+där 7
 em 7
 mit 7
 Sami 7
@@ -127,7 +128,6 @@ Keen 6
 acht 6
 dud 6
 kenne 6
-där 6
 Aarvet 6
 aanhalle 6
 ich 6
@@ -553,6 +553,7 @@ Dinstach 2
 Stacheldier 2
 Rose 2
 Derner 2
+Berrich 2
 Gramm 2
 grienes 2
 graave 2
@@ -1254,7 +1255,6 @@ Ighel 1
 sonder 1
 Stachle 1
 Kittel 1
-Berrich 1
 Handduch 1
 Lappis 1
 Fisch 1
@@ -1339,3 +1339,6 @@ gehollef 1
 ob 1
 winscht-du 1
 winschd-der 1
+Heh 1
+3000 1
+Meter 1

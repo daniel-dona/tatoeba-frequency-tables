@@ -1,10 +1,10 @@
-le 12668
+le 12683
 es 7727
-de 6766
-un 6688
+de 6767
+un 6689
 Le 4738
-ha 4639
-in 4233
+ha 4654
+in 4248
 que 3813
 non 3615
 Io 3413
@@ -18,7 +18,7 @@ io 1548
 al 1527
 su 1505
 se 1490
-Il 1405
+Il 1420
 pro 1355
 lo 1248
 con 1213
@@ -36,16 +36,16 @@ per 817
 como 774
 te 761
 il 744
-grande 723
+grande 738
 Illa 699
 Nos 684
+blau 684
 Tu 683
-blau 683
 Iste 650
 multe 575
 habeva 568
 Esque 555
-vole 547
+vole 548
 debe 536
 Isto 520
 tempore 515
@@ -74,10 +74,10 @@ va 375
 illes 367
 face 365
 o 357
+casa 354
 vita 353
 altere 345
 essite 344
-casa 342
 belle 341
 mundo 328
 Vos 323
@@ -101,7 +101,7 @@ vostre 255
 Deo 255
 ancora 248
 apud 248
-dicer 244
+dicer 245
 anglese 242
 quando 239
 lor 239
@@ -208,10 +208,10 @@ catto 127
 veni 127
 can 127
 theeria 127
+castello 126
 difficile 124
 Ha 123
 nomine 123
-castello 123
 E 122
 Maria 122
 maniera 121
@@ -221,11 +221,11 @@ poterea 119
 minus 119
 mesmo 118
 nunc 118
+rubie 118
 infante 117
 alte 117
 oculos 117
 anno 117
-rubie 117
 femina 116
 parola 115
 juvene 114
@@ -366,11 +366,11 @@ filio 70
 tal 70
 vitro 70
 Quante 70
+foco 70
+verde 69
 soror 69
 Nostre 69
 deveniva 69
-foco 69
-verde 68
 vino 68
 sovente 68
 alicuno 68
@@ -425,6 +425,7 @@ travalio 60
 importa 59
 cinque 59
 dece 59
+orange 59
 visibile 59
 ipse 59
 verso 58
@@ -434,7 +435,6 @@ quanto 58
 senti 58
 apprende 58
 viro 58
-orange 58
 Marte 58
 volerea 57
 tassa 57
@@ -461,12 +461,12 @@ Dice 55
 collina 55
 traino 54
 sex 54
+significa 54
 foras 54
 nemo 54
 tarde 54
 ric 54
 fortuna 53
-significa 53
 Me 53
 pace 53
 natura 53
@@ -481,6 +481,7 @@ accordo 51
 manos 51
 vento 51
 brillante 51
+jalne 51
 universo 51
 vetere 51
 bassino 51
@@ -491,7 +492,6 @@ glacie 50
 pluvia 50
 certe 50
 differente 50
-jalne 50
 plure 50
 milles 50
 vites 50
@@ -507,6 +507,7 @@ confidentia 49
 mente 49
 habite 49
 novo 49
+blauette 49
 somno 48
 casas 48
 amica 48
@@ -544,7 +545,6 @@ nave 46
 parlate 46
 Brasil 46
 foreste 46
-blauette 46
 Niran 46
 international 45
 venite 45
@@ -589,6 +589,7 @@ enorme 43
 crangones 43
 Sami 43
 homaros 43
+rubiette 43
 paises 42
 auro 42
 secur 42
@@ -627,7 +628,6 @@ Esperanto 41
 aperte 41
 bosco 41
 glauchette 41
-rubiette 41
 dormi 40
 placerea 40
 sentiva 40
@@ -680,6 +680,7 @@ station 37
 senso 37
 classe 37
 clar 37
+brun 37
 cavallo 37
 Ecce 37
 amava 37
@@ -695,7 +696,6 @@ commun 36
 Solmente 36
 tamben 36
 major 36
-brun 36
 village 36
 scribeva 36
 spatio 36
@@ -837,6 +837,7 @@ relation 29
 realmente 29
 legeva 29
 reguardar 29
+No 29
 pertine 29
 materne 29
 resultato 29
@@ -852,6 +853,7 @@ societate 29
 conta 29
 scripte 29
 projecto 29
+gris 29
 evenite 29
 natar 28
 pejor 28
@@ -878,7 +880,6 @@ fortia 28
 deserto 28
 compra 28
 Hic 28
-gris 28
 policia 27
 perfecte 27
 finalmente 27
@@ -890,7 +891,6 @@ continua 27
 cantar 27
 tracta 27
 Sape 27
-No 27
 canta 27
 virtute 27
 Natal 27
@@ -1078,11 +1078,15 @@ discoperiva 23
 occasion 23
 deo 23
 credeva 23
+no 23
 pecia 23
 poeta 23
 alas 23
+arma 23
 nepto 23
 Donald 23
+grisette 23
+jalnette 23
 postmeridie 22
 restava 22
 pictura 22
@@ -1123,11 +1127,8 @@ fiction 22
 esque 22
 debera 22
 eterne 22
-arma 22
 Joe 22
 Etiam 22
-grisette 22
-jalnette 22
 arrivara 21
 apprendite 21
 maestro 21
@@ -1169,7 +1170,6 @@ petras 21
 leges 21
 practica 21
 origine 21
-no 21
 epocha 21
 videra 21
 vocabulario 21
@@ -1234,6 +1234,7 @@ Jupiter 20
 linguistic 20
 cafe 20
 Philippe 20
+orangette 20
 construction 19
 leva 19
 legier 19
@@ -1297,6 +1298,7 @@ fede 19
 Danmark 19
 nord 19
 IALA 19
+bollas 19
 nasce 18
 condition 18
 tentava 18
@@ -1366,7 +1368,6 @@ judeos 18
 inamorate 18
 natal 18
 Qualque 18
-orangette 18
 Cassandra 18
 Wisit 18
 nominate 17
@@ -1447,6 +1448,7 @@ en 17
 nam 17
 Futue 17
 yiddish 17
+verdette 17
 jectava 16
 estranier 16
 humor 16
@@ -1525,7 +1527,6 @@ purpuree 16
 intentiones 16
 comenciamento 16
 morsellos 16
-verdette 16
 banco 15
 esseres 15
 ager 15
@@ -2126,6 +2127,7 @@ palmas 11
 Scrooge 11
 toxicomano 11
 myrtillo 11
+brunette 11
 seniora 10
 derectos 10
 unes 10
@@ -3121,7 +3123,6 @@ cacava 7
 fascistas 7
 junkie 7
 Cattos 7
-brunette 7
 barbacoa 7
 aborigines 7
 vitric 7
@@ -4892,6 +4893,7 @@ tenebrose 4
 figuras 4
 petroleo 4
 Peninsula 4
+Compra 4
 "Qual 4
 Habe 4
 nidos 4
@@ -5112,7 +5114,6 @@ heroes 4
 yucatec 4
 boschetto 4
 Rāgarāja 4
-bollas 4
 astrobiologia 4
 Linda 4
 cree 4
@@ -6091,7 +6092,6 @@ initiava 3
 turbar 3
 homicidio 3
 intuition 3
-Compra 3
 Explica 3
 suicidio 3
 comprehension 3
@@ -6593,7 +6593,6 @@ silentemente 3
 anime 3
 philippin 3
 camouflage 3
-brunastre 3
 Ideas 2
 Require 2
 typhon 2
@@ -9998,3 +9997,4 @@ graffiti 1
 autobiographia 1
 Mont 1
 muscate 1
+instructores 1

@@ -1,13 +1,13 @@
-es 5816
+es 5817
 la 5392
 ia 4511
 de 3626
-un 3175
+un 3178
 ла 2802
 ес 2728
-Me 2405
+Me 2407
 иа 2153
-no 1889
+no 1890
 де 1874
 La 1701
 a 1674
@@ -34,13 +34,13 @@ sua 658
 multe 642
 el 640
 per 635
-pote 610
+pote 611
 cual 609
 е 596
 esta 591
 аве 564
 mea 547
-lo 542
+lo 543
 Esta 528
 Nos 505
 con 485
@@ -134,8 +134,8 @@ sola 149
 ваде 149
 Он 146
 сабе 145
+compra 144
 nesesa 143
-compra 143
 labora 142
 xace 142
 Ло 141
@@ -444,6 +444,7 @@ cavalo 44
 скола 44
 мар 44
 parolas 43
+pasada 43
 amis 43
 cuatro 43
 fenetra 43
@@ -454,7 +455,6 @@ su 43
 sirca 42
 core 42
 usada 42
-pasada 42
 De 42
 encontra 42
 frases 42
@@ -1027,6 +1027,7 @@ developa 17
 "Me 17
 masca 17
 Con 17
+importa 17
 Fa 17
 sidra 17
 radio 17
@@ -1075,7 +1076,6 @@ Roma 16
 seria 16
 maladia 16
 broma 16
-importa 16
 talietas 16
 emisfera 16
 ерас 16
@@ -2608,6 +2608,7 @@ obedi 6
 обеди 6
 мусео 6
 рапидиа 6
+Compra 6
 риос 6
 принсе 6
 сурвиве 6
@@ -2647,6 +2648,7 @@ linguistica 6
 ke 6
 caturada 6
 Judit 6
+cuadro 6
 Sra 6
 sui 6
 fatura 5
@@ -2995,7 +2997,6 @@ entera 5
 араниа 5
 Рожа 5
 тапето 5
-Compra 5
 пласер 5
 селебра 5
 диверти 5
@@ -3071,7 +3072,6 @@ talentosa 5
 adn 5
 moleculas 5
 unu 5
-cuadro 5
 pantaletas 5
 ha 5
 masima 5
@@ -4493,6 +4493,7 @@ lesbian 3
 Olocausto 3
 eres 3
 alcolomanica 3
+drogamanica 3
 ajena 3
 vomiti 3
 suo 3
@@ -4560,6 +4561,7 @@ nubosa 3
 paneria 3
 панериа 3
 сепара 3
+fusil 3
 Desinia 3
 десиниас 3
 demon 3
@@ -6127,7 +6129,6 @@ Coraje 2
 Permete 2
 sprinta 2
 pexor 2
-drogamanica 2
 coxea 2
 muda 2
 relatadas 2
@@ -6268,7 +6269,6 @@ ruidosa 2
 corpa 2
 корпа 2
 torseda 2
-fusil 2
 spele 2
 спеле 2
 aveni" 2

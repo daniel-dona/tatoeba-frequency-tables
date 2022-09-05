@@ -1,4 +1,4 @@
-er 4128
+er 4132
 Jeg 3423
 ikke 2324
 å 2072
@@ -6,10 +6,10 @@ i 2043
 en 1938
 du 1781
 det 1712
-har 1699
+har 1701
 Tom 1615
 på 1614
-til 1450
+til 1451
 jeg 1271
 og 1267
 Det 1107
@@ -17,21 +17,21 @@ for 1013
 meg 1010
 med 1008
 Han 960
-av 934
+av 935
 var 915
 som 911
 at 813
 Hun 724
 et 718
-Du 702
+Du 703
 deg 701
 kan 624
 vil 618
 om 563
-så 535
+så 536
 han 534
-Vi 523
-den 463
+Vi 524
+den 464
 min 450
 seg 411
 noe 354
@@ -50,8 +50,8 @@ dette 287
 ut 285
 ble 284
 gjøre 270
+ham 270
 ha 270
-ham 268
 vet 258
 går 254
 hva 254
@@ -59,23 +59,23 @@ kommer 249
 Er 249
 mye 246
 din 244
-Hvor 238
+Hvor 239
 liker 234
 enn 233
 denne 228
 dag 220
 noen 214
-Dette 211
+Dette 212
 sin 208
 skulle 208
 men 207
+hun 205
 aldri 205
-hun 204
 henne 203
 Ikke 198
 opp 197
 her 194
-mange 190
+mange 191
 bare 186
 tror 184
 alle 182
@@ -89,8 +89,8 @@ ser 171
 gå 170
 bli 168
 Har 167
+Hvorfor 165
 kunne 165
-Hvorfor 164
 dem 160
 etter 160
 gjør 159
@@ -159,8 +159,8 @@ morgen 90
 stor 89
 får 87
 tilbake 87
+Alle 86
 også 86
-Alle 85
 virkelig 85
 ditt 85
 komme 85
@@ -450,6 +450,7 @@ helst 28
 svømme 28
 Hunden 28
 forelsket 28
+Algerie 28
 kaldt 27
 spørre 27
 Ta 27
@@ -460,6 +461,7 @@ problemet 27
 satt 27
 råd 27
 vanligvis 27
+først 27
 hendene 27
 tro 27
 hus 27
@@ -476,7 +478,6 @@ forstå 26
 far 26
 møte 26
 egen 26
-først 26
 Gjør 26
 øyne 26
 Og 26
@@ -521,6 +522,7 @@ farlig 24
 født 23
 måten 23
 brev 23
+interessant 23
 arbeid 23
 varmt 23
 læreren 23
@@ -551,7 +553,6 @@ sitter 23
 japansk 22
 følge 22
 hundre 22
-interessant 22
 hodet 22
 gift 22
 personer 22
@@ -682,7 +683,6 @@ boka 18
 slutt 18
 nettopp 18
 både 18
-Algerie 18
 Oslo 18
 bøkene 18
 betale 18
@@ -794,6 +794,7 @@ forsiktig 15
 møtet 15
 oppe 15
 vakre 15
+lo 15
 språket 15
 sliten 15
 vennene 15
@@ -844,7 +845,6 @@ forteller 14
 forferdelig 14
 syv 14
 drøm 14
-lo 14
 setning 14
 nei 14
 tretti 14
@@ -875,6 +875,7 @@ slike 13
 lukket 13
 hvert 13
 venstre 13
+Gud 13
 rette 13
 brukt 13
 Hvilket 13
@@ -930,7 +931,6 @@ leker 12
 elske 12
 invitert 12
 fram 12
-Gud 12
 flott 12
 ene 12
 hånden 12
@@ -1027,6 +1027,7 @@ kvelden 11
 betalt 11
 Europa 11
 Mamma 11
+menn 11
 dårlige 11
 foretrekker 11
 glass 11
@@ -1121,7 +1122,6 @@ derfor 10
 mangler 10
 esperanto 10
 hull 10
-menn 10
 flyr 10
 drept 10
 Columbus 10
@@ -1152,6 +1152,7 @@ dumt 10
 Mitt 10
 plass 10
 besøk 10
+Velkommen 10
 helg 10
 "Er 10
 kongen 10
@@ -1261,7 +1262,6 @@ lyset 9
 svensk 9
 endret 9
 farge 9
-Velkommen 9
 dagens 9
 bestemor 9
 dreier 9
@@ -1309,6 +1309,7 @@ genseren 8
 skapte 8
 Finnes 8
 øye 8
+rike 8
 lukter 8
 vasker 8
 levde 8
@@ -1453,7 +1454,6 @@ feber 7
 brøt 7
 Regnet 7
 Mennesker 7
-rike 7
 Les 7
 effekt 7
 flyplassen 7
@@ -1510,6 +1510,7 @@ Vannet 7
 datteren 7
 årene 7
 smerte 7
+olje 7
 hest 7
 sprø 7
 skapet 7
@@ -1859,6 +1860,7 @@ moderne 5
 vent 5
 overbevist 5
 lykkelige 5
+støtter 5
 Onkelen 5
 ulykke 5
 eple 5
@@ -1963,7 +1965,6 @@ Svaret 5
 beundrer 5
 Tenk 5
 utmerket 5
-olje 5
 juni 5
 løgner 5
 Fikk 5
@@ -2237,7 +2238,6 @@ menneskelig 4
 blomsten 4
 Penger 4
 vakreste 4
-støtter 4
 viktigere 4
 ulykken 4
 regelmessig 4
@@ -2378,6 +2378,7 @@ gjemmer 4
 Slik 4
 øyer 4
 presidenten 4
+Iran 4
 Hør 4
 liter 4
 skuespiller 4
@@ -2904,7 +2905,6 @@ Hokkaido 3
 Marie 3
 tegnet 3
 sammenhengen 3
-Iran 3
 Dagen 3
 Kjærligheten 3
 sluke 3
@@ -3639,6 +3639,7 @@ fantes 2
 reisen 2
 ytre 2
 betraktet 2
+produserer 2
 svømming 2
 religiøse 2
 ledere 2
@@ -4111,6 +4112,7 @@ Musen 2
 ofre 2
 Marino 2
 borger 2
+museer 2
 lade 2
 taxier 2
 ettersom 2
@@ -4802,6 +4804,7 @@ røyken 2
 overså 2
 overgi 2
 dokumenter 2
+eksporterer 2
 sitroner 2
 ørret 2
 makrell 2
@@ -5211,6 +5214,7 @@ Aha 2
 Frokost 2
 Grønland 2
 Biden 2
+velsigne 2
 bestevenner 2
 mary 2
 Sorry 2
@@ -5604,7 +5608,6 @@ ermet 1
 CD-spiller 1
 CDen 1
 apparatet 1
-produserer 1
 Skandalene 1
 altergutter 1
 undergravet 1
@@ -6845,7 +6848,6 @@ attraksjoner 1
 fjellside 1
 borgen 1
 borgene 1
-museer 1
 Pizzaene 1
 typiske 1
 turistbutikker 1
@@ -9048,7 +9050,6 @@ mappen 1
 tilba 1
 Kommunister 1
 1949 1
-eksporterer 1
 grapefruit 1
 vannpistoler 1
 harddisken 1
@@ -9997,4 +9998,3 @@ overtok 1
 dobbeltlenket 1
 dragen 1
 snøsituasjonen 1
-"Snøen 1
