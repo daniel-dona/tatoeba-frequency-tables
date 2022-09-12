@@ -1,24 +1,24 @@
-się 15053
+się 15054
 nie 12728
 jest 12492
-w 11330
-Tom 10082
+w 11331
+Tom 10083
 na 9493
-Nie 8327
-to 7596
-że 7137
+Nie 8329
+to 7597
+że 7138
 do 6895
-z 6700
+z 6701
 To 4125
 i 3950
-Czy 3545
+Czy 3546
 mi 3313
 o 3225
 mnie 3100
 ma 2781
 co 2693
 On 2644
-za 2533
+za 2534
 jak 2424
 tego 2292
 po 2245
@@ -43,7 +43,7 @@ domu 1241
 Mam 1179
 być 1159
 Jak 1138
-tylko 1137
+tylko 1138
 ten 1125
 jego 1102
 było 1102
@@ -51,7 +51,7 @@ Jest 1081
 jej 1080
 mogę 1080
 Ten 1059
-będzie 1034
+będzie 1035
 tu 1030
 zrobić 1003
 sobie 981
@@ -64,7 +64,7 @@ ze 919
 by 893
 jestem 884
 mu 872
-coś 870
+coś 871
 niż 865
 pan 861
 tej 856
@@ -77,9 +77,9 @@ Proszę 787
 była 776
 Mój 738
 dobrze 733
-Ta 729
+Ta 730
+dużo 710
 on 709
-dużo 709
 nic 699
 powiedział 695
 Na 685
@@ -108,25 +108,25 @@ nigdy 572
 mój 558
 Myślę 554
 Jego 552
-czasu 545
+czasu 546
 wiem 528
-zbyt 527
+zbyt 528
 roku 525
 trzy 523
 miał 522
 Tomowi 520
 Nigdy 513
 samochód 512
+chcę 510
 pracy 510
-chcę 509
 trochę 509
 wiele 506
 bez 505
 Po 504
 ja 504
 dziś 500
+chcesz 497
 prawda 496
-chcesz 496
 Jeśli 493
 przed 488
 Muszę 484
@@ -135,9 +135,9 @@ tutaj 480
 powiedzieć 473
 czas 473
 Wszyscy 469
-pieniędzy 466
+pieniędzy 467
 nam 462
-masz 451
+masz 452
 pokoju 446
 moje 445
 naprawdę 443
@@ -163,7 +163,7 @@ pod 392
 Oni 392
 ty 391
 mojego 389
-szybko 388
+szybko 389
 Masz 384
 Ile 381
 dom 378
@@ -235,8 +235,8 @@ te 279
 Był 279
 stało 279
 Zawsze 279
+razem 279
 Bostonie 279
-razem 278
 Tomem 276
 kto 275
 czego 275
@@ -354,9 +354,9 @@ Moje 193
 Daj 193
 Ktoś 193
 zna 192
+myśli 191
 Sami 191
 godziny 190
-myśli 190
 Nic 188
 Myślałem 188
 jeden 188
@@ -557,6 +557,7 @@ mało 128
 wiedziałem 128
 rower 128
 znać 128
+wyjść 128
 oni 128
 mógłbym 128
 wziąć 128
@@ -566,7 +567,6 @@ Dzieci 127
 wszystkim 127
 wina 127
 twoją 127
-wyjść 127
 lubisz 127
 zdania 126
 Poproszę 126
@@ -607,12 +607,12 @@ rację 120
 nauczyć 120
 lubią 119
 zostało 119
+żyje 119
 dał 119
 powiedziała 119
 całą 119
 prawo 119
 praca 118
-żyje 118
 ryby 118
 podczas 118
 człowieka 118
@@ -747,6 +747,7 @@ spotkanie 97
 mów 97
 kota 97
 pisać 97
+mąż 96
 Mówi 96
 pojechać 96
 inne 96
@@ -754,7 +755,6 @@ deszcz 96
 poniedziałek 96
 mógłby 96
 najbardziej 96
-mąż 95
 chciałbym 95
 dłużej 95
 widział 95
@@ -813,6 +813,7 @@ syn 89
 sądzę 89
 czemu 89
 No 89
+wkrótce 89
 zrobiłeś 89
 mnóstwo 89
 trudne 89
@@ -823,7 +824,6 @@ Dla 88
 czuję 88
 roboty 88
 swego 88
-wkrótce 88
 Wiele 88
 inny 88
 powinniśmy 88
@@ -908,6 +908,8 @@ przyszłości 80
 Nauczyciel 80
 zadowolony 80
 siostry 80
+skończyć 80
+boi 80
 matki 80
 spróbować 80
 Bóg 80
@@ -920,9 +922,7 @@ stoi 79
 zapomnij 79
 Mieszkam 79
 palić 79
-skończyć 79
 otwarte 79
-boi 79
 językiem 79
 potrafię 79
 piwo 78
@@ -997,6 +997,7 @@ Tomasz 74
 piosenkę 73
 nazwisko 73
 Pociąg 73
+świetnie 73
 kilku 73
 słów 73
 ogląda 73
@@ -1015,7 +1016,6 @@ języku 72
 dopiero 72
 łóżku 72
 widzieć 72
-świetnie 72
 płaszcz 72
 zaczęło 72
 blisko 72
@@ -1442,6 +1442,7 @@ lotnisko 50
 jakąś 50
 wątpliwości 50
 znalazłem 50
+rzeki 50
 mieli 50
 wyjścia 50
 Ciekawe 50
@@ -1477,7 +1478,6 @@ powiedzenia 49
 zapytał 49
 czeka 49
 sukcesu 49
-rzeki 49
 Pod 49
 problemem 49
 sami 49
@@ -2201,6 +2201,7 @@ piknik 32
 szczególnie 32
 uważać 32
 ojcu 32
+niedaleko 32
 kończy 32
 Książka 32
 Chętnie 32
@@ -2270,7 +2271,6 @@ Kobieta 31
 3 31
 niewinny 31
 prysznic 31
-niedaleko 31
 możliwość 31
 kompletnie 31
 Zrobiła 31
@@ -2357,6 +2357,7 @@ Dobra 30
 tysiąc 30
 starszych 30
 czyż 30
+Potrzebujesz 30
 lody 30
 morze 30
 odpowiedział 30
@@ -2435,7 +2436,6 @@ umyć 29
 każdą 29
 zostali 29
 jajko 29
-Potrzebujesz 29
 Zostań 29
 Wystarczy 29
 musieli 29
@@ -2781,6 +2781,7 @@ przyszli 25
 dachu 25
 podobne 25
 ufam 25
+napisałem 25
 artykuł 25
 Widzieliśmy 25
 wolę 25
@@ -2899,7 +2900,6 @@ przygotować 24
 latem 24
 chciałeś 24
 pożar 24
-napisałem 24
 dźwięk 24
 zamknięty 24
 zębów 24
@@ -3437,6 +3437,7 @@ bliżej 20
 działo 20
 udawać 20
 pranie 20
+głupiego 20
 zdjął 20
 spytać 20
 pocałował 20
@@ -3487,6 +3488,7 @@ domów 19
 złej 19
 500 19
 grupy 19
+małym 19
 Narodzenie 19
 kościół 19
 wyjaśnienie 19
@@ -3609,7 +3611,6 @@ widziałam 19
 poradzić 19
 śpiewał 19
 idiotą 19
-głupiego 19
 domek 19
 śmiał 19
 auta 19
@@ -3668,7 +3669,6 @@ skłamał 18
 czyste 18
 uważają 18
 zeszłego 18
-małym 18
 niezależnie 18
 pośpiechu 18
 geniuszem 18
@@ -4583,6 +4583,7 @@ sąsiad 14
 Skończyłeś 14
 funtów 14
 interesach 14
+wyglądać 14
 psuje 14
 wygrywa 14
 uratować 14
@@ -4801,6 +4802,7 @@ dywan 13
 kolegą 13
 stanął 13
 programu 13
+koszula 13
 głębokie 13
 ręcznik 13
 Znów 13
@@ -4864,7 +4866,6 @@ podszedł 13
 drogowy 13
 Babcia 13
 czarna 13
-wyglądać 13
 Wielka 13
 Zegar 13
 ostatnim 13
@@ -5139,7 +5140,6 @@ wyspie 12
 niewinności 12
 łaciny 12
 czytaj 12
-koszula 12
 Przyznaję 12
 oczami 12
 zamówienie 12

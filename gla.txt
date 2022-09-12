@@ -1,17 +1,17 @@
-Tha 277
+Tha 278
 a 266
-an 262
+an 263
 mi 173
 e 132
-ann 115
-a' 105
+ann 116
+a' 106
 air 101
 Tòmas 87
 bheil 86
 tha 85
 thu 84
 gu 70
-eil 64
+eil 65
 'S 64
 ag 63
 Chan 62
@@ -53,12 +53,12 @@ le 19
 "An 19
 dhan 18
 iad 18
+nach 18
+taigh 18
 Fraingis 18
 's 17
 trang 17
 mise 17
-nach 17
-taigh 17
 òl 16
 ach 16
 th' 16
@@ -118,6 +118,8 @@ bruidhinn 9
 dòchas 9
 fearg 9
 leughadh 9
+fuireach 9
+beag 9
 nighean 9
 leòr 9
 Feumaidh 9
@@ -132,14 +134,12 @@ dha 8
 Beurla 8
 bliadhna 8
 mòran 8
-fuireach 8
 uabhasach 8
 cinnteach 8
 gur 8
 fhaicinn 8
 mhath 8
 cò 8
-beag 8
 aon 8
 Thòmais 8
 iongnadh 8
@@ -188,6 +188,7 @@ achadh 6
 litir 6
 a-rithist 6
 'n 6
+fada 6
 ud 6
 nam 6
 cheannaich 6
@@ -215,7 +216,6 @@ ris 5
 t-uisge 5
 bainne 5
 charaid 5
-fada 5
 Ciamar 5
 gràdh 5
 leann 5
@@ -281,6 +281,7 @@ breagha 4
 thèid 4
 a-nis 4
 mar 4
+Tom 4
 oirnn 4
 sgoil 4
 cofaidh 4
@@ -323,6 +324,7 @@ tapadh 3
 innte 3
 fhathast 3
 t-sruth 3
+bhon 3
 tron 3
 faisg 3
 bhalach 3
@@ -377,7 +379,6 @@ sneachd 3
 taigh-òsta 3
 fhaisg 3
 loch 3
-Tom 3
 Dùin 3
 còig 3
 t-sìde 3
@@ -458,7 +459,6 @@ mhonadh 2
 ròn 2
 chladach 2
 teine 2
-bhon 2
 t-saoghal 2
 bhocsa 2
 chù 2
@@ -1408,3 +1408,4 @@ lùib 1
 toradh 1
 asta 1
 sibhse 1
+abhainn 1

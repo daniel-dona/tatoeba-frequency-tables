@@ -1,10 +1,10 @@
-oon 194
+oon 195
 Se 33
 ei 30
 ja 27
 Hyvvää 26
-oli 21
-Hän 16
+oli 22
+Hän 17
 Met 15
 ole 14
 Mie 13
@@ -167,12 +167,14 @@ vaikkee 2
 assii 2
 olema 2
 olin 2
+Isä 2
 kova 2
 ulos 2
 antoi 2
 Kirja 2
 Tervettulemaa 2
 Käänny 2
+saanu 2
 pääle 2
 syö 2
 Tääpänä 2
@@ -199,6 +201,7 @@ Suomesta 2
 pölästythiin 2
 Joo 2
 terävä 2
+lapun 2
 aprillikuuta 2
 sekä 2
 olima 2
@@ -494,7 +497,6 @@ väärti 1
 saapi 1
 ajattelemhaan 1
 Halluumako 1
-Isä 1
 tappelemhaan 1
 Lapsi 1
 katteli 1
@@ -576,7 +578,6 @@ jyrkkää 1
 oikealle 1
 vasemmalle 1
 Talo 1
-saanu 1
 suojelemistođistuksen 1
 alkoivat 1
 rakentamhaan 1
@@ -697,7 +698,6 @@ toivon 1
 enämen 1
 mahđolisuuksii 1
 menettäävät 1
-lapun 1
 Tor 1
 aijothaan 1
 laittaat 1
@@ -1262,3 +1262,5 @@ kohta 1
 kovvaa 1
 kyytiä 1
 tehe 1
+seppämies 1
+fiskussa 1

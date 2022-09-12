@@ -1,16 +1,16 @@
 je 2181
 sa 2087
 som 1841
-Tom 1601
+Tom 1602
 si 1494
-to 1292
-že 1080
+to 1294
+že 1081
 na 988
 v 759
 a 600
-mi 504
+mi 505
 Je 463
-by 454
+by 455
 ste 403
 do 382
 čo 381
@@ -58,7 +58,7 @@ tak 129
 ju 129
 byť 128
 tam 127
-urobiť 126
+urobiť 127
 veľa 123
 Toto 122
 niečo 120
@@ -74,7 +74,7 @@ knihu 105
 už 104
 nič 100
 všetko 100
-Ja 98
+Ja 99
 jeho 98
 On 98
 Nikdy 94
@@ -103,9 +103,9 @@ sám 76
 dobre 76
 deň 75
 pomôcť 74
+Kedy 74
 Táto 73
 ja 73
-Kedy 73
 kto 72
 čas 72
 môj 72
@@ -114,10 +114,10 @@ aj 70
 kde 70
 svoje 69
 Má 69
+prečo 69
 Máš 68
 A 68
 urobil 68
-prečo 68
 pravdu 67
 toto 67
 teraz 67
@@ -130,8 +130,8 @@ Dnes 65
 zajtra 64
 Moja 64
 meno 64
+mal 63
 toho 63
-mal 62
 viac 62
 nám 62
 ten 61
@@ -356,6 +356,7 @@ každý 28
 také 28
 Budem 28
 pondelok 28
+vedel 28
 čakať 27
 išiel 27
 jazyk 27
@@ -368,7 +369,6 @@ Ani 27
 sestra 27
 strom 27
 Povedala 27
-vedel 27
 môžem 27
 tieto 27
 Stále 27
@@ -448,6 +448,7 @@ nachádza 23
 moju 23
 mesiac 23
 stane 23
+viem 23
 istá 23
 psov 23
 vidím 23
@@ -464,7 +465,6 @@ mali 22
 chorý 22
 miesto 22
 mäso 22
-viem 22
 sebou 22
 Jem 22
 kameň 22
@@ -933,6 +933,7 @@ Nemusíš 11
 náš 11
 oni 11
 večeru 11
+prídeš 11
 dni 11
 budú 11
 kúpila 11
@@ -1012,7 +1013,6 @@ Nebuď 10
 možné 10
 vlakom 10
 uveriť 10
-prídeš 10
 pomaranče 10
 Choďte 10
 Pracuje 10
@@ -2775,6 +2775,7 @@ vedra 4
 prekvapené 4
 predala 4
 Kanady 4
+Pošlite 4
 Argentínu 4
 Neignorovali 4
 strop 4
@@ -3773,7 +3774,6 @@ veveričku 3
 nižšie 3
 ospravedlňovať 3
 Pošli 3
-Pošlite 3
 Neje 3
 pozerať 3
 spomenuté 3

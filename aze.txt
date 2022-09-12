@@ -17,7 +17,7 @@ heç 103
 mənim 93
 Onlar 91
 üçün 80
-yaxşı 78
+yaxşı 79
 Onun 70
 mənə 69
 Siz 68
@@ -36,8 +36,8 @@ mən 52
 Bir 52
 edirəm 52
 haqqında 48
+Mənə 46
 gün 46
-Mənə 45
 üç 44
 iki 42
 gəlir 42
@@ -53,12 +53,12 @@ edir 36
 başa 36
 ən 34
 sevirəm 34
+burada 34
 sənə 34
 etdi 34
 ilə 34
 Toma 34
 məni 33
-burada 33
 Nə 32
 Bizim 32
 kitab 32
@@ -77,13 +77,13 @@ dili 29
 yaşayır 29
 da 29
 Hər 28
+edə 28
 Onu 28
 yaşayıram 28
 nifrət 28
 getmək 28
 olduğunu 28
 necə 27
-edə 27
 lazımdır 27
 elə 27
 həmişə 27
@@ -105,16 +105,16 @@ görə 23
 istəmirəm 22
 Sizin 22
 dəfə 22
+Niyə 22
 baş 22
 ölkədir 22
 Meri 22
 məktəbə 21
 İndi 21
-Niyə 21
+ona 21
 Heç 21
 Mary 21
 bütün 20
-ona 20
 istəyir 20
 deyildi 20
 başladı 20
@@ -124,6 +124,7 @@ harada 19
 nədir 19
 belə 19
 etmək 19
+zəng 19
 olur 19
 bilmir 19
 minimal 19
@@ -133,7 +134,6 @@ gözəl 18
 il 18
 Ona 18
 danışa 18
-zəng 18
 saat 18
 gəldi 18
 Tomu 18
@@ -1148,6 +1148,7 @@ Ermənistan 3
 Ermənistanda 3
 Birliyinin 3
 düşdüm 3
+bilmirsən 3
 təhlükəlidir 3
 nəisə 3
 nəyi 3
@@ -1786,7 +1787,6 @@ açar 2
 Seçim 2
 sizindir 2
 sənindir 2
-bilmirsən 2
 Bunlar 2
 deyərəm 2
 bildiyimə 2
@@ -7428,3 +7428,4 @@ Zəngli 1
 saatı 1
 söndürməyi 1
 gülür 1
+lazımsan 1

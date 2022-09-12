@@ -1,15 +1,15 @@
-le 12683
-es 7727
+le 12686
+es 7733
 de 6767
 un 6689
-Le 4738
+Le 4737
 ha 4654
-in 4248
+in 4249
 que 3813
 non 3615
 Io 3413
 del 2919
-e 2894
+e 2895
 a 2607
 tu 2148
 Ille 1773
@@ -18,11 +18,11 @@ io 1548
 al 1527
 su 1505
 se 1490
-Il 1420
+Il 1421
 pro 1355
 lo 1248
 con 1213
-Tom 1212
+Tom 1213
 plus 1203
 ille 1188
 vos 1072
@@ -30,7 +30,7 @@ esseva 1063
 nos 947
 pote 939
 mi 912
-multo 905
+multo 906
 iste 855
 per 817
 como 774
@@ -38,7 +38,7 @@ te 761
 il 744
 grande 738
 Illa 699
-Nos 684
+Nos 686
 blau 684
 Tu 683
 Iste 650
@@ -97,8 +97,8 @@ parla 279
 sol 262
 On 262
 tanto 257
+Deo 256
 vostre 255
-Deo 255
 ancora 248
 apud 248
 dicer 245
@@ -124,7 +124,7 @@ diceva 206
 morte 206
 haber 204
 la 200
-son 200
+son 199
 libro 197
 Es 195
 persona 193
@@ -209,11 +209,11 @@ veni 127
 can 127
 theeria 127
 castello 126
-difficile 124
+difficile 126
 Ha 123
 nomine 123
+Maria 123
 E 122
-Maria 122
 maniera 121
 Mary 121
 ir 120
@@ -230,8 +230,8 @@ femina 116
 parola 115
 juvene 114
 voleva 113
+vermente 112
 Qual 112
-vermente 111
 ulle 111
 homines 110
 poco 110
@@ -286,9 +286,9 @@ esserea 90
 videva 90
 forte 90
 libros 89
+Al 89
 perdite 89
 blanc 88
-Al 88
 conscientia 87
 deman 87
 Toto 87
@@ -349,11 +349,11 @@ justo 73
 nonne 73
 melio 73
 pensava 73
+ni 73
 spirito 72
 puncto 72
 vaso 72
 Illas 72
-ni 72
 question 71
 deveni 71
 saper 71
@@ -371,10 +371,10 @@ verde 69
 soror 69
 Nostre 69
 deveniva 69
+merda 69
 vino 68
 sovente 68
 alicuno 68
-merda 68
 Interlingua 67
 corpore 67
 passate 67
@@ -583,6 +583,7 @@ carne 43
 spera 43
 stato 43
 phrase 43
+rege 43
 potera 43
 Terra 43
 enorme 43
@@ -605,7 +606,6 @@ parentes 42
 minutas 42
 perde 42
 qualque 42
-rege 42
 calor 42
 seque 42
 necun 42
@@ -629,13 +629,13 @@ aperte 41
 bosco 41
 glauchette 41
 dormi 40
+pensar 40
 placerea 40
 sentiva 40
 parlava 40
 passa 40
 magic 40
 moderne 39
-pensar 39
 successo 39
 facera 39
 cento 39
@@ -813,6 +813,7 @@ Heri 30
 periculose 30
 Paris 30
 sedite 30
+malade 30
 soleva 30
 triste 30
 studentes 30
@@ -822,6 +823,7 @@ governamento 30
 principal 30
 Gratias 30
 pisces 30
+Nihil 30
 populo 30
 lassate 30
 oblidate 30
@@ -841,14 +843,12 @@ No 29
 pertine 29
 materne 29
 resultato 29
-malade 29
 corbe 29
 maladia 29
 succedeva 29
 fructos 29
 sentir 29
 felicitate 29
-Nihil 29
 societate 29
 conta 29
 scripte 29
@@ -986,6 +986,7 @@ cerebro 25
 tulipanes 25
 seculo 25
 pur 25
+original 25
 Marco 25
 communication 24
 stupide 24
@@ -1012,6 +1013,7 @@ subjecto 24
 fructo 24
 humanitate 24
 ci 24
+cocina 24
 nubes 24
 cambiate 24
 Nunc 24
@@ -1029,7 +1031,6 @@ sanguine 24
 uso 24
 articulo 24
 curso 24
-original 24
 Uno 24
 mamma 24
 existentia 24
@@ -1066,7 +1067,6 @@ pareva 23
 considerate 23
 Inter 23
 sede 23
-cocina 23
 trovara 23
 situate 23
 public 23
@@ -1089,6 +1089,7 @@ grisette 23
 jalnette 23
 postmeridie 22
 restava 22
+maestro 22
 pictura 22
 ganiar 22
 totevia 22
@@ -1131,7 +1132,6 @@ Joe 22
 Etiam 22
 arrivara 21
 apprendite 21
-maestro 21
 John 21
 rarmente 21
 theoria 21
@@ -1294,6 +1294,7 @@ occurre 19
 objecto 19
 septembre 19
 animas 19
+judeos 19
 fede 19
 Danmark 19
 nord 19
@@ -1364,7 +1365,6 @@ ingeniero 18
 rosa 18
 lontano 18
 area 18
-judeos 18
 inamorate 18
 natal 18
 Qualque 18
@@ -1728,6 +1728,7 @@ instabile 13
 evolution 13
 Nove 13
 elephante 13
+Vamos 13
 limites 13
 mori 13
 ordine 13
@@ -1759,6 +1760,7 @@ pausa 13
 german 13
 culpa 13
 character 13
+ambiente 13
 Quales 13
 secundas 13
 mappa 13
@@ -1820,6 +1822,7 @@ batter 13
 titulo 13
 retorna 13
 cavallos 13
+Ni 13
 honor 13
 nation 13
 traductor 13
@@ -1846,7 +1849,6 @@ presidente 12
 ganiate 12
 europee 12
 enoiose 12
-Vamos 12
 affaires 12
 require 12
 idiota 12
@@ -1877,7 +1879,6 @@ pronunciate 12
 Salute 12
 imagination 12
 septimanas 12
-ambiente 12
 fontes 12
 trenta 12
 sport 12
@@ -1947,7 +1948,6 @@ occider 12
 exprimer 12
 jocate 12
 gratuite 12
-Ni 12
 harmonia 12
 occide 12
 professional 12
@@ -2205,6 +2205,7 @@ communicar 10
 voler 10
 comparate 10
 exacte 10
+salvar 10
 recognoscer 10
 valvula 10
 aquila 10
@@ -2301,6 +2302,7 @@ Vivat 10
 virga 10
 corrupte 10
 futue 10
+Son 10
 pochetto 10
 incircula 10
 senioral 10
@@ -2407,7 +2409,6 @@ haste 9
 menacia 9
 dece-cinque 9
 "Esque 9
-salvar 9
 odiava 9
 grosse 9
 ebrie 9
@@ -2535,7 +2536,6 @@ fascista 9
 parlantes 9
 Saussure 9
 violetta 9
-Son 9
 futuite 9
 jornalista 8
 dotate 8
@@ -3686,6 +3686,7 @@ quitava 5
 satisfacite 5
 sudor 5
 bottas 5
+Pensar 5
 mentalmente 5
 committite 5
 resister 5
@@ -4369,7 +4370,6 @@ appello 4
 disponibile 4
 explicava 4
 durmente 4
-Pensar 4
 virus 4
 14 4
 exerceva 4

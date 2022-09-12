@@ -1,6 +1,6 @@
-Ma 56
+Ma 58
 ma 34
-re 32
+re 33
 Tom 26
  19
 te 16
@@ -15,10 +15,11 @@ jgiri 10
 do 9
 Chqimi 9
 dghas 9
+Tena 8
+vare 8
 chqimi 8
 tom 8
 iro 7
-Tena 7
 sqani 7
 Te 7
 Tis 7
@@ -27,7 +28,6 @@ Mu 7
 arti 7
 tomi 7
 vore 6
-vare 6
 s 6
 moko 6
 reno 6
@@ -44,6 +44,7 @@ mutun 5
 So 5
 rdu 5
 chqi 5
+çhiçhe 5
 fara 5
 joxo 5
 თენა 4
@@ -58,7 +59,6 @@ martal 4
 qore 4
 xolo 4
 iꞇuafu 4
-çhiçhe 4
 xvale 4
 Reno 4
 Tqva 4
@@ -80,6 +80,8 @@ tesh 3
 muçhot 3
 ti 3
 dzghabi 3
+michqu 3
+bgurafule 3
 ichiebu 3
 tolefi 3
 so 3
@@ -88,6 +90,7 @@ req 3
 tinefsha 3
 tqu 3
 mus 3
+teshi 3
 gholama 3
 saxe 3
 Tom's 3
@@ -99,6 +102,7 @@ da 3
 ꞇate 3
 mutuni 3
 ʒaneri 3
+rdƨ 3
 ꞇudes 3
 Tomi 3
 rena 3
@@ -146,11 +150,9 @@ osuro 2
 glaxa 2
 dzirafa 2
 Aghani 2
-michqu 2
 ase 2
 vagholinu 2
 oketebel 2
-bgurafule 2
 dumagurafal 2
 jveshi 2
 xom 2
@@ -160,6 +162,7 @@ bosṫons 2
 Anʒi 2
 ʒanas 2
 Sqani 2
+dio 2
 kochi 2
 ꞇucha 2
 voret 2
@@ -167,7 +170,6 @@ oçhkumali 2
 nervianenqo 2
 vafu 2
 qot 2
-teshi 2
 amnaxanṫi 2
 shemlebƨ 2
 ganjit 2
@@ -212,7 +214,6 @@ Muçho 2
 ragadancƨ 2
 dumagurafali 2
 Amdgha 2
-rdƨ 2
 tiqi 2
 mitin 2
 qorkitxe 2
@@ -229,6 +230,7 @@ ogholamari 2
 mighƨ 2
 ula 2
 - 2
+mudgareni 2
 çhiçhet 2
 jogu 2
 Toms 2
@@ -244,8 +246,11 @@ toms 2
 sqolasha 2
 qortxint 2
 dudi 2
+ragadi 2
 namut 2
+gvalo 2
 gomordzgua 2
+jgir 2
 ართი 1
 სუმი 1
 ოთხი 1
@@ -609,7 +614,6 @@ ichiebuna 1
 egvipṫes 1
 Musha 1
 saqmeda 1
-dio 1
 vakitrxiru 1
 kirbi 1
 Ir 1
@@ -1035,7 +1039,6 @@ adre 1
 qeshulebuno 1
 oshkuru 1
 Qimia 1
-mudgareni 1
 punc 1
 furgon-mashna 1
 Tom'q 1
@@ -1176,7 +1179,6 @@ chxoms 1
 ṫelefoni 1
 vaughudƨ 1
 musho 1
-ragadi 1
 chilatas 1
 ardgili 1
 vamokona 1
@@ -1222,7 +1224,6 @@ varduo 1
 orekali 1
 ortu 1
 qimipaṫiⱬinet 1
-gvalo 1
 qimisvanjude 1
 sqolas 1
 vagoguruana 1
@@ -1343,7 +1344,6 @@ ragadanqo 1
 laꞇafens 1
 shaxmatis 1
 vardƨ 1
-jgir 1
 xasiatis 1
 dudcu 1
 açhudun 1
@@ -1373,3 +1373,16 @@ qesheilebunano 1
 morchqila 1
 gichqunano 1
 franguli 1
+Ina 1
+axalkochi 1
+qartish 1
+saxenʒƨfo 1
+universiṫeṫish 1
+arqeologiash 1
+fakulṫeṫis 1
+Chqimo 1
+efi 1
+moinaloba 1
+ishendoisheni 1
+teshe 1
+ubralo 1

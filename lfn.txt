@@ -1,20 +1,20 @@
-es 5817
-la 5392
-ia 4511
+es 5823
+la 5394
+ia 4512
 de 3626
-un 3178
+un 3179
 ла 2802
 ес 2728
 Me 2407
 иа 2153
-no 1890
+no 1891
 де 1874
 La 1701
 a 1674
-en 1606
-Tom 1551
+en 1607
+Tom 1552
 ун 1365
-e 1183
+e 1184
 Ме 1182
 tu 1178
 me 1122
@@ -22,16 +22,16 @@ ave 1063
 а 953
 Ла 932
 но 910
-ce 898
+ce 899
 ен 882
 El 864
-Esce 772
+Esce 773
 plu 701
 va 698
 ме 662
 sua 658
 ту 655
-multe 642
+multe 644
 el 640
 per 635
 pote 611
@@ -42,7 +42,7 @@ esta 591
 mea 547
 lo 543
 Esta 528
-Nos 505
+Nos 507
 con 485
 Том 469
 ке 462
@@ -52,8 +52,8 @@ Tu 417
 casa 402
 Еске 399
 fa 380
-nos 374
-cosa 374
+nos 375
+cosa 375
 еста 368
 ел 364
 Ел 364
@@ -112,8 +112,8 @@ acel 185
 ma 181
 Ту 181
 bela 180
+No 179
 густа 178
-No 177
 lingua 174
 pensa 172
 asi 167
@@ -138,8 +138,8 @@ compra 144
 nesesa 143
 labora 142
 xace 142
+vera 141
 Ло 141
-vera 140
 tempo 139
 комо 139
 libro 138
@@ -155,8 +155,8 @@ du 133
 ка 132
 aprende 131
 парла 131
+Maria 130
 тота 130
-Maria 129
 ante 129
 comensa 127
 veni 127
@@ -249,7 +249,7 @@ favore 85
 Ci 85
 cade 85
 pasea 84
-Ta 83
+Ta 84
 пенса 83
 site 81
 prima 81
@@ -500,6 +500,7 @@ resta 39
 fura 39
 algun 39
 Xina 39
+Dio 39
 матина 39
 кафе 39
 тро 39
@@ -511,7 +512,6 @@ capeles 38
 papilios 38
 vino 38
 rusce 38
-Dio 38
 лонга 38
 туa 38
 пласе 38
@@ -544,6 +544,7 @@ iudi 36
 calda 35
 via 35
 besa 35
+malada 35
 fatigada 35
 serta 35
 sinco 35
@@ -557,7 +558,6 @@ Multe 34
 crea 34
 engles 34
 parte 34
-malada 34
 pasa 34
 frecuente 34
 Dona 34
@@ -729,6 +729,7 @@ eleje 25
 Ambos 25
 animal 25
 futbal 25
+salva 25
 solitar 25
 Esperanto 25
 neva 25
@@ -753,7 +754,6 @@ omes 24
 Japan 24
 pesos 24
 sera 24
-salva 24
 caso 24
 temprana 24
 Pos 24
@@ -877,6 +877,7 @@ stelas 20
 conteni 20
 parce 20
 numero 20
+cosina 20
 rompeda 20
 veria 20
 lenio 20
@@ -911,7 +912,6 @@ luna 19
 preparada 19
 eda 19
 ataca 19
-cosina 19
 aparte 19
 talia 19
 sufisinte 19
@@ -1480,6 +1480,7 @@ pedes 11
 Papa 11
 pesa 11
 mense 11
+orijinal 11
 siensa 11
 ditos 11
 ueste 11
@@ -1608,7 +1609,6 @@ rituo 10
 Abri 10
 empapada 10
 cexa 10
-orijinal 10
 disputa 10
 temosa 10
 prison 10
@@ -1696,6 +1696,7 @@ povre 10
 jenero 10
 oportun 10
 Ester 10
+iudis 10
 vacanse 10
 fies 10
 Ело 10
@@ -1849,7 +1850,7 @@ juntada 9
 женеро 9
 sindrom 9
 angusa 9
-iudis 9
+apesta 9
 песа 9
 avion 9
 авион 9
@@ -1958,6 +1959,7 @@ dana 8
 spesifada 8
 furni 8
 urso 8
+ambiente 8
 maior 8
 folias 8
 algas 8
@@ -2055,7 +2057,6 @@ Resta 8
 реа 8
 Броси 8
 trauma 8
-apesta 8
 supradosa 8
 piza 8
 transjenero 8
@@ -2156,6 +2157,7 @@ computadores 7
 area 7
 autorespondente 7
 leteras 7
+padron 7
 condena 7
 comenta 7
 gitar 7
@@ -2181,7 +2183,6 @@ diversa 7
 sani 7
 Buma 7
 dios 7
-ambiente 7
 polvo 7
 Louisiana 7
 bisesal 7
@@ -2308,6 +2309,7 @@ spos 7
 mas 7
 gateta 7
 conserva 7
+astuta 7
 fortes 7
 morde 7
 Senior 7
@@ -2399,7 +2401,6 @@ saisi 6
 polisiores 6
 consensia 6
 vosа 6
-padron 6
 televisador 6
 reclina 6
 miles 6
@@ -2636,7 +2637,6 @@ Carlsen 6
 Pronto 6
 astronauta 6
 Енгланд 6
-astuta 6
 potiosa 6
 vantajosa 6
 fatos 6
@@ -4694,6 +4694,7 @@ deser 3
 capelblanca 3
 copia 3
 To 3
+monstro 3
 rici 3
 niveles 3
 Educa 3
@@ -6605,7 +6606,6 @@ granda 2
 Proba 2
 operante 2
 caxon 2
-monstro 2
 Nancy 2
 оди 2
 Tro 2
@@ -6694,6 +6694,7 @@ oce" 2
 Washington 2
 Силенти 2
 mestri 2
+Stalin 2
 misterios 2
 мистериос 2
 1985 2
@@ -9997,4 +9998,3 @@ otodes-tre 1
 Белуга 1
 балена 1
 нарвал 1
-манадас 1
