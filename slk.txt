@@ -1,4 +1,4 @@
-je 2181
+je 2182
 sa 2087
 som 1841
 Tom 1602
@@ -6,7 +6,7 @@ si 1494
 to 1294
 že 1081
 na 988
-v 759
+v 760
 a 600
 mi 505
 Je 463
@@ -20,7 +20,7 @@ o 327
 s 325
 Čo 325
 ako 322
-nie 287
+nie 288
 Som 275
 sme 266
 veľmi 265
@@ -119,10 +119,10 @@ Máš 68
 A 68
 urobil 68
 pravdu 67
+Tento 67
 toto 67
 teraz 67
 nás 66
-Tento 66
 príliš 66
 povedať 66
 bolo 65
@@ -931,6 +931,7 @@ spraviť 11
 rýchlejšie 11
 Nemusíš 11
 náš 11
+možné 11
 oni 11
 večeru 11
 prídeš 11
@@ -1010,7 +1011,6 @@ poschodí 10
 Koho 10
 smutný 10
 Nebuď 10
-možné 10
 vlakom 10
 uveriť 10
 pomaranče 10
@@ -3126,6 +3126,7 @@ Chyť 3
 zavolajte 3
 chrámu 3
 visí 3
+program 3
 Odídeme 3
 vzdal 3
 ktorému 3
@@ -4384,7 +4385,6 @@ text 2
 Hrochy 2
 Kresťanstvo 2
 dlžíš 2
-program 2
 nedokončil 2
 Nepochopil 2
 význam 2
@@ -5321,6 +5321,7 @@ dobra 2
 Edenu 2
 obteká 2
 dôjdu 2
+spustiť 2
 Vedeli 2
 vrátime 2
 kohokoľvek 2
@@ -9997,4 +9998,3 @@ Tkáme 1
 Tkajú 1
 príjemný 1
 Spanie 1
-Nekráčajte 1

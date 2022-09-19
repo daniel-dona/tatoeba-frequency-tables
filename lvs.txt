@@ -7,12 +7,12 @@ tu 171
 un 164
 Vai 157
 Viņš 146
-Man 131
+Man 132
 es 119
 par 115
 ar 110
 uz 106
-nav 105
+nav 106
 man 99
 bija 99
 tas 93
@@ -92,6 +92,7 @@ vienmēr 21
 labs 21
 jūsu 21
 iet 20
+nevar 20
 Šī 20
 valodu 20
 vari 20
@@ -100,7 +101,6 @@ neko 20
 Ir 20
 līdz 20
 laiku 20
-nevar 19
 vairāk 19
 Kas 19
 Lūdzu 19
@@ -359,6 +359,7 @@ darbā 6
 teikumu 6
 pašu 6
 Jūsu 6
+Šo 6
 Varbūt 6
 klausīties 6
 gribi 6
@@ -425,7 +426,6 @@ Marijas 5
 vēlāk 5
 istabā 5
 Tavs 5
-Šo 5
 palīdzību 5
 nemaz 5
 viss 5
@@ -1234,6 +1234,7 @@ bagāta 2
 kukurūzas 2
 meitenes 2
 smaidi 2
+talanta 2
 paskaidrot 2
 padomu 2
 ģeogrāfiju 2
@@ -2812,7 +2813,6 @@ Aizbrauca 1
 Itāliju 1
 lasījis 1
 Svētīgi 1
-talanta 1
 Aizvāc 1
 vienīgā 1
 kurai 1
@@ -5363,3 +5363,7 @@ ražotājām 1
 tomātus 1
 dzirdi 1
 nezaudē 1
+programmu 1
+palaist 1
+DOS 1
+režīmā 1

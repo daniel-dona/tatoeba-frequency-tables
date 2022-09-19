@@ -1,8 +1,8 @@
-Ez 1188
+Ez 1189
 e 1028
 xwe 1025
 min 978
-ji 976
+ji 977
 bi 929
 Ew 810
 li 810
@@ -13,12 +13,12 @@ ku 595
 Em 542
 Tom 540
 Tu 514
-me 512
+me 513
 te 490
 de 452
 ne 395
 re 380
-Min 353
+Min 354
 Hûn 300
 di 292
 kir 289
@@ -62,7 +62,7 @@ baş 125
 bikim 117
 bawer 115
 da 115
-tê 114
+tê 115
 we 113
 be 112
 ba 112
@@ -220,6 +220,7 @@ bîst 26
 karê 26
 qet 26
 tişt 26
+dikir 25
 dil 25
 Ne 25
 hin 25
@@ -227,7 +228,6 @@ daye 25
 kurdî 25
 kê 25
 bidim 24
-dikir 24
 dixwazin 24
 wisa 24
 hîn 24
@@ -817,6 +817,7 @@ hevalan 7
 dixuye 7
 Dev 7
 hema 7
+nefret 7
 Laşê 7
 pak 7
 dipeyive 7
@@ -998,7 +999,6 @@ dixwe 6
 bilez 6
 binivîsin 6
 bixwim 6
-nefret 6
 heger 6
 serkeftî 6
 xewê 6
@@ -1812,6 +1812,7 @@ ling 3
 mirîşk 3
 hevokên 3
 nasîn 3
+Windows 3
 Rengê 3
 cotkar 3
 rastê 3
@@ -4735,7 +4736,6 @@ reqalavên 1
 Sepan 1
 pergal 1
 nermalavên 1
-Windows 1
 nermalavek 1
 Perwerde 1
 Mamote 1
@@ -9130,3 +9130,7 @@ natikîne 1
 Garaja 1
 xeletî 1
 şûştina 1
+nûvekirin 1
+bikarhênerekî 1
+Windows'ê 1
+Vista'yê 1

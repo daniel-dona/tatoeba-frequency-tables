@@ -1,23 +1,23 @@
-es 5823
-la 5394
+es 5826
+la 5397
 ia 4512
 de 3626
-un 3179
+un 3183
 ла 2802
 ес 2728
 Me 2407
 иа 2153
 no 1891
 де 1874
-La 1701
-a 1674
+La 1702
+a 1676
 en 1607
-Tom 1552
+Tom 1554
 ун 1365
 e 1184
 Ме 1182
-tu 1178
-me 1122
+tu 1179
+me 1123
 ave 1063
 а 953
 Ла 932
@@ -25,7 +25,7 @@ ave 1063
 ce 899
 ен 882
 El 864
-Esce 773
+Esce 774
 plu 701
 va 698
 ме 662
@@ -34,16 +34,16 @@ sua 658
 multe 644
 el 640
 per 635
-pote 611
+pote 612
 cual 609
 е 596
 esta 591
 аве 564
-mea 547
-lo 543
+mea 548
+lo 547
 Esta 528
 Nos 507
-con 485
+con 486
 Том 469
 ке 462
 vole 457
@@ -134,8 +134,8 @@ sola 149
 ваде 149
 Он 146
 сабе 145
+nesesa 144
 compra 144
-nesesa 143
 labora 142
 xace 142
 vera 141
@@ -191,10 +191,10 @@ abita 112
 scrive 111
 аси 111
 trova 108
+fini 108
 peti 108
 гранде 108
 leje 107
-fini 107
 Лос 107
 conose 106
 Mary 105
@@ -382,6 +382,7 @@ move 52
 Como 52
 Пер 52
 тенис 52
+verde 51
 joven 51
 parti 51
 кор 51
@@ -389,7 +390,6 @@ parti 51
 сите 51
 ами 51
 Brasil 50
-verde 50
 pomas 50
 Boston 50
 libros 50
@@ -527,6 +527,7 @@ catura 37
 acorda 37
 канта 37
 fria 36
+besa 36
 fio 36
 solve 36
 pronto 36
@@ -543,12 +544,12 @@ iudi 36
 Токи 36
 calda 35
 via 35
-besa 35
 malada 35
 fatigada 35
 serta 35
 sinco 35
 prende 35
+Dona 35
 xerca 35
 рапида 35
 сала 35
@@ -560,8 +561,8 @@ engles 34
 parte 34
 pasa 34
 frecuente 34
-Dona 34
 te 34
+re 34
 max 34
 oposor 34
 Татоеба 34
@@ -580,7 +581,6 @@ vola 33
 otel 33
 pico 33
 olimpial 33
-re 33
 ge 33
 верде 33
 Комо 33
@@ -608,6 +608,7 @@ propre 31
 Nun 31
 papilio 31
 canes 31
+gida 31
 сирка 31
 сиело 31
 фрасе 31
@@ -626,7 +627,6 @@ desinia 30
 Bon 30
 brun 30
 umanas 30
-gida 30
 comentas 30
 Jonguo 30
 Nosa 30
@@ -812,6 +812,7 @@ interesante 22
 ensenia 22
 lado 22
 lete 22
+ecipo 22
 tren 22
 intera 22
 esperanto 22
@@ -841,7 +842,6 @@ natural 21
 velia 21
 senta 21
 permete 21
-ecipo 21
 Plu 21
 cuanto 21
 vivente 21
@@ -1693,6 +1693,7 @@ povre 10
 рие 10
 жуорес 10
 норде 10
+juntada 10
 jenero 10
 oportun 10
 Ester 10
@@ -1837,6 +1838,7 @@ platos 9
 универсо 9
 траверса 9
 аутоно 9
+Resta 9
 стона 9
 моринте 9
 донке 9
@@ -1846,7 +1848,6 @@ platos 9
 натур 9
 традуор 9
 лунлотра 9
-juntada 9
 женеро 9
 sindrom 9
 angusa 9
@@ -2050,7 +2051,6 @@ lampas 8
 еруга 8
 дама 8
 маш 8
-Resta 8
 инвиа 8
 паже 8
 традуида 8
@@ -2439,6 +2439,7 @@ carera 6
 blonde 6
 calcula 6
 particulas 6
+veculo 6
 istorial 6
 respira 6
 spalas 6
@@ -2621,6 +2622,7 @@ frato 6
 Мери 6
 bove 6
 vegan 6
+Basi 6
 ne 6
 relijio 6
 оке 6
@@ -2791,7 +2793,6 @@ potia 5
 televide 5
 corpos 5
 suspende 5
-veculo 5
 lejera 5
 asentia 5
 clase 5
@@ -3014,7 +3015,6 @@ Mari 5
 dependente 5
 real 5
 marina 5
-Basi 5
 армада 5
 noiante 5
 cantor 5
@@ -3630,6 +3630,7 @@ enlinia 4
 agu 4
 компарти 4
 papagaio 4
+Segue 4
 роса 4
 joalas 4
 енебриада 4
@@ -3831,6 +3832,7 @@ esita 3
 consela 3
 pende 3
 partinte 3
+teroriste 3
 pistol 3
 escusa 3
 vitimas 3
@@ -3895,6 +3897,7 @@ palpa 3
 tigre 3
 rola 3
 sinta 3
+aderente 3
 caro 3
 etc 3
 Petras 3
@@ -4726,6 +4729,7 @@ ostra 3
 avansa 3
 Najdorf 3
 stratejia 3
+vertical 3
 modesta 3
 9 3
 sub 3
@@ -4782,6 +4786,7 @@ somada 3
 naive 3
 biscotos 3
 фармасиа 3
+basto 3
 Computadores 2
 105 2
 Encantada 2
@@ -4835,6 +4840,7 @@ melodiosa 2
 transmete 2
 Sempre 2
 surprendente 2
+Teni 2
 (456) 2
 dijitos 2
 paseante 2
@@ -4940,7 +4946,6 @@ Er 2
 anunsias 2
 Des-ses 2
 comersial 2
-teroriste 2
 redes 2
 vestida 2
 Oserva 2
@@ -5029,7 +5034,6 @@ frescador 2
 DVDs 2
 Escobar 2
 colombian 2
-aderente 2
 formulas 2
 Flota 2
 suspendeda 2
@@ -6671,7 +6675,6 @@ Miguel 2
 menasada 2
 oportunes 2
 posibles 2
-vertical 2
 stania 2
 erudita 2
 titila 2
@@ -7009,7 +7012,6 @@ ajustable 1
 Cuinto 1
 Surprendente 1
 Reteni 1
-Teni 1
 Pasa 1
 desduple 1
 Cuatrosento-sincodes-ses 1
@@ -9996,5 +9998,3 @@ otodes-tre 1
 калкулос 1
 сементо 1
 Белуга 1
-балена 1
-нарвал 1

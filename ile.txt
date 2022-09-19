@@ -1,13 +1,13 @@
-es 2356
+es 2359
 Yo 1578
-un 1305
+un 1306
 li 1295
 ne 954
 Tom 948
-Li 613
+Li 615
 in 607
-Il 471
-ha 457
+Il 472
+ha 458
 esset 450
 de 442
 tu 436
@@ -20,12 +20,12 @@ mi 294
 e 288
 it 280
 va 269
-Noi 264
+Noi 265
 vole 250
 To 249
 yo 244
 to 235
-bon 230
+bon 231
 It 228
 Tu 214
 ama 210
@@ -52,7 +52,7 @@ mult 120
 Quo 119
 Ili 118
 ella 108
-bell 99
+bell 100
 U 98
 Ti 95
 Pro 93
@@ -238,13 +238,13 @@ trinca 23
 púer 22
 blu 22
 hom 22
+passat 22
 rapidmen 22
 Quande 22
 Chascun 22
 comensat 22
 ex 22
 auxilie 22
-passat 21
 posset 21
 Tui 21
 blanc 21
@@ -477,6 +477,7 @@ vendi 10
 parc 10
 desde 10
 claves 10
+vacanties 10
 decision 10
 talmen 10
 viage 10
@@ -506,6 +507,7 @@ sorciera 9
 pomes 9
 besat 9
 manus 9
+verdi 9
 bentost 9
 mem 9
 proxim 9
@@ -517,7 +519,6 @@ scurel 9
 Pos 9
 eveni 9
 atende 9
-vacanties 9
 persones 9
 cantat 9
 Vor 9
@@ -544,7 +545,6 @@ questiona 8
 dansat 8
 fine 8
 plese 8
-verdi 8
 sponsa 8
 svimma 8
 ca 8
@@ -1221,6 +1221,7 @@ horribil 3
 grandmatre 3
 Anglesi 3
 potentie 3
+risca 3
 club 3
 Amsterdam 3
 matematica 3
@@ -1617,6 +1618,7 @@ explorat 2
 scoleros 2
 strada 2
 tranquil 2
+psichologo 2
 testimon 2
 consilie 2
 enigma 2
@@ -1627,7 +1629,6 @@ ci" 2
 Rubi 2
 cantator 2
 artistes 2
-risca 2
 storm 2
 diminuet 2
 babillada 2
@@ -1892,6 +1893,7 @@ demandat 2
 januar 2
 Milano 2
 responde 2
+cucurbite 2
 Sarajevo 2
 Emina 2
 miel-lune 2
@@ -2554,7 +2556,6 @@ cacáo 1
 Giovanni 1
 Caboto 1
 cintura 1
-psichologo 1
 municipal 1
 financial 1
 penetrar 1
@@ -3322,7 +3323,6 @@ marmelade 1
 vendir 1
 Cleopatra 1
 Torna 1
-cucurbite 1
 Vaccas 1
 ubres 1
 caude 1
@@ -4668,3 +4668,4 @@ Hores 1
 questionat 1
 combattet 1
 battalies 1
+minimal 1

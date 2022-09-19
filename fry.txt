@@ -1,9 +1,9 @@
 is 115
 Ik 93
-in 70
+in 71
 de 55
 fan 50
-it 41
+it 42
 yn 40
 net 35
 en 24
@@ -14,9 +14,9 @@ kom 18
 te 16
 De 16
 ik 16
+wie 16
 Tom 15
 dat 14
-wie 14
 myn 13
 my 12
 ha 12
@@ -123,6 +123,7 @@ Noard-Koreä 3
 reint 3
 Grins 3
 Grinslânsk 3
+snein 3
 of 3
 Sina 3
 Wy 3
@@ -159,12 +160,14 @@ allegear 2
 Wêrom 2
 ek 2
 gewoan 2
+Kinne 2
 prate 2
 Yn 2
 stie 2
 waard 2
 sliept 2
 Twa 2
+wike 2
 ein 2
 dei 2
 beppe 2
@@ -227,7 +230,6 @@ Oerisel 2
 Fryslân 2
 wurkje 2
 sjong 2
-snein 2
 Londen 2
 FS 2
 Washington 2
@@ -384,7 +386,6 @@ dochst 1
 ferkeard 1
 asto 1
 Goemoarn 1
-Kinne 1
 stadicher 1
 asjebleaft 1
 keamer 1
@@ -397,7 +398,6 @@ stienen 1
 opmakke 1
 bêden 1
 kear 1
-wike 1
 túnman 1
 meanen 1
 dêrom 1
@@ -859,3 +859,13 @@ opnaam 1
 bêst 1
 lekker 1
 koese 1
+wy 1
+swimme 1
+Us 1
+hiem 1
+wier 1
+kikkertparadys 1
+Ferline 1
+sa'n 1
+moaie 1
+maitiidsdei 1

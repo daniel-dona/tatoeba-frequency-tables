@@ -1,4 +1,4 @@
-oon 195
+oon 197
 Se 33
 ei 30
 ja 27
@@ -26,6 +26,7 @@ hyvvää 6
 Ei 6
 ollu 6
 kolme 6
+Tässä 6
 päivää 5
 en 5
 vuotta 5
@@ -39,7 +40,6 @@ nelje 5
 met 5
 kymmenen 5
 päiväle 5
-Tässä 5
 mennee 4
 pääkaupunki 4
 Norjan 4
@@ -215,6 +215,7 @@ teema 2
 1978 2
 Net 2
 sanoi 2
+meilä 2
 nokko 2
 pölättelee 2
 Siinä 2
@@ -938,7 +939,6 @@ Ruijassa 1
 Aika 1
 muuttunu 1
 Sienii 1
-meilä 1
 kartassa 1
 Koira 1
 Puukko 1
@@ -1264,3 +1264,7 @@ kyytiä 1
 tehe 1
 seppämies 1
 fiskussa 1
+toimiva 1
+sauna 1
+Repo 1
+märkä 1

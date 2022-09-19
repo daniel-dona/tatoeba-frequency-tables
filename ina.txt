@@ -1,9 +1,9 @@
-le 12686
-es 7733
-de 6767
-un 6689
+le 12687
+es 7734
+de 6771
+un 6691
 Le 4737
-ha 4654
+ha 4656
 in 4249
 que 3813
 non 3615
@@ -12,24 +12,24 @@ del 2919
 e 2895
 a 2607
 tu 2148
-Ille 1773
+Ille 1775
 me 1554
 io 1548
 al 1527
-su 1505
+su 1507
 se 1490
 Il 1421
 pro 1355
 lo 1248
+Tom 1215
 con 1213
-Tom 1213
 plus 1203
 ille 1188
 vos 1072
 esseva 1063
 nos 947
-pote 939
-mi 912
+pote 940
+mi 913
 multo 906
 iste 855
 per 817
@@ -37,7 +37,7 @@ como 774
 te 761
 il 744
 grande 738
-Illa 699
+Illa 700
 Nos 686
 blau 684
 Tu 683
@@ -54,7 +54,7 @@ qui 503
 Que 492
 isto 488
 esser 488
-Mi 482
+Mi 483
 Un 481
 sur 466
 super 444
@@ -75,7 +75,7 @@ illes 367
 face 365
 o 357
 casa 354
-vita 353
+vita 354
 altere 345
 essite 344
 belle 341
@@ -124,7 +124,7 @@ diceva 206
 morte 206
 haber 204
 la 200
-son 199
+son 200
 libro 197
 Es 195
 persona 193
@@ -244,10 +244,10 @@ amicos 106
 tabula 106
 Tote 105
 horas 105
+besonio 105
 ancian 104
 nulle 104
 habe 104
-besonio 103
 vices 103
 trovar 103
 alique 103
@@ -360,6 +360,7 @@ saper 71
 Quanto 71
 familia 71
 gusto 71
+verde 70
 proxime 70
 puera 70
 filio 70
@@ -367,7 +368,6 @@ tal 70
 vitro 70
 Quante 70
 foco 70
-verde 69
 soror 69
 Nostre 69
 deveniva 69
@@ -734,6 +734,7 @@ capital 34
 partiva 34
 autor 34
 cadite 34
+horologio 34
 essaya 34
 reguardava 34
 attender 34
@@ -755,7 +756,6 @@ occupate 33
 cadeva 33
 labora 33
 audiva 33
-horologio 33
 sequer 33
 viros 33
 sonios 33
@@ -989,6 +989,7 @@ pur 25
 original 25
 Marco 25
 communication 24
+alcuno 24
 stupide 24
 recipeva 24
 punctos 24
@@ -1034,7 +1035,6 @@ curso 24
 Uno 24
 mamma 24
 existentia 24
-alcuno 23
 consilio 23
 machina 23
 lassar 23
@@ -1677,6 +1677,7 @@ Jesus 14
 minor 14
 concerne 14
 filias 14
+reparar 14
 poemas 14
 vapor 14
 sexo 14
@@ -1696,6 +1697,7 @@ quartiero 14
 salon 14
 silva 14
 sponsa 14
+ferro 14
 acto 14
 opera 14
 causate 14
@@ -1783,7 +1785,6 @@ campana 13
 intense 13
 april 13
 portante 13
-reparar 13
 ungulas 13
 naturalmente 13
 stricte 13
@@ -1805,7 +1806,6 @@ Australia 13
 sagio 13
 regratia 13
 jectar 13
-ferro 13
 octobre 13
 tranquille 13
 acceptate 13
@@ -2032,6 +2032,7 @@ resimila 11
 invitatos 11
 attraheva 11
 articulos 11
+basio 11
 preferibile 11
 vergonia 11
 leon 11
@@ -2089,6 +2090,7 @@ rationes 11
 evenir 11
 adder 11
 repeter 11
+Amor 11
 prince 11
 brasiliano 11
 projectos 11
@@ -2194,11 +2196,11 @@ capitano 10
 Internet 10
 firma 10
 acquirer 10
-basio 10
 par 10
 traducite 10
 contava 10
 reposo 10
+parapluvia 10
 habito 10
 guida 10
 communicar 10
@@ -2240,7 +2242,6 @@ basiar 10
 signification 10
 attinge 10
 barba 10
-Amor 10
 povressa 10
 2013 10
 Rio 10
@@ -2399,7 +2400,6 @@ obtenite 9
 passatempore 9
 bibite 9
 habitantes 9
-parapluvia 9
 lava 9
 argento 9
 auree 9
@@ -4204,6 +4204,7 @@ affectionate 4
 defiate 4
 Columbo 4
 affabile 4
+calcettas 4
 partito 4
 Europee 4
 plorate 4
@@ -4279,6 +4280,7 @@ recommenda 4
 papiros 4
 sofa 4
 conveniva 4
+reparation 4
 nuclear 4
 Nigre 4
 cenar 4
@@ -5127,7 +5129,6 @@ furiosemente 3
 deceptive 3
 Alcuno 3
 Hokkaido 3
-calcettas 3
 jardines 3
 illustrationes 3
 resiste 3
@@ -5208,7 +5209,6 @@ arresta 3
 lateres 3
 repone 3
 receptor 3
-reparation 3
 exequer 3
 floration 3
 cadita 3
@@ -6258,6 +6258,7 @@ carnal 3
 definition 3
 suffrentia 3
 assumite 3
+terrorista 3
 flecha 3
 Larry 3
 motivos 3
@@ -6593,6 +6594,7 @@ silentemente 3
 anime 3
 philippin 3
 camouflage 3
+reparava 3
 Ideas 2
 Require 2
 typhon 2
@@ -7294,6 +7296,7 @@ Lavoisier 2
 decapitate 2
 incoragia 2
 confina 2
+repassar 2
 capitulos 2
 allontanava 2
 consiliabile 2
@@ -8512,7 +8515,6 @@ guarnite 2
 dissolution 2
 Fortunate 2
 Patrick 2
-terrorista 2
 cortesia 2
 typic 2
 Guy 2
@@ -9996,5 +9998,3 @@ astrophysico 1
 graffiti 1
 autobiographia 1
 Mont 1
-muscate 1
-instructores 1

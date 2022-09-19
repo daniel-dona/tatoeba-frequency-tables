@@ -1,6 +1,6 @@
 on 961
 Ma 607
-ei 454
+ei 455
 Tom 354
 sa 255
 Kas 233
@@ -11,8 +11,8 @@ ma 155
 oma 134
 see 123
 seda 119
-ole 105
-Mul 103
+ole 106
+Mul 104
 olen 101
 ja 100
 Sa 95
@@ -1190,7 +1190,6 @@ Kõige 2
 küsimusi 2
 Tatoeba 2
 ajutiselt 2
-ny 2
 Raamat 2
 arvuti 2
 otsustasin 2
@@ -2386,10 +2385,6 @@ kirjutage 1
 "borš" 1
 "kapsasupp" 1
 kättesaamatu 1
-manidina 1
-toy 1
-tsipika 1
-fotoana 1
 Rõõmsaid 1
 Ülestõusmispühi 1
 sünnipäeva 1
@@ -4897,3 +4892,4 @@ laste 1
 köita 1
 kuuled 1
 kaota 1
+talenti 1

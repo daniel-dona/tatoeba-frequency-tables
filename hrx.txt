@@ -4,12 +4,12 @@ en 143
 Tom 103
 hod 91
 net 79
-Das 75
+Das 76
 die 72
 hon 64
 de 62
 das 60
-sin 58
+sin 57
 Gott 51
 Die 46
 De 44
@@ -65,11 +65,11 @@ Aff 13
 gehn 12
 fun 12
 kann 12
+sich 12
 abgebrennd 12
 Host-du 11
 Buch 11
 etwas 11
-sich 11
 Aanfang 11
 Abakaschi 11
 Annas 11
@@ -140,6 +140,7 @@ immer 6
 werre 6
 Weck 6
 ohne 6
+fum 6
 host 6
 wo 6
 Advogaat 6
@@ -170,7 +171,6 @@ Deer 5
 Biff 5
 Gester 5
 kaafe 5
-fum 5
 mol 5
 Eppel 5
 wees-ich 5
@@ -219,6 +219,7 @@ uns 4
 glaabd 4
 wieder 4
 Hand 4
+sihn 4
 scheen 4
 waare 4
 gefall 4
@@ -239,6 +240,7 @@ dääd 4
 Franzeesisch 4
 Flitte 4
 fliehe 4
+drehd 4
 bereie 4
 Fiel 4
 sihd 4
@@ -294,7 +296,6 @@ Keenich 3
 Ma 3
 saan 3
 Dod 3
-sihn 3
 wisse 3
 ganz 3
 wach 3
@@ -346,7 +347,6 @@ nevich 3
 Guck 3
 forgester 3
 ferloer 3
-drehd 3
 gaar 3
 blau 3
 Beem 3
@@ -1346,3 +1346,5 @@ Meter 1
 saad-er 1
 Scheisdreck 1
 gebbd-s 1
+Raat 1
+Schicksal 1

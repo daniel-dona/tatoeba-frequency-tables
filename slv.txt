@@ -1,5 +1,5 @@
 je 350
-v 108
+v 109
 se 97
 sem 88
 Tom 85
@@ -9,8 +9,8 @@ na 56
 so 52
 si 50
 in 44
+ni 38
 bi 37
-ni 37
 za 36
 bo 35
 me 34
@@ -684,6 +684,8 @@ odprl 2
 mirno 2
 pajkov 2
 Imaš 2
+Tega 2
+mogoče 2
 Zdaj 2
 umil 2
 vašega 2
@@ -2388,9 +2390,7 @@ dodatnega 1
 Turčiji 1
 Nikozija 1
 Cipra 1
-Tega 1
 krompirja 1
-mogoče 1
 kuhati 1
 Subway 1
 pijem 1
@@ -2461,3 +2461,7 @@ judo 1
 najboljša 1
 izbira 1
 otroka 1
+programa 1
+zagnati 1
+načinu 1
+DOS 1

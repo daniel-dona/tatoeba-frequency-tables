@@ -1,7 +1,7 @@
-lo 12456
+lo 12457
 mi 5824
 do 3288
-cu 3252
+cu 3253
 la 2539
 pu 2252
 nu 2086
@@ -460,6 +460,7 @@ u'u 31
 sedu'u 31
 io 31
 sazri 31
+merko 31
 cikna 31
 bei 31
 ckiku 31
@@ -475,7 +476,6 @@ ckaji 30
 ja'e 30
 mipri 30
 xe 30
-merko 30
 simxu 30
 poi'i 30
 ja'o 30
@@ -954,6 +954,7 @@ mulgau 11
 se'ixru 11
 mexno 11
 snuji 11
+plana 11
 smadi 11
 jbobau 11
 bangenugu 11
@@ -1019,7 +1020,6 @@ cintypu'i 10
 detri 10
 my 10
 je'upei 10
-plana 10
 solji 10
 kalte 10
 kunti 10
