@@ -1,13 +1,13 @@
-je 2182
+je 2184
 sa 2087
 som 1841
 Tom 1602
 si 1494
 to 1294
 že 1081
-na 988
+na 989
 v 760
-a 600
+a 601
 mi 505
 Je 463
 by 455
@@ -16,12 +16,12 @@ do 382
 čo 381
 sú 353
 To 329
-o 327
+o 329
 s 325
 Čo 325
 ako 322
 nie 288
-Som 275
+Som 277
 sme 266
 veľmi 265
 Prečo 249
@@ -38,7 +38,7 @@ ti 204
 ho 200
 po 191
 Nie 189
-bol 180
+bol 181
 za 169
 jej 160
 vás 159
@@ -66,16 +66,16 @@ Ste 118
 pre 116
 Tomovi 115
 Koľko 115
-Kto 112
+Kto 113
 Už 108
 Prosím 108
 ale 106
 knihu 105
 už 104
+jeho 100
 nič 100
 všetko 100
 Ja 99
-jeho 98
 On 98
 Nikdy 94
 Neviem 92
@@ -505,6 +505,7 @@ ona 20
 učí 20
 Mala 20
 neskôr 20
+krásna 20
 hovoria 20
 svete 20
 hodín 20
@@ -531,7 +532,6 @@ volá 19
 pero 19
 nebude 19
 Po 19
-krásna 19
 krajina 19
 krásne 19
 priateľ 19
@@ -808,6 +808,7 @@ myslel 13
 Nebudem 13
 tanier 13
 stáť 13
+prekrásna 13
 francúzštiny 13
 milujem 13
 šla 13
@@ -868,7 +869,6 @@ otázok 12
 Buďte 12
 obľúbená 12
 bojí 12
-prekrásna 12
 Povedali 12
 zmysel 12
 neurobil 12
@@ -975,6 +975,7 @@ sušienky 11
 zjedol 11
 kosť 11
 Ahoj 10
+okrem 10
 ruku 10
 Takmer 10
 chorá 10
@@ -1068,7 +1069,6 @@ jabĺk 10
 väzení 10
 mužstve 10
 ostať 9
-okrem 9
 navzájom 9
 Jeden 9
 chodím 9
@@ -2379,6 +2379,7 @@ Neplač 4
 mliekom 4
 ďalšie 4
 Nemôže 4
+Márie 4
 zadarmo 4
 prekvapene 4
 Obloha 4
@@ -2733,6 +2734,7 @@ tamtú 4
 Nepočul 4
 Nepočula 4
 gruzínsky 4
+presvedčený 4
 Urazil 4
 Urazila 4
 Začínam 4
@@ -3057,7 +3059,6 @@ každú 3
 auta 3
 lenivá 3
 20 3
-Márie 3
 hranie 3
 používať 3
 fotka 3
@@ -3371,6 +3372,7 @@ mýlil 3
 alkohol 3
 úspešní 3
 spôsobiť 3
+večierku 3
 buďte 3
 Bál 3
 spoločnosť 3
@@ -3670,7 +3672,6 @@ Púpava 3
 Rieka 3
 lietajúceho 3
 Bulharka 3
-presvedčený 3
 dočítala 3
 Vyhrala 3
 zmizol 3
@@ -3770,6 +3771,7 @@ priďaleko 3
 zahral 3
 nejem 3
 osobne 3
+nevine 3
 Stolička 3
 veveričku 3
 nižšie 3
@@ -4874,7 +4876,6 @@ prírodovedu 2
 predmet 2
 Učí 2
 narodili 2
-večierku 2
 dierku 2
 palci 2
 zlej 2
@@ -6046,6 +6047,7 @@ majetok 2
 „Dvadsaťšesť“ 2
 ochorieť 2
 rozobrať 2
+Príroda 2
 Penis 1
 mužských 1
 pohlavných 1
@@ -9996,5 +9998,3 @@ Tkám 1
 Tká 1
 Tkáme 1
 Tkajú 1
-príjemný 1
-Spanie 1

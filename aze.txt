@@ -2,8 +2,8 @@ Mən 638
 O 444
 Tom 396
 Bu 335
-var 248
-bir 206
+var 249
+bir 207
 nə 175
 çox 163
 Biz 150
@@ -51,12 +51,12 @@ paytaxtıdır 38
 öz 37
 edir 36
 başa 36
+ilə 35
 ən 34
 sevirəm 34
 burada 34
 sənə 34
 etdi 34
-ilə 34
 Toma 34
 məni 33
 Nə 32
@@ -204,6 +204,7 @@ pis 12
 lüğət 12
 bilər 12
 iş 12
+yeyir 12
 ondan 12
 bilirsən 12
 şeyi 12
@@ -219,7 +220,6 @@ asan 11
 gedirəm 11
 qırmızı 11
 İt 11
-yeyir 11
 Burada 11
 Gəl 11
 Sabah 11
@@ -240,6 +240,7 @@ bizə 11
 dilində 11
 ev 11
 buna 11
+Alma 10
 Kitab 10
 yaşamaq 10
 ol 10
@@ -260,7 +261,6 @@ biri 10
 zəhləm 10
 Merinin 10
 Avropa 10
-Alma 9
 görünür 9
 yeməyi 9
 zəhləsi 9
@@ -570,6 +570,7 @@ idin 5
 öyrənmək 5
 stol 5
 üstündə 5
+şeylər 5
 getdik 5
 düşünür 5
 verdim 5
@@ -711,7 +712,6 @@ xəstəxanada 4
 Onunla 4
 Qız 4
 etdin 4
-şeylər 4
 köməyə 4
 buradayam 4
 demədi 4
@@ -802,6 +802,7 @@ gözlə 4
 yardım 4
 Səndə 4
 sonuncu 4
+istədiyim 4
 vermə 4
 işləmir 4
 varlıdır 4
@@ -988,6 +989,7 @@ görmədik 3
 oynayaq 3
 qatar 3
 Yayda 3
+Toyuq 3
 nəsə 3
 idman 3
 getməlidir 3
@@ -1087,7 +1089,6 @@ keçən 3
 Ukraynanın 3
 səbəbi 3
 müharibənin 3
-istədiyim 3
 gözləmirdim 3
 öyrənməyə 3
 açanda 3
@@ -1442,7 +1443,6 @@ danışarkən 2
 İngiliscə 2
 cümləni 2
 bilərsinizmi 2
-Toyuq 2
 qayıdıb 2
 qalacağam 2
 təəccübləndirdi 2
@@ -7429,3 +7429,7 @@ saatı 1
 söndürməyi 1
 gülür 1
 lazımsan 1
+Öyrənmək 1
+armud 1
+meyvədir 1
+kəpənək 1

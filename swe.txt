@@ -4,7 +4,7 @@ att 6174
 inte 6102
 Tom 5983
 du 4519
-en 4517
+en 4518
 på 4375
 det 4264
 i 4016
@@ -160,8 +160,8 @@ pengar 222
 sina 221
 säga 220
 hem 214
+äter 213
 Alla 212
-äter 212
 några 207
 säger 199
 blir 196
@@ -2464,6 +2464,7 @@ resultat 9
 övergav 9
 krossa 9
 artig 9
+fjäril 9
 generad 9
 hemligheter 9
 lögnare 9
@@ -2716,7 +2717,6 @@ lik 8
 löste 8
 mors 8
 betalat 8
-fjäril 8
 hindra 8
 ting 8
 frukosten 8

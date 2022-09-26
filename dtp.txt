@@ -1,5 +1,5 @@
 do 988
-oku 597
+oku 599
 i 389
 Tom 349
 ku 321
@@ -45,8 +45,8 @@ isido 52
 lo 50
 ka 50
 maan 49
+ti 48
 tadau 47
-ti 47
 hiti 47
 dika 45
 hodi 45
@@ -180,6 +180,7 @@ Poingkuro 13
 mintong 13
 ii 13
 Sina 13
+dinondo 13
 gambar 12
 rasuk 12
 wagu 12
@@ -197,7 +198,6 @@ Hiti 12
 ma 12
 timpu 12
 Nokoilo 12
-dinondo 12
 muli 11
 Olumis 11
 Noilaan 11
@@ -303,6 +303,7 @@ kinoiyonon 8
 momboros 8
 Mintong 8
 hiri 8
+Mangakan 8
 dualai 8
 Boston 7
 kupi 7
@@ -341,7 +342,6 @@ tangaanak 7
 kaantakan 7
 hombo 7
 ginumuan 7
-Mangakan 7
 kadai 7
 korongou 7
 golupo 7
@@ -733,6 +733,7 @@ Lojban 3
 Inkuro 3
 Tokou 3
 Ba 3
+louson 3
 Odoromot 3
 Momoli 3
 pongusapan 3
@@ -996,7 +997,6 @@ mambarai 2
 Kasaga' 2
 insomok 2
 Opoto 2
-louson 2
 akan 2
 Kuda' 2
 kuda' 2
@@ -1290,6 +1290,7 @@ suwai 2
 batos 2
 Obungou 2
 nod 2
+tu' 2
 Jamil 2
 buul 2
 Linanggaan 2
@@ -2826,7 +2827,6 @@ ko-2 1
 moniwa 1
 pomomutusan 1
 Monginsian 1
-tu' 1
 monginsian'' 1
 Tinandang 1
 Manandang 1

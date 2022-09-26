@@ -1,4 +1,4 @@
-að 3737
+að 3739
 er 3054
 Ég 2237
 í 2042
@@ -7,34 +7,34 @@ ekki 1598
 Það 844
 ég 834
 Hann 786
-til 762
+til 763
 og 723
 það 672
 við 662
 Hún 662
 Þú 633
-hann 630
+hann 631
 var 629
 sem 597
-þú 564
+þú 565
 með 519
 fyrir 500
 Við 498
 um 476
 af 445
-eru 442
+eru 443
 mér 426
 en 426
 þér 407
 mig 296
 fara 288
-Þetta 280
+Þetta 281
 þetta 260
-því 253
+því 254
 þig 249
 Tom 249
 vera 246
-honum 243
+honum 244
 Hvað 233
 svo 232
 hefur 214
@@ -55,11 +55,11 @@ hverju 161
 hafa 159
 hef 159
 hvað 151
-frá 145
+frá 146
 sér 142
 aftur 141
 þegar 140
-Ekki 136
+Ekki 137
 Mér 134
 vel 132
 sé 131
@@ -70,11 +70,11 @@ Ertu 125
 tíma 123
 okkur 121
 svona 121
+eða 121
 gær 120
-eða 120
+mikið 115
 Er 115
-mikið 114
-segja 111
+segja 112
 úr 111
 upp 111
 fór 110
@@ -90,16 +90,16 @@ Af 103
 Í 103
 mín 102
 ættir 96
+Hvernig 96
 allt 94
 þess 94
-Hvernig 94
 Vinsamlegast 93
 ráðlagði 93
 bara 92
-þarf 91
+þarf 92
+verið 92
+fer 91
 mitt 91
-verið 91
-fer 90
 hennar 90
 sagði 89
 yfir 85
@@ -123,8 +123,8 @@ vegna 77
 maður 75
 væri 75
 henni 75
+Hversu 75
 fá 74
-Hversu 74
 sinni 73
 þitt 72
 hvort 72
@@ -200,10 +200,10 @@ gaman 46
 enginn 46
 Geturðu 46
 elska 45
+bækur 45
 margar 45
 vildi 45
 annað 45
-bækur 44
 Má 44
 Enginn 44
 fengið 44
@@ -443,6 +443,7 @@ hjálpað 22
 vinnunni 22
 líður 22
 veikur 22
+sammála 22
 orðið 22
 elskar 22
 falleg 22
@@ -467,7 +468,6 @@ móður 21
 hringja 21
 seint 21
 tveimur 21
-sammála 21
 Gefðu 21
 árið 21
 eiga 21
@@ -587,6 +587,7 @@ geri 17
 skapi 17
 komi 17
 Hættu 17
+gráta 17
 gærnótt 17
 barnið 17
 seinn 17
@@ -615,7 +616,6 @@ nýju 16
 þínu 16
 sögu 16
 tókst 16
-gráta 16
 minna 16
 sömu 16
 þekkt 16
@@ -653,6 +653,7 @@ best 15
 fyrstu 15
 númer 15
 heyrt 15
+míns 15
 klár 15
 Hefur 15
 hundrað 15
@@ -699,7 +700,6 @@ svarið 14
 Þér 14
 kalt 14
 biðja 14
-míns 14
 gerðu 14
 tónlist 14
 betri 14
@@ -1061,6 +1061,7 @@ strætó 9
 mundu 9
 lofa 9
 kallast 9
+drepa 9
 morguninn 9
 Ísland 9
 kosta 9
@@ -1122,6 +1123,7 @@ viltu 8
 fólks 8
 ánægður 8
 námið 8
+mann 8
 aðrir 8
 mínútum 8
 Engin 8
@@ -1202,7 +1204,6 @@ góðir 8
 ástfanginn 8
 þrjár 8
 kvöldin 8
-drepa 8
 augu 8
 tímanum 8
 Jæja 8
@@ -1263,7 +1264,6 @@ farðu 7
 lífinu 7
 gleraugun 7
 nafn 7
-mann 7
 von 7
 jarðskjálfta 7
 fóru 7
@@ -1415,6 +1415,7 @@ virðingu 6
 Vandamálið 6
 lokaður 6
 gul 6
+samþykkt 6
 grænt 6
 boðið 6
 einmitt 6
@@ -1645,7 +1646,6 @@ Kærastan 5
 trjánum 5
 einni 5
 Satt 5
-samþykkt 5
 hundinum 5
 fyrirlestur 5
 Best 5
@@ -3252,6 +3252,7 @@ tölvan 3
 bíð 3
 villt 3
 mikilvægasta 3
+Skilurðu 3
 vín 3
 Erum 3
 þakklátur 3
@@ -4730,6 +4731,7 @@ freistingunni 2
 Páll 2
 svolitlu 2
 flensu 2
+afa 2
 fæðir 2
 diskana 2
 eplaköku 2
@@ -4960,7 +4962,6 @@ feginn 2
 hommi 2
 aðstæður 2
 meri 2
-Skilurðu 2
 leiðist 2
 vitir 2
 dró 2
@@ -5127,6 +5128,8 @@ Samí 2
 sælir 2
 sælar 2
 hvolfi 2
+gastu 2
+latínu 2
 réttindum 1
 gæddir 1
 vitsmunum 1
@@ -9481,7 +9484,6 @@ snert 1
 pósthúsinu 1
 eftirför 1
 lögreglan 1
-afa 1
 Þekki ég hann 1
 dyrabjallan 1
 dyrabjölluna 1
@@ -9996,5 +9998,3 @@ skelfileg 1
 eldhúsvaskinum 1
 Færðu 1
 Sannaðu 1
-þurrustu 1
-mánuðirnir 1

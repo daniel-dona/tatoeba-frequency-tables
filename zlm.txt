@@ -56,6 +56,7 @@ tolong 28
 sangat 27
 duduk 26
 datang 25
+makan 25
 la 25
 dengar 25
 tengok 25
@@ -63,7 +64,6 @@ takkan 25
 banyak 25
 takde 25
 bagi 25
-makan 24
 kalau 24
 untuk 23
 Ada 23
@@ -265,6 +265,7 @@ sabar 5
 Nak 5
 pergi 5
 sejuk 5
+lapar 5
 mula 5
 sorang 5
 lelaki 5
@@ -315,7 +316,6 @@ ini 4
 kot 4
 bosan 4
 berjalan 4
-lapar 4
 penting 4
 Layla 4
 panas 4
@@ -522,6 +522,7 @@ rindu 2
 ngan 2
 kek 2
 peti 2
+Kamek 2
 kelas 2
 musuh 2
 jururawat 2
@@ -877,7 +878,6 @@ disebalik 1
 ayat 1
 diterjemahkan 1
 Soalan 1
-Kamek 1
 matematik 1
 Maaf 1
 bilang 1
@@ -1793,3 +1793,6 @@ ulang 1
 alik 1
 Paris 1
 Berlin 1
+kinek 1
+segal 1
+kamek 1

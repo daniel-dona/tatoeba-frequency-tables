@@ -3,7 +3,7 @@ Tom 235
 che 222
 piko 206
 peteĩ 196
-ha 195
+ha 194
 hína 155
 ha'e 145
 Ha'e 130
@@ -16,7 +16,7 @@ ko 78
 kuri 68
 mba'e 67
 niko 64
-hag̃ua 58
+hag̃ua 57
 chupe 56
 Ko 52
 oĩ 52
@@ -89,7 +89,6 @@ mbo'ehao 16
 óga 16
 iporã 16
 ore 16
-opurahéi 16
 chupekuéra 16
 Tom-pe 16
 Okañy 16
@@ -100,6 +99,7 @@ ndaikatúi 15
 térã 15
 Mávapa 15
 reko 15
+opurahéi 15
 Upe 15
 Mba'ére 15
 hũ 15
@@ -117,7 +117,6 @@ hi'upyjehe'a 14
 ñe'ẽ 13
 Ndaikatúi 13
 Ndaikuaái 13
-tetã 13
 ou 13
 Maitei 13
 Ko'ãga 13
@@ -131,6 +130,7 @@ Ha 12
 oñe'ẽ 12
 ichupe 12
 omano 12
+tetã 12
 y 12
 oreko 12
 mborayhu 12
@@ -152,7 +152,6 @@ ru 11
 kuarahy 11
 akóinte 11
 Aimo'ã 11
-Umi 11
 ta'angamýi 11
 oñemyasãi 11
 ho'u 11
@@ -169,6 +168,7 @@ ko'ẽrõ 10
 upéicha 10
 reheve 10
 upépe 10
+Umi 10
 apañuái 10
 morotĩ 10
 Mbarakaja 9
@@ -701,7 +701,6 @@ sa 3
 saro'y 3
 añónte 3
 reimo'ã 3
-oñemoĩ 3
 ajogua 3
 Ja'úkuri 3
 Mba'éicha 3
@@ -1141,6 +1140,7 @@ mba'yru 2
 ovevéva 2
 ñehẽngue 2
 ombyai 2
+oñemoĩ 2
 omoneíva 2
 ñe'ẽrã 2
 Ijetu'u 2
@@ -1467,8 +1467,6 @@ pejerokyse 2
 ñepyrũrãre 2
 motĩmboháre 2
 Ha'use 2
-rekuáire 2
-Lívano 2
 arohory 2
 ombo'a 2
 Cheporandúkuri 2
@@ -4676,15 +4674,6 @@ itajumíva 1
 jahechamemévaicha 1
 araroguekúi 1
 ñepyrũ 1
-ombohováiva 1
-omboveve 1
-poyvikuéra 1
-momorãhéi 1
-oguatávo 1
-Beirut-pe 1
-1 1
-jasykõi 1
-2020 1
 ndacheporandúi 1
 Ajuhu 1
 ko'ágã 1

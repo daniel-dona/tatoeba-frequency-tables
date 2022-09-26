@@ -1,16 +1,16 @@
-le 12687
+le 12688
 es 7734
-de 6771
+de 6770
 un 6691
 Le 4737
-ha 4656
-in 4249
+ha 4657
+in 4250
 que 3813
-non 3615
+non 3616
 Io 3413
 del 2919
 e 2895
-a 2607
+a 2608
 tu 2148
 Ille 1775
 me 1554
@@ -21,14 +21,14 @@ se 1490
 Il 1421
 pro 1355
 lo 1248
-Tom 1215
+Tom 1216
 con 1213
 plus 1203
 ille 1188
 vos 1072
 esseva 1063
 nos 947
-pote 940
+pote 941
 mi 913
 multo 906
 iste 855
@@ -51,7 +51,7 @@ Isto 520
 tempore 515
 illo 507
 qui 503
-Que 492
+Que 493
 isto 488
 esser 488
 Mi 483
@@ -83,7 +83,7 @@ mundo 328
 Vos 323
 homine 322
 mesme 318
-duo 315
+duo 316
 toto 313
 solmente 312
 ben 305
@@ -97,7 +97,7 @@ parla 279
 sol 262
 On 262
 tanto 257
-Deo 256
+Deo 257
 vostre 255
 ancora 248
 apud 248
@@ -571,6 +571,7 @@ typo 44
 succo 44
 inseniante 44
 Francia 44
+rege 44
 accidente 43
 secundo 43
 football 43
@@ -583,7 +584,6 @@ carne 43
 spera 43
 stato 43
 phrase 43
-rege 43
 potera 43
 Terra 43
 enorme 43
@@ -683,6 +683,7 @@ clar 37
 brun 37
 cavallo 37
 Ecce 37
+spatio 37
 amava 37
 Alora 37
 modo 37
@@ -698,7 +699,6 @@ tamben 36
 major 36
 village 36
 scribeva 36
-spatio 36
 septe 36
 luce 36
 vader 36
@@ -989,7 +989,6 @@ pur 25
 original 25
 Marco 25
 communication 24
-alcuno 24
 stupide 24
 recipeva 24
 punctos 24
@@ -1035,6 +1034,7 @@ curso 24
 Uno 24
 mamma 24
 existentia 24
+alcuno 23
 consilio 23
 machina 23
 lassar 23
@@ -4043,6 +4043,7 @@ excambio 5
 salutes 5
 cumulo 5
 usual 5
+Polonia 5
 (de 5
 Pauc 5
 Leger 5
@@ -4869,7 +4870,6 @@ ignorar 4
 interne 4
 agro 4
 sancto 4
-Polonia 4
 atheista 4
 conviction 4
 gasose 4

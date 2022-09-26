@@ -1,13 +1,13 @@
-Ez 1189
+Ez 1190
 e 1028
 xwe 1025
 min 978
 ji 977
-bi 929
+bi 930
 Ew 810
 li 810
 ê 730
-û 658
+û 659
 ye 625
 ku 595
 Em 542
@@ -16,7 +16,7 @@ Tu 514
 me 513
 te 490
 de 452
-ne 395
+ne 396
 re 380
 Min 354
 Hûn 300
@@ -39,13 +39,13 @@ ser 184
 heye 181
 dikim 181
 Te 181
-vê 179
+vê 180
 dikin 178
 bikin 175
 ew 175
 in 174
 Wî 171
-pir 167
+pir 168
 hez 166
 Wê 166
 Me 156
@@ -77,8 +77,8 @@ ev 94
 dibistanê 90
 kiriye 89
 Divê 89
+malê 87
 ve 86
-malê 86
 xweş 86
 nekir 85
 Her 82
@@ -475,6 +475,7 @@ dikeve 12
 cih 12
 civakê 12
 Dinya 12
+girtiye 12
 dikevin 12
 cur 12
 dayîka 12
@@ -523,7 +524,6 @@ zor 11
 Mamoste 11
 dizanin 11
 yekem 11
-girtiye 11
 rojekê 11
 zivistanê 11
 bikevin 11
@@ -816,6 +816,7 @@ hevalan 7
 çareser 7
 dixuye 7
 Dev 7
+dixwe 7
 hema 7
 nefret 7
 Laşê 7
@@ -937,6 +938,7 @@ bilî 6
 bigirim 6
 bînim 6
 vekir 6
+Sêv 6
 Pirtûka 6
 heval 6
 mirî 6
@@ -995,7 +997,6 @@ kur 6
 Rûyê 6
 Fadil 6
 va 6
-dixwe 6
 bilez 6
 binivîsin 6
 bixwim 6
@@ -1083,7 +1084,6 @@ bijîşk 5
 henek 5
 civînê 5
 Deriyê 5
-Sêv 5
 şe 5
 Pirr 5
 xatirê 5
@@ -1455,6 +1455,7 @@ belê 4
 xênî 4
 derveyî 4
 giştî 4
+hirmî 4
 çêkirine 4
 xwezayî 4
 doza 4
@@ -1836,6 +1837,7 @@ karta 3
 diranan 3
 dîtiye 3
 bibû 3
+Rê 3
 bişopînin 3
 telefonî 3
 lingên 3
@@ -1891,7 +1893,6 @@ ewran 3
 Dar 3
 3 3
 dagirin 3
-hirmî 3
 Piştre 3
 binasin 3
 Tim 3
@@ -1983,6 +1984,7 @@ neynûkên 3
 nexweşiya 3
 êşa 3
 dikirin 3
+mêwe 3
 Destên 3
 distînin 3
 Cihê 3
@@ -2686,7 +2688,6 @@ tîpan 2
 Tutişt 2
 taybetî 2
 çol 2
-Rê 2
 Roma 2
 binase 2
 stranek 2
@@ -3047,7 +3048,6 @@ sebze 2
 Nexweşxane 2
 tenduristiyê 2
 dermanxaneyê 2
-mêwe 2
 bigerin 2
 lêkolîn 2
 gewde 2
@@ -3591,6 +3591,7 @@ nêzan 2
 Maisie'yê 2
 hevkariya 2
 pişt 2
+qeşayê 2
 Dusibe 2
 rû 2
 numera 1
@@ -9093,7 +9094,6 @@ perdê 1
 cadeyê 1
 ranazim 1
 Deqeyekê 1
-qeşayê 1
 xoxan 1
 bikêşe 1
 Îhtîmal 1
@@ -9134,3 +9134,6 @@ nûvekirin 1
 bikarhênerekî 1
 Windows'ê 1
 Vista'yê 1
+Mirîşk 1
+perperokekê 1
+diecibînim 1

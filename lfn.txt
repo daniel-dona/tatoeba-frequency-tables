@@ -1,5 +1,5 @@
 es 5826
-la 5397
+la 5399
 ia 4512
 de 3626
 un 3183
@@ -12,17 +12,17 @@ no 1891
 La 1702
 a 1676
 en 1607
-Tom 1554
+Tom 1556
 ун 1365
 e 1184
 Ме 1182
 tu 1179
 me 1123
-ave 1063
+ave 1065
 а 953
 Ла 932
 но 910
-ce 899
+ce 901
 ен 882
 El 864
 Esce 774
@@ -148,10 +148,10 @@ libro 138
 pare 136
 acua 136
 алга 136
+du 135
 Меа 135
 жуа 134
 коме 134
-du 133
 ка 132
 aprende 131
 парла 131
@@ -244,12 +244,12 @@ crede 87
 Мариа 87
 Cuando 86
 aveni 86
+Ta 86
 темпо 86
 favore 85
 Ci 85
 cade 85
 pasea 84
-Ta 84
 пенса 83
 site 81
 prima 81
@@ -476,6 +476,7 @@ umana 41
 seja 41
 capas 41
 juor 41
+Dio 41
 Суа 41
 ном 41
 шико 41
@@ -500,7 +501,6 @@ resta 39
 fura 39
 algun 39
 Xina 39
-Dio 39
 матина 39
 кафе 39
 тро 39
@@ -551,6 +551,7 @@ sinco 35
 prende 35
 Dona 35
 xerca 35
+re 35
 рапида 35
 сала 35
 сол 35
@@ -562,7 +563,6 @@ parte 34
 pasa 34
 frecuente 34
 te 34
-re 34
 max 34
 oposor 34
 Татоеба 34
@@ -876,6 +876,7 @@ soldi 20
 stelas 20
 conteni 20
 parce 20
+colpa 20
 numero 20
 cosina 20
 rompeda 20
@@ -953,7 +954,6 @@ apare 18
 bebe 18
 rica 18
 tore 18
-colpa 18
 gera 18
 egal 18
 fame 18
@@ -1374,6 +1374,7 @@ flor 12
 enerjia 12
 solo 12
 imperor 12
+rea 12
 portamone 12
 consiensa 12
 Alora 12
@@ -1501,7 +1502,6 @@ peones 11
 mesura 11
 brilia 11
 duple 11
-rea 11
 dura 11
 servi 11
 amira 11
@@ -2762,6 +2762,7 @@ Sirca 5
 Espania 5
 cresente 5
 orosa 5
+netos 5
 pera 5
 viole 5
 stadion 5
@@ -3233,7 +3234,6 @@ crase 4
 Labora 4
 prinsesa 4
 sivilia 4
-netos 4
 miror 4
 avo 4
 fronte 4
@@ -4631,6 +4631,7 @@ majia 3
 permanente 3
 перманенте 3
 Gatetas 3
+netes 3
 campana 3
 кампана 3
 оле 3
@@ -6415,7 +6416,6 @@ eroes 2
 дунетес 2
 dunetes 2
 нетес 2
-netes 2
 мурес 2
 феро 2
 Cosas 2

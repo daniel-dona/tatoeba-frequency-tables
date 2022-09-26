@@ -1,9 +1,9 @@
-es 2359
-Yo 1578
-un 1306
+es 2361
+Yo 1579
+un 1307
 li 1295
-ne 954
-Tom 948
+ne 955
+Tom 949
 Li 615
 in 607
 Il 472
@@ -11,12 +11,12 @@ ha 458
 esset 450
 de 442
 tu 436
-have 412
+have 413
 Esque 403
-Ella 358
+Ella 359
 que 332
 me 312
-mi 294
+mi 296
 e 288
 it 280
 va 269
@@ -27,7 +27,7 @@ yo 244
 to 235
 bon 231
 It 228
-Tu 214
+Tu 215
 ama 210
 posse 208
 a 208
@@ -608,6 +608,7 @@ provar 7
 che 7
 oncle 7
 Salute 7
+tra 7
 Ú 7
 escuta 7
 studiar 7
@@ -687,7 +688,6 @@ don 6
 regreta 6
 senioretta 6
 Veni 6
-tra 6
 lassat 6
 joya 6
 retornat 6
@@ -828,6 +828,7 @@ surprisat 5
 color 5
 India 5
 animale 5
+tanta 5
 cusina 5
 crear 5
 Peter 5
@@ -840,6 +841,7 @@ parturit 5
 roses 5
 unic 5
 nequí 5
+Russia 5
 rason 5
 Desde 5
 pluvia 5
@@ -968,7 +970,6 @@ maniere 4
 joca 4
 deo 4
 pupés 4
-tanta 4
 arestat 4
 ingageat 4
 idés 4
@@ -982,7 +983,6 @@ pluviar 4
 postmarcas 4
 somnies 4
 calsonettes 4
-Russia 4
 junt 4
 currer 4
 pur 4
@@ -1067,6 +1067,7 @@ Turcia 4
 electet 4
 urina 4
 prison 4
+viageat 4
 audi 4
 picat 4
 mill 4
@@ -1306,7 +1307,6 @@ Indonesia 3
 Siria 3
 nevas 3
 Salutationes 3
-viageat 3
 maliciosi 3
 polit 3
 celebri 3
@@ -2122,6 +2122,7 @@ personalitá 2
 creativ 2
 avatar 2
 Duesim 2
+tortug 2
 judéos 2
 pantufles 2
 mache 2
@@ -4620,7 +4621,6 @@ frenesi 1
 Matre 1
 fixmen 1
 Beijing 1
-tortug 1
 Williams 1
 burla 1
 quiet 1
@@ -4669,3 +4669,4 @@ questionat 1
 combattet 1
 battalies 1
 minimal 1
+nepoto 1
