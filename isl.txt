@@ -1,17 +1,17 @@
-að 3739
-er 3054
-Ég 2237
-í 2042
+að 3741
+er 3063
+Ég 2242
+í 2044
 á 1653
-ekki 1598
+ekki 1604
 Það 844
-ég 834
+ég 838
 Hann 786
 til 763
-og 723
+og 724
 það 672
+Hún 663
 við 662
-Hún 662
 Þú 633
 hann 631
 var 629
@@ -21,7 +21,7 @@ með 519
 fyrir 500
 Við 498
 um 476
-af 445
+af 446
 eru 443
 mér 426
 en 426
@@ -44,22 +44,22 @@ mjög 202
 eins 183
 út 181
 hans 180
-hún 177
+hún 178
 verður 176
 minn 175
 ert 174
 John 171
 okkar 168
+hverju 162
 mun 161
-hverju 161
 hafa 159
 hef 159
 hvað 151
 frá 146
 sér 142
+Ekki 141
 aftur 141
 þegar 140
-Ekki 137
 Mér 134
 vel 132
 sé 131
@@ -82,17 +82,17 @@ fór 110
 Þau 110
 Hver 108
 kom 107
+get 107
 ekkert 107
-get 106
 hana 104
 tala 104
-Af 103
+Af 104
 Í 103
 mín 102
 ættir 96
 Hvernig 96
+þess 95
 allt 94
-þess 94
 Vinsamlegast 93
 ráðlagði 93
 bara 92
@@ -116,10 +116,10 @@ langar 80
 erum 79
 læra 79
 alltaf 78
+vegna 78
 þau 77
 ef 77
 enn 77
-vegna 77
 maður 75
 væri 75
 henni 75
@@ -204,6 +204,7 @@ bækur 45
 margar 45
 vildi 45
 annað 45
+lengur 45
 Má 44
 Enginn 44
 fengið 44
@@ -254,7 +255,6 @@ keypti 37
 nota 37
 segir 37
 verð 37
-lengur 37
 geta 36
 alla 36
 neitt 36
@@ -269,10 +269,12 @@ stað 35
 hratt 35
 talar 35
 satt 35
+ganga 35
 Hefurðu 35
 mátt 35
 Japan 35
 ferð 35
+án 35
 hvert 35
 kvöld 35
 Allir 35
@@ -280,14 +282,12 @@ Vertu 35
 bíl 34
 leið 34
 sinn 34
+fætur 34
 gaf 34
 sitt 34
-ganga 34
 þarna 34
-án 34
 ennþá 34
 hitti 33
-fætur 33
 sex 33
 hægt 33
 þennan 33
@@ -313,6 +313,7 @@ erfitt 32
 fyrr 31
 bókina 31
 móti 31
+farið 31
 hætta 31
 daga 31
 uppáhalds 31
@@ -320,7 +321,6 @@ hvar 31
 ykkar 31
 fram 30
 lagi 30
-farið 30
 vilt 30
 vilja 30
 smá 30
@@ -354,6 +354,7 @@ reykja 27
 þinni 27
 hugmynd 27
 stór 27
+vinnuna 27
 þessari 27
 úti 27
 meiri 27
@@ -369,7 +370,6 @@ Gerðu 27
 pening 26
 Að 26
 betur 26
-vinnuna 26
 hjálp 26
 Til 26
 Pabbi 26
@@ -408,6 +408,7 @@ munt 24
 vona 24
 tvo 24
 lífi 24
+hræddur 24
 herbergið 24
 auðvelt 24
 bjór 24
@@ -430,6 +431,7 @@ upptekinn 23
 engan 23
 finna 23
 synda 23
+hrædd 23
 eyða 23
 mörg 23
 þótt 23
@@ -495,7 +497,6 @@ hljóp 20
 flýta 20
 mistök 20
 skóla 20
-hræddur 20
 nokkur 20
 lestinni 20
 frönsku 20
@@ -518,7 +519,6 @@ gengur 19
 vatn 19
 prófinu 19
 Get 19
-hrædd 19
 takk 19
 alls 19
 fæddist 19
@@ -616,6 +616,7 @@ nýju 16
 þínu 16
 sögu 16
 tókst 16
+míns 16
 minna 16
 sömu 16
 þekkt 16
@@ -653,7 +654,6 @@ best 15
 fyrstu 15
 númer 15
 heyrt 15
-míns 15
 klár 15
 Hefur 15
 hundrað 15
@@ -686,6 +686,7 @@ ung 14
 virkar 14
 leyfa 14
 Henni 14
+þurfti 14
 fundinn 14
 laga 14
 Herra 14
@@ -737,7 +738,6 @@ gærkveldi 13
 Hafðu 13
 Þótt 13
 trúa 13
-þurfti 13
 útlanda 13
 kalla 13
 geturðu 13
@@ -747,6 +747,7 @@ níu 13
 strákur 13
 matinn 13
 stundum 13
+missti 13
 manneskja 13
 gegn 13
 þremur 13
@@ -807,7 +808,6 @@ borga 12
 áhrif 12
 lék 12
 stund 12
-missti 12
 áttu 12
 tilheyrir 12
 ný 12
@@ -1845,6 +1845,7 @@ kaupi 5
 komist 5
 banka 5
 ljóð 5
+kettir 5
 frímerki 5
 færa 5
 heppni 5
@@ -2250,7 +2251,6 @@ meinar 4
 lítil 4
 gátum 4
 gengum 4
-kettir 4
 himinninn 4
 hreinu 4
 vinsælli 4
@@ -3736,6 +3736,7 @@ Drengirnir 2
 samtímis 2
 fræðimaður 2
 Heilbrigð 2
+fýlu 2
 batni 2
 öld 2
 meðvitaður 2
@@ -4817,6 +4818,7 @@ dagblaði 2
 skammtafræði 2
 skilurðu 2
 krakkar 2
+snertir 2
 einasta 2
 lásu 2
 Veiran 2
@@ -4955,6 +4957,7 @@ Fjörutíu 2
 ráðleggingar 2
 týna 2
 myndavélinni 2
+lík 2
 andskotanum 2
 sjáumst 2
 bíddu 2
@@ -6370,7 +6373,6 @@ Góð 1
 sið 1
 forvitni 1
 eiginleiki 1
-fýlu 1
 skjótt 1
 eyðum 1
 fimmtándu 1
@@ -9946,7 +9948,6 @@ uppáhaldsrithöfund 1
 uppáhaldsbók 1
 Sovétríkin 1
 frumeindir 1
-snertir 1
 ljóðlist 1
 ættingja 1
 eyðileggja 1
@@ -9997,4 +9998,3 @@ Skilningur 1
 skelfileg 1
 eldhúsvaskinum 1
 Færðu 1
-Sannaðu 1

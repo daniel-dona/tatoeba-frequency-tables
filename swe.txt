@@ -1,10 +1,10 @@
-är 10183
+är 10184
 Jag 9996
-att 6174
+att 6176
 inte 6102
 Tom 5983
-du 4519
-en 4518
+du 4520
+en 4519
 på 4375
 det 4264
 i 4016
@@ -12,9 +12,9 @@ har 3721
 Det 3498
 Han 3105
 jag 2906
-mig 2445
+mig 2446
 här 2438
-för 2383
+för 2384
 var 2303
 med 2184
 till 2116
@@ -22,12 +22,12 @@ och 2056
 om 2027
 Hon 1911
 ett 1710
-dig 1692
+dig 1693
 Vi 1681
 den 1678
 som 1677
-kan 1539
-Du 1423
+kan 1540
+Du 1425
 av 1414
 han 1123
 kommer 1111
@@ -38,7 +38,7 @@ vill 1005
 De 988
 ni 922
 skulle 874
-min 873
+min 874
 Hur 857
 mycket 854
 vi 819
@@ -49,7 +49,7 @@ Mary 746
 där 732
 Är 732
 honom 712
-Har 685
+Har 686
 vara 672
 ut 671
 Var 659
@@ -57,7 +57,7 @@ ha 659
 Den 647
 hade 645
 vad 644
-din 618
+din 619
 de 597
 Kan 580
 tycker 573
@@ -100,8 +100,8 @@ fick 350
 men 348
 många 347
 ingen 345
+sa 345
 när 344
-sa 344
 ta 342
 väldigt 338
 Ni 329
@@ -113,12 +113,12 @@ efter 312
 över 310
 kom 309
 in 309
-komma 307
+komma 308
 såg 303
 När 300
 älskar 299
+Vem 299
 få 299
-Vem 297
 borde 294
 hans 291
 hur 287
@@ -139,12 +139,12 @@ Toms 261
 tre 259
 fortfarande 257
 barn 254
-tid 252
+tid 253
 hjälpa 251
 ditt 247
 kunna 244
 mina 242
-bil 241
+bil 242
 bor 239
 Sami 238
 tillbaka 232
@@ -191,8 +191,8 @@ Vill 171
 gav 169
 gång 168
 stor 168
+utan 166
 Skulle 166
-utan 165
 också 165
 hemma 164
 åka 163
@@ -282,9 +282,9 @@ tänker 111
 trött 111
 mat 111
 började 110
+vän 110
 lång 110
 just 109
-vän 109
 ensam 109
 gamla 108
 sade 108
@@ -295,8 +295,8 @@ dog 107
 tiden 106
 vatten 106
 heter 106
+fråga 105
 illa 104
-fråga 104
 hålla 104
 riktigt 103
 rum 103
@@ -325,11 +325,11 @@ spelar 97
 jobbet 97
 snart 97
 kväll 97
+hit 95
 innan 95
 dricker 95
 stort 94
 vår 94
-hit 94
 gånger 94
 emot 94
 nästa 93
@@ -337,8 +337,8 @@ tio 93
 bror 93
 Ska 93
 mamma 93
+son 92
 Tack 91
-son 91
 faktiskt 91
 föräldrar 91
 vem 91
@@ -489,6 +489,7 @@ simma 61
 deras 61
 medan 61
 lunch 60
+bäst 60
 hända 60
 berättade 60
 skrev 60
@@ -497,7 +498,6 @@ sista 60
 tvungen 60
 natten 60
 följa 59
-bäst 59
 gifta 59
 Japan 59
 sov 59
@@ -522,6 +522,7 @@ folk 57
 musik 57
 kul 57
 fast 57
+tro 56
 enkelt 56
 middag 56
 stannade 56
@@ -529,7 +530,6 @@ ledsen 56
 stund 56
 tennis 55
 fanns 55
-tro 55
 hunden 55
 barnen 55
 tänka 55
@@ -602,6 +602,7 @@ dödade 49
 betala 49
 era 49
 döda 49
+kör 49
 tyst 49
 meningen 49
 ert 49
@@ -615,7 +616,6 @@ vårt 48
 Se 48
 heller 48
 hundar 48
-kör 48
 sitta 48
 japanska 47
 stationen 47
@@ -864,6 +864,7 @@ stoppa 33
 Fick 33
 åtta 32
 exempel 32
+allting 32
 sätta 32
 stal 32
 vann 32
@@ -882,7 +883,6 @@ Algeriet 32
 Stäng 32
 Liisa 32
 väntade 31
-allting 31
 dör 31
 röda 31
 Mannen 31
@@ -952,6 +952,7 @@ små 28
 tåg 28
 råkade 28
 Förlåt 28
+svara 28
 bett 28
 sommaren 28
 USA 28
@@ -982,7 +983,6 @@ regnar 27
 Ingenting 27
 söndag 27
 Frankrike 27
-svara 27
 sidan 27
 menade 27
 sägs 27
@@ -1488,6 +1488,7 @@ närmaste 17
 blyg 17
 anlände 17
 garaget 17
+körkort 17
 tvivlar 17
 Tomi 17
 stänger 17
@@ -1566,7 +1567,6 @@ hållet 16
 alternativ 16
 kunnat 16
 drag 16
-körkort 16
 eld 16
 präst 16
 avslöjade 16
@@ -1833,6 +1833,7 @@ olycklig 13
 fly 13
 resten 13
 texten 13
+skadade 13
 ren 13
 tanken 13
 sådana 13
@@ -1937,7 +1938,6 @@ hörnet 12
 planer 12
 vaken 12
 allvarlig 12
-skadade 12
 mage 12
 höga 12
 tredje 12
@@ -1971,6 +1971,7 @@ nå 12
 rök 12
 Brasilien 12
 fransk 12
+Människor 12
 komplicerat 12
 Ön 12
 Världen 12
@@ -2128,7 +2129,6 @@ byxor 11
 Maten 11
 Pappa 11
 avsikt 11
-Människor 11
 definitivt 11
 Melanie 11
 ko 11

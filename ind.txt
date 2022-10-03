@@ -1,29 +1,29 @@
 yang 2212
-tidak 2160
-Tom 2132
+tidak 2162
+Tom 2133
 Aku 2029
 di 1573
 itu 1389
-Dia 1176
+Dia 1178
 ini 1156
 Saya 1031
 kamu 1031
 akan 962
-dengan 869
+dengan 870
 saya 759
+aku 739
 bisa 738
-aku 737
-untuk 694
-ke 650
+untuk 695
+ke 651
 dan 638
-adalah 636
+adalah 637
 Apa 579
 dia 562
-pergi 558
+pergi 559
 ada 528
 ingin 518
 dari 514
-Kamu 478
+Kamu 479
 Anda 459
 tahu 455
 sudah 439
@@ -38,14 +38,14 @@ orang 380
 sangat 351
 Kami 347
 dalam 340
+sedang 322
 pada 322
-sedang 321
 suka 308
 hari 298
 bahasa 298
 makan 292
 punya 284
-telah 274
+telah 275
 banyak 268
 kami 265
 pernah 263
@@ -57,13 +57,13 @@ seorang 221
 sebuah 219
 datang 216
 melihat 214
+mereka 213
 baik 213
-mereka 210
 tahun 208
 melakukan 205
 menjadi 205
 Jangan 204
-Mereka 201
+Mereka 203
 rumah 197
 seperti 193
 saja 192
@@ -72,7 +72,7 @@ mau 185
 hal 185
 Di 183
 memiliki 183
-waktu 170
+waktu 171
 Itu 168
 Tidak 167
 masih 166
@@ -108,19 +108,19 @@ saat 118
 tiga 118
 bertemu 116
 Ada 116
+perlu 116
 bekerja 115
-perlu 115
 sesuatu 115
 hanya 114
+juga 114
 sendiri 114
-juga 113
 sakit 112
 terjadi 111
 atas 110
 mungkin 110
-besar 108
+besar 109
+lain 109
 membuat 108
-lain 108
 kembali 108
 terlalu 107
 lama 106
@@ -139,7 +139,7 @@ sampai 101
 selama 100
 sekolah 100
 anda 100
-sana 98
+sana 99
 uang 97
 hidup 97
 membaca 97
@@ -148,10 +148,10 @@ kota 94
 membeli 94
 Mari 94
 depan 93
+bermain 93
 daripada 93
 tempat 93
 mulai 92
-bermain 92
 menunggu 92
 besok 91
 jalan 90
@@ -202,6 +202,7 @@ ya 71
 mati 70
 begitu 69
 masuk 69
+senang 69
 minum 69
 Jika 69
 cara 69
@@ -211,13 +212,12 @@ musim 68
 cepat 68
 keluar 68
 sedikit 67
-senang 67
+Kalau 67
 mendengar 67
 mengatakan 66
 boleh 66
 menulis 66
 membantu 65
-Kalau 65
 tua 65
 panas 65
 bulan 64
@@ -237,11 +237,11 @@ Boston 60
 denganmu 59
 apakah 59
 siang 59
+cinta 59
 turun 59
 apa-apa 59
 tersebut 58
 kasih 58
-cinta 58
 percaya 58
 teman 57
 tepat 57
@@ -303,6 +303,7 @@ enak 45
 seharusnya 45
 rumahku 45
 dulu 45
+jatuh 45
 bawah 45
 pertama 45
 tetap 45
@@ -311,7 +312,6 @@ menonton 45
 buruk 45
 menangis 45
 Bolehkah 45
-jatuh 44
 segera 44
 berbahasa 44
 merokok 44
@@ -333,6 +333,7 @@ bagi 41
 meninggal 41
 guru 41
 kesalahan 41
+wanita 41
 sebentar 41
 sepuluh 41
 menikah 41
@@ -342,7 +343,6 @@ toko 40
 terus 40
 Sepertinya 40
 negeri 40
-wanita 40
 bahagia 40
 dirinya 40
 mempunyai 40
@@ -481,6 +481,7 @@ berbeda 26
 memberitahuku 26
 siap 26
 dimulai 26
+ikut 26
 sekitar 26
 sepeda 26
 menyadari 26
@@ -496,7 +497,6 @@ ikan 25
 Jerman 25
 biasanya 25
 tenis 25
-ikut 25
 membosankan 25
 bosan 25
 bodoh 25
@@ -696,6 +696,7 @@ salju 17
 tahan 17
 2 17
 umum 17
+piano 17
 Pak 17
 kursi 17
 Biarkan 17
@@ -711,19 +712,20 @@ memperhatikan 17
 berdiri 17
 rasanya 17
 pakaian 17
+berbahaya 17
 sembilan 17
 caranya 17
 kepadamu 17
 keadaan 17
 terbuka 17
 namanya 17
+menutup 17
 gambar 17
 berdua 17
 Pesawat 16
 Setiap 16
 hangat 16
 daging 16
-piano 16
 pajak 16
 kesempatan 16
 peduli 16
@@ -739,7 +741,6 @@ sesuai 16
 arah 16
 6 16
 kertas 16
-berbahaya 16
 membuatnya 16
 bumi 16
 mencuci 16
@@ -750,6 +751,7 @@ kulakukan 16
 coba 16
 diam 16
 berencana 16
+Seseorang 16
 pekan 16
 penasaran 16
 pikirkan 16
@@ -773,9 +775,11 @@ sedih 15
 pekerjaannya 15
 semacam 15
 Jadi 15
+Mata 15
 pikiran 15
 matahari 15
 kesulitan 15
+pelajaran 15
 Ke 15
 matanya 15
 Bila 15
@@ -784,12 +788,11 @@ jumlah 15
 penjara 15
 membantuku 15
 ketahui 15
-Seseorang 15
 Tadi 15
+bagian 15
 mengingat 15
 minuman 15
 kemari 15
-menutup 15
 Tiongkok 15
 mobilnya 15
 Malaysia 15
@@ -809,7 +812,6 @@ Kalimat 14
 kesehatan 14
 lainnya 14
 Seberapa 14
-Mata 14
 mengangkat 14
 hadiah 14
 terbakar 14
@@ -821,7 +823,6 @@ Dan 14
 kue 14
 tengah 14
 kebiasaan 14
-pelajaran 14
 tanggal 14
 Sayangnya 14
 buta 14
@@ -844,7 +845,6 @@ pinjam 14
 muak 14
 berhati-hati 14
 Jane 14
-bagian 14
 berjanji 14
 berterima 14
 berguna 14
@@ -909,6 +909,7 @@ halaman 12
 main 12
 darimu 12
 Wanita 12
+sebagian 12
 penyanyi 12
 mengumpulkan 12
 tampak 12
@@ -986,7 +987,6 @@ kebakaran 11
 dibangun 11
 tenang 11
 buat 11
-sebagian 11
 pakai 11
 Salah 11
 Hobiku 11
@@ -1220,6 +1220,7 @@ sebanyak 9
 memintanya 9
 berbelanja 9
 dipecat 9
+mencuri 9
 pendek 9
 dahulu 9
 urusan 9
@@ -1353,7 +1354,6 @@ berlaku 8
 dewasa 8
 topi 8
 bahan 8
-mencuri 8
 laki-lakinya 8
 masing-masing 8
 Mulai 8
@@ -1630,6 +1630,7 @@ tasmu 6
 Suara 6
 4 6
 Perang 6
+telinga 6
 baginya 6
 menandatangani 6
 Rapat 6
@@ -1764,6 +1765,7 @@ memegang 6
 rokok 6
 santai 6
 filmnya 6
+ambil 6
 bersembunyi 6
 tiap 6
 tulang 6
@@ -1833,6 +1835,7 @@ sayur 5
 mengalir 5
 Tutup 5
 Kopi 5
+Lepaskan 5
 silakan 5
 Tempat 5
 50 5
@@ -2048,7 +2051,6 @@ kelaparan 5
 mengecewakanku 5
 Bukannya 5
 Stasiunnya 5
-ambil 5
 Meksiko 5
 ringan 5
 Mei 5
@@ -2165,7 +2167,6 @@ kampung 4
 rumahmu 4
 Peraturan 4
 tertabrak 4
-Lepaskan 4
 bersantai 4
 taruh 4
 jasku 4
@@ -2178,7 +2179,6 @@ Berkat 4
 tertinggal 4
 hubungan 4
 kejahatan 4
-telinga 4
 tiada 4
 Terus 4
 lurus 4
@@ -2269,6 +2269,7 @@ bersikeras 4
 caramu 4
 jalur 4
 Sang 4
+tanganku 4
 cina 4
 burung-burung 4
 pelanggan 4
@@ -2468,6 +2469,7 @@ tingkat 4
 perintah 4
 tiri 4
 sanggup 4
+turut 4
 Permainan 4
 Tunjukkan 4
 meyakinkan 4
@@ -2778,7 +2780,6 @@ George 3
 Semenjak 3
 kemauan 3
 mainkan 3
-tanganku 3
 lebah 3
 berhitung 3
 Terdapat 3
@@ -2959,6 +2960,7 @@ Pukul 3
 membiarkanmu 3
 Nasi 3
 sumpit 3
+Matematika 3
 sains 3
 fiksi 3
 berkeliling 3
@@ -3054,7 +3056,6 @@ berikut 3
 nikmati 3
 menghentikanku 3
 kenaikan 3
-turut 3
 keren 3
 karpet 3
 Portugis 3
@@ -3190,6 +3191,7 @@ satelit 3
 terserang 3
 menggunakannya 3
 ilegal 3
+mendedikasikan 3
 Anak-anakku 3
 darimana 3
 berpesta 3
@@ -3413,6 +3415,7 @@ mempersulit 3
 Rabu 3
 populer 3
 stroberi 3
+mengajakku 3
 tomat 3
 sawit 3
 virus 3
@@ -3433,6 +3436,7 @@ Adam 3
 pola 3
 Susu 3
 mewah 3
+dipikir-pikir 3
 Kanton 3
 masak 2
 Meski 2
@@ -3890,6 +3894,7 @@ Mahal 2
 mencintaimu 2
 terampil 2
 Vietnam 2
+luangnya 2
 diselimuti 2
 28 2
 k 2
@@ -3918,7 +3923,6 @@ lorong 2
 topinya 2
 mengecilkan 2
 memetik 2
-Matematika 2
 barangnya 2
 menyuruhnya 2
 pensilnya 2
@@ -4182,6 +4186,7 @@ parkir 2
 Pidato 2
 mustahil 2
 berselingkuh 2
+rambutku 2
 bersaudara 2
 Dufour-Lapointe 2
 mengayuh 2
@@ -4339,7 +4344,6 @@ Siswa 2
 dosa 2
 Gua 2
 mendeklarasikan 2
-mendedikasikan 2
 anak-anakmu 2
 Bercanda 2
 loh 2
@@ -4774,6 +4778,7 @@ bimbang 2
 payah 2
 mencicipi 2
 segini 2
+pengering 2
 Emang 2
 Maksudnya 2
 Desember 2
@@ -6022,7 +6027,6 @@ Kunming 1
 sikap 1
 menjagamu 1
 Tiên 1
-luangnya 1
 Bakar 1
 Bagian 1
 Aturan 1
@@ -6745,7 +6749,6 @@ mikro 1
 diracuni 1
 sepatutnya 1
 memanjakan 1
-rambutku 1
 Justine 1
 mogul 1
 tersentak 1
@@ -8698,7 +8701,6 @@ bangunin 1
 sepuasnya 1
 pisaunya 1
 persimpangan 1
-pengering 1
 jerapah 1
 ngambil 1
 serunya 1
@@ -9445,7 +9447,6 @@ jutaan 1
 kecemasan 1
 surelku 1
 udang 1
-mengajakku 1
 napasnya 1
 tetangga-tetanggaku 1
 sekrupnya 1
@@ -9997,4 +9998,3 @@ dukungan 1
 keagamaan 1
 periode 1
 tandus 1
-diabaikan 1

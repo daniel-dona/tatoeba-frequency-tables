@@ -1,37 +1,37 @@
-es 5826
+es 5830
 la 5399
-ia 4512
-de 3626
-un 3183
+ia 4513
+de 3627
+un 3184
 ла 2802
 ес 2728
-Me 2407
+Me 2408
 иа 2153
 no 1891
 де 1874
 La 1702
 a 1676
 en 1607
-Tom 1556
+Tom 1557
 ун 1365
 e 1184
 Ме 1182
 tu 1179
-me 1123
-ave 1065
+me 1124
+ave 1066
 а 953
 Ла 932
 но 910
 ce 901
 ен 882
-El 864
+El 866
 Esce 774
 plu 701
 va 698
 ме 662
-sua 658
+sua 659
 ту 655
-multe 644
+multe 645
 el 640
 per 635
 pote 612
@@ -52,7 +52,7 @@ Tu 417
 casa 402
 Еске 399
 fa 380
-nos 375
+nos 376
 cosa 375
 еста 368
 ел 364
@@ -109,9 +109,9 @@ padre 198
 фа 196
 бон 194
 acel 185
+bela 181
 ma 181
 Ту 181
-bela 180
 No 179
 густа 178
 lingua 174
@@ -133,9 +133,9 @@ A 155
 sola 149
 ваде 149
 Он 146
+compra 145
 сабе 145
 nesesa 144
-compra 144
 labora 142
 xace 142
 vera 141
@@ -220,8 +220,8 @@ tra 95
 каса 95
 senti 94
 мундо 94
+Tota 93
 meа 92
-Tota 92
 demanda 92
 mone 92
 диа 92
@@ -350,6 +350,7 @@ sielo 57
 problem 56
 Cuanto 56
 sol 56
+sposa 56
 deside 56
 Та 56
 прима 56
@@ -359,7 +360,6 @@ nase 55
 prosima 55
 cualce 55
 fasil 55
-sposa 55
 франсес 55
 месма 55
 Toki 55
@@ -422,6 +422,7 @@ cuasi 46
 ariva 45
 regarda 45
 Ma 45
+familia 45
 семана 45
 авени 45
 дорми 45
@@ -439,7 +440,6 @@ oblida 44
 causa 44
 odia 44
 negra 44
-familia 44
 cavalo 44
 скола 44
 мар 44
@@ -666,6 +666,7 @@ plen 28
 pone 28
 completa 28
 visita 28
+donce 28
 nasion 28
 variosa 28
 xef 28
@@ -686,7 +687,6 @@ Asta 27
 Rusia 27
 sesa 27
 orgulosa 27
-donce 27
 supra 27
 capital 27
 juas 27
@@ -1461,6 +1461,7 @@ polisior 11
 manera 11
 stranjer 11
 mente 11
+fuma 11
 SUA 11
 spesie 11
 selula 11
@@ -1586,7 +1587,6 @@ pexes 10
 coler 10
 pensas 10
 vendor 10
-fuma 10
 ofisial 10
 2 10
 2013 10
@@ -2622,6 +2622,7 @@ frato 6
 Мери 6
 bove 6
 vegan 6
+dependente 6
 Basi 6
 ne 6
 relijio 6
@@ -2758,6 +2759,7 @@ recordo 5
 ospita 5
 elimina 5
 concurso 5
+Labora 5
 Sirca 5
 Espania 5
 cresente 5
@@ -3013,7 +3015,6 @@ faxiste 5
 бове 5
 opera 5
 Mari 5
-dependente 5
 real 5
 marina 5
 армада 5
@@ -3191,6 +3192,7 @@ jornaliste 4
 Florida 4
 viajas 4
 Caribe 4
+sesal 4
 raio 4
 risca 4
 pronunsia 4
@@ -3231,7 +3233,6 @@ negativa 4
 sofa 4
 cava 4
 crase 4
-Labora 4
 prinsesa 4
 sivilia 4
 miror 4
@@ -3865,7 +3866,6 @@ nonusosa 3
 manada 3
 "la 3
 Latina 3
-sesal 3
 minor 3
 sonda 3
 Sania 3
@@ -6534,6 +6534,7 @@ nonprevideda 2
 persepable 2
 nonfelis 2
 нонфелис 2
+asiduia 2
 culier 2
 Obedi 2
 кантор 2
@@ -6646,6 +6647,7 @@ Americanes 2
 maltape 2
 Stella 2
 persian 2
+crac 2
 dieta 2
 болса 2
 усосиа 2
@@ -9996,5 +9998,3 @@ otodes-tre 1
 Бетон 1
 миска 1
 калкулос 1
-сементо 1
-Белуга 1

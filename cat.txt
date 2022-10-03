@@ -1,7 +1,7 @@
 la 1504
 de 1467
 a 1390
-que 1254
+que 1255
 el 1163
 és 977
 no 809
@@ -374,6 +374,7 @@ podem 21
 posar 21
 llet 21
 val 20
+algú 20
 Ningú 20
 contra 20
 paraules 20
@@ -395,7 +396,6 @@ cel 20
 teus 20
 passa 19
 mesos 19
-algú 19
 vegades 19
 Quant 19
 prop 19
@@ -598,6 +598,7 @@ d'aquesta 12
 beisbol 12
 primera 12
 Perquè 12
+Necessito 12
 malalta 12
 pels 12
 comença 12
@@ -646,7 +647,6 @@ anar-hi 11
 novel·la 11
 intel·ligent 11
 pensar 11
-Necessito 11
 número 11
 pena 11
 Deu 11
@@ -9516,3 +9516,4 @@ envoltat 1
 dunes 1
 l'ajuntament 1
 iot 1
+m'entengui 1

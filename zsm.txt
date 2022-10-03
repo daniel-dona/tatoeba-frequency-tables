@@ -1,33 +1,33 @@
-Saya 1383
-saya 1259
+Saya 1384
+saya 1260
 yang 1124
 Tom 1124
 tidak 1095
-di 704
+di 705
 awak 697
-itu 607
-ini 574
+itu 608
+ini 575
 akan 555
-untuk 548
+untuk 549
 Dia 529
 dan 406
 dia 404
-dengan 401
+dengan 402
 ke 354
-anda 323
-Mary 305
+anda 324
+Mary 306
 telah 290
 boleh 253
 dalam 247
 pergi 245
 tahu 234
+Awak 217
 kita 216
-Awak 216
 apa 208
 adalah 207
 mahu 198
 ada 197
-hari 186
+hari 187
 orang 179
 sedang 174
 kepada 172
@@ -37,7 +37,7 @@ Adakah 168
 dari 158
 lebih 158
 perlu 155
-lagi 149
+lagi 150
 rumah 146
 Kami 144
 bahawa 144
@@ -48,7 +48,7 @@ mereka 133
 mempunyai 128
 kami 121
 daripada 119
-sangat 118
+sangat 119
 pernah 118
 suka 113
 tak 111
@@ -77,7 +77,7 @@ ingin 85
 Kita 84
 tentang 82
 belajar 82
-satu 80
+satu 81
 sama 79
 nak 79
 mana 78
@@ -101,12 +101,12 @@ pun 62
 kereta 62
 Anda 61
 sebuah 61
+Bolehkah 61
 Mereka 60
 melihat 60
-Bolehkah 60
 Perancis 59
+oleh 58
 sahaja 58
-oleh 57
 sebelum 57
 lelaki 57
 sesuatu 57
@@ -142,6 +142,7 @@ Aku 45
 Bahasa 45
 terlalu 45
 bermain 45
+Ada 45
 tiada 45
 sedemikian 45
 Sami 45
@@ -149,7 +150,6 @@ siapa 44
 jam 44
 esok 44
 mesti 44
-Ada 44
 cuba 44
 pukul 43
 Inggeris 43
@@ -158,11 +158,11 @@ Apakah 43
 Semua 42
 Jepun 42
 Mengapa 42
+membeli 42
 mendengar 42
 aku 42
 kau 42
 tempat 41
-membeli 41
 Jika 41
 kerja 41
 berjalan 40
@@ -225,13 +225,13 @@ tangan 31
 menggunakan 31
 berapa 31
 selama 31
+ibu 31
 luar 31
 Bagaimana 31
 Boleh 30
 gembira 30
 lalu 30
 surat 30
-ibu 30
 bagaimana 30
 si 30
 fikir 30
@@ -316,6 +316,7 @@ benar-benar 23
 اين 23
 antara 22
 penting 22
+ayah 22
 dahulu 22
 percaya 22
 cakap 22
@@ -330,7 +331,6 @@ nama 22
 jalan 22
 beritahu 22
 ايت 22
-ayah 21
 anjing 21
 manakah 21
 kopi 21
@@ -662,6 +662,7 @@ ibunya 10
 kesihatan 10
 memang 10
 enggan 10
+anak-anak 10
 restoran 10
 bersama-sama 10
 halaman 10
@@ -716,9 +717,9 @@ sebanyak 9
 bukanlah 9
 menyebabkan 9
 ruang 9
-anak-anak 9
 Selepas 9
 berlari 9
+dapur 9
 suami 9
 roti 9
 terlambat 9
@@ -791,7 +792,6 @@ Maria 8
 ya 8
 bodoh 8
 sarapan 8
-dapur 8
 kawasan 8
 Emak 8
 senang 8
@@ -888,6 +888,7 @@ Esok 7
 Maaf 7
 mencukupi 7
 Melayu 7
+barang 7
 dilihat 7
 rosak 7
 angin 7
@@ -920,6 +921,7 @@ saudara 7
 tangannya 7
 hutan 7
 perasan 7
+diberi 7
 TV 7
 mengakui 7
 pilihan 7
@@ -1018,7 +1020,6 @@ bergerak 6
 seharusnya 6
 Dari 6
 memerhatikan 6
-barang 6
 seolah-olah 6
 melepaskan 6
 agaknya 6
@@ -1060,7 +1061,6 @@ pekerja 6
 berkawan 6
 manis 6
 menyiapkan 6
-diberi 6
 menyuruh 6
 selalunya 6
 menghalang 6
@@ -1193,6 +1193,7 @@ gereja 5
 sebaik 5
 Biarkan 5
 Engkau 5
+Mana 5
 masalahnya 5
 Cuba 5
 terlibat 5
@@ -1244,6 +1245,7 @@ Dusun 5
 memohon 5
 secepat 5
 mengaku 5
+keperluan 5
 teknologi 5
 menghidap 5
 Sejak 5
@@ -1415,7 +1417,6 @@ belas 4
 gemuk 4
 berpuas 4
 Kuda 4
-Mana 4
 sejarah 4
 sebut 4
 Buat 4
@@ -1502,7 +1503,6 @@ Translate 4
 neraka 4
 bersekolah 4
 bercerai 4
-keperluan 4
 Banyak 4
 diselesaikan 4
 mengunjungi 4
@@ -1844,6 +1844,7 @@ Cuaca 3
 Kuala 3
 Lumpur 3
 bila-bila 3
+Ayam 3
 melahirkan 3
 Rupa-rupanya 3
 ambilkan 3
@@ -2532,13 +2533,13 @@ Albania 2
 nya 2
 ibunda 2
 Kakak 2
-Ayam 2
 dingin 2
 mengayuh 2
 nelayan 2
 Bukannya 2
 senyuman 2
 kacau 2
+dipotong 2
 lesung 2
 Silakan 2
 berburu 2
@@ -2620,6 +2621,7 @@ helang 2
 trompet 2
 sekelip 2
 pagar 2
+Dom 2
 okey 2
 layak 2
 imaginasi 2
@@ -2903,6 +2905,7 @@ pakaiannya 2
 memeriksanya 2
 ringkas 2
 mengulangkaji 2
+kacak 2
 Pesawat 2
 diam 2
 rempah 2
@@ -3202,6 +3205,7 @@ seluar 2
 memikirkannya 2
 benda-benda 2
 anggapkan 2
+berpacaran 2
 "Berapa 2
 aslinya 2
 tertinggal 2
@@ -4172,7 +4176,6 @@ Manis 1
 Sofia 1
 Esoklah 1
 Rambutnya 1
-dipotong 1
 bonet 1
 kuantiti 1
 temankan 1
@@ -4405,7 +4408,6 @@ dicuba 1
 pautan 1
 rantai 1
 goreng 1
-Dom 1
 Frost 1
 Hitler 1
 Bapamu 1
@@ -5320,7 +5322,6 @@ penyewa 1
 diperintahkan 1
 memikat 1
 terpikat 1
-kacak 1
 menuruti 1
 arahannya 1
 menumpang 1
@@ -6988,7 +6989,6 @@ Park 1
 Street 1
 didaftarkan 1
 bertanyalah 1
-berpacaran 1
 jujurnya 1
 Valentine 1
 filem-filem 1
@@ -7455,3 +7455,6 @@ Mendaki 1
 Ali 1
 100 1
 menakutkannya 1
+bayangkan 1
+contohnya 1
+RM100 1
