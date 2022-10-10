@@ -1,30 +1,30 @@
-es 5830
-la 5399
-ia 4513
-de 3627
+es 5833
+la 5401
+ia 4515
+de 3628
 un 3184
 ла 2802
 ес 2728
-Me 2408
+Me 2411
 иа 2153
 no 1891
 де 1874
-La 1702
-a 1676
+La 1703
+a 1677
 en 1607
-Tom 1557
+Tom 1559
 ун 1365
 e 1184
 Ме 1182
-tu 1179
-me 1124
+tu 1180
+me 1125
 ave 1066
 а 953
 Ла 932
 но 910
 ce 901
 ен 882
-El 866
+El 867
 Esce 774
 plu 701
 va 698
@@ -37,10 +37,10 @@ per 635
 pote 612
 cual 609
 е 596
-esta 591
+esta 592
 аве 564
+lo 549
 mea 548
-lo 547
 Esta 528
 Nos 507
 con 486
@@ -59,8 +59,8 @@ cosa 375
 Ел 364
 мулте 355
 плу 351
+tua 349
 sabe 349
-tua 347
 меа 345
 gusta 344
 Lo 343
@@ -85,13 +85,13 @@ dise 263
 ta 260
 grande 255
 cuando 253
-vade 247
+vade 248
 los 244
 tota 238
 o 235
 ama 234
+vive 233
 воле 232
-vive 231
 vide 227
 ca 225
 Los 222
@@ -101,8 +101,8 @@ parla 218
 коса 213
 jua 209
 Еста 209
+vos 208
 mundo 208
-vos 207
 туа 204
 Cual 201
 padre 198
@@ -239,6 +239,7 @@ matina 88
 cosas 88
 фиа 88
 auto 87
+Ci 87
 tro 87
 crede 87
 Мариа 87
@@ -247,14 +248,13 @@ aveni 86
 Ta 86
 темпо 86
 favore 85
-Ci 85
 cade 85
 pasea 84
 пенса 83
+Sua 82
 site 81
 prima 81
 abri 81
-Sua 81
 акел 80
 ala 79
 лабора 79
@@ -414,6 +414,7 @@ teme 47
 recorda 46
 min 46
 cuasi 46
+su 46
 енфантес 46
 импортанте 46
 ауто 46
@@ -448,7 +449,6 @@ pasada 43
 amis 43
 cuatro 43
 fenetra 43
-su 43
 аида 43
 сya 43
 лингуас 43
@@ -467,6 +467,7 @@ sinifia 42
 уса 42
 се 42
 simple 41
+vosa 41
 responde 41
 Cada 41
 rompe 41
@@ -485,7 +486,6 @@ Dio 41
 ала 41
 ensenior 41
 dias 40
-vosa 40
 plora 40
 crese 40
 modo 40
@@ -508,6 +508,7 @@ Xina 39
 рекорда 39
 моне 39
 оиос 39
+custa 38
 capeles 38
 papilios 38
 vino 38
@@ -516,7 +517,6 @@ rusce 38
 туa 38
 пласе 38
 атента 38
-custa 37
 aspeta 37
 viaja 37
 lasa 37
@@ -527,6 +527,7 @@ catura 37
 acorda 37
 канта 37
 fria 36
+via 36
 besa 36
 fio 36
 solve 36
@@ -543,7 +544,6 @@ continua 36
 iudi 36
 Токи 36
 calda 35
-via 35
 malada 35
 fatigada 35
 serta 35
@@ -917,6 +917,7 @@ aparte 19
 talia 19
 sufisinte 19
 cisa 19
+trae 19
 opina 19
 esata 19
 nomida 19
@@ -958,7 +959,6 @@ gera 18
 egal 18
 fame 18
 momento 18
-trae 18
 bal 18
 desapare 18
 Rio 18
@@ -1198,6 +1198,7 @@ survive 14
 nove 14
 atletas 14
 campion 14
+Libri 14
 supramercato 14
 campo 14
 cavalos 14
@@ -1261,13 +1262,13 @@ petras 13
 tufa 13
 selebra 13
 compartida 13
-Libri 13
 retro 13
 esplode 13
 poesia 13
 xicas 13
 estrema 13
 jonguo 13
+amira 13
 renovi 13
 damas 13
 xapo 13
@@ -1314,6 +1315,7 @@ sabori 13
 bispo 13
 peon 13
 Yanni 13
+cotel 13
 xasa 12
 permane 12
 vileta 12
@@ -1437,7 +1439,6 @@ Esther 12
 Elo 12
 canaba 12
 дотор 12
-cotel 12
 noncomfortosa 12
 Xace 12
 cuantal 12
@@ -1505,7 +1506,6 @@ brilia 11
 duple 11
 dura 11
 servi 11
-amira 11
 ospital 11
 memoria 11
 ses 11
@@ -1626,6 +1626,7 @@ reporta 10
 mesaje 10
 gala 10
 parci 10
+trata 10
 turiste 10
 traduor 10
 telefoni 10
@@ -1946,7 +1947,6 @@ fisical 8
 Jupiter 8
 renunsia 8
 dise: 8
-trata 8
 ordina 8
 jenera 8
 proposa 8
@@ -2259,6 +2259,7 @@ ris 7
 оро 7
 италиан 7
 relatas 7
+pigra 7
 ложикал 7
 говерна 7
 пресента 7
@@ -2354,6 +2355,7 @@ distantia 6
 sembla 6
 sal 6
 "Tu 6
+Iran 6
 universia 6
 atera 6
 atraosa 6
@@ -2401,6 +2403,7 @@ saisi 6
 polisiores 6
 consensia 6
 vosа 6
+inclui 6
 televisador 6
 reclina 6
 miles 6
@@ -2685,7 +2688,6 @@ cortinas 5
 asendador 5
 oscuria 5
 29 5
-Iran 5
 portante 5
 semes 5
 plumas 5
@@ -2742,7 +2744,6 @@ atrae 5
 cimica 5
 lusosa 5
 salas 5
-inclui 5
 veninte 5
 comfortosa 5
 preveni 5
@@ -3039,6 +3040,7 @@ fasinante 5
 комика 5
 дивиде 5
 desinias 5
+Segue 5
 восе 5
 рос 5
 odori 5
@@ -3509,7 +3511,6 @@ Bevi 4
 сажиа 4
 gradua 4
 ноиада 4
-pigra 4
 редуи 4
 протеже 4
 абандона 4
@@ -3631,7 +3632,6 @@ enlinia 4
 agu 4
 компарти 4
 papagaio 4
-Segue 4
 роса 4
 joalas 4
 енебриада 4
@@ -3986,6 +3986,7 @@ situas 3
 sesdes 3
 tenisor 3
 normalia 3
+vitros 3
 Jane 3
 Kumi 3
 basebal 3
@@ -4066,6 +4067,7 @@ resiste 3
 grave" 3
 L'Aquila 3
 lansada 3
+Lasa 3
 ruinas 3
 17 3
 "Veni 3
@@ -4616,6 +4618,7 @@ res 3
 рес 3
 creante 3
 tristia 3
+zelo 3
 fonde 3
 Pele 3
 futbalor 3
@@ -5177,7 +5180,6 @@ lo" 2
 esplota 2
 egosa 2
 diseda 2
-vitros 2
 colorida 2
 Pinta 2
 acual 2
@@ -5310,7 +5312,6 @@ tirania 2
 nonjusta 2
 pupa 2
 privada 2
-Lasa 2
 Libros 2
 vitimes 2
 Sinco 2
@@ -6873,6 +6874,7 @@ mundo; 2
 Transendente 2
 cuarta 2
 куарта 2
+custas 2
 jenes 2
 молекулас 2
 avansada 2
@@ -6915,6 +6917,7 @@ monetas 2
 olivas 2
 muses 2
 pavones 2
+Xico 2
 Асиа 2
 bipolal 2
 reconstrui 1
@@ -9995,6 +9998,3 @@ otodes-tre 1
 перкуте 1
 Боло 1
 Болевар 1
-Бетон 1
-миска 1
-калкулос 1

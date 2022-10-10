@@ -1,4 +1,4 @@
-on 961
+on 962
 Ma 607
 ei 455
 Tom 354
@@ -37,9 +37,9 @@ midagi 48
 sulle 48
 Nad 46
 sind 44
+palju 43
 Mu 43
 siin 42
-palju 42
 sul 41
 Kus 41
 hea 41
@@ -233,6 +233,7 @@ võib 11
 pead 11
 Võta 11
 Thomas 11
+Meie 10
 läheb 10
 raamat 10
 kedagi 10
@@ -258,7 +259,6 @@ Pole 9
 meid 9
 sellega 9
 ühe 9
-Meie 9
 end 9
 pool 9
 maha 9
@@ -335,6 +335,7 @@ täiesti 7
 armas 7
 läksin 7
 üksi 7
+aias 7
 olevat 7
 Sinu 7
 kuus 7
@@ -397,7 +398,6 @@ endale 6
 andis 6
 halb 6
 tunnen 6
-aias 6
 karda 6
 sõna 6
 varem 6
@@ -4893,3 +4893,4 @@ köita 1
 kuuled 1
 kaota 1
 talenti 1
+roose 1

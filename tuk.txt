@@ -6,7 +6,7 @@ Sen 309
 üçin 298
 we 286
 Bu 279
-bir 215
+bir 216
 näme 207
 gowy 196
 bu 190
@@ -74,11 +74,11 @@ näçe 47
 gezek 47
 geldi 47
 nirede 46
+aýtdylar 46
 bilýärin 46
 hemme 46
 işi 46
 kim 45
-aýtdylar 45
 maña 45
 isleýärin 44
 zady 44
@@ -221,11 +221,13 @@ däldigini 20
 mundan 20
 meñ 20
 özüniñ 20
+Maňa 19
 ýeterlik 19
 erbet 19
 edil 19
 on 19
 Siziň 19
+zatlar 19
 görünýär 19
 Meni 19
 tarapyndan 19
@@ -233,7 +235,6 @@ oña 19
 Mera 19
 gitjek 18
 bilmeýärin 18
-Maňa 18
 Her 18
 irden 18
 dynç 18
@@ -242,7 +243,6 @@ bolmaly 18
 ýer 18
 siz 18
 isleýär 18
-zatlar 18
 olar 18
 iñ 18
 öñ 18
@@ -1542,6 +1542,7 @@ kompýuterleri 3
 hoşal 3
 ýetip 3
 gyzdan 3
+tapandyklaryny 3
 yzyndan 3
 girelgäni 3
 bermegi 3
@@ -2318,7 +2319,6 @@ bolandyr 2
 Nämedigine 2
 şoňa 2
 Dän 2
-tapandyklaryny 2
 başga-da 2
 etjegine 2
 Suwly 2

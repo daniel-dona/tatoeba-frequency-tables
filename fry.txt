@@ -3,7 +3,7 @@ Ik 117
 in 86
 de 68
 fan 56
-it 54
+it 55
 yn 52
 net 44
 en 28
@@ -11,8 +11,8 @@ De 27
 út 27
 ik 24
 haadstêd 24
+dat 23
 Myn 23
-dat 22
 Tom 22
 It 21
 wie 21
@@ -48,12 +48,13 @@ hâld 9
 no 9
 taal 9
 se 9
+hast 9
 Frysk 9
 wenje 9
 oer 8
 praat 8
+Wêrom 8
 stêd 8
-hast 8
 Hoe 8
 Wy 8
 wit 7
@@ -69,7 +70,6 @@ kin 6
 Dat 6
 Ingelsk 6
 wol 6
-Wêrom 6
 let 6
 wennet 6
 alles 6
@@ -126,6 +126,7 @@ hynder 3
 wurdt 3
 al 3
 lân 3
+dan 3
 Kin 3
 betelje 3
 wei 3
@@ -183,7 +184,6 @@ hear 2
 ferjitte 2
 heit 2
 sinne 2
-dan 2
 Lit 2
 skoalle 2
 Italiaansk 2
@@ -255,6 +255,7 @@ boek 2
 frou 2
 Farwol 2
 Ja 2
+dien 2
 holle 2
 wiene 2
 plysje 2
@@ -599,7 +600,6 @@ Fjoer 1
 Brân 1
 Spitich 1
 Graach 1
-dien 1
 fout 1
 hold 1
 âlde 1
@@ -1047,3 +1047,4 @@ sliepe 1
 Hâldst 1
 bus 1
 stoarte 1
+diest 1

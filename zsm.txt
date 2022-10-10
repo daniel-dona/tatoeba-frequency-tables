@@ -5,7 +5,7 @@ Tom 1124
 tidak 1095
 di 705
 awak 697
-itu 608
+itu 609
 ini 575
 akan 555
 untuk 549
@@ -33,7 +33,7 @@ sedang 174
 kepada 172
 pada 171
 kamu 171
-Adakah 168
+Adakah 169
 dari 158
 lebih 158
 perlu 155
@@ -198,10 +198,10 @@ berjumpa 36
 merasakan 36
 توم 36
 كامو 36
+Berapa 35
 salah 35
 bilik 35
 Itu 35
-Berapa 34
 Sila 34
 selalu 34
 meminta 34
@@ -405,6 +405,7 @@ Kalau 17
 supaya 17
 taman 17
 berasa 17
+harga 17
 guru 17
 menonton 17
 menerima 17
@@ -429,7 +430,6 @@ mengetahui 16
 dengar 16
 marah 16
 gadis 16
-harga 16
 berharap 16
 beli 16
 kuat 16
@@ -720,6 +720,7 @@ ruang 9
 Selepas 9
 berlari 9
 dapur 9
+kawasan 9
 suami 9
 roti 9
 terlambat 9
@@ -778,6 +779,7 @@ Semasa 8
 hutang 8
 terima 8
 nasi 8
+berbahaya 8
 penuh 8
 lemah 8
 hospital 8
@@ -792,7 +794,6 @@ Maria 8
 ya 8
 bodoh 8
 sarapan 8
-kawasan 8
 Emak 8
 senang 8
 kira-kira 8
@@ -874,7 +875,6 @@ milik 7
 telur 7
 mengembara 7
 menyertai 7
-berbahaya 7
 Abang 7
 akhirnya 7
 sengaja 7
@@ -7458,3 +7458,4 @@ menakutkannya 1
 bayangkan 1
 contohnya 1
 RM100 1
+anggur 1

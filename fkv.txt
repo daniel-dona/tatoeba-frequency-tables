@@ -40,6 +40,7 @@ nelje 5
 met 5
 kymmenen 5
 päiväle 5
+Kunka 4
 mennee 4
 pääkaupunki 4
 Norjan 4
@@ -62,7 +63,6 @@ omaksi 3
 kieleksi 3
 Norjassa 3
 2005 3
-Kunka 3
 Helsinki 3
 En 3
 Kiitoksii 3
@@ -1270,3 +1270,6 @@ Repo 1
 märkä 1
 Piilokaljamaa 1
 petolinen 1
+kauvoin 1
+vajelus 1
+kesti 1

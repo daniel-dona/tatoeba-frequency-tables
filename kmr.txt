@@ -1,10 +1,10 @@
 Ez 1190
 e 1028
 xwe 1025
+ji 978
 min 978
-ji 977
 bi 930
-Ew 810
+Ew 811
 li 810
 ê 730
 û 659
@@ -17,7 +17,7 @@ me 513
 te 490
 de 452
 ne 396
-re 380
+re 381
 Min 354
 Hûn 300
 di 292
@@ -29,7 +29,7 @@ em 249
 jî 242
 wî 238
 ez 237
-tu 232
+tu 233
 Ev 227
 bû 215
 dike 189
@@ -147,13 +147,13 @@ van 42
 tên 42
 nû 41
 hat 41
+Tomî 41
 zêde 40
 nake 40
 bê 40
 çend 40
 çima 40
 bibin 40
-Tomî 40
 yek 39
 paqij 39
 nakin 39
@@ -181,9 +181,9 @@ Samî 34
 dixwazî 33
 serê 33
 amade 33
+Çima 33
 mirov 32
 Çi 32
-Çima 32
 caran 32
 pirr 31
 mamoste 31
@@ -266,6 +266,7 @@ Saet 22
 diêşe 22
 fêrî 22
 kesî 22
+dizane 21
 xwendekar 21
 nizanim 21
 nexweş 21
@@ -278,7 +279,6 @@ xwedî 21
 wiha 21
 rê 21
 gorî 21
-dizane 20
 dûr 20
 hevalê 20
 serdana 20
@@ -564,6 +564,7 @@ Erê 10
 Na 10
 Ya 10
 neh 10
+deh 10
 nizane 10
 hebûn 10
 nema 10
@@ -632,7 +633,6 @@ goşt 9
 şeş 9
 heft 9
 heşt 9
-deh 9
 pîr 9
 dijwar 9
 Pêdiviya 9
@@ -1060,6 +1060,7 @@ telefona 5
 pêdivî 5
 bum 5
 pirs 5
+zimanan 5
 zanim 5
 problem 5
 bihêle 5
@@ -1260,7 +1261,6 @@ gotinê 4
 nizanî 4
 xwesh 4
 peyv 4
-zimanan 4
 dixwînin 4
 reviya 4
 bipirse 4
@@ -1606,6 +1606,7 @@ biyanî 4
 bûn" 4
 Hîn 4
 avjeniyê 4
+nabêjî 4
 Dilekî 4
 Îslamê 4
 cidî 4
@@ -2251,7 +2252,6 @@ xelet 3
 bibêjî 3
 veneke 3
 bendê 3
-nabêjî 3
 Carinan 3
 rakir 3
 metbexê 3

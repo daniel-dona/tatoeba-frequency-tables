@@ -1,6 +1,6 @@
 Mən 638
 O 444
-Tom 396
+Tom 397
 Bu 335
 var 249
 bir 207
@@ -134,6 +134,7 @@ gözəl 18
 il 18
 Ona 18
 danışa 18
+etməyə 18
 saat 18
 gəldi 18
 Tomu 18
@@ -144,7 +145,6 @@ getdim 17
 gördüm 17
 Bunu 17
 kitabı 17
-etməyə 17
 böyükdür 17
 Yeni 17
 qulaq 17
@@ -673,6 +673,7 @@ xeyrə 5
 İsveçdə 5
 vacib 5
 alman 5
+səsini 5
 olacam 5
 qorxmuram 5
 edəcək 5
@@ -737,6 +738,7 @@ aç 4
 Polis 4
 turist 4
 Səninlə 4
+bilərəmmi 4
 saçını 4
 dediyini 4
 oxumağı 4
@@ -880,7 +882,6 @@ ispan 4
 əbədi 4
 qaldı 4
 düşmürəm 4
-səsini 4
 onlara 4
 sındırdı 4
 tez 4
@@ -999,7 +1000,6 @@ Piter 3
 adamı 3
 cümlə 3
 əsas 3
-bilərəmmi 3
 Gecə 3
 Tehran 3
 eşitdin 3
@@ -1061,6 +1061,7 @@ doludur 3
 maska 3
 öyrənirik 3
 fikrim 3
+balası 3
 adalar 3
 işıq 3
 açıq 3
@@ -1610,7 +1611,6 @@ işləməyi 2
 Tanış 2
 olmağıma 2
 mətbəxdədir 2
-balası 2
 oxudu 2
 haqlısan 2
 şəhərə 2
@@ -1722,6 +1722,7 @@ sərhəd 2
 tanımır 2
 Ağlama 2
 yaşamıram 2
+Ördək 2
 çıxdı 2
 verib 2
 pişiyin 2
@@ -3840,7 +3841,6 @@ mənzilim 1
 gəlirsən 1
 həftəmiz 1
 Bostondayıq 1
-Ördək 1
 atasıdır 1
 gülməyə 1
 başladılar 1
@@ -7433,3 +7433,10 @@ lazımsan 1
 armud 1
 meyvədir 1
 kəpənək 1
+uşaqların 1
+diqqətini 1
+cəlb 1
+çalışdı 1
+Televiziyanın 1
+azalda 1
+çirkindir 1

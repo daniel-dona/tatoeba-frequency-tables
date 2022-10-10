@@ -35,6 +35,7 @@ suv 9
 бор 8
 бир 8
 emasman 8
+menga 8
 yomon 8
 edim 8
 Nega 8
@@ -47,7 +48,6 @@ kim 7
 pul 7
 kitob 7
 yashaydi 7
-menga 7
 Qancha 7
 Kim 7
 qachon 7
@@ -77,6 +77,7 @@ Yana 5
 faqat 5
 Kecha 5
 bo'ladi 5
+Ular 5
 turadi 5
 mumkin 5
 men 5
@@ -108,7 +109,6 @@ ikki 4
 qilish 4
 tilini 4
 uning 4
-Ular 4
 sotib 4
 ko'rmayapti 4
 yoqadi 4
@@ -425,6 +425,7 @@ Bugungi 2
 nechi 2
 yaxshimisan 2
 qilishni 2
+nimadir 2
 rejang 2
 uzr 2
 Soat 2
@@ -1717,7 +1718,6 @@ o'rgatsang 1
 qilaman 1
 o'pishgan 1
 Boshqa 1
-nimadir 1
 so'ramoqchi 1
 narsang 1
 qilib 1
@@ -2185,3 +2185,5 @@ bolalarning 1
 e’tiborini 1
 jalb 1
 harakat 1
+topishganini 1
+aytishdi 1
