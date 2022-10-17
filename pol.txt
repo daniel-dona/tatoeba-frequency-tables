@@ -1,33 +1,33 @@
-się 15073
-nie 12762
-jest 12520
-w 11363
+się 15074
+nie 12763
+jest 12524
+w 11364
 Tom 10112
 na 9524
 Nie 8346
-to 7606
-że 7149
-do 6914
-z 6717
+to 7607
+że 7152
+do 6916
+z 6718
 To 4131
 i 3972
 Czy 3556
 mi 3321
-o 3236
+o 3237
 mnie 3104
 ma 2791
 co 2703
 On 2649
 za 2538
 jak 2428
-tego 2297
+tego 2298
 po 2255
 Mary 2163
-są 1960
+są 1963
 tym 1853
-W 1848
+W 1849
 bardzo 1802
-od 1635
+od 1636
 tak 1614
 był 1613
 Ona 1608
@@ -35,17 +35,17 @@ go 1479
 już 1423
 Jestem 1416
 ci 1366
-ale 1325
+ale 1326
 dla 1325
 Co 1268
 Toma 1260
 domu 1243
 Mam 1180
-być 1159
+być 1160
 Jak 1143
 tylko 1140
 ten 1127
-było 1103
+było 1104
 jego 1102
 jej 1084
 Jest 1082
@@ -58,9 +58,9 @@ sobie 982
 czy 975
 cię 958
 przez 941
-może 935
+może 936
 Jesteś 923
-ze 921
+ze 922
 by 893
 jestem 886
 mu 873
@@ -98,12 +98,12 @@ Chcę 619
 mówi 617
 chce 617
 zawsze 613
-a 602
+a 603
 nas 598
 ciebie 590
 lubi 584
+nigdy 579
 lat 579
-nigdy 578
 Kto 576
 mój 558
 Myślę 554
@@ -153,7 +153,7 @@ ludzi 418
 gdzie 417
 moim 414
 Moja 411
-ich 406
+ich 408
 dzień 404
 Z 402
 możesz 400
@@ -186,10 +186,10 @@ pracę 350
 powodu 347
 ojciec 346
 który 343
-je 342
+je 343
+aby 341
 Byłem 340
 siebie 338
-aby 338
 pieniądze 334
 więc 333
 twój 332
@@ -214,9 +214,9 @@ zobaczyć 308
 temu 307
 mógł 306
 mną 303
+Wiem 303
 stanie 301
 będę 300
-Wiem 300
 też 299
 mojej 299
 można 295
@@ -240,9 +240,9 @@ Bostonie 279
 kto 276
 czego 276
 Tomem 276
+nocy 275
 Japonii 274
 list 274
-nocy 274
 Musimy 272
 Bardzo 270
 cały 270
@@ -299,8 +299,8 @@ Mamy 232
 angielskiego 231
 wielu 230
 taki 230
+które 230
 uczyć 229
-które 228
 Powinieneś 227
 jesteśmy 225
 pokój 224
@@ -318,8 +318,8 @@ Każdy 218
 dziecko 218
 sposób 218
 Naprawdę 218
+Jaki 216
 Od 215
-Jaki 215
 pierwszy 215
 swoich 215
 Przepraszam 213
@@ -390,8 +390,8 @@ samo 180
 mieście 180
 moich 180
 imię 180
+sobą 179
 byli 179
-sobą 178
 obiad 178
 Będę 177
 padać 176
@@ -444,12 +444,12 @@ wypadku 158
 innych 158
 takiego 158
 we 158
+im 158
+należy 157
 zupełnie 157
 zmęczony 157
 jedzenie 157
-im 157
 czytać 156
-należy 156
 wolno 156
 pracuje 155
 Ci 155
@@ -506,10 +506,10 @@ zegarek 138
 niczego 138
 stąd 138
 chwili 137
+mogą 137
 chory 137
 miasta 136
 okno 136
-mogą 136
 miejscu 136
 ogóle 136
 idzie 135
@@ -564,6 +564,7 @@ mógłbym 128
 wziąć 128
 dziesięć 128
 Często 127
+zdania 127
 Dzieci 127
 wszystkim 127
 wina 127
@@ -571,7 +572,6 @@ twoją 127
 mówisz 127
 języka 127
 lubisz 127
-zdania 126
 Poproszę 126
 odpowiedź 126
 stary 126
@@ -583,11 +583,11 @@ będą 125
 kogoś 125
 Miałem 124
 jedną 124
+lub 124
 błąd 123
 spotkać 123
 czekać 123
 którą 123
-lub 123
 chciałem 123
 rodziców 122
 późno 122
@@ -683,8 +683,9 @@ piłkę 107
 Pies 107
 Uważam 107
 Słyszałem 107
+ponieważ 107
+nasze 106
 ulicy 106
-ponieważ 106
 rękę 106
 działa 106
 żona 106
@@ -692,7 +693,6 @@ wystarczająco 106
 około 105
 głodny 105
 dziewczyna 105
-nasze 105
 godzin 105
 rzecz 105
 mama 105
@@ -1115,6 +1115,7 @@ uważa 65
 podróży 65
 obchodzi 65
 słońce 65
+Ich 65
 Próbowałem 65
 jedzie 65
 wrócić 65
@@ -1127,7 +1128,6 @@ Poszedłem 64
 Lekarz 64
 najszybciej 64
 bilet 64
-Ich 64
 wakacje 64
 muszą 64
 drzewo 64
@@ -1196,9 +1196,11 @@ byliśmy 61
 napisał 61
 kobietą 61
 wolne 60
+naszych 60
 Dziecko 60
 listy 60
 udział 60
+mieszkanie 60
 powiedz 60
 Boga 60
 Jim 60
@@ -1222,7 +1224,6 @@ siedzi 59
 używać 59
 serca 59
 potrzebujesz 59
-mieszkanie 59
 głośno 59
 robią 59
 Ostatnio 59
@@ -1237,7 +1238,6 @@ chleb 59
 powiedzieli 59
 myślał 59
 wrażenie 58
-naszych 58
 Ameryki 58
 niemożliwe 58
 Mimo 58
@@ -1325,6 +1325,7 @@ powiesz 55
 gitarze 55
 pasuje 55
 zaczęła 55
+zajęci 55
 mimo 55
 powieść 55
 dowiedzieć 55
@@ -1377,7 +1378,6 @@ Samochód 53
 godzinie 53
 Dużo 53
 zwierzęta 53
-zajęci 53
 stacji 53
 błędy 53
 my 53
@@ -1392,6 +1392,7 @@ miłości 52
 wielką 52
 granicą 52
 powiem 52
+mieli 52
 spotkaniu 52
 rozumie 52
 najlepiej 52
@@ -1447,7 +1448,6 @@ lotnisko 50
 wątpliwości 50
 znalazłem 50
 rzeki 50
-mieli 50
 wyjścia 50
 Ciekawe 50
 miesiąc 50
@@ -1502,6 +1502,7 @@ drugi 49
 Tomie 49
 biurku 48
 pójdzie 48
+nieco 48
 brakuje 48
 30 48
 sen 48
@@ -1532,14 +1533,15 @@ biega 48
 pierwszym 48
 białe 48
 Podczas 48
+oboje 48
 psem 48
 szklankę 48
 Prawdopodobnie 48
 widzisz 48
+także 48
 prawdopodobne 48
 Przyjdź 47
 Anglii 47
-nieco 47
 policję 47
 100 47
 Londynie 47
@@ -1559,10 +1561,8 @@ postanowił 47
 Dom 47
 próbuje 47
 byłam 47
-oboje 47
 Zjednoczonych 47
 sweter 47
-także 47
 macie 47
 parasol 46
 centrum 46
@@ -1739,6 +1739,7 @@ nauczycielką 42
 wygrał 42
 projekt 42
 szansę 42
+wiek 42
 środka 42
 plaży 42
 złym 42
@@ -1776,7 +1777,6 @@ państwa 41
 uprzejmy 41
 czekał 41
 zająć 41
-wiek 41
 kimś 41
 Znowu 41
 mieszkają 41
@@ -2172,6 +2172,7 @@ ceny 33
 powody 33
 Chce 33
 Poczekaj 33
+znaczenie 33
 usta 33
 Pewnego 33
 rosną 33
@@ -2207,6 +2208,7 @@ piknik 32
 szczególnie 32
 uważać 32
 niedaleko 32
+możliwość 32
 kończy 32
 rodzinie 32
 Książka 32
@@ -2235,7 +2237,6 @@ pewne 32
 wysokie 32
 rozmawiał 32
 zapomniał 32
-znaczenie 32
 świeci 32
 Uczniowie 32
 przyjaciółką 32
@@ -2276,7 +2277,6 @@ Kobieta 31
 3 31
 niewinny 31
 prysznic 31
-możliwość 31
 kompletnie 31
 Zrobiła 31
 drugą 31
@@ -2622,6 +2622,7 @@ Rozmawialiśmy 27
 uczniem 27
 najlepszą 27
 mówimy 26
+innymi 26
 Czekałem 26
 spóźnia 26
 polega 26
@@ -2703,7 +2704,6 @@ chcecie 26
 powinnam 26
 wiedziałam 26
 zamierza 25
-innymi 25
 wróciłem 25
 natury 25
 synowi 25
@@ -2769,6 +2769,7 @@ wykonać 25
 drewna 25
 sól 25
 przyszedłeś 25
+Ważne 25
 Kupiła 25
 Afryce 25
 minuty 25
@@ -2931,6 +2932,7 @@ próbowałem 24
 wami 24
 wydarzy 24
 policja 24
+zajęcia 23
 stanowi 23
 obiedzie 23
 wyjdzie 23
@@ -2984,13 +2986,14 @@ Usiądź 23
 model 23
 zapach 23
 Zamiast 23
+własnych 23
 prawdziwy 23
 podnieść 23
 rybę 23
 zimy 23
 Liczba 23
 szczęśliwe 23
-Ważne 23
+poczucie 23
 jaka 23
 tuż 23
 listę 23
@@ -3057,6 +3060,7 @@ oka 22
 uniknąć 22
 bał 22
 Łatwo 22
+obie 22
 spraw 22
 chodźmy 22
 złych 22
@@ -3075,6 +3079,7 @@ poproszę 22
 Stracił 22
 dwanaście 22
 poprzez 22
+mieszkańców 22
 wyraz 22
 torby 22
 zimą 22
@@ -3105,7 +3110,6 @@ przeszedł 22
 lekarstwa 22
 Dwie 22
 ładny 22
-własnych 22
 soboty 22
 Zrobiliśmy 22
 stopni 22
@@ -3180,7 +3184,6 @@ pocałować 22
 kierowcą 22
 Zrobiłam 22
 Tom'owi 22
-zajęcia 21
 Nieważne 21
 Osaki 21
 wolności 21
@@ -3191,7 +3194,6 @@ nosić 21
 ziemniaki 21
 japońską 21
 największy 21
-obie 21
 test 21
 Mężczyźni 21
 oto 21
@@ -3230,7 +3232,6 @@ zobaczymy 21
 jedziesz 21
 szkoda 21
 Pojadę 21
-poczucie 21
 rozsądny 21
 przedstawić 21
 trzecia 21
@@ -3274,6 +3275,7 @@ większy 21
 cena 21
 spokojny 21
 politykiem 21
+lodówce 21
 trzydziestu 21
 podłodze 21
 Tęsknię 21
@@ -3322,7 +3324,6 @@ prądu 20
 otrzymał 20
 strata 20
 Mogłem 20
-mieszkańców 20
 przekazać 20
 waży 20
 ciężki 20
@@ -3418,7 +3419,6 @@ nisko 20
 śpiący 20
 dziedzinie 20
 bije 20
-lodówce 20
 chwilą 20
 długą 20
 leki 20
@@ -3547,6 +3547,7 @@ uczciwość 19
 nogami 19
 wyglądam 19
 Usłyszałem 19
+obaj 19
 liczy 19
 głęboko 19
 lalkę 19
@@ -3614,6 +3615,7 @@ poradzić 19
 idiotą 19
 domek 19
 śmiał 19
+zachować 19
 auta 19
 Moglibyśmy 19
 potwór 19
@@ -3733,7 +3735,6 @@ grają 18
 ostry 18
 strona 18
 Spędziłem 18
-obaj 18
 nauczyłem 18
 stylu 18
 kartkę 18
@@ -3747,6 +3748,7 @@ nieobecny 18
 większa 18
 rynek 18
 prąd 18
+zajęte 18
 złota 18
 zda 18
 plotka 18
@@ -3801,7 +3803,6 @@ alkohol 18
 zostaną 18
 patrzył 18
 kosztowało 18
-zachować 18
 potworem 18
 boisz 18
 Magdalena 18
@@ -3958,7 +3959,6 @@ wypić 17
 jesień 17
 zdarzają 17
 firmę 17
-zajęte 17
 Zjednoczone 17
 tamtych 17
 prawdziwym 17
@@ -6606,6 +6606,7 @@ butelce 9
 dług 9
 chwali 9
 źródłem 9
+mieszkańcy 9
 Zostawiła 9
 przesada 9
 zasada 9
@@ -7824,11 +7825,13 @@ wydarzył 8
 kojarzy 8
 Egzamin 8
 Jesz 8
+przydatne 8
 Oj 8
 zawroty 8
 robienie 8
 narodowości 8
 bawiliśmy 8
+słonia 8
 dowodem 8
 znajomy 8
 zmiana 8
@@ -8126,7 +8129,6 @@ porażką 7
 publiczność 7
 umysłu 7
 zgromadził 7
-mieszkańcy 7
 owce 7
 rozum 7
 siódmym 7
@@ -8698,6 +8700,7 @@ Druga 7
 gapił 7
 znajomości 7
 portret 7
+chaos 7
 głupoty 7
 uśmiechają 7
 szaleni 7
@@ -8713,13 +8716,11 @@ By 7
 sławę 7
 wsparcia 7
 koreańskiego 7
-przydatne 7
 Przeszliśmy 7
 liczbę 7
 wracaj 7
 pozwalają 7
 lepsi 7
-słonia 7
 dzieciak 7
 Kazano 7
 Należę 7
@@ -8776,6 +8777,7 @@ płotu 7
 metrem 7
 Masło 7
 wieprzowiny 7
+organizacji 7
 naukowe 7
 Nauczycielka 7
 pogrzebie 7
@@ -9858,7 +9860,6 @@ biznesie 6
 nagranie 6
 Stałem 6
 Odszedł 6
-chaos 6
 katalog 6
 komputerach 6
 skoczył 6
@@ -9997,4 +9998,3 @@ Brazylia 6
 tolerować 6
 wysp 6
 poczerwieniał 6
-interesującego 6

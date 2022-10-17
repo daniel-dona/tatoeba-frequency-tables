@@ -1,4 +1,4 @@
-oon 198
+oon 199
 Se 33
 ei 30
 ja 27
@@ -106,6 +106,7 @@ tuli 3
 ruokkaa 3
 koira 3
 Sie 3
+kaula 3
 seissoo 3
 sie 3
 ihmissii 3
@@ -192,7 +193,6 @@ sieki 2
 Joku 2
 Jo 2
 usko 2
-kaula 2
 olet 2
 muistelhaan 2
 mitä 2
@@ -1273,3 +1273,5 @@ petolinen 1
 kauvoin 1
 vajelus 1
 kesti 1
+Siraffila 1
+pitkä 1

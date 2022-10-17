@@ -1,6 +1,6 @@
 U 59
 Men 59
-Bu 55
+Bu 56
 bor 32
 bir 25
 edi 25
@@ -15,10 +15,10 @@ qayerda 19
 Sen 16
 У 15
 Мен 14
+mening 14
 Nima 14
 Бу 14
 yaxshi 13
-mening 13
 yo'q 13
 kerak 13
 deb 12
@@ -352,6 +352,7 @@ bizning 2
 Oldin 2
 qilmayman 2
 bosh 2
+bekor 2
 yoqtirmaydi 2
 qiladi 2
 yuqori 2
@@ -387,6 +388,7 @@ aql 2
 yoshda 2
 ketadi 2
 olasizmi 2
+Agar 2
 yo 2
 qolasan 2
 olasan 2
@@ -1236,7 +1238,6 @@ dollar 1
 g'oyadan 1
 tortishlari 1
 Mahmud 1
-bekor 1
 yurishni 1
 Lola 1
 Salimning 1
@@ -1481,7 +1482,6 @@ Boyqo'ng'irdan 1
 uchiriladi 1
 ne 1
 Onang 1
-Agar 1
 tugmani 1
 bossang 1
 omon 1
@@ -2187,3 +2187,14 @@ jalb 1
 harakat 1
 topishganini 1
 aytishdi 1
+yomg‘ir 1
+yog‘sa 1
+piknik 1
+qilinadi 1
+pasportim 1
+Velosiped 1
+ijaraga 1
+olmoqchiman 1
+Do‘stim 1
+shakar 1
+ishlatmaydi 1

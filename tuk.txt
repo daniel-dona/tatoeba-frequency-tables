@@ -33,7 +33,7 @@ Semi 109
 maňa 105
 meniň 102
 pikir 102
-edip 99
+edip 100
 gün 99
 hem 98
 gerek 93
@@ -565,6 +565,7 @@ bermedi 8
 degişli 8
 kofe 8
 gepleýär 8
+bilerinmi 8
 gapysyny 8
 samsyk 8
 diýp 8
@@ -657,7 +658,6 @@ okuwa 7
 ýazdymy 7
 gündeligine 7
 gürleşip 7
-bilerinmi 7
 birden 7
 üstüne 7
 tans 7
@@ -800,6 +800,7 @@ görýär 6
 ucin 6
 edýändigini 6
 ynamym 6
+Haýsy 6
 Meryny 6
 meñzeýär 6
 stoluñ 6
@@ -883,6 +884,7 @@ sorap 5
 pulum 5
 görmedi 5
 el 5
+ret 5
 duýýaryn 5
 soňunda 5
 lezzet 5
@@ -987,7 +989,6 @@ bolmazdan 5
 özünden 5
 puluny 5
 meñzänok 5
-Haýsy 5
 ýekelikde 5
 öwredýärin 5
 çykardy 5
@@ -1079,7 +1080,6 @@ aşa 4
 gulplady 4
 tapdy 4
 soradylar 4
-ret 4
 goýuň 4
 bilýärsiňiz 4
 bolmajagyny 4
@@ -1150,6 +1150,7 @@ bil 4
 görä 4
 gelmegi 4
 Haçanda 4
+sesini 4
 bazara 4
 otlyda 4
 şäherde 4
@@ -1533,7 +1534,6 @@ Adamlar 3
 gabanjaň 3
 bagyşlaň 3
 bolarka 3
-sesini 3
 saparda 3
 golaýynda 3
 dowamynda 3
@@ -1661,6 +1661,7 @@ sebäp 3
 ýaňyja 3
 iýmeýärler 3
 gowydy 3
+başlamaly 3
 ýylgyrdy 3
 gamgyn 3
 bolandyklaryny 3
@@ -2667,7 +2668,6 @@ edýändiklerini 2
 bilýändikleri 2
 lukmançylyk 2
 alçak 2
-başlamaly 2
 öýdip 2
 ylalaşmaýandygyny 2
 geçmedi 2

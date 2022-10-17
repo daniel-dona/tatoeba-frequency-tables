@@ -1,15 +1,15 @@
-esas 2559
+esas 2561
 la 2003
-Me 1987
-ne 1137
+Me 1989
+ne 1139
 La 900
 me 788
-Tom 753
+Tom 755
 tu 752
 Ka 601
 en 533
-havas 517
-es 396
+havas 518
+es 397
 Il 378
 di 370
 mea 357
@@ -41,7 +41,7 @@ to 157
 To 149
 pri 144
 bela 143
-Li 141
+Li 142
 Ne 140
 prizas 138
 quo 135
@@ -80,8 +80,8 @@ omna 87
 mustas 87
 ma 86
 ankore 86
+ica 84
 ilu 83
-ica 83
 per 81
 vidis 81
 quale 81
@@ -89,9 +89,9 @@ sur 80
 ca 80
 nun 79
 hundo 79
+Kad 78
 ta 77
 Quo 77
-Kad 77
 multe 76
 dum 76
 bone 73
@@ -142,7 +142,7 @@ dicis 50
 irar 49
 ye 49
 volis 48
-homi 47
+homi 48
 matro 47
 konocas 47
 Ol 46
@@ -181,12 +181,12 @@ o 39
 kompris 38
 venas 38
 vidar 37
+che 37
 infanti 37
 ilua 37
 lando 37
 komprenas 36
 deziras 36
-che 36
 importanta 36
 lojas 36
 iris 35
@@ -418,6 +418,7 @@ John 16
 instruktisto 16
 mentias 16
 De 16
+mortigis 16
 spozulo 16
 danjeroza 16
 karno 16
@@ -436,7 +437,6 @@ Germania 15
 filmo 15
 uzas 15
 ucelo 15
-mortigis 15
 Omnu 15
 portis 15
 povra 15
@@ -1447,6 +1447,7 @@ komplete 4
 zono 4
 pantalono 4
 Smith 4
+Facebook 4
 spirito 4
 probable 4
 lor 4
@@ -1827,7 +1828,6 @@ klimato 3
 matura 3
 apta 3
 konto 3
-Facebook 3
 inferno 3
 Irgu 3
 falias 3
@@ -7721,3 +7721,5 @@ kelta 1
 amikaro 1
 Sakura 1
 indiko 1
+pumico 1
+poshi 1

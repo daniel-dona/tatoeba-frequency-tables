@@ -3,12 +3,12 @@ ora 108
 Tom 97
 sing 62
 iku 42
-aku 40
+aku 41
 Kowé 37
 ing 34
 karo 33
+iki 32
 kowé 31
-iki 31
 Dhèwèké 30
 kuwi 25
 ana 23
@@ -72,6 +72,7 @@ sapa 8
 kutha 8
 dadi 8
 ngomong 7
+luwih 7
 kula 7
 Iku 7
 kanggo 7
@@ -81,7 +82,6 @@ teka 7
 ya 7
 apa-apa 7
 awak 7
-luwih 6
 apik 6
 isih 6
 kucing 6
@@ -301,6 +301,7 @@ pikir 2
 doyan 2
 Akèh 2
 wayah 2
+turuné 2
 merga 2
 kerep 2
 goroh 2
@@ -342,6 +343,7 @@ bank 2
 dhéwéan 2
 Paris 2
 wulan 2
+Kopiné 2
 mulai 2
 Amérika 2
 Kanada 2
@@ -424,6 +426,7 @@ Lètlan 2
 toko 2
 Walanda 2
 London 2
+Kuduné 2
 soko 2
 de'e 2
 ngisahi 2
@@ -432,6 +435,7 @@ piring'e 2
 engko 2
 wes 2
 opo 2
+adhem 2
 kangen 1
 kakus 1
 artiné 1
@@ -650,7 +654,6 @@ medèn-medèni 1
 akir-akir 1
 modèrn 1
 kalong 1
-turuné 1
 Révolusi 1
 kelakon 1
 tèknologi 1
@@ -907,7 +910,6 @@ siyap 1
 ꦲꦏꦸꦮꦶꦱ꧀ꦱꦶꦪꦥ꧀ꦒꦮꦺꦱꦺꦱꦸꦏ꧀꧈ 1
 Agustus 1
 ꦝꦺꦮꦺꦏꦺꦔꦺꦴꦩꦺꦴꦁꦤꦁꦲꦏꦸꦪꦺꦤ꧀ꦲꦉꦥ꧀ꦭꦸꦔꦩꦼꦚꦁꦥꦫꦶꦱ꧀ꦮꦸꦭꦤ꧀ꦄꦒꦸꦱ꧀ꦠꦸꦱ꧀꧈ 1
-Kopiné 1
 legi 1
 ꦏꦺꦴꦥꦶꦤꦺꦊꦒꦶ꧉ 1
 pabukon 1
@@ -1529,7 +1531,6 @@ Takonana 1
 ꦱꦼꦥꦸꦂꦫꦺꦠꦼꦏꦤ꧀ꦲꦶꦁꦭꦺꦴꦤ꧀ꦝꦼꦤ꧀꧈ 1
 musiyum 1
 gapura 1
-Kuduné 1
 ꦲꦏꦸꦩ꧀ꦭꦼꦧꦸꦩꦸꦱꦶꦪꦸꦩ꧀ꦏ꧀ꦭꦺꦫꦸꦒꦥꦸꦫ꧉ ꦏꦸꦢꦸꦤꦺꦲꦏꦸꦭꦸꦮꦶꦃꦔꦠꦶꦲꦠꦶ꧉ 1
 Meneng 1
 ꦩꦼꦤꦼꦁ 1
@@ -1608,3 +1609,9 @@ ngguyu 1
 ꦥꦺꦴꦏꦺꦴꦏ꧀ꦏꦺꦲꦗꦔ꧀ꦒꦸꦪꦸ꧉ 1
 bojoku 1
 ꦏꦺꦴꦮꦺꦢꦸꦢꦸꦧꦺꦴꦗꦺꦴꦏꦸ꧉ 1
+ꦮꦶꦔꦶꦲꦸꦢꦤ꧀꧈ 1
+suwé 1
+ꦏꦸꦢꦸꦤꦺꦲꦏꦸꦠꦸꦫꦸꦤꦺꦭꦸꦮꦶꦃꦱꦸꦮꦺ꧉ 1
+Kopi 1
+ꦏꦺꦴꦥꦶꦲꦶꦏꦶꦲꦝꦼꦩ꧀꧈ 1
+ꦏꦺꦴꦥꦶꦤꦺꦲꦝꦼꦩ꧀꧈ 1

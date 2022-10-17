@@ -3,21 +3,21 @@ Töm 425
 ɛ 257
 jɛ 237
 cɛ 186
- 157
+ 158
 mi̱ 137
 ɛn 135
 kä 124
 Ci̱ 122
 nɛy 103
 ɣöö 95
-ci̱ 86
+ci̱ 87
 Ɣän 85
 jɛn 85
 kɛn 81
 la̱t 76
 Ɛ 75
 i̱ 73
-Jɛn 72
+Jɛn 73
 ɛmɛ 70
 ɣä 69
 kɛnɛ 64
@@ -26,7 +26,7 @@ tee 57
 gɔaa 54
 Cä 53
 bi̱ 53
-ti̱ 44
+ti̱ 45
 bä 42
 kɔn 41
 ji̱ 39
@@ -49,6 +49,7 @@ mi 28
 lar 27
 ŋa̱cä 27
 luäk 26
+Ji̱n 26
 ni 26
 piny 26
 kɔnɛ 25
@@ -58,7 +59,6 @@ ben 25
 ci 25
 ɤän 25
 rɛy 24
-Ji̱n 24
 Bi̱ 24
 la̲t 24
 Mëri̱ 24
@@ -125,6 +125,7 @@ ti 13
 run 13
 tin 13
 i̲ 13
+ŋuan 13
 puc 13
 thuɔk 13
 de 13
@@ -136,7 +137,6 @@ met 12
 nɛmɛ 12
 rɔɔdu 12
 lat 12
-ŋuan 12
 ɛmɔ 12
 Görä 11
 duel 11
@@ -219,6 +219,7 @@ kɔr 8
 di̱ɔ̱k 8
 gui̱l 8
 wa̱lɛ 8
+görɛ 8
 tekɛ 7
 pa̱ny 7
 nhial 7
@@ -250,8 +251,8 @@ Cän 7
 thi̱ɛlɛ 7
 wë 7
 good 7
+nhɔki̱ 7
 ji̱ɛn 7
-görɛ 7
 ri̱ali̱kä 7
 ɣɔ̱ɔ̱n 7
 nhi̱am 7
@@ -288,7 +289,6 @@ Tömɛ 6
 wäl 6
 tɛ̈ɛ̈th 6
 juëy 6
-nhɔki̱ 6
 mi̱äth 6
 Di̱ɛwä 6
 dëri̱ 6
@@ -305,6 +305,7 @@ ran 5
 kui̱dɛ 5
 wal 5
 ni̱n 5
+pi̱w 5
 nööŋ 5
 ja̱l 5
 ŋɔak 5
@@ -369,7 +370,6 @@ Nhial 4
 Gɔaa 4
 Nini̱ 4
 /Cien 4
-pi̱w 4
 lätdɛ 4
 Canɛ 4
 rɔ̱ŋ 4
@@ -2797,3 +2797,5 @@ Cäna 1
 pɛ̈thɛ 1
 länyɛ 1
 ɣɔ̱a̱n 1
+ji̱öök 1
+yɔ̱ɔ̱ŋ 1

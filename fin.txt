@@ -1,8 +1,8 @@
-on 26962
+on 26963
 ei 9921
 Tom 9465
 Hän 7743
-että 6458
+että 6457
 ja 6411
 Tomi 5851
 ole 5816
@@ -58,7 +58,7 @@ Sinun 1193
 Mari 1176
 Me 1172
 olisi 1170
-täytyy 1149
+täytyy 1150
 ranskaa 1145
 hyvä 1101
 tämä 1092
@@ -351,7 +351,7 @@ maksaa 236
 pieni 235
 yhden 234
 minusta 234
-heidän 232
+heidän 233
 Älkää 232
 sanoo 230
 Ole 230
@@ -409,8 +409,8 @@ ihminen 200
 liikaa 200
 Bostoniin 200
 Luulin 199
+pitkä 199
 Voi 198
-pitkä 198
 syönyt 196
 Minkä 196
 kouluun 195
@@ -611,6 +611,7 @@ Siinä 133
 kahden 132
 päällä 132
 Ehkä 132
+löytää 132
 kiireinen 132
 kaukana 132
 täältä 132
@@ -618,7 +619,6 @@ mihin 132
 ymmärtää 132
 ulkona 132
 ympäri 131
-löytää 131
 lapset 131
 Saisinko 130
 talo 130
@@ -886,7 +886,6 @@ nimeni 92
 katsomaan 92
 kuulostaa 92
 Tommin 92
-maan 91
 huolta 91
 maa 91
 Tein 91
@@ -896,6 +895,7 @@ nukkua 91
 oot 91
 sana 91
 aamu 91
+maan 90
 Hänet 90
 tien 90
 elokuvan 90
@@ -8439,7 +8439,6 @@ yritämme 8
 petä 8
 matkustajaa 8
 ilosta 8
-pahat 8
 vuokra 8
 Dinosaurukset 8
 kärpästä 8
@@ -9616,6 +9615,7 @@ kyky 7
 laihtunut 7
 helmi 7
 kuolet 7
+pahat 7
 hyvien 7
 Kastuin 7
 Sumu 7

@@ -1,6 +1,6 @@
 es 226
 un 124
-Tom 99
+Tom 100
 El 91
 en 82
 el 78
@@ -10,8 +10,8 @@ no 74
 la 66
 No 54
 una 54
-esta 50
-a 46
+esta 51
+a 48
 La 43
 איל 42
 son 35
@@ -26,7 +26,7 @@ Me 29
 los 29
 לה 29
 Eya 26
-Mi 24
+Mi 25
 טום 24
 נו 23
 Es 22
@@ -73,6 +73,7 @@ estan 11
 סון 11
 vedre 11
 me 10
+aki 10
 djudios 10
 fue 10
 te 10
@@ -81,13 +82,13 @@ ladron 10
 djudia 10
 ambezando 10
 קי 10
-aki 9
 Ladino 9
 le 9
 komo 9
 Mozotros 9
 paras 9
 moendiz 9
+padre 9
 dos 9
 איסטו 9
 Dingunos 9
@@ -102,7 +103,6 @@ kolorada 8
 si 8
 linguas 8
 plazen 8
-padre 8
 Moro 8
 Komo 8
 Sami 8
@@ -170,6 +170,7 @@ Estamos 5
 kere 5
 Mueva 5
 marido 5
+Mersi 5
 mushteri 5
 ermoza 5
 arabo 5
@@ -210,7 +211,7 @@ Shalom 4
 Moramos 4
 kriaturas 4
 akordo 4
-Mersi 4
+todos 4
 Una 4
 bohor 4
 Avlas 4
@@ -280,7 +281,6 @@ Avla 3
 lavoresh 3
 mato 3
 mis 3
-todos 3
 tres 3
 kuatro 3
 bivia 3
@@ -1685,3 +1685,4 @@ Akodra 1
 palavras 1
 Merko 1
 Estos 1
+Mati 1
