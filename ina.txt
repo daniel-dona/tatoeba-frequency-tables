@@ -1,5 +1,5 @@
 le 12695
-es 7757
+es 7758
 de 6775
 un 6696
 Le 4739
@@ -29,7 +29,7 @@ vos 1070
 esseva 1063
 nos 946
 pote 941
-mi 914
+mi 915
 multo 907
 iste 856
 per 817
@@ -38,7 +38,7 @@ te 761
 il 747
 grande 739
 Illa 700
-Tu 684
+Tu 685
 blau 684
 Nos 680
 Iste 650
@@ -58,7 +58,7 @@ Mi 484
 Un 481
 sur 466
 super 444
-Illes 439
+Illes 441
 facer 435
 In 430
 si 429
@@ -139,8 +139,8 @@ die 183
 cosas 182
 crede 182
 facite 181
+son 181
 jammais 180
-son 179
 amico 178
 mangia 177
 Ego 177
@@ -295,13 +295,13 @@ Toto 87
 television 87
 ibi 87
 semper 87
+human 86
 vidite 86
 luna 86
 habera 86
 comenciava 86
 Boston 86
 Thomas 86
-human 85
 illos 85
 alteres 84
 Multe 84
@@ -1803,6 +1803,7 @@ fuma 13
 plana 13
 exterior 13
 Aperi 13
+humanos 13
 Australia 13
 sagio 13
 regratia 13
@@ -1921,7 +1922,6 @@ an 12
 garsones 12
 basse 12
 absente 12
-humanos 12
 Urano 12
 position 12
 batte 12
@@ -2528,6 +2528,7 @@ modello 9
 probar 9
 cereal 9
 biscuites 9
+proprietate 9
 Gode 9
 deriva 9
 Clark 9
@@ -2759,7 +2760,6 @@ pietate 8
 inseniate 8
 movimentos 8
 essayo 8
-proprietate 8
 notitia 8
 auxiliar 8
 mares 8

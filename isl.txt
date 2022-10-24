@@ -1,12 +1,12 @@
 að 3745
-er 3066
-Ég 2248
-í 2045
+er 3069
+Ég 2250
+í 2047
 á 1653
-ekki 1610
+ekki 1613
 Það 847
 ég 844
-Hann 787
+Hann 789
 til 763
 og 726
 það 672
@@ -25,7 +25,7 @@ af 446
 eru 443
 mér 426
 en 426
-þér 409
+þér 410
 mig 297
 fara 288
 Þetta 281
@@ -55,7 +55,7 @@ mun 161
 hafa 159
 hef 159
 hvað 152
-frá 146
+frá 147
 sér 142
 Ekki 141
 aftur 141
@@ -94,8 +94,8 @@ Hvernig 96
 þess 95
 allt 94
 Vinsamlegast 93
+bara 93
 ráðlagði 93
-bara 92
 þarf 92
 verið 92
 fer 91
@@ -120,10 +120,10 @@ alltaf 78
 vegna 78
 þau 77
 enn 77
+Hversu 76
 maður 75
 væri 75
 henni 75
-Hversu 75
 fá 74
 sinni 73
 þitt 72
@@ -139,8 +139,8 @@ heim 70
 undir 70
 heldur 70
 ertu 69
+þessu 68
 voru 67
-þessu 67
 vil 67
 þið 67
 áður 66
@@ -300,6 +300,7 @@ allir 33
 húsið 32
 besta 32
 fyrr 32
+bókina 32
 Komdu 32
 þangað 32
 tvö 32
@@ -311,7 +312,6 @@ degi 32
 erfitt 32
 Þið 32
 þeir 32
-bókina 31
 móti 31
 farið 31
 hætta 31
@@ -346,6 +346,7 @@ hingað 28
 hélt 28
 mínu 28
 hefði 28
+stór 28
 vini 28
 mánuði 28
 bréf 28
@@ -354,7 +355,6 @@ bréf 28
 reykja 27
 þinni 27
 hugmynd 27
-stór 27
 vinnuna 27
 þessari 27
 úti 27
@@ -380,6 +380,7 @@ enga 26
 vissi 26
 þúsund 26
 milli 26
+engu 26
 rangt 26
 meðan 26
 Farðu 26
@@ -391,7 +392,6 @@ hús 25
 burtu 25
 gleyma 25
 ári 25
-engu 25
 langt 25
 strax 25
 ein 25
@@ -507,6 +507,7 @@ reiður 20
 bróðir 20
 En 19
 aðra 19
+kaffi 19
 vandamál 19
 Kína 19
 lagði 19
@@ -532,7 +533,6 @@ bróður 19
 bílinn 19
 Peter 19
 gegnum 18
-kaffi 18
 efni 18
 komst 18
 óska 18
@@ -1047,6 +1047,7 @@ Komið 9
 hjálpar 9
 einmanna 9
 garðinn 9
+drekkur 9
 skipta 9
 japönsk 9
 lést 9
@@ -1240,6 +1241,7 @@ slíkt 8
 Jill 8
 Kannski 8
 Facebook 8
+Rússlandi 8
 viðbót 7
 japanskur 7
 raun 7
@@ -1333,7 +1335,6 @@ hug 7
 sunnudögum 7
 leitt 7
 sönn 7
-drekkur 7
 spjalla 7
 bestu 7
 hleypur 7
@@ -1410,7 +1411,6 @@ nokkurtíma 7
 Þýskaland 7
 Ert 7
 algjörlega 7
-Rússlandi 7
 virðingu 6
 Vandamálið 6
 lokaður 6
@@ -1706,6 +1706,7 @@ snerta 5
 byggð 5
 Eitt 5
 Sem 5
+áfengi 5
 afsökun 5
 sagði: 5
 Fer 5
@@ -1831,6 +1832,7 @@ kettinum 5
 veggnum 5
 þyrfti 5
 yfirgaf 5
+sendi 5
 Talar 5
 seinni 5
 sjúkrabíl 5
@@ -2034,7 +2036,6 @@ flugvellinum 4
 yfirgefa 4
 stöðuna 4
 Kate 4
-áfengi 4
 augljóst 4
 muntu 4
 Skurðlæknirinn 4
@@ -2212,7 +2213,6 @@ Danmerkur 4
 gestur 4
 Hverju 4
 hvítur 4
-sendi 4
 tapa 4
 ráðgáta 4
 hungri 4
@@ -3104,6 +3104,7 @@ væru 3
 flytur 3
 umkringdur 3
 stigum 3
+pósti 3
 sannur 3
 miðbæ 3
 jóla 3
@@ -3278,6 +3279,7 @@ ríkisborgari 3
 áhugaverðasta 3
 sennilega 3
 Möguleikarnir 3
+Byrjaðu 3
 grunni 3
 Kóreu 3
 borinn 2
@@ -4471,7 +4473,6 @@ ull 2
 klukkan“ 2
 Borgin 2
 slitnaði 2
-pósti 2
 dagsins 2
 grænu 2
 Stóra 2
@@ -5121,7 +5122,6 @@ Finnland 2
 hamingjusamasta 2
 útskýring 2
 Úlfar 2
-Byrjaðu 2
 stuttar 2
 skýringarnar 2
 góðum 2

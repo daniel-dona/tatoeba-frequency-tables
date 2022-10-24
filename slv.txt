@@ -1,10 +1,10 @@
-je 350
-v 109
-se 97
-sem 88
-Tom 85
+je 351
+v 111
+se 98
+sem 89
+Tom 86
 da 76
-ne 71
+ne 72
 na 56
 so 52
 si 50
@@ -14,8 +14,8 @@ bi 37
 za 36
 bo 35
 me 34
+Ne 34
 mi 33
-Ne 33
 Ali 31
 To 28
 z 25
@@ -28,9 +28,9 @@ to 23
 Kaj 22
 bil 20
 moj 18
+bom 18
 kot 16
 ti 16
-bom 16
 te 15
 svojo 15
 ga 15
@@ -41,6 +41,7 @@ več 14
 bila 13
 Je 12
 V 12
+Ta 12
 kaj 12
 oče 12
 veliko 12
@@ -52,7 +53,6 @@ Zakaj 12
 dan 11
 prosim 11
 Kako 11
-Ta 11
 Lahko 11
 knjigo 11
 Kdaj 11
@@ -73,6 +73,7 @@ Nisem 9
 denarja 9
 nekaj 9
 smo 9
+Si 9
 o 8
 ali 8
 tvoj 8
@@ -103,7 +104,6 @@ Koliko 7
 Na 7
 Ljubim 7
 tega 7
-Si 7
 Nimam 6
 mizi 6
 Moja 6
@@ -117,6 +117,7 @@ domov 6
 tem 6
 kar 6
 Nočem 6
+živi 6
 naredil 6
 videl 6
 tukaj 6
@@ -129,6 +130,7 @@ Ni 5
 roke 5
 časa 5
 leta 5
+Jutri 5
 Moj 5
 Mi 5
 avto 5
@@ -143,7 +145,6 @@ moral 5
 ljudi 5
 kako 5
 nisi 5
-živi 5
 šolo 5
 življenje 5
 Rad 5
@@ -221,6 +222,7 @@ govoriš 4
 pes 4
 Najdi 4
 Boga 4
+moreš 4
 drži 4
 nas 4
 pošlje 4
@@ -243,7 +245,6 @@ Moral 3
 moč 3
 trenutno 3
 svetu 3
-Jutri 3
 nedelja 3
 Potrebujem 3
 Svojemu 3
@@ -274,6 +275,7 @@ mora 3
 London 3
 Litva 3
 mama 3
+igra 3
 Bojim 3
 govorijo 3
 brez 3
@@ -334,7 +336,6 @@ Poišči 3
 Pojdimo 3
 park 3
 košarko 3
-moreš 3
 kratko 3
 noče 3
 storil 3
@@ -430,7 +431,6 @@ sam 2
 Prišel 2
 Mačke 2
 Tomaž 2
-igra 2
 svojim 2
 oseba 2
 moji 2
@@ -535,6 +535,7 @@ Boston 2
 teden 2
 najljubši 2
 Ima 2
+skupini 2
 S 2
 obiskat 2
 Jack 2
@@ -559,6 +560,7 @@ mlada 2
 Teheranu 2
 hišo 2
 poti 2
+priti 2
 Pojdi 2
 pri 2
 umit 2
@@ -696,6 +698,7 @@ dobrim 2
 razlogom 2
 kmet 2
 novo 2
+posodo 2
 Dober 1
 gospod 1
 Ogawa 1
@@ -1532,7 +1535,6 @@ bistvo 1
 demokracije 1
 pridružil 1
 tvoji 1
-skupini 1
 križcem 1
 označi 1
 ustrezne 1
@@ -1648,7 +1650,6 @@ e-ja 1
 Dekleta 1
 naglas 1
 zasmejala 1
-priti 1
 Mis 1
 Kolumbije 1
 privlačna 1
@@ -2465,3 +2466,19 @@ programa 1
 zagnati 1
 načinu 1
 DOS 1
+zaposlen 1
+zaposlena 1
+radijski 1
+sprejemnik 1
+deluje 1
+Layla 1
+Jemnu 1
+Pred 1
+zajtrkom 1
+stuširal 1
+Piščanec 1
+poje 1
+metulja 1
+rock'n'roll 1
+pomil 1
+pomila 1

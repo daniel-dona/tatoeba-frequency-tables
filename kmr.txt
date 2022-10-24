@@ -1,18 +1,18 @@
 Ez 1190
-e 1028
+e 1029
 xwe 1025
+min 980
 ji 978
-min 978
 bi 930
 Ew 811
-li 810
+li 811
 ê 730
 û 659
 ye 625
-ku 595
+ku 596
 Em 542
 Tom 540
-Tu 514
+Tu 515
 me 513
 te 490
 de 452
@@ -41,8 +41,8 @@ dikim 181
 Te 181
 vê 180
 dikin 178
+ew 176
 bikin 175
-ew 175
 in 174
 Wî 171
 pir 168
@@ -96,8 +96,8 @@ bilind 68
 Dema 67
 pê 67
 alî 66
+î 65
 bikî 65
-î 64
 dilê 64
 dikî 62
 tune 62
@@ -314,6 +314,7 @@ mezintir 18
 destê 18
 zarokên 18
 mijûl 18
+Kurdî 18
 serbajarê 18
 Mala 18
 biçin 18
@@ -334,7 +335,6 @@ here 17
 Hinek 17
 dîtin 17
 pere 17
-Kurdî 17
 Marî 17
 birçî 17
 dizanî 17
@@ -620,6 +620,7 @@ xwarina 9
 duh 9
 dawiyê 9
 çavan 9
+Amedê 9
 nadim 9
 pirtûka 9
 Hevalê 9
@@ -688,7 +689,6 @@ derve 8
 Tiştên 8
 nayên 8
 spas 8
-Amedê 8
 ziman 8
 Newroz 8
 kurmancî 8
@@ -1014,6 +1014,7 @@ gogê 6
 erd 6
 Û 6
 ger 6
+bixwînim 6
 depê 6
 biaxive 6
 kirine 6
@@ -1190,7 +1191,6 @@ otobusê 5
 bikira 5
 Îsal 5
 duyem 5
-bixwînim 5
 derbasî 5
 darên 5
 temenê 5
@@ -9137,3 +9137,5 @@ Vista'yê 1
 Mirîşk 1
 perperokekê 1
 diecibînim 1
+Xeyala 1
+lehengê 1

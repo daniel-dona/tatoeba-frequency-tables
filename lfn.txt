@@ -1,4 +1,4 @@
-es 5844
+es 5846
 la 5402
 ia 4517
 de 3628
@@ -39,15 +39,15 @@ cual 609
 е 596
 esta 592
 аве 564
+mea 550
 lo 550
-mea 548
 Esta 529
 Nos 508
 con 486
 Том 469
 ке 462
 vole 457
-Tu 418
+Tu 419
 ва 417
 casa 402
 Еске 399
@@ -267,10 +267,10 @@ dormi 77
 ance 77
 тан 77
 вера 77
+Vos 76
 pais 76
 franses 76
 mar 75
-Vos 75
 аора 75
 Per 74
 nom 74
@@ -4469,6 +4469,7 @@ des-sete 3
 планта 3
 летерас 3
 сенсоса 3
+propria 3
 dies 3
 диес 3
 деспренде 3
@@ -5204,6 +5205,7 @@ medica 2
 introdui 2
 Aira 2
 Eserse 2
+proprias 2
 compresada 2
 jenetical 2
 organica 2
@@ -6087,7 +6089,6 @@ anjel 2
 диалето 2
 Dormi 2
 фашисте 2
-propria 2
 peten 2
 петен 2
 Filastin 2
@@ -7735,7 +7736,6 @@ Nonairobio 1
 airobial 1
 cardiovascular 1
 Airodinamica 1
-proprias 1
 interata 1
 Airograf 1
 jeta 1

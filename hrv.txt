@@ -1,6 +1,6 @@
 je 1600
 se 597
-u 537
+u 538
 sam 447
 da 408
 li 382
@@ -100,13 +100,13 @@ Mogu 31
 znam 31
 kada 31
 vidjeti 31
+živi 31
 Ti 31
 tvoj 30
 Danas 30
 doći 30
 nas 30
 tu 30
-živi 30
 Moja 29
 taj 29
 ćeš 29
@@ -584,6 +584,7 @@ Nešto 7
 vjerovati 7
 nemam 7
 kurac 7
+Layla 7
 Bok 6
 njegovo 6
 naš 6
@@ -697,7 +698,6 @@ računalo 6
 Dođi 6
 Naravno 6
 znamo 6
-Layla 6
 Sami 6
 Fadil 6
 Zovem 5
@@ -8056,3 +8056,4 @@ kratke 1
 Dubina 1
 desetak 1
 svjedoka 1
+Jemenu 1

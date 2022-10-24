@@ -1,11 +1,11 @@
-is 132
-Ik 117
+is 133
+Ik 119
 in 86
 de 68
 fan 56
 it 55
 yn 52
-net 44
+net 45
 en 28
 De 27
 út 27
@@ -23,6 +23,7 @@ Wat 16
 mei 16
 ha 15
 jo 15
+dy 14
 op 14
 Wêr 14
 foar 13
@@ -31,17 +32,16 @@ hat 13
 nei 13
 myn 13
 Se 13
-dy 12
 om 12
+dyn 12
 Hy 12
 bin 12
 Sy 12
 wat 11
+der 11
 as 11
 gjin 11
-dyn 11
 kat 10
-der 10
 binne 10
 har 9
 hâld 9
@@ -50,12 +50,12 @@ taal 9
 se 9
 hast 9
 Frysk 9
+Hoe 9
 wenje 9
 oer 8
 praat 8
 Wêrom 8
 stêd 8
-Hoe 8
 Wy 8
 wit 7
 mar 7
@@ -73,6 +73,7 @@ wol 6
 let 6
 wennet 6
 alles 6
+âld 6
 haatsje 6
 In 5
 eagen 5
@@ -87,7 +88,6 @@ sa 5
 dy't 5
 wurket 5
 Dit 5
-âld 5
 studint 5
 Elkenien 5
 haw 5
@@ -160,6 +160,7 @@ Noard-Koreä 3
 reint 3
 Grins 3
 Grinslânsk 3
+broer 3
 of 3
 Sina 3
 Dútslân 3
@@ -272,7 +273,6 @@ Der 2
 buorman 2
 Oerisel 2
 Fryslân 2
-broer 2
 wurkje 2
 sjong 2
 moandei 2
@@ -320,6 +320,7 @@ haadpersoan 2
 tink 2
 soan 2
 fulkaan 2
+west 2
 sebra 2
 frij 1
 gelyk 1
@@ -1015,7 +1016,6 @@ elkenien 1
 lokkich 1
 komst 1
 swart-wyt 1
-west 1
 wennest 1
 moatst 1
 nimsto 1
@@ -1048,3 +1048,8 @@ Hâldst 1
 bus 1
 stoarte 1
 diest 1
+leau 1
+Hast 1
+alris 1
+fyn 1
+leaf 1

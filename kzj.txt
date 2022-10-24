@@ -1,7 +1,7 @@
 do 3237
 zou 1157
 di 938
-no 879
+no 880
 i 774
 Tom 684
 ko 628
@@ -13,7 +13,7 @@ nopo 410
 Au 407
 doid 392
 om 356
-dii 349
+dii 350
 isido 347
 dau 343
 nga 314
@@ -139,13 +139,13 @@ Okon 31
 ziaha' 30
 nangku 30
 koposizon 30
+ino 30
 Jipun 30
 gisom 30
 ngaan 30
 dotokou 29
 haid 29
 ontok 29
-ino 29
 minsingiho 29
 Izou 29
 songkuo 28
@@ -312,6 +312,7 @@ mija 14
 tudizo 14
 Ada 14
 Nomboo 14
+susuzan 14
 hoogo 14
 monuhung 14
 zito 14
@@ -333,7 +334,6 @@ tambahut 13
 kokitanan 13
 talaat 13
 maza 13
-susuzan 13
 pakalaja 13
 Ada' 13
 Mada 13
@@ -6570,3 +6570,4 @@ minsoosodop 1
 Tangatazam 1
 tasu' 1
 kaangaon 1
+Osuvazan 1

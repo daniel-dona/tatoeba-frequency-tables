@@ -53,7 +53,7 @@ aan 69
 kom 69
 Is 69
 toe 66
-Hierdie 65
+Hierdie 66
 hou 62
 se 62
 na 61
@@ -128,11 +128,11 @@ besig 25
 ken 24
 geen 24
 voel 24
+uit 24
 gedoen 24
 weer 24
 lief 23
 gesien 23
-uit 23
 geld 23
 bietjie 23
 soos 23
@@ -281,6 +281,7 @@ boeke 11
 bus 11
 ontmoet 11
 vind 11
+sin 11
 plan 11
 Was 11
 kamer 11
@@ -304,7 +305,6 @@ voël 10
 gou 10
 bel 10
 kwaad 10
-sin 10
 almal 10
 slegs 10
 vroeg 10
@@ -319,6 +319,7 @@ Ek's 10
 vol 10
 sonder 10
 Voëls 10
+ses 9
 hard 9
 verkeerd 9
 bank 9
@@ -349,7 +350,6 @@ onder 9
 hare 9
 seer 9
 verbaas 9
-ses 8
 Haar 8
 vraag 8
 eksamen 8
@@ -967,6 +967,7 @@ datum 3
 Lees 3
 vuur 3
 los 3
+bestaan 3
 geslaap 3
 grap 3
 groei 3
@@ -1379,7 +1380,6 @@ verdien 2
 gunstelling 2
 a 2
 eers 2
-bestaan 2
 slim 2
 verrassings 2
 Hallo 2
@@ -1413,6 +1413,7 @@ Waarheen 2
 badkamer 2
 Gooi 2
 Koppie 2
+woorde 2
 Omdat 2
 Sjinees 2
 Iemand 2
@@ -2799,7 +2800,6 @@ letters 1
 alfabet 1
 slaan 1
 Slaan 1
-woorde 1
 skroef 1
 links 1
 vergange 1
