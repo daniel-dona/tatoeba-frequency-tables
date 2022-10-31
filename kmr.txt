@@ -1,4 +1,4 @@
-Ez 1190
+Ez 1191
 e 1029
 xwe 1025
 min 980
@@ -7,8 +7,8 @@ bi 930
 Ew 811
 li 811
 ê 730
-û 659
-ye 625
+û 660
+ye 626
 ku 596
 Em 542
 Tom 540
@@ -22,7 +22,7 @@ Min 354
 Hûn 300
 di 292
 kir 289
-çi 277
+çi 278
 wê 255
 Ji 250
 em 249
@@ -30,7 +30,7 @@ jî 242
 wî 238
 ez 237
 tu 233
-Ev 227
+Ev 228
 bû 215
 dike 189
 ber 189
@@ -59,7 +59,7 @@ her 136
 We 133
 im 126
 baş 125
-bikim 117
+bikim 118
 bawer 115
 da 115
 tê 115
@@ -138,9 +138,9 @@ nekin 48
 yî 47
 nakim 47
 bide 47
+dikarim 47
 hûn 47
 fêr 46
-dikarim 46
 araste 46
 bin 45
 van 42
@@ -791,6 +791,7 @@ razî 7
 can 7
 Sami 7
 zewicî 7
+zimanekî 7
 Pênc 7
 bişo 7
 odeyê 7
@@ -953,7 +954,6 @@ tî 6
 kulîlk 6
 Tiştekî 6
 kurê 6
-zimanekî 6
 Fransayê 6
 pirtûkên 6
 Jiyan 6
@@ -9139,3 +9139,5 @@ perperokekê 1
 diecibînim 1
 Xeyala 1
 lehengê 1
+fîn 1
+ûgrî 1

@@ -1,7 +1,7 @@
 es 88
-Eo 50
+Eo 52
 yn 37
-rhen 31
+rhen 32
 di 26
 Tomos 26
 Ill 24
@@ -30,6 +30,7 @@ ed 6
 Ty 5
 gran 5
 llifr 5
+mew 5
 nôn 5
 in 5
 Mew 5
@@ -39,6 +40,7 @@ grêdd 5
 Gion 4
 tew 4
 perthir 4
+af 4
 wol 4
 Saesonig 4
 ffelig 4
@@ -51,7 +53,6 @@ Yn 3
 rhys 3
 cath 3
 ddef 3
-mew 3
 ai 3
 pharol 3
 dy 3
@@ -68,6 +69,7 @@ onc 3
 cach 3
 anc 3
 gan 3
+er 3
 digas 3
 ddigas 3
 morth 3
@@ -95,7 +97,6 @@ Yamada 2
 thud 2
 Ô-g 2
 problem 2
-af 2
 Perch 2
 fif 2
 d' 2
@@ -120,7 +121,6 @@ afur 2
 Dew 2
 gwirdd 2
 e 2
-er 2
 'armenar 2
 h-ôn 2
 ysp 2
@@ -376,3 +376,7 @@ bugun 1
 geidd 1
 ddew 1
 whisky 1
+Iesu 1
+cristian 1
+h-efed 1
+efed 1

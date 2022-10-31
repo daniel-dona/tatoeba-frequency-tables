@@ -1,4 +1,4 @@
-je 351
+je 353
 v 111
 se 98
 sem 89
@@ -20,12 +20,12 @@ Ali 31
 To 28
 z 25
 zelo 25
+lahko 25
 Mary 25
 Jaz 24
-lahko 24
 ki 24
 to 23
-Kaj 22
+Kaj 23
 bil 20
 moj 18
 bom 18
@@ -142,6 +142,7 @@ nisem 5
 dal 5
 zakaj 5
 moral 5
+mesto 5
 ljudi 5
 kako 5
 nisi 5
@@ -192,7 +193,6 @@ fant 4
 reko 4
 ljubim 4
 glavno 4
-mesto 4
 tej 4
 zgodilo 4
 šel 4
@@ -472,6 +472,7 @@ Nič 2
 mami 2
 Upam 2
 deževalo 2
+lepo 2
 Za 2
 zimo 2
 večnost 2
@@ -613,6 +614,7 @@ ubil 2
 želi 2
 vseh 2
 presenetilo 2
+naredim 2
 telefon 2
 resnih 2
 LA 2
@@ -659,6 +661,7 @@ varni 2
 žiti" 2
 Kupil 2
 peljal 2
+otok 2
 slišal 2
 imena 2
 narediti 2
@@ -1207,7 +1210,6 @@ veš 1
 zaprejo 1
 odprejo 1
 plačal 1
-lepo 1
 vreme 1
 manjka 1
 pride 1
@@ -1939,7 +1941,6 @@ puliš 1
 tja 1
 skupaj 1
 grize 1
-naredim 1
 plažo 1
 gledališče 1
 poveste 1
@@ -2107,7 +2108,6 @@ verjame 1
 Sovražniki 1
 Nameravam 1
 Sumatra 1
-otok 1
 Lesene 1
 plošče 1
 lažje 1
@@ -2482,3 +2482,5 @@ metulja 1
 rock'n'roll 1
 pomil 1
 pomila 1
+Islandija 1
+Rim 1

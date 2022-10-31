@@ -1,4 +1,4 @@
-je 1600
+je 1601
 se 597
 u 538
 sam 447
@@ -7,7 +7,7 @@ li 382
 na 315
 ne 276
 Tom 270
-i 229
+i 230
 su 205
 mi 201
 Ne 190
@@ -29,12 +29,12 @@ bi 93
 Ona 88
 ću 87
 Ja 86
-Što 82
+Što 83
 bio 81
 biti 72
 o 69
 ga 68
-mogu 63
+mogu 64
 Jesi 62
 više 60
 nego 60
@@ -132,12 +132,12 @@ engleski 25
 godine 25
 Mislim 25
 već 25
+učiniti 25
 malo 24
 Molim 24
 vas 24
 dvije 24
 možeš 24
-učiniti 24
 dobar 23
 Ta 23
 joj 23
@@ -423,6 +423,7 @@ novi 9
 protiv 9
 kroz 9
 postati 9
+između 9
 Izgleda 9
 hranu 9
 Život 9
@@ -491,7 +492,6 @@ razumjeti 8
 Imamo 8
 jezika 8
 sebe 8
-između 8
 sin 8
 igrati 8
 dječaka 8
@@ -518,6 +518,7 @@ pet 7
 ljubav 7
 zato 7
 kćeri 7
+Koja 7
 omiljeni 7
 tobom 7
 dolara 7
@@ -596,7 +597,6 @@ Pušenje 6
 Vi 6
 ljubavi 6
 imati 6
-Koja 6
 Yorku 6
 Daj 6
 spreman 6
@@ -2421,6 +2421,7 @@ pogledu 2
 dosadno 2
 dolaziš 2
 rijeke 2
+razlika 2
 značajna 2
 tajne 2
 jednostavna: 2
@@ -5612,7 +5613,6 @@ piši 1
 njemačkom 1
 pamtiš 1
 osnovnom 1
-razlika 1
 uglednim 1
 ''znatan'' 1
 ''bitan'' 1
@@ -8057,3 +8057,5 @@ Dubina 1
 desetak 1
 svjedoka 1
 Jemenu 1
+džuda 1
+džiju-džice 1

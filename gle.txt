@@ -1,8 +1,8 @@
-an 624
-Tá 600
+an 626
+Tá 601
 a 599
-mé 386
-ag 377
+mé 387
+ag 378
 Is 321
 é 260
 ar 229
@@ -17,7 +17,7 @@ agam 165
 Níl 158
 liom 146
 i 125
-mo 120
+mo 121
 le 103
 na 100
 maith 95
@@ -28,16 +28,16 @@ Bhí 85
 Tomás 79
 atá 74
 Tom 74
-sa 72
+sa 73
 leat 69
 is 69
 rud 68
 sí 68
 orm 66
 féidir 63
+Táim 60
 agat 60
 mhaith 60
-Táim 59
 agus 56
 raibh 55
 ann 55
@@ -57,9 +57,9 @@ aon 40
 duit 40
 ach 39
 gach 38
+ina 38
 in 37
 Cé 37
-ina 37
 nach 36
 anseo 35
 obair 35
@@ -105,6 +105,7 @@ dtí 19
 Béarla 19
 aige 19
 aici 19
+chónaí 19
 ea 19
 chlog 19
 Gaeilge 19
@@ -113,7 +114,6 @@ léamh 18
 carr 18
 Thug 18
 dó 18
-chónaí 18
 abhaile 18
 madra 18
 thoil 17
@@ -342,6 +342,7 @@ deas 6
 beag 6
 á 6
 Ceapaim 6
+chuig 6
 lena 6
 D'éirigh 6
 A 6
@@ -379,6 +380,7 @@ Ithim 5
 airde 5
 súile 5
 haon 5
+imirt 5
 hÉire 5
 ard 5
 t-uisce 5
@@ -387,6 +389,7 @@ canadh 5
 ndeachaigh 5
 géar 5
 déanta 5
+chathair 5
 féachaint 5
 teilifís 5
 uait 5
@@ -406,7 +409,6 @@ Itheann 5
 fhadhb 5
 eolas 5
 solas 5
-chuig 5
 dtoil 5
 cúpla 5
 abhainn 5
@@ -490,7 +492,6 @@ ceannach 4
 mhac 4
 caitheamh 4
 Scríobh 4
-imirt 4
 Bí 4
 glan 4
 dorcha 4
@@ -499,7 +500,6 @@ Chuirfeadh 4
 inár 4
 choinneáil 4
 déanach 4
-chathair 4
 locht 4
 saol 4
 ceol 4
@@ -558,6 +558,7 @@ bronntanas 3
 gnóthach 3
 cosc 3
 laethanta 3
+Téim 3
 Pól 3
 fheicim 3
 bhuaigh 3
@@ -755,7 +756,6 @@ timpeall 2
 amadán 2
 stop 2
 Jack 2
-Téim 2
 phoist 2
 lár 2
 Bhain 2
@@ -991,6 +991,7 @@ Peann 2
 Bain 2
 thit 2
 D'fhéach 2
+troid 2
 iomarca 2
 ama 2
 Faoi 2
@@ -1819,7 +1820,6 @@ feitis 1
 meangadh 1
 éiróidh 1
 sibhse 1
-troid 1
 chlann 1
 fhoirgneamh 1
 Chuimil 1
@@ -2898,3 +2898,7 @@ mba 1
 mhalairt 1
 thuigimid 1
 rudaidhe 1
+theaghlach 1
+Bhuaigh 1
+bhfiaclóir 1
+gailf 1

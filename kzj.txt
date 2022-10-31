@@ -1,10 +1,10 @@
 do 3237
-zou 1157
+zou 1158
 di 938
 no 880
 i 774
 Tom 684
-ko 628
+ko 629
 ku 620
 o 573
 id 453
@@ -29,9 +29,9 @@ Mary 168
 dogo 165
 kozo 158
 tuhun 155
+daa 149
 kumaa 148
 zikoi 148
-daa 148
 Au' 141
 tokou 140
 tu 137
@@ -90,10 +90,10 @@ Iti 48
 Nunu 47
 insan 47
 jaam 46
+Nokuo 46
 nodii 46
 kusai 45
 mangakan 45
-Nokuo 45
 Noikot 45
 miaga 45
 dioho 44
@@ -101,8 +101,8 @@ pogun 44
 suvab 44
 Nung 44
 hobi 44
+tu' 44
 tanak 43
-tu' 43
 iso 42
 tagazo 42
 kivaa 41
@@ -514,6 +514,7 @@ kazu 8
 pakaazan 8
 toniini 8
 kobohingkangan 8
+tokuudi 8
 kalatas 8
 Maamaso 8
 Vuhan 8
@@ -567,7 +568,6 @@ poguhuui 7
 Sunudai 7
 diaho' 7
 kohigaganan 7
-tokuudi 7
 tuni 7
 Oluo 7
 ounsikou 7
@@ -894,6 +894,7 @@ agazo 4
 tumingkod 4
 pakakalaja 4
 wayang 4
+Mokituhung 4
 Kounsikaan 4
 tangambahut 4
 bobooson 4
@@ -1044,6 +1045,7 @@ moginazakan 4
 tohingo 4
 binohizan 4
 kono 4
+kodimpot 4
 Saviavi 4
 Alice 4
 Minimbalajal 4
@@ -1135,7 +1137,6 @@ nohiivan 3
 umohig 3
 Tudukai 3
 kilo 3
-Mokituhung 3
 sikapo 3
 ohou 3
 Nazakan 3
@@ -1408,7 +1409,6 @@ Ivangai 3
 somok 3
 naavuk 3
 Titiakan 3
-kodimpot 3
 Tumingkod 3
 dumbangan 3
 Spiritu 3
