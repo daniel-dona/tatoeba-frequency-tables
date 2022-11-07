@@ -34,7 +34,7 @@ bio 81
 biti 72
 o 69
 ga 68
-mogu 64
+mogu 65
 Jesi 62
 više 60
 nego 60
@@ -61,8 +61,8 @@ kao 45
 bila 45
 nešto 44
 on 43
+Gdje 43
 jako 43
-Gdje 42
 Kako 41
 dan 41
 svoje 41
@@ -186,6 +186,7 @@ Ako 19
 došao 19
 god 19
 Nemam 19
+ovu 19
 Imaš 19
 Ima 19
 kad 19
@@ -198,7 +199,6 @@ Jučer 18
 Taj 18
 Sve 18
 Želiš 18
-ovu 18
 problem 18
 sati 18
 zbog 18
@@ -1617,6 +1617,7 @@ pišemo 3
 narodnosti 3
 slovom 3
 engleskome 3
+kutiju 3
 dovršio 3
 probudi 3
 rat 3
@@ -2657,7 +2658,6 @@ Budite 2
 Betty 2
 Ubiti 2
 Ubio 2
-kutiju 2
 opcije 2
 dolje 2
 pio 2
@@ -8059,3 +8059,4 @@ svjedoka 1
 Jemenu 1
 džuda 1
 džiju-džice 1
+staviti 1

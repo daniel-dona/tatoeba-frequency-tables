@@ -1,9 +1,9 @@
-isch 412
+isch 413
 I 291
 ned 214
 Tom 186
 i 185
-dr 155
+dr 157
 ond 149
 du 144
 hôd 129
@@ -31,7 +31,7 @@ dees 66
 de 63
 Wenn 63
 sai 62
-wenn 61
+wenn 62
 am 60
 von 58
 was 57
@@ -337,6 +337,7 @@ Där 7
 Menschä 7
 mrs 7
 Läbä 7
+Wäld 7
 ghedd 7
 mog 6
 Bisch 6
@@ -390,7 +391,6 @@ gärn 6
 Mose 6
 reich 6
 amôl 6
-Wäld 6
 Wia 6
 är 6
 heid 6
@@ -466,6 +466,7 @@ mechd 5
 Ziel 5
 gegä 5
 sondrn 5
+Jedr 5
 bidde 5
 Fraindin 5
 gsähå 5
@@ -584,13 +585,13 @@ sollat 4
 zwoide 4
 ibrhaubd 4
 zviel 4
+drauf 4
 drnôch 4
 mecht 4
 kenned 4
 kôsch 4
 Koi 4
 Vrschdand 4
-Jedr 4
 Schweschdr 4
 ferdig 4
 Wiå 4
@@ -743,6 +744,7 @@ eahne 3
 ächt 3
 Wassr 3
 hoißd 3
+Gockel 3
 kois 3
 bald 3
 hådd 3
@@ -807,7 +809,6 @@ kä 3
 kald 3
 Isĉ 3
 Kôsch 3
-drauf 3
 zuä 3
 kommä 3
 schdolz 3
@@ -1170,7 +1171,6 @@ Malz 2
 Schraub 2
 Schbiel 2
 sechs 2
-Gockel 2
 Blatz 2
 uffschdanda“ 2
 wenns 2
@@ -5369,3 +5369,7 @@ Henna 1
 Schmiera 1
 Salba 1
 helfat 1
+Mischdhaufa 1
+s'Zendrum 1
+richtige 1
+kräht 1

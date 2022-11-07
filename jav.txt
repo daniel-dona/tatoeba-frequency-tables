@@ -1,6 +1,6 @@
 Aku 120
 ora 108
-Tom 98
+Tom 99
 sing 62
 iku 42
 aku 41
@@ -17,12 +17,12 @@ kudu 22
 wis 22
 seneng 21
 dhéwé 20
+basa 20
 menyang 19
 apa 19
 isa 19
 bakal 19
 arep 19
-basa 19
 dhèwèké 18
 nang 16
 dudu 16
@@ -48,6 +48,7 @@ Ana 11
 lan 11
 lagi 11
 kabèh 11
+sinau 11
 Mèri 11
 punika 10
 ngerti 10
@@ -55,18 +56,17 @@ Kowe 10
 gawé 10
 buku 10
 tau 10
-sinau 10
 ngomong 9
 wonten 9
 Panjenengan 9
 Awak 9
+dina 9
 Apa 9
 endi 9
 kowe 8
 luwih 8
 boten 8
 tak 8
-dina 8
 teka 8
 akèh 8
 ning 8
@@ -97,6 +97,7 @@ Sugeng 6
 asalé 6
 Wingi 5
 awakmu 5
+saben 5
 lara 5
 dolanan 5
 minggu 5
@@ -110,6 +111,7 @@ tuku 5
 gelem 5
 tindak 5
 dhateng 5
+Prancis 5
 ngendi 5
 asu 5
 Indhonésia 5
@@ -124,7 +126,6 @@ mlayu 4
 metu 4
 telu 4
 sanga 4
-saben 4
 ngrungokaké 4
 kanca 4
 kenal 4
@@ -152,7 +153,6 @@ maca 4
 Sampéyan 4
 loro 4
 Kabèh 4
-Prancis 4
 Ayo 4
 dhéwéké 4
 Jam 4
@@ -1628,3 +1628,4 @@ deres 1
 dèrèng 1
 ꦏꦸꦭꦢꦺꦫꦺꦁꦱꦒꦼꦢ꧀ꦔꦺꦴꦩꦺꦴꦁꦧꦱꦅꦤ꧀ꦝꦺꦴꦤꦺꦱꦾꦭꦚ꧀ꦕꦂ꧉ 1
 ꦲꦏꦸꦢꦸꦫꦸꦁꦲꦶꦱꦔꦺꦴꦩꦺꦴꦁꦧꦱꦅꦤ꧀ꦝꦺꦴꦤꦺꦱꦾꦭꦚ꧀ꦕꦂ꧉ 1
+ꦠꦺꦴꦩ꧀ꦱꦧꦼꦤ꧀ꦢꦶꦤꦱꦶꦤꦲꦸꦧꦱꦥꦿꦚ꧀ꦕꦶꦱ꧀꧈ 1

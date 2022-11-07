@@ -1,8 +1,8 @@
-es 5847
+es 5848
 la 5403
-ia 4519
+ia 4520
 de 3629
-un 3190
+un 3191
 ла 2802
 ес 2728
 Me 2413
@@ -104,7 +104,7 @@ jua 209
 vos 208
 mundo 208
 туа 204
-Cual 201
+Cual 202
 padre 198
 фа 196
 бон 194
@@ -2352,6 +2352,7 @@ revide 6
 adirije 6
 mediadia 6
 coda 6
+asendador 6
 distantia 6
 sembla 6
 sal 6
@@ -2374,6 +2375,7 @@ campos 6
 Vera 6
 oveas 6
 matada 6
+inventa 6
 aresta 6
 libri 6
 separa 6
@@ -2685,7 +2687,6 @@ clama 5
 transporta 5
 demente 5
 cortinas 5
-asendador 5
 oscuria 5
 29 5
 portante 5
@@ -2715,7 +2716,6 @@ fonte 5
 vijila 5
 es: 5
 coleria 5
-inventa 5
 violente 5
 envolveda 5
 publica 5
@@ -5066,6 +5066,7 @@ visitores 2
 bagaje 2
 rus 2
 vomita 2
+Twitter 2
 alega 2
 sofito 2
 postas 2
@@ -6900,6 +6901,7 @@ barbas 2
 Carl 2
 motosiera 2
 Relatas 2
+spasial 2
 stange 2
 pruri 2
 beleta 2
@@ -7395,7 +7397,6 @@ Shi 1
 Dongpeng 1
 plataformas 1
 lejores 1
-Twitter 1
 baliante 1
 Feng 1
 Zhe 1
@@ -9997,4 +9998,3 @@ otodes-tre 1
 асентуа 1
 мелодиа 1
 перкуте 1
-Боло 1

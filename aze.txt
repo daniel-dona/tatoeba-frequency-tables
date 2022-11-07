@@ -61,10 +61,10 @@ etdi 34
 Toma 34
 məni 33
 Nə 32
+yox 32
 Bizim 32
 kitab 32
 alma 32
-yox 31
 hələ 31
 onun 31
 bilmirəm 31
@@ -202,6 +202,7 @@ istərdim 13
 qan 13
 pis 12
 lüğət 12
+İt 12
 bilər 12
 iş 12
 yeyir 12
@@ -221,7 +222,6 @@ gəlmişsiniz 11
 asan 11
 gedirəm 11
 qırmızı 11
-İt 11
 Burada 11
 Məni 11
 Gəl 11
@@ -239,6 +239,7 @@ olmasa 11
 onların 11
 xoşuna 11
 bizə 11
+Avropa 11
 ev 11
 buna 11
 Alma 10
@@ -260,7 +261,6 @@ yalan 10
 biri 10
 zəhləm 10
 Merinin 10
-Avropa 10
 görünür 9
 yeməyi 9
 zəhləsi 9
@@ -1346,6 +1346,7 @@ siçanı 2
 məhduddur 2
 qoy 2
 İtin 2
+əlimi 2
 Ştatları 2
 Cavab 2
 öyrənir 2
@@ -2354,6 +2355,7 @@ Ailəm 2
 bric 2
 Sonra 2
 yatdığını 2
+çalışdı 2
 yağsa 2
 piknik 2
 ediləcək 2
@@ -2407,7 +2409,6 @@ kürə 1
 vaxtımız 1
 getmə 1
 cibinə 1
-əlimi 1
 dişlədi 1
 min 1
 Şimal 1
@@ -7444,7 +7445,6 @@ kəpənək 1
 uşaqların 1
 diqqətini 1
 cəlb 1
-çalışdı 1
 Televiziyanın 1
 azalda 1
 çirkindir 1
@@ -7462,3 +7462,4 @@ sudur 1
 olmadığı 1
 müddətcə 1
 şəkərdən 1
+dişləməyə 1
