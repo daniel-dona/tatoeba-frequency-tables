@@ -1,8 +1,8 @@
 is 245
-Ich 195
+Ich 196
 en 143
-Tom 103
-hod 91
+Tom 104
+hod 92
 net 79
 Das 76
 die 72
@@ -16,7 +16,7 @@ De 44
 wees 44
 Sie 43
 Er 40
-Meer 39
+Meer 40
 aan 37
 Aadler 34
 waar 32
@@ -88,6 +88,7 @@ Kann-ich 9
 aarich 9
 dem 9
 dart 9
+aus 9
 Loch 9
 hinnich 9
 Karre 8
@@ -120,7 +121,6 @@ Sami 7
 mache 7
 bist 7
 Ovend 7
-aus 7
 Bang 7
 Muskitte 7
 griene 7
@@ -138,6 +138,7 @@ so 6
 eere 6
 gesihn 6
 immer 6
+gebb 6
 werre 6
 Weck 6
 ohne 6
@@ -162,7 +163,6 @@ Mach 5
 host-du 5
 sie 5
 krieerd 5
-gebb 5
 Hod 5
 for 5
 meim 5
@@ -220,6 +220,7 @@ glaabd 4
 wieder 4
 Hand 4
 sihn 4
+gemach 4
 scheen 4
 waare 4
 gefall 4
@@ -227,8 +228,10 @@ Wowo 4
 gehob 4
 denke 4
 Ent 4
+Brod 4
 gleich 4
 Wem 4
+Gaul 4
 abhaue 4
 abrasseerd 4
 Zeen 4
@@ -241,6 +244,7 @@ Franzeesisch 4
 Flitte 4
 fliehe 4
 drehd 4
+werd 4
 bereie 4
 Fiel 4
 sihd 4
@@ -321,7 +325,6 @@ Abaschur 3
 Boston 3
 werklich 3
 nie 3
-Brod 3
 Angst 3
 beise 3
 eerst 3
@@ -331,7 +334,6 @@ noh 3
 bis 3
 Leve 3
 Abgrund 3
-Gaul 3
 Abrass 3
 Gebb 3
 wohne 3
@@ -372,6 +374,7 @@ Kamiong 2
 Millich 2
 Zucker 2
 sauer 2
+Milje 2
 Zeich 2
 lebd 2
 Bett 2
@@ -451,7 +454,6 @@ Raabfeghel 2
 Feghel 2
 soll 2
 hoffe 2
-gemach 2
 dass-er 2
 gewunn 2
 fersughe 2
@@ -541,7 +543,6 @@ Fleisch 2
 faare 2
 nenne 2
 gesuchd 2
-werd 2
 gedenkd 2
 Nee 2
 Winsch 2
@@ -578,6 +579,7 @@ Iwermoie 2
 oft 2
 ob-se 2
 Weest-du 2
+Weize 2
 nunnergeschmiss 1
 zieh-ich 1
 schlofd 1
@@ -599,7 +601,6 @@ Macht 1
 Kriegh 1
 groser 1
 Hinkel 1
-Milje 1
 provokantisches 1
 levende 1
 Ratte 1
@@ -1350,3 +1351,9 @@ Raat 1
 Schicksal 1
 Glaab 1
 rin 1
+Rocke 1
+ernte 1
+Meel 1
+seinem 1
+Hawer 1
+planze 1

@@ -1,7 +1,7 @@
-est 9431
+est 9433
 et 4611
 in 4220
-Thomas 3302
+Thomas 3303
 non 3174
 sunt 2067
 ad 1659
@@ -12,13 +12,13 @@ sum 1262
 me 1139
 ut 1072
 quam 984
-te 924
+te 925
 tibi 921
 Maria 919
 cum 898
 de 841
 Ubi 806
-Quid 765
+Quid 766
 es 733
 se 719
 Didymus 685
@@ -99,7 +99,7 @@ Ego 237
 librum 236
 nomen 235
 Ad 234
-Nonne 233
+Nonne 234
 Mariae 233
 meam 232
 Qui 231
@@ -131,8 +131,8 @@ enim 195
 nec 193
 vult 193
 vis 189
+habitat 189
 quoque 188
-habitat 188
 tam 188
 Omnes 187
 quia 184
@@ -851,6 +851,7 @@ Hanc 39
 ēmistī 39
 genus 39
 Pona 39
+dives 39
 cotidie 39
 audivi 39
 simul 39
@@ -869,7 +870,6 @@ reliquit 38
 facies 38
 Venit 38
 posuit 38
-dives 38
 Dominum 38
 Utinam 38
 debes 38
@@ -1004,6 +1004,7 @@ teniludio 33
 glossarium 33
 Novum 33
 parentibus 33
+scis 33
 nescit 33
 manibus 33
 puerum 33
@@ -1033,7 +1034,6 @@ Quibus 32
 nostram 32
 Caelum 32
 dedi 32
-scis 32
 Proximo 32
 Die 32
 Didymi 32
@@ -1044,6 +1044,7 @@ Fuistine 32
 habuit 32
 celeriter 32
 pulsavit 32
+uti 32
 Manus 31
 vincit 31
 potui 31
@@ -1065,7 +1066,6 @@ tertio 31
 matris 31
 domini 31
 ultra 31
-uti 31
 Res 31
 Putabam 31
 suæ 31
@@ -2209,6 +2209,7 @@ capite 15
 vicesimo 15
 tristis 15
 vīs 15
+Prope 15
 loquerer 15
 interfecit 15
 numerum 15
@@ -2344,7 +2345,6 @@ photographica 14
 momordit 14
 manebo 14
 librōs 14
-Prope 14
 reficere 14
 Esperanticam 14
 Bis 14
@@ -3153,6 +3153,7 @@ nigram 10
 poeta 10
 Fratrem 10
 Magni 10
+Hannibal 10
 sumunt 10
 sumimus 10
 Bibisne 10
@@ -3458,6 +3459,7 @@ ver 9
 Fama 9
 dei 9
 Labor 9
+nescis 9
 estne 9
 negotium 9
 docent 9
@@ -3501,7 +3503,6 @@ noscere 9
 Domina 9
 arboribus 9
 stellam 9
-Hannibal 9
 antea 9
 praeceptor 9
 lavo 9
@@ -3823,7 +3824,6 @@ astra 8
 salutant 8
 Vae 8
 victis 8
-nescis 8
 debita 8
 alienum 8
 Caesaris 8
@@ -4065,6 +4065,7 @@ visu 8
 Lux 8
 aquaticum 8
 edebam 8
+victoria 8
 stetit 8
 amitam 8
 iustum 8
@@ -4586,7 +4587,6 @@ admodum 7
 tuum; 7
 lapidibus 7
 Sex 7
-victoria 7
 vestes 7
 morbus 7
 longas 7
@@ -6078,6 +6078,7 @@ patellae 5
 Nil 5
 Vocem 5
 aegroto 5
+Vincere 5
 incipe 5
 mortuos 5
 Iapones 5
@@ -7351,7 +7352,6 @@ domō 4
 audivimus 4
 pulchritudinem 4
 Sacculum 4
-Vincere 4
 Anima 4
 Meum 4
 ducam 4

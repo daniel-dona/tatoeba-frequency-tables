@@ -12,7 +12,7 @@ Tu 2701
 ir 2692
 savo 2683
 Mes 2527
-su 2347
+su 2348
 buvo 2311
 tai 2213
 Tai 2103
@@ -254,7 +254,7 @@ jiems 169
 kurie 169
 viskas 168
 visiškai 167
-laiku 166
+laiku 167
 Taip 164
 kitą 164
 Į 164
@@ -668,6 +668,7 @@ važiuoti 64
 išmokti 64
 tikiuosi 64
 žodžio 64
+ateina 64
 Juk 64
 Galvoju 64
 mokausi 64
@@ -678,7 +679,6 @@ nemoka 63
 pavogė 63
 Jų 63
 miestas 63
-ateina 63
 trūksta 63
 sakiau 63
 sėdėjo 63

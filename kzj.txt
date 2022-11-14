@@ -1,13 +1,13 @@
 do 3237
-zou 1158
-di 938
+zou 1159
+di 939
 no 880
 i 774
 Tom 684
 ko 629
-ku 620
+ku 621
 o 573
-id 453
+id 454
 nu 430
 nopo 410
 Au 407
@@ -49,8 +49,8 @@ tadau 103
 ka 102
 ginavo 98
 diho 96
+miampai 95
 ih 94
-miampai 94
 nga' 90
 au' 88
 disido 88
@@ -202,6 +202,7 @@ miho 21
 nomboo 21
 saviavi 21
 Miaga 21
+Mugad 21
 Boston 21
 Di 21
 tikid 20
@@ -210,7 +211,6 @@ kuukuamaon 20
 monongkiboos 20
 kosodop 20
 zapa 20
-Mugad 20
 guminavo 20
 apatut 19
 kangku 19
@@ -553,6 +553,7 @@ linaat 8
 Kantonis 8
 sondii' 8
 taakanan 8
+pongku 8
 Tuminihombus 8
 otomou 8
 piovit-ovit 8
@@ -618,7 +619,6 @@ filim 7
 zotiho 7
 toodoon 7
 tozibut 7
-pongku 7
 kokuamaon 7
 Ziri 7
 oubas 6
@@ -2411,6 +2411,7 @@ kosuvab 2
 kudi 2
 sodto' 2
 zotokou 2
+tomu 2
 Uminasam 2
 metro 2
 gagut 2
@@ -6125,7 +6126,6 @@ kotigog 1
 Ongokilou-kilou 1
 buhavan 1
 Duminagang 1
-tomu 1
 puhasa 1
 mamahangga 1
 Kiatusan 1

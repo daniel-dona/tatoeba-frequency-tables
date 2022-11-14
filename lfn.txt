@@ -1,4 +1,4 @@
-es 5848
+es 5849
 la 5403
 ia 4520
 de 3629
@@ -68,7 +68,7 @@ par 337
 bon 326
 Mea 322
 sur 321
-come 319
+come 320
 On 317
 суа 316
 пер 313
@@ -104,7 +104,7 @@ jua 209
 vos 208
 mundo 208
 туа 204
-Cual 202
+Cual 203
 padre 198
 фа 196
 бон 194
@@ -1029,6 +1029,7 @@ masca 17
 Con 17
 importa 17
 Fa 17
+talietas 17
 sidra 17
 radio 17
 turces 17
@@ -1076,7 +1077,6 @@ Roma 16
 seria 16
 maladia 16
 broma 16
-talietas 16
 emisfera 16
 ерас 16
 пронто 16
@@ -1134,6 +1134,7 @@ gas 15
 fenetras 15
 pesosa 15
 inverno 15
+Libri 15
 composada 15
 enorme 15
 medical 15
@@ -1198,7 +1199,6 @@ survive 14
 nove 14
 atletas 14
 campion 14
-Libri 14
 supramercato 14
 campo 14
 cavalos 14
@@ -4698,6 +4698,7 @@ mentes 3
 ментес 3
 Cambia 3
 diferes 3
+iudisme 3
 politiciste 3
 deser 3
 capelblanca 3
@@ -6597,7 +6598,6 @@ Atenta 2
 Atina 2
 nonmortal 2
 bisikle 2
-iudisme 2
 Epstein 2
 Hashimoto 2
 iamani 2
@@ -6609,6 +6609,7 @@ Seso 2
 caci 2
 Bruxelles 2
 vada 2
+Este 2
 realosa 2
 despermete 2
 viruses 2
@@ -9997,4 +9998,3 @@ otodes-tre 1
 деривада 1
 асентуа 1
 мелодиа 1
-перкуте 1

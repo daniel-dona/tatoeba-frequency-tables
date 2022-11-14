@@ -1,9 +1,9 @@
-es 226
+es 227
 un 124
 Tom 100
 El 91
 en 86
-el 80
+el 81
 de 75
 no 75
 איס 72
@@ -46,9 +46,9 @@ Sos 16
 Dio 16
 אין 16
 לוס 16
+las 15
 djudio 15
 מי 15
-las 14
 inglez 14
 mansana 14
 so 14
@@ -85,6 +85,7 @@ ambezando 10
 Ladino 9
 del 9
 le 9
+linguas 9
 komo 9
 Mozotros 9
 paras 9
@@ -103,7 +104,6 @@ En 8
 avla 8
 kolorada 8
 si 8
-linguas 8
 plazen 8
 Moro 8
 Komo 8
@@ -244,6 +244,7 @@ puedo 4
 ambos 4
 גﬞודﬞייו 4
 Ido 4
+Amo 4
 avlan 4
 nona 4
 yidish 4
@@ -273,6 +274,7 @@ merkamos 3
 kompramos 3
 Mozotras 3
 keresh 3
+Kualo 3
 tengo 3
 parientes 3
 sosh 3
@@ -345,7 +347,6 @@ vidas 3
 בﬞידﬞאס 3
 אימפורטאנטיס 3
 אידו 3
-Amo 3
 אמו 3
 אירמוזו 3
 אונדי 3
@@ -425,7 +426,6 @@ kompran 2
 merkan 2
 merkash 2
 komprash 2
-Kualo 2
 nada 2
 soledad 2
 bueno 2
@@ -1703,3 +1703,5 @@ maraviyozas 1
 מאראב׳ייוזאס 1
 mujeres 1
 egziste 1
+Djudaizmo 1
+bereberes 1

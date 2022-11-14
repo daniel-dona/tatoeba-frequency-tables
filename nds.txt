@@ -1,24 +1,24 @@
-is 3197
+is 3198
 Ik 3191
 dat 2758
-en 2503
-de 2464
+en 2504
+de 2466
 nich 1925
 du 1674
-hett 1593
-He 1471
+hett 1595
+He 1472
 in 1451
 De 1398
 to 1315
-Dat 1267
+Dat 1268
 heff 1240
 ik 1213
-Se 1143
+Se 1144
 ’n 1073
 mi 1050
 un 879
 von 844
-mit 771
+mit 772
 as 769
 op 716
 di 655
@@ -36,7 +36,7 @@ den 498
 Wat 485
 hebbt 485
 bün 484
-sien 475
+sien 476
 för 463
 ehr 462
 keen 450
@@ -46,8 +46,8 @@ kann 437
 ’t 420
 ut 418
 dor 396
+se 396
 so 395
-se 395
 sik 367
 een 358
 dien 357
@@ -96,7 +96,7 @@ doon 183
 jüst 178
 wesen 176
 seggt 172
-schall 170
+schall 171
 geiht 168
 temlich 164
 lang 164
@@ -106,9 +106,9 @@ Wenn 159
 dree 158
 all 155
 In 155
+wull 154
 eten 154
 Lüüd 153
-wull 153
 Ria 153
 dit 152
 nu 150
@@ -160,11 +160,11 @@ Broder 97
 oold 96
 maken 94
 Maand 92
+Engelsch 91
 wullt 91
+seggen 90
 Deern 90
-Engelsch 90
 snacken 90
-seggen 89
 kannst 89
 Froo 88
 Week 88
@@ -173,10 +173,10 @@ Mann 87
 Böker 87
 Stad 86
 Fründ 85
+schreven 85
 Wannehr 85
 Büst 84
 dissen 84
-schreven 84
 gau 84
 elk 83
 bruukt 83
@@ -300,6 +300,7 @@ jung 51
 Spraak 50
 geev 50
 Fisch 50
+Sünndag 50
 Boom 50
 Dollar 50
 vergangen 50
@@ -308,13 +309,13 @@ buten 49
 Peerd 49
 doodbleven 49
 leed 49
-Sünndag 49
 grote 49
 Minuten 49
 harrn 49
 dicht 49
 ’keen 49
 lett 48
+Söhn 48
 koold 48
 weg 48
 achter 47
@@ -323,7 +324,6 @@ Güstern 47
 Frünnen 47
 Barg 47
 swoor 47
-Söhn 47
 Nüms 47
 Wohrheid 47
 joon 46
@@ -427,6 +427,7 @@ hoog 34
 woneem 34
 lütte 34
 Frünn 34
+söcht 34
 Dochter 33
 woll 33
 Wees 33
@@ -442,7 +443,6 @@ anner 33
 Dien 33
 Stünn 33
 Hunnen 33
-söcht 33
 her 33
 gistern 33
 Do 32
@@ -650,6 +650,7 @@ trurig 22
 Bööm 22
 Keerl 22
 anfangen 21
+up 21
 leef 21
 düssen 21
 Jim 21
@@ -685,7 +686,7 @@ Ook 21
 Reeg 21
 kort 21
 Kleed 21
-up 20
+sä 21
 Saken 20
 slöppt 20
 wunnen 20
@@ -714,7 +715,6 @@ leeg 20
 Idee 20
 Autos 20
 Lehrer 20
-sä 20
 ick 19
 Krankenhuus 19
 dacht 19
@@ -1342,6 +1342,7 @@ narms 9
 flütt 9
 küsst 9
 dwungen 9
+an’n 9
 Appeln 9
 hüüt 9
 Fru 9
@@ -1473,7 +1474,6 @@ naakd 8
 Fro 8
 künnt 8
 in’e 8
-an’n 8
 antogen 8
 läsen 8
 schüllt 8
@@ -1838,6 +1838,7 @@ dropen 6
 ju 6
 oft 6
 Lamm 6
+vergäten 6
 hiut 6
 Diutsch 6
 häb 5
@@ -2108,7 +2109,6 @@ freuh 5
 passert 5
 teemlich 5
 koolt 5
-vergäten 5
 polter 5
 Fähler 5
 gäven 5
@@ -3230,6 +3230,7 @@ wiet 3
 half 3
 ünnerholen 3
 Düsseldorf 3
+buut 3
 togen 3
 or 3
 Wor 3
@@ -4695,7 +4696,6 @@ op’t 2
 an“ – 2
 Kauken 2
 Telefonnummer 2
-buut 2
 Mainz 2
 Bonn 2
 Wölkeen 2

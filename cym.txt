@@ -20,7 +20,7 @@ yr 63
 hi'n 61
 fy 59
 bod 59
-chi 56
+chi 57
 Wyt 51
 am 51
 Mary 48
@@ -288,6 +288,7 @@ chi’n 5
 iddi 5
 O 5
 dechrau 5
+Fe 5
 bach 5
 pan 5
 erbyn 5
@@ -364,7 +365,6 @@ selsig 4
 ti’n 4
 Da 4
 pryd 4
-Fe 4
 marw 4
 Tomas 4
 dangos 4
@@ -541,6 +541,8 @@ onid 3
 gwbl 3
 crys 3
 Oedd 3
+ni'r 3
+oddi 3
 defnyddio 3
 ngardd 3
 Garddwr 3
@@ -876,13 +878,11 @@ cysgu'n 2
 ormod 2
 ffilmiau 2
 baswn 2
-ni'r 2
 ddywedodd 2
 welodd 2
 Donald 2
 Trump 2
 gancr 2
-oddi 2
 Stopiwch 2
 leidr 2
 gynni 2
@@ -2466,3 +2466,6 @@ Ti 1
 cwsg 1
 Bendigedig 1
 bynnag 1
+ddysgon 1
+ffyrnigrwydd 1
+wrthoch 1

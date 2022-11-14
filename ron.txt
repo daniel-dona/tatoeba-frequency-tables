@@ -1,4 +1,4 @@
-de 5149
+de 5150
 să 5107
 Tom 4318
 a 3771
@@ -7,7 +7,7 @@ este 3360
 nu 2819
 o 2368
 că 2291
-la 2226
+la 2227
 Nu 2132
 cu 1735
 pe 1677
@@ -16,7 +16,7 @@ mai 1486
 ce 1255
 și 1234
 fost 1227
-Am 1085
+Am 1086
 asta 1018
 pentru 1018
 din 972
@@ -64,7 +64,7 @@ Ai 331
 trebuie 329
 Îmi 323
 Ei 323
-voi 321
+voi 322
 mine 317
 nevoie 317
 timp 310
@@ -529,6 +529,7 @@ lăsa 43
 televizor 43
 Probabil 43
 ia 43
+învățat 43
 Unii 43
 căzut 42
 profesor 42
@@ -542,7 +543,6 @@ ci 42
 pasă 42
 prost 42
 siguranță 42
-învățat 42
 copii 42
 lua 42
 ajutorul 42
@@ -2716,6 +2716,7 @@ recomandat 7
 străini 7
 societate 7
 zvonuri 7
+violența 7
 călătorit 7
 Al 7
 Sincer 7
@@ -3113,7 +3114,6 @@ activitățile 6
 Acțiunile 6
 Desigur 6
 Societatea 6
-violența 6
 Adu-mi 6
 groasă 6
 murdare 6

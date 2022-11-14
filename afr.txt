@@ -2,8 +2,8 @@ nie 1206
 is 977
 Ek 918
 het 907
-die 704
-'n 566
+die 705
+'n 567
 Tom 418
 jy 411
 my 329
@@ -14,7 +14,7 @@ Die 263
 jou 258
 dit 254
 vir 240
-in 235
+in 236
 ek 215
 was 210
 Hy 191
@@ -724,6 +724,7 @@ ry 4
 huise 4
 jas 4
 gedrink 4
+tuin 4
 haal 4
 binne 4
 versoek 4
@@ -783,6 +784,7 @@ dame 4
 woud 4
 rond 4
 dringend 4
+skaduwee 4
 aandag 4
 vorm 4
 invul 4
@@ -902,7 +904,6 @@ wind 3
 Ann 3
 aanbod 3
 Waarvan 3
-tuin 3
 getrou 3
 gesig 3
 ware 3
@@ -1016,7 +1017,6 @@ kaggel 3
 piesangs 3
 vyande 3
 voordele 3
-skaduwee 3
 besienswaardighede 3
 naaste 3
 hoender 3
@@ -1028,6 +1028,7 @@ aanhoudend 3
 gedroom 3
 Vertel 3
 gehospitaliseer 3
+Sien 3
 samesweringsteorieë 3
 ag 2
 gewete 2
@@ -1563,7 +1564,6 @@ hel 2
 duiwels 2
 / 2
 raakgeloop 2
-Sien 2
 selfone 2
 gemis 2
 Tswana 2

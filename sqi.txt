@@ -1,9 +1,9 @@
 të 887
 e 580
-në 378
+në 379
 është 330
 i 270
-një 262
+një 263
 nuk 248
 Nuk 230
 Tomi 219
@@ -32,8 +32,8 @@ E 59
 nga 58
 ishte 55
 mirë 54
+ju 51
 Më 50
-ju 50
 Të 49
 A 44
 Po 44
@@ -650,6 +650,7 @@ thanë 3
 ndryshe 3
 Breshkat 3
 tokë 3
+hije 3
 jetojë 3
 shi 3
 shkova 3
@@ -1002,7 +1003,6 @@ diçkaje 2
 pikë 2
 verën 2
 Diçka 2
-hije 2
 mësosh 2
 shoqëroj 2
 lajmin 2
@@ -1049,6 +1049,7 @@ mollë 2
 artë 2
 Shtetet 2
 bëjnë 2
+Nga 2
 flaktë 2
 Pagova 2
 emër 2
@@ -1314,6 +1315,7 @@ Danimarkë 2
 Juve 2
 vajzat 2
 borë 2
+dhunën 2
 mora 2
 Suedi 2
 As 2
@@ -2366,7 +2368,6 @@ lumturua 1
 dhimbje 1
 krah 1
 pushonte 1
-Nga 1
 burgut 1
 Agroni 1
 zog 1
@@ -3759,7 +3760,6 @@ këqijave 1
 harrojmë 1
 gjithsesi 1
 shifra 1
-dhunën 1
 denoncuar 1
 afërsisht 1
 rritje 1
@@ -4113,3 +4113,6 @@ pranoni 1
 çeqe 1
 Shoqja 1
 angleze 1
+shih 1
+kopsht 1
+mësuam 1

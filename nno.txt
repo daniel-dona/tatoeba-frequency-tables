@@ -574,6 +574,7 @@ viss 2
 Folk 2
 gjeld 2
 døyr 2
+sameinte 2
 grensar 2
 Mora 2
 oppteken 2
@@ -955,7 +956,6 @@ grad 1
 lauper 1
 nøklane 1
 regelen 1
-sameinte 1
 statane 1
 Canada 1
 Smerta 1
@@ -2476,8 +2476,7 @@ handlingar 1
 strir 1
 formålet 1
 prinsippet 1
-Sameinte 1
-Nasjonane 1
+nasjonane 1
 Reste 1
 svelte 1
  1

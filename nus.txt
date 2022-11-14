@@ -1,4 +1,4 @@
-kɛ 510
+kɛ 511
 Töm 425
 ɛ 257
 jɛ 237
@@ -9,14 +9,14 @@ mi̱ 137
 kä 124
 Ci̱ 122
 nɛy 103
-ɣöö 95
+ɣöö 96
 ci̱ 87
-Ɣän 85
+Ɣän 86
 jɛn 85
-kɛn 81
+kɛn 82
 la̱t 76
 Ɛ 75
-i̱ 73
+i̱ 74
 Jɛn 73
 ɛmɛ 70
 ɣä 69
@@ -45,17 +45,17 @@ diaal 29
 cä 29
 mi̲ 29
 mi 28
+Ji̱n 27
 ɣän 27
 lar 27
 ŋa̱cä 27
 luäk 26
-Ji̱n 26
 ni 26
 piny 26
+ben 26
 kɔnɛ 25
 ruac 25
 nhɔk 25
-ben 25
 ci 25
 ɤän 25
 rɛy 24
@@ -148,6 +148,7 @@ rɔ̱ 11
 gör 11
 ŋi̱i̱c 11
 nhɔakä 11
+ruun 11
 malɛ 11
 ŋar 10
 lɔcdä 10
@@ -167,7 +168,6 @@ Bër 10
 tëë 10
 Deri̱ 10
 dual 10
-ruun 10
 laa 10
 Dee 10
 ci̲ 10
@@ -253,6 +253,7 @@ wë 7
 good 7
 nhɔki̱ 7
 ji̱ɛn 7
+dëri̱ 7
 ri̱ali̱kä 7
 ɣɔ̱ɔ̱n 7
 nhi̱am 7
@@ -291,7 +292,6 @@ tɛ̈ɛ̈th 6
 juëy 6
 mi̱äth 6
 Di̱ɛwä 6
-dëri̱ 6
 thi̱ëëc 6
 Thi̱ɛlɛ 6
 nhi̱al 6
@@ -358,6 +358,7 @@ li̱ŋ 5
 di̱ɛɛr 5
 kenɛ 5
 Dëri̱ 5
+mäth 5
 Tha̱mi̱i̱ 5
 Cu 5
 ja 5
@@ -437,9 +438,9 @@ puɔ̱nydɛ 4
 di̱t 4
 ŋuɛ̈t 4
 ci̱ëŋ 4
-mäth 4
 Ci̱ɛ 4
 gɔayɛ 4
+Nhɔkä 4
 ci̱ëëŋ 4
 mani̱ 4
 lɔac 4
@@ -475,6 +476,7 @@ Derɛ 3
 lätni̱ 3
 tom 3
 ka 3
+piw 3
 Li̱pni̱ 3
 Tit 3
 to̱k 3
@@ -670,7 +672,6 @@ wi 2
 juey 2
 pi̱ 2
 Dɛŋ 2
-piw 2
 ŋɔcɛ 2
 Yɔ̱tɛ 2
 Liŋɛ 2
@@ -866,6 +867,7 @@ tuar 2
 lo̲ŋ 2
 ce̱t 2
 yɔ̱ŋ 2
+Dhɔɔl 2
 ŋuɔ̱t 2
 Yän 2
 /ka̱n 2
@@ -970,7 +972,6 @@ ki̱ɛ 2
 cɔal 2
 ŋadi̱ɛn 2
 -tɔt 2
-Nhɔkä 2
 kuɛ̈ɛ̈n 2
 niɛn 2
 Ɣöö 2
@@ -1024,6 +1025,7 @@ Nuäärä 2
 Dhi̱ri̱i̱ 2
 ɣö 2
 kuëndɛ 2
+Belɛ 2
 cakɛ 1
 koth 1
 David 1
@@ -1943,7 +1945,6 @@ pi̲rɛny 1
 nääni 1
 bärɛ 1
 thɛlɛ 1
-Dhɔɔl 1
 /thiɛlɛ 1
 Ca̱kɔ 1
 jiööth 1
@@ -2799,3 +2800,4 @@ länyɛ 1
 ɣɔ̱a̱n 1
 ji̱öök 1
 yɔ̱ɔ̱ŋ 1
+gɔani̱ 1

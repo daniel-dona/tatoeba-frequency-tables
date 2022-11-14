@@ -1,4 +1,4 @@
-isch 413
+isch 415
 I 291
 ned 214
 Tom 186
@@ -15,14 +15,14 @@ mr 112
 – 108
 mir 107
 an 106
-dass 95
+dass 96
 send 84
 no 83
 mid 81
+so 77
+zom 77
 des 76
-so 76
-zom 76
-se 75
+se 76
 Mir 73
 em 72
 hend 69
@@ -30,14 +30,14 @@ sich 67
 dees 66
 de 63
 Wenn 63
+wenn 63
 sai 62
-wenn 62
 am 60
 von 58
 was 57
 bloß 55
 nô 54
-koi 51
+koi 52
 scho 50
 et 50
 hod 50
@@ -150,6 +150,7 @@ bis 15
 's 15
 kennd 15
 Siå 15
+Zeid 15
 Sia 14
 guat 14
 ibr 14
@@ -163,7 +164,6 @@ meh 14
 odr 14
 Läbå 14
 där 14
-Zeid 14
 Diå 14
 emmr 14
 macha 13
@@ -172,6 +172,7 @@ So 13
 ällaweil 13
 Sisch 13
 Sie 13
+lang 13
 alloi 13
 muaß 13
 oi 13
@@ -188,11 +189,11 @@ d 13
 Wo 12
 domm 12
 Isch 12
-lang 12
 Der 12
 drei 12
 erschd 12
 sähr 12
+Die 12
 saim 12
 niå 12
 mach 11
@@ -212,9 +213,9 @@ glei 11
 andre 11
 Moa 11
 håd 11
-Die 11
 saine 11
 mô 11
+beschde 10
 e 10
 gmacht 10
 glaub 10
@@ -240,7 +241,6 @@ geits 10
 nôch 10
 Weld 9
 gsäå 9
-beschde 9
 mol 9
 Angschd 9
 Am 9
@@ -276,6 +276,7 @@ Mauldascha 8
 oa 8
 Woch 8
 Au 8
+bleibd 8
 morga 8
 soll 8
 Mensch 8
@@ -312,7 +313,6 @@ gmachd 7
 Ned 7
 Läba 7
 doa 7
-bleibd 7
 Menner 7
 Essa 7
 jedr 7
@@ -5373,3 +5373,6 @@ Mischdhaufa 1
 s'Zendrum 1
 richtige 1
 kräht 1
+Frog 1
+onitz 1
+andworda 1
