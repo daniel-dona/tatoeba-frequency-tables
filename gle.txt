@@ -1,11 +1,11 @@
 an 626
 Tá 601
-a 599
+a 600
 mé 387
-ag 378
+ag 379
 Is 321
 é 260
-ar 229
+ar 230
 sé 205
 tú 201
 go 200
@@ -44,11 +44,11 @@ ann 55
 Ba 54
 dul 54
 Cad 51
+siad 48
 Cén 48
 iarraidh 48
 leabhar 47
 leis 47
-siad 47
 duine 45
 fhios 44
 as 41
@@ -148,6 +148,7 @@ amach 14
 gcónaí 14
 Níor 14
 cócaireacht 14
+teacht 14
 Beidh 13
 ól 13
 mise 13
@@ -167,11 +168,11 @@ rá 13
 nuair 13
 Táimid 13
 focal 13
-teacht 13
 litir 12
 bás 12
 amárach 12
 den 12
+bheidh 12
 álainn 12
 buachaill 12
 bhur 12
@@ -185,7 +186,6 @@ tusa 11
 Dia 11
 lán 11
 trí 11
-bheidh 11
 chomh 11
 Conas 11
 mó 11
@@ -221,6 +221,7 @@ dheartháir 9
 d'aois 9
 Ar 9
 Céard 9
+ais 9
 sásta 9
 te 9
 inniu 9
@@ -248,7 +249,6 @@ Tháinig 8
 eagla 8
 Tabharfaidh 8
 cheannaigh 8
-ais 8
 gorm 8
 cheart 8
 uainn 8
@@ -309,6 +309,7 @@ tar 6
 ábalta 6
 Déan 6
 tae 6
+ón 6
 cad 6
 mhéad 6
 dúinn 6
@@ -356,7 +357,6 @@ mhór 5
 Agus 5
 cathair 5
 roimh 5
-ón 5
 cónaí 5
 nuachtán 5
 iasc 5
@@ -366,6 +366,7 @@ bheag 5
 deacair 5
 Londain 5
 nár 5
+Cathain 5
 oíche 5
 Ag 5
 ’Séard 5
@@ -450,7 +451,6 @@ rachaidh 4
 tseachtain 4
 ndearna 4
 dhéanann 4
-Cathain 4
 aghaidh 4
 dúirt 4
 nDoire 4
@@ -567,6 +567,7 @@ thóg 3
 ábhar 3
 Ghearr 3
 anuraidh 3
+saoire 3
 ndéanfaidh 3
 Bríd 3
 Déanann 3
@@ -777,7 +778,6 @@ t-alt 2
 fuair 2
 óna 2
 gConamara 2
-saoire 2
 Cheap 2
 pictiúr 2
 Cáit 2

@@ -2,7 +2,7 @@ est 9433
 et 4611
 in 4220
 Thomas 3303
-non 3174
+non 3176
 sunt 2067
 ad 1659
 / 1565
@@ -19,12 +19,12 @@ cum 898
 de 841
 Ubi 806
 Quid 766
-es 733
+es 734
 se 719
 Didymus 685
 In 681
+Non 677
 quod 677
-Non 676
 eius 633
 hoc 632
 mea 600
@@ -34,11 +34,11 @@ habet 569
 a 548
 erat 545
 meus 518
-sed 508
+sed 509
 Cur 480
 Hoc 472
 Et 455
-Hic 442
+Hic 443
 Thōmās 431
 Haec 430
 id 429
@@ -339,6 +339,7 @@ illi 87
 mater 86
 multa 86
 Marcus 86
+puella 86
 manu 86
 cras 86
 ait: 86
@@ -347,7 +348,6 @@ verum 85
 malum 85
 vir 85
 posse 85
-puella 85
 telephonum 85
 igitur 85
 bonus 84
@@ -1328,6 +1328,7 @@ Libum 25
 placuit 25
 Anno 25
 Aspice 25
+habitamus 25
 inveni 25
 altum 25
 secuit 25
@@ -1396,7 +1397,6 @@ Londinii 24
 maritus 24
 negotiosus 24
 Doleo 24
-habitamus 24
 proxima 24
 vestimenta 24
 quomodo 24
@@ -1408,6 +1408,7 @@ noli 24
 proximo 24
 dona 24
 debeo 24
+Jam 24
 viros 24
 universa 24
 litora 24
@@ -1470,7 +1471,6 @@ ter 23
 Omne 23
 has 23
 maximus 23
-Jam 23
 Oppidum 23
 animum 23
 nulla 23
@@ -2769,6 +2769,7 @@ labores 12
 verberavit 12
 Romanum 12
 quum 12
+virgo 12
 tempestas 12
 stulti 12
 tanta 12
@@ -3029,7 +3030,6 @@ Mori 11
 Aemiliae 11
 ducunt 11
 novisse 11
-virgo 11
 iram 11
 fidem 11
 venturus 11

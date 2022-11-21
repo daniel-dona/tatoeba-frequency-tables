@@ -1,15 +1,15 @@
-le 12709
-es 7767
-de 6776
-un 6699
-Le 4744
-ha 4661
-in 4255
+le 12714
+es 7770
+de 6778
+un 6700
+Le 4748
+ha 4662
+in 4258
 que 3818
-non 3629
+non 3630
 Io 3416
-del 2925
-e 2907
+del 2926
+e 2908
 a 2617
 tu 2148
 Ille 1779
@@ -18,19 +18,19 @@ io 1549
 al 1532
 su 1510
 se 1492
-Il 1422
+Il 1423
 pro 1356
 lo 1251
 Tom 1220
 con 1213
-plus 1204
+plus 1205
 ille 1191
 vos 1070
 esseva 1063
 nos 947
 pote 941
 mi 918
-multo 907
+multo 908
 iste 856
 per 817
 como 777
@@ -54,7 +54,7 @@ qui 502
 Que 499
 esser 489
 isto 488
-Mi 485
+Mi 486
 Un 482
 sur 466
 super 444
@@ -62,7 +62,7 @@ Illes 442
 facer 435
 In 431
 si 430
-bon 423
+bon 424
 tote 422
 on 417
 lingua 412
@@ -106,7 +106,7 @@ dicer 245
 quando 239
 lor 239
 A 235
-annos 232
+annos 233
 cosa 226
 — 224
 hic 223
@@ -114,12 +114,12 @@ Su 221
 Illo 220
 An 220
 dice 217
-era 214
+era 215
 mal 213
 sempre 210
 durante 209
+inter 209
 amor 208
-inter 208
 diceva 206
 morte 206
 haber 204
@@ -130,14 +130,14 @@ persona 193
 nove 191
 bibe 191
 nihil 190
+jam 189
 pensa 189
-jam 188
 usque 186
+son 186
 trova 185
-ante 183
+ante 184
 die 183
-son 183
-cosas 182
+cosas 183
 crede 182
 facite 181
 jammais 180
@@ -146,8 +146,8 @@ Ego 178
 personas 177
 mangia 176
 the 175
+loco 172
 parlar 171
-loco 171
 troppo 168
 favor 167
 faceva 167
@@ -174,7 +174,7 @@ infantes 151
 patre 149
 nunquam 147
 ora 147
-mar 145
+mar 146
 moneta 144
 terra 144
 musica 143
@@ -222,11 +222,11 @@ minus 119
 mesmo 118
 nunc 118
 rubie 118
+femina 117
 infante 117
 alte 117
 oculos 117
 anno 117
-femina 116
 parola 115
 juvene 114
 vermente 113
@@ -240,13 +240,13 @@ cognosce 108
 dicite 108
 Ubi 107
 proprie 107
+Tote 106
 amicos 106
 tabula 106
-Tote 105
 horas 105
 besonio 105
+nulle 105
 ancian 104
-nulle 104
 alique 104
 habe 104
 vices 103
@@ -309,8 +309,8 @@ celo 83
 Tatoeba 83
 Cata 82
 septimana 82
+ultime 82
 Per 81
-ultime 81
 camera 80
 labor 80
 idea 80
@@ -520,6 +520,7 @@ religion 48
 espaniol 48
 muros 48
 capillos 47
+intelligente 47
 Forsan 47
 futuro 47
 legite 47
@@ -536,7 +537,6 @@ necessari 46
 omnes 46
 partir 46
 monte 46
-intelligente 46
 solo 46
 arrivava 46
 pauco 46
@@ -632,6 +632,7 @@ dormi 40
 pensar 40
 placerea 40
 sentiva 40
+animales 40
 parlava 40
 passa 40
 magic 40
@@ -642,7 +643,6 @@ cento 39
 memoria 39
 demandava 39
 studiar 39
-animales 39
 octo 39
 dubita 39
 linguage 39
@@ -689,6 +689,7 @@ Ecce 37
 amava 37
 modo 37
 circum 37
+mais 37
 intention 37
 gratiose 37
 effervescente 37
@@ -700,6 +701,7 @@ interessante 36
 major 36
 sole 36
 village 36
+moriva 36
 scribeva 36
 septe 36
 luce 36
@@ -709,7 +711,6 @@ visita 36
 necesse 36
 campo 36
 natural 36
-mais 36
 studio 36
 situa 36
 calide 35
@@ -719,7 +720,6 @@ Face 35
 scribite 35
 aves 35
 mangiate 35
-moriva 35
 vacantias 35
 menses 35
 probabilemente 35
@@ -800,6 +800,7 @@ exactemente 31
 fenestras 31
 domo 31
 Alicun 31
+pisces 31
 obra 31
 majoritate 31
 populo 31
@@ -823,7 +824,6 @@ germano 30
 governamento 30
 principal 30
 Gratias 30
-pisces 30
 Nihil 30
 lassate 30
 oblidate 30
@@ -847,6 +847,7 @@ corbe 29
 maladia 29
 succedeva 29
 fructos 29
+equipa 29
 structura 29
 sentir 29
 felicitate 29
@@ -867,7 +868,6 @@ folle 28
 examine 28
 avion 28
 insenia 28
-equipa 28
 professor 28
 Totes 28
 sequeva 28
@@ -1021,6 +1021,7 @@ attinger 24
 bus 24
 experientia 24
 cura 24
+deo 24
 coperi 24
 plora 24
 salata 24
@@ -1077,7 +1078,6 @@ pelle 23
 vitros 23
 discoperiva 23
 occasion 23
-deo 23
 credeva 23
 no 23
 pecia 23
@@ -1178,6 +1178,7 @@ vocabulario 21
 demandar 21
 formas 21
 transverso 21
+judeos 21
 contente 21
 datos 21
 molbos 21
@@ -1251,6 +1252,7 @@ restar 19
 clave 19
 van 19
 sala 19
+milliones 19
 preparate 19
 tempesta 19
 doctor 19
@@ -1296,7 +1298,6 @@ occurre 19
 objecto 19
 septembre 19
 animas 19
-judeos 19
 fede 19
 Danmark 19
 nord 19
@@ -1317,7 +1318,6 @@ decidite 18
 ja 18
 pagar 18
 accompaniar 18
-milliones 18
 Germania 18
 scriptor 18
 gentil 18
@@ -2092,6 +2092,7 @@ incorrecte 11
 panico 11
 rationes 11
 evenir 11
+terminos 11
 adder 11
 repeter 11
 Amor 11
@@ -2241,7 +2242,6 @@ occidera 10
 sapera 10
 reposa 10
 continuar 10
-terminos 10
 basiar 10
 signification 10
 principalmente 10
@@ -2606,6 +2606,7 @@ Matre 8
 effortia 8
 grano 8
 cantator 8
+possession 8
 descende 8
 interprete 8
 passage 8
@@ -2866,7 +2867,6 @@ amonta 7
 tene 7
 refusa 7
 peter 7
-possession 7
 drogas 7
 claves 7
 Leva 7
@@ -3501,6 +3501,7 @@ inspira 6
 annunciar 6
 correction 6
 coton 6
+revolution 6
 mortos 6
 avantiar 6
 guastate 6
@@ -4087,7 +4088,6 @@ dolores 5
 vegetal 5
 ventos 5
 regime 5
-revolution 5
 romances 5
 hockey 5
 maternal 5
@@ -5010,6 +5010,7 @@ debita 4
 imita 4
 contribuer 4
 instruite 4
+christian 4
 Vade 4
 futuer 4
 initiar 4
@@ -6326,7 +6327,6 @@ imitava 3
 allegremente 3
 senectute 3
 bono 3
-christian 3
 espaventa 3
 2022 3
 Qatar 3
@@ -6548,6 +6548,7 @@ vomitate 3
 bicario 3
 judeogermano 3
 Jammais 3
+job 3
 heavy 3
 metal 3
 "De 3
@@ -9399,7 +9400,6 @@ litro 2
 affligeva 2
 retardava 2
 kabyle 2
-job 2
 irlandese 2
 Committe 2
 gallese 2

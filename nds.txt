@@ -1,10 +1,10 @@
 is 3198
 Ik 3191
-dat 2758
+dat 2760
 en 2504
 de 2466
-nich 1925
-du 1674
+nich 1927
+du 1676
 hett 1595
 He 1472
 in 1451
@@ -13,7 +13,7 @@ to 1315
 Dat 1268
 heff 1240
 ik 1213
-Se 1144
+Se 1146
 ’n 1073
 mi 1050
 un 879
@@ -23,7 +23,7 @@ as 769
 op 716
 di 655
 an 647
-em 643
+em 647
 na 638
 mien 615
 sünd 602
@@ -86,8 +86,8 @@ Hest 204
 jümmer 203
 sehn 200
 wenn 199
+Worüm 199
 büst 198
-Worüm 197
 hier 196
 Geld 187
 mutt 186
@@ -159,13 +159,13 @@ morgen 97
 Broder 97
 oold 96
 maken 94
+seggen 92
 Maand 92
 Engelsch 91
 wullt 91
-seggen 90
 Deern 90
+kannst 90
 snacken 90
-kannst 89
 Froo 88
 Week 88
 Mi 87
@@ -1342,6 +1342,7 @@ narms 9
 flütt 9
 küsst 9
 dwungen 9
+künnt 9
 an’n 9
 Appeln 9
 hüüt 9
@@ -1472,7 +1473,6 @@ Schüün 8
 Wuddeln 8
 naakd 8
 Fro 8
-künnt 8
 in’e 8
 antogen 8
 läsen 8

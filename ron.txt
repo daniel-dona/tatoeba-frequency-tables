@@ -7,10 +7,10 @@ este 3360
 nu 2819
 o 2368
 că 2291
-la 2227
+la 2228
 Nu 2132
 cu 1735
-pe 1677
+pe 1678
 un 1640
 mai 1486
 ce 1255
@@ -19,8 +19,8 @@ fost 1227
 Am 1086
 asta 1018
 pentru 1018
-din 972
-se 969
+din 973
+se 970
 sunt 951
 El 937
 e 893
@@ -75,7 +75,7 @@ rog 288
 ceva 287
 fac 283
 trebui 281
-Mă 273
+Mă 274
 În 272
 acest 267
 despre 267
@@ -158,7 +158,7 @@ noi 151
 două 151
 bună 150
 cât 150
-Când 147
+Când 148
 i-a 147
 M-am 147
 Voi 145
@@ -197,8 +197,8 @@ puțin 118
 chiar 118
 s-au 116
 Nimeni 116
+vor 116
 să-i 115
-vor 115
 său 114
 spun 114
 Știu 114
@@ -456,6 +456,7 @@ Ne-am 51
 copil 51
 eram 51
 iubesc 50
+vreo 50
 încredere 50
 Era 50
 împreună 50
@@ -468,7 +469,6 @@ scrisoare 49
 i-am 49
 grijă 49
 oră 49
-vreo 49
 John 49
 Oamenii 49
 mâncare 49
@@ -485,6 +485,7 @@ mari 47
 arată 47
 locuiește 47
 franceza 47
+întoarce 47
 companie 47
 râs 47
 seara 46
@@ -500,7 +501,6 @@ duce 46
 ajutor 46
 an 46
 știut 46
-întoarce 46
 ajute 46
 vorbit 45
 iau 45
@@ -518,6 +518,7 @@ Casa 44
 limbi 44
 împotriva 44
 Mama 44
+televizor 44
 posibil 44
 Încă 44
 sunat 44
@@ -526,7 +527,6 @@ față 43
 film 43
 decis 43
 lăsa 43
-televizor 43
 Probabil 43
 ia 43
 învățat 43
@@ -670,6 +670,7 @@ adus 33
 dolari 33
 altceva 33
 femeie 33
+uit 33
 ciudat 33
 astea 33
 gândesc 33
@@ -682,13 +683,13 @@ faceți 32
 întâmpla 32
 treizeci 32
 pui 32
-uit 32
 gata 32
 deschis 32
 fată 32
 tăi 32
 veche 32
 câștiga 32
+cer 32
 trenul 32
 ochii 32
 s-ar 32
@@ -707,7 +708,6 @@ Fiecare 31
 exact 31
 autobuz 31
 prins 31
-cer 31
 Aceste 31
 plouat 31
 Iarna 31
@@ -1038,6 +1038,7 @@ drumul 20
 bicicletă 20
 situație 20
 Încerc 20
+vacanță 20
 fericiți 20
 undeva 20
 greșeli 20
@@ -1091,7 +1092,6 @@ cina 19
 lung 19
 acuzat 19
 pun 19
-vacanță 19
 puteți 19
 singurul 19
 gol 19
@@ -2131,6 +2131,7 @@ Mike 9
 deodată 9
 râde 9
 urmează 9
+stele 9
 succesul 9
 Ne-a 9
 putere 9
@@ -2304,7 +2305,6 @@ Statelor 8
 viaţă 8
 luminile 8
 poată 8
-stele 8
 schimb 8
 produce 8
 într-una 8
@@ -2452,6 +2452,7 @@ siguri 8
 M-au 8
 îmbrățișat 8
 comandat 8
+Vezi 8
 națiuni 8
 creșterea 8
 femeia 8
@@ -2744,7 +2745,6 @@ muncitor 7
 umplut 7
 norocoși 7
 că-mi 7
-Vezi 7
 Oricine 7
 Întoarce-te 7
 privirea 7

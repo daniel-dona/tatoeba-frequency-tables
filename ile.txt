@@ -1,8 +1,8 @@
-es 2372
+es 2373
 Yo 1581
-un 1308
+un 1309
 li 1299
-ne 962
+ne 963
 Tom 952
 Li 621
 in 607
@@ -111,6 +111,7 @@ odia 49
 vos 49
 sestra 48
 old 48
+die 47
 munde 47
 vor 47
 Un 47
@@ -118,7 +119,6 @@ solmen 47
 Qualmen 47
 mann 47
 ma 47
-die 46
 Su 46
 quel 46
 vell 45
@@ -4675,3 +4675,6 @@ parente 1
 assassinat 1
 Elon 1
 Musk 1
+Crist-nascentie 1
+seculari 1
+festal 1
