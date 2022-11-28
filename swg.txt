@@ -1,4 +1,4 @@
-isch 415
+isch 416
 I 291
 ned 214
 Tom 186
@@ -9,19 +9,19 @@ du 144
 hôd 129
 en 117
 han 115
-a 113
+a 114
 mr 112
 å 109
 mir 108
 – 108
 an 106
 dass 96
-send 84
+send 85
 no 83
 mid 81
+zom 78
+des 77
 so 77
-zom 77
-des 76
 se 76
 Mir 73
 em 72
@@ -45,9 +45,9 @@ mi 49
 fir 47
 au 47
 Dr 45
+als 45
 Dees 45
 will 44
-als 44
 nix 44
 Des 43
 Du 42
@@ -77,6 +77,7 @@ da 30
 om 30
 r 30
 Dag 29
+vo 28
 der 28
 ihr 28
 dir 28
@@ -88,7 +89,6 @@ heit 27
 Mr 27
 zu 27
 woiß 26
-vo 26
 mai 26
 mit 26
 es 26
@@ -405,6 +405,7 @@ Gold 5
 denkt 5
 Gott 5
 ausm 5
+Nix 5
 voll 5
 hent 5
 dent 5
@@ -434,6 +435,7 @@ richdig 5
 Es 5
 fälld 5
 'm 5
+Däg 5
 wichdig 5
 Liebe 5
 brauchd 5
@@ -490,7 +492,6 @@ zua 4
 alde 4
 Film 4
 wirschd 4
-Nix 4
 oos 4
 Wald 4
 arg 4
@@ -544,7 +545,6 @@ werd 4
 Mid 4
 isst 4
 Deifl 4
-Däg 4
 Senn 4
 glernd 4
 eane 4
@@ -844,6 +844,7 @@ Monad 3
 S'gibt 3
 dromm 3
 koschded 3
+Onsre 3
 Leid 3
 liågd 3
 Hôd 3
@@ -1436,7 +1437,6 @@ Risiko 2
 Satz 2
 Sischd 2
 Obschd 2
-Onsre 2
 Augå 2
 griågd 2
 Kiche 2
@@ -5377,3 +5377,12 @@ Frog 1
 onitz 1
 andworda 1
 dengad 1
+schwärer 1
+ertraga 1
+Roih 1
+uade 1
+schenste 1
+Erineronga 1
+Pflaschdr 1
+onsra 1
+Säle 1

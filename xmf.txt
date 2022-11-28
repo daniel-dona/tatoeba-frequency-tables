@@ -1,10 +1,10 @@
-Ma 86
-re 48
-ma 39
+Ma 87
+re 49
+ma 40
 Tom 26
  23
+Si 18
 te 18
-Si 17
 oko 15
 si 15
 რე 13
@@ -14,6 +14,7 @@ moko 13
 tena 13
 vare 11
 jgiri 11
+Chqimi 10
 chqimi 10
 Tina 10
 dghas 10
@@ -21,10 +22,9 @@ Tqva 10
 tina 10
 მა 9
 Tena 9
-Chqimi 9
+vore 9
 ꞇudes 9
 Tomi 9
-vore 8
 Tis 8
 Mu 8
 tom 8
@@ -60,7 +60,9 @@ Tomiq 5
 fara 5
 joxo 5
 arto 5
+tes 5
 rena 5
+ragadi 5
 თენა 4
 muçho 4
 Dia 4
@@ -80,11 +82,10 @@ mus 4
 Reno 4
 Xolo 4
 borji 4
+Muçho 4
 ʒaneri 4
 mitin 4
-tes 4
 mushi 4
-ragadi 4
 ⱬiri 4
 დრო 3
 ტომიქ 3
@@ -125,7 +126,6 @@ da 3
 Sami 3
 mutuni 3
 Ena 3
-Muçho 3
 rdƨ 3
 vamichqƨ 3
 Mardi 3
@@ -185,6 +185,7 @@ martalo 2
 osuro 2
 glaxa 2
 Aghani 2
+Tinefs 2
 xolos 2
 vagholinu 2
 oketebel 2
@@ -232,6 +233,7 @@ mutunsha 2
 Qiꞇides 2
 Ꞇude 2
 Na 2
+Boshi 2
 Ushquri 2
 Tomy 2
 Mus 2
@@ -259,6 +261,7 @@ rikardo 2
 ꞇude 2
 mafƨ 2
 ragadancƨ 2
+Gogha 2
 dumagurafali 2
 reto 2
 Amdgha 2
@@ -294,6 +297,7 @@ sqolasha 2
 amdgha 2
 qortxint 2
 dudi 2
+ṫelefoni 2
 namut 2
 kari 2
 malas 2
@@ -311,6 +315,7 @@ tish 2
 mufshenq 2
 Misvanji 2
 Qosxapi 2
+uꞇorsƨ 2
 Mi 2
 gokodu 2
 miꞇorsu 2
@@ -566,7 +571,6 @@ saxesh 1
 mashƨna 1
 uꞇidi 1
 Goghvaru 1
-Tinefs 1
 usxƨnna 1
 aeroportʒkuma 1
 Hotel 1
@@ -784,7 +788,6 @@ Tolefi 1
 Ti 1
 Lexire 1
 Garchqileno 1
-Boshi 1
 Giçhɣolide 1
 Sqan 1
 Ꞇudes 1
@@ -929,7 +932,6 @@ porṫugalielef 1
 vamighƨ 1
 ṫibƨ 1
 shqineri 1
-Gogha 1
 brinji 1
 vçhkumi 1
 chqari 1
@@ -1198,7 +1200,6 @@ axali 1
 ziṫɣva 1
 chxoms 1
 çhkumunqo 1
-ṫelefoni 1
 vaughudƨ 1
 musho 1
 chilatas 1
@@ -1569,7 +1570,6 @@ Qecadi 1
 dobskidat 1
 Chqini 1
 kaṫus 1
-uꞇorsƨ 1
 ꞇvali 1
 chqini 1
 anʒiani 1
@@ -1665,3 +1665,20 @@ ret 1
 Diachqims 1
 uꞇorc 1
 muzika 1
+morʒonso 1
+chxomi 1
+çhvendu 1
+Riskent 1
+Gechinebafet 1
+Saꞇorofore 1
+ughudes 1
+Gentxafa 1
+Vart 1
+radioq 1
+kin 1
+gilelƨ 1
+germanulo 1
+vabgorundi 1
+Meris 1
+mangaro 1
+peulefi 1

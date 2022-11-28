@@ -1,15 +1,15 @@
-es 2373
-Yo 1581
-un 1309
+es 2375
+Yo 1582
+un 1311
 li 1299
-ne 963
+ne 964
 Tom 952
 Li 621
 in 607
 Il 472
 ha 458
 esset 450
-de 442
+de 443
 tu 439
 have 413
 Esque 403
@@ -1233,6 +1233,7 @@ Jane 3
 continua 3
 Secun 3
 grisi 3
+liste 3
 intrat 3
 hotel 3
 van 3
@@ -1642,7 +1643,6 @@ ferroglattat 2
 sangua 2
 obstinat 2
 exhaustet 2
-liste 2
 éxter 2
 cause 2
 levat 2
@@ -4678,3 +4678,6 @@ Musk 1
 Crist-nascentie 1
 seculari 1
 festal 1
+serrurero 1
+Logica 1
+sofismes 1

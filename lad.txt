@@ -8,8 +8,8 @@ de 78
 no 76
 איס 72
 la 70
+una 55
 No 54
-una 54
 esta 53
 a 48
 La 43
@@ -27,7 +27,7 @@ Me 29
 לה 29
 Mi 28
 Eya 26
-Es 25
+Es 26
 טום 24
 נו 23
 muy 21
@@ -56,6 +56,7 @@ preto 14
 סו 14
 puerta 14
 kaza 13
+Sosh 13
 איסטה 13
 Kero 12
 djudios 12
@@ -68,7 +69,6 @@ Tengo 12
 Deke 12
 mujer 11
 Somos 11
-Sosh 11
 era 11
 estan 11
 סון 11
@@ -130,6 +130,7 @@ kabil 7
 Ester 7
 lashon 7
 problemes 7
+emportantes 7
 Espanya 6
 kero 6
 fransez 6
@@ -154,7 +155,6 @@ alegre 6
 problem 6
 אי 6
 afilu 6
-emportantes 6
 שבת 6
 סי 6
 akodro 5
@@ -250,6 +250,7 @@ avlan 4
 nona 4
 yidish 4
 Miri 4
+emportante 4
 Lavoro 3
 Mis 3
 para 3
@@ -360,11 +361,11 @@ azer 3
 meldando 3
 פלאזי 3
 מילדאנדו 3
+feminista 3
 אליגרי 3
 אשכנזי 3
 דייו 3
 טי 3
-emportante 3
 portokales 3
 Rio 3
 akodesh 3
@@ -633,7 +634,6 @@ mozotras 2
 Un 2
 יידיש 2
 lavoros 2
-feminista 2
 enviti 2
 libero 2
 פסח 2

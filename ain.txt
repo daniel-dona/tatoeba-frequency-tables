@@ -2,7 +2,7 @@ ne 59
 an 46
 wa 41
 ruwe 34
-ta 26
+ta 27
 ka 25
 tanpe 19
 somo 19
@@ -27,8 +27,8 @@ tane 10
 nisatta 10
 un 10
 rusuy 10
+aynu 10
 na 9
-aynu 9
 itak 9
 hawe 9
 rera 9
@@ -43,9 +43,11 @@ nonno 7
 Satporo 7
 en-kore 7
 oka 7
+humi 7
 ku-kor 7
 ku-rehe 6
 e-arpa 6
+arka 6
 kam 6
 eaykap 6
 easkay 6
@@ -54,11 +56,10 @@ en-tere 6
 yakka 6
 amip 6
 poronno 6
-humi 6
 korka 5
-arka 5
 icen 5
 hi 5
+ku-nukar 5
 patek 5
 numan 5
 ya" 5
@@ -75,7 +76,6 @@ sonno 5
 kus 4
 k-e 4
 kani 4
-ku-nukar 4
 iruka 4
 hani 4
 pakno 4
@@ -110,6 +110,7 @@ inne 3
 teta 3
 utar 3
 an" 3
+kotan 3
 cikoykip 3
 tunasno 3
 nisa 3
@@ -151,7 +152,6 @@ kuni 2
 ku-ramu 2
 maciya 2
 iyotta 2
-kotan 2
 moyo 2
 earkinne 2
 cinumkekanpi 2
@@ -172,6 +172,8 @@ menokoru 2
 asinru 2
 k-etun 2
 santoku 2
+nitay 2
+tum 2
 oro 2
 sinep 2
 okkayo 2
@@ -200,6 +202,7 @@ epitta 2
 en-turano 2
 nea 2
 tunpu 2
+ku-honi 2
 チセ　メアン。 1
 ホㇱカヌマン　レラ　アㇱ。 1
 ヌマン　ウパㇱ　アㇱ。 1
@@ -342,8 +345,6 @@ e-arpa" 1
 "ihokusi 1
 k-arpa" 1
 uk 1
-nitay 1
-tum 1
 peka 1
 k-uk 1
 iwanpe 1
@@ -422,7 +423,6 @@ ku-tokuye 1
 sinen 1
 ku-ki 1
 ku-honihi 1
-ku-honi 1
 "iwanke-an 1
 iyayraykere" 1
 ikatay 1

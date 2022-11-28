@@ -1,38 +1,38 @@
-es 5858
-la 5405
-ia 4521
-de 3631
-un 3196
+es 5869
+la 5407
+ia 4522
+de 3635
+un 3201
 ла 2802
 ес 2728
-Me 2413
+Me 2416
 иа 2153
-no 1894
+no 1896
 де 1874
 La 1705
-a 1679
-en 1608
-Tom 1562
+a 1680
+en 1610
+Tom 1564
 ун 1365
 e 1187
 Ме 1182
-tu 1180
+tu 1181
 me 1125
 ave 1068
 а 953
 Ла 932
 но 910
-ce 903
+ce 904
 ен 882
 El 871
-Esce 774
-plu 701
+Esce 776
+plu 702
 va 699
 ме 662
 sua 659
 ту 655
 multe 645
-el 640
+el 641
 per 635
 pote 612
 cual 609
@@ -40,7 +40,7 @@ cual 609
 esta 592
 аве 564
 mea 552
-lo 550
+lo 551
 Esta 529
 Nos 508
 con 486
@@ -100,9 +100,9 @@ Un 219
 parla 218
 коса 213
 jua 209
+mundo 209
 Еста 209
 vos 208
-mundo 208
 туа 204
 Cual 203
 padre 199
@@ -115,7 +115,7 @@ ma 182
 No 179
 густа 178
 lingua 174
-pensa 172
+pensa 173
 asi 167
 пар 167
 сур 167
@@ -160,11 +160,11 @@ ante 130
 тота 130
 comensa 127
 veni 127
+mori 127
 can 126
 aora 126
 tan 126
 person 126
-mori 126
 deveni 125
 madre 125
 sin 125
@@ -182,12 +182,12 @@ dia 119
 Куал 119
 лингуа 118
 ама 118
+importante 115
 comprende 114
 om 114
-importante 114
+abita 114
 ма 113
 Perce 112
-abita 112
 scrive 111
 аси 111
 peti 109
@@ -214,8 +214,8 @@ nova 98
 Si 96
 Do 96
 aida 96
+Tota 96
 А 96
-Tota 95
 ja 95
 tra 95
 каса 95
@@ -264,11 +264,11 @@ enfantes 78
 ду 78
 либро 78
 dormi 77
+Vos 77
 ance 77
 тан 77
 вера 77
 mar 76
-Vos 76
 pais 76
 franses 76
 аора 75
@@ -336,12 +336,12 @@ mal 59
 longa 59
 cambia 59
 cafe 59
+entre 59
 mata 59
 коносе 59
 пасеа 59
 enebriada 59
 scola 58
-entre 58
 фаворе 58
 Перке 58
 sala 57
@@ -382,6 +382,7 @@ move 52
 Como 52
 Пер 52
 тенис 52
+Brasil 51
 verde 51
 joven 51
 parti 51
@@ -389,7 +390,6 @@ parti 51
 медиа 51
 сите 51
 ами 51
-Brasil 50
 Tatoeba 50
 pomas 50
 Boston 50
@@ -620,6 +620,7 @@ gida 31
 доман 31
 дифисил 31
 artifis 31
+intelijente 30
 tera 30
 mostra 30
 era 30
@@ -639,7 +640,6 @@ Nosa 30
 папилио 30
 папилиос 30
 lenta 29
-intelijente 29
 sposi 29
 sposo 29
 susede 29
@@ -679,6 +679,7 @@ juores 28
 Када 28
 енсениор 28
 Paris 27
+animales 27
 leva 27
 pinti 27
 proba 27
@@ -724,7 +725,6 @@ jala 25
 coreta 25
 mil 25
 profonda 25
-animales 25
 eleje 25
 Ambos 25
 animal 25
@@ -882,6 +882,7 @@ cosina 20
 rompeda 20
 veria 20
 opina 20
+Rio 20
 lenio 20
 paia 20
 Europa 20
@@ -962,7 +963,6 @@ fame 18
 momento 18
 bal 18
 desapare 18
-Rio 18
 resulta 18
 boni 18
 discute 18
@@ -1194,6 +1194,7 @@ Clui 14
 duta 14
 arde 14
 Corea 14
+Gatos 14
 usual 14
 survive 14
 nove 14
@@ -1257,7 +1258,6 @@ erante 13
 situa 13
 barata 13
 partisipa 13
-Gatos 13
 manos 13
 petras 13
 tufa 13
@@ -1312,6 +1312,7 @@ sona 13
 коке 13
 диференте 13
 sabori 13
+jenio 13
 интелижентиа 13
 bispo 13
 peon 13
@@ -1434,7 +1435,6 @@ Ier 12
 бони 12
 вестес 12
 Сами 12
-jenio 12
 iudis 12
 Esther 12
 Elo 12
@@ -1716,6 +1716,7 @@ Trae 9
 "Esce 9
 scema 9
 favoreda 9
+lista 9
 aniversario 9
 asurda 9
 soldatos 9
@@ -1879,7 +1880,6 @@ ultima 8
 serie 8
 larga 8
 arte 8
-lista 8
 bur 8
 numeros 8
 ricia 8
@@ -2410,6 +2410,7 @@ vosа 6
 inclui 6
 televisador 6
 reclina 6
+Janeiro 6
 miles 6
 usante 6
 "un 6
@@ -2757,6 +2758,7 @@ saluta 5
 profesal 5
 mediciste 5
 posta 5
+engana 5
 fronti 5
 recordo 5
 ospita 5
@@ -3115,6 +3117,7 @@ Lundi 4
 prisonida 4
 librida 4
 Pluto 4
+Elefantes 4
 ascondeda 4
 scala 4
 sujeto 4
@@ -3226,10 +3229,8 @@ in 4
 cortesia 4
 limita 4
 foles 4
-Janeiro 4
 ecipos 4
 ministreria 4
-engana 4
 olimpian 4
 nador 4
 negativa 4
@@ -3748,7 +3749,6 @@ avisa 3
 pilas 3
 consumada 3
 articles 3
-Elefantes 3
 medianote 3
 focos 3
 des-ses 3
@@ -4299,6 +4299,7 @@ strumentos 3
 laboreria 3
 дементи 3
 полске 3
+Ideas 3
 васо 3
 Aruba 3
 Аруба 3
@@ -4516,6 +4517,7 @@ arma 3
 Asoluta 3
 turnante 3
 Arabi 3
+Aceles 3
 suscrive 3
 contrata 3
 Лаила 3
@@ -5711,7 +5713,6 @@ Betti 2
 куантиас 2
 олио 2
 артикле 2
-Ideas 2
 furiosa 2
 Идеас 2
 софистикада 2
@@ -6177,7 +6178,6 @@ recomensa 2
 Ucraina 2
 Иудисме 2
 Basa 2
-Aceles 2
 Maladia 2
 defetada 2
 gardor 2
@@ -6538,6 +6538,7 @@ Sena 2
 апренле 2
 диворса 2
 nonprevideda 2
+ursos 2
 persepable 2
 nonfelis 2
 нонфелис 2
@@ -6640,6 +6641,7 @@ mentis 2
 Cain 2
 rana 2
 galego 2
+femiste 2
 blasfema 2
 veterinar 2
 coala 2
@@ -6658,6 +6660,7 @@ crac 2
 dieta 2
 болса 2
 усосиа 2
+Justia 2
 jamaican 2
 жамаикан 2
 alegoria 2
@@ -6904,6 +6907,7 @@ motosiera 2
 Relatas 2
 spasial 2
 stange 2
+compatiosa 2
 pruri 2
 beleta 2
 gravital 2
@@ -9994,7 +9998,3 @@ otodes-tre 1
 Бота 1
 Боске 1
 култивада 1
-Босанова 1
-деривада 1
-асентуа 1
-мелодиа 1

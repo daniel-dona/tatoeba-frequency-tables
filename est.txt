@@ -15,8 +15,8 @@ ole 106
 Mul 104
 olen 101
 ja 100
+oli 95
 Sa 95
-oli 94
 ta 90
 väga 86
 Me 84
@@ -485,6 +485,7 @@ peaksid 5
 Talle 5
 keelest 5
 John 5
+pikk 5
 arvasin 5
 Poiss 5
 tehtud 5
@@ -599,7 +600,6 @@ tundsin 4
 sõnastiku 4
 alasti 4
 Teie 4
-pikk 4
 sooviksin 4
 vihane 4
 osta 4
@@ -1284,6 +1284,7 @@ Lõvi 2
 linn 2
 polegi 2
 sõita 2
+hall 2
 Lauses 2
 lilled 2
 reisime 2
@@ -2660,7 +2661,6 @@ tohutult 1
 Mitmuses 1
 hobusega 1
 Lamp 1
-hall 1
 Brasiilia 1
 Lõuna-Ameerika 1
 suurim 1
@@ -4901,3 +4901,5 @@ klassist 1
 Teilt 1
 õppisime 1
 vägivalda 1
+Vanamehel 1
+habe 1
