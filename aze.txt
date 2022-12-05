@@ -1,7 +1,7 @@
 Mən 639
 O 445
 Tom 397
-Bu 336
+Bu 339
 var 249
 bir 210
 nə 175
@@ -47,8 +47,8 @@ bunu 41
 böyük 40
 hər 40
 kimi 39
+öz 38
 paytaxtıdır 38
-öz 37
 edir 36
 başa 36
 ilə 35
@@ -70,10 +70,10 @@ onun 31
 bilmirəm 31
 qədər 31
 idim 30
+haradadır 30
 kömək 30
 artıq 30
 yaşayır 30
-haradadır 29
 dili 29
 da 29
 Hər 28
@@ -356,6 +356,7 @@ sürücüsüdür 8
 sürücüdür 8
 müstəqilliyi 8
 söz 7
+dünyada 7
 ingiliscə 7
 vaxtım 7
 evim 7
@@ -437,7 +438,6 @@ Avstraliyaya 7
 Nyu-Yorkda 7
 kahı 7
 Tom-un 7
-dünyada 6
 Saat 6
 kitabdır 6
 Bəli 6
@@ -652,7 +652,9 @@ idilər 5
 Qışda 5
 Onları 5
 qızı 5
+bilməzsən 5
 düşünürsən 5
+yaşaya 5
 hamımız 5
 istəyirlər 5
 öyrənirəm 5
@@ -818,12 +820,10 @@ yerdədir 4
 arasında 4
 izah 4
 yer 4
-bilməzsən 4
 düşünürsünüz 4
 vəziyyəti 4
 bacım 4
 qala 4
-yaşaya 4
 yatdım 4
 qayğısına 4
 birbirimizə 4
@@ -2365,6 +2365,7 @@ söylədilər 2
 xəstəyik 2
 subaydır 2
 görürsənmi 2
+sualınıza 2
 xanımlar 1
 vә 1
 cәnablar 1
@@ -7464,3 +7465,8 @@ müddətcə 1
 şəkərdən 1
 dişləməyə 1
 Zorakılığı 1
+cəvabdır 1
+cəvab 1
+verdimi 1
+qaydalarınla 1
+Pulun 1

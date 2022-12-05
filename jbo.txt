@@ -1,8 +1,8 @@
-lo 12490
-mi 5839
+lo 12491
+mi 5840
 do 3294
-cu 3287
-la 2544
+cu 3288
+la 2545
 pu 2254
 nu 2090
 le 1925
@@ -12,7 +12,7 @@ be 1305
 i 1256
 ko'a 1230
 ma 1209
-ka 1186
+ka 1187
 ko 1062
 ca 972
 tom 943
@@ -64,7 +64,7 @@ ei 227
 mi'o 220
 fa 220
 ri 220
-tam 218
+tam 219
 ba'o 214
 re 209
 prami 209
@@ -257,12 +257,12 @@ kelci 61
 tcati 61
 klaku 60
 moi 60
+simsa 60
 curmi 60
 mensi 60
 valsi 60
 finti 60
 munje 59
-simsa 59
 lenku 59
 co'i 59
 srera 59
@@ -1229,6 +1229,7 @@ klamu'o 7
 mirli 7
 abu 7
 betfu 7
+kadno 7
 jorne 7
 tolyli'a 7
 celxa'i 7
@@ -1343,7 +1344,6 @@ fulta 6
 a'enai 6
 ke'o 6
 mlana 6
-kadno 6
 be'u 6
 lorxu 6
 gai 6

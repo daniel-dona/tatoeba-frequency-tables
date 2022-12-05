@@ -1,14 +1,14 @@
 de 5154
 să 5109
 Tom 4320
-a 3772
+a 3773
 este 3360
 în 2867
-nu 2822
+nu 2824
 o 2370
 că 2295
 la 2231
-Nu 2135
+Nu 2136
 cu 1737
 pe 1681
 un 1642
@@ -16,17 +16,17 @@ mai 1489
 ce 1257
 și 1237
 fost 1227
-Am 1086
-asta 1019
+Am 1087
+asta 1020
 pentru 1018
 din 974
-se 972
+se 973
 sunt 952
 El 937
 e 897
 Mary 881
 lui 829
-am 814
+am 815
 fi 757
 care 677
 A 642
@@ -38,7 +38,7 @@ foarte 593
 au 586
 Ea 542
 are 539
-ca 525
+ca 528
 spus 522
 Sunt 497
 De 482
@@ -124,7 +124,7 @@ Să 183
 tău 183
 îmi 182
 unde 182
-cum 181
+cum 182
 nimic 181
 Dacă 180
 cred 180
@@ -138,7 +138,7 @@ eu 177
 atât 176
 ceea 176
 dat 173
-pare 172
+pare 173
 bun 170
 Acest 168
 toate 166
@@ -185,8 +185,8 @@ putut 130
 Poți 130
 rău 129
 nou 127
+bani 125
 Aș 124
-bani 124
 le 123
 Nu-mi 123
 toată 120
@@ -210,13 +210,13 @@ sub 112
 Tu 112
 vorbesc 111
 fiecare 111
+sa 111
 fiu 111
 astăzi 110
 plecat 110
 fel 110
 Chiar 110
 cea 109
-sa 109
 pierdut 109
 merge 108
 noastră 108
@@ -243,10 +243,10 @@ trecut 97
 mele 97
 deja 96
 mulți 96
+uitat 96
 vrei 96
 carte 95
 Se 95
-uitat 95
 La 94
 limba 94
 niște 94
@@ -259,9 +259,9 @@ l-a 91
 Avem 89
 auzit 89
 plac 89
+cine 88
 persoană 88
 câteva 87
-cine 87
 veni 87
 Din 87
 vrut 87
@@ -745,6 +745,7 @@ Dan 29
 nu-l 29
 Viața 29
 joacă 29
+Mi 29
 știam 29
 iei 29
 bune 29
@@ -778,7 +779,6 @@ luăm 28
 Nu-l 28
 motiv 28
 Câte 28
-Mi 28
 soția 28
 acela 28
 lungă 28
@@ -963,6 +963,7 @@ așteptat 22
 apărut 22
 șapte 21
 Bine 21
+aveam 21
 lună 21
 beau 21
 găsesc 21
@@ -1003,7 +1004,6 @@ nu-mi 21
 refuzat 21
 scos 21
 opt 20
-aveam 20
 cafeaua 20
 folosit 20
 școala 20
@@ -1075,6 +1075,7 @@ ceas 19
 întorc 19
 aud 19
 fotbal 19
+lumina 19
 suna 19
 Prefer 19
 ele 19
@@ -1120,7 +1121,6 @@ vina 18
 aduc 18
 Tocmai 18
 stricat 18
-lumina 18
 ceai 18
 răspunde 18
 mijlocul 18
@@ -2482,6 +2482,7 @@ radioul 8
 Mennad 8
 slăbiciune 8
 Țepeș 8
+Yanni 8
 Clădirea 7
 mulțumiți 7
 zăpezii 7
@@ -2614,6 +2615,7 @@ rele 7
 buton 7
 tablou 7
 stradă 7
+descrie 7
 spartă 7
 curată 7
 Internet 7
@@ -2808,7 +2810,6 @@ Argumentul 7
 Bănuiesc 7
 Fetița 7
 topit 7
-Yanni 7
 egale 6
 Vorbiți 6
 italiană 6
@@ -2995,7 +2996,6 @@ plăti 6
 ocupi 6
 strict 6
 reducere 6
-descrie 6
 îngrozitor 6
 artă 6
 capăt 6
@@ -3137,6 +3137,7 @@ medie 6
 Încântat 6
 Lasă-l 6
 locurile 6
+realizat 6
 glumele 6
 râzi 6
 vândă 6
@@ -3613,7 +3614,6 @@ grade 5
 canapea 5
 înșivă 5
 pictat 5
-realizat 5
 poreclă 5
 sâmbăta 5
 însăși 5
@@ -3728,6 +3728,7 @@ spuneau 5
 cafenea 5
 calmez 5
 a-i 5
+stie 5
 desfășurare 5
 oferă 5
 privea 5
@@ -3775,6 +3776,7 @@ Atmosfera 5
 Mi-au 5
 imaginația 5
 acelea 5
+destui 5
 profil 5
 cooperarea 5
 șerpi 5
@@ -4527,7 +4529,6 @@ descrierii 4
 urechea 4
 protejează 4
 invata 4
-stie 4
 trenurilor 4
 n-aș 4
 Ah 4
@@ -4618,7 +4619,6 @@ Temperatura 4
 identitate 4
 zâmbește 4
 scări 4
-destui 4
 post 4
 primii 4
 caractere 4
@@ -5870,6 +5870,7 @@ obrăznicii 3
 oxigen 3
 sarcinile 3
 Fața 3
+stiu 3
 Culoarea 3
 cumva 3
 ghid 3
@@ -8237,7 +8238,6 @@ sa-i 2
 si-a 2
 expresie 2
 ședințe 2
-stiu 2
 Iti 2
 inveti 2
 N-o 2
@@ -9135,6 +9135,7 @@ cenzurez 2
 Cenzura 2
 ruși 2
 selfie-uri 2
+ucis-o 2
 homofob 2
 poker 2
 Portofelul 2
@@ -9997,4 +9998,3 @@ acordate 1
 clienţilor 1
 riscanţi 1
 Pregătirea 1
-Tamori 1

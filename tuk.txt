@@ -1,11 +1,11 @@
 Tom 1156
 Men 861
 Ol 483
-bilen 431
+bilen 432
 Sen 309
 üçin 298
 we 286
-Bu 279
+Bu 282
 bir 216
 näme 208
 gowy 196
@@ -16,8 +16,8 @@ hiç 185
 Mery 180
 däl 179
 Meri 176
+öz 168
 aýtdy 168
-öz 167
 bar 157
 Tomuň 153
 men 149
@@ -145,10 +145,10 @@ bäri 29
 iş 29
 bol 29
 has 29
+jogap 29
 özi 29
 ýeke 29
 biri 29
-jogap 28
 emma 28
 indi 28
 Marynyň 28
@@ -585,6 +585,7 @@ daşary 8
 tokaýa 8
 hemmesini 8
 ýaz 7
+dünýäde 7
 nirededigini 7
 eken 7
 gepläp 7
@@ -680,7 +681,6 @@ soradym 7
 Saña 7
 islemeýen 7
 Merinyň 7
-dünýäde 6
 alty 6
 gara 6
 bilýäňmi 6
@@ -824,6 +824,7 @@ dil 5
 Hawa 5
 sözlem 5
 radio 5
+ýaşap 5
 gyzym 5
 ýagşy 5
 iýjek 5
@@ -1017,7 +1018,6 @@ At 4
 meýletinçi 4
 düşünmedi 4
 diňleýärdi 4
-ýaşap 4
 maşgalam 4
 sürmegi 4
 Aşgabada 4
@@ -2321,6 +2321,7 @@ Nämedigine 2
 şoňa 2
 Dän 2
 başga-da 2
+berdimi 2
 etjegine 2
 Suwly 2
 döwürler 2
@@ -3254,6 +3255,7 @@ gap-gaçlary 2
 üçindir 2
 Germaniýa 2
 ulananok 2
+soragyňyza 2
 Asmanda 1
 petreşip 1
 Är-aýalyň 1
@@ -4857,7 +4859,6 @@ baglabiljegimi 1
 bukulýardy 1
 gizlenipdir 1
 görkezme 1
-berdimi 1
 goraýarlar 1
 goraýar 1
 garawullaýar 1
@@ -9997,4 +9998,3 @@ saman 1
 Öýe 1
 gürleşmäne 1
 gitmekçimi 1
-eýwanda 1
