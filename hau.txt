@@ -9,7 +9,7 @@ ne 2305
 ka 1821
 iya 1393
 mai 1305
-Na 1223
+Na 1224
 cikin 1218
 Ina 1211
 shi 1097
@@ -128,13 +128,13 @@ sanya 224
 gidan 224
 Da 218
 zo 217
+ɗan 217
 tunanin 217
 samun 217
-ɗan 216
 an 215
 bane 215
 wasu 214
-dan 213
+dan 212
 akwai 212
 ranar 211
 mata 210
@@ -316,10 +316,10 @@ yayin 90
 ana 90
 yaya 90
 shan 90
+rasa 89
 Kar 89
 bukatar 88
 sau 88
-rasa 88
 baka 88
 bayyana 88
 wane 88
@@ -445,7 +445,6 @@ gan 61
 mace 60
 sannan 60
 laifin 60
-karfe 60
 kaya 60
 gaban 60
 iska 60
@@ -454,6 +453,7 @@ Daga 59
 shawara 59
 kuɗin 59
 Kowa 59
+karfe 59
 ɗauka 59
 Brown 59
 alama 59
@@ -524,7 +524,6 @@ sakamakon 50
 bana 50
 haifar 50
 mahimmanci 50
-kafa 49
 kayi 49
 sanyi 49
 Yaushe 49
@@ -547,6 +546,7 @@ dalilin 48
 dauki 48
 nayi 48
 amince 48
+kafa 48
 rauni 48
 iri 48
 sanin 48
@@ -614,6 +614,7 @@ kyakkyawan 42
 matuƙar 42
 hawa 42
 mamakin 42
+ƙarfe 42
 ido 42
 kenan 42
 Amma 42
@@ -624,7 +625,6 @@ farkon 42
 Hakan 42
 gode 41
 jefa 41
-ƙarfe 41
 gwada 41
 sunan 41
 raba 41
@@ -695,6 +695,7 @@ gashi 36
 iso 36
 fushi 36
 ƙi 36
+ƙafa 35
 kunya 35
 Ingilishi 35
 Yin 35
@@ -711,7 +712,6 @@ kyakkyawa 34
 Turanci 34
 dubu 34
 labari 34
-ƙafa 34
 marasa 34
 jiran 34
 injin 34
@@ -777,6 +777,7 @@ Mutumin 31
 karshen 31
 samo 31
 maida 31
+ƙwallon 30
 kwanta 30
 taimakon 30
 zamani 30
@@ -815,7 +816,6 @@ maimakon 29
 za'a 29
 bayar 29
 miki 29
-ƙwallon 29
 menene 29
 awanni 29
 shekarun 29
@@ -857,7 +857,6 @@ zaɓi 28
 fa 28
 Jiya 28
 bayanan 28
-kwallon 27
 Barka 27
 likita 27
 ihu 27
@@ -894,6 +893,7 @@ dabbobi 26
 zafin 26
 hali 26
 yace 26
+kwallon 26
 yaƙin 26
 gasar 26
 tambayar 26
@@ -7044,7 +7044,6 @@ Koriyanci 1
 inbiya 1
 inkwana 1
 tom 1
-Narasa 1
 kyamarata 1
 Kyamarata 1
 kacijeni 1
@@ -9998,3 +9997,4 @@ Giwar 1
 makarantan 1
 jigo 1
 ƙarafa 1
+Barazanar 1

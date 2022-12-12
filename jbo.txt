@@ -1,8 +1,8 @@
-lo 12491
-mi 5840
+lo 12492
+mi 5842
 do 3294
-cu 3288
-la 2545
+cu 3290
+la 2546
 pu 2254
 nu 2090
 le 1925
@@ -24,7 +24,7 @@ klama 648
 ti 617
 ba 565
 du'u 540
-ro 516
+ro 517
 djica 485
 poi 485
 nelci 472
@@ -61,13 +61,13 @@ tavla 235
 kei 232
 me 227
 ei 227
-mi'o 220
+mi'o 221
 fa 220
 ri 220
 tam 219
 ba'o 214
+prami 210
 re 209
-prami 209
 gi'e 201
 bu'u 201
 je 200
@@ -81,7 +81,7 @@ dunda 173
 nitcu 173
 xamgu 173
 noi 171
-mlatu 169
+mlatu 170
 fo 167
 lu 166
 li'u 163
@@ -1362,6 +1362,7 @@ draci 6
 ranti 6
 softo 6
 ve'u 6
+smani 6
 by 6
 latcribe 6
 funca 6
@@ -1494,7 +1495,6 @@ porto 5
 cu'upre 5
 tcyn 5
 dinsauru 5
-smani 5
 tomas 5
 loni 5
 muslo 5
@@ -6424,3 +6424,5 @@ tcemodani 1
 dis 1
 djaneiros 1
 toldralogji 1
+lailas 1
+filso 1

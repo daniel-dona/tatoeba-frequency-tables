@@ -48,6 +48,7 @@ Der 8
 guet 7
 wo 7
 Was 7
+no 7
 dä 7
 En 6
 in 6
@@ -60,7 +61,6 @@ er 6
 Das 6
 und 6
 mit 6
-no 6
 für 6
 lang 5
 dir 5
@@ -100,6 +100,7 @@ Wa 4
 Wasser 4
 Isch 4
 hend 4
+sehr 4
 Amerika 4
 gang 4
 über 4
@@ -117,6 +118,7 @@ Mi 3
 name 3
 mitenand 3
 Vo 3
+au 3
 häissisch 3
 zum 3
 Chan 3
@@ -133,12 +135,12 @@ bis 3
 ihn 3
 öppis 3
 hesch 3
+gern 3
 wird 3
 Lüt 3
 als 3
 Min 3
 spielt 3
-sehr 3
 alli 3
 gstorbe 3
 würkli 3
@@ -147,8 +149,10 @@ Problem 3
 vor 3
 mache 3
 zimli 3
+chönd 3
 händ 3
 vill 3
+Ihr 3
 Grüezi 2
 is 2
 Gueten 2
@@ -168,7 +172,6 @@ Nööchi 2
 Hoi 2
 Bis 2
 Ihnä 2
-au 2
 din 2
 Prueff 2
 Chasch 2
@@ -211,7 +214,6 @@ Geld 2
 Büro 2
 Belgie 2
 ufem 2
-gern 2
 Chäs 2
 Männer 2
 Schlüssel 2
@@ -271,7 +273,6 @@ passiert 2
 dem 2
 üs 2
 hättet 2
-chönd 2
 morn 2
 warte 2
 siit 2
@@ -279,7 +280,6 @@ luegt 2
 woni 2
 muess 2
 verstoht 2
-Ihr 2
 Zug 2
 Die 2
 an 2
@@ -975,3 +975,7 @@ nächercho 1
 Sami 1
 hockt 1
 Bar 1
+natürli 1
+anderi 1
+Lüüt 1
+fröge 1

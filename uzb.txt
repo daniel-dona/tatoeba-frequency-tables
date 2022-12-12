@@ -1,4 +1,4 @@
-Bu 59
+Bu 60
 U 59
 Men 59
 bor 32
@@ -35,6 +35,7 @@ suv 9
 бор 8
 бир 8
 emasman 8
+kim 8
 menga 8
 yomon 8
 edim 8
@@ -44,7 +45,6 @@ ishlayman 8
 ва 7
 issiq 7
 va 7
-kim 7
 pul 7
 kitob 7
 yashaydi 7
@@ -2221,3 +2221,5 @@ dunyoda 1
 qoidalaring 1
 yashay 1
 olmaysan 1
+jumlani 1
+yozdi 1

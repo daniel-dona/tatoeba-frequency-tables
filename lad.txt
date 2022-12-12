@@ -1,16 +1,16 @@
-es 230
+es 231
 un 128
-Tom 101
-El 91
+Tom 104
+El 92
 en 86
 el 81
 de 78
-no 76
+no 77
 איס 72
 la 70
-una 55
+una 56
+esta 56
 No 54
-esta 53
 a 48
 La 43
 איל 42
@@ -19,7 +19,7 @@ i 33
 Esto 33
 los 32
 און 32
-Los 31
+Los 32
 pan 31
 ke 30
 kon 29
@@ -34,13 +34,13 @@ mi 22
 muy 21
 So 21
 אונה 21
+se 20
 esto 19
 tiene 19
 las 18
 perro 18
 plaze 18
 Yo 18
-se 17
 gato 17
 lingua 16
 Sos 16
@@ -57,6 +57,7 @@ preto 14
 puerta 14
 kaza 13
 Sosh 13
+ambezando 13
 איסטה 13
 Kero 12
 djudios 12
@@ -68,6 +69,7 @@ Onde 12
 Tengo 12
 Deke 12
 mujer 11
+fue 11
 Somos 11
 era 11
 estan 11
@@ -78,13 +80,11 @@ me 10
 aki 10
 del 10
 le 10
-fue 10
 plazen 10
 padre 10
 te 10
 ladron 10
 די 10
-ambezando 10
 קי 10
 Ladino 9
 A 9
@@ -133,6 +133,7 @@ problemes 7
 emportantes 7
 Espanya 6
 kero 6
+Avlo 6
 fransez 6
 estamos 6
 mavi 6
@@ -162,7 +163,6 @@ al 5
 mozotros 5
 Yerushalayim 5
 Eyos 5
-Avlo 5
 o 5
 mavis 5
 bisikleta 5
@@ -296,6 +296,7 @@ tres 3
 kuatro 3
 bivia 3
 morava 3
+Ayer 3
 muestro 3
 shekel 3
 posivle 3
@@ -323,6 +324,7 @@ tienen 3
 אקי 3
 Avre 3
 Avrid 3
+egzisten 3
 Tatoeba 3
 tuvo 3
 indo 3
@@ -338,6 +340,7 @@ similares 3
 קון 3
 ombres 3
 ingleza 3
+palestiniana 3
 meldar 3
 ירושלים 3
 סיקולאר 3
@@ -387,6 +390,7 @@ Fransya 2
 komparte 2
 frontieras 2
 pais 2
+buenos 2
 save 2
 Aki 2
 Si 2
@@ -436,6 +440,7 @@ estado 2
 independente 2
 fashista 2
 Bashustune 2
+alhad 2
 Ayde 2
 Buyrun 2
 Bienvenidos 2
@@ -458,7 +463,6 @@ siete 2
 ocho 2
 mueve 2
 dies 2
-Ayer 2
 djugeves 2
 djueves 2
 kantar 2
@@ -543,7 +547,6 @@ estas 2
 פאדרי 2
 puertas 2
 avre 2
-egzisten 2
 Apoya 2
 apoyava 2
 otro 2
@@ -569,7 +572,6 @@ ambezates 2
 פלאזין 2
 patolojiko 2
 franseza 2
-palestiniana 2
 komunisto 2
 קומוניסטו 2
 djenio 2
@@ -722,7 +724,6 @@ Marroko 1
 skrivir 1
 artikulo 1
 Venidos 1
-buenos 1
 solo 1
 kuzinar 1
 arroz 1
@@ -847,7 +848,6 @@ antisemita 1
 saliendo 1
 Izo 1
 inyeve 1
-alhad 1
 Carol 1
 Chikago 1
 Japon 1
@@ -1721,4 +1721,13 @@ frekuentes 1
 frekuente 1
 les 1
 bananas 1
-Savia 1
+savia 1
+estados 1
+Layla 1
+bengali 1
+Vijiti 1
+meskita 1
+Krav 1
+Maga 1
+karate 1
+djudo 1

@@ -1,12 +1,12 @@
-je 2188
-sa 2088
+je 2189
+sa 2089
 som 1842
 Tom 1605
 si 1497
 to 1298
-že 1082
-na 991
-v 761
+že 1083
+na 992
+v 762
 a 602
 mi 507
 Je 464
@@ -28,7 +28,7 @@ Prečo 249
 aby 245
 tu 240
 má 232
-ma 230
+ma 231
 Mária 229
 z 222
 ťa 212
@@ -50,7 +50,7 @@ V 141
 ich 140
 Ako 140
 Si 138
-Myslím 136
+Myslím 137
 Toma 135
 vám 133
 povedal 131
@@ -105,11 +105,11 @@ deň 75
 pomôcť 74
 Kedy 74
 Táto 73
+čas 73
 ja 73
 kto 72
-čas 72
 môj 72
-Ak 70
+Ak 71
 aj 70
 kde 70
 svoje 69
@@ -159,10 +159,10 @@ dlho 56
 prosím 56
 chceš 56
 rokov 55
+moja 55
 Nemám 55
 chce 55
 list 55
-moja 54
 Môžem 54
 deti 54
 len 54
@@ -190,6 +190,7 @@ mám 48
 Aké 48
 či 48
 Márii 48
+mať 48
 Zajtra 48
 tvoja 47
 Každý 47
@@ -197,7 +198,6 @@ Ty 47
 Videl 47
 otec 47
 Potrebujem 47
-mať 47
 Všetko 47
 Teraz 47
 Nemôžem 47
@@ -221,12 +221,12 @@ všetky 42
 psa 42
 dve 42
 spať 42
+budem 42
 Nechcem 42
 včera 42
 čaj 42
 však 42
 ty 41
-budem 41
 Tomom 41
 tú 41
 ľudia 40
@@ -506,6 +506,7 @@ ona 20
 učí 20
 Mala 20
 neskôr 20
+Po 20
 krásna 20
 hovoria 20
 svete 20
@@ -532,7 +533,6 @@ zvyčajne 19
 volá 19
 pero 19
 nebude 19
-Po 19
 krajina 19
 krásne 19
 priateľ 19
@@ -603,6 +603,7 @@ nemal 17
 dať 17
 pršať 17
 zem 17
+prídem 17
 jednu 17
 priateľov 17
 Kniha 17
@@ -637,13 +638,14 @@ späť 16
 minút 16
 koláč 16
 dňa 16
+mama 16
 Choď 16
 posteli 16
 Bude 16
 Urobila 16
 hovoríš 16
 nevedel 16
-prídem 16
+Bolí 16
 Vie 16
 minulý 16
 pohár 16
@@ -670,7 +672,6 @@ Vo 15
 svojom 15
 Hľadám 15
 detí 15
-mama 15
 Zem 15
 Otec 15
 Niekto 15
@@ -679,7 +680,6 @@ skôr 15
 raňajky 15
 tvoju 15
 budeme 15
-Bolí 15
 hudbu 15
 otázku 15
 Myslíš 15
@@ -806,6 +806,7 @@ Keby 13
 musel 13
 nádherný 13
 myslel 13
+Buďte 13
 Nebudem 13
 tanier 13
 stáť 13
@@ -870,7 +871,6 @@ vašu 12
 jedlo 12
 otázok 12
 čom 12
-Buďte 12
 obľúbená 12
 bojí 12
 Povedali 12
@@ -1600,6 +1600,7 @@ záleží 6
 pôjdeme 6
 zime 6
 Ruska 6
+možno 6
 Kôň 6
 nenávidia 6
 obľúbený 6
@@ -1878,7 +1879,6 @@ eur 5
 Zavolám 5
 tí 5
 bábätko 5
-možno 5
 chrbát 5
 nemôžeme 5
 slzy 5
@@ -4904,6 +4904,7 @@ zablahoželal 2
 Zablahoželal 2
 vášmu 2
 zablahoželať 2
+výhre 2
 ospravedlnil 2
 vyčítať 2
 zasadiť 2
@@ -9654,7 +9655,6 @@ výročiu 1
 víťazstvu 1
 Obom 1
 Neblahoželaj 1
-výhre 1
 Nebojíš 1
 Nebojíte 1
 obliekla 1

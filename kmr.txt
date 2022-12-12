@@ -4,22 +4,22 @@ xwe 1029
 min 987
 ji 985
 bi 934
-li 815
+li 816
 Ew 811
 ê 735
 û 661
-ye 633
-ku 600
+ye 635
+ku 601
 Em 542
 Tom 542
-Tu 515
+Tu 516
 me 513
 te 493
 de 459
 ne 397
 re 384
 Min 358
-Hûn 300
+Hûn 301
 di 297
 kir 293
 çi 279
@@ -207,6 +207,7 @@ Bavê 28
 biçim 28
 xwar 28
 ti 28
+qet 28
 derbas 28
 dikare 27
 nikarim 27
@@ -218,7 +219,6 @@ nav 27
 jiyana 27
 bîst 26
 karê 26
-qet 26
 tişt 26
 dikir 25
 dil 25
@@ -430,6 +430,7 @@ guhdarî 13
 bajarê 13
 zarok 13
 nekî 13
+Mirov 13
 birayên 13
 hatiye 13
 Çend 13
@@ -470,7 +471,6 @@ bimîne 12
 vala 12
 hewl 12
 berfê 12
-Mirov 12
 jin 12
 biparêzin 12
 dikeve 12
@@ -659,6 +659,7 @@ tevlî 9
 Karê 9
 çêtir 9
 karekî 9
+hema 9
 Ger 9
 daran 9
 nabim 9
@@ -822,7 +823,6 @@ hevalan 7
 dixuye 7
 Dev 7
 dixwe 7
-hema 7
 nefret 7
 Laşê 7
 pak 7
@@ -979,6 +979,7 @@ dişo 6
 paşê 6
 nîşanî 6
 spî 6
+pirsan 6
 vekin 6
 lîsteyê 6
 kêleka 6
@@ -1378,7 +1379,6 @@ belaş 4
 xew 4
 rewşê 4
 Xêra 4
-pirsan 4
 ta 4
 kirîn 4
 rabûm 4
@@ -1928,6 +1928,7 @@ zarokeke 3
 bajarî 3
 kete 3
 hêdîka 3
+Xanî 3
 aliyekî 3
 lîstokê 3
 Zînê 3
@@ -2927,7 +2928,6 @@ Cîrana 2
 silav 2
 pêşwazî 2
 Ehmedê 2
-Xanî 2
 avahiyên 2
 qat 2
 Baxçeyê 2
@@ -9184,3 +9184,7 @@ derewnekirinê 1
 kirêkirin 1
 xakên 1
 erebe 1
+dupêyekî 1
+bêmû 1
+napirsî 1
+napirsin 1

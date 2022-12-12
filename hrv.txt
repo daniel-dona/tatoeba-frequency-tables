@@ -1,7 +1,7 @@
-je 1601
+je 1602
 se 597
-u 538
-sam 447
+u 539
+sam 449
 da 408
 li 382
 na 315
@@ -12,12 +12,12 @@ su 205
 mi 201
 Ne 190
 to 184
+si 164
 što 164
-si 163
 za 163
 nije 156
+On 144
 od 144
-On 143
 To 119
 ti 118
 te 118
@@ -47,9 +47,9 @@ Mary 50
 sve 49
 još 49
 kako 48
+dobro 48
 tako 47
 može 47
-dobro 47
 iz 47
 ali 46
 prije 46
@@ -171,6 +171,7 @@ kući 20
 Uvijek 20
 tome 20
 voli 20
+vidio 20
 jednu 20
 Ovaj 20
 Moram 20
@@ -180,7 +181,6 @@ svojim 19
 kupio 19
 knjigu 19
 jer 19
-vidio 19
 Znam 19
 Ako 19
 došao 19
@@ -240,6 +240,7 @@ ostati 15
 Kad 15
 Neki 15
 svog 15
+Sada 15
 imao 15
 Ova 15
 kavu 15
@@ -258,7 +259,6 @@ psa 14
 znati 14
 francuski 14
 kojeg 14
-Sada 14
 koja 14
 učinio 14
 Još 14
@@ -404,6 +404,7 @@ njemački 9
 opasnosti 9
 neki 9
 Čovjek 9
+tvoju 9
 baš 9
 kiša 9
 mjesto 9
@@ -453,11 +454,11 @@ istina 8
 Evo 8
 prozor 8
 Bolje 8
-tvoju 8
 bolestan 8
 poput 8
 ljeta 8
 pričati 8
+Dao 8
 Neka 8
 veoma 8
 pod 8
@@ -602,7 +603,6 @@ Daj 6
 spreman 6
 cipele 6
 glazbu 6
-Dao 6
 okus 6
 možda 6
 mišljenje 6
@@ -680,6 +680,7 @@ hrani 6
 dala 6
 Voda 6
 ostao 6
+im 6
 idemo 6
 hoće 6
 - 6
@@ -757,6 +758,7 @@ trebaš 5
 sir 5
 kći 5
 voliš 5
+adresu 5
 Tvoja 5
 tjednu 5
 djevojčica 5
@@ -812,6 +814,7 @@ njegovoj 5
 piše 5
 pažljivo 5
 vjeruje 5
+Tokiju 5
 pitanja 5
 Tako 5
 iskren 5
@@ -1055,8 +1058,8 @@ polako 4
 drugog 4
 krevetu 4
 učio 4
-Tokiju 4
 mojoj 4
+vozi 4
 stvar 4
 zemlji 4
 poslao 4
@@ -1088,7 +1091,6 @@ pospan 4
 nužno 4
 no 4
 dođeš 4
-im 4
 Pokušaj 4
 Postoji 4
 bolnici 4
@@ -1304,7 +1306,6 @@ Umoran 3
 Izgledaš 3
 sretno 3
 Govoriš 3
-adresu 3
 slijedi 3
 plan 3
 odlično 3
@@ -1413,6 +1414,7 @@ godišnje 3
 proveo 3
 čitajući 3
 psi 3
+živim 3
 Nadamo 3
 završiti 3
 kojoj 3
@@ -1441,7 +1443,6 @@ primjer 3
 ovca 3
 doručak 3
 probudio 3
-vozi 3
 zarađuje 3
 uči 3
 Vlada 3
@@ -2057,7 +2058,6 @@ vezi 2
 bolnice 2
 osjetljiv 2
 takve 2
-živim 2
 ćete 2
 uživati 2
 pola 2
@@ -8060,3 +8060,7 @@ Jemenu 1
 džuda 1
 džiju-džice 1
 staviti 1
+Trčao 1
+Yanni 1
+duha 1
+vašu 1

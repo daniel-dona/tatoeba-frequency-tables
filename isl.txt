@@ -10,7 +10,7 @@ Hann 792
 til 764
 og 727
 það 680
-við 667
+við 668
 Hún 665
 Þú 634
 hann 633
@@ -93,7 +93,7 @@ mín 102
 allt 96
 þess 96
 Hvernig 96
-Vinsamlegast 93
+Vinsamlegast 94
 bara 93
 þarf 93
 ráðlagði 93
@@ -121,12 +121,12 @@ vegna 78
 þau 77
 enn 77
 væri 76
+Hvar 76
 henni 76
 Hversu 76
 maður 75
 þessa 75
 fá 74
-Hvar 73
 sinni 73
 þitt 73
 hvort 73
@@ -139,10 +139,10 @@ Ef 70
 undir 70
 heldur 70
 ertu 70
+þið 70
 þessu 68
 vil 68
 voru 67
-þið 67
 áður 66
 klukkan 65
 tók 65
@@ -292,6 +292,7 @@ virðist 33
 hitti 33
 sex 33
 hægt 33
+tvö 33
 spurði 33
 eitt 33
 hafi 33
@@ -305,7 +306,6 @@ fyrr 32
 bókina 32
 Komdu 32
 þangað 32
-tvö 32
 Mary 32
 uppáhalds 32
 nema 32
@@ -599,6 +599,7 @@ einungis 17
 Veistu 17
 Maður 17
 fylgja 17
+tvær 17
 þessar 17
 baka 17
 töluðum 17
@@ -633,7 +634,6 @@ vill 16
 fólki 16
 séu 16
 nýjan 16
-tvær 16
 yngri 16
 þrjá 16
 sjálfan 16
@@ -840,6 +840,7 @@ fisk 12
 gefið 12
 Lífið 12
 Fólk 12
+tveir 12
 Tatoeba 12
 brauð 12
 háttinn 12
@@ -901,7 +902,6 @@ Svo 11
 Skórnir 11
 dó 11
 Barnið 11
-tveir 11
 Jafnvel 11
 byrjar 11
 sækja 11
@@ -988,6 +988,7 @@ verðið 10
 Velkomin 10
 kvöldmatinn 10
 manns 10
+setningu 10
 spyrja 10
 Gæti 10
 markaðinn 10
@@ -1094,7 +1095,6 @@ ljúka 9
 innan 9
 akkúrat 9
 útlöndum 9
-setningu 9
 glaður 9
 manneskju 9
 varstu 9
@@ -2120,6 +2120,7 @@ hvergi 4
 byggt 4
 nýtur 4
 fréttunum 4
+nýrri 4
 Parísar 4
 kílómetra 4
 hangir 4
@@ -2440,6 +2441,7 @@ Margar 4
 krabbameini 4
 veistu 4
 Sérðu 4
+voruð 4
 veg 4
 bílskúrinn 4
 líkaði 4
@@ -2659,7 +2661,6 @@ sársauka 3
 bakinu 3
 Kólumbus 3
 lengra 3
-nýrri 3
 hlutum 3
 sofna 3
 Myndin 3
@@ -9949,7 +9950,6 @@ gervispákona 1
 tarotspilastokk 1
 Kenningin 1
 lestrarefni 1
-voruð 1
 uppáhaldsrithöfund 1
 uppáhaldsbók 1
 Sovétríkin 1

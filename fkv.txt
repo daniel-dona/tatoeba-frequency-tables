@@ -8,8 +8,8 @@ Hän 17
 Met 15
 ole 14
 Mie 13
+se 13
 Tämä 13
-se 12
 ko 11
 tahi 11
 ette 10
@@ -171,6 +171,7 @@ olin 2
 Isä 2
 kova 2
 ulos 2
+lukkee 2
 antoi 2
 Kirja 2
 Tervettulemaa 2
@@ -522,7 +523,6 @@ kaja 1
 liikkuu 1
 fiskariita 1
 tarvitte 1
-lukkee 1
 Museumissa 1
 näyttely 1
 Rakenus 1
@@ -1286,3 +1286,6 @@ Hyvväilyelläin 1
 pöyđälä 1
 Tavustalla 1
 hökötyksii 1
+Selvä 1
+Telefuuninumero 1
+telefuunikatalookissa 1

@@ -1,11 +1,11 @@
 er 15040
-Jeg 9805
-at 7791
+Jeg 9806
+at 7793
 en 7322
 Tom 7210
 i 7209
 ikke 6960
-har 6525
+har 6526
 du 4601
 til 4479
 på 4232
@@ -13,9 +13,9 @@ det 4207
 for 3353
 og 3349
 jeg 3223
-Han 3043
+Han 3044
 Det 2930
-med 2875
+med 2876
 af 2855
 var 2852
 et 2781
@@ -31,7 +31,7 @@ Mary 1574
 vil 1567
 Du 1551
 I 1544
-han 1519
+han 1520
 så 1461
 som 1456
 min 1344
@@ -60,7 +60,7 @@ vi 743
 skal 737
 går 731
 lide 724
-op 713
+op 714
 have 699
 os 696
 noget 682
@@ -70,7 +70,7 @@ end 666
 hvad 650
 godt 641
 men 623
-ville 592
+ville 593
 alle 591
 to 586
 hende 583
@@ -123,8 +123,8 @@ alt 363
 tager 358
 se 357
 taler 357
+tage 353
 Hvem 353
-tage 352
 må 348
 god 346
 mere 346
@@ -243,7 +243,7 @@ drikker 171
 døde 170
 står 170
 æbler 169
-holde 167
+holde 168
 På 166
 liv 166
 barn 166
@@ -345,10 +345,10 @@ holdt 122
 andet 122
 håber 121
 hedder 121
+fire 121
 seng 121
 hundrede 121
 bruger 121
-fire 120
 øjne 119
 født 119
 faldt 118
@@ -371,10 +371,10 @@ spist 112
 tit 111
 kop 111
 Din 110
-lang 110
 store 110
 sætning 110
 Hendes 109
+lang 109
 næste 109
 drikke 109
 Kom 108
@@ -414,12 +414,12 @@ tur 98
 bussen 97
 spurgte 97
 hvorfor 97
+katte 97
 sidder 97
 familie 97
 kvinder 96
 fisk 96
 syg 96
-katte 96
 skrevet 96
 løb 95
 computer 95
@@ -434,6 +434,7 @@ haft 93
 Alt 92
 Når 92
 tysk 92
+langt 92
 leve 92
 Nu 92
 problem 91
@@ -441,7 +442,6 @@ mistet 91
 blå 91
 At 91
 behøver 91
-langt 91
 sko 90
 John 90
 søster 90
@@ -1455,6 +1455,7 @@ minder 22
 Endelig 22
 Hvilke 22
 "Er 22
+lovede 22
 rette 22
 foråret 22
 trætte 22
@@ -1517,7 +1518,6 @@ foto 21
 salg 21
 bygningen 21
 Spiser 21
-lovede 21
 svømmede 21
 sytten 21
 kaffen 21
@@ -2093,6 +2093,7 @@ ansvarlig 14
 undgå 14
 flyet 14
 50 14
+stoffer 14
 opgave 14
 forventer 14
 Passer 14
@@ -2219,7 +2220,6 @@ stiger 13
 indkøb 13
 glade 13
 uheld 13
-stoffer 13
 virkede 13
 Vort 13
 midnat 13
@@ -3183,7 +3183,6 @@ fører 8
 Computeren 8
 sparer 8
 bladene 8
-mild 8
 Stig 8
 hjemmeopgave 8
 bjergene 8
@@ -3489,6 +3488,7 @@ litteratur 7
 såfremt 7
 gaven 7
 styre 7
+mild 7
 forår 7
 vinden 7
 æsken 7
@@ -4028,6 +4028,7 @@ fremstillet 6
 løser 6
 uenig 6
 Efteråret 6
+mildt 6
 marken 6
 kakerlakker 6
 skynde 6
@@ -4952,7 +4953,6 @@ internetforbindelse 5
 stedmor 5
 hvidløg 5
 afbryde 5
-mildt 5
 hoppe 5
 tilfredse 5
 slanke 5

@@ -1,16 +1,16 @@
-est 9438
-et 4612
-in 4220
-Thomas 3304
-non 3177
-sunt 2067
+est 9442
+et 4613
+in 4221
+Thomas 3305
+non 3178
+sunt 2068
 ad 1662
 / 1565
 mihi 1420
 esse 1319
 sum 1262
-me 1140
-ut 1072
+me 1141
+ut 1073
 quam 984
 te 926
 tibi 921
@@ -25,20 +25,20 @@ Didymus 685
 In 681
 Non 677
 quod 677
-eius 633
+eius 634
 hoc 632
-mea 600
+mea 601
 qui 583
 eum 582
 habet 569
 a 548
-erat 545
+erat 546
 meus 518
-sed 510
+sed 511
 Cur 480
 Hoc 472
 Et 455
-Hic 443
+Hic 444
 Thōmās 431
 Haec 430
 id 429
@@ -48,8 +48,8 @@ ex 395
 Thoman 392
 meum 386
 autem 380
-quid 377
-Thomae 372
+quid 378
+Thomae 373
 per 359
 dixit 354
 tua 348
@@ -80,7 +80,7 @@ e 281
 eo 279
 opus 277
 annos 275
-sumus 274
+sumus 275
 facere 267
 Nihil 265
 quæ 265
@@ -90,17 +90,17 @@ nobis 256
 linguam 254
 quae 252
 ea 250
+omnes 247
 volo 246
 tuus 246
-omnes 245
 terra 245
 tu 241
 Ego 237
-librum 236
+librum 237
 nomen 235
 Nonne 235
 Ad 234
-Mariae 233
+Mariae 234
 meam 232
 Qui 231
 omnia 229
@@ -147,8 +147,8 @@ quem 167
 illa 166
 pro 165
 tuam 163
+pulchra 162
 erit 161
-pulchra 161
 quo 159
 licet 158
 nunquam 158
@@ -156,16 +156,16 @@ Hodie 158
 Quandō 158
 apud 158
 nōn 156
+dedit 156
 Nunc 156
 sē 156
-dedit 155
 Quando 153
 domus 153
 die 153
 facit 152
 Eum 152
 ille 151
-illud 150
+illud 151
 edit 149
 iam 148
 homines 147
@@ -208,12 +208,12 @@ haec 130
 mē 130
 Thōman 130
 Scio 129
+amat 129
 domi 129
 meo 129
 Nescio 129
 sub 128
 tres 128
-amat 128
 Me 128
 ergo 127
 Mater 127
@@ -252,13 +252,13 @@ emit 111
 Cūr 111
 videtur 110
 Quod 110
+homo 110
 eram 110
-homo 109
 puer 109
 patris 109
 quin 109
+modo 109
 Iacob 109
-modo 108
 Spero 107
 lingua 107
 magis 106
@@ -274,9 +274,9 @@ bonum 102
 Puer 102
 sicut 101
 potes 101
+Lingua 101
 scholam 101
 Iam 101
-Lingua 100
 hanc 100
 usque 100
 aquam 100
@@ -285,16 +285,16 @@ libros 99
 prope 99
 videre 98
 nostra 97
+aliquid 97
 docuit 97
 eās 97
 diem 96
 saepe 96
 eorum 96
 nimis 96
-aliquid 96
+Feles 96
 Ioannes 96
 Tu 95
-Feles 95
 mensam 95
 vita 94
 meae 94
@@ -407,6 +407,7 @@ Aegypti 77
 epistulam 76
 Frater 76
 manus 76
+legit 76
 feles 76
 filios 76
 Placetne 76
@@ -415,7 +416,6 @@ coram 76
 scio 75
 sententia 75
 constat 75
-legit 75
 magnus 75
 A 74
 Nos 74
@@ -480,6 +480,7 @@ terræ 67
 omnis 67
 schola 67
 magnum 67
+Aqua 67
 Didymo 67
 illo 67
 jam 67
@@ -488,7 +489,6 @@ quattuor 66
 uxor 66
 sis 66
 Sed 66
-Aqua 66
 dubito 66
 virum 66
 Etiam 65
@@ -604,6 +604,7 @@ Nōnne 55
 centum 54
 venire 54
 veni 54
+nescio 54
 caput 54
 parva 54
 ivit 54
@@ -619,7 +620,6 @@ mox 54
 aliud 54
 nemo 53
 amant 53
-nescio 53
 filiam 53
 animalia 53
 nondum 53
@@ -985,6 +985,7 @@ mulier 34
 Spe 34
 Aaron 34
 Caesar 33
+possit 33
  33
 felix 33
 multas 33
@@ -1020,7 +1021,6 @@ volunt 32
 patria 32
 agis 32
 credo 32
-possit 32
 Latinam 32
 mundus 32
 Amor 32
@@ -1084,6 +1084,7 @@ anima 30
 statim 30
 amore 30
 Domi 30
+vere 30
 Quamdiu 30
 invenit 30
 Canem 30
@@ -1125,7 +1126,6 @@ mentem 29
 alba 29
 duobus 29
 mundum 29
-vere 29
 calamus 29
 Foederata 29
 Gratias 29
@@ -1142,6 +1142,7 @@ speculum 29
 oblitus 29
 didicit 29
 secundo 29
+Nolo 29
 iit 29
 signum 29
 amisi 29
@@ -1186,7 +1187,6 @@ vestra 28
 terrae 28
 terrarum 28
 adire 28
-Nolo 28
 duxit 28
 omnino 28
 occidit 28
@@ -1309,6 +1309,7 @@ probus 25
 esto 25
 malis 25
 ejus 25
+volare 25
 Omnibus 25
 regina 25
 puellam 25
@@ -1316,6 +1317,7 @@ mundo 25
 fuerunt 25
 publicus 25
 plumbum 25
+Multum 25
 Duos 25
 gaudeo 25
 pulchram 25
@@ -1367,7 +1369,6 @@ lego 24
 veritatem 24
 Audi 24
 liberis 24
-volare 24
 utrum 24
 ambulat 24
 optima 24
@@ -1375,7 +1376,6 @@ Patrem 24
 dicunt 24
 calamum 24
 album 24
-Multum 24
 fata 24
 vales 24
 discis 24
@@ -1473,6 +1473,7 @@ has 23
 maximus 23
 Oppidum 23
 animum 23
+stultus 23
 nulla 23
 huic 23
 fluvius 23
@@ -1534,7 +1535,6 @@ ridet 22
 ipso 22
 animi 22
 Verbum 22
-stultus 22
 ducere 22
 vixit 22
 vīdistī 22
@@ -1630,6 +1630,7 @@ voce 20
 agendum 20
 dolorem 20
 amorem 20
+leges 20
 filiae 20
 suae 20
 Sero 20
@@ -1719,7 +1720,6 @@ novit 19
 novem 19
 Haud 19
 fiat 19
-leges 19
 rosa 19
 Dies 19
 studere 19
@@ -2355,6 +2355,7 @@ sumpsit 14
 longus 14
 oryzam 14
 Magnus 14
+Facies 14
 amicam 14
 saccum 14
 Litterae 14
@@ -2478,6 +2479,7 @@ praestat 13
 Autocinetum 13
 cubicula 13
 Mortem 13
+inest 13
 Dentes 13
 charta 13
 deversorio 13
@@ -2494,6 +2496,7 @@ poma 13
 infantem 13
 timebat 13
 claves 13
+calida 13
 Utra 13
 Eboracum 13
 magistro 13
@@ -2512,7 +2515,6 @@ loquimur 13
 aurea 13
 vestris 13
 Fortasse 13
-Facies 13
 montis 13
 scribis 13
 commentarios 13
@@ -2662,7 +2664,7 @@ Loquiminine 12
 Quinque 12
 Tata 12
 sequi 12
-inest 12
+sordida 12
 sordidae 12
 colit 12
 quindecim 12
@@ -2686,7 +2688,6 @@ amatur 12
 villam 12
 facimus 12
 annōs 12
-calida 12
 clavem 12
 Arabicae 12
 sedecim 12
@@ -2857,6 +2858,7 @@ mēnse 12
 scripta 11
 Certe 11
 perit 11
+nullo 11
 pauperes 11
 septuaginta 11
 edam 11
@@ -2906,7 +2908,6 @@ Animalia 11
 pecus 11
 Iaponice 11
 septemdecim 11
-sordida 11
 planeta 11
 Egesne 11
 constant 11
@@ -3109,7 +3110,6 @@ libera 10
 nascuntur 10
 censeo 10
 nube 10
-nullo 10
 odium 10
 colore 10
 spiritu 10
@@ -3829,6 +3829,7 @@ alienum 8
 Caesaris 8
 mus 8
 cognoscitur 8
+fructibus 8
 sementem 8
 Caecus 8
 desiderat 8
@@ -4144,6 +4145,7 @@ studeo 8
 cognovi 8
 crura 8
 nominavit 8
+Francogallica 8
 ōva 8
 aer 8
 taurus 8
@@ -4319,7 +4321,6 @@ ite 7
 vadis 7
 humani 7
 fructu 7
-fructibus 7
 nuptias 7
 legimus 7
 quarum 7
@@ -4683,7 +4684,6 @@ Quanto 7
 peccare 7
 Meri 7
 movit 7
-Francogallica 7
 = 7
 Certus 7
 vēnistī 7
@@ -8225,6 +8225,7 @@ febri 4
 universos 4
 vetat 4
 Apis 4
+apis 4
 actura 4
 Italos 4
 ripam 4
@@ -8495,6 +8496,7 @@ saltationem 4
 aestivam 4
 Latrunculis 4
 exprimere 4
+Vestimenta 4
 Somniavi 4
 Omnino 4
 Mílités 4
@@ -9015,6 +9017,7 @@ laetissimus 3
 viridario 3
 lenem 3
 feminarum 3
+Sedit 3
 Didicistine 3
 MCMLXII 3
 antiquas 3
@@ -9214,6 +9217,7 @@ suscepit 3
 iussu 3
 Scripsit 3
 primis 3
+Secundum 3
 Latini 3
 gestas 3
 Iosue 3
@@ -9994,7 +9998,3 @@ metuo 3
 Iamdiu 3
 acerbe 3
 creavimus 3
-perplane 3
-Manu 3
-narres 3
-limen 3

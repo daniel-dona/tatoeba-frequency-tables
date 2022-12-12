@@ -1,12 +1,12 @@
-je 337
+je 339
 Tom 92
 so 88
 To 73
-w 67
-Sym 65
+w 68
+Sym 66
 a 57
-Wón 50
-Hdźe 49
+Wón 51
+Hdźe 50
 na 48
 z 47
 Wona 46
@@ -50,13 +50,13 @@ Rěču 14
 wo 13
 Mój 13
 francošćinu 12
+tu 12
 Rěčiš 12
 dwě 11
 Nimam 11
 knihu 11
 W 11
 Na 11
-tu 11
 awto 11
 wuknyć 11
 doma 11
@@ -100,6 +100,7 @@ wučer 8
 psa 8
 Tuta 8
 runje 8
+Štó 8
 Jeje 8
 Marija 8
 Mamy 8
@@ -113,8 +114,8 @@ Bohužel 7
 hić 7
 maš 7
 noze 7
+dom 7
 ju 7
-Štó 7
 dobre 7
 Z 7
 budźe 7
@@ -142,7 +143,6 @@ Jutře 6
 mučny 6
 swojej 6
 lěkar 6
-dom 6
 słony 6
 jenož 6
 wjace 6
@@ -2460,3 +2460,8 @@ Koho 1
 widźeše 1
 Francoz 1
 Francozowka 1
+swětny 1
+napisa 1
+sadu 1
+třećim 1
+lětniku 1
