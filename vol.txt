@@ -12,8 +12,8 @@ Tom 144
 dunön 137
 e 136
 obe 124
+olik 114
 at 114
-olik 112
 dö 110
 ko 107
 Kikod 105
@@ -83,12 +83,12 @@ ofi 36
 Löfob 35
 ad 35
 obes 35
+ome 35
 bovüli 35
 tieda 35
 om 34
 ofe 34
 ni 34
-ome 34
 no-li 34
 ädelo 33
 omik 33
@@ -368,6 +368,7 @@ Bostoni 9
 dunol 9
 viloms 9
 Li-sevol 9
+kiki 9
 Löfom 9
 labobs 9
 Alim 9
@@ -406,7 +407,6 @@ Son 8
 tikön 8
 Drinob 8
 cemi 8
-kiki 8
 äsagol 8
 ädunom 8
 lödon 8
@@ -565,6 +565,7 @@ fate 5
 äkömom 5
 bofik 5
 jipul 5
+Binof-li 5
 Kömolöd 5
 Ido 5
 gonom 5
@@ -765,6 +766,7 @@ gadi 4
 etuvoms 4
 telna 4
 esagob 4
+Egivob 4
 hitiko 4
 ekömol 4
 änolol 4
@@ -822,7 +824,6 @@ tidels 3
 jiblodi 3
 tideli 3
 Golobsöd 3
-Binof-li 3
 nelijel 3
 reg 3
 puli 3
@@ -963,6 +964,7 @@ slaf 3
 Flol 3
 äkanoms 3
 cila 3
+zian 3
 ziana 3
 zioma 3
 älabob 3
@@ -1021,7 +1023,6 @@ Odeidons 3
 blinön 3
 okanom 3
 elemob 3
-Egivob 3
 Esagof 3
 eyufom 3
 Tomaso 3
@@ -1451,7 +1452,6 @@ ols 2
 Ospäkobs 2
 Obinobs 2
 ter 2
-zian 2
 jikös 2
 hikös 2
 kös 2
@@ -4375,3 +4375,4 @@ leps 1
 suniküno 1
 aisäkoms 1
 Geboms 1
+jiter 1

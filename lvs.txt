@@ -1,4 +1,4 @@
-ir 717
+ir 718
 Es 501
 Toms 318
 ka 230
@@ -338,6 +338,7 @@ atnāca 6
 tavu 6
 nezina 6
 laimīgs 6
+galvaspilsēta 6
 vecāki 6
 mājas 6
 aiz 6
@@ -407,7 +408,6 @@ Nav 5
 Dzīve 5
 vēlamies 5
 āboli 5
-galvaspilsēta 5
 draugu 5
 Mani 5
 cilvēka 5
@@ -1581,6 +1581,8 @@ pievērst 2
 uzmanību 2
 planētas 2
 daļā 2
+Rīga 2
+Latvijas 2
 Lesim 2
 Jāni 2
 John 1
@@ -5334,8 +5336,6 @@ Kurā 1
 Manā 1
 ģimenē 1
 republika 1
-Rīga 1
-Latvijas 1
 Prezidentam 1
 ceļot 1
 pievienošu 1

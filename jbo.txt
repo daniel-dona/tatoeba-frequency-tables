@@ -1,12 +1,12 @@
-lo 12492
-mi 5842
+lo 12494
+mi 5843
 do 3294
 cu 3290
 la 2546
 pu 2254
 nu 2090
 le 1925
-se 1862
+se 1863
 na 1586
 be 1305
 i 1256
@@ -17,7 +17,7 @@ ko 1062
 ca 972
 tom 943
 xu 889
-ra 812
+ra 813
 da 809
 fi 705
 klama 648
@@ -72,8 +72,8 @@ gi'e 201
 bu'u 201
 je 200
 gerku 199
+bangu 197
 kakne 197
-bangu 196
 au 192
 melbi 181
 karce 174
@@ -82,7 +82,7 @@ nitcu 173
 xamgu 173
 noi 171
 mlatu 170
-fo 167
+fo 168
 lu 166
 li'u 163
 nanmu 158
@@ -1653,6 +1653,7 @@ rigni 4
 seltivni 4
 da'inai 4
 vi'o 4
+filta'a 4
 nunspe 4
 gi'o 4
 ianai 4
@@ -1907,7 +1908,6 @@ pol 3
 so'eroi 3
 selcru 3
 since 3
-filta'a 3
 sumji 3
 le'ipli 3
 terbe'i 3
@@ -3061,6 +3061,7 @@ slutsa 2
 guzme 2
 rindo 2
 rios 2
+interlinga 2
 braiyn 1
 larxra 1
 xelvetiko 1

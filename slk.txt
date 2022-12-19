@@ -1,8 +1,8 @@
-je 2189
-sa 2089
-som 1842
+je 2190
+sa 2090
+som 1843
 Tom 1605
-si 1497
+si 1498
 to 1298
 že 1083
 na 992
@@ -10,7 +10,7 @@ v 762
 a 602
 mi 507
 Je 464
-by 455
+by 456
 ste 403
 do 383
 čo 381
@@ -25,10 +25,10 @@ Som 278
 veľmi 266
 sme 266
 Prečo 249
-aby 245
+aby 246
 tu 240
+ma 232
 má 232
-ma 231
 Mária 229
 z 222
 ťa 212
@@ -118,12 +118,12 @@ prečo 69
 Máš 68
 A 68
 urobil 68
+nás 67
 pravdu 67
 Tento 67
 príliš 67
 toto 67
 teraz 67
-nás 66
 povedať 66
 bolo 65
 Dnes 65
@@ -192,6 +192,7 @@ Aké 48
 Márii 48
 mať 48
 Zajtra 48
+Teraz 48
 tvoja 47
 Každý 47
 Ty 47
@@ -199,7 +200,6 @@ Videl 47
 otec 47
 Potrebujem 47
 Všetko 47
-Teraz 47
 Nemôžem 47
 tento 46
 Vždy 46
@@ -237,6 +237,7 @@ Naozaj 40
 odpoveď 40
 mnou 40
 ktorý 39
+peniaze 39
 Jeho 39
 Boli 39
 lepšie 39
@@ -245,7 +246,6 @@ poriadku 39
 Vieš 39
 Chcel 39
 svojej 38
-peniaze 38
 naučiť 38
 Hovoríš 38
 ľudí 38
@@ -743,6 +743,7 @@ Potom 14
 sami 14
 Nevidím 14
 Hovoril 14
+Keby 14
 otázky 14
 videli 14
 darček 14
@@ -802,7 +803,6 @@ psy 13
 Nemáme 13
 Poď 13
 bolí 13
-Keby 13
 musel 13
 nádherný 13
 myslel 13
@@ -1045,6 +1045,7 @@ zaneprázdnená 10
 stať 10
 Rozhodol 10
 rozprávať 10
+slov 10
 Vlak 10
 bohatý 10
 prekvapenie 10
@@ -1151,7 +1152,6 @@ odtiaľ 9
 Čím 9
 zobudiť 9
 pravidlá 9
-slov 9
 Dvere 9
 piatok 9
 nemáš 9
@@ -2757,6 +2757,7 @@ Vstala 4
 Medvede 4
 lovia 4
 objal 4
+vysoké 4
 vbehol 4
 nepamätám 4
 hnedé 4
@@ -3560,6 +3561,7 @@ pozvaná 3
 podobá 3
 Zvláštne 3
 lepšia 3
+zachránil 3
 Kaviareň 3
 Bulhar 3
 polnoc 3
@@ -3710,7 +3712,6 @@ Vrátila 3
 plyšový 3
 medvedík 3
 medvedíka 3
-vysoké 3
 druhé 3
 vlasmi 3
 Havaj 3
@@ -5087,6 +5088,7 @@ prechladol 2
 Obidve 2
 kvetiny 2
 dôjde 2
+obuť 2
 preložil 2
 vážnom 2
 Oženil 2
@@ -5242,7 +5244,6 @@ nahnevaní 2
 Niekoľko 2
 zostáva 2
 obývačku 2
-zachránil 2
 Mýlil 2
 Mýlili 2
 streche 2
@@ -6004,6 +6005,7 @@ Pokračujte 2
 Chutí 2
 nehýbem 2
 prežili 2
+nestojí 2
 Rozplakal 2
 Žirafy 2
 Hanba 2
@@ -9996,5 +9998,3 @@ starožitné 1
 Starožitné 1
 obzvlášť 1
 cenné 1
-opravuje 1
-tkať 1

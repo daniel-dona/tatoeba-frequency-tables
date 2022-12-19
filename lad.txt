@@ -1,10 +1,10 @@
-es 231
+es 232
 un 128
-Tom 104
+Tom 106
 El 92
 en 86
 el 81
-de 78
+de 80
 no 77
 איס 72
 la 70
@@ -12,7 +12,7 @@ una 56
 esta 56
 No 54
 a 48
-La 43
+La 44
 איל 42
 son 39
 i 33
@@ -24,9 +24,9 @@ pan 31
 ke 30
 kon 29
 Me 29
+Es 29
 Mi 29
 לה 29
-Es 28
 Eya 26
 טום 24
 נו 23
@@ -52,6 +52,7 @@ djudio 15
 inglez 14
 mansana 14
 so 14
+Tengo 14
 preto 14
 סו 14
 puerta 14
@@ -66,8 +67,8 @@ portokal 12
 mora 12
 York 12
 Onde 12
-Tengo 12
 Deke 12
+komida 12
 mujer 11
 fue 11
 Somos 11
@@ -104,6 +105,8 @@ Shabat 8
 su 8
 En 8
 avla 8
+tu 8
+Vos 8
 kolorada 8
 si 8
 Moro 8
@@ -117,8 +120,6 @@ ebreo 8
 sivdad 7
 mas 7
 yamo 7
-tu 7
-Vos 7
 Son 7
 Tu 7
 ermano 7
@@ -127,6 +128,7 @@ Nu 7
 Se 7
 mate 7
 kabil 7
+avlash 7
 Ester 7
 lashon 7
 problemes 7
@@ -146,8 +148,8 @@ ayi 6
 sos 6
 Grasias 6
 todo 6
+menester 6
 mundo 6
-avlash 6
 alegre 6
 גאטו 6
 ייו 6
@@ -163,6 +165,8 @@ al 5
 mozotros 5
 Yerushalayim 5
 Eyos 5
+Si 5
+djudeo-espanyol 5
 o 5
 mavis 5
 bisikleta 5
@@ -174,6 +178,8 @@ Mueva 5
 marido 5
 Mersi 5
 mushteri 5
+Avlas 5
+Avlash 5
 ermoza 5
 arabo 5
 paiz 5
@@ -188,6 +194,7 @@ kastilyano 5
 vuestra 5
 yo 5
 לינגואס 5
+estava 5
 בﬞידרי 5
 portugez 5
 פורטוגיז 5
@@ -216,9 +223,6 @@ akordo 4
 todos 4
 Una 4
 bohor 4
-Avlas 4
-Avlash 4
-menester 4
 Tienes 4
 chiko 4
 aborrese 4
@@ -238,7 +242,6 @@ apoyo 4
 Lo 4
 pertinente 4
 Tiene 4
-estava 4
 קירו 4
 puedo 4
 אבﬞלאש 4
@@ -260,8 +263,10 @@ Evropa 3
 tyene 3
 ladino 3
 muncho 3
+buena 3
 madre 3
 avlar 3
+por 3
 este 3
 lavorando 3
 amariya 3
@@ -301,6 +306,7 @@ muestro 3
 shekel 3
 posivle 3
 reyna 3
+Nunka 3
 נונקה 3
 buen 3
 fambre 3
@@ -393,17 +399,13 @@ pais 2
 buenos 2
 save 2
 Aki 2
-Si 2
 Tyenes 2
-buena 2
 mama 2
 eya 2
 Le 2
 vido 2
 gusta 2
 vino 2
-djudeo-espanyol 2
-por 2
 kavayo 2
 medra 2
 Dyo 2
@@ -479,7 +481,6 @@ ladrones 2
 Otro 2
 deve 2
 murir 2
-Nunka 2
 מאס 2
 enemigos 2
 enemigas 2
@@ -529,6 +530,7 @@ leon 2
 דיקי 2
 טרומפ 2
 טינגו 2
+Tenemos 2
 sovrebiviremos 2
 סובﬞריביבﬞירימוס 2
 sin 2
@@ -1032,7 +1034,6 @@ bovo 1
 טיניאמוס 1
 Teniamos 1
 טינימוס 1
-Tenemos 1
 מוזוטרוס 1
 גאטה 1
 דינגונוס 1
@@ -1731,3 +1732,12 @@ Krav 1
 Maga 1
 karate 1
 djudo 1
+Komes 1
+Komesh 1
+Kome 1
+tenia 1
+Vende 1
+vende 1
+Ziri 1
+vendiendo 1
+favor 1

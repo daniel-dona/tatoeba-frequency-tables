@@ -1,31 +1,31 @@
 le 12719
-es 7791
+es 7797
 de 6781
-un 6715
+un 6716
 Le 4754
 ha 4665
 in 4262
 que 3818
 non 3633
-Io 3422
+Io 3424
 del 2926
 e 2910
 a 2621
-tu 2148
+tu 2149
 Ille 1780
 me 1557
 io 1551
 al 1533
 su 1511
 se 1492
-Il 1424
+Il 1425
 pro 1356
 lo 1251
-Tom 1227
+Tom 1229
 con 1215
 plus 1205
 ille 1191
-vos 1071
+vos 1072
 esseva 1063
 nos 948
 pote 942
@@ -92,8 +92,8 @@ place 290
 ama 284
 nostre 284
 aqua 283
+parla 281
 sin 281
-parla 279
 sol 262
 On 262
 tanto 258
@@ -110,8 +110,8 @@ annos 233
 cosa 226
 — 224
 hic 223
+An 223
 Su 221
-An 221
 Illo 220
 dice 217
 era 215
@@ -168,8 +168,8 @@ Quando 157
 sta 156
 fin 156
 parolas 154
+importante 153
 vive 153
-importante 151
 infantes 151
 patre 149
 ora 148
@@ -254,9 +254,9 @@ trovar 103
 vide 102
 qual 102
 problema 102
+facile 101
 urbe 101
 auto 100
-facile 100
 comprende 99
 anque 99
 hora 99
@@ -264,9 +264,9 @@ contra 99
 parte 99
 circa 98
 omne 98
+apprender 98
 pais 98
 viver 98
-apprender 97
 opinion 96
 existe 95
 les 95
@@ -372,10 +372,10 @@ soror 69
 Nostre 69
 deveniva 69
 merda 69
+Interlingua 68
 vino 68
 sovente 68
 alicuno 68
-Interlingua 67
 prefere 67
 corpore 67
 passate 67
@@ -395,6 +395,7 @@ littera 64
 mano 64
 desde 64
 Pote 64
+apprende 64
 gigantesc 64
 scribe 63
 filia 63
@@ -403,7 +404,6 @@ dies 63
 comprar 63
 demanda 63
 desira 63
-apprende 63
 mille 63
 rapidemente 62
 pare 62
@@ -599,6 +599,7 @@ Bon 42
 vespere 42
 qualcosa 42
 voluntate 42
+studia 42
 bucca 42
 parco 42
 comprender 42
@@ -614,7 +615,6 @@ vadeva 41
 pensar 41
 nive 41
 cuje 41
-studia 41
 finite 41
 obscur 41
 Parla 41
@@ -1653,6 +1653,7 @@ occurreva 14
 adresse 14
 Crede 14
 Julia 14
+personal 14
 Malgrado 14
 mancara 14
 genio 14
@@ -1755,7 +1756,6 @@ acceptar 13
 Benvenite 13
 securitate 13
 finiva 13
-personal 13
 contrario 13
 practic 13
 cameras 13
@@ -2798,6 +2798,7 @@ normalmente 7
 descendeva 7
 leader 7
 divider 7
+essential 7
 Patre 7
 Ken 7
 includite 7
@@ -3147,7 +3148,6 @@ reposar 6
 costumes 6
 tornava 6
 pronunciar 6
-essential 6
 ursos 6
 applica 6
 regno 6
@@ -4195,6 +4195,8 @@ Salas 5
 mythomano 5
 dentifricio 5
 nigrette 5
+Toki 5
+Pona 5
 Yanni 5
 ollero 5
 ultramoderne 5
@@ -5978,6 +5980,7 @@ avergonia 3
 secretemente 3
 busca 3
 profunditate 3
+activo 3
 governava 3
 culmine 3
 affecto 3
@@ -6578,8 +6581,6 @@ champignons 3
 petric 3
 corbero 3
 autodidacticamente 3
-Toki 3
-Pona 3
 Alicunes 3
 transhumanista 3
 Statouniteses 3
@@ -7975,7 +7976,6 @@ accuratemente 2
 requirite 2
 convenibile 2
 album 2
-activo 2
 universalmente 2
 cortina 2
 coardia 2
@@ -8273,6 +8273,7 @@ limitation 2
 margine 2
 reluctante 2
 autostop 2
+passive 2
 evenimento 2
 passeres 2
 ubiquitari 2
@@ -9549,6 +9550,7 @@ Randi 2
 hemisphera 2
 sinophobic 2
 nucleari 2
+interslavo 2
 fraternitate 1
 incolor 1
 vodka 1
@@ -9996,5 +9998,3 @@ stethoscopio 1
 extremo 1
 relevate 1
 componer 1
-libras 1
-felicitava 1
