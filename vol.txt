@@ -1,4 +1,4 @@
-Tomas 626
+Tomas 627
 No 485
 das 400
 no 375
@@ -38,9 +38,9 @@ al 61
 golön 59
 binof 59
 Kim 59
+buki 56
 vilom 56
 Tomase 56
-buki 55
 binob 55
 Binom 55
 kisi 55
@@ -73,9 +73,9 @@ nu 40
 Tomasi 40
 moni 39
 Tomasa 39
+labom 38
 binos 38
 valik 38
-labom 37
 nolön 37
 binön 37
 ola 37
@@ -91,11 +91,11 @@ ofe 34
 ni 34
 no-li 34
 ädelo 33
+tu 33
 omik 33
 studön 33
 binol 33
 tidel 33
-tu 32
 mödik 32
 domo 32
 te 31
@@ -290,6 +290,7 @@ Li-logol 12
 Om 12
 Nem 12
 gudikumo 12
+Binoms 12
 püki 12
 buk 12
 nedobs 12
@@ -307,7 +308,6 @@ man 11
 mot 11
 ut 11
 Li-labol 11
-Binoms 11
 valikos 11
 äkanom 11
 podi 11
@@ -657,6 +657,7 @@ Laustralän 4
 Mutob-li 4
 fidob 4
 mel 4
+neflenis 4
 Äslipob 4
 beri 4
 säkom 4
@@ -793,7 +794,6 @@ Neiti 3
 Löfilob 3
 po 3
 Thomas 3
-neflenis 3
 alik 3
 ziom 3
 Äpenob 3
@@ -1664,6 +1664,7 @@ nedoms 2
 lilädof 2
 elemobs 2
 egivol 2
+sanels 2
 lanan 1
 Faemob 1
 Faemol-li 1
@@ -4300,7 +4301,6 @@ püka 1
 dlinolöd 1
 Li-beginol 1
 äklödom 1
-sanels 1
 Olemom 1
 äselol 1
 eselol 1
@@ -4376,3 +4376,5 @@ suniküno 1
 aisäkoms 1
 Geboms 1
 jiter 1
+Olautob 1
+mödikis 1

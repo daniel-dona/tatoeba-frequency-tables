@@ -1,5 +1,5 @@
-Ma 98
-re 58
+Ma 102
+re 59
 ma 40
 Tom 26
  24
@@ -13,11 +13,11 @@ moko 13
 tena 13
 Chqi 12
 Tena 12
-vare 11
+vare 12
+Tomi 12
 jgiri 11
 Tina 11
 tina 11
-Tomi 11
 Chqimi 10
 chqimi 10
 dghas 10
@@ -37,18 +37,19 @@ tom 8
 iro 7
 sqani 7
 Te 7
+rdu 7
 reno 7
 xolo 7
+xvale 7
 arti 7
 s 6
 taqi 6
 mutun 6
-rdu 6
 mu 6
 chqi 6
 çhiçhe 6
-xvale 6
 Re 6
+tes 6
 ვორექ 5
 ჩქი 5
 თე 5
@@ -61,7 +62,6 @@ fara 5
 joxo 5
 Muçho 5
 arto 5
-tes 5
 ula 5
 rena 5
 ragadi 5
@@ -69,6 +69,7 @@ ragadi 5
 muçho 4
 Dia 4
 vareno 4
+merish 4
 joghori 4
 Ase 4
 shilebe 4
@@ -86,6 +87,7 @@ Reno 4
 ʒaneri 4
 mitin 4
 Mardi 4
+Malas 4
 - 4
 mushi 4
 ⱬiri 4
@@ -97,7 +99,6 @@ Tkva 4
 ughƨ 3
 chqim 3
 tash 3
-merish 3
 rina 3
 Yanni 3
 Rdasyn 3
@@ -124,6 +125,7 @@ Tom's 3
 Jgiri 3
 Migaxvamant 3
 Vore 3
+Çhita 3
 Joxo 3
 da 3
 ꞇate 3
@@ -134,14 +136,15 @@ Ena 3
 rdƨ 3
 vamichqƨ 3
 tiʒkƨma 3
-Malas 3
 tiq 3
 tqva 3
 amdgha 3
 çhuman 3
 gvalo 3
+mashna 3
 chqaras 3
 Oxori 3
+miꞇorsu 3
 ჟირი 2
 ჩქიმი 2
 რიკარდო 2
@@ -232,7 +235,6 @@ Chqimy 2
 Vamichqu 2
 Qortulo 2
 mutunsha 2
-Çhita 2
 Qiꞇides 2
 Ꞇude 2
 Na 2
@@ -258,6 +260,7 @@ chqin 2
 xuti 2
 Sumi 2
 çhofili 2
+gursheni 2
 mokodƨ 2
 bgholi 2
 ardzashe 2
@@ -291,6 +294,7 @@ mudgareni 2
 çhiçhet 2
 jogu 2
 ragadebuli 2
+vabghola 2
 shxvaneri 2
 voreqƨ 2
 sharas 2
@@ -310,7 +314,6 @@ kari 2
 malas 2
 gilula 2
 oxorja 2
-mashna 2
 gomordzgua 2
 ukuli 2
 ragadanqo 2
@@ -320,15 +323,17 @@ Mitin 2
 tish 2
 ႰႤ 2
 mufshenq 2
+vapuns 2
 Qosxapi 2
 uꞇorsƨ 2
 Mi 2
 gokodu 2
-miꞇorsu 2
 aghani 2
+ꞇuça 2
 Kudosǩidi 2
 moǩo 2
 getu 2
+maꞇale 2
 tak 2
 ართი 1
 სუმი 1
@@ -914,7 +919,6 @@ iꞇu 1
 Asho 1
 qimighƨt 1
 mashƨnash 1
-gursheni 1
 kitxiri 1
 Qoichqunano 1
 mire 1
@@ -1096,7 +1100,6 @@ vaꞇuncƨ 1
 mefxvady 1
 garagadeno 1
 saqvarc 1
-vabghola 1
 tinef 1
 vegeṫarianelef 1
 qortxinnqƨ 1
@@ -1560,7 +1563,6 @@ onjghore 1
 Mifsvanjatu 1
 Teureshe 1
 Mashna 1
-vapuns 1
 bjogu 1
 Qirse 1
 ꞇudesh 1
@@ -1629,7 +1631,6 @@ Sodere 1
 mabireshi 1
 moxvaru 1
 Meu 1
-ꞇuça 1
 Moighato 1
 ɣavas 1
 shuntsu 1
@@ -1727,7 +1728,6 @@ oǩodƨ 1
 maşna 1
 çkimi 1
 djveşi 1
-maꞇale 1
 vap̌unʒu 1
 maꞇalepi 1
 Kaṫu 1
@@ -1782,3 +1782,22 @@ goǩo 1
 nenas 1
 djoxo 1
 Gimeli 1
+difrti 1
+gitarashi 1
+vatenk 1
+Reǩuna 1
+Djgiri 1
+boshre 1
+Shkineruli 1
+Baǧineli 1
+Ififrki 1
+Skani 1
+pidjishe 1
+niorish 1
+shuri 1
+moursu 1
+Ushkuri 1
+gemuani 1
+gilarula 1
+Kumorti 1
+udjgushi 1

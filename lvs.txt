@@ -10,7 +10,7 @@ Viņš 146
 Man 132
 es 119
 par 115
-ar 111
+ar 113
 uz 106
 nav 106
 man 100
@@ -23,7 +23,7 @@ tev 79
 ko 78
 lai 73
 esmu 71
-kā 68
+kā 69
 jūs 64
 ļoti 63
 Tas 63
@@ -54,13 +54,13 @@ jau 34
 Viņi 34
 patīk 34
 Kā 33
+arī 32
+var 32
 darīt 32
-arī 31
 varētu 31
 labi 31
 Mums 31
 šodien 30
-var 29
 būt 28
 Tev 28
 šeit 28
@@ -205,6 +205,7 @@ atpakaļ 10
 Mūsu 10
 draugs 10
 vajadzēja 10
+kuru 10
 varat 10
 kādreiz 10
 Paldies 9
@@ -264,7 +265,6 @@ valsts 8
 durvīm 8
 dēls 8
 kamēr 8
-kuru 8
 tam 8
 vēlies 8
 jauns 8
@@ -290,6 +290,7 @@ maksā 7
 runājat 7
 valoda 7
 grāmata 7
+ūdens 7
 rīt 7
 zini 7
 - 7
@@ -310,6 +311,7 @@ pirms 7
 palika 7
 ārā 7
 plāns 7
+palīdzību 7
 saviem 7
 prom 7
 dzirdēt 7
@@ -334,7 +336,6 @@ laba 6
 te 6
 Kāda 6
 atnāca 6
-ūdens 6
 tavu 6
 nezina 6
 laimīgs 6
@@ -427,7 +428,6 @@ Marijas 5
 vēlāk 5
 istabā 5
 Tavs 5
-palīdzību 5
 nemaz 5
 viss 5
 kuras 5
@@ -857,6 +857,7 @@ Bez 3
 cenu 3
 Norvēģija 3
 mīļi 3
+Latvijas 3
 Mike 2
 Labdien 2
 redzēšanos 2
@@ -1070,6 +1071,7 @@ galvu 2
 kafija 2
 sapratīsiet 2
 ģimeni 2
+tirgū 2
 iesauka 2
 Liels 2
 vieta 2
@@ -1582,9 +1584,9 @@ uzmanību 2
 planētas 2
 daļā 2
 Rīga 2
-Latvijas 2
 Lesim 2
 Jāni 2
+materiālus 2
 John 1
 Nancy 1
 Čikāga 1
@@ -2258,7 +2260,6 @@ brīvu 1
 Nomierines 1
 pelna 1
 akciju 1
-tirgū 1
 ''Itch'' 1
 nenožēlosiet 1
 šosejas 1
@@ -5370,3 +5371,20 @@ Ceļošana 1
 kavēsimies 1
 Ziris 1
 seko 1
+Ur 1
+slin 1
+Pašlaik 1
+būvmateriālu 1
+iegādāties 1
+dažādu 1
+firmu 1
+piegādātos 1
+novērst 1
+iekļūšanu 1
+mūra 1
+sienās 1
+atjaunot 1
+mitruma 1
+bojāto 1
+sienu 1
+apdari 1

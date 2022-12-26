@@ -1,5 +1,5 @@
 ad 173928
-n 139690
+n 139691
 d 102850
 ara 87112
 ay 70848
@@ -131,7 +131,7 @@ wass 2269
 imir-a 2267
 yellan 2248
 aɣilif 2247
-zik 2230
+zik 2231
 ugar 2221
 Marie 2200
 Yezmer 2166
@@ -522,7 +522,7 @@ Wa 610
 tellam 610
 Liɣ 608
 yeḍran 607
-yesεa 605
+yesεa 606
 ḥemmleɣ 603
 teɣsert 602
 kenwi 602
@@ -828,10 +828,10 @@ tissit 396
 ddukkli 396
 Mayas 395
 Meddur 395
-asawen 393
 leḥsab-nnem 393
 mazal-it 392
 d-yetteddun 392
+asawen 392
 Japun 391
 Imi 391
 tumert 391
@@ -894,8 +894,8 @@ yettnadi 363
 angul 363
 yimalas 363
 deg-sen 362
+Baba 362
 tẓuriwin 362
-Baba 361
 Baba-s 360
 umulli 359
 ttmahaleɣ 359
@@ -6608,7 +6608,6 @@ irkasen-nni 41
 d-yufi 41
 nerra 41
 Tessawalem 41
-yifadden 41
 tlemmded 41
 ibeddi 41
 Yurem 41
@@ -6738,6 +6737,7 @@ Tesεiḍ 40
 Tecfam 40
 Ttwalin 40
 tḍefred 40
+yifadden 40
 tkemmled 40
 meẓẓiyed 40
 t-yečč 40
@@ -9459,7 +9459,6 @@ taswisit 26
 Tniri 26
 Wines 26
 tayiwnant 26
-Uliɣ 26
 ṭṭelq 26
 ttɛeddayen 26
 yerra-t 26
@@ -9762,6 +9761,7 @@ Yewwet-itt 25
 ččuṛen 25
 umeksa 25
 yuwin 25
+Uliɣ 25
 turmed 25
 10:00 25
 Tegreẓ-iyi 25

@@ -1,12 +1,12 @@
 le 12719
 es 7797
 de 6781
-un 6716
+un 6717
 Le 4754
 ha 4665
 in 4262
 que 3818
-non 3633
+non 3635
 Io 3424
 del 2926
 e 2910
@@ -21,7 +21,7 @@ se 1492
 Il 1425
 pro 1356
 lo 1251
-Tom 1229
+Tom 1231
 con 1215
 plus 1205
 ille 1191
@@ -38,7 +38,7 @@ te 762
 il 748
 grande 740
 Illa 702
-Tu 689
+Tu 690
 blau 686
 Nos 681
 Iste 650
@@ -81,7 +81,7 @@ essite 344
 belle 342
 mundo 328
 homine 323
-Vos 320
+Vos 321
 mesme 318
 duo 317
 toto 313
@@ -234,9 +234,9 @@ voleva 113
 Qual 112
 homines 111
 ulle 111
+cognosce 110
 poco 110
 fluvio 110
-cognosce 108
 dicite 108
 Ubi 107
 proprie 107
@@ -382,6 +382,7 @@ passate 67
 sembla 67
 adjuta 67
 jardin 66
+discurso 66
 etate 65
 alora 65
 matino 65
@@ -389,7 +390,6 @@ qualcunque 65
 cerca 65
 trovate 65
 plagia 65
-discurso 65
 scientia 65
 littera 64
 mano 64
@@ -1370,6 +1370,7 @@ rosa 18
 lontano 18
 area 18
 inamorate 18
+en 18
 natal 18
 Qualque 18
 Cassandra 18
@@ -1447,7 +1448,6 @@ maritate 17
 interprisa 17
 match 17
 base 17
-en 17
 nam 17
 Futue 17
 yiddish 17
@@ -6557,6 +6557,7 @@ Jammais 3
 job 3
 heavy 3
 metal 3
+islam 3
 "De 3
 Tentar 3
 sape" 3
@@ -9413,7 +9414,6 @@ Fura 2
 SUA 2
 Ooita 2
 libro" 2
-islam 2
 Laurie 2
 ordinar 2
 Talossan 2

@@ -1,4 +1,4 @@
-oon 201
+oon 202
 Se 33
 ei 30
 ja 27
@@ -45,6 +45,7 @@ mennee 4
 pääkaupunki 4
 Norjan 4
 Kiitos 4
+nimi 4
 piä 4
 sen 4
 lupa 4
@@ -67,7 +68,6 @@ Helsinki 3
 En 3
 Kiitoksii 3
 Tule 3
-nimi 3
 joului 3
 Tom 3
 ilttaa 3
@@ -1291,3 +1291,7 @@ Telefuuninumero 1
 telefuunikatalookissa 1
 Pojat 1
 kalamiehet 1
+Kanan 1
+latinankielinen 1
+gallus 1
+domesticus 1
