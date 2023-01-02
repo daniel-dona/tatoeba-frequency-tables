@@ -1,7 +1,7 @@
-do 988
+do 990
 oku 599
-i 389
-Tom 349
+i 390
+Tom 350
 ku 321
 no 300
 di 290
@@ -79,11 +79,11 @@ miampai 30
 dahai 30
 kaka 29
 osonong 29
+mongoi 28
 tomod 28
 miagal 28
 ginawo 28
 okon 27
-mongoi 27
 mangakan 27
 nogi 27
 haro 27
@@ -118,6 +118,7 @@ Kotoluadan 20
 monguhup 20
 korikot 19
 Apatut 19
+tusin 18
 Soira 18
 kusai 18
 Maan 18
@@ -128,7 +129,6 @@ mooi 18
 karaja 18
 kokomoi 18
 Mada 17
-tusin 17
 jaam 17
 ngaran 17
 Honggo 17
@@ -242,6 +242,7 @@ Jorman 9
 Nu 9
 Okuro-kuro 9
 tokoro 9
+tagayo 9
 Kopisanangan 9
 apat 9
 komoyon 9
@@ -270,7 +271,6 @@ habar 8
 tokuri 8
 bogia 8
 Otood 8
-tagayo 8
 Piro 8
 iya 8
 koti 8
@@ -3636,3 +3636,6 @@ sili 1
 kasasaie 1
 Momisulap 1
 hid 1
+Minongolos 1
+hilod 1
+sinikulan 1

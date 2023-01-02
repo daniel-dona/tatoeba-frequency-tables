@@ -7,13 +7,13 @@ sunt 2068
 ad 1662
 / 1565
 mihi 1420
-esse 1319
+esse 1320
 sum 1264
 me 1141
 ut 1073
 quam 985
 te 926
-tibi 921
+tibi 922
 Maria 919
 cum 899
 de 841
@@ -41,7 +41,7 @@ Et 455
 Hic 444
 Haec 431
 Thōmās 431
-id 429
+id 430
 Quot 419
 valde 415
 ex 395
@@ -91,7 +91,7 @@ linguam 254
 quae 252
 ea 250
 omnes 248
-volo 246
+volo 247
 tuus 246
 terra 245
 tu 241
@@ -124,15 +124,15 @@ nihil 200
 eos 200
 inter 200
 dies 199
+Te 199
 etiam 198
-Te 198
 terram 197
 enim 195
 nec 193
 vult 193
 vis 189
+quoque 189
 habitat 189
-quoque 188
 tam 188
 Omnes 187
 quia 184
@@ -308,6 +308,7 @@ frater 92
 causa 92
 scit 92
 "Quid 92
+Nesciebam 92
 fore 92
 quidem 92
 mala 91
@@ -315,7 +316,6 @@ Tibi 91
 tempore 91
 res 91
 satis 91
-Nesciebam 91
 rem 90
 canem 90
 canis 90
@@ -2930,7 +2930,6 @@ medicamentum 11
 aureum 11
 Elephantes 11
 ars 11
-sepultus 11
 Americae 11
 infans 11
 experrectus 11
@@ -3536,6 +3535,7 @@ Cena 9
 liberorum 9
 solitudinem 9
 ambulavit 9
+sepultus 9
 sitit 9
 ambulabat 9
 Deinde 9
@@ -5496,6 +5496,7 @@ Teucri 6
 "At 6
 origine 6
 tergum 6
+Liberate 6
 arces 6
 tali 6
 fastigia 6
@@ -6500,7 +6501,6 @@ fixit 5
 oscula 5
 famam 5
 jura 5
-Liberate 5
 alma 5
 umbris 5
 errantem 5
