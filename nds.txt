@@ -1,17 +1,17 @@
 is 3198
-Ik 3193
+Ik 3194
 dat 2762
-en 2504
+en 2505
 de 2466
 nich 1932
 du 1678
-hett 1596
+hett 1597
 He 1472
 in 1453
-De 1398
+De 1399
 to 1315
 Dat 1270
-heff 1243
+heff 1244
 ik 1215
 Se 1150
 ’n 1073
@@ -264,13 +264,13 @@ Sünn 58
 Eten 57
 steiht 57
 maal 57
+toveel 57
 Disch 56
 ganz 56
 ünner 56
 doch 56
 See 56
 schull 56
-toveel 56
 ahn 55
 Bedd 55
 jemehr 55
@@ -284,10 +284,10 @@ Beer 54
 Ji 53
 tohuus 53
 mööt 53
+drinken 52
 Straat 52
 Bus 52
 funnen 52
-drinken 51
 Maak 51
 gegen 51
 weten 51
@@ -328,10 +328,10 @@ Nüms 47
 Wohrheid 47
 joon 46
 swemmen 46
+Land 46
 annere 46
 tohoop 46
 Hett 46
-Land 45
 Fraag 45
 goden 45
 Blomen 45
@@ -410,6 +410,7 @@ boot 36
 in’t 35
 Stroom 35
 nee 35
+riek 35
 gefallt 35
 Hoot 35
 Brood 35
@@ -420,7 +421,6 @@ dal 35
 Wöör 34
 Nee 34
 Gesicht 34
-riek 34
 anropen 34
 Hier 34
 hoog 34
@@ -744,6 +744,7 @@ weetst 19
 smucke 19
 Stück 19
 Nees 19
+giern 19
 To 18
 bannig 18
 dumm 18
@@ -777,7 +778,6 @@ Famielje 18
 singt 18
 Spaansch 18
 Tass 18
-giern 18
 Ick 17
 was 17
 goot 17
@@ -1254,6 +1254,7 @@ to’n 10
 Beuker 10
 mihr 10
 dann 9
+Düt 9
 Markt 9
 Broer 9
 Hüüs 9
@@ -1348,7 +1349,6 @@ Appeln 9
 hüüt 9
 Fru 9
 grood 9
-Düt 8
 opdeckt 8
 Toorn 8
 rieden 8
@@ -2296,6 +2296,7 @@ Minschheid 4
 behannelt 4
 redden 4
 Stöört 4
+Kultur 4
 scheev 4
 Steek 4
 Frömme 4
@@ -2782,7 +2783,6 @@ Sünnbrand 3
 gnatterig 3
 neihn 3
 graavt 3
-Kultur 3
 vonenanner 3
 Skiföhren 3
 Weid 3

@@ -1,5 +1,5 @@
-Ez 214
-ra 127
+Ez 215
+ra 128
 o 112
 Tom 105
 Ma 99
@@ -17,7 +17,7 @@ yo 57
 nê 56
 do 55
 ya 49
-kena 44
+kena 45
 Mı 43
 mı 42
 û 42
@@ -26,7 +26,7 @@ ez 39
 yê 39
 zaf 39
 O 38
-hes 37
+hes 38
 rê 36
 kerd 35
 bê 35
@@ -74,6 +74,7 @@ Ezo 12
 bıkeré 12
 qe 12
 no 12
+xû 12
 keno 12
 Edo 12
 Nameyê 12
@@ -88,7 +89,6 @@ niya 11
 peyd 11
 yé 11
 kes 11
-xû 11
 kê 11
 şenê 11
 îme 11
@@ -2792,3 +2792,4 @@ fizikiyo 1
 Bajaro 1
 cıwiyena 1
 pilo 1
+zıwanê 1

@@ -1,13 +1,13 @@
-ast 213
-As 175
-ni 166
+ast 214
+As 177
+ni 167
 en 122
 as 92
 kāi 81
+Tāns 73
 tū 72
-Tāns 71
 turri 67
-si 56
+si 57
 per 51
 wīrst 47
 be 47
@@ -20,16 +20,16 @@ Sta 31
 ezze 31
 spārtai 30
 mazzi 28
+adder 28
 paggan 28
-adder 27
 iz 26
 ka 26
-tennan 25
+tennan 26
 tin 24
 Tū 24
 kwāi 24
+asma 22
 prawerru 22
-asma 21
 tāns 21
 Majs 21
 tūlin 20
@@ -46,8 +46,8 @@ En 17
 šin 16
 majjan 16
 min 16
+Ast 16
 šan 15
-Ast 15
 buttan 15
 Tōms 15
 swajjan 14
@@ -92,6 +92,7 @@ tenā 9
 sta 9
 penningans 9
 pirzdau 9
+mīli 9
 etkūmps 9
 nawwan 9
 pastāi 9
@@ -107,7 +108,6 @@ debīkan 8
 ankstāinan 8
 wissans 8
 Madli 8
-mīli 8
 būlai 8
 labbai 8
 Tōmu 8
@@ -170,6 +170,7 @@ lāiskans 5
 twajā 5
 sawaītin 5
 Šandēinan 5
+sēn 5
 mīstan 5
 dīlai 5
 kwaitīlai 5
@@ -217,7 +218,6 @@ Mazzimai 4
 preidātun 4
 mes 4
 autō 4
-sēn 4
 deiwūtan 4
 Labban 4
 laztan 4
@@ -490,6 +490,7 @@ Jaīs 2
 Zmūnentei 2
 pagalba 2
 sebbei 2
+abipussi 2
 undan 2
 gērba 2
 adlin 2
@@ -628,7 +629,9 @@ debīka 2
 pīmpans 2
 gērbuns 2
 Sunnis 2
+men 2
 laikāi 2
+raudāi 2
 jāute 2
 glūpan 2
 perjāwusi 2
@@ -985,7 +988,6 @@ izpilninais 1
 abbarans 1
 abbejan 1
 rullarin 1
-abipussi 1
 abrānkins 1
 materiālin 1
 absōrbi 1
@@ -1962,7 +1964,6 @@ Jackson 1
 gallin 1
 Bitasīdis 1
 aulaūja 1
-men 1
 perklantīwuns 1
 Pēr 1
 dēlai 1
@@ -2034,7 +2035,6 @@ Stwen 1
 pagalbusis 1
 gūbušas 1
 Mīris 1
-raudāi 1
 films 1
 Astei 1
 labbas 1
@@ -2244,3 +2244,10 @@ kunstiskai 1
 ketwirtikan 1
 mazzitei 1
 plūjan 1
+Pakawīnginais 1
+Perjēis 1
+brendekērmeni 1
+salts 1
+swirrina 1
+ši 1
+seīli 1

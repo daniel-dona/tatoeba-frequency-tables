@@ -1,21 +1,21 @@
 le 12719
 es 7798
 de 6781
-un 6717
+un 6716
 Le 4754
 ha 4665
 in 4262
 que 3818
-non 3635
-Io 3425
+non 3636
+Io 3426
 del 2926
 e 2910
 a 2621
-tu 2149
+tu 2150
 Ille 1780
 me 1557
 io 1551
-al 1533
+al 1534
 su 1511
 se 1492
 Il 1425
@@ -49,7 +49,7 @@ vole 548
 debe 539
 Isto 520
 tempore 515
-illo 507
+illo 508
 qui 502
 Que 500
 isto 489
@@ -114,7 +114,7 @@ An 223
 Su 221
 Illo 220
 dice 217
-era 215
+era 216
 mal 213
 sempre 210
 durante 209
@@ -144,7 +144,7 @@ jammais 180
 amico 178
 Ego 178
 personas 177
-mangia 176
+mangia 177
 the 175
 loco 172
 parlar 171
@@ -303,8 +303,8 @@ comenciava 86
 illos 86
 Boston 86
 Thomas 86
+Multe 85
 alteres 84
-Multe 84
 celo 83
 Tatoeba 83
 Cata 82
@@ -382,7 +382,6 @@ passate 67
 sembla 67
 adjuta 67
 jardin 66
-discurso 66
 etate 65
 alora 65
 matino 65
@@ -390,6 +389,7 @@ qualcunque 65
 cerca 65
 trovate 65
 plagia 65
+discurso 65
 scientia 65
 littera 64
 mano 64
@@ -860,6 +860,7 @@ gris 29
 evenite 29
 natar 28
 pejor 28
+perfecte 28
 comenciate 28
 "Io 28
 gruppo 28
@@ -883,7 +884,6 @@ deserto 28
 appella 28
 Hic 28
 policia 27
-perfecte 27
 finalmente 27
 audite 27
 passo 27
@@ -1370,7 +1370,6 @@ rosa 18
 lontano 18
 area 18
 inamorate 18
-en 18
 natal 18
 Qualque 18
 Cassandra 18
@@ -1448,6 +1447,7 @@ maritate 17
 interprisa 17
 match 17
 base 17
+en 17
 nam 17
 Futue 17
 yiddish 17
@@ -1543,6 +1543,7 @@ monstrar 15
 plattos 15
 comprendeva 15
 perdita 15
+Vamos 15
 labios 15
 vulnerate 15
 London 15
@@ -1630,7 +1631,6 @@ marita 14
 pagina 14
 classic 14
 juste 14
-Vamos 14
 mori 14
 gamba 14
 sucro 14
@@ -5012,6 +5012,7 @@ rosee 4
 recommendabile 4
 jocara 4
 debita 4
+"Es 4
 imita 4
 contribuer 4
 instruite 4
@@ -6216,6 +6217,7 @@ median 3
 succussa 3
 errate 3
 interrumpeva 3
+bar 3
 guardate 3
 Dansa 3
 vivemente 3
@@ -6308,7 +6310,6 @@ habitualmente 3
 salvation 3
 Alberto 3
 glissar 3
-"Es 3
 evidentemente 3
 "Isto 3
 cornices 3
@@ -6558,7 +6559,6 @@ Jammais 3
 job 3
 heavy 3
 metal 3
-islam 3
 "De 3
 Tentar 3
 sape" 3
@@ -8439,7 +8439,6 @@ carnifice 2
 surprendente 2
 enoio 2
 coardos 2
-bar 2
 hypotheses 2
 undulation 2
 manico 2
@@ -9415,6 +9414,7 @@ Fura 2
 SUA 2
 Ooita 2
 libro" 2
+islam 2
 Laurie 2
 ordinar 2
 Talossan 2
@@ -9533,6 +9533,7 @@ fictional 2
 Arrakis 2
 numera 2
 Galach 2
+"Si" 2
 nomine" 2
 programmation 2
 Python 2
@@ -9997,4 +9998,3 @@ ferry 1
 stethoscopio 1
 extremo 1
 relevate 1
-componer 1

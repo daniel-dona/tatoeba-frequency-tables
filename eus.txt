@@ -8,7 +8,7 @@ eta 342
 zuen 280
 egin 272
 naiz 264
-zen 262
+zen 263
 Tom 228
 dago 227
 nahi 222
@@ -2278,6 +2278,8 @@ ahizpak 2
 Mapa 2
 euskaratu 2
 udan 2
+2013 2
+udazkenean 2
 lanpeturik 2
 arrosa 2
 iraungo 2
@@ -4787,8 +4789,6 @@ eleberririk 1
 osasunaren 1
 kaltean 1
 Eguneratu 1
-2013 1
-udazkenean 1
 Ea 1
 etekina 1
 diozun 1
@@ -8515,3 +8515,4 @@ Hamazazpi 1
 Ehun 1
 hamazazpi 1
 hamabost 1
+eguneratu 1

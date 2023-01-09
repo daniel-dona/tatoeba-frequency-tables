@@ -1,5 +1,5 @@
-do 3243
-zou 1167
+do 3245
+zou 1168
 di 946
 no 883
 i 775
@@ -8,12 +8,12 @@ ko 629
 ku 627
 o 575
 id 457
-nu 431
-nopo 410
+nu 432
+nopo 411
 Au 408
 doid 392
 om 356
-dii 352
+dii 353
 isido 347
 dau 343
 nga 314
@@ -51,7 +51,7 @@ ginavo 99
 diho 96
 miampai 96
 ih 94
-nga' 90
+nga' 91
 au' 89
 disido 88
 doiho 88
@@ -149,6 +149,7 @@ ontok 29
 mongoi 29
 minsingiho 29
 Izou 29
+I 28
 songkuo 28
 toi 28
 tasu 28
@@ -156,7 +157,6 @@ Apatut 28
 Songkuo 28
 Mositi 28
 vinasi 28
-I 27
 mikot 27
 Kanou 27
 doino 27
@@ -388,6 +388,7 @@ Duutia 11
 izou 11
 haahangai 11
 ouhan 11
+Atantu 11
 koundaangan 11
 Momoguno 11
 kanu 11
@@ -421,7 +422,6 @@ minit 10
 Ingkaa 10
 bobog 10
 abaabazan 10
-Atantu 10
 Moboos 10
 ponong 10
 Nokoiho 10
@@ -524,6 +524,7 @@ doungosodop 8
 Nokoikot 8
 Iho 8
 Intangai 8
+tazam 8
 ina 8
 gatang 8
 tosiisikap 8
@@ -577,7 +578,6 @@ hinimput 7
 taka 7
 kunsi 7
 uminikot 7
-tazam 7
 hongkod 7
 Manaak 7
 sundung 7
@@ -702,6 +702,7 @@ minugad 6
 botung 6
 izioho' 6
 Om 6
+topuak 6
 paai 6
 tobon 6
 Minokianu 6
@@ -769,6 +770,7 @@ kuda 5
 Noongou 5
 Miho 5
 hoohobi 5
+ 5
 kopiagahan 5
 poingkaa 5
 Miampai 5
@@ -821,7 +823,6 @@ humodong 5
 kahansanan 5
 Pinopoiho 5
 ugadan 5
-topuak 5
 Saasau 5
 Sontob 5
 kotuhidan 5
@@ -927,7 +928,6 @@ Minonoodo 4
 adadi 4
 tuutulus 4
 binabang 4
- 4
 nokito 4
 surga 4
 nazatan 4
@@ -6581,3 +6581,5 @@ kulij 1
 Nokopoiho 1
 Ozi 1
 noindama'an 1
+kinahasa'an 1
+Sirius 1

@@ -1,4 +1,4 @@
-je 1604
+je 1605
 se 599
 u 539
 sam 450
@@ -13,8 +13,8 @@ mi 202
 Ne 190
 to 184
 si 164
+za 164
 što 164
-za 163
 nije 156
 On 145
 od 144
@@ -26,7 +26,7 @@ smo 106
 s 102
 će 96
 bi 93
-Ona 88
+Ona 89
 ću 87
 Ja 86
 Što 83
@@ -664,10 +664,12 @@ van 6
 kraju 6
 njom 6
 Voliš 6
+Naš 6
 Sutra 6
 Nazovi 6
 stalno 6
 mati 6
+piše 6
 Napravio 6
 večeru 6
 sebi 6
@@ -803,16 +805,15 @@ pogled 5
 sata 5
 gitaru 5
 televiziju 5
-Naš 5
 pokazao 5
 zaustaviti 5
 razredu 5
 Odmah 5
 brini 5
+novine 5
 kraja 5
 jela 5
 njegovoj 5
-piše 5
 pažljivo 5
 vjeruje 5
 Tokiju 5
@@ -1039,7 +1040,6 @@ uvjeriti 4
 Vidjeli 4
 noć 4
 potrošio 4
-novine 4
 pokazati 4
 Učitelj 4
 Gospodin 4
@@ -1199,6 +1199,7 @@ knjizi 3
 kiše 3
 pomogao 3
 Lako 3
+prekrasan 3
 Zanimljivo 3
 drugim 3
 nju 3
@@ -1704,7 +1705,6 @@ Takav 2
 prethodi 2
 Mislimo 2
 Venecija 2
-prekrasan 2
 pronašao 2
 sreće 2
 mijenja 2
@@ -2587,6 +2587,7 @@ igri 2
 pobjedio 2
 znala 2
 biologiju 2
+članak 2
 izgorjela 2
 Izvukao 2
 snu 2
@@ -6424,7 +6425,6 @@ tajnosti 1
 kuha 1
 Rasisti 1
 ispraviti 1
-članak 1
 Cijela 1
 Plačeš 1
 ćosav 1
@@ -8071,3 +8071,5 @@ obrazima 1
 Rezultati 1
 negativni 1
 Počeo 1
+školske 1
+planet 1

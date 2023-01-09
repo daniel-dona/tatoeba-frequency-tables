@@ -18,7 +18,7 @@ ke 340
 Ni 340
 a 338
 e 324
-esis 300
+esis 301
 povas 284
 volas 282
 tre 258
@@ -37,7 +37,7 @@ ni 167
 kam 165
 sua 164
 tua 164
-to 158
+to 159
 To 153
 pri 146
 Li 144
@@ -736,6 +736,7 @@ floro 9
 princino 9
 Olu 9
 Rusia 9
+perfekta 9
 gratitudoza 9
 kerlo 9
 dansas 9
@@ -816,7 +817,6 @@ yuri 8
 yuro 8
 Angliana 8
 viri 8
-perfekta 8
 diktatoreso 8
 tanta 8
 Nederlando 8
@@ -7746,3 +7746,4 @@ Amanda 1
 timeskis 1
 festi 1
 L'idei 1
+Dankego; 1

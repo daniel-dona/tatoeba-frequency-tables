@@ -1,13 +1,13 @@
-est 9448
+est 9451
 et 4614
 in 4222
 Thomas 3307
 non 3182
-sunt 2068
+sunt 2069
 ad 1662
 / 1565
-mihi 1420
-esse 1320
+mihi 1421
+esse 1321
 sum 1264
 me 1141
 ut 1073
@@ -17,39 +17,39 @@ tibi 922
 Maria 919
 cum 899
 de 841
-Ubi 806
-Quid 766
+Ubi 807
+Quid 767
 es 735
 se 719
 Didymus 685
 In 681
 Non 677
 quod 677
-eius 634
+eius 635
 hoc 632
 mea 601
 qui 583
-eum 582
+eum 583
 habet 569
 a 548
-erat 546
+erat 547
 meus 519
 sed 511
-Cur 481
+Cur 484
 Hoc 472
 Et 455
-Hic 444
-Haec 431
+Hic 445
+Haec 432
+id 431
 Thōmās 431
-id 430
 Quot 419
-valde 415
+valde 416
 ex 395
 Thoman 395
 meum 386
 autem 380
 quid 378
-Thomae 373
+Thomae 374
 per 359
 dixit 354
 tua 348
@@ -59,21 +59,21 @@ Num 341
 placet 340
 Deus 339
 sit 336
-potest 331
+potest 332
 Quis 329
 eam 328
 Estne 324
 super 324
 domum 306
+hic 301
 ubi 301
-hic 300
 ab 297
 possum 297
 nunc 294
 Si 290
 Dominus 289
 tuum 288
-nos 285
+nos 286
 si 283
 habeo 282
 e 281
@@ -85,12 +85,12 @@ facere 267
 Nihil 265
 quæ 265
 ego 261
+nobis 258
 Cum 257
-nobis 256
 linguam 254
 quae 252
 ea 250
-omnes 248
+omnes 249
 volo 247
 tuus 246
 terra 245
@@ -133,8 +133,8 @@ vult 193
 vis 189
 quoque 189
 habitat 189
+Omnes 188
 tam 188
-Omnes 187
 quia 184
 suum 183
 loqui 182
@@ -152,11 +152,11 @@ erit 161
 quo 159
 licet 158
 nunquam 158
+dedit 158
 Hodie 158
 Quandō 158
 apud 158
-nōn 156
-dedit 156
+nōn 157
 Nunc 156
 sē 156
 facit 153
@@ -166,10 +166,10 @@ die 153
 Eum 152
 ille 151
 illud 151
+pecuniam 149
 edit 149
 iam 148
 homines 147
-pecuniam 147
 ante 147
 estis 147
 Bostoniae 147
@@ -183,9 +183,9 @@ loquitur 141
 Omnia 141
 aut 140
 hora 140
+liber 140
 vos 139
 Id 139
-liber 139
 Puto 139
 tui 139
 Mihi 138
@@ -263,9 +263,9 @@ Spero 107
 lingua 107
 magis 106
 habent 106
+ipse 106
 Quae 105
 bibit 105
-ipse 105
 tuo 105
 eis 105
 Bostoniam 104
@@ -286,12 +286,12 @@ prope 99
 videre 98
 diem 97
 nostra 97
+nimis 97
 aliquid 97
 docuit 97
 eās 97
 saepe 96
 eorum 96
-nimis 96
 Feles 96
 Ioannes 96
 Tu 95
@@ -391,10 +391,10 @@ liberos 79
 raeda 79
 culina 79
 sibi 79
+scire 78
 septem 78
 caelo 78
 vides 78
-scire 77
 re 77
 is 77
 nostrum 77
@@ -416,14 +416,15 @@ coram 76
 scio 75
 sententia 75
 constat 75
+Magister 75
 magnus 75
 A 74
 Nos 74
 Liber 74
-Magister 74
 Dīcit 74
 Cumque 74
 decem 73
+noster 73
 habemus 73
 pueri 73
 Salve 73
@@ -437,7 +438,6 @@ illum 72
 canere 72
 dicens: 72
 verba 71
-noster 71
 vivere 71
 multo 71
 Vir 71
@@ -504,13 +504,13 @@ unum 64
 rex 64
 Tres 64
 Illud 64
+pecunia 64
 novi 63
 dat 63
 fratrem 63
 maior 63
 Potionem 63
 Anglicam 63
-pecunia 63
 Valde 63
 inquit 63
 mortem 62
@@ -740,9 +740,11 @@ pars 44
 faciunt 44
 puto 44
 nobiscum 44
+dolet 44
 illis 44
 amplius 44
 huc 44
+sim 44
 cor 44
 flumine 44
 parvus 44
@@ -766,7 +768,6 @@ vivit 43
 unus 43
 arbor 43
 Equus 43
-dolet 43
 Ab 43
 Quanti 43
 loqueris 43
@@ -786,7 +787,6 @@ longa 42
 Duo 42
 Aemilia 42
 vidisti 42
-sim 42
 matrem 42
 Italiam 42
 populo 42
@@ -798,6 +798,7 @@ bis 42
 essem 42
 itaque 42
 osculatus 42
+pulcherrima 42
 Eos 42
 Huc 42
 mi 41
@@ -813,7 +814,7 @@ valet 41
 fenestram 41
 media 41
 accidit 41
-pulcherrima 41
+dives 41
 prima 41
 unde 41
 semen 41
@@ -851,7 +852,6 @@ Hanc 39
 ēmistī 39
 genus 39
 Pona 39
-dives 39
 cotidie 39
 audivi 39
 simul 39
@@ -992,6 +992,7 @@ felix 33
 multas 33
 pulchrum 33
 Urbs 33
+Liberi 33
 desiit 33
 melior 33
 cuius 33
@@ -1025,7 +1026,6 @@ credo 32
 Latinam 32
 mundus 32
 Amor 32
-Liberi 32
 Vos 32
 antequam 32
 paenitet 32
@@ -1529,6 +1529,7 @@ medicum 22
 convivium 22
 risit 22
 laboro 22
+quot 22
 matrimonio 22
 haberem 22
 tertia 22
@@ -1670,7 +1671,6 @@ amabo 20
 photographicas 20
 cithara 20
 ecclesia 20
-quot 20
 vasa 20
 aliquis 20
 animam 20
@@ -1705,6 +1705,7 @@ alius 20
 possim 20
 dea 20
 bibe 20
+eī 20
 commoratus 20
 apparuit 20
 hominēs 20
@@ -1860,6 +1861,7 @@ theatrum 18
 fungor 18
 olim 18
 Athenis 18
+nātus 18
 cupio 18
 sero 18
 secundam 18
@@ -1875,6 +1877,7 @@ scribe 18
 illae 18
 summo 18
 Esperantica 18
+Patruus 18
 utor 18
 Moysi 18
 mors 18
@@ -1885,6 +1888,7 @@ consilio 18
 exire 18
 Aegyptiorum 18
 respondit 18
+Avunculus 18
 vulneratus 18
 umbra 18
 pectore 18
@@ -1896,7 +1900,6 @@ intelligentior 18
 perdidit 18
 eō 18
 piscare 18
-eī 18
 Danaum 18
 itinere 18
 imperavit 18
@@ -1955,7 +1958,6 @@ Mamma 17
 Quaeso 17
 photographicam 17
 toto 17
-nātus 17
 ibit 17
 lactis 17
 potionis 17
@@ -1970,8 +1972,8 @@ libi 17
 lacus 17
 Se 17
 maritum 17
-Patruus 17
 Petrus 17
+Nix 17
 Cotidie 17
 suffragium 17
 didicistī 17
@@ -1992,7 +1994,6 @@ dixerit 17
 Speculum 17
 tertium 17
 exspecto 17
-Avunculus 17
 deinde 17
 deum 17
 gentem 17
@@ -2089,7 +2090,6 @@ cane 16
 Lege 16
 littera 16
 auribus 16
-Nix 16
 oblita 16
 vidimus 16
 arca 16
@@ -2336,6 +2336,7 @@ facturum 14
 lycei 14
 sæpe 14
 Intellegisne 14
+annōs 14
 flōrēs 14
 Mathematica 14
 millesimi 14
@@ -2609,6 +2610,7 @@ pharaonem 13
 ille: 13
 septimo 13
 proficiscendum 13
+nāta 13
 vīcum 13
 imperātum 13
 spero 12
@@ -2687,7 +2689,6 @@ habebam 12
 amatur 12
 villam 12
 facimus 12
-annōs 12
 clavem 12
 Arabicae 12
 sedecim 12
@@ -2793,6 +2794,7 @@ Tusculum 12
 Romana 12
 essent 12
 fessi 12
+Nōlī 12
 me" 12
 morietur 12
 Foedus 12
@@ -2847,7 +2849,6 @@ naribus 12
 concepit 12
 præcepit 12
 paratae 12
-nāta 12
 Matertera 12
 Gallicē 12
 loquī 12
@@ -3049,6 +3050,7 @@ obviam 11
 machina 11
 Neminem 11
 interficere 11
+putabam 11
 furatus 11
 molestum 11
 fiet 11
@@ -3278,6 +3280,7 @@ exemplum 10
 dici 10
 Graecorum 10
 Lusitania 10
+passus 10
 pugna 10
 indicavit 10
 proba 10
@@ -3356,17 +3359,16 @@ Responde 10
 delectant 10
 Syrus 10
 Leander 10
-Nōlī 10
 Huic 10
 altero 10
 Arcus 10
 eā 10
-putabam 10
 vident 10
 clam 10
 Officium 10
 elephantes 10
 clamore 10
+intravit 10
 quaesō 10
 systematis 10
 mearum 10
@@ -3374,6 +3376,7 @@ gravior 10
 amāre 10
 responsum 10
 situs 10
+dīcere 10
 devoravit 10
 narravit 10
 noluit 10
@@ -3448,6 +3451,7 @@ kalendas 10
 Vīcus 10
 ēducātus 10
 repperistī 10
+suōs 10
 alieno 9
 Epistula 9
 amari 9
@@ -3456,6 +3460,7 @@ somnia 9
 civitas 9
 ferrum 9
 ver 9
+astra 9
 Fama 9
 dei 9
 Labor 9
@@ -3497,6 +3502,7 @@ quippe 9
 amamus 9
 cani 9
 Alter 9
+doceo 9
 avus 9
 natant 9
 noscere 9
@@ -3510,6 +3516,7 @@ ibam 9
 Flos 9
 balneo 9
 Panis 9
+aspiciunt 9
 fluvium 9
 Telehorasis 9
 factae 9
@@ -3607,7 +3614,6 @@ Sententia 9
 manet 9
 maiorem 9
 aegrum 9
-passus 9
 potero 9
 muro 9
 vexillum 9
@@ -3705,7 +3711,6 @@ officina 9
 nolit 9
 populos 9
 more 9
-intravit 9
 aetatis 9
 pretiosior 9
 commodior 9
@@ -3812,7 +3817,6 @@ fēcistis 9
 repperistis 9
 convēnistī 9
 Tūne 9
-suōs 9
 consentire 8
 dubio 8
 pulvis 8
@@ -3820,7 +3824,6 @@ Fur 8
 Parva 8
 modus 8
 putant 8
-astra 8
 salutant 8
 Vae 8
 victis 8
@@ -3886,7 +3889,6 @@ Sola 8
 dictionarium 8
 Americana 8
 Antonius 8
-doceo 8
 Stolam 8
 albam 8
 Calcei 8
@@ -3906,7 +3908,6 @@ Tesseram 8
 Pila 8
 Teniludio 8
 Duobus 8
-aspiciunt 8
 Arbores 8
 Ianua 8
 frātrēs 8
@@ -4160,7 +4161,6 @@ amplexae 8
 vatem 8
 rides 8
 vocatum 8
-dīcere 8
 Nōs 8
 Fēlēs 8
 gregem 8
@@ -4558,6 +4558,7 @@ Venter 7
 currunt 7
 petiit 7
 exstitit 7
+Sequere 7
 nosti 7
 Raro 7
 Cantrix 7
@@ -5168,10 +5169,10 @@ quinta 6
 videns 6
 osculatur 6
 nepos 6
+Oculus 6
 Longam 6
 Germānicam 6
 Iohannes 6
-Sequere 6
 docebo 6
 manes 6
 sinu 6
@@ -6057,7 +6058,6 @@ salus 5
 Homerum 5
 linguarum 5
 Spiritus 5
-Oculus 5
 nesciebam 5
 scribitis 5
 duxi 5
@@ -6099,6 +6099,7 @@ suarum 5
 Tigris 5
 placebit 5
 requiris 5
+Audisne 5
 factis 5
 Extra 5
 Athenae 5
@@ -6353,6 +6354,7 @@ Clarus 5
 osculatum 5
 "Thoman 5
 texit 5
+fēlēs 5
 mortuī 5
 absit 5
 Volō 5
@@ -6798,6 +6800,7 @@ Ruri 5
 pascere 5
 līberī 5
 iī 5
+Tū 5
 Vīdistīne 5
 somnō 5
 Ianuarias 5
@@ -6805,6 +6808,7 @@ Galliā 5
 Iube 5
 Mīror 5
 amīcōs 5
+ībis 5
 raedā 5
 Eī 5
 mentītus 5
@@ -7268,6 +7272,7 @@ Pretium 4
 Pueros 4
 delibat 4
 purgare 4
+Timesne 4
 Accepistine 4
 tunicas 4
 breve 4
@@ -7371,7 +7376,6 @@ Uno 4
 hebdomadibus 4
 Ludovicus 4
 nummos 4
-Audisne 4
 deteriora 4
 "Non" 4
 revertitur 4
@@ -7706,7 +7710,6 @@ ventūram 4
 "Ad 4
 vocatus 4
 dormīre 4
-fēlēs 4
 sorōrēsque 4
 miram 4
 angelum 4
@@ -8185,6 +8188,7 @@ iumentum 4
 gignit 4
 apte 4
 Timet 4
+reperire 4
 Heleno 4
 tetigerit 4
 mutatur 4
@@ -8368,6 +8372,7 @@ Aegyptum; 4
 tenebam 4
 auditis 4
 pistorum 4
+Videbam 4
 tenues 4
 urente 4
 Locutusque 4
@@ -8512,7 +8517,6 @@ putaremus 4
 inveniri 4
 Eccum 4
 Nōndum 4
-Tū 4
 ēvolāvit 4
 bēstiae 4
 Nōlō 4
@@ -8523,7 +8527,6 @@ Fierī 4
 putābat 4
 putāvit 4
 vōce 4
-ībis 4
 pagum 4
 aedis 4
 mentīta 4
@@ -8915,6 +8918,7 @@ citreo 3
 citrea 3
 "Potesne 3
 theatro 3
+Calceōs 3
 meōs 3
 emet 3
 octava 3
@@ -9133,7 +9137,6 @@ antiquae 3
 propriam 3
 prohibere 3
 Bono 3
-Timesne 3
 mansisti 3
 calendario 3
 Februarius 3
@@ -9754,6 +9757,7 @@ secandum 3
 Pecūniam 3
 divisus 3
 domesticum 3
+aegri 3
 Ambulare 3
 basipilam 3
 externas 3
@@ -9994,7 +9998,3 @@ Araneas 3
 Pollicita 3
 esuriens 3
 Pollicitus 3
-Natus 3
-potat 3
-Maximam 3
-metuo 3

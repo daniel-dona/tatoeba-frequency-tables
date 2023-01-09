@@ -1,7 +1,7 @@
-es 89
-Eo 55
+es 90
+Eo 63
+rhen 42
 yn 37
-rhen 34
 di 27
 Tomos 27
 Ill 24
@@ -10,11 +10,11 @@ su 18
 Sa 16
 Nu 15
 llo 14
+Lla 13
 ill 12
-Lla 12
 yst 11
+lla 11
 sunt 10
-lla 10
 puf 9
 ci 9
 Llo 9
@@ -42,6 +42,7 @@ tew 4
 perthir 4
 dy 4
 af 4
+ag 4
 wol 4
 Saesonig 4
 ffelig 4
@@ -60,7 +61,6 @@ pharol 3
 twy 3
 Es-ty 3
 fath 3
-ag 3
 Almein 3
 mai 3
 briwad 3
@@ -73,10 +73,12 @@ er 3
 digas 3
 ddigas 3
 morth 3
+wid 3
 e-dd 3
 Pod-eo 3
 sidder 3
 fefeiran 3
+si 3
 fryd 2
 trui 2
 cathr 2
@@ -130,7 +132,6 @@ sa 2
 Mair 2
 Helo 2
 diawl 2
-wid 2
 edif 2
 mun 2
 Yst 2
@@ -145,8 +146,8 @@ Dôn 2
 Boston 2
 llein 2
 inelleith 2
-si 2
 can 2
+for 2
 maled 2
 rhiddigl 2
 nef 2
@@ -367,7 +368,6 @@ Domos 1
 sab 1
 h-ysl 1
 i 1
-for 1
 wer 1
 mal 1
 ddragun 1
@@ -389,3 +389,10 @@ bens 1
 sew 1
 afant 1
 Nonc 1
+ffyf 1
+nghongwen 1
+sewen 1
+nghoid 1
+fanug 1
+ngarmen 1
+mhif 1

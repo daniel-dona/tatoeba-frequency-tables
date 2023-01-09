@@ -1,4 +1,4 @@
-je 353
+je 354
 v 111
 se 100
 sem 88
@@ -686,6 +686,7 @@ mleko 2
 skrbela 2
 Tako 2
 boljši 2
+lep 2
 SMS 2
 sporočil 2
 SMS-ov 2
@@ -2340,7 +2341,6 @@ Stavim 1
 spomniš 1
 obupno 1
 grozno 1
-lep 1
 razgled 1
 Otrok 1
 potreboval 1
@@ -2505,3 +2505,5 @@ naučili 1
 nasilje 1
 Vest 1
 pêče 1
+Naš 1
+planet 1

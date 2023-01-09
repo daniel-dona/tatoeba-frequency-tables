@@ -1,30 +1,30 @@
-Ez 1193
-e 1029
+Ez 1194
+e 1030
 xwe 1029
 min 987
-ji 985
+ji 986
 bi 934
-li 816
+li 820
 Ew 811
 ê 735
 û 661
-ye 635
-ku 601
-Em 542
+ye 637
+ku 603
+Em 543
 Tom 542
 Tu 516
 me 513
 te 493
 de 459
-ne 397
-re 384
+ne 398
+re 385
 Min 358
-Hûn 301
+Hûn 304
 di 297
 kir 293
 çi 279
 wê 256
-Ji 251
+Ji 252
 em 250
 jî 242
 ez 239
@@ -45,8 +45,8 @@ bikin 177
 ew 177
 in 174
 Wî 172
+hez 168
 pir 168
-hez 167
 Wê 166
 Me 156
 wan 152
@@ -75,7 +75,7 @@ vir 102
 hev 101
 ev 94
 Divê 92
-dibistanê 90
+dibistanê 91
 kiriye 89
 malê 87
 ve 86
@@ -133,11 +133,11 @@ baz 52
 hevalên 50
 kes 49
 bûm 49
+nakim 48
 dibim 48
 dikarim 48
 nekin 48
 yî 47
-nakim 47
 bide 47
 hûn 47
 fêr 46
@@ -177,13 +177,13 @@ dide 35
 pêk 35
 bibim 34
 sê 34
+kîjan 34
 Samî 34
 dixwazî 33
 serê 33
 amade 33
 Çima 33
 mirov 32
-kîjan 32
 Çi 32
 caran 32
 bûye 32
@@ -284,6 +284,7 @@ hinek 20
 dûr 20
 hevalê 20
 serdana 20
+dijîn 20
 sor 20
 hebû 20
 xweşik 20
@@ -294,7 +295,6 @@ u 19
 mal 19
 destê 19
 ka 19
-dijîn 19
 qasî 19
 pênc 19
 pirtûk 19
@@ -438,6 +438,7 @@ herin 13
 jiyanê 13
 gund 13
 veke 13
+dizanin 13
 Here 13
 borî 13
 navbera 13
@@ -526,7 +527,6 @@ Zimanê 11
 xwînê 11
 zor 11
 Mamoste 11
-dizanin 11
 rojekê 11
 zivistanê 11
 bikevin 11
@@ -590,6 +590,7 @@ qey 10
 anî 10
 ne" 10
 şerm 10
+karekî 10
 danî 10
 ajot 10
 bîra 10
@@ -658,7 +659,6 @@ awayekî 9
 tevlî 9
 Karê 9
 çêtir 9
-karekî 9
 hema 9
 Ger 9
 daran 9
@@ -950,6 +950,7 @@ mirî 6
 wekhev 6
 Jina 6
 devê 6
+dinivîse 6
 ehmeq 6
 nivîsî 6
 Diranê 6
@@ -1092,7 +1093,6 @@ Pirr 5
 xatirê 5
 bijîm 5
 pêşniyar 5
-dinivîse 5
 nedît 5
 xeber 5
 derketin 5
@@ -1620,6 +1620,7 @@ cidî 4
 Hestî 4
 pereya 4
 Ewropayê 4
+Krîptopere 4
 Sermaya 4
 kana 4
 bistînim 3
@@ -2299,7 +2300,6 @@ qestî 3
 Stenbolê 3
 Mary'ê 3
 danûstanê 3
-Krîptopere 3
 Maisie 3
 cêwî 3
 Neh 3
@@ -2443,6 +2443,7 @@ giş 2
 hal 2
 sêwî 2
 qirika 2
+rojnameya 2
 nemirim 2
 Selam 2
 duşem 2
@@ -3606,6 +3607,7 @@ fezayî 2
 lîre 2
 bizewicînin 2
 nêzan 2
+dermanxane 2
 Maisie'yê 2
 hevkariya 2
 pişt 2
@@ -3616,6 +3618,7 @@ daînim 2
 tualetê 2
 Judokayê 2
 xebitîn 2
+navçeyê 2
 numera 1
 enteresant 1
 gerdeniyê 1
@@ -4205,7 +4208,6 @@ kela 1
 demo 1
 guhan 1
 Rojname 1
-rojnameya 1
 rojnameyekê 1
 naxebitim 1
 jiyîm 1
@@ -9062,7 +9064,6 @@ organîze 1
 Tiyatro 1
 Otel 1
 nexweşxane 1
-dermanxane 1
 Dermanxaneya 1
 Bedlîs 1
 minareyên 1
@@ -9188,3 +9189,7 @@ dupêyekî 1
 bêmû 1
 napirsî 1
 napirsin 1
+gotarekê 1
+şaredarî 1
+krîptopereyan 1
+tewş 1

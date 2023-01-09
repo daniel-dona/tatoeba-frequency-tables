@@ -1,12 +1,12 @@
-Saya 1402
+Saya 1403
 saya 1263
 Tom 1140
 yang 1136
 tidak 1105
 di 707
 awak 699
-itu 613
-ini 579
+itu 615
+ini 580
 akan 561
 untuk 550
 Dia 529
@@ -14,7 +14,7 @@ dan 406
 dia 404
 dengan 402
 ke 359
-anda 328
+anda 329
 Mary 307
 telah 290
 boleh 256
@@ -24,7 +24,7 @@ tahu 236
 kita 219
 Awak 218
 apa 214
-adalah 209
+adalah 210
 mahu 200
 ada 197
 hari 188
@@ -75,8 +75,8 @@ tetapi 87
 ساي 87
 ingin 85
 Kita 84
+tentang 83
 belajar 83
-tentang 82
 satu 81
 nak 80
 sama 79
@@ -107,11 +107,11 @@ melihat 60
 Perancis 59
 sahaja 59
 oleh 58
+pasti 58
 sebelum 57
 lelaki 57
 sesuatu 57
 sendiri 57
-pasti 57
 diri 57
 mungkin 57
 hanya 56
@@ -193,13 +193,13 @@ hidup 38
 يڠ 38
 minggu 37
 pulang 37
+salah 36
 kembali 36
 berjumpa 36
 merasakan 36
 توم 36
 كامو 36
 Berapa 35
-salah 35
 bilik 35
 Itu 35
 Sila 34
@@ -566,6 +566,7 @@ tenis 12
 buah 12
 Kanak-kanak 12
 dikatakan 12
+putih 12
 mengenali 12
 pendapat 12
 jelas 12
@@ -612,7 +613,6 @@ cuti 11
 seluruh 11
 Lebih 11
 enam 11
-putih 11
 Siapakah 11
 kampung 11
 main 11
@@ -795,6 +795,7 @@ kadang-kadang 8
 kek 8
 2:30 8
 berfikir 8
+indah 8
 Maria 8
 ya 8
 bodoh 8
@@ -834,6 +835,7 @@ sepenuhnya 8
 لايلا 8
 لبيه 8
 ددالم 8
+bintang 8
 كيت 8
 lamakah 7
 lapangan 7
@@ -896,7 +898,6 @@ dilihat 7
 rosak 7
 angin 7
 terasa 7
-indah 7
 menterjemahkan 7
 sanggup 7
 bersendirian 7
@@ -952,7 +953,6 @@ Laila 7
 سأورڠ 7
 کيت 7
 بهاس 7
-bintang 7
 ساڠت 7
 hendaklah 6
 Tetapi 6
@@ -1378,6 +1378,7 @@ web 4
 London 4
 pelakon 4
 Lelaki 4
+Hidup 4
 meningkat 4
 zaman 4
 tenaga 4
@@ -1533,6 +1534,7 @@ cemburu 4
 lantai 4
 Dulu 4
 Belok 4
+Pintu 4
 tersenyum 4
 Sukar 4
 selesa 4
@@ -1677,7 +1679,6 @@ Patutkah 3
 Budak-budak 3
 vegetarian 3
 menasihati 3
-Hidup 3
 menyeronokkan 3
 semata-mata 3
 terbit 3
@@ -1998,7 +1999,6 @@ jaket 3
 Jadi 3
 kekuatan 3
 perbualan 3
-Pintu 3
 jua 3
 gula-gula 3
 anjingnya 3
@@ -2930,6 +2930,7 @@ semestinya 2
 mayat 2
 tiba-tiba 2
 diberikan 2
+terkunci 2
 menjelang 2
 Inikah 2
 poket 2
@@ -5418,7 +5419,6 @@ balas 1
 tangkap 1
 diperolehi 1
 tubuhnya 1
-terkunci 1
 "Dazhong" 1
 membetulkannya 1
 mengendalikan 1
@@ -7466,3 +7466,4 @@ Hartanah 1
 baran 1
 Kelembapannya 1
 Thierry 1
+Sirius 1

@@ -1,5 +1,5 @@
 a 1187
-ti 1165
+ti 1167
 iti 664
 ni 511
 nga 446
@@ -70,9 +70,9 @@ Paris 18
 oras 17
 manipud 16
 Mabalin 16
+biag 16
 mabalin 16
 uray 15
-biag 15
 isu 15
 takrot 15
 aramiden 15
@@ -145,6 +145,7 @@ itay 9
 Kasla 9
 Nasken 9
 Boston 9
+danum 8
 dagus 8
 nasken 8
 nasayaat 8
@@ -168,7 +169,6 @@ agingga 8
 Lunes 8
 inaldaw 7
 ubbing 7
-danum 7
 eskuela 7
 Ammok 7
 Naimbag 7
@@ -334,6 +334,7 @@ maaramid 4
 kayatko 4
 kabayatan 4
 maammuanna 4
+Napintas 4
 pagtaengan 4
 adayo 4
 natnateng 4
@@ -456,7 +457,6 @@ Nalabit 3
 Muiriel 3
 Kunak 3
 damo 3
-Napintas 3
 balasang 3
 mangidaulo 3
 mensahe 3
@@ -977,6 +977,7 @@ aglalangoy 2
 haan 2
 lapdantayo 2
 Masapulayo 2
+Nabannogakon 2
 maiparbeng 2
 Dinak 2
 nagpintas 2
@@ -3055,7 +3056,6 @@ annadantayo 1
 agpirmatayo 1
 ilakotayo 1
 balaytayo 1
-Nabannogakon 1
 pila 1
 Nabannogen 1
 agpilpila 1
@@ -3899,3 +3899,4 @@ inaramidta 1
 Sapsapulek 1
 naikasar 1
 sadinno 1
+Biag 1

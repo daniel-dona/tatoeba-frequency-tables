@@ -679,6 +679,7 @@ vacib 5
 alman 5
 səsini 5
 olacam 5
+Məktəb 5
 qorxmuram 5
 edəcək 5
 Payız 5
@@ -752,6 +753,7 @@ maşınım 4
 qida 4
 deyirlər 4
 isə 4
+gözəldir 4
 tanıyır 4
 ve 4
 günü 4
@@ -891,7 +893,6 @@ sındırdı 4
 tez 4
 Mariya 4
 evi 4
-Məktəb 4
 açılır 4
 gözləri 4
 xoşlayırsan 4
@@ -1012,7 +1013,6 @@ kor 3
 Braziliyada 3
 futbol 3
 etməlisən 3
-gözəldir 3
 imiş 3
 edər 3
 alır 3
@@ -1171,6 +1171,7 @@ pişiklər 3
 bunun 3
 Almaniyaya 3
 Şri 3
+yazır 3
 adadır 3
 neçədir 3
 Avstraliya 3
@@ -1838,7 +1839,6 @@ sürməyə 2
 verirəm 2
 xalası 2
 Lanka 2
-yazır 2
 "Şri 2
 Latviyada 2
 Avstriya 2
@@ -7470,3 +7470,6 @@ cəvab 1
 verdimi 1
 qaydalarınla 1
 Pulun 1
+qəzetinə 1
+məqalə 1
+Planetimiz 1

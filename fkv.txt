@@ -53,6 +53,7 @@ saanheet 4
 kans 4
 vanhaa 4
 viisi 4
+tuli 4
 paljon 4
 tärkkee 4
 kahđeksen 4
@@ -102,7 +103,6 @@ Sielä 3
 Kuka 3
 tullee 3
 Emmä 3
-tuli 3
 ruokkaa 3
 koira 3
 Sie 3
@@ -226,6 +226,7 @@ jällää 2
 Nyt 2
 kaunis 2
 hyvää 2
+Sota 2
 kvääninkansan 1
 kielen 1
 kulttuurin 1
@@ -1197,7 +1198,6 @@ keskipäiväplaanat 1
 nuku 1
 Onnia 1
 poutailma 1
-Sota 1
 luo 1
 epävarmhuutta 1
 päässiäissii 1
@@ -1295,3 +1295,9 @@ Kanan 1
 latinankielinen 1
 gallus 1
 domesticus 1
+jatkui 1
+Asiat 1
+toimivat 1
+Minusta 1
+pappa 1
+piiale 1
