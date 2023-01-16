@@ -1,11 +1,11 @@
-lo 12499
+lo 12498
 mi 5843
 do 3294
 cu 3292
 la 2546
 pu 2254
 nu 2093
-le 1927
+le 1929
 se 1863
 na 1586
 be 1305
@@ -13,7 +13,7 @@ i 1258
 ko'a 1230
 ma 1209
 ka 1190
-ko 1063
+ko 1064
 ca 972
 tom 943
 xu 889
@@ -21,7 +21,7 @@ ra 813
 da 809
 fi 705
 klama 648
-ti 617
+ti 618
 ba 565
 du'u 540
 ro 517
@@ -56,11 +56,11 @@ nai 249
 zdani 244
 za'u 242
 ka'e 237
-cukta 236
+cukta 237
 tavla 235
 kei 232
+ei 228
 me 227
-ei 227
 fa 222
 mi'o 221
 ri 220
@@ -82,12 +82,12 @@ nitcu 173
 xamgu 173
 mlatu 172
 noi 171
-fo 168
+fo 169
 lu 166
 li'u 163
 nanmu 158
 cliva 156
-verba 154
+verba 155
 fe 151
 kau 149
 xabju 149
@@ -98,11 +98,11 @@ ralte 146
 sidju 145
 e 145
 gleki 144
+lo'e 143
 mi'ai 143
-lo'e 141
 cmene 140
+tadni 140
 na'e 140
-tadni 139
 ninmu 139
 jukpa 137
 patfu 136
@@ -812,6 +812,7 @@ li'a 15
 krefu 15
 pindi 15
 pencu 15
+do'o 15
 jitro 15
 kibro 15
 a'ucai 15
@@ -839,7 +840,6 @@ tu'i 14
 paroi 14
 cfipu 14
 xagmau 14
-do'o 14
 sa'e 14
 jgira 14
 brife 14
@@ -917,6 +917,7 @@ clite 12
 my 12
 kalri 12
 fi'i 12
+jbobau 12
 kosta 12
 makfa 12
 kufra 12
@@ -962,7 +963,6 @@ mexno 11
 snuji 11
 plana 11
 smadi 11
-jbobau 11
 bangenugu 11
 si'a 11
 tonis 11
@@ -1138,6 +1138,7 @@ judri 8
 canci 8
 sarji 8
 xarci 8
+bandu 8
 aupei 8
 tolcliva 8
 baktu 8
@@ -1223,7 +1224,6 @@ jy 7
 fapro 7
 jei 7
 muzga 7
-bandu 7
 tirse 7
 klamu'o 7
 mirli 7
@@ -2504,6 +2504,7 @@ toljinga 2
 ta'enai 2
 sedjica 2
 nalzasti 2
+kotygu'e 2
 seltcu 2
 ri'anai 2
 ficysi'u 2
@@ -3018,6 +3019,7 @@ salta 2
 zmiku 2
 solnuntolcanci 2
 Do 2
+tolpifygau 2
 skuselzu'e 2
 banje'idu 2
 jbetei 2
@@ -3859,7 +3861,6 @@ mlemau 1
 judis 1
 boltipterjvi 1
 nalkunti 1
-kotygu'e 1
 rupsra 1
 caba'o 1
 tolcmalu 1
@@ -6161,7 +6162,6 @@ cazgau 1
 maxmud 1
 mi'ircelxa'i 1
 xalda 1
-tolpifygau 1
 pesygoi 1
 bromalsi 1
 ku'irni 1
@@ -6427,3 +6427,4 @@ djaneiros 1
 toldralogji 1
 lailas 1
 filso 1
+trangeni 1

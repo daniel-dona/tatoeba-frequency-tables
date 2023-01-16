@@ -3,13 +3,13 @@ la 2017
 Me 2001
 ne 1149
 La 903
-me 793
+me 794
 Tom 760
 tu 754
 Ka 604
 en 539
 havas 519
-es 399
+es 401
 Il 381
 di 372
 vu 357
@@ -21,7 +21,7 @@ e 324
 esis 301
 povas 284
 volas 282
-tre 258
+tre 259
 por 252
 Tu 246
 Mea 241
@@ -59,13 +59,13 @@ Mary 106
 multa 104
 granda 103
 Vu 99
+amas 99
 bezonas 99
-amas 98
 maxim 98
 Quon 97
 hike 96
+lo 96
 tro 95
-lo 95
 vua 95
 Ta 94
 pro 94
@@ -159,8 +159,8 @@ amiki 43
 morge 43
 nulo 43
 laboras 43
+Omna 42
 drinkas 42
-Omna 41
 vidas 41
 kafeo 41
 urbo 41
@@ -179,11 +179,11 @@ habitas 39
 ube 39
 o 39
 kompris 38
+importanta 38
 venas 38
 vidar 37
 che 37
 infanti 37
-importanta 37
 ilua 37
 lojas 37
 lando 37
@@ -193,12 +193,12 @@ okuli 36
 se 36
 iris 35
 til 35
+facis 35
 kredas 35
 iras 34
 libri 34
 letro 34
 chambro 34
-facis 34
 dio 34
 yunino 34
 Nulu 33
@@ -266,6 +266,7 @@ kolda 26
 inter 26
 gardeno 26
 mala 26
+Yes 26
 hundi 25
 qui 25
 venis 25
@@ -280,7 +281,6 @@ homo 25
 Tua 25
 filiino 25
 yaro 25
-Yes 25
 olu 24
 trovis 24
 genitori 24
@@ -696,6 +696,7 @@ krayono 9
 projeto 9
 amikeso 9
 ito 9
+landi 9
 fairo 9
 filii 9
 Ho 9
@@ -764,9 +765,9 @@ spozo 8
 venonta 8
 matine 8
 oreli 8
+amar 8
 manjajo 8
 bestii 8
-landi 8
 od 8
 normala 8
 apertita 8
@@ -824,6 +825,7 @@ Layla 8
 mushi 8
 gambi 8
 Yanni 8
+Kati 8
 milionero 8
 remarkinda 8
 brulas 7
@@ -841,6 +843,7 @@ komputero 7
 moderna 7
 explikar 7
 doloras 7
+l'amoro 7
 ti 7
 stulo 7
 adhike 7
@@ -856,7 +859,6 @@ funcionas 7
 komencas 7
 konsistas 7
 vartis 7
-amar 7
 Kyoto 7
 marchis 7
 televiziono 7
@@ -947,7 +949,6 @@ amis 7
 kisis 7
 flava 7
 anmo 7
-Kati 7
 violacis 7
 kulo-frapis 7
 tapiso 7
@@ -962,7 +963,6 @@ enemiki 6
 deskovris 6
 botelo 6
 rapida 6
-l'amoro 6
 rare 6
 mariajita 6
 trovas 6
@@ -1269,6 +1269,7 @@ eventar 5
 facenda 5
 montras 5
 sive 5
+Liberigez 5
 fashisto 5
 miaulas 5
 Nord-Korea 5
@@ -1292,6 +1293,7 @@ Afrika 5
 joko 5
 nubi 5
 Wang 5
+falsa 5
 violacesis 5
 jolia" 5
 basa 5
@@ -1531,7 +1533,6 @@ policistaro 4
 donacis 4
 momento 4
 esabis 4
-Liberigez 4
 nepoto 4
 patri 4
 pektilo 4
@@ -1562,7 +1563,6 @@ saltas 4
 mastro 4
 Ricardo 4
 blinda 4
-falsa 4
 Drinkez 4
 marmoto 4
 skolano 4
@@ -2026,6 +2026,7 @@ egoismo 3
 satisfacesas 3
 formiki 3
 Jean 3
+Skotia 3
 provis 3
 ganti 3
 kuzino 3
@@ -2926,6 +2927,7 @@ korbo 2
 minima 2
 stranjeri 2
 idioto 2
+L'amoro 2
 kongreso 2
 existus 2
 oportus 2
@@ -2998,7 +3000,6 @@ Robert 2
 Skureli 2
 avelani 2
 chasis 2
-Skotia 2
 sekretariino 2
 violino 2
 altre 2
@@ -6099,7 +6100,6 @@ regnar 1
 l'Inferno 1
 servar 1
 Cielo 1
-L'amoro 1
 sufro 1
 abolisar 1
 desaparigar 1

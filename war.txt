@@ -1,9 +1,9 @@
 nga 585
-ha 426
-Tom 303
+ha 427
+Tom 304
 iton 277
 an 260
-hi 256
+hi 257
 hin 238
 ko 231
 ako 211
@@ -15,7 +15,7 @@ mga 133
 hiton 123
 Diri 121
 imo 120
-la 114
+la 115
 ni 113
 Waray 112
 mo 99
@@ -99,13 +99,13 @@ ta 16
 pero 16
 Maaram 16
 gad 15
+amon 15
 adto 15
 maupay 15
 hini 15
 ngatanan 15
 im' 15
 Ayáw 15
-amon 14
 tikang 14
 butang 14
 anay 14
@@ -804,6 +804,7 @@ pagyakan 2
 Nahitabu 2
 pinakamaraut 2
 natun 2
+magsurat 2
 halaba 2
 sala 2
 abre 2
@@ -1754,7 +1755,6 @@ mahitabu 1
 Napaatras 1
 paggutumon 1
 panggut-asun 1
-magsurat 1
 Pasabuton 1
 Mahihiara 1
 pag-ukoy 1
@@ -3528,3 +3528,4 @@ nagsiring 1
 nagtututdo 1
 Pwede 1
 i-sara 1
+Talagsa 1

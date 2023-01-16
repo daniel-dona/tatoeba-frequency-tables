@@ -3,10 +3,10 @@ ang 416
 ko 280
 ka 219
 nga 165
-si 156
+si 157
 na 152
 mga 135
-Tom 125
+Tom 126
 akong 110
 ug 109
 og 108
@@ -28,7 +28,7 @@ nimo 49
 Ang 45
 balay 41
 Modagan 39
-ra 36
+ra 37
 kaayo 33
 ta 31
 Ayaw 31
@@ -504,6 +504,7 @@ gustog 2
 duawon 2
 Gisikop 2
 adis 2
+kanamo 2
 Gisuginlan 2
 kawat 2
 ikaduhang 2
@@ -852,6 +853,7 @@ Nagpadala 2
 Humok 2
 tuon 2
 Maestro 2
+Panagsa 2
 ani 2
 tua 2
 tambag 2
@@ -935,7 +937,6 @@ patyon 1
 Krimen 1
 inusarang 1
 Gikompisal 1
-kanamo 1
 tana 1
 Gitanyag 1
 ikatulong 1
@@ -2912,7 +2913,6 @@ Busog 1
 Bawal 1
 pwede 1
 Pakiabri 1
-Panagsa 1
 Tudloa 1
 Nahigugma 1
 exam 1
@@ -3165,3 +3165,4 @@ nahitao 1
 magtudlo 1
 sarado 1
 pultahan 1
+magsuwat 1

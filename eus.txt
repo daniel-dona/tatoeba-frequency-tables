@@ -34,7 +34,7 @@ zure 101
 joan 99
 asko 91
 ditut 91
-al 87
+al 88
 oso 81
 urte 81
 ahal 79
@@ -126,12 +126,12 @@ Kaixo 31
 beharko 31
 arte 31
 gaur 31
+dizut 30
 orain 30
 Zergatik 30
 duela 30
 gertatu 30
 guztia 29
-dizut 29
 ni 28
 egiteko 28
 nahiko 28
@@ -326,6 +326,7 @@ jotzen 12
 azken 12
 txikia 12
 berandu 12
+Lagundu 12
 duzue 12
 zehar 12
 ezagutu 12
@@ -360,7 +361,6 @@ hainbat 11
 jo 11
 baizik 11
 aukera 11
-Lagundu 11
 ordutan 11
 euria 11
 anaia 11
