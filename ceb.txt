@@ -1,6 +1,6 @@
 sa 665
 ang 416
-ko 280
+ko 281
 ka 219
 nga 165
 si 157
@@ -316,6 +316,7 @@ Nahurot 4
 atong 4
 lakaw 4
 itlog 4
+pagbuhat 4
 Bisan 4
 taga 4
 kanding 4
@@ -367,6 +368,7 @@ magtrabaho 3
 gwapa 3
 Hadlok 3
 oy 3
+niana 3
 dalan 3
 sugod 3
 Pagdala 3
@@ -450,7 +452,6 @@ Tatoeba 3
 kaguba 3
 Akoa 3
 lain 3
-pagbuhat 3
 amaw 3
 patay 3
 laing 3
@@ -554,7 +555,6 @@ natulog 2
 mag-inusara 2
 Ikay 2
 hukom 2
-niana 2
 naghulat 2
 masayran 2
 kalitok 2
@@ -3166,3 +3166,4 @@ magtudlo 1
 sarado 1
 pultahan 1
 magsuwat 1
+Maglisod 1

@@ -1,4 +1,4 @@
-Aku 128
+Aku 129
 ora 112
 Tom 104
 sing 62
@@ -141,12 +141,14 @@ tangi 4
 pasar 4
 kopi 4
 pundi 4
+taun 4
 Tak 4
 numpak 4
 bis 4
 krungu 4
 waé 4
 saiki 4
+rabi 4
 nyambut 4
 kapan 4
 dhuwur 4
@@ -196,14 +198,12 @@ ra 3
 Kayané 3
 nggo 3
 tekan 3
-taun 3
 bengi 3
 omah 3
 bener 3
 liyané 3
 Awakdhéwé 3
 malah 3
-rabi 3
 larang 3
 urip 3
 wingi 3
@@ -441,6 +441,7 @@ toko 2
 Walanda 2
 London 2
 Kuduné 2
+pas 2
 soko 2
 de'e 2
 ngisahi 2
@@ -450,6 +451,7 @@ engko 2
 wes 2
 opo 2
 ngguyu 2
+bojoku 2
 adhem 2
 lancar 2
 Turki 2
@@ -1539,7 +1541,6 @@ Meneng 1
 ꦩꦼꦤꦼꦁ 1
 ꦲꦏꦸꦲꦺꦴꦫꦠꦸꦏꦸꦫꦺꦴꦠꦶ꧉ 1
 gurumu 1
-pas 1
 ꦏꦺꦴꦮꦺꦲꦶꦭꦶꦁꦗꦼꦤꦼꦁꦔꦺꦒꦸꦫꦸꦩꦸꦥꦱ꧀ꦏꦼꦭꦱ꧀ꦱꦶꦗꦶꦲꦺꦴꦫ 1
 ꦲꦏꦸꦏꦠꦸꦫꦺꦴꦤ꧀ꦤꦭꦶꦏꦱꦶꦤꦲꦸꦲꦤꦲꦶꦁꦩꦺꦗꦏꦸ꧉ 1
 luwe 1
@@ -1609,7 +1610,6 @@ anaké 1
 ꦝꦺꦮꦺꦏ꧀ꦏꦺꦭꦒꦶꦠꦸꦏꦸꦢꦺꦴꦭꦤ꧀ꦤꦤ꧀ꦒꦮꦺꦲꦤꦏ꧀ꦏꦺ꧉ 1
 Pokoké 1
 ꦥꦺꦴꦏꦺꦴꦏ꧀ꦏꦺꦲꦗꦔ꧀ꦒꦸꦪꦸ꧉ 1
-bojoku 1
 ꦏꦺꦴꦮꦺꦢꦸꦢꦸꦧꦺꦴꦗꦺꦴꦏꦸ꧉ 1
 ꦮꦶꦔꦶꦲꦸꦢꦤ꧀꧈ 1
 suwé 1
@@ -1680,3 +1680,8 @@ lawasmu 1
 ꦗꦂꦫꦺꦠꦺꦴꦩ꧀ꦝꦺꦮꦺꦏ꧀ꦏꦺꦏꦚ꧀ꦕꦭꦮꦱ꧀ꦩꦸ꧉ 1
 negaramu 1
 ꦲꦶꦏꦶꦤꦒꦫꦩꦸ꧉ 1
+umur 1
+sangalas 1
+ꦲꦏꦸꦫꦧꦶꦥꦱ꧀ꦲꦸꦩꦸꦂꦱꦔꦭꦱ꧀ꦠꦲꦸꦤ꧀꧈ 1
+Celuken 1
+ꦕꦼꦭꦸꦏ꧀ꦏꦼꦤ꧀ꦧꦺꦴꦗꦺꦴꦏꦸ꧉ 1

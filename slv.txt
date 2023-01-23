@@ -1,7 +1,7 @@
 je 354
 v 111
 se 100
-sem 88
+sem 89
 Tom 86
 da 75
 ne 72
@@ -9,8 +9,8 @@ na 57
 so 52
 si 50
 in 44
+za 38
 ni 38
-za 37
 Ne 36
 bi 36
 me 35
@@ -2507,3 +2507,5 @@ Vest 1
 pêče 1
 Naš 1
 planet 1
+Glasoval 1
+ostanek 1

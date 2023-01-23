@@ -1,11 +1,11 @@
-on 1358
-Ma 874
+on 1361
+Ma 876
 ei 699
 Tom 569
 sa 410
-Kas 395
+Kas 397
 et 314
-Ta 310
+Ta 311
 See 263
 ma 209
 seda 200
@@ -25,11 +25,11 @@ väga 116
 pole 111
 mulle 97
 oled 94
-mind 86
+mind 87
 selle 84
+midagi 82
 mu 82
 Nad 81
-midagi 80
 ära 79
 minu 77
 palju 75
@@ -41,12 +41,12 @@ sind 67
 kõik 66
 su 65
 mida 65
+meeldib 65
 Minu 64
 Tomi 64
 siin 63
 Mis 63
 veel 63
-meeldib 63
 nii 62
 Mida 58
 hea 58
@@ -57,12 +57,12 @@ sinu 54
 Kes 54
 ema 53
 mis 52
+sul 52
 välja 51
-sul 51
 Palun 51
 saa 49
 te 49
-teha 47
+teha 48
 me 46
 Mulle 45
 minna 44
@@ -70,7 +70,7 @@ tea 44
 kunagi 44
 isa 43
 olnud 42
-Tomile 40
+Tomile 42
 pean 40
 ütles 40
 talle 39
@@ -101,12 +101,12 @@ koju 32
 räägi 32
 keegi 32
 olla 32
+rääkida 32
 hästi 31
 üle 31
 aega 31
 maja 31
 teda 31
-rääkida 31
 taha 30
 Tal 30
 liiga 30
@@ -116,6 +116,7 @@ räägid 29
 Olen 29
 siis 28
 mitte 28
+nüüd 28
 homme 28
 räägin 28
 seal 28
@@ -127,7 +128,6 @@ armastan 27
 tegema 27
 mul 27
 koos 27
-nüüd 27
 kolm 27
 sõber 27
 ainult 26
@@ -144,6 +144,7 @@ pärast 24
 tahad 24
 kodus 23
 juba 23
+süüa 23
 Koer 23
 meeldi 23
 õppida 23
@@ -153,7 +154,6 @@ tegi 22
 tead 22
 peale 22
 parem 22
-süüa 22
 Mina 22
 siia 22
 natuke 22
@@ -238,6 +238,7 @@ enda 15
 kinni 15
 õhtul 15
 temaga 15
+teeb 15
 üks 15
 aidata 15
 polnud 15
@@ -250,12 +251,12 @@ jaoks 14
 Mitte 14
 kuidas 14
 elan 14
-teeb 14
 kogu 14
 keele 14
 emakeel 14
 Mari 14
 neid 14
+sest 14
 olema 14
 lihtne 14
 sina 14
@@ -273,6 +274,7 @@ ukse 13
 viis 13
 Ja 13
 ostis 13
+teil 13
 teab 13
 vanem 13
 korda 13
@@ -280,7 +282,6 @@ juhtus 13
 vett 13
 ennast 13
 õpin 13
-sest 13
 nägin 13
 võib 13
 näha 13
@@ -303,7 +304,6 @@ mees 12
 alla 12
 need 12
 uue 12
-teil 12
 puu 12
 On 12
 teinud 12
@@ -325,6 +325,7 @@ vend 11
 lahti 11
 elu 11
 õigus 11
+vihkan 11
 asub 11
 töötab 11
 lihtsalt 11
@@ -355,7 +356,6 @@ loomad 10
 teen 10
 tahaksin 10
 meile 10
-vihkan 10
 keeles 10
 probleem 10
 Nüüd 10
@@ -365,6 +365,7 @@ oleksin 10
 õnnelik 10
 olin 10
 liha 10
+juua 10
 võin 10
 pidanud 10
 Tule 10
@@ -383,6 +384,7 @@ päeva 9
 eelmisel 9
 ujuda 9
 tööle 9
+maailma 9
 kohvi 9
 elame 9
 teist 9
@@ -410,6 +412,7 @@ Sami 9
 hispaania 9
 täis 8
 täiesti 8
+poolt 8
 Sina 8
 armas 8
 tunnen 8
@@ -440,7 +443,6 @@ vihane 8
 magada 8
 rikas 8
 parim 8
-maailma 8
 lähedal 8
 heaks 8
 nägid 8
@@ -463,7 +465,6 @@ mille 8
 suurepärane 8
 näljane 8
 veini 8
-juua 8
 kassi 8
 unusta 8
 Maryle 8
@@ -491,7 +492,6 @@ Oota 7
 hakkama 7
 umbes 7
 Jaapanis 7
-poolt 7
 endale 7
 tulen 7
 aias 7
@@ -654,6 +654,7 @@ käsi 5
 läksime 5
 vaid 5
 sõitis 5
+nalja 5
 kümne 5
 uut 5
 ööd 5
@@ -671,6 +672,7 @@ kaheksa 5
 üheksa 5
 söönud 5
 keelest 5
+maailm 5
 jalgratas 5
 lund 5
 õhtust 5
@@ -690,6 +692,7 @@ Elu 5
 süda 5
 joob 5
 pärit 5
+vihkab 5
 vanaisa 5
 minutit 5
 elad 5
@@ -721,6 +724,7 @@ laulu 5
 pere 5
 hiljaks 5
 Päike 5
+Neil 5
 kuud 5
 Saksamaal 5
 oskan 5
@@ -746,6 +750,7 @@ teisi 5
 keeli 5
 söö 5
 Ainult 5
+muud 5
 oluline 5
 asjad 5
 ümber 5
@@ -795,7 +800,6 @@ Sellel 4
 kohale 4
 suured 4
 tõsiselt 4
-nalja 4
 kerge 4
 ääres 4
 sooja 4
@@ -821,7 +825,6 @@ jalgpalli 4
 Mees 4
 alasti 4
 suudelda 4
-maailm 4
 käis 4
 sooviksin 4
 Eile 4
@@ -848,7 +851,6 @@ roheline 4
 saladus 4
 tähtsam 4
 unustas 4
-vihkab 4
 aitäh 4
 hommikul 4
 isal 4
@@ -912,7 +914,6 @@ tütart 4
 jääd 4
 purjus 4
 kolmas 4
-Neil 4
 usub 4
 silma 4
 avada 4
@@ -1234,7 +1235,6 @@ teadlik 3
 tulistas 3
 leidsid 3
 kätte 3
-muud 3
 kasutatakse 3
 mäng 3
 suure 3
@@ -6280,3 +6280,8 @@ küsimast 1
 "Tulen 1
 tagasi" 1
 raiskab 1
+hääletasin 1
+jäämise 1
+anekdoote 1
+kätel 1
+tätoveeringud 1

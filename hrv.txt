@@ -1,7 +1,7 @@
 je 1605
 se 599
 u 539
-sam 450
+sam 451
 da 409
 li 382
 na 316
@@ -12,8 +12,8 @@ su 207
 mi 202
 Ne 190
 to 184
+za 165
 si 164
-za 164
 što 164
 nije 156
 On 145
@@ -8073,3 +8073,5 @@ negativni 1
 Počeo 1
 školske 1
 planet 1
+Glasao 1
+ostanak 1

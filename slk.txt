@@ -1,6 +1,6 @@
 je 2194
 sa 2095
-som 1850
+som 1851
 Tom 1608
 si 1501
 to 1302
@@ -39,7 +39,7 @@ ho 201
 po 191
 Nie 189
 bol 181
-za 169
+za 170
 jej 162
 vás 160
 ísť 157
@@ -86,9 +86,9 @@ bola 89
 vo 89
 ešte 87
 so 86
+Na 85
 tri 84
 Môj 84
-Na 84
 francúzsky 83
 Viem 83
 domov 81
@@ -124,8 +124,8 @@ pravdu 67
 Tento 67
 príliš 67
 teraz 67
+bolo 66
 povedať 66
-bolo 65
 Moja 65
 Dnes 65
 meno 65
@@ -320,6 +320,7 @@ brat 30
 stôl 30
 tomto 30
 stole 30
+slovo 30
 vyzerá 30
 Tieto 30
 peňazí 30
@@ -334,7 +335,6 @@ sem 29
 kníh 29
 Dobre 29
 pretože 29
-slovo 29
 koberec 29
 šiel 29
 chlieb 29
@@ -2163,6 +2163,7 @@ soli 5
 centimetrov 5
 nehovorila 5
 neba 5
+počiatku 5
 hľadá 5
 nájde 5
 bratom 5
@@ -2686,7 +2687,6 @@ počkaj 4
 dostala 4
 obývačky 4
 zemi“ 4
-počiatku 4
 tmy 4
 nebeskej 4
 zver 4
