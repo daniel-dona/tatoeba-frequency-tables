@@ -1,17 +1,17 @@
 Bu 60
-U 59
+U 60
 Men 59
 bor 32
+edi 26
 bir 25
-edi 25
 Mening 24
 Tom 23
 emas 22
 bormi 22
 nima 21
+qayerda 21
 bilan 21
 uchun 19
-qayerda 19
 Sen 16
 У 15
 Мен 14
@@ -100,6 +100,7 @@ it 4
 Lori 4
 Har 4
 baland 4
+qildi 4
 Menda 4
 yerda 4
 o'qish 4
@@ -152,7 +153,6 @@ Mushuk 3
 gapira 3
 olmaydi 3
 ingliz 3
-qildi 3
 musiqa 3
 hamma 3
 Ingliz 3
@@ -177,6 +177,7 @@ hafta 3
 olib 3
 erta 3
 og'riyapti 3
+qaror 3
 yer 3
 Qiz 3
 o'z 3
@@ -195,6 +196,7 @@ Hozir 3
 bilasanmi 3
 Bunaqa 3
 kutib 3
+tilda 3
 Ushbu 3
 qor 3
 yemayman 3
@@ -308,6 +310,7 @@ borasan 2
 kompyuter 2
 tomonidan 2
 o'rganmoqchi 2
+Ularning 2
 Yangi 2
 Pivo 2
 Tomni 2
@@ -365,7 +368,6 @@ Toshkentga 2
 Avval 2
 keyin 2
 ish 2
-qaror 2
 Hasan 2
 er 2
 bo'lasan 2
@@ -428,6 +430,7 @@ Bugungi 2
 nechi 2
 yaxshimisan 2
 qilishni 2
+Boshqa 2
 nimadir 2
 rejang 2
 uzr 2
@@ -435,7 +438,6 @@ Soat 2
 o'ylayman 2
 uxlasangchi 2
 kimniki 2
-tilda 2
 qilyapsan 2
 tilidan 2
 Assalomu 2
@@ -461,6 +463,7 @@ oltidan 2
 o'tgan 2
 tomonda 2
 o'ldirding 2
+yo‘q 2
 ko‘p 2
 Germaniyaga 2
 savolingizga 2
@@ -1075,7 +1078,6 @@ xarid 1
 markaziga 1
 masjid 1
 qurilgan 1
-Ularning 1
 vaziyati 1
 humuk 1
 emassan 1
@@ -1718,7 +1720,6 @@ Qanday 1
 o'rgatsang 1
 qilaman 1
 o'pishgan 1
-Boshqa 1
 so'ramoqchi 1
 narsang 1
 qilib 1
@@ -2114,7 +2115,6 @@ rejimida 1
 ishga 1
 tushirish 1
 qog‘oz 1
-yo‘q 1
 xotini 1
 norvegiyalik 1
 roman 1
@@ -2224,3 +2224,10 @@ yashay 1
 olmaysan 1
 jumlani 1
 yozdi 1
+Qizimiz 1
+O‘g‘limiz 1
+mushuki 1
+gaplashasizmi 1
+Belgiyaga 1
+ko‘chib 1
+o‘tishga 1

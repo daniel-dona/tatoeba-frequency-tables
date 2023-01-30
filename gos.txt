@@ -3,7 +3,7 @@ is 862
 n 676
 t 632
 Tom 466
-ien 393
+ien 394
 van 360
 nait 319
 Hai 295
@@ -187,6 +187,7 @@ Elkenain 18
 da's 18
 Engels 18
 Hebben 18
+ligt 18
 ollu 18
 kees 18
 Perbaaier 18
@@ -201,7 +202,6 @@ Zel 17
 òf 17
 wer 17
 Wilst 17
-ligt 17
 Kinnen 17
 taske 17
 perbaaiern 17
@@ -857,6 +857,7 @@ verdaint 4
 vertellen 4
 Visk 4
 Ozeoan 4
+Kanada 4
 vertoalen 4
 Jiddisj 4
 gevoarelk 4
@@ -1084,7 +1085,6 @@ Ieslaand 3
 tussen 3
 Gruinlaand 3
 Nij-Zeelaand 3
-Kanada 3
 Galizjoans 3
 Hibbrais 3
 Helsinki 3
@@ -4422,3 +4422,4 @@ Hoar 1
 hozen 1
 apperoat 1
 aarten 1
+Noordamerikoa 1

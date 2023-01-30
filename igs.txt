@@ -1,6 +1,6 @@
+u 5
 Mi 5
 es 5
-u 4
 tu 4
 Fe 4
 nima 4
@@ -21,6 +21,7 @@ Vale 2
 Pardo 2
 Kura 2
 Auxi 2
+vora 2
 taxi 1
 Peti 1
 acte 1
@@ -47,3 +48,6 @@ medika-pe 1
 sti 1
 ridi 1
 pedi 1
+Un 1
+andra 1
+fu 1

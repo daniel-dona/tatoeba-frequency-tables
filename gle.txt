@@ -1,4 +1,4 @@
-an 629
+an 630
 a 602
 Tá 601
 mé 389
@@ -7,12 +7,12 @@ Is 324
 é 261
 ar 231
 sé 205
-tú 201
+tú 202
 go 200
-An 197
-bhfuil 196
+bhfuil 199
+An 199
 seo 183
-Ní 174
+Ní 175
 agam 165
 Níl 158
 liom 147
@@ -35,11 +35,11 @@ rud 68
 sí 68
 orm 66
 féidir 63
+agat 61
 Táim 60
-agat 60
 mhaith 60
+raibh 56
 agus 56
-raibh 55
 ann 55
 Ba 54
 dul 54
@@ -51,8 +51,8 @@ iarraidh 48
 leabhar 47
 duine 46
 fhios 44
+Cá 42
 as 41
-Cá 40
 aon 40
 duit 40
 ach 39
@@ -117,22 +117,23 @@ dó 18
 abhaile 18
 madra 18
 thoil 17
+acu 17
 muid 17
 iad 17
 Sin 17
 faoi 17
 grá 17
+cat 17
 linn 17
 ainm 16
-acu 16
 faoin 16
 bhfaca 16
 ansin 16
-cat 16
 don 16
 Chuir 16
 dhá 15
 isteach 15
+mac 15
 gan 15
 aithne 15
 bia 15
@@ -142,7 +143,7 @@ Caithfidh 15
 Dúirt 15
 chéile 15
 bhaile 14
-mac 14
+eile 14
 amach 14
 áit 14
 gcónaí 14
@@ -153,7 +154,6 @@ Beidh 13
 ól 13
 mise 13
 Chuaigh 13
-eile 13
 uisce 13
 múinteoir 13
 Mary 13
@@ -174,6 +174,7 @@ amárach 12
 den 12
 bheidh 12
 álainn 12
+teanga 12
 buachaill 12
 bhur 12
 liomsa 12
@@ -194,7 +195,6 @@ againn 11
 fheiceáil 11
 ocras 11
 Rachaidh 11
-teanga 11
 réidh 11
 snámh 11
 ndáiríre 11
@@ -270,6 +270,7 @@ Fan 8
 I 8
 Nuair 7
 ngrá 7
+ár 7
 shin 7
 Cuir 7
 m'athair 7
@@ -351,7 +352,6 @@ A 6
 Bíonn 6
 cuir 6
 Abair 6
-ár 5
 céanna 5
 más 5
 mhór 5
@@ -963,6 +963,7 @@ tnúth 2
 oileáin 2
 Tuircis 2
 Ghréig 2
+bhfeiceann 2
 chreidfidh 2
 súil 2
 aire 2
@@ -1136,6 +1137,7 @@ críochnaithe 2
 iarrachta 2
 leigheas 2
 doiligh 2
+nuacht 2
 amáireach 2
 Breatnais 2
 gcéad 2
@@ -1717,7 +1719,6 @@ fiuchadh 1
 uibheacha 1
 mearaithne 1
 bhfeabhas 1
-bhfeiceann 1
 ta 1
 dáinte 1
 lai 1
@@ -2471,7 +2472,6 @@ leí 1
 oth 1
 Bearla 1
 Mennad 1
-nuacht 1
 sléibhte 1
 garbh 1
 lú 1
@@ -2909,3 +2909,4 @@ son 1
 fanachta 1
 scéalta 1
 grinn 1
+n-iníon 1

@@ -1,7 +1,7 @@
-es 2379
+es 2380
 Yo 1587
 un 1312
-li 1302
+li 1303
 ne 966
 Tom 957
 Li 623
@@ -12,7 +12,7 @@ esset 451
 de 443
 tu 440
 have 413
-Esque 405
+Esque 406
 Ella 359
 que 332
 me 312
@@ -161,11 +161,11 @@ crede 35
 comprat 34
 Lass 34
 veni 34
+aqua 34
 Francia 34
 important 33
 evenit 33
 Nequí 33
-aqua 33
 ta 33
 ver 33
 quande 33
@@ -685,6 +685,7 @@ oblivia 7
 Es 7
 sentit 7
 hihicat 7
+Libera 7
 lassar 7
 sat 7
 El 7
@@ -845,6 +846,7 @@ nequí 5
 Russia 5
 rason 5
 Desde 5
+pur 5
 pluvia 5
 visita 5
 coses 5
@@ -910,7 +912,6 @@ foy 5
 nova 5
 demanda 5
 ludette 5
-Libera 5
 Ha 5
 vezes 5
 general 5
@@ -987,7 +988,6 @@ somnies 4
 calsonettes 4
 junt 4
 currer 4
-pur 4
 situation 4
 habitar 4
 pare 4
@@ -1078,6 +1078,7 @@ arte 4
 nin 4
 ignora 4
 cultelle 4
+Catalonia 4
 látere 4
 Adío 4
 necessi 4
@@ -1337,7 +1338,6 @@ papilion 3
 Prova 3
 conditiones 3
 incontra 3
-Catalonia 3
 pause 3
 trans 3
 simie 3
@@ -4688,3 +4688,6 @@ chac 1
 Incatena 1
 Atende 1
 Scotia 1
+Unesim 1
+lecion 1
+Hawaii 1

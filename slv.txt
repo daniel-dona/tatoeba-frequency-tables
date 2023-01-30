@@ -29,9 +29,9 @@ Kaj 24
 bil 20
 bom 19
 moj 18
+te 16
 kot 16
 ti 16
-te 15
 svojo 15
 ga 15
 od 14
@@ -96,6 +96,7 @@ Ona 7
 svoje 7
 pa 7
 vem 7
+Nočem 7
 Zelo 7
 vedno 7
 Mislim 7
@@ -116,7 +117,6 @@ rekla 6
 domov 6
 tem 6
 kar 6
-Nočem 6
 živi 6
 naredil 6
 videl 6
@@ -385,6 +385,7 @@ Zaprl 2
 tujini 2
 Med 2
 poukom 2
+kupiti 2
 Kar 2
 Tista 2
 lepa 2
@@ -847,7 +848,6 @@ Umazana 1
 hiša 1
 umazana 1
 tla 1
-kupiti 1
 narobe 1
 iščem 1
 Slovnica 1
@@ -2509,3 +2509,4 @@ Naš 1
 planet 1
 Glasoval 1
 ostanek 1
+preproge 1

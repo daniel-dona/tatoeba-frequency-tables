@@ -1,13 +1,13 @@
-er 15063
-Jeg 9814
-at 7798
+er 15064
+Jeg 9816
+at 7800
 en 7327
-i 7217
+i 7218
 Tom 7211
-ikke 6970
+ikke 6973
 har 6532
-du 4606
-til 4481
+du 4608
+til 4482
 på 4238
 det 4214
 for 3355
@@ -17,13 +17,13 @@ Han 3045
 Det 2935
 med 2878
 af 2857
-var 2850
+var 2851
 et 2784
 mig 2740
 kan 2297
-den 1998
-der 1978
-Hun 1935
+den 1999
+der 1979
+Hun 1936
 dig 1754
 om 1685
 Vi 1649
@@ -31,20 +31,20 @@ Mary 1574
 vil 1568
 Du 1554
 I 1545
-han 1522
+han 1523
 så 1464
 som 1456
 min 1344
 ved 1321
 meget 1229
 De 1225
-her 1058
+her 1060
 Hvor 1028
 de 1021
 Hvad 999
 ham 951
 sin 948
-Er 943
+Er 944
 sig 930
 blev 901
 Der 834
@@ -101,7 +101,7 @@ efter 435
 tror 428
 bil 424
 elsker 422
-dette 405
+dette 406
 Lad 402
 hans 402
 hund 401
@@ -115,7 +115,7 @@ lige 378
 gå 376
 morgen 375
 bor 371
-ønsker 370
+ønsker 371
 penge 366
 altid 366
 alt 365
@@ -130,7 +130,7 @@ mere 347
 god 346
 hvor 337
 været 336
-dit 332
+dit 333
 få 330
 fransk 330
 hele 323
@@ -152,7 +152,7 @@ gør 286
 Alle 282
 sine 281
 set 277
-mennesker 276
+mennesker 275
 bange 273
 spiser 272
 Hvis 270
@@ -196,9 +196,9 @@ Hvordan 220
 kat 218
 hvis 218
 nogle 216
+første 215
 Boston 215
 spise 214
-første 214
 købt 212
 sige 211
 stor 210
@@ -211,8 +211,8 @@ gjorde 206
 lille 206
 sidste 205
 Hvornår 202
+købe 202
 engelsk 202
-købe 201
 Hans 200
 navn 197
 ned 194
@@ -363,7 +363,7 @@ kører 116
 disse 116
 sted 116
 sandheden 115
-Hvilken 114
+Hvilken 115
 hørt 114
 hunde 114
 Vores 114
@@ -377,8 +377,8 @@ sætning 110
 lang 109
 næste 109
 drikke 109
+spiller 108
 Kom 108
-spiller 107
 kommet 107
 ting 107
 stort 107
@@ -535,9 +535,9 @@ ligner 74
 sidst 74
 høj 74
 lagde 74
+mens 74
 sort 73
 viste 73
-mens 73
 lyst 73
 glemt 72
 stå 72
@@ -608,6 +608,7 @@ musik 64
 mindre 64
 tøj 64
 hænder 63
+besluttede 63
 nat 63
 heste 63
 sang 63
@@ -617,7 +618,6 @@ bedstefar 63
 sukker 63
 katten 62
 Tak 62
-besluttede 62
 måtte 62
 kød 62
 20 62
@@ -694,15 +694,16 @@ hjælper 54
 Glem 54
 aftes 54
 elskede 54
-Deres 54
 træet 54
 græde 54
 hellere 53
 oversætte 53
+Deres 53
 køber 53
 vred 53
 afsted 53
 Mars 53
+Danmark 52
 sikkert 52
 landet 52
 kjole 52
@@ -717,7 +718,6 @@ forsøgte 52
 kiggede 52
 hånden 51
 virker 51
-Danmark 51
 fjernsyn 51
 stille 51
 forbi 51
@@ -776,6 +776,7 @@ sætte 47
 løbet 47
 Thomas 47
 meter 47
+Ser 47
 morgenmad 46
 forelsket 46
 Til 46
@@ -789,7 +790,6 @@ består 46
 stole 46
 motorcykel 46
 æblet 46
-Ser 46
 Klokken 45
 køkkenet 45
 kl 45
@@ -955,6 +955,7 @@ Esperanto 36
 interesserer 36
 vandet 36
 vise 36
+personer 36
 konge 36
 valgt 36
 mål 36
@@ -976,7 +977,6 @@ forlod 35
 enhver 35
 aftenen 35
 skjorte 35
-personer 35
 fyr 35
 året 35
 muren 35
@@ -1199,6 +1199,7 @@ Mennesker 28
 rejser 28
 herfra 28
 begyndelsen 28
+synger 28
 lider 28
 ende 28
 tyske 28
@@ -1242,7 +1243,6 @@ Drik 27
 slutningen 27
 2 27
 tal 27
-synger 27
 inviteret 27
 enig 27
 pas 27
@@ -1431,7 +1431,6 @@ blot 23
 Chicago 23
 russisk 23
 nylig 23
-hold 23
 drømmer 23
 herhen 23
 nul 23
@@ -1489,6 +1488,7 @@ værre 22
 fyrre 22
 vægt 22
 tegn 22
+hold 22
 Rør 22
 mønt 22
 fødder 22
@@ -1561,6 +1561,7 @@ Prøv 21
 nummer 21
 kage 21
 søndagen 21
+flytte 21
 brænde 21
 sjovt 21
 suppe 21
@@ -1630,7 +1631,6 @@ minut 20
 snakker 20
 oversætter 20
 skilt 20
-flytte 20
 le 20
 regnen 20
 vågen 20
@@ -1692,6 +1692,7 @@ følelser 19
 kys 19
 ulykken 19
 papir 19
+klaver 19
 fjer 19
 kopper 19
 dele 19
@@ -1754,7 +1755,6 @@ sikkerhed 18
 Før 18
 computeren 18
 dame 18
-klaver 18
 besøgt 18
 bruges 18
 blæste 18
@@ -1838,6 +1838,7 @@ frygter 17
 edderkop 17
 løsning 17
 fjerde 17
+Tyrkiet 17
 Engang 17
 område 17
 æblerne 17
@@ -1913,7 +1914,6 @@ kuglepen 16
 skabt 16
 skjule 16
 handsker 16
-Tyrkiet 16
 forklaring 16
 gæster 16
 fødevarer 16
@@ -3280,6 +3280,7 @@ rigtignok 8
 femogfyrre 8
 betragtning 8
 mirakel 8
+nyhederne 8
 utålmodig 8
 bilist 8
 modet 8
@@ -3587,7 +3588,6 @@ Charles 7
 dømt 7
 rejsen 7
 drengen 7
-nyhederne 7
 Meg 7
 afbrød 7
 overholde 7
@@ -4531,6 +4531,7 @@ hastighed 5
 år" 5
 kondom 5
 fjern 5
+tæppe 5
 digt 5
 præsidenten 5
 kloge 5
@@ -5301,7 +5302,6 @@ kontant 4
 cd-afspiller 4
 syvtiden 4
 Ungdommen 4
-tæppe 4
 Matematik 4
 yndlingsfag 4
 berørt 4
@@ -6501,6 +6501,7 @@ fødselsdagsfest 3
 ræk 3
 tatoebiserer 3
 produceret 3
+private 3
 berømthed 3
 kopi 3
 beskyttet 3
@@ -8111,6 +8112,7 @@ naive 3
 Helliget 3
 rider 3
 henrivende 3
+kanal 3
 søsken 3
 liderlig 3
 sønnedøtre 3
@@ -8467,7 +8469,6 @@ opdaterer 2
 brugeroplevelse 2
 demokrat 2
 blande 2
-private 2
 anliggender 2
 skriv 2
 Slesvig-Holsten 2
@@ -9997,4 +9998,3 @@ flyrejse 2
 rullestol 2
 garderobe 2
 mildest 2
-flirter 2

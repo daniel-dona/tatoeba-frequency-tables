@@ -1,11 +1,11 @@
 do 990
-oku 599
+oku 601
 i 390
 Tom 350
 ku 321
 no 300
 di 290
-nga 242
+nga 243
 nopo 239
 id 233
 nu 205
@@ -31,7 +31,7 @@ tulun 82
 dot 81
 hilo'd 80
 Haro 72
-au 65
+au 66
 iyau 65
 dii 63
 Mary 62
@@ -436,6 +436,7 @@ Alasu 5
 Basug 5
 jam 5
 Uhupai 5
+Ohuyan 5
 tokito 5
 tadi 5
 mogihum 5
@@ -537,7 +538,6 @@ Minsingilo' 4
 Kotigog 4
 Muhot 4
 tobontol 4
-Ohuyan 4
 Intang-intangai 4
 korohian 4
 Korikot 4
@@ -1144,6 +1144,7 @@ noponu 2
 kabang 2
 Minanahak 2
 pulis 2
+koodop 2
 Chicago 2
 torumpit 2
 posikulan 2
@@ -2097,7 +2098,6 @@ sokodungon 1
 intang-intangan 1
 Hopod 1
 tomodon 1
-koodop 1
 inumon 1
 pinopouni 1
 tiim 1

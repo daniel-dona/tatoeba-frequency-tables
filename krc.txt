@@ -22,7 +22,6 @@ bol 5
 Сен 4
 bu 4
 meni 4
-süyeme 4
 bek 4
 kerek 4
 edim 4
@@ -35,6 +34,7 @@ taŋŋa 4
 Ala 3
 Şo 3
 ese 3
+süyeme 3
 em 3
 üy 3
 zat 3
@@ -69,7 +69,6 @@ Anı 3
 Суу 2
 Бу 2
 Sen 2
-igidi 2
 saw 2
 Boyawlanı 2
 körük 2
@@ -350,6 +349,7 @@ ullu 2
 тюйюлдю 1
 osurduŋ 1
 arabız 1
+igidi 1
 Balalağa 1
 qarağanığız 1
 boluğuz 1
@@ -479,11 +479,7 @@ alay 1
 bolğanın 1
 deb 1
 turama 1
-Sigiş 1
-Sigişni 1
-Samı 1
-sigiş 1
-izleydi 1
+ 1
 ketigiz 1
 bolup 1
 qaçığız 1

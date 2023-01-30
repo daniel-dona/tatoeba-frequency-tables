@@ -1,24 +1,24 @@
 að 3785
-er 3102
+er 3105
 Ég 2280
-í 2057
-á 1663
+í 2058
+á 1667
 ekki 1634
 ég 860
-Það 854
+Það 855
 Hann 792
-til 765
+til 766
 og 730
 það 687
 við 671
-Hún 666
+Hún 668
+Þú 637
 var 636
-Þú 636
-hann 634
+hann 635
 sem 601
 þú 567
 með 521
-fyrir 504
+fyrir 505
 Við 503
 um 477
 af 450
@@ -29,7 +29,7 @@ en 428
 mig 301
 fara 292
 Þetta 286
-þetta 268
+þetta 269
 því 257
 þig 250
 Tom 249
@@ -67,7 +67,7 @@ getur 129
 of 126
 Ertu 126
 dag 125
-okkur 124
+okkur 125
 tíma 123
 svona 122
 eða 122
@@ -77,11 +77,11 @@ Er 117
 segja 115
 upp 113
 Þau 113
-fór 111
+fór 112
 úr 111
+Hver 110
 Þessi 110
 ekkert 110
-Hver 109
 get 108
 kom 107
 Af 106
@@ -90,11 +90,11 @@ hana 104
 tala 104
 mín 103
 ættir 98
+allt 98
 Vinsamlegast 97
-allt 97
+bara 96
 þess 96
 Hvernig 96
-bara 95
 þarf 93
 ráðlagði 93
 verið 93
@@ -147,10 +147,10 @@ klukkan 66
 áður 66
 tók 65
 sínum 65
+morgun 65
 ætti 65
 þá 64
 bók 64
-morgun 63
 átt 63
 hugsa 62
 oft 62
@@ -175,6 +175,7 @@ meira 54
 finnst 54
 ykkur 54
 mundi 53
+þeim 52
 fólk 52
 verða 52
 mína 52
@@ -183,7 +184,6 @@ kaupa 52
 hérna 52
 núna 52
 rétt 52
-þeim 51
 góður 51
 búinn 51
 skal 50
@@ -199,6 +199,7 @@ varð 47
 ensku 47
 elska 46
 vildi 46
+öll 46
 gaman 46
 enginn 46
 annað 46
@@ -206,7 +207,6 @@ Geturðu 46
 bækur 45
 margar 45
 Þeir 45
-öll 45
 Má 44
 Enginn 44
 fengið 44
@@ -215,12 +215,12 @@ held 44
 kominn 43
 nú 43
 þessum 43
+Hvenær 43
 þarft 43
 séð 42
 ára 42
 hvernig 42
 líka 42
-Hvenær 42
 lengi 42
 þeirra 41
 sagt 41
@@ -496,6 +496,7 @@ mínútur 20
 Nú 20
 systur 20
 Hér 20
+fyrst 20
 skoðun 20
 einhvern 20
 Segðu 20
@@ -520,7 +521,6 @@ vandamálið 19
 margir 19
 viss 19
 man 19
-fyrst 19
 bíða 19
 geri 19
 nokkrum 19
@@ -529,6 +529,7 @@ vatn 19
 prófinu 19
 reyna 19
 Get 19
+nóg 19
 Já 19
 fæddist 19
 utan 19
@@ -559,7 +560,6 @@ foreldrum 18
 áhuga 18
 Takk 18
 Ekkert 18
-nóg 18
 kemst 18
 fundið 18
 lifa 18
@@ -673,6 +673,7 @@ einhver 15
 gítar 15
 ungur 15
 hundinn 15
+heimi 15
 svara 15
 ómögulegt 15
 þykir 15
@@ -719,7 +720,6 @@ féll 14
 las 14
 upptekin 14
 komast 14
-heimi 14
 tilbúinn 14
 sannleikann 14
 afsökunar 14
@@ -809,6 +809,7 @@ talaði 12
 mikinn 12
 morgni 12
 þekkir 12
+Evrópu 12
 peningum 12
 borga 12
 áhrif 12
@@ -868,7 +869,6 @@ hamingju 11
 myndina 11
 kennarann 11
 Hvort 11
-Evrópu 11
 samt 11
 augun 11
 eigið 11
@@ -1511,6 +1511,7 @@ minnir 6
 síminn 6
 sterkur 6
 komu 6
+frídag 6
 eldar 6
 lagt 6
 lánað 6
@@ -1626,6 +1627,7 @@ vaxa 6
 Frá 6
 pappír 6
 Gjörið 6
+frí 6
 eggin 6
 leyfi 6
 sterkari 6
@@ -1774,7 +1776,6 @@ vestri 5
 Augu 5
 lærði 5
 hádegi 5
-frídag 5
 bíla 5
 son 5
 þyrstur 5
@@ -1919,7 +1920,6 @@ heimili 5
 ódýr 5
 hlýða 5
 sturtu 5
-frí 5
 landsins 5
 ostur 5
 ræddum 5
@@ -3235,6 +3235,7 @@ dagskrána 3
 hlær 3
 jörðu 3
 handtekinn 3
+snákur 3
 labbaði 3
 rólegur 3
 virka 3
@@ -4159,6 +4160,7 @@ Tekurðu 2
 Kanínur 2
 fangi 2
 veiði 2
+barnsins 2
 de 2
 toppinn 2
 Farshad 2
@@ -4823,7 +4825,6 @@ einlægni 2
 allri 2
 tilraun 2
 myndu 2
-snákur 2
 minniháttar 2
 truflunina 2
 kannast 2
@@ -4929,6 +4930,7 @@ lögmanninn 2
 hanga 2
 Konunni 2
 eplabökur 2
+Gerum 2
 allur 2
 örmum 2
 eldamennskuna 2
@@ -5148,6 +5150,7 @@ tilbiðja 2
 Finnland 2
 hamingjusamasta 2
 útskýring 2
+pláss 2
 Úlfar 2
 Spyrðu 2
 stuttar 2
@@ -7438,7 +7441,6 @@ efnafræðisett 1
 giftumst 1
 Smakkaðist 1
 maturinn 1
-barnsins 1
 Contador 1
 gulu 1
 treyjuna 1
@@ -9996,5 +9998,3 @@ trúarinnar 1
 lendir 1
 gryfju 1
 mundum 1
-textasafnið 1
-ónáttúrulegum 1

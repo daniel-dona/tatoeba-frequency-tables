@@ -10,7 +10,7 @@ za 212
 la 201
 cha 179
 sana 173
-Je 166
+Je 168
 kama 151
 wakati 147
 yake 140
@@ -96,11 +96,11 @@ Ikiwa 38
 Hakuna 37
 sehemu 37
 kidogo 36
+unaweza 36
 Wakati 36
 Mimi 35
 leo 35
 zote 35
-unaweza 35
 lazima 35
 bila 35
 sawa 34
@@ -114,12 +114,12 @@ mbili 32
 si 32
 hata 32
 huo 32
+habari 31
 Mungu 31
 shule 31
 maisha 31
 hali 31
 ambao 31
-habari 30
 mimi 30
 uhusiano 30
 jambo 30
@@ -1743,6 +1743,7 @@ breki 3
 atakuwa 3
 Alitumia 3
 bodi 3
+Aliamua 3
 mashindano 3
 goti 3
 Jinsi 3
@@ -2511,7 +2512,6 @@ vitani 2
 silika 2
 Mafanikio 2
 msumari 2
-Aliamua 2
 kujitoa 2
 kuumia 2
 Aliondoka 2
@@ -3014,6 +3014,7 @@ unayo 2
 Niligundua 2
 jumlisha 2
 mwanzo 2
+kuhamia 2
 tuende 2
 wacha 2
 kuhesabu 2
@@ -3058,6 +3059,7 @@ tunatarajia 2
 uchumba 2
 hatuwezi 2
 ninayejua 2
+kumudu 2
 ningependa 2
 Holmes 2
 kugawa 2
@@ -7532,7 +7534,6 @@ kukorma 1
 kunasumbua 1
 Majirani 1
 Ninafakari 1
-kuhamia 1
 Fikiria 1
 kifuatacho: 1
 wametambaa 1
@@ -8357,7 +8358,6 @@ Utafanya 1
 Haitakuwa 1
 kilichomo 1
 kabati 1
-kumudu 1
 ninataka 1
 kivyangu 1
 Sipangi 1
@@ -9291,3 +9291,5 @@ inaudhi 1
 Sasha 1
 Kianglo-Saxon 1
 wanachukuliwa 1
+Ubelgiji 1
+unatazama 1

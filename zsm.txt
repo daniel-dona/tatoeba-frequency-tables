@@ -17,7 +17,7 @@ ke 359
 anda 329
 Mary 307
 telah 290
-boleh 256
+boleh 257
 dalam 250
 pergi 248
 tahu 236
@@ -50,8 +50,8 @@ kami 121
 daripada 119
 sangat 119
 pernah 119
+tak 114
 suka 113
-tak 113
 dapat 111
 sini 108
 menjadi 107
@@ -96,7 +96,7 @@ malam 69
 beliau 68
 tahun 65
 berbuat 65
-pun 63
+pun 64
 lain 62
 kereta 62
 Mereka 61
@@ -125,19 +125,19 @@ bersama 53
 ia 52
 atas 52
 baru 51
+tidur 51
 berlaku 50
 masalah 50
-tidur 50
 begitu 49
 wang 49
 kelihatan 49
 bekerja 48
 dunia 47
+Aku 47
 besar 47
 sana 47
 lama 47
 lakukan 47
-Aku 46
 terlalu 46
 tiga 46
 Bahasa 45
@@ -157,11 +157,11 @@ Kamu 43
 Apakah 43
 Mengapa 43
 membeli 43
+aku 43
 Semua 42
 Jepun 42
 jika 42
 mendengar 42
-aku 42
 kau 42
 tempat 41
 Kenapa 41
@@ -212,6 +212,7 @@ katakan 33
 bertanya 33
 sekali 33
 tiba 33
+tapi 33
 Tolong 32
 kecil 32
 tangan 32
@@ -219,7 +220,6 @@ berapa 32
 mudah 32
 luar 32
 Beliau 32
-tapi 32
 Kadazan 32
 pertama 31
 pagi 31
@@ -1414,6 +1414,7 @@ mencadangkan 4
 mengadu 4
 hingga 4
 diperbuat 4
+lelah 4
 lembut 4
 gemarkan 4
 siap 4
@@ -1739,7 +1740,6 @@ ditahan 3
 jati 3
 saling 3
 radio 3
-lelah 3
 Cubalah 3
 Cepatlah 3
 mangkuk 3

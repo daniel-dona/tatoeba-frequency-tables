@@ -1,7 +1,7 @@
 Mən 639
 O 446
-Tom 397
-Bu 339
+Tom 398
+Bu 340
 var 249
 bir 210
 nə 175
@@ -12,7 +12,7 @@ idi 123
 Sən 121
 Mənim 116
 və 111
-deyil 110
+deyil 111
 heç 103
 mənim 93
 Onlar 92
@@ -92,17 +92,17 @@ indi 26
 gedir 26
 səni 26
 kim 26
-getdi 24
+getdi 25
 neçə 24
 sevir 24
 dedi 24
 sizin 24
+istəmirəm 23
 niyə 23
 sonra 23
 bilir 23
 evə 23
 görə 23
-istəmirəm 22
 Sizin 22
 dəfə 22
 Niyə 22
@@ -126,6 +126,7 @@ belə 19
 etmək 19
 danışa 19
 zəng 19
+gəldi 19
 olur 19
 bilmir 19
 minimal 19
@@ -136,7 +137,6 @@ il 18
 Ona 18
 etməyə 18
 saat 18
-gəldi 18
 Tomu 18
 sizə 18
 İsa 18
@@ -178,6 +178,7 @@ sizi 15
 ver 15
 Yaponiyaya 15
 Sami 15
+almaq 14
 Səni 14
 et 14
 Sənə 14
@@ -191,7 +192,6 @@ amma 14
 sadəcə 14
 çay 14
 tək 14
-almaq 13
 geri 13
 cavab 13
 ya 13
@@ -1094,6 +1094,7 @@ səbəbi 3
 müharibənin 3
 gözləmirdim 3
 öyrənməyə 3
+məktəbdə 3
 açanda 3
 boş 3
 gördünüz 3
@@ -1279,8 +1280,10 @@ anası 3
 əla 3
 ölümdən 3
 düşmədi 3
+yuxuya 3
 tanımıram 3
 səhvi 3
+qalib 3
 olmayıb 3
 Burnum 3
 yekə 3
@@ -1683,7 +1686,6 @@ bilirsiniz 2
 alacam 2
 əsgər 2
 deyilmi 2
-məktəbdə 2
 tapmaq 2
 hamam 2
 gəlirəm 2
@@ -2007,6 +2009,7 @@ Bob 2
 bununla 2
 təmiz 2
 meyvə 2
+baxırsan 2
 olmasaydı 2
 Afrika 2
 ölkə 2
@@ -2099,7 +2102,6 @@ velosipedi 2
 Allaha 2
 Kitabın 2
 Ölüm 2
-yuxuya 2
 komandamız 2
 hazırdır 2
 edirik 2
@@ -2124,7 +2126,6 @@ Tələs 2
 anasıdır 2
 sözünün 2
 qısadır 2
-qalib 2
 danışaram 2
 tapacaq 2
 qorxutdu 2
@@ -2366,6 +2367,7 @@ xəstəyik 2
 subaydır 2
 görürsənmi 2
 sualınıza 2
+Xəbərlərə 2
 xanımlar 1
 vә 1
 cәnablar 1
@@ -4898,7 +4900,6 @@ yetişdirirlər 1
 danışmalıyıq 1
 Laboratoriyaya 1
 Nəyə 1
-baxırsan 1
 qaydasındadır 1
 Yeməyə 1
 görərdin 1
@@ -7475,3 +7476,9 @@ məqalə 1
 Planetimiz 1
 Qalmağa 1
 səs 1
+xalçanı 1
+baxırsınız 1
+Donald 1
+acqarına 1
+Oğullarım 1
+yarışda 1
