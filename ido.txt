@@ -1,6 +1,6 @@
 esas 2585
 la 2019
-Me 2006
+Me 2007
 ne 1151
 La 909
 me 795
@@ -9,7 +9,7 @@ tu 756
 Ka 605
 en 539
 havas 519
-es 407
+es 408
 Il 381
 di 375
 mea 362
@@ -228,6 +228,7 @@ Ido 30
 Deo 30
 laborar 29
 hiere 29
+vivas 29
 yari 29
 blua 29
 agar 29
@@ -235,7 +236,6 @@ puero 29
 matino 29
 quan 28
 kom 28
-vivas 28
 helpar 28
 standas 28
 lernar 28
@@ -1385,6 +1385,7 @@ stando 4
 frati 4
 vesto 4
 artisto 4
+politikisto 4
 retrovenar 4
 fotografuri 4
 eventos 4
@@ -1711,7 +1712,6 @@ netigar 3
 suba 3
 Tokio 3
 diskurso 3
-politikisto 3
 l'infanti 3
 okupas 3
 spaco 3
@@ -7762,3 +7762,4 @@ Ocitania 1
 Havayi 1
 testo 1
 Jehova 1
+L'arbori 1

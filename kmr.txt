@@ -12,14 +12,14 @@ ye 637
 ku 603
 Em 543
 Tom 543
-Tu 516
+Tu 517
 me 514
 te 493
 de 461
 ne 398
 re 385
 Min 359
-Hûn 305
+Hûn 306
 di 299
 kir 294
 çi 279
@@ -40,7 +40,7 @@ heye 183
 Te 182
 vê 181
 dikim 181
-dikin 178
+dikin 179
 bikin 177
 ew 177
 in 174
@@ -99,8 +99,8 @@ alî 66
 î 65
 bikî 65
 dilê 65
+dikî 63
 tune 63
-dikî 62
 mezin 61
 bavê 60
 Ma 59
@@ -254,6 +254,7 @@ fêm 23
 Porê 23
 reş 23
 dixwaze 23
+temaşe 23
 sibê 23
 tiştî 23
 yekê 23
@@ -274,7 +275,6 @@ nexweş 21
 pîroz 21
 paytexta 21
 çû 21
-temaşe 21
 xwedî 21
 wiha 21
 rê 21
@@ -1094,6 +1094,7 @@ Pirr 5
 xatirê 5
 bijîm 5
 pêşniyar 5
+nûçeyan 5
 nedît 5
 xeber 5
 derketin 5
@@ -1705,7 +1706,6 @@ Swêd 3
 tariyê 3
 Hêk 3
 name 3
-nûçeyan 3
 yekşem 3
 sipas 3
 ferhenga 3

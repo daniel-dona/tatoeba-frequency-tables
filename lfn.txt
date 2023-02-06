@@ -1,24 +1,24 @@
-es 5986
+es 5991
 la 5437
-ia 4608
-de 3643
-un 3256
+ia 4610
+de 3644
+un 3261
 ла 2802
 ес 2729
-Me 2445
+Me 2448
 иа 2153
-no 1918
+no 1919
 де 1874
 La 1725
 a 1691
-en 1616
-Tom 1602
+en 1617
+Tom 1603
 ун 1365
 tu 1190
 e 1190
 Ме 1183
 me 1145
-ave 1078
+ave 1079
 а 953
 Ла 932
 но 910
@@ -89,9 +89,9 @@ vade 250
 los 250
 ama 241
 tota 240
+vive 235
 Los 235
 o 235
-vive 234
 vide 232
 воле 232
 ca 227
@@ -154,8 +154,8 @@ du 135
 жуа 134
 коме 134
 deveni 132
+Maria 132
 ка 132
-Maria 131
 парла 131
 ante 130
 тота 130
@@ -183,8 +183,8 @@ dia 119
 importante 118
 лингуа 118
 ама 118
+om 115
 comprende 114
-om 114
 abita 114
 ма 113
 Perce 112
@@ -278,9 +278,9 @@ dona 74
 cor 74
 коменса 73
 компра 73
+Sami 73
 studia 72
 анте 72
-Sami 72
 ami 71
 loca 71
 аниос 71
@@ -350,6 +350,7 @@ deside 57
 фини 57
 problem 56
 Cuanto 56
+nase 56
 sol 56
 sposa 56
 Та 56
@@ -357,7 +358,6 @@ sposa 56
 Куандо 56
 Toki 56
 tuа 55
-nase 55
 prosima 55
 cualce 55
 fasil 55
@@ -977,6 +977,7 @@ studiante 18
 "Me 18
 descrive 18
 valua 18
+enorme 18
 Grande 18
 capasia 18
 бус 18
@@ -1039,7 +1040,6 @@ masca 17
 Con 17
 importa 17
 Libri 17
-enorme 17
 Fa 17
 talietas 17
 sidra 17
@@ -1578,6 +1578,7 @@ serca 11
 супрамеркато 11
 суде 11
 жуор 11
+Ester 11
 бангла 11
 custosa 11
 Trump 11
@@ -1716,7 +1717,6 @@ juntada 10
 jenero 10
 apesta 10
 oportun 10
-Ester 10
 vacanse 10
 fies 10
 Ело 10
@@ -1797,6 +1797,7 @@ nion 9
 milion 9
 subita 9
 respeta 9
+Jupiter 9
 sujesta 9
 Marte 9
 diverti 9
@@ -1966,7 +1967,6 @@ jaca 8
 enemis 8
 stradas 8
 fisical 8
-Jupiter 8
 renunsia 8
 dise: 8
 ordina 8
@@ -2492,6 +2492,7 @@ medisin 6
 saleta 6
 fontes 6
 7 6
+Iaue 6
 asente 6
 balgarsce 6
 polsce 6
@@ -2671,6 +2672,7 @@ Carlsen 6
 Pronto 6
 astronauta 6
 Енгланд 6
+simia 6
 potiosa 6
 loco 6
 vantajosa 6
@@ -2843,7 +2845,6 @@ militar 5
 10 5
 del 5
 plastica 5
-Iaue 5
 contenador 5
 orizonal 5
 presta 5
@@ -3088,7 +3089,6 @@ botelas 5
 axcenazi 5
 anarciste 5
 фиес 5
-simia 5
 om-lupo 5
 потиоса 5
 efetosa 5
@@ -3726,6 +3726,7 @@ motif 4
 мотиф 4
 Paulo 4
 Пауло 4
+politiciste 4
 Tempo 4
 tarde 4
 Se 4
@@ -3812,6 +3813,7 @@ restante 3
 Ce 3
 malsonia 3
 calmi 3
+atestor 3
 bileta 3
 tira 3
 grasiosa 3
@@ -4346,6 +4348,7 @@ islam 3
 boves 3
 Мисре 3
 Сола 3
+consuma 3
 пасериа 3
 manual 3
 мануал 3
@@ -4741,7 +4744,6 @@ mentes 3
 Cambia 3
 diferes 3
 iudisme 3
-politiciste 3
 deser 3
 capelblanca 3
 copia 3
@@ -4901,7 +4903,6 @@ paseante 2
 lejente 2
 revista 2
 cuatri 2
-atestor 2
 manxas 2
 nonculpablia 2
 xama 2
@@ -5619,6 +5620,7 @@ alia 2
 алиа 2
 портес 2
 спесиес 2
+Arbores 2
 Антартика 2
 altar 2
 Autoriosas 2
@@ -5773,7 +5775,6 @@ nonviolable 2
 acueria 2
 акуериа 2
 Radiadores 2
-consuma 2
 консума 2
 ventador 2
 lamas 2
@@ -8812,7 +8813,6 @@ modiste 1
 модисте 1
 confeto 1
 конфето 1
-Arbores 1
 Арборес 1
 capeletosa 1
 брасос 1

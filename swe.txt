@@ -1,26 +1,26 @@
 är 10484
-Jag 10279
+Jag 10282
 inte 6297
-att 6282
+att 6284
 Tom 6204
 du 4629
-en 4615
+en 4616
 på 4456
 det 4312
 i 4108
 har 3814
-Det 3559
+Det 3560
 Han 3191
 jag 2947
 mig 2526
 här 2486
-för 2414
+för 2415
 var 2361
 med 2237
-till 2152
+till 2153
 och 2083
 om 2080
-Hon 1969
+Hon 1970
 ett 1756
 Vi 1736
 dig 1723
@@ -31,7 +31,7 @@ Du 1457
 av 1438
 kommer 1136
 han 1134
-sig 1086
+sig 1087
 så 1082
 Vad 1058
 vill 1029
@@ -42,12 +42,12 @@ Hur 886
 mycket 883
 skulle 878
 vi 830
-ska 814
+ska 815
 Mary 780
 göra 769
 måste 764
 Är 756
-honom 741
+honom 742
 där 738
 Har 709
 Var 683
@@ -86,8 +86,8 @@ gillar 414
 finns 395
 blev 389
 dag 389
+lite 385
 mitt 384
-lite 384
 något 383
 alla 381
 gick 380
@@ -96,9 +96,9 @@ ser 369
 gör 367
 tror 361
 alltid 357
+fick 355
 men 354
 många 354
-fick 354
 ingen 350
 ta 349
 sa 349
@@ -112,7 +112,7 @@ En 327
 såg 321
 älskar 320
 efter 317
-över 313
+över 314
 kom 311
 in 311
 dem 308
@@ -125,7 +125,7 @@ hans 297
 hur 294
 får 286
 igen 285
-tog 281
+tog 282
 verkligen 280
 sitt 278
 ville 273
@@ -284,9 +284,9 @@ Får 114
 vän 114
 väl 114
 just 113
+tänker 113
 precis 113
 lång 113
-tänker 112
 sade 112
 spela 111
 gamla 110
@@ -629,6 +629,7 @@ heller 48
 lämnade 48
 drack 48
 låta 48
+timme 48
 lärde 48
 alldeles 48
 japanska 47
@@ -644,7 +645,6 @@ glas 47
 iväg 47
 fönstret 47
 aning 47
-timme 47
 spelade 46
 ursäkt 46
 bör 46
@@ -951,6 +951,7 @@ hälsa 29
 ber 29
 äpplen 29
 klänning 29
+bestämde 29
 igenom 29
 hemlighet 29
 plan 29
@@ -984,7 +985,6 @@ avskyr 28
 lösa 28
 bild 28
 gatan 28
-bestämde 28
 munnen 28
 flesta 28
 äger 28
@@ -1136,6 +1136,7 @@ Med 24
 listan 24
 bilar 24
 utanför 24
+flytta 24
 papper 24
 Tyskland 24
 Gjorde 24
@@ -1183,7 +1184,6 @@ fjärilar 23
 Italien 23
 tom 23
 stämmer 23
-flytta 23
 Rör 23
 viktig 23
 Hela 23
@@ -1639,6 +1639,7 @@ filmer 15
 is 15
 svarta 15
 Stör 15
+faller 15
 stirrade 15
 Norge 15
 Danmark 15
@@ -1716,7 +1717,6 @@ tysta 14
 låda 14
 Grekland 14
 morbror 14
-faller 14
 löfte 14
 tacka 14
 nåt 14
@@ -3192,6 +3192,7 @@ majs 7
 vande 6
 skiner 6
 plånboken 6
+Löven 6
 orsaken 6
 slipsen 6
 kappa 6
@@ -3529,6 +3530,7 @@ mask 6
 matta 6
 tretton 6
 oroliga 6
+måla 6
 Hästar 6
 Redan 6
 barnbarn 6
@@ -3633,7 +3635,6 @@ mataffären 6
 bebis 5
 Stick 5
 ensamt 5
-Löven 5
 desperat 5
 hållas 5
 diverse 5
@@ -3664,6 +3665,7 @@ planeten 5
 chansen 5
 Doktorn 5
 funderar 5
+staketet 5
 amerikanska 5
 krona 5
 öre 5
@@ -4086,7 +4088,6 @@ skyldiga 5
 bädda 5
 Brödet 5
 Prova 5
-måla 5
 fingrarna 5
 sjuksköterskan 5
 diskussionen 5
@@ -4227,7 +4228,6 @@ Giraffen 5
 medvetslös 5
 stirrar 5
 miste 5
-nedför 5
 150 5
 snåla 5
 Sopa 5
@@ -4285,7 +4285,6 @@ befolkningen 4
 nationerna 4
 Portugal 4
 översättningar 4
-staketet 4
 lånat 4
 busshållplats 4
 Kaffe 4
@@ -4847,6 +4846,7 @@ tappa 4
 mäktig 4
 Klicka 4
 avseenden 4
+avskaffa 4
 avsked 4
 historier 4
 avslappnad 4
@@ -5143,6 +5143,7 @@ löpte 4
 fjärran 4
 Havet 4
 kongressen 4
+nedför 4
 försvunnit 4
 Åskan 4
 Butiken 4
@@ -8169,7 +8170,6 @@ invända 2
 folks 2
 avsides 2
 förolämpade 2
-avskaffa 2
 vinken 2
 strand 2
 Skratta 2
@@ -9756,6 +9756,7 @@ skrevet 2
 verktygslåda 2
 bogserbåt 2
 bogserbåtskapten 2
+Belgien 2
 rymden 2
 försvarades 2
 Ryssarna 2
@@ -9997,4 +9998,3 @@ köpcentrum 2
 häromkring 2
 avsändaren 2
 Hallen 2
-utmed 2

@@ -3,7 +3,7 @@ se 599
 u 539
 sam 451
 da 409
-li 382
+li 384
 na 316
 ne 277
 Tom 271
@@ -789,6 +789,7 @@ početi 5
 obično 5
 Često 5
 pri 5
+vijesti 5
 svoga 5
 ljudima 5
 tog 5
@@ -1334,6 +1335,7 @@ braće 3
 stariji 3
 oluje 3
 meni 3
+Gledaš 3
 Liječnik 3
 očito 3
 našoj 3
@@ -1357,7 +1359,6 @@ zimi 3
 boje 3
 držati 3
 dijetu 3
-vijesti 3
 završen 3
 muža 3
 zrakoplov 3
@@ -1919,7 +1920,6 @@ pomagati 2
 drugome 2
 Osjećao 2
 šah 2
-Gledaš 2
 temeljito 2
 pregledao 2
 Nada 2
@@ -8076,3 +8076,4 @@ planet 1
 Glasao 1
 ostanak 1
 tepih 1
+Gledate 1

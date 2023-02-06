@@ -1,7 +1,7 @@
 do 3245
-zou 1168
-di 946
-no 883
+zou 1169
+di 947
+no 884
 i 775
 Tom 689
 ko 629
@@ -12,8 +12,8 @@ nu 432
 nopo 411
 Au 408
 doid 392
-om 356
-dii 353
+om 357
+dii 354
 isido 347
 dau 343
 nga 314
@@ -1546,6 +1546,7 @@ kopongo' 3
 Aiso' 3
 Lugansk 3
 Donetsk 3
+kosuvab 3
 kohousan 3
 Rima 3
 bohizan 3
@@ -2330,6 +2331,7 @@ Kuang 2
 tabantahan 2
 mineral 2
 blah 2
+aambanan 2
 tohidang 2
 songkosuvazan 2
 inunsikou 2
@@ -2408,7 +2410,6 @@ kosuangan 2
 poposusa' 2
 sumoboong 2
 sabun 2
-kosuvab 2
 kudi 2
 sodto' 2
 zotokou 2
@@ -5455,7 +5456,6 @@ Glasgow 1
 Katamisan 1
 Bosuan 1
 Manuk 1
-aambanan 1
 manangbasaan 1
 popodemokrasi 1
 tohous 1
@@ -6583,3 +6583,5 @@ Ozi 1
 noindama'an 1
 kinahasa'an 1
 Sirius 1
+Nokohoboi 1
+ozi 1

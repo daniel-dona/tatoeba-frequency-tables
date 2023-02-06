@@ -1,13 +1,13 @@
 er 15064
 Jeg 9816
-at 7800
+at 7801
 en 7327
 i 7218
 Tom 7211
 ikke 6973
 har 6532
 du 4608
-til 4482
+til 4485
 på 4238
 det 4214
 for 3355
@@ -23,7 +23,7 @@ mig 2740
 kan 2297
 den 1999
 der 1979
-Hun 1936
+Hun 1937
 dig 1754
 om 1685
 Vi 1649
@@ -308,12 +308,12 @@ begyndte 137
 gamle 136
 hvem 136
 én 136
+tiden 135
 lave 135
 bordet 135
 laver 135
 Et 135
 gift 135
-tiden 134
 grund 134
 sent 133
 øl 133
@@ -605,10 +605,10 @@ Gør 65
 "Det 65
 drukket 65
 musik 64
+besluttede 64
 mindre 64
 tøj 64
 hænder 63
-besluttede 63
 nat 63
 heste 63
 sang 63
@@ -646,6 +646,7 @@ Tokyo 58
 fri 58
 bus 58
 Om 58
+stationen 58
 hører 58
 ben 58
 lavede 58
@@ -654,7 +655,6 @@ lå 58
 gennem 57
 nær 57
 Taler 57
-stationen 57
 Tatoeba 57
 løber 57
 masse 57
@@ -844,6 +844,7 @@ hvert 43
 Med 43
 T-shirt 43
 øjeblik 42
+ankom 42
 Hr 42
 ringer 42
 otte 42
@@ -867,7 +868,6 @@ straks 41
 Politiet 41
 japansk 41
 svar 41
-ankom 41
 New 41
 begyndt 41
 ene 41
@@ -1187,6 +1187,7 @@ pung 28
 30 28
 ej 28
 grøn 28
+Toget 28
 Enhver 28
 syntes 28
 spørgsmålet 28
@@ -1227,7 +1228,6 @@ flaske 27
 procent 27
 vendte 27
 frugt 27
-Toget 27
 Tager 27
 bestilte 27
 hesten 27
@@ -1494,6 +1494,7 @@ mønt 22
 fødder 22
 langsomt 22
 tomt 22
+flytte 22
 hemmelighed 22
 sider 22
 rådede 22
@@ -1561,7 +1562,6 @@ Prøv 21
 nummer 21
 kage 21
 søndagen 21
-flytte 21
 brænde 21
 sjovt 21
 suppe 21
@@ -7676,6 +7676,7 @@ stangstiv 3
 stangbacardi 3
 lokalt 3
 tilhængere 3
+Belgien 3
 1430 3
 hunner 3
 Markerne 3
@@ -9997,4 +9998,3 @@ barnligt 2
 flyrejse 2
 rullestol 2
 garderobe 2
-mildest 2

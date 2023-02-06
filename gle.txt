@@ -1,6 +1,6 @@
 an 630
-a 602
-Tá 601
+a 603
+Tá 602
 mé 389
 ag 379
 Is 324
@@ -52,7 +52,7 @@ leabhar 47
 duine 46
 fhios 44
 Cá 42
-as 41
+as 42
 aon 40
 duit 40
 ach 39
@@ -528,6 +528,7 @@ staighre 4
 síos 4
 gortaithe 4
 dhearna 4
+mharú 4
 thabhairt 4
 déanaí 4
 bpost 4
@@ -694,7 +695,6 @@ Buíochas 3
 deasc 3
 mura 3
 Ni 3
-mharú 3
 páipéar 3
 tríd 3
 úrscéal 3
@@ -2910,3 +2910,7 @@ fanachta 1
 scéalta 1
 grinn 1
 n-iníon 1
+Erdogan 1
+ciontach 1
+Coirdínigh 1
+neamhchiontach 1

@@ -1,16 +1,16 @@
-on 1361
+on 1362
 Ma 876
 ei 699
 Tom 569
 sa 410
-Kas 397
+Kas 399
 et 314
 Ta 311
 See 263
 ma 209
 seda 200
 oma 184
-see 172
+see 173
 oli 154
 ja 147
 ole 142
@@ -27,15 +27,15 @@ mulle 97
 oled 94
 mind 87
 selle 84
+mu 83
 midagi 82
-mu 82
 Nad 81
 ära 79
 minu 77
 palju 75
 Miks 74
-Kui 72
-sulle 69
+Kui 73
+sulle 70
 tahan 68
 sind 67
 kõik 66
@@ -188,6 +188,7 @@ praegu 18
 taga 18
 meeldivad 18
 koera 18
+raamatu 18
 tee 18
 saada 18
 väsinud 18
@@ -204,7 +205,6 @@ tuleb 17
 tööd 17
 Ei 17
 lapsed 17
-raamatu 17
 minuga 17
 oleme 17
 Siin 17
@@ -262,6 +262,7 @@ lihtne 14
 sina 14
 näinud 14
 välismaal 14
+kaua 14
 kindel 14
 Kell 14
 kohta 13
@@ -290,13 +291,13 @@ isegi 13
 oskab 13
 tal 13
 surnud 13
-kaua 13
 suri 13
 peidus 13
 pani 12
 inimesed 12
 Pole 12
 Meie 12
+raamat 12
 teadnud 12
 kedagi 12
 Sinu 12
@@ -305,6 +306,7 @@ alla 12
 need 12
 uue 12
 puu 12
+all 12
 On 12
 teinud 12
 kooli 12
@@ -315,12 +317,10 @@ tihti 12
 päris 12
 meil 12
 Räägi 12
-raamat 11
 üksi 11
 kohe 11
 kirja 11
 Head 11
-all 11
 vend 11
 lahti 11
 elu 11
@@ -374,6 +374,7 @@ noor 9
 pool 9
 neile 9
 jäi 9
+meeldis 9
 Jah 9
 raamatuid 9
 ees 9
@@ -421,7 +422,6 @@ karda 8
 võtta 8
 olevat 8
 Su 8
-meeldis 8
 esimene 8
 Ema 8
 igal 8
@@ -996,6 +996,7 @@ leidsin 4
 Türgi 4
 ukraina 4
 sündis 4
+kestab 4
 räägivad 4
 portugali 4
 Milliseid 4
@@ -1359,6 +1360,7 @@ maksid 3
 Portugal 3
 Inglise 3
 ehitas 3
+valutab 3
 pudelit 3
 puidust 3
 juuksed 3
@@ -1381,7 +1383,6 @@ hauguvad 3
 Kreeka 3
 karusid 3
 karud 3
-kestab 3
 norra 3
 töötavad 3
 Austraalias 3
@@ -1518,6 +1519,7 @@ kuigi 2
 kavatsed 2
 "Tatoeba" 2
 tõlkeid 2
+Kuid 2
 sõnastikku 2
 korrusele 2
 paistab 2
@@ -1568,6 +1570,7 @@ otsustasin 2
 arstiks 2
 Saksamaa 2
 sündisin 2
+Joonlaud 2
 lühike 2
 vanaema 2
 korteris 2
@@ -2119,7 +2122,6 @@ kohvile 2
 metsas 2
 kirjuta 2
 keha 2
-valutab 2
 musta 2
 pange 2
 mantlis 2
@@ -2183,6 +2185,7 @@ itaalia 2
 viie 2
 sees 2
 häiris 2
+võivad 2
 tunnevad 2
 koosneb 2
 hingata 2
@@ -2283,9 +2286,11 @@ Parkisin 2
 tänavale 2
 õppimine 2
 romaani 2
+Vajame 2
 Eelistan 2
 mõista 2
 jalutasid 2
+valetada 2
 elevant 2
 Maapind 2
 pehme 2
@@ -2744,7 +2749,6 @@ iseenesest 1
 mitmekeelne 1
 Saab 1
 otsida 1
-Kuid 1
 tegu 1
 tüüpilise 1
 sõnastikuga 1
@@ -2942,7 +2946,6 @@ Jim 1
 avab 1
 realistlik 1
 ajakirjanikuks 1
-Joonlaud 1
 nendes 1
 tingimustes 1
 ookeani 1
@@ -5108,7 +5111,6 @@ tänan 1
 Lambad 1
 panni 1
 Šimpansid 1
-võivad 1
 visata 1
 kividega 1
 ohus 1
@@ -5852,7 +5854,6 @@ kaklemise 1
 baarist 1
 avanud 1
 vihkate 1
-Vajame 1
 juhte 1
 päevalehte 1
 huvitava 1
@@ -5911,7 +5912,6 @@ tähtegi 1
 Piinasime 1
 islamist 1
 Püüan 1
-valetada 1
 sõitmise 1
 kõndida 1
 kurdavad 1
@@ -6285,3 +6285,7 @@ jäämise 1
 anekdoote 1
 kätel 1
 tätoveeringud 1
+kirurgi 1
+ahvid 1
+operatsioon 1
+õlg 1

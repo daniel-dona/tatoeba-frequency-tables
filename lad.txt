@@ -1,11 +1,11 @@
-es 245
-un 132
-Tom 126
+es 248
+un 135
+Tom 128
 El 101
-de 88
-en 87
+de 90
+la 88
+en 88
 el 87
-la 86
 no 79
 No 76
 איס 73
@@ -18,10 +18,10 @@ son 43
 Los 40
 Esto 35
 Es 35
-i 33
+i 34
+los 34
 ke 32
 Me 32
-los 32
 און 32
 pan 31
 Mi 30
@@ -30,10 +30,10 @@ kon 29
 Eya 28
 mi 27
 se 25
+So 25
 טום 24
 muy 23
 esto 23
-So 23
 נו 23
 אונה 21
 plaze 20
@@ -55,6 +55,7 @@ kaza 15
 Tengo 15
 מי 15
 inglez 14
+djudios 14
 mansana 14
 Somos 14
 so 14
@@ -69,7 +70,6 @@ ambezando 13
 איסטה 13
 del 12
 Kero 12
-djudios 12
 vos 12
 portokal 12
 York 12
@@ -85,6 +85,7 @@ djudia 11
 סון 11
 vedre 11
 aki 10
+sivdad 10
 komo 10
 plazen 10
 padre 10
@@ -96,6 +97,7 @@ Dingunos 10
 קי 10
 al 9
 Ladino 9
+mas 9
 A 9
 Vos 9
 Son 9
@@ -111,7 +113,6 @@ arvoles 9
 akodro 8
 Shabat 8
 su 8
-sivdad 8
 En 8
 avla 8
 tu 8
@@ -123,12 +124,13 @@ Komo 8
 Trump 8
 mundo 8
 grande 8
+Ester 8
 ebreo 8
 אה 8
 emportantes 8
-mas 7
 kero 7
 vida 7
+Yerushalayim 7
 yamo 7
 gatos 7
 Tu 7
@@ -138,7 +140,6 @@ Nu 7
 mate 7
 kabil 7
 avlash 7
-Ester 7
 agua 7
 lashon 7
 problemes 7
@@ -169,11 +170,11 @@ problem 6
 afilu 6
 שבת 6
 סי 6
+emportante 6
 Topa 6
 kayendo 6
 mozotros 5
 sus 5
-Yerushalayim 5
 Eyos 5
 Te 5
 djudeo-espanyol 5
@@ -212,7 +213,6 @@ portugez 5
 tardjuman 5
 Donald 5
 סומוס 5
-emportante 5
 mishpaha 5
 arabas 5
 ensima 5
@@ -264,6 +264,7 @@ kaye 4
 puedo 4
 אבﬞלאש 4
 ambos 4
+santa 4
 sekular 4
 גﬞודﬞייו 4
 meza 4
@@ -413,6 +414,7 @@ giza 3
 ijikos 3
 Planta 3
 maymona 3
+pezgo 3
 tan 2
 syelo 2
 Yaakov 2
@@ -617,7 +619,6 @@ tenemos 2
 אייה 2
 ﭏ 2
 musulmanos 2
-santa 2
 מוסולמאנוס 2
 סיבﬞדאד 2
 סאנטה 2
@@ -640,6 +641,7 @@ ensenya 2
 טאטואיבה 2
 מוי 2
 intelijentes 2
+pishkado 2
 paz 2
 שלום 2
 anarkisto 2
@@ -722,6 +724,8 @@ Osmanli 2
 אמור 2
 sinema 2
 gizo 2
+Unos 2
+bolan 2
 Djuga 2
 atras 2
 korren 2
@@ -1385,7 +1389,6 @@ puerkos 1
 asumo 1
 dinguna 1
 responsabilidad 1
-pishkado 1
 boka 1
 serada 1
 entra 1
@@ -1841,9 +1844,7 @@ sonrio 1
 Apanya 1
 Enkontranos 1
 Kayate 1
-Unos 1
-peshkados 1
-bolan 1
+peshes 1
 Abolta 1
 derecha 1
 Sovre 1
@@ -1924,3 +1925,11 @@ Planti 1
 planta 1
 nasyon 1
 kurta 1
+Piedre 1
+pedrio 1
+Pedrimos 1
+intolerante 1
+nasio 1
+kibuts 1
+peshe 1
+pishkados 1

@@ -5,7 +5,7 @@ bat 405
 Ez 402
 du 394
 eta 342
-zuen 280
+zuen 281
 egin 272
 naiz 264
 zen 263
@@ -83,9 +83,9 @@ Ezin 45
 Hori 44
 Gaur 44
 Laylak 44
+dituzu 42
 egitea 41
 eman 41
-dituzu 41
 lan 41
 zait 40
 zaitut 40
@@ -168,12 +168,12 @@ batek 23
 beti 23
 ezagutzen 23
 egun 23
+ikusten 23
 bihar 23
 gustuko 23
 gaude 23
 Tomen 23
 handia 22
-ikusten 22
 zaizu 22
 hizkuntza 22
 zuten 22
@@ -280,6 +280,7 @@ Barkatu 14
 hauek 14
 joateko 14
 Beste 14
+erabaki 14
 dituzte 14
 Egun 14
 diren 14
@@ -303,7 +304,6 @@ osoan 13
 gustoko 13
 bakarra 13
 pertsona 13
-erabaki 13
 Eta 13
 Badakizu 13
 etxe 13
@@ -702,6 +702,7 @@ gogorra 6
 mahai 6
 izaten 6
 garbitzen 6
+joatea 6
 gau 6
 nauzu 6
 Hire 6
@@ -841,7 +842,6 @@ zain 5
 eraso 5
 aurrera 5
 litzateke 5
-joatea 5
 beteta 5
 erre 5
 Gorroto 5
@@ -8516,3 +8516,5 @@ Ehun 1
 hamazazpi 1
 hamabost 1
 eguneratu 1
+Belgikara 1
+Albisteak 1

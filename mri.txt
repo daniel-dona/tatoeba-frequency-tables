@@ -1,17 +1,17 @@
-te 292
+te 293
 i 230
 e 131
-ki 114
+ki 116
 a 113
-I 85
+I 86
 He 81
 Tom 71
 ana 69
 au 56
 koe 55
 ahau 50
+ia 47
 ngā 47
-ia 46
 E 46
 Kāore 45
 o 36
@@ -190,6 +190,7 @@ Nōku 3
 ngenge 2
 rānei 2
 wātea 2
+whakatau 2
 wareware 2
 rangi 2
 hunga 2
@@ -287,7 +288,6 @@ tatū 1
 rererangi 1
 karaka 1
 tiakarete 1
-whakatau 1
 Āhea 1
 pāti 1
 tīketi 1
@@ -715,3 +715,5 @@ mangu 1
 atawhai 1
 tamaiti 1
 whero 1
+neke 1
+Belgium 1
