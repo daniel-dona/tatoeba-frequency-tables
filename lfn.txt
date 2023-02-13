@@ -1,32 +1,32 @@
-es 5991
-la 5437
+es 5995
+la 5441
 ia 4610
-de 3644
-un 3261
+de 3645
+un 3262
 ла 2802
 ес 2729
 Me 2448
 иа 2153
-no 1919
+no 1920
 де 1874
 La 1725
 a 1691
-en 1617
+en 1619
 Tom 1603
 ун 1365
-tu 1190
+tu 1191
 e 1190
 Ме 1183
 me 1145
-ave 1079
+ave 1080
 а 953
 Ла 932
 но 910
 ce 908
-El 890
+El 891
 ен 882
-Esce 788
-plu 707
+Esce 790
+plu 709
 va 700
 sua 663
 ме 662
@@ -42,7 +42,7 @@ esta 595
 mea 560
 lo 559
 Esta 537
-Nos 519
+Nos 520
 con 489
 Том 469
 ке 462
@@ -58,7 +58,7 @@ nos 380
 ел 364
 Ел 364
 мулте 355
-tua 353
+tua 354
 sabe 352
 плу 351
 gusta 349
@@ -88,10 +88,10 @@ cuando 253
 vade 250
 los 250
 ama 241
-tota 240
+tota 241
+o 236
 vive 235
 Los 235
-o 235
 vide 232
 воле 232
 ca 227
@@ -162,8 +162,8 @@ ante 130
 can 128
 comensa 128
 Acel 128
+veni 128
 aora 127
-veni 127
 mori 127
 tan 126
 person 126
@@ -198,7 +198,7 @@ Mary 109
 гранде 108
 leje 107
 Лос 107
-Do 105
+Do 106
 fem 105
 о 105
 gato 102
@@ -220,9 +220,9 @@ senti 95
 ja 95
 tra 95
 каса 95
+nosa 94
 мундо 94
 fia 93
-nosa 93
 meа 92
 demanda 92
 Alga 92
@@ -361,6 +361,7 @@ tuа 55
 prosima 55
 cualce 55
 fasil 55
+testa 55
 франсес 55
 месма 55
 Tua 54
@@ -368,7 +369,6 @@ dole 54
 oia 54
 Frans 54
 contra 54
-testa 54
 мадре 54
 пети 54
 леже 54
@@ -451,6 +451,7 @@ cavalo 44
 pasada 43
 cuatro 43
 fenetra 43
+forte 43
 an 43
 sinifia 43
 Dio 43
@@ -466,7 +467,6 @@ encontra 42
 Cada 42
 frases 42
 lus 42
-forte 42
 нова 42
 акуа 42
 уса 42
@@ -1033,6 +1033,7 @@ vestes 17
 governa 17
 otras 17
 stato 17
+Australia 17
 eglesa 17
 maladia 17
 developa 17
@@ -1080,7 +1081,6 @@ Sur 16
 furor 16
 repara 16
 materia 16
-Australia 16
 este 16
 Roma 16
 seria 16
@@ -1616,6 +1616,7 @@ eruga 10
 adulte 10
 acaso 10
 plantas 10
+alas 10
 primavera 10
 aranias 10
 lege 10
@@ -1755,7 +1756,6 @@ dur 9
 futur 9
 rara 9
 Dan 9
-alas 9
 Scrive 9
 Tuа 9
 stona 9
@@ -2125,6 +2125,7 @@ testo 7
 Sola 7
 manico 7
 valuada 7
+usosa 7
 metodo 7
 Alo 7
 ativia 7
@@ -2315,7 +2316,9 @@ merda 7
 fodeda 7
 puta 7
 Meri 7
+vegan 7
 esemplo 7
+Basi 7
 comparti 7
 prosimi 7
 claves 7
@@ -2366,7 +2369,6 @@ plata 6
 Tre 6
 lago 6
 provoca 6
-usosa 6
 suave 6
 regretable 6
 revide 6
@@ -2653,9 +2655,7 @@ frato 6
 респета 6
 Мери 6
 bove 6
-vegan 6
 dependente 6
-Basi 6
 Islam 6
 ne 6
 relijio 6
@@ -3627,6 +3627,7 @@ Fumi 4
 Либри 4
 desprende 4
 мерда 4
+sinagoga 4
 жунтада 4
 Cavalos 4
 cuer 4
@@ -3872,6 +3873,7 @@ asida 3
 esita 3
 consela 3
 pende 3
+Anunsias 3
 partinte 3
 teroriste 3
 vestida 3
@@ -3897,6 +3899,7 @@ engoli 3
 obesa 3
 Nansi 3
 baldon 3
+Osteraic 3
 Polsca 3
 Elefen 3
 Suiz 3
@@ -4522,7 +4525,6 @@ romanica 3
 Fode 3
 Фоде 3
 пута 3
-sinagoga 3
 peta 3
 веган 3
 куер 3
@@ -4534,6 +4536,7 @@ sustitua 3
 eroina 3
 сосиа 3
 гота 3
+autocratia 3
 David 3
 поесисте 3
 салута 3
@@ -4543,6 +4546,7 @@ malodori 3
 lesbian 3
 Olocausto 3
 eres 3
+Aboli 3
 alcolomanica 3
 drogamanica 3
 ajena 3
@@ -5025,7 +5029,6 @@ pil 2
 envolve 2
 vasos 2
 dejeto 2
-Osteraic 2
 interval 2
 geras 2
 ensircada 2
@@ -6171,7 +6174,6 @@ israeli 2
 balia 2
 sputa 2
 desonora 2
-Aboli 2
 Coraje 2
 Permete 2
 sprinta 2
@@ -6554,6 +6556,7 @@ cordeta 2
 %" 2
 capitaliste 2
 seme 2
+dementia 2
 612 2
 1909 2
 тирано 2
@@ -6833,6 +6836,7 @@ Freta 2
 manga 2
 манга 2
 букос 2
+dragones 2
 estramadre 2
 естрамадре 2
 diagonales 2
@@ -6950,6 +6954,7 @@ spasial 2
 stange 2
 compatiosa 2
 pruri 2
+testas 2
 asasinada 2
 beleta 2
 gravital 2
@@ -6978,6 +6983,7 @@ Autodefende 2
 descorajosi 2
 enganada 2
 noncortesia 2
+merdi 2
 reconstrui 1
 Escusa 1
 Jim 1
@@ -7223,7 +7229,6 @@ suno 1
 ventas 1
 spuma 1
 influeda 1
-Anunsias 1
 Atestores 1
 afirma 1
 cilometre 1
@@ -9993,8 +9998,3 @@ prinsipes 1
 гомбо 1
 импресада 1
 куиетиа 1
-исолада 1
-оргуло 1
-авариа 1
-либидо 1
-глотониа 1

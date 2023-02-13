@@ -11,17 +11,17 @@ na 194
 ka 183
 han 155
 hiya 137
-mga 133
+mga 134
 hiton 123
+imo 122
 Diri 121
-imo 120
 la 115
 ni 113
 Waray 112
 mo 99
 akó 98
 iya 98
-it 95
+it 96
 ini 86
 niya 84
 hiyá 81
@@ -36,7 +36,7 @@ hit 61
 ngan 59
 it' 59
 Karuyag 56
-ano 54
+ano 55
 man 48
 waray 46
 ba 45
@@ -85,13 +85,13 @@ yanâ 20
 daw 20
 iní 18
 bisan 18
+Kay 17
 sugad 17
 usa 17
 gihapon 17
 May 16
 Alayon 16
 bà 16
-Kay 16
 balay 16
 adlaw 16
 oras 16
@@ -294,6 +294,7 @@ musika 5
 Kumadto 5
 Duha 5
 nalingkod 5
+anak 5
 sayop 5
 Kinahanglanon 5
 Nakit-an 5
@@ -368,7 +369,6 @@ susi 4
 Sumati 4
 Damu 4
 igbaw 4
-anak 4
 naruruyag 4
 rason 4
 bintana 4
@@ -3530,3 +3530,4 @@ Pwede 1
 i-sara 1
 Talagsa 1
 Magmamakuri 1
+ginlalamba 1

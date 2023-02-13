@@ -5,7 +5,7 @@ ka 219
 nga 165
 si 157
 na 152
-mga 135
+mga 136
 Tom 126
 akong 110
 ug 109
@@ -15,7 +15,7 @@ siya 103
 ba 81
 Dili 76
 man 75
-imong 74
+imong 75
 kay 65
 Wala 62
 lang 59
@@ -92,6 +92,7 @@ Pedro 11
 Naa 11
 o 11
 namo 10
+Nganong 10
 Hain 10
 adlaw 10
 libro 10
@@ -107,7 +108,6 @@ Kanus-a 9
 Pila 9
 iro 9
 Buot 9
-Nganong 9
 kog 9
 gud 9
 dagat 9
@@ -122,6 +122,7 @@ ana 8
 pud 8
 mao 8
 Palihog 8
+anak 8
 kining 8
 naa 8
 kung 8
@@ -135,7 +136,6 @@ buot 7
 gahapon 7
 bukid 7
 nagpuyo 7
-anak 7
 inyong 7
 Wa 7
 - 7
@@ -203,6 +203,7 @@ hawa 5
 gani 5
 tindahan 5
 lungsod 5
+imo 5
 ingon 5
 kusina 5
 maong 5
@@ -267,7 +268,6 @@ kaon 4
 kahoy 4
 Nia 4
 dugay 4
-imo 4
 Tibuok 4
 kinahanglan 4
 Mas 4
@@ -566,6 +566,7 @@ nimong 2
 taksi 2
 molakaw 2
 Bantug 2
+mang 2
 Hinaut 2
 makalimot 2
 hunahunaon 2
@@ -1242,7 +1243,6 @@ bantayanan 1
 Lambo 1
 ibanting 1
 tabanug 1
-mang 1
 nagkinahanglan 1
 patas-an 1
 tantu 1
@@ -3167,3 +3167,4 @@ sarado 1
 pultahan 1
 magsuwat 1
 Maglisod 1
+latuson 1

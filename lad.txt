@@ -1,15 +1,15 @@
-es 248
-un 135
+es 249
+un 136
 Tom 128
 El 101
 de 90
-la 88
-en 88
+la 89
+en 89
 el 87
-no 79
+no 80
 No 76
 איס 73
-esta 67
+esta 69
 una 60
 a 57
 La 49
@@ -43,21 +43,21 @@ gato 19
 perro 18
 Yo 18
 djudio 17
+Onde 17
 lingua 16
 Sos 16
 Dio 16
-Onde 16
 אין 16
 לוס 16
 Esta 16
 me 15
 kaza 15
+Somos 15
 Tengo 15
 מי 15
 inglez 14
 djudios 14
 mansana 14
-Somos 14
 so 14
 Las 14
 preto 14
@@ -86,6 +86,7 @@ djudia 11
 vedre 11
 aki 10
 sivdad 10
+mas 10
 komo 10
 plazen 10
 padre 10
@@ -97,7 +98,6 @@ Dingunos 10
 קי 10
 al 9
 Ladino 9
-mas 9
 A 9
 Vos 9
 Son 9
@@ -197,6 +197,7 @@ arabo 5
 paiz 5
 nombre 5
 Ay 5
+personas 5
 Berlin 5
 מאנסאנה 5
 ermozo 5
@@ -213,6 +214,7 @@ portugez 5
 tardjuman 5
 Donald 5
 סומוס 5
+Miri 5
 mishpaha 5
 arabas 5
 ensima 5
@@ -245,7 +247,6 @@ ambre 4
 eskola 4
 sosializmo 4
 blanko 4
-personas 4
 estash 4
 dunke 4
 sefaradi 4
@@ -274,7 +275,6 @@ Amo 4
 avlan 4
 nona 4
 yidish 4
-Miri 4
 pas 4
 maymonas 4
 Durme 4
@@ -298,6 +298,7 @@ kolay 3
 Su 3
 Boston 3
 mijor 3
+ombre 3
 plazer 3
 Estó 3
 perros 3
@@ -449,7 +450,6 @@ disho 2
 luz 2
 Nadar 2
 fasil 2
-ombre 2
 Buenas 2
 tadres 2
 Muncho 2
@@ -676,6 +676,7 @@ djente 2
 Amhariko 2
 מורו 2
 mozotras 2
+Turkia 2
 Un 2
 יידיש 2
 lavoros 2
@@ -1519,7 +1520,6 @@ Etiopia 1
 איטיופיה 1
 סאמי 1
 Ankara 1
-Turkia 1
 אנקארה 1
 טורקייה 1
 Durante 1
@@ -1933,3 +1933,8 @@ nasio 1
 kibuts 1
 peshe 1
 pishkados 1
+fuertes 1
+matando 1
+inosentes 1
+Kurdistan 1
+esnoga 1

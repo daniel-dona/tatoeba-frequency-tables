@@ -1,9 +1,9 @@
 je 2195
 sa 2096
 som 1855
-Tom 1608
+Tom 1609
 si 1506
-to 1303
+to 1304
 že 1084
 na 994
 v 762
@@ -12,7 +12,7 @@ mi 508
 Je 466
 by 457
 ste 406
-do 384
+do 385
 čo 383
 sú 354
 o 337
@@ -277,6 +277,7 @@ Milujem 35
 Učím 35
 mesto 35
 Tu 35
+Máriu 35
 O 34
 Bolo 34
 žije 34
@@ -284,7 +285,6 @@ Hovoríte 34
 Aký 34
 oči 34
 zostať 34
-Máriu 34
 neviem 33
 vlasy 33
 žena 33
@@ -339,6 +339,7 @@ koberec 29
 šiel 29
 chlieb 29
 Práve 29
+čakať 28
 Aj 28
 neskoro 28
 dobrá 28
@@ -359,7 +360,6 @@ také 28
 Budem 28
 pondelok 28
 vedel 28
-čakať 27
 išiel 27
 jazyk 27
 budete 27
@@ -381,6 +381,7 @@ Mali 26
 taký 26
 nové 26
 rok 26
+hodiny 26
 ťažké 26
 niekoľko 26
 pravda 26
@@ -402,7 +403,6 @@ jedno 25
 tvoje 25
 Hovorí 25
 unavený 25
-hodiny 25
 dal 25
 tomu 25
 nad 25
@@ -499,6 +499,7 @@ mojej 20
 Veľmi 20
 ktorú 20
 dievča 20
+nebude 20
 Mary 20
 ide 20
 nechce 20
@@ -533,7 +534,6 @@ zvyčajne 19
 raz 19
 volá 19
 pero 19
-nebude 19
 celý 19
 krajina 19
 krásne 19

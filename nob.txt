@@ -1,5 +1,5 @@
-er 4144
-Jeg 3429
+er 4145
+Jeg 3430
 ikke 2328
 å 2077
 i 2059
@@ -8,7 +8,7 @@ du 1788
 det 1717
 har 1707
 på 1624
-Tom 1615
+Tom 1616
 til 1454
 og 1278
 jeg 1275
@@ -20,7 +20,7 @@ Han 962
 av 940
 var 919
 som 914
-at 815
+at 816
 Hun 726
 et 720
 Du 704
@@ -52,11 +52,11 @@ ble 285
 gjøre 271
 ham 270
 ha 270
-vet 258
+vet 259
 går 255
 hva 254
+Er 250
 kommer 249
-Er 249
 mye 247
 din 244
 Hvor 239
@@ -176,8 +176,8 @@ blitt 81
 bedre 80
 hjem 80
 språk 80
+dine 80
 lenge 79
-dine 79
 sett 78
 Ingen 78
 spise 77
@@ -452,6 +452,7 @@ helst 28
 svømme 28
 Hunden 28
 vanligvis 28
+hendene 28
 Algerie 28
 kaldt 27
 spørre 27
@@ -464,7 +465,6 @@ satt 27
 råd 27
 først 27
 Gjør 27
-hendene 27
 tro 27
 hus 27
 jente 27
@@ -4561,6 +4561,7 @@ flytta 2
 ivrig 2
 døgnets 2
 pinner 2
+reine 2
 ørkenen 2
 plantene 2
 verne 2
@@ -8242,7 +8243,6 @@ kvist 1
 Skjæra 1
 reiret 1
 bjørka 1
-reine 1
 Mosene 1
 celleoppbygning 1
 frosten 1
