@@ -1,15 +1,15 @@
 es 5995
 la 5441
-ia 4610
+ia 4611
 de 3645
 un 3262
 ла 2802
 ес 2729
 Me 2448
 иа 2153
-no 1920
+no 1921
 де 1874
-La 1725
+La 1726
 a 1691
 en 1619
 Tom 1603
@@ -40,7 +40,7 @@ cual 610
 esta 595
 аве 564
 mea 560
-lo 559
+lo 560
 Esta 537
 Nos 520
 con 489
@@ -52,7 +52,7 @@ Tu 435
 casa 404
 Еске 399
 cosa 383
-fa 381
+fa 382
 nos 380
 еста 368
 ел 364
@@ -95,8 +95,8 @@ Los 235
 vide 232
 воле 232
 ca 227
+Un 221
 нос 221
-Un 220
 parla 218
 коса 213
 vos 212
@@ -449,6 +449,7 @@ cavalo 44
 скола 44
 мар 44
 pasada 43
+esiste 43
 cuatro 43
 fenetra 43
 forte 43
@@ -462,7 +463,6 @@ sirca 42
 core 42
 usada 42
 De 42
-esiste 42
 encontra 42
 Cada 42
 frases 42
@@ -696,6 +696,7 @@ supra 27
 capital 27
 juas 27
 clui 27
+menti 27
 синко 27
 десира 27
 фамилиа 27
@@ -714,7 +715,6 @@ solitar 26
 temprana 26
 computador 26
 tipal 26
-menti 26
 ожи 26
 контра 26
 кадун 26
@@ -877,6 +877,7 @@ eras 21
 veliada 21
 aira 20
 idea 20
+luna 20
 asoluta 20
 soldi 20
 stelas 20
@@ -914,7 +915,6 @@ York 20
 cuadros 20
 Grasias 19
 envia 19
-luna 19
 ocupada 19
 preparada 19
 eda 19
@@ -2116,6 +2116,7 @@ saturdi 7
 borda 7
 finje 7
 suposa 7
+sorsor 7
 tema 7
 aceles 7
 bonveni 7
@@ -2355,7 +2356,6 @@ irita 6
 rua 6
 impresa 6
 sorda 6
-sorsor 6
 gamas 6
 Lodas 6
 pinta 6
@@ -6960,6 +6960,7 @@ beleta 2
 gravital 2
 singularia 2
 Descasci 2
+Polisiores 2
 pulmones 2
 muco 2
 Drogas 2
@@ -9997,4 +9998,3 @@ prinsipes 1
 синематографиал 1
 гомбо 1
 импресада 1
-куиетиа 1

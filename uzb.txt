@@ -1,4 +1,4 @@
-Bu 60
+Bu 61
 U 60
 Men 59
 bor 32
@@ -31,6 +31,7 @@ juda 10
 Siz 9
 Menga 9
 uni 9
+edim 9
 suv 9
 бор 8
 бир 8
@@ -38,12 +39,12 @@ emasman 8
 kim 8
 menga 8
 yomon 8
-edim 8
 Nega 8
 Ertaga 8
 ishlayman 8
 ва 7
 issiq 7
+kitobni 7
 va 7
 pul 7
 kitob 7
@@ -55,7 +56,6 @@ qachon 7
 йўқ 6
 Нима 6
 Uning 6
-kitobni 6
 Bir 6
 boraman 6
 qancha 6
@@ -76,6 +76,7 @@ bu 5
 javob 5
 Yana 5
 faqat 5
+ikki 5
 Kecha 5
 bo'ladi 5
 Ular 5
@@ -107,7 +108,6 @@ o'qish 4
 ҳақиқатни 4
 билмоқчи 4
 Suv 4
-ikki 4
 qilish 4
 tilini 4
 uning 4
@@ -130,6 +130,7 @@ Eshikni 4
 Pul 4
 go'shti 4
 Bank 4
+Seni 3
 Rahmat 3
 gap 3
 келдим 3
@@ -205,7 +206,6 @@ Baliqni 3
 ko‘raman 3
 Sensiz 2
 hayot 2
-Seni 2
 одамлар 2
 бўлиб 2
 Сиз 2
@@ -354,6 +354,7 @@ borish 2
 yozmoqchiman 2
 bizning 2
 Oldin 2
+oldin 2
 qilmayman 2
 bosh 2
 bekor 2
@@ -445,11 +446,13 @@ ustasan 2
 bunaqa 2
 Meni 2
 o'ylaysanmi 2
+maylimi 2
 nechida 2
 tana 2
 yogʻdi 2
 Bizda 2
 haydovchisi 2
+yil 2
 Nimalarni 2
 o'rganaman 2
 bo'ladimi 2
@@ -1211,7 +1214,6 @@ yeyapsan 1
 yeyapsiz 1
 yeyapmiz 1
 Muammo 1
-oldin 1
 Xavfliman 1
 xavfliman 1
 Uying 1
@@ -1903,7 +1905,6 @@ Rojdestvo 1
 sovg'asiga 1
 nonni 1
 yesam 1
-maylimi 1
 olishga 1
 borsam 1
 turgandingmi 1
@@ -1985,7 +1986,6 @@ avtobus 1
 Bungacha 1
 taksi 1
 ishlaganman 1
-yil 1
 ofitsiant 1
 ishladim 1
 rasm 1
@@ -2231,3 +2231,5 @@ gaplashasizmi 1
 Belgiyaga 1
 ko‘chib 1
 o‘tishga 1
+quchoqlasam 1
+o‘qigan 1

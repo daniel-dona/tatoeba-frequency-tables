@@ -1,8 +1,8 @@
 esas 2586
-la 2020
+la 2021
 Me 2007
 ne 1151
-La 909
+La 910
 me 795
 Tom 763
 tu 756
@@ -239,6 +239,7 @@ quan 28
 kom 28
 helpar 28
 lernar 28
+dormas 28
 tota 28
 automobilo 28
 perdis 28
@@ -248,7 +249,6 @@ venos 27
 iros 27
 Quanta 27
 problemo 27
-dormas 27
 dicar 27
 kolda 27
 Nia 27
@@ -322,6 +322,7 @@ savar 22
 kontre 22
 cielo 22
 Yen 22
+teo 22
 jus 22
 supo 22
 timas 21
@@ -343,7 +344,6 @@ chefurbo 21
 skolo 21
 verda 21
 jemeli 21
-teo 21
 pupeo 21
 treno 20
 respondo 20
@@ -1296,6 +1296,7 @@ joko 5
 nubi 5
 Wang 5
 falsa 5
+Drinkez 5
 violacesis 5
 jolia" 5
 basa 5
@@ -1570,7 +1571,6 @@ saltas 4
 mastro 4
 Ricardo 4
 blinda 4
-Drinkez 4
 avertis 4
 marmoto 4
 skolano 4
@@ -7763,3 +7763,4 @@ Havayi 1
 testo 1
 Jehova 1
 L'arbori 1
+koalo 1

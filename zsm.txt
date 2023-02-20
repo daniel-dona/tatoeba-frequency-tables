@@ -11,9 +11,9 @@ akan 561
 untuk 550
 Dia 529
 dan 407
-dia 404
+dia 405
 dengan 402
-ke 360
+ke 359
 anda 329
 Mary 307
 telah 290
@@ -27,7 +27,7 @@ apa 214
 adalah 210
 mahu 200
 ada 197
-hari 188
+hari 189
 orang 179
 sedang 176
 kepada 174
@@ -37,7 +37,7 @@ Adakah 170
 dari 158
 lebih 158
 perlu 158
-lagi 152
+lagi 151
 rumah 147
 Kami 146
 makan 144
@@ -50,7 +50,7 @@ kami 121
 daripada 119
 sangat 119
 pernah 119
-tak 115
+tak 114
 suka 113
 dapat 111
 sini 108
@@ -131,9 +131,9 @@ masalah 50
 begitu 49
 wang 49
 kelihatan 49
+Aku 48
 bekerja 48
 dunia 47
-Aku 47
 besar 47
 sana 47
 lama 47
@@ -150,6 +150,7 @@ Sami 45
 siapa 44
 esok 44
 mesti 44
+aku 44
 cuba 44
 pukul 43
 Inggeris 43
@@ -157,7 +158,6 @@ Kamu 43
 Apakah 43
 Mengapa 43
 membeli 43
-aku 43
 Semua 42
 Jepun 42
 jika 42
@@ -169,6 +169,7 @@ Jika 41
 kerja 41
 berjalan 40
 kali 40
+jadi 40
 atau 40
 mencari 40
 Boston 40
@@ -176,7 +177,6 @@ Tidak 39
 membantu 39
 sedikit 39
 apabila 39
-jadi 39
 belum 39
 membaca 39
 sepatutnya 39
@@ -204,13 +204,13 @@ bilik 35
 Itu 35
 Sila 34
 selalu 34
+sekali 34
 meminta 34
 mampu 34
 semasa 34
 Australia 33
 katakan 33
 bertanya 33
-sekali 33
 tiba 33
 tapi 33
 Tolong 32
@@ -250,12 +250,12 @@ Mungkin 29
 semalam 28
 panas 28
 duduk 28
+bulan 28
 nampak 28
 kelmarin 28
 terus 27
 patut 27
 sejuk 27
-bulan 27
 hadapan 27
 selepas 27
 balik 27
@@ -309,6 +309,7 @@ dengannya 23
 mendapat 23
 kawan 23
 pintu 23
+nama 23
 beritahu 23
 jangan 23
 makanan 23
@@ -330,7 +331,6 @@ depan 22
 minum 22
 tadi 22
 kalau 22
-nama 22
 jalan 22
 ايت 22
 anjing 21
@@ -498,7 +498,6 @@ bunga 14
 awal 14
 sebiji 14
 meletakkan 14
-kurang 14
 mandi 14
 berasal 14
 memahami 14
@@ -535,6 +534,7 @@ biasanya 13
 teh 13
 bapanya 13
 sebenar 13
+kurang 13
 benar 13
 Tahukah 13
 teman 13
@@ -543,7 +543,7 @@ hadir 13
 tengah 13
 lihat 13
 batu 13
-ni 13
+Tak 13
 peluang 13
 Sekiranya 13
 mempercayai 13
@@ -574,7 +574,7 @@ jelas 12
 Indonesia 12
 kelas 12
 piano 12
-Tak 12
+ni 12
 memakan 12
 "Saya 12
 tu 12
@@ -697,7 +697,6 @@ menghadiri 9
 Encik 9
 fikirkan 9
 menelefon 9
-Harga 9
 selesai 9
 sebenarnya 9
 gigi 9
@@ -763,6 +762,7 @@ tanya 8
 memasak 8
 garam 8
 sup 8
+Harga 8
 melihatnya 8
 cuaca 8
 lampu 8
@@ -1263,6 +1263,7 @@ berbohong 5
 pusat 5
 bersenam 5
 satu-satunya 5
+ingatkan 5
 universiti 5
 Seseorang 5
 ku 5
@@ -1524,9 +1525,9 @@ cincin 4
 Duduk 4
 menerjemahkan 4
 Malam 4
-ingatkan 4
 همڤير 4
 segalanya 4
+saiz 4
 Roh 4
 Kudus 4
 miliki 4
@@ -1964,7 +1965,6 @@ kencing 3
 cadangkan 3
 profesor 3
 Mahukah 3
-saiz 3
 Berhati-hati 3
 menemukan 3
 berbangsa 3
@@ -2106,6 +2106,7 @@ of 3
 anime 3
 بلوجور 3
 Lawan 3
+bergaduh 3
 بولا 3
 tukul 3
 bantu 3
@@ -2668,6 +2669,7 @@ sambung 2
 model 2
 ejaan 2
 Wang 2
+je 2
 Tatoeba 2
 Nunukan 2
 fikirannya 2
@@ -3140,7 +3142,6 @@ Giliran 2
 bidang 2
 4:3 2
 برهنتي 2
-bergaduh 2
 لاون 2
 pahlawan 2
 ڤهلاون 2
@@ -4557,7 +4558,6 @@ andai 1
 berbertutur 1
 Twitter 1
 Sikit 1
-je 1
 cerut 1
 pengepit 1
 menjumputnya 1
@@ -7467,3 +7467,8 @@ baran 1
 Kelembapannya 1
 Thierry 1
 Sirius 1
+pasal-pasal 1
+busuk 1
+Silap 1
+jual 1
+kecik 1

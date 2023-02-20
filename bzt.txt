@@ -1,7 +1,7 @@
 es 107
 Eo 75
 rhen 53
-yn 45
+yn 46
 di 37
 Tomos 30
 Ill 28
@@ -44,6 +44,7 @@ wid 5
 Domos 5
 sab 5
 K'lwg 5
+Yn 4
 Gion 4
 gw 4
 gwstr 4
@@ -67,8 +68,8 @@ mulltisaf 4
 can 4
 i 4
 fengib 4
-Yn 3
 rhys 3
+llw 3
 cath 3
 ddef 3
 ai 3
@@ -107,7 +108,6 @@ trui 2
 cathr 2
 ddun 2
 lle 2
-llw 2
 gwenir 2
 eidd 2
 ti 2
@@ -456,3 +456,9 @@ mhodeth 1
 Gwiwer 1
 comathar 1
 cad 1
+dewin 1
+ffagef 1
+Karl 1
+Marx 1
+er-ys 1
+comiwnist 1

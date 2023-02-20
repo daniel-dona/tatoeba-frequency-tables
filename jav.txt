@@ -1,6 +1,6 @@
-Aku 129
-ora 112
-Tom 104
+Aku 130
+ora 113
+Tom 105
 sing 62
 iku 44
 aku 41
@@ -14,8 +14,8 @@ kuwi 26
 basa 25
 ana 24
 lunga 24
+kudu 23
 wis 23
-kudu 22
 menyang 21
 seneng 21
 apa 20
@@ -25,7 +25,8 @@ arep 20
 bakal 19
 dhèwèké 18
 nang 17
-dudu 16
+dudu 17
+Iki 16
 durung 15
 duwé 15
 wong 15
@@ -35,20 +36,19 @@ saka 15
 Aja 14
 Ora 14
 yèn 14
-Iki 13
+mangan 13
 manèh 13
 lan 13
+kaya 13
 ta 13
 Dhéwéké 13
-mangan 12
 weruh 12
 marang 12
-kaya 12
+lagi 12
 Kula 12
 sinau 12
 Mèri 12
 Ana 11
-lagi 11
 gawé 11
 kabèh 11
 buku 11
@@ -76,6 +76,7 @@ sapa 8
 kutha 8
 dadi 8
 kula 7
+ngono 7
 kanggo 7
 Mary 7
 pa 7
@@ -87,9 +88,9 @@ Prancis 7
 apik 6
 isih 6
 kucing 6
-ngono 6
 Kuwi 6
 Sapa 6
+dolanan 6
 paling 6
 mesthi 6
 gelem 6
@@ -102,7 +103,6 @@ awakmu 5
 saben 5
 kanca 5
 lara 5
-dolanan 5
 minggu 5
 ngentèni 5
 Boston 5
@@ -122,6 +122,7 @@ Indhonésia 5
 pasagi 5
 panjenengan 4
 katimbang 4
+aja 4
 apel 4
 tok 4
 jus 4
@@ -129,6 +130,7 @@ pulisi 4
 mlayu 4
 gedhé 4
 metu 4
+nganti 4
 telu 4
 sanga 4
 ngrungokaké 4
@@ -166,7 +168,6 @@ blas 4
 biru 4
 ng 4
 Piyambakipun 3
-aja 3
 abang 3
 pirang 3
 kok 3
@@ -180,7 +181,6 @@ napa 3
 nglakoni 3
 rak 3
 sabanjuré 3
-nganti 3
 mulih 3
 lima 3
 pitu 3
@@ -189,6 +189,7 @@ panggon 3
 guru 3
 mbukak 3
 banjur 3
+Wis 3
 ngudud 3
 kene 3
 roti 3
@@ -281,7 +282,6 @@ kerdusé 2
 ngetokaké 2
 bal 2
 nembé 2
-Wis 2
 kapungkur 2
 mréné 2
 nduwé 2
@@ -425,6 +425,7 @@ péngin 2
 Koréa 2
 Ing 2
 tumbas 2
+pitku 2
 Yanni 2
 prahotoné 2
 payung 2
@@ -1369,7 +1370,6 @@ rèpot 1
 ꦔꦥꦸꦤ꧀ꦠꦼꦤ꧀ ꦏꦸꦭꦱꦥꦸꦤꦶꦏꦠꦏ꧀ꦱꦶꦃꦫꦺꦥꦺꦴꦠ꧀꧈ 1
 Kaos-kaos 1
 ꦏꦲꦺꦴꦱ꧀ꦏꦲꦺꦴꦱ꧀ꦲꦶꦏꦶꦏꦧꦺꦃꦲꦱꦭ꧀ꦭꦺꦱꦏꦔꦼꦤ꧀ꦢꦶ 1
-pitku 1
 ꦲꦶꦏꦶꦥꦶꦠ꧀ꦏꦸꦝꦺꦮꦺ꧉ 1
 pisan 1
 ꦲꦶꦏꦶꦢꦸꦢꦸꦱꦶꦁꦏꦥꦶꦁꦥꦶꦱꦤ꧀꧈ 1
@@ -1685,3 +1685,12 @@ sangalas 1
 ꦲꦏꦸꦫꦧꦶꦥꦱ꧀ꦲꦸꦩꦸꦂꦱꦔꦭꦱ꧀ꦠꦲꦸꦤ꧀꧈ 1
 Celuken 1
 ꦕꦼꦭꦸꦏ꧀ꦏꦼꦤ꧀ꦧꦺꦴꦗꦺꦴꦏꦸ꧉ 1
+bal-balan 1
+ꦠꦺꦴꦩ꧀ꦲꦺꦴꦫꦭꦒꦶꦧꦭ꧀ꦧꦭ꧀ꦭꦤ꧀꧈ 1
+ꦲꦶꦏꦶꦢꦸꦢꦸꦢꦺꦴꦭꦤ꧀ꦤꦤ꧀ 1
+ꦲꦶꦏꦶꦥꦶꦠ꧀ꦏꦸ꧉ 1
+sepédhahku 1
+ꦲꦶꦏꦶꦱꦼꦥꦺꦝꦃꦏꦸ꧉ 1
+dakwanti-wanti 1
+ꦮꦶꦱ꧀ꦢꦏ꧀ꦮꦤ꧀ꦠꦶꦮꦤ꧀ꦠꦶꦲꦗꦔꦤ꧀ꦠꦶꦏꦪꦔꦺꦴꦤꦺꦴ꧉ 1
+ꦲꦏꦸꦏꦸꦢꦸꦩꦔꦤ꧀꧈ 1
