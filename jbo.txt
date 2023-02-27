@@ -9,7 +9,7 @@ le 1940
 se 1864
 na 1587
 be 1312
-i 1258
+i 1259
 ko'a 1233
 ma 1210
 ka 1191
@@ -44,7 +44,7 @@ te 340
 pe 297
 no 276
 ta 269
-e'o 266
+e'o 267
 jai 265
 pa 264
 viska 257
@@ -124,8 +124,8 @@ mu'i 125
 mo'u 125
 zmadu 125
 nakni 123
+troci 122
 so'i 121
-troci 121
 doi 121
 makau 121
 ki'u 120
@@ -2218,6 +2218,7 @@ caksova 3
 bufylos 3
 rebdesygau 3
 stuvi'e 3
+mi'oi 3
 ibabo 3
 kairpau 3
 setmima 3
@@ -2971,7 +2972,6 @@ ju'oinai 2
 fizbu 2
 ue'ipei 2
 gugde'itu 2
-mi'oi 2
 nau'u 2
 nukni 2
 ju'oipei 2

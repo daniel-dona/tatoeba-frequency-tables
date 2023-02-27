@@ -11,11 +11,11 @@ No 76
 איס 73
 esta 69
 una 60
-a 57
+a 58
 La 49
+son 44
 איל 44
-son 43
-Los 40
+Los 41
 Esto 35
 Es 35
 i 34
@@ -70,6 +70,7 @@ ambezando 13
 איסטה 13
 del 12
 Kero 12
+le 12
 vos 12
 portokal 12
 York 12
@@ -78,7 +79,6 @@ Deke 12
 komida 12
 lo 11
 mujer 11
-le 11
 fue 11
 Sami 11
 djudia 11
@@ -96,6 +96,7 @@ ladron 10
 די 10
 Dingunos 10
 קי 10
+arvoles 10
 al 9
 Ladino 9
 A 9
@@ -109,12 +110,12 @@ dos 9
 איסטו 9
 Ke 9
 לאס 9
-arvoles 9
 akodro 8
 Shabat 8
 su 8
 En 8
 avla 8
+kero 8
 tu 8
 kolorada 8
 si 8
@@ -128,7 +129,6 @@ Ester 8
 ebreo 8
 אה 8
 emportantes 8
-kero 7
 vida 7
 Yerushalayim 7
 yamo 7
@@ -170,6 +170,7 @@ problem 6
 afilu 6
 שבת 6
 סי 6
+Miri 6
 emportante 6
 Topa 6
 kayendo 6
@@ -206,6 +207,7 @@ madjar 5
 kastilyano 5
 טייני 5
 yo 5
+Lo 5
 לינגואס 5
 estava 5
 בﬞידרי 5
@@ -214,7 +216,6 @@ portugez 5
 tardjuman 5
 Donald 5
 סומוס 5
-Miri 5
 mishpaha 5
 arabas 5
 ensima 5
@@ -256,7 +257,6 @@ munchas 4
 alkunya 4
 avrio 4
 apoyo 4
-Lo 4
 pertinente 4
 Tiene 4
 amor 4
@@ -1938,3 +1938,6 @@ matando 1
 inosentes 1
 Kurdistan 1
 esnoga 1
+dar 1
+organizmos 1
+bivos 1

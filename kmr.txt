@@ -1,15 +1,15 @@
-Ez 1195
+Ez 1196
 e 1031
 xwe 1029
 ji 987
 min 987
 bi 934
-li 820
-Ew 811
+li 821
+Ew 812
 ê 735
-û 662
+û 663
 ye 637
-ku 603
+ku 604
 Em 543
 Tom 543
 Tu 517
@@ -82,8 +82,8 @@ ve 86
 xweş 86
 nekir 85
 Her 83
+dê 81
 a 80
-dê 80
 çawa 80
 din 77
 Navê 75
@@ -102,7 +102,7 @@ dilê 65
 dikî 63
 tune 63
 mezin 61
-bavê 60
+bavê 61
 Ma 59
 kar 59
 kî 59
@@ -146,11 +146,11 @@ bin 45
 van 42
 hat 42
 tên 42
+Tomî 42
 nû 41
 zêde 41
 bê 41
 çend 41
-Tomî 41
 nake 40
 çima 40
 bibin 40
@@ -261,6 +261,7 @@ yekê 23
 dijî 22
 na 22
 bihîst 22
+nizanim 22
 nayê 22
 tiştek 22
 Saet 22
@@ -269,8 +270,8 @@ fêrî 22
 kesî 22
 dizane 21
 xwendekar 21
-nizanim 21
 nexweş 21
+dijîn 21
 çar 21
 pîroz 21
 paytexta 21
@@ -284,7 +285,6 @@ hinek 20
 dûr 20
 hevalê 20
 serdana 20
-dijîn 20
 sor 20
 hebû 20
 xweşik 20
@@ -393,6 +393,7 @@ dawî 15
 odeya 15
 rêya 15
 hinekî 15
+mîna 15
 çûn 15
 nakî 15
 hestî 15
@@ -417,7 +418,6 @@ Roja 14
 çûm 14
 Pêwîst 14
 zêdetir 14
-mîna 14
 erdê 14
 vekirî 14
 Kê 14
@@ -733,6 +733,7 @@ piř 8
 jîr 8
 piştrast 8
 cihekî 8
+dipeyive 8
 dimîne 8
 darê 8
 polê 8
@@ -826,7 +827,6 @@ dixwe 7
 nefret 7
 Laşê 7
 pak 7
-dipeyive 7
 bimînim 7
 bixwînin 7
 Zarokan 7
@@ -9196,3 +9196,4 @@ gotarekê 1
 krîptopereyan 1
 tewş 1
 nivîsgehê 1
+kamyonvanekî 1

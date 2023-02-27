@@ -1,23 +1,23 @@
-es 5995
-la 5441
-ia 4611
-de 3645
-un 3262
+es 6004
+la 5443
+ia 4613
+de 3646
+un 3266
 ла 2802
 ес 2729
-Me 2448
+Me 2451
 иа 2153
-no 1921
+no 1922
 де 1874
-La 1726
-a 1691
+La 1727
+a 1692
 en 1619
-Tom 1603
+Tom 1604
 ун 1365
 tu 1191
 e 1190
 Ме 1183
-me 1145
+me 1146
 ave 1080
 а 953
 Ла 932
@@ -27,27 +27,27 @@ El 891
 ен 882
 Esce 790
 plu 709
-va 700
+va 701
 sua 663
 ме 662
 ту 655
 multe 649
 el 646
 per 643
-pote 614
+pote 616
 cual 610
 е 596
 esta 595
 аве 564
-mea 560
-lo 560
+mea 561
+lo 561
 Esta 537
 Nos 520
 con 489
 Том 469
 ке 462
-vole 460
-Tu 435
+vole 461
+Tu 436
 ва 417
 casa 404
 Еске 399
@@ -65,7 +65,7 @@ gusta 349
 Lo 347
 меа 345
 par 338
-Mea 327
+Mea 328
 bon 326
 sur 324
 come 321
@@ -87,7 +87,7 @@ grande 255
 cuando 253
 vade 250
 los 250
-ama 241
+ama 242
 tota 241
 o 236
 vive 235
@@ -153,8 +153,8 @@ du 135
 Меа 135
 жуа 134
 коме 134
+Maria 133
 deveni 132
-Maria 132
 ка 132
 парла 131
 ante 130
@@ -244,10 +244,10 @@ crede 88
 Sua 88
 фиа 88
 auto 87
+Cuando 87
 tro 87
 Мариа 87
 favore 86
-Cuando 86
 темпо 86
 cade 85
 pasea 84
@@ -271,23 +271,23 @@ ance 77
 mar 76
 pais 76
 franses 76
+dona 75
+cor 75
 аора 75
 Per 74
 nom 74
-dona 74
-cor 74
 коменса 73
 компра 73
 Sami 73
 studia 72
+ami 72
 анте 72
-ami 71
+linguas 71
 loca 71
 аниос 71
 девени 71
 vea 70
 blanca 70
-linguas 70
 atenta 70
 tenis 70
 flores 69
@@ -417,6 +417,7 @@ familia 47
 recorda 46
 min 46
 cuasi 46
+odia 46
 negra 46
 su 46
 енфантес 46
@@ -429,7 +430,6 @@ tal 45
 ariva 45
 regarda 45
 Ma 45
-odia 45
 семана 45
 авени 45
 дорми 45
@@ -554,6 +554,7 @@ prende 35
 Dona 35
 xerca 35
 re 35
+oposor 35
 рапида 35
 сала 35
 сол 35
@@ -567,7 +568,6 @@ frecuente 34
 te 34
 pico 34
 max 34
-oposor 34
 ge 34
 Татоеба 34
 еспета 34
@@ -675,6 +675,8 @@ donce 28
 variosa 28
 xef 28
 distante 28
+clui 28
+menti 28
 Mostra 28
 New 28
 juores 28
@@ -695,8 +697,6 @@ orgulosa 27
 supra 27
 capital 27
 juas 27
-clui 27
-menti 27
 синко 27
 десира 27
 фамилиа 27
@@ -821,6 +821,7 @@ lado 22
 lete 22
 clar 22
 tren 22
+vivente 22
 esperanto 22
 Oji 22
 avia 22
@@ -852,7 +853,6 @@ intende 21
 permete 21
 Plu 21
 cuanto 21
-vivente 21
 cuantia 21
 Ance 21
 santa 21
@@ -950,6 +950,7 @@ azul 19
 ides 19
 ela 19
 barba 19
+libre 18
 orania 18
 Nion 18
 nomi 18
@@ -1001,7 +1002,6 @@ Velia 18
 mur 17
 longo 17
 plaia 17
-libre 17
 internasional 17
 desembre 17
 apena 17
@@ -1578,6 +1578,7 @@ serca 11
 супрамеркато 11
 суде 11
 жуор 11
+apesta 11
 Ester 11
 бангла 11
 custosa 11
@@ -1598,6 +1599,7 @@ crise 10
 barco 10
 parteni 10
 lundi 10
+ojeto 10
 debil 10
 moderna 10
 donada 10
@@ -1716,7 +1718,6 @@ povre 10
 норде 10
 juntada 10
 jenero 10
-apesta 10
 oportun 10
 vacanse 10
 fies 10
@@ -1739,7 +1740,6 @@ lista 9
 aniversario 9
 asurda 9
 soldatos 9
-ojeto 9
 compara 9
 casos 9
 ceso 9
@@ -1773,6 +1773,7 @@ Asi 9
 ole 9
 acusa 9
 rapidia 9
+Para 9
 secreta 9
 lia 9
 comunia 9
@@ -1815,6 +1816,7 @@ ago 9
 mercato 9
 esente 9
 justia 9
+Unida 9
 лунди 9
 куантиа 9
 Жапан 9
@@ -1892,6 +1894,7 @@ arbo 9
 punios 9
 cartas 8
 Joan 8
+gol 8
 sentenio 8
 arco 8
 adora 8
@@ -1941,7 +1944,6 @@ grado 8
 Enfantes 8
 trovada 8
 sosial 8
-Para 8
 leges 8
 atas 8
 fato 8
@@ -2003,7 +2005,6 @@ contata 8
 Brosi 8
 brosa 8
 labios 8
-Unida 8
 program 8
 acui 8
 фоко 8
@@ -2082,6 +2083,7 @@ lampas 8
 trauma 8
 supradosa 8
 piza 8
+Statos 8
 стонанте 8
 Donald 8
 invita 8
@@ -2103,7 +2105,6 @@ enfantia 7
 franca 7
 creada 7
 George 7
-gol 7
 silente 7
 Mone 7
 junio 7
@@ -2323,7 +2324,6 @@ Basi 7
 comparti 7
 prosimi 7
 claves 7
-Statos 7
 cabe 7
 jus 7
 уман 7
@@ -2431,6 +2431,7 @@ consensia 6
 vosа 6
 inclui 6
 televisador 6
+organismes 6
 reclina 6
 Janeiro 6
 miles 6
@@ -2777,7 +2778,6 @@ veninte 5
 comfortosa 5
 preveni 5
 nadante 5
-organismes 5
 cansela 5
 Evidente 5
 saluta 5
@@ -2853,6 +2853,7 @@ pomos 5
 coraje 5
 pasion 5
 brasileras 5
+fero 5
 - 5
 aviones 5
 proibida 5
@@ -3362,7 +3363,6 @@ sofla 4
 nobil 4
 doles 4
 medios 4
-fero 4
 tanje 4
 evolui 4
 oposa 4
@@ -3746,6 +3746,8 @@ onesta 4
 figures 4
 superior 4
 Mestre 4
+Karl 4
+Marx 4
 Netuno 4
 poeta 4
 asendentes 4
@@ -4268,6 +4270,7 @@ cliente 3
 фолида 3
 нион 3
 комабле 3
+Arbores 3
 регрете 3
 пауса 3
 деструида 3
@@ -4742,7 +4745,9 @@ ecuator 3
 екуатор 3
 force 3
 ronrona 3
+golem 3
 "En 3
+imperaliste 3
 mentes 3
 ментес 3
 Cambia 3
@@ -4790,8 +4795,6 @@ modesta 3
 sub 3
 soreta 3
 e4 3
-Karl 3
-Marx 3
 posas 3
 Куалкун 3
 troglodites 3
@@ -4823,6 +4826,7 @@ injenia 3
 serebral 3
 informas 3
 robotes 3
+Comunisme 3
 Jesus 3
 matematical 3
 Nuri 3
@@ -5242,6 +5246,7 @@ tv 2
 posponeda 2
 fatigante 2
 prometente 2
+Roger 2
 1988 2
 URSS 2
 6-0 2
@@ -5623,7 +5628,6 @@ alia 2
 алиа 2
 портес 2
 спесиес 2
-Arbores 2
 Антартика 2
 altar 2
 Autoriosas 2
@@ -6614,7 +6618,6 @@ emisferas: 2
 емисферас: 2
 дорминте 2
 tigres 2
-golem 2
 вантажоса 2
 пера 2
 помо 2
@@ -6627,7 +6630,6 @@ modos" 2
 "Ен 2
 модос" 2
 retiles 2
-imperaliste 2
 sofiste 2
 berber 2
 itiopian 2
@@ -6964,6 +6966,7 @@ Polisiores 2
 pulmones 2
 muco 2
 Drogas 2
+curvi 2
 gravita 2
 primeval 2
 Scopi 2
@@ -6978,11 +6981,14 @@ muses 2
 pavones 2
 Xico 2
 Асиа 2
+canetas 2
 nonfidable 2
 deta 2
 Autodefende 2
 descorajosi 2
 enganada 2
+Jirafas 2
+lor 2
 noncortesia 2
 merdi 2
 reconstrui 1
@@ -7759,7 +7765,6 @@ fidante 1
 Nadal 1
 sets 1
 Jef 1
-Roger 1
 Federer 1
 tenisores 1
 Pumi 1
@@ -9993,8 +9998,3 @@ prinsipes 1
 Замбиа 1
 Тос 1
 сепе 1
-елиникас 1
-отикал 1
-синематографиал 1
-гомбо 1
-импресада 1

@@ -1,4 +1,4 @@
-ya 1291
+ya 1292
 na 1069
 wa 751
 kwa 695
@@ -13,7 +13,7 @@ sana 173
 Je 168
 kama 151
 wakati 147
-yake 140
+yake 141
 mtu 128
 yangu 127
 Ni 109
@@ -70,8 +70,8 @@ hadi 45
 hili 45
 nchi 44
 muda 44
+ana 44
 njia 43
-ana 43
 vya 43
 karibu 43
 kupata 42
@@ -113,9 +113,9 @@ gani 32
 mbili 32
 si 32
 hata 32
+Mungu 32
 huo 32
 habari 31
-Mungu 31
 shule 31
 maisha 31
 hali 31
@@ -130,13 +130,13 @@ kabla 29
 nani 28
 nyumbani 28
 wao 28
+hapo 28
 Japan 28
 nje 28
 tano 28
 tena 28
 hatari 28
 mambo 27
-hapo 27
 maji 27
 lake 27
 mtoto 27
@@ -184,6 +184,7 @@ duka 23
 biashara 23
 pesa 23
 Watu 22
+Wewe 22
 lugha 22
 mwaka 22
 Asante 22
@@ -198,7 +199,6 @@ hakuna 22
 fulani 22
 yeyote 22
 gari 21
-Wewe 21
 jina 21
 Hii 21
 zamani 21
@@ -325,7 +325,6 @@ Boston 14
 kuzungumza 14
 kujua 14
 una 14
-hakika 14
 tisa 14
 utani 14
 msichana 14
@@ -355,6 +354,7 @@ Ningependa 13
 Jina 13
 kufa 13
 paka 13
+hakika 13
 vitabu 13
 Rafiki 13
 wiki 13
@@ -532,6 +532,7 @@ siri 9
 chokoleti 9
 Mbona 9
 kahawa 9
+uhakika 9
 asili 9
 Urusi 9
 Leo 9
@@ -598,7 +599,6 @@ kompyuta 8
 bunduki 8
 adui 8
 Tunaweza 8
-uhakika 8
 ipo 8
 unajua 8
 mingi 8
@@ -669,6 +669,7 @@ Hata 8
 kurudi 8
 kuondoka 8
 ambacho 8
+ndoto 8
 Nilidhani 8
 chache 8
 Sehemu 8
@@ -766,7 +767,6 @@ taifa 7
 fedha 7
 unafikiria 7
 safi 7
-ndoto 7
 wowote 7
 angalau 7
 mtandao 7
@@ -787,6 +787,7 @@ maziwa 6
 Tom 6
 mdomo 6
 hasira 6
+benki 6
 Mwanamke 6
 mweupe 6
 mtihani 6
@@ -798,6 +799,7 @@ meza 6
 mchezaji 6
 miji 6
 rasmi 6
+zina 6
 Huyu 6
 mkewe 6
 Napenda 6
@@ -908,6 +910,7 @@ kuendelea 6
 Huu 6
 Hivyo 6
 maamuzi 6
+nywele 6
 Wacha 6
 Wote 5
 Jack 5
@@ -922,7 +925,6 @@ Hujambo 5
 Anatoka 5
 jikoni 5
 pombe 5
-benki 5
 kanisani 5
 mwanafunzi 5
 mazuri 5
@@ -931,7 +933,6 @@ Ninajua 5
 bahari 5
 Mary 5
 meno 5
-zina 5
 magumu 5
 wanaishi 5
 York 5
@@ -1030,6 +1031,7 @@ mechi 5
 harusi 5
 ndoa 5
 lina 5
+majina 5
 Nitakuwa 5
 wakubwa 5
 wikendi 5
@@ -1094,7 +1096,6 @@ sarafu 5
 chungu 5
 kufurahisha 5
 nadhani 5
-nywele 5
 kuchoma 5
 Nilifikiri 5
 Nimekuwa 5
@@ -1283,7 +1284,6 @@ Hatuwezi 4
 zenye 4
 hela 4
 ilianza 4
-majina 4
 kupita 4
 Mataifa 4
 Jana 4
@@ -2849,7 +2849,6 @@ Walinzi 2
 Uswizi 2
 Nipigie 2
 Huenda 2
-Benki 2
 zilizopita 2
 ushawishi 2
 yai 2
@@ -5610,8 +5609,7 @@ kaboni 1
 ulifanywa 1
 naotea 1
 ningeweza 1
-Nita 1
-kufanyia 1
+Nitakufanyia 1
 Nitakupa 1
 Nitakuona 1
 Kujua 1
@@ -5729,7 +5727,6 @@ kuchanganya 1
 jingine 1
 itajikula 1
 atacheza 1
-Wewew 1
 kuchaa 1
 Caleb 1
 ameifahamu 1
@@ -6066,7 +6063,6 @@ Alipigiwa 1
 Ufalme 1
 nimechoka 1
 Nitalala 1
-ndotoi 1
 utembelee 1
 Makumbusho 1
 Imperial 1
@@ -6364,7 +6360,6 @@ tusirudi 1
 kuiamini 1
 utahitaji 1
 nimeisuluhisha 1
-yaje 1
 alichopokea 1
 kofi 1
 kifundo 1
@@ -6524,7 +6519,6 @@ kiitalia 1
 imekimya 1
 unazungumza 1
 Mutakuwepo 1
-hap 1
 ikanyesha 1
 lilifungiwa 1
 Mabenki 1
@@ -6771,7 +6765,6 @@ Tajiri 1
 amenunua 1
 yangua 1
 boriti 1
-mungu 1
 Ukweli 1
 yaliyosalia 1
 imesalia 1
@@ -6817,7 +6810,6 @@ kasi" 1
 linalojulikana 1
 lilianzishwa 1
 Luke 1
-ananywele 1
 Mtaangaziea 1
 Clara 1
 tujikite 1
@@ -7090,7 +7082,7 @@ Imeaanza 1
 Sarafu 1
 zilipatikana 1
 O 1
-mwanasesere 1
+wanasesere 1
 Mashabiki 1
 Ulikunywa 1
 sijafika" 1
@@ -7112,7 +7104,6 @@ kugharimu 1
 tanki 1
 Usibishane 1
 Kuta 1
-zinamajina 1
 yanayoanzia 1
 "Y" 1
 Nikiwazia 1
@@ -7921,6 +7912,7 @@ Hutaipenda 1
 tutafika 1
 tunauwezo 1
 Nilituma 1
+Benki 1
 ilifungua 1
 Hill 1
 watakalozungumzia 1
@@ -8242,7 +8234,6 @@ huundaje 1
 inadhibitiwa 1
 intaneti 1
 Ninaelewa 1
-a 1
 kumwonesha 1
 bosi 1
 aliogopa 1
