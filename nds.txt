@@ -1,22 +1,22 @@
-Ik 3205
-is 3202
-dat 2772
-en 2508
-de 2467
-nich 1936
-du 1682
+Ik 3206
+is 3204
+dat 2774
+en 2509
+de 2469
+nich 1938
+du 1683
 hett 1597
 He 1472
 in 1454
 De 1400
 to 1320
-Dat 1271
+Dat 1272
 heff 1250
-ik 1218
+ik 1220
 Se 1150
 ’n 1073
 mi 1054
-un 880
+un 881
 von 844
 mit 773
 as 771
@@ -25,8 +25,8 @@ di 657
 an 650
 em 648
 na 638
-mien 617
-sünd 605
+mien 618
+sünd 606
 Tom 600
 wat 541
 weer 529
@@ -39,8 +39,8 @@ hebbt 485
 sien 478
 för 463
 ehr 463
+keen 451
 Du 450
-keen 450
 deed 441
 kann 437
 ’t 420
@@ -60,11 +60,11 @@ harr 286
 Huus 285
 üm 281
 vör 260
-man 256
+man 257
 bi 256
 uns 255
 wi 252
-al 250
+al 251
 twee 250
 ji 248
 mehr 247
@@ -80,15 +80,15 @@ gahn 225
 weet 222
 Disse 214
 maakt 212
+warrt 208
 En 208
-warrt 207
 jümmer 205
 Hest 204
 hier 201
 sehn 201
 wenn 199
+büst 199
 Worüm 199
-büst 198
 doon 187
 Geld 187
 mutt 186
@@ -97,7 +97,7 @@ jüst 178
 wesen 176
 seggt 173
 schall 171
-geiht 168
+geiht 169
 temlich 164
 lang 164
 Wenn 162
@@ -107,9 +107,9 @@ dree 159
 all 155
 In 155
 Ria 155
+Lüüd 154
 wull 154
 eten 154
-Lüüd 153
 dit 152
 Hund 151
 nu 150
@@ -118,7 +118,7 @@ ook 145
 Vader 144
 Is 144
 worrn 144
-denn 142
+denn 143
 ’Keen 140
 Dag 139
 Dor 139
@@ -139,9 +139,9 @@ School 116
 Woveel 114
 Dit 112
 Woneem 111
+wedder 111
 beten 110
 vondaag 110
-wedder 109
 güstern 108
 wo 108
 kamen 105
@@ -152,8 +152,8 @@ noog 101
 Katt 100
 geven 99
 warrn 99
+Süster 98
 Kannst 98
-Süster 97
 faken 97
 morgen 97
 Broder 97
@@ -262,12 +262,12 @@ Vondaag 58
 grötter 58
 Sünn 58
 Eten 57
+ünner 57
 steiht 57
 maal 57
 toveel 57
 Disch 56
 ganz 56
-ünner 56
 doch 56
 See 56
 schull 56
@@ -335,12 +335,12 @@ Hett 46
 Fraag 45
 goden 45
 Blomen 45
+Nu 44
 gode 44
 Mary 44
 laten 44
 licht 44
 Un 44
-Nu 43
 snack 43
 wied 43
 söss 43
@@ -422,6 +422,7 @@ dal 35
 Wöör 34
 Nee 34
 Gesicht 34
+lopen 34
 anropen 34
 hoog 34
 woneem 34
@@ -431,7 +432,6 @@ söcht 34
 Dochter 33
 woll 33
 Wees 33
-lopen 33
 verköfft 33
 neet 33
 töven 33
@@ -545,6 +545,7 @@ höör 27
 Geev 27
 Villicht 27
 wäsen 27
+up 26
 John 26
 Hotel 26
 jünger 26
@@ -567,7 +568,6 @@ lööv 26
 swart 26
 besöcht 26
 Man 25
-up 25
 düüster 25
 Baby 25
 Laden 25
@@ -584,6 +584,7 @@ lööp 25
 Füür 25
 Geschicht 25
 Romaan 25
+segg 25
 do 24
 Holt 24
 seh 24
@@ -605,7 +606,6 @@ Allens 24
 Tasch 24
 Luft 24
 Supp 24
-segg 24
 us 23
 Woans 23
 Sucker 23
@@ -701,6 +701,7 @@ Tatoeba 20
 passt 20
 passeert 20
 free 20
+blot 20
 dörtig 20
 Stohl 20
 singen 20
@@ -724,7 +725,6 @@ Wüllt 19
 Jack 19
 wiest 19
 schasst 19
-blot 19
 Tante 19
 kaakt 19
 Oh 19
@@ -747,6 +747,7 @@ Stück 19
 Nees 19
 giern 19
 To 18
+tau 18
 bannig 18
 dumm 18
 legen 18
@@ -826,7 +827,6 @@ arm 17
 starven 17
 gröttste 17
 Solt 16
-tau 16
 Maandag 16
 Wohrheit 16
 ankeken 16
@@ -1089,6 +1089,7 @@ kümmt 12
 Döchter 11
 Maschien 11
 Moin 11
+Use 11
 use 11
 Saak 11
 CD 11
@@ -1167,7 +1168,6 @@ up’n 10
 setten 10
 et 10
 Stadt 10
-Use 10
 Sett 10
 Reken 10
 Fever 10
@@ -1260,6 +1260,7 @@ Düt 9
 Markt 9
 Broer 9
 Hüüs 9
+düt 9
 n 9
 stark 9
 Vigelien 9
@@ -1350,7 +1351,6 @@ Appeln 9
 hüüt 9
 Fru 9
 grood 9
-düt 8
 opdeckt 8
 Toorn 8
 rieden 8
@@ -1433,6 +1433,7 @@ steken 8
 vörn 8
 Lööw 8
 Knienken 8
+Vun 8
 winnt 8
 weerd 8
 Born 8
@@ -1475,6 +1476,7 @@ Schüün 8
 Wuddeln 8
 naakd 8
 Fro 8
+sülvst 8
 in’e 8
 antogen 8
 läsen 8
@@ -1571,7 +1573,6 @@ Bodden 7
 Priesen 7
 Weltkrieg 7
 twete 7
-Vun 7
 Däänmark 7
 Korv 7
 200 7
@@ -1627,7 +1628,6 @@ enen 7
 Inge 7
 see 7
 Woort 7
-sülvst 7
 kört 7
 Bett 7
 vun’n 7
@@ -1842,6 +1842,7 @@ mal 6
 dropen 6
 ju 6
 oft 6
+koolt 6
 Lamm 6
 vergäten 6
 Fähler 6
@@ -1944,6 +1945,7 @@ Dick 5
 Börgermeester 5
 harter 5
 Tell 5
+Piep 5
 kümmert 5
 Meg 5
 Platen 5
@@ -2112,13 +2114,13 @@ mit’n 5
 freuh 5
 passert 5
 teemlich 5
-koolt 5
 polter 5
 gäven 5
 Tiet 5
 säen 5
 Wœr 5
 bäten 5
+gohn 5
 twe 4
 Buer 4
 brukt 4
@@ -2262,7 +2264,6 @@ Gott 4
 Jan 4
 Bott 4
 vörher 4
-Piep 4
 Kugel 4
 versöch 4
 Volleyball 4
@@ -2421,6 +2422,7 @@ Mütz 4
 Keerls 4
 pack 4
 Prinzess 4
+Warr 4
 Leeg 4
 rönnt 4
 kennentolehren 4
@@ -2554,7 +2556,6 @@ gläuv 4
 Diutschland 4
 Kœk 4
 Wogen 4
-gohn 4
 vandage 3
 Kraft 3
 Sabbel 3
@@ -3267,6 +3268,7 @@ Profilbild 3
 Wœrst 3
 Ännerung 3
 kaputtmookt 3
+Nover 3
 wohnt 3
 utslopen 3
 holpen 3
@@ -3951,7 +3953,6 @@ Kraag 2
 Jöögd 2
 stören 2
 Karsbeern 2
-Warr 2
 wieser 2
 Wohrschienlich 2
 Klamotten 2
@@ -4641,6 +4642,7 @@ schaden 2
 utsluten 2
 rinlaten 2
 slimm 2
+Meer 2
 Ne’e 2
 Formaat 2
 rutfinnen 2
@@ -4674,6 +4676,7 @@ glieke 2
 eene 2
 „Moin 2
 glövt 2
+schrieft 2
 beindrucken 2
 Tippfehlers 2
 Rias 2
@@ -4807,7 +4810,6 @@ slo 2
 angräpen 2
 Finsterschiev 2
 greut 2
-Nover 2
 afsloon 2
 Vogels 2
 kœr 2
@@ -4824,6 +4826,8 @@ Ingland 2
 Füerwehr 2
 læst 2
 bediut 2
+wiel 2
+künnen 2
 Viël 1
 vötälen 1
 totolustern 1
@@ -9353,7 +9357,6 @@ Tofällig 1
 verlorene 1
 Lehrbook 1
 indeelt 1
-Meer 1
 Papegai 1
 slimmste 1
 Wettst 1
@@ -9788,7 +9791,6 @@ Woolden 1
 Oslo 1
 Norwegen 1
 schriffst 1
-schrieft 1
 Peerschboom 1
 versocht 1
 vertellt“ – 1
@@ -9996,5 +9998,3 @@ Trau 1
 keinem 1
 Ochsen 1
 Pferd 1
-hinten 1
-Seiten 1

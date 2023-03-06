@@ -1,6 +1,6 @@
 est 9479
-et 4622
-in 4231
+et 4621
+in 4232
 Thomas 3324
 non 3193
 sunt 2073
@@ -17,9 +17,9 @@ tibi 923
 Maria 920
 cum 900
 de 841
-Ubi 812
+Ubi 811
 Quid 769
-es 735
+es 734
 se 723
 In 685
 Didymus 685
@@ -35,7 +35,7 @@ erat 548
 a 548
 meus 520
 sed 512
-Cur 484
+Cur 485
 Hoc 472
 Et 455
 Hic 446
@@ -66,7 +66,7 @@ Estne 326
 super 324
 domum 306
 hic 303
-ubi 301
+ubi 300
 possum 298
 ab 297
 nunc 295
@@ -131,8 +131,8 @@ enim 196
 vult 194
 nec 193
 quoque 190
+habitat 190
 vis 189
-habitat 189
 tam 189
 Omnes 188
 quia 185
@@ -427,13 +427,13 @@ Dīcit 74
 Cumque 74
 decem 73
 vivere 73
+Italia 73
 domo 73
 pueri 73
 Salve 73
 velim 73
 sic 73
 fuisse 72
-Italia 72
 faciam 72
 illum 72
 Ei 72
@@ -1121,7 +1121,6 @@ iussit 30
 altera 29
 Panem 29
 octo 29
-eris 29
 montes 29
 oves 29
 mentem 29
@@ -1153,6 +1152,7 @@ Abram 29
 excitat 28
 An 28
 Romani 28
+eris 28
 Difficile 28
 fortis 28
 ferro 28
@@ -1361,7 +1361,6 @@ Una 24
 animus 24
 regnum 24
 da 24
-Graecia 24
 quadraginta 24
 dono 24
 utile 24
@@ -1433,6 +1432,7 @@ lupus 23
 fili 23
 vox 23
 Video 23
+Graecia 23
 rosae 23
 spes 23
 pulchrae 23
@@ -5040,6 +5040,7 @@ Filio 6
 iverunt 6
 vendidit 6
 piscina 6
+Papa 6
 Petri 6
 lentius 6
 Mirum 6
@@ -5130,6 +5131,7 @@ sexagesimi 6
 quarto 6
 Novembris 6
 poteris 6
+incepit 6
 adiuva 6
 iratum 6
 habuissem 6
@@ -5176,6 +5178,7 @@ parens 6
 hoste 6
 amoris 6
 teneo 6
+litterarum 6
 conscientia 6
 atomicus 6
 metalla 6
@@ -5872,7 +5875,6 @@ bibliopolio 5
 electronicam 5
 aspeximus 5
 forica 5
-Papa 5
 somniavi 5
 pulchræ 5
 advenis 5
@@ -5966,7 +5968,6 @@ inviset 5
 Scilicet 5
 negotiator 5
 casa 5
-incepit 5
 functus 5
 oblītus 5
 Numeri 5
@@ -6045,7 +6046,6 @@ circiter 5
 vilius 5
 oritur 5
 antiqui 5
-litterarum 5
 Iesum 5
 Novistine 5
 Cuncta 5

@@ -4,10 +4,10 @@ Tom 304
 iton 277
 an 260
 hi 257
-hin 238
+hin 239
 ko 231
 ako 212
-na 194
+na 195
 ka 183
 han 155
 hiya 137
@@ -44,7 +44,7 @@ kan 41
 kami 39
 maaram 39
 dírì 38
-kita 37
+kita 38
 para 36
 yana 36
 Mary 34
@@ -976,6 +976,7 @@ magselos 2
 ka-oras 2
 nasod 2
 Permanente 2
+gasolina 2
 bukid 2
 Tipakadto 2
 Mag-asawa 2
@@ -1083,6 +1084,7 @@ Hulat 2
 Balit 2
 Tana 2
 Liko 2
+Agidaw 2
 naglabot 2
 Mapaso 2
 Gin-mingaw 2
@@ -2539,7 +2541,6 @@ ginbayaan 1
 igkíta 1
 súgad 1
 Pumalít 1
-gasolina 1
 kantidad 1
 kwarenta 1
 makakaabót 1
@@ -3262,7 +3263,6 @@ wala 1
 Patuo 1
 tuo 1
 Umuran 1
-Agidaw 1
 Aguy 1
 Bughat 1
 Tukdaw 1
@@ -3531,3 +3531,4 @@ i-sara 1
 Talagsa 1
 Magmamakuri 1
 ginlalamba 1
+Naiimuran 1

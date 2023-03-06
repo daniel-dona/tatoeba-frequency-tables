@@ -1,5 +1,5 @@
-að 3799
-er 3111
+að 3802
+er 3112
 Ég 2280
 í 2065
 á 1673
@@ -22,7 +22,7 @@ Við 505
 fyrir 505
 um 480
 af 450
-eru 446
+eru 449
 mér 429
 en 428
 þér 414
@@ -75,7 +75,7 @@ gær 120
 segja 118
 mikið 117
 Er 117
-Þau 114
+Þau 115
 upp 113
 fór 112
 úr 111
@@ -167,6 +167,7 @@ borða 57
 hjá 56
 tíu 56
 gert 56
+rétt 56
 ár 55
 inn 55
 sjá 55
@@ -177,7 +178,6 @@ ykkur 54
 mína 53
 mundi 53
 hérna 53
-rétt 53
 þeim 52
 fólk 52
 verða 52
@@ -195,11 +195,11 @@ minni 49
 þína 49
 lengur 48
 góð 47
+Þeir 47
 varð 47
 ensku 47
 elska 46
 vildi 46
-Þeir 46
 öll 46
 gaman 46
 enginn 46
@@ -290,6 +290,7 @@ sitt 34
 þennan 34
 þarna 34
 ennþá 34
+Þær 34
 virðist 33
 sex 33
 hægt 33
@@ -303,7 +304,6 @@ hver 33
 tungumál 33
 allir 33
 hvar 33
-Þær 33
 húsið 32
 besta 32
 fyrr 32
@@ -345,6 +345,7 @@ hvaða 29
 búin 29
 horfa 28
 snemma 28
+byrja 28
 hingað 28
 hélt 28
 mínu 28
@@ -389,7 +390,6 @@ engu 26
 rangt 26
 meðan 26
 vinur 26
-byrja 25
 fann 25
 hús 25
 aðeins 25
@@ -912,6 +912,7 @@ sækja 11
 hendurnar 11
 saga 11
 urðu 11
+borg 11
 tækifæri 11
 Haltu 11
 opnar 11
@@ -998,7 +999,6 @@ spyrja 10
 Gæti 10
 markaðinn 10
 þekkja 10
-borg 10
 langaði 10
 Boston 9
 enska 9

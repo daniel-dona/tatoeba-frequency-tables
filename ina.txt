@@ -1,17 +1,17 @@
-le 12756
-es 7874
-de 6786
-un 6759
-Le 4771
+le 12758
+es 7878
+de 6788
+un 6761
+Le 4772
 ha 4677
-in 4279
+in 4281
 que 3822
 non 3647
-Io 3441
+Io 3442
 del 2928
 e 2912
 a 2623
-tu 2155
+tu 2156
 Ille 1787
 me 1561
 io 1557
@@ -21,11 +21,11 @@ se 1499
 Il 1430
 pro 1356
 lo 1261
-Tom 1251
+Tom 1253
 con 1215
 plus 1208
 ille 1191
-vos 1076
+vos 1077
 esseva 1064
 nos 949
 pote 946
@@ -47,7 +47,7 @@ habeva 568
 Esque 554
 vole 550
 debe 539
-Isto 522
+Isto 524
 tempore 515
 illo 508
 Que 503
@@ -100,8 +100,8 @@ tanto 258
 Deo 258
 vostre 256
 anglese 248
+ancora 248
 apud 248
-ancora 247
 dicer 245
 A 240
 lor 240
@@ -125,8 +125,8 @@ morte 206
 haber 204
 la 201
 libro 199
-Es 197
-son 197
+Es 199
+son 199
 nove 193
 persona 193
 nihil 192
@@ -167,7 +167,7 @@ alicun 158
 sta 157
 ver 157
 fin 156
-vive 154
+vive 155
 parolas 154
 importante 153
 infantes 153
@@ -296,13 +296,13 @@ deman 87
 television 87
 luna 87
 ibi 87
+Boston 87
 semper 87
 vidite 86
 Multe 86
 habera 86
 comenciava 86
 illos 86
-Boston 86
 Thomas 86
 alteres 84
 celo 83
@@ -338,11 +338,11 @@ pena 76
 anima 76
 alcun 75
 vetule 75
+gente 75
 nonne 75
 historia 74
 heri 74
 debeva 74
-gente 74
 lecto 74
 cammino 74
 Illas 74
@@ -434,13 +434,14 @@ verso 58
 veniva 58
 comencia 58
 quanto 58
+habita 58
 senti 58
 via 58
 Marte 58
 volerea 57
 tassa 57
 comprava 57
-habita 57
+strata 57
 Con 57
 usa 57
 arte 57
@@ -448,7 +449,6 @@ re 57
 simplemente 57
 aere 56
 Vole 56
-strata 56
 insimul 56
 viage 56
 creder 56
@@ -621,6 +621,7 @@ Parla 41
 pisce 41
 costa 41
 parentes 41
+animales 41
 pomo 41
 unic 41
 traduction 41
@@ -632,7 +633,6 @@ glauchette 41
 dormi 40
 placerea 40
 sentiva 40
-animales 40
 parlava 40
 Vostre 40
 passa 40
@@ -717,6 +717,7 @@ calide 35
 Japon 35
 inimico 35
 Face 35
+caseo 35
 scribite 35
 aves 35
 mangiate 35
@@ -730,7 +731,6 @@ equal 34
 rememora 34
 completemente 34
 Ben 34
-caseo 34
 capital 34
 occupate 34
 partiva 34
@@ -824,6 +824,7 @@ maladia 30
 triste 30
 studentes 30
 partita 30
+structura 30
 germano 30
 principal 30
 Nihil 30
@@ -850,7 +851,6 @@ corbe 29
 succedeva 29
 fructos 29
 equipa 29
-structura 29
 sentir 29
 felicitate 29
 societate 29
@@ -975,6 +975,7 @@ mense 25
 Canada 25
 cognoscite 25
 stellas 25
+sage 25
 hiberno 25
 gelato 25
 optime 25
@@ -1006,7 +1007,6 @@ cambiar 24
 venira 24
 fumar 24
 appellate 24
-sage 24
 ave 24
 pone 24
 factos 24
@@ -1504,6 +1504,7 @@ rumpite 16
 signal 16
 cultello 16
 exister 16
+judee 16
 hospital 16
 talento 16
 lectiones 16
@@ -1514,6 +1515,7 @@ reguardo 16
 producto 16
 frequentia 16
 deos 16
+princessa 16
 prision 16
 official 16
 urso 16
@@ -1602,7 +1604,6 @@ visage 15
 montes 15
 oculo 15
 Mundial 15
-princessa 15
 enoia 15
 viagia 15
 recente 15
@@ -1678,7 +1679,6 @@ arbitro 14
 kilometros 14
 Guerra 14
 menti 14
-judee 14
 paradiso 14
 entra 14
 occidental 14
@@ -2549,6 +2549,7 @@ parlantes 9
 Saussure 9
 violetta 9
 Son 9
+Cattos 9
 Jehovah 9
 jornalista 8
 dotate 8
@@ -2793,7 +2794,6 @@ amerindian 8
 Cortez 8
 Dr 8
 Fadil 8
-Cattos 8
 Buddhistas 8
 indigene 8
 Thailandia 8
@@ -2806,6 +2806,7 @@ leader 7
 divider 7
 essential 7
 Patre 7
+duce 7
 Ken 7
 includite 7
 anxie 7
@@ -3161,7 +3162,6 @@ pronunciar 6
 ursos 6
 applica 6
 regno 6
-duce 6
 judicar 6
 inundate 6
 aurora 6

@@ -1,7 +1,7 @@
 i 17
 Im 10
 Iarwain 8
-I 5
+I 6
 Gi 4
 ned 4
 Menel 4
@@ -17,6 +17,7 @@ a 3
 min 3
 Aníron 3
 barf 3
+amar 3
 gallon 3
 síla 2
 lû 2
@@ -49,7 +50,6 @@ gordof 2
 aes 2
 Lasto 2
 raug 2
-amar 2
 im 2
 ithron 2
 Suilannad 1
@@ -227,3 +227,4 @@ lhaew 1
 ú-ngorth 1
 Galadhath 1
 cuiar 1
+waith 1

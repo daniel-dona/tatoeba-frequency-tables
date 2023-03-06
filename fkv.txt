@@ -1,4 +1,4 @@
-oon 204
+oon 205
 Se 33
 ei 30
 ja 27
@@ -173,6 +173,7 @@ kova 2
 ulos 2
 lukkee 2
 olthiin 2
+nousi 2
 antoi 2
 Kirja 2
 Tervettulemaa 2
@@ -543,7 +544,6 @@ hermostunheet 1
 kulkkee 1
 tie 1
 Kaskiruis 1
-nousi 1
 orhaale 1
 naapureileki 1
 Tänä 1
@@ -1310,3 +1310,8 @@ muuttui 1
 värremäksi 1
 Hans 1
 heräsi 1
+Kalanpyyttääjiitten 1
+määrä 1
+Työkalukassissa 1
+saranallinen 1
+kansi 1

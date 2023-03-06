@@ -1,4 +1,4 @@
-es 249
+es 251
 un 136
 Tom 128
 El 101
@@ -12,14 +12,14 @@ No 76
 esta 69
 una 60
 a 58
-La 49
-son 44
+La 51
+son 46
 איל 44
-Los 41
+Los 42
+Es 36
 Esto 35
-Es 35
+los 35
 i 34
-los 34
 ke 32
 Me 32
 און 32
@@ -55,6 +55,7 @@ kaza 15
 Somos 15
 Tengo 15
 מי 15
+del 14
 inglez 14
 djudios 14
 mansana 14
@@ -68,7 +69,6 @@ era 13
 mora 13
 ambezando 13
 איסטה 13
-del 12
 Kero 12
 le 12
 vos 12
@@ -95,6 +95,7 @@ Se 10
 ladron 10
 די 10
 Dingunos 10
+Ke 10
 קי 10
 arvoles 10
 al 9
@@ -108,7 +109,6 @@ paras 9
 moendiz 9
 dos 9
 איסטו 9
-Ke 9
 לאס 9
 akodro 8
 Shabat 8
@@ -119,6 +119,7 @@ kero 8
 tu 8
 kolorada 8
 si 8
+gatos 8
 ayi 8
 Moro 8
 Komo 8
@@ -132,7 +133,6 @@ emportantes 8
 vida 7
 Yerushalayim 7
 yamo 7
-gatos 7
 Tu 7
 ermano 7
 Maria 7
@@ -226,6 +226,7 @@ muncho 4
 bivir 4
 Ken 4
 ojos 4
+mijor 4
 ambezarme 4
 kozas 4
 amigos 4
@@ -297,7 +298,6 @@ amariya 3
 kolay 3
 Su 3
 Boston 3
-mijor 3
 ombre 3
 plazer 3
 Estó 3
@@ -547,6 +547,8 @@ muerto 2
 פינסו 2
 דונקי 2
 virus 2
+puerpo 2
+kuerpo 2
 vedra 2
 Internet 2
 koza 2
@@ -702,9 +704,12 @@ aborese 2
 Gan 2
 Eden 2
 repoze 2
+pasharos 2
 Buen 2
 בואין 2
 dia 2
+neshama 2
+alma 2
 איפשטיין 2
 byervos 2
 Aboresko 2
@@ -725,6 +730,7 @@ Osmanli 2
 אמור 2
 sinema 2
 gizo 2
+ansi 2
 Unos 2
 bolan 2
 Djuga 2
@@ -744,6 +750,7 @@ demandes 2
 demandesh 2
 deke 2
 planto 2
+diferente 2
 Deké 1
 tenésh 1
 kara 1
@@ -1046,8 +1053,6 @@ uniko 1
 קולוראדֿה 1
 tambien 1
 eskriviendo 1
-puerpo 1
-kuerpo 1
 pronto 1
 dezir 1
 nadara 1
@@ -1712,7 +1717,6 @@ miel 1
 Engels 1
 neviim 1
 muerta 1
-pasharos 1
 reales 1
 Inyea 1
 Refua 1
@@ -1725,8 +1729,6 @@ tienes 1
 Uvo 1
 tentativa 1
 Akordamos 1
-neshama 1
-alma 1
 Leila 1
 djoven 1
 naivo 1
@@ -1834,7 +1836,6 @@ Gizavas 1
 Gizavash 1
 malo 1
 grave 1
-ansi 1
 Ansi 1
 Araba 1
 Lava 1
@@ -1941,3 +1942,4 @@ esnoga 1
 dar 1
 organizmos 1
 bivos 1
+animales 1
