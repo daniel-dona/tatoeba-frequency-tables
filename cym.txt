@@ -1,4 +1,4 @@
-yn 540
+yn 545
 i 333
 Mae 277
 y 193
@@ -17,7 +17,7 @@ ti'n 69
 a 68
 Mae'r 66
 yr 66
-chi 64
+chi 65
 hi'n 64
 fy 62
 bod 60
@@ -50,6 +50,7 @@ hwn 26
 fi 25
 Mae'n 25
 meddwl 25
+di 24
 gen 24
 hynny 24
 fel 23
@@ -57,7 +58,6 @@ ydy 23
 ôl 23
 bwyta 23
 dod 22
-di 22
 gan 22
 yma 22
 gwneud 22
@@ -71,6 +71,7 @@ dim 19
 o'n 19
 da 19
 cael 18
+dda 18
 gallu 18
 Oes 18
 mae 18
@@ -85,7 +86,6 @@ ysgol 17
 Rhaid 17
 nhw'n 17
 Sami 17
-dda 16
 A 16
 rhy 16
 dysgu 16
@@ -134,6 +134,7 @@ gath 11
 oedd 11
 fawr 11
 dweud 11
+os 11
 edrych 11
 Mari 11
 Mennad 11
@@ -170,7 +171,6 @@ yfory 9
 plant 9
 nawr 9
 Bydd 9
-os 9
 lle 9
 mwynhau 9
 bydd 9
@@ -214,6 +214,7 @@ at 7
 Dim 7
 wythnos 7
 hyd 7
+gwelwch 7
 heb 7
 anrheg 7
 i’n 7
@@ -235,6 +236,7 @@ nos 6
 rhywbeth 6
 weld 6
 gyfer 6
+fwy 6
 Os 6
 Un 6
 oer 6
@@ -282,7 +284,6 @@ bara 5
 ateb 5
 Ni 5
 Dwi'n 5
-gwelwch 5
 'na 5
 Hwyl 5
 hefyd 5
@@ -409,6 +410,7 @@ rhech 4
 neithiwr 4
 Dwedodd 4
 gardd 4
+araf 4
 cas 4
 pensiliau 4
 Welai 4
@@ -460,7 +462,6 @@ goch 3
 lliw 3
 tywydd 3
 dosbarth 3
-fwy 3
 nag 3
 aeth 3
 ffrindiau 3
@@ -580,6 +581,8 @@ fenthyg 3
 pren 3
 mesur 3
 banciau 3
+ail 3
+adrodd 3
 Nghaerdydd 2
 Es 2
 garu 2
@@ -957,6 +960,7 @@ gwlad 2
 Prynhawn 2
 Helô 2
 Blwyddyn 2
+Wnei 2
 Loegr 1
 gysgodd 1
 baban 1
@@ -2317,7 +2321,6 @@ lwyddo 1
 ymddeoliad 1
 llond 1
 bol 1
-araf 1
 gysylltu 1
 Megan 1
 rhieni'n 1
@@ -2514,3 +2517,5 @@ brys 1
 ydy'ch 1
 Wn 1
 Dda 1
+Wnewch 1
+plîs 1

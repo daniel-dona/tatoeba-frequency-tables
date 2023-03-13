@@ -22,10 +22,12 @@ eli 8
 hänen 8
 hyvin 7
 Mitä 6
+Kiitos 6
 hyvvää 6
 Ei 6
 ollu 6
 kolme 6
+paljon 6
 Tässä 6
 päivää 5
 en 5
@@ -44,7 +46,6 @@ Kunka 4
 mennee 4
 pääkaupunki 4
 Norjan 4
-Kiitos 4
 nimi 4
 piä 4
 sen 4
@@ -55,7 +56,6 @@ Kaikki 4
 vanhaa 4
 viisi 4
 tuli 4
-paljon 4
 tärkkee 4
 kahđeksen 4
 yhđeksen 4
@@ -170,6 +170,7 @@ olema 2
 olin 2
 Isä 2
 kova 2
+Mies 2
 ulos 2
 lukkee 2
 olthiin 2
@@ -512,7 +513,6 @@ peilistä 1
 mettässä 1
 plukkaamassa 1
 sienii 1
-Mies 1
 ostaa 1
 biilin 1
 tappelivat 1
@@ -1315,3 +1315,5 @@ määrä 1
 Työkalukassissa 1
 saranallinen 1
 kansi 1
+istuu 1
+toolissa 1
