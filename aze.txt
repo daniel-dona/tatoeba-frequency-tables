@@ -5,7 +5,7 @@ Bu 341
 var 250
 bir 213
 nə 175
-çox 166
+çox 167
 Biz 151
 ki 133
 idi 125
@@ -24,13 +24,13 @@ Siz 68
 bu 67
 Tomun 67
 vaxt 66
-istəyirəm 64
+istəyirəm 65
 daha 62
 də 58
 deyiləm 58
 onu 57
 o 56
-yoxdur 53
+yoxdur 54
 Sənin 53
 Bir 53
 edirəm 53
@@ -117,13 +117,13 @@ başladı 21
 Mary 21
 harada 20
 bütün 20
+etmək 20
 istəyir 20
 deyildi 20
 Onların 20
 qədərdir 20
 nədir 19
 belə 19
-etmək 19
 danışa 19
 zəng 19
 gəldi 19
@@ -203,6 +203,7 @@ qan 13
 pis 12
 lüğət 12
 İt 12
+pul 12
 bilər 12
 iş 12
 yeyir 12
@@ -222,7 +223,6 @@ gəlmişsiniz 11
 asan 11
 gedirəm 11
 qırmızı 11
-pul 11
 Burada 11
 Məni 11
 Gəl 11
@@ -1010,6 +1010,7 @@ vermədi 3
 ala 3
 Piter 3
 adamı 3
+danışma 3
 cümlə 3
 əsas 3
 Gecə 3
@@ -1292,6 +1293,7 @@ tanımıram 3
 səhvi 3
 qalib 3
 olmayıb 3
+Ürəyim 3
 Burnum 3
 yekə 3
 vadar 3
@@ -1465,7 +1467,6 @@ cümləni 2
 qayıdıb 2
 qalacağam 2
 təəccübləndirdi 2
-danışma 2
 Biraz 2
 incidəcək 2
 başlayım 2
@@ -1516,6 +1517,7 @@ unutma 2
 tapşırığını 2
 öpmək 2
 Yatmaq 2
+Zəng 2
 fit 2
 Tətilini 2
 Məryəmin 2
@@ -1575,6 +1577,7 @@ gəlsin 2
 edirdi 2
 cox 2
 qalacaqsan 2
+bulanır 2
 Orda 2
 Minlərlə 2
 öz-özünə 2
@@ -2155,7 +2158,6 @@ qalmayıb 2
 Hal-hazırda 2
 arzum 2
 səsinə 2
-Ürəyim 2
 ürəyiniz 2
 ürəyin 2
 qırıqdır 2
@@ -2194,6 +2196,7 @@ qazax 2
 içirsiniz 2
 içmir 2
 Quşların 2
+yaxşısan 2
 emalatxanadan 2
 əkir 2
 yazda 2
@@ -2369,6 +2372,7 @@ qovan 2
 Ailəm 2
 bric 2
 Sonra 2
+Bizdə 2
 yatdığını 2
 çalışdı 2
 yağsa 2
@@ -2941,7 +2945,6 @@ fenimi 1
 oğurlayıb 1
 Tomgildən 1
 Bostondan 1
-Zəng 1
 İtimi 1
 çaldığımda 1
 əhilləşdirdim 1
@@ -3204,7 +3207,6 @@ görünürəm 1
 günahkaram 1
 Razı 1
 Mədəm 1
-bulanır 1
 Yuxuya 1
 pulsuz 1
 Kofeyə 1
@@ -5729,7 +5731,6 @@ qulaqlarını 1
 yudular 1
 Quşun 1
 Şadam 1
-yaxşısan 1
 Qatarlardan 1
 məşq 1
 Qatarı 1
@@ -7405,7 +7406,6 @@ DOS 1
 rejimində 1
 icra 1
 Bakıdır 1
-Bizdə 1
 baytar 1
 uşağın 1
 uşağınız 1
@@ -7541,3 +7541,6 @@ Gips 1
 çıxarılır 1
 müştəri 1
 ayrılır 1
+Gic-gic 1
+Giclik 1
+etməkdə 1

@@ -2,7 +2,7 @@
 tam 1624
 ghaH 1256
 'oH 790
-Hol 694
+Hol 695
 Hoch 666
 je 605
 'ej 542
@@ -11,7 +11,7 @@ neH 439
 jIH 406
 vIneH 396
 vay' 389
-naDev 377
+naDev 378
 wa' 373
 pagh 371
 DaH 343
@@ -29,7 +29,7 @@ ghaj 247
 pa' 244
 puS 238
 nuqDaq 238
-not 230
+not 231
 jIHvaD 230
 cha' 229
 chu' 228
@@ -204,12 +204,12 @@ pe'vIl 50
 Sep 50
 DoyIchlan 50
 bIr 49
+HIja' 49
 muS 49
 HIvje' 48
 mIw 48
 lo' 48
 paqmey 48
-HIja' 48
 nav 48
 vIlo' 48
 vImuSHa' 48
@@ -357,6 +357,7 @@ vItIv 33
 jalchugh 33
 qonwI' 32
 chaHtaH 32
+vIDab 32
 muSHa' 32
 Qorwagh 32
 veb 32
@@ -364,7 +365,6 @@ pIm 32
 vabDot 32
 qeSwI' 32
 vIleghpu' 31
-vIDab 31
 taj 31
 mu'tlhegh 31
 bong 31
@@ -781,6 +781,7 @@ HIch 14
 vIpIH 14
 ghaH'e' 14
 luparHa' 14
+vIHaD 14
 pIv 14
 vISuch 14
 SochmaH 14
@@ -843,7 +844,6 @@ jatlhlu' 13
 paqwIj 13
 yImej 13
 DISmey 13
-vIHaD 13
 paqmeyvam 13
 boQ 13
 nIb 13
@@ -2959,6 +2959,7 @@ jIQongchoH 4
 chel 4
 qaSbej 4
 qettaHvIS 4
+manga'chuq 4
 chabalwIj 4
 vIturlaH 4
 weSpu' 4
@@ -3991,7 +3992,6 @@ raS'IS 3
 lIch 3
 bIjatlhchugh 3
 qaqbej 3
-manga'chuq 3
 may'ron 3
 jImoDnIS 3
 DarIch 3

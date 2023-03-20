@@ -1,4 +1,4 @@
-ir 1049
+ir 1052
 Es 610
 Toms 401
 ka 297
@@ -65,7 +65,7 @@ tikai 40
 kad 39
 Kā 38
 Ko 38
-Tev 36
+Tev 37
 šeit 36
 nekad 36
 Tā 36
@@ -92,10 +92,10 @@ cilvēki 29
 valodu 29
 izdarīt 29
 domāju 28
+Lūdzu 28
 Kāpēc 28
 Šis 28
 esam 27
-Lūdzu 27
 vēl 27
 būs 27
 mīlu 26
@@ -210,6 +210,7 @@ No 13
 angļu 13
 savas 13
 atpakaļ 13
+manu 13
 draugs 13
 taisnība 13
 skolu 13
@@ -228,7 +229,6 @@ vārdu 12
 zināt 12
 dienas 12
 zina 12
-manu 12
 mācīties 12
 vajadzēja 12
 tam 12
@@ -351,6 +351,7 @@ apsēdās 8
 nesaprotu 8
 vienu 8
 dzimšanas 8
+laba 8
 ūdens 8
 rīt 8
 tavu 8
@@ -387,7 +388,6 @@ Tagad 7
 rakstīt 7
 draugi 7
 runājat 7
-laba 7
 valoda 7
 nezina 7
 reizi 7
@@ -411,10 +411,13 @@ palika 7
 ārā 7
 teikumu 7
 plāns 7
+mežu 7
 pašu 7
+Jūsu 7
 Nē 7
 mazāk 7
 dzirdēt 7
+dod 7
 problēmas 7
 kam 7
 tikpat 7
@@ -474,15 +477,12 @@ manas 6
 lieliski 6
 žēl 6
 darbā 6
-mežu 6
 galdu 6
-Jūsu 6
 Šo 6
 klausīties 6
 nemaz 6
 parasti 6
 šobrīd 6
-dod 6
 devās 6
 pilsētā 6
 nevaram 6
@@ -614,6 +614,7 @@ paldies 5
 akcents 5
 citus 5
 pati 5
+izruna 5
 nerūp 5
 saules 5
 varam 5
@@ -1148,7 +1149,6 @@ pārtikas 3
 Jaunzēlandes 3
 tēmu 3
 mēģināja 3
-izruna 3
 e-pastu 3
 holandiešu 3
 atvainoties 3
@@ -1375,6 +1375,7 @@ miegains 2
 ievainots 2
 meitene 2
 atbildēt 2
+Abas 2
 parakstīja 2
 miera 2
 melns 2
@@ -1576,6 +1577,7 @@ rokām 2
 Tokiju 2
 maza 2
 piemīt 2
+lieliska 2
 humora 2
 priecāsies 2
 priecājos 2
@@ -2115,6 +2117,7 @@ dziļāku 2
 bargs 2
 koku 2
 vīna 2
+izlabojiet 2
 reizes 2
 smiekli 2
 noslēpumu 2
@@ -2611,7 +2614,6 @@ vidusskolā 1
 kārtīga 1
 atsakos 1
 varavīksne 1
-Abas 1
 līgumu 1
 beigām 1
 Viņs 1
@@ -3197,7 +3199,6 @@ Ziedi 1
 uzmundrināja 1
 ievērojis 1
 aizdomīgu 1
-lieliska 1
 sestdienas 1
 netiek 1
 pārdotas 1
@@ -6043,7 +6044,6 @@ glāzes 1
 esiet 1
 Ēdienkarti 1
 Nāciet 1
-izlabojiet 1
 maksāt 1
 ļauj 1
 atteikt 1
@@ -7554,3 +7554,10 @@ Mednieks 1
 maskēšanās 1
 tērpā 1
 celt 1
+izrunu 1
+izrunas 1
+pareizas 1
+Dzīvnieki 1
+apdzīvo 1
+Klusēšana 1
+piekrišanu 1

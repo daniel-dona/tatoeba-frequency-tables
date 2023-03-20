@@ -1,5 +1,5 @@
-Tom 1157
-Men 861
+Tom 1158
+Men 862
 Ol 483
 bilen 432
 Sen 309
@@ -52,9 +52,9 @@ sen 82
 Sami 70
 seniň 69
 şony 69
+kömek 68
 bolup 68
 haçan 67
-kömek 67
 şu 66
 boldy 65
 onuň 61
@@ -94,9 +94,9 @@ bolar 40
 nädip 39
 pikirimçe 39
 barmy 38
+bilemok 38
 edýärin 38
 Meriniň 38
-bilemok 37
 biz 37
 kän 37
 özüniň 37
@@ -108,12 +108,12 @@ Eger 36
 bolsa 36
 siziň 35
 biziň 35
+Ony 35
 berdi 35
 etdim 35
 bilmedi 35
 ýöne 35
 alyp 35
-Ony 34
 rugsat 34
 şol 34
 umyt 34
@@ -188,6 +188,7 @@ hepde 23
 bärde 23
 edýär 23
 däldir 23
+et 23
 gije 23
 iki 22
 çenli 22
@@ -195,7 +196,6 @@ Fransuzça 22
 bardy 22
 etmegi 22
 täze 22
-et 22
 Seniñ 22
 Meryñ 22
 öýe 21
@@ -474,6 +474,7 @@ bolmady 9
 heniz 9
 sebäpli 9
 galdy 9
+tapyp 9
 çykyp 9
 edýärler 9
 adamlary 9
@@ -539,7 +540,6 @@ garaşdy 8
 bolardy 8
 aslynda 8
 günde 8
-tapyp 8
 görmek 8
 puly 8
 haýsy 8
@@ -955,6 +955,7 @@ gelse 5
 ýatyp 5
 razy 5
 içine 5
+hakykaty 5
 daşda 5
 Şonuň 5
 peýnirini 5
@@ -1029,6 +1030,7 @@ geldiňiz 4
 öýünde 4
 kör 4
 gorkýaryn 4
+gorkýar 4
 Otly 4
 Dogry 4
 Salam 4
@@ -1178,7 +1180,6 @@ bilmedik 4
 ýapaýda 4
 gurçuklary 4
 diş 4
-hakykaty 4
 ýatdy 4
 bilermisiñiz 4
 wagtlap 4
@@ -1319,7 +1320,6 @@ Türkmen 3
 gowrak 3
 beremok 3
 ölümden 3
-gorkýar 3
 dişleri 3
 bererin 3
 bilmeýäris 3

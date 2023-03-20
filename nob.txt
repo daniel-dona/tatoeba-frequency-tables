@@ -1,9 +1,9 @@
-er 4145
+er 4146
 Jeg 3430
 ikke 2328
 å 2077
 i 2059
-en 1951
+en 1952
 du 1788
 det 1717
 har 1707
@@ -15,7 +15,7 @@ jeg 1275
 Det 1110
 for 1016
 meg 1012
-med 1010
+med 1009
 Han 962
 av 940
 var 919
@@ -48,7 +48,7 @@ veldig 296
 fra 292
 dette 289
 ut 285
-ble 285
+ble 284
 gjøre 271
 ham 270
 ha 270
@@ -140,7 +140,7 @@ sier 109
 god 107
 godt 104
 sine 103
-ved 101
+ved 100
 si 100
 man 100
 gikk 99
@@ -169,9 +169,9 @@ helt 85
 bra 84
 feil 84
 bør 83
+mann 82
 finne 81
 Hvis 81
-mann 81
 blitt 81
 bedre 80
 hjem 80
@@ -469,6 +469,7 @@ tro 27
 hus 27
 jente 27
 ute 26
+middag 26
 barna 26
 virker 26
 time 26
@@ -487,7 +488,6 @@ fortalt 26
 hardt 25
 vente 25
 par 25
-middag 25
 minutter 25
 dit 25
 slo 25
@@ -632,6 +632,7 @@ arbeidet 20
 ei 20
 mening 20
 smilte 20
+Yanni 20
 vanlig 19
 låne 19
 fin 19
@@ -658,7 +659,6 @@ viste 19
 vinne 19
 ordet 19
 særlig 19
-Yanni 19
 koster 18
 dum 18
 faktisk 18
@@ -770,6 +770,7 @@ pengene 16
 svart 16
 gravid 16
 høyere 15
+fortsatte 15
 lege 15
 morgenen 15
 viser 15
@@ -810,7 +811,6 @@ Si 14
 ber 14
 bekymret 14
 Om 14
-fortsatte 14
 død 14
 erfaring 14
 uken 14
@@ -7840,7 +7840,6 @@ teblader 1
 kannen 1
 Teen 1
 Tilsett 1
-kveldsmat 1
 mp3 1
 logrer 1
 slikker 1
@@ -9998,3 +9997,4 @@ oppgrade 1
 direkteminne 1
 PCen 1
 Litt 1
+direktesendingen 1

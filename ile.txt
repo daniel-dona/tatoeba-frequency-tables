@@ -1,25 +1,25 @@
-es 2380
-Yo 1587
+es 2382
+Yo 1588
 un 1312
 li 1303
 ne 966
 Tom 957
 Li 623
 in 608
-Il 474
+Il 475
 ha 458
 esset 451
 de 443
 tu 440
 have 413
 Esque 406
-Ella 359
+Ella 360
 que 332
-me 312
+me 314
 mi 298
 e 289
 it 280
-va 270
+va 271
 Noi 267
 vole 252
 To 249
@@ -104,8 +104,8 @@ omnicos 52
 pro 52
 hodie 52
 parlar 51
+nequande 51
 problema 50
-nequande 50
 qui 49
 odia 49
 vos 49
@@ -118,9 +118,9 @@ Un 47
 solmen 47
 Qualmen 47
 mann 47
+Su 47
 ma 47
 vell 46
-Su 46
 quel 46
 ear 45
 yun 44
@@ -154,8 +154,8 @@ cane 37
 sin 36
 conosse 36
 filio 36
+nómine 36
 deman 35
-nómine 35
 ili 35
 crede 35
 comprat 34
@@ -348,6 +348,7 @@ Sami 15
 púeres 14
 Ma 14
 incontrat 14
+Esperanto 14
 har 14
 aprende 14
 Si 14
@@ -370,7 +371,6 @@ inter 14
 parol 14
 filios 13
 manu 13
-Esperanto 13
 provat 13
 studia 13
 Yer 13
@@ -385,6 +385,7 @@ devet 13
 existe 13
 respondet 13
 sam 13
+inteligent 13
 vez 13
 aprendet 13
 arivat 13
@@ -411,7 +412,6 @@ quin 12
 avies 12
 dangerosi 12
 canes 12
-inteligent 12
 scrir 12
 café 12
 viver 12
@@ -546,6 +546,7 @@ lava 8
 questiona 8
 dansat 8
 fine 8
+studiar 8
 plese 8
 sponsa 8
 svimma 8
@@ -612,7 +613,6 @@ Salute 7
 tra 7
 Ú 7
 escuta 7
-studiar 7
 ran 7
 Polonia 7
 micri 7
@@ -1868,6 +1868,7 @@ ordinari 2
 alquicos 2
 alcun 2
 glissat 2
+besties 2
 flamme 2
 suporta 2
 triesim 2
@@ -2134,6 +2135,7 @@ pantufles 2
 mache 2
 tabac 2
 seculari 2
+violat 2
 puelles 1
 pretti 1
 Brian 1
@@ -3186,7 +3188,6 @@ scrit: 1
 submersent" 1
 gallines 1
 Dracones 1
-besties 1
 imaginari 1
 nasce 1
 entrada 1
@@ -4692,3 +4693,5 @@ Unesim 1
 lecion 1
 Hawaii 1
 Mortator 1
+Svines 1
+Muhammad 1

@@ -3,7 +3,7 @@ a 603
 Tá 602
 mé 389
 ag 379
-Is 324
+Is 325
 é 261
 ar 231
 sé 205
@@ -24,7 +24,7 @@ maith 96
 do 92
 sin 90
 Bhí 85
-í 83
+í 84
 Tomás 79
 Tom 75
 atá 74
@@ -226,6 +226,7 @@ sásta 9
 te 9
 inniu 9
 ceist 9
+Éireannach 9
 dearg 9
 fháil 9
 cosúil 9
@@ -256,7 +257,6 @@ cén 8
 Seo 8
 hálainn 8
 bean 8
-Éireannach 8
 deireadh 8
 fós 8
 ceart 8
@@ -310,6 +310,7 @@ tar 6
 ábalta 6
 Déan 6
 tae 6
+cathair 6
 ón 6
 cad 6
 mhéad 6
@@ -356,7 +357,6 @@ céanna 5
 más 5
 mhór 5
 Agus 5
-cathair 5
 roimh 5
 cónaí 5
 nuachtán 5
@@ -495,6 +495,8 @@ mhac 4
 caitheamh 4
 Scríobh 4
 Bí 4
+Átha 4
+Cliath 4
 glan 4
 dorcha 4
 fadhbanna 4
@@ -617,8 +619,7 @@ cairde 3
 gréine 3
 turas 3
 Ghaeilge 3
-Átha 3
-Cliath 3
+Baile 3
 foirgneamh 3
 ré 3
 Tehran 3
@@ -863,7 +864,6 @@ fóill 2
 níor 2
 dheachaigh 2
 leatsa 2
-Baile 2
 hÉireann 2
 bunreacht 2
 rugadh 2

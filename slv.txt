@@ -1,4 +1,4 @@
-je 354
+je 355
 v 111
 se 100
 sem 89
@@ -15,8 +15,8 @@ Ne 36
 bi 36
 me 35
 bo 35
+mi 34
 Ali 33
-mi 33
 To 28
 z 25
 zelo 25
@@ -2515,3 +2515,4 @@ Gledaš 1
 gledaš 1
 Gledate 1
 gledate 1
+Slabo 1

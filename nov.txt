@@ -1,5 +1,5 @@
 es 104
-Me 90
+Me 91
 li 58
 non 44
 vu 44
@@ -125,6 +125,7 @@ Hundes 3
 Le 3
 furtad 3
 Tatoeba 3
+sal 3
 brulad 3
 gana 3
 fema 3
@@ -206,7 +207,6 @@ nederlandum 2
 italum 2
 amad 2
 promise 2
-sal 2
 standa 2
 Non 2
 dar 2
@@ -231,6 +231,7 @@ Nos 2
 desire 2
 fasie 2
 quum 2
+nultem 2
 kreda 2
 vordes 2
 kanta 2
@@ -557,7 +558,6 @@ dejune 1
 labora 1
 urbe 1
 matra 1
-nultem 1
 oblive 1
 sosie 1
 rega 1
@@ -654,3 +654,5 @@ Fung 1
 saji 1
 Kat 1
 animales 1
+studia 1
+Esperanto 1

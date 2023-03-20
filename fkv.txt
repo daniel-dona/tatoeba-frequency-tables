@@ -1,14 +1,14 @@
 oon 205
 Se 33
-ei 30
+ei 31
 ja 27
 Hyvvää 26
 oli 24
 Hän 17
 Met 16
+ole 15
 Mie 14
 se 14
-ole 14
 Tämä 13
 ko 11
 tahi 11
@@ -114,6 +114,7 @@ ihmissii 3
 kväänikansan 3
 saattaa 3
 kothiin 3
+nokko 3
 vailuu 3
 kala 3
 Kväänin 2
@@ -221,7 +222,6 @@ teema 2
 Net 2
 sanoi 2
 meilä 2
-nokko 2
 pölättelee 2
 Siinä 2
 kestää 2
@@ -1317,3 +1317,5 @@ saranallinen 1
 kansi 1
 istuu 1
 toolissa 1
+Referansijoukko 1
+hyä 1
