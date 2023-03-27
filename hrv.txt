@@ -3,13 +3,13 @@ se 599
 u 539
 sam 451
 da 409
-li 384
+li 385
 na 316
 ne 277
 Tom 271
 i 230
 su 207
-mi 202
+mi 203
 Ne 191
 to 184
 za 165
@@ -206,6 +206,7 @@ zar 17
 svojoj 17
 volim 17
 često 17
+Možete 17
 zna 17
 školu 17
 dovoljno 17
@@ -218,7 +219,6 @@ kaže 16
 kupiti 16
 neće 16
 nikada 16
-Možete 16
 Bio 16
 Bilo 16
 ona 16
@@ -340,6 +340,7 @@ manje 11
 Moramo 11
 Kao 11
 bolje 11
+dati 11
 minuta 11
 prvi 11
 smrti 11
@@ -365,7 +366,6 @@ misliš 10
 Netko 10
 Japanu 10
 blizu 10
-dati 10
 djece 10
 preko 10
 puta 10
@@ -1013,6 +1013,7 @@ svakog 4
  4
 država 4
 ljeti 4
+kave 4
 visok 4
 Rado 4
 selu 4
@@ -1373,7 +1374,6 @@ nevjerojatno 3
 izaći 3
 barem 3
 pao 3
-kave 3
 išta 3
 pogledati 3
 strane 3
@@ -8077,3 +8077,4 @@ Glasao 1
 ostanak 1
 tepih 1
 Gledate 1
+šalicu 1

@@ -2,15 +2,15 @@ Bu 61
 Men 61
 U 60
 bor 32
-bir 26
+bir 28
 edi 26
 Tom 25
 Mening 24
 nima 22
 emas 22
+bilan 22
 bormi 22
 qayerda 21
-bilan 21
 uchun 19
 Sen 16
 У 15
@@ -27,9 +27,9 @@ ham 12
 bo'lib 12
 Biz 11
 juda 11
+Menga 10
 эмасман 10
 Siz 9
-Menga 9
 uni 9
 edim 9
 suv 9
@@ -74,6 +74,7 @@ yordam 5
 go'zal 5
 ustida 5
 kecha 5
+Har 5
 bu 5
 javob 5
 Yana 5
@@ -101,7 +102,6 @@ sovuq 4
 katta 4
 it 4
 Lori 4
-Har 4
 baland 4
 qildi 4
 Menda 4
@@ -2249,3 +2249,10 @@ topolmayapman 1
 topishimga 1
 ko‘nglim 1
 aynayapti 1
+chashka 1
+qahva 1
+berasizmi 1
+genotsid 1
+nafrat 1
+nutqi 1
+boshlanadi 1

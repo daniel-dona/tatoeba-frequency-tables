@@ -1,12 +1,12 @@
 Tom 1158
 Men 862
 Ol 483
-bilen 432
+bilen 433
 Sen 309
 üçin 298
 we 286
 Bu 284
-bir 216
+bir 217
 näme 208
 gowy 196
 bu 190
@@ -210,6 +210,7 @@ Bostonda 21
 adamlar 21
 görýärin 21
 Maña 21
+Maňa 20
 size 20
 öýdemok 20
 kyn 20
@@ -221,8 +222,8 @@ däldigini 20
 mundan 20
 meñ 20
 özüniñ 20
-Maňa 19
 ýeterlik 19
+Her 19
 erbet 19
 edil 19
 on 19
@@ -235,7 +236,6 @@ oña 19
 Mera 19
 gitjek 18
 bilmeýärin 18
-Her 18
 irden 18
 dynç 18
 soňky 18
@@ -370,6 +370,7 @@ kişi 11
 öý 11
 bolsun 11
 hepdede 11
+başlaýar 11
 maşyn 11
 dowam 11
 Mende 11
@@ -411,7 +412,6 @@ mugallym 10
 boldum 10
 ejem 10
 zada 10
-başlaýar 10
 işe 10
 taýýar 10
 Howa 10
@@ -508,6 +508,7 @@ biziñ 9
 şuny 9
 soraglary 9
 öýi 9
+kofe 9
 bilerinmi 9
 doly 9
 hat 9
@@ -564,7 +565,6 @@ kitaplary 8
 munuň 8
 bermedi 8
 degişli 8
-kofe 8
 gepleýär 8
 gapysyny 8
 samsyk 8
@@ -814,6 +814,7 @@ gowurak 6
 zatlaryny 6
 şeker 6
 kimdir 6
+sözler 6
 atasy 6
 bolsañ 6
 riskleri 6
@@ -1004,7 +1005,6 @@ terk 5
 düşündigini 5
 gepleşip 5
 praktika 5
-sözler 5
 Anna 5
 bilmeýen 5
 arassa 5
@@ -1138,6 +1138,7 @@ işleýärin 4
 telewizor 4
 Haçan 4
 ýalta 4
+käse 4
 şadyýan 4
 ýygnaga 4
 Meriny 4
@@ -1517,7 +1518,6 @@ minutlyk 3
 Yok 3
 Gitmek 3
 ýerdemi 3
-käse 3
 Meniňçe 3
 edendiklerini 3
 aýtmadylar 3
@@ -2667,6 +2667,7 @@ hekaýalary 2
 aýdýan 2
 balykçy 2
 arka 2
+ýigrenji 2
 edýändiklerini 2
 bilýändikleri 2
 lukmançylyk 2
@@ -6027,7 +6028,6 @@ Günortaly 1
 Günortadan 1
 žaket 1
 massažy 1
-ýigrenji 1
 häsiýeti 1
 ösdüren 1
 ösümliklerimden 1

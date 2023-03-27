@@ -1,15 +1,15 @@
-esas 2593
+esas 2594
 la 2056
-Me 2020
+Me 2022
 ne 1161
-La 918
+La 919
 me 814
 Tom 771
 tu 769
 Ka 609
 en 541
 havas 522
-es 415
+es 418
 Il 389
 di 376
 mea 363
@@ -28,7 +28,7 @@ Mea 241
 il 222
 plu 206
 El 200
-de 191
+de 192
 bona 186
 Ilu 171
 savas 171
@@ -40,8 +40,8 @@ sua 165
 to 165
 To 158
 pri 148
+bela 145
 Li 144
-bela 144
 Ne 142
 prizas 140
 quo 137
@@ -73,9 +73,9 @@ Pro 95
 du 94
 quon 93
 domo 91
+linguo 89
 omna 89
 pensas 88
-linguo 88
 lernas 88
 mustas 87
 ankore 87
@@ -386,6 +386,7 @@ natar 18
 posibla 18
 nulu 18
 lektas 18
+Franca 18
 heme 18
 telefonilo 18
 Usa 18
@@ -395,7 +396,6 @@ Ico 17
 fratulo 17
 preske 17
 Japonia 17
-Franca 17
 mulieri 17
 De 17
 spozulo 17
@@ -1148,6 +1148,7 @@ vekigis 5
 tabako 5
 recente 5
 manjos 5
+una 5
 non 5
 vivanta 5
 stuli 5
@@ -1165,6 +1166,7 @@ vizitas 5
 duktas 5
 putanino 5
 Muziko 5
+arto 5
 konocata 5
 lore 5
 Nova 5
@@ -1362,7 +1364,6 @@ zoo 4
 levar 4
 onklulo 4
 manjaji 4
-una 4
 finas 4
 junglo 4
 semani 4
@@ -1381,7 +1382,6 @@ agos 4
 universo 4
 apene 4
 valoro 4
-arto 4
 laborema 4
 augmentas 4
 fumo 4
@@ -1437,6 +1437,7 @@ Lia 4
 ruptita 4
 judikez 4
 aspekto 4
+civitano 4
 similesas 4
 aboyas 4
 sklaveso 4
@@ -1581,6 +1582,7 @@ saltas 4
 mastro 4
 Ricardo 4
 blinda 4
+Kanada 4
 avertis 4
 marmoto 4
 skolano 4
@@ -2084,7 +2086,6 @@ soldato 3
 timida 3
 durstoza 3
 klare 3
-Kanada 3
 ofro 3
 operi 3
 bebo 3
@@ -2385,7 +2386,6 @@ alaktas 2
 kosmo 2
 tradukos 2
 ulua 2
-civitano 2
 Esus 2
 profesiono 2
 uzata 2
@@ -7839,3 +7839,5 @@ studios 1
 hungroza" 1
 Hungroza 1
 Papa" 1
+Kanadana 1
+Trolar 1

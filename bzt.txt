@@ -3,7 +3,7 @@ Eo 81
 rhen 54
 yn 53
 di 42
-Tomos 30
+Tomos 32
 Ill 28
 su 26
 Ys 23
@@ -53,6 +53,7 @@ Gion 4
 gwstr 4
 tew 4
 perthir 4
+gwol 4
 h-yddew 4
 thud 4
 dy 4
@@ -121,7 +122,6 @@ eidd 2
 ti 2
 lladrun 2
 wolent 2
-gwol 2
 agur 2
 lassad 2
 Yamada 2
@@ -491,3 +491,6 @@ thebent 1
 fefeirarai 1
 Esperanto 1
 h-es 1
+llugrar 1
+afer 1
+sugges 1

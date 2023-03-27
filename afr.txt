@@ -1,11 +1,11 @@
-nie 1216
-is 987
-Ek 924
-het 919
+nie 1218
+is 988
+Ek 925
+het 921
 die 716
 'n 571
 Tom 424
-jy 413
+jy 414
 my 331
 te 303
 om 286
@@ -18,8 +18,8 @@ in 239
 ek 218
 was 210
 Hy 195
-sal 190
-Ons 185
+sal 192
+Ons 186
 gaan 171
 wil 156
 Jy 152
@@ -30,7 +30,7 @@ ons 139
 sy 135
 met 132
 Sy 126
-en 119
+en 120
 moet 119
 op 113
 baie 109
@@ -42,8 +42,8 @@ haar 101
 hy 89
 My 86
 hom 86
-dat 84
-Wat 82
+dat 85
+Wat 83
 weet 79
 hulle 73
 as 72
@@ -103,9 +103,9 @@ kon 31
 nodig 31
 laat 31
 af 30
+gesê 30
 goed 29
 As 29
-gesê 29
 Sami 29
 kinders 28
 altyd 28
@@ -184,6 +184,7 @@ meisie 17
 kos 17
 volgende 16
 oop 16
+broer 16
 ouers 16
 jaar 16
 lekker 16
@@ -192,10 +193,10 @@ Laat 16
 ander 16
 dom 16
 vriende 16
+daardie 16
 saam 16
 Kom 16
 benodig 16
-broer 15
 vrou 15
 wêreld 15
 bang 15
@@ -203,7 +204,6 @@ U 15
 genoeg 15
 hoor 15
 lees 15
-daardie 15
 Weet 15
 Hou 15
 heeltemal 15
@@ -213,6 +213,7 @@ geleer 14
 Japan 14
 alleen 14
 vertel 14
+suster 14
 veel 14
 Waarom 14
 mooi 14
@@ -229,7 +230,6 @@ graag 13
 ou 13
 Jou 13
 eerste 13
-suster 13
 Dankie 13
 motor 13
 skool 13
@@ -316,6 +316,7 @@ nat 10
 mal 10
 gevoel 10
 sleg 10
+gebeur 10
 Ek's 10
 vol 10
 sonder 10
@@ -382,7 +383,6 @@ Nee 8
 bottel 8
 gegee 8
 steek 8
-gebeur 8
 moeilik 8
 saak 8
 Wil 8
@@ -3530,3 +3530,4 @@ Tatoeba: 1
 dan 1
 vuilnisman 1
 vleier 1
+gedaan 1

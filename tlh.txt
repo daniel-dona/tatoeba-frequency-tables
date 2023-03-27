@@ -1,11 +1,11 @@
 'e' 2072
 tam 1624
 ghaH 1256
-'oH 790
+'oH 791
 Hol 695
 Hoch 666
 je 605
-'ej 542
+'ej 543
 law' 447
 neH 439
 jIH 406
@@ -30,7 +30,7 @@ pa' 244
 puS 238
 nuqDaq 238
 not 231
-jIHvaD 230
+jIHvaD 231
 cha' 229
 chu' 228
 tu'lu' 222
@@ -68,10 +68,10 @@ ben 144
 loD 143
 chay' 142
 rep 138
-Dochvam 135
+Dochvam 136
 SoHvaD 134
 vIparHa' 131
-tera' 127
+tera' 128
 'IH 126
 lupwI' 126
 ram 124
@@ -129,11 +129,11 @@ mIllogh 76
 jar 76
 qen 74
 juHDaq 73
+maH 73
 puq 73
 qan 73
 motlh 72
 HIq 72
-maH 72
 'oHbe' 72
 ghojmoHwI' 72
 boghpu' 71
@@ -186,11 +186,11 @@ Sut 54
 nItebHa' 54
 loS 53
 SuD 53
+Human 53
 'ul 53
 Daq 53
 ghaHbe' 52
 Qatlh 52
-Human 52
 wab 52
 vIpoQ 52
 tu'lu'be' 51
@@ -255,6 +255,7 @@ ta' 42
 'aSralya' 42
 chal 41
 jaH 41
+Daj 41
 yuch 41
 vavDaj 41
 qep 41
@@ -269,7 +270,6 @@ Daghaj 40
 nIQ 40
 Dochmey 40
 po' 40
-Daj 40
 maHvaD 40
 puqloD 39
 HoS 39

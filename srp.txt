@@ -1,10 +1,10 @@
 да 6954
 da 6833
-je 6773
+je 6774
 је 6062
 се 3596
 сам 3192
-se 3027
+se 3028
 Том 2979
 sam 2498
 ли 2090
@@ -157,10 +157,10 @@ Ti 174
 Mislim 173
 nego 172
 Meri 171
+iz 170
 Kada 170
 sada 169
 тако 169
-iz 168
 vreme 167
 Хоћу 166
 бити 159
@@ -175,8 +175,8 @@ jedan 154
 ste 151
 znam 151
 mogao 151
+tamo 151
 nam 150
-tamo 150
 жели 148
 три 147
 нам 147
@@ -205,10 +205,10 @@ ni 138
 mu 137
 Сви 136
 могао 136
+svoje 135
 moj 135
 него 134
 po 134
-svoje 134
 Gde 134
 Када 133
 dana 133
@@ -306,8 +306,8 @@ tri 98
 dok 98
 без 97
 godine 97
+gde 97
 сутра 96
-gde 96
 uradio 96
 даље 96
 ide 95
@@ -546,6 +546,7 @@ Ovde 56
 ћемо 56
 десило 56
 питање 55
+tvoja 55
 napisao 55
 uradim 55
 Nemam 55
@@ -555,7 +556,6 @@ Nemam 55
 први 55
 stvarno 55
 Моја 54
-tvoja 54
 Uvek 54
 auto 54
 juče 54
@@ -820,6 +820,7 @@ Izgleda 37
 mogla 37
 svojim 37
 oči 37
+Život 37
 pitao 37
 sad 37
 uskoro 37
@@ -846,7 +847,6 @@ Znaš 36
 Hvala 36
 engleski 36
 ovog 36
-Život 36
 Никада 36
 десет 36
 пријатеља 36
@@ -857,6 +857,7 @@ ovog 36
 понедељка 36
 pa 36
 Драго 36
+dosta 35
 Taj 35
 ljubav 35
 prilično 35
@@ -885,7 +886,6 @@ Bolje 35
 ускоро 34
 твоје 34
 пас 34
-dosta 34
 pravi 34
 ikada 34
 igra 34
@@ -1329,6 +1329,7 @@ Jesam 23
 tog 22
 Mora 22
 20 22
+počinje 22
 Vi 22
 cipele 22
 ćete 22
@@ -1384,7 +1385,6 @@ dobre 21
 Koje 21
 ispod 21
 negde 21
-počinje 21
 kupim 21
 verovatno 21
 dobio 21
@@ -7542,6 +7542,7 @@ bezbedne 4
 nevolji 4
 čekao 4
 fan 4
+Izađi 4
 trčite 4
 odolim 4
 odneo 4
@@ -9338,6 +9339,7 @@ Britaniji 3
 sledećem 3
 postignemo 3
 oblakoder 3
+završava 3
 Godinu 3
 sledi 3
 ledu 3
@@ -9996,5 +9998,3 @@ uglu 3
 povredim 3
 lopta 3
 pomozi 3
-dvojica 3
-Izađi 3

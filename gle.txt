@@ -1,5 +1,5 @@
 an 630
-a 603
+a 605
 Tá 602
 mé 389
 ag 379
@@ -7,15 +7,15 @@ Is 325
 é 261
 ar 231
 sé 205
-tú 202
+tú 203
 go 200
+An 200
 bhfuil 199
-An 199
 seo 183
 Ní 175
 agam 165
 Níl 158
-liom 147
+liom 148
 i 125
 mo 121
 le 104
@@ -29,24 +29,24 @@ Tomás 79
 Tom 75
 atá 74
 sa 73
+leat 70
 is 70
-leat 69
 rud 68
 sí 68
 orm 66
-féidir 63
+féidir 64
 agat 61
+mhaith 61
 Táim 60
-mhaith 60
 raibh 56
 agus 56
+Ba 55
+dul 55
 ann 55
-Ba 54
-dul 54
 Cad 51
+Cén 49
 leis 48
 siad 48
-Cén 48
 iarraidh 48
 leabhar 47
 duine 46
@@ -67,8 +67,8 @@ teach 34
 dhéanamh 33
 anois 32
 ríomhaire 32
+dom 31
 air 30
-dom 30
 uaim 29
 scríobh 28
 bheith 28
@@ -119,6 +119,7 @@ madra 18
 thoil 17
 acu 17
 muid 17
+ansin 17
 iad 17
 Sin 17
 faoi 17
@@ -128,7 +129,6 @@ linn 17
 ainm 16
 faoin 16
 bhfaca 16
-ansin 16
 don 16
 Chuir 16
 dhá 15
@@ -245,6 +245,7 @@ bhliain 8
 breá 8
 mbliana 8
 cúramach 8
+caife 8
 siopa 8
 Tháinig 8
 eagla 8
@@ -278,7 +279,6 @@ chéad 7
 iníon 7
 beirt 7
 leabharlann 7
-caife 7
 uirthi 7
 fuar 7
 chonaic 7
@@ -423,6 +423,7 @@ fuath 5
 cé 5
 cuma 5
 fhois 5
+thabhairt 5
 thar 5
 greim 5
 saor 5
@@ -531,7 +532,6 @@ síos 4
 gortaithe 4
 dhearna 4
 mharú 4
-thabhairt 4
 déanaí 4
 bpost 4
 tuirseach 4
@@ -549,6 +549,7 @@ scoile 3
 Feicim 3
 chat 3
 Londan 3
+cupán 3
 éinne 3
 tuirse 3
 leadóg 3
@@ -634,6 +635,7 @@ bhfuilimid 3
 laoch 3
 Díolann 3
 éisc 3
+úsáideann 3
 Leanne 3
 feoil 3
 rís 3
@@ -729,7 +731,6 @@ bhuaileamar 2
 léir 2
 suite 2
 Stop 2
-cupán 2
 sacar 2
 cinn 2
 feirm 2
@@ -898,7 +899,6 @@ botúin 2
 an-bheag 2
 ospidéal 2
 domhain 2
-úsáideann 2
 leonta 2
 meisce 2
 m'fhear 2
@@ -2914,3 +2914,5 @@ Erdogan 1
 ciontach 1
 Coirdínigh 1
 neamhchiontach 1
+córas 1
+oibriúcháin 1
