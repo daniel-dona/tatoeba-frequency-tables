@@ -1,15 +1,15 @@
-lo 12534
-mi 5871
+lo 12535
+mi 5872
 cu 3331
 do 3315
 la 2551
 pu 2255
-nu 2098
+nu 2099
 le 1994
 se 1864
 na 1590
 be 1312
-i 1263
+i 1264
 ko'a 1233
 ma 1211
 ka 1193
@@ -26,7 +26,7 @@ ba 567
 du'u 543
 ro 518
 poi 495
-djica 486
+djica 487
 nelci 474
 citka 473
 tu'a 435
@@ -399,6 +399,7 @@ ga'i 39
 za'i 38
 snime 38
 litru 38
+zabna 38
 lanzu 38
 rirxe 37
 lacri 37
@@ -406,7 +407,6 @@ cumki 37
 cikre 37
 pu'o 37
 xatra 37
-zabna 37
 xamsi 37
 pexfebdja 37
 nonkansa 36

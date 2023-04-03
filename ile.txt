@@ -1,6 +1,6 @@
-es 2382
+es 2384
 Yo 1588
-un 1312
+un 1314
 li 1303
 ne 966
 Tom 957
@@ -9,10 +9,10 @@ in 608
 Il 475
 ha 458
 esset 451
-de 443
+de 444
 tu 440
 have 413
-Esque 406
+Esque 407
 Ella 360
 que 332
 me 314
@@ -37,11 +37,11 @@ quo 184
 su 182
 te 181
 Mi 171
-quam 169
+quam 170
 plu 167
 Mary 165
 con 163
-del 156
+del 158
 save 156
 il 156
 deve 154
@@ -84,7 +84,7 @@ nov 65
 cité 65
 videt 65
 vive 64
-lingue 63
+lingue 64
 se 62
 sempre 61
 du 60
@@ -109,10 +109,10 @@ problema 50
 qui 49
 odia 49
 vos 49
+munde 48
 sestra 48
 old 48
 die 47
-munde 47
 vor 47
 Un 47
 solmen 47
@@ -428,6 +428,7 @@ dracon 11
 haver 11
 balne 11
 trincar 11
+mannes 11
 usa 11
 rey 11
 cert 11
@@ -470,7 +471,6 @@ time 10
 tren 10
 Interlingue 10
 sub 10
-mannes 10
 visitar 10
 vestimentes 10
 restar 10
@@ -1004,6 +1004,7 @@ juntmen 4
 enoyant 4
 aperter 4
 pesant 4
+Plu 4
 serpentes 4
 Shane 4
 Joey 4
@@ -1201,7 +1202,6 @@ modest 3
 Laurie 3
 permisse 3
 ho-nocte 3
-Plu 3
 billete 3
 alquí 3
 bank 3
@@ -1383,6 +1383,7 @@ Mayas 3
 país 3
 timet 3
 total 3
+population 3
 horas 3
 strumpettes 3
 Layla 3
@@ -1992,7 +1993,6 @@ usada 2
 beson 2
 rational 2
 cent 2
-population 2
 Per 2
 lettere 2
 sense 2
@@ -4695,3 +4695,6 @@ Hawaii 1
 Mortator 1
 Svines 1
 Muhammad 1
+demí 1
+Python 1
+programmation 1

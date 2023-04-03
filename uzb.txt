@@ -51,6 +51,7 @@ kitob 7
 yashaydi 7
 Qancha 7
 Kim 7
+Tomning 7
 qachon 7
 менинг 6
 йўқ 6
@@ -60,7 +61,6 @@ Bir 6
 boraman 6
 qancha 6
 odam 6
-Tomning 6
 emasmi 6
 soat 6
 учун 5
@@ -84,6 +84,7 @@ Kecha 5
 bo'ladi 5
 Ular 5
 turadi 5
+Bugun 5
 qanday 5
 Uni 5
 mumkin 5
@@ -119,7 +120,6 @@ yoqadi 4
 keldi 4
 Iltimos 4
 O'tgan 4
-Bugun 4
 ajraldi 4
 - 4
 uch 4
@@ -265,6 +265,7 @@ Yomg'ir 2
 doktor 2
 sening 2
 dunyo 2
+kuni 2
 Chet 2
 yapon 2
 do'stim 2
@@ -765,7 +766,6 @@ yagona 1
 imkoniyating 1
 Salom 1
 xar 1
-kuni 1
 yozishga 1
 vada 1
 bergan 1
@@ -2256,3 +2256,5 @@ genotsid 1
 nafrat 1
 nutqi 1
 boshlanadi 1
+dam 1
+olish 1

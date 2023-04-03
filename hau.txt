@@ -6,7 +6,7 @@ na 3800
 yi 2494
 ta 2474
 ne 2305
-ka 1822
+ka 1823
 iya 1393
 mai 1305
 Na 1224
@@ -25,8 +25,8 @@ Ya 870
 yana 843
 daga 832
 zai 813
-ku 791
 son 790
+ku 790
 yin 761
 ko 749
 ke 715
@@ -36,7 +36,7 @@ zan 622
 haka 616
 zama 613
 Wannan 580
-ni 573
+ni 574
 suna 560
 nan 551
 don 546
@@ -48,7 +48,7 @@ sosai 516
 A 507
 lokacin 487
 cewa 485
-in 482
+in 481
 so 475
 kai 465
 kyau 464
@@ -246,8 +246,8 @@ gano 119
 zaka 117
 yasa 117
 kuna 117
+ƙasar 117
 abubuwa 115
-ƙasar 115
 wasa 115
 kansa 115
 kira 114
@@ -281,13 +281,13 @@ me 100
 Bari 99
 shirya 99
 kara 98
-bacci 98
 mutumin 98
 kuke 98
 mutu 98
 shekara 98
 muku 98
 Lokacin 97
+bacci 97
 rubuta 97
 Menene 97
 karanta 96
@@ -310,7 +310,6 @@ gani 91
 shirin 91
 mara 91
 hannu 91
-kasar 90
 muka 90
 yayin 90
 ana 90
@@ -319,6 +318,7 @@ shan 90
 rasa 89
 Kar 89
 bukatar 88
+kasar 88
 sau 88
 baka 88
 bayyana 88
@@ -725,7 +725,6 @@ kashi 33
 Zamu 33
 dai-dai 33
 kungiyar 33
-Wane 33
 zaku 33
 ainihin 33
 nesa 33
@@ -743,6 +742,7 @@ ofishin 32
 kifi 32
 tashar 32
 Nan 32
+Wane 32
 jini 32
 maganar 32
 hakuri 32
@@ -968,6 +968,7 @@ Ki 24
 abokina 24
 hukunci 24
 Ubangiji 24
+barci 23
 karkashin 23
 wadannan 23
 yaren 23
@@ -1003,7 +1004,6 @@ yawo 23
 saurayi 23
 uwa 23
 Tace 23
-barci 22
 yakamata 22
 doki 22
 hudu 22
@@ -1147,6 +1147,7 @@ aikinsa 19
 tambayoyi 19
 caca 19
 TV 19
+Wanne 19
 Italiya 19
 tarin 19
 zahiri 19
@@ -1179,7 +1180,6 @@ bazai 18
 cinye 18
 aiko 18
 sautin 18
-kasashen 18
 hanci 18
 otal 18
 fadar 18
@@ -1218,7 +1218,6 @@ auren 18
 Farin 18
 buge 18
 zinari 18
-Wanne 18
 Sin 18
 nisa 18
 ƙwaƙwalwa 18
@@ -1232,6 +1231,7 @@ girmama 17
 hira 17
 Dama 17
 wasikar 17
+ƙasashen 17
 Ruwan 17
 tekun 17
 rabu 17
@@ -1243,6 +1243,7 @@ karnuka 17
 daɗe 17
 A'a 17
 Mama 17
+kasashen 17
 yawanci 17
 kasuwancin 17
 shanu 17
@@ -1340,7 +1341,6 @@ ko'ina 16
 hayaniya 16
 Germany 16
 Yara 16
-ƙasashen 16
 gwiwa 16
 "Zan 16
 banki 16
@@ -2955,7 +2955,6 @@ lebe 5
 kartin 5
 biye 5
 shugabanci 5
-kwallo 5
 igiya 5
 Barry 5
 Taylor 5
@@ -2963,7 +2962,6 @@ benen 5
 dayawa 5
 Allen 5
 Barbara 5
-makogoro 5
 Kogin 5
 Jin 5
 warin 5
@@ -2978,6 +2976,7 @@ wallafa 5
 cigaban 5
 Musa 5
 Wacece 5
+ƙwallo 5
 Dennis 5
 Wilson 5
 Tim 5
@@ -3412,6 +3411,7 @@ canja 4
 Frank 4
 kishin 4
 jaruma 4
+kwallo 4
 Fox 4
 ƙera 4
 Farfesa 4
@@ -3449,7 +3449,6 @@ Sir 4
 Clara 4
 miyagun 4
 Kofar 4
-ƙwallo 4
 sigarin 4
 tallan 4
 juriya 4
@@ -3622,6 +3621,7 @@ lemun 4
 saurara 4
 Girman 4
 laifukan 4
+makogoro 4
 Tsaron 4
 fifiko 4
 zaafi 4
@@ -4130,6 +4130,7 @@ sakandare 3
 ranka 3
 baci 3
 Nora 3
+maƙogoro 3
 annoba 3
 Nick 3
 Iska 3
@@ -5267,7 +5268,6 @@ raunukan 2
 saƙonnin 2
 Mambobin 2
 majami'an 2
-maƙogoro 2
 Ranan 2
 gabaci 2
 kyamarorin 2
@@ -7288,7 +7288,7 @@ Bert 1
 hure 1
 kyandiran 1
 Bark 1
-babarta 1
+mamarta 1
 Makoshi 1
 hayayyafa 1
 Ɓera 1

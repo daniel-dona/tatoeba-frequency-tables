@@ -1,13 +1,13 @@
 le 12800
-es 7915
-de 6811
-un 6790
-Le 4793
-ha 4693
-in 4296
+es 7919
+de 6813
+un 6792
+Le 4794
+ha 4694
+in 4297
 que 3829
-non 3660
-Io 3459
+non 3662
+Io 3461
 del 2929
 e 2917
 a 2638
@@ -20,7 +20,7 @@ su 1511
 se 1502
 Il 1433
 pro 1357
-Tom 1281
+Tom 1283
 lo 1265
 con 1223
 plus 1210
@@ -35,7 +35,7 @@ iste 862
 per 822
 como 783
 te 768
-il 754
+il 755
 grande 740
 Illa 708
 Tu 694
@@ -93,7 +93,7 @@ Si 294
 nostre 291
 ama 286
 parla 285
-sin 281
+sin 282
 sol 265
 On 263
 Deo 259
@@ -117,19 +117,19 @@ Su 223
 dice 218
 mal 216
 sempre 213
+son 211
 inter 210
 durante 209
 amor 209
-son 208
+morte 207
 diceva 206
-morte 206
 haber 204
 la 203
 Es 201
 libro 199
 persona 194
+nihil 193
 nove 193
-nihil 192
 bibe 192
 pensa 191
 jam 189
@@ -146,8 +146,8 @@ Ego 179
 amico 178
 mangia 177
 the 175
+loco 173
 faceva 172
-loco 172
 parlar 171
 favor 169
 melior 169
@@ -156,10 +156,10 @@ Qui 168
 cata 166
 Como 165
 flores 163
+Proque 163
 linguas 162
 parve 162
 ubi 162
-Proque 162
 matre 160
 longe 160
 Quando 158
@@ -248,7 +248,7 @@ tabula 106
 vide 105
 horas 105
 ancian 105
-alique 104
+alique 105
 habe 104
 vices 103
 trovar 103
@@ -325,21 +325,21 @@ da 79
 prender 79
 sed 79
 Nemo 79
+causa 78
 quatro 78
 illac 78
 numero 78
 campania 78
-causa 77
 caffe 77
 pena 77
 esperanto 77
 ego 77
 mercato 76
+gente 76
 anima 76
 historia 75
 alcun 75
 vetule 75
-gente 75
 nonne 75
 Illas 75
 heri 74
@@ -395,6 +395,7 @@ plagia 65
 arbore 65
 discurso 65
 apprende 65
+scribe 64
 littera 64
 mano 64
 desde 64
@@ -402,7 +403,6 @@ pare 64
 sia 64
 presso 64
 gigantesc 64
-scribe 63
 De 63
 dies 63
 comprar 63
@@ -577,6 +577,7 @@ perder 44
 typo 44
 succo 44
 inseniante 44
+animales 44
 Francia 44
 secur 43
 qualcosa 43
@@ -586,7 +587,6 @@ cassa 43
 amabile 43
 caso 43
 direction 43
-animales 43
 film 43
 carne 43
 spera 43
@@ -965,6 +965,7 @@ cultura 25
 create 25
 hotel 25
 ubique 25
+car 25
 expression 25
 papiro 25
 cessava 25
@@ -1003,7 +1004,6 @@ communication 24
 stupide 24
 recipeva 24
 punctos 24
-car 24
 preoccupa 24
 importantia 24
 China 24
@@ -1012,6 +1012,7 @@ America 24
 cambiar 24
 venira 24
 appellate 24
+valor 24
 ave 24
 pone 24
 factos 24
@@ -1067,7 +1068,6 @@ attende 23
 supportar 23
 vestite 23
 dentes 23
-valor 23
 american 23
 italiano 23
 profundemente 23
@@ -1599,6 +1599,7 @@ recerca 15
 detalios 15
 sal 15
 dece-duo 15
+menti 15
 effecto 15
 cessar 15
 patria 15
@@ -1682,7 +1683,6 @@ advocato 14
 arbitro 14
 kilometros 14
 Guerra 14
-menti 14
 paradiso 14
 entra 14
 occidental 14
@@ -2291,6 +2291,7 @@ Antonio 10
 Depost 10
 equalmente 10
 violentia 10
+domestic 10
 dorso 10
 Oriente 10
 anterior 10
@@ -2514,7 +2515,6 @@ virtutes 9
 coragiose 9
 Helen 9
 travaliar 9
-domestic 9
 dormiente 9
 timide 9
 nonobstante 9
@@ -2744,6 +2744,7 @@ terras 8
 brillar 8
 pilo 8
 mesuras 8
+costose 8
 union 8
 consume 8
 producite 8
@@ -3060,7 +3061,6 @@ occurrite 7
 apertura 7
 tragic 7
 incantamento 7
-costose 7
 superficie 7
 International 7
 riscos 7
@@ -5174,6 +5174,7 @@ cree 4
 Catholicismo 4
 affunda 4
 Humanos 4
+Drogas 4
 cave 4
 caninos 4
 Annuncios 4
@@ -7975,6 +7976,7 @@ intellecto 2
 timibile 2
 incenso 2
 pavores 2
+evitabile 2
 tauro 2
 colpos 2
 hardite 2
@@ -9593,7 +9595,6 @@ parfumos 2
 Taiwan 2
 Wenzhou 2
 joint 2
-Drogas 2
 sabe 2
 toki 2
 pona 2
@@ -9605,6 +9606,7 @@ sinophobic 2
 nucleari 2
 interslavo 2
 Tace 2
+autistic 2
 champignones 2
 golem 2
 Britannia 2
@@ -9996,5 +9998,3 @@ reimbursar 1
 sympathisantes 1
 augmento 1
 bullira 1
-dishonorate 1
-functionava 1

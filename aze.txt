@@ -1,11 +1,11 @@
 Mən 641
 O 448
-Tom 398
-Bu 341
+Tom 399
+Bu 342
 var 250
-bir 213
+bir 215
 nə 175
-çox 167
+çox 168
 Biz 151
 ki 133
 idi 125
@@ -21,8 +21,8 @@ yaxşı 81
 Onun 71
 mənə 70
 Siz 68
+Tomun 68
 bu 67
-Tomun 67
 vaxt 66
 istəyirəm 65
 daha 62
@@ -37,7 +37,7 @@ edirəm 53
 mən 52
 haqqında 48
 Mənə 47
-gün 46
+gün 47
 üç 44
 iki 42
 gəlir 42
@@ -49,8 +49,8 @@ böyük 40
 kimi 39
 öz 38
 paytaxtıdır 38
+ilə 37
 edir 37
-ilə 36
 başa 36
 ən 35
 şey 35
@@ -65,12 +65,12 @@ yox 32
 Bizim 32
 kitab 32
 alma 32
+qədər 32
+yaşayır 32
 hələ 31
 onun 31
 bilmirəm 31
 kömək 31
-qədər 31
-yaşayır 31
 idim 30
 haradadır 30
 artıq 30
@@ -83,13 +83,13 @@ yaşayıram 28
 nifrət 28
 getmək 28
 olduğunu 28
+getdi 27
 necə 27
 lazımdır 27
 elə 27
 həmişə 27
 indi 26
 Çox 26
-getdi 26
 gedir 26
 səni 26
 kim 26
@@ -223,6 +223,7 @@ gəlmişsiniz 11
 asan 11
 gedirəm 11
 qırmızı 11
+ola 11
 Burada 11
 Məni 11
 Gəl 11
@@ -247,7 +248,6 @@ Alma 10
 Kitab 10
 yaşamaq 10
 ol 10
-ola 10
 həkim 10
 yeyirəm 10
 danışıram 10
@@ -290,6 +290,7 @@ edəcəm 9
 bilmərəm 9
 taksi 9
 məcbur 9
+yerdə 9
 fikir 9
 fransızca 9
 ehtiyacı 9
@@ -335,7 +336,6 @@ Evə 8
 aldım 8
 tərk 8
 Hamı 8
-yerdə 8
 səhv 8
 deyir 8
 düşürəm 8
@@ -401,6 +401,7 @@ cavan 7
 kimdir 7
 olmayacaq 7
 çəkdi 7
+məşğul 7
 tez-tez 7
 etdim 7
 siqaret 7
@@ -501,7 +502,6 @@ Bugün 6
 gedirsən 6
 etdilər 6
 Onlara 6
-məşğul 6
 etmirəm 6
 vurdu 6
 sağ 6
@@ -526,6 +526,7 @@ bilirlər 6
 bıçaq 6
 etdik 6
 Yaponiyadan 6
+günüdür 6
 olunub 6
 olmamışam 6
 Sizdə 6
@@ -664,7 +665,6 @@ istəyirlər 5
 rəqs 5
 fəxr 5
 Yox 5
-günüdür 5
 üzvüdür 5
 olun 5
 Avstriyanın 5
@@ -1576,6 +1576,7 @@ Hamısı 2
 gəlsin 2
 edirdi 2
 cox 2
+qocadır 2
 qalacaqsan 2
 bulanır 2
 Orda 2
@@ -2384,6 +2385,7 @@ subaydır 2
 görürsənmi 2
 sualınıza 2
 Xəbərlərə 2
+tənha 2
 xanımlar 1
 vә 1
 cәnablar 1
@@ -3199,7 +3201,6 @@ dənəsini 1
 oğrudur 1
 Oevdədir 1
 Oaxmaqdır 1
-qocadır 1
 Osoldu 1
 xestedir 1
 Necə 1
@@ -7544,3 +7545,9 @@ ayrılır 1
 Gic-gic 1
 Giclik 1
 etməkdə 1
+Daniel 1
+adaya 1
+Günter 1
+ferma 1
+bilməyəcək 1
+istirahət 1
