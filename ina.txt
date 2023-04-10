@@ -1,5 +1,5 @@
 le 12800
-es 7919
+es 7920
 de 6813
 un 6792
 Le 4794
@@ -11,7 +11,7 @@ Io 3461
 del 2929
 e 2917
 a 2638
-tu 2167
+tu 2168
 Ille 1799
 me 1564
 io 1564
@@ -25,7 +25,7 @@ lo 1265
 con 1223
 plus 1210
 ille 1193
-vos 1081
+vos 1082
 esseva 1063
 pote 950
 nos 949
@@ -584,6 +584,7 @@ qualcosa 43
 accidente 43
 voluntate 43
 cassa 43
+Parla 43
 amabile 43
 caso 43
 direction 43
@@ -620,7 +621,6 @@ cuje 41
 finite 41
 obscur 41
 joca 41
-Parla 41
 pisce 41
 costa 41
 parentes 41
@@ -691,6 +691,7 @@ Ecce 37
 amava 37
 modo 37
 circum 37
+natural 37
 mais 37
 intention 37
 gratiose 37
@@ -711,7 +712,6 @@ passava 36
 visita 36
 necesse 36
 campo 36
-natural 36
 studio 36
 situa 36
 calide 35
@@ -9629,6 +9629,7 @@ vadava 2
 Commencia 2
 Coperi 2
 testo 2
+estoniano 2
 fraternitate 1
 incolor 1
 vodka 1
@@ -9997,4 +9998,3 @@ isto; 1
 reimbursar 1
 sympathisantes 1
 augmento 1
-bullira 1

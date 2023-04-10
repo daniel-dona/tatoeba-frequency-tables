@@ -1,6 +1,6 @@
 an 630
 a 605
-Tá 602
+Tá 603
 mé 389
 ag 379
 Is 325
@@ -13,7 +13,7 @@ An 200
 bhfuil 199
 seo 183
 Ní 175
-agam 165
+agam 166
 Níl 158
 liom 148
 i 125
@@ -892,6 +892,7 @@ faire 2
 bosca 2
 trom 2
 bus 2
+Rúisis 2
 Eorpach 2
 capall 2
 t-ospidéal 2
@@ -1634,7 +1635,6 @@ bhfolach 1
 muiceoil 1
 naimhde 1
 reatha 1
-Rúisis 1
 tú" 1
 ea" 1
 New 1

@@ -1,4 +1,4 @@
-kɛ 539
+kɛ 540
 Töm 432
 ɛ 273
 jɛ 247
@@ -30,7 +30,7 @@ ti̱ 48
 ji̱ 44
 kɔn 43
 bä 42
-dee 39
+dee 40
 rɔ 38
 we 38
 mɔ 37
@@ -201,6 +201,7 @@ cop 9
 a 9
 tëkɛ 9
 Ta̱a̱ 9
+Cän 9
 nhɔkɛ 9
 ŋäci̱ 9
 Mɛri 9
@@ -209,12 +210,12 @@ rɛc 8
 gaat 8
 Mi̱ 8
 Kä 8
+ruëëc 8
 ɔ 8
 ti̲ 8
 gɔ̱a̱r 8
 nath 8
 näk 8
-Cän 8
 mi̱th 8
 Mɛri̲ 8
 kɔr 8
@@ -237,7 +238,6 @@ kök 7
 Ruacni̱ 7
 gɛr 7
 dial 7
-ruëëc 7
 thiaŋ 7
 mat 7
 wut 7
@@ -454,6 +454,7 @@ mɛn 4
 Ci̱ɛ 4
 gɔayɛ 4
 Nhɔkä 4
+mët 4
 ci̱ëëŋ 4
 yi̱ɛn 4
 mani̱ 4
@@ -635,7 +636,6 @@ dɔdi̱ɛn 3
 läri̱ 3
 luëk 3
 bi̱äyni̱ 3
-mët 3
 duɔth 3
 yi̱ëër 3
 Gör 3
@@ -2848,3 +2848,4 @@ yi̱ëënɛ 1
 kaw 1
 Cia 1
 kɛ̈ɛ̈l 1
+pa̱ 1

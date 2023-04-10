@@ -1,11 +1,11 @@
-es 6083
-la 5463
-ia 4684
+es 6085
+la 5464
+ia 4685
 de 3661
 un 3288
 ла 2802
 ес 2729
-Me 2484
+Me 2485
 иа 2153
 no 1941
 де 1874
@@ -14,7 +14,7 @@ a 1711
 Tom 1642
 en 1629
 ун 1365
-tu 1202
+tu 1204
 e 1193
 Ме 1183
 me 1151
@@ -25,8 +25,8 @@ ce 910
 но 910
 El 905
 ен 882
-Esce 801
-plu 718
+Esce 802
+plu 719
 va 703
 sua 663
 ме 662
@@ -45,7 +45,7 @@ Esta 539
 Nos 528
 con 492
 Том 469
-vole 464
+vole 465
 ке 462
 Tu 439
 ва 417
@@ -80,7 +80,7 @@ como 283
 debe 282
 alga 274
 Нос 271
-dise 265
+dise 266
 ta 263
 кон 261
 grande 255
@@ -97,7 +97,7 @@ vide 233
 ca 228
 Un 224
 нос 221
-parla 218
+parla 219
 vos 216
 Cual 214
 mundo 213
@@ -190,9 +190,9 @@ abita 114
 scrive 113
 ма 113
 аси 111
+conose 110
 fini 110
 trova 109
-conose 109
 peti 109
 Mary 109
 гранде 108
@@ -817,6 +817,7 @@ abrida 23
 енглес 23
 Е 23
 sete 22
+natural 22
 interesante 22
 ensenia 22
 senta 22
@@ -851,7 +852,6 @@ York 22
 Русиа 22
 idea 21
 boteca 21
-natural 21
 intende 21
 permete 21
 cuanto 21
@@ -2149,6 +2149,7 @@ demente 7
 suspeta 7
 jelada 7
 Pone 7
+"Tu 7
 12 7
 alerjica 7
 diva 7
@@ -2392,7 +2393,6 @@ asendador 6
 distantia 6
 sembla 6
 sal 6
-"Tu 6
 Iran 6
 universia 6
 atera 6

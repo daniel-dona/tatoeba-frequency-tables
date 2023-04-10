@@ -6,7 +6,7 @@ na 3800
 yi 2494
 ta 2474
 ne 2305
-ka 1823
+ka 1824
 iya 1393
 mai 1305
 Na 1224
@@ -26,7 +26,7 @@ yana 843
 daga 832
 zai 813
 son 790
-ku 790
+ku 789
 yin 761
 ko 749
 ke 715
@@ -350,8 +350,8 @@ shugaban 80
 daina 80
 dawo 79
 jira 79
+damu 79
 yara 79
-damu 78
 biya 78
 muke 77
 ƙoƙarin 77
@@ -3116,7 +3116,6 @@ santa 5
 Shekara 5
 ɗumi 5
 'Yanci 5
-daamu 5
 takalmin 5
 jinya 5
 shari'ar 5
@@ -3711,6 +3710,7 @@ rokon 4
 lahira 4
 kide-kide 4
 haƙƙin 4
+daamu 4
 hidima 4
 ƙwayoyin 4
 ƙuruciya 4

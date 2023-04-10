@@ -1,6 +1,6 @@
 la 1505
 de 1468
-a 1392
+a 1393
 que 1258
 el 1163
 és 980
@@ -11,7 +11,7 @@ en 603
 No 590
 per 523
 una 521
-i 504
+i 505
 El 504
 Tom 453
 La 391
@@ -1167,6 +1167,7 @@ trencada 6
 tampoc 6
 arribi 6
 Han 6
+Me 6
 dijous 6
 tallar 6
 cavall 6
@@ -1339,7 +1340,6 @@ peixos 5
 americà 5
 fem 5
 matar 5
-Me 5
 Podem 5
 política 5
 continuar 5
@@ -1640,6 +1640,7 @@ notícies 4
 acudits 4
 Aneu 4
 merda 4
+Plou 4
 Pare 4
 bou 4
 Parlant 4
@@ -2081,7 +2082,6 @@ augment 3
 be 3
 pressa 3
 infància 3
-Plou 3
 coneixes 3
 supermercat 3
 pràctica 3
@@ -3464,6 +3464,8 @@ bevem 2
 Grècia 2
 Entenc 2
 prens 2
+bots 2
+barrals 2
 farmàcia 2
 destruïda 2
 pont 2
@@ -7220,8 +7222,6 @@ l'esdeveniment 1
 9h 1
 blava 1
 canviant 1
-bots 1
-barrals 1
 CNN 1
 juris 1
 Madrid 1
@@ -9522,3 +9522,4 @@ perdiu 1
 desitjant 1
 paquets 1
 cigarrets 1
+equivoqué 1

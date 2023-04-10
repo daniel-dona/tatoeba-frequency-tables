@@ -1,5 +1,5 @@
 esas 2594
-la 2056
+la 2057
 Me 2028
 ne 1164
 La 919
@@ -9,7 +9,7 @@ tu 770
 Ka 610
 en 541
 havas 522
-es 434
+es 435
 Il 390
 di 376
 mea 363
@@ -676,6 +676,7 @@ mortigos 10
 unika 10
 geyo 10
 nulafoye 10
+Futuesez 10
 sango-preso 10
 saltar 10
 taso 9
@@ -751,7 +752,6 @@ gratitudoza 9
 kerlo 9
 dansas 9
 Trump 9
-Futuesez 9
 Kati 9
 koshmari 9
 voyajar 8
@@ -1288,6 +1288,7 @@ skribas 5
 eventar 5
 facenda 5
 montras 5
+policistaro 5
 fashisto 5
 miaulas 5
 Nord-Korea 5
@@ -1547,7 +1548,6 @@ stifa 4
 fragi 4
 dejuno 4
 cesas 4
-policistaro 4
 donacis 4
 momento 4
 esabis 4
@@ -2116,6 +2116,7 @@ viktimo 3
 solaneo 3
 impero 3
 traduko 3
+naturala 3
 falkono 3
 leopardo 3
 Unu 3
@@ -3257,7 +3258,6 @@ atrapis 2
 L'ucelo 2
 atakema 2
 triesma 2
-naturala 2
 prudenta 2
 kaptas 2
 gazelo 2
@@ -7847,3 +7847,4 @@ Autismoza 1
 enoyeskas 1
 severe 1
 paroliva 1
+Homeosexualeso 1
