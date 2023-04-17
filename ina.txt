@@ -1,17 +1,17 @@
-le 12800
-es 7920
+le 12801
+es 7922
 de 6813
-un 6792
+un 6793
 Le 4794
 ha 4694
 in 4297
 que 3829
 non 3662
-Io 3461
+Io 3469
 del 2929
 e 2917
 a 2638
-tu 2168
+tu 2169
 Ille 1799
 me 1564
 io 1564
@@ -30,7 +30,7 @@ esseva 1063
 pote 950
 nos 949
 mi 920
-multo 912
+multo 913
 iste 862
 per 822
 como 783
@@ -39,7 +39,7 @@ il 755
 grande 740
 Illa 708
 Tu 694
-Nos 688
+Nos 689
 blau 686
 Iste 652
 multe 578
@@ -55,15 +55,15 @@ qui 502
 isto 492
 Mi 491
 esser 490
-Un 486
+Un 487
 sur 466
-super 447
+super 448
 Illes 445
 facer 436
 In 432
 si 431
 bon 428
-tote 423
+tote 424
 on 417
 lingua 415
 ma 408
@@ -81,7 +81,7 @@ essite 345
 belle 344
 mundo 333
 Vos 326
-homine 324
+homine 325
 mesme 318
 duo 317
 toto 314
@@ -90,9 +90,9 @@ ben 310
 place 299
 aqua 295
 Si 294
+parla 292
 nostre 291
 ama 286
-parla 285
 sin 282
 sol 265
 On 263
@@ -121,8 +121,8 @@ son 211
 inter 210
 durante 209
 amor 209
+diceva 207
 morte 207
-diceva 206
 haber 204
 la 203
 Es 201
@@ -134,9 +134,9 @@ bibe 192
 pensa 191
 jam 189
 usque 186
+cosas 185
 trova 185
 ante 184
-cosas 184
 die 183
 crede 183
 facite 181
@@ -228,9 +228,9 @@ nunc 118
 alte 117
 anno 117
 Qual 116
+Ubi 115
 parola 115
 juvene 115
-Ubi 114
 vermente 113
 voleva 113
 homines 111
@@ -343,11 +343,11 @@ vetule 75
 nonne 75
 Illas 75
 heri 74
+filio 74
 debeva 74
 lecto 74
 cammino 74
 venir 73
-filio 73
 justo 73
 melio 73
 pensava 73
@@ -383,6 +383,7 @@ passate 67
 adjuta 67
 scientia 67
 jardin 66
+apprende 66
 filia 65
 etate 65
 Pote 65
@@ -394,7 +395,6 @@ trovate 65
 plagia 65
 arbore 65
 discurso 65
-apprende 65
 scribe 64
 littera 64
 mano 64
@@ -421,12 +421,12 @@ adjutar 61
 Post 61
 festa 60
 trovava 60
+habita 60
 poter 60
 travalio 60
 viro 60
 importa 59
 cinque 59
-habita 59
 dece 59
 orange 59
 visibile 59
@@ -701,6 +701,7 @@ commun 36
 caseo 36
 Solmente 36
 major 36
+aves 36
 sole 36
 village 36
 moriva 36
@@ -719,7 +720,6 @@ Japon 35
 inimico 35
 Face 35
 scribite 35
-aves 35
 mangiate 35
 cadeva 35
 vacantias 35
@@ -1140,6 +1140,7 @@ tecto 22
 esque 22
 debera 22
 eterne 22
+judeos 22
 Joe 22
 arrivara 21
 apprendite 21
@@ -1187,7 +1188,6 @@ demandar 21
 formas 21
 transverso 21
 currente 21
-judeos 21
 contente 21
 bananas 21
 datos 21
@@ -4245,6 +4245,7 @@ Jerry 5
 Aere 5
 Hippopotamos 5
 Expelle 5
+polonese 4
 volate 4
 convincite 4
 decisiones 4
@@ -5146,6 +5147,7 @@ canino 4
 claudicava 4
 coca 4
 Plica 4
+kurdo 4
 Virtualmente 4
 disponer 4
 autodisciplina 4
@@ -5179,7 +5181,6 @@ cave 4
 caninos 4
 Annuncios 4
 Rima 4
-polonese 3
 micre 3
 Ideas 3
 furiosemente 3
@@ -6559,6 +6560,7 @@ Ded 3
 Moroz 3
 transfereva 3
 filial 3
+israelitas 3
 Caliphato 3
 caliphas 3
 statouniteses 3
@@ -6604,7 +6606,6 @@ fictive 3
 adjutara 3
 heroinomane 3
 Mao 3
-kurdo 3
 kurde 3
 vomitate 3
 bicario 3
@@ -6625,6 +6626,7 @@ neon 3
 cocineros 3
 Orwell 3
 ericios 3
+sloveno 3
 schizzava 3
 picturava 3
 heroes 3
@@ -9247,7 +9249,6 @@ tracto 2
 2009 2
 retrahe 2
 nigro 2
-israelitas 2
 persas 2
 Muhammad 2
 interprendeva 2
@@ -9475,6 +9476,7 @@ ordinar 2
 Talossan 2
 Ladino 2
 Yamada 2
+uyghur 2
 Habeva 2
 spaghetti 2
 granfilio 2
@@ -9511,7 +9513,6 @@ stupefacente 2
 villano 2
 scelerato 2
 prevalera 2
-sloveno 2
 fidera 2
 Algiers 2
 spiritualitate 2
@@ -9532,6 +9533,7 @@ mordeva 2
 imperialista 2
 Iguanas 2
 sexy 2
+serbo 2
 buddhoanimista 2
 Buddhoanimismo 2
 ceramic 2
@@ -9604,6 +9606,8 @@ Randi 2
 hemisphera 2
 sinophobic 2
 nucleari 2
+bipede 2
+implumose 2
 interslavo 2
 Tace 2
 autistic 2
@@ -9994,7 +9998,3 @@ dispreciava 1
 derideva 1
 sojornava 1
 negotiante 1
-isto; 1
-reimbursar 1
-sympathisantes 1
-augmento 1

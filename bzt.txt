@@ -1,4 +1,4 @@
-es 113
+es 112
 Eo 83
 rhen 56
 yn 53
@@ -29,7 +29,6 @@ lesbian 8
 gath 7
 math 7
 i 7
-gw 6
 llifr 6
 Mew 6
 ffuin 6
@@ -37,6 +36,7 @@ sun 6
 Greid 6
 ed 6
 wol 6
+gw 5
 gran 5
 mhod 5
 nôn 5
@@ -115,7 +115,6 @@ mengib 3
 abit 3
 Ierusalem 3
 ngwidd 3
-ty 3
 h-ugell 3
 Ceosath 3
 Ceos 3
@@ -193,6 +192,7 @@ aruin 2
 saeth 2
 Yno 2
 manugar 2
+ty 2
 gwidder 2
 dif 2
 min 2
@@ -496,7 +496,8 @@ phorch 1
 thebent 1
 fefeirarai 1
 Esperanto 1
-h-es 1
+es-ty 1
+es-gw 1
 llugrar 1
 afer 1
 sugges 1

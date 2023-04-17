@@ -2,9 +2,9 @@ a 884
 de 768
 que 753
 o 702
-é 508
+é 509
 non 416
-un 392
+un 393
 O 365
 Non 322
 unha 310
@@ -87,7 +87,7 @@ nai 44
 min 44
 tarde 43
 teño 43
-home 41
+home 42
 ir 41
 Este 41
 inglés 40
@@ -116,10 +116,10 @@ iso 32
 dúas 31
 algo 31
 dous 31
+Un 31
 boa 31
 Quen 30
 vai 30
-Un 30
 Está 30
 pra 30
 quero 29
@@ -153,6 +153,7 @@ estás 26
 estou 26
 tes 26
 De 26
+amigo 25
 mesmo 25
 ter 25
 antes 25
@@ -160,7 +161,6 @@ Quero 24
 durante 24
 cousas 24
 mellor 24
-amigo 24
 semana 24
 súas 24
 tres 24
@@ -2467,6 +2467,7 @@ granxa 2
 gando 2
 euro 2
 exceso 2
+verdadeiro 2
 Veu 2
 ducha 2
 paso 2
@@ -5578,7 +5579,6 @@ promoves 1
 Metícheste 1
 causas 1
 impotencia 1
-verdadeiro 1
 teríache 1
 advertido 1
 Insistiu 1
@@ -7193,4 +7193,6 @@ mércores 1
 aplicación 1
 Vemos 1
 Decidiu 1
+Yanni 1
 Muhammad 1
+aconsellaríate 1

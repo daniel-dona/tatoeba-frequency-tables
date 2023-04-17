@@ -1,11 +1,11 @@
 Tom 1158
-Men 862
+Men 863
 Ol 483
 bilen 433
 Sen 309
 üçin 298
+Bu 287
 we 286
-Bu 285
 bir 217
 näme 208
 gowy 196
@@ -13,8 +13,8 @@ bu 190
 ol 189
 ony 189
 hiç 185
+däl 180
 Mery 180
-däl 179
 Meri 176
 öz 168
 aýtdy 168
@@ -40,7 +40,7 @@ gerek 93
 Siz 91
 wagt 91
 barada 91
-ýerde 88
+ýerde 89
 Mary 87
 köp 87
 dälmi 85
@@ -55,9 +55,9 @@ seniň 69
 kömek 68
 bolup 68
 haçan 67
-şu 66
+şu 67
 boldy 65
-onuň 61
+onuň 62
 gyz 60
 etdi 59
 oglan 58
@@ -88,9 +88,9 @@ Seniň 43
 saňa 43
 Bostona 43
 etmäge 41
+bolar 41
 oňa 40
 Awstraliýada 40
-bolar 40
 nädip 39
 pikirimçe 39
 barmy 38
@@ -149,13 +149,13 @@ jogap 29
 özi 29
 ýeke 29
 biri 29
+öň 28
 emma 28
 indi 28
 ýyl 28
 Marynyň 28
 hili 28
 pul 28
-öň 27
 eden 27
 bolýar 27
 Hiç 27
@@ -305,6 +305,7 @@ aý 14
 terjime 14
 bilýän 14
 bolýan 14
+halamaýaryn 14
 - 14
 sorady 14
 bilmez 14
@@ -323,7 +324,6 @@ birini 13
 gidýär 13
 bärik 13
 görýän 13
-halamaýaryn 13
 hakyky 13
 etjek 13
 gijä 13
@@ -394,6 +394,7 @@ mümkin 11
 özümi 11
 dur 11
 etdiler 11
+kitaby 11
 edenok 11
 zadym 11
 fransuz 11
@@ -431,7 +432,6 @@ aýdyň 10
 görmedim 10
 getirip 10
 Köp 10
-kitaby 10
 etmegini 10
 aýdan 10
 borçly 10
@@ -1301,6 +1301,7 @@ Türkmençe 3
 kinoteatra 3
 bişirýär 3
 diňleýärsiňmi 3
+Türkmenistanyň 3
 paýtagty 3
 öwrenjek 3
 jennetde 3
@@ -1321,6 +1322,7 @@ Türkmen 3
 gowrak 3
 beremok 3
 ölümden 3
+däldirin 3
 dişleri 3
 bererin 3
 bilmeýäris 3
@@ -1856,7 +1858,6 @@ arzuwym 2
 gepleýäris 2
 uklamak 2
 basyp 2
-Türkmenistanyň 2
 Iýmek 2
 synanyşjak 2
 Guş 2
@@ -1874,7 +1875,6 @@ Ejem 2
 kyrk 2
 öljek 2
 olardan 2
-däldirin 2
 tanamok 2
 çagasy 2
 Hudaýa 2
@@ -2075,6 +2075,7 @@ bermekçimi 2
 käbir 2
 23 2
 almalydygyny 2
+toparyň 2
 çykarýar 2
 suwsadýar 2
 getirýär 2
@@ -3954,7 +3955,6 @@ nemesçe 1
 kurslar 1
 maglumat 1
 edendikelrini 1
-toparyň 1
 kapitany 1
 saýlandy 1
 Elleme 1

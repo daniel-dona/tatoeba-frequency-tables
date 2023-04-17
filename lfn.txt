@@ -1,27 +1,27 @@
-es 6085
+es 6086
 la 5464
-ia 4685
+ia 4686
 de 3661
 un 3288
 ла 2802
 ес 2729
-Me 2485
+Me 2503
 иа 2153
 no 1941
 де 1874
 La 1732
 a 1711
 Tom 1642
-en 1629
+en 1631
 ун 1365
 tu 1204
-e 1193
+e 1196
 Ме 1183
-me 1151
-ave 1091
+me 1153
+ave 1093
 а 953
 Ла 932
-ce 910
+ce 911
 но 910
 El 905
 ен 882
@@ -31,7 +31,7 @@ va 703
 sua 663
 ме 662
 ту 655
-multe 651
+multe 652
 el 651
 per 645
 pote 626
@@ -42,7 +42,7 @@ lo 566
 mea 565
 аве 564
 Esta 539
-Nos 528
+Nos 529
 con 492
 Том 469
 vole 465
@@ -57,7 +57,7 @@ nos 383
 еста 368
 ел 364
 Ел 364
-tua 360
+tua 361
 мулте 355
 sabe 354
 Lo 351
@@ -67,9 +67,9 @@ gusta 350
 par 338
 Mea 331
 bon 330
-sur 326
+sur 327
 come 324
-On 321
+On 323
 суа 316
 пер 313
 куал 303
@@ -80,7 +80,7 @@ como 283
 debe 282
 alga 274
 Нос 271
-dise 266
+dise 267
 ta 263
 кон 261
 grande 255
@@ -92,12 +92,12 @@ tota 242
 Los 238
 vive 237
 o 237
+parla 236
 vide 233
 воле 232
 ca 228
 Un 224
 нос 221
-parla 219
 vos 216
 Cual 214
 mundo 213
@@ -123,8 +123,8 @@ asi 167
 вос 166
 En 165
 ci 164
+cada 164
 виве 164
-cada 162
 он 161
 otra 159
 A 156
@@ -150,8 +150,8 @@ du 138
 лос 138
 Maria 137
 куандо 137
+aprende 136
 алга 136
-aprende 135
 veni 135
 Меа 135
 жуа 134
@@ -164,9 +164,9 @@ ante 131
 can 129
 comensa 129
 mori 129
+tan 128
 se 128
 aora 127
-tan 127
 sin 127
 person 127
 madre 125
@@ -186,7 +186,7 @@ importante 118
 Perce 116
 om 116
 comprende 115
-abita 114
+abita 115
 scrive 113
 ма 113
 аси 111
@@ -196,9 +196,9 @@ trova 109
 peti 109
 Mary 109
 гранде 108
+Do 107
 leje 107
 Лос 107
-Do 106
 fem 105
 о 105
 gato 102
@@ -224,10 +224,10 @@ tra 95
 Alga 94
 мундо 94
 fia 93
+cosas 93
 meа 92
 demanda 92
 aveni 92
-cosas 92
 mone 92
 диа 92
 crede 91
@@ -278,10 +278,10 @@ cor 75
 Per 74
 nom 74
 studia 73
+loca 73
 коменса 73
 компра 73
 ami 72
-loca 72
 анте 72
 linguas 71
 аниос 71
@@ -416,6 +416,7 @@ ier 47
 brasilera 47
 Dio 47
 деманда 47
+gatos 47
 recorda 46
 tal 46
 min 46
@@ -437,7 +438,6 @@ Ma 45
 дорми 45
 веа 45
 Ки 45
-gatos 45
 нада 45
 parolas 44
 amis 44
@@ -473,6 +473,7 @@ seja 42
 акуа 42
 уса 42
 се 42
+fio 41
 responde 41
 rompe 41
 tradui 41
@@ -487,7 +488,6 @@ juor 41
 абита 41
 ала 41
 ensenior 41
-fio 40
 desira 40
 dias 40
 arbor 40
@@ -546,11 +546,13 @@ intelijentia 36
 кан 36
 Токи 36
 calda 35
+parte 35
 malada 35
 fatigada 35
 velia 35
 sinco 35
 prende 35
+frecuente 35
 Dona 35
 xerca 35
 re 35
@@ -562,10 +564,8 @@ oposor 35
 cadun 34
 crea 34
 engles 34
-parte 34
 pasa 34
 vola 34
-frecuente 34
 umanas 34
 te 34
 pico 34
@@ -1154,6 +1154,7 @@ inverno 15
 medical 15
 nega 15
 espresa 15
+jonguo 15
 tensa 15
 eseta 15
 тера 15
@@ -1181,6 +1182,7 @@ lapis 15
 Ela 15
 Intelijentia 15
 alma 15
+Pardona 14
 colores 14
 forma 14
 Italia 14
@@ -1244,7 +1246,6 @@ oportun 14
 jenio 14
 ело 14
 Yanni 14
-Pardona 13
 foresta 13
 Bonveni 13
 fias 13
@@ -1284,7 +1285,6 @@ Alora 13
 saja 13
 xicas 13
 estrema 13
-jonguo 13
 amira 13
 renovi 13
 damas 13
@@ -1328,6 +1328,7 @@ sona 13
 коке 13
 диференте 13
 sabori 13
+iudis 13
 интелижентиа 13
 bispo 13
 peon 13
@@ -1456,7 +1457,6 @@ Ier 12
 вестес 12
 Сами 12
 apesta 12
-iudis 12
 Umanas 12
 Esther 12
 Elo 12
@@ -2228,6 +2228,7 @@ fortunosa 7
 trematera 7
 20 7
 Tan 7
+polsce 7
 comica 7
 coaveni 7
 nuda 7
@@ -2512,7 +2513,6 @@ fontes 6
 Iaue 6
 asente 6
 balgarsce 6
-polsce 6
 enspira 6
 reserva 6
 Ultima 6
@@ -4883,6 +4883,7 @@ gal 3
 avisada 3
 Cautia 3
 conselada 3
+uigur 3
 Computadores 2
 105 2
 Encantada 2
@@ -6186,6 +6187,7 @@ sodomia 2
 caca 2
 Deveni 2
 Исраел 2
+raziste 2
 coardes 2
 tradision 2
 депенденте 2
@@ -6665,6 +6667,7 @@ retiles 2
 sofiste 2
 berber 2
 itiopian 2
+arami 2
 Камбиа 2
 Atenta 2
 Атента 2
@@ -6686,9 +6689,11 @@ Bruxelles 2
 vada 2
 Este 2
 realosa 2
+serbsce 2
 despermete 2
 viruses 2
 Sonia 2
+amarina 2
 granda 2
 Proba 2
 operante 2
@@ -6856,6 +6861,7 @@ sacra 2
 асендентес 2
 crustaseos 2
 пулса 2
+ivris 2
 офенде 2
 Мэри 2
 кусинес 2
@@ -7032,6 +7038,7 @@ cautia 2
 conselable 2
 Trata 2
 nazis 2
+bod 2
 reconstrui 1
 Escusa 1
 Jim 1
@@ -9991,10 +9998,3 @@ prinsipes 1
 грасиоса 1
 Кимура 1
 Дшимоерон 1
-2913 1
-гома 1
-Аполло 1
-наве 1
-Урано 1
-нон 1
-десковреда 1

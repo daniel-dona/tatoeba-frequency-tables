@@ -1,10 +1,10 @@
 Ik 3210
 is 3209
-dat 2782
+dat 2788
 en 2514
 de 2475
 nich 1942
-du 1685
+du 1687
 hett 1600
 He 1473
 in 1454
@@ -13,7 +13,7 @@ to 1322
 Dat 1273
 heff 1253
 ik 1231
-Se 1154
+Se 1156
 ’n 1073
 mi 1057
 un 882
@@ -21,7 +21,7 @@ von 844
 mit 774
 as 771
 op 716
-di 658
+di 659
 em 655
 an 650
 na 639
@@ -30,16 +30,16 @@ sünd 606
 Tom 603
 wat 542
 weer 530
+he 519
 Wi 519
-he 518
 den 500
-hebbt 489
+hebbt 491
 bün 487
 Wat 486
 sien 478
 för 465
 ehr 463
-keen 451
+keen 454
 Du 450
 deed 441
 kann 438
@@ -55,7 +55,7 @@ noch 351
 Mien 342
 veel 341
 will 334
-hest 316
+hest 317
 harr 286
 Huus 285
 üm 281
@@ -64,9 +64,9 @@ vör 260
 bi 256
 uns 255
 wi 253
+ji 252
 al 252
 twee 251
-ji 250
 mehr 247
 nix 244
 ’e 244
@@ -98,7 +98,7 @@ wesen 176
 seggt 173
 schall 172
 geiht 169
-Wenn 165
+Wenn 168
 temlich 164
 lang 164
 disse 162
@@ -114,11 +114,11 @@ dit 152
 Hund 151
 nu 150
 snackt 149
+denn 146
 ook 145
 Vader 144
 Is 144
 worrn 144
-denn 143
 ’Keen 140
 Dag 139
 Dor 139
@@ -132,10 +132,10 @@ kunn 127
 allens 126
 groot 125
 köfft 123
+Woveel 120
 oder 119
 Water 118
 beter 117
-Woveel 117
 School 116
 Dit 112
 Woneem 111
@@ -190,9 +190,9 @@ Dokter 80
 liggt 80
 Nacht 80
 hebben 79
+jo 79
 bet 79
 speelt 78
-jo 78
 Öllern 78
 af 77
 föhrt 77
@@ -228,12 +228,13 @@ Japan 65
 daan 65
 alleen 65
 leevt 65
+deit 64
+worüm 64
 schusst 64
 Satz 64
 gah 63
 nie 63
 lehren 63
-deit 62
 leest 62
 Hoor 62
 Welt 62
@@ -243,7 +244,6 @@ wahnt 61
 köpen 61
 dör 61
 sütt 61
-worüm 61
 köst 61
 Kind 61
 trügg 61
@@ -443,9 +443,11 @@ anner 33
 Dien 33
 Stünn 33
 Hunnen 33
+drunken 33
 her 33
 gistern 33
 Do 32
+Wien 32
 hitt 32
 Appel 32
 negen 32
@@ -478,11 +480,10 @@ Dörp 30
 itt 30
 weh 30
 keek 30
-drunken 30
 anfungen 30
 twintig 29
+ok 29
 smuck 29
-Wien 29
 Sommer 29
 Weg 29
 Foot 29
@@ -500,7 +501,6 @@ Deerns 29
 ees 29
 drinkt 28
 rin 28
-ok 28
 wennt 28
 Vör 28
 leddig 28
@@ -555,6 +555,7 @@ Weetst 26
 Japaansch 26
 doot 26
 Fleesch 26
+deist 26
 Bild 26
 Gifft 26
 Vagels 26
@@ -578,7 +579,6 @@ olen 25
 Düütschland 25
 översetten 25
 Radio 25
-deist 25
 avend 25
 Köönt 25
 An 25
@@ -968,6 +968,7 @@ Australien 14
 nöhm 14
 Breef 14
 äten 14
+mookt 14
 Düsse 13
 - 13
 Maria 13
@@ -1162,7 +1163,6 @@ lieker 11
 Höör 11
 hört 11
 kören 11
-mookt 11
 wœr 11
 up’n 10
 setten 10
@@ -2527,6 +2527,7 @@ smeren 4
 armen 4
 fangen 4
 könen 4
+Jem 4
 Donau 4
 Bibliotheek 4
 Frücht 4
@@ -2534,6 +2535,7 @@ Problem 4
 düütschen 4
 Linda 4
 Leevdaag 4
+Spaß 4
 plästern 4
 inslopen 4
 befründt 4
@@ -3206,7 +3208,6 @@ tostännig 3
 intressante 3
 Kumm 3
 opwaakt 3
-Jem 3
 verpuusten 3
 Faken 3
 lach 3
@@ -9126,7 +9127,6 @@ Pistolen 1
 verkööpt 1
 vörigen 1
 Telegramm 1
-Spaß 1
 verlöven 1
 Dänserinnen 1
 opfleet 1
