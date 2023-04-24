@@ -1,9 +1,9 @@
 on 1362
 Ma 876
-ei 700
+ei 701
 Tom 569
 sa 410
-Kas 399
+Kas 400
 et 314
 Ta 311
 See 263
@@ -321,6 +321,7 @@ Räägi 12
 kohe 11
 kirja 11
 Head 11
+Täna 11
 vend 11
 lahti 11
 elu 11
@@ -345,7 +346,6 @@ kuus 10
 juurde 10
 Selle 10
 varem 10
-Täna 10
 head 10
 osta 10
 Isa 10
@@ -405,6 +405,7 @@ sõbrad 9
 huvitav 9
 lugeda 9
 räägitakse 9
+sajab 9
 Mitu 9
 vanemad 9
 usu 9
@@ -453,6 +454,7 @@ kõrval 8
 Aitäh 8
 tahtsin 8
 korra 8
+vihma 8
 peaksin 8
 tõenäoliselt 8
 kirjutas 8
@@ -508,6 +510,7 @@ Talle 7
 Teie 7
 pikk 7
 arvasin 7
+tugev 7
 viimane 7
 hiljem 7
 aeg 7
@@ -533,7 +536,6 @@ näeb 7
 kuhu 7
 poeg 7
 pime 7
-sajab 7
 lilli 7
 läksid 7
 näen 7
@@ -569,7 +571,6 @@ Kelle 6
 laulja 6
 Homme 6
 edasi 6
-tugev 6
 Poiss 6
 ju 6
 Tundub 6
@@ -592,7 +593,6 @@ vähem 6
 lõunat 6
 tundi 6
 abi 6
-vihma 6
 kellelegi 6
 kiire 6
 saaks 6
@@ -674,6 +674,8 @@ söönud 5
 keelest 5
 maailm 5
 jalgratas 5
+Eile 5
+sadas 5
 lund 5
 õhtust 5
 toit 5
@@ -791,6 +793,7 @@ surid 5
 Aafrikas 5
 Kreekas 5
 Tõenäoliselt 5
+tuul 4
 sain 4
 nõus 4
 otsustas 4
@@ -827,8 +830,6 @@ alasti 4
 suudelda 4
 käis 4
 sooviksin 4
-Eile 4
-sadas 4
 võiksin 4
 leida 4
 ega 4
@@ -1403,7 +1404,6 @@ Pool 3
 tädi 3
 lahkunud 3
 leidis 3
-tuul 2
 tänavatel 2
 antud 2
 südametunnistus 2
@@ -6290,3 +6290,6 @@ kirurgi 1
 ahvid 1
 operatsioon 1
 õlg 1
+Puhub 1
+puhu 1
+Vihma 1

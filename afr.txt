@@ -1,5 +1,5 @@
 nie 1218
-is 988
+is 990
 Ek 925
 het 922
 die 716
@@ -12,7 +12,7 @@ om 286
 van 271
 Die 263
 jou 260
-dit 255
+dit 256
 vir 242
 in 239
 ek 218
@@ -126,11 +126,11 @@ gesien 25
 nuwe 25
 Wanneer 25
 besig 25
+gedoen 25
 ken 24
 geen 24
 voel 24
 uit 24
-gedoen 24
 weer 24
 geld 24
 kar 23
@@ -341,6 +341,7 @@ gedink 9
 loop 9
 Almal 9
 koek 9
+Nee 9
 daaroor 9
 blou 9
 koud 9
@@ -380,7 +381,6 @@ donker 8
 Met 8
 Watter 8
 ryk 8
-Nee 8
 bottel 8
 steek 8
 moeilik 8
@@ -3531,3 +3531,5 @@ dan 1
 vuilnisman 1
 vleier 1
 gedaan 1
+Luiperds 1
+roofdiere 1

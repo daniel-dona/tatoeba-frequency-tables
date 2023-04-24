@@ -1,12 +1,12 @@
-är 10593
+är 10594
 Jag 10437
 inte 6345
 att 6324
 Tom 6268
 du 4659
 en 4648
-på 4479
-det 4329
+på 4480
+det 4330
 i 4135
 har 3840
 Det 3573
@@ -30,8 +30,8 @@ kan 1583
 Du 1475
 av 1446
 kommer 1143
-han 1141
-sig 1096
+han 1142
+sig 1097
 så 1085
 Vad 1061
 vill 1043
@@ -78,7 +78,7 @@ er 496
 man 488
 Varför 486
 Min 485
-från 470
+från 471
 aldrig 462
 någon 432
 åt 425
@@ -110,7 +110,7 @@ två 331
 kunde 331
 älskar 329
 En 327
-såg 321
+såg 322
 efter 318
 in 316
 över 314
@@ -201,6 +201,7 @@ sett 168
 engelska 167
 Skulle 167
 länge 167
+Ziri 166
 tala 164
 åka 163
 dina 163
@@ -210,16 +211,16 @@ kaffe 159
 står 158
 språk 157
 under 157
+visste 157
 håller 157
-visste 156
 svårt 155
 namn 155
 nya 154
 tar 154
 Kom 153
+gjort 153
 dörren 153
 varje 152
-gjort 152
 boken 151
 idag 150
 nästan 150
@@ -235,7 +236,6 @@ Boston 143
 ner 142
 verkar 141
 ur 139
-Ziri 139
 förstår 137
 vänner 135
 lära 135
@@ -321,11 +321,11 @@ dricker 101
 kväll 101
 saker 101
 ganska 100
-problem 100
 lätt 99
 vår 99
 jobbet 99
 snart 99
+problem 99
 nog 99
 gånger 98
 innan 98
@@ -379,9 +379,9 @@ Att 86
 ännu 86
 snabbt 85
 höll 85
+slog 85
 igår 84
 rummet 84
-slog 84
 tidigt 83
 börjar 83
 genom 82
@@ -406,20 +406,20 @@ mor 79
 sjuk 79
 åkte 79
 tillsammans 79
+hörde 79
 arg 78
 sova 78
-hörde 78
 höra 77
 annan 77
 senare 77
 Här 77
+träffade 77
 väntar 77
 lämna 76
 enda 76
 sent 76
 staden 76
 Håll 76
-träffade 76
 Säg 76
 imorgon 75
 lade 75
@@ -513,13 +513,13 @@ använder 60
 tvungen 60
 följa 59
 bäst 59
+stannade 59
 svar 59
 svenska 59
 satte 59
 först 59
 sen 58
 tyska 58
-stannade 58
 ledsen 58
 be 58
 vore 58
@@ -530,8 +530,10 @@ enkelt 57
 hunden 57
 förra 57
 folk 57
+ringde 57
 livet 57
 vin 57
+hjälpte 57
 kul 57
 stora 57
 fast 57
@@ -540,9 +542,7 @@ Många 56
 kallt 56
 fanns 56
 middag 56
-ringde 56
 problemet 56
-hjälpte 56
 dotter 56
 dåligt 56
 stund 56
@@ -615,6 +615,7 @@ ursäkt 49
 japanska 49
 hatt 49
 betyder 49
+älskade 49
 visade 49
 fisk 49
 förlorade 49
@@ -626,7 +627,6 @@ ert 49
 tidigare 48
 högt 48
 katter 48
-älskade 48
 Katten 48
 använda 48
 föredrar 48
@@ -727,6 +727,7 @@ brukade 42
 litar 42
 träd 42
 läkare 41
+gillade 41
 trevlig 41
 svart 41
 körde 41
@@ -740,13 +741,13 @@ händerna 41
 ögonen 41
 slutade 41
 Titta 41
-gillade 40
 passar 40
 låna 40
 sju 40
 laga 40
 framför 40
 känna 40
+Nej 40
 katten 40
 chans 40
 nyss 40
@@ -765,7 +766,6 @@ sönder 39
 röka 39
 Ja 39
 fall 39
-Nej 39
 maten 39
 förklara 39
 gråta 39
@@ -877,6 +877,7 @@ Hämta 33
 schack 33
 stoppa 33
 Liisa 33
+Rima 33
 åtta 32
 sätta 32
 stal 32
@@ -898,6 +899,7 @@ vänlig 32
 tycka 32
 även 32
 Stäng 32
+kysste 32
 Kina 31
 tåg 31
 Mannen 31
@@ -912,7 +914,6 @@ före 31
 översätta 31
 Livet 31
 modersmål 31
-kysste 31
 bilden 31
 ändra 31
 Stanna 31
@@ -970,6 +971,7 @@ gratis 29
 förbi 29
 Ha 29
 ansikte 29
+hatade 29
 gråter 29
 lust 29
 kalla 28
@@ -998,6 +1000,7 @@ flesta 28
 reglerna 28
 lyckades 28
 allvarligt 28
+sköt 28
 riktig 28
 floden 28
 kinesiska 28
@@ -1007,7 +1010,6 @@ stängde 28
 vattnet 28
 berättar 28
 blod 28
-hatade 28
 hittat 28
 handlar 27
 barnet 27
@@ -1029,7 +1031,6 @@ kvällen 27
 Ibland 27
 håret 27
 sjukhuset 27
-sköt 27
 ärlig 27
 lördag 27
 halv 27
@@ -1361,6 +1362,7 @@ Prata 19
 tusen 19
 dyr 19
 Tyvärr 19
+rörde 19
 kolla 19
 vinner 19
 gömde 19
@@ -1422,7 +1424,6 @@ kamera 18
 gjord 18
 Trots 18
 Bara 18
-rörde 18
 vackraste 18
 minst 18
 Visst 18
@@ -1727,6 +1728,7 @@ Grekland 14
 morbror 14
 löfte 14
 vägrade 14
+bet 14
 tacka 14
 nåt 14
 for 14
@@ -1830,7 +1832,6 @@ villkor 13
 fan 13
 bryta 13
 delade 13
-bet 13
 värsta 13
 kylskåpet 13
 starkare 13
@@ -2085,7 +2086,6 @@ söner 11
 vis 11
 jobbade 11
 fötterna 11
-alkohol 11
 döv 11
 ångrar 11
 sänka 11
@@ -2150,6 +2150,7 @@ uppenbart 11
 salu 11
 ifred 11
 Saknar 11
+skrämde 11
 hett 11
 överraskade 11
 slåss 11
@@ -2169,6 +2170,7 @@ erkänner 11
 Spanien 11
 övrigt 11
 tysk 11
+litade 11
 möte 11
 tillåtet 11
 äkta 11
@@ -2257,6 +2259,7 @@ koppen 10
 flygplanet 10
 vetat 10
 planerar 10
+alkohol 10
 blöder 10
 föreslår 10
 fågeln 10
@@ -2334,7 +2337,6 @@ lurade 10
 räcker 10
 svimmade 10
 Använder 10
-skrämde 10
 naken 10
 säkerhet 10
 "Det 10
@@ -2345,7 +2347,6 @@ hjärtat 10
 Hälsa 10
 hemligheter 10
 absolut 10
-litade 10
 Bägge 10
 kemi 10
 hinna 10
@@ -2641,6 +2642,7 @@ ljud 8
 fantasi 8
 cykla 8
 lyfta 8
+tackade 8
 Ann 8
 Snart 8
 räckte 8
@@ -2917,7 +2919,6 @@ fälla 7
 stoppade 7
 kullen 7
 blicken 7
-tackade 7
 kraftigt 7
 rekommenderar 7
 motvilligt 7
@@ -2979,6 +2980,7 @@ kon 7
 vittnen 7
 sköts 7
 rymt 7
+mötte 7
 likadant 7
 firade 7
 smutsigt 7
@@ -3228,6 +3230,7 @@ mötas 6
 Bilden 6
 examen 6
 promenerar 6
+skilde 6
 universitet 6
 ambulans 6
 avslöja 6
@@ -3341,7 +3344,6 @@ anställda 6
 extra 6
 snygga 6
 mörka 6
-mötte 6
 Oavsett 6
 fester 6
 doktorn 6
@@ -3550,6 +3552,7 @@ måla 6
 Hästar 6
 Redan 6
 barnbarn 6
+jagade 6
 Mer 6
 Luta 6
 måltid 6
@@ -3650,7 +3653,6 @@ begravde 6
 get 6
 bevittnade 6
 bidrog 6
-Rima 6
 mataffären 6
 bebis 5
 Stick 5
@@ -3665,7 +3667,6 @@ Nederländerna 5
 atmosfär 5
 kliva 5
 mänskliga 5
-skilde 5
 erfarenheter 5
 besvikna 5
 värde 5
@@ -4117,7 +4118,6 @@ ropade 5
 vuxit 5
 umgås 5
 sköljde 5
-jagade 5
 gäspade 5
 sken 5
 bidrag 5
@@ -4145,6 +4145,7 @@ smak 5
 svansen 5
 offer 5
 planerade 5
+kittlade 5
 slocknade 5
 torrt 5
 Stannar 5
@@ -4259,6 +4260,7 @@ mig" 5
 snåla 5
 Sopa 5
 Platsen 5
+attackerade 5
 bruten 5
 börda 5
 åttiosju 5
@@ -4962,7 +4964,6 @@ blickar 4
 åtskilliga 4
 hiss 4
 rama 4
-kittlade 4
 tidiga 4
 Förvänta 4
 Trevlig 4
@@ -5194,7 +5195,6 @@ fasters 4
 farbrors 4
 barnbarns 4
 dusch 4
-attackerade 4
 ersatte 4
 kapitulera 4
 uppfylld 4
@@ -9587,6 +9587,7 @@ Spiken 2
 antågande 2
 Milano 2
 Förmår 2
+befriade 2
 försvunnen 2
 lämnad 2
 övergivit 2
@@ -9997,4 +9998,3 @@ duschade 2
 antikviteter 2
 bönor 2
 Mary" 2
-Böckerna 2

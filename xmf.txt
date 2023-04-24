@@ -1,23 +1,23 @@
-Ma 124
-re 68
+Ma 125
+re 69
 ma 42
 Tom 32
  26
+Si 24
 te 24
-Si 23
 si 18
 oko 15
 do 15
+Tena 15
 Tina 15
 რე 14
-Tena 14
-Chqi 13
+Chqi 14
+vore 13
 vare 13
 moko 13
 tena 13
 Tomi 13
 მა 12
-vore 12
 chqimi 12
 Tqva 12
 tina 12
@@ -26,10 +26,10 @@ jgiri 11
 dghas 11
 ꞇudes 11
 Toms 11
-tomi 10
+tomi 11
+So 10
 tis 9
 meri 9
-So 9
 xolo 9
 tom 9
 taqi 8
@@ -61,6 +61,7 @@ ragadi 6
 თენა 5
 ჩქი 5
 თე 5
+shilebe 5
 dio 5
 Muçho 5
 ʒaneri 5
@@ -74,7 +75,6 @@ merish 4
 rina 4
 joghori 4
 Ase 4
-shilebe 4
 Qishilebeno 4
 michqu 4
 martal 4
@@ -240,6 +240,7 @@ kuchxit 2
 nervianenqo 2
 vafu 2
 qot 2
+tishi 2
 amnaxanṫi 2
 shemlebƨ 2
 muq 2
@@ -325,7 +326,6 @@ namut 2
 ortu 2
 malas 2
 gilula 2
-oxorja 2
 gomordzgua 2
 ragadanqo 2
 jgir 2
@@ -768,7 +768,6 @@ bunash 1
 katiny 1
 vagafu 1
 ketebul 1
-tishi 1
 naragadshe 1
 1000 1
 dolary 1
@@ -1308,6 +1307,7 @@ shansi 1
 qomuchiti 1
 idealisṫi 1
 margali 1
+oxordja 1
 ṫelevizion 1
 vaujina 1
 benzins 1
@@ -1663,6 +1663,7 @@ Sore 1
 ʒɣars 1
 bshunq 1
 vaꞇuntsu 1
+oxorja 1
 Mire 1
 gegito 1
 moxvad 1
@@ -1724,7 +1725,7 @@ gindze 1
 Kotkvi 1
 djaşi 1
 Siṫƨba 1
-kudokidit 1
+kudoskidit 1
 Prangulo 1
 ragadana 1
 shveitsarias 1
@@ -2012,3 +2013,11 @@ Skany 1
 dobshurdi 1
 donjira 1
 vokitxuqu 1
+rdjerso 1
+bdzire 1
+andvili 1
+magurafu 1
+çhumani 1
+vamghuna 1
+gurafa 1
+Merchqvana 1

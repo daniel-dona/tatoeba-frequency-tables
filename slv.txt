@@ -1,9 +1,9 @@
-je 466
+je 468
 Ali 200
-se 124
-v 118
+se 127
+v 124
 Tom 101
-sem 95
+sem 96
 govorite 86
 Govoriš 85
 govoriš 85
@@ -11,7 +11,7 @@ Govorite 85
 ne 80
 da 77
 in 72
-na 67
+na 68
 Ne 66
 si 58
 mi 56
@@ -29,18 +29,18 @@ Jaz 29
 z 28
 lahko 27
 to 27
+Koliko 27
 ki 26
 Kaj 26
-Koliko 26
 zelo 25
 Mary 25
 ti 23
 moj 22
 Živijo 21
 bil 21
+dan 20
 te 20
 Moje 20
-dan 19
 kot 19
 živi 19
 bom 19
@@ -57,6 +57,7 @@ francosko 15
 od 14
 moja 14
 jo 14
+ta 14
 več 14
 jezik 14
 moje 14
@@ -66,7 +67,6 @@ Kje 13
 Kdo 13
 bila 13
 Zakaj 13
-ta 13
 V 12
 Ta 12
 kaj 12
@@ -113,9 +113,11 @@ denarja 9
 nekaj 9
 Ljubim 9
 Želim 8
+Nimam 8
 tvoj 8
 nikoli 8
 Mi 8
+ura 8
 Ona 8
 Ko 8
 pa 8
@@ -130,7 +132,6 @@ dve 7
 Prosim 7
 mati 7
 Hočem 7
-ura 7
 bilo 7
 tem 7
 Če 7
@@ -154,7 +155,6 @@ Marija 7
 A 7
 Ni 6
 kavo 6
-Nimam 6
 mizi 6
 Moja 6
 včeraj 6
@@ -266,6 +266,8 @@ baskovsko 5
 retoromansko 5
 maratsko 5
 tamilsko 5
+Hudič 5
+detajlih 5
 Rada 4
 imam 4
 želim 4
@@ -286,6 +288,7 @@ imate 4
 let 4
 konec 4
 kdaj 4
+star 4
 fant 4
 reko 4
 mojo 4
@@ -414,7 +417,6 @@ uro 3
 postati 3
 Oče 3
 umrl 3
-star 3
 Bilo 3
 žena 3
 London 3
@@ -459,6 +461,7 @@ ostal 3
 morali 3
 roko 3
 Mislil 3
+čas 3
 poklicati 3
 Od 3
 pokonci 3
@@ -528,6 +531,7 @@ belorusko 3
 francoski 3
 španski 3
 Veter 3
+skriva 3
 Znaš 2
 Ujgur 2
 tebi 2
@@ -689,6 +693,7 @@ preveč 2
 Z 2
 povem 2
 presenečen 2
+Tudi 2
 ljubiš 2
 mrtev 2
 Svojih 2
@@ -697,7 +702,6 @@ problem 2
 Šel 2
 Skoraj 2
 hočeš 2
-čas 2
 poslati 2
 Moral 2
 posluša 2
@@ -714,6 +718,7 @@ niti 2
 punco 2
 Trenutno 2
 pred 2
+kaže 2
 Tvoj 2
 ljudem 2
 Želiš 2
@@ -863,6 +868,7 @@ hrbet 2
 obljubiš 2
 hitro 2
 navijal 2
+mačke 2
 Pogrešam 2
 Pohiti 2
 mleko 2
@@ -1496,7 +1502,6 @@ začel 1
 prižigati 1
 sveče 1
 odpovedjo 1
-Tudi 1
 očali 1
 vidi 1
 rečeš 1
@@ -1675,7 +1680,6 @@ krmarite 1
 ladjo 1
 pomorska 1
 karta 1
-kaže 1
 plitvine 1
 dvignil 1
 kozarec 1
@@ -2341,7 +2345,6 @@ učim 1
 nikomur 1
 Psi 1
 sovražijo 1
-mačke 1
 Verjemi 1
 situacija 1
 neprijetna 1
@@ -2861,3 +2864,14 @@ priložnost 1
 vrlino 1
 študija 1
 modrosti 1
+pokvarjena 1
+dvakrat 1
+pravilen 1
+tiči 1
+Vrag 1
+podrobnostih 1
+Pozabil 1
+PIN 1
+kodo 1
+otrok 1
+grad 1

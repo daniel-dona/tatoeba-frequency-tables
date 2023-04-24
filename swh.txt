@@ -1,6 +1,6 @@
 ya 1292
 na 1069
-wa 751
+wa 752
 kwa 695
 ni 620
 katika 241
@@ -9,7 +9,7 @@ kuwa 214
 za 212
 la 201
 cha 179
-sana 173
+sana 174
 Je 168
 kama 151
 wakati 147
@@ -95,11 +95,11 @@ muhimu 38
 Ikiwa 38
 Hakuna 37
 sehemu 37
+leo 36
 kidogo 36
 unaweza 36
 Wakati 36
 Mimi 35
-leo 35
 zote 35
 lazima 35
 bila 35
@@ -181,6 +181,7 @@ kulala 23
 naye 23
 joto 23
 duka 23
+ulimwengu 23
 biashara 23
 pesa 23
 Watu 22
@@ -194,7 +195,6 @@ ina 22
 maarufu 22
 hatua 22
 wengine 22
-ulimwengu 22
 hakuna 22
 fulani 22
 yeyote 22
@@ -1172,6 +1172,7 @@ kikubwa 4
 Jumanne 4
 inatoa 4
 ushuru 4
+Teknolojia 4
 Sayansi 4
 kiangazi 4
 kifalme 4
@@ -1515,7 +1516,6 @@ wito 3
 bilioni 3
 kupunguzwa 3
 Ungependa 3
-Teknolojia 3
 maumbile 3
 afanye 3
 mvulana 3
@@ -9282,3 +9282,4 @@ Kianglo-Saxon 1
 wanachukuliwa 1
 Ubelgiji 1
 unatazama 1
+imesaidia 1

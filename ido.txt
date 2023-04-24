@@ -1,21 +1,21 @@
-esas 2594
-la 2057
-Me 2028
+esas 2597
+la 2059
+Me 2029
 ne 1164
-La 919
+La 920
 me 814
-Tom 781
+Tom 783
 tu 770
 Ka 611
-en 541
+en 542
 havas 522
 es 435
 Il 390
 di 376
-mea 363
+mea 364
 vu 362
-ke 358
-a 348
+ke 359
+a 349
 Ni 344
 e 333
 esis 306
@@ -26,7 +26,7 @@ por 253
 Tu 247
 Mea 242
 il 222
-plu 206
+plu 207
 El 201
 de 192
 bona 186
@@ -34,7 +34,7 @@ savas 172
 Ilu 171
 ni 171
 kun 169
-kam 168
+kam 169
 tua 166
 sua 165
 to 165
@@ -51,15 +51,15 @@ libro 121
 el 118
 vi 117
 parolas 116
-ol 115
-Esas 114
+ol 116
+Esas 115
 Ube 113
 Qua 112
 Mary 110
 granda 105
 multa 104
+Vu 100
 maxim 100
-Vu 99
 amas 99
 bezonas 99
 Pro 98
@@ -162,12 +162,12 @@ Omna 43
 nulo 43
 vidas 43
 ja 43
+Quala 43
 drinkas 43
 Ilua 42
 kafeo 42
 lua 42
 tri 42
-Quala 42
 Se 41
 arivis 41
 urbo 41
@@ -178,9 +178,9 @@ On 40
 ube 40
 ka 39
 habitas 39
+importanta 39
 venas 39
 kompris 38
-importanta 38
 vidar 37
 che 37
 infanti 37
@@ -195,11 +195,11 @@ iris 36
 okuli 36
 til 36
 facis 36
-kredas 35
+kredas 36
+manjis 35
 iras 34
 letro 34
 chambro 34
-manjis 34
 Quante 34
 facas 34
 ante 34
@@ -285,6 +285,7 @@ olu 24
 trovis 24
 lingui 24
 tablo 24
+persono 24
 genitori 24
 tam 24
 suno 24
@@ -301,7 +302,6 @@ anke 24
 Esperanto 24
 Sami 24
 pordo 23
-persono 23
 plus 23
 tala 23
 komprar 23
@@ -514,6 +514,7 @@ preferas 13
 Saluto 13
 okupata 13
 fino 13
+Omni 13
 konocis 13
 Eli 13
 nulatempe 13
@@ -555,7 +556,6 @@ posedas 12
 studento 12
 fotografuro 12
 maro 12
-Omni 12
 recevis 12
 propra 12
 vakua 12
@@ -662,6 +662,7 @@ bruiso 10
 esez 10
 monato 10
 dolca 10
+koqueyo 10
 eventas 10
 Vua 10
 rezidas 10
@@ -729,7 +730,6 @@ onu 9
 rozi 9
 plezuro 9
 havar 9
-koqueyo 9
 volfo 9
 omnadie 9
 korekta 9
@@ -1047,6 +1047,7 @@ necesa 6
 malyoto 6
 Brazilia 6
 nuda 6
+preferata 6
 tradukar 6
 kapabla 6
 aviono 6
@@ -1070,6 +1071,7 @@ pasas 6
 depos 6
 Hispana 6
 ganas 6
+mortos 6
 bele 6
 Selektez 6
 proxim 6
@@ -1194,7 +1196,6 @@ komencos 5
 hospitalo 5
 bluzo 5
 probar 5
-preferata 5
 vakanco 5
 sencese 5
 mapo 5
@@ -1252,7 +1253,6 @@ krimino 5
 ekirar 5
 duesma 5
 lundio 5
-mortos 5
 maniero 5
 binoklo 5
 deo 5
@@ -1374,6 +1374,7 @@ parolanta 4
 uzis 4
 saltanta 4
 portar 4
+objekto 4
 skribotablo 4
 cirkum 4
 plendas 4
@@ -1687,7 +1688,6 @@ beleso 3
 fora 3
 tushez 3
 trublar 3
-objekto 3
 movas 3
 kun-veno 3
 Permisez 3
@@ -2586,6 +2586,7 @@ rumori 2
 vicineyo 2
 peco 2
 studiis 2
+mortinti 2
 konverseto 2
 kazo 2
 urjanta 2
@@ -3056,6 +3057,7 @@ interpretisto 2
 nomi 2
 sucias 2
 stati 2
+benediko 2
 vampiro 2
 Laboro 2
 piktis 2
@@ -3226,6 +3228,7 @@ fronto 2
 glata 2
 Prehiere 2
 sturmo 2
+utensilo 2
 furtar 2
 Kurda 2
 Arabiana 2
@@ -4494,7 +4497,6 @@ diskuto 1
 sejornar 1
 Teheran 1
 Nancy 1
-mortinti 1
 financala 1
 tradukanto 1
 plumo" 1
@@ -6447,7 +6449,6 @@ muteskis 1
 tribuala 1
 substantivi 1
 amikeskis 1
-benediko 1
 egaliganto 1
 volfohomo 1
 likantropo 1
@@ -7186,7 +7187,6 @@ petrisas 1
 pasto 1
 transgenra 1
 bisexuala 1
-utensilo 1
 blindigas 1
 lanco 1
 nepotino 1
@@ -7848,3 +7848,7 @@ enoyeskas 1
 severe 1
 paroliva 1
 Homeosexualeso 1
+vespo 1
+drinkeriisto 1
+chanjus 1
+vivanti 1

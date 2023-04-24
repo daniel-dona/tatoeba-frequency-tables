@@ -1,20 +1,20 @@
-a 2456
-ar 1070
-e 884
+a 2460
+ar 1071
+e 885
  777
 bara 697
-da 675
-eo 603
+da 680
+eo 605
+ket 524
 an 523
-ket 523
 eus 450
-zo 389
+zo 391
 o 384
 ur 307
-Ar 302
+Ar 304
 ra 295
-en 285
-ma 276
+en 286
+ma 278
 c'hafe 267
 deus 254
 em 252
@@ -36,8 +36,8 @@ An 147
 Ma 146
 oa 137
 Ha 136
-war 130
-ho 127
+war 131
+ho 129
 Me 127
 kafe 125
 prenet 115
@@ -56,32 +56,32 @@ den 91
 Deus 90
 kanañ 89
 gwelloc'h 88
-ez 86
+ez 87
 Debriñ 85
 c'hazh 85
 vo 84
 ne 82
-am 80
-Da 80
+am 81
+Da 81
 d'ar 79
-on 77
+on 78
+az 74
 Mari 73
 rez 72
-az 71
+dit 71
 Dont 71
 anezhañ 70
 al 70
-dit 69
 ober 69
 Bez 69
 peus 67
 blij 64
+E 64
 ganin 64
 re 64
 ganit 63
 eget 62
 pa 62
-E 61
 rin 61
 Pebezh 61
 Kafe 59
@@ -105,30 +105,30 @@ Petra 51
 Prenañ 51
 rae 50
 vat 48
+oan 48
 dezhañ 48
 Hag 48
 evel 48
 botoù 48
 emaon 47
+chom 47
 debret 47
 para 47
-oan 46
 Yann 46
 Gant 46
 bara-mañ 46
-chom 45
 eur 45
 pe 45
 mar-plij 45
 ganeoc'h 44
 dour 43
+Pa 43
 Pelec'h 42
 kavet 42
-Pa 42
 raen 42
 ganti 42
+oc'h 41
 rit 40
-oc'h 40
 C'hoant 40
 c'hoazh 40
 ouzh 40
@@ -138,12 +138,12 @@ En 39
 Mat 39
 ti 39
 bezañ 39
+Ho 39
 ganañ 39
 hep 39
 d'an 38
 holl 37
 hon 37
-Ho 37
 bihan 37
 c'hi 36
 mont 36
@@ -189,6 +189,7 @@ Re 30
 tamm 30
 en-dro 30
 gaout 30
+gwin 30
 Gwelloc'h 30
 bras 29
 Kanañ 29
@@ -212,7 +213,6 @@ alies 27
 gavan 27
 N'eus 27
 ganaouenn 27
-gwin 27
 Na 26
 amann 26
 Butunet 26
@@ -228,6 +228,7 @@ glav 25
 troc'het 25
 ganeomp 25
 Al 24
+tud 24
 d'ober 24
 c'hoari 24
 ganto 24
@@ -241,7 +242,7 @@ votoù 23
 Komz 22
 emaout 22
 banne 22
-tud 22
+Aet 22
 avel 22
 buan 22
 ev 22
@@ -252,9 +253,9 @@ Butuniñ 22
 miz 21
 debriñ 21
 raio 21
-Aet 21
 reas 21
 noz 21
+War 21
 gazh 21
 Gortoz 21
 diaoul 21
@@ -266,7 +267,6 @@ komz 20
 Ya 20
 kuit 20
 tont 20
-War 20
 troc'hañ 20
 hiziv 19
 douar 19
@@ -296,6 +296,7 @@ boa 18
 dre 18
 ivez 18
 lec'h 18
+evañ 18
 Kaoc'h 18
 a-raok 18
 tomm 18
@@ -331,6 +332,7 @@ se 16
 hepken 16
 reomp 16
 Fellout 16
+dont 16
 Penaos 16
 Daou 16
 bepred 16
@@ -338,7 +340,6 @@ yen 16
 Troc'het 16
 n'en 16
 laouen 16
-evañ 16
 Ken 16
 N'em 16
 kaout 16
@@ -357,7 +358,6 @@ Trugarez 15
 bemdez 15
 kig 15
 marv 15
-dont 15
 kousket 15
 eme 15
 piv 15
@@ -370,6 +370,7 @@ neb 15
 ennañ 15
 vihan 15
 reer 15
+int 15
 ezhomm 15
 gozh 15
 'z 15
@@ -390,7 +391,6 @@ Hemañ 14
 c'hoar 14
 d'e 14
 Nedeleg 14
-int 14
 Aze 14
 Eno 14
 Paouez 14
@@ -465,6 +465,7 @@ Paouezit 12
 Laouen 12
 beg 12
 'teus 12
+bev 12
 mintin-mañ 12
 Eliza 12
 Harzhal 12
@@ -548,7 +549,6 @@ glask 10
 war-lerc'h 10
 skañv 10
 mestr 10
-bev 10
 kemeret 10
 vad 10
 etre 10
@@ -609,6 +609,7 @@ selaou 9
 Tremen 9
 C'hwezh 9
 vutune 9
+Int 9
 zebrint 9
 droc'h 9
 c'hallez 9
@@ -680,7 +681,6 @@ c'hwerv 8
 Gouelañ 8
 ed 8
 raes 8
-Int 8
 Bro-Vrazil 8
 mignonez 8
 kont 7
@@ -694,6 +694,7 @@ levrioù 7
 zeskiñ 7
 esperanteg 7
 Mersi 7
+pellgomz 7
 dimeziñ 7
 daoulagad 7
 fell 7
@@ -711,6 +712,7 @@ Evel 7
 Mike 7
 omp 7
 boan 7
+Oc'h 7
 Bet 7
 c'hortoz 7
 dale 7
@@ -797,7 +799,6 @@ warlene 6
 tammig 6
 Krog 6
 aes 6
-pellgomz 6
 warc’hoazh 6
 spagnoleg 6
 Brav 6
@@ -829,7 +830,6 @@ garantez 6
 sav 6
 film 6
 gavet 6
-Oc'h 6
 zi 6
 verc'h 6
 a-bezh 6
@@ -850,6 +850,7 @@ C'hwitet 6
 Distreiñ 6
 Nann 6
 Yec'hed 6
+Digarez 6
 Krogomp 6
 Disoñj 6
 Greomp 6
@@ -884,6 +885,7 @@ baradoz 6
 D'an 6
 gast 6
 setu 6
+He 6
 frouezh 6
 maluron 6
 rae-hi 6
@@ -894,6 +896,7 @@ Goulenn 6
 oac'h 6
 emañ-hi 6
 rimp 6
+Ranket 6
 c'haoc'h 6
 zebrin 6
 fresk 6
@@ -983,13 +986,13 @@ c'hallan 5
 strinkadenn 5
 'blij 5
 evidoc'h 5
+vin 5
 E-pad 5
 e-keit 5
 destenn 5
 poan 5
 yac'h 5
 kement-tra 5
-Digarez 5
 Marv 5
 Disoñjit 5
 Dalc'hit 5
@@ -1039,10 +1042,11 @@ Tap 5
 ouzhin 5
 Lez 5
 Landreger 5
-He 5
 klasket 5
 Bremañ 5
 roe 5
+eas 5
+leve 5
 werzhañ 5
 Stal 5
 Poazhañ 5
@@ -1171,7 +1175,6 @@ m'eo 4
 Kan 4
 kanfec'h 4
 Biskoazh 4
-vin 4
 Daoust-hag-eñ 4
 c'hambr 4
 pesk 4
@@ -1269,7 +1272,6 @@ Breizh-Izel 4
 kuzhet 4
 kalon 4
 maner 4
-eas 4
 seurt-se 4
 lure 4
 Bezit 4
@@ -1572,6 +1574,7 @@ damm 3
 yalc'h 3
 leun 3
 flour 3
+pije 3
 dreist 3
 loudour 3
 goan 3
@@ -1652,7 +1655,6 @@ Nemet 3
 Boued 3
 oe 3
 emezi 3
-leve 3
 skoed 3
 grediñ 3
 gouezh 3
@@ -1665,6 +1667,7 @@ Butun' 3
 Kerzhout 3
 digarez 3
 dihun 3
+dije 3
 ranket 3
 Abalamour 3
 sellout 3
@@ -1693,6 +1696,7 @@ erruet 3
 Keginañ 3
 ra-eñ 3
 Servijout 3
+servij 3
 belo 3
 raec'h 3
 brenen 3
@@ -1790,6 +1794,7 @@ Lionel 3
 Jospin 3
 paouezfe 3
 Dousig 3
+vBoston 3
 Bez' 2
 Diwall 2
 Seitek 2
@@ -1862,6 +1867,7 @@ Distro 2
 vijes 2
 sekred 2
 m'en 2
+'mije 2
 darempred 2
 kavez 2
 c’hoari 2
@@ -2020,6 +2026,7 @@ Ti 2
 Hastomp 2
 Kasomp 2
 Adgra 2
+Gourc'hemennoù 2
 war-raok 2
 Kazi 2
 Hogozik 2
@@ -2363,6 +2370,7 @@ it 2
 Seurt-se 2
 pere 2
 glev 2
+Er-maez 2
 vistri 2
 dudjentil 2
 deuy 2
@@ -2388,7 +2396,6 @@ dihunit 2
 Dihunit 2
 A-bouez 2
 A-bouez-tre 2
-dije 2
 Komzet 2
 Kribañ 2
 blev 2
@@ -2503,7 +2510,6 @@ Soñjal 2
 Rechetiñ 2
 beus 2
 dianalit 2
-servij 2
 filañ 2
 c'hoût 2
 Huchal 2
@@ -2650,6 +2656,7 @@ zor 2
 Ankouaet 2
 Degasit 2
 gwin-mañ 2
+even 2
 greomp 2
 troc'h" 2
 segondenn 2
@@ -2811,6 +2818,8 @@ Pep-tra 2
 walc'hiñ 2
 zaouarn 2
 arvar 2
+Bev 2
+kerent 2
 Erwan 1
 Le 1
 Bourdonnec 1
@@ -2968,7 +2977,6 @@ Kuzh-mat 1
 a-du 1
 gement-se 1
 ziplom 1
-'mije 1
 arzoù 1
 Sikouret 1
 adlivañ 1
@@ -3365,7 +3373,6 @@ Eureka 1
 Di 1
 Hont 1
 Stop 1
-Gourc'hemennoù 1
 Lammit 1
 Chit 1
 chut 1
@@ -3827,7 +3834,6 @@ babich 1
 klaskez 1
 tarv 1
 diganez 1
-pije 1
 yarañ 1
 dibotre 1
 difoutre 1
@@ -4647,7 +4653,6 @@ yei 1
 Pere 1
 gaezh 1
 lakafe 1
-Er-maez 1
 greskiñ 1
 nebeutañ 1
 merour 1
@@ -5060,7 +5065,6 @@ adenium 1
 agavezenn 1
 ailant 1
 lusenn-ruz 1
-Ranket 1
 Mar-plij 1
 gelianenn 1
 brammañ 1
@@ -5476,7 +5480,6 @@ Degasomp 1
 Ganeoc'h 1
 degaset 1
 deoc'h-c'hwi 1
-even 1
 diganit 1
 n'on 1
 echut 1
@@ -6009,3 +6012,11 @@ serret 1
 rannañ 1
 huñvre 1
 Peadra 1
+ejont 1
+c'hourc'hemenn 1
+gelver 1
+bije 1
+gasin 1
+c'hasin 1
+n'anavezan 1
+anv-familh 1

@@ -1,13 +1,13 @@
 Tom 1158
-Men 863
+Men 864
 Ol 483
-bilen 433
-Sen 309
+bilen 434
+Sen 312
 üçin 298
 Bu 287
 we 286
-bir 217
-näme 208
+bir 218
+näme 209
 gowy 196
 bu 190
 ol 189
@@ -79,9 +79,9 @@ aýtdylar 46
 bilýärin 46
 hemme 46
 işi 46
+satyn 45
 maña 45
 isleýärin 44
-satyn 44
 zady 44
 adam 43
 Seniň 43
@@ -91,23 +91,23 @@ etmäge 41
 bolar 41
 oňa 40
 Awstraliýada 40
+bilemok 39
 nädip 39
 pikirimçe 39
 barmy 38
-bilemok 38
 edýärin 38
 Meriniň 38
+seni 37
 biz 37
 kän 37
 özüniň 37
 Tomyñ 37
 häzir 36
 Bir 36
-seni 36
+biziň 36
 Eger 36
 bolsa 36
 siziň 35
-biziň 35
 Ony 35
 berdi 35
 etdim 35
@@ -219,6 +219,7 @@ geçen 20
 bolmak 20
 däldigini 20
 öýde 20
+zatlar 20
 mundan 20
 meñ 20
 özüniñ 20
@@ -229,7 +230,6 @@ dynç 19
 edil 19
 on 19
 Siziň 19
-zatlar 19
 görünýär 19
 Meni 19
 tarapyndan 19
@@ -243,6 +243,7 @@ bolmaly 18
 ýer 18
 siz 18
 isleýär 18
+ertir 18
 olar 18
 iñ 18
 öñ 18
@@ -256,7 +257,6 @@ etmelidigini 17
 ýa-da 17
 Merini 17
 köplenç 17
-ertir 17
 bilenok 17
 isledi 17
 Tomuñ 17
@@ -302,6 +302,7 @@ ilkinji 14
 özleriniň 14
 gitmäge 14
 aý 14
+gapyny 14
 terjime 14
 bilýän 14
 bolýan 14
@@ -318,7 +319,6 @@ Biziň 13
 adatça 13
 ber 13
 täzeden 13
-gapyny 13
 bolmagy 13
 birini 13
 gidýär 13
@@ -359,6 +359,7 @@ diýdi 12
 bilmek 12
 Geçen 12
 beýle 12
+düşünip 12
 Semiñ 12
 gidýärin 11
 ak 11
@@ -406,12 +407,12 @@ minut 11
 Biziñ 11
 Seni 11
 bilýäñmi 11
-düşünip 11
 gitjekmi 10
 mugallym 10
 ýaşamak 10
 boldum 10
 ejem 10
+köne 10
 zada 10
 işe 10
 taýýar 10
@@ -456,7 +457,6 @@ etjekdigini 10
 görünýärdi 9
 suw 9
 aýal 9
-köne 9
 giç 9
 düşünemok 9
 häli 9
@@ -750,6 +750,7 @@ gun 6
 günleri 6
 etmelidigimi 6
 maşyny 6
+gelýändigini 6
 ýerinde 6
 doguldy 6
 garşy 6
@@ -835,6 +836,7 @@ gök 5
 wagtda 5
 Ýok 5
 çaga 5
+öýünde 5
 ýaşynda 5
 oňat 5
 düşünýärin 5
@@ -897,11 +899,11 @@ Suw 5
 Bostony 5
 hapa 5
 Kakam 5
+almaly 5
 bişirdim 5
 öran 5
 Fadil 5
 titreme 5
-gelýändigini 5
 gördük 5
 müň 5
 bilerdik 5
@@ -1027,7 +1029,6 @@ soňy 4
 Bolýar 4
 Hoş 4
 geldiňiz 4
-öýünde 4
 kör 4
 gorkýaryn 4
 gorkýar 4
@@ -1101,7 +1102,6 @@ eşikleri 4
 gelýänçä 4
 ogurlapdyr 4
 sagatdan 4
-almaly 4
 ýaşaýaryn 4
 mekdebiň 4
 aýtma 4
@@ -1290,8 +1290,10 @@ oñ 4
 tapawutlandyrmak 4
 millet 4
 Merynyñ 4
+Klawdiý 4
 uruşy 3
 ýakdy 3
+geljekmi 3
 ýatyr 3
 geljegi 3
 aýalym 3
@@ -1728,6 +1730,7 @@ etse 3
 jahan 3
 çünki 3
 kesip 3
+ýaşaýardy 3
 Käbir 3
 öýtdüm 3
 oñatmy 3
@@ -1807,6 +1810,7 @@ wajyp 3
 ünsüni 3
 alýar 3
 etdiñ 3
+eşitdi 3
 eger-de 3
 bagly 3
 geljekdigine 3
@@ -1838,7 +1842,6 @@ Et 2
 Bagy 2
 sende 2
 doktor 2
-geljekmi 2
 bakdy 2
 galmagal 2
 tankyt 2
@@ -2381,6 +2384,7 @@ bela 2
 kömege 2
 bizden 2
 pižamasynda 2
+aşaky 2
 hassalandy 2
 Bäbek 2
 ertirden 2
@@ -2632,6 +2636,7 @@ maliýe 2
 maşgalasyny 2
 ýaňy 2
 tanyşdyrdy 2
+gulplap 2
 haýwanat 2
 bagyna 2
 ekeni 2
@@ -2763,6 +2768,7 @@ meňzeýändigini 2
 ukuly 2
 saçy 2
 goh 2
+özüňe 2
 massaž 2
 synanyşardym 2
 gözüni 2
@@ -2864,7 +2870,6 @@ adamyny 2
 gitmegiñ 2
 gitmegi 2
 galmady 2
-ýaşaýardy 2
 sahypasynda 2
 bilýäñizmi 2
 tanaýar 2
@@ -2999,6 +3004,7 @@ Gilbert 2
 Içeri 2
 bilmeýeň 2
 bilmeýer 2
+telewizoryň 2
 bukjany 2
 asly 2
 ýetirseň 2
@@ -3054,6 +3060,7 @@ ahyrsoňy 2
 Biriniñ 2
 düşündirmegimi 2
 nä 2
+açylýandygyny 2
 haçandy 2
 aýtmaryn 2
 ýalñyzdygyny 2
@@ -3260,6 +3267,7 @@ gap-gaçlary 2
 Germaniýa 2
 ulananok 2
 soragyňyza 2
+nätjek 2
 Asmanda 1
 petreşip 1
 Är-aýalyň 1
@@ -5061,7 +5069,6 @@ başlatmak 1
 ulanmaga 1
 formlary 1
 doldurmaga 1
-aşaky 1
 gata 1
 Goh 1
 uklaýar 1
@@ -5912,7 +5919,6 @@ baglady 1
 tutmany 1
 pikirlenýärin 1
 soňuna 1
-gulplap 1
 örenmek 1
 isländigine 1
 paltany 1
@@ -6525,7 +6531,6 @@ Edibilýän 1
 edibilmeýän 1
 birlike 1
 aýylganç 1
-özüňe 1
 özüňize 1
 görünýärsiňiz 1
 pisiklerim 1
@@ -7698,7 +7703,6 @@ synanyşyp 1
 plan 1
 agşamlary 1
 ýadaýan 1
-telewizoryň 1
 oňünde 1
 Öňkisi 1
 ýaryşyp 1
@@ -8072,7 +8076,6 @@ bararyn 1
 muzeý 1
 ýapylýar 1
 Poçtanyň 1
-açylýandygyny 1
 çaşyp 1
 çaşmandygyny 1
 düşen 1
@@ -8429,7 +8432,6 @@ oýnadylar 1
 çyzgyç 1
 ulananyň 1
 eliňde 1
-eşitdi 1
 hçi 1
 goşulmady 1
 ýatylýan 1
@@ -9996,5 +9998,3 @@ içdim 1
 saman 1
 şlýapadady 1
 Öýe 1
-gürleşmäne 1
-gitmekçimi 1

@@ -70,7 +70,7 @@ nên 562
 thì 556
 cả 530
 nó 523
-đây 520
+đây 521
 từ 518
 thế 516
 ngày 488
@@ -131,7 +131,7 @@ Không 282
 cùng 281
 thời 280
 Họ 277
-cách 273
+cách 274
 giúp 273
 khác 270
 lên 269
@@ -149,8 +149,8 @@ câu 247
 cuộc 243
 vẫn 242
 hỏi 240
+Nó 240
 Ông 240
-Nó 239
 tại 238
 chơi 238
 hai 237
@@ -529,6 +529,7 @@ vợ 68
 đông 67
 trình 67
 khăn 67
+khoảng 67
 Sami 67
 mong 66
 giết 66
@@ -536,7 +537,6 @@ thăm 66
 liên 66
 kinh 66
 chuyển 66
-khoảng 66
 phép 66
 vi 66
 văn 65
@@ -1411,6 +1411,7 @@ hằng 15
 Bill 15
 gồm 15
 xu 15
+mét 15
 Sĩ 15
 nhắn 15
 muối 15
@@ -1451,7 +1452,6 @@ dặm 14
 ẩn 14
 phiếu 14
 Jack 14
-mét 14
 dịp 14
 mát 14
 Ken 14
@@ -2753,6 +2753,7 @@ Bỏ 4
 Ấy 4
 ngứa 4
 lều 4
+500 4
 you 4
 Ngọn 4
 email 4
@@ -3130,7 +3131,6 @@ củi 3
 Thuyền 3
 ráng 3
 sushi 3
-500 3
 trá 3
 Nào 3
 bét 3
