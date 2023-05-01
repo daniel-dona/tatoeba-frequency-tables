@@ -1,8 +1,8 @@
-es 258
+es 259
 Tom 142
-un 138
+un 139
 El 102
-la 98
+la 99
 de 93
 en 89
 el 88
@@ -10,16 +10,16 @@ no 81
 No 80
 איס 73
 esta 70
-a 61
-una 61
-La 53
+una 63
+a 62
+La 54
 Los 51
 son 48
 איל 44
+los 40
 Es 40
-los 39
 Esto 38
-Me 37
+Me 38
 i 34
 ke 33
 און 32
@@ -30,7 +30,7 @@ kon 29
 esto 29
 Eya 28
 mi 28
-So 26
+So 28
 muy 25
 se 24
 טום 24
@@ -85,6 +85,7 @@ pasharos 12
 vida 11
 mujer 11
 fue 11
+plazen 11
 dos 11
 djudia 11
 Ke 11
@@ -93,11 +94,11 @@ vedre 11
 Trae 11
 frio 11
 lo 10
+al 10
 sivdad 10
 Vos 10
 linguas 10
 komo 10
-plazen 10
 paras 10
 ayi 10
 padre 10
@@ -107,7 +108,6 @@ ladron 10
 די 10
 קי 10
 arvoles 10
-al 9
 Ladino 9
 A 9
 tu 9
@@ -141,6 +141,7 @@ Estamos 7
 Tu 7
 Vozotros 7
 ermano 7
+kere 7
 Maria 7
 Nu 7
 todo 7
@@ -163,7 +164,6 @@ gata 6
 merkando 6
 Vozotras 6
 sos 6
-kere 6
 Grasias 6
 ermoza 6
 menester 6
@@ -229,6 +229,7 @@ tardjuman 5
 Donald 5
 chay 5
 סומוס 5
+pas 5
 arabas 5
 ensima 5
 primero 5
@@ -284,9 +285,9 @@ leche 4
 Ido 4
 Amo 4
 avlan 4
+djente 4
 nona 4
 yidish 4
-pas 4
 maymonas 4
 Durme 4
 bien 4
@@ -306,6 +307,7 @@ Lavoro 3
 para 3
 Evropa 3
 tyene 3
+pais 3
 Aki 3
 ladino 3
 buena 3
@@ -379,6 +381,7 @@ Alguno 3
 egzisten 3
 Tatoeba 3
 tuvo 3
+otro 3
 indo 3
 banka 3
 pirata 3
@@ -423,7 +426,6 @@ azer 3
 meldando 3
 פלאזי 3
 מילדאנדו 3
-djente 3
 Un 3
 feminista 3
 libertad 3
@@ -465,7 +467,6 @@ kapitala 2
 Fransya 2
 komparte 2
 frontieras 2
-pais 2
 buenos 2
 save 2
 Tyenes 2
@@ -548,6 +549,7 @@ Otro 2
 deve 2
 murir 2
 מאס 2
+livros 2
 enemigos 2
 enemigas 2
 semos 2
@@ -615,7 +617,6 @@ puertas 2
 avre 2
 Apoya 2
 apoyava 2
-otro 2
 agresyon 2
 akumplido 2
 איבריאו 2
@@ -788,6 +789,8 @@ abandonatesh 2
 Durmi 2
 dare 2
 asperando 2
+Nos 2
+kudiamos 2
 Deké 1
 tenésh 1
 kara 1
@@ -1021,7 +1024,6 @@ impopular 1
 mentiroso 1
 ladrona 1
 Solo 1
-livros 1
 oy 1
 proprieta 1
 ladronisyo 1
@@ -2051,3 +2053,8 @@ djudias 1
 muriran 1
 avokato 1
 muertos 1
+Taiwan 1
+uno 1
+otra 1
+idealista 1
+idealisto 1

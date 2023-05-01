@@ -257,6 +257,7 @@ chal 41
 jaH 41
 Daj 41
 yuch 41
+wagh 41
 vavDaj 41
 qep 41
 wIb 41
@@ -270,7 +271,6 @@ Daghaj 40
 nIQ 40
 Dochmey 40
 po' 40
-wagh 40
 maHvaD 40
 puqloD 39
 ghItlhwI' 39
@@ -417,6 +417,7 @@ tuQ 27
 DaneHchugh 27
 qech 27
 par 27
+qul 27
 chun 27
 rav 27
 teH 27
@@ -435,7 +436,6 @@ bIQ'a' 26
 loDpu' 26
 je'ta' 26
 vIQoy 26
-qul 26
 neHbe' 26
 mIp 26
 ghIrep 26
@@ -646,6 +646,7 @@ vIchIlpu' 17
 Qapla' 17
 pem 17
 Hovmey 17
+nargh 17
 be'vetlh 17
 mIl'oD 17
 SoH'e' 17
@@ -669,6 +670,7 @@ yIpoSmoH 16
 Dach 16
 mInDu'Daj 16
 ngeD 16
+waq 16
 vIQoypu' 16
 De'vam 16
 vIlIj 16
@@ -687,7 +689,6 @@ vIghoS 16
 juppu'wI' 16
 SoSoy 16
 ngan 16
-nargh 16
 QeD 16
 chech 16
 Qu'wIj 16
@@ -711,7 +712,6 @@ HablI'Daj 15
 tennuSwI' 15
 yIloS 15
 petaQ 15
-waq 15
 qoSwIj 15
 Hu' 15
 loDvam 15
@@ -2324,6 +2324,7 @@ vISuchta' 5
 jojDaq 5
 tlheDpu' 5
 jaghma' 5
+ghargh 5
 luSovbe' 5
 ghachtaH 5
 nIn 5
@@ -2860,7 +2861,6 @@ qay''a' 4
 nguqqu' 4
 vIwuv 4
 puqbe'lI' 4
-ghargh 4
 pejatlh 4
 vIjaHnIS 4
 vIHaDtaH 4

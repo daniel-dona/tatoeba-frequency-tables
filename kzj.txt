@@ -2,9 +2,9 @@ do 3246
 zou 1170
 di 948
 no 886
-i 775
+i 776
 Tom 689
-ko 630
+ko 631
 ku 627
 o 578
 id 457
@@ -24,7 +24,7 @@ zosido 196
 zi 188
 naku 184
 mantad 182
-diau 171
+diau 172
 Mary 168
 dogo 165
 kozo 158
@@ -36,7 +36,7 @@ Au' 147
 tokou 140
 tu 137
 boos 136
-iho 134
+iho 135
 iti 128
 mai 123
 ii 120
@@ -52,7 +52,7 @@ diho 96
 miampai 96
 ih 94
 nga' 91
-au' 89
+au' 90
 disido 88
 doiho 88
 doiti 85
@@ -93,10 +93,10 @@ Nokuo 47
 nodii 47
 insan 47
 Noikot 46
+tu' 46
 kusai 45
 mangakan 45
 miaga 45
-tu' 45
 dioho 44
 pogun 44
 suvab 44
@@ -129,11 +129,11 @@ usin 35
 tondu 34
 Songian 34
 konunu 33
+Nookuo 33
 Kadazan 32
 mooi 32
 okon 32
 diozu 32
-Nookuo 32
 tomoimo 31
 Okon 31
 ziaha' 30
@@ -230,6 +230,7 @@ habus 18
 Minsingiho 18
 Sina 18
 kavasa 18
+sodop 18
 Otopot 18
 ahal 18
 mamain 18
@@ -238,7 +239,6 @@ potuu 18
 poguhu 18
 diho' 18
 monoodo 18
-sodop 17
 Mangakan 17
 Kinoingan 17
 kokito 17
@@ -483,6 +483,7 @@ kavo 9
 katapatan 9
 mongingia 9
 muot 9
+sumuang 9
 kosusaan 9
 kinahasaan 9
 modop 9
@@ -540,7 +541,6 @@ Tomoimo 8
 Oi 8
 tongus 8
 kataan 8
-sumuang 8
 tontohu 8
 dazanak 8
 kakaal 8
@@ -1436,6 +1436,7 @@ kogumuan 3
 tapandai 3
 oimazaan 3
 biio 3
+logon 3
 Nokotouvi 3
 Ah 3
 tosikap 3
@@ -1510,6 +1511,7 @@ Noumbak 3
 hizab 3
 sisimba' 3
 papataam 3
+Anaau 3
 web 3
 moing 3
 Magavi 3
@@ -2108,7 +2110,6 @@ papadagang 2
 Mesir 2
 zu 2
 pinataakon 2
-logon 2
 Minongumohig 2
 matai 2
 Joséphine 2
@@ -2265,7 +2266,6 @@ Popobuzu 2
 dii' 2
 bohungkitas 2
 nopupusan 2
-Anaau 2
 "Kotohuadan" 2
 kinapaasan 2
 alai 2
@@ -6588,3 +6588,4 @@ ozi 1
 flora 1
 fauna 1
 Kikohoilanan 1
+Ovito 1
