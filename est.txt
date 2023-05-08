@@ -1,4 +1,4 @@
-on 1362
+on 1364
 Ma 876
 ei 701
 Tom 569
@@ -27,11 +27,11 @@ mulle 97
 oled 94
 mind 87
 selle 84
-mu 83
+mu 84
 midagi 82
 Nad 82
 ära 79
-minu 77
+minu 78
 palju 75
 Miks 74
 Kui 73
@@ -48,10 +48,10 @@ siin 63
 Mis 63
 veel 63
 nii 62
+Kus 59
 Mida 58
 hea 58
 Mary 58
-Kus 57
 Mu 55
 sinu 54
 Kes 54
@@ -247,6 +247,7 @@ Võta 15
 kord 14
 ühe 14
 tüdruk 14
+raamat 14
 jaoks 14
 Mitte 14
 kuidas 14
@@ -297,7 +298,6 @@ pani 12
 inimesed 12
 Pole 12
 Meie 12
-raamat 12
 teadnud 12
 kedagi 12
 Sinu 12
@@ -534,6 +534,7 @@ magas 7
 nädalas 7
 näeb 7
 kuhu 7
+Päike 7
 poeg 7
 pime 7
 lilli 7
@@ -725,7 +726,6 @@ tark 5
 laulu 5
 pere 5
 hiljaks 5
-Päike 5
 Neil 5
 kuud 5
 Saksamaal 5
@@ -1070,6 +1070,7 @@ sõnastik 3
 sõnu 3
 kasutada 3
 unustasin 3
+paistab 3
 karpi 3
 ilusad 3
 poja 3
@@ -1185,6 +1186,7 @@ kuulaksid 3
 Naised 3
 silmapilgul 3
 suures 3
+paistis 3
 kasutage 3
 töötan 3
 Hobune 3
@@ -1520,7 +1522,6 @@ tõlkeid 2
 Kuid 2
 sõnastikku 2
 korrusele 2
-paistab 2
 mõlemat 2
 müts 2
 Sõda 2
@@ -1738,7 +1739,6 @@ eksami 2
 laulda 2
 jalutamas 2
 tavalised 2
-paistis 2
 sadanud 2
 palve 2
 keelde 2

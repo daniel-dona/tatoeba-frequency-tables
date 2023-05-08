@@ -1,7 +1,7 @@
 är 10594
 Jag 10439
 inte 6345
-att 6324
+att 6325
 Tom 6268
 du 4659
 en 4648
@@ -21,17 +21,17 @@ till 2162
 och 2095
 om 2094
 Hon 1982
-ett 1770
+ett 1771
 Vi 1753
 dig 1740
 som 1710
 den 1710
 kan 1583
 Du 1475
-av 1446
+av 1447
 kommer 1143
 han 1142
-sig 1097
+sig 1098
 så 1085
 Vad 1061
 vill 1043
@@ -52,7 +52,7 @@ där 741
 Har 714
 Var 686
 vara 686
-ut 681
+ut 682
 ha 679
 vad 662
 hade 660
@@ -96,8 +96,8 @@ gör 373
 ser 372
 tror 366
 alltid 362
+fick 359
 många 358
-fick 358
 men 357
 sa 353
 ingen 350
@@ -706,6 +706,7 @@ försöka 43
 ägg 43
 pengarna 43
 färdig 43
+träd 43
 arbeta 43
 Ditt 43
 bakom 43
@@ -726,7 +727,6 @@ ben 42
 beslut 42
 brukade 42
 litar 42
-träd 42
 läkare 41
 gillade 41
 trevlig 41
@@ -1869,6 +1869,7 @@ gula 13
 nycklarna 13
 bära 13
 tråkigt 13
+Vinden 13
 fruktansvärt 13
 båt 13
 uttryck 13
@@ -2118,7 +2119,6 @@ Matchen 11
 svettas 11
 promenera 11
 Osaka 11
-Vinden 11
 Köp 11
 beter 11
 fiender 11
@@ -2636,6 +2636,7 @@ lagom 8
 halvtimme 8
 silver 8
 flickorna 8
+blåste 8
 fallet 8
 tillsagd 8
 ljud 8
@@ -2909,7 +2910,6 @@ anteckningsbok 7
 intressanta 7
 påkörd 7
 stycken 7
-blåste 7
 latin 7
 andan 7
 spöken 7
@@ -3842,6 +3842,7 @@ president 5
 ölen 5
 färskt 5
 syre 5
+ljusen 5
 uppäten 5
 hindrar 5
 intressen 5
@@ -3861,6 +3862,7 @@ vänjer 5
 nederländska 5
 känslig 5
 samlar 5
+träden 5
 torkade 5
 ungdom 5
 genomföra 5
@@ -4523,7 +4525,6 @@ slö 4
 morgondagen 4
 artist 4
 släcka 4
-ljusen 4
 täcker 4
 Kristus 4
 växla 4
@@ -4538,7 +4539,6 @@ Antingen 4
 Elefanter 4
 onödan 4
 terminen 4
-träden 4
 grej 4
 stöter 4
 lunchen 4
@@ -5317,6 +5317,7 @@ Råttor 3
 förökar 3
 sevärd 3
 värma 3
+böja 3
 tolk 3
 match 3
 verklighet 3
@@ -6926,7 +6927,6 @@ trettiosex 2
 lunchtid 2
 smittar 2
 Sömnbrist 2
-böja 2
 högerarm 2
 skyr 2
 parkering 2
@@ -9546,6 +9546,7 @@ skygg 2
 fransyska 2
 enes 2
 andres 2
+Gatan 2
 harar 2
 Maskinen 2
 verksamheten 2
@@ -9997,4 +9998,3 @@ tigrar 2
 duschade 2
 antikviteter 2
 bönor 2
-Mary" 2

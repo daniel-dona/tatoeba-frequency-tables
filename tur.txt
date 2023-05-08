@@ -1,13 +1,13 @@
 Tom 128085
-bir 100208
+bir 100210
 O 39087
 için 35730
-Bu 32408
+Bu 32410
 çok 29334
 ve 27965
-Tom'un 27834
+Tom'un 27835
 var 23105
-Ben 22033
+Ben 22034
 ne 21272
 kadar 17962
 daha 17895
@@ -17,7 +17,7 @@ mi 16633
 olduğunu 15926
 iyi 15834
 onu 14929
-bu 14671
+bu 14672
 Mary 13275
 Mary'nin 12488
 Bir 12365
@@ -37,7 +37,7 @@ Sami 8222
 yok 8144
 istiyorum 7827
 de 7777
-hiç 7771
+hiç 7772
 hakkında 7731
 Biz 7506
 nasıl 7503
@@ -74,7 +74,7 @@ da 4997
 biraz 4972
 neden 4950
 ben 4928
-gün 4898
+gün 4899
 zorunda 4859
 büyük 4710
 senin 4500
@@ -82,7 +82,7 @@ oldu 4454
 üç 4452
 asla 4353
 Sanırım 4278
-Her 4098
+Her 4099
 gece 4095
 geri 4062
 izin 4030
@@ -109,11 +109,11 @@ istiyor 3519
 biliyor 3469
 olmak 3458
 güzel 3455
-olacak 3407
+olacak 3408
 Ali 3362
 aldı 3320
 nerede 3302
-Tom'la 3293
+Tom'la 3294
 yeni 3281
 kişi 3264
 gitmek 3249
@@ -127,19 +127,19 @@ sık 3065
 birlikte 3047
 oldukça 3001
 gerekiyor 2998
-Boston'a 2980
+Boston'a 2981
 olan 2973
 yaptı 2964
 şimdi 2938
 tekrar 2916
 ediyorum 2897
+son 2884
 kim 2884
-son 2883
 hafta 2875
 Boston'da 2872
 para 2860
 Hiç 2834
-gitti 2832
+gitti 2833
 yemek 2828
 eve 2825
 bile 2807
@@ -180,7 +180,7 @@ birkaç 2382
 kendi 2366
 geç 2363
 düşünüyorum 2341
-yoktu 2326
+yoktu 2327
 nedir 2325
 Gerçekten 2315
 söylüyor 2300
@@ -199,7 +199,7 @@ içinde 2196
 hangi 2193
 Onların 2191
 tarafından 2187
-ediyor 2183
+ediyor 2184
 orada 2173
 değildir 2162
 söyle 2139
@@ -211,13 +211,13 @@ Bütün 2098
 ister 2056
 başladı 2054
 az 2046
-yemeği 2028
+yemeği 2029
 yapmayı 2020
 sanmıyorum 1988
 akşam 1984
 tam 1984
 küçük 1945
-Yarın 1916
+Yarın 1917
 düşündüm 1912
 almak 1899
 mısın 1895
@@ -258,12 +258,12 @@ seviyorum 1698
 sahip 1690
 kaç 1687
 ihtiyacım 1685
-Belki 1665
+Belki 1666
 henüz 1660
 buraya 1659
 insan 1651
 dün 1650
-önemli 1633
+önemli 1634
 aldım 1622
 misiniz 1618
 neredeyse 1618
@@ -284,7 +284,7 @@ ettim 1569
 gördüm 1564
 lütfen 1561
 çalıştı 1557
-sever 1552
+sever 1553
 kaldı 1548
 ne" 1546
 yalan 1537
@@ -322,7 +322,7 @@ görünüyordu 1418
 Bence 1413
 Tom'dan 1407
 kolay 1406
-yaşıyor 1402
+yaşıyor 1403
 Yeni 1395
 yoksa 1378
 benden 1377
@@ -361,7 +361,7 @@ terk 1253
 yüzden 1252
 geçen 1246
 göre 1244
-okula 1239
+okula 1240
 açık 1238
 yardımcı 1235
 hayal 1234
@@ -471,7 +471,7 @@ yaşlı 884
 pek 883
 öğle 882
 hata 881
-hep 880
+hep 881
 koydu 880
 öğrenmek 879
 sıcak 878
@@ -526,7 +526,7 @@ söylemedi 810
 sizin 809
 söylediği 806
 John 805
-yaz 803
+yaz 804
 Gelecek 802
 arkadaşım 801
 Böyle 797
@@ -591,14 +591,14 @@ aldın 723
 etmedi 720
 Henüz 719
 Hepimiz 718
+mümkün 718
 buna 718
-mümkün 717
 yolu 715
 önünde 714
 girdi 714
 yiyecek 713
+derece 708
 yapmasına 708
-derece 707
 adını 705
 Annem 704
 Biri 703
@@ -629,8 +629,8 @@ yorgun 670
 bundan 670
 yanında 670
 Buraya 669
+gitmeyi 667
 geçirdi 667
-gitmeyi 666
 bak 665
 Erkek 663
 istemedim 663
@@ -722,7 +722,7 @@ yavaş 566
 gördün 566
 İşte 565
 parayı 565
-kar 563
+kar 564
 yapabilir 561
 Asla 560
 uygun 559
@@ -1976,6 +1976,7 @@ baba 195
 döneceğim 195
 çocuklarını 195
 Kar 195
+şehirde 195
 çekiyor 195
 tatil 195
 yerel 195
@@ -1987,7 +1988,6 @@ Kitabı 194
 yıldan 194
 Harika 194
 denir 194
-şehirde 194
 oynar 194
 öğrenciler 194
 bununla 194
@@ -2444,6 +2444,7 @@ seçim 159
 Kendime 159
 değilsiniz 159
 olmalıyız 159
+Hafta 158
 tehlikelidir 158
 Önemli 158
 karşısında 158
@@ -2460,7 +2461,6 @@ kadınlar 158
 hale 158
 edebileceğini 158
 çalışan 157
-Hafta 157
 çocuğun 157
 iyisi 157
 Ekim 157
@@ -5105,6 +5105,7 @@ istasyonu 71
 kalmaz 71
 kasten 71
 edilmiştir 71
+gelirim 71
 tanır 71
 Bahçede 71
 öğretmendir 71
@@ -5172,7 +5173,6 @@ yürüdüm 70
 kapatın 70
 Kayıp 70
 duyunca 70
-gelirim 70
 kadındır 70
 Yarım 70
 reklam 70
@@ -5384,6 +5384,7 @@ konuşuyorlar 67
 benzemiyor 67
 erkeklerden 67
 cenaze 67
+kalırım 67
 Düşman 67
 Akıllı 67
 Mükemmel 67
@@ -5457,7 +5458,6 @@ suçlama 66
 cana 66
 yaşama 66
 yaşı 66
-kalırım 66
 öğrenecek 66
 takımda 66
 gelmemi 66
@@ -5959,6 +5959,7 @@ Mısır 60
 uzat 60
 insansın 60
 bahçe 60
+sonları 60
 dükkan 60
 plajda 60
 görmemiştim 60
@@ -6046,7 +6047,6 @@ yaşamaktan 59
 Nisan 59
 Afrika'da 59
 gayret 59
-sonları 59
 girmeden 59
 diyorsun 59
 Taro 59
@@ -6403,6 +6403,7 @@ dindar 56
 almayacak 56
 ofisimde 56
 Kızgın 56
+doğuştan 56
 TV'de 56
 yemiyor 56
 yiyeceğiz 56
@@ -6493,7 +6494,6 @@ ilgilendiğini 55
 konuşkan 55
 tanınmış 55
 dairede 55
-doğuştan 55
 korkmuştu 55
 meselesi 55
 değiştirebilir 55
@@ -6863,6 +6863,7 @@ Alışveriş 51
 Gözleri 51
 çözümü 51
 varmadan 51
+bara 51
 tekme 51
 parmağını 51
 vardığında 51
@@ -6932,6 +6933,7 @@ Sanat 50
 Gelmek 50
 edinmek 50
 koyma 50
+gittiğimde 50
 güvenebilirsin 50
 sözcüğü 50
 Haziran 50
@@ -6962,7 +6964,6 @@ yapay 50
 yaşadın 50
 geldiğin 50
 söylerdim 50
-bara 50
 katılmıyorum 50
 bağışladı 50
 Işıkları 50
@@ -7061,7 +7062,6 @@ Ann 49
 Alkol 49
 ötürü 49
 Maria'nın 49
-gittiğimde 49
 Amerika'nın 49
 bilgili 49
 partiyi 49
@@ -8617,6 +8617,7 @@ gelişmiş 39
 bilmiyorduk 39
 bırakıp 39
 varacağız 39
+fırtınası 39
 iyiye 39
 lira 39
 etmekle 39
@@ -8803,7 +8804,6 @@ bölümünü 38
 uydu 38
 yiyin 38
 okuyabilirim 38
-fırtınası 38
 Şüpheli 38
 endişeliydim 38
 şirketten 38
