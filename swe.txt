@@ -2,18 +2,18 @@
 Jag 10439
 inte 6345
 att 6325
-Tom 6268
+Tom 6269
 du 4659
 en 4648
-på 4481
-det 4330
+på 4482
+det 4331
 i 4135
 har 3840
 Det 3573
 Han 3215
 jag 2960
 mig 2546
-här 2501
+här 2502
 för 2430
 var 2380
 med 2243
@@ -48,15 +48,15 @@ måste 772
 göra 771
 Är 764
 honom 750
-där 741
+där 742
 Har 714
 Var 686
 vara 686
 ut 682
 ha 679
 vad 662
+Den 661
 hade 660
-Den 660
 din 639
 de 608
 tycker 607
@@ -71,7 +71,7 @@ behöver 536
 henne 527
 nu 522
 sin 520
-går 515
+går 516
 bra 510
 gå 502
 er 496
@@ -112,7 +112,7 @@ kunde 331
 En 327
 såg 322
 efter 318
-in 316
+in 315
 över 314
 dem 312
 kom 311
@@ -951,6 +951,7 @@ färg 29
 besökte 29
 känt 29
 valde 29
+svara 29
 Finland 29
 fortsatte 29
 större 29
@@ -981,7 +982,6 @@ regna 28
 små 28
 råkade 28
 varken 28
-svara 28
 menade 28
 sägs 28
 Pojken 28
@@ -1890,6 +1890,7 @@ lugna 13
 övertygad 13
 väskan 13
 Använd 13
+killen 13
 Spelar 13
 efternamn 13
 skratt 13
@@ -1999,7 +2000,6 @@ uttrycka 12
 åsikter 12
 fars 12
 het 12
-killen 12
 vinden 12
 söndagar 12
 ost 12
@@ -5088,6 +5088,7 @@ Förhandlingarna 4
 meningslöst 4
 låst 4
 enorm 4
+Undersök 4
 företräde 4
 Istanbul 4
 underhållande 4
@@ -5808,6 +5809,7 @@ bilvraket 3
 underfund 3
 vilje 3
 stjärten 3
+tå 3
 tån 3
 förberedd 3
 Asien 3
@@ -6462,7 +6464,6 @@ bankrutt 3
 kraschade 3
 Behärska 3
 Byt 3
-Undersök 3
 tvekade 3
 förståndet 3
 raderade 3
@@ -7677,7 +7678,6 @@ konstaterade 2
 ordalag 2
 fördärvad 2
 nyfikenhet 2
-tå 2
 Regler 2
 avskiljer 2
 djuren 2

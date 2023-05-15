@@ -4,7 +4,7 @@ er 3114
 í 2065
 á 1673
 ekki 1642
-ég 863
+ég 864
 Það 856
 Hann 793
 til 767
@@ -55,7 +55,7 @@ mun 161
 hef 161
 hafa 159
 hvað 155
-frá 147
+frá 148
 sér 142
 Ekki 141
 þegar 141
@@ -143,10 +143,10 @@ ertu 70
 vil 69
 þessu 68
 voru 67
+þá 66
 klukkan 66
 ætti 66
 áður 66
-þá 65
 tók 65
 sínum 65
 morgun 65
@@ -229,12 +229,13 @@ hjálpa 41
 hverjum 40
 gerir 40
 gamall 40
+komið 40
 gott 40
 einu 40
+gæti 40
 halda 40
 sama 40
 fékk 39
-komið 39
 sína 39
 hefðir 39
 neitt 39
@@ -242,7 +243,6 @@ Hvaða 39
 býr 39
 ætla 39
 vinsamlegast 39
-gæti 39
 drekka 39
 vita 39
 vinna 38
@@ -840,6 +840,7 @@ hliðina 12
 stelpa 12
 epli 12
 fisk 12
+Svo 12
 gefið 12
 Lífið 12
 Fólk 12
@@ -902,7 +903,6 @@ fær 11
 bræður 11
 þörf 11
 ætlarðu 11
-Svo 11
 Skórnir 11
 dó 11
 Barnið 11
@@ -2342,6 +2342,7 @@ Sjúklingurinn 4
 Sjúklingnum 4
 þakklæti 4
 varpaði 4
+hundunum 4
 þokunnar 4
 tilheyra 4
 rúta 4
@@ -3057,7 +3058,6 @@ vissulega 3
 skiljanlegan 3
 skiljanlega 3
 blóðþyrstum 3
-hundunum 3
 hvíta 3
 hótel 3
 Flugvöllurinn 3

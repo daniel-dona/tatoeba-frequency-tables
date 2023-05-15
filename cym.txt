@@ -28,9 +28,9 @@ Mary 48
 Roedd 48
 mynd 46
 yw 45
-ni 43
+ni 44
+chi'n 43
 i'r 42
-chi'n 42
 iawn 41
 siarad 38
 eisiau 37
@@ -259,6 +259,7 @@ Rydyn 6
 wnaeth 6
 mor 6
 Dwi’n 6
+pan 6
 llawer 6
 Mae’r 6
 yno 6
@@ -303,7 +304,6 @@ Lloegr 5
 dechrau 5
 Fe 5
 ben 5
-pan 5
 erbyn 5
 ifanc 5
 efo 5
@@ -441,6 +441,7 @@ gyflym 3
 er 3
 mwyn 3
 frawd 3
+cyrraedd 3
 bore 3
 Armenia 3
 hanner 3
@@ -551,6 +552,7 @@ agor 3
 ddwyn 3
 awr 3
 tocynnau 3
+fyddwch 3
 Iawn 3
 chwilio 3
 ficrosgop 3
@@ -630,7 +632,6 @@ ddigwyddodd 2
 nyddiadur 2
 berffeithydd 2
 Rwy'n 2
-cyrraedd 2
 dyddiau 2
 goll 2
 goedwig 2
@@ -858,6 +859,7 @@ afon 2
 Aethon 2
 bwyta'r 2
 argyfwng 2
+Ffoniwch 2
 effeithlon 2
 pa 2
 ynni 2
@@ -868,7 +870,6 @@ Rhybudd 2
 24 2
 bag 2
 dilys 2
-fyddwch 2
 gorsaf 2
 Anghywir 2
 Cywir 2
@@ -1803,10 +1804,6 @@ gamera 1
 Penderfynom 1
 Ti'n 1
 peli 1
-Is 1
-maith 1
-leat 1
-liathdóirí 1
 ffair 1
 dop 1
 bleiddiau 1
@@ -1887,7 +1884,6 @@ caead 1
 tynnu’r 1
 Gwasgwch 1
 arwydd 1
-Ffoniwch 1
 333 1
 (Mewnol) 1
 999 1

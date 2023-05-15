@@ -1,46 +1,46 @@
-'e' 2088
-tam 1648
-ghaH 1263
+'e' 2091
+tam 1657
+ghaH 1266
 'oH 797
-Hol 701
-Hoch 667
-je 609
-'ej 543
+Hol 705
+Hoch 669
+je 613
+'ej 544
 law' 450
 neH 440
 jIH 408
-vIneH 399
-vay' 391
+vIneH 400
+vay' 392
 naDev 382
 wa' 374
 pagh 372
 DaH 346
 'ach 339
 nuq 328
-qatlh 314
+qatlh 315
 chaH 311
-me'rIy 286
+me'rIy 289
 qaStaHvIS 284
-qar'a' 279
+qar'a' 280
 jatlh 274
-wej 250
+wej 251
 DaHjaj 248
 ghaj 247
 pa' 244
 puS 240
 nuqDaq 240
 not 234
-jIHvaD 231
+jIHvaD 232
 cha' 230
-chu' 228
+chu' 229
 tu'lu' 223
-DIvI' 218
+DIvI' 220
 Duj 212
 juH 209
 net 204
 puH 201
+vIraS 201
 QaQ 200
-vIraS 200
 Huch 197
 reH 193
 SoH 193
@@ -51,7 +51,7 @@ bIQ 177
 tam'e' 177
 latlh 176
 vIQub 174
-chaq 171
+chaq 172
 paq 171
 wa'Hu' 170
 'Iv 168
@@ -65,15 +65,15 @@ wa'maH 150
 vIghaj 145
 wa'leS 145
 ben 145
-loD 143
-chay' 142
+loD 144
+chay' 143
 rep 138
 Dochvam 136
 SoHvaD 134
 vIparHa' 132
-tera' 129
+tera' 130
+lupwI' 127
 'IH 126
-lupwI' 126
 ram 124
 naH 123
 loQ 122
@@ -86,10 +86,10 @@ rur 113
 DIS 110
 De' 110
 'epIl 110
-qa'vIn 108
+qa'vIn 109
+bIH 108
 HaSta 108
 nIteb 107
-bIH 107
 qach 106
 ghaHtaH 106
 tlhoS 103
@@ -97,13 +97,13 @@ lojmIt 101
 be' 101
 SIbI' 99
 ghaytan 99
+ghorgh 97
 muD 96
-ghorgh 96
 nIm 96
-Qel 93
+Qel 94
+puqpu' 93
 ghogh 92
-puqpu' 92
-DaneH'a' 91
+DaneH'a' 92
 vIlegh 89
 SoSwI' 89
 po 88
@@ -117,7 +117,7 @@ me'rIy' 84
 Sov 83
 Heghpu' 83
 nuvpu' 81
-jay' 79
+jay' 80
 tIr 78
 Hegh 78
 SIS 77
@@ -129,19 +129,19 @@ qan 77
 paqvam 76
 jar 76
 qen 74
+puq 74
 motlh 73
 juHDaq 73
 maH 73
-puq 73
 'amerI'qa' 73
 HIq 72
 'oHbe' 72
 ghojmoHwI' 72
 boghpu' 71
+QoQ 70
 loDHom 70
 Qu' 70
 Hogh 70
-QoQ 69
 vIpar 68
 veng 68
 'oHtaH 67
@@ -153,24 +153,24 @@ ghIq 66
 chaw' 66
 ghotI' 65
 ngogh 64
+jan 64
 vISovbe' 64
 QIn 64
-jan 63
 ghot 62
+vItul 62
 Do 62
 tom 61
 yIn 61
-vItul 61
+woch 61
 DaneH 60
 be'Hom 60
-woch 60
 naHmey 60
 'IHqu' 60
 Sa'mIy 60
 parHa' 59
 ghojmeH 59
+Daghaj'a' 58
 Dab 58
-Daghaj'a' 57
 wejmaH 57
 jul 57
 jungwoq 57
@@ -208,13 +208,13 @@ HIvje' 49
 mIw 49
 HIja' 49
 vIlo' 49
+vImuSHa' 49
 muS 49
 leng 49
 lo' 48
 paqmey 48
 vIghro'mey 48
 nav 48
-vImuSHa' 48
 je' 48
 vIghajbe' 48
 vav 47
@@ -242,6 +242,7 @@ Dochvetlh 45
 Ha' 44
 meq 44
 cha'maH 44
+potlh 44
 mu'mey 43
 ghobe' 43
 jav 43
@@ -252,11 +253,11 @@ Holmey 42
 SoSDaj 42
 pongDaj 42
 ta' 42
-potlh 42
 'aSralya' 42
 loDnI'wI' 41
 chal 41
 jaH 41
+po' 41
 Daj 41
 yuch 41
 wagh 41
@@ -270,9 +271,11 @@ tIq 40
 Daghaj 40
 nIQ 40
 Dochmey 40
-po' 40
 maHvaD 40
+'eSpanya' 40
 puqloD 39
+retlhDaq 39
+na'ran 39
 ghItlhwI' 39
 HoS 39
 roD 39
@@ -285,10 +288,7 @@ jIQoS 39
 ghu 39
 yImev 39
 mach 39
-'eSpanya' 39
-retlhDaq 38
 Ha'DIbaHmey 38
-na'ran 38
 chIS 38
 Qub 38
 toH 38
@@ -296,6 +296,7 @@ chaHvaD 38
 rap 38
 much 38
 DujwIj 38
+wejHa' 38
 HablI' 37
 Do'Ha' 37
 qaq 37
@@ -309,11 +310,11 @@ qaSpu' 37
 Hochlogh 37
 vImaS 37
 tup 37
-wejHa' 37
 'oy' 36
 SoH'a' 36
 tu'lu''a' 36
 juHwIj 36
+paw 36
 chatlh 36
 juppu' 36
 DaSov'a' 36
@@ -331,7 +332,6 @@ ghojwI' 35
 Dotlh 35
 chegh 35
 Doch 35
-paw 35
 val 35
 be'pu' 35
 qoH 35
@@ -344,6 +344,7 @@ DuSaQDaq 34
 pIm 34
 'aplo' 34
 banan 34
+vItIv 34
 vabDot 34
 raS 33
 Soch 33
@@ -358,7 +359,6 @@ rop 33
 vIparHa'qu' 33
 'Italya' 33
 DaSov 33
-vItIv 33
 'aSralya'Daq 33
 jalchugh 33
 vIleghpu' 32
@@ -407,6 +407,7 @@ qaSpa' 28
 nIponDaq 28
 rIvSo''e' 28
 bIngDaq 27
+vIlaD 27
 law'qu' 27
 Hur 27
 Qoylu'pu' 27
@@ -423,7 +424,6 @@ rav 27
 teH 27
 chaw''a' 27
 chaw'be' 27
-vIlaD 26
 QongtaH 26
 qabDu' 26
 Qob 26
@@ -447,6 +447,7 @@ parmaq 25
 SoHtaH 25
 mu'tlheghvam 25
 tlhopDaq 25
+Sovbe' 25
 QongDaqDaq 25
 Hutlh 25
 be'nalwI' 25
@@ -454,11 +455,11 @@ DujDaq 25
 Humanpu' 25
 yapbe' 25
 ghojwI'pu' 25
+me'rIyvaD 25
 qovIj 25
 Qu'vam 24
 vIta' 24
 'Iq 24
-Sovbe' 24
 wa'logh 24
 bo'Deghmey 24
 vIghoj 24
@@ -472,7 +473,6 @@ Qun'a' 24
 vInID 24
 ra'wI' 24
 nguv 24
-me'rIyvaD 24
 'el 23
 Do' 23
 tu' 23
@@ -592,6 +592,7 @@ HIrI' 18
 beQ 18
 ghaHpu' 18
 loDnI' 18
+run 18
 wISop 18
 lugh 18
 bang 18
@@ -633,13 +634,13 @@ bomwI' 17
 jIjaH 17
 Qong 17
 nIHwI' 17
-run 17
 wuq 17
 Doy' 17
 vavnI'wI' 17
 jIvum 17
 pegh 17
 HaDwI' 17
+ba' 17
 vavoy 17
 DIlmeH 17
 vIchIlpu' 17
@@ -681,7 +682,6 @@ jIratlh 16
 wIghaj 16
 vut 16
 qeS 16
-ba' 16
 bIrqu' 16
 Hov 16
 He'So' 16
@@ -703,6 +703,7 @@ chatlhvam 16
 Dujmey 16
 wanI'mey 16
 me'rIy'e' 16
+moH 15
 nughoS 15
 lughaj 15
 SoSnI'wI' 15
@@ -714,6 +715,7 @@ HablI'Daj 15
 tennuSwI' 15
 yIloS 15
 petaQ 15
+DaparHa' 15
 qoSwIj 15
 Hu' 15
 loDvam 15
@@ -752,7 +754,6 @@ QanwI' 15
 Dabbogh 15
 vIja' 15
 mIlloghvam 14
-moH 14
 qatlhej 14
 pumpu' 14
 vay''e' 14
@@ -766,7 +767,6 @@ chuch 14
 lo'laHbe' 14
 qoDDaq 14
 vIyaj 14
-DaparHa' 14
 Segh 14
 mob 14
 vuv 14
@@ -812,6 +812,7 @@ ratlh 14
 tlheD 14
 Sar 14
 qImroq 14
+vIjatlhlaHbe' 13
 mu'ghomvam 13
 qaStaH 13
 bel 13
@@ -885,7 +886,6 @@ vItlh 13
 'IDnar 13
 jeltaH 13
 vIjem 13
-vIjatlhlaHbe' 12
 vISoplaHbe' 12
 leghpu' 12
 HIghoS 12
@@ -954,6 +954,7 @@ jIHDaq 12
 Saw 12
 QI 12
 loDnal 12
+ngem 12
 yav 12
 QISmaS 12
 tuQmoH 12
@@ -1041,7 +1042,6 @@ noregh 11
 Ha'quj 11
 lutIv 11
 tlhImvam 11
-ngem 11
 vIvutta' 11
 vIchIl 11
 mughIj 11
@@ -1160,6 +1160,7 @@ jIghung 9
 'IrneHnalwI' 9
 ramjep 9
 mumuS 9
+SuvwI' 9
 qoj 9
 tera'Daq 9
 ja' 9
@@ -1177,6 +1178,7 @@ chaHbe' 9
 Dunqu' 9
 ghaHvo' 9
 vatlh 9
+tlhogh 9
 chuSwI' 9
 HoSghaj 9
 mangghom 9
@@ -1242,6 +1244,7 @@ vIqelDI' 9
 jISaHbe' 9
 rI' 9
 la'SIvmey 9
+ne'Derlan 9
 ra' 9
 qechvam 9
 jIQup 9
@@ -1297,8 +1300,8 @@ qechmey 8
 SISqu' 8
 vIneHbogh 8
 ghab 8
+'ang 8
 SISchugh 8
-SuvwI' 8
 HoHpu' 8
 HoHta' 8
 tIqwIj 8
@@ -1314,7 +1317,6 @@ yon 8
 jIHem 8
 vIQubpu' 8
 ghopDu'wIj 8
-tlhogh 8
 parmaqqaywI' 8
 cha'leS 8
 ghoghDaj 8
@@ -1413,7 +1415,6 @@ vItu'pu' 8
 jatlh'a' 8
 rIvSo' 8
 ghoSlI' 8
-ne'Derlan 8
 turIqya' 8
 yIvbeH 8
 chenmoH 8
@@ -1426,6 +1427,7 @@ vISovbe'chu' 8
 maHbe' 8
 vISoppu' 8
 Tom 8
+vI'Ij 8
 mIplaw' 8
 vIghro'lIj 8
 vIpoQbe' 8
@@ -1439,8 +1441,10 @@ qIp 8
 lop 8
 jIQIp 8
 vIghet 8
+tul 8
 DaSovbej 8
 ghaytanHa' 8
+Darur 8
 'al'on 8
 jel 8
 nuyorgh 8
@@ -1464,7 +1468,6 @@ veH 7
 yIttaH 7
 Doch'e' 7
 ghaHtaH'a' 7
-'ang 7
 vISIv 7
 yItlhutlhQo' 7
 vIghajnIS 7
@@ -1543,6 +1546,7 @@ tu'pu' 7
 yIba' 7
 ropmo' 7
 vIychorgh 7
+Dochmeyvetlh 7
 jInmol 7
 So' 7
 vISaHbe' 7
@@ -1620,7 +1624,6 @@ munuQ 7
 botlhDaq 7
 Qoylu' 7
 ratlhtaH 7
-vI'Ij 7
 pongDaj'e' 7
 vItulqu' 7
 HoD 7
@@ -1644,11 +1647,9 @@ bomvetlh 7
 qem 7
 bolegh'a' 7
 meb 7
-tul 7
 jIbel 7
 cha''etlh 7
 lulegh 7
-Darur 7
 bIneHchugh 7
 yaHwIj 7
 bIHbe' 7
@@ -1671,6 +1672,7 @@ vIngIp 6
 jIQongchoHpu' 6
 QottaH 6
 nuq'e' 6
+Dayaj'a' 6
 jeD 6
 beH 6
 20 6
@@ -1772,7 +1774,6 @@ vIchu' 6
 bIghHa'Daq 6
 bIDoy' 6
 joS 6
-Dochmeyvetlh 6
 SoSchaj 6
 puchpa'Daq 6
 mu'ghomlIj 6
@@ -1840,6 +1841,7 @@ DamaS 6
 vIleghbe' 6
 Say'moH 6
 SepjIjQa'ngan 6
+tlhutlhtaH 6
 pIn 6
 vISoptaH 6
 'eH 6
@@ -1984,7 +1986,6 @@ nI'taHvIS 5
 HItlhej 5
 quSvam 5
 ghoH 5
-Dayaj'a' 5
 yIghoj 5
 be'nalDaj'e' 5
 wIqIp 5
@@ -2194,10 +2195,10 @@ jIlaD 5
 qavan 5
 DarghDajDaq 5
 DawI' 5
-tlhutlhtaH 5
 jupna' 5
 bImejpa' 5
 qachop 5
+reHtaH 5
 lo'lu' 5
 vIghoSnIS 5
 Sawta' 5
@@ -2241,6 +2242,7 @@ vIlIgh 5
 SoQmoH 5
 be'Homvetlh 5
 DaSopchugh 5
+mojbej 5
 yIghet 5
 laHDaj 5
 tInDaq 5
@@ -2355,6 +2357,7 @@ pIH 5
 bIrbe' 5
 ponglIj'e' 5
 Deq'e' 5
+wepDaj 5
 majatlh 5
 nge' 5
 jIQub 5
@@ -2386,6 +2389,7 @@ rab 5
 Huy'a' 5
 jIyeStaS 5
 tlheb 5
+SuvwI'pu' 4
 DamughmeH 4
 lot 4
 QIH 4
@@ -2627,6 +2631,7 @@ Ho'Du'lIj 4
 qoghDu' 4
 naHmeyvetlh 4
 SuD'a' 4
+ 4
 QuchmoH 4
 «HIja' 4
 bIleSnIS 4
@@ -2656,7 +2661,6 @@ DaqIH 4
 vIjaHta' 4
 wIje' 4
 qoSta' 4
-reHtaH 4
 vISovnIS 4
 loDnalDaj 4
 qamDu'Daj 4
@@ -2720,6 +2724,7 @@ nIHDaq 4
 qaHoH 4
 Qan 4
 SoHtaHvIS 4
+chu'bogh 4
 ghItlhwI'mey 4
 DaghItlhmeH 4
 QIvam 4
@@ -2739,7 +2744,6 @@ jIngoy' 4
 Qeb 4
 mumerqu' 4
 chechDI' 4
-mojbej 4
 Danab 4
 laDlaH 4
 nen 4
@@ -2836,6 +2840,7 @@ boghaj 4
 ghItlhvam 4
 vInobnIS 4
 vIHoHta' 4
+DIrDaj 4
 mIv'a' 4
 nuQaH 4
 bIDachmo' 4
@@ -2890,6 +2895,7 @@ yInbogh 4
 chIw 4
 poghmey 4
 Quch'a' 4
+yIvbeHvetlh 4
 nong 4
 DuparHa' 4
 QongDaqDajDaq 4
@@ -2926,7 +2932,6 @@ jIlDaj 4
 meqna' 4
 wIDabchoH 4
 Daj'a' 4
-wepDaj 4
 SISbe' 4
 wIchegh 4
 vaghDIch 4
@@ -3262,6 +3267,7 @@ maybe' 3
 ghomHa' 3
 SIla' 3
 puqDaj 3
+'ejDo' 3
 DIlo' 3
 SoS'e' 3
 DaghojmeH 3
@@ -3328,7 +3334,6 @@ be'nI'wI''e' 3
 2000 3
 jISoptaH 3
 lulaD 3
- 3
 wIghoS 3
 jIlpu' 3
 ja'chuq 3
@@ -3376,6 +3381,7 @@ mu'meyvam 3
 HochHom'e' 3
 jIlengmeH 3
 SISqu'taH 3
+lojmItwIj 3
 qamDu'lIj 3
 qaja'meH 3
 qa'naDa'Daq 3
@@ -3458,6 +3464,7 @@ mIwDaj 3
 notqa' 3
 QaltaH 3
 SuwomIyngan 3
+maw'wI' 3
 rolDaj 3
 ghItlhta' 3
 tIqbe'bogh 3
@@ -3471,7 +3478,6 @@ pawmeH 3
 chImtaH 3
 natlhlu'chu'pu' 3
 chISbe' 3
-chu'bogh 3
 tIqem 3
 mu'tlheghvam'e' 3
 Daje'nIS 3
@@ -3702,7 +3708,6 @@ taHlaH 3
 yIta'Qo' 3
 Qobqu' 3
 bInay 3
-DIrDaj 3
 HIpmey 3
 jIwuD 3
 lo'rIy''e' 3
@@ -3711,6 +3716,7 @@ vISoQmoH 3
 cheghDI' 3
 ghItlhlu' 3
 Dor 3
+mIrmey 3
 vIghelta' 3
 jIDo' 3
 tomat 3
@@ -3802,7 +3808,6 @@ ma'rI'qa' 3
 munob 3
 wISuch 3
 Holraj 3
-yIvbeHvetlh 3
 muHar 3
 DaHech'a' 3
 bIjatlhDI' 3
@@ -3898,6 +3903,7 @@ qavoqbe' 3
 jajmeywIj 3
 mutlh 3
 vI'laS 3
+bISeDtaHvIS 3
 qatlhIj 3
 Sengvetlh 3
 qaQoy 3
@@ -4082,7 +4088,6 @@ namchIl 3
 gho'lIv 3
 boghovbe''a' 3
 jablu'DI' 2
-SuvwI'pu' 2
 SuvwI'pu''e' 2
 SoSoylI' 2
 Dalo'pu' 2
@@ -4168,6 +4173,7 @@ SISqu'choH 2
 DaqDaj 2
 SuSHom 2
 chISchoH 2
+HuDmeyvetlh 2
 jatlhlu'taHvIS 2
 yInwIjvo' 2
 yIyIt 2
@@ -4524,7 +4530,6 @@ chaHtaHbogh 2
 vuvHa' 2
 mIpwI'pu' 2
 HoSchoH 2
-'ejDo' 2
 jIjaHnISpu' 2
 Dujchajmo' 2
 QeHDaj 2
@@ -4756,7 +4761,6 @@ jIQongpu' 2
 bIQaghpu' 2
 lo'meH 2
 bIqImnIS 2
-lojmItwIj 2
 permeH 2
 vIghajbe'pu' 2
 vIghovlaHbe' 2
@@ -4917,7 +4921,6 @@ SIchmeH 2
 ngengHomDaq 2
 Da'nal 2
 DISvam'e' 2
-maw'wI' 2
 mu'ang 2
 vI'uchchoHlaHbe' 2
 Sep'e' 2
@@ -5090,6 +5093,7 @@ chobuSHa' 2
 pejlu'ta' 2
 nungbogh 2
 Suy 2
+juHqo' 2
 vIghoSlaH 2
 tlhejtaH 2
 puqnI'be' 2
@@ -5317,6 +5321,7 @@ muvemmoH 2
 yIngu''egh 2
 bolo' 2
 yIlIS 2
+'oH'e' 2
 wagh'a' 2
 yIDa 2
 'aqroS 2
@@ -5440,6 +5445,7 @@ SerrumwIj 2
 jIHaghbe'laHbe' 2
 Qey 2
 DaghomnIS 2
+leSnIS 2
 ghaHtaH» 2
 Doqqu'bogh 2
 qIl 2
@@ -5453,7 +5459,6 @@ Qorwaghvam 2
 bIQongchoHpu''a' 2
 vIje'laHbe' 2
 vetlhmey 2
-mIrmey 2
 vIvoqpu' 2
 luyajbe' 2
 tIqDaj 2
@@ -5699,6 +5704,7 @@ Dachupbogh 2
 qaleghnIS 2
 renwI' 2
 jImuS 2
+choghel 2
 Dayajbe''a' 2
 muchop 2
 jIrun 2
@@ -5733,6 +5739,7 @@ Qe''e' 2
 DuboQ 2
 lIjlaw'pu' 2
 Quchqu' 2
+bepbe' 2
 bIqet 2
 cheghbe' 2
 DachID 2
@@ -6003,7 +6010,6 @@ Dajatlhmo' 2
 bItuHbe''a' 2
 loDnI'wI'vaD 2
 muleghpu' 2
-bISeDtaHvIS 2
 bISaHbe' 2
 Duy'choH 2
 jIghItlh 2
@@ -6104,6 +6110,7 @@ vItnIS 2
 yItlhuH 2
 petlhuH 2
 peSop 2
+QaHlaH 2
 yISup 2
 peSup 2
 yIqet 2
@@ -6411,6 +6418,7 @@ tamlerQeD 2
 Da'elpu' 2
 jIQongtaHbe' 2
 yupwI' 2
+jISaHbe'chu' 2
 Daqrab 2
 qawwIj 2
 meqvam'e' 2
@@ -6431,6 +6439,7 @@ vIrveq 2
 Supaw'jaj 2
 Dabej 2
 meqmey 2
+maghpubmey 2
 DuSaQ'a'vetlh 2
 ghewvam 2
 ghIQ 2
@@ -6500,6 +6509,7 @@ vIqI' 2
 Doq'e' 2
 boSuchpu''a' 2
 ratlhDaq 2
+tlhaw' 2
 jIyweS 2
 DujchajDaq 2
 ne 2
@@ -6608,6 +6618,7 @@ HoSwI' 2
 mejrup 2
 mutlhlu'pu' 2
 muSHa'chuq 2
+lamDaq 2
 wImutlhlaH'a' 2
 yItQet 2
 vIghomqa' 2
@@ -6635,6 +6646,7 @@ DabchoH 2
 ghung'a' 2
 yIchotlh 2
 mughIjbe' 2
+tuQbe'taH 2
 muvoqbe' 2
 DaDambej 2
 boqHa''egh 2
@@ -6647,6 +6659,7 @@ jachtaH 2
 ja'pu''a' 2
 muchotlhtaH 2
 nIvnavDaj 2
+puqbe'ma''e' 2
 yI'agh 2
 tungyen 2
 nobmey'e' 2
@@ -6881,7 +6894,6 @@ Suqerbergh 1
 DevwI'ra'Daq 1
 HItlhap 1
 pIboQnIS'a' 1
-HuDmeyvetlh 1
 qIyowto' 1
 be'nI'pu'Daj 1
 cha'vaD 1
@@ -9478,7 +9490,6 @@ noH'a' 1
 vI'moH 1
 vI'moHta' 1
 tlhInganpu' 1
-juHqo' 1
 Qo'noS'e' 1
 Suchpu' 1
 vIHtaHvIS 1
@@ -9987,14 +9998,3 @@ vImuSHa'bogh 1
 matlheDchoH 1
 jIHajvIp 1
 DaSaH 1
-tIH'a' 1
-qawuvtaH 1
-SawuvtaH 1
-poSqu'moH 1
-nInobbe''a' 1
-DujwIj'e' 1
-jIba'laH'a' 1
-SuDqu'law' 1
-wIbuSHa' 1
-mevnIS 1
-chIjtaH 1

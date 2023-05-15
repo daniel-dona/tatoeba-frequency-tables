@@ -1,14 +1,14 @@
-Tha 278
-a 266
+Tha 279
+a 267
 an 263
-mi 173
-e 132
+mi 174
+e 133
 ann 116
 a' 106
 air 101
+tha 87
 Tòmas 87
 bheil 86
-tha 85
 thu 84
 gu 70
 eil 65
@@ -22,9 +22,9 @@ am 47
 anns 47
 aig 46
 seo 45
+sin 42
 Cha 42
-sin 41
-a’ 38
+a’ 39
 leam 37
 A 37
 agam 37
@@ -33,11 +33,11 @@ math 35
 sibh 30
 Dè 29
 obair 29
+agus 28
 Is 27
 Màiri 27
 agad 27
 i 26
-agus 26
 glè 25
 dhomh 25
 dol 25
@@ -62,6 +62,7 @@ mise 17
 òl 16
 ach 16
 th' 16
+sinn 16
 Nach 16
 dà 16
 toil 16
@@ -69,31 +70,31 @@ leis 15
 Cò 15
 iarraidh 15
 Gàidhlig 15
-sinn 15
 Tàmas 15
 fear 14
 a-màireach 14
 ionnsachadh 14
+gum 14
 duine 14
 bha 14
 ort 14
 cho 14
-gum 13
 orm 13
 bi 13
 B' 13
+sgìth 13
 uisge 12
 an-dràsda 12
+dhuinn 12
 Càite 12
 ’S 12
 dè 12
 is 12
-sgìth 12
+bu 12
 "Am 12
 Bidh 11
 urrainn 11
 nas 11
-dhuinn 11
 feum 11
 tu 11
 tighinn 11
@@ -102,7 +103,6 @@ leabhar 11
 toilichte 11
 agaibh 11
 à 11
-bu 11
 trì 11
 "Cha 11
 toigh 10
@@ -166,6 +166,7 @@ ceart 7
 às 7
 coma 7
 Ailis 7
+dhol 7
 oileanaich 7
 aran 6
 òran 6
@@ -195,6 +196,7 @@ cheannaich 6
 àbhaist 6
 chreid 6
 aice 6
+chòir 6
 Fhraingis 6
 dùil 6
 leibh 6
@@ -202,7 +204,6 @@ aghaidh 6
 ur 6
 a-bhòin-dè" 6
 phòsadh 6
-dhol 6
 ann" 6
 èisteachd 5
 luath 5
@@ -219,7 +220,6 @@ charaid 5
 Ciamar 5
 gràdh 5
 leann 5
-chòir 5
 faod 5
 Thuirt 5
 ceòl 5
@@ -228,6 +228,7 @@ bho 5
 balach 5
 gabh 5
 Fàilte 5
+mar 5
 chor 5
 fhèin 5
 Thòisich 5
@@ -251,6 +252,7 @@ an-dràsta 4
 thoil 4
 cur 4
 feumaidh 4
+smaoineachadh 4
 deagh 4
 snàmh 4
 Chì 4
@@ -280,7 +282,6 @@ mu 4
 breagha 4
 thèid 4
 a-nis 4
-mar 4
 Tom 4
 oirnn 4
 sgoil 4
@@ -315,8 +316,8 @@ choir 3
 sgrìobhadh 3
 cànan 3
 chuideachadh 3
+dhachaigh 3
 a-staigh 3
-smaoineachadh 3
 cadal 3
 Thèid 3
 theaghlach 3
@@ -381,6 +382,7 @@ fhaisg 3
 loch 3
 Dùin 3
 còig 3
+fadalach 3
 t-sìde 3
 far 3
 thòisich 3
@@ -445,7 +447,6 @@ phàirc 2
 mas 2
 orra 2
 Tatoeba 2
-dhachaigh 2
 deànamh 2
 t-iasg 2
 ma-thà 2
@@ -577,7 +578,6 @@ turadh 2
 Feuchaidh 2
 Faodaidh 2
 dath 2
-fadalach 2
 shìde 2
  2
 saoghal 2
@@ -636,6 +636,7 @@ dheth 2
 tigeadh 2
 clann 2
 chloinne 2
+uile 2
 Gura 2
 Boston 2
 tràth 2
@@ -1215,7 +1216,6 @@ gàire 1
 Dh'fhàg 1
 Coirèanaich 1
 annainn 1
-uile 1
 dhinn 1
 t-oileanach 1
 uighean 1

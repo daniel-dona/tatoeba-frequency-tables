@@ -1,4 +1,4 @@
-je 2195
+je 2196
 sa 2098
 som 1861
 Tom 1609
@@ -30,7 +30,7 @@ tu 242
 ma 232
 má 232
 Mária 231
-z 225
+z 226
 ťa 213
 Mám 211
 ti 210
@@ -525,6 +525,7 @@ dôležité 20
 Páči 20
 nich 20
 Oni 20
+troch 20
 páči 20
 môžeme 20
 hrdá 20
@@ -547,7 +548,6 @@ podľa 19
 ňou 19
 ruky 19
 kvety 19
-troch 19
 S 19
 prvý 19
 života 19
@@ -1413,6 +1413,7 @@ autobus 7
 krásny 7
 Odpoveď 7
 žlté 7
+týchto 7
 hrať 7
 smutná 7
 Jedného 7
@@ -1631,7 +1632,6 @@ päťsto 6
 triedy 6
 neje 6
 Odkiaľ 6
-týchto 6
 človekom 6
 zaujíma 6
 Nebuďte 6

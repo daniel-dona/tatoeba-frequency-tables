@@ -1,4 +1,4 @@
-je 1605
+je 1606
 se 599
 u 539
 sam 451
@@ -98,12 +98,12 @@ puno 32
 Nije 32
 Mogu 31
 znam 31
+Danas 31
 kada 31
 vidjeti 31
 živi 31
 Ti 31
 tvoj 30
-Danas 30
 doći 30
 nas 30
 tu 30
@@ -2780,6 +2780,7 @@ zahvalan 2
 mentalni 2
 razvoj 2
 spor 2
+srijeda 2
 Antonio 2
 Jack 1
 Tomojuki 1
@@ -8044,7 +8045,6 @@ Prisutni 1
 Tjedan 1
 podijeljen 1
 dana: 1
-srijeda 1
 petak 1
 subota 1
 Znala 1

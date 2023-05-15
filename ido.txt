@@ -1,7 +1,7 @@
-esas 2612
+esas 2614
 la 2065
 Me 2042
-ne 1176
+ne 1179
 La 925
 me 817
 Tom 787
@@ -9,12 +9,12 @@ tu 774
 Ka 620
 en 544
 havas 522
-es 436
+es 437
 Il 390
 di 376
+ke 367
 vu 366
 mea 365
-ke 364
 Ni 350
 a 349
 e 333
@@ -25,14 +25,14 @@ tre 265
 por 254
 Tu 247
 Mea 243
-il 222
+il 225
 plu 207
 El 201
 de 192
 bona 186
+Ilu 174
 savas 173
 ni 172
-Ilu 171
 kun 170
 kam 169
 to 168
@@ -100,9 +100,9 @@ kato 73
 manjas 72
 patro 71
 li 70
+nia 68
 sen 68
 Quale 68
-nia 67
 ad 67
 aquo 67
 ed 67
@@ -127,6 +127,7 @@ kande 57
 nomo 57
 amiko 55
 Lu 55
+dicis 55
 da 55
 parolar 54
 mikra 54
@@ -134,7 +135,6 @@ omno 54
 nur 53
 homi 53
 dicas 52
-dicis 52
 darfas 51
 al 51
 nultempe 51
@@ -237,6 +237,7 @@ agar 29
 standas 29
 puero 29
 automobilo 29
+malada 29
 matino 29
 desfacila 28
 venos 28
@@ -257,7 +258,6 @@ mala 27
 yuna 27
 existas 27
 filiulo 27
-malada 27
 pano 27
 Ziri 27
 kati 26
@@ -1429,6 +1429,7 @@ kelkafoye 4
 kunlaborar 4
 korto 4
 NIFO 4
+vicini 4
 flugas 4
 Montrez 4
 brakio 4
@@ -1765,7 +1766,6 @@ Havez 3
 Kelkafoye 3
 enemiko 3
 Betty 3
-vicini 3
 admiras 3
 obedias 3
 vagino 3
@@ -7866,3 +7866,5 @@ plubonigas 1
 neklara 1
 Frukto 1
 salubra 1
+Senhemi 1
+maladas 1

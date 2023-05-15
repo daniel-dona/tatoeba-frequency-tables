@@ -1,16 +1,16 @@
-er 4147
+er 4149
 Jeg 3431
 ikke 2330
 å 2078
 i 2060
 en 1951
 du 1789
-det 1719
+det 1720
 har 1707
 på 1624
 Tom 1617
-til 1454
-og 1279
+til 1455
+og 1280
 jeg 1275
 Det 1110
 for 1016
@@ -19,8 +19,8 @@ med 1009
 Han 963
 av 940
 var 919
-som 914
-at 817
+som 915
+at 818
 Hun 726
 et 721
 Du 704
@@ -29,7 +29,7 @@ kan 628
 vil 621
 om 563
 så 537
-han 535
+han 536
 Vi 527
 den 468
 min 450
@@ -60,12 +60,12 @@ kommer 249
 mye 247
 din 244
 Hvor 240
-liker 234
+liker 235
 enn 234
 denne 229
 dag 220
 noen 215
-Dette 213
+Dette 214
 men 209
 sin 209
 skulle 208
@@ -148,7 +148,7 @@ penger 97
 tid 96
 ønske 95
 tok 95
-elsker 94
+elsker 95
 Hvordan 94
 siden 92
 ingenting 92
@@ -790,6 +790,7 @@ butikken 15
 sikkert 15
 absolutt 15
 sendte 15
+fare 15
 forrige 15
 Katten 15
 spilte 15
@@ -837,7 +838,6 @@ huske 14
 endelig 14
 enkel 14
 elven 14
-fare 14
 sterk 14
 røde 14
 leter 14
@@ -1328,6 +1328,7 @@ gleder 8
 forsvant 8
 forhold 8
 ferien 8
+spill 8
 restaurant 8
 fiender 8
 spillet 8
@@ -1376,6 +1377,7 @@ utallige 8
 delta 8
 oppnå 8
 sendt 8
+grunnen 8
 hjalp 8
 arbeide 8
 halsen 8
@@ -1464,7 +1466,6 @@ følger 7
 babyen 7
 selge 7
 fulgte 7
-spill 7
 Navnet 7
 listen 7
 skutt 7
@@ -1522,7 +1523,6 @@ Bor 7
 datamaskinen 7
 timevis 7
 kilometer 7
-grunnen 7
 Først 7
 nord 7
 orden 7
@@ -1772,6 +1772,7 @@ nøklene 6
 vunnet 6
 naturlig 6
 halvt 6
+kvinnen 6
 sjefen 6
 langsomt 6
 forvirret 6
@@ -2084,7 +2085,6 @@ fremmedspråk 5
 Fire 5
 faller 5
 søsteren 5
-kvinnen 5
 selvfølelse 5
 positive 5
 retter 5

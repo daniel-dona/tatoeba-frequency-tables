@@ -1,4 +1,4 @@
-isch 114
+isch 115
 Ich 39
 Tom 36
 I 34
@@ -167,6 +167,8 @@ Merci 2
 Di 2
 Ruh 2
 Polizei 2
+Ai 2
+Sprooch 2
 Und 2
 mis 2
 Nööchi 2
@@ -346,8 +348,6 @@ Mis 1
 Luftchüssiboot 1
 volle 1
 Aal 1
-Ai 1
-Sprooch 1
 gnueg 1
 Jack 1
 Hopkins 1
@@ -997,3 +997,5 @@ für's 1
 nöie 1
 Jahr 1
 vorgnaa 1
+nia 1
+gnuag 1

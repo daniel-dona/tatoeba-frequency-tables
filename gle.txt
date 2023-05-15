@@ -3,7 +3,7 @@ a 605
 Tá 603
 mé 389
 ag 379
-Is 325
+Is 326
 é 261
 ar 231
 sé 205
@@ -20,7 +20,7 @@ i 125
 mo 121
 le 104
 na 100
-maith 96
+maith 97
 do 92
 sin 90
 Bhí 85
@@ -29,7 +29,7 @@ Tomás 79
 Tom 75
 atá 74
 sa 73
-leat 70
+leat 71
 is 70
 rud 68
 sí 68
@@ -44,9 +44,9 @@ Ba 55
 dul 55
 ann 55
 Cad 51
+siad 49
 Cén 49
 leis 48
-siad 48
 iarraidh 48
 leabhar 47
 duine 46
@@ -66,8 +66,8 @@ obair 35
 teach 34
 dhéanamh 33
 anois 32
+dom 32
 ríomhaire 32
-dom 31
 air 30
 uaim 29
 scríobh 28
@@ -636,6 +636,7 @@ laoch 3
 Díolann 3
 éisc 3
 úsáideann 3
+madraí 3
 Leanne 3
 feoil 3
 rís 3
@@ -691,6 +692,7 @@ Fanaigí 3
 cliste 3
 thiomáint 3
 shuí 3
+faoina 3
 lón 3
 thíos 3
 leithéid 3
@@ -905,7 +907,6 @@ meisce 2
 m'fhear 2
 leanbh 2
 cait 2
-madraí 2
 Labhraíonn 2
 daor 2
 charad 2
@@ -1033,7 +1034,6 @@ croí 2
 inti 2
 stáisiún 2
 amhras 2
-faoina 2
 Suigh 2
 áthais 2
 d'airgead 2
@@ -2480,6 +2480,7 @@ Máidin 1
 mhath 1
 amadach 1
 Fán 1
+liathdóirí 1
 Dúlais 1
 Oileán 1
 Mhanann 1
@@ -2916,3 +2917,5 @@ Coirdínigh 1
 neamhchiontach 1
 córas 1
 oibriúcháin 1
+D'inis 1
+gcuid 1

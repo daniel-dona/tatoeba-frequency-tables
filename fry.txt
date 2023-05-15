@@ -1,7 +1,7 @@
 is 159
-Ik 148
+Ik 149
 in 108
-de 69
+de 70
 fan 60
 it 58
 yn 56
@@ -15,28 +15,28 @@ De 28
 ik 28
 Wat 26
 bin 26
-jo 25
+jo 26
 kom 24
 haadstêd 24
 Myn 23
 wie 23
-my 20
-mei 19
+my 21
+mei 20
+op 19
+dy 18
 Wêr 18
 te 17
 der 17
-dy 17
-op 17
 binne 17
 hat 16
 ha 16
+Hy 15
 myn 15
 Se 15
+foar 14
 'e 14
-Hy 14
 nei 14
 Wy 14
-foar 13
 wat 13
 dyn 13
 Sy 13
@@ -80,6 +80,7 @@ sa 6
 keamer 6
 wennet 6
 alles 6
+syn 6
 haatsje 6
 In 5
 eagen 5
@@ -103,7 +104,6 @@ yt 5
 studint 5
 Nederlân 5
 suster 5
-syn 5
 Der 5
 Elkenien 5
 Dútslân 5
@@ -277,6 +277,7 @@ giet 2
 Grikelân 2
 lyn 2
 lykas 2
+foel 2
 doe't 2
 bloed 2
 nije 2
@@ -288,6 +289,7 @@ dien 2
 holle 2
 wiene 2
 plysje 2
+doar 2
 iet 2
 tosk 2
 Spanje 2
@@ -339,6 +341,7 @@ sels 2
 wy 2
 kinnen 2
 Dizze 2
+wachtsje 2
 ôf 2
 wer 2
 wêze 2
@@ -623,7 +626,6 @@ blaft 1
 ûnbekenden 1
 siik 1
 gjinien 1
-foel 1
 bijna 1
 flauw 1
 heteroseksueel 1
@@ -656,7 +658,6 @@ iel 1
 Amsterdam 1
 beskikber 1
 Folapúk 1
-doar 1
 ferve 1
 Android-tillefoan 1
 Yann 1
@@ -924,7 +925,6 @@ fakânsje" 1
 Kanada" 1
 pleats 1
 waarmer 1
-wachtsje 1
 Lês 1
 tankje 1
 krityk 1
@@ -1193,3 +1193,7 @@ thúsbliuwe 1
 thússitte 1
 Eigendom 1
 dieverij 1
+swier 1
+rjochterskouder 1
+Wolle 1
+dûnsje 1
