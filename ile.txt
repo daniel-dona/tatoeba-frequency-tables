@@ -1,6 +1,6 @@
-es 2384
+es 2386
 Yo 1588
-un 1314
+un 1315
 li 1303
 ne 966
 Tom 957
@@ -10,9 +10,9 @@ Il 475
 ha 458
 esset 451
 de 444
-tu 440
+tu 441
 have 413
-Esque 407
+Esque 408
 Ella 360
 que 332
 me 314
@@ -31,7 +31,7 @@ Tu 215
 ama 212
 posse 209
 a 208
-tre 196
+tre 197
 por 185
 quo 184
 su 182
@@ -52,7 +52,7 @@ mult 122
 Quo 121
 Ili 118
 ella 108
-bell 100
+bell 102
 U 98
 Ti 95
 Pro 94
@@ -76,7 +76,7 @@ grand 70
 Qui 69
 la 69
 nos 69
-dom 67
+dom 68
 besona 66
 fat 66
 fa 66
@@ -111,6 +111,7 @@ odia 49
 vos 49
 munde 48
 sestra 48
+Su 48
 old 48
 die 47
 vor 47
@@ -118,7 +119,6 @@ Un 47
 solmen 47
 Qualmen 47
 mann 47
-Su 47
 ma 47
 vell 46
 quel 46
@@ -186,6 +186,7 @@ tam 30
 On 30
 savet 30
 filia 29
+land 29
 lettre 29
 amicos 29
 annu 29
@@ -193,7 +194,6 @@ parlat 29
 homes 29
 trovat 29
 capital 28
-land 28
 les 28
 marita 28
 nocte 28
@@ -205,13 +205,13 @@ ocules 27
 amica 27
 hay 27
 tant 27
+sercha 26
 long 26
 rubi 26
 infante 26
 Hodie 26
 dormi 26
 omnes 26
-sercha 25
 dictionarium 25
 Quant 25
 sport 25
@@ -298,6 +298,7 @@ tard 18
 possibil 18
 deci 18
 malad 18
+pane 17
 féminas 17
 ante 17
 pom 17
@@ -313,7 +314,6 @@ Omnicos 17
 Australia 17
 problemas 17
 spegul 17
-pane 16
 jup 16
 estive 16
 guerre 16
@@ -1094,6 +1094,7 @@ melca 4
 vivet 4
 Crede 4
 aporta 4
+Slovenia 4
 omnicós 4
 circa 4
 intrar 4
@@ -1363,7 +1364,6 @@ Lassa 3
 tricota 3
 Quelcvez 3
 rosines 3
-Slovenia 3
 fascist 3
 for 3
 misset 3

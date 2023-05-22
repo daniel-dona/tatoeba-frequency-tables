@@ -1,8 +1,8 @@
-oon 208
-Se 33
+oon 209
+Se 34
 ei 32
+Hyvvää 27
 ja 27
-Hyvvää 26
 oli 24
 Hän 17
 Met 16
@@ -180,6 +180,7 @@ nousi 2
 antoi 2
 Kirja 2
 Tervettulemaa 2
+mie 2
 Käänny 2
 saanu 2
 pääle 2
@@ -223,6 +224,7 @@ Miksi 2
 teema 2
 1978 2
 Net 2
+maikuuta 2
 sanoi 2
 meilä 2
 pölättelee 2
@@ -234,6 +236,7 @@ hyvää 2
 siitä 2
 olen 2
 Sota 2
+17 2
 kvääninkansan 1
 kielen 1
 kulttuurin 1
@@ -561,7 +564,6 @@ paikkaa 1
 matkale 1
 rommaani 1
 tuo 1
-mie 1
 tieđä 1
 Tytär 1
 studeeraa 1
@@ -896,7 +898,6 @@ halluu 1
 staatin 1
 Aprillikuu 1
 edeltää 1
-maikuuta 1
 1 1
 aprillipäivä 1
 Beiarn 1
@@ -1233,7 +1234,6 @@ muuri 1
 kovottu 1
 käsin 1
 ensimäiset 1
-17 1
 maita 1
 Pieni 1
 17-vuotiseksi 1
@@ -1328,3 +1328,7 @@ Kaisa 1
 tulisielu 1
 Orava 1
 nisäelläin 1
+Niinkö 1
+sanoin 1
+nykyaikhainen 1
+pistokontakti 1

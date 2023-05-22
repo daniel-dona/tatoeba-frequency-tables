@@ -1,5 +1,5 @@
-es 259
-Tom 142
+es 260
+Tom 144
 un 139
 El 102
 la 99
@@ -16,7 +16,7 @@ La 54
 Los 51
 son 48
 איל 44
-los 40
+los 41
 Es 40
 Esto 38
 Me 38
@@ -32,7 +32,7 @@ Eya 28
 mi 28
 So 28
 muy 25
-se 24
+se 25
 טום 24
 נו 23
 tiene 22
@@ -152,6 +152,7 @@ abandono 7
 lashon 7
 problemes 7
 Miri 7
+Todos 7
 Siempre 7
 Espanya 6
 Si 6
@@ -163,6 +164,7 @@ ti 6
 gata 6
 merkando 6
 Vozotras 6
+Kualo 6
 sos 6
 Grasias 6
 ermoza 6
@@ -180,7 +182,6 @@ estava 6
 סי 6
 emportante 6
 mishpaha 6
-Todos 6
 Topa 6
 kayendo 6
 mozotros 5
@@ -189,6 +190,7 @@ Eyos 5
 muncho 5
 djudeo-espanyol 5
 o 5
+Ken 5
 mavis 5
 Su 5
 bisikleta 5
@@ -196,7 +198,6 @@ si 5
 ir 5
 kozas 5
 komprando 5
-Kualo 5
 somos 5
 Mueva 5
 kriaturas 5
@@ -238,7 +239,6 @@ kapital 4
 ivrit 4
 madre 4
 bivir 4
-Ken 4
 ojos 4
 mijor 4
 ambezarme 4
@@ -285,6 +285,7 @@ leche 4
 Ido 4
 Amo 4
 avlan 4
+azer 4
 djente 4
 nona 4
 yidish 4
@@ -422,7 +423,6 @@ Gresia 3
 אירה 3
 קאביל 3
 ashkenazi 3
-azer 3
 meldando 3
 פלאזי 3
 מילדאנדו 3
@@ -432,6 +432,7 @@ libertad 3
 אליגרי 3
 אשכנזי 3
 דייו 3
+puede 3
 טי 3
 primera 3
 portokales 3
@@ -709,7 +710,6 @@ libero 2
 פסח 2
 bevo 2
 גﬞודיאה 2
-puede 2
 קריאי 2
 גﬞודייוס 2
 איסטאן 2
@@ -766,6 +766,7 @@ siento 2
 ija 2
 arvol 2
 ojas 2
+kayen 2
 demandes 2
 demandesh 2
 deke 2
@@ -1930,7 +1931,6 @@ Inyeva 1
 inyevando 1
 Kayeras 1
 Kayerash 1
-kayen 1
 kayo 1
 Kayiya 1
 Abasta 1
@@ -2058,3 +2058,8 @@ uno 1
 otra 1
 idealista 1
 idealisto 1
+imperios 1
+Elon 1
+Musk 1
+invento 1
+Twitter 1

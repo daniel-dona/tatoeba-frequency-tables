@@ -5,11 +5,11 @@ e 885
 bara 697
 da 680
 eo 605
-ket 524
+ket 525
 an 523
 eus 450
-zo 391
-o 384
+zo 392
+o 383
 ur 307
 Ar 304
 ra 295
@@ -24,7 +24,7 @@ ran 239
 din 231
 vez 231
 gant 227
-'zo 222
+'zo 223
 mat 205
 Bara 173
 evit 172
@@ -124,10 +124,10 @@ ganeoc'h 44
 dour 43
 Pa 43
 Pelec'h 42
+oc'h 42
 kavet 42
 raen 42
 ganti 42
-oc'h 41
 rit 40
 C'hoant 40
 c'hoazh 40
@@ -277,6 +277,7 @@ bep 19
 skol 19
 'peus 19
 met 19
+ivez 19
 a-walc'h 19
 vezañ 19
 gwellañ 19
@@ -294,7 +295,6 @@ plac'h 18
 paouez 18
 boa 18
 dre 18
-ivez 18
 lec'h 18
 evañ 18
 Kaoc'h 18
@@ -355,6 +355,7 @@ riz 16
 te-du 16
 penaos 15
 Trugarez 15
+saozneg 15
 bemdez 15
 kig 15
 marv 15
@@ -370,6 +371,7 @@ neb 15
 ennañ 15
 vihan 15
 reer 15
+deskiñ 15
 int 15
 ezhomm 15
 gozh 15
@@ -379,7 +381,6 @@ gouest 15
 brene 15
 Demat 14
 gwir 14
-saozneg 14
 Deuit 14
 kant 14
 Er 14
@@ -394,7 +395,6 @@ Nedeleg 14
 Aze 14
 Eno 14
 Paouez 14
-deskiñ 14
 d'am 14
 laezh 14
 Laosk 14
@@ -464,6 +464,7 @@ bugale 12
 Paouezit 12
 Laouen 12
 beg 12
+'vez 12
 'teus 12
 bev 12
 mintin-mañ 12
@@ -496,7 +497,6 @@ vrav 11
 dra-mañ 11
 kement 11
 maez 11
-'vez 11
 saout 11
 c'horn 11
 merc'hed 11
@@ -671,7 +671,9 @@ lakaat 8
 Etre 8
 Nag 8
 Chomit 8
+vuhez 8
 stad 8
+Hor 8
 Debrit 8
 Peur 8
 Pevare 8
@@ -764,10 +766,8 @@ benniget 7
 Be 7
 Truez 7
 zebro 7
-vuhez 7
 prest 7
 nebeud 7
-Hor 7
 izel 7
 A-benn 7
 ouele 7
@@ -1191,6 +1191,7 @@ koll 4
 mad 4
 nul 4
 plijadur 4
+dor 4
 loa 4
 c'hog 4
 Arru 4
@@ -1281,6 +1282,7 @@ Ankouezhet 4
 gwezhall 4
 ebed 4
 Aoi 4
+trawalc'h 4
 Heul 4
 kouezhañ 4
 pediñ 4
@@ -1515,7 +1517,6 @@ truilhenn 3
 c'harzh 3
 Dibaot 3
 teilh 3
-dor 3
 welout 3
 kac'hat 3
 prad 3
@@ -1674,7 +1675,6 @@ sellout 3
 Tabutomp 3
 Devezh 3
 Dañsal 3
-trawalc'h 3
 Heulit 3
 gostez 3
 Echuit 3
@@ -1970,7 +1970,6 @@ ouzhimp 2
 temptadur 2
 diwallit 2
 ouian 2
-so 2
 Klevit 2
 sot-pitilh 2
 zud 2
@@ -2336,6 +2335,7 @@ istor 2
 'barzh 2
 mabig 2
 i 2
+jamez 2
 'vit 2
 eürusted 2
 ael 2
@@ -3253,10 +3253,8 @@ c’hant 1
 pajenn 1
 vurev 1
 Kreisteiz 1
-Enesennoù 1
-h-essae 1
-diskiñ 1
-Saosneg 1
+Enezennoù 1
+esaeañ 1
 garfe 1
 kerioù 1
 eman 1
@@ -4518,7 +4516,6 @@ Remungol 1
 M'he 1
 fedez 1
 ned 1
-jamez 1
 goll" 1
 fedet 1
 'raok 1
@@ -5525,15 +5522,7 @@ Koaret 1
 Kerkent 1
 Ih 1
 milde 1
-Or 1
 lañgaj 1
-'uè 1
-ked 1
-jaméz 1
-traoalh 1
-daor 1
-ie 1
-vuhé 1
 Tomm-kenañ 1
 'glevan 1
 gleven 1

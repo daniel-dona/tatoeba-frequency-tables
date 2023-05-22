@@ -1,8 +1,8 @@
-je 2196
-sa 2098
+je 2198
+sa 2100
 som 1861
 Tom 1609
-si 1513
+si 1514
 to 1307
 že 1084
 na 994
@@ -31,8 +31,8 @@ ma 232
 má 232
 Mária 231
 z 226
+Mám 213
 ťa 213
-Mám 211
 ti 210
 Kde 208
 ho 203
@@ -44,7 +44,7 @@ jej 163
 vás 160
 ísť 158
 mu 152
-rád 147
+rád 148
 Chcem 146
 ich 144
 Ako 141
@@ -60,12 +60,12 @@ tam 129
 byť 128
 urobiť 127
 veľa 125
-Toto 123
+Toto 125
 Koľko 123
 Tomovi 120
 niečo 120
 Ste 120
-pre 117
+pre 118
 Kto 115
 Už 108
 Prosím 108
@@ -89,9 +89,9 @@ so 86
 tri 85
 Na 85
 Môj 84
+domov 83
 francúzsky 83
 Viem 83
-domov 81
 hovorí 80
 nikdy 80
 mňa 79
@@ -145,10 +145,10 @@ alebo 60
 doma 60
 stalo 60
 dom 59
+rada 59
 niekedy 59
 Ešte 59
 majú 58
-rada 58
 prosím 58
 iba 58
 dvere 58
@@ -281,6 +281,7 @@ Máriu 35
 O 34
 Bolo 34
 žije 34
+Môžeš 34
 Hovoríte 34
 Aký 34
 oči 34
@@ -289,7 +290,6 @@ neviem 33
 vlasy 33
 žena 33
 pes 33
-Môžeš 33
 Moje 33
 skoro 33
 nemá 33
@@ -377,6 +377,7 @@ nevidel 27
 Viete 27
 Bostonu 27
 viacej 26
+Môžete 26
 syn 26
 Mali 26
 taký 26
@@ -397,7 +398,6 @@ Možno 26
 veľké 26
 Austrálii 26
 ním 25
-Môžete 25
 Určite 25
 jedno 25
 tvoje 25
@@ -762,6 +762,7 @@ navštíviť 14
 vedomý 14
 Tomova 14
 Myslela 14
+Zbožňujem 14
 proti 13
 deväť 13
 listy 13
@@ -822,7 +823,6 @@ francúzštiny 13
 milujem 13
 šla 13
 povedal: 13
-Zbožňujem 13
 nechcem 12
 keby 12
 sedem 12
@@ -1151,6 +1151,7 @@ Vaša 9
 tohto 9
 úlohy 9
 Nebola 9
+vrátiť 9
 Skús 9
 Súhlasím 9
 Celý 9
@@ -1446,7 +1447,6 @@ Nehovorím 7
 strane 7
 zomrel 7
 Tatoeba 7
-vrátiť 7
 slnka 7
 dávajú 7
 Vidíme 7
@@ -2223,6 +2223,7 @@ Austrália 4
 rodný 4
 dar 4
 ľahký 4
+riešenie 4
 vstal 4
 prípad 4
 Získal 4
@@ -2592,6 +2593,7 @@ Ješ 4
 Jedz 4
 Jedzte 4
 Pite 4
+„Koľko 4
 vypnúť 4
 tisíc 4
 Nechceli 4
@@ -2816,7 +2818,6 @@ najkrajší 3
 matky 3
 Snáď 3
 liek 3
-riešenie 3
 čokoládovú 3
 Potrebujú 3
 Svetlo 3
@@ -3373,7 +3374,6 @@ Niekoho 3
 posledná 3
 prídavné 3
 Pi 3
-„Koľko 3
 nerozumel 3
 vlastnej 3
 osemdesiat 3
@@ -3809,6 +3809,7 @@ brucha 3
 široké 3
 mandľové 3
 pomarančov 3
+mandle 3
 japonské 2
 Bojím 2
 dôstojnosti 2
@@ -9997,4 +9998,3 @@ severnom 1
 Atlantiku 1
 Grónskom 1
 Faerskými 1
-ostrovmi 1

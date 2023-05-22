@@ -1,9 +1,9 @@
-är 10594
+är 10595
 Jag 10439
 inte 6345
 att 6325
 Tom 6269
-du 4659
+du 4660
 en 4648
 på 4482
 det 4331
@@ -14,7 +14,7 @@ Han 3215
 jag 2960
 mig 2546
 här 2502
-för 2430
+för 2431
 var 2380
 med 2243
 till 2162
@@ -24,7 +24,7 @@ Hon 1982
 ett 1771
 Vi 1753
 dig 1740
-som 1710
+som 1711
 den 1710
 kan 1583
 Du 1475
@@ -34,9 +34,9 @@ han 1142
 sig 1098
 så 1085
 Vad 1061
-vill 1043
+vill 1044
 De 1027
-ni 972
+ni 973
 min 902
 mycket 894
 Hur 894
@@ -48,14 +48,14 @@ måste 772
 göra 771
 Är 764
 honom 750
-där 742
+där 743
 Har 714
 Var 686
 vara 686
-ut 682
-ha 679
+ut 683
+ha 680
+Den 662
 vad 662
-Den 661
 hade 660
 din 639
 de 608
@@ -74,7 +74,7 @@ sin 520
 går 516
 bra 510
 gå 502
-er 496
+er 497
 man 488
 Varför 486
 Min 485
@@ -92,8 +92,8 @@ något 386
 alla 383
 gick 383
 eller 377
+ser 373
 gör 373
-ser 372
 tror 366
 alltid 362
 fick 359
@@ -156,7 +156,7 @@ pengar 234
 sina 232
 ligger 231
 äter 229
-Om 227
+Om 228
 någonting 227
 äta 225
 Alla 221
@@ -1072,6 +1072,7 @@ skrattar 26
 Skynda 26
 kall 26
 pojkvän 26
+huvudstad 26
 drog 26
 vädret 25
 Solen 25
@@ -1108,7 +1109,6 @@ olyckan 25
 Gjorde 25
 öga 25
 Skriv 25
-huvudstad 25
 Sa 25
 svarade 25
 väggen 24
@@ -1258,6 +1258,7 @@ vanligt 21
 hellre 21
 sjön 21
 spanska 21
+fred 21
 ögonblick 21
 flyga 21
 tjugo 21
@@ -1312,7 +1313,6 @@ täckt 20
 Där 20
 född 20
 hål 20
-fred 20
 lägger 20
 skjuta 20
 varm 20
@@ -1650,6 +1650,7 @@ Norge 15
 Danmark 15
 ryska 15
 granne 15
+krig 15
 stiger 15
 handstil 15
 nyligen 15
@@ -1732,7 +1733,6 @@ bet 14
 tacka 14
 nåt 14
 for 14
-krig 14
 dela 14
 medicinen 14
 byggnaden 14
@@ -1805,6 +1805,7 @@ dubbelt 13
 fyller 13
 feber 13
 Företaget 13
+tjejen 13
 vita 13
 Kvinnan 13
 Mike 13
@@ -1928,7 +1929,6 @@ lämnar 12
 blåa 12
 hästar 12
 visar 12
-tjejen 12
 nyheterna 12
 letade 12
 sämre 12
@@ -7201,6 +7201,7 @@ Haddad 2
 naturlig 2
 satellit 2
 sköldpaddan 2
+Brasiliens 2
 skyskrapa 2
 smeker 2
 Moder 2
@@ -7459,6 +7460,7 @@ nos 2
 Alle 2
 25 2
 indisk 2
+förbered 2
 växt 2
 förare 2
 presenten 2
@@ -9996,5 +9998,3 @@ visslade 2
 blond 2
 tigrar 2
 duschade 2
-antikviteter 2
-bönor 2

@@ -111,6 +111,7 @@ siziň 35
 Ony 35
 berdi 35
 etdim 35
+Muny 35
 bilmedi 35
 ýöne 35
 alyp 35
@@ -118,7 +119,6 @@ Tomyň 34
 rugsat 34
 şol 34
 umyt 34
-Muny 34
 meniñ 34
 biraz 33
 Sämi 33
@@ -177,13 +177,13 @@ yzyna 25
 sag 24
 güni 24
 bilýär 24
+Düýn 24
 eýýäm 24
 düýn 23
 iň 23
 fransuzça 23
 gidip 23
 bolan 23
-Düýn 23
 hepde 23
 bärde 23
 edýär 23
@@ -605,6 +605,7 @@ okamak 7
 kimiň 7
 bolsadym 7
 esasy 7
+ýagyş 7
 işiň 7
 aradan 7
 bilerin 7
@@ -702,7 +703,6 @@ gyzyl 6
 aljak 6
 ýokdy 6
 bilmersiň 6
-ýagyş 6
 geň 6
 berer 6
 ýeri 6
@@ -1571,6 +1571,7 @@ Marya 3
 söýgüli 3
 sözi 3
 asmanda 3
+kimden 3
 barýaryn 3
 Bar 3
 tutan 3
@@ -2103,6 +2104,7 @@ Sýuzanyň 2
 eşiklerini 2
 dişi 2
 mümkinçiligi 2
+öwrendiň 2
 Şularyň 2
 käbirleri 2
 daşky 2
@@ -2364,7 +2366,6 @@ gaýtdym 2
 dolandy 2
 duruzyp 2
 Umyt 2
-kimden 2
 diňle 2
 ýitirdim 2
 beriň 2
@@ -4042,7 +4043,6 @@ sebabi 1
 Lori 1
 taýýardygyny 1
 utmagynyň 1
-öwrendiň 1
 öwrendiňiz 1
 Marsda 1
 ýaşaýşyň 1

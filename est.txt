@@ -1,4 +1,4 @@
-on 1364
+on 1368
 Ma 876
 ei 701
 Tom 569
@@ -14,7 +14,7 @@ see 173
 oli 154
 ja 147
 ole 142
-ta 139
+ta 140
 Sa 134
 olen 132
 Mul 129
@@ -48,7 +48,7 @@ siin 63
 Mis 63
 veel 63
 nii 62
-Kus 59
+Kus 61
 Mida 58
 hea 58
 Mary 58
@@ -79,10 +79,10 @@ Kuidas 38
 Ära 38
 kaks 38
 aga 37
+tema 37
 tahab 37
 koer 37
 Tomil 37
-tema 36
 kas 35
 täna 35
 nad 35
@@ -346,6 +346,7 @@ kuus 10
 juurde 10
 Selle 10
 varem 10
+pealinn 10
 head 10
 osta 10
 Isa 10
@@ -437,7 +438,6 @@ silmad 8
 mäleta 8
 naise 8
 peaksid 8
-pealinn 8
 mängib 8
 kena 8
 vihane 8
@@ -6293,3 +6293,8 @@ operatsioon 1
 Puhub 1
 puhu 1
 Vihma 1
+Sloveenia 1
+Ljubljana 1
+Kambodža 1
+Phnom 1
+Penh 1

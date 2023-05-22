@@ -198,7 +198,6 @@ känɛ 9
 cuɔ̱ŋ 9
 lɔcdɛ 9
 cop 9
-a 9
 tëkɛ 9
 Ta̱a̱ 9
 Cän 9
@@ -214,6 +213,7 @@ ruëëc 8
 ɔ 8
 ti̲ 8
 gɔ̱a̱r 8
+a 8
 nath 8
 näk 8
 mi̱th 8
@@ -261,7 +261,6 @@ Nhɔk 7
 Tömɛ 7
 wë 7
 waŋ 7
-good 7
 Di̱ɛwä 7
 dëri̱ 7
 thi̱ëëc 7
@@ -436,6 +435,7 @@ To̱m 4
 Ber 4
 gua̱mɛ 4
 cänɛ 4
+good 4
 rɔadɛ 4
 Bi 4
 läti̱ 4
@@ -599,7 +599,6 @@ täämɛ 3
 nɛi 3
 duɔl 3
 dɛɛp 3
-is 3
 duɔ̱ɔ̱p 3
 inun 3
 ka̱n 3
@@ -894,13 +893,7 @@ lätni 2
 Caynaa 2
 gëër 2
 Ram 2
-great 2
-work 2
-Good 2
-morning 2
-afternoon 2
-evening 2
-night 2
+is 2
 cɔr 2
 duŋ 2
 muc 2
@@ -2030,10 +2023,16 @@ biɛlɛ 1
 Ali̲jiriaa 1
 nyaadu 1
 bɔ 1
-this 1
 Peace 1
 Mɛmɛ 1
 This 1
+great 1
+work 1
+Good 1
+morning 1
+afternoon 1
+evening 1
+night 1
 = 1
 peace 1
 gua̲rä 1

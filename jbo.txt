@@ -1,6 +1,6 @@
 lo 12538
 mi 5884
-cu 3331
+cu 3332
 do 3315
 la 2551
 pu 2257
@@ -11,7 +11,7 @@ na 1590
 be 1312
 i 1264
 ko'a 1233
-ma 1211
+ma 1213
 ka 1193
 ko 1064
 ca 972
@@ -39,7 +39,7 @@ li 389
 vi 359
 ca'o 352
 cusku 350
-prenu 348
+prenu 349
 te 340
 pe 297
 no 277
@@ -95,8 +95,8 @@ fetsi 148
 sidju 146
 ku'i 146
 pendo 146
+lo'e 146
 ralte 146
-lo'e 145
 gleki 145
 e 145
 mi'ai 143
@@ -218,7 +218,7 @@ kansa 74
 djacu 73
 nandu 73
 la'o 73
-remna 72
+remna 73
 snada 71
 tcadu 71
 xo 70
@@ -310,6 +310,7 @@ cirko 51
 kanro 51
 e'a 51
 roroi 50
+cipni 50
 ri'a 50
 kabri 50
 bilma 50
@@ -320,7 +321,6 @@ a'o 50
 je'a 50
 jungau 50
 mi'e 49
-cipni 49
 kanla 49
 stuzi 49
 noda 49
@@ -6463,3 +6463,4 @@ vilcarbi'e 1
 xango 1
 xalas 1
 surdei 1
+rexsa 1
