@@ -1,8 +1,8 @@
 es 115
-Eo 86
+Eo 87
 rhen 59
 yn 58
-di 45
+di 46
 Tomos 41
 Ill 30
 su 26
@@ -15,9 +15,9 @@ ill 17
 Lla 17
 sunt 17
 Nu 15
+a 12
 yst 12
 ci 12
-a 11
 mew 10
 Ke 10
 gws 10
@@ -26,10 +26,10 @@ Ty 9
 puf 9
 i 9
 in 8
+math 8
 lesbian 8
 gath 7
 Mew 7
-math 7
 sun 7
 Greid 7
 mhod 6
@@ -62,6 +62,7 @@ tew 4
 perthir 4
 gwol 4
 h-yddew 4
+ai 4
 thud 4
 dy 4
 Perch 4
@@ -79,6 +80,7 @@ bel 4
 Bon 4
 noeth 4
 mun 4
+Negyn 4
 mi 4
 ddewindad 4
 mulltisaf 4
@@ -89,12 +91,12 @@ rhys 3
 ti 3
 cath 3
 ddef 3
-ai 3
 pharol 3
 chath 3
 Ô-g 3
 twy 3
 fath 3
+nonc 3
 Almein 3
 mai 3
 ca 3
@@ -112,7 +114,6 @@ Pod-eo 3
 sidder 3
 fefeiran 3
 Yst 3
-Negyn 3
 alltr 3
 pobl 3
 si 3
@@ -141,7 +142,6 @@ Yamada 2
 problem 2
 bif 2
 fif 2
-nonc 2
 llafur 2
 d' 2
 ngwol 2
@@ -211,6 +211,8 @@ ia 2
 leir 2
 cu 2
 noethfent 2
+sempr 2
+ystad 2
 mab 1
 dew 1
 cinc 1
@@ -552,10 +554,10 @@ h-inifig 1
 effeith 1
 athened 1
 yspidal 1
-sempr 1
-ystad 1
 ddorfirai 1
 car 1
 ystran 1
 cloddef 1
 dyn 1
+tornad 1
+la 1

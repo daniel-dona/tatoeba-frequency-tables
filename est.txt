@@ -1,6 +1,6 @@
-on 1368
+on 1370
 Ma 876
-ei 701
+ei 703
 Tom 569
 sa 410
 Kas 400
@@ -10,7 +10,7 @@ See 263
 ma 209
 seda 200
 oma 184
-see 173
+see 174
 oli 154
 ja 147
 ole 142
@@ -52,9 +52,9 @@ Kus 61
 Mida 58
 hea 58
 Mary 58
+Kes 55
 Mu 55
 sinu 54
-Kes 54
 ema 53
 mis 52
 sul 52
@@ -581,6 +581,7 @@ maksab 6
 Kuigi 6
 naist 6
 Las 6
+leia 6
 Küsi 6
 meist 6
 võtmed 6
@@ -686,7 +687,6 @@ Nende 5
 jõe 5
 õpilane 5
 tegin 5
-leia 5
 töötada 5
 veeta 5
 hambaid 5
@@ -1364,6 +1364,7 @@ Portugal 3
 Inglise 3
 ehitas 3
 valutab 3
+viiskümmend 3
 pudelit 3
 puidust 3
 juuksed 3
@@ -1460,6 +1461,7 @@ kraadi 2
 mägedes 2
 muretse 2
 meelde 2
+Jõe 2
 Tuleb 2
 pakk 2
 paberit 2
@@ -2129,7 +2131,6 @@ kutsutakse 2
 suurem 2
 poes 2
 uks 2
-viiskümmend 2
 käekell 2
 saatsin 2
 e-maili 2
@@ -2550,7 +2551,6 @@ moodi 1
 Keskaeg 1
 tuletab 1
 sammul 1
-Jõe 1
 äärde 1
 ehitatakse 1
 elamut 1
@@ -6298,3 +6298,8 @@ Ljubljana 1
 Kambodža 1
 Phnom 1
 Penh 1
+Madagaskar 1
+saar 1
+otsi 1
+laius 1
+meetrit 1

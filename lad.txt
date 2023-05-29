@@ -1,9 +1,9 @@
-es 260
-Tom 144
+es 261
+Tom 145
 un 139
 El 102
 la 99
-de 93
+de 94
 en 89
 el 88
 no 81
@@ -12,7 +12,7 @@ No 80
 esta 70
 una 63
 a 62
-La 54
+La 55
 Los 51
 son 48
 איל 44
@@ -81,6 +81,7 @@ York 12
 estan 12
 Sami 12
 Dingunos 12
+vedre 12
 pasharos 12
 vida 11
 mujer 11
@@ -90,7 +91,6 @@ dos 11
 djudia 11
 Ke 11
 סון 11
-vedre 11
 Trae 11
 frio 11
 lo 10
@@ -435,6 +435,7 @@ libertad 3
 puede 3
 טי 3
 primera 3
+araba 3
 portokales 3
 Afilu 3
 Rio 3
@@ -715,7 +716,6 @@ bevo 2
 איסטאן 2
 bereber 2
 mar 2
-araba 2
 haragan 2
 karas 2
 Djenero 2
@@ -746,6 +746,7 @@ Taliban 2
 "Si" 2
 Korre 2
 korre 2
+emporta 2
 Imperio 2
 Osmanli 2
 espejo 2
@@ -1840,7 +1841,6 @@ Korresh 1
 Durmen 1
 makabeos 1
 fumo 1
-emporta 1
 entiendo 1
 yoro 1
 muero 1
@@ -2063,3 +2063,4 @@ Elon 1
 Musk 1
 invento 1
 Twitter 1
+Nada 1
