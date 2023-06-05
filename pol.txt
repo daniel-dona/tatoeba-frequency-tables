@@ -1,21 +1,21 @@
-się 15516
-nie 13153
-jest 12958
+się 15518
+nie 13154
+jest 12959
 w 11635
 Tom 10431
 na 9795
-Nie 8599
-to 7837
+Nie 8600
+to 7838
 że 7358
-do 7091
+do 7092
 z 6877
 To 4224
 i 4095
-Czy 3684
+Czy 3685
 mi 3413
 o 3311
 mnie 3209
-ma 2880
+ma 2881
 co 2785
 On 2682
 za 2606
@@ -23,13 +23,13 @@ jak 2489
 tego 2368
 po 2317
 Mary 2210
-są 2082
+są 2083
 tym 1906
-W 1888
+W 1889
 bardzo 1870
-od 1682
+od 1683
 był 1657
-tak 1656
+tak 1657
 Ona 1651
 go 1511
 już 1461
@@ -57,11 +57,11 @@ czy 1030
 zrobić 1029
 sobie 1009
 cię 988
+może 964
 przez 963
-może 963
 Jesteś 953
 ze 946
-jestem 912
+jestem 913
 by 911
 pan 902
 coś 895
@@ -77,7 +77,7 @@ Proszę 803
 była 797
 Mój 769
 Ta 747
-dobrze 745
+dobrze 746
 dużo 737
 on 730
 Dlaczego 720
@@ -108,7 +108,7 @@ lubi 593
 mój 573
 Myślę 565
 Jego 564
-czasu 561
+czasu 562
 zbyt 544
 wiem 541
 Nigdy 535
@@ -200,8 +200,8 @@ mówić 334
 lubię 329
 rano 329
 jeśli 329
+Może 328
 chciał 328
-Może 327
 nadzieję 325
 temu 323
 kilka 322
@@ -218,7 +218,7 @@ byłem 313
 mógł 313
 mojej 313
 mną 311
-można 306
+można 307
 będę 305
 proszę 305
 Ja 301
@@ -227,12 +227,12 @@ swojego 298
 drzwi 296
 te 291
 Już 289
+razem 289
 problem 288
-razem 288
 robi 287
+bo 287
 przy 287
 długo 287
-bo 286
 Był 286
 stało 285
 Zawsze 284
@@ -274,8 +274,8 @@ wygląda 255
 mamy 255
 wszyscy 255
 nad 254
+Jesteśmy 254
 możemy 254
-Jesteśmy 253
 dnia 252
 książki 252
 Jej 249
@@ -300,8 +300,8 @@ pewien 240
 wielu 238
 Mamy 237
 nawet 234
+jesteśmy 234
 pokój 233
-jesteśmy 233
 uczyć 233
 angielskiego 231
 dni 230
@@ -640,13 +640,13 @@ jakiś 118
 śnieg 117
 trzeba 117
 również 117
+piękne 117
 lekarza 117
 komputer 117
 Australii 117
 Uwielbiam 117
 trzech 116
 przyjaciółmi 116
-piękne 116
 zewnątrz 116
 łatwo 116
 słowo 115
@@ -747,6 +747,7 @@ spotkanie 100
 mąż 99
 Gdy 99
 inne 99
+Twoje 99
 poniedziałek 99
 telefonu 99
 pisać 99
@@ -757,7 +758,6 @@ pojechać 98
 daleko 98
 deszcz 98
 Pozwól 98
-Twoje 98
 najbardziej 98
 dostać 98
 kosztuje 97
@@ -851,6 +851,7 @@ Zrobiłem 88
 sporo 88
 wróci 88
 Im 88
+przeciwko 88
 Pani 88
 rok 87
 starszy 87
@@ -860,7 +861,6 @@ samym 87
 Kim 87
 wiadomości 87
 francuski 87
-przeciwko 87
 gorąco 87
 całe 87
 serce 87
@@ -1439,6 +1439,7 @@ myśleć 52
 piwa 52
 miesiące 52
 prowadzi 52
+przykład 52
 śniegu 52
 Który 52
 wyjaśnić 52
@@ -1471,7 +1472,6 @@ tys 51
 wyszła 51
 pijany 51
 kolor 51
-przykład 51
 piękną 51
 daj 51
 skończył 51
@@ -1739,6 +1739,7 @@ taką 43
 uprzejmy 43
 nauczycielką 43
 Codziennie 43
+Niemczech 43
 kupiłem 43
 Spróbuj 43
 dostał 43
@@ -1777,9 +1778,9 @@ dziewiątej 42
 wygrał 42
 projekt 42
 Dokąd 42
-Niemczech 42
 szansę 42
 czekał 42
+rodziną 42
 środka 42
 kimś 42
 mieszkają 42
@@ -1813,7 +1814,6 @@ Jeżeli 41
 państwa 41
 przypomina 41
 zająć 41
-rodziną 41
 lekcje 41
 budynek 41
 spał 41
@@ -2088,6 +2088,7 @@ Zaczął 35
 Nauka 35
 Zjadłem 35
 nowym 35
+wierzyć 35
 zamknąć 35
 Tony 35
 dzwonił 35
@@ -2146,7 +2147,6 @@ zaufać 34
 hotel 34
 Chętnie 34
 wreszcie 34
-wierzyć 34
 przyjęciu 34
 urlop 34
 bezpiecznie 34
@@ -4472,6 +4472,7 @@ pielęgniarką 15
 śmiali 15
 wniosku 15
 Zobacz 15
+brwi 15
 Złapał 15
 komputerów 15
 pojawi 15
@@ -4742,7 +4743,6 @@ wstyd 14
 Usiadł 14
 niestety 14
 nudny 14
-brwi 14
 Zostało 14
 skóry 14
 czytając 14
@@ -5330,7 +5330,6 @@ Zebranie 12
 wykład 12
 śnie 12
 poglądów 12
-Wolność 12
 wielokrotnie 12
 igły 12
 brzuchu 12
@@ -5407,6 +5406,7 @@ małżeństwa 12
 Brat 12
 Pojechaliśmy 12
 wrażliwy 12
+Kochamy 12
 płyt 12
 zostaliśmy 12
 dzieciństwo 12
@@ -5723,6 +5723,7 @@ września 11
 starsze 11
 towarzystwa 11
 starszą 11
+Wolność 11
 długości 11
 dziwna 11
 Przede 11
@@ -5823,7 +5824,6 @@ węgla 11
 telefony 11
 świetne 11
 Złamał 11
-Kochamy 11
 przegrać 11
 płyty 11
 amerykańskiej 11
@@ -6648,6 +6648,7 @@ niesamowity 10
 Wieloryby 10
 komórka 10
 Byliście 10
+dłuższego 10
 pobrali 10
 zostałeś 10
 pingwin 10
@@ -7331,7 +7332,6 @@ zboże 9
 zatrudnił 9
 podobał 9
 myślałam 9
-dłuższego 9
 Krokodyl 9
 okłamał 9
 Czułam 9

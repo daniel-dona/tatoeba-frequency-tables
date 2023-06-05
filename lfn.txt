@@ -1,22 +1,22 @@
-es 6315
-la 5654
-ia 4910
-de 3775
-un 3417
+es 6319
+la 5655
+ia 4920
+de 3776
+un 3421
 ла 2802
 ес 2729
-Me 2646
+Me 2647
 иа 2153
-no 2053
+no 2055
 де 1874
+La 1799
 a 1798
-La 1797
-Tom 1757
-en 1678
+Tom 1761
+en 1679
 ун 1365
-tu 1260
-e 1229
-me 1217
+tu 1261
+e 1231
+me 1218
 Ме 1183
 ave 1123
 ce 973
@@ -25,7 +25,7 @@ El 942
 Ла 932
 но 910
 ен 882
-Esce 837
+Esce 838
 va 739
 plu 738
 sua 703
@@ -35,27 +35,27 @@ per 672
 ме 662
 pote 660
 ту 655
-cual 628
+cual 629
 esta 623
-lo 596
+lo 599
 е 596
-mea 591
+mea 592
 аве 564
-Nos 557
+Nos 559
 Esta 542
 con 514
-vole 492
+vole 493
 Том 469
 Tu 468
 ке 462
-casa 423
+casa 424
 ва 417
-fa 410
-nos 407
+fa 412
+nos 408
 cosa 401
 Еске 399
 tua 373
-sabe 370
+sabe 371
 Lo 368
 еста 368
 gusta 367
@@ -66,23 +66,23 @@ gusta 367
 par 349
 sur 348
 меа 345
+Mea 342
 bon 341
-Mea 340
 come 336
 On 333
 суа 316
 on 315
 пер 313
-debe 304
+debe 306
 куал 303
 como 300
 поте 298
-dise 291
+dise 292
 alga 285
 ta 284
 ло 284
 Нос 271
-vade 266
+vade 267
 cuando 263
 los 261
 кон 261
@@ -92,7 +92,7 @@ tota 252
 parla 249
 Los 245
 o 245
-vive 243
+vive 244
 vide 242
 Un 235
 ca 232
@@ -133,9 +133,9 @@ sola 156
 дебе 155
 дисе 154
 compra 153
-Acel 152
+Acel 153
+deveni 151
 nesesa 151
-deveni 150
 labora 150
 ваде 149
 libro 146
@@ -144,12 +144,12 @@ libro 146
 pare 144
 du 143
 veni 143
+Maria 142
 tempo 142
 acua 142
 xace 142
 person 141
 Ло 141
-Maria 140
 aprende 139
 комо 139
 лос 138
@@ -158,13 +158,13 @@ mori 137
 куандо 137
 comensa 136
 алга 136
+sin 135
 Меа 135
-sin 134
 ante 134
 жуа 134
 коме 134
+can 133
 se 133
-can 132
 ка 132
 aora 131
 парла 131
@@ -173,8 +173,8 @@ bevi 130
 pos 129
 madre 128
 ancora 128
+Perce 126
 sempre 125
-Perce 125
 та 125
 dia 124
 виде 124
@@ -186,8 +186,8 @@ abita 119
 Куал 119
 лингуа 118
 ама 118
+fini 117
 trova 116
-fini 116
 om 116
 peti 114
 scrive 114
@@ -203,8 +203,8 @@ Tota 109
 usa 108
 nosa 108
 гранде 108
+nova 107
 Лос 107
-nova 106
 fem 106
 aida 105
 si 105
@@ -241,9 +241,9 @@ Sua 92
 диа 92
 Vos 91
 matina 91
+Ci 91
 nada 91
 персонес 91
-Ci 90
 cade 90
 favore 89
 Ен 89
@@ -456,6 +456,7 @@ cavalo 45
 usada 44
 esiste 44
 parola 44
+umana 44
 lus 44
 скола 44
 мар 44
@@ -467,7 +468,6 @@ rompe 43
 frases 43
 frate 43
 fenetra 43
-umana 43
 seja 43
 crese 43
 аида 43
@@ -510,6 +510,7 @@ vino 40
 aspeta 39
 viaja 39
 besa 39
+velia 39
 lasa 39
 E 39
 pronto 39
@@ -523,7 +524,6 @@ Xina 39
 моне 39
 оиос 39
 iudi 39
-velia 38
 serta 38
 perce 38
 Aora 38
@@ -758,6 +758,7 @@ merita 25
 problemes 25
 istoria 25
 popla 25
+alora 25
 construi 25
 filma 25
 fada 25
@@ -781,7 +782,6 @@ esperanto 24
 Pos 24
 strana 24
 mera 24
-alora 24
 letera 24
 universo 24
 споса 24
@@ -817,6 +817,7 @@ salta 23
 fas 23
 fema 23
 femes 23
+eselente 23
 lunlotra 23
 бланка 23
 рожа 23
@@ -846,7 +847,6 @@ America 22
 Olimpiales 22
 novas 22
 engana 22
-eselente 22
 valua 22
 Contra 22
 броси 22
@@ -898,6 +898,7 @@ veliada 21
 aira 20
 longo 20
 libre 20
+direto 20
 luna 20
 asoluta 20
 soldi 20
@@ -948,7 +949,6 @@ moves 20
 Дио 20
 cuadros 20
 Grasias 19
-direto 19
 batalia 19
 planeta 19
 sta 19
@@ -984,6 +984,7 @@ azul 19
 су 19
 ides 19
 ela 19
+atende 19
 barba 19
 plaia 18
 orania 18
@@ -1003,6 +1004,7 @@ desapare 18
 dudes 18
 boca 18
 oto 18
+peso 18
 barcon 18
 vestes 18
 London 18
@@ -1030,7 +1032,6 @@ jonguo 18
 префере 18
 континуа 18
 Франс 18
-atende 18
 Velia 18
 mur 17
 internasional 17
@@ -1040,6 +1041,7 @@ Meа 17
 jornal 17
 segue 17
 nesesada 17
+lojical 17
 defende 17
 imajina 17
 descovre 17
@@ -1048,7 +1050,6 @@ Vade 17
 ponte 17
 furor 17
 asconde 17
-peso 17
 Ave 17
 paper 17
 natur 17
@@ -1091,7 +1092,6 @@ ambos 16
 fluente 16
 bastante 16
 japanes 16
-lojical 16
 nivel 16
 Sur 16
 secur 16
@@ -1102,6 +1102,7 @@ pex 16
 materia 16
 spasio 16
 sufri 16
+usual 16
 este 16
 Roma 16
 final 16
@@ -1163,7 +1164,6 @@ nosа 15
 stasion 15
 basa 15
 amarga 15
-usual 15
 dui 15
 Donce 15
 local 15
@@ -1281,6 +1281,7 @@ ruido 13
 resente 13
 pen 13
 Du 13
+destrui 13
 ferida 13
 pexes 13
 clave 13
@@ -1382,7 +1383,6 @@ mama 12
 bandera 12
 regulas 12
 strumento 12
-destrui 12
 frates 12
 manteni 12
 partes 12
@@ -1609,6 +1609,7 @@ serca 11
 супрамеркато 11
 суде 11
 жуор 11
+juntada 11
 Ester 11
 бангла 11
 oce 11
@@ -1625,6 +1626,7 @@ marto 10
 aparato 10
 Vosa 10
 "Esce 10
+scema 10
 cria 10
 lampa 10
 venerdi 10
@@ -1684,6 +1686,7 @@ disputa 10
 temosa 10
 Canes 10
 foto 10
+esije 10
 reconose 10
 disionario 10
 licuida 10
@@ -1714,6 +1717,7 @@ monte 10
 sopa 10
 mercato 10
 justia 10
+Unida 10
 оскур 10
 сона 10
 новас 10
@@ -1770,7 +1774,6 @@ povre 10
 рие 10
 жуорес 10
 норде 10
-juntada 10
 jenero 10
 vacanse 10
 fies 10
@@ -1785,7 +1788,6 @@ Go 10
 grasias 9
 senior 9
 Trae 9
-scema 9
 unica 9
 larga 9
 suposa 9
@@ -1795,6 +1797,7 @@ soldatos 9
 compara 9
 bur 9
 numeros 9
+junta 9
 casos 9
 comunica 9
 titulo 9
@@ -1838,7 +1841,6 @@ valuosa 9
 rejion 9
 critica 9
 cruel 9
-esije 9
 Ken 9
 mascas 9
 amada 9
@@ -1869,7 +1871,6 @@ presa 9
 contata 9
 ago 9
 esente 9
-Unida 9
 лунди 9
 куантиа 9
 Жапан 9
@@ -1930,6 +1931,7 @@ cura 9
 женеро 9
 sindrom 9
 angusa 9
+Statos 9
 transjenero 9
 uman 9
 avocato 9
@@ -1963,7 +1965,6 @@ serie 8
 ricia 8
 Usa 8
 aceles 8
-junta 8
 miliones 8
 metodo 8
 Escuta 8
@@ -2126,7 +2127,6 @@ esemplo 8
 supradosa 8
 piza 8
 relijio 8
-Statos 8
 стонанте 8
 Donald 8
 invita 8
@@ -2743,6 +2743,7 @@ Judit 6
 cuadro 6
 masima 6
 Sra 6
+Biscoto 6
 sui 6
 gales 6
 rascada 6
@@ -3192,7 +3193,6 @@ dulse" 5
 Rima 5
 Avias 5
 esuan 5
-Biscoto 5
 punio 5
 Descomuta 5
 Drogas 5
@@ -3431,6 +3431,7 @@ montania 4
 contribui 4
 figur 4
 Veni 4
+relasa 4
 reteni 4
 cortina 4
 plenida 4
@@ -4195,7 +4196,6 @@ tenta 3
 informatica 3
 aser 3
 Responde 3
-relasa 3
 txesce 3
 bote 3
 locada 3
@@ -5585,6 +5585,7 @@ Monte 2
 Сатурди 2
 casi 2
 каси 2
+desastre 2
 мултес 2
 Понте 2
 concluis 2
@@ -6156,6 +6157,7 @@ contradise 2
 теше 2
 синта 2
 сисор 2
+Blasfema 2
 desimal 2
 десимал 2
 рефлета 2
@@ -6399,6 +6401,7 @@ stable 2
 capitalisme 2
 salsix 2
 салсиш 2
+tostada 2
 secretor 2
 манада 2
 фасинанте 2
@@ -8600,7 +8603,6 @@ Arafat 1
 erije 1
 ериже 1
 тендас 1
-desastre 1
 iranis 1
 Djamaraat 1
 Bombarda 1
@@ -9996,5 +9998,3 @@ piniti 1
 сентрал 1
 трапинте 1
 детрито 1
-раио 1
-унгиас 1

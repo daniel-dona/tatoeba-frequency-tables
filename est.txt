@@ -1,5 +1,5 @@
 on 1370
-Ma 876
+Ma 877
 ei 703
 Tom 569
 sa 410
@@ -20,7 +20,7 @@ olen 132
 Mul 129
 kui 122
 Me 120
-keelt 118
+keelt 119
 väga 116
 pole 111
 mulle 97
@@ -112,13 +112,13 @@ Tal 30
 liiga 30
 keel 30
 Tema 29
+räägin 29
 räägid 29
 Olen 29
 siis 28
 mitte 28
 nüüd 28
 homme 28
-räägin 28
 seal 28
 arvan 28
 minema 28
@@ -6303,3 +6303,4 @@ saar 1
 otsi 1
 laius 1
 meetrit 1
+nepali 1

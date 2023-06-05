@@ -265,8 +265,8 @@ biyar 109
 Boston 108
 muna 107
 farko 107
-'yan 107
 Suna 107
+'yan 106
 take 105
 gobe 105
 rashin 105
@@ -524,6 +524,7 @@ sakamakon 50
 bana 50
 haifar 50
 mahimmanci 50
+ƴan 50
 kayi 49
 sanyi 49
 Yaushe 49
@@ -540,7 +541,6 @@ kadai 49
 kirki 49
 lalata 49
 kansu 49
-ƴan 49
 baƙin 49
 dalilin 48
 dauki 48
@@ -2734,6 +2734,7 @@ harajin 6
 Waɗanda 6
 rikitarwa 6
 kewar 6
+karanci 6
 Ireland 6
 Venice 6
 "Yaya 6
@@ -3072,7 +3073,6 @@ adireshin 5
 sabawa 5
 uwarka 5
 Lisa 5
-karanci 5
 burodin 5
 Dala 5
 Juya 5
@@ -9164,7 +9164,6 @@ zai--""Eh"" 1
 fansa" 1
 "Zai 1
 kananun 1
-karsnci 1
 mala'ikun 1
 fikitra 1
 baiti 1
@@ -9998,3 +9997,4 @@ Giwar 1
 makarantan 1
 jigo 1
 ƙarafa 1
+Barazanar 1

@@ -6,15 +6,16 @@ ce 19
 mvn 17
 Mary 15
 omēs 14
+cē 13
 Hvtvm 12
 omis 12
 tē 11
-cē 11
 Estvmimvn 10
 Naken 10
 Nak 10
 okat 10
 Mv 10
+ca 10
 onko 10
 em 10
 Tom-ket 10
@@ -23,7 +24,6 @@ tvlofvn 9
 owv 9
 Hvse 9
 te 9
-ca 9
 nak 8
 naken 8
 nettv 8
@@ -116,6 +116,7 @@ Estvn 3
 monken 3
 momen 3
 Celvwēt 3
+Herē 3
 mahē 3
 Kvsappv 3
 Lekothv 3
@@ -185,6 +186,7 @@ vpokēt 2
 kihcis 2
 omvlkat 2
 s'vhayat 2
+mahēs 2
 poyacet 2
 kohmis 2
 tokot 2
@@ -210,7 +212,7 @@ Vmvnicvs 2
 Monks 2
 Hilv 2
 Cehecarēs 2
-Herē 2
+Likepvs 2
 Tvlkēs 2
 Enka 2
 Hvtehtvs 2
@@ -221,6 +223,7 @@ makvs 2
 Esvnwiket 2
 Sami-ke 2
 hokte 2
+Estvmahēs 2
 omē 2
 kerrē 2
 ētvn 2
@@ -618,7 +621,6 @@ emetv 1
 'mēcetv 1
 etektvnecē 1
 eyaceko 1
-mahēs 1
 mēcēyan 1
 poyacēt 1
 afvckēt 1
@@ -922,7 +924,6 @@ Rvro 1
 ceyacet 1
 Rakerricaks 1
 Momvrąnuset 1
-Likepvs 1
 Elēpēt 1
 Opunayet 1
 Vkvsamako 1
@@ -1040,7 +1041,6 @@ hoktucen 1
 ennucet 1
 akopanet 1
 akopvhnes 1
-Estvmahēs 1
 Momecetvn 1
 escenhēret 1
 Mary-ke 1
@@ -1316,3 +1316,10 @@ mahvn" 1
 Ehvpo 1
 esrvhet 1
 wikekvtēs 1
+Tayeko 1
+Nak-estowen 1
+okeckv 1
+Mowvcoks 1
+Vketēcvs 1
+Celusats 1
+Mowēt 1

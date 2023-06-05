@@ -1,10 +1,10 @@
-esas 2647
+esas 2648
 la 2073
 Me 2054
 ne 1189
-La 931
+La 932
 me 819
-Tom 805
+Tom 806
 tu 778
 Ka 628
 en 548
@@ -15,7 +15,7 @@ di 377
 ke 371
 vu 369
 mea 368
-Ni 354
+Ni 355
 a 353
 e 335
 esis 313
@@ -40,7 +40,7 @@ tua 168
 sua 165
 To 165
 pri 149
-bela 146
+bela 147
 Li 145
 Ne 144
 prizas 143
@@ -50,8 +50,8 @@ Elu 126
 libro 123
 vi 122
 el 120
+ol 118
 parolas 117
-ol 117
 Esas 116
 Ube 113
 Qua 112
@@ -78,9 +78,9 @@ omna 90
 linguo 89
 ankore 89
 quale 88
+mustas 88
 lernas 88
 ma 87
-mustas 87
 ica 85
 per 84
 sur 84
@@ -378,6 +378,7 @@ pensis 19
 quar 19
 Angla 19
 mediko 19
+Usa 19
 Ili 19
 matrala 19
 skribar 18
@@ -392,7 +393,6 @@ nulu 18
 lektas 18
 heme 18
 telefonilo 18
-Usa 18
 spozulo 18
 varmega 18
 esperas 17
@@ -890,6 +890,7 @@ Ken 7
 skopo 7
 Roma 7
 parto 7
+Tero 7
 bruna 7
 Sequez 7
 quanta 7
@@ -1035,7 +1036,6 @@ homala 6
 interesiva 6
 eroro 6
 pose 6
-Tero 6
 Jane 6
 cesos 6
 klefo 6
@@ -2338,6 +2338,7 @@ dementerio 2
 saporo 2
 efektigas 2
 hezitis 2
+finigis 2
 Polonia 2
 dek-e-tri 2
 ne-frizanta 2
@@ -3783,7 +3784,6 @@ vestono 1
 Klimato 1
 monate 1
 kunveno 1
-finigis 1
 geografio 1
 bruneta 1
 Zarębowa 1
@@ -7903,3 +7903,4 @@ konacas 1
 11ma 1
 2001 1
 tago 1
+destruktar 1

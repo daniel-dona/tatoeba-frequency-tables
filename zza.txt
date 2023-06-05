@@ -3,11 +3,11 @@ ra 128
 o 112
 Tom 105
 Ma 99
-mi 95
+mi 96
 to 86
 de 86
 ma 85
-xo 78
+xo 79
 a 75
 Tı 74
 bi 67
@@ -219,6 +219,7 @@ serd 5
 par 5
 kerê 5
 Keye 5
+destê 5
 sey 5
 şamîya 5
 Nêşena 5
@@ -286,7 +287,6 @@ Raşt 4
 pak 4
 Qe 4
 emşo 4
-destê 4
 nezdidê 4
 rakewa 4
 waya 4
@@ -312,6 +312,7 @@ meşte 4
 embaz 4
 hetkarîya 4
 Porê 4
+bide 4
 sereyê 4
 Yew 4
 Kurdê 4
@@ -439,7 +440,6 @@ newîye 3
 veng 3
 xemgîn 3
 şora 3
-bide 3
 hende 3
 keyfweş 3
 bido 3
@@ -828,7 +828,6 @@ bızone 2
 ki 2
 heywani 2
 Çımanéxu 2
-kala 2
 zıwandê 1
 Şanê 1
 Payra 1
@@ -2794,9 +2793,4 @@ Bajaro 1
 cıwiyena 1
 pilo 1
 zıwanê 1
-sisan 1
-San 1
-Sukloton 1
-adobe 1
-berbi 1
-zoutain 1
+Destê 1

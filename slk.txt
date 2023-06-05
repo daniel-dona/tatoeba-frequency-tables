@@ -1,4 +1,4 @@
-je 2198
+je 2200
 sa 2100
 som 1861
 Tom 1609
@@ -134,10 +134,10 @@ zajtra 64
 viac 64
 mal 63
 toho 63
+dnes 62
 ten 61
 Musím 61
 túto 61
-dnes 60
 vie 60
 teba 60
 Sme 60
@@ -276,6 +276,7 @@ chcete 36
 Milujem 35
 Učím 35
 mesto 35
+Aký 35
 Tu 35
 Máriu 35
 O 34
@@ -283,7 +284,6 @@ Bolo 34
 žije 34
 Môžeš 34
 Hovoríte 34
-Aký 34
 oči 34
 zostať 34
 neviem 33
@@ -4759,6 +4759,8 @@ rozhodne 2
 večeri 2
 zločin 2
 Zápas 2
+„Aký 2
+deň“ 2
 napísaná 2
 Zavrel 2
 spolupracovníkov 2
@@ -9180,8 +9182,6 @@ mlčanie 1
 potvrdilo 1
 podozrenia 1
 potrebujú 1
-„Aký 1
-deň“ 1
 „Streda“ 1
 Učebnica 1
 používame 1
