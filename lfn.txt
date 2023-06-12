@@ -1,31 +1,31 @@
-es 6319
-la 5655
-ia 4920
+es 6324
+la 5656
+ia 4921
 de 3776
-un 3421
+un 3425
 ла 2802
 ес 2729
-Me 2647
+Me 2650
 иа 2153
 no 2055
 де 1874
 La 1799
 a 1798
-Tom 1761
+Tom 1762
 en 1679
 ун 1365
-tu 1261
+tu 1262
 e 1231
 me 1218
 Ме 1183
-ave 1123
+ave 1124
 ce 973
 а 953
 El 942
 Ла 932
 но 910
 ен 882
-Esce 838
+Esce 840
 va 739
 plu 738
 sua 703
@@ -44,7 +44,7 @@ mea 592
 Nos 559
 Esta 542
 con 514
-vole 493
+vole 494
 Том 469
 Tu 468
 ке 462
@@ -56,7 +56,7 @@ cosa 401
 Еске 399
 tua 373
 sabe 371
-Lo 368
+Lo 369
 еста 368
 gusta 367
 ел 364
@@ -142,7 +142,7 @@ libro 146
 Он 146
 сабе 145
 pare 144
-du 143
+du 144
 veni 143
 Maria 142
 tempo 142
@@ -217,9 +217,9 @@ crede 101
 када 101
 tra 100
 senti 99
+Alga 99
 demanda 98
 aveni 98
-Alga 98
 Но 98
 cosas 97
 tro 97
@@ -258,8 +258,8 @@ franses 86
 abri 84
 Sami 84
 site 83
+enfantes 83
 пенса 83
-enfantes 82
 dormi 80
 акел 80
 лабора 79
@@ -350,12 +350,12 @@ Tua 58
 oia 58
 фаворе 58
 Перке 58
+nase 57
 sielo 57
 cualce 57
 testa 57
 фини 57
 Cuanto 56
-nase 56
 sol 56
 sposa 56
 contra 56
@@ -412,6 +412,7 @@ min 49
 note 49
 difisil 49
 teme 49
+Dio 49
 анке 49
 gatos 49
 rio 48
@@ -419,7 +420,6 @@ doman 48
 brasilera 48
 cuasi 48
 familia 48
-Dio 48
 фем 48
 косас 48
 vosa 47
@@ -632,6 +632,7 @@ desinia 31
 sonia 31
 visita 31
 gida 31
+comentas 31
 distante 31
 menti 31
 сирка 31
@@ -650,7 +651,6 @@ era 30
 Bon 30
 plen 30
 neva 30
-comentas 30
 весес 30
 пасада 30
 перде 30
@@ -1219,6 +1219,7 @@ orolojo 14
 dirije 14
 oserva 14
 Par 14
+dio 14
 sinistra 14
 Deutxland 14
 persepi 14
@@ -1291,7 +1292,6 @@ salon 13
 descomuta 13
 adormi 13
 produi 13
-dio 13
 declara 13
 insetos 13
 nubes 13
@@ -1777,6 +1777,7 @@ povre 10
 jenero 10
 vacanse 10
 fies 10
+transjenero 10
 Ело 10
 канаба 10
 avion 10
@@ -1932,7 +1933,6 @@ cura 9
 sindrom 9
 angusa 9
 Statos 9
-transjenero 9
 uman 9
 avocato 9
 sonias 9
@@ -6308,6 +6308,7 @@ Libria 2
 nudiste 2
 venda 2
 caldi 2
+ovn 2
 Ann 2
 Tormenta 2
 xices 2
@@ -6499,6 +6500,7 @@ Subita 2
 консенсиа 2
 gradal 2
 жардинес 2
+sanduitx 2
 Енвиа 2
 епоста 2
 Ед 2
@@ -7117,6 +7119,7 @@ pavones 2
 Xico 2
 Асиа 2
 nonfidable 2
+burito 2
 deta 2
 Autodefende 2
 descorajosi 2
@@ -7128,6 +7131,7 @@ Jirafas 2
 noncortesia 2
 merdi 2
 Arma 2
+mamas 2
 Rasca 2
 cautia 2
 conselable 2
@@ -9994,7 +9998,3 @@ piniti 1
 амато 1
 Амбидестроса 1
 аспирас 1
-лаборас 1
-сентрал 1
-трапинте 1
-детрито 1

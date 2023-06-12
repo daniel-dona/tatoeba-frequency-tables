@@ -3,7 +3,7 @@ de 1467
 a 1393
 que 1258
 el 1163
-és 980
+és 981
 no 810
 va 756
 un 739
@@ -12,7 +12,7 @@ No 590
 per 523
 una 521
 i 505
-El 504
+El 505
 Tom 453
 La 391
 les 382
@@ -332,6 +332,7 @@ Està 23
 sigui 23
 minuts 23
 classe 23
+petit 23
 I 23
 gust 23
 fora 23
@@ -346,7 +347,6 @@ ciutat 22
 altra 22
 mes 22
 Déu 22
-petit 22
 oi 22
 llit 22
 Són 22
@@ -992,6 +992,7 @@ sota 7
 blau 7
 general 7
 alta 7
+jardí 7
 l'hotel 7
 Pot 7
 deixa 7
@@ -1120,7 +1121,6 @@ realitat 6
 preu 6
 francesa 6
 responsable 6
-jardí 6
 enviat 6
 parc 6
 amable 6

@@ -1,5 +1,5 @@
-an 630
-a 605
+an 631
+a 604
 Tá 603
 mé 389
 ag 379
@@ -59,7 +59,7 @@ ach 39
 Cé 38
 gach 38
 ina 38
-in 37
+in 36
 nach 36
 anseo 35
 obair 35
@@ -883,6 +883,7 @@ crann 2
 fás 2
 láidir 2
 phian 2
+Thit 2
 4 2
 d'Iúil 2
 shona 2
@@ -1528,7 +1529,6 @@ ghrian 1
 dán 1
 seisear 1
 monarc 1
-Thit 1
 Peter 1
 bhróga 1
 féinmharú 1
@@ -2123,10 +2123,6 @@ draig 1
 stad 1
 staonadh 1
 chomhluadar 1
-She 1
-had 1
-place 1
-society 1
 athraíonn 1
 thús 1
 cainteach 1
@@ -2920,3 +2916,4 @@ oibriúcháin 1
 D'inis 1
 gcuid 1
 spártha 1
+oighearscátálaí 1

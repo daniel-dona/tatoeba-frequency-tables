@@ -1,9 +1,9 @@
 að 3814
 er 3121
-Ég 2289
-í 2066
+Ég 2291
+í 2067
 á 1675
-ekki 1644
+ekki 1645
 ég 867
 Það 858
 Hann 794
@@ -16,7 +16,7 @@ Hún 673
 var 638
 hann 635
 sem 604
-þú 574
+þú 576
 með 521
 Við 510
 fyrir 505
@@ -47,7 +47,7 @@ verður 183
 út 180
 hún 179
 minn 177
-ert 175
+ert 176
 okkar 173
 John 171
 hverju 164
@@ -111,10 +111,10 @@ koma 84
 taka 84
 alltaf 83
 læra 82
+kemur 82
 ef 81
 erum 81
 Mig 81
-kemur 81
 sig 80
 þið 80
 langar 80
@@ -250,6 +250,7 @@ vinna 38
 heima 38
 gaf 38
 segir 38
+geta 37
 gat 37
 fimm 37
 lítur 37
@@ -258,7 +259,6 @@ búa 37
 keypti 37
 nota 37
 verð 37
-geta 36
 alla 36
 bað 36
 mátt 36
@@ -331,6 +331,7 @@ skilja 30
 smá 30
 vissi 30
 skiptir 30
+hvaða 30
 Allt 30
 þreyttur 29
 láta 29
@@ -341,7 +342,6 @@ næsta 29
 ná 29
 þreytt 29
 bréf 29
-hvaða 29
 búin 29
 horfa 28
 snemma 28
@@ -662,6 +662,7 @@ bauð 15
 best 15
 þannig 15
 gætir 15
+Hvaðan 15
 Strákurinn 15
 fyrstu 15
 númer 15
@@ -704,7 +705,6 @@ húsinu 14
 níu 14
 Okkur 14
 stundum 14
-Hvaðan 14
 ljós 14
 náði 14
 svarið 14
@@ -792,6 +792,7 @@ hlusta 13
 Dan 13
 Nei 13
 Förum 13
+Íslandi 13
 Johnson 13
 Bróðir 12
 leika 12
@@ -837,6 +838,7 @@ mikill 12
 trúi 12
 hliðina 12
 þínar 12
+landi 12
 stelpa 12
 epli 12
 fisk 12
@@ -854,7 +856,6 @@ Flýttu 12
 Hringdu 12
 sí 12
 æ 12
-Íslandi 12
 verði 11
 Láttu 11
 nemendur 11
@@ -901,7 +902,6 @@ Einn 11
 dauður 11
 gerðist 11
 Þakka 11
-landi 11
 fær 11
 bræður 11
 þörf 11
@@ -1353,6 +1353,7 @@ hug 7
 sunnudögum 7
 leitt 7
 sönn 7
+heiti 7
 spjalla 7
 bestu 7
 hleypur 7
@@ -1419,6 +1420,7 @@ sitja 7
 margra 7
 Stundum 7
 velja 7
+Frá 7
 Kjótó 7
 drakk 7
 einhvers 7
@@ -1528,7 +1530,6 @@ kirkja 6
 eigi 6
 leiðin 6
 Halló 6
-heiti 6
 búð 6
 giftast 6
 vatni 6
@@ -1628,7 +1629,6 @@ Reikningurinn 6
 sleppa 6
 Heimurinn 6
 vaxa 6
-Frá 6
 pappír 6
 Gjörið 6
 frí 6
@@ -4236,6 +4236,7 @@ sver 2
 sjöleitið 2
 loftkælingu 2
 hóstasaft 2
+Anna 2
 hendinni 2
 neyðumst 2
 smakkast 2
@@ -5124,6 +5125,7 @@ Alltaf 2
 Nasistar 2
 Kommúnismi 2
 stundað 2
+andað 2
 konungurinn 2
 forritað 2
 gyllt 2
@@ -7602,7 +7604,6 @@ geisladiskaspilara 1
 fremst 1
 Drykkjarvatn 1
 súru 1
-Anna 1
 aukastafina 1
 pí 1
 utanbókar 1
@@ -9997,4 +9998,3 @@ Paul 1
 smásögu 1
 Fór 1
 tölvupósta 1
-Strákarnir 1

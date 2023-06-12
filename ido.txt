@@ -1,14 +1,14 @@
-esas 2648
-la 2073
-Me 2054
+esas 2651
+la 2074
+Me 2057
 ne 1189
 La 932
 me 819
-Tom 806
+Tom 807
 tu 778
 Ka 628
 en 548
-havas 526
+havas 527
 es 440
 Il 390
 di 377
@@ -67,10 +67,10 @@ Pro 99
 hike 97
 pro 97
 Quon 97
+du 96
 vua 96
 tro 95
 Ta 95
-du 95
 pensas 94
 quon 93
 domo 91
@@ -212,12 +212,12 @@ Vi 33
 spozino 33
 hodie 33
 muliero 33
+Deo 33
 alta 32
 vera 32
 richa 32
 ludas 32
 blanka 32
-Deo 32
 quan 31
 elua 31
 blua 31
@@ -1085,6 +1085,7 @@ ganas 6
 mortos 6
 bele 6
 Selektez 6
+deo 6
 proxim 6
 klozita 6
 restas 6
@@ -1261,7 +1262,6 @@ duesma 5
 lundio 5
 maniero 5
 binoklo 5
-deo 5
 vortaro 5
 mayo 5
 quante 5
@@ -7904,3 +7904,5 @@ konacas 1
 2001 1
 tago 1
 destruktar 1
+mamai 1
+mesio 1

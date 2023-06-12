@@ -21,7 +21,7 @@ ko 110
 Kisi 103
 vemo 102
 Vilob 92
-Binob 87
+Binob 89
 oli 84
 gudik 82
 yufön 80
@@ -343,6 +343,7 @@ edunom 11
 blodis 10
 vobom 10
 suno 10
+God 10
 bodi 10
 mateli 10
 soni 10
@@ -380,7 +381,6 @@ me 9
 Labol 9
 labol 9
 lilön 9
-God 9
 jisoni 9
 logob 9
 Pul 9
@@ -904,6 +904,7 @@ lekomip 3
 pro 3
 selön 3
 spikom 3
+god 3
 Dogs 3
 Fit 3
 telid 3
@@ -1281,7 +1282,6 @@ valemik 2
 sis 2
 löfilons 2
 Fidom 2
-god 2
 top 2
 Löfol 2
 givom 2

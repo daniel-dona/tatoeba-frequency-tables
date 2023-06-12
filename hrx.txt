@@ -5,7 +5,7 @@ Tom 125
 hod 101
 net 98
 die 81
-hon 80
+hon 81
 Das 80
 sin 67
 de 67
@@ -14,8 +14,8 @@ De 59
 Gott 51
 Die 50
 Sie 50
+Meer 47
 wees 46
-Meer 46
 Er 44
 waar 38
 aan 37
@@ -47,8 +47,8 @@ Mein 20
 uff 20
 mich 20
 gern 19
+esse 19
 dich 19
-esse 18
 Waromm 18
 Do 17
 aam 17
@@ -618,6 +618,7 @@ Hunn 2
 Schnee 2
 Wees 2
 defun 2
+Hunger 2
 Blume 2
 Iwermoie 2
 ob-se 2
@@ -1343,7 +1344,6 @@ Baratte 1
 versteckle 1
 Trotz 1
 sin-se 1
-Hunger 1
 Tëlefonnummer 1
 Dezu 1
 komm-ich 1
@@ -1483,3 +1483,4 @@ Hormone 1
 Daarem 1
 Mund 1
 ferkaue 1
+wal-mer 1

@@ -1,11 +1,11 @@
-on 1370
+on 1373
 Ma 877
 ei 703
 Tom 569
 sa 410
 Kas 400
 et 314
-Ta 311
+Ta 313
 See 263
 ma 209
 seda 200
@@ -107,11 +107,11 @@ hästi 31
 aega 31
 maja 31
 teda 31
+keel 31
+Tema 30
 taha 30
 Tal 30
 liiga 30
-keel 30
-Tema 29
 räägin 29
 räägid 29
 Olen 29
@@ -168,6 +168,7 @@ Sul 21
 auto 21
 naine 20
 Millal 20
+elab 20
 mina 20
 pea 20
 saan 20
@@ -178,7 +179,6 @@ Toomas 20
 ikka 19
 olete 19
 aastat 19
-elab 19
 vana 19
 sinuga 19
 alati 18
@@ -253,6 +253,7 @@ Mitte 14
 kuidas 14
 elan 14
 kogu 14
+vett 14
 keele 14
 emakeel 14
 Mari 14
@@ -281,7 +282,6 @@ teab 13
 vanem 13
 korda 13
 juhtus 13
-vett 13
 ennast 13
 õpin 13
 nägin 13
@@ -707,6 +707,7 @@ kuid 5
 eriti 5
 Lapsed 5
 kaamera 5
+otsib 5
 lahku 5
 Mõned 5
 jah 5
@@ -871,7 +872,6 @@ hommikust 4
 kardab 4
 oleksid 4
 hetkel 4
-otsib 4
 poiss 4
 kandis 4
 Kaua 4
@@ -1528,6 +1528,7 @@ mõlemat 2
 müts 2
 Sõda 2
 algas 2
+külas 2
 kõiki 2
 Maa 2
 kõrgeim 2
@@ -2274,6 +2275,7 @@ romaane 2
 kavatse 2
 müüa 2
 kohal 2
+Kala 2
 naeris 2
 saaksite 2
 lõpetada 2
@@ -2315,6 +2317,8 @@ otsustasite 2
 otsustasid 2
 Michael 2
 andestama 2
+Sloveenia 2
+insener 2
 Sellises 1
 kärestikus 1
 ujuma 1
@@ -2807,7 +2811,6 @@ juunikuul 1
 kanadalasega 1
 suutis 1
 väikeses 1
-külas 1
 Wilsonil 1
 sõidab 1
 Aron 1
@@ -5697,7 +5700,6 @@ aaret 1
 otsides 1
 kõrbe 1
 kaotan 1
-Kala 1
 müüakse 1
 naela 1
 kaupa 1
@@ -6293,7 +6295,6 @@ operatsioon 1
 Puhub 1
 puhu 1
 Vihma 1
-Sloveenia 1
 Ljubljana 1
 Kambodža 1
 Phnom 1
@@ -6304,3 +6305,8 @@ otsi 1
 laius 1
 meetrit 1
 nepali 1
+Sloveeni 1
+Vabariigi 1
+ametlik 1
+riigikeel 1
+sügavat 1

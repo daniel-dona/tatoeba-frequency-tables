@@ -1,13 +1,13 @@
-le 12854
-es 8022
-de 6848
-un 6844
-Le 4814
-ha 4730
+le 12855
+es 8026
+de 6850
+un 6845
+Le 4815
+ha 4731
 in 4310
 que 3870
 non 3718
-Io 3533
+Io 3536
 e 2931
 del 2929
 a 2654
@@ -19,7 +19,7 @@ al 1546
 su 1516
 se 1507
 Il 1441
-Tom 1366
+Tom 1368
 pro 1361
 lo 1284
 con 1229
@@ -27,10 +27,10 @@ plus 1214
 ille 1197
 vos 1097
 esseva 1065
-pote 960
+pote 961
 nos 958
 mi 929
-multo 926
+multo 927
 iste 867
 per 825
 como 783
@@ -41,7 +41,7 @@ Illa 710
 Tu 709
 Nos 705
 blau 686
-Iste 654
+Iste 655
 multe 580
 habeva 572
 Esque 565
@@ -82,7 +82,7 @@ belle 344
 mundo 340
 Vos 337
 homine 325
-duo 318
+duo 319
 mesme 318
 solmente 316
 toto 315
@@ -97,8 +97,8 @@ sin 287
 sol 267
 On 265
 tanto 262
+Deo 262
 vostre 261
-Deo 261
 ancora 252
 anglese 248
 apud 248
@@ -200,8 +200,8 @@ edificio 134
 schola 134
 nocte 134
 tres 134
+can 134
 ab 134
-can 133
 veni 130
 mangiar 130
 uno 130
@@ -310,12 +310,12 @@ celo 83
 Tatoeba 83
 sapeva 82
 septimana 82
+Nemo 82
 Per 82
 ultime 82
 fratre 81
 camera 81
 labor 81
-Nemo 81
 mie 81
 los 80
 gente 80
@@ -496,6 +496,7 @@ arrivate 50
 medico 50
 glacie 50
 pluvia 50
+sposa 50
 nigre 50
 dava 50
 certe 50
@@ -510,7 +511,6 @@ casas 49
 latere 49
 errores 49
 gratias 49
-sposa 49
 amica 49
 mente 49
 Omne 49
@@ -568,6 +568,7 @@ rosas 45
 football 45
 estranie 45
 animales 45
+Francia 45
 voce 45
 placer 45
 stato 45
@@ -580,7 +581,6 @@ typo 44
 succo 44
 inseniante 44
 film 44
-Francia 44
 paises 43
 secur 43
 qualcosa 43
@@ -1001,6 +1001,7 @@ cocina 25
 tulipanes 25
 umbra 25
 seculo 25
+deo 25
 salata 25
 ex 25
 sanguine 25
@@ -1043,7 +1044,6 @@ bus 24
 pelle 24
 experientia 24
 rivo 24
-deo 24
 credeva 24
 coperi 24
 plora 24
@@ -1833,6 +1833,7 @@ exterior 13
 Aperi 13
 sagio 13
 Amor 13
+alto 13
 regratia 13
 jectar 13
 octobre 13
@@ -1949,7 +1950,6 @@ batte 12
 balla 12
 surriso 12
 conditiones 12
-alto 12
 illusion 12
 Rio 12
 offerta 12
@@ -2027,6 +2027,7 @@ varietate 11
 milliardos 11
 Egypto 11
 banio 11
+Adam 11
 destruite 11
 spada 11
 extende 11
@@ -2193,7 +2194,6 @@ nata 10
 termino 10
 Berlin 10
 tradition 10
-Adam 10
 excusa 10
 Sud 10
 mancar 10
@@ -7606,6 +7606,7 @@ mortal 2
 renomine 2
 Prevenir 2
 reculate 2
+saltar 2
 biberage 2
 symbolos 2
 perturbar 2
@@ -8245,6 +8246,7 @@ tremer 2
 detene 2
 exopero 2
 maritarea 2
+mammas 2
 Toronto 2
 rattos 2
 inusual 2
@@ -8399,6 +8401,7 @@ intermedie 2
 Sagessa 2
 prophetas 2
 predicite 2
+Messia 2
 imponite 2
 attachate 2
 fortifica 2
@@ -9995,6 +9998,3 @@ economisava 1
 retardara 1
 cassa; 1
 Koko 1
-surdos 1
-400 1
-depender 1

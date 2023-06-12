@@ -1,35 +1,35 @@
 Tom 128106
-bir 100310
+bir 100313
 O 39093
 için 35753
-Bu 32435
+Bu 32438
 çok 29350
-ve 27989
+ve 27992
 Tom'un 27840
-var 23121
+var 23122
 Ben 22038
 ne 21278
-kadar 17973
-daha 17906
+kadar 17975
+daha 17907
 değil 17827
-şey 16679
+şey 16680
 mi 16644
 olduğunu 15931
-iyi 15840
+iyi 15841
 onu 14933
 bu 14681
 Mary 13280
 Mary'nin 12488
-Bir 12381
+Bir 12382
 zaman 12291
 bunu 12123
 bana 12005
-her 11860
+her 11861
 Onun 10750
-söyledi 10641
-mı 10575
+söyledi 10642
+mı 10576
 Onu 9706
-o 9339
+o 9341
 gibi 8678
 Tom'a 8492
 Bunu 8335
@@ -61,16 +61,16 @@ ama 5857
 yapmak 5823
 olarak 5716
 sonra 5651
-şeyi 5613
+şeyi 5614
 Mary'ye 5598
 burada 5593
 sana 5403
 fazla 5380
 Neden 5352
-mu 5267
-Bana 5204
-ona 5157
-da 5001
+mu 5268
+Bana 5205
+ona 5158
+da 5002
 biraz 4973
 neden 4951
 ben 4930
@@ -80,26 +80,26 @@ büyük 4712
 senin 4502
 oldu 4457
 üç 4454
-asla 4353
+asla 4354
 Sanırım 4279
-Her 4101
-gece 4099
-geri 4067
+Her 4103
+gece 4100
+geri 4068
 izin 4031
 Benim 3946
 nereli" 3848
 Lütfen 3837
 tek 3811
-vardı 3750
-hiçbir 3732
+vardı 3752
+hiçbir 3733
 Fransızca 3721
 biliyorum 3704
 iki 3672
-Sana 3671
+Sana 3672
 seni 3655
 hâlâ 3645
 etmek 3643
-verdi 3628
+verdi 3629
 Senin 3620
 Mary'yi 3582
 görünüyor 3551
@@ -111,10 +111,10 @@ olmak 3460
 güzel 3455
 olacak 3408
 Ali 3362
-aldı 3322
+aldı 3323
 nerede 3302
 Tom'la 3294
-yeni 3288
+yeni 3289
 kişi 3266
 gitmek 3253
 değilim 3237
@@ -131,16 +131,16 @@ Boston'a 2981
 olan 2974
 yaptı 2967
 şimdi 2941
-tekrar 2918
+tekrar 2919
 ediyorum 2897
+son 2886
 kim 2886
-son 2885
 hafta 2877
 Boston'da 2872
 para 2865
 gitti 2838
 Hiç 2836
-yemek 2832
+yemek 2833
 eve 2830
 doğru 2809
 bile 2808
@@ -156,8 +156,8 @@ aynı 2701
 satın 2699
 olmadığını 2690
 olur 2683
-Burada 2655
-istedi 2645
+Burada 2656
+istedi 2646
 kız 2641
 istemiyorum 2630
 Şimdi 2628
@@ -178,13 +178,13 @@ kez 2403
 bilmiyorum 2386
 birkaç 2382
 kendi 2367
-geç 2364
+geç 2366
 düşünüyorum 2341
 nedir 2328
 yoktu 2327
 Gerçekten 2315
 söylüyor 2300
-karar 2295
+karar 2296
 kimse 2284
 zor 2259
 adam 2256
@@ -216,7 +216,7 @@ yapmayı 2021
 sanmıyorum 1988
 akşam 1984
 tam 1984
-küçük 1946
+küçük 1948
 Yarın 1919
 düşündüm 1912
 almak 1900
@@ -259,7 +259,7 @@ sahip 1691
 ihtiyacım 1690
 kaç 1688
 Belki 1667
-henüz 1661
+henüz 1662
 buraya 1659
 insan 1656
 dün 1650
@@ -282,8 +282,8 @@ konuşmak 1579
 İngilizce 1577
 ettim 1569
 gördüm 1567
+çalıştı 1562
 lütfen 1562
-çalıştı 1561
 sever 1554
 kaldı 1553
 ne" 1546
@@ -291,10 +291,10 @@ yalan 1538
 anda 1533
 ederim 1529
 etmeye 1527
-yarın 1518
+yarın 1519
 yanlış 1518
+hemen 1518
 istemiyor 1517
-hemen 1517
 hızlı 1512
 beri 1497
 bizi 1497
@@ -308,7 +308,7 @@ Artık 1470
 ilgili 1468
 ihtiyacı 1462
 seninle 1458
-kendini 1454
+kendini 1455
 et 1445
 dışarı 1440
 Onunla 1439
@@ -336,14 +336,14 @@ eder 1346
 zorundayım 1341
 musunuz 1340
 kesinlikle 1333
-dakika 1331
+dakika 1332
 eski 1327
 ikna 1324
 Onlara 1324
 geliyor 1319
 işi 1311
 söylemek 1311
-yerde 1307
+yerde 1308
 onları 1300
 hazır 1294
 sorun 1293
@@ -368,7 +368,7 @@ hayal 1236
 yardımcı 1235
 İyi 1232
 yapacağını 1228
-beş 1226
+beş 1227
 hava 1226
 ay 1224
 oraya 1221
@@ -378,7 +378,7 @@ tür 1208
 severim 1200
 cevap 1196
 seviyor 1194
-harika 1192
+harika 1193
 kitabı 1188
 genç 1177
 tercih 1160
@@ -389,7 +389,7 @@ herkes 1157
 gelecek 1151
 Bizim 1151
 Hâlâ 1147
-sordu 1143
+sordu 1144
 öyle 1143
 olduğuna 1142
 Sami'nin 1134
@@ -405,7 +405,7 @@ Umarım 1104
 verdim 1099
 sürü 1096
 size 1093
-gerçek 1092
+gerçek 1093
 öğleden 1091
 biliyordu 1087
 yağmur 1084
@@ -417,11 +417,11 @@ yapacak 1072
 kimin 1068
 Fadıl 1062
 olmadan 1061
-Bazı 1050
+Bazı 1051
 yakın 1048
 duydum 1044
+gidiyor 1039
 Tüm 1038
-gidiyor 1037
 yapması 1037
 memnun 1035
 Leyla'nın 1031
@@ -465,7 +465,7 @@ biliyorsun 894
 kontrol 893
 rahatsız 892
 hepsi 889
-diye 886
+diye 887
 pek 884
 yaşlı 884
 İnsanlar 884
@@ -519,8 +519,8 @@ davet 819
 oldum 818
 Kim 817
 altında 816
+bilmiyordu 814
 zorundasın 813
-bilmiyordu 813
 yerine 811
 söylemedi 810
 sizin 809
@@ -601,7 +601,7 @@ derece 708
 yapmasına 708
 adını 706
 Annem 705
-Biri 703
+Biri 704
 alabilir 701
 Neredeyse 700
 evi 699
@@ -741,10 +741,10 @@ gideceğim 552
 alacağım 551
 kimseye 551
 Sence 550
+yeniden 549
 Tatile 549
 hak 548
 yazdı 548
-yeniden 548
 öğrenci 547
 aradı 546
 insanların 546
@@ -764,8 +764,8 @@ kardeşi 531
 bira 531
 aptalca 530
 konuşmayı 530
+zamanlarda 529
 söyler 528
-zamanlarda 528
 ifade 526
 hayat 525
 çaldı 525
@@ -800,8 +800,8 @@ Leyla'yı 506
 şeyleri 505
 gelmedi 504
 gidelim 503
+hediye 503
 günde 502
-hediye 502
 evine 501
 çay 501
 Tam 500
@@ -860,8 +860,8 @@ arabasını 469
 etmesini 469
 mısınız 468
 nedeniyle 468
+sürdü 468
 unutma 467
-sürdü 467
 Küçük 466
 çoğu 466
 olma 465
@@ -897,10 +897,10 @@ dünya 446
 Avustralya'ya 445
 nedeni 445
 yaşadı 444
+ait 443
 işini 443
 tanıyor 443
 ancak 443
-ait 442
 yeri 442
 içti 441
 gitmeye 441
@@ -1006,6 +1006,7 @@ sevdiğim 398
 hangisidir" 398
 baş 397
 ise 396
+Birleşik 396
 deli 396
 Zaten 396
 olmaktan 396
@@ -1014,7 +1015,6 @@ içmek 395
 bin 395
 kalacak 395
 230'da 395
-Birleşik 394
 olmasına 394
 resmi 394
 inşa 393
@@ -1148,13 +1148,13 @@ Senden 344
 olacağız 344
 herkesin 344
 olduğumuzu 344
+anlattı 343
 gittik 343
 Kanadalı 343
 yiyor 343
 Tren 343
 söylemeyi 343
 Boston 343
-anlattı 342
 evlendi 342
 idi 342
 beyzbol 341
@@ -1343,10 +1343,10 @@ yumurta 296
 şanslı 296
 Gerçek 296
 değiller 296
+arkasında 295
 şaka 295
 aile 295
 gitmesine 295
-arkasında 294
 Buradaki 294
 sensin 294
 silah 294
@@ -1401,13 +1401,14 @@ verecek 282
 muydu 282
 biriyle 281
 üst 281
+kavga 281
 oynamayı 280
 olmam 280
-kavga 280
 Bizimle 279
 bekledi 279
 evin 279
 fikirde 279
+kalktı 279
 derhal 279
 önerdi 279
 sevdiğin 279
@@ -1418,7 +1419,6 @@ konu 278
 çalışma 278
 mantıklı 278
 soruyu 278
-kalktı 278
 onlardan 278
 Fransızcayı 277
 yapmaz 277
@@ -1528,14 +1528,14 @@ Diğer 257
 inanmıyorum 257
 ayrılmak 257
 dışına 257
+kayboldu 257
 kapı 257
 endişe 257
+çalışıyordu 257
 Otobüs 256
 serbest 256
-kayboldu 256
 aşk 256
 plan 256
-çalışıyordu 256
 evlenmek 255
 yaşayan 255
 konuşan 255
@@ -1681,15 +1681,15 @@ oynadı 233
 ölü 233
 işler 233
 kayak 233
+gözden 233
+arka 233
 başını 233
 yerim 233
 Japonya 232
 düşünmek 232
 alışverişe 232
 kendin 232
-gözden 232
 dilerim 232
-arka 232
 fikrin 232
 yolunu 232
 bilim 231
@@ -1701,6 +1701,7 @@ aşağı 230
 yaralandı 230
 çalışıyoruz 230
 ayakta 230
+çözüm 230
 çalar 229
 yemeğine 229
 değiştirmek 229
@@ -1708,7 +1709,6 @@ değiştirmek 229
 şok 229
 değişti 229
 diledi 229
-çözüm 229
 fazlasını 228
 hayvan 228
 yedin 228
@@ -1890,6 +1890,7 @@ Kitap 204
 alay 204
 nihayet 204
 pizza 204
+evinin 204
 sandım 204
 tanımıyorum 204
 yaptığına 204
@@ -1898,7 +1899,6 @@ istemez 204
 görüşürüz 203
 zordu 203
 saatte 203
-evinin 203
 birbirlerini 203
 numarasını 203
 sağlık 203
@@ -1968,6 +1968,7 @@ anlamıyor 196
 şehirde 196
 kurdu 196
 toplantıda 196
+kararı 196
 sırada 196
 e-posta 196
 gördüğünü 196
@@ -1983,7 +1984,6 @@ oynar 195
 tatil 195
 yerel 195
 çevirdi 195
-kararı 195
 Sabah 195
 gidebilir 194
 Kitabı 194
@@ -2054,6 +2054,7 @@ buz 189
 dondurma 189
 olanı 189
 insanlardan 189
+indi 189
 yakalandı 189
 vermeyecek 189
 "Hocalarının 189
@@ -2064,8 +2065,8 @@ intihar 188
 Çince 188
 kokuyor 188
 kadarıyla 188
-indi 188
 şaşırtıcı 188
+Maalesef 188
 yapıyoruz 188
 Yapmak 188
 banyo 187
@@ -2079,7 +2080,6 @@ Canım 187
 aradım 187
 kutu 187
 ormanda 187
-Maalesef 187
 bilmiyorsun 187
 gerekirse 186
 ağrıyor 186
@@ -2197,6 +2197,7 @@ bilmem 177
 Robert 177
 müziği 176
 adama 176
+güzeldir 176
 yüzmeyi 176
 gözle 176
 örnek 176
@@ -2210,7 +2211,6 @@ korkuyorum 176
 suçladı 176
 dinlemek 175
 altıda 175
-güzeldir 175
 yapılacağını 175
 çocukların 175
 keyif 175
@@ -2380,6 +2380,7 @@ yukarı 163
 hatayı 163
 odadan 163
 alt 163
+düşünmemiştim 163
 önceki 163
 mevcut 162
 dek 162
@@ -2396,7 +2397,6 @@ kazanacağını 162
 bildir 162
 kazasında 162
 etmeliyim 162
-düşünmemiştim 162
 dur 162
 dikkatle 162
 hoşlanmadığını 162
@@ -2499,6 +2499,7 @@ verdiğini 155
 olmamız 155
 aramaya 155
 bunları 155
+söyleyeceğini 155
 Neler 155
 uyumak 154
 Git 154
@@ -2516,7 +2517,6 @@ ince 154
 borç 154
 vereceğini 154
 olanlar 154
-söyleyeceğini 154
 düşünmediğini 154
 beklemiyordum 154
 ye 153
@@ -2608,6 +2608,7 @@ polisi 148
 Çocukların 147
 Zengin 147
 dahil 147
+kamp 147
 kullanır 147
 Parayı 147
 kalma 147
@@ -2630,7 +2631,6 @@ olabilirdi 147
 söylemeyeceğim 147
 ağladı 146
 Baba 146
-kamp 146
 bırakın 146
 olmuştu 146
 profesyonel 146
@@ -2765,6 +2765,7 @@ meşguldü 138
 tadını 138
 riske 138
 fırsatı 138
+Arapça 138
 bunlar 138
 okudun 138
 Hep 138
@@ -2772,6 +2773,7 @@ olduk 138
 hapishanede 138
 Stefan 138
 dokuz 137
+getirdim 137
 havaalanına 137
 metre 137
 önüne 137
@@ -2779,7 +2781,6 @@ bırakma 137
 tanıştı 137
 koltuk 137
 ettiğin 137
-Arapça 137
 umuyordu 137
 oldular 137
 yıllık 137
@@ -2793,10 +2794,10 @@ etmediniz 137
 dildir 136
 yazılmış 136
 cumartesi 136
-getirdim 136
 okulu 136
 favori 136
 günüm 136
+yiyorum 136
 çeşitli 136
 yağmaya 136
 dön 136
@@ -2827,7 +2828,6 @@ mıydın 136
 hoşlandığını 136
 seversin 135
 kazak 135
-yiyorum 135
 Ah 135
 3 135
 Aç 135
@@ -2903,6 +2903,7 @@ söylemelisin 131
 suçu 131
 çantasını 131
 konusu 131
+kapısını 131
 temizledi 131
 yaptığından 131
 Yerinde 131
@@ -2923,7 +2924,6 @@ kat 130
 ederler 130
 yumuşak 130
 pirinç 130
-kapısını 130
 Buralarda 130
 açtım 129
 Balık 129
@@ -2956,6 +2956,7 @@ eşit 128
 Ay 128
 geldiniz 128
 yakınında 128
+getirir 128
 kolunu 128
 yaptırdı 128
 üniversitede 128
@@ -2973,7 +2974,6 @@ seçti 127
 kızın 127
 yanı 127
 planın 127
-getirir 127
 iyisin 127
 yapmadan 127
 testi 127
@@ -3109,6 +3109,7 @@ konuşurum 124
 sağlığı 124
 güç 124
 sanki 124
+sorunlar 124
 hatırlatıyor 124
 canı 124
 amacı 124
@@ -3143,7 +3144,6 @@ hikayesi 123
 etkisi 123
 bakıyordu 123
 öldürmeye 123
-sorunlar 123
 dahaki 123
 giyer 123
 evime 123
@@ -3615,6 +3615,7 @@ edilemez 105
 hangisidir 105
 belada 105
 demektir 105
+kurmak 105
 düşünce 105
 aday 105
 dinlemeyi 105
@@ -3650,7 +3651,6 @@ bankaya 104
 köyde 104
 Bilim 104
 kullanarak 104
-kurmak 104
 300 104
 vermezdi 104
 kalanını 104
@@ -3776,6 +3776,7 @@ vermiyorsun 101
 korkutucu 101
 kişilik 100
 sonuç 100
+göremiyorum 100
 dene 100
 yaşamıyor 100
 arkadaşlarının 100
@@ -3808,7 +3809,6 @@ işimiz 100
 Günde 99
 ederdim 99
 başkentidir 99
-göremiyorum 99
 Pencereyi 99
 teklifi 99
 bölgede 99
@@ -3837,6 +3837,7 @@ Haber 99
 çıkalım 99
 şimdiden 99
 Rüzgar 99
+çöktü 99
 anlamadı 99
 niyetim 99
 yapabileceği 99
@@ -3855,6 +3856,7 @@ alamadı 98
 dış 98
 avro 98
 ederek 98
+bahçesinde 98
 dağ 98
 zorladı 98
 ederken 98
@@ -3866,7 +3868,6 @@ duran 98
 kişiler 98
 kazası 98
 gününe 98
-çöktü 98
 beklemiyordu 98
 düşündüğümü 98
 hatam 98
@@ -3898,7 +3899,6 @@ Kediler 97
 ağlıyor 97
 Kış 97
 cümleleri 97
-bahçesinde 97
 Allah'a 97
 dişlerini 97
 adının 97
@@ -4119,6 +4119,7 @@ caddeyi 92
 açıdan 92
 benziyorsun 92
 paket 92
+kilitledi 92
 sarıldı 92
 2013 92
 hesap 91
@@ -4164,7 +4165,6 @@ huzur 91
 almamı 91
 bisikletini 91
 vermesini 91
-kilitledi 91
 sahipsin 91
 yokken 91
 sevdiğiniz 91
@@ -4242,6 +4242,7 @@ astı 89
 yapabileceğimizi 89
 gerekmiyordu 89
 Ali'yle 89
+cam 88
 özledim 88
 "Bir 88
 paran 88
@@ -4288,7 +4289,6 @@ unuttun 88
 yapabilecek 88
 canını 88
 Gunter 88
-cam 87
 başım 87
 Haberi 87
 ertelendi 87
@@ -4325,6 +4325,7 @@ aramayı 87
 gerekiyorsa 87
 giymek 87
 çağrı 87
+oturup 87
 rakip 87
 acaba 86
 çekiyorum 86
@@ -4345,6 +4346,7 @@ cümleler 86
 araştırma 86
 cüzdanını 86
 okuyarak 86
+kalıyorum 86
 Fransa'ya 86
 Söz 86
 öğrencilerin 86
@@ -4369,7 +4371,6 @@ değmez 86
 yataktan 86
 beklemesini 86
 bıçağı 86
-oturup 86
 istediklerini 86
 İşleri 86
 yapmazdım 86
@@ -4433,7 +4434,6 @@ harikaydı 84
 biriyim 84
 saatimi 84
 kazandım 84
-kalıyorum 84
 tahammül 84
 istediler 84
 Kimi 84
@@ -4445,6 +4445,7 @@ yakındır 84
 nehri 84
 renkli 84
 eğlencelidir 84
+dönmedi 84
 yanıtladı 84
 kaydı 84
 çıkarın 84
@@ -4455,6 +4456,7 @@ sağladı 84
 dönüş 84
 müdahale 84
 koştum 84
+Ön 84
 işkence 84
 ilişkisi 84
 mağazada 84
@@ -4498,7 +4500,6 @@ ikisinin 83
 yaptınız 83
 niyeti 83
 Tanrım 83
-dönmedi 83
 hayranım 83
 öğretmenim 83
 fiziksel 83
@@ -4506,7 +4507,6 @@ Tanrı'nın 83
 açabilir 83
 oğlunun 83
 haksız 83
-Ön 83
 arayın 83
 akıllıca 83
 olmaktır 83
@@ -5184,6 +5184,7 @@ duyunca 70
 kadındır 70
 makinesini 70
 Yarım 70
+kurmaya 70
 reklam 70
 Modern 70
 Acı 70
@@ -5236,7 +5237,6 @@ Doktorlar 69
 Sensiz 69
 götürecek 69
 oynarım 69
-kurmaya 69
 tıbbi 69
 kamu 69
 Gözlerini 69
@@ -5402,6 +5402,7 @@ apartman 67
 ararım 67
 gitmişti 67
 pişirmeyi 67
+sessizlik 67
 taşıyordu 67
 Bugünlerde 67
 ettirdi 67
@@ -5473,7 +5474,6 @@ yerken 66
 sudan 66
 kelimenin 66
 noktada 66
-sessizlik 66
 evimde 66
 yazıldı 66
 arkadaşlarını 66
@@ -5870,6 +5870,7 @@ deneyeceğim 61
 güneşli 61
 tarz 61
 sitesi 61
+durma 61
 Yakın 61
 tur 61
 kapattım 61
@@ -5957,7 +5958,6 @@ kalkarım 60
 satılık 60
 rafa 60
 konuşun 60
-durma 60
 çıkmasını 60
 24 60
 dönüştü 60
@@ -6052,6 +6052,7 @@ Bira 59
 yaşamaktan 59
 Nisan 59
 Afrika'da 59
+hissetmiyor 59
 gayret 59
 girmeden 59
 diyorsun 59
@@ -6136,7 +6137,6 @@ bırakmayın 58
 İtalya'da 58
 yoruldum 58
 yiyorsun 58
-hissetmiyor 58
 deme 58
 ekonomi 58
 patlamış 58
@@ -6160,6 +6160,7 @@ Babasının 58
 şimdilik 58
 taşındım 58
 sağlamak 58
+olamayacak 58
 sayı 58
 sevmek 58
 ipi 58
@@ -6252,7 +6253,6 @@ okuyun 57
 kısadır 57
 fırladı 57
 onayladı 57
-olamayacak 57
 16 57
 yalnızdı 57
 yemiyorum 57
@@ -6283,6 +6283,7 @@ vereceğiz 57
 yarış 57
 gitmenin 57
 7 57
+izleri 57
 yapardın 57
 Günün 57
 Emekli 57
@@ -6375,7 +6376,6 @@ adada 56
 güzelsin 56
 dairesinde 56
 anında 56
-izleri 56
 baktık 56
 kocasını 56
 izlerini 56
@@ -6881,6 +6881,7 @@ düşünerek 51
 kaçmak 51
 yorgundum 51
 Ağaç 51
+gelemem 51
 okumadı 51
 etkiler 51
 doğruca 51
@@ -6970,6 +6971,7 @@ anlatmaya 50
 yapay 50
 yaşadın 50
 geldiğin 50
+orman 50
 Bina 50
 söylerdim 50
 katılmıyorum 50
@@ -6985,7 +6987,6 @@ yeteneğine 50
 sınırlı 50
 varlıklı 50
 sinirlendi 50
-gelemem 50
 çantasına 50
 vücudu 50
 kaçınmak 50
@@ -7104,7 +7105,6 @@ saklamak 49
 espri 49
 Nadiren 49
 değiştirmeye 49
-orman 49
 izlenim 49
 fırsatım 49
 bulunmak 49
@@ -9061,6 +9061,7 @@ Sarı 37
 öğrettim 37
 ölmesine 37
 Boşa 37
+işitti 37
 Yaralı 37
 Ebeveynlerin 37
 girmiş 37
@@ -9270,7 +9271,6 @@ içe 36
 yüksekti 36
 kırdın 36
 limon 36
-işitti 36
 şampanya 36
 giymiyordu 36
 tanımadım 36
@@ -9489,6 +9489,7 @@ bağış 35
 Oyunun 35
 aptalcaydı 35
 yaptığınızı 35
+bölgeyi 35
 Fransa'yı 35
 planlıyorsunuz 35
 Hayatının 35
@@ -9724,7 +9725,6 @@ yiyeceksin 34
 ABD'ye 34
 kolu 34
 telefonum 34
-bölgeyi 34
 Umarız 34
 kötümser 34
 aramanı 34

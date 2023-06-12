@@ -1,5 +1,5 @@
 je 2200
-sa 2100
+sa 2101
 som 1861
 Tom 1609
 si 1514
@@ -911,6 +911,7 @@ hodinu 11
 dôverovať 11
 potrebuješ 11
 poľsky 11
+Volám 11
 ukázať 11
 ideš 11
 jednoduché 11
@@ -993,7 +994,6 @@ pár 10
 dievčatá 10
 Akú 10
 nemajú 10
-Volám 10
 Mohol 10
 Rýchlo 10
 ticho 10
