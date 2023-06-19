@@ -1,5 +1,5 @@
-ad 48
-Tom 44
+ad 49
+Tom 45
 n 34
 d 33
 ca 19
@@ -14,10 +14,10 @@ ayi 11
 Ssneɣ 11
 Mary 11
 a 11
+Nettat 11
 ssineɣ 10
 Iccat 10
 anẓar 10
-Nettat 10
 inu 9
 aṭṭas 9
 arzuɣ 8
@@ -25,6 +25,7 @@ Ad 8
 as 8
  8
 s 8
+ɣer 8
 illa 8
 ac 7
 t 7
@@ -35,7 +36,6 @@ tumubin 7
 nni 7
 x 7
 ijj 7
-ɣer 7
 da 6
 Necc 6
 niɣ 6
@@ -48,24 +48,25 @@ ila 6
 am 5
 nnem 5
 Ayyuz 5
+cekk 5
+cemm 5
 zi 5
 tejjid 5
 di 5
 tarzu 5
 řḥajet 5
+nnes 5
+ggeɣ 5
+man 5
 gi 5
 nican 5
 cwayt 4
 Ssars 4
 dini 4
 Mayemmi 4
-cekk 4
-cemm 4
 Mamec 4
 Netta 4
-nnes 4
 ndhaɣ 4
-ggeɣ 4
 igg 4
 ttraḥ 4
 Nniɣ 4
@@ -74,12 +75,13 @@ iṭṭeṣ 4
 ssawařeɣ 4
 Tafransist 4
 Ur 4
-man 4
 ɣer-s 4
+ak 4
 Yih 4
 aman 3
 Aṭṭas 3
 Ufiɣ 3
+A 3
 Ɛafak 3
 Wah 3
 Cemm 3
@@ -112,8 +114,9 @@ cek 3
 necc 3
 Taspanyut 3
 řbidu 3
-ak 3
+ayenni 3
 Necnin 3
+Atiɣ 3
 llan 3
 taggʷurt 3
 Arzuɣ 2
@@ -177,7 +180,6 @@ necnin 2
 nezemmer 2
 a-wem 2
 nɛawen 2
-ayenni 2
 ɛemmers 2
 d-ayi 2
 ttxeẓered 2
@@ -196,7 +198,7 @@ Maɣaṛ 2
 Uhu 2
 As-dd 2
 imik 2
-Atiɣ 2
+parki 2
 ɣar-s 2
 setta 2
 uhu 2
@@ -205,6 +207,7 @@ daweḍḍer 2
 ikemmel 2
 Tteɛjib-ayi 2
 iliɣ 2
+akid-k 2
 Ttzemmered 2
 tabrat-a 2
 Japan 2
@@ -225,6 +228,7 @@ uca-neɣ 2
 ccɣel 2
 aẓṛu 2
 Tafunast 2
+sfeṛḥeɣ 2
 iḥman 1
 Araḥed 1
 cceɣ 1
@@ -242,7 +246,6 @@ Ar 1
 CNN 1
 tteggem 1
 Zid 1
-A 1
 yamcum 1
 Araḥar 1
 Lla 1
@@ -504,7 +507,6 @@ Mamek 1
 tellid 1
 tteqqared 1
 Ṛuḥeɣ 1
-parki 1
 sebt 1
 yeɛdan 1
 yelli 1
@@ -548,7 +550,6 @@ tanfust 1
 azegrar 1
 Ɛlaḥal 1
 Ɛalayen 1
-akid-k 1
 akid-m 1
 ttsekked 1
 ttsqaded 1
@@ -636,3 +637,10 @@ aksum 1
 ggʷasif 1
 g 1
 iɣeẓran 1
+iraḥ 1
+imeddukkar 1
+Siwel 1
+akid-s 1
+ira 1
+tessawar 1
+x-as 1

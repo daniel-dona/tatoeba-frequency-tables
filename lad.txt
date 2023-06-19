@@ -1,15 +1,15 @@
 es 261
 Tom 145
-un 139
-El 102
+un 140
+El 103
 la 99
 de 94
-el 90
-en 89
+el 91
+en 90
+No 81
 no 81
-No 80
+esta 73
 איס 73
-esta 70
 una 63
 a 62
 La 55
@@ -41,9 +41,9 @@ plaze 21
 las 20
 me 19
 gato 19
+Onde 19
 Esta 19
 perro 18
-Onde 18
 lingua 17
 djudio 17
 Sos 16
@@ -58,6 +58,7 @@ djudios 15
 Yo 15
 מי 15
 סו 15
+aki 14
 del 14
 Kero 14
 mansana 14
@@ -67,7 +68,6 @@ Las 14
 preto 14
 Deke 14
 puerta 14
-aki 13
 Sosh 13
 era 13
 ambezando 13
@@ -83,10 +83,12 @@ Sami 12
 Dingunos 12
 vedre 12
 pasharos 12
+sivdad 11
 vida 11
 mujer 11
 fue 11
 plazen 11
+ayi 11
 dos 11
 djudia 11
 Ke 11
@@ -95,12 +97,10 @@ Trae 11
 frio 11
 lo 10
 al 10
-sivdad 10
 Vos 10
 linguas 10
 komo 10
 paras 10
-ayi 10
 padre 10
 te 10
 Se 10
@@ -361,6 +361,7 @@ Almania 3
 אסתר 3
 teroristos 3
 atakaron 3
+ay 3
 דיספאריסיירון 3
 fashisto 3
 erguele 3
@@ -394,6 +395,7 @@ afilu 3
 amor 3
 kaye 3
 גאטוס 3
+Estava 3
 perriko 3
 similares 3
 קון 3
@@ -453,6 +455,7 @@ Alimpia 3
 Estare 3
 amanyana 3
 mos 3
+kal 3
 tan 2
 syelo 2
 Yaakov 2
@@ -571,7 +574,6 @@ Fiestas 2
 alegres 2
 maternal 2
 Esperanto 2
-ay 2
 Estas 2
 desparesyeron 2
 Penso 2
@@ -592,6 +594,7 @@ Abandono 2
 entendi 2
 lavorar 2
 merkar 2
+munchos 2
 Veo 2
 leon 2
 ליאון 2
@@ -629,7 +632,6 @@ muestros 2
 lavoro 2
 טינגוי 2
 דוס 2
-Estava 2
 kantando 2
 karne 2
 קאזה 2
@@ -1120,7 +1122,6 @@ vinieron 1
 murieron 1
 dishites 1
 mueva 1
-munchos 1
 jurnalista 1
 jurnalisto 1
 desnudo 1
@@ -1970,7 +1971,7 @@ fuertes 1
 matando 1
 inosentes 1
 Kurdistan 1
-esnoga 1
+sinagoga 1
 organizmos 1
 animales 1
 Abrasame 1
@@ -2066,3 +2067,4 @@ Twitter 1
 Nada 1
 Mashiah 1
 משיח 1
+kales 1

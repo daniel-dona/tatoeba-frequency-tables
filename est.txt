@@ -1,30 +1,30 @@
-on 1373
+on 1374
 Ma 877
-ei 703
-Tom 569
+ei 705
+Tom 571
 sa 410
 Kas 400
 et 314
-Ta 313
+Ta 314
 See 263
 ma 209
 seda 200
 oma 184
 see 174
-oli 154
+oli 155
 ja 147
-ole 142
+ole 143
 ta 140
-Sa 134
+Sa 135
 olen 132
-Mul 129
+Mul 130
 kui 122
 Me 120
 keelt 119
-väga 116
+väga 117
 pole 111
 mulle 97
-oled 94
+oled 95
 mind 87
 selle 84
 mu 84
@@ -33,11 +33,11 @@ Nad 82
 ära 79
 minu 78
 palju 75
-Miks 74
+Miks 75
 Kui 73
 sulle 70
+sind 68
 tahan 68
-sind 67
 kõik 66
 su 65
 mida 65
@@ -52,8 +52,8 @@ Kus 61
 Mida 58
 hea 58
 Mary 58
+Mu 56
 Kes 55
-Mu 55
 sinu 54
 ema 53
 mis 52
@@ -107,11 +107,11 @@ hästi 31
 aega 31
 maja 31
 teda 31
+liiga 31
 keel 31
 Tema 30
 taha 30
 Tal 30
-liiga 30
 räägin 29
 räägid 29
 Olen 29
@@ -219,6 +219,7 @@ tuli 16
 saanud 16
 Kass 16
 just 16
+kiiresti 16
 Need 16
 öelda 16
 vastu 16
@@ -230,7 +231,6 @@ andis 15
 õde 15
 kell 15
 kõige 15
-kiiresti 15
 arvad 15
 väike 15
 lähen 15
@@ -360,6 +360,7 @@ meile 10
 keeles 10
 probleem 10
 Nüüd 10
+tuba 10
 sama 10
 ette 10
 oleksin 10
@@ -393,7 +394,6 @@ teist 9
 haige 9
 hõivatud 9
 ütleb 9
-tuba 9
 Kuhu 9
 asi 9
 piisavalt 9
@@ -511,6 +511,7 @@ Teie 7
 pikk 7
 arvasin 7
 tugev 7
+Poiss 7
 viimane 7
 hiljem 7
 aeg 7
@@ -572,7 +573,6 @@ Kelle 6
 laulja 6
 Homme 6
 edasi 6
-Poiss 6
 ju 6
 Tundub 6
 hobune 6
@@ -716,6 +716,7 @@ linn 5
 värvi 5
 õuna 5
 Karu 5
+sööb 5
 tunneb 5
 punast 5
 eesti 5
@@ -767,6 +768,7 @@ istus 5
 sageli 5
 meeldinud 5
 mõlemad 5
+usalda 5
 kuula 5
 võid 5
 olime 5
@@ -785,6 +787,7 @@ Poola 5
 tahate 5
 saavad 5
 varakult 5
+viskas 5
 Kuna 5
 üllatunud 5
 vene 5
@@ -894,7 +897,6 @@ iiri 4
 kuningas 4
 langevad 4
 Näita 4
-sööb 4
 mõtlen 4
 jätsin 4
 sinult 4
@@ -936,6 +938,7 @@ vähe 4
 neist 4
 noorem 4
 Huvitav 4
+Õpi 4
 õhtusööki 4
 Võib-olla 4
 korras 4
@@ -957,7 +960,6 @@ käest 4
 nutma 4
 jääma 4
 tähelepanu 4
-usalda 4
 Millest 4
 ringi 4
 tahaks 4
@@ -971,6 +973,7 @@ sõin 4
 puue 4
 Bostonist 4
 tänu 4
+korrusel 4
 kõigest 4
 duši 4
 üritan 4
@@ -992,7 +995,6 @@ jalga 4
 varsti 4
 vara 4
 võtnud 4
-viskas 4
 leidsin 4
 Türgi 4
 ukraina 4
@@ -1059,6 +1061,7 @@ poisid 3
 rase 3
 hääl 3
 onu 3
+kivi 3
 Kaks 3
 töötad 3
 panna 3
@@ -1232,7 +1235,6 @@ kaitsta 3
 jäänud 3
 hammustab 3
 küla 3
-Õpi 3
 tundub 3
 dieedil 3
 teadlik 3
@@ -1318,7 +1320,6 @@ lõppu 3
 alustada 3
 aeda 3
 sellele 3
-korrusel 3
 andsin 3
 loe 3
 maksan 3
@@ -1513,7 +1514,6 @@ pikka 2
 linna 2
 üliõpilane 2
 ostab 2
-kivi 2
 Kasahstanis 2
 Ega 2
 Probleem 2
@@ -6310,3 +6310,13 @@ Vabariigi 1
 ametlik 1
 riigikeel 1
 sügavat 1
+pervert 1
+luuletus 1
+järgmiseks 1
+nädalaks 1
+pähe 1
+number 1
+neliteist 1
+kolmandal 1
+abivalmis 1
+internetti 1

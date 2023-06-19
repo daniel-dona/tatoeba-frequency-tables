@@ -3,9 +3,9 @@ ra 128
 o 113
 Tom 105
 Ma 99
-mi 96
+mi 98
+de 87
 to 86
-de 86
 ma 85
 xo 79
 a 75
@@ -22,7 +22,7 @@ Mı 43
 mı 42
 û 42
 Ti 42
-ez 39
+ez 40
 yê 39
 zaf 39
 O 38
@@ -55,8 +55,8 @@ seba 17
 ay 16
 Ey 16
 se 16
+ganî 16
 ser 15
-ganî 15
 Na 14
 şena 14
 çi 14
@@ -65,11 +65,11 @@ estê 14
 keye 14
 Ewro 14
 Şima 14
+esto 13
 teber 13
 nika 13
 bîya 13
 biya 12
-esto 12
 Ezo 12
 bıkeré 12
 qe 12
@@ -411,6 +411,7 @@ dima 3
 cîya 3
 kerde 3
 tay 3
+Mîyanê 3
 şimeno 3
 Yanni 3
 meke 3
@@ -667,7 +668,6 @@ xerc 2
 erey 2
 embazê 2
 ekîpa 2
-Mîyanê 2
 mîyanê 2
 wina 2
 Teber 2
@@ -828,6 +828,7 @@ bızone 2
 ki 2
 heywani 2
 Çımanéxu 2
+Destê 2
 zıwandê 1
 Şanê 1
 Payra 1
@@ -2793,5 +2794,8 @@ Bajaro 1
 cıwiyena 1
 pilo 1
 zıwanê 1
-Destê 1
 kitab 1
+birîya 1
+fitiq 1
+dîqet 1
+bikera 1

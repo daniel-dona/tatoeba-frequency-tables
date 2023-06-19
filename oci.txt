@@ -1,7 +1,7 @@
  1161
 de 1137
 pas 1062
-a 874
+a 875
 la 820
 lo 684
 que 603
@@ -529,6 +529,7 @@ vielh 10
 nosautes 10
 errors 10
 letra 10
+Le 10
 mons 10
 lòc 9
 segur 9
@@ -598,7 +599,6 @@ prèst 9
 An 9
 milhor 9
 Una 9
-Le 9
 Pensas 9
 Aquò´s 9
 jamai 9
@@ -1434,6 +1434,7 @@ plasèr 3
 coneishi 3
 òrb 3
 agost 3
+tigre 3
 amorós 3
 Itàlia 3
 hèi 3
@@ -1919,7 +1920,6 @@ emission 2
 demandarèi 2
 Mamà 2
 shivau 2
-tigre 2
 leon 2
 devon 2
 vilas 2
@@ -7302,3 +7302,4 @@ lau 1
 pe 1
 fia'ai 1
 pea 1
+bondi 1

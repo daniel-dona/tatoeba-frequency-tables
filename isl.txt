@@ -136,8 +136,8 @@ hér 72
 heim 72
 Bill 72
 Ef 71
+undir 71
 sá 70
-undir 70
 heldur 70
 ertu 70
 vil 69
@@ -390,6 +390,7 @@ engu 26
 rangt 26
 meðan 26
 vinur 26
+skrifaði 25
 fann 25
 hús 25
 aðeins 25
@@ -407,7 +408,6 @@ Hvers 25
 allar 24
 gefa 24
 ferðast 24
-skrifaði 24
 sofa 24
 getum 24
 góða 24
@@ -3173,6 +3173,7 @@ vaknað 3
 spurt 3
 Jóns 3
 einhverja 3
+samninginn 3
 södd 3
 dapur 3
 aldar 3
@@ -4641,7 +4642,6 @@ bankinn 2
 3 2
 minnst 2
 elskuðu 2
-samninginn 2
 hrygg 2
 Johnsons 2
 skaðlegar 2

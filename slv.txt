@@ -128,6 +128,7 @@ Mi 10
 ura 10
 Grem 10
 do 10
+svoje 10
 pa 10
 vem 10
 star 10
@@ -139,7 +140,6 @@ nikoli 9
 prišel 9
 ljudje 9
 kar 9
-svoje 9
 jaz 9
 ko 9
 sobi 9
@@ -434,6 +434,7 @@ sto 4
 novice 4
 denar 4
 Slovenščina 4
+hvala 4
 Slovenija 4
 Prav 4
 avtomobil 4
@@ -1051,7 +1052,6 @@ takšno 2
 kdo 2
 Nizozemščina 2
 Hvala 2
-hvala 2
 Ponoči 2
 najde 2
 Čas 2
@@ -1195,6 +1195,7 @@ danes« 2
 muhe 2
 slona 2
 inženir 2
+Najlepša 2
 gospod 1
 Ogawa 1
 Francoz 1
@@ -3378,3 +3379,4 @@ jedo 1
 tigri 1
 gor 1
 Petek 1
+Vsakemu 1

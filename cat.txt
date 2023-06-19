@@ -3,7 +3,7 @@ de 1467
 a 1393
 que 1258
 el 1163
-és 981
+és 982
 no 810
 va 756
 un 739
@@ -11,8 +11,8 @@ en 603
 No 590
 per 523
 una 521
+El 506
 i 505
-El 505
 Tom 453
 La 391
 les 382
@@ -28,8 +28,8 @@ Ell 244
 molt 221
 Ella 198
 vaig 195
+meu 193
 com 192
-meu 192
 està 178
 em 173
 fer 171
@@ -108,9 +108,9 @@ parlar 67
 Això 66
 als 66
 Tinc 65
+pare 64
 sense 64
 mare 63
-pare 63
 menjar 63
 pel 62
 qui 62
@@ -239,6 +239,7 @@ Té 32
 prou 32
 problema 32
 ets 32
+també 32
 hora 31
 demà 31
 fill 31
@@ -247,7 +248,6 @@ francès 31
 primer 31
 matí 31
 morir 31
-també 31
 deixar 30
 germana 30
 d'un 30
@@ -380,6 +380,7 @@ Ningú 20
 contra 20
 paraules 20
 menys 20
+metge 20
 Tu 20
 dones 20
 noia 20
@@ -400,7 +401,6 @@ vegades 19
 Quant 19
 prop 19
 llum 19
-metge 19
 fan 19
 pas 19
 sentit 19
@@ -2288,6 +2288,7 @@ dificultats 3
 lliçó 3
 Brasil 3
 atenció 3
+ment 3
 tardor 3
 hivern 3
 cerca 3
@@ -3400,7 +3401,6 @@ regne 2
 d'octubre 2
 escollit 2
 Pensava 2
-ment 2
 belles 2
 tenien 2
 abisme 2
@@ -9523,3 +9523,4 @@ desitjant 1
 paquets 1
 cigarrets 1
 equivoqué 1
+L'Occident 1

@@ -27,7 +27,7 @@ dig 1744
 den 1712
 som 1711
 kan 1584
-Du 1475
+Du 1476
 av 1448
 kommer 1143
 han 1142
@@ -144,7 +144,7 @@ bil 258
 hjälpa 258
 tid 256
 ditt 256
-mina 250
+mina 251
 bor 247
 kunna 245
 franska 241
@@ -543,6 +543,7 @@ tennis 56
 Många 56
 fanns 56
 middag 56
+läste 56
 problemet 56
 tänka 56
 dotter 56
@@ -550,7 +551,6 @@ dåligt 56
 tv 55
 hämta 55
 lär 55
-läste 55
 sprang 55
 barnen 55
 För 55
@@ -2056,6 +2056,7 @@ kunskap 11
 Förresten 11
 nyckel 11
 bevisa 11
+tankar 11
 tillfället 11
 långsammare 11
 gissade 11
@@ -2230,7 +2231,6 @@ storebror 10
 soffa 10
 ledigt 10
 Mjölken 10
-tankar 10
 platser 10
 poäng 10
 Tre 10

@@ -1,12 +1,12 @@
-ir 1079
-Es 644
-Toms 415
+ir 1081
+Es 645
+Toms 416
 ka 315
-un 257
+un 259
 to 256
 tu 221
 Vai 221
-ar 194
+ar 195
 Viņš 184
 par 183
 Man 173
@@ -18,7 +18,7 @@ nav 150
 man 139
 tas 130
 Viņa 129
-kā 110
+kā 111
 Mēs 109
 ļoti 108
 ko 108
@@ -42,20 +42,20 @@ esi 60
 Marija 60
 tevi 59
 teica 56
+bet 55
 var 54
 šo 54
-bet 54
 mēs 54
 tā 51
 tik 51
 Viņi 50
 labi 49
 jums 46
-arī 45
+arī 46
 viņam 45
 kaut 45
 būt 44
-jau 43
+jau 44
 mums 43
 darīt 43
 patīk 42
@@ -390,6 +390,7 @@ mūzika 8
 redzēju 8
 citiem 8
 Viss 8
+Beidz 8
 skatīties 8
 ātri 8
 vakarā 8
@@ -434,7 +435,6 @@ dēļ 7
 nevarēja 7
 grib 7
 ik 7
-Beidz 7
 priekšroku 7
 pāri 7
 jauki 7
@@ -570,6 +570,7 @@ ienīstu 5
 Viens 5
 Kādi 5
 draugiem 5
+miris 5
 gaismas 5
 Laipni 5
 lūdzam 5
@@ -580,11 +581,13 @@ Pat 5
 ābolu 5
 bijusi 5
 problēma 5
+lielu 5
 paši 5
 kafija 5
 bijuši 5
 liels 5
 skaļi 5
+alkohola 5
 saku 5
 pulksten 5
 istabā 5
@@ -601,6 +604,7 @@ Viņas 5
 pilsētas 5
 dodas 5
 Šajā 5
+nedaudz 5
 Šīs 5
 palikt 5
 skaists 5
@@ -719,7 +723,6 @@ septiņi 4
 eju 4
 pulkstenis 4
 redzu 4
-miris 4
 tumšs 4
 likās 4
 jautāju 4
@@ -734,7 +737,6 @@ beidzot 4
 zaudēt 4
 klasē 4
 maz 4
-lielu 4
 vīrietis 4
 vieta 4
 Ļauj 4
@@ -749,7 +751,6 @@ autobusu 4
 Cilvēkiem 4
 kliedz 4
 Vilciens 4
-alkohola 4
 gatavs 4
 dzīvoja 4
 mašīnā 4
@@ -771,7 +772,6 @@ veltīgi 4
 kļūdas 4
 pārdeva 4
 pārsteigts 4
-nedaudz 4
 izmantoja 4
 iepriekš 4
 bērniem 4
@@ -821,6 +821,7 @@ Lailai 4
 Alžīrijā 4
 laikapstākļi 4
 dari 4
+daudziem 4
 neēdu 4
 jauna 4
 esot 4
@@ -858,6 +859,7 @@ varen 4
 Arī 4
 Baterijas 4
 Viļņi 4
+Esi 4
 veselais 4
 veselā 4
 saprāta 4
@@ -1066,6 +1068,7 @@ puķes 3
 kādas 3
 ārsts 3
 Rīgā 3
+Itālijā 3
 gaismu 3
 bibliotēkas 3
 nevarēju 3
@@ -1073,6 +1076,7 @@ saprast 3
 ģimene 3
 krievu 3
 meitenes 3
+ieradās 3
 padomu 3
 dzīve 3
 Istabā 3
@@ -1167,7 +1171,6 @@ teicis 3
 sliktas 3
 mūžībā 3
 dabas 3
-daudziem 3
 Austrāliju 3
 paliktu 3
 cauri 3
@@ -1261,7 +1264,6 @@ slieku 3
 māksla 3
 mierīgs 3
 reizes 3
-Esi 3
 tūkstošiem 3
 veida 3
 Elfi 3
@@ -1671,7 +1673,6 @@ Alkohols 2
 dzīvošu 2
 rūpnīcā 2
 Latvijā 2
-Itālijā 2
 okeānā 2
 Lauva 2
 šūpulis 2
@@ -1686,7 +1687,6 @@ pārpilnības 2
 smaidi 2
 talanta 2
 pieradis 2
-ieradās 2
 kustējās 2
 ģeogrāfiju 2
 dzīvniekiem 2
@@ -2106,6 +2106,7 @@ logu 2
 puse 2
 kara 2
 pacietīgs 2
+ķermeni 2
 brīža 2
 izņemot 2
 nepareizi 2
@@ -2330,8 +2331,10 @@ apsēja 2
 miežiem 2
 Pagriezies 2
 Rokas 2
+atslābinās 2
 sajutu 2
 cerēt 2
+prātu 2
 sociālā 2
 trauksme 2
 John 1
@@ -5382,7 +5385,6 @@ Esiet 1
 neatlaidīgs 1
 dārgakmeņi 1
 dziedēt 1
-ķermeni 1
 darīsim 1
 Mikroshēmu 1
 trūkums 1
@@ -7738,7 +7740,6 @@ apstiprini 1
 Uztaisi 1
 Jauka 1
 vanna 1
-atslābinās 1
 muskuļus 1
 attāluma 1
 saldo 1
@@ -7762,7 +7763,6 @@ sagaidi 1
 Var 1
 pārmaiņas 1
 notrulina 1
-prātu 1
 darīšana 1
 cita 1
 vaļasprieks 1
@@ -7817,3 +7817,17 @@ Praktizējiet 1
 higiēnu 1
 higiēnas 1
 līdzekļus 1
+nolamājos 1
+lādēt 1
+nolādēts 1
+saguris 1
+Neliels 1
+daudzums 1
+uzlabos 1
+asinsriti 1
+Rats 1
+griežas 1
+kāmis 1
+Pirrs 1
+armiju 1
+ziloņiem 1
