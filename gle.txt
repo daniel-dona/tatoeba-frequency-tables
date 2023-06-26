@@ -1,4 +1,4 @@
-an 637
+an 638
 Tá 608
 a 607
 mé 390
@@ -6,7 +6,7 @@ ag 381
 Is 326
 é 262
 ar 233
-sé 206
+sé 207
 tú 203
 go 202
 An 200
@@ -377,6 +377,7 @@ Ag 5
 Lá 5
 freagra 5
 aréir 5
+cheist 5
 Labhair 5
 Déanfaidh 5
 Le 5
@@ -472,7 +473,6 @@ dóigh 4
 t-am 4
 mórán 4
 anocht 4
-cheist 4
 Sílim 4
 Meiriceá 4
 anuas 4
@@ -609,6 +609,7 @@ amhránaí 3
 chloisteáil 3
 romhat 3
 Oíche 3
+D'fhreagair 3
 tábla 3
 t-arán 3
 cathracha 3
@@ -832,7 +833,6 @@ Maja 2
 Keuc 2
 ithim 2
 Fhrainc 2
-D'fhreagair 2
 "Go 2
 agat" 2
 "Ná 2

@@ -1,4 +1,4 @@
-je 793
+je 801
 Ali 218
 sem 150
 se 146
@@ -12,11 +12,11 @@ Govorite 86
 mesto 84
 da 83
 in 80
-so 75
+so 76
+na 75
 Ne 75
-na 74
 si 72
-To 64
+To 66
 glavno 62
 za 60
 mi 58
@@ -29,12 +29,12 @@ ime 44
 bo 42
 to 39
 bi 39
-moj 37
+moj 38
 me 35
 Koliko 35
 Kako 34
+bil 33
 lahko 32
-bil 31
 Sem 31
 govorim 31
 Kje 30
@@ -110,6 +110,7 @@ pomeni 12
 Prosim 11
 Moj 11
 biti 11
+Mi 11
 knjigo 11
 Zelo 11
 mora 11
@@ -124,7 +125,7 @@ imam 10
 o 10
 če 10
 Na 10
-Mi 10
+Moja 10
 ura 10
 Grem 10
 do 10
@@ -135,7 +136,6 @@ star 10
 življenje 10
 živali 10
 povedal 9
-Moja 9
 nikoli 9
 prišel 9
 ljudje 9
@@ -192,6 +192,7 @@ hoče 7
 vreme 7
 rusko 7
 malo 7
+vprašanje 7
 tega 7
 Nihče 7
 Bila 7
@@ -206,6 +207,7 @@ rekla 6
 domov 6
 imajo 6
 ljudi 6
+mama 6
 enega 6
 naredil 6
 Kakšno 6
@@ -216,7 +218,6 @@ le 6
 sosed 6
 Življenje 6
 rad 6
-vprašanje 6
 Dobro 6
 Me 6
 Voda 6
@@ -255,7 +256,6 @@ pomagal 5
 skrivnost 5
 srcem 5
 ljubim 5
-mama 5
 Vsak 5
 sam 5
 nisi 5
@@ -433,6 +433,7 @@ pošlje 4
 sto 4
 novice 4
 denar 4
+Sneg 4
 Slovenščina 4
 hvala 4
 Slovenija 4
@@ -483,6 +484,7 @@ Francije 4
 sreča 4
 Šrilanka 4
 otoška 4
+inteligentne 4
 žival 4
 Izgubil 3
 potni 3
@@ -575,6 +577,7 @@ nam 3
 Jack 3
 pismo 3
 prišla 3
+precej 3
 Angleščina 3
 Res 3
 majhno 3
@@ -629,6 +632,7 @@ Rim 3
 pomladi 3
 očem 3
 Tatoeba 3
+zlato 3
 dolgo 3
 mrtva 3
 ponedeljek 3
@@ -660,15 +664,16 @@ Kjer 3
 volja 3
 zaspana 3
 Tajpej 3
+Poljske 3
 Šrilanke 3
 Francozinja 3
-inteligentne 3
 Imejte 3
 uporabite 3
 čredne 3
 čredna 3
 Država 3
 inženirka 3
+globok 3
 Znaš 2
 Ujgur 2
 tebi 2
@@ -788,6 +793,7 @@ Nehaj 2
 tedna 2
 avtobus 2
 zmeraj 2
+čisto 2
 Glava 2
 Maria 2
 Nič 2
@@ -844,6 +850,7 @@ vsem 2
 mnogo 2
 Afriki 2
 Švica 2
+vredna 2
 Poznam 2
 kolikor 2
 Poskušam 2
@@ -873,7 +880,6 @@ vprašanja 2
 umira 2
 slaven 2
 Toliko 2
-precej 2
 tebe 2
 čela 2
 znoj 2
@@ -898,6 +904,7 @@ umit 2
 Spet 2
 rok 2
 Grozen 2
+idol 2
 ja 2
 pol 2
 Njihova 2
@@ -924,6 +931,7 @@ prevod 2
 uporablja 2
 delo 2
 pozabi 2
+Vemo 2
 sira 2
 Hiti 2
 tvoje 2
@@ -1014,6 +1022,7 @@ zadnje 2
 hitro 2
 učimo 2
 navijal 2
+besed 2
 Pogrešam 2
 Pohiti 2
 žal 2
@@ -1055,7 +1064,6 @@ Hvala 2
 Ponoči 2
 najde 2
 Čas 2
-zlato 2
 eden 2
 Oko 2
 oko 2
@@ -1118,6 +1126,7 @@ Zrak 2
 mrzel 2
 domovina 2
 čez 2
+tisoč 2
 trenutek 2
 Prepovedano 2
 Pozor 2
@@ -1158,7 +1167,6 @@ Tajvana 2
 Grčije 2
 Brasilia 2
 Brazilije 2
-Poljske 2
 Varšava 2
 Bangladeša 2
 Phnom 2
@@ -1182,6 +1190,7 @@ Italijanka 2
 Kitajka 2
 Kitajec 2
 papige 2
+ptice 2
 razum 2
 Žirafa 2
 najvišja 2
@@ -1621,7 +1630,6 @@ oženiti 1
 Čisto 1
 Njeno 1
 stanovanje 1
-čisto 1
 kitaro 1
 končal 1
 dolge 1
@@ -1841,7 +1849,6 @@ celodnevne 1
 hoje 1
 popolnoma 1
 kričite 1
-vredna 1
 obiska 1
 detajle 1
 malenkosti 1
@@ -2069,7 +2076,6 @@ kričal 1
 drl 1
 vpil 1
 jokal 1
-idol 1
 zdel 1
 sumljiv 1
 Spal 1
@@ -2220,7 +2226,6 @@ Prikimal 1
 noč 1
 Sneži 1
 prebrala 1
-Vemo 1
 rodila 1
 Kanadi 1
 rezino 1
@@ -2514,7 +2519,6 @@ sovražijo 1
 Verjemi 1
 situacija 1
 neprijetna 1
-besed 1
 Poklical 1
 Spati 1
 preseneča 1
@@ -2857,7 +2861,6 @@ drugim 1
 bratje 1
 Mleko 1
 sveže 1
-Sneg 1
 bel 1
 uradni 1
 Nizozemskem 1
@@ -3063,7 +3066,6 @@ staršev 1
 pišejo 1
 Tisti 1
 bere 1
-tisoč 1
 življenj 1
 filozofija 1
 poezija 1
@@ -3311,7 +3313,6 @@ Ljubite 1
 sovražnike 1
 Vaš 1
 Papige 1
-ptice 1
 Prašiči 1
 Delfini 1
 glasba 1
@@ -3380,3 +3381,9 @@ tigri 1
 gor 1
 Petek 1
 Vsakemu 1
+Slika 1
+vemo 1
+trd 1
+oreh 1
+vrane 1
+Odgovoril 1

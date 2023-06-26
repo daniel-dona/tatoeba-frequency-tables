@@ -30,7 +30,7 @@ It 229
 Tu 215
 ama 212
 posse 209
-a 208
+a 206
 tre 197
 por 185
 quo 184
@@ -467,7 +467,6 @@ verdi 10
 plesura 10
 arivar 10
 pigri 10
-time 10
 tren 10
 Interlingue 10
 sub 10
@@ -514,6 +513,7 @@ manus 9
 bentost 9
 mem 9
 proxim 9
+time 9
 restat 9
 medico 9
 via 9
@@ -3942,13 +3942,6 @@ abate 1
 intentet 1
 constructiones 1
 claustre 1
-Once 1
-upon 1
-there 1
-was 1
-poor 1
-pious 1
-girl 1
 satietá 1
 misere 1
 rascale 1

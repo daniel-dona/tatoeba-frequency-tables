@@ -1,5 +1,5 @@
-es 261
-Tom 145
+es 262
+Tom 148
 un 140
 El 103
 la 99
@@ -23,8 +23,8 @@ Me 38
 i 34
 ke 33
 און 32
+So 32
 pan 31
-So 30
 Mi 30
 לה 30
 kon 29
@@ -40,22 +40,23 @@ plaze 21
 אונה 21
 las 20
 me 19
+djudio 19
 gato 19
 Onde 19
 Esta 19
+Sos 18
 perro 18
 lingua 17
-djudio 17
-Sos 16
+Sosh 17
+djudios 16
 Dio 16
+Yo 16
 Somos 16
 Tengo 16
 אין 16
 לוס 16
 inglez 15
 kaza 15
-djudios 15
-Yo 15
 מי 15
 סו 15
 aki 14
@@ -68,8 +69,8 @@ Las 14
 preto 14
 Deke 14
 puerta 14
-Sosh 13
 era 13
+djudia 13
 ambezando 13
 איסטה 13
 komida 13
@@ -90,7 +91,6 @@ fue 11
 plazen 11
 ayi 11
 dos 11
-djudia 11
 Ke 11
 סון 11
 Trae 11
@@ -276,6 +276,7 @@ Tiene 4
 קירו 4
 אבﬞלאש 4
 ambos 4
+Ya 4
 santa 4
 sekular 4
 גﬞודﬞייו 4
@@ -292,6 +293,7 @@ yidish 4
 maymonas 4
 Durme 4
 bien 4
+ansi 4
 bolan 4
 muchachos 4
 limpia 4
@@ -404,7 +406,6 @@ ingleza 3
 palestiniana 3
 tenemos 3
 meldar 3
-Ya 3
 ירושלים 3
 סיקולאר 3
 לינגואה 3
@@ -459,6 +460,7 @@ kal 3
 tan 2
 syelo 2
 Yaakov 2
+komi 2
 kavesa 2
 kada 2
 diya 2
@@ -755,7 +757,6 @@ espejo 2
 אמור 2
 sinema 2
 gizo 2
-ansi 2
 Ansi 2
 Unos 2
 Djuga 2
@@ -794,8 +795,11 @@ abandonatesh 2
 Durmi 2
 dare 2
 asperando 2
+djudias 2
 Nos 2
 kudiamos 2
+bashitiko 2
+deskansava 2
 Deké 1
 tenésh 1
 kara 1
@@ -804,7 +808,6 @@ Mirava 1
 estreyeriya 1
 abrevó 1
 oveja 1
-komi 1
 anoche 1
 Metiya 1
 revolver 1
@@ -2050,7 +2053,6 @@ Nonika 1
 Aart 1
 rasistas 1
 sovre 1
-djudias 1
 muriran 1
 avokato 1
 muertos 1
@@ -2068,3 +2070,11 @@ Nada 1
 Mashiah 1
 משיח 1
 kales 1
+bashitika 1
+Deskansa 1
+Deskansando 1
+deskanso 1
+Deskansi 1
+Azlo 1
+Azelo 1
+Tomalo 1

@@ -4,15 +4,15 @@ ei 705
 Tom 571
 sa 410
 Kas 400
+Ta 315
 et 314
-Ta 314
 See 263
-ma 209
+ma 210
 seda 200
 oma 184
 see 174
 oli 155
-ja 147
+ja 148
 ole 143
 ta 140
 Sa 135
@@ -39,9 +39,9 @@ sulle 70
 sind 68
 tahan 68
 kõik 66
+meeldib 66
 su 65
 mida 65
-meeldib 65
 Minu 64
 Tomi 64
 siin 63
@@ -52,8 +52,8 @@ Kus 61
 Mida 58
 hea 58
 Mary 58
+Kes 56
 Mu 56
-Kes 55
 sinu 54
 ema 53
 mis 52
@@ -64,7 +64,7 @@ saa 49
 te 49
 teha 48
 me 46
-Mulle 45
+Mulle 46
 minna 44
 tea 44
 kunagi 44
@@ -101,12 +101,12 @@ koju 32
 räägi 32
 keegi 32
 olla 32
+teda 32
 rääkida 32
 hästi 31
 üle 31
 aega 31
 maja 31
-teda 31
 liiga 31
 keel 31
 Tema 30
@@ -135,12 +135,12 @@ nagu 26
 suur 26
 rohkem 26
 meie 25
+eest 25
+pärast 25
 või 25
 enam 25
 ka 24
-eest 24
 läheb 24
-pärast 24
 tahad 24
 kodus 23
 juba 23
@@ -183,6 +183,7 @@ vana 19
 sinuga 19
 alati 18
 ilma 18
+tuleb 18
 raamatut 18
 praegu 18
 taga 18
@@ -200,8 +201,8 @@ räägib 18
 läbi 17
 päev 17
 valmis 17
+sai 17
 tõesti 17
-tuleb 17
 tööd 17
 Ei 17
 lapsed 17
@@ -213,7 +214,6 @@ peaks 17
 iga 17
 meid 16
 palun 16
-sai 16
 end 16
 tuli 16
 saanud 16
@@ -221,6 +221,7 @@ Kass 16
 just 16
 kiiresti 16
 Need 16
+temaga 16
 öelda 16
 vastu 16
 minust 16
@@ -237,7 +238,6 @@ lähen 15
 enda 15
 kinni 15
 õhtul 15
-temaga 15
 teeb 15
 üks 15
 aidata 15
@@ -320,8 +320,10 @@ Räägi 12
 üksi 11
 kohe 11
 kirja 11
+Selle 11
 Head 11
 Täna 11
+Isa 11
 vend 11
 lahti 11
 elu 11
@@ -344,12 +346,10 @@ läksin 10
 külm 10
 kuus 10
 juurde 10
-Selle 10
 varem 10
 pealinn 10
 head 10
 osta 10
-Isa 10
 poleks 10
 käib 10
 loomad 10
@@ -396,6 +396,7 @@ hõivatud 9
 ütleb 9
 Kuhu 9
 asi 9
+vihma 9
 piisavalt 9
 Vabandust 9
 sisse 9
@@ -454,7 +455,6 @@ kõrval 8
 Aitäh 8
 tahtsin 8
 korra 8
-vihma 8
 peaksin 8
 tõenäoliselt 8
 kirjutas 8
@@ -550,6 +550,7 @@ tahtis 7
 Tänan 7
 Hei 7
 inimesi 7
+aastal 7
 rääkima 7
 joo 7
 kardina 7
@@ -641,7 +642,6 @@ koht 6
 üsna 6
 tõusma 6
 poodi 6
-aastal 6
 Joon 6
 lõpus 6
 poola 6
@@ -752,6 +752,7 @@ naerma 5
 suletud 5
 teisi 5
 keeli 5
+Võib-olla 5
 söö 5
 Ainult 5
 muud 5
@@ -840,6 +841,7 @@ ega 4
 kuulus 4
 kurb 4
 lemmik 4
+abiellus 4
 selgelt 4
 tappis 4
 Prantsusmaa 4
@@ -940,7 +942,6 @@ noorem 4
 Huvitav 4
 Õpi 4
 õhtusööki 4
-Võib-olla 4
 korras 4
 arvates 4
 esperanto 4
@@ -976,6 +977,7 @@ tänu 4
 korrusel 4
 kõigest 4
 duši 4
+maksan 4
 üritan 4
 alles 4
 uskuda 4
@@ -1077,7 +1079,6 @@ paistab 3
 karpi 3
 ilusad 3
 poja 3
-abiellus 3
 võita 3
 lugenud 3
 Euroopa 3
@@ -1103,6 +1104,7 @@ kodust 3
 olemas 3
 lauset 3
 kõlab 3
+maa 3
 küsimusi 3
 laual 3
 õun 3
@@ -1217,6 +1219,7 @@ ootasin 3
 igatsen 3
 võimalust 3
 aitas 3
+küsimusele 3
 vanad 3
 omale 3
 toitu 3
@@ -1322,7 +1325,6 @@ aeda 3
 sellele 3
 andsin 3
 loe 3
-maksan 3
 pühapäeviti 3
 neil 3
 palli 3
@@ -1559,7 +1561,6 @@ seisuga 2
 kolmkümmend 2
 pühapäev 2
 aednik 2
-maa 2
 igavesti 2
 Kõige 2
 Tatoeba 2
@@ -1788,7 +1789,6 @@ kõnet 2
 silmi 2
 Maril 2
 tuua 2
-küsimusele 2
 pruut 2
 hüüdnime 2
 aitama 2
@@ -1925,6 +1925,7 @@ aadress 2
 millest 2
 plaanis 2
 ohtlik 2
+vastas 2
 lubas 2
 õhtusöögi 2
 kontrolli 2
@@ -2115,6 +2116,7 @@ berberi 2
 hullem 2
 nelja 2
 lõvi 2
+Prantsuse 2
 imelikult 2
 veerand 2
 kassid 2
@@ -4020,7 +4022,6 @@ onju 1
 kasvanud 1
 tunnustavalt 1
 heakskiitu 1
-vastas 1
 seesama 1
 turvaline 1
 Enam 1
@@ -4756,7 +4757,6 @@ kust 1
 sünnist 1
 saati 1
 lõhnavad 1
-Prantsuse 1
 Kurdi 1
 Berberi 1
 Ungari 1
@@ -6320,3 +6320,10 @@ neliteist 1
 kolmandal 1
 abivalmis 1
 internetti 1
+lõhn 1
+peksis 1
+Afarite 1
+Issade 1
+Territooriumist 1
+1977 1
+Djibouti 1

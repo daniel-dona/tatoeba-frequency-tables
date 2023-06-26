@@ -27,7 +27,7 @@ kam 65
 janë 65
 Do 64
 mund 63
-Ai 61
+Ai 62
 E 59
 nga 58
 ishte 55
@@ -329,6 +329,7 @@ kem 6
 Na 6
 fat 6
 bëjë 6
+përgjigj 6
 sigurt 6
 ja 6
 madh 6
@@ -405,7 +406,6 @@ humbur 5
 krenar 5
 njerëz 5
 brenda 5
-përgjigj 5
 dije 5
 Francë 5
 bënte 5
@@ -533,6 +533,7 @@ shpejt 3
 Ditën 3
 gur 3
 vini 3
+pyetjes 3
 syzet 3
 kënaqur 3
 vërtet 3
@@ -774,7 +775,7 @@ Mirëdita 2
 Ndjeva 2
 falni 2
 ora 2
-pyetjes 2
+iu 2
 bëra 2
 film 2
 provoi 2
@@ -1368,7 +1369,6 @@ goxha 1
 prej 1
 tepër 1
 Yangzi 1
-iu 1
 shmang 1
 kompani 1
 nënshkruar 1

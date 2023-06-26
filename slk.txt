@@ -5,7 +5,7 @@ Tom 1609
 si 1514
 to 1307
 že 1084
-na 994
+na 995
 v 764
 a 603
 mi 508
@@ -650,6 +650,7 @@ skôr 16
 hovoríš 16
 nevedel 16
 Bolí 16
+otázku 16
 Vie 16
 minulý 16
 pohár 16
@@ -683,7 +684,6 @@ tvoju 15
 roky 15
 budeme 15
 hudbu 15
-otázku 15
 Myslíš 15
 slová 15
 syr 15
@@ -4938,6 +4938,7 @@ dýchaním 2
 Utiekol 2
 Zaspal 2
 pohode 2
+Odpovedal 2
 Čítali 2
 Chlapci 2
 Rusko 2
@@ -9720,7 +9721,6 @@ Modlím 1
 Kúpem 1
 Kúpal 1
 Námietka 1
-Odpovedal 1
 Plával 1
 Osprchoval 1
 Chrápal 1

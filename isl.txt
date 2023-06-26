@@ -6,7 +6,7 @@ er 3121
 ekki 1645
 ég 867
 Það 858
-Hann 794
+Hann 795
 til 769
 og 731
 það 694
@@ -943,6 +943,7 @@ sinna 10
 sofið 10
 spurninga 10
 vön 10
+spurningunni 10
 „Nei 10
 bera 10
 snéri 10
@@ -1037,7 +1038,6 @@ tilbúin 9
 sofandi 9
 lá 9
 vekja 9
-spurningunni 9
 versta 9
 ána 9
 hrifinn 9
@@ -1424,6 +1424,7 @@ Frá 7
 Kjótó 7
 drakk 7
 einhvers 7
+svaraði 7
 éta 7
 súpuna 7
 Jóni 7
@@ -1643,7 +1644,6 @@ vikur 6
 jólin 6
 slysi 6
 spænsku 6
-svaraði 6
 málaði 6
 verk 6
 þekkti 6

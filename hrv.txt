@@ -1,10 +1,10 @@
-je 1606
+je 1607
 se 599
 u 539
 sam 451
 da 409
 li 385
-na 316
+na 317
 ne 277
 Tom 271
 i 230
@@ -272,6 +272,7 @@ Budi 14
 hladno 14
 žene 14
 koliko 14
+pitanje 13
 jednom 13
 Moraš 13
 Nitko 13
@@ -287,7 +288,6 @@ možemo 13
 stvari 13
 nisi 13
 znao 13
-pitanje 12
 dva 12
 Zar 12
 imaju 12
@@ -1938,6 +1938,7 @@ diskriminacije 2
 Živi 2
 posjetili 2
 živce 2
+Odgovorio 2
 smiješkom 2
 bit 2
 održava 2
@@ -3686,7 +3687,6 @@ elevatore 1
 "liftovima" 1
 Učinjena 1
 pogreška 1
-Odgovorio 1
 pokloniti 1
 učitelju 1
 glavnu 1

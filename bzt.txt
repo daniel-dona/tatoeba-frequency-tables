@@ -1,4 +1,4 @@
-es 115
+es 116
 Eo 87
 rhen 60
 yn 58
@@ -125,6 +125,7 @@ abit 3
 Ierusalem 3
 ngwidd 3
 h-ugell 3
+Pab 3
 Ceosath 3
 Ceos 3
 fryd 2
@@ -207,7 +208,6 @@ dif 2
 min 2
 comiwnist 2
 h-enifal 2
-Pab 2
 Si 2
 ia 2
 leir 2
@@ -566,3 +566,5 @@ negyn 1
 fi 1
 Ô 1
 aydaf 1
+cos 1
+politig 1
