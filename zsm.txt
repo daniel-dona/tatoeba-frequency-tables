@@ -1,8 +1,8 @@
-Saya 1406
+Saya 1407
 saya 1264
 Tom 1140
 yang 1139
-tidak 1105
+tidak 1106
 di 707
 awak 701
 itu 615
@@ -35,7 +35,7 @@ kamu 173
 pada 171
 Adakah 170
 dari 159
-lebih 158
+lebih 159
 perlu 158
 lagi 151
 rumah 147
@@ -44,10 +44,10 @@ makan 144
 bahawa 144
 seorang 143
 bahasa 138
-mereka 133
+mereka 134
 mempunyai 130
 kami 121
-daripada 119
+daripada 120
 sangat 119
 pernah 119
 tak 115
@@ -209,12 +209,12 @@ sekali 34
 meminta 34
 mampu 34
 semasa 34
+kecil 33
 katakan 33
 bertanya 33
 tiba 33
 tapi 33
 Tolong 32
-kecil 32
 pagi 32
 tangan 32
 berapa 32
@@ -430,6 +430,7 @@ mengapa 17
 دڠن 17
 mengetahui 16
 dengar 16
+hijau 16
 marah 16
 gadis 16
 Terdapat 16
@@ -454,7 +455,6 @@ komputer 15
 jauh 15
 lagu 15
 membayar 15
-hijau 15
 dulu 15
 mahal 15
 minit 15
@@ -555,6 +555,7 @@ dinding 12
 Biar 12
 buruk 12
 bermula 12
+merah 12
 berubah 12
 Rumah 12
 haiwan 12
@@ -591,7 +592,6 @@ stesen 11
 sehari 11
 ahli 11
 raya 11
-merah 11
 budak 11
 laut 11
 Ayah 11
@@ -2180,6 +2180,7 @@ digantung 2
 terserempak 2
 membohong 2
 garpu 2
+Epal 2
 Linux 2
 mencubanya 2
 tertumpah 2
@@ -3315,7 +3316,6 @@ Tirai 1
 naikkan 1
 Perkataan 1
 dipinjam 1
-Epal 1
 Bawanya 1
 SSH 1
 mengakses 1
@@ -7474,3 +7474,4 @@ jual 1
 kecik 1
 flora 1
 fauna 1
+mengheret 1

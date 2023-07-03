@@ -1,5 +1,5 @@
 do 3246
-zou 1170
+zou 1171
 di 948
 no 886
 i 776
@@ -32,7 +32,7 @@ tuhun 155
 daa 150
 kumaa 148
 zikoi 148
-Au' 147
+Au' 148
 tokou 140
 tu 137
 boos 136
@@ -1397,6 +1397,7 @@ pitomuvan 3
 humavan 3
 puu 3
 oosin 3
+dootiho 3
 Tiugad 3
 vinantang 3
 bus 3
@@ -2027,7 +2028,6 @@ tumos 2
 tumakad 2
 tososogit 2
 Zealand 2
-dootiho 2
 Mongukab 2
 posodiaan 2
 Nahandai 2
@@ -6589,3 +6589,4 @@ flora 1
 fauna 1
 Kikohoilanan 1
 Ovito 1
+minggazat 1

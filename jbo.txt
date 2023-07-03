@@ -1,12 +1,12 @@
 lo 12538
 mi 5886
-cu 3332
+cu 3335
 do 3315
 la 2551
 pu 2257
 nu 2105
-le 2003
-se 1864
+le 2004
+se 1865
 na 1590
 be 1312
 i 1264
@@ -24,7 +24,7 @@ klama 651
 ti 618
 ba 569
 du'u 543
-ro 518
+ro 519
 poi 495
 djica 487
 citka 479
@@ -71,13 +71,13 @@ re 209
 bu'u 208
 bangu 207
 gi'e 203
+gerku 201
 je 201
-gerku 199
 kakne 197
 au 192
 melbi 182
 nitcu 176
-xamgu 175
+xamgu 176
 karce 174
 mlatu 174
 dunda 173
@@ -92,10 +92,10 @@ xabju 155
 fe 151
 kau 149
 fetsi 148
+lo'e 147
 sidju 146
 ku'i 146
 pendo 146
-lo'e 146
 ralte 146
 gleki 145
 e 145
@@ -697,6 +697,7 @@ si'au 19
 no'e 18
 pi'o 18
 jbera 18
+mergu'e 18
 ca'a 18
 ken 18
 mapku 18
@@ -713,6 +714,7 @@ paris 18
 famti 18
 porpi 18
 pipno 18
+bi'u 18
 xotli 18
 lai 18
 cmila 18
@@ -729,7 +731,6 @@ ce'o 17
 tcaci 17
 kerlo 17
 ua 17
-mergu'e 17
 blaci 17
 tordu 17
 ru'i 17
@@ -745,7 +746,6 @@ bakni 17
 di'i 17
 za'ure'u 17
 lazni 17
-bi'u 17
 bartu 17
 puzi 17
 stati 17
@@ -3038,6 +3038,7 @@ krirmsa 2
 bolgrijvi 2
 fesygau 2
 gugde'inu 2
+bropre 2
 la'orbau 2
 du'eva'e 2
 cemci'e 2
@@ -6291,7 +6292,6 @@ xulbukgau 1
 tacdu 1
 tilvi'a 1
 Hitler 1
-bropre 1
 ju'ocu'idai 1
 fricau 1
 stegosauru 1
@@ -6464,3 +6464,5 @@ xango 1
 xalas 1
 surdei 1
 rexsa 1
+smere 1
+natmi 1

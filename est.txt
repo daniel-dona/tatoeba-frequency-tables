@@ -1,4 +1,4 @@
-on 1374
+on 1376
 Ma 877
 ei 705
 Tom 571
@@ -21,7 +21,7 @@ Mul 130
 kui 122
 Me 120
 keelt 119
-väga 117
+väga 118
 pole 111
 mulle 97
 oled 95
@@ -38,7 +38,7 @@ Kui 73
 sulle 70
 sind 68
 tahan 68
-kõik 66
+kõik 67
 meeldib 66
 su 65
 mida 65
@@ -130,11 +130,11 @@ mul 27
 koos 27
 kolm 27
 sõber 27
+meie 26
 ainult 26
 nagu 26
 suur 26
 rohkem 26
-meie 25
 eest 25
 pärast 25
 või 25
@@ -231,6 +231,7 @@ peab 15
 andis 15
 õde 15
 kell 15
+jaoks 15
 kõige 15
 arvad 15
 väike 15
@@ -248,7 +249,6 @@ kord 14
 ühe 14
 tüdruk 14
 raamat 14
-jaoks 14
 Mitte 14
 kuidas 14
 elan 14
@@ -629,6 +629,7 @@ dollarit 6
 filmi 6
 räägime 6
 vahel 6
+oluline 6
 kana 6
 teavad 6
 Tahaksin 6
@@ -756,7 +757,6 @@ Võib-olla 5
 söö 5
 Ainult 5
 muud 5
-oluline 5
 asjad 5
 ümber 5
 paar 5
@@ -1109,6 +1109,7 @@ küsimusi 3
 laual 3
 õun 3
 avatud 3
+Grammatika 3
 härra 3
 rääkisin 3
 jooksis 3
@@ -1580,7 +1581,6 @@ korteris 2
 elektrit 2
 tellinud 2
 jaama 2
-Grammatika 2
 rong 2
 sõja 2
 esitatud 2
@@ -6327,3 +6327,4 @@ Issade 1
 Territooriumist 1
 1977 1
 Djibouti 1
+Perekond 1

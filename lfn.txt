@@ -1,16 +1,16 @@
-es 6382
+es 6384
 la 5684
 ia 4975
 de 3787
-un 3446
+un 3447
 ла 2802
 ес 2729
-Me 2682
+Me 2683
 иа 2153
 no 2067
 де 1874
 a 1822
-La 1813
+La 1814
 Tom 1803
 en 1691
 ун 1365
@@ -172,9 +172,9 @@ bevi 130
 тота 130
 pos 129
 ancora 129
+sempre 128
 madre 128
 Perce 128
-sempre 127
 та 125
 dia 124
 виде 124
@@ -199,9 +199,9 @@ Tota 113
 Mary 113
 ма 113
 аси 111
+usa 109
 leje 109
 nosa 109
-usa 108
 гранде 108
 nova 107
 Лос 107
@@ -567,6 +567,7 @@ intelijentia 36
 parte 35
 sinco 35
 Nun 35
+vende 35
 vola 35
 completa 35
 oposor 35
@@ -582,7 +583,6 @@ estra 34
 reveni 34
 tarda 34
 poca 34
-vende 34
 umanas 34
 Jonguo 34
 pico 34
@@ -653,6 +653,7 @@ Bon 30
 plen 30
 sesa 30
 neva 30
+nasion 30
 весес 30
 пасада 30
 перде 30
@@ -671,7 +672,6 @@ Rusia 29
 pone 29
 coce 29
 sude 29
-nasion 29
 vinse 29
 des 29
 clui 29
@@ -683,6 +683,7 @@ New 29
 фрасес 29
 фасил 29
 флорес 29
+coreta 28
 animal 28
 corpo 28
 temprana 28
@@ -698,7 +699,6 @@ juores 28
 енсениор 28
 Paris 27
 aseta 27
-coreta 27
 leva 27
 pinti 27
 Asta 27
@@ -2431,6 +2431,7 @@ raconta 6
 publici 6
 rua 6
 impresa 6
+Elefantes 6
 sorda 6
 gamas 6
 Lodas 6
@@ -2788,7 +2789,6 @@ jovedi 5
 Soldi 5
 Pluto 5
 mental 5
-Elefantes 5
 termas 5
 musical 5
 Felisia 5
@@ -3368,6 +3368,7 @@ Bob 4
 Pexes 4
 lageta 4
 dudes-un 4
+utiles 4
 in 4
 limita 4
 foles 4
@@ -4063,7 +4064,6 @@ isolas 3
 selebrada 3
 vejetales 3
 Tremateras 3
-utiles 3
 romantica 3
 vidores 3
 aplaudi 3
@@ -4914,6 +4914,7 @@ soreta 3
 e4 3
 maneras 3
 posas 3
+Iudis 3
 Куалкун 3
 troglodites 3
 aspetas 3
@@ -6924,7 +6925,6 @@ anjeles 2
 sena 2
 сена 2
 consisa 2
-Iudis 2
 noncomun 2
 casca 2
 каска 2
@@ -7067,6 +7067,7 @@ imita 2
 algoritmo 2
 rexerca 2
 Parola 2
+propano 2
 Divin 2
 dilijente 2
 abiso 2
@@ -9997,4 +9998,3 @@ piniti 1
 регалада 1
 формикас 1
 акусадас 1
-тури 1

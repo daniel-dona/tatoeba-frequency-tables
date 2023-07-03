@@ -169,7 +169,6 @@ mupya 133
 batu 133
 « 133
 mtoto 132
-Ali 130
 Nilikuwa 130
 Marie 129
 au 128
@@ -177,6 +176,7 @@ kitabu 128
 weye 128
 anaweza 128
 haiko 128
+Ali 128
 kupata 127
 bitu 126
 nilikuwa 126
@@ -1248,7 +1248,6 @@ kuogelea 20
 Yote 20
 kufunga 20
 kuume 20
-i 20
 kupotea 20
 Bakia 20
 budongo 20
@@ -1305,6 +1304,7 @@ kumu 19
 kabati 19
 tamasha 19
 kuchagua 19
+i 19
 funga 19
 wadogo 19
 Maoni 19
@@ -2225,7 +2225,6 @@ maonyesho 11
 kitakuwa 11
 kondoo 11
 mzee 11
-Ha 11
 nikuwe 11
 unatafuta 11
 Luga 11
@@ -2423,7 +2422,7 @@ ukingo 10
 inatokea 10
 nae 10
 angekuwa 10
-ha 10
+Ha 10
 tendo 10
 aliandika 10
 rudi 10
@@ -2675,6 +2674,7 @@ Kijerumani 9
 Pale 9
 kutawala 9
 Haki 9
+ha 9
 mtakatifu 9
 unaonekana 9
 alimwambia 9
@@ -3386,7 +3386,6 @@ minapashwa 7
 liyayi 7
 watumishi 7
 c 7
-e 7
 s 7
 Haungepashwa 7
 Wagiriki 7
@@ -3874,6 +3873,7 @@ unachotaka 6
 aliingia 6
 unanipenda 6
 b 6
+e 6
 kodi 6
 Napashwa 6
 à 6
@@ -4291,7 +4291,6 @@ mapigo 5
 mwangika 5
 ilileta 5
 uwawa 5
-E 5
 yanaweza 5
 umiya 5
 kijerumani 5
@@ -5076,6 +5075,7 @@ kupewa 4
 visi 4
 Ruka 4
 Alijua 4
+E 4
 Muungano 4
 Tina 4
 kichekesho 4

@@ -1,13 +1,13 @@
 le 12861
-es 8046
-un 6860
+es 8048
+un 6863
 de 6855
-Le 4823
-ha 4742
+Le 4824
+ha 4743
 in 4314
 que 3879
 non 3726
-Io 3550
+Io 3552
 e 2932
 del 2931
 a 2654
@@ -19,7 +19,7 @@ al 1547
 su 1516
 se 1507
 Il 1443
-Tom 1382
+Tom 1383
 pro 1362
 lo 1289
 con 1230
@@ -109,7 +109,7 @@ Illo 243
 A 240
 quando 240
 lor 240
-son 234
+son 235
 annos 233
 hic 228
 cosa 226
@@ -117,7 +117,7 @@ cosa 226
 Su 223
 dice 220
 mal 219
-sempre 216
+sempre 217
 diceva 214
 morte 210
 inter 210
@@ -268,7 +268,7 @@ parte 99
 circa 98
 omne 98
 viver 98
-ration 96
+ration 97
 existe 96
 opinion 96
 etiam 95
@@ -429,6 +429,7 @@ comprava 60
 travalio 60
 verso 59
 cinque 59
+usa 59
 dece 59
 orange 59
 visibile 59
@@ -446,7 +447,6 @@ tassa 57
 strata 57
 insimul 57
 Con 57
-usa 57
 odia 57
 re 57
 Dice 57
@@ -1546,6 +1546,7 @@ Anque 16
 necessitate 16
 gratuite 16
 observa 16
+nation 16
 purpuree 16
 responde 16
 intentiones 16
@@ -1642,7 +1643,6 @@ Necun 15
 intra 15
 curiositate 15
 occide 15
-nation 15
 danese 15
 logic 15
 grammatica 15
@@ -3179,6 +3179,7 @@ Caesare 7
 miaula 7
 fascistas 7
 junkie 7
+judeo 7
 Istos 7
 bipolar 7
 Porcos 7
@@ -3197,6 +3198,7 @@ costumes 6
 tornava 6
 pronunciar 6
 calcettas 6
+partito 6
 ursos 6
 applica 6
 regno 6
@@ -3609,7 +3611,6 @@ palestine 6
 dracon 6
 W 6
 Bush 6
-judeo 6
 nudista 6
 francese" 6
 "No" 6
@@ -3637,7 +3638,6 @@ skiar 5
 accessibile 5
 meliorar 5
 pulsava 5
-partito 5
 superflue 5
 presto 5
 dicto 5
@@ -6675,6 +6675,7 @@ Alicunes 3
 transhumanista 3
 redole 3
 Statouniteses 3
+judea 3
 Karl 3
 factual 3
 solera 3
@@ -6698,6 +6699,8 @@ philippin 3
 Taiwan 3
 camouflage 3
 reparava 3
+Judeos 3
+Elephantes 3
 Arbores 3
 creol 3
 haitian 3
@@ -8249,6 +8252,7 @@ turbate 2
 premeva 2
 excitate 2
 hall 2
+utensiles 2
 tremer 2
 detene 2
 exopero 2
@@ -9602,7 +9606,6 @@ feminista 2
 Animistas 2
 singultava 2
 Selige 2
-judea 2
 crack 2
 hoc 2
 meliorisar 2
@@ -9640,12 +9643,10 @@ sabe 2
 toki 2
 pona 2
 n 2
-Judeos 2
 Randi 2
 hemisphera 2
 sinophobic 2
 nucleari 2
-Elephantes 2
 bipede 2
 implumose 2
 interslavo 2
@@ -9997,4 +9998,3 @@ Granmatre 1
 delecta 1
 Planifica 1
 Sato 1
-Rememoration 1

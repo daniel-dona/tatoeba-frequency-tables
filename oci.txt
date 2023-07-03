@@ -10,7 +10,7 @@ un 485
 es 411
 Tòm 308
 son 248
-e 245
+e 244
 en 229
 una 224
 Que 216
@@ -26,7 +26,7 @@ per 142
 Soi 141
 se 140
 Èi 136
-ua 117
+ua 116
 soi 113
 plan 112
 cau 112
@@ -77,7 +77,7 @@ aqueste 60
 Qu'èi 59
 cap 57
 Se 56
-o 56
+o 55
 ton 55
 tròp 54
 Quan 53
@@ -1331,7 +1331,6 @@ Sap 4
 canton 4
 telefonet 4
 Sami 4
-O 4
 L'ai 4
 dire 4
 el 3
@@ -1751,6 +1750,7 @@ vidèos 3
 potonejan 3
 mauaisida 3
 Vòles 3
+O 3
 Deuriái 3
 qu'èras 3
 pus 3
@@ -2052,7 +2052,6 @@ sègle 2
 s'as 2
 idèias 2
 partits 2
-lava 2
 importantas 2
 deishudat 2
 lheit 2
@@ -3619,6 +3618,7 @@ sofrir 1
 escrivan 1
 Atenguètz 1
 qu'estóssitz 1
+lava 1
 vaishèra 1
 Oscar 1
 Saitmana 1
@@ -7296,10 +7296,4 @@ Accion 1
 Gaireben 1
 Naturalament 1
 Estúdia 1
-lea 1
-lau 1
-'ai 1
-pe 1
-fia'ai 1
-pea 1
 bondi 1

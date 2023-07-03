@@ -1,4 +1,4 @@
-ir 1081
+ir 1082
 Es 645
 Toms 416
 ka 315
@@ -56,7 +56,7 @@ viņam 45
 kaut 45
 būt 44
 jau 44
-mums 43
+mums 44
 darīt 43
 patīk 42
 kad 42
@@ -225,6 +225,7 @@ tam 13
 tiek 13
 domā 13
 varat 13
+viss 13
 pateicīgs 13
 dzīvot 12
 māja 12
@@ -243,7 +244,6 @@ vārds 12
 sāka 12
 ēst 12
 dzīvi 12
-viss 12
 kādreiz 12
 Janni 12
 Paldies 11
@@ -7831,3 +7831,4 @@ kāmis 1
 Pirrs 1
 armiju 1
 ziloņiem 1
+Ģimene 1
