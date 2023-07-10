@@ -7,8 +7,8 @@ du 394
 eta 348
 zuen 282
 egin 272
-naiz 264
-zen 263
+naiz 266
+zen 264
 dago 228
 Tom 228
 nahi 223
@@ -21,7 +21,7 @@ izan 164
 hori 147
 Nire 143
 nuen 140
-ari 135
+ari 137
 hau 132
 esan 128
 bere 128
@@ -130,6 +130,7 @@ gaur 31
 orain 30
 Zergatik 30
 duela 30
+jaten 30
 gertatu 30
 guztia 29
 nuke 29
@@ -138,7 +139,6 @@ egiteko 28
 nahiko 28
 galdu 28
 zenuen 28
-jaten 28
 lehen 28
 honetan 28
 Layla 28
@@ -253,13 +253,13 @@ batzuk 16
 Atzo 16
 eskolara 16
 baduzu 16
+Nor 16
 gogoko 16
 esango 16
 irakurtzen 15
 mina 15
 dirua 15
 berriro 15
-Nor 15
 Benetan 15
 munduko 15
 hamar 15
@@ -858,6 +858,7 @@ nor 5
 jateko 5
 eguna 5
 mutila 5
+haiz 5
 horra 5
 eskerrik 5
 "Zer 5
@@ -1098,7 +1099,6 @@ behin 4
 begiratzen 4
 Milesker 4
 ezak 4
-haiz 4
 zabiltza 4
 Urte 4
 bakar 4
@@ -1522,6 +1522,7 @@ ateratzen 3
 idatzita 3
 laguntzeko 3
 blai 3
+Irakaslea 3
 garagardoa 3
 norekin 3
 hizketan 3
@@ -2287,7 +2288,6 @@ iraungo 2
 niola 2
 Zuzen 2
 zaudela 2
-Irakaslea 2
 dituela 2
 gorra 2
 literatura 2
@@ -2445,6 +2445,7 @@ Bide 2
 azkenaldian 2
 badakite 2
 adostu 2
+Afaria 2
 Denda 2
 beldurtuta 2
 Gezurra 2
@@ -5557,7 +5558,6 @@ Faktura 1
 Geltokirako 1
 irakaslearekin 1
 Datak 1
-Afaria 1
 pronto 1
 dagoenez 1
 dugunean 1
@@ -8542,3 +8542,5 @@ dezala 1
 Demetrio 1
 Quebec 1
 Askatuta 1
+hi 1
+Sagarra 1

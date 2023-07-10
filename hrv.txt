@@ -42,9 +42,9 @@ ima 58
 Tko 57
 Je 51
 bih 51
+sve 50
 ići 50
 Mary 50
-sve 49
 još 49
 kako 48
 dobro 48
@@ -666,6 +666,7 @@ njom 6
 Voliš 6
 Naš 6
 Sutra 6
+noć 6
 Nazovi 6
 stalno 6
 mati 6
@@ -794,6 +795,7 @@ svoga 5
 ljudima 5
 tog 5
 ustajati 5
+ 5
 osoba 5
 Prestani 5
 novog 5
@@ -810,6 +812,7 @@ pokazao 5
 zaustaviti 5
 razredu 5
 Odmah 5
+spava 5
 brini 5
 novine 5
 kraja 5
@@ -1010,7 +1013,6 @@ onda 4
 Sunce 4
 uskoro 4
 svakog 4
- 4
 država 4
 ljeti 4
 kave 4
@@ -1034,13 +1036,11 @@ slijep 4
 djed 4
 želite 4
 nikoga 4
-spava 4
 odjeću 4
 trenutno 4
 Reći 4
 uvjeriti 4
 Vidjeli 4
-noć 4
 potrošio 4
 pokazati 4
 Učitelj 4
@@ -1661,6 +1661,7 @@ njezinu 2
 Izgubila 2
 Odlučila 2
 Tatoeba: 2
+sveta 2
 brza 2
 proizvod 2
 oblaka 2
@@ -2851,7 +2852,6 @@ plivao 1
 Kažem 1
 brinut 1
 detalje 1
-sveta 1
 kazna 1
 takvom 1
 cijenom 1
@@ -8078,3 +8078,4 @@ tepih 1
 Gledate 1
 šalicu 1
 bije 1
+Tiha 1

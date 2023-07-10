@@ -6,9 +6,9 @@ ja 27
 oli 24
 Hän 17
 Met 16
+ole 16
 Mie 15
-ole 15
-se 14
+se 15
 Tämä 13
 tahi 12
 ko 11
@@ -60,6 +60,7 @@ tärkkee 4
 kahđeksen 4
 yhđeksen 4
 sie 4
+nokko 4
 aijan 3
 kieli 3
 hyväksythiin 3
@@ -114,7 +115,6 @@ ihmissii 3
 kväänikansan 3
 saattaa 3
 kothiin 3
-nokko 3
 vailuu 3
 Nyt 3
 kala 3
@@ -1334,3 +1334,4 @@ nykyaikhainen 1
 pistokontakti 1
 Totinen 1
 tosi 1
+Eikö 1

@@ -73,8 +73,8 @@ ale 106
 knihu 105
 už 104
 nič 101
+všetko 101
 jeho 100
-všetko 100
 Ja 99
 On 98
 Nikdy 94
@@ -173,6 +173,7 @@ Včera 52
 Nič 52
 Boh 52
 či 52
+knihy 52
 máš 51
 moje 51
 istý 51
@@ -184,7 +185,6 @@ bez 51
 stále 50
 svoju 50
 pred 50
-knihy 50
 hovoriť 49
 tvoj 48
 mám 48
@@ -292,6 +292,7 @@ vlasy 33
 pes 33
 Moje 33
 skoro 33
+noc 33
 nemá 33
 mačka 33
 Musíte 33
@@ -310,7 +311,6 @@ Urobil 31
 prácu 31
 seba 31
 svoj 31
-noc 31
 hrdý 31
 robí 31
 Povedzte 31
@@ -551,6 +551,7 @@ ruky 19
 kvety 19
 S 19
 prvý 19
+spí 19
 života 19
 chybu 19
 nepovedal 19
@@ -583,7 +584,6 @@ vety 18
 My 18
 napísal 18
 Vyzerá 18
-spí 18
 mesta 18
 nimi 18
 denník 18
@@ -878,6 +878,7 @@ jedlo 12
 otázok 12
 stať 12
 pláži 12
+prekvapenie 12
 čom 12
 obľúbená 12
 bojí 12
@@ -1053,7 +1054,6 @@ rozprávať 10
 slov 10
 Vlak 10
 bohatý 10
-prekvapenie 10
 kuchyni 10
 Niečo 10
 letisko 10
@@ -1748,6 +1748,7 @@ Urobím 6
 rozoznať 6
 anjel 6
 niekým 6
+čítate 6
 dajte 6
 Nepovedal 6
 Nevidel 6
@@ -2087,7 +2088,6 @@ odpovede 5
 dobrým 5
 trvá 5
 „Ako 5
-čítate 5
 Nepijem 5
 lyžice 5
 slovanské 5
@@ -3071,6 +3071,7 @@ zásady 3
 Tomovou 3
 paličkami 3
 hrubú 3
+nesprávne 3
 dobrí 3
 smädná 3
 Večera 3
@@ -3377,6 +3378,7 @@ prídavné 3
 Pi 3
 nerozumel 3
 vlastnej 3
+ 3
 osemdesiat 3
 modlitby 3
 Pridajte 3
@@ -3444,6 +3446,7 @@ vlastní 3
 Stanica 3
 stoličke 3
 hľadal 3
+Čítaš 3
 odborník 3
 veterno 3
 urobíte 3
@@ -4095,6 +4098,7 @@ Wikipédii 2
 voľný 2
 osamelý 2
 toľkokrát 2
+Tichá 2
 myje 2
 tráve 2
 reštaurácii 2
@@ -4250,7 +4254,6 @@ hľadel 2
 šperky 2
 babky 2
 Viac 2
-nesprávne 2
 kuchári 2
 nepomáhajú 2
 zrejme 2
@@ -4757,6 +4760,7 @@ Biedny 2
 „áno“ 2
 „nie“ 2
 dosiahnuť 2
+Nesprávne 2
 rozhodne 2
 večeri 2
 zločin 2
@@ -4850,7 +4854,6 @@ menami 2
 Vypi 2
 zjedlo 2
 Zobudil 2
- 2
 šesťdesiat 2
 plus 2
 rovná 2
@@ -4981,7 +4984,6 @@ pestuje 2
 vzdialená 2
 schoval 2
 džemu 2
-Čítaš 2
 spoločného 2
 chodil 2
 bratrancov 2
@@ -6929,7 +6931,6 @@ kobyla 1
 nerieši 1
 byte 1
 rečí 1
-Tichá 1
 brehy 1
 nepočúvaš 1
 Kazachstane 1
@@ -9172,7 +9173,6 @@ stránku 1
 zabudneš 1
 nedokázal 1
 úsilia 1
-Nesprávne 1
 okúpať 1
 rozumiete 1
 Had 1

@@ -7,9 +7,9 @@ Tomos 41
 Ill 30
 llo 26
 su 26
-Ys 23
+Ys 24
 Llo 22
-Sa 19
+Sa 20
 sunt 19
 lla 18
 ill 17
@@ -40,6 +40,7 @@ ffuin 6
 ed 6
 ben 6
 wol 6
+mi 6
 sab 6
 Nw 6
 Yn 5
@@ -54,7 +55,6 @@ ys 5
 grêdd 5
 wid 5
 Ffrencig 5
-mi 5
 Domos 5
 K'lwg 5
 Gwa 5
@@ -216,6 +216,8 @@ cu 2
 noethfent 2
 sempr 2
 ystad 2
+fi 2
+uddirant 2
 mab 1
 dew 1
 cinc 1
@@ -563,7 +565,6 @@ tornad 1
 la 1
 Gheis 1
 negyn 1
-fi 1
 Ô 1
 aydaf 1
 cos 1

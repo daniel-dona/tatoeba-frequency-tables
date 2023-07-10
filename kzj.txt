@@ -1,19 +1,19 @@
-do 3246
-zou 1171
+do 3247
+zou 1172
 di 948
 no 886
-i 776
+i 777
 Tom 689
-ko 631
+ko 632
 ku 627
-o 578
-id 457
+o 579
+id 458
 nu 432
 nopo 411
 Au 408
 doid 393
 om 358
-dii 355
+dii 357
 isido 347
 dau 343
 nga 314
@@ -24,15 +24,15 @@ zosido 196
 zi 188
 naku 184
 mantad 182
-diau 172
+diau 173
 Mary 168
 dogo 165
 kozo 158
 tuhun 155
 daa 150
+Au' 149
 kumaa 148
 zikoi 148
-Au' 148
 tokou 140
 tu 137
 boos 136
@@ -48,8 +48,8 @@ Kivaa 112
 tadau 104
 ka 103
 ginavo 99
+miampai 97
 diho 96
-miampai 96
 ih 94
 nga' 91
 au' 90
@@ -86,21 +86,21 @@ Koiho 49
 Aanangan 48
 dagai 48
 moboos 48
+insan 48
 Iti 48
 jaam 47
 Nunu 47
 Nokuo 47
 nodii 47
-insan 47
 Noikot 46
 tu' 46
 kusai 45
 mangakan 45
+Nung 45
 miaga 45
 dioho 44
 pogun 44
 suvab 44
-Nung 44
 hobi 44
 tanak 43
 iso 42
@@ -338,6 +338,7 @@ talaat 13
 maza 13
 Ada' 13
 Mada 13
+tiikoon 13
 booson 13
 Pio 13
 Noihaan 13
@@ -361,7 +362,6 @@ tavasi' 12
 oi 12
 hiivai 12
 momongo 12
-tiikoon 12
 togumu 12
 poingizon 12
 okito 12
@@ -712,6 +712,7 @@ atantu 6
 Minamanau 6
 dadi 6
 sisindion 6
+saviavi' 6
 atangkangau 6
 disan 6
 kitoluo 6
@@ -726,6 +727,7 @@ unibositi 6
 Noiduanan 6
 kakamot 6
 Guminapus 6
+zioho' 6
 soibu 6
 apol 6
 kuozon 6
@@ -777,6 +779,7 @@ poingkaa 5
 Miampai 5
 Inggilis 5
 Mizon 5
+minogidu 5
 Nokougad 5
 maai 5
 kiik 5
@@ -831,7 +834,6 @@ tinau 5
 pazung 5
 okonko 5
 topuod 5
-saviavi' 5
 minonongkiboos 5
 bilik 5
 Kadazandusun 5
@@ -857,7 +859,6 @@ doungkosuvabon 5
 nopiumanan 5
 Pogun 5
 pason 5
-zioho' 5
 toodopon 5
 Nokotimpuun 5
 umanai 5
@@ -936,7 +937,6 @@ Duvo 4
 induvo 4
 izonon 4
 gitar 4
-minogidu 4
 Mokinongou 4
 Tuhan 4
 dinondo 4
@@ -1024,6 +1024,7 @@ mati 4
 Avanus 4
 Lamazo 4
 kivuhu 4
+Oosizan 4
 tongkulalava 4
 Iikau 4
 papaatod 4
@@ -1056,6 +1057,7 @@ Monginum 4
 nokopikito 4
 monunuat 4
 Soomoon 4
+Ah 4
 pinonsol 4
 koubasanan 4
 mogovit 4
@@ -1087,6 +1089,7 @@ Noinsudan 4
 "Au' 4
 nizonon 4
 tosomok 4
+ningkokoton 4
 "Nunu 4
 sangaadau 4
 kokuama'on 4
@@ -1370,7 +1373,6 @@ pasal 3
 Manangkus 3
 nalaka 3
 kangkab 3
-Oosizan 3
 yang 3
 Minsingkinam 3
 Modop 3
@@ -1439,7 +1441,6 @@ oimazaan 3
 biio 3
 logon 3
 Nokotouvi 3
-Ah 3
 tosikap 3
 pai 3
 Peter 3
@@ -1520,7 +1521,6 @@ Magavi 3
 mongungkub 3
 Cookie 3
 ponoodo 3
-ningkokoton 3
 mongindapu 3
 Pisangadan 3
 ogonop 3
@@ -2192,6 +2192,7 @@ Noindamaan 2
 imang 2
 otuvong 2
 Mitongkizad 2
+siou 2
 Kohimo 2
 koium 2
 Kaavi' 2
@@ -4748,7 +4749,6 @@ Tuminahib 1
 komohingan 1
 Ohumis 1
 Santa 1
-siou 1
 Nokoiak 1
 hinonit 1
 Pinosogu' 1
@@ -6590,3 +6590,5 @@ fauna 1
 Kikohoilanan 1
 Ovito 1
 minggazat 1
+koimbuhai 1
+pogidu 1
