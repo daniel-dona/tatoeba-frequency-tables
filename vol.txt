@@ -1,14 +1,14 @@
-Tomas 688
-No 519
-das 451
-no 410
+Tomas 690
+No 520
+das 452
+no 411
 binom 389
-etosi 345
+etosi 347
 in 285
 obik 237
 Maria 182
 binon 167
-dunön 152
+dunön 153
 Tom 145
 e 141
 obe 131
@@ -18,7 +18,7 @@ at 117
 Kikod 116
 is 112
 ko 111
-Kisi 104
+Kisi 105
 vemo 102
 Vilob 92
 Binob 89
@@ -26,7 +26,7 @@ oli 86
 gudik 82
 yufön 82
 Nolob 80
-obi 76
+obi 77
 et 76
 ole 74
 ob 74
@@ -175,6 +175,7 @@ penön 20
 kafi 20
 Dog 20
 miti 20
+kanol 20
 flentapüki 20
 Binobs 20
 Li-kanol 20
@@ -189,7 +190,6 @@ vobi 19
 fa 19
 fidom 19
 obs 19
-kanol 19
 ele 19
 fikulik 19
 velatik 19
@@ -216,6 +216,7 @@ timi 17
 kim 17
 Li-vilol 17
 Li-tikol 17
+Änolob 17
 so 16
 bukis 16
 Labom 16
@@ -232,7 +233,6 @@ sagom 16
 domoi 16
 lemön 16
 malädik 16
-Änolob 16
 binon-li 15
 Kikodo 15
 slipön 15
@@ -397,6 +397,7 @@ Esagob 9
 pala 9
 mutol 9
 odunob 9
+etuvom 9
 esagof 9
 kat 8
 Neai 8
@@ -439,7 +440,6 @@ noloms 8
 Deut 8
 okömom 8
 löfol 8
-etuvom 8
 esagol 8
 Binom-li 7
 Nifos 7
@@ -594,6 +594,7 @@ Binof-li 5
 Kömolöd 5
 Ido 5
 gonom 5
+vifikumo 5
 Jimatel 5
 binof-li 5
 moti 5
@@ -714,7 +715,6 @@ Fidob 4
 omas 4
 Studom 4
 nelijel 4
-vifikumo 4
 mutoms 4
 stupik 4
 logom 4
@@ -899,6 +899,7 @@ fluk 3
 Toma 3
 löfilom 3
 Linglänapük 3
+svimom 3
 ädeadom 3
 ädeadof 3
 miotik 3
@@ -1068,6 +1069,7 @@ nololöd 3
 Odeidons 3
 elemob 3
 Studolöd 3
+ofen-li 3
 deutel 3
 eyufom 3
 Tomaso 3
@@ -1270,7 +1272,6 @@ rojat 2
 lunik 2
 Jiel 2
 dunol-li 2
-svimom 2
 blümik 2
 rovik 2
 Vär 2
@@ -1345,6 +1346,7 @@ Valiks 2
 votiks 2
 flols 2
 liedos 2
+onedol 2
 Tidob 2
 Dlinolöd 2
 ponis 2
@@ -1648,7 +1650,6 @@ büri 2
 äyelo 2
 binolöd 2
 löfom-li 2
-ofen-li 2
 jifatel 2
 äbinom-li 2
 vamiko 2
@@ -1716,6 +1717,7 @@ elemobs 2
 egivol 2
 ovilom 2
 edunob 2
+Lilädobs 2
 lömibos 2
 li-mutobs 2
 sanels 2
@@ -2614,7 +2616,6 @@ Saidikö 1
 Spikön 1
 sinifon 1
 cedi 1
-onedol 1
 Spidö 1
 Onedob 1
 Lilolöd 1
@@ -4267,7 +4268,6 @@ Jips 1
 Änedof 1
 lemoböd 1
 okanitof 1
-Lilädobs 1
 Etifom 1
 Li-elemol 1
 okömöl 1
@@ -4505,3 +4505,5 @@ lol 1
 Dlinob 1
 Li-ostudol 1
 kanomöv 1
+Fidobsöd 1
+Vitolöd 1

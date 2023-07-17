@@ -57,12 +57,12 @@ Somos 16
 Tengo 16
 Sami 16
 אין 16
+Kero 15
 inglez 15
 kaza 15
 מי 15
 סו 15
 del 14
-Kero 14
 mansana 14
 so 14
 mora 14
@@ -76,6 +76,7 @@ era 13
 djudia 13
 איסטה 13
 komida 13
+lo 12
 le 12
 vos 12
 portokal 12
@@ -85,7 +86,7 @@ Dingunos 12
 סון 12
 vedre 12
 pasharos 12
-lo 11
+al 11
 sivdad 11
 vida 11
 mujer 11
@@ -96,7 +97,6 @@ dos 11
 Ke 11
 Trae 11
 frio 11
-al 10
 Vos 10
 linguas 10
 komo 10
@@ -162,6 +162,8 @@ Avlo 6
 fransez 6
 estamos 6
 mavi 6
+ir 6
+kozas 6
 ti 6
 gata 6
 merkando 6
@@ -199,8 +201,6 @@ mavis 5
 Su 5
 bisikleta 5
 si 5
-ir 5
-kozas 5
 komprando 5
 somos 5
 Mueva 5
@@ -501,6 +501,7 @@ fasil 2
 Buenas 2
 tadres 2
 Muncho 2
+otel 2
 ermana 2
 Eso 2
 Puedes 2
@@ -765,6 +766,7 @@ Osmanli 2
 espejo 2
 אמור 2
 sinema 2
+Yanni 2
 gizo 2
 Ansi 2
 Unos 2
@@ -816,6 +818,7 @@ dosya 2
 yevava 2
 Nesesitamos 2
 asukar 2
+Konstruimos 2
 Deké 1
 tenésh 1
 kara 1
@@ -947,7 +950,6 @@ keriya 1
 amigo 1
 muevas 1
 antigas 1
-otel 1
 Peki 1
 eskrivia 1
 livres 1
@@ -1876,7 +1878,6 @@ estos 1
 Ayudame 1
 Ayudandome 1
 Giza 1
-Yanni 1
 Gizas 1
 Gizash 1
 Gizates 1
@@ -2117,3 +2118,9 @@ sinyifikasyon 1
 sonyava 1
 Ermanos 1
 aikido 1
+Otros 1
+yoravan 1
+Konstruye 1
+kazas 1
+konstruye 1
+robotes 1

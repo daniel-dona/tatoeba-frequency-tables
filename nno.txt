@@ -1,11 +1,11 @@
 Eg 386
 er 355
-Tom 266
-i 205
+Tom 267
+i 206
 ikkje 170
+å 170
 på 169
-å 169
-har 167
+har 168
 til 150
 du 148
 det 118
@@ -77,6 +77,7 @@ bur 16
 såg 16
 Kan 15
 Er 15
+få 15
 berre 15
 skulle 15
 vi 15
@@ -84,7 +85,6 @@ ligg 15
 sa 14
 likar 14
 utan 14
-få 14
 et 14
 Boston 14
 att 14
@@ -234,6 +234,7 @@ tida 6
 ord 6
 betre 6
 står 6
+Jeg 6
 Når 6
 so 6
 forbi 6
@@ -286,7 +287,6 @@ halde 5
 arbeider 5
 elva 5
 vere 5
-Jeg 5
 bjørn 5
 hjelpa 5
 ingenting 5
@@ -493,6 +493,7 @@ pengane 3
 tusen 3
 Istanbul 3
 gjev 3
+prøver 3
 venn 3
 gode 3
 nett 3
@@ -655,6 +656,7 @@ rimelegare 2
 vidt 2
 full 2
 saman 2
+tak 2
 kome 2
 amerikansk 2
 gata 2
@@ -784,7 +786,6 @@ moskéer 2
 kallar 2
 øyer 2
 havet 2
-prøver 2
 tillate 2
 gladast 2
 Ei 2
@@ -1187,7 +1188,6 @@ opplevingar 1
 møtte 1
 synte 1
 Huk 1
-tak 1
 lengta 1
 uoppnåeleg 1
 kleint 1
@@ -2480,3 +2480,5 @@ nasjonane 1
 Reste 1
 svelte 1
  1
+Viftereima 1
+roke 1

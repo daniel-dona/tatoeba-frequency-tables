@@ -1,7 +1,7 @@
-es 116
+es 118
 Eo 87
+yn 61
 rhen 60
-yn 59
 di 46
 Tomos 41
 Ill 30
@@ -18,11 +18,11 @@ Nu 15
 a 12
 yst 12
 ci 12
+Ty 11
 mew 10
 Ke 10
 gws 10
 eo 10
-Ty 9
 puf 9
 i 9
 in 8
@@ -55,6 +55,7 @@ ys 5
 grêdd 5
 wid 5
 Ffrencig 5
+can 5
 Domos 5
 K'lwg 5
 Gwa 5
@@ -75,6 +76,7 @@ Fair 4
 padr 4
 onc 4
 afur 4
+gan 4
 gas 4
 er 4
 Mair 4
@@ -85,7 +87,6 @@ mun 4
 Negyn 4
 ddewindad 4
 mulltisaf 4
-can 4
 fengib 4
 nw 4
 rhys 3
@@ -105,7 +106,6 @@ llâ 3
 di'll 3
 cach 3
 anc 3
-gan 3
 digas 3
 ddigas 3
 morth 3
@@ -186,6 +186,7 @@ Dôn 2
 Boston 2
 phab 2
 llein 2
+fon 2
 inelleith 2
 for 2
 wer 2
@@ -399,7 +400,6 @@ lew 1
 compran 1
 ros 1
 serai 1
-fon 1
 ferch 1
 iogan 1
 cun 1
@@ -569,3 +569,4 @@ negyn 1
 aydaf 1
 cos 1
 politig 1
+bon 1

@@ -1,11 +1,11 @@
-je 2203
+je 2205
 sa 2102
-som 1862
+som 1863
 Tom 1609
 si 1516
 to 1307
 že 1085
-na 995
+na 996
 v 767
 a 603
 mi 508
@@ -17,14 +17,14 @@ do 385
 sú 354
 o 337
 To 334
-Čo 327
+Čo 328
 s 326
 ako 325
 nie 289
 Som 279
 sme 267
 veľmi 266
-Prečo 249
+Prečo 250
 aby 246
 tu 243
 ma 232
@@ -58,7 +58,7 @@ ju 131
 tak 130
 tam 129
 byť 128
-urobiť 127
+urobiť 128
 veľa 125
 Toto 125
 Koľko 123
@@ -126,15 +126,15 @@ príliš 67
 teraz 67
 bolo 66
 povedať 66
+zajtra 65
 Moja 65
 Dnes 65
 meno 65
 nám 65
-zajtra 64
 viac 64
+dnes 63
 mal 63
 toho 63
-dnes 62
 ten 61
 Musím 61
 túto 61
@@ -283,6 +283,7 @@ O 34
 Bolo 34
 žije 34
 Môžeš 34
+Moje 34
 Hovoríte 34
 oči 34
 zostať 34
@@ -290,7 +291,6 @@ neviem 33
 vlasy 33
 žena 33
 pes 33
-Moje 33
 skoro 33
 noc 33
 nemá 33
@@ -426,6 +426,7 @@ nový 24
 Prišiel 24
 kúpiť 24
 ňu 24
+môžeš 24
 jablko 24
 Pozri 24
 šiestej 24
@@ -445,7 +446,6 @@ mlieko 23
 táto 23
 on 23
 Vidím 23
-môžeš 23
 mne 23
 nachádza 23
 moju 23
@@ -515,6 +515,7 @@ hodín 20
 často 20
 Zdá 20
 človek 20
+srdce 20
 Poznáš 20
 naše 20
 nemohol 20
@@ -541,7 +542,6 @@ krajina 19
 krásne 19
 priateľ 19
 Tá 19
-srdce 19
 Vedel 19
 Rada 19
 Veľa 19
@@ -585,12 +585,14 @@ My 18
 napísal 18
 Vyzerá 18
 mesta 18
+Hneď 18
 nimi 18
 denník 18
 okuliare 18
 koho 18
 štyri 17
 až 17
+späť 17
 Mačka 17
 môjho 17
 počuť 17
@@ -629,14 +631,12 @@ veta 17
 včas 17
 Tomov 17
 ovocie 17
-Hneď 17
 môžete 17
 dlhé 17
 hladná 17
 Pán 17
 nemecky 16
 nejaké 16
-späť 16
 minút 16
 koláč 16
 dňa 16
@@ -841,6 +841,7 @@ Nemohol 12
 nebolo 12
 mladý 12
 chvíľu 12
+modré 12
 unavená 12
 čakal 12
 živote 12
@@ -922,7 +923,6 @@ Prepáč 11
 mladá 11
 silný 11
 hovoril 11
-modré 11
 Ktorý 11
 Môžeme 11
 takmer 11
@@ -2697,6 +2697,7 @@ počkaj 4
 dostala 4
 obývačky 4
 zemi“ 4
+nebo 4
 tmy 4
 nebeskej 4
 zver 4
@@ -2780,6 +2781,7 @@ nepamätám 4
 hnedé 4
 hrozno 4
 poriadku“ 4
+zlomené 4
 nespoznal 4
 Verili 4
 poznajú 4
@@ -3586,7 +3588,6 @@ Najprv 3
 pýta 3
 plodom 3
 semena 3
-nebo 3
 vôd 3
 dňom 3
 nocou 3
@@ -3740,7 +3741,6 @@ hladká 3
 žily 3
 Nepovedala 3
 „Nie“ 3
-zlomené 3
 nakoniec 3
 čakáš 3
 čakáte 3

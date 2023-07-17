@@ -5,8 +5,8 @@ bat 405
 Ez 404
 du 394
 eta 348
-zuen 282
-egin 272
+zuen 283
+egin 273
 naiz 266
 zen 264
 dago 228
@@ -16,14 +16,14 @@ Tomek 215
 duzu 210
 egiten 201
 dira 167
-behar 165
+behar 166
 izan 164
 hori 147
 Nire 143
 nuen 140
 ari 137
 hau 132
-esan 128
+esan 129
 bere 128
 nire 125
 Zer 124
@@ -50,9 +50,9 @@ izango 64
 egon 62
 egingo 62
 Zenbat 62
+zer 61
 dela 61
 Zure 60
-zer 60
 Ni 60
 edo 60
 gehiago 59
@@ -151,12 +151,12 @@ zuela 27
 bakarrik 27
 eskubidea 27
 Sami 27
+zion 26
 ematen 26
 esaten 26
 aita 26
 joango 26
 Hura 25
-zion 25
 liburu 25
 guztiak 25
 Nork 25
@@ -402,6 +402,7 @@ dauzkat 10
 Ongi 10
 beltza 10
 dagoen 10
+berak 10
 Gabon 10
 irakaslea 10
 amaitu 10
@@ -455,7 +456,6 @@ zaila 9
 lau 9
 dirudi 9
 erabiltzen 9
-berak 9
 naiteke 9
 Maite 9
 herrialde 9
@@ -483,6 +483,7 @@ nituen 9
 Norbaitek 9
 Eman 9
 Tomi 9
+Tom-i 9
 gizon 9
 atea 8
 Hurrengo 8
@@ -555,7 +556,6 @@ Zerbait 8
 beldur 8
 Tomekin 8
 jantzi 8
-Tom-i 8
 jarraitu 8
 Lurra 7
 sentitu 7
@@ -635,6 +635,7 @@ Kafe 7
 maiteminduta 7
 duzula 7
 galdetu 7
+Mary-k 7
 abesten 7
 itxaroten 7
 erdia 7
@@ -738,7 +739,6 @@ banu 6
 telebista 6
 arrazoirik 6
 horren 6
-Mary-k 6
 pasatzen 6
 John 6
 Guk 6
