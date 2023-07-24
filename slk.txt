@@ -1,14 +1,14 @@
 je 2205
-sa 2102
+sa 2103
 som 1863
-Tom 1609
+Tom 1610
 si 1516
 to 1307
 že 1085
 na 996
 v 767
 a 603
-mi 508
+mi 509
 Je 466
 by 457
 ste 408
@@ -18,7 +18,7 @@ sú 354
 o 337
 To 334
 Čo 328
-s 326
+s 327
 ako 325
 nie 289
 Som 279
@@ -27,11 +27,11 @@ veľmi 266
 Prečo 250
 aby 246
 tu 243
+má 233
 ma 232
-má 232
 Mária 231
-z 226
-Mám 213
+z 227
+Mám 214
 ťa 213
 ti 210
 Kde 208
@@ -39,7 +39,7 @@ ho 203
 Nie 193
 po 191
 bol 181
-za 170
+za 171
 jej 163
 vás 160
 ísť 158
@@ -915,6 +915,7 @@ hodinu 11
 dôverovať 11
 potrebuješ 11
 poľsky 11
+Akú 11
 Volám 11
 ukázať 11
 ideš 11
@@ -993,7 +994,6 @@ mohla 10
 robíš 10
 pár 10
 dievčatá 10
-Akú 10
 nemajú 10
 Mohol 10
 Rýchlo 10
@@ -1548,6 +1548,7 @@ priveľa 7
 nepoznala 7
 vedomie 7
 Stratila 7
+krv 7
 lekárničku 7
 Dneska 7
 kazašsky 7
@@ -1653,6 +1654,7 @@ nájdem 6
 čítal 6
 takže 6
 pozrel 6
+bicykel 6
 Odkedy 6
 pomôže 6
 iný 6
@@ -1949,7 +1951,6 @@ angličtina 5
 Pomôžem 5
 miesta 5
 mŕtvy 5
-bicykel 5
 obchod 5
 mori 5
 dovolené 5
@@ -2086,6 +2087,7 @@ Krava 5
 „Si 5
 odpovede 5
 dobrým 5
+farbu 5
 trvá 5
 „Ako 5
 Nepijem 5
@@ -2193,7 +2195,6 @@ orechy 5
 Počujem 5
 veril 5
 Nechápem 5
-krv 5
 dnuka 5
 škôlky 5
 rozhodnúť 5
@@ -2570,7 +2571,6 @@ Dáte 4
 začo“ 4
 zahrať 4
 nezvyčajné 4
-farbu 4
 Sneh 4
 Verím 4
 očakával 4
@@ -4763,6 +4763,7 @@ dosiahnuť 2
 Nesprávne 2
 rozhodne 2
 večeri 2
+potrebujú 2
 zločin 2
 Zápas 2
 „Aký 2
@@ -6033,6 +6034,8 @@ Rozplakal 2
 Žirafy 2
 Hanba 2
 volejbal 2
+Tečie 2
+nosa 2
 Srsť 2
 chladom 2
 nespoznala 2
@@ -9183,7 +9186,6 @@ Vydávam 1
 mlčanie 1
 potvrdilo 1
 podozrenia 1
-potrebujú 1
 „Streda“ 1
 Učebnica 1
 používame 1
@@ -9996,5 +9998,3 @@ rozlohe 1
 ostrovný 1
 štát 1
 severnom 1
-Atlantiku 1
-Grónskom 1

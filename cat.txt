@@ -1,8 +1,8 @@
 la 1538
-de 1497
+de 1498
 a 1421
 que 1297
-el 1192
+el 1193
 és 1014
 no 826
 va 788
@@ -185,6 +185,7 @@ estan 40
 Sóc 39
 passar 39
 ningú 39
+Et 39
 bon 39
 Ells 39
 allò 39
@@ -195,7 +196,6 @@ coses 38
 nom 38
 parla 38
 l'escola 38
-Et 38
 Encara 38
 avui 38
 plau 38
@@ -2169,6 +2169,7 @@ l'espanyol 3
 Tenien 3
 Estaven 3
 s'estimen 3
+conte 3
 vila 3
 prego 3
 Elles 3
@@ -2827,6 +2828,7 @@ Sigui 2
 pujar 2
 toquis 2
 preciosos 2
+llegiré 2
 pilot 2
 Pedro 2
 programador 2
@@ -3068,7 +3070,6 @@ facilitat 2
 vindré 2
 miri 2
 comunicar 2
-conte 2
 inconscient 2
 tornar-lo 2
 heroi 2
@@ -4779,7 +4780,6 @@ altitut 1
 demanava 1
 prestats 1
 finalitzi 1
-llegiré 1
 condó 1
 jutjant 1
 l'assassí 1
@@ -9689,3 +9689,5 @@ dispersa 1
 s‘ofegava 1
 morat 1
 sabent 1
+l'aneguet 1
+lleig 1

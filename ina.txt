@@ -1,33 +1,33 @@
-le 12865
-es 8060
-un 6872
-de 6860
-Le 4825
-ha 4751
-in 4316
+le 12866
+es 8069
+un 6882
+de 6861
+Le 4827
+ha 4753
+in 4318
 que 3882
-non 3735
-Io 3558
+non 3740
+Io 3560
 e 2935
-del 2931
+del 2932
 a 2657
 tu 2200
-Ille 1806
-me 1595
+Ille 1807
+me 1596
 io 1584
 al 1547
 su 1517
 se 1509
 Il 1445
-Tom 1395
+Tom 1398
 pro 1362
 lo 1290
 con 1233
-plus 1214
+plus 1215
 ille 1198
 vos 1105
 esseva 1065
-pote 964
+pote 965
 nos 959
 mi 930
 multo 929
@@ -37,20 +37,20 @@ como 785
 te 776
 il 760
 grande 743
-Tu 716
-Nos 713
+Nos 717
+Tu 717
 Illa 711
 blau 686
 Iste 658
-multe 583
+multe 584
 habeva 572
-Esque 567
-vole 565
+Esque 568
+vole 567
 debe 547
 Isto 531
 tempore 518
 illo 516
-Que 512
+Que 513
 qui 503
 Mi 499
 isto 498
@@ -58,7 +58,7 @@ Un 495
 esser 494
 sur 466
 super 452
-Illes 448
+Illes 450
 facer 439
 bon 437
 si 433
@@ -68,14 +68,14 @@ on 420
 lingua 417
 ma 408
 sape 406
-Non 396
-illa 391
-va 378
+Non 397
+illa 392
+va 379
 illes 377
 face 373
 casa 372
+vita 363
 o 361
-vita 361
 altere 348
 essite 346
 belle 344
@@ -83,10 +83,10 @@ Vos 343
 mundo 341
 homine 325
 duo 320
-solmente 318
+solmente 319
 toto 318
 mesme 318
-ben 310
+ben 311
 place 307
 parla 297
 Si 297
@@ -100,16 +100,16 @@ tanto 263
 vostre 262
 Deo 262
 ancora 254
-era 252
+era 253
 anglese 248
 apud 248
+Illo 247
 dicer 246
-Illo 244
 An 244
 A 241
+son 241
 quando 240
 lor 240
-son 239
 annos 233
 hic 228
 cosa 226
@@ -238,9 +238,9 @@ vermente 113
 poco 113
 cognosce 112
 homines 111
+alique 111
 ulle 111
 fluvio 110
-alique 110
 amicos 109
 nulle 109
 dicite 108
@@ -265,9 +265,9 @@ comprende 99
 hora 99
 pais 99
 parte 99
+viver 99
 circa 98
 omne 98
-viver 98
 ration 97
 existe 96
 opinion 96
@@ -462,6 +462,7 @@ problemas 55
 nemo 55
 tarde 55
 ric 55
+pace 55
 collina 55
 traino 54
 sex 54
@@ -469,7 +470,6 @@ significa 54
 foras 54
 Me 54
 jalne 54
-pace 54
 forma 54
 fortuna 53
 intelligente 53
@@ -703,6 +703,7 @@ modo 37
 circum 37
 natural 37
 populo 37
+studio 37
 devenite 37
 intention 37
 gratiose 37
@@ -722,7 +723,6 @@ passava 36
 visita 36
 necesse 36
 campo 36
-studio 36
 situa 36
 calide 35
 Japon 35
@@ -841,6 +841,7 @@ lassate 30
 gris 30
 oblidate 30
 curso 30
+necuno 30
 meditar 30
 nahuatl 30
 scande 30
@@ -872,7 +873,6 @@ scripte 29
 projecto 29
 compra 29
 evenite 29
-necuno 29
 cattos 28
 stupide 28
 natar 28
@@ -986,6 +986,7 @@ Canada 25
 fumar 25
 stellas 25
 sage 25
+ave 25
 hiberno 25
 gelato 25
 sufficiente 25
@@ -1025,7 +1026,6 @@ vestite 24
 venira 24
 appellate 24
 valor 24
-ave 24
 pone 24
 factos 24
 medie 24
@@ -1182,6 +1182,7 @@ assatis 21
 eveni 21
 monstra 21
 Finalmente 21
+solution 21
 poesia 21
 plantas 21
 oblidava 21
@@ -1228,7 +1229,9 @@ cappello 20
 comenciar 20
 claudite 20
 politic 20
+fundo 20
 objectos 20
+poema 20
 bibeva 20
 mitteva 20
 placeva 20
@@ -1239,7 +1242,6 @@ mysterio 20
 sonia 20
 stella 20
 placite 20
-solution 20
 russe 20
 ris 20
 apprendeva 20
@@ -1289,8 +1291,6 @@ agradabile 19
 computator 19
 linea 19
 Sia 19
-fundo 19
-poema 19
 capacitate 19
 speculo 19
 construite 19
@@ -1547,6 +1547,7 @@ rideva 16
 Anque 16
 necessitate 16
 observa 16
+occide 16
 nation 16
 purpuree 16
 responde 16
@@ -1643,7 +1644,6 @@ conversar 15
 Necun 15
 intra 15
 curiositate 15
-occide 15
 danese 15
 logic 15
 grammatica 15
@@ -1705,6 +1705,7 @@ reparar 14
 poemas 14
 vapor 14
 sexo 14
+interessate 14
 lasse 14
 creava 14
 construer 14
@@ -1734,6 +1735,7 @@ realisate 14
 Nederland 14
 arabe 14
 Russia 14
+traductor 14
 lupo 14
 saison 14
 2014 14
@@ -1819,7 +1821,6 @@ intender 13
 naturalmente 13
 stava 13
 prendera 13
-interessate 13
 provincia 13
 historic 13
 directe 13
@@ -1857,7 +1858,6 @@ retorna 13
 cavallos 13
 Ni 13
 honor 13
-traductor 13
 Sancte 13
 prova 13
 dose 13
@@ -2098,6 +2098,7 @@ invisibile 11
 ovo 11
 tonnas 11
 genere 11
+chassa 11
 occideva 11
 photos 11
 Jove 11
@@ -2253,7 +2254,6 @@ intime 10
 promena 10
 feminin 10
 melle 10
-chassa 10
 simias 10
 viages 10
 orbita 10
@@ -2559,6 +2559,8 @@ proprietate 9
 Gode 9
 Clark 9
 electiones 9
+dicte 9
+mago 9
 parlantes 9
 Saussure 9
 violetta 9
@@ -2808,14 +2810,12 @@ Piet 8
 verbos 8
 Buddhismo 8
 donos 8
-dicte 8
 Emilia 8
 Quinto 8
 slitta 8
 vincer 8
 ambula 8
 "Que 8
-mago 8
 tunc 8
 designa 8
 amerindian 8
@@ -3215,6 +3215,7 @@ inferior 6
 erumpeva 6
 organisation 6
 trahe 6
+viagiava 6
 accender 6
 verbo 6
 gaudeva 6
@@ -3651,7 +3652,6 @@ Ambe 5
 ordinari 5
 traduceva 5
 profito 5
-viagiava 5
 Belle 5
 cognoscera 5
 contento 5
@@ -3970,6 +3970,7 @@ reactiones 5
 incantator 5
 camerera 5
 ardor 5
+offendite 5
 arrestate 5
 cultiva 5
 sententia 5
@@ -4214,6 +4215,7 @@ Amar 5
 studer 5
 expectar 5
 syntaxe 5
+rigorose 5
 signar 5
 graphite 5
 Brossa 5
@@ -4234,6 +4236,7 @@ vincera 5
 stylo 5
 Canes 5
 nomen 5
+pronomines 5
 audition 5
 William 5
 linguistas 5
@@ -4507,6 +4510,7 @@ continer 4
 chloro 4
 habituate 4
 controla 4
+pacific 4
 extreme 4
 detaliate 4
 valise 4
@@ -4720,7 +4724,6 @@ mentitas 4
 ascoltava 4
 nuances 4
 tute 4
-offendite 4
 apparente 4
 termina 4
 reunite 4
@@ -4745,6 +4748,7 @@ valide 4
 medienocte 4
 travalios 4
 limitate 4
+olim 4
 elogio 4
 intensitate 4
 fallimento 4
@@ -5105,8 +5109,8 @@ creative 4
 bracio 4
 textos 4
 morphologia 4
+duperia 4
 cincturas 4
-rigorose 4
 dictatura 4
 amara 4
 scuriolo 4
@@ -5148,7 +5152,6 @@ Regno 4
 traditiones 4
 etymologic 4
 hen 4
-pronomines 4
 significante 4
 dialectos 4
 lucrative 4
@@ -5206,6 +5209,7 @@ dece-quinte 4
 bambus 4
 tuberculos 4
 ulucos 4
+sloveno 4
 pathologic 4
 communistas 4
 yucatec 4
@@ -5496,7 +5500,6 @@ satisfactori 3
 drappos 3
 plangeva 3
 idiotas 3
-pacific 3
 attractiones 3
 nonne" 3
 cometa 3
@@ -5810,7 +5813,6 @@ continuate 3
 capitulo 3
 satietate 3
 sufficera 3
-olim 3
 excelle 3
 domination 3
 reuni 3
@@ -6392,6 +6394,7 @@ deride 3
 fricava 3
 diagonal 3
 gratia 3
+fraude 3
 francese: 3
 francophone 3
 affliction 3
@@ -6465,7 +6468,6 @@ imbraciava 3
 punctual 3
 programmator 3
 Calma 3
-duperia 3
 avellanas 3
 sec 3
 Oriental 3
@@ -6513,6 +6515,7 @@ retes 3
 Twitter 3
 Remane 3
 comburite 3
+piscatores 3
 Kullervo 3
 furtivemente 3
 soles 3
@@ -6576,6 +6579,7 @@ debitos 3
 representava 3
 and 3
 Surride 3
+tribal 3
 designation 3
 communitates 3
 longo 3
@@ -6665,7 +6669,6 @@ cocineros 3
 Orwell 3
 ericios 3
 mulier 3
-sloveno 3
 schizzava 3
 picturava 3
 heroes 3
@@ -8721,7 +8724,6 @@ registration 2
 dirigite 2
 semina 2
 procrastina 2
-fraude 2
 Ursula 2
 civilisate 2
 Nadia 2
@@ -9000,7 +9002,6 @@ assumeva 2
 umbras 2
 nutriva 2
 paludose 2
-piscatores 2
 inculte 2
 communal 2
 decorate 2
@@ -9206,7 +9207,6 @@ Juliet 2
 Scripte 2
 dramaturgo 2
 unifica 2
-tribal 2
 mexicas 2
 azteca 2
 impeto 2
@@ -9539,6 +9539,7 @@ happy 2
 hardcore 2
 patro 2
 televisor 2
+alternative 2
 esperantia 2
 lumines 2
 maleficente 2
@@ -9997,4 +9998,3 @@ semipreparate 1
 facilita 1
 menageras 1
 Masaru 1
-adherer 1

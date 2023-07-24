@@ -102,9 +102,9 @@ dilê 65
 dikî 64
 tune 63
 mezin 61
-bavê 61
 Ma 60
 kar 60
+bavê 60
 kerema 60
 jê 59
 kî 59
@@ -196,6 +196,7 @@ tiştekî 31
 alîkariya 30
 derê 30
 bidin 29
+Bavê 29
 were 29
 gelekî 29
 çavên 29
@@ -204,7 +205,6 @@ Ka 29
 dibistana 29
 aciz 29
 navê 28
-Bavê 28
 biçim 28
 xwar 28
 ti 28
@@ -286,6 +286,7 @@ dûr 20
 mezintir 20
 hevalê 20
 serdana 20
+pênc 20
 sor 20
 hebû 20
 xweşik 20
@@ -297,7 +298,6 @@ mal 19
 destê 19
 ka 19
 qasî 19
-pênc 19
 pirtûk 19
 ciwan 19
 nabe 19
@@ -434,7 +434,6 @@ bajarê 13
 zarok 13
 nekî 13
 Mirov 13
-birayên 13
 hatiye 13
 Çend 13
 herin 13
@@ -474,6 +473,7 @@ vala 12
 hewl 12
 berfê 12
 jin 12
+birayên 12
 biparêzin 12
 dikeve 12
 Êdî 12
@@ -695,6 +695,7 @@ Tiştên 8
 nayên 8
 tevahiya 8
 spas 8
+bira 8
 ziman 8
 Newroz 8
 kurmancî 8
@@ -788,7 +789,6 @@ bingehîn 7
 dîn 7
 bînim 7
 sax 7
-bira 7
 dibînim 7
 bav 7
 sî 7
@@ -1461,7 +1461,6 @@ Bihêle 4
 Nûçe 4
 diranên 4
 belê 4
-Çar 4
 çiyê 4
 xênî 4
 derveyî 4
@@ -1904,6 +1903,7 @@ Tiştek 3
 çepê 3
 difiroşin 3
 Îsa 3
+Çar 3
 gewr 3
 ewran 3
 Dar 3

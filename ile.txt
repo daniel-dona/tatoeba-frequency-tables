@@ -1,6 +1,6 @@
-es 2389
-Yo 1591
-un 1320
+es 2391
+Yo 1593
+un 1322
 li 1305
 ne 968
 Tom 959
@@ -2126,6 +2126,7 @@ vicina 2
 Selecte 2
 recive 2
 personalitá 2
+banane 2
 creativ 2
 avatar 2
 Duesim 2
@@ -4539,7 +4540,6 @@ medallie 1
 "De 1
 veni" 1
 Paris" 1
-banane 1
 maledi 1
 timidmen 1
 ataccat 1
@@ -4703,3 +4703,4 @@ pessimistic 1
 permission 1
 Giraffes 1
 greges 1
+pise 1

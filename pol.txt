@@ -3,15 +3,15 @@ nie 13171
 jest 12982
 w 11649
 Tom 10435
-na 9808
+na 9809
 Nie 8613
-to 7845
+to 7846
 że 7366
 do 7096
 z 6884
 To 4226
 i 4100
-Czy 3691
+Czy 3692
 mi 3415
 o 3315
 mnie 3213
@@ -48,7 +48,7 @@ ten 1154
 jej 1139
 jego 1129
 było 1125
-mogę 1118
+mogę 1119
 Jest 1111
 Ten 1081
 będzie 1059
@@ -94,7 +94,7 @@ teraz 656
 jesteś 649
 mówi 646
 tę 644
-zawsze 639
+zawsze 640
 chce 638
 Chcę 638
 a 637
@@ -149,7 +149,7 @@ książkę 446
 wczoraj 442
 moim 435
 Moja 433
-raz 429
+raz 430
 nim 428
 ludzi 427
 gdzie 426
@@ -285,12 +285,12 @@ kupić 247
 Czemu 247
 książka 246
 będziesz 246
+twoje 245
 spać 245
 nowy 245
 ani 245
 które 245
 ludzie 245
-twoje 244
 taki 243
 wszystkie 243
 nią 242
@@ -3038,6 +3038,7 @@ Brown 23
 dostałem 23
 Wziąłem 23
 dworze 23
+przyjąć 23
 szansy 23
 bój 23
 fakty 23
@@ -3151,7 +3152,6 @@ ostatnich 22
 stu 22
 pozwoli 22
 śmieje 22
-przyjąć 22
 narty 22
 wolnym 22
 nauka 22
@@ -4147,6 +4147,7 @@ przestała 16
 obrazów 16
 uważał 16
 piłka 16
+zamówienie 16
 przystanek 16
 kolei 16
 Mieszkałem 16
@@ -4386,7 +4387,6 @@ statkiem 15
 lekcjach 15
 warunki 15
 żenić 15
-zamówienie 15
 scenie 15
 Kazał 15
 Cukier 15
@@ -5416,6 +5416,7 @@ wrażliwy 12
 Kochamy 12
 płyt 12
 zostaliśmy 12
+Rzuć 12
 dzieciństwo 12
 wąsy 12
 najbliższy 12
@@ -5835,7 +5836,6 @@ Złamał 11
 przegrać 11
 płyty 11
 amerykańskiej 11
-Rzuć 11
 kłopotów 11
 liter 11
 szacunku 11

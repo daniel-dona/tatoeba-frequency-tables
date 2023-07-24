@@ -1,15 +1,15 @@
-Eg 386
+Eg 387
 er 355
 Tom 267
-i 206
-ikkje 170
+i 207
+ikkje 171
 å 170
 på 169
-har 168
+har 169
 til 150
 du 148
 det 118
-eg 110
+eg 111
 ein 107
 Han 107
 han 102
@@ -28,13 +28,13 @@ eit 53
 vart 48
 Ho 43
 kan 40
-ho 37
+ho 38
 Kva 37
 Vi 37
 seg 36
 Dei 34
 så 33
-ei 32
+ei 33
 noko 32
 min 31
 skal 30
@@ -49,11 +49,11 @@ går 24
 mange 24
 hadde 24
 veit 23
+ut 22
 Kven 21
 ha 21
 mykje 21
 Ikkje 21
-ut 21
 dag 20
 må 20
 Har 19
@@ -117,6 +117,7 @@ trur 12
 ser 12
 sett 12
 lese 11
+men 11
 veldig 11
 engelsk 11
 når 11
@@ -130,7 +131,6 @@ kva 11
 bordet 11
 då 10
 alt 10
-men 10
 òg 10
 ville 10
 I 10
@@ -157,6 +157,7 @@ seia 9
 kveld 9
 alle 9
 ned 9
+får 9
 land 9
 over 9
 god 9
@@ -174,7 +175,6 @@ byrja 8
 kom 8
 andre 8
 kaffi 8
-får 8
 Korleis 8
 heiter 8
 snakka 8
@@ -638,6 +638,7 @@ Snakk 2
 bilete 2
 unna 2
 skreiv 2
+fingeren 2
 togn 2
 Kina 2
 stava 2
@@ -1129,7 +1130,6 @@ kalla 1
 blome 1
 skuldar 1
 nærme 1
-fingeren 1
 leppa 1
 bede 1
 Stundom 1
@@ -2482,3 +2482,4 @@ svelte 1
  1
 Viftereima 1
 roke 1
+flis 1

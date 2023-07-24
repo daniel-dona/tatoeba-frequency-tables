@@ -1,14 +1,14 @@
-do 3247
-zou 1172
-di 948
+do 3248
+zou 1173
+di 949
 no 886
 i 777
 Tom 689
 ko 632
 ku 627
 o 579
-id 458
-nu 432
+id 460
+nu 433
 nopo 411
 Au 408
 doid 393
@@ -40,7 +40,7 @@ iho 135
 iti 128
 mai 123
 ii 120
-nunu 118
+nunu 119
 baino 116
 Aiso 116
 gia 113
@@ -66,7 +66,7 @@ aiso 63
 toun 62
 koiho 62
 Onu 61
-timpu 59
+timpu 60
 Mimang 59
 maan 58
 sondii 57
@@ -237,6 +237,7 @@ mamain 18
 hozou 18
 potuu 18
 poguhu 18
+nimaan 18
 diho' 18
 monoodo 18
 Mangakan 17
@@ -252,7 +253,6 @@ noikot 17
 ogumu 17
 tootopot 17
 Ounsikou 17
-nimaan 17
 mamanau 16
 Nosoou 16
 tiso 16
@@ -960,6 +960,7 @@ Humabus 4
 dukutur 4
 dit 4
 hintuun 4
+Pobooso 4
 kabun 4
 Atuukoi 4
 Boos 4
@@ -1252,7 +1253,6 @@ minanaak 3
 ngaatus 3
 piatus 3
 Ongoi 3
-Pobooso 3
 muzium 3
 Nokokinam 3
 kohominan 3
@@ -2036,6 +2036,7 @@ Minonongkiboos 2
 miansau-ansau 2
 Mogumpapahi 2
 Susan 2
+magadau 2
 tohisou 2
 Noohian 2
 toluo 2
@@ -2418,6 +2419,7 @@ sabun 2
 kudi 2
 sodto' 2
 zotokou 2
+Posodia 2
 tomu 2
 metro 2
 gagut 2
@@ -4097,7 +4099,6 @@ Nokopisoomo 1
 Minonusud 1
 pinodsuungan 1
 momompod 1
-magadau 1
 inia 1
 talanggou 1
 kitobuk 1
@@ -6118,7 +6119,6 @@ Mandarin 1
 Koboos 1
 misangod 1
 gumaga 1
-Posodia 1
 Babango 1
 sundu 1
 osindak 1
@@ -6592,3 +6592,6 @@ Ovito 1
 minggazat 1
 koimbuhai 1
 pogidu 1
+poguhui 1
+koundoongon 1
+katatahib 1

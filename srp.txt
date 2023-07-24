@@ -39,7 +39,7 @@ od 685
 Ја 613
 On 594
 са 581
-što 577
+što 578
 Тома 576
 Он 540
 ti 530
@@ -82,8 +82,8 @@ mogu 299
 ovde 288
 mnogo 286
 kao 283
+sve 282
 има 281
-sve 281
 nešto 281
 ja 279
 bih 279
@@ -156,10 +156,10 @@ do 176
 Ti 174
 Mislim 173
 nego 172
+Kada 171
 Meri 171
 iz 170
 sada 170
-Kada 170
 тако 169
 vreme 167
 Хоћу 166
@@ -273,8 +273,8 @@ Imam 110
 Где 109
 Nemoj 109
 posao 109
+Nije 109
 bez 108
-Nije 108
 тога 108
 ono 107
 колико 107
@@ -2965,6 +2965,7 @@ dobrodošao 10
 сигурна 10
 Стани 10
 Изабери 10
+dolaziš 10
 Radim 10
 Mama 10
 Uzmi 10
@@ -3276,7 +3277,6 @@ Predsednik 9
 ниједну 9
 одговара 9
 другом 9
-dolaziš 9
 сломио 9
 pronaći 9
 živeti 9
@@ -3912,6 +3912,7 @@ svo 7
 odatle 7
 prepoznao 7
 Cena 7
+zlato 7
 stola 7
 šef 7
 50 7
@@ -4473,7 +4474,6 @@ Izašao 6
 velikih 6
 veći 6
 ostrva 6
-zlato 6
 Znači 6
 40 6
 sposobnost 6
@@ -9546,6 +9546,7 @@ parkiranje 3
 svestan 3
 zahteva 3
 strpljenja 3
+sija 3
 pobedim 3
 državne 3
 Marsu 3
@@ -9997,4 +9998,3 @@ pričajte 3
 krećemo 3
 klima-uređaj 3
 uglu 3
-povredim 3

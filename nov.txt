@@ -1,7 +1,7 @@
-es 104
-Me 91
+es 105
+Me 92
 li 58
-non 44
+non 45
 vu 44
 Tom 41
 a 40
@@ -14,15 +14,15 @@ manja 30
 vada 25
 e 22
 men 18
+voli 18
 Dona 17
-voli 17
 Lo 16
 nus 15
 Vu 15
 lo 14
+Nus 14
 vun 13
 de 13
-Nus 13
 La 13
 bon 11
 Qualim 11
@@ -256,6 +256,8 @@ rosikolori 2
 kalsonete 2
 Novial 2
 pueras 2
+pasosi 2
+solutione 2
 sanktifika 1
 veni; 1
 dukte 1
@@ -643,8 +645,6 @@ foli 1
 helpa 1
 lingue 1
 mikri 1
-pasosi 1
-solutione 1
 linguiste 1
 malad 1
 milite 1
@@ -656,3 +656,4 @@ Kat 1
 animales 1
 studia 1
 Esperanto 1
+banane 1
