@@ -1,8 +1,8 @@
-je 901
+je 904
 Ali 222
 se 160
 sem 156
-v 146
+v 147
 Tom 124
 so 100
 ne 98
@@ -18,10 +18,10 @@ Ne 79
 si 78
 To 73
 za 71
-Kaj 66
+Kaj 67
+mi 66
 zelo 63
 glavno 63
-mi 62
 ni 61
 Jaz 55
 Govorim 51
@@ -49,16 +49,16 @@ Kdo 27
 ti 27
 po 27
 Zakaj 26
+Ona 25
 Mary 25
+kot 24
 Je 23
 Moje 23
 bila 23
 Danes 23
-Ona 23
-kot 23
+živi 23
 vse 23
 tvoj 22
-živi 22
 Živijo 21
 s 21
 On 21
@@ -121,6 +121,7 @@ Vse 12
 živali 12
 špansko 12
 Prosim 11
+Moja 11
 Moj 11
 biti 11
 Mi 11
@@ -137,7 +138,7 @@ A 11
 kitajsko 11
 o 10
 časa 10
-Moja 10
+nikoli 10
 ura 10
 Grem 10
 do 10
@@ -153,7 +154,6 @@ slovensko 10
 povedal 9
 svoj 9
 svetu 9
-nikoli 9
 prišel 9
 ljudje 9
 sobi 9
@@ -311,6 +311,7 @@ točno 5
 kje 5
 pet 5
 Nemčije 5
+New 5
 Kateri 5
 sama 5
 sin 5
@@ -361,6 +362,7 @@ tamilsko 5
 Hudič 5
 detajlih 5
 berbersko 5
+učiteljica 5
 Amerike 5
 Madžarske 5
 Stranka 5
@@ -450,7 +452,6 @@ pri 4
 samo 4
 pol 4
 človeško 4
-New 4
 Dan 4
 Šla 4
 naredi 4
@@ -516,7 +517,6 @@ tatarsko 4
 gudžaratsko 4
 kašmirsko 4
 Abel 4
-učiteljica 4
 Arabščina 4
 stara 4
 Ljubljana 4
@@ -835,6 +835,7 @@ mala 2
 genij 2
 ostalo 2
 hrano 2
+pozno 2
 Prisilili 2
 članica 2
 Evropske 2
@@ -1025,6 +1026,7 @@ Iz 2
 zakonito 2
 dovolj 2
 kosti 2
+Yorku 2
 policijo 2
 supermarket 2
 njegove 2
@@ -1232,6 +1234,7 @@ apetita 2
 Zrak 2
 mrzel 2
 domovina 2
+teta 2
 čez 2
 Tisti 2
 trenutek 2
@@ -1311,6 +1314,7 @@ najvišja 2
 Krokodili 2
 žuželke 2
 zanimive 2
+Bolje 2
 enaki 2
 »Kateri 2
 danes« 2
@@ -1365,6 +1369,8 @@ metra 2
 zvezd 2
 nebu 2
 tekočina 2
+Zaupaj 2
+Zaupajte 2
 gospod 1
 Ogawa 1
 Francoz 1
@@ -1609,7 +1615,6 @@ brati 1
 Zavlačevanje: 1
 resen 1
 posel 1
-pozno 1
 zapojem 1
 pojem 1
 pridruži 1
@@ -2272,7 +2277,6 @@ Nekaj 1
 mesecev 1
 učila 1
 italijanščine 1
-Yorku 1
 priča 1
 kriminalnega 1
 dejanja 1
@@ -3142,7 +3146,6 @@ Nimate 1
 napake 1
 napakah 1
 doktor 1
-teta 1
 dvanajsto 1
 Čudni 1
 časi 1
@@ -3421,7 +3424,6 @@ južine 1
 zanimivo 1
 Dogovorov 1
 izkuša 1
-Bolje 1
 vrabec 1
 golob 1
 sončen 1
@@ -3775,3 +3777,5 @@ Stena 1
 držav 1
 morje 1
 Fascinira 1
+novega 1
+bogata 1

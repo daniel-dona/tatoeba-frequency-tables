@@ -1,20 +1,20 @@
-lo 12538
-mi 5886
+lo 12539
+mi 5887
 cu 3335
-do 3315
+do 3317
 la 2551
 pu 2257
 nu 2105
-le 2004
-se 1865
-na 1590
+le 2008
+se 1866
+na 1591
 be 1312
-i 1264
+i 1266
 ko'a 1233
 ma 1213
 ka 1193
 ko 1064
-ca 972
+ca 973
 tom 943
 xu 895
 ra 814
@@ -22,7 +22,7 @@ da 809
 fi 707
 klama 651
 ti 618
-ba 569
+ba 570
 du'u 543
 ro 519
 poi 495
@@ -44,12 +44,12 @@ te 340
 pe 297
 no 277
 ta 269
-e'o 267
+e'o 268
 jai 265
 pa 264
+mi'a 257
 viska 257
 pinxe 256
-mi'a 256
 zdani 252
 zukte 251
 co'a 250
@@ -57,7 +57,7 @@ nai 249
 za'u 242
 ka'e 237
 cukta 237
-tavla 235
+tavla 236
 kei 232
 me 229
 ei 228
@@ -68,8 +68,8 @@ tam 219
 ba'o 216
 prami 216
 re 209
+bangu 208
 bu'u 208
-bangu 207
 gi'e 203
 gerku 201
 je 201
@@ -115,8 +115,8 @@ su'o 134
 ce'u 133
 mo 131
 gi 130
+gunka 129
 pei 128
-gunka 128
 go'i 127
 zmadu 127
 meris 127
@@ -141,8 +141,8 @@ da'i 108
 vecnu 108
 barda 106
 ctuca 104
+cnino 104
 ke 104
-cnino 103
 po'o 103
 va 102
 zo 102
@@ -160,10 +160,10 @@ drata 96
 sai 95
 prulamdei 94
 morsi 93
+ma'a 93
 cmalu 93
 jdini 93
 pilno 92
-ma'a 92
 sipna 91
 ui 91
 ckafi 91
@@ -183,6 +183,7 @@ plise 86
 kumfa 86
 nanba 86
 ne'i 85
+tu 85
 zi 85
 nanca 85
 co 84
@@ -190,7 +191,6 @@ ci 84
 fasnu 84
 traji 84
 nixli 83
-tu 83
 cadzu 83
 terpa 83
 pe'i 83
@@ -327,6 +327,7 @@ noda 49
 cortu 48
 vitke 48
 carmi 48
+jinga 48
 glare 47
 glico 47
 banzu 47
@@ -334,7 +335,6 @@ naku 47
 xekri 47
 fau 47
 tixnu 47
-jinga 47
 zgike 46
 kukte 46
 jarco 45
@@ -406,6 +406,7 @@ lacri 37
 cumki 37
 cikre 37
 pu'o 37
+lebna 37
 xatra 37
 xamsi 37
 pexfebdja 37
@@ -414,7 +415,6 @@ tcika 36
 xendo 36
 spofu 36
 danlu 36
-lebna 36
 dansu 36
 solri 36
 pagbu 36
@@ -561,6 +561,7 @@ ki'e 25
 jamfu 25
 di'ai 25
 vamji 25
+tinju'i 24
 manku 24
 xa 24
 xirma 24
@@ -575,7 +576,6 @@ sance 24
 sanmi 24
 ctigau 24
 zu'e 23
-tinju'i 23
 ge 23
 xrukla 23
 rupnu 23
@@ -594,6 +594,7 @@ ru'e 23
 dunli 23
 frica 23
 cipra 23
+plini 23
 tsuku 23
 rutrkoko 23
 frambesi 23
@@ -609,8 +610,8 @@ xajmi 22
 tolcando 22
 tolmo'i 22
 goi 22
+claxu 22
 grusi 22
-plini 22
 spebi'o 22
 gunma 22
 minji 21
@@ -640,7 +641,6 @@ le'e 21
 pesxu 21
 palci 21
 pamoi 21
-claxu 21
 remei 21
 krasi 21
 stace 21
@@ -781,6 +781,7 @@ ca'e 16
 enai 16
 girzu 16
 pante 16
+i'a 16
 e'i 16
 si'unai 16
 lektcati 16
@@ -819,7 +820,6 @@ pencu 15
 do'o 15
 jitro 15
 kibro 15
-i'a 15
 a'ucai 15
 stizu 14
 loldi 14
@@ -836,6 +836,7 @@ creka 14
 raltca 14
 bolci 14
 ckusro 14
+cladu 14
 jipci 14
 lakne 14
 bitmu 14
@@ -874,7 +875,6 @@ dargu 13
 kacma 13
 srasu 13
 tatoebas 13
-cladu 13
 balvi 13
 pikta 13
 mansa 13
@@ -1089,6 +1089,7 @@ dau 9
 farna 9
 so'a 9
 pluja 9
+xarci 9
 citri 9
 bregau 9
 virnu 9
@@ -1142,7 +1143,6 @@ zu 8
 judri 8
 canci 8
 sarji 8
-xarci 8
 bandu 8
 aupei 8
 tolcliva 8
@@ -1707,6 +1707,7 @@ loza'i 4
 dalpe'o 4
 cipnrkorvu 4
 islant 4
+nurxru 4
 cipnrlaru 4
 canja 4
 skiji 4
@@ -1986,7 +1987,6 @@ su'a 3
 amerik 3
 fe'eroroi 3
 pikci 3
-nurxru 3
 serti 3
 sakli 3
 maxri 3
@@ -2055,6 +2055,7 @@ selzda 3
 cumri'a 3
 fendi 3
 pujeca 3
+bangrpolska 3
 jdari 3
 velve'u 3
 piso'uroi 3
@@ -2587,7 +2588,6 @@ kib 2
 slilu 2
 pavysei 2
 tolvri 2
-bangrpolska 2
 naljinsa 2
 me'e 2
 selrircpa 2
@@ -6466,3 +6466,4 @@ surdei 1
 rexsa 1
 smere 1
 natmi 1
+selsagmei 1

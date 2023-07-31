@@ -31,7 +31,7 @@ má 233
 ma 232
 Mária 231
 z 227
-Mám 214
+Mám 215
 ťa 213
 ti 210
 Kde 208
@@ -455,6 +455,7 @@ viem 23
 psov 23
 vidím 23
 siedmej 23
+mačku 22
 škole 22
 prísť 22
 naňho 22
@@ -474,7 +475,6 @@ auto 21
 Kúpil 21
 u 21
 ryby 21
-mačku 21
 musí 21
 odišiel 21
 Po 21
@@ -3365,6 +3365,7 @@ oranžová 3
 danej 3
 odráža 3
 zelenú 3
+bielu 3
 čiernu 3
 srbsky 3
 Navštívili 3
@@ -4821,7 +4822,6 @@ zmiešate 2
 modrú 2
 žltú 2
 farby: 2
-bielu 2
 červenú 2
 šedá 2
 Slovenska 2

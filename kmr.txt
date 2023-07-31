@@ -1,10 +1,10 @@
-Ez 1201
+Ez 1202
+xwe 1033
 e 1032
-xwe 1032
-ji 991
+ji 992
 min 989
 bi 935
-li 824
+li 826
 Ew 812
 ê 736
 û 663
@@ -45,17 +45,17 @@ ew 178
 bikin 177
 in 176
 Wî 174
-hez 168
+hez 169
 pir 168
 Wê 166
 Me 156
 wan 152
 Di 151
-bike 149
+bike 150
 Wan 147
 Li 143
 hene 139
-her 137
+her 138
 We 134
 im 128
 baş 127
@@ -74,7 +74,7 @@ Bi 103
 vir 102
 hev 101
 ev 94
-Divê 92
+Divê 93
 dibistanê 91
 kiriye 89
 ve 87
@@ -130,9 +130,9 @@ bibe 52
 dibin 52
 herî 52
 baz 52
+kes 50
 hevalên 50
 bûm 50
-kes 49
 nakim 48
 dibim 48
 dikarim 48
@@ -174,11 +174,11 @@ dikarî 35
 porê 35
 dikarin 35
 dide 35
+Samî 35
 pêk 35
 bibim 34
 sê 34
 kîjan 34
-Samî 34
 dixwazî 33
 serê 33
 amade 33
@@ -205,6 +205,7 @@ Ka 29
 dibistana 29
 aciz 29
 navê 28
+wir 28
 biçim 28
 xwar 28
 ti 28
@@ -214,7 +215,6 @@ dikare 27
 nikarim 27
 Kî 27
 didin 27
-wir 27
 nav 27
 jiyana 27
 bîr 27
@@ -235,6 +235,7 @@ hîn 24
 bibînim 24
 dîsa 24
 xuya 24
+zimanê 24
 avê 24
 sar 24
 malbata 24
@@ -249,7 +250,6 @@ destên 23
 Hin 23
 benda 23
 rojê 23
-zimanê 23
 fêm 23
 Porê 23
 reş 23
@@ -290,6 +290,7 @@ pênc 20
 sor 20
 hebû 20
 xweşik 20
+berê 20
 laşê 20
 nedaye 20
 ên 19
@@ -303,7 +304,6 @@ ciwan 19
 nabe 19
 biçûk 19
 jêr 19
-berê 19
 xwest 19
 Lê 19
 derdora 19
@@ -332,6 +332,7 @@ wek 17
 heman 17
 kengî 17
 hêvî 17
+êdî 17
 bibî 17
 demê 17
 here 17
@@ -354,7 +355,6 @@ Serê 17
 Bila 17
 nîne 16
 xist 16
-êdî 16
 hey 16
 nikarin 16
 bim 16
@@ -397,6 +397,7 @@ mîna 15
 çûn 15
 nakî 15
 hestî 15
+Bostonê 15
 wenda 14
 hate 14
 dibêjim 14
@@ -425,7 +426,6 @@ Kê 14
 nedin 14
 hestiyên 14
 avêt 14
-Bostonê 14
 nan 13
 saet 13
 guhdarî 13
@@ -457,6 +457,7 @@ nekim 13
 digere 13
 Bawer 12
 girtî 12
+dijîm 12
 bêje 12
 muzîkê 12
 jina 12
@@ -507,7 +508,6 @@ nêzî 11
 der 11
 mêr 11
 dixwest 11
-dijîm 11
 derew 11
 bikirim 11
 azad 11
@@ -3576,6 +3576,7 @@ difikirî 2
 qehreman 2
 bimirin 2
 nenêre 2
+naxebite 2
 vegerin 2
 sparîş 2
 evînê 2
@@ -8748,7 +8749,6 @@ bisekinin 1
 Avahî 1
 keçik 1
 otelekê 1
-naxebite 1
 hûrguliyan 1
 sîbera 1
 Destpêgihiştin 1

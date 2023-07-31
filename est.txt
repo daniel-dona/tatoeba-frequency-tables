@@ -1,5 +1,5 @@
 on 1377
-Ma 877
+Ma 879
 ei 705
 Tom 572
 sa 410
@@ -19,8 +19,8 @@ Sa 135
 olen 132
 Mul 130
 kui 122
+keelt 121
 Me 120
-keelt 119
 väga 118
 pole 111
 mulle 97
@@ -243,6 +243,7 @@ teeb 15
 üks 15
 aidata 15
 polnud 15
+õpin 15
 sinna 15
 Võta 15
 kord 14
@@ -283,7 +284,6 @@ vanem 13
 korda 13
 juhtus 13
 ennast 13
-õpin 13
 nägin 13
 võib 13
 näha 13
@@ -6329,3 +6329,5 @@ Territooriumist 1
 Djibouti 1
 Perekond 1
 udmurtlane 1
+uelsi 1
+kõmri 1

@@ -2,7 +2,7 @@ się 15540
 nie 13171
 jest 12982
 w 11649
-Tom 10435
+Tom 10436
 na 9809
 Nie 8613
 to 7846
@@ -37,19 +37,19 @@ Jestem 1457
 ci 1398
 ale 1368
 dla 1368
-Co 1318
+Co 1320
 Toma 1305
 domu 1282
 Mam 1206
 być 1193
-tylko 1174
+tylko 1176
 Jak 1168
 ten 1154
 jej 1139
 jego 1129
 było 1125
 mogę 1119
-Jest 1111
+Jest 1112
 Ten 1081
 będzie 1059
 tu 1058
@@ -413,11 +413,11 @@ jedzenia 174
 ojca 174
 jakieś 173
 powinien 173
+Chcesz 173
 Lepiej 173
 codziennie 172
 Chyba 172
 im 172
-Chcesz 172
 dolarów 171
 pies 171
 Dobrze 169
@@ -1089,6 +1089,7 @@ zakupy 69
 uważa 69
 Człowiek 69
 domem 69
+Musiałem 69
 prawdy 69
 Wciąż 69
 zdrowia 69
@@ -1103,7 +1104,6 @@ Zrób 68
 Matka 68
 Weź 68
 herbaty 68
-Musiałem 68
 obchodzi 68
 Wkrótce 68
 kobieta 68
@@ -1283,6 +1283,7 @@ Sam 58
 takim 58
 Dałem 58
 woda 58
+chłopiec 58
 mieszkać 58
 wszedł 58
 państwo 58
@@ -1308,7 +1309,6 @@ palenie 57
 banku 57
 matematyki 57
 Zgubiłem 57
-chłopiec 57
 czerwony 57
 używa 57
 Ponieważ 57
@@ -1737,6 +1737,7 @@ ciepło 43
 wyższy 43
 godzina 43
 słyszę 43
+powietrza 43
 taką 43
 uprzejmy 43
 nauczycielką 43
@@ -1812,7 +1813,6 @@ uczciwy 41
 mądry 41
 wielkie 41
 Nowym 41
-powietrza 41
 Jeżeli 41
 państwa 41
 przypomina 41
@@ -1828,6 +1828,7 @@ krawat 41
 tamtym 41
 powinni 41
 jedynie 41
+wygrać 41
 Byłam 41
 wyboru 41
 zawiera 40
@@ -1881,7 +1882,6 @@ lepsze 40
 śmieci 40
 momencie 40
 stołu 40
-wygrać 40
 Wiedziałem 40
 kochasz 40
 zabił 40
@@ -2304,6 +2304,7 @@ Zostań 32
 morze 32
 musieli 32
 umiera 32
+odpowiedział 32
 pasażerów 32
 córkę 32
 Urodziłem 32
@@ -2369,7 +2370,6 @@ spóźni 31
 kolej 31
 lody 31
 rzekę 31
-odpowiedział 31
 kąpiel 31
 Wiatr 31
 rzeczywistości 31
@@ -2645,6 +2645,7 @@ zadać 27
 Pochodzę 27
 sensie 27
 zrozumiał 27
+bogata 27
 ptaków 27
 drużyny 27
 Byłoby 27
@@ -2732,7 +2733,6 @@ znaczków 26
 Pospiesz 26
 wyjątkowo 26
 doczekać 26
-bogata 26
 urządzenie 26
 ręką 26
 Minęło 26
@@ -5626,6 +5626,7 @@ powinnaś 12
 zadbać 12
 spódnicę 12
 plików 12
+Musiałam 12
 targ 12
 robicie 12
 wiewiórki 12
@@ -6085,7 +6086,6 @@ niesamowite 11
 udawał 11
 pobiegł 11
 Robimy 11
-Musiałam 11
 waszego 11
 Zamierzasz 11
 sąsiadem 11
@@ -8490,6 +8490,7 @@ poznali 7
 zając 7
 sceny 7
 Prowadzi 7
+ogłosił 7
 lekturze 7
 przyjście 7
 prawdziwego 7
@@ -9549,7 +9550,6 @@ fanów 6
 Niezbyt 6
 samopoczucie 6
 nadążam 6
-ogłosił 6
 horyzont 6
 dyrektorem 6
 uspokoił 6

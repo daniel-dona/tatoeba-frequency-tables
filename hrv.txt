@@ -1,23 +1,23 @@
-je 1617
-se 600
-u 543
+je 1622
+se 601
+u 544
 sam 452
 da 409
 li 385
 na 321
 ne 280
 Tom 271
-i 230
+i 231
 su 207
-mi 203
+mi 207
 Ne 191
 to 184
 za 166
 si 164
 što 164
 nije 157
+od 146
 On 145
-od 144
 To 119
 ti 118
 te 118
@@ -26,10 +26,10 @@ smo 106
 s 102
 će 96
 bi 93
-Ona 89
+Ona 92
 Ja 87
 ću 87
-Što 84
+Što 85
 bio 83
 biti 72
 o 69
@@ -37,9 +37,9 @@ ga 68
 mogu 65
 Jesi 62
 nego 62
+ima 61
 više 60
 Tko 59
-ima 59
 Je 51
 bih 51
 sve 50
@@ -59,16 +59,16 @@ vrijeme 45
 kao 45
 Želim 45
 bila 45
+Gdje 44
 nešto 44
 on 43
-Gdje 43
 jako 43
+Koliko 42
 Kako 41
 dan 41
 svoje 41
 U 41
 do 41
-Koliko 41
 samo 41
 Nisam 40
 sa 40
@@ -122,12 +122,12 @@ reći 27
 Možeš 27
 nema 27
 posao 27
+moja 26
 mogao 26
 vrata 26
 Mislim 26
 pomoći 26
 učiniti 26
-moja 25
 ništa 25
 po 25
 engleski 25
@@ -343,6 +343,7 @@ Kao 11
 bolje 11
 dati 11
 minuta 11
+puta 11
 prvi 11
 smrti 11
 čekati 11
@@ -370,7 +371,6 @@ Japanu 10
 blizu 10
 djece 10
 preko 10
-puta 10
 radiš 10
 pravu 10
 znači 10
@@ -527,6 +527,7 @@ dolara 7
 Zato 7
 posjetiti 7
 igra 7
+pa 7
 glavni 7
 majku 7
 automobil 7
@@ -612,8 +613,8 @@ toj 6
 strani 6
 mrtav 6
 vodom 6
-pa 6
 visoko 6
+daleko 6
 postoje 6
 jednostavno 6
 nebu 6
@@ -729,7 +730,6 @@ priča 5
 zadovoljan 5
 nama 5
 kralj 5
-daleko 5
 čovjeku 5
 Mama 5
 zaboraviti 5
@@ -737,6 +737,7 @@ Možda 5
 sol 5
 brata 5
 plavu 5
+reci 5
 njegovom 5
 izgubio 5
 Govori 5
@@ -919,7 +920,6 @@ dane 4
 popraviti 4
 inozemstvo 4
 dugu 4
-reci 4
 subotu 4
 Uzmi 4
 odeš 4
@@ -1422,6 +1422,7 @@ Degas 3
 godišnje 3
 proveo 3
 čitajući 3
+učiteljica 3
 psi 3
 živim 3
 Nadamo 3
@@ -1543,6 +1544,7 @@ Zagreb 3
 zagonetku 3
 grada 3
 nestala 3
+vatre 3
 Kuća 3
 kčeri 3
 nestao 3
@@ -1582,6 +1584,7 @@ Nekoliko 3
 jedina 3
 Vaša 3
 sposoban 3
+očiju 3
 kraj 3
 žali 3
 nje 3
@@ -1711,6 +1714,7 @@ ode 2
 odlaziš 2
 stupnjeva 2
 golf 2
+zao 2
 autor 2
 Rođena 2
 Takav 2
@@ -1777,6 +1781,7 @@ promijenio 2
 crveno 2
 Pronašao 2
 prehlada 2
+bogata 2
 Kava 2
 visoka 2
 sunca 2
@@ -2318,7 +2323,6 @@ postupak 2
 pohvalu 2
 auta 2
 Struja 2
-vatre 2
 zahvaljujem 2
 hladan 2
 vjetar 2
@@ -2464,7 +2468,6 @@ učiteljem 2
 strica 2
 dokasno 2
 Napokon 2
-očiju 2
 biljke 2
 oboje 2
 natrag 2
@@ -2802,6 +2805,8 @@ srijeda 2
 Antonio 2
 plavo 2
 profitira 2
+Vjeruj 2
+Vjerujte 2
 Jack 1
 Tomojuki 1
 Ogura 1
@@ -2983,7 +2988,6 @@ razumno 1
 Umirem 1
 gladi 1
 računati 1
-zao 1
 kunić 1
 uspoređuje 1
 Ameriku 1
@@ -3155,7 +3159,6 @@ osramiti 1
 nasmijali 1
 zagubio 1
 čime 1
-bogata 1
 takva 1
 kakva 1
 Afrike 1
@@ -4116,7 +4119,6 @@ Ponekad 1
 pitam 1
 umu 1
 usanjao 1
-učiteljica 1
 poslali 1
 pozivnice 1
 vjerni 1
@@ -8092,3 +8094,13 @@ Snijeg 1
 Zrak 1
 bezbojna 1
 Čovek 1
+novo 1
+Vrag 1
+krije 1
+detaljima 1
+Ispeci 1
+Daleko 1
+srca 1
+Dug 1
+drug 1
+dima 1

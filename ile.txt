@@ -555,6 +555,7 @@ svimma 8
 ca 8
 deveni 8
 Canada 8
+De 8
 Ta 8
 nive 8
 compra 8
@@ -624,7 +625,6 @@ orfan 7
 decidet 7
 yelb 7
 camise 7
-De 7
 can 7
 desaparit 7
 Ido 7
@@ -4704,3 +4704,5 @@ permission 1
 Giraffes 1
 greges 1
 pise 1
+situatie 1
+escaleert 1

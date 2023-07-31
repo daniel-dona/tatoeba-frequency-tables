@@ -1,6 +1,6 @@
-ir 1116
+ir 1120
 Es 651
-Toms 420
+Toms 421
 ka 324
 un 281
 to 263
@@ -10,20 +10,20 @@ ar 203
 Viņš 190
 par 188
 Man 174
-bija 163
+bija 164
 es 160
 no 156
 uz 156
 nav 153
 man 142
 Viņa 134
-tas 132
+tas 133
 kā 116
+ļoti 113
 Mēs 112
-ļoti 112
 ko 111
 kas 104
-Tas 99
+Tas 100
 jūs 98
 tev 94
 lai 92
@@ -136,22 +136,22 @@ savā 22
 mana 22
 varu 22
 ilgi 22
+viņai 22
 kur 22
 tad 22
 vairs 22
 cilvēkiem 22
 viņiem 21
 Kad 21
+diezgan 21
 mājās 21
 laiks 21
-viņai 21
 doties 21
 Marijai 21
 vien 20
 gandrīz 20
 vari 20
 esat 20
-diezgan 20
 tagad 20
 runā 20
 runāt 20
@@ -171,6 +171,7 @@ tiešām 18
 joprojām 18
 mans 18
 savas 18
+Mūsu 18
 kuru 18
 kurš 18
 Visi 17
@@ -189,7 +190,6 @@ Viņai 16
 vēlaties 16
 darbu 16
 redzēt 16
-Mūsu 16
 cilvēku 16
 vienkārši 16
 Ziri 16
@@ -199,6 +199,7 @@ Mana 15
 kopā 15
 grūti 15
 labāk 15
+No 15
 tēvs 15
 vēlas 15
 manu 15
@@ -207,8 +208,8 @@ biju 15
 jauns 15
 tās 15
 Sami 15
-No 14
 diena 14
+angļu 14
 skolu 14
 tam 14
 kāpēc 14
@@ -219,7 +220,6 @@ garšo 14
 Sveiks 13
 laika 13
 labu 13
-angļu 13
 Šodien 13
 atpakaļ 13
 draugs 13
@@ -228,6 +228,7 @@ tiek 13
 domā 13
 nevis 13
 viss 13
+valodas 13
 pateicīgs 13
 dzīvot 12
 māja 12
@@ -274,7 +275,6 @@ mazliet 11
 nevēlas 11
 gribi 11
 sieviete 11
-valodas 11
 ēdu 11
 notiek 11
 īsti 11
@@ -448,6 +448,7 @@ nevarēja 7
 jautājumu 7
 grib 7
 ik 7
+galā 7
 domājat 7
 jauki 7
 Tam 7
@@ -518,7 +519,6 @@ pasaule 6
 jūtas 6
 nebūtu 6
 filmu 6
-galā 6
 pasaules 6
 Bostonu 6
 taču 6
@@ -553,6 +553,7 @@ kalna 5
 dzīvnieki 5
 dažus 5
 nauda 5
+izdevās 5
 nedzeru 5
 Tēvs 5
 Eiropā 5
@@ -585,6 +586,7 @@ Laipni 5
 lūdzam 5
 blakus 5
 Pat 5
+beidzot 5
 ābolu 5
 zaudēt 5
 bijusi 5
@@ -654,6 +656,7 @@ citus 5
 pati 5
 izruna 5
 nerūp 5
+programma 5
 saules 5
 varam 5
 nebūs 5
@@ -699,11 +702,11 @@ Daudz 4
 ceļu 4
 skaistas 4
 kādam 4
+vārdi 4
 Bērni 4
 iespēju 4
 Dievs 4
 šovakar 4
-izdevās 4
 kopš 4
 izslēgt 4
 gāzi 4
@@ -747,7 +750,6 @@ manā 4
 minūtes 4
 lielas 4
 atvēra 4
-beidzot 4
 klasē 4
 maz 4
 vīrietis 4
@@ -946,7 +948,6 @@ mirt 3
 skolotājs 3
 nomira 3
 nervozi 3
-vārdi 3
 asins 3
 grupa 3
 zvaigznēm 3
@@ -1024,6 +1025,7 @@ zirgs 3
 tavā 3
 nāc 3
 bezmaksas 3
+daži 3
 būtisks 3
 nākt 3
 nepatika 3
@@ -1565,7 +1567,6 @@ lido 2
 TV 2
 vecāks 2
 nenotika 2
-daži 2
 jūtos 2
 Tokijā 2
 brīnums 2
@@ -2145,6 +2146,7 @@ viedokli 2
 Ēģipti 2
 kravas 2
 kustībā 2
+atzinās 2
 izdarītu 2
 Paskat 2
 troksni 2
@@ -2431,6 +2433,8 @@ nodevību 2
 tuneļos 2
 nomāktību 2
 kavē 2
+Mācību 2
+mācību 2
 John 1
 Nancy 1
 Čikāga 1
@@ -4853,7 +4857,6 @@ garuma 1
 apskatīt 1
 kosmētiku 1
 liecinieku 1
-programma 1
 jūrnieks 1
 aptieku 1
 Xi 1
@@ -5363,7 +5366,6 @@ pirmstam 1
 dežurē 1
 uznesu 1
 kastes 1
-atzinās 1
 darījusi 1
 aizdošu 1
 nepieciešamos 1
@@ -8117,3 +8119,14 @@ ievēroja 1
 baktēriju 1
 augšanu 1
 jārīkojas 1
+Galu 1
+Beigās 1
+iejaucās 1
+apsardze 1
+plaši 1
+pievienota 1
+novecojusi 1
+visaptveroša 1
+racionalizēta 1
+japāņu 1
+izriet 1

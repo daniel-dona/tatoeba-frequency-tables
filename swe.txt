@@ -1,33 +1,33 @@
-är 10911
+är 10913
 Jag 10677
-Tom 6560
+Tom 6561
 att 6500
-inte 6477
+inte 6478
 du 4772
-en 4769
+en 4770
 på 4576
-det 4427
-i 4239
-har 3963
-Det 3672
+det 4428
+i 4240
+har 3964
+Det 3673
 Han 3260
 jag 3007
 mig 2579
 här 2553
 för 2495
 var 2448
-med 2288
+med 2289
 till 2191
 om 2149
 och 2148
 Hon 2003
-ett 1819
+ett 1820
 Vi 1807
 dig 1783
 den 1743
 som 1734
 kan 1609
-Du 1510
+Du 1511
 av 1483
 han 1170
 kommer 1167
@@ -44,7 +44,7 @@ skulle 899
 vi 847
 ska 835
 Mary 823
-Är 809
+Är 810
 göra 791
 måste 783
 honom 761
@@ -65,7 +65,7 @@ Kan 604
 vet 579
 upp 574
 oss 571
-bara 566
+bara 567
 behöver 557
 hon 549
 nu 541
@@ -80,7 +80,7 @@ Min 495
 man 493
 från 473
 aldrig 468
-gillar 446
+gillar 447
 någon 439
 åt 431
 finns 413
@@ -101,7 +101,7 @@ alltid 366
 ingen 366
 sa 365
 men 361
-väldigt 356
+väldigt 357
 ta 355
 när 350
 Ni 349
@@ -257,12 +257,12 @@ kände 127
 jobb 126
 inga 126
 hand 126
+människor 125
 ge 125
 då 125
 pratar 124
 första 124
 säker 124
-människor 124
 rädd 124
 försökte 124
 väg 124
@@ -283,8 +283,8 @@ trött 118
 sade 118
 började 117
 någonsin 116
+dog 116
 Får 115
-dog 115
 bok 114
 tänker 114
 rum 114
@@ -515,6 +515,7 @@ berättade 61
 sista 61
 huvudet 61
 person 60
+Många 60
 Glöm 60
 följa 60
 stannade 60
@@ -524,7 +525,6 @@ barnen 60
 tvungen 60
 först 60
 sen 59
-Många 59
 fanns 59
 enkelt 59
 svenska 59
@@ -781,6 +781,7 @@ Men 39
 sönder 39
 röst 39
 eget 39
+Ät 39
 dollar 39
 Och 39
 måndag 39
@@ -797,7 +798,6 @@ tänkte 38
 Tokyo 38
 början 38
 stolt 38
-Ät 38
 ordet 38
 saken 38
 äpple 38
@@ -835,6 +835,7 @@ springa 36
 Går 36
 Algeriet 36
 Någon 36
+Barnen 36
 Sätt 36
 stranden 35
 nej 35
@@ -852,7 +853,6 @@ någonstans 35
 långa 35
 färdigt 35
 ljuger 35
-Barnen 35
 semester 34
 exempel 34
 största 34
@@ -864,6 +864,7 @@ huvud 34
 glasögon 34
 stannar 34
 Såg 34
+skämt 34
 Ibland 34
 lyssna 34
 Tatoeba 34
@@ -877,9 +878,9 @@ fler 33
 väntade 33
 bett 33
 Flickan 33
+röda 33
 långsamt 33
 luktar 33
-skämt 33
 Släpp 33
 köper 33
 van 33
@@ -899,7 +900,6 @@ Rima 33
 åtta 32
 sätta 32
 förrän 32
-röda 32
 skratta 32
 log 32
 farfar 32
@@ -1755,6 +1755,7 @@ fingrar 14
 soppan 14
 Bill 14
 bollen 14
+kriget 14
 förklarade 14
 lagen 14
 platsen 14
@@ -1861,7 +1862,6 @@ ljuset 13
 besöker 13
 sparkade 13
 krävde 13
-kriget 13
 lov 13
 biljett 13
 breda 13
@@ -2623,6 +2623,7 @@ nere 9
 bröstet 9
 spelet 9
 avundsjuk 9
+yoghurt 9
 nuförtiden 9
 Tio 9
 lektionen 9
@@ -2888,7 +2889,6 @@ köttbullar 8
 Lär 8
 fattas 8
 vunnit 8
-yoghurt 8
 kommentar 8
 Försvinn 8
 Ormen 8
@@ -3214,6 +3214,7 @@ oroa 7
 Pojkarna 7
 jagar 7
 måla 7
+fingrarna 7
 Hästar 7
 Harvard 7
 värst 7
@@ -3454,6 +3455,7 @@ byggt 6
 finner 6
 portugisiska 6
 människans 6
+känslig 6
 diskuterade 6
 Alex 6
 smidigt 6
@@ -3619,7 +3621,6 @@ matta 6
 suckade 6
 tretton 6
 oroliga 6
-fingrarna 6
 farliga 6
 Redan 6
 Mer 6
@@ -3935,7 +3936,6 @@ klingonska 5
 Elden 5
 vänjer 5
 nederländska 5
-känslig 5
 samlar 5
 träden 5
 torkade 5
@@ -4206,6 +4206,7 @@ Prova 5
 sjuksköterskan 5
 diskussionen 5
 familjer 5
+spindel 5
 Hjälpte 5
 ropade 5
 vuxit 5
@@ -5020,7 +5021,6 @@ kommittén 4
 journalist 4
 nationalitet 4
 Folket 4
-spindel 4
 förändrades 4
 torra 4
 Kon 4
@@ -5291,6 +5291,7 @@ fjärran 4
 Havet 4
 kongressen 4
 nedför 4
+kinder 4
 försvunnit 4
 rikligt 4
 Åskan 4
@@ -6801,7 +6802,6 @@ sjunkande 3
 hundarna 3
 därefter 3
 utför 3
-kinder 3
 Undvik 3
 piller 3
 rekord 3
