@@ -1,5 +1,5 @@
-ir 1120
-Es 651
+ir 1121
+Es 652
 Toms 421
 ka 324
 un 281
@@ -10,7 +10,7 @@ ar 203
 Viņš 190
 par 188
 Man 174
-bija 164
+bija 166
 es 160
 no 156
 uz 156
@@ -19,11 +19,11 @@ man 142
 Viņa 134
 tas 133
 kā 116
-ļoti 113
+ļoti 114
 Mēs 112
 ko 111
 kas 104
-Tas 100
+Tas 102
 jūs 98
 tev 94
 lai 92
@@ -40,7 +40,7 @@ daudz 65
 viņu 65
 esi 64
 Marija 61
-tevi 59
+tevi 60
 šo 58
 bet 58
 teica 57
@@ -48,8 +48,8 @@ var 56
 mēs 54
 Viņi 52
 tik 52
+labi 51
 tā 51
-labi 50
 jums 47
 arī 47
 kaut 46
@@ -60,16 +60,16 @@ jau 44
 darīt 44
 Mums 44
 patīk 43
+varētu 42
 kad 42
-varētu 41
 tikai 41
 Esmu 41
 pa 41
 Ko 40
 Kā 39
+Jūs 39
 nekad 38
 Tā 38
-Jūs 38
 Tev 37
 šeit 37
 Cik 37
@@ -166,6 +166,7 @@ sevi 19
 sapnis 19
 jādara 19
 gan 19
+Lai 18
 pārāk 18
 tiešām 18
 joprojām 18
@@ -175,7 +176,6 @@ Mūsu 18
 kuru 18
 kurš 18
 Visi 17
-Lai 17
 viņas 17
 Jums 17
 kādu 17
@@ -183,6 +183,7 @@ tava 17
 Toma 17
 jo 17
 kurls 17
+vienkārši 17
 saka 17
 citu 16
 skaista 16
@@ -191,7 +192,6 @@ vēlaties 16
 darbu 16
 redzēt 16
 cilvēku 16
-vienkārši 16
 Ziri 16
 Uz 15
 pret 15
@@ -230,6 +230,7 @@ nevis 13
 viss 13
 valodas 13
 pateicīgs 13
+noguris 12
 dzīvot 12
 māja 12
 katru 12
@@ -252,8 +253,8 @@ dzīvi 12
 kādreiz 12
 Janni 12
 Paldies 11
-noguris 11
 notika 11
+Kurš 11
 Pēc 11
 lietas 11
 nevēlos 11
@@ -285,7 +286,6 @@ Saules 11
 sapņi 11
 reizēm 11
 vēlos 10
-Kurš 10
 šī 10
 pateica 10
 Ar 10
@@ -350,6 +350,7 @@ Varbūt 9
 prom 9
 darītu 9
 citiem 9
+Viss 9
 gribēju 9
 Bostonā 9
 Beidz 9
@@ -393,7 +394,6 @@ nedomāju 8
 mūziku 8
 mūzika 8
 redzēju 8
-Viss 8
 skatīties 8
 priekšroku 8
 ātri 8
@@ -410,6 +410,7 @@ matus 7
 visas 7
 runājat 7
 te 7
+alu 7
 slikti 7
 nezina 7
 reizi 7
@@ -462,7 +463,6 @@ agri 6
 nakti 6
 kurienes 6
 drīz 6
-alu 6
 Bija 6
 dziesmu 6
 darba 6
@@ -822,6 +822,7 @@ Pulkstenis 4
 bumbu 4
 vienalga 4
 pirmais 4
+dzer 4
 dzīvs 4
 automašīnas 4
 ilgu 4
@@ -1153,7 +1154,6 @@ izdarīšu 3
 runāja 3
 Angļu 3
 burtu 3
-dzer 3
 Uzmanies 3
 nosaukums 3
 Kādā 3
@@ -1211,6 +1211,7 @@ banāni 3
 šitas 3
 Neesi 3
 apmeklēt 3
+nākamnedēļ 3
 Tik 3
 varēja 3
 saskatīt 3
@@ -1758,6 +1759,7 @@ acīm 2
 klausoties 2
 lasa 2
 Piens 2
+jūtaties 2
 netraucēju 2
 iztulkot 2
 tomāts 2
@@ -1978,7 +1980,6 @@ lietu 2
 iedošu 2
 pildspalvu 2
 drēbes 2
-nākamnedēļ 2
 smiltis 2
 ievērojams 2
 iepriekšējā 2
@@ -2194,6 +2195,7 @@ palaist 2
 dažādu 2
 buramvārdi 2
 Katra 2
+ilūzija 2
 aiziesi 2
 uzvesties 2
 dzeršana 2
@@ -3623,7 +3625,6 @@ sviestmaizi 1
 skābs 1
 Tomi 1
 parrunāt 1
-jūtaties 1
 nepazīstu 1
 Saulīte 1
 datums 1
@@ -5780,7 +5781,6 @@ radoša 1
 līmeņi 1
 atšķiras 1
 Atšķirība 1
-ilūzija 1
 Pienāks 1
 laiki 1
 lēni 1
@@ -8130,3 +8130,9 @@ visaptveroša 1
 racionalizēta 1
 japāņu 1
 izriet 1
+maigs 1
+neskaidrs 1
+pamācīt 1
+ripo 1
+Sīkāk 1
+paskaidrošu 1

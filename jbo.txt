@@ -1,15 +1,15 @@
-lo 12539
-mi 5887
-cu 3335
-do 3317
+lo 12540
+mi 5888
+cu 3337
+do 3318
 la 2551
 pu 2257
-nu 2105
-le 2008
+nu 2106
+le 2011
 se 1866
 na 1591
 be 1312
-i 1266
+i 1267
 ko'a 1233
 ma 1213
 ka 1193
@@ -19,7 +19,7 @@ tom 943
 xu 895
 ra 814
 da 809
-fi 707
+fi 708
 klama 651
 ti 618
 ba 570
@@ -55,8 +55,8 @@ zukte 251
 co'a 250
 nai 249
 za'u 242
+cukta 238
 ka'e 237
-cukta 237
 tavla 236
 kei 232
 me 229
@@ -91,7 +91,7 @@ verba 155
 xabju 155
 fe 151
 kau 149
-fetsi 148
+fetsi 149
 lo'e 147
 sidju 146
 ku'i 146
@@ -107,7 +107,7 @@ ninmu 139
 jukpa 137
 patfu 136
 vo'a 136
-tcidu 135
+tcidu 136
 jinvi 135
 zo'u 135
 simlu 134
@@ -224,9 +224,9 @@ tcadu 71
 xo 70
 zbasu 70
 va'o 70
+gugde 70
 fai 69
 catlu 69
-gugde 69
 zoi 69
 stali 68
 mikce 68
@@ -250,10 +250,10 @@ glibau 65
 limna 65
 ta'i 65
 bajra 64
+krici 64
 tcati 64
 ai 64
 slabu 63
-krici 63
 di'u 62
 lenku 62
 klaku 61
@@ -278,6 +278,7 @@ cidja 58
 mei 58
 fanva 57
 ije 57
+cevni 57
 ta'e 57
 sisti 57
 cpedu 57
@@ -285,7 +286,6 @@ fengu 57
 ponjo 56
 facki 56
 rirni 56
-cevni 56
 jibri 56
 dei 55
 preti 55
@@ -1401,6 +1401,7 @@ venfu 6
 fe'e 6
 besna 6
 cau 6
+toldra 6
 viku 6
 cecla 6
 la'edi'u 6
@@ -1547,7 +1548,6 @@ si'u 5
 bastn 5
 kalsa 5
 karbi 5
-toldra 5
 xebro 5
 jaspu 5
 stapa 5
@@ -2479,6 +2479,7 @@ pesti'i 2
 tcemelbi 2
 nivycreka 2
 PAkistan 2
+misrygu'e 2
 zgatirna 2
 mam 2
 brama'a 2
@@ -3797,7 +3798,6 @@ nivji 1
 bixpa'i 1
 gubyseltru 1
 cipnrxigli 1
-misrygu'e 1
 bantadni 1
 kurki 1
 tu'unre'e 1

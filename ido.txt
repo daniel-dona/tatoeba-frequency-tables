@@ -1,25 +1,25 @@
-esas 2676
+esas 2679
 la 2086
-Me 2073
+Me 2075
 ne 1208
 La 938
-me 826
-Tom 822
+me 827
+Tom 824
 tu 787
-Ka 637
+Ka 638
 en 554
-havas 531
+havas 533
 es 445
 Il 394
 di 379
-ke 375
+ke 376
 vu 374
 mea 373
+Ni 362
 a 360
-Ni 360
 e 336
-esis 319
-volas 294
+esis 320
+volas 295
 povas 287
 tre 268
 por 255
@@ -38,7 +38,7 @@ kun 171
 to 170
 tua 170
 sua 167
-To 165
+To 166
 pri 149
 bela 148
 Ne 146
@@ -58,8 +58,8 @@ Qua 114
 Mary 111
 multa 107
 granda 106
+amas 104
 bezonas 104
-amas 103
 Vu 102
 maxim 101
 lo 100
@@ -115,12 +115,12 @@ un 65
 su 64
 devas 64
 mondo 64
+odias 62
 esar 62
 dil 62
 Ca 62
-odias 61
+Maria 62
 nova 61
-Maria 61
 lu 59
 dicis 58
 Voluntez 57
@@ -170,17 +170,17 @@ Se 42
 arivis 42
 Ilua 42
 tri 42
+kredas 42
 Kande 41
 ka 41
 facas 41
 urbo 41
-kredas 41
 o 41
 viro 40
 On 40
+kompris 40
 ube 40
 se 40
-kompris 39
 che 39
 habitas 39
 importanta 39
@@ -202,13 +202,13 @@ til 36
 manjis 35
 dio 35
 havis 35
+Deo 35
 iras 34
 letro 34
 chambro 34
 Quante 34
 ante 34
 yunino 34
-Deo 34
 Vi 33
 vera 33
 spozino 33
@@ -252,7 +252,9 @@ mala 28
 existas 28
 perdis 28
 reda 28
+kati 27
 trovis 27
+vivar 27
 iros 27
 venis 27
 Elua 27
@@ -263,9 +265,7 @@ yuna 27
 filiulo 27
 pano 27
 Ziri 27
-kati 26
 Tatoeba 26
-vivar 26
 tam 26
 rapide 26
 inteligenta 26
@@ -287,6 +287,7 @@ altra 25
 kaptis 25
 filiino 25
 yaro 25
+Sami 25
 olu 24
 lingui 24
 tablo 24
@@ -303,7 +304,6 @@ aspektas 24
 mortis 24
 anke 24
 Esperanto 24
-Sami 24
 pordo 23
 libera 23
 plus 23
@@ -313,6 +313,7 @@ ita 23
 kavalo 23
 No 23
 helpo 23
+tero 23
 kontre 23
 jus 23
 Rima 23
@@ -326,7 +327,6 @@ adheme 22
 skribis 22
 naskis 22
 Franca 22
-tero 22
 skolo 22
 plusa 22
 savar 22
@@ -893,6 +893,7 @@ vicino 7
 kantis 7
 manuo 7
 oficeyo 7
+simio 7
 Ken 7
 skopo 7
 Roma 7
@@ -982,6 +983,7 @@ tradukisto 7
 repteri 7
 Salas 7
 amis 7
+Hundi 7
 kisis 7
 flava 7
 anmo 7
@@ -1029,7 +1031,6 @@ alonge 6
 habitis 6
 altri 6
 l'automobilo 6
-simio 6
 debas 6
 sidas 6
 voyajas 6
@@ -1082,6 +1083,7 @@ Nulo 6
 brava 6
 kuris 6
 idei 6
+sentis 6
 yes 6
 pasas 6
 depos 6
@@ -1121,7 +1123,6 @@ inkubi 6
 flatuar 6
 lentigini 6
 Judi 6
-Hundi 6
 urso 6
 chanjas 6
 griza 6
@@ -1261,7 +1262,6 @@ Karen 5
 spirito 5
 furtis 5
 Kristonasko 5
-sentis 5
 kelke 5
 Nu 5
 ploris 5
@@ -1797,6 +1797,7 @@ revo 3
 Bone 3
 okupita 3
 preco 3
+senlimita 3
 maladeso 3
 kreskas 3
 me; 3
@@ -1809,6 +1810,7 @@ proprietajo 3
 ganis 3
 templo 3
 savus 3
+l'universo 3
 rumoro 3
 sata 3
 polita 3
@@ -2054,6 +2056,7 @@ ankorfoye 3
 dezerto 3
 matri 3
 homulo 3
+pizza 3
 enigmato 3
 herbo 3
 pure 3
@@ -2426,7 +2429,6 @@ Esus 2
 profesiono 2
 uzata 2
 Fidez 2
-senlimita 2
 Kontre 2
 kontree 2
 Hispaniani 2
@@ -2446,7 +2448,6 @@ negar 2
 balnokuvo 2
 refuzas 2
 ludkubi 2
-l'universo 2
 rezultis 2
 suficanta 2
 determinas 2
@@ -2933,6 +2934,7 @@ sajo 2
 Hominala 2
 lango 2
 valo 2
+Interreto 2
 restez 2
 Hisashi 2
 deino 2
@@ -3038,7 +3040,6 @@ Tam 2
 oldeskas 2
 labora 2
 Judaismo 2
-pizza 2
 koloroza 2
 fureto 2
 furtero" 2
@@ -3337,6 +3338,7 @@ Elon 2
 Musk 2
 kat-yuno 2
 Vladimir 2
+alejo 2
 Klabaster 1
 Gizmo 1
 acidente 1
@@ -5813,7 +5815,6 @@ studado 1
 fieresas 1
 humileso 1
 lumas 1
-Interreto 1
 employata 1
 Fikra 1
 Mo3tabara 1
@@ -7937,3 +7938,8 @@ demoni 1
 vagas 1
 sutraktos 1
 armi 1
+femino 1
+transgenrino 1
+Agrokultivisti 1
+kultivas 1
+pace 1

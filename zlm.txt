@@ -107,12 +107,12 @@ punya 21
 Boston 21
 kali 21
 kereta 21
+تق 21
 memang 20
 Nak 20
 bila 20
 susah 20
 jumpa 20
-تق 20
 kawan 19
 lama 19
 marah 19
@@ -167,6 +167,7 @@ baca 13
 Tolong 13
 tahun 13
 Jangan 13
+اکو 13
 hal 13
 sebelum 12
 harap 12
@@ -198,7 +199,6 @@ kuat 11
 minggu 11
 siap 11
 كاو 11
-اکو 11
 apa-apa 11
 jalan 11
 bising 11
@@ -236,6 +236,7 @@ jam 9
 OK 9
 اكو 9
 توم 9
+کاو 9
 Korang 9
 paham 9
 muka 9
@@ -289,7 +290,8 @@ tangkap 7
 bukak 7
 tido 7
 kawin 7
-کاو 7
+تو 7
+نق 7
 tadi 7
 bulan 7
 call 7
@@ -327,8 +329,7 @@ janji 6
 bilik 6
 mengaku 6
 cuti 6
-تو 6
-نق 6
+ده 6
 patut 6
 jual 6
 still 6
@@ -372,7 +373,6 @@ bukannya 5
 asyik 5
 sibuk 5
 يڠ 5
-ده 5
 ني 5
 makanan 5
 Duit 5
@@ -452,7 +452,9 @@ Lain 4
 hujung 4
 Jepun 4
 اورڠ 4
+ماچم 4
 ڤندميک 4
+اد 4
 Tengok 4
 kunci 4
 pintu 4
@@ -570,7 +572,6 @@ lepak 3
 sedar 3
 راس 3
 لايلا 3
-ماچم 3
 تيڠوق 3
 Pandemik 3
 بارو 3
@@ -584,7 +585,7 @@ Semalam 3
 دودوق 3
 2013 3
 lama-lama 3
-اد 3
+لا 3
 Bagi 3
 دي 3
 كنا 3
@@ -803,9 +804,11 @@ mesin 2
 bunyinya 2
 ج 2
 نمڤق 2
+ڤايه 2
 ڤون 2
 چاكڤ 2
 mamat 2
+دڠر 2
 bunuh 2
 yah 2
 anime 2
@@ -1438,7 +1441,6 @@ tiru 1
 Duduk 1
 رومه 1
 بوسن 1
-لا 1
 Duk 1
 umah 1
 pishang 1
@@ -1486,7 +1488,6 @@ membazir 1
 ڤرچاي 1
 امبيق 1
 چوتي 1
-ڤايه 1
 لوڤا 1
 Ayat 1
 سوک 1
@@ -1515,7 +1516,6 @@ Cer 1
 ڤرنه 1
 نمڤق؟ 1
 د 1
-دڠر 1
 Kacang 1
 بونوه 1
 ديري 1
@@ -2355,3 +2355,10 @@ laki 1
 hon 1
 apasal 1
 Selama 1
+راکيت 1
+سبيجيق 1
+ڤوڽ 1
+تاو 1
+سيڠݢل⹁ 1
+دڠکي 1
+سمواڽ 1

@@ -25,7 +25,7 @@ qar'a' 281
 jatlh 278
 wej 251
 DaHjaj 248
-ghaj 247
+ghaj 248
 pa' 245
 nuqDaq 242
 puS 240
@@ -60,7 +60,7 @@ poH 163
 'ar 159
 ghaHvaD 155
 'op 152
-vIghro' 151
+vIghro' 152
 wa'maH 151
 vIghaj 147
 ben 147
@@ -162,12 +162,12 @@ Do 62
 tom 61
 yIn 61
 woch 61
+Sa'mIy 61
 DaneH 60
 be'Hom 60
 Dab 60
 naHmey 60
 'IHqu' 60
-Sa'mIy 60
 parHa' 59
 ghojmeH 59
 Daghaj'a' 58
@@ -1093,6 +1093,7 @@ chuSwI' 10
 tlhol 10
 qonta' 10
 'och 10
+DIghaj 10
 quSDaq 10
 jatlhbogh 10
 'oHmo' 10
@@ -1196,7 +1197,6 @@ yIDel 9
 yotlhDaq 9
 paSlogh 9
 puqbe'pu' 9
-DIghaj 9
 yItlhutlh 9
 lutDaj 9
 QaQbogh 9
@@ -6299,6 +6299,7 @@ jIjanglaH 2
 tavetlh 2
 venglIjDaq 2
 nayeghra' 2
+qa'put 2
 yeHuDIy 2
 yaHDaj 2
 DaturtaH 2
@@ -9997,4 +9998,3 @@ vIHmoH 1
 chIllaw'pu' 1
 bIvuttaH 1
 vavnI'wI'vaD 1
-vavvaD 1

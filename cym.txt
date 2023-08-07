@@ -27,8 +27,8 @@ dy 50
 Mary 48
 Roedd 48
 mynd 46
+chi'n 45
 yw 45
-chi'n 44
 ni 44
 i'r 42
 iawn 41
@@ -97,6 +97,7 @@ hyn 15
 ardd 15
 oes 15
 e'n 14
+Ydych 14
 Saesneg 14
 Does 14
 Dydy 14
@@ -108,7 +109,6 @@ darllen 14
 Ydy 14
 Dywedodd 14
 ni'n 13
-Ydych 13
 dych 13
 ein 13
 gwisgo 13
@@ -174,6 +174,7 @@ nawr 9
 Bydd 9
 lle 9
 mwynhau 9
+hon 9
 garddio 9
 Nadolig 9
 ble 8
@@ -198,7 +199,6 @@ Layla 8
 hun 8
 Mae’n 8
 bach 8
-hon 8
 dwlu 8
 car 7
 sydd 7
@@ -270,6 +270,7 @@ Cafodd 5
 Gymraeg 5
 adref 5
 problem 5
+ddinas 5
 ysgrifennu 5
 rhif 5
 allan 5
@@ -325,7 +326,6 @@ ennill 4
 digon 4
 dros 4
 ddigon 4
-ddinas 4
 ddyn 4
 cig 4
 ddwy 4
@@ -397,6 +397,7 @@ Arhoswch 4
 trwy 4
 sy' 4
 prifddinas 4
+hoffi'r 4
 fydd 4
 Yma 4
 Dylech 4
@@ -538,7 +539,6 @@ glas 3
 wyau 3
 Prynodd 3
 torri 3
-hoffi'r 3
 llun 3
 clywed 3
 Lundain 3

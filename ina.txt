@@ -1,25 +1,25 @@
-le 12870
-es 8074
-un 6887
-de 6863
+le 12873
+es 8077
+un 6894
+de 6864
 Le 4830
-ha 4757
-in 4319
-que 3885
-non 3744
-Io 3566
+ha 4762
+in 4320
+que 3887
+non 3745
+Io 3570
 e 2939
 del 2932
 a 2658
-tu 2202
+tu 2205
 Ille 1808
-me 1600
+me 1603
 io 1584
 al 1547
 su 1518
 se 1509
 Il 1446
-Tom 1404
+Tom 1406
 pro 1364
 lo 1292
 con 1235
@@ -36,15 +36,15 @@ per 826
 como 785
 te 777
 il 760
-grande 743
-Nos 719
+grande 744
+Nos 721
 Tu 717
 Illa 711
 blau 686
 Iste 658
 multe 584
 habeva 572
-Esque 568
+Esque 569
 vole 567
 debe 547
 Isto 531
@@ -54,7 +54,7 @@ Que 513
 qui 503
 Mi 499
 isto 499
-Un 496
+Un 498
 esser 496
 sur 466
 super 452
@@ -68,7 +68,7 @@ on 420
 lingua 417
 ma 408
 sape 407
-Non 397
+Non 398
 illa 392
 va 381
 illes 377
@@ -92,20 +92,20 @@ parla 298
 Si 297
 nostre 296
 aqua 295
-ama 292
-sin 288
+ama 293
+sin 290
 sol 267
 On 267
 vostre 263
 tanto 263
 Deo 263
+era 256
 ancora 254
-era 254
+Illo 250
 anglese 248
-Illo 248
 apud 248
 dicer 246
-An 244
+An 245
 son 242
 A 241
 quando 240
@@ -118,13 +118,13 @@ Su 223
 dice 220
 mal 219
 sempre 217
-diceva 214
+diceva 215
 morte 210
 inter 210
 durante 209
 amor 209
+Es 206
 haber 206
-Es 205
 la 205
 libro 201
 persona 201
@@ -141,8 +141,8 @@ trova 186
 ante 184
 die 184
 facite 183
+mangia 182
 amico 181
-mangia 181
 jammais 180
 Ego 179
 faceva 176
@@ -152,8 +152,8 @@ parlar 173
 favor 171
 Qui 171
 troppo 171
+Proque 170
 melior 169
-Proque 169
 Como 168
 cata 167
 linguas 164
@@ -175,7 +175,7 @@ parolas 154
 patre 151
 ora 150
 mar 149
-francese 146
+francese 147
 prime 145
 moneta 145
 veritate 145
@@ -183,8 +183,8 @@ terra 145
 essera 144
 musica 143
 proque 142
+catto 141
 post 141
-catto 140
 hodie 139
 assi 139
 citate 139
@@ -243,24 +243,24 @@ ulle 111
 fluvio 110
 amicos 109
 nulle 109
-dicite 108
+dicite 109
 proprie 108
 vide 107
 tabula 106
 horas 105
 auto 105
+vices 105
 ancian 105
-vices 104
+problema 104
 trovar 104
 habe 104
 anque 103
-problema 103
 qual 102
+pais 102
 facile 102
 les 101
 urbe 101
 apprender 100
-pais 100
 contra 100
 comprende 99
 hora 99
@@ -337,11 +337,11 @@ esperanto 77
 ego 77
 mercato 76
 debeva 76
+alcun 76
 Illas 76
 anima 76
 historia 75
 venir 75
-alcun 75
 vetule 75
 nonne 75
 heri 74
@@ -421,11 +421,11 @@ lumine 62
 Ma 62
 viro 62
 presente 61
+comprava 61
 poter 61
 Post 61
 festa 60
 trovava 60
-comprava 60
 travalio 60
 verso 59
 cinque 59
@@ -474,6 +474,7 @@ forma 54
 fortuna 53
 intelligente 53
 pauc 53
+universo 53
 natura 53
 iva 53
 Necuno 53
@@ -491,7 +492,6 @@ vento 51
 brillante 51
 sposa 51
 differente 51
-universo 51
 milles 51
 bassino 51
 pictoresc 51
@@ -726,6 +726,7 @@ campo 36
 situa 36
 calide 35
 Japon 35
+usar 35
 dormir 35
 completemente 35
 dictionario 35
@@ -738,7 +739,6 @@ lacrimas 35
 probabilemente 35
 coco 35
 senior 34
-usar 34
 rememora 34
 Ben 34
 capital 34
@@ -802,6 +802,7 @@ Svedia 32
 dominica 31
 visitar 31
 pede 31
+pan 31
 costume 31
 fame 31
 color 31
@@ -820,7 +821,6 @@ obra 31
 majoritate 31
 laborar 30
 pejor 30
-pan 30
 audi 30
 lassa 30
 Europa 30
@@ -846,6 +846,7 @@ meditar 30
 nahuatl 30
 scande 30
 policia 29
+cattos 29
 passar 29
 arbores 29
 lassava 29
@@ -873,7 +874,6 @@ scripte 29
 projecto 29
 compra 29
 evenite 29
-cattos 28
 stupide 28
 natar 28
 perfecte 28
@@ -946,6 +946,7 @@ sortir 26
 frequentemente 26
 audientia 26
 chef 26
+cognosceva 26
 Lassa 26
 sedeva 26
 plano 26
@@ -979,7 +980,6 @@ nasceva 25
 cinema 25
 metros 25
 incontrava 25
-cognosceva 25
 retornar 25
 mense 25
 Canada 25
@@ -1181,6 +1181,7 @@ Sia 21
 special 21
 assatis 21
 eveni 21
+sonia 21
 monstra 21
 Finalmente 21
 solution 21
@@ -1224,6 +1225,7 @@ Secundo 20
 ecclesia 20
 dur 20
 bordo 20
+terribile 20
 decideva 20
 decision 20
 cappello 20
@@ -1240,7 +1242,6 @@ attendeva 20
 Mesmo 20
 pensamento 20
 mysterio 20
-sonia 20
 stella 20
 placite 20
 russe 20
@@ -1282,7 +1283,6 @@ Germania 19
 tempesta 19
 basso 19
 doctor 19
-terribile 19
 folios 19
 cena 19
 vinti 19
@@ -1323,6 +1323,7 @@ IALA 19
 bollas 19
 condition 18
 tentava 18
+oleo 18
 italian 18
 muro 18
 rapide 18
@@ -1406,7 +1407,6 @@ ponte 17
 vadite 17
 surprendite 17
 qualitate 17
-oleo 17
 publico 17
 mantener 17
 lente 17
@@ -1650,6 +1650,8 @@ logic 15
 grammatica 15
 religiose 15
 las 15
+catta 15
+eveliava 14
 crear 14
 molliate 14
 lineas 14
@@ -1657,6 +1659,7 @@ pardona 14
 marita 14
 pagina 14
 classic 14
+limites 14
 mori 14
 gamba 14
 sucro 14
@@ -1699,6 +1702,7 @@ Guerra 14
 paradiso 14
 entra 14
 occidental 14
+vende 14
 minor 14
 concerne 14
 filias 14
@@ -1743,7 +1747,6 @@ saison 14
 latin 14
 Seque 14
 nos" 14
-catta 14
 bengali 14
 blanchette 14
 Jecta 14
@@ -1759,7 +1762,6 @@ evolution 13
 Nove 13
 York 13
 elephante 13
-limites 13
 ordine 13
 Plus 13
 large 13
@@ -1811,7 +1813,6 @@ curiose 13
 pensate 13
 claude 13
 possibilitate 13
-vende 13
 methodo 13
 campana 13
 intense 13
@@ -1876,7 +1877,6 @@ visitate 12
 sortiva 12
 angulo 12
 surprisa 12
-eveliava 12
 Union 12
 multitude 12
 presidente 12
@@ -1897,6 +1897,7 @@ porco 12
 central 12
 obreros 12
 mentir 12
+Egypto 12
 billetes 12
 economic 12
 cader 12
@@ -2030,7 +2031,6 @@ volava 11
 disveloppamento 11
 varietate 11
 milliardos 11
-Egypto 11
 banio 11
 Adam 11
 destruite 11
@@ -2083,6 +2083,7 @@ Shakespeare 11
 - 11
 aquas 11
 disparite 11
+banda 11
 legiermente 11
 sympathic 11
 accesso 11
@@ -2246,7 +2247,6 @@ Nunquam 10
 lavar 10
 Testes 10
 furate 10
-banda 10
 creatura 10
 bracios 10
 contos 10
@@ -2419,6 +2419,7 @@ damno 9
 recte 9
 complexe 9
 canal 9
+pizza 9
 electricitate 9
 secrete 9
 scholas 9
@@ -2637,7 +2638,6 @@ descende 8
 interprete 8
 passage 8
 integremente 8
-pizza 8
 preparar 8
 significato 8
 functionar 8
@@ -3512,6 +3512,7 @@ transformar 6
 jecta 6
 sancte 6
 Natura 6
+illimitate 6
 perciper 6
 espaventate 6
 pinos 6
@@ -3600,6 +3601,7 @@ quadro 6
 trai 6
 instruction 6
 dollar 6
+Canes 6
 mitraismo 6
 judaismo 6
 esperantista 6
@@ -4087,7 +4089,6 @@ masculin 5
 puteo 5
 fascinate 5
 ferree 5
-illimitate 5
 sapon 5
 grossier 5
 latra 5
@@ -4237,7 +4238,6 @@ corrumpe 5
 pronunciation 5
 vincera 5
 stylo 5
-Canes 5
 nomen 5
 pronomines 5
 audition 5
@@ -5167,6 +5167,7 @@ Umayyadas 4
 arabic 4
 transformate 4
 Arabe 4
+Iran 4
 ruinar 4
 km/h 4
 Austria 4
@@ -5987,6 +5988,7 @@ competition 3
 volera 3
 Potera 3
 = 3
+tusse 3
 constata 3
 palissada 3
 ONU 3
@@ -6608,7 +6610,6 @@ caliphas 3
 statouniteses 3
 venetian 3
 mongol 3
-Iran 3
 confrontava 3
 mutarea 3
 aeronave 3
@@ -6672,6 +6673,7 @@ cocineros 3
 Orwell 3
 ericios 3
 mulier 3
+Johannes 3
 schizzava 3
 picturava 3
 heroes 3
@@ -7886,7 +7888,6 @@ x 2
 equation 2
 + 2
 negativemente 2
-tusse 2
 inadvertentia 2
 satira 2
 Nam 2
@@ -9066,6 +9067,7 @@ excessivemente 2
 covate 2
 Promitte 2
 "salvar" 2
+discarga 2
 Clicca 2
 habitava 2
 lexicographia 2
@@ -9559,7 +9561,6 @@ Ukraina 2
 Pecunia 2
 misogynos 2
 debilissime 2
-Johannes 2
 stupefacente 2
 villano 2
 scelerato 2
@@ -9615,6 +9616,7 @@ feminista 2
 Animistas 2
 singultava 2
 Selige 2
+cocaina 2
 crack 2
 hoc 2
 meliorisar 2
@@ -9996,5 +9998,3 @@ tremulante 1
 massas 1
 luctante 1
 defensive 1
-Ludovico 1
-olfaction 1

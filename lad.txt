@@ -1,6 +1,6 @@
-es 271
+es 272
 Tom 159
-un 142
+un 143
 El 105
 la 99
 de 97
@@ -101,6 +101,7 @@ Vos 10
 Son 10
 linguas 10
 komo 10
+gatos 10
 paras 10
 padre 10
 te 10
@@ -112,7 +113,6 @@ arvoles 10
 Ladino 9
 A 9
 tu 9
-gatos 9
 Mozotros 9
 moendiz 9
 איסטו 9
@@ -180,6 +180,7 @@ personas 6
 גאטו 6
 ייו 6
 קומו 6
+Tenemos 6
 vuestra 6
 מוזﬞיר 6
 Lo 6
@@ -226,7 +227,6 @@ siempre 5
 madjar 5
 kastilyano 5
 טייני 5
-Tenemos 5
 tienen 5
 yo 5
 לינגואס 5
@@ -2128,3 +2128,5 @@ kazas 1
 konstruye 1
 robotes 1
 idish 1
+Ayifto 1
+payis 1

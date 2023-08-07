@@ -1,4 +1,4 @@
-je 1622
+je 1624
 se 601
 u 544
 sam 452
@@ -38,8 +38,8 @@ mogu 65
 Jesi 62
 nego 62
 ima 61
+Tko 60
 više 60
-Tko 59
 Je 51
 bih 51
 sve 50
@@ -72,10 +72,11 @@ do 41
 samo 41
 Nisam 40
 sa 40
+Imam 40
 vrlo 40
 ovdje 40
 koji 40
-Imam 39
+Ovo 38
 moj 38
 a 38
 vremena 38
@@ -84,7 +85,6 @@ ljudi 38
 svoju 37
 ovo 36
 Moj 36
-Ovo 36
 bilo 36
 ja 36
 Kada 35
@@ -112,6 +112,7 @@ taj 29
 ćeš 29
 Toma 29
 knjiga 28
+moja 28
 Da 28
 Volim 28
 radi 28
@@ -122,7 +123,6 @@ reći 27
 Možeš 27
 nema 27
 posao 27
-moja 26
 mogao 26
 vrata 26
 Mislim 26
@@ -203,6 +203,7 @@ problem 18
 sati 18
 zbog 18
 zar 17
+žena 17
 svojoj 17
 volim 17
 često 17
@@ -230,7 +231,6 @@ otac 16
 ih 16
 ono 16
 moje 15
-žena 15
 prijatelji 15
 deset 15
 mora 15
@@ -503,6 +503,7 @@ večeras 8
 Ništa 8
 jedna 8
 točno 8
+pije 8
 nisu 8
 voziti 8
 čuo 8
@@ -570,7 +571,6 @@ ljude 7
 način 7
 govorio 7
 nedjeljom 7
-pije 7
 pitao 7
 ubila 7
 krevet 7
@@ -588,6 +588,7 @@ dolazi 7
 Nešto 7
 vjerovati 7
 nemam 7
+ideju 7
 kurac 7
 Layla 7
 Bok 6
@@ -694,7 +695,6 @@ svom 6
 rečenice 6
 trebamo 6
 vidi 6
-ideju 6
 nove 6
 krivu 6
 rekla 6
@@ -712,6 +712,7 @@ Dobar 5
 vi 5
 trebaju 5
 drugima 5
+pivo 5
 siguran 5
 životinje 5
 veliki 5
@@ -874,7 +875,6 @@ jest 4
 Koje 4
 Jedan 4
 devet 4
-pivo 4
 soba 4
 brine 4
 prijatelje 4
@@ -1659,6 +1659,7 @@ sranje 3
 Zove 2
 Ken 2
 zovete 2
+Edita 2
 "Hvala" 2
 studentica 2
 "Jesi 2
@@ -2815,7 +2816,6 @@ Bilježnica 1
 Njezino 1
 udžbenik 1
 Brute 1
-Edita 1
 talijanskom 1
 XXX 1
 nizozemskom 1
@@ -8104,3 +8104,5 @@ srca 1
 Dug 1
 drug 1
 dima 1
+bolju 1
+Anda 1

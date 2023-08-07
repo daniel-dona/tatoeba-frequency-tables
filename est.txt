@@ -52,7 +52,7 @@ Kus 61
 Mida 58
 hea 58
 Mary 58
-Kes 56
+Kes 57
 Mu 56
 sinu 54
 ema 53
@@ -527,6 +527,7 @@ ostsin 7
 vabandust 7
 maasikaid 7
 saaksin 7
+õlut 7
 autot 7
 tagant 7
 arvab 7
@@ -586,6 +587,7 @@ leia 6
 Küsi 6
 meist 6
 võtmed 6
+joob 6
 Tahan 6
 arst 6
 sinine 6
@@ -606,7 +608,6 @@ küsimus 6
 must 6
 peal 6
 tulid 6
-õlut 6
 magab 6
 mängida 6
 võimalik 6
@@ -694,7 +695,6 @@ hambaid 5
 sõpra 5
 Elu 5
 süda 5
-joob 5
 pärit 5
 vihkab 5
 vanaisa 5

@@ -1,5 +1,5 @@
-að 3814
-er 3121
+að 3815
+er 3123
 Ég 2291
 í 2067
 á 1675
@@ -11,7 +11,7 @@ til 769
 og 731
 það 694
 við 674
-Hún 673
+Hún 674
 Þú 644
 var 638
 hann 635
@@ -78,8 +78,8 @@ mikið 117
 Þau 115
 upp 113
 fór 112
+Hver 111
 úr 111
-Hver 110
 Þessi 110
 ekkert 110
 kom 109
@@ -233,6 +233,7 @@ komið 40
 gott 40
 einu 40
 gæti 40
+drekka 40
 halda 40
 sama 40
 fékk 39
@@ -243,7 +244,6 @@ Hvaða 39
 býr 39
 ætla 39
 vinsamlegast 39
-drekka 39
 vita 39
 vinna 38
 Þegar 38
@@ -402,6 +402,7 @@ lífi 25
 hræddur 25
 auðvelt 25
 langt 25
+bjór 25
 strax 25
 ein 25
 Hvers 25
@@ -417,7 +418,6 @@ finna 24
 tvo 24
 hrædd 24
 herbergið 24
-bjór 24
 þær 24
 búið 24
 sjónvarpið 23
@@ -4537,6 +4537,7 @@ lyklana 2
 bragðast 2
 Báturinn 2
 Kona 2
+hvít 2
 forseti 2
 snjónum 2
 kanínan 2
@@ -8470,7 +8471,6 @@ hengdi 1
 þvottinn 1
 snúru 1
 ráðleggingum 1
-hvít 1
 hátíðinni 1
 veislunni 1
 kosinn 1

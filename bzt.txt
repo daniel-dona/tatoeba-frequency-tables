@@ -1,6 +1,6 @@
-es 118
-Eo 88
-yn 62
+es 119
+Eo 89
+yn 63
 rhen 60
 di 46
 Tomos 41
@@ -31,12 +31,12 @@ math 8
 lesbian 8
 gath 7
 h-yddew 7
+ffuin 7
 sun 7
 Greid 7
 mhod 6
 llifr 6
 af 6
-ffuin 6
 ed 6
 ben 6
 wol 6
@@ -106,6 +106,7 @@ llâ 3
 di'll 3
 cach 3
 anc 3
+Dew 3
 digas 3
 ddigas 3
 morth 3
@@ -161,7 +162,6 @@ fasterig 2
 basterig 2
 pharlant 2
 Basterig 2
-Dew 2
 gwirdd 2
 e 2
 'armenar 2
@@ -571,3 +571,4 @@ cos 1
 politig 1
 bon 1
 pesc 1
+gredd 1

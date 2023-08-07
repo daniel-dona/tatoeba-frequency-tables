@@ -1,12 +1,12 @@
 är 10913
 Jag 10677
 Tom 6561
-att 6500
+att 6501
 inte 6478
-du 4772
+du 4774
 en 4770
 på 4576
-det 4428
+det 4429
 i 4240
 har 3964
 Det 3673
@@ -21,16 +21,16 @@ till 2191
 om 2149
 och 2148
 Hon 2003
-ett 1820
+ett 1821
 Vi 1807
 dig 1783
 den 1743
 som 1734
 kan 1609
-Du 1511
+Du 1513
 av 1483
 han 1170
-kommer 1167
+kommer 1168
 sig 1124
 så 1101
 Vad 1081
@@ -49,7 +49,7 @@ göra 791
 måste 783
 honom 761
 där 744
-Har 732
+Har 733
 vara 710
 Var 699
 ha 699
@@ -57,7 +57,7 @@ ut 697
 Den 682
 hade 674
 vad 672
-din 664
+din 666
 de 624
 tycker 623
 Kan 604
@@ -82,7 +82,7 @@ från 473
 aldrig 468
 gillar 447
 någon 439
-åt 431
+åt 430
 finns 413
 dag 405
 mitt 400
@@ -109,12 +109,12 @@ två 340
 älskar 339
 gjorde 339
 En 337
-Vem 336
+Vem 337
 kunde 335
 in 333
 såg 331
 efter 330
-över 324
+över 325
 dem 317
 kom 316
 komma 312
@@ -132,9 +132,9 @@ sitt 285
 år 284
 mer 284
 ville 279
-allt 276
 Toms 276
 känner 275
+allt 275
 bli 274
 I 273
 barn 272
@@ -149,7 +149,7 @@ bor 251
 kunna 247
 franska 247
 vid 243
-vilja 241
+vilja 242
 tillbaka 240
 sina 239
 se 236
@@ -203,10 +203,10 @@ sett 171
 ofta 170
 Ziri 170
 varje 169
+Skulle 168
 länge 168
 Låt 167
 åka 167
-Skulle 167
 engelska 166
 tala 165
 gammal 165
@@ -321,10 +321,10 @@ saker 104
 vår 103
 klockan 103
 hittade 103
+dricker 103
 läsa 102
 Ska 102
 gånger 102
-dricker 102
 lätt 101
 jobbet 101
 nog 101
@@ -374,9 +374,9 @@ tyckte 88
 ihåg 88
 sant 88
 del 88
+öl 88
 ännu 88
 igår 87
-öl 87
 snabbt 86
 borta 86
 arbetar 86
@@ -672,6 +672,7 @@ menar 47
 spelade 46
 bör 46
 Behöver 46
+vinna 46
 nytt 46
 hårt 46
 studerar 46
@@ -687,7 +688,6 @@ flickvän 46
 skeppet 46
 bakom 46
 Lägg 45
-vinna 45
 tal 45
 kvinnor 45
 svart 45
@@ -1487,6 +1487,7 @@ korrekt 18
 ställe 18
 drar 18
 ö 18
+pass 18
 Bilen 18
 direkt 18
 insåg 18
@@ -1546,7 +1547,6 @@ lider 17
 rör 17
 rösta 17
 lyssnade 17
-pass 17
 Bli 17
 skydda 17
 skit 17
@@ -1830,7 +1830,6 @@ undantag 14
 nå 14
 kyrkan 14
 Människor 14
-helvete 14
 komplicerat 14
 soppa 14
 jämt 14
@@ -1949,6 +1948,7 @@ Bor 13
 Brasilien 13
 hjälpt 13
 företag 13
+helvete 13
 ytlig 13
 Visste 13
 Världen 13
@@ -3496,6 +3496,7 @@ möjlighet 6
 brann 6
 skriker 6
 Finlands 6
+missbrukar 6
 halva 6
 identitet 6
 biljetter 6
@@ -3827,6 +3828,7 @@ skojar 5
 blöta 5
 nätt 5
 turkiska 5
+position 5
 tallrik 5
 maken 5
 ledare 5
@@ -4487,7 +4489,6 @@ morgonmänniska 4
 Sydkorea 4
 trott 4
 användbar 4
-position 4
 Mjölk 4
 dryck 4
 attackera 4
@@ -4704,7 +4705,6 @@ trettioett 4
 synen 4
 försvunna 4
 version 4
-missbrukar 4
 monster 4
 ögonbryn 4
 Världens 4
@@ -9232,6 +9232,7 @@ statsbesök 2
 17 2
 Finländarna 2
 kvinnans 2
+ställning 2
 rampfeber 2
 orsakade 2
 strömavbrott 2
@@ -9997,4 +9998,3 @@ uppväxt 2
 blött 2
 temperaturer 2
 smeknamnet 2
-blåslampa 2

@@ -1,6 +1,6 @@
 je 446
 se 170
-sam 159
+sam 161
 u 153
 da 131
 li 109
@@ -55,6 +55,7 @@ sa 14
 sve 14
 Molim 14
 nego 14
+Ko 13
 Jesi 13
 vrijeme 13
 iz 13
@@ -64,7 +65,6 @@ Imam 13
 više 13
 vas 13
 tamo 13
-Ko 12
 kući 12
 Nisam 12
 radi 12
@@ -164,6 +164,7 @@ možeš 7
 tvoja 6
 mačka 6
 treba 6
+pivo 6
 vremena 6
 šta 6
 Mary 6
@@ -201,7 +202,6 @@ prijatelj 5
 Mi 5
 ime 5
 ova 5
-pivo 5
 Nemam 5
 kahvu 5
 dvije 5
@@ -916,6 +916,7 @@ ukrao 2
 lijek 2
 dolaziti 2
 Bosnu 2
+pije 2
 plemena 2
 čaj 2
 jači 2
@@ -2978,7 +2979,6 @@ Neću 1
 Vozim 1
 Haris 1
 rado 1
-pije 1
 ljuti 1
 kurac 1
 misliti 1
@@ -3149,3 +3149,5 @@ Tvoja 1
 bučna 1
 iznenađen 1
 pojavio 1
+Žedan 1
+Gladan 1
