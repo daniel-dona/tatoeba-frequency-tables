@@ -1,5 +1,5 @@
-Tomas 699
-No 527
+Tomas 700
+No 528
 das 457
 no 419
 binom 394
@@ -47,7 +47,7 @@ buki 61
 Tomase 61
 ol 59
 kisi 59
-kanob 57
+kanob 58
 keli 56
 pükön 55
 binoms 54
@@ -66,13 +66,13 @@ okik 47
 Kiöp 47
 flen 45
 Hiel 45
+kil 44
 tel 43
-kil 43
 Binol 43
 äbinom 43
+nu 43
 domo 43
 obes 42
-nu 42
 binön 42
 Tomasa 42
 ofi 41
@@ -172,6 +172,7 @@ tuvön 21
 miti 21
 Hetob 21
 Boston 21
+Binobs 21
 tikob 21
 vobi 20
 vobön 20
@@ -180,7 +181,6 @@ kafi 20
 Dog 20
 kanol 20
 flentapüki 20
-Binobs 20
 Li-kanol 20
 velatik 20
 kiöp 20
@@ -583,6 +583,7 @@ mel 5
 Söl 5
 dabinon 5
 pledön 5
+älabom 5
 Vom 5
 lifi 5
 Adelo 5
@@ -708,7 +709,6 @@ lif 4
 brefik 4
 remön 4
 bü 4
-älabom 4
 hiel 4
 Plidob 4
 vifik 4
@@ -1566,6 +1566,7 @@ Li-lödol 2
 Äsvimobs 2
 sätiko 2
 pahetom 2
+pelön 2
 Svimom 2
 Slipof 2
 Äpükom 2
@@ -3487,7 +3488,6 @@ seplänön 1
 papükom 1
 funolöd 1
 epömetom 1
-pelön 1
 len 1
 fin 1
 Van 1
@@ -4538,3 +4538,5 @@ poso 1
 lilolöd 1
 Tidelas 1
 Edunoms 1
+yufelis 1
+pädans 1

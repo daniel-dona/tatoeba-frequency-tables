@@ -1,10 +1,10 @@
-się 15540
+się 15542
 nie 13171
-jest 12982
+jest 12983
 w 11649
 Tom 10436
-na 9809
-Nie 8613
+na 9810
+Nie 8614
 to 7846
 że 7366
 do 7096
@@ -15,32 +15,32 @@ Czy 3692
 mi 3415
 o 3315
 mnie 3213
-ma 2886
+ma 2887
 co 2786
-On 2684
+On 2685
 za 2609
 jak 2492
 tego 2371
 po 2317
 Mary 2212
-są 2088
+są 2089
 tym 1910
 W 1891
 bardzo 1870
 od 1684
 był 1659
 tak 1659
-Ona 1651
+Ona 1652
 go 1512
 już 1462
-Jestem 1457
+Jestem 1458
 ci 1398
 ale 1368
 dla 1368
 Co 1320
 Toma 1305
 domu 1282
-Mam 1206
+Mam 1207
 być 1193
 tylko 1176
 Jak 1168
@@ -61,7 +61,7 @@ przez 966
 może 965
 Jesteś 953
 ze 946
-jestem 913
+jestem 914
 by 912
 pan 902
 coś 895
@@ -104,7 +104,7 @@ ciebie 608
 nigdy 604
 Kto 601
 lat 599
-lubi 594
+lubi 595
 mój 575
 Myślę 565
 Jego 564
@@ -116,8 +116,8 @@ trzy 534
 roku 534
 miał 534
 wiele 531
+chcę 530
 Tomowi 530
-chcę 529
 pracy 529
 samochód 528
 trochę 521
@@ -125,12 +125,12 @@ bez 518
 Po 514
 dziś 513
 ja 513
-Jeśli 511
+Jeśli 512
 chcesz 508
 prawda 504
 przed 500
 swoje 499
-tutaj 493
+tutaj 494
 powiedzieć 490
 Muszę 489
 czas 484
@@ -235,14 +235,14 @@ przy 287
 długo 287
 Był 286
 stało 285
-nocy 284
+nocy 285
 Zawsze 284
 francusku 284
 Bardzo 282
 kto 282
+czego 281
 Bostonie 281
 list 280
-czego 280
 Tomem 279
 kiedyś 278
 cały 277
@@ -353,8 +353,8 @@ pomoc 198
 tych 198
 Potrzebuję 198
 myśli 198
+zna 197
 rozumiem 196
-zna 196
 godziny 195
 wiesz 195
 Ktoś 195
@@ -529,12 +529,12 @@ kraju 137
 ponad 137
 żebym 137
 Przez 136
+wiedziałem 136
 Ale 136
 kupił 136
 oni 136
 plan 136
 Przestań 136
-wiedziałem 135
 temat 135
 potrzebuje 135
 nikogo 135
@@ -549,6 +549,7 @@ lub 133
 żyć 133
 Dzisiaj 133
 człowiekiem 132
+natychmiast 132
 miasto 132
 rower 132
 albo 132
@@ -556,7 +557,6 @@ którego 132
 Ludzie 132
 którym 132
 zdania 131
-natychmiast 131
 twoją 131
 wyjść 131
 dziesięć 131
@@ -687,8 +687,8 @@ nauczycielem 110
 działa 110
 nadal 110
 piłkę 109
+widzę 109
 klasie 109
-widzę 108
 godzin 108
 mama 108
 Słyszałem 108
@@ -890,6 +890,7 @@ odpowiedzi 85
 początku 85
 Czas 84
 stoi 84
+jabłko 84
 Szkoda 84
 przyszłości 84
 Będzie 84
@@ -898,7 +899,6 @@ Bóg 84
 mogła 84
 piwo 83
 mleka 83
-jabłko 83
 zapomnij 83
 Kot 83
 zadowolony 83
@@ -1116,6 +1116,7 @@ studentów 67
 japońsku 67
 zadzwonił 67
 wsi 67
+czerwone 67
 rzadko 67
 ciągu 67
 wejść 67
@@ -1131,7 +1132,6 @@ zostały 67
 drugiej 66
 Miała 66
 szpitala 66
-czerwone 66
 okna 66
 Ich 66
 wakacje 66
@@ -1156,6 +1156,7 @@ wierzy 65
 Woda 65
 wrócić 65
 pewny 65
+dziewczyny 64
 listy 64
 powinno 64
 głos 64
@@ -1173,7 +1174,6 @@ bratem 64
 wieczór 63
 brzmi 63
 celu 63
-dziewczyny 63
 małe 63
 USA 63
 Kioto 63
@@ -1349,6 +1349,7 @@ Dziewczyna 55
 podróż 55
 miłości 55
 męża 55
+dziecka 55
 ciemno 55
 wymaga 55
 koniec 55
@@ -1356,6 +1357,7 @@ ojcem 55
 Samochód 55
 Zamknij 55
 sklep 55
+Dużo 55
 drogie 55
 wystarczy 55
 pasuje 55
@@ -1378,7 +1380,6 @@ znalazłem 54
 pokazać 54
 sklepie 54
 mieli 54
-dziecka 54
 złe 54
 rozumie 54
 Uważaj 54
@@ -1392,7 +1393,6 @@ zamiast 54
 piękną 54
 uczył 54
 śpiewa 54
-Dużo 54
 podróżować 54
 dobrego 54
 znał 54
@@ -1557,6 +1557,7 @@ oddać 48
 usłyszał 48
 samolot 48
 córki 48
+ostatniej 48
 pięciu 48
 duża 48
 pierwsze 48
@@ -1589,7 +1590,6 @@ Widzisz 47
 wygra 47
 niebezpieczne 47
 brać 47
-ostatniej 47
 domową 47
 Pokój 47
 zajmie 47
@@ -2004,6 +2004,7 @@ Powiem 37
 gwiazdy 37
 sprzedaje 37
 przypadek 37
+gotowa 37
 planuje 37
 Koty 37
 kochać 37
@@ -2055,7 +2056,6 @@ Kanady 36
 taksówkę 36
 lewą 36
 zwyczaj 36
-gotowa 36
 sobotę 36
 chętnie 36
 jajka 36
@@ -2294,6 +2294,7 @@ czuł 32
 warzyw 32
 dookoła 32
 popływać 32
+zielone 32
 siostrą 32
 czujesz 32
 jasne 32
@@ -2365,7 +2366,6 @@ panem 31
 rozumiesz 31
 starszych 31
 zebranie 31
-zielone 31
 spóźni 31
 kolej 31
 lody 31
@@ -2855,6 +2855,7 @@ przyszli 25
 dachu 25
 kartę 25
 ufam 25
+dźwięk 25
 Widzieliśmy 25
 wyjście 25
 wróciła 25
@@ -2981,7 +2982,6 @@ przygotować 24
 latem 24
 chciałeś 24
 pożar 24
-dźwięk 24
 zamknięty 24
 zębów 24
 "Czy 24
@@ -2998,6 +2998,7 @@ Zostanę 24
 większy 24
 czterdzieści 24
 kupuje 24
+podłodze 24
 wyjaśnienia 24
 spotkaliśmy 24
 ciała 24
@@ -3111,7 +3112,6 @@ zmęczonego 23
 Powoli 23
 Idziesz 23
 przybył 23
-podłodze 23
 pomyśleć 23
 mojemu 23
 stopy 23
@@ -3381,6 +3381,7 @@ dobranoc 21
 zostałem 21
 Wiemy 21
 zdjął 21
+śmiał 21
 pocałował 21
 tłumaczyć 20
 zachód 20
@@ -3522,7 +3523,6 @@ udawać 20
 pranie 20
 wasz 20
 głupiego 20
-śmiał 20
 zachować 20
 spytać 20
 chciałam 20
@@ -4715,6 +4715,7 @@ dzisiejszą 14
 Przyjaciele 14
 bolą 14
 zdarzył 14
+burmistrza 14
 środek 14
 Zaczęła 14
 Helen 14
@@ -4723,6 +4724,7 @@ czekam 14
 ulewy 14
 rozumieć 14
 dużych 14
+spadły 14
 bramę 14
 Starzec 14
 wyzdrowieje 14
@@ -5021,7 +5023,6 @@ reguł 13
 sprawiło 13
 wiedza 13
 jedzeniu 13
-burmistrza 13
 rozmawiaj 13
 Poczułem 13
 uprawia 13
@@ -5032,7 +5033,6 @@ polu 13
 klucza 13
 zawierają 13
 Spotkajmy 13
-spadły 13
 ryzykować 13
 niezbędne 13
 dniach 13
@@ -5615,6 +5615,7 @@ smutne 12
 Polska 12
 wybiegł 12
 samotna 12
+sufit 12
 nauczyłeś 12
 powiedziano 12
 pliki 12
@@ -6062,7 +6063,6 @@ uczynić 11
 prezentów 11
 tom 11
 okłamywać 11
-sufit 11
 noszą 11
 Podobają 11
 internetu 11

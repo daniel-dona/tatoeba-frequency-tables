@@ -72,6 +72,7 @@ o'r 19
 o'n 19
 da 19
 Cymraeg 19
+yfed 19
 cael 18
 dda 18
 gallu 18
@@ -80,7 +81,6 @@ Oes 18
 chwarae 18
 fod 18
 mae 18
-yfed 18
 llyfr 17
 ysgol 17
 Rhaid 17
@@ -140,6 +140,7 @@ edrych 11
 Mari 11
 Mennad 11
 dyn 10
+Pwy 10
 arian 10
 yw'r 10
 deall 10
@@ -159,12 +160,12 @@ bydd 10
 Pryd 10
 coffi 9
 fe 9
-Pwy 9
 ffrind 9
 hen 9
 Peidiwch 9
 ferch 9
 Mi 9
+sy'n 9
 iddo 9
 waith 9
 cartref 9
@@ -186,7 +187,6 @@ dal 8
 iaith 8
 byth 8
 Pa 8
-sy'n 8
 gar 8
 unrhyw 8
 eto 8
@@ -291,6 +291,7 @@ bara 5
 ateb 5
 Hoffwn 5
 Ni 5
+cwrw 5
 'na 5
 Hwyl 5
 Dydyn 5
@@ -363,7 +364,6 @@ gyda'r 4
 ginio 4
 cinio 4
 ag 4
-cwrw 4
 bachgen 4
 deg 4
 cerddoriaeth 4

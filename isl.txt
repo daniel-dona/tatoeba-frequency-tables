@@ -16,11 +16,11 @@ Hún 674
 var 638
 hann 635
 sem 604
-þú 576
+þú 577
 með 521
 Við 510
 fyrir 505
-um 482
+um 483
 af 450
 eru 449
 mér 429
@@ -35,7 +35,7 @@ fara 293
 Tom 249
 vera 248
 honum 246
-Hvað 237
+Hvað 238
 svo 233
 hefur 218
 gera 212
@@ -914,6 +914,7 @@ byrjar 11
 sækja 11
 hendurnar 11
 saga 11
+veist 11
 urðu 11
 borg 11
 tækifæri 11
@@ -988,7 +989,6 @@ Reyndu 10
 kunna 10
 afmæli 10
 gleymdi 10
-veist 10
 loka 10
 hætti 10
 verðurðu 10
