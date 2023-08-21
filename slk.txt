@@ -1,4 +1,4 @@
-je 2205
+je 2204
 sa 2103
 som 1863
 Tom 1610
@@ -1707,7 +1707,6 @@ Budú 6
 vyjadriť 6
 zaneprázdnení 6
 zrak 6
-zelená 6
 Nerád 6
 týždne 6
 ruke 6
@@ -2096,6 +2095,7 @@ slovanské 5
 doľava 5
 lekári 5
 obrázku 5
+zelená 5
 červená 5
 snom 5
 Idú 5
@@ -8042,7 +8042,6 @@ nečestný 1
 Neťahaj 1
 ohrozuje 1
 premýšľajú 1
-Tráva 1
 Knihy 1
 Dennis 1
 Maryin 1
@@ -9998,3 +9997,4 @@ rozlohe 1
 ostrovný 1
 štát 1
 severnom 1
+Atlantiku 1

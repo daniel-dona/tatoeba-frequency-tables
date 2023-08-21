@@ -1,4 +1,4 @@
-da 10764
+da 10763
 a 4316
 ba 4273
 ya 3848
@@ -37,7 +37,7 @@ haka 616
 zama 613
 Wannan 580
 ni 574
-suna 560
+suna 559
 nan 551
 don 546
 Shin 540
@@ -153,7 +153,7 @@ amfani 196
 kuka 196
 Dole 196
 ƙasa 195
-duniya 194
+duniya 193
 babban 193
 irin 192
 yayi 192
@@ -1674,7 +1674,6 @@ jaridu 12
 fiyano 12
 gwagwarmaya 12
 Maza 12
-zagaye 12
 tsare 12
 wando 12
 karamar 12
@@ -1778,6 +1777,7 @@ tsallaka 11
 share 11
 jarabawan 11
 dame 11
+zagaye 11
 farashi 11
 soja 11
 Kasar 11
@@ -1814,7 +1814,6 @@ hanyoyin 10
 rikici 10
 lalacewa 10
 madadin 10
-Tare 10
 Majalisar 10
 juyawa 10
 Naayi 10
@@ -1953,6 +1952,7 @@ almara 9
 kamun 9
 fadin 9
 halittu 9
+Tare 9
 shagalin 9
 tasha 9
 taso 9
@@ -4487,7 +4487,6 @@ Waya 3
 gwangwani 3
 Manufarmu 3
 Kasancewar 3
-kwakwalwata 3
 daular 3
 kujeru 3
 Ma'aikatar 3
@@ -5684,7 +5683,6 @@ muje 2
 1930 2
 fifikon 2
 Bayyana 2
-kewaya 2
 million 2
 kungiyoyi 2
 Rasa 2
@@ -6366,6 +6364,7 @@ tauna 2
 Mercedes 2
 luwaɗi 2
 Chadi 2
+kwakwalwata 2
 sani" 2
 wayoyin 2
 iyalanka 2
@@ -8321,7 +8320,6 @@ Hukumomin 1
 Addinin 1
 kamasho 1
 hukdarmu 1
-da'irori 1
 Tsirrai 1
 lamuransu 1
 $200 1
@@ -9143,6 +9141,7 @@ tarinka 1
 katina 1
 rikide 1
 gajeriyar 1
+kewaya 1
 manaɗin 1
 al'ajibai 1
 Wake 1
@@ -9998,3 +9997,4 @@ makarantan 1
 jigo 1
 ƙarafa 1
 Barazanar 1
+tsirararsa 1

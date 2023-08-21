@@ -3,23 +3,23 @@ n 147448
 d 109294
 ara 89585
 ay 71530
-i 58287
+i 58289
 deg 55749
 Ur 52064
-ur 47713
-Tom 41902
+ur 47714
+Tom 41903
 asegzawal 39616
 ɣef 31937
-ɣer 31033
+ɣer 31035
 Ad 26850
-s 26807
+s 26808
 Maɣef 17691
 D 17477
 yella 14945
 seg 13788
 Ziri 13620
 Skura 12895
-akken 12776
+akken 12777
 Yanni 12043
 akk 11519
 acu 11461
@@ -44,7 +44,7 @@ d-sɣent 6610
 d-tseɣ 6603
 d-sɣen 6483
 la 6278
-Melmi 6132
+Melmi 6133
 am 6071
 ayen 5775
  5683
@@ -59,7 +59,7 @@ d-taɣ 5087
 Amek 4855
 telli 4848
 Yessefk 4721
-da 4655
+da 4656
 d-iseɣ 4649
 Rima 4613
 tella 4567
@@ -85,7 +85,7 @@ srin 3297
 neɣ 3262
 Bɣiɣ 3261
 Ustṛalya 3231
-a 3173
+a 3174
 mliḥ 3152
 fell-as 3128
 anda 3078
@@ -203,7 +203,7 @@ tla 1725
 Ayen 1721
 Anwa 1717
 Llant 1714
-acemma 1711
+acemma 1712
 usakal 1708
 atan 1694
 teɣs 1663
@@ -241,7 +241,7 @@ sɛan 1429
 dima 1423
 maci 1420
 Tellid 1419
-aman 1404
+aman 1405
 azekka 1397
 Ẓriɣ 1397
 uqbel 1390
@@ -828,11 +828,11 @@ ya 412
 tḥanut 411
 asafag 410
 nesɛa 409
+tameddit-a 409
 asawen 409
 tumert 409
 cikkeɣ 408
 nezmer 408
-tameddit-a 408
 aɣmis 408
 tisefreḍt 407
 imir-nni 406
@@ -1205,10 +1205,10 @@ Facebook 273
 asawal-nnes 273
 tnazent 273
 temlilit 272
+Am 272
 tamagrist 272
 Drus 272
 Kanada 271
-Am 271
 wadda 271
 Abrid 271
 izaranen 271
@@ -4992,6 +4992,7 @@ uxemmem 64
 semmeḍ 64
 twacult-inu 64
 nniɣ-ak 64
+yeḍri 64
 Tufa-d 64
 yekka-d 64
 yimir-nni 64
@@ -5056,7 +5057,6 @@ tihyufin 63
 d-tban 63
 ineggez 63
 tasertit 63
-yeḍri 63
 nettwali 63
 yejbed-d 63
 Ufan-d 63

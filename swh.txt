@@ -1,5 +1,5 @@
 ya 1292
-na 1069
+na 1068
 wa 752
 kwa 695
 ni 620
@@ -29,7 +29,7 @@ kufanya 90
 tu 88
 watu 87
 kutoka 86
-wangu 86
+wangu 85
 hivyo 84
 alikuwa 83
 kazi 81
@@ -181,7 +181,6 @@ kulala 23
 naye 23
 joto 23
 duka 23
-ulimwengu 23
 biashara 23
 pesa 23
 Watu 22
@@ -195,6 +194,7 @@ ina 22
 maarufu 22
 hatua 22
 wengine 22
+ulimwengu 22
 hakuna 22
 fulani 22
 yeyote 22
@@ -636,7 +636,6 @@ ukosefu 8
 Jane 8
 mafanikio 8
 bure 8
-ubongo 8
 uwanja 8
 isipokuwa 8
 kasi 8
@@ -730,6 +729,7 @@ mavazi 7
 nyekundu 7
 mpango 7
 hakuweza 7
+ubongo 7
 ukumbi 7
 barafu 7
 Jeshi 7
@@ -1525,7 +1525,6 @@ lilijengwa 3
 chukua 3
 kuachana 3
 Badala 3
-kuzunguka 3
 Bunge 3
 Juu 3
 Kukosa 3
@@ -1720,8 +1719,6 @@ Nikiwa 3
 njiani 3
 mhudumu 3
 Umati 3
-Pamoja 3
-kugeuza 3
 kuifanya 3
 mpangilio 3
 aliomba 3
@@ -2140,6 +2137,7 @@ uchunguzi 2
 Tunaenda 2
 huharibika 2
 kuandikia 2
+kuzunguka 2
 ujumla 2
 shujaa 2
 inahusiana 2
@@ -2790,6 +2788,7 @@ angani 2
 Zingine 2
 hataki 2
 kumfanya 2
+kugeuza 2
 Ng'ombe 2
 Wanadamu 2
 inahitajika 2
@@ -3018,6 +3017,7 @@ tuende 2
 wacha 2
 kuhesabu 2
 hio 2
+Pamoja 2
 mwituni 2
 unacheza 2
 yanaonekana 2
@@ -4584,7 +4584,6 @@ Tunauza 1
 mafao 1
 Kuumwa 1
 kulifanya 1
-mizunguko 1
 imeundwa 1
 seli 1
 imeamua 1
