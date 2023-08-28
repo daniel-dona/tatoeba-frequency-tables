@@ -25,7 +25,7 @@ zelo 63
 glavno 63
 Jaz 58
 Govorim 51
-Koliko 45
+Koliko 46
 ime 44
 bo 42
 iz 42
@@ -54,10 +54,10 @@ Je 25
 Danes 25
 Mary 25
 kot 24
+živi 24
 Moje 23
 bila 23
 On 23
-živi 23
 vse 23
 Marija 23
 tvoj 22
@@ -67,13 +67,14 @@ te 20
 lepa 20
 že 20
 bom 20
+stane 20
 svojo 19
 Kdaj 19
 ta 19
-stane 19
 Ime 19
 ste 18
 prosim 18
+Kdor 18
 angleško 17
 od 17
 ali 17
@@ -88,7 +89,6 @@ Ura 17
 Ta 16
 Nimam 16
 francosko 16
-Kdor 16
 Imam 16
 lepo 16
 dežela 16
@@ -529,6 +529,7 @@ Arabščina 4
 stara 4
 Ljubljana 4
 mrzla 4
+tisoč 4
 Italije 4
 Francije 4
 Slovenka 4
@@ -736,7 +737,7 @@ Pozdravljen 3
 Japonska 3
 Budimpešta 3
 Eden 3
-tisoč 3
+bere 3
 zapleteno 3
 zadovoljen 3
 Lačna 3
@@ -1138,6 +1139,7 @@ navijal 2
 Psi 2
 Pogrešam 2
 Pohiti 2
+piše 2
 žal 2
 skrbela 2
 Vsem 2
@@ -1233,6 +1235,7 @@ Deli 2
 vladaj 2
 vsak 2
 Ponavljanje 2
+dvakrat 2
 pade 2
 sovražnik 2
 najin 2
@@ -1250,6 +1253,7 @@ domovina 2
 teta 2
 čez 2
 Tisti 2
+življenj 2
 trenutek 2
 Prepovedano 2
 Pozor 2
@@ -2643,7 +2647,6 @@ Brca 1
 nisem; 1
 vprašaš 1
 Večina 1
-piše 1
 vsakodnevnem 1
 življenju 1
 namen 1
@@ -3104,7 +3107,6 @@ vrlino 1
 študija 1
 modrosti 1
 pokvarjena 1
-dvakrat 1
 pravilen 1
 tiči 1
 Vrag 1
@@ -3158,8 +3160,6 @@ dvanajsto 1
 ubogajo 1
 staršev 1
 pišejo 1
-bere 1
-življenj 1
 filozofija 1
 poezija 1
 preteklosti 1

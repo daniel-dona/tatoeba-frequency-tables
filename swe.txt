@@ -1,5 +1,5 @@
-är 10913
-Jag 10678
+är 10915
+Jag 10679
 Tom 6562
 att 6501
 inte 6478
@@ -8,13 +8,13 @@ en 4770
 på 4576
 det 4429
 i 4240
-har 3964
-Det 3673
-Han 3260
+har 3965
+Det 3675
+Han 3262
 jag 3007
 mig 2580
 här 2553
-för 2495
+för 2496
 var 2448
 med 2290
 till 2191
@@ -54,8 +54,8 @@ vara 710
 ha 700
 Var 699
 ut 697
-Den 682
-hade 674
+Den 683
+hade 675
 vad 672
 din 666
 de 624
@@ -86,7 +86,7 @@ någon 439
 finns 413
 dag 405
 mitt 400
-blev 397
+blev 398
 något 397
 alla 396
 lite 394
@@ -105,7 +105,7 @@ väldigt 357
 ta 355
 när 350
 Ni 349
-två 340
+två 341
 älskar 339
 gjorde 339
 En 337
@@ -221,11 +221,11 @@ står 160
 visste 157
 tar 157
 bättre 156
+idag 156
 svårt 156
 gjort 156
 helt 155
 nya 155
-idag 154
 dörren 154
 boken 152
 andra 150
@@ -252,10 +252,10 @@ far 129
 Ta 129
 huset 127
 ny 127
+inga 127
 gott 127
 kände 127
 jobb 126
-inga 126
 hand 126
 människor 125
 ge 125
@@ -752,6 +752,7 @@ händerna 41
 ögonen 41
 kärlek 41
 arbetet 40
+Men 40
 lyssnar 40
 dessa 40
 reda 40
@@ -777,7 +778,6 @@ dansa 40
 skrattade 40
 ibland 40
 Fadil 40
-Men 39
 sönder 39
 röst 39
 eget 39
@@ -816,6 +816,7 @@ studera 37
 film 37
 Paris 37
 okej 37
+ljög 37
 talade 37
 sällan 37
 fängelse 36
@@ -827,7 +828,6 @@ snö 36
 veckan 36
 kött 36
 Inte 36
-ljög 36
 personer 36
 hjärta 36
 klara 36
@@ -1516,6 +1516,7 @@ intelligent 17
 åkt 17
 förkyld 17
 ögat 17
+regn 17
 innehåller 17
 Rom 17
 hobby 17
@@ -1579,7 +1580,6 @@ bygga 16
 byggde 16
 fisken 16
 kronor 16
-regn 16
 Först 16
 förkylning 16
 somnade 16
@@ -2741,6 +2741,7 @@ sträng 8
 kvart 8
 politiker 8
 ligga 8
+misstänkte 8
 perfekta 8
 Människan 8
 ej 8
@@ -3027,7 +3028,6 @@ vitlök 7
 diet 7
 mysterium 7
 gräset 7
-misstänkte 7
 ögonkastet 7
 Esperanto 7
 motstå 7
@@ -3357,6 +3357,7 @@ pojkar 6
 axeln 6
 besökt 6
 sorters 6
+sol 6
 hårda 6
 miljarder 6
 skott 6
@@ -3543,6 +3544,7 @@ Någonting 6
 utmattad 6
 misslyckats 6
 smal 6
+avrättades 6
 Skandinavien 6
 förväntningar 6
 funkar 6
@@ -3811,7 +3813,6 @@ ekorre 5
 amerikaner 5
 räknade 5
 hälsar 5
-sol 5
 Norden 5
 dikten 5
 såret 5
@@ -4052,7 +4053,6 @@ relevant 5
 effektivt 5
 pröva 5
 skinn 5
-avrättades 5
 läpparna 5
 knäckte 5
 nötter 5
@@ -4568,6 +4568,7 @@ alltså 4
 öknen 4
 vakta 4
 bonde 4
+nyfikna 4
 Taro 4
 förbipasserande 4
 ljusa 4
@@ -5568,13 +5569,13 @@ utmanar 3
 ödet 3
 vimlet 3
 fuktiga 3
+samlats 3
 cider 3
 mogna 3
 påverkade 3
 gror 3
 ilska 3
 600 3
-nyfikna 3
 smält 3
 muskler 3
 banta 3
@@ -7273,7 +7274,6 @@ låtar 2
 spårlöst 2
 Tomas 2
 bäddade 2
-samlats 2
 doft 2
 bäckar 2
 trappstegen 2
@@ -9977,6 +9977,7 @@ bagageutrymmet 2
 Högspänning 2
 Låtsas 2
 hyr 2
+avrättad 2
 Myndigheterna 2
 Besvara 2
 invändningar 2
@@ -9997,4 +9998,3 @@ handgemäng 2
 uppväxt 2
 blött 2
 temperaturer 2
-smeknamnet 2

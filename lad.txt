@@ -1,10 +1,10 @@
-es 276
+es 277
 Tom 160
-un 144
-El 109
+un 145
+El 110
 la 99
 de 98
-el 92
+el 93
 en 90
 No 88
 no 82
@@ -22,9 +22,9 @@ Esto 39
 Me 39
 i 36
 ke 35
+So 33
 און 32
 pan 32
-So 32
 mi 30
 Mi 30
 לה 30
@@ -41,19 +41,19 @@ plaze 22
 las 20
 Onde 20
 me 19
+lingua 19
 Sos 19
 djudio 19
 gato 19
 Esta 19
-lingua 18
 perro 18
 Somos 18
 djudios 17
+Yo 17
 Sosh 17
 לוס 17
 aki 16
 Dio 16
-Yo 16
 Tengo 16
 Sami 16
 אין 16
@@ -134,6 +134,7 @@ Komo 8
 menester 8
 Trump 8
 mundo 8
+kabil 8
 grande 8
 kalem 8
 Ester 8
@@ -153,7 +154,6 @@ Maria 7
 Nu 7
 todo 7
 mate 7
-kabil 7
 avlash 7
 abandono 7
 lashon 7
@@ -161,6 +161,7 @@ problemes 7
 Miri 7
 Siempre 7
 Espanya 6
+sus 6
 Si 6
 Avlo 6
 fransez 6
@@ -179,6 +180,7 @@ Grasias 6
 ermoza 6
 alegre 6
 personas 6
+madjar 6
 גאטו 6
 ייו 6
 קומו 6
@@ -196,7 +198,6 @@ Topa 6
 kayendo 6
 arina 6
 mozotros 5
-sus 5
 Eyos 5
 muncho 5
 djudeo-espanyol 5
@@ -225,7 +226,6 @@ Berlin 5
 מאנסאנה 5
 ermozo 5
 siempre 5
-madjar 5
 kastilyano 5
 טייני 5
 tienen 5
@@ -2142,3 +2142,5 @@ yeno 1
 arrekojiya 1
 findjanes 1
 vaziyo 1
+avlo 1
+jenitor 1

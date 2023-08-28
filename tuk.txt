@@ -1,7 +1,7 @@
-Tom 1158
-Men 873
-Ol 484
-bilen 435
+Tom 1159
+Men 874
+Ol 485
+bilen 436
 Sen 316
 üçin 298
 Bu 287
@@ -13,7 +13,7 @@ bu 191
 ol 189
 ony 189
 hiç 185
-däl 181
+däl 182
 Mery 180
 Meri 176
 aýtdy 169
@@ -21,7 +21,7 @@ aýtdy 169
 bar 157
 Tomuň 153
 men 150
-diýip 135
+diýip 136
 ýaly 133
 Biz 131
 Olar 125
@@ -31,8 +31,8 @@ muny 116
 Toma 113
 Semi 109
 maňa 105
+pikir 103
 meniň 102
-pikir 102
 edip 100
 gün 100
 hem 98
@@ -43,8 +43,8 @@ barada 91
 ýerde 89
 Mary 87
 köp 87
+gaty 86
 dälmi 85
-gaty 85
 örän 84
 sen 82
 şeýle 79
@@ -107,20 +107,20 @@ Bir 36
 biziň 36
 Eger 36
 berdi 36
+etdim 36
 umyt 36
 bolsa 36
 siziň 35
 Ony 35
-etdim 35
 Muny 35
 bilmedi 35
 ýöne 35
 alyp 35
+Onuň 34
 Tomyň 34
 rugsat 34
 şol 34
 meniñ 34
-Onuň 33
 biraz 33
 Sämi 33
 onuñ 33
@@ -200,6 +200,7 @@ täze 22
 Seniñ 22
 Meryñ 22
 öýe 21
+Maňa 21
 sagat 21
 agşam 21
 howa 21
@@ -210,7 +211,6 @@ Bostonda 21
 ähli 21
 adamlar 21
 Maña 21
-Maňa 20
 size 20
 öýdemok 20
 kyn 20
@@ -227,6 +227,7 @@ meñ 20
 Her 19
 erbet 19
 dynç 19
+bolmaly 19
 edil 19
 on 19
 Siziň 19
@@ -239,7 +240,6 @@ gitjek 18
 bilmeýärin 18
 irden 18
 soňky 18
-bolmaly 18
 ýer 18
 siz 18
 isleýär 18
@@ -319,6 +319,7 @@ aldym 13
 nahar 13
 Biziň 13
 adatça 13
+bagtly 13
 täzeden 13
 bolmagy 13
 birini 13
@@ -339,9 +340,9 @@ bolmaz 12
 berýärin 12
 gördi 12
 ýylda 12
+maşyn 12
 mekdepde 12
 çykdy 12
-bagtly 12
 olaryň 12
 Indi 12
 geler 12
@@ -376,7 +377,6 @@ kişi 11
 bolsun 11
 hepdede 11
 başlaýar 11
-maşyn 11
 dowam 11
 Mende 11
 Saňa 11
@@ -557,6 +557,7 @@ halaýar 8
 ýüz 8
 bilmedim 8
 ýüregi 8
+al 8
 Bostondaky 8
 işleýär 8
 diňeje 8
@@ -637,7 +638,6 @@ asla 7
 dollar 7
 tennis 7
 biljekdigini 7
-al 7
 dostlary 7
 isledim 7
 hemmämiz 7
@@ -689,6 +689,7 @@ gara 6
 bilýäňmi 6
 ýalňyşlyk 6
 diňleýärin 6
+Seň 6
 Bagyşlaň 6
 Nähili 6
 Ýagyş 6
@@ -833,7 +834,6 @@ iýjek 5
 öwrenip 5
 gök 5
 Çagalar 5
-Seň 5
 wagtda 5
 Ýok 5
 çaga 5
@@ -1497,6 +1497,7 @@ bilýäris 3
 gazanyp 3
 tussag 3
 bolupdy 3
+kimdigini 3
 oglum 3
 dürli 3
 Bizi 3
@@ -1850,6 +1851,7 @@ Gyzymy 3
 gelmegiňi 3
 Gelmegiňi 3
 garaşýardym 3
+gelmegiňe 3
 Alla 2
 saklasyn 2
 – 2
@@ -1887,6 +1889,7 @@ dünýäniň 2
 elbetde 2
 Hemmeler 2
 hojalykçy 2
+meň 2
 gowymy 2
 Öýlenemok 2
 Ejem 2
@@ -2209,7 +2212,6 @@ turmaklygy 2
 görýänlerden 2
 bilýänim 2
 Fadiliň 2
-kimdigini 2
 bolmadym 2
 ýap 2
 telewizory 2
@@ -3285,8 +3287,9 @@ soragyňyza 2
 okapdym 2
 nätjek 2
 Soraga 2
-gelmegiňe 2
+Gelmegiňe 2
 Gelmegiňizi 2
+garaşýadym 2
 Asmanda 1
 petreşip 1
 Är-aýalyň 1
@@ -3392,7 +3395,6 @@ aspirantura 1
 işsiz 1
 Tanşanymyza 1
 sürüjimiz 1
-meň 1
 Gresiýa 1
 ülke 1
 Ýagdaýlaryň 1
@@ -9996,5 +9998,3 @@ bolýansyñ 1
 meýilleşdirmeýändigini 1
 mugallymyñ 1
 mugallymyñyz 1
-gizlediñ 1
-gizlediñiz 1

@@ -1,22 +1,22 @@
-esas 2686
+esas 2687
 la 2091
-Me 2080
-ne 1208
-La 938
-Tom 830
+Me 2085
+ne 1210
+La 940
+Tom 831
 me 828
-tu 787
+tu 788
 Ka 639
 en 554
 havas 535
-es 454
+es 459
 Il 394
 di 382
 ke 376
-vu 374
+vu 375
 mea 373
-Ni 371
-a 360
+Ni 372
+a 361
 e 337
 esis 323
 volas 295
@@ -26,16 +26,16 @@ por 255
 Tu 250
 Mea 247
 il 226
-plu 212
+plu 213
 El 202
 de 194
 bona 190
 savas 179
+ni 176
 Ilu 175
-ni 175
-kam 174
+kam 175
+to 172
 kun 171
-to 170
 tua 170
 sua 167
 To 166
@@ -62,11 +62,11 @@ amas 104
 bezonas 104
 Pro 103
 Vu 102
+Quon 101
 maxim 101
 lo 100
-Quon 100
+pro 99
 hike 97
-pro 97
 du 96
 vua 96
 pensas 95
@@ -99,7 +99,7 @@ vere 74
 bone 74
 manjas 73
 patro 72
-li 71
+li 72
 sen 69
 nia 68
 ad 68
@@ -113,13 +113,13 @@ sempre 65
 pekunio 65
 un 65
 su 64
+odias 64
 devas 64
 mondo 64
-odias 62
+Maria 63
 esar 62
 dil 62
 Ca 62
-Maria 62
 nova 61
 lu 59
 dicis 58
@@ -209,12 +209,12 @@ chambro 34
 Quante 34
 ante 34
 yunino 34
+muliero 34
 Vi 33
+vivas 33
 vera 33
 spozino 33
 hodie 33
-muliero 33
-vivas 32
 alta 32
 richa 32
 ludas 32
@@ -271,6 +271,7 @@ rapide 26
 inteligenta 26
 tale 26
 ek 26
+tote 26
 lektis 26
 nek 26
 infanto 26
@@ -283,7 +284,6 @@ hundi 25
 qui 25
 persono 25
 pomo 25
-tote 25
 altra 25
 kaptis 25
 filiino 25
@@ -320,6 +320,7 @@ jus 23
 Rima 23
 pueri 22
 evas 22
+importas 22
 vorto 22
 nula 22
 pos 22
@@ -341,7 +342,6 @@ fratulo 21
 tra 21
 kelka 21
 balde 21
-importas 21
 serchas 21
 kozo 21
 trovar 21
@@ -471,6 +471,7 @@ Chiniana 14
 teniso 14
 po 14
 dolari 14
+personi 14
 vintro 14
 portas 14
 famoza 14
@@ -501,7 +502,6 @@ Donez 13
 interesanta 13
 l'Angla 13
 frazi 13
-personi 13
 hori 13
 kurar 13
 lago 13
@@ -592,6 +592,7 @@ pluvo 11
 Du 11
 stranjera 11
 nam 11
+dicos 11
 memoras 11
 kune 11
 pasinta 11
@@ -647,7 +648,6 @@ mortar 10
 pezoza 10
 hemo 10
 signifikas 10
-dicos 10
 Nula 10
 lente 10
 Amerika 10
@@ -790,6 +790,7 @@ monati 8
 sep 8
 od 8
 normala 8
+homala 8
 Italia 8
 regardis 8
 suceso 8
@@ -858,6 +859,7 @@ fidar 7
 vinkis 7
 Shakespeare 7
 retrovenos 7
+dal 7
 porki 7
 parolez 7
 navo 7
@@ -1021,6 +1023,7 @@ skribos 6
 donacajo 6
 acidento 6
 monto 6
+mento 6
 poemo 6
 erori 6
 grupo 6
@@ -1040,7 +1043,6 @@ durstas 6
 omnaloke 6
 cesis 6
 nombro 6
-homala 6
 interesiva 6
 eroro 6
 pose 6
@@ -1142,7 +1144,6 @@ banko 5
 "No 5
 aferi 5
 revuo 5
-dal 5
 salvis 5
 luno 5
 dorso 5
@@ -1381,7 +1382,6 @@ urbeto 4
 kurso 4
 Morge 4
 livis 4
-mento 4
 bosko 4
 duros 4
 zoo 4
@@ -1496,6 +1496,7 @@ nov 4
 sistemo 4
 fresha 4
 celas 4
+sulo 4
 zono 4
 pantalono 4
 matura 4
@@ -1597,11 +1598,13 @@ Aljeria 4
 expliko 4
 talentoza 4
 vangi 4
+Iesu 4
 interreto 4
 pandemio 4
 kuzulo 4
 Porki 4
 legumo 4
+sucias 4
 Mulieri 4
 cerebro 4
 melodio 4
@@ -1864,9 +1867,9 @@ araneo 3
 sociala 3
 retrovenas 3
 punti 3
+diablo 3
 fugis 3
 agosto 3
-sulo 3
 humida 3
 ondi 3
 fidela 3
@@ -2075,7 +2078,6 @@ satisfacesas 3
 Jean 3
 Skotia 3
 provis 3
-Iesu 3
 ganti 3
 kuzino 3
 papagayi 3
@@ -2083,7 +2085,6 @@ tempesto 3
 salado 3
 frianda 3
 senhema 3
-sucias 3
 magio 3
 efikos 3
 putrinta 3
@@ -2139,6 +2140,7 @@ Siria 3
 parfumo 3
 kontreajo 3
 muelisto 3
+transgenra 3
 Kurdiana 3
 Lituaniana 3
 rozini 3
@@ -2548,7 +2550,6 @@ Gramatiko 2
 lojeyo 2
 noto 2
 kredit-karto 2
-diablo 2
 lerno-chambro 2
 mokas 2
 kritikas 2
@@ -3096,6 +3097,7 @@ Laboro 2
 piktis 2
 moskeo 2
 flatuas 2
+Evidente 2
 interhelpar 2
 islamofobioza 2
 lektabas 2
@@ -3186,6 +3188,7 @@ batilo 2
 Frostas 2
 legitimar 2
 enoyiganta 2
+Satano 2
 heredos 2
 regnis 2
 Mondo 2
@@ -3255,7 +3258,6 @@ fronto 2
 glata 2
 Prehiere 2
 sturmo 2
-transgenra 2
 utensilo 2
 furtar 2
 Kurda 2
@@ -3290,6 +3292,7 @@ atrapis 2
 L'ucelo 2
 atakema 2
 triesma 2
+simpleso 2
 kaptas 2
 gazelo 2
 helpolinguo 2
@@ -3340,8 +3343,11 @@ nutris 2
 L'advokato 2
 Elon 2
 Musk 2
+mentius 2
 kat-yuno 2
+transgenrino 2
 alejo 2
+inventuro 2
 Klabaster 1
 Gizmo 1
 acidente 1
@@ -6483,7 +6489,6 @@ gravidesas 1
 Stati 1
 Monet 1
 Korona-viruso 1
-Evidente 1
 Sunenergio 1
 mediafabla 1
 Spotify 1
@@ -6872,7 +6877,6 @@ Helpo 1
 Kurajo 1
 brilis 1
 Laudez 1
-Satano 1
 Fantomi 1
 pruni 1
 mineyo 1
@@ -7329,7 +7333,6 @@ neseparebla 1
 trezori 1
 sorgas: 1
 modereso 1
-simpleso 1
 frazaro 1
 Amar 1
 Transviri 1
@@ -7885,7 +7888,6 @@ samtempe 1
 kabino 1
 Jersey 1
 frapegez 1
-mentius 1
 imperio 1
 squatis 1
 Armizez 1
@@ -7939,7 +7941,6 @@ vagas 1
 sutraktos 1
 armi 1
 femino 1
-transgenrino 1
 Agrokultivisti 1
 kultivas 1
 pace 1
@@ -7957,3 +7958,5 @@ drogdependantino 1
 drogdependantulo 1
 "En" 1
 prepoziciono 1
+kontregeya 1
+Klareso 1

@@ -6,9 +6,9 @@ min 992
 bi 935
 li 826
 Ew 813
-ê 736
+ê 737
 û 664
-ye 640
+ye 642
 ku 609
 Tom 544
 Em 543
@@ -90,8 +90,8 @@ Navê 75
 dixwazim 73
 av 72
 ava 71
+bilind 70
 nekiriye 70
-bilind 69
 pê 69
 got 68
 Dema 67
@@ -124,11 +124,11 @@ avjenî 55
 tenê 54
 kirin 54
 behs 54
+herî 53
 berhev 53
 divê 52
 bibe 52
 dibin 52
-herî 52
 baz 52
 kes 50
 hevalên 50
@@ -181,6 +181,7 @@ sê 34
 kîjan 34
 Çima 34
 dixwazî 33
+niha 33
 serê 33
 amade 33
 mirov 32
@@ -190,7 +191,6 @@ caran 32
 bûye 32
 pirr 31
 zû 31
-niha 31
 dizanim 31
 tiştekî 31
 alîkariya 30
@@ -1266,6 +1266,7 @@ hestiyan 5
 dilek 5
 ewqas 5
 xeternak 5
+dinyayê 5
 navçeyên 5
 madenê 5
 gotinê 4
@@ -2299,7 +2300,6 @@ nemaye 3
 bilîzim 3
 Nasnameya 3
 qehweya 3
-dinyayê 3
 Kurdistanê 3
 Malbateke 3
 deyn 3
@@ -2709,6 +2709,7 @@ gulan 2
 tîpan 2
 Tutişt 2
 taybetî 2
+bilindtirîn 2
 çol 2
 Roma 2
 binase 2
@@ -3635,6 +3636,9 @@ navçeyê 2
 Jîna 2
 Emînî 2
 peyaman 2
+Birca 2
+Xelîfe 2
+balexaniyê 2
 numera 1
 enteresant 1
 gerdeniyê 1
@@ -4153,16 +4157,6 @@ deryayan 1
 girav 1
 çêjdar 1
 Komputera 1
-To 1
-daykt 1
-xosh 1
-awet 1
-Esta 1
-Burji 1
-Khalifa 1
-delrezhtrena 1
-la 1
-jihanda 1
 roni 1
 ezi 1
 hundûr 1
@@ -4857,7 +4851,6 @@ temenek 1
 giringiya 1
 rolê 1
 dileyîze 1
-bilindtirîn 1
 avanî 1
 Bajar 1
 derek 1

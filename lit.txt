@@ -1,6 +1,6 @@
-Aš 14706
+Aš 14709
 Tomas 8808
-yra 7005
+yra 7006
 kad 5947
 tu 5269
 Jis 5120
@@ -10,12 +10,12 @@ aš 4260
 ir 3102
 Ji 3051
 Tu 3045
-savo 3001
+savo 3002
 Mes 2833
 tai 2764
 su 2718
-buvo 2653
-Tai 2446
+buvo 2654
+Tai 2448
 man 2277
 labai 2186
 iš 2159
@@ -25,7 +25,7 @@ ką 1758
 tą 1711
 Jie 1607
 turi 1564
-Man 1560
+Man 1561
 jūs 1559
 tau 1504
 ne 1453
@@ -72,9 +72,9 @@ nėra 717
 niekada 704
 jam 689
 ant 678
-patinka 665
+patinka 666
 dabar 664
-nuo 660
+nuo 661
 Kur 660
 ten 638
 daugiau 627
@@ -100,7 +100,7 @@ eiti 535
 tikrai 517
 žinau 515
 kada 510
-negaliu 495
+negaliu 496
 pat 488
 mums 486
 Kiek 482
@@ -148,8 +148,8 @@ kalbos 332
 buvau 331
 Visi 329
 atrodo 321
+Tau 320
 Jos 320
-Tau 319
 tiek 319
 mėgsta 317
 neturi 316
@@ -208,7 +208,7 @@ negu 245
 kuris 244
 truputį 244
 pas 241
-vakar 239
+vakar 240
 Marijos 237
 tikras 236
 prancūziškai 236
@@ -946,6 +946,7 @@ blogas 52
 netikiu 52
 reikalingas 52
 sienos 52
+labiausiai 52
 širdis 52
 girtas 52
 atsisakė 52
@@ -969,7 +970,6 @@ patenkintas 51
 jokių 51
 raktą 51
 Įdomu 51
-labiausiai 51
 sekmadienį 51
 gyvas 51
 didelę 51
@@ -1259,6 +1259,7 @@ nuobodu 39
 sutiko 39
 kiekvienas 39
 palaukti 39
+surasti 39
 einame 39
 Kenas 39
 žodį 39
@@ -1291,7 +1292,6 @@ sninga 38
 įdomus 38
 lietus 38
 guli 38
-surasti 38
 neprisimenu 38
 tuščias 38
 nesakė 38
@@ -1784,6 +1784,7 @@ Romoje 28
 skundžiasi 28
 autobusą 28
 Du 28
+naktis 28
 skamba 28
 televizoriaus 28
 pavargau 28
@@ -1851,7 +1852,6 @@ nakties 27
 danguje 27
 Visas 27
 Negalima 27
-naktis 27
 sniego 27
 daiktus 27
 pavargę 27
@@ -3026,6 +3026,7 @@ uždavė 16
 žaidi 16
 Sekmadienį 16
 Dievu 16
+akinių 16
 tikri 16
 nusižudyti 16
 banko 16
@@ -3179,7 +3180,6 @@ viskuo 15
 filmo 15
 Visų 15
 seni 15
-akinių 15
 nesitikėjau 15
 penktadienį 15
 gauna 15
@@ -7378,6 +7378,7 @@ apytiksliai 6
 eitume 6
 kalbėtų 6
 praėjusius 6
+Krepšys 6
 sustingo 6
 pažinojo 6
 maitinasi 6
@@ -8374,6 +8375,7 @@ apmaudo 5
 laimėjai 5
 vidurnaktis 5
 sudavė 5
+neįtikima 5
 netikslus 5
 gatava 5
 nereikalingi 5
@@ -8655,7 +8657,6 @@ Kavos 5
 penkta 5
 teisybės 5
 iškylą 5
-Krepšys 5
 kairės 5
 lapių 5
 trupučiuko 5
@@ -9997,4 +9998,3 @@ prancūzas 4
 atskleidžiau 4
 įtikinau 4
 verdu 4
-paskutiniame 4

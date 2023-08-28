@@ -1,9 +1,9 @@
 on 1377
-Ma 879
-ei 705
+Ma 881
+ei 706
 Tom 572
-sa 410
-Kas 400
+sa 411
+Kas 401
 Ta 315
 et 314
 See 263
@@ -18,8 +18,8 @@ ta 140
 Sa 135
 olen 132
 Mul 130
+keelt 125
 kui 122
-keelt 121
 Me 120
 väga 118
 pole 111
@@ -90,6 +90,7 @@ kes 34
 prantsuse 34
 vaja 33
 eile 33
+räägi 33
 ilus 33
 inglise 33
 tean 33
@@ -98,7 +99,6 @@ aru 32
 sellest 32
 raha 32
 koju 32
-räägi 32
 keegi 32
 olla 32
 teda 32
@@ -106,14 +106,14 @@ rääkida 32
 hästi 31
 üle 31
 aega 31
+räägin 31
 maja 31
 liiga 31
 keel 31
 Tema 30
 taha 30
 Tal 30
-räägin 29
-räägid 29
+räägid 30
 Olen 29
 siis 28
 mitte 28
@@ -145,6 +145,7 @@ tahad 24
 kodus 23
 juba 23
 süüa 23
+Mina 23
 Koer 23
 meeldi 23
 õppida 23
@@ -154,7 +155,6 @@ tegi 22
 tead 22
 peale 22
 parem 22
-Mina 22
 siia 22
 natuke 22
 olid 21
@@ -647,6 +647,7 @@ poodi 6
 Joon 6
 lõpus 6
 poola 6
+ungari 6
 Ateena 6
 Lõpuks 5
 võttis 5
@@ -2200,7 +2201,6 @@ tooli 2
 Jahimees 2
 ronida 2
 Tulen 2
-ungari 2
 Rääkige 2
 Pariisis 2
 araabia 2

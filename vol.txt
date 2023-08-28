@@ -21,7 +21,7 @@ ko 111
 Kisi 106
 vemo 103
 Vilob 93
-Binob 91
+Binob 92
 oli 87
 gudik 84
 yufön 82
@@ -31,8 +31,8 @@ obi 77
 ob 77
 ole 74
 ka 74
+omi 72
 El 72
-omi 71
 vilom 70
 binob 66
 golön 66
@@ -117,6 +117,7 @@ kikod 31
 Nek 30
 if 30
 logön 29
+it 29
 Ya 29
 Etos 29
 eli 28
@@ -124,7 +125,6 @@ nedom 28
 sanel 28
 dogi 28
 obis 28
-it 28
 nosi 28
 obsik 27
 atosi 27
@@ -449,6 +449,7 @@ okömom 8
 löfol 8
 esagol 8
 ven 7
+Memob 7
 zifi 7
 del 7
 mon 7
@@ -497,7 +498,6 @@ ekömom 7
 Esagof 7
 Spikob 6
 kaniti 6
-Memob 6
 bäldik 6
 cifazif 6
 onik 6
@@ -4541,3 +4541,4 @@ Edunoms 1
 yufelis 1
 pädans 1
 Danob 1
+pal 1
