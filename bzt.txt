@@ -1,4 +1,4 @@
-es 119
+es 120
 Eo 89
 yn 63
 rhen 60
@@ -55,6 +55,7 @@ ys 5
 grêdd 5
 wid 5
 Ffrencig 5
+Negyn 5
 can 5
 Domos 5
 K'lwg 5
@@ -84,7 +85,6 @@ bel 4
 Bon 4
 noeth 4
 mun 4
-Negyn 4
 ddewindad 4
 mulltisaf 4
 fengib 4
@@ -124,6 +124,7 @@ nwstr 3
 mengib 3
 abit 3
 Ierusalem 3
+saeth 3
 ngwidd 3
 h-ugell 3
 Pab 3
@@ -201,7 +202,6 @@ ffeil 2
 blentin 2
 nediwn 2
 aruin 2
-saeth 2
 Yno 2
 manugar 2
 ty 2

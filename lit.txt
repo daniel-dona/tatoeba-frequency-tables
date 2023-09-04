@@ -1,18 +1,18 @@
-Aš 14709
+Aš 14710
 Tomas 8808
 yra 7006
-kad 5947
-tu 5269
+kad 5948
+tu 5270
 Jis 5120
 Ar 4951
 aš 4260
-į 3359
+į 3360
 ir 3102
 Ji 3051
 Tu 3045
 savo 3002
 Mes 2833
-tai 2764
+tai 2765
 su 2718
 buvo 2654
 Tai 2448
@@ -36,7 +36,7 @@ daug 1296
 dar 1205
 tavo 1204
 mane 1193
-apie 1172
+apie 1173
 jo 1169
 taip 1137
 Jūs 1127
@@ -98,7 +98,7 @@ Jo 538
 daryti 537
 eiti 535
 tikrai 517
-žinau 515
+žinau 516
 kada 510
 negaliu 496
 pat 488
@@ -166,10 +166,10 @@ mus 305
 Dabar 304
 tėvas 303
 žmogus 301
+Šita 301
 Koks 300
 Iš 300
 tikrųjų 299
-Šita 299
 negali 298
 nei 295
 tris 295
@@ -253,9 +253,9 @@ nežino 197
 turite 196
 Jam 195
 išėjo 195
+diena 194
 visiškai 194
 kurie 193
-diena 192
 viskas 192
 valandą 192
 Taip 190
@@ -272,6 +272,7 @@ duris 180
 visus 179
 Į 179
 namas 178
+tiesą 178
 Dėl 177
 skaityti 176
 anksčiau 176
@@ -280,7 +281,6 @@ brolis 175
 vyras 175
 kartu 175
 knyga 174
-tiesą 174
 darbo 174
 esate 174
 automobilį 173
@@ -414,10 +414,10 @@ mažai 113
 Buvo 112
 vaikų 112
 Niekada 112
+galvoji 112
 tapti 111
 rašyti 111
 kuo 111
-galvoji 111
 Nėra 110
 oras 110
 buvai 110
@@ -454,13 +454,13 @@ abu 104
 gyveno 103
 tada 103
 šunį 103
+tapo 103
 tuojau 103
 pasaulyje 103
 vietoje 103
 tam 103
 visuomet 103
 rūkyti 102
-tapo 102
 Tikiuosi 102
 reikėjo 102
 tikriausiai 102
@@ -701,6 +701,7 @@ vieta 69
 Savo 69
 užmiršau 69
 nemoka 68
+Geriau 68
 pavogė 68
 duonos 68
 ranką 68
@@ -730,7 +731,6 @@ filmą 67
 retai 67
 suprantu 66
 kartais 66
-Geriau 66
 planą 66
 tenisą 66
 Galbūt 66
@@ -960,6 +960,7 @@ atidaryti 51
 sakinį 51
 lyti 51
 gitara 51
+istoriją 51
 vardo 51
 atsitiks 51
 gimiau 51
@@ -979,7 +980,6 @@ Norėčiau 50
 kurios 50
 nematė 50
 motiną 50
-istoriją 50
 verta 50
 Argi 50
 geresnis 50
@@ -1046,6 +1046,7 @@ obuolių 47
 upės 47
 laimingi 47
 atsakymas 47
+įėjo 47
 moterys 47
 paskutinį 47
 Gana 47
@@ -1074,7 +1075,6 @@ laikrodis 46
 paukštis 46
 užsienį 46
 pirmadienį 46
-įėjo 46
 Nebūk 46
 skėtį 46
 mirti 46
@@ -3082,6 +3082,7 @@ kitoks 16
 prireikė 16
 Bostonas 16
 nosį 16
+Verčiau 16
 daugybę 16
 vyksiu 16
 idėjos 16
@@ -3443,7 +3444,6 @@ slidinėti 14
 žvaigždė 14
 Išjunk 14
 leidžiasi 14
-Verčiau 14
 akmenį 14
 dangaus 14
 užtenka 14
@@ -3739,6 +3739,7 @@ skanūs 12
 šokolado 12
 prašom 12
 paruošti 12
+sakyk 12
 eilėraščius 12
 televizorius 12
 keliauja 12
@@ -4335,7 +4336,6 @@ nupiešė 10
 geltonas 10
 šokoladas 10
 pusryčiai 10
-sakyk 10
 tamsoje 10
 pienu 10
 Džimas 10

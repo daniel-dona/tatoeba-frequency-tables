@@ -1,14 +1,14 @@
 Ik 3215
-is 3211
+is 3212
 dat 2791
 en 2518
-de 2479
-nich 1946
+de 2480
+nich 1947
 du 1690
 hett 1603
 He 1473
 in 1454
-De 1400
+De 1401
 to 1324
 Dat 1276
 heff 1258
@@ -19,18 +19,18 @@ mi 1060
 un 883
 von 844
 mit 776
-as 771
+as 772
 op 716
 di 660
 em 656
 an 651
 na 639
 mien 618
-Tom 608
+Tom 609
 sünd 607
 wat 546
 weer 530
-he 519
+he 520
 Wi 519
 den 501
 hebbt 491
@@ -63,7 +63,7 @@ man 261
 vör 260
 bi 256
 uns 255
-wi 254
+wi 255
 ji 253
 al 253
 twee 251
@@ -98,7 +98,7 @@ wesen 176
 seggt 175
 schall 172
 geiht 170
-Wenn 168
+Wenn 169
 temlich 164
 lang 164
 disse 162
@@ -654,6 +654,7 @@ versöcht 22
 trurig 22
 Bööm 22
 Keerl 22
+helpt 22
 anfangen 21
 düssen 21
 Jim 21
@@ -680,7 +681,6 @@ Naricht 21
 Unfall 21
 eersten 21
 blau 21
-helpt 21
 drink 21
 Nich 21
 Köök 21
@@ -814,6 +814,7 @@ toenn 17
 verkehrt 17
 toslapen 17
 Steert 17
+rode 17
 Arm 17
 Aap 17
 Ünnerricht 17
@@ -848,7 +849,6 @@ Reis 16
 Kamera 16
 Kees 16
 Wand 16
-rode 16
 Avendeten 16
 Süstern 16
 Büx 16
@@ -1170,6 +1170,7 @@ setten 10
 et 10
 Stadt 10
 Broer 10
+Pullover 10
 Sett 10
 Reken 10
 Fever 10
@@ -1267,7 +1268,6 @@ düt 9
 n 9
 stark 9
 Vigelien 9
-Pullover 9
 krieg 9
 dicken 9
 Schriever 9
@@ -1583,6 +1583,7 @@ Däänmark 7
 Korv 7
 200 7
 Huud 7
+starvt 7
 Mehl 7
 Städer 7
 annahmen 7
@@ -1764,7 +1765,6 @@ Bookladen 6
 Kilometer 6
 wahnen 6
 Musiek 6
-starvt 6
 Höört 6
 Oord 6
 Oost 6
@@ -2219,6 +2219,7 @@ Spood 4
 jaagt 4
 Gegendeel 4
 Nagels 4
+dürer 4
 allerbest 4
 Gebüüd 4
 opnahmen 4
@@ -2682,7 +2683,6 @@ Töhn 3
 höllen 3
 draag 3
 Holschen 3
-dürer 3
 reneveert 3
 Twievel 3
 kole 3

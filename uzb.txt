@@ -1,5 +1,5 @@
-Men 64
-Bu 62
+Men 65
+Bu 63
 U 61
 bor 32
 bir 28
@@ -62,6 +62,8 @@ Bir 6
 boraman 6
 qancha 6
 odam 6
+bu 6
+faqat 6
 emasmi 6
 soat 6
 учун 5
@@ -78,9 +80,8 @@ ustida 5
 meni 5
 kecha 5
 Har 5
-bu 5
+yerda 5
 Yana 5
-faqat 5
 ikki 5
 Kecha 5
 bo'ladi 5
@@ -107,7 +108,6 @@ Lori 4
 baland 4
 qildi 4
 Menda 4
-yerda 4
 o'qish 4
 ҳақиқатни 4
 билмоқчи 4
@@ -213,6 +213,7 @@ yemayman 3
 yo‘q 3
 o‘z 3
 Baliqni 3
+birinchi 3
 Sensiz 2
 hayot 2
 одамлар 2
@@ -458,6 +459,7 @@ bunaqa 2
 o'ylaysanmi 2
 maylimi 2
 nechida 2
+poyezd 2
 tana 2
 yogʻdi 2
 Bizda 2
@@ -482,6 +484,8 @@ Germaniyaga 2
 savolingizga 2
 Tilingizni 2
 yumdi 2
+tarjimani 2
+o‘qidim 2
 barbod 1
 kutaman 1
 Барча 1
@@ -1914,7 +1918,6 @@ borsam 1
 turgandingmi 1
 beraymi 1
 Oxirgi 1
-poyezd 1
 Keyin 1
 saroyda 1
 hukumatda 1
@@ -2178,7 +2181,6 @@ pasaytira 1
 alomatga 1
 duch 1
 kelishingiz 1
-birinchi 1
 martami 1
 go‘sht 1
 kompyuterimdan 1
@@ -2286,3 +2288,5 @@ mushuklar 1
 ko‘radilar 1
 orasida 1
 ikkiyuzlamachi 1
+to‘xtamaydi 1
+Faqat 1

@@ -1,4 +1,4 @@
-es 277
+es 278
 Tom 160
 un 145
 El 110
@@ -13,13 +13,13 @@ esta 78
 a 68
 una 68
 La 56
-Los 55
-son 49
+Los 56
+son 50
 איל 45
+Me 42
 Es 42
 los 41
 Esto 39
-Me 39
 i 36
 ke 35
 So 33
@@ -75,6 +75,7 @@ puerta 14
 mas 13
 djudia 13
 איסטה 13
+pasharos 13
 komida 13
 lo 12
 le 12
@@ -86,11 +87,11 @@ Dingunos 12
 Ke 12
 סון 12
 vedre 12
-pasharos 12
 al 11
 sivdad 11
 vida 11
 mujer 11
+yamo 11
 fue 11
 plazen 11
 ayi 11
@@ -126,7 +127,6 @@ su 8
 En 8
 avla 8
 kero 8
-yamo 8
 Te 8
 kolorada 8
 Moro 8
@@ -432,6 +432,7 @@ vidas 3
 אונדי 3
 מוראמוס 3
 suzio 3
+Karl 3
 Marx 3
 Gresia 3
 אירה 3
@@ -692,7 +693,6 @@ pasifika 2
 paz 2
 שלום 2
 anarkisto 2
-Karl 2
 קארל 2
 מארקס 2
 מאטו 2
@@ -819,6 +819,7 @@ asperando 2
 djudias 2
 Nos 2
 kudiamos 2
+Nada 2
 bashitiko 2
 deskansava 2
 abashi 2
@@ -2083,7 +2084,6 @@ Elon 1
 Musk 1
 invento 1
 Twitter 1
-Nada 1
 Mashiah 1
 משיח 1
 kales 1
@@ -2144,3 +2144,7 @@ findjanes 1
 vaziyo 1
 avlo 1
 jenitor 1
+kolorados 1
+sakrado 1
+Carlos 1
+Carl 1

@@ -1,19 +1,19 @@
-esas 2687
-la 2091
-Me 2085
-ne 1210
+esas 2688
+la 2093
+Me 2087
+ne 1212
 La 940
-Tom 831
-me 828
+Tom 832
+me 829
 tu 788
 Ka 639
 en 554
-havas 535
-es 459
-Il 394
+havas 538
+es 461
+Il 395
 di 382
+vu 377
 ke 376
-vu 375
 mea 373
 Ni 372
 a 361
@@ -24,7 +24,7 @@ povas 287
 tre 268
 por 255
 Tu 250
-Mea 247
+Mea 249
 il 226
 plu 213
 El 202
@@ -38,19 +38,19 @@ to 172
 kun 171
 tua 170
 sua 167
-To 166
+To 167
 pri 149
+quo 148
 bela 148
 prizas 146
 Ne 146
 Li 146
-quo 145
 qua 130
+vi 127
 Elu 126
-vi 125
 libro 123
-parolas 120
-el 120
+parolas 122
+el 121
 ol 120
 Esas 116
 Ube 114
@@ -58,9 +58,9 @@ Qua 114
 Mary 111
 multa 107
 granda 106
+Pro 106
 amas 104
 bezonas 104
-Pro 103
 Vu 102
 Quon 101
 maxim 101
@@ -105,10 +105,10 @@ nia 68
 ad 68
 Quale 68
 aquo 68
-ed 67
+ed 68
+nomesas 67
 Ica 66
 vivo 66
-nomesas 66
 sempre 65
 pekunio 65
 un 65
@@ -146,6 +146,7 @@ volis 49
 ye 49
 tante 49
 Ol 48
+nulo 48
 on 48
 esos 48
 fratino 48
@@ -157,8 +158,8 @@ facar 46
 ibe 46
 laboras 46
 amiki 45
+Se 44
 morge 44
-nulo 44
 Quala 44
 Bona 43
 vidas 43
@@ -166,7 +167,6 @@ ja 43
 kafeo 43
 lua 43
 drinkas 43
-Se 42
 arivis 42
 Ilua 42
 tri 42
@@ -184,6 +184,7 @@ se 40
 che 39
 habitas 39
 importanta 39
+facis 39
 venas 39
 libri 38
 lojas 38
@@ -192,7 +193,6 @@ Nulu 37
 vidar 37
 infanti 37
 ilua 37
-facis 37
 komprenas 36
 deziras 36
 iris 36
@@ -226,13 +226,14 @@ blua 31
 puerino 31
 facila 31
 longa 31
+mala 31
+kati 30
 lektar 30
 laborar 30
 sola 30
 Ido 30
 automobilo 30
 malada 30
-kati 29
 hiere 29
 kom 29
 Quanta 29
@@ -244,16 +245,15 @@ dormas 29
 puero 29
 tota 29
 matino 29
+reda 29
 desfacila 28
 venos 28
 helpar 28
 problemo 28
 Nia 28
-mala 28
 yuna 28
 existas 28
 perdis 28
-reda 28
 trovis 27
 vivar 27
 iros 27
@@ -352,6 +352,7 @@ kantas 21
 fishi 21
 chefurbo 21
 verda 21
+Usa 21
 jemeli 21
 pupeo 21
 treno 20
@@ -367,7 +368,6 @@ venar 20
 irgo 20
 mediko 20
 fatigita 20
-Usa 20
 spozulo 20
 vendas 20
 Franciana 20
@@ -400,6 +400,7 @@ Boston 18
 esperas 17
 Ico 17
 preske 17
+semblas 17
 Lo 17
 Japonia 17
 mulieri 17
@@ -409,7 +410,6 @@ vartar 17
 kurta 17
 shui 17
 eventis 16
-semblas 16
 dormar 16
 Anke 16
 studiar 16
@@ -499,6 +499,7 @@ fenestro 13
 renkontris 13
 agas 13
 Donez 13
+kantar 13
 interesanta 13
 l'Angla 13
 frazi 13
@@ -538,7 +539,6 @@ justa 12
 povos 12
 ya 12
 volus 12
-kantar 12
 eniris 12
 dii 12
 audas 12
@@ -710,6 +710,7 @@ kordio 9
 retrovenis 9
 lavar 9
 singla 9
+bestii 9
 krayono 9
 projeto 9
 amikeso 9
@@ -737,6 +738,7 @@ Lernar 9
 pluvoza 9
 segun 9
 rozi 9
+helpis 9
 plezuro 9
 havar 9
 volfo 9
@@ -749,6 +751,7 @@ amo 9
 koquas 9
 mentiis 9
 vartas 9
+Hungariana 9
 askoltas 9
 floro 9
 princino 9
@@ -785,7 +788,6 @@ matine 8
 oreli 8
 amar 8
 manjajo 8
-bestii 8
 monati 8
 sep 8
 od 8
@@ -818,7 +820,6 @@ vehar 8
 eskapar 8
 avino 8
 Aquo 8
-helpis 8
 sordida 8
 dansar 8
 interesas 8
@@ -832,7 +833,6 @@ simii 8
 pladi 8
 fore 8
 strado 8
-Hungariana 8
 odiis 8
 dansis 8
 vidos 8
@@ -879,6 +879,7 @@ serchis 7
 stulo 7
 adhike 7
 arivos 7
+kavali 7
 proxima 7
 honesta 7
 Esez 7
@@ -951,6 +952,7 @@ stulta 7
 Europa 7
 policisto 7
 rano 7
+Nulo 7
 facile 7
 chipa 7
 male 7
@@ -983,6 +985,7 @@ malodoras 7
 korpo 7
 restar 7
 tradukisto 7
+Germaniana 7
 repteri 7
 Salas 7
 amis 7
@@ -1014,7 +1017,6 @@ Jim 6
 mil 6
 pedi 6
 le 6
-kavali 6
 celis 6
 Jack 6
 poka 6
@@ -1082,7 +1084,6 @@ ebria 6
 Lasez 6
 tarda 6
 unfoye 6
-Nulo 6
 brava 6
 kuris 6
 idei 6
@@ -1116,10 +1117,11 @@ kaptar 6
 Bonveno 6
 fenestri 6
 sive 6
-Germaniana 6
 lego 6
 policistaro 6
+miaulas 6
 sonas 6
+kulo 6
 Yunini 6
 fola 6
 inkubi 6
@@ -1230,6 +1232,7 @@ egoista 5
 danko 5
 saturdio 5
 larja 5
+L'uceli 5
 vartos 5
 nubo 5
 Qui 5
@@ -1309,10 +1312,8 @@ sonjas 5
 facenda 5
 montras 5
 fashisto 5
-miaulas 5
 Nord-Korea 5
 kamiono 5
-kulo 5
 injenioro 5
 rejino 5
 pluv-arko 5
@@ -1449,7 +1450,6 @@ kunlaborar 4
 korto 4
 NIFO 4
 vicini 4
-L'uceli 4
 flugas 4
 Montrez 4
 brakio 4
@@ -2075,6 +2075,7 @@ fidos 3
 geniozo 3
 egoismo 3
 satisfacesas 3
+pruritas 3
 Jean 3
 Skotia 3
 provis 3
@@ -2202,6 +2203,7 @@ espelas 2
 Vokez 2
 revar 2
 departos 2
+gambo 2
 pardono 2
 solida 2
 frostas 2
@@ -3348,6 +3350,8 @@ kat-yuno 2
 transgenrino 2
 alejo 2
 inventuro 2
+celenda 2
+bramas 2
 Klabaster 1
 Gizmo 1
 acidente 1
@@ -3425,7 +3429,6 @@ nerezistebla 1
 intence 1
 lasta-semane 1
 nexta-semane 1
-gambo 1
 mordesis 1
 kulpoza 1
 reparo 1
@@ -6393,7 +6396,6 @@ The 1
 Cure 1
 Fairo 1
 debaji 1
-pruritas 1
 abomininda 1
 citrono 1
 konkluzis 1
@@ -7960,3 +7962,6 @@ drogdependantulo 1
 prepoziciono 1
 kontregeya 1
 Klareso 1
+pedo 1
+sakra 1
+Carlos 1

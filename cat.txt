@@ -1,10 +1,10 @@
 la 1538
-de 1498
+de 1499
 a 1421
 que 1297
 el 1193
-és 1014
-no 826
+és 1015
+no 827
 va 788
 un 759
 en 614
@@ -14,7 +14,7 @@ per 534
 El 522
 i 516
 Tom 468
-La 405
+La 406
 les 394
 amb 383
 al 361
@@ -30,7 +30,7 @@ Ella 202
 meu 199
 vaig 198
 com 195
-està 184
+està 185
 fer 177
 em 176
 És 166
@@ -73,10 +73,10 @@ Si 93
 això 92
 tan 90
 van 88
+Aquest 88
+aquí 87
 bé 87
-Aquest 87
 mi 86
-aquí 86
 Mary 86
 Jo 86
 llibre 85
@@ -118,11 +118,11 @@ vida 63
 pel 63
 mateix 63
 dos 63
+Qui 63
 gran 62
 Un 62
 sobre 62
 qui 62
-Qui 62
 has 61
 Aquesta 60
 estat 60
@@ -402,9 +402,11 @@ cel 20
 passa 19
 mesos 19
 trucar 19
+tren 19
 Quant 19
 prop 19
 llum 19
+l'estació 19
 fred 19
 fan 19
 pas 19
@@ -422,9 +424,7 @@ Vam 18
 nen 18
 ràpid 18
 sopar 18
-tren 18
 llengües 18
-l'estació 18
 alt 18
 estudiant 18
 cafè 18
@@ -681,6 +681,7 @@ rei 11
 començat 11
 meua 11
 tornat 11
+l'amor 11
 Mon 11
 bonica 11
 neu 11
@@ -746,7 +747,6 @@ color 10
 sent 10
 t'ha 10
 ballar 10
-l'amor 10
 Heu 10
 alumnes 10
 donat 10
@@ -815,6 +815,7 @@ sucre 9
 divendres 9
 sabates 9
 aquestes 9
+cervesa 9
 tipus 9
 dins 9
 enviar 9
@@ -855,6 +856,7 @@ poden 8
 diferents 8
 dura 8
 explicar 8
+para 8
 M'he 8
 dents 8
 eren 8
@@ -917,7 +919,6 @@ població 8
 costa 8
 classes 8
 estudia 8
-cervesa 8
 Quasi 8
 me'n 8
 Podria 8
@@ -976,7 +977,6 @@ famós 7
 noves 7
 braç 7
 frase 7
-para 7
 corrent 7
 facis 7
 tele 7
@@ -1038,6 +1038,7 @@ Jack 7
 parles 7
 s'està 7
 dolent 7
+primavera 7
 toca 7
 tocar 7
 pes 7
@@ -1172,7 +1173,6 @@ germans 6
 millors 6
 faria 6
 darrera 6
-primavera 6
 vermell 6
 trencada 6
 americà 6
@@ -2792,6 +2792,7 @@ mel 2
 maco 2
 mares 2
 jugadors 2
+bevent 2
 estudies 2
 exàmens 2
 sabata 2
@@ -4681,7 +4682,6 @@ Takagi 1
 16 1
 sorprès 1
 Darrerament 1
-bevent 1
 nins 1
 tranquils 1
 Escriuré 1

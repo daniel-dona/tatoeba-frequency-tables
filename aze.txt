@@ -1,4 +1,4 @@
-Mən 651
+Mən 652
 O 452
 Tom 404
 Bu 347
@@ -269,6 +269,7 @@ yalan 10
 bilmərəm 10
 biri 10
 Qızlar 10
+xoşuma 10
 zəhləm 10
 Kim 10
 görünür 9
@@ -299,7 +300,6 @@ məcbur 9
 yerdə 9
 fikir 9
 fransızca 9
-xoşuma 9
 ehtiyacı 9
 kimin 9
 xoşum 9
@@ -356,6 +356,7 @@ işləyir 8
 qırmızıdır 8
 Yaponiyada 8
 bizi 8
+gəlmir 8
 davam 8
 biraz 8
 Şimali 8
@@ -376,6 +377,7 @@ evim 7
 qaradır 7
 beş 7
 işə 7
+oxumaq 7
 tennis 7
 adlanır 7
 bilərsiniz 7
@@ -434,7 +436,6 @@ biz 7
 yenidən 7
 başlayır 7
 ancaq 7
-gəlmir 7
 deyilsən 7
 təxminən 7
 uşaq 7
@@ -462,7 +463,6 @@ Qadın 6
 altı 6
 səkkiz 6
 çörək 6
-oxumaq 6
 Londonda 6
 bilərik 6
 Həyat 6
@@ -602,6 +602,7 @@ yaxşıyam 5
 Qəhvə 5
 baxdı 5
 dilidir 5
+oxudum 5
 oğlum 5
 Yaşıl 5
 Bakıda 5
@@ -689,6 +690,7 @@ icazə 5
 ölkəsidir 5
 qayıtdı 5
 ikinci 5
+birinci 5
 adını 5
 Serbiyanın 5
 müddət 5
@@ -737,6 +739,7 @@ Siqaret 4
 adətən 4
 problemi 4
 xəstəxanada 4
+Yalnız 4
 etdin 4
 qərar 4
 köməyə 4
@@ -926,6 +929,7 @@ Yerə 4
 gözləri 4
 xoşlayırsan 4
 işləyirəm 4
+əla 4
 sarıdır 4
 deyilik 4
 axır 4
@@ -988,7 +992,6 @@ diqqətli 3
 çimərliyə 3
 hazıram 3
 idarə 3
-Yalnız 3
 eşidirəm 3
 özü 3
 Adam 3
@@ -1002,7 +1005,6 @@ qadındır 3
 sahib 3
 yazdım 3
 yeyirdim 3
-oxudum 3
 Bakı 3
 sualıma 3
 şam 3
@@ -1230,7 +1232,6 @@ respublikadır 3
 İraq 3
 Qərbi 3
 satır 3
-birinci 3
 edəcəyimi 3
 aprelin 3
 Syuzan 3
@@ -1310,7 +1311,6 @@ aldın 3
 yavaş 3
 xilas 3
 anası 3
-əla 3
 ölümdən 3
 düşmədi 3
 yuxuya 3
@@ -1368,6 +1368,7 @@ qalıb 3
 duzladı 3
 düşündüm 3
 Mary'nin 3
+yalnız 3
 çünki 3
 вар 3
 söylədilər 3
@@ -2410,7 +2411,6 @@ keçirdilər 2
 etdiyi 2
 güvənə 2
 vermişəm 2
-yalnız 2
 minnətdar 2
 ayaqqabılarını 2
 gerçək 2
@@ -2460,6 +2460,7 @@ Qızların 2
 Qızımla 2
 qəzəbləndirməkdən 2
 sırf 2
+tərcüməni 2
 xanımlar 1
 vә 1
 cәnablar 1
@@ -7655,3 +7656,7 @@ qorxmalıyam 1
 Qorxmağı 1
 qəzetlərindən 1
 ikiüzlü 1
+Məktəbi 1
+qiymətlərlə 1
+qurtarıb 1
+Məktəbdə 1

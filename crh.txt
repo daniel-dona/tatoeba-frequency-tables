@@ -1,10 +1,10 @@
 O 32
 edi 30
-Men 22
+Men 24
 bar 21
+ne 19
 degil 19
 ве 18
-ne 17
 да 13
 suvuq 13
 yaşında 12
@@ -31,6 +31,7 @@ yoq 6
 бу 6
 ичюн 6
 Onı 6
+Sen 6
 мимарджылыкъ 5
 санаат 5
 сербест 5
@@ -38,7 +39,6 @@ Onı 6
 eki 5
 Qırımda 5
 ediler 5
-Sen 5
 Gece 5
 yerde 4
 — 4
@@ -56,6 +56,7 @@ büyük 4
 qıymetli 4
 Camuslar 4
 qaranlıqta 4
+adı 4
 nedir 3
 olsun 3
 Maña 3
@@ -89,6 +90,7 @@ köre 3
 baqıp 3
 maña 3
 suv 3
+Ne 3
 de 3
 Biz 3
 başladı 3
@@ -175,7 +177,6 @@ bu 2
 aqşam 2
 küneşli 2
 amma 2
-Ne 2
 saña 2
 uzun 2
 Kim 2
@@ -207,12 +208,13 @@ elimden 2
 Yanlarına 2
 yağmur 2
 Qızımnı 2
-adı 2
 ber 2
 dilimde 2
 laf 2
 etesiñ 2
 Bunı 2
+çalışamı 2
+Aqlı 2
 padişanıñ 1
 oğlu 1
 eken 1
@@ -1035,3 +1037,16 @@ Tünevin 1
 yağa 1
 Sualge 1
 cevap 1
+Aqayıñız 1
+Apayıñız 1
+ekimim 1
+studentim 1
+kimsiñ 1
+Apayıñıznıñ 1
+Aqayıñıznıñ 1
+vaqıt 1
+evlendiñ 1
+degilsiñ 1
+degilsiñiz 1
+Qabaat 1
+işlemeñiz 1
