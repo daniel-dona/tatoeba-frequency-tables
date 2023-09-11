@@ -1,15 +1,15 @@
-je 446
-se 170
+je 451
+se 171
 sam 161
-u 153
-da 131
-li 109
+u 154
+da 132
+li 110
 na 103
-Tom 87
-su 66
+Tom 88
+su 67
 ne 60
 i 58
-Ne 54
+Ne 55
 nije 50
 Ja 49
 mi 49
@@ -21,9 +21,9 @@ to 36
 On 35
 ti 34
 To 32
+Da 29
 Ona 29
 što 29
-Da 28
 Gdje 28
 te 28
 Kako 27
@@ -32,7 +32,7 @@ me 26
 s 26
 bio 23
 U 22
-mogu 20
+mogu 21
 Šta 19
 Je 19
 bi 19
@@ -47,10 +47,10 @@ ali 17
 ima 17
 o 17
 ga 16
+moj 15
 će 15
 još 15
 ovo 14
-moj 14
 sa 14
 sve 14
 Molim 14
@@ -79,6 +79,7 @@ rekao 11
 engleski 11
 Ti 11
 molim 11
+uvijek 11
 svoj 11
 ćemo 11
 Moj 10
@@ -92,7 +93,6 @@ voli 10
 vrlo 10
 tu 10
 ljudi 10
-uvijek 10
 nas 10
 znam 10
 sada 10
@@ -131,6 +131,7 @@ posao 8
 bila 8
 Hvala 8
 Tomu 8
+jezik 8
 doći 8
 Sada 8
 Vrijeme 8
@@ -153,7 +154,6 @@ reći 7
 sutra 7
 mnogo 7
 može 7
-jezik 7
 kada 7
 Možete 7
 sati 7
@@ -325,9 +325,11 @@ puno 4
 ponedjeljak 4
 Taj 4
 neće 4
+odgovor 4
 škole 4
 vole 4
 nema 4
+Vaš 4
 gospodin 4
 god 4
 dijete 4
@@ -472,7 +474,6 @@ zbog 3
 svome 3
 ocu 3
 učiti 3
-Vaš 3
 riješiti 3
 svojim 3
 prvi 3
@@ -504,6 +505,7 @@ Zdravo 2
 student 2
 zoveš 2
 njegovo 2
+Njen 2
 Njegova 2
 udžbenik 2
 pitanje 2
@@ -714,6 +716,7 @@ nogomet 2
 svake 2
 Po 2
 mišljenju 2
+pravu 2
 odmoru 2
 problema 2
 sebe 2
@@ -761,7 +764,6 @@ Uzmi 2
 spava 2
 zabavu 2
 Izgubila 2
-odgovor 2
 zato 2
 Mrzim 2
 rano 2
@@ -828,6 +830,7 @@ pojma 2
 busom 2
 ubiti 2
 mora 2
+Engleski 2
 srodni 2
 Japan 2
 zemlje 2
@@ -912,21 +915,23 @@ Naravno 2
 pola 2
 putu 2
 početi 2
+drugi 2
 ukrao 2
 lijek 2
 dolaziti 2
 Bosnu 2
 pije 2
+odakle 2
 plemena 2
 čaj 2
 jači 2
+tačan 2
 Džek 1
 Zove 1
 Tomojuki 1
 Ogura 1
 lutka 1
 Teka 1
-Njen 1
 Njena 1
 Njeno 1
 njihova 1
@@ -1659,7 +1664,6 @@ Nemate 1
 krivi 1
 telefonski 1
 našem 1
-pravu 1
 jasno 1
 pozivu 1
 prijeđemo 1
@@ -2109,7 +2113,6 @@ dokaz 1
 odjednom 1
 znatiželjna 1
 Paula 1
-Engleski 1
 Vječna 1
 šutnja 1
 tih 1
@@ -2938,7 +2941,6 @@ ubistva 1
 neću 1
 halaliti 1
 onaj 1
-drugi 1
 Onaj 1
 torbicu 1
 Uzeću 1
@@ -3032,7 +3034,6 @@ hiljaditi 1
 kupac 1
 Kazuj 1
 momče 1
-odakle 1
 kojega 1
 El 1
 Muhamed 1
@@ -3151,3 +3152,7 @@ iznenađen 1
 pojavio 1
 Žedan 1
 Gladan 1
+Muzičari 1
+umorni 1
+sjetim 1
+mušterija 1

@@ -1,4 +1,4 @@
-ir 1121
+ir 1122
 Es 652
 Toms 421
 ka 324
@@ -2038,6 +2038,7 @@ suņiem 2
 savs 2
 dūmu 2
 uzticams 2
+noguruši 2
 veselībai 2
 apnicis 2
 Šajos 2
@@ -4742,7 +4743,6 @@ uzmanīgi 1
 jāmaina 1
 paelpot 1
 Uzklausiet 1
-noguruši 1
 garas 1
 pastaigas 1
 Sievietēm 1
@@ -8138,3 +8138,4 @@ Sīkāk 1
 paskaidrošu 1
 vardas 1
 Faršadas 1
+Mūziķi 1

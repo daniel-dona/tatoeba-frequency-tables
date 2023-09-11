@@ -1,5 +1,5 @@
 yn 550
-i 338
+i 339
 Mae 280
 y 195
 Dw 180
@@ -9,11 +9,11 @@ o 114
 ddim 112
 ei 91
 ar 86
-hoffi 78
+hoffi 79
 wedi 78
 ti 76
 hi 75
-ti'n 69
+ti'n 70
 a 68
 hi'n 67
 yr 67
@@ -21,7 +21,7 @@ Mae'r 66
 chi 65
 fy 63
 bod 61
-Wyt 56
+Wyt 57
 am 52
 dy 50
 Mary 48
@@ -64,10 +64,10 @@ yma 22
 wneud 22
 gwneud 22
 Dych 21
+dw 21
 dim 21
 rhaid 21
 mae'r 20
-dw 20
 o'r 19
 o'n 19
 da 19
@@ -2528,3 +2528,5 @@ llyseuwr 1
 llyseuwraig 1
 peint 1
 Guinness 1
+Gweithiwr 1
+siocled 1

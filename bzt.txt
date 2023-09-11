@@ -1,15 +1,15 @@
-es 120
+es 122
 Eo 89
-yn 63
+yn 64
 rhen 60
 di 47
 Tomos 41
-Ill 30
+Ill 31
 llo 27
 su 27
 Ys 24
 Llo 22
-Sa 20
+Sa 21
 sunt 19
 lla 18
 ill 17
@@ -24,14 +24,14 @@ Ke 10
 gws 10
 eo 10
 puf 9
+Mew 9
 i 9
+gath 8
 in 8
-Mew 8
 ffuin 8
 math 8
 sun 8
 lesbian 8
-gath 7
 h-yddew 7
 Greid 7
 Nw 7
@@ -126,6 +126,7 @@ abit 3
 Ierusalem 3
 saeth 3
 ngwidd 3
+comiwnist 3
 h-ugell 3
 Pab 3
 Ceosath 3
@@ -198,6 +199,7 @@ munn 2
 nef 2
 afant 2
 wiwant 2
+arfur 2
 ffeil 2
 blentin 2
 nediwn 2
@@ -208,7 +210,7 @@ ty 2
 gwidder 2
 dif 2
 min 2
-comiwnist 2
+er-ys 2
 h-enifal 2
 Si 2
 ia 2
@@ -449,7 +451,6 @@ wardd 1
 furdd 1
 digiddef 1
 phlanner 1
-arfur 1
 es-sa 1
 funn 1
 ffuid 1
@@ -478,7 +479,6 @@ dewin 1
 ffagef 1
 Karl 1
 Marx 1
-er-ys 1
 ddunar-llw 1
 ddunar-lla 1
 yscrif-ty 1
@@ -572,3 +572,8 @@ politig 1
 bon 1
 pesc 1
 gredd 1
+cadd 1
+saesonig 1
+nir 1
+John 1
+Lennon 1

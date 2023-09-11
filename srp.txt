@@ -1,6 +1,6 @@
 да 6954
 da 6847
-je 6788
+je 6789
 је 6064
 се 3596
 сам 3193
@@ -8,10 +8,10 @@ se 3030
 Том 2979
 sam 2501
 ли 2090
-u 2056
+u 2057
 Tom 2049
 у 1802
-li 1790
+li 1791
 то 1494
 na 1483
 i 1394
@@ -21,13 +21,13 @@ i 1394
 to 1172
 ne 1150
 mi 1023
-Da 1019
+Da 1020
 ми 1006
 si 984
 и 961
 za 891
 су 865
-su 861
+su 862
 Ne 831
 sa 823
 Не 743
@@ -123,8 +123,8 @@ veoma 214
 с 211
 Toma 210
 било 210
+uvek 208
 bila 208
-uvek 207
 веома 206
 тамо 197
 како 192
@@ -166,7 +166,7 @@ vreme 167
 kući 160
 бити 159
 кући 158
-Koliko 157
+Koliko 158
 му 157
 Колико 156
 знам 155
@@ -219,11 +219,11 @@ nas 131
 Svi 131
 сада 131
 урадио 131
+ljudi 130
 ili 130
 Sve 130
 људи 130
 ништа 129
-ljudi 129
 Možeš 129
 Oni 129
 zbog 128
@@ -375,12 +375,12 @@ govori 80
 неколико 80
 живи 80
 ih 80
+toliko 79
 živi 79
 jer 79
 код 79
 Sada 79
 баш 78
-toliko 78
 bili 78
 želiš 78
 trebalo 78
@@ -455,6 +455,7 @@ taj 66
 svi 66
 Danas 66
 zar 66
+znaš 66
 izgleda 66
 oni 66
 I 66
@@ -464,7 +465,6 @@ dalje 65
 želi 65
 dva 65
 kažem 65
-znaš 65
 Већ 65
 Могу 65
 кад 64
@@ -684,6 +684,7 @@ neću 46
 veliki 45
 sati 45
 jednom 45
+pravu 45
 previše 45
 osoba 45
 isto 45
@@ -700,7 +701,6 @@ god 44
 budeš 44
 prijatelj 44
 minuta 44
-pravu 44
 života 44
 moju 44
 došao 44
@@ -717,6 +717,7 @@ majka 43
 istina 43
 srećan 43
 drugi 43
+jezika 43
 Нећу 43
 мени 43
 лепо 43
@@ -735,7 +736,6 @@ brat 42
 Bila 42
 Voleo 42
 Ali 42
-jezika 42
 dete 42
 можете 42
 мислио 42
@@ -7035,6 +7035,7 @@ usamljeni 4
 prekratak 4
 Troškovi 4
 govorila 4
+umorni 4
 energija 4
 email 4
 uhapsila 4
@@ -9085,7 +9086,6 @@ informaciju 3
 dogodila 3
 duha 3
 mrtvi 3
-umorni 3
 gospodina 3
 Atomska 3
 svrhe 3
@@ -9904,6 +9904,7 @@ uništena 3
 основу 3
 причом 3
 stati 3
+mušterija 3
 vožnju 3
 FIFA 3
 Bostom 3
@@ -9997,4 +9998,3 @@ priviđa 3
 pričajte 3
 krećemo 3
 klima-uređaj 3
-uglu 3

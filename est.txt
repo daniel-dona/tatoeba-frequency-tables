@@ -1,13 +1,13 @@
-on 1382
-Ma 885
-ei 713
+on 1383
+Ma 886
+ei 714
 Tom 580
-sa 412
-Kas 405
-et 317
+sa 414
+Kas 407
+et 318
 Ta 317
 See 265
-ma 211
+ma 212
 seda 200
 oma 184
 see 174
@@ -23,8 +23,8 @@ kui 122
 väga 121
 Me 120
 pole 113
+oled 97
 mulle 97
-oled 95
 mind 88
 mu 85
 selle 84
@@ -35,7 +35,7 @@ minu 78
 palju 75
 Miks 75
 Kui 73
-sulle 70
+sulle 71
 sind 68
 tahan 68
 kõik 67
@@ -49,8 +49,8 @@ Mis 63
 veel 63
 nii 62
 Kus 61
+Mida 60
 hea 59
-Mida 58
 Mary 58
 Kes 57
 Mu 57
@@ -65,13 +65,13 @@ saa 50
 teha 48
 Mulle 47
 me 46
+kunagi 45
 minna 44
 tea 44
-kunagi 44
 olnud 43
 isa 43
 Tomile 42
-pean 40
+pean 41
 ütles 40
 talle 39
 tagasi 39
@@ -84,11 +84,11 @@ tahab 37
 koer 37
 Tomil 37
 nad 36
+prantsuse 36
 koju 35
 kas 35
 täna 35
 kes 34
-prantsuse 34
 aru 33
 hästi 33
 vaja 33
@@ -171,6 +171,7 @@ miks 21
 naine 20
 lapsed 20
 Millal 20
+meeldivad 20
 elab 20
 mina 20
 pea 20
@@ -182,6 +183,9 @@ ikka 19
 olete 19
 raamatu 19
 aastat 19
+tee 19
+minuga 19
+väsinud 19
 vana 19
 alati 18
 valmis 18
@@ -190,11 +194,8 @@ tuleb 18
 raamatut 18
 praegu 18
 taga 18
-meeldivad 18
 koera 18
-tee 18
 saada 18
-väsinud 18
 raske 18
 tahtnud 18
 kus 18
@@ -207,7 +208,6 @@ sai 17
 tõesti 17
 tööd 17
 Ei 17
-minuga 17
 oleme 17
 Siin 17
 selles 17
@@ -254,6 +254,7 @@ raamat 14
 Mitte 14
 kuidas 14
 elan 14
+teinud 14
 kogu 14
 vett 14
 keele 14
@@ -308,7 +309,6 @@ uue 12
 puu 12
 all 12
 On 12
-teinud 12
 kooli 12
 asub 12
 rääkinud 12
@@ -336,6 +336,7 @@ lihtsalt 11
 enne 11
 uuesti 11
 Bostonisse 11
+teile 11
 Anna 11
 Mine 11
 Thomas 11
@@ -372,7 +373,6 @@ juua 10
 võin 10
 pidanud 10
 Tule 10
-teile 10
 usu 10
 Sami 10
 noor 9
@@ -488,6 +488,7 @@ ise 8
 tulla 8
 suuda 8
 nime 8
+rääkima 8
 kukkus 8
 elavad 8
 kingad 8
@@ -556,7 +557,6 @@ Tänan 7
 Hei 7
 inimesi 7
 aastal 7
-rääkima 7
 joo 7
 kardina 7
 nende 6
@@ -913,6 +913,7 @@ muusika 4
 temast 4
 suurt 4
 maitsev 4
+Loodan 4
 mitu 4
 veidi 4
 tappa 4
@@ -1194,7 +1195,6 @@ Ah 3
 sattus 3
 käes 3
 teeksin 3
-Loodan 3
 võlgu 3
 endast 3
 kuulaksid 3
@@ -1379,6 +1379,7 @@ ehitas 3
 viiskümmend 3
 pudelit 3
 puidust 3
+vigu 3
 juuksed 3
 Tokyos 3
 prillid 3
@@ -2143,7 +2144,6 @@ e-maili 2
 Mõlemad 2
 käin 2
 kasvas 2
-vigu 2
 vanemaid 2
 tänava 2
 peitis 2
@@ -2324,6 +2324,7 @@ andestama 2
 Sloveenia 2
 insener 2
 töölauda 2
+veinid 2
 Sellises 1
 kärestikus 1
 ujuma 1
@@ -6354,3 +6355,8 @@ Peeter 1
 veritseb 1
 Lasteaias 1
 kaunid 1
+kellegagi 1
+samu 1
+põrgut 1
+kuradit 1
+Muusikud 1

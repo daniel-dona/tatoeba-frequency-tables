@@ -9,17 +9,17 @@ va 788
 un 759
 en 614
 No 604
-una 534
+una 535
 per 534
 El 522
-i 516
+i 517
 Tom 468
 La 406
 les 394
 amb 383
 al 361
-ha 346
-els 346
+els 348
+ha 347
 En 344
 es 308
 més 291
@@ -88,7 +88,7 @@ pot 81
 anys 81
 teu 81
 He 80
-Hi 79
+Hi 80
 Estic 77
 tu 77
 ella 76
@@ -129,9 +129,9 @@ estat 60
 ara 59
 massa 58
 cotxe 58
+entre 58
 cosa 57
 encara 57
-entre 57
 nit 56
 seus 56
 perquè 56
@@ -1184,6 +1184,7 @@ dijous 6
 anava 6
 ous 6
 Podeu 6
+diferència 6
 tallar 6
 cavall 6
 tret 6
@@ -1359,7 +1360,6 @@ política 5
 continuar 5
 correus 5
 mentida 5
-diferència 5
 bellesa 5
 darrere 5
 "No 5
@@ -3701,6 +3701,7 @@ concloure 2
 radical 2
 increïbles 2
 "el 2
+virus 2
 vaccí 2
 vacuna 2
 tinguem 2
@@ -8343,7 +8344,6 @@ Increïble 1
 contagiós 1
 Trump 1
 anomena 1
-virus 1
 xinès" 1
 assimilem 1
 l'impacte 1
@@ -9691,3 +9691,4 @@ morat 1
 sabent 1
 l'aneguet 1
 lleig 1
+bacteris 1

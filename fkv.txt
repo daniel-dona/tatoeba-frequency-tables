@@ -1,19 +1,19 @@
-oon 210
+oon 212
 Se 35
 ei 32
 Hyvvää 28
 ja 27
 oli 25
 Hän 17
+Mie 16
 Met 16
 ole 16
-Mie 15
 se 15
 Tämä 13
 tahi 12
 ko 11
+hyvä 11
 ette 10
-hyvä 10
 Het 9
 vuona 8
 yötä 8
@@ -34,6 +34,7 @@ Kunka 5
 en 5
 vuotta 5
 Hyvvii 5
+sen 5
 sitä 5
 pois 5
 vasthaan 5
@@ -48,7 +49,6 @@ pääkaupunki 4
 Norjan 4
 nimi 4
 piä 4
-sen 4
 lupa 4
 saanheet 4
 kans 4
@@ -201,6 +201,7 @@ Joku 2
 Jo 2
 usko 2
 olet 2
+antanu 2
 muistelhaan 2
 mitä 2
 Suomesta 2
@@ -241,6 +242,7 @@ Sota 2
 17 2
 kessää 2
 Elämä 2
+Aameen 2
 kvääninkansan 1
 kielen 1
 kulttuurin 1
@@ -651,7 +653,6 @@ käytämä 1
 Poteelilla 1
 Flaskulla 1
 Minkä 1
-antanu 1
 näkkee 1
 kattelee 1
 molemphiin 1
@@ -1344,3 +1345,8 @@ talven 1
 voittaa 1
 tavara 1
 painaa 1
+tehen 1
+Kursi 1
+alku 1
+Nuoriso 1
+ylön 1

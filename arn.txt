@@ -1,8 +1,8 @@
-ñi 70
-mew 64
+ñi 72
+mew 65
 ti 35
+kiñe 34
 iñche 34
-kiñe 33
 Tom 33
 wüya 22
 wüle 21
@@ -14,7 +14,7 @@ ta 16
 antü 16
 Wüya 13
 müley 13
-rume 12
+rume 13
 Chumül 11
 Küpa 9
 doy 9
@@ -29,13 +29,13 @@ mi 7
 waria 6
 feymew 6
 Ñi 6
+Müley 6
 Chem 6
 ka 6
 rupay 6
 tüfachi 6
 achawall 6
 aliwen 5
-Müley 5
 pepi 5
 pu 5
 Wüle 5
@@ -160,6 +160,7 @@ ora 2
 Kom 2
 lamngen 2
 Dew 2
+küzaw 2
 chügarngey 2
 ngillay 2
 fendey 2
@@ -474,7 +475,6 @@ münalen 1
 Kimlafiñ 1
 rakizuamün 1
 Pilayaen 1
-küzaw 1
 Koylalan 1
 koylaymün 1
 welungey 1
@@ -720,3 +720,5 @@ Katrükeyiñ 1
 katrüngefuy 1
 newentu 1
 wülel 1
+ñoy 1
+adkaetew 1
