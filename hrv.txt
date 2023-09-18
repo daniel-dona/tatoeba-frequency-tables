@@ -1,6 +1,6 @@
-je 1662
-se 606
-u 548
+je 1667
+se 607
+u 551
 sam 457
 da 409
 li 388
@@ -9,21 +9,21 @@ ne 282
 Tom 274
 i 231
 su 211
-mi 207
+mi 208
 Ne 191
 to 187
 za 166
 si 164
 što 164
 nije 158
-On 147
+On 148
 od 147
 To 126
 ti 118
 te 118
-me 109
+me 108
 smo 106
-s 102
+s 103
 će 96
 Ona 94
 bi 93
@@ -81,9 +81,9 @@ ovdje 40
 Ovo 39
 svoju 39
 ljudi 39
-a 38
 vremena 38
 bilo 38
+a 37
 ovo 36
 Moj 36
 ja 36
@@ -94,16 +94,16 @@ nisam 34
 tamo 34
 mu 34
 mnogo 34
+živi 33
 rekao 33
 Volim 32
+Danas 32
 puno 32
 Nije 32
 Mogu 31
 znam 31
-Danas 31
 kada 31
 vidjeti 31
-živi 31
 Ti 31
 tvoj 30
 knjiga 30
@@ -173,6 +173,7 @@ Mi 20
 tko 20
 svojim 20
 tome 20
+jer 20
 voli 20
 vidio 20
 jednu 20
@@ -182,7 +183,6 @@ Moram 20
 ste 19
 novac 19
 kupio 19
-jer 19
 Jučer 19
 Znam 19
 Ako 19
@@ -213,6 +213,7 @@ zna 17
 školu 17
 dovoljno 17
 govoriti 17
+Na 17
 tebe 17
 gdje 17
 trebao 17
@@ -225,7 +226,6 @@ nikada 16
 Bio 16
 Bilo 16
 ona 16
-Na 16
 knjige 16
 toga 16
 napraviti 16
@@ -316,6 +316,7 @@ riječi 12
 previše 12
 išao 12
 pismo 12
+puta 12
 sat 12
 Upravo 12
 Tomu 12
@@ -345,7 +346,6 @@ Kao 11
 bolje 11
 dati 11
 minuta 11
-puta 11
 prvi 11
 pravu 11
 znači 11
@@ -510,6 +510,7 @@ dječaka 8
 večeras 8
 Ništa 8
 jedna 8
+govorio 8
 pije 8
 voziti 8
 čuo 8
@@ -574,7 +575,6 @@ stol 7
 ljude 7
 kraju 7
 način 7
-govorio 7
 nedjeljom 7
 pitao 7
 piše 7
@@ -686,6 +686,7 @@ mati 6
 Napravio 6
 večeru 6
 sebi 6
+Tako 6
 Išao 6
 obitelji 6
 Rekao 6
@@ -771,6 +772,7 @@ izgleda 5
 trgovini 5
 Lech 5
 Boston 5
+našeg 5
 trebaš 5
 kći 5
 voliš 5
@@ -834,7 +836,6 @@ pažljivo 5
 vjeruje 5
 Tokiju 5
 pitanja 5
-Tako 5
 iskren 5
 redu 5
 igrao 5
@@ -901,6 +902,7 @@ strašno 4
 svatko 4
 najviše 4
 nemaju 4
+Ljeto 4
 nazvati 4
 koristi 4
 Čini 4
@@ -978,7 +980,6 @@ roman 4
 druge 4
 bojim 4
 Tokijo 4
-našeg 4
 tvojoj 4
 cijene 4
 moji 4
@@ -1202,7 +1203,6 @@ pitanju 3
 govorim 3
 ustao 3
 jelo 3
-Ljeto 3
 gotovo 3
 Otac 3
 muzej 3
@@ -1442,6 +1442,7 @@ učiteljica 3
 živim 3
 Nadamo 3
 završiti 3
+pola 3
 kojoj 3
 Gospođa 3
 stari 3
@@ -1666,6 +1667,7 @@ rat 3
 pomognem 3
 dječak 3
 vjerojatno 3
+Plaža 3
 plaže 3
 srodni 3
 podmititi 3
@@ -1936,6 +1938,7 @@ prestala 2
 knjižnicu 2
 konačno 2
 Njezine 2
+stvori 2
 neka 2
 volimo 2
 pakao 2
@@ -2039,6 +2042,7 @@ Trebalo 2
 prezime 2
 Wang 2
 Čujem 2
+šumi 2
 vlastiti 2
 Obično 2
 8 2
@@ -2107,7 +2111,6 @@ osjetljiv 2
 takve 2
 ćete 2
 uživati 2
-pola 2
 radiju 2
 zubaru 2
 opisuje 2
@@ -2161,7 +2164,6 @@ najkasnije 2
 glavom 2
 pridružiti 2
 krvari 2
-telegram 2
 naručiti 2
 glasnije 2
 Radim 2
@@ -2735,7 +2737,6 @@ Nisu 2
 krade 2
 specijalno 2
 Morao 2
-Plaža 2
 plaža 2
 Šetali 2
 Istanbul 2
@@ -2781,6 +2782,7 @@ pozovem 2
 suhoparna 2
 podnošljivim: 2
 ljudsku 2
+noga 2
 mudriji 2
 Sokrata 2
 razloga 2
@@ -2824,6 +2826,7 @@ Naučio 2
 Bože 2
 aviona 2
 Posjedujem 2
+Proljeće 2
 prekasno 2
 Tražimo 2
 zahvalan 2
@@ -2838,6 +2841,7 @@ Vjerujte 2
 lijen 2
 liječnica 2
 točka 2
+Samarkandu 2
 Jack 1
 Tomojuki 1
 Ogura 1
@@ -3574,7 +3578,6 @@ Sumatra 1
 počnem 1
 Nigdje 1
 smiju 1
-stvori 1
 sposobno 1
 Zaželimo 1
 Proživjeli 1
@@ -3870,7 +3873,6 @@ lažu 1
 domaće 1
 zadaće 1
 laje 1
-šumi 1
 bogatiji 1
 nepristojno 1
 studenata 1
@@ -4354,6 +4356,7 @@ poslušati 1
 prijateljev 1
 koljeno 1
 cvjeta 1
+telegram 1
 SAD-eu 1
 kamo 1
 prenijeti 1
@@ -6747,8 +6750,6 @@ vodič 1
 pažljiva: 1
 pažljiv: 1
 pažljivi: 1
-Who 1
-sent 1
 Povraća 1
 Plače 1
 Pjeva 1
@@ -7387,7 +7388,6 @@ idejama 1
 Pročitat 1
 Završit 1
 čitanjem 1
-noga 1
 Vratila 1
 očigledno 1
 odjenut 1
@@ -7998,7 +7998,6 @@ Piši 1
 Pišite 1
 veterinar 1
 listu 1
-Proljeće 1
 troslovno 1
 kupili 1
 Dušana 1
@@ -8172,3 +8171,12 @@ Armenije 1
 najljepše 1
 maline 1
 kupine 1
+životnoga 1
+mračnoj 1
+ravne 1
+staze 1
+skrenuvši 1
+zaluta 1
+Zaratustra 1
+pusta 1
+Jesen 1

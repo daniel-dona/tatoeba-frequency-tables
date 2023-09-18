@@ -2,17 +2,17 @@ yn 550
 i 339
 Mae 280
 y 195
-Dw 180
-i'n 170
+Dw 182
+i'n 172
 Tom 164
 o 114
 ddim 112
-ei 91
+ei 93
 ar 86
 hoffi 79
 wedi 78
+hi 76
 ti 76
-hi 75
 ti'n 70
 a 68
 hi'n 67
@@ -86,12 +86,13 @@ ysgol 17
 Rhaid 17
 nhw'n 17
 Sami 17
+e 16
+darllen 16
 A 16
 rhy 16
 dysgu 16
 eu 15
 bwrw 15
-e 15
 Yn 15
 hyn 15
 ardd 15
@@ -105,7 +106,6 @@ Nid 14
 un 14
 enw 14
 beth 14
-darllen 14
 Ydy 14
 Dywedodd 14
 ni'n 13
@@ -210,6 +210,7 @@ barod 7
 erioed 7
 ac 7
 parc 7
+lyfrau 7
 dydd 7
 gadael 7
 brynu 7
@@ -237,7 +238,6 @@ braf 6
 bryd 6
 ffôn 6
 chwaer 6
-lyfrau 6
 Sul 6
 cariad 6
 ganddi 6
@@ -562,6 +562,7 @@ crys 3
 Oedd 3
 ni'r 3
 oddi 3
+llyfrau 3
 defnyddio 3
 Mwynhewch 3
 diolch 3
@@ -920,7 +921,6 @@ galed 2
 chodi 2
 pot 2
 jam 2
-llyfrau 2
 e’n 2
 Sori 2
 Owen 2

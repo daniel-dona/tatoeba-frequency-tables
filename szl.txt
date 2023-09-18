@@ -2,9 +2,9 @@ sie 10
 niy 7
 je 6
 ôd 6
+Na 5
 co 5
 na 4
-Na 4
 Niy 4
 to 4
 winno 4
@@ -36,7 +36,10 @@ Co 2
 To 2
 Prziznŏwōm 2
 bez 2
+śniŏdanie 2
+chlyb 2
 z 2
+dżymym 2
 Bydź 2
 tak 2
 poczkej 2
@@ -163,10 +166,7 @@ bōł 1
 bych 1
 mojich 1
 rechtorōw 1
-śniŏdanie 1
 jym 1
-chlyb 1
-dżymym 1
 Śniŏdanie 1
 ôbiŏd 1
 wieczerzŏ 1
@@ -228,3 +228,5 @@ Dostoł 1
 flama 1
 pysk 1
 Wiosna 1
+jedzã 1
+ze 1

@@ -1,13 +1,13 @@
 Aku 132
-ora 115
-Tom 105
-sing 63
+ora 116
+Tom 107
+sing 64
 iku 44
 aku 43
 ing 38
 Kowé 37
+karo 35
 iki 34
-karo 34
 kowé 31
 Dhèwèké 30
 kuwi 26
@@ -24,9 +24,9 @@ isa 20
 arep 20
 bakal 19
 dhèwèké 18
+Iki 17
 nang 17
 dudu 17
-Iki 16
 durung 15
 duwé 15
 wong 15
@@ -46,17 +46,18 @@ ta 13
 Dhéwéké 13
 marang 12
 lagi 12
+kabèh 12
 sinau 12
 Mèri 12
 Ana 11
 gawé 11
-kabèh 11
 buku 11
 punika 10
 ngerti 10
 dina 10
 Kowe 10
 kéné 10
+endi 10
 tau 10
 ngomong 9
 wonten 9
@@ -65,7 +66,6 @@ Awak 9
 teka 9
 akèh 9
 Apa 9
-endi 9
 kowe 8
 luwih 8
 kula 8
@@ -84,6 +84,7 @@ pa 7
 ya 7
 Inggris 7
 apa-apa 7
+gelem 7
 Prancis 7
 apik 6
 isih 6
@@ -93,7 +94,6 @@ Sapa 6
 dolanan 6
 paling 6
 mesthi 6
-gelem 6
 dhokter 6
 lali 6
 Sugeng 6
@@ -148,6 +148,7 @@ Tak 4
 numpak 4
 bis 4
 krungu 4
+bener 4
 waé 4
 saiki 4
 rabi 4
@@ -203,7 +204,6 @@ nggo 3
 tekan 3
 bengi 3
 omah 3
-bener 3
 liyané 3
 Awakdhéwé 3
 malah 3
@@ -221,6 +221,7 @@ wolu 3
 nyanyi 3
 telung 3
 nglakokaké 3
+Sing 3
 wedi 3
 madhang 3
 ngapusi 3
@@ -365,7 +366,6 @@ lair 2
 ngerjakna 2
 PR-ku 2
 Wong-wong 2
-Sing 2
 Asu 2
 ngumbahi 2
 mbebayani 2
@@ -403,6 +403,7 @@ montorku 2
 Dudu 2
 Biyèn 2
 Tilpun 2
+duwéné 2
 ping 2
 asuné 2
 resminé 2
@@ -1155,7 +1156,6 @@ lelara 1
 bocahé 1
 isinan 1
 Rembulan 1
-duwéné 1
 tangga-tanggaku 1
 Papat 1
 mènèhi 1
@@ -1708,3 +1708,8 @@ Nanging 1
 diucapaké 1
 ꦤꦔꦶꦁꦲꦏꦸꦥꦲꦩ꧀ꦱꦶꦁꦢꦶꦲꦸꦕꦥ꧀ꦥꦏꦺ꧉ 1
 ꦲꦏꦸꦲꦺꦴꦫꦮꦼꦫꦸꦃ꧉ 1
+Bocah-bocahé 1
+dolan 1
+ꦧꦺꦴꦕꦃꦧꦺꦴꦕꦃꦲꦺꦲꦺꦴꦫꦒꦼꦊꦩ꧀ꦢꦺꦴꦭꦤ꧀ꦏꦫꦺꦴꦠꦺꦴꦩ꧀꧈ 1
+ꦱꦶꦁꦲꦼꦤ꧀ꦢꦶꦱꦶꦁꦧꦼꦤꦼꦂ‌ 1
+ꦲꦶꦏꦶꦏꦧꦺꦃꦢꦸꦮꦺꦤꦺꦠꦺꦴꦩ꧀꧈ 1

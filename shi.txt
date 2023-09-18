@@ -1,9 +1,9 @@
-ad 1071
+ad 1072
 n 592
 Tom 576
-ɣ 573
+ɣ 574
 d 548
-Ur 480
+Ur 481
 ur 432
 s 397
 ar 303
@@ -22,10 +22,10 @@ iga 114
 a 107
 Ṭum 106
 ma 106
-t 99
+t 102
 iyi 92
 mad 90
-Rad 85
+Rad 86
 akkʷ 83
 nns 79
 Sami 76
@@ -69,10 +69,10 @@ yad 41
 tgit 40
 skrɣ 40
 illa 38
+ta 38
 tga 37
 mani 37
 nn 37
-ta 37
 tgmmi 36
 ɣinn 35
 aɣ 35
@@ -118,13 +118,13 @@ kigan 23
 Ziri 23
 tidt 22
 Ɣalɣ 22
+yak 21
 ayad 21
 ssnɣ 21
 gan 21
 yiḍ 21
 ɣil-ad 21
 dar-s 21
-yak 20
 tinml 20
 afad 20
 imikk 20
@@ -144,6 +144,7 @@ giɣ 19
 ṛbbi 19
 ssɣ 19
 izrin 18
+tn 18
 iskar 18
 tlla 18
 Mnck 18
@@ -151,7 +152,6 @@ issin 18
 dar-k 18
 yaɣ 17
 tssnt 17
-tn 17
 Manza 17
 hlli 17
 zikk 17
@@ -231,6 +231,7 @@ bac 11
 Yallah 11
 ijṛu 11
 nnm 11
+tigmmi 11
 mnck 11
 Nra 11
 umya 11
@@ -248,7 +249,6 @@ jjun 10
 walu 10
 tiɣri 10
 ittini 10
-tigmmi 10
 ikka 10
 Ini 10
 yixf-nns 10
@@ -416,6 +416,7 @@ Ifulki 6
 adlis 6
 mac 6
 luṭil 6
+udrar 6
 kraygat 6
 urgaz 6
 am 6
@@ -482,6 +483,7 @@ aɣrum 6
 Maɣ 6
 tum 6
 Tlkm 5
+Jim 5
 tsawal 5
 Yiwi 5
 ugns 5
@@ -506,7 +508,6 @@ tkka 5
 tzdɣt 5
 iqariḍn 5
 waḥduk 5
-udrar 5
 tanglizt 5
 turrit 5
 ttinis 5
@@ -597,7 +598,6 @@ dis 5
 Azul 4
 takurt 4
 yiḍṣ 4
-Jim 4
 nnan 4
 Ɣriɣ 4
 Tamɣart 4
@@ -1112,6 +1112,7 @@ twja 3
 uɣrum 3
 anzgum 3
 unbdu 3
+ilkim 3
 tɣrmt 3
 tuḍn 3
 ittlli 3
@@ -1232,6 +1233,7 @@ Ixṣṣa-aɣ 2
 Amzruy 2
 tiwizi 2
 akkaɣ 2
+tcc 2
 ti 2
 trɣi 2
 tmmuddit 2
@@ -1263,6 +1265,7 @@ iṭṭaṛ 2
 amggaru 2
 gik 2
 tflst 2
+sbadln 2
 sis 2
 tasutin 2
 nkkʷni 2
@@ -1815,7 +1818,6 @@ Tkka-d 2
 Ukzɣ 2
 k'ad 2
 akal 2
-ilkim 2
 taqqra 2
 did-k 2
 issnfl 2
@@ -1843,6 +1845,7 @@ twuri-ad 2
 iwi 2
 Ḥmad 2
 ilha 2
+Tẓḍaṛ 2
 isiggil 2
 ubanka 2
 iffin 2
@@ -2189,7 +2192,6 @@ taspnyulit-tamoquoit 1
 tḥtajja 1
 sisn 1
 tsɣ 1
-tcc 1
 Tasmirit 1
 tamattayt 1
 usɣiws 1
@@ -2274,7 +2276,6 @@ siti 1
 Lsiɣ 1
 tikbrt 1
 ẓḍaṛn 1
-sbadln 1
 saswa 1
 nttini 1
 taymmat 1
@@ -4586,7 +4587,6 @@ nsdullu 1
 ḥqqaqɣ 1
 ikka-d 1
 ak-d-inin 1
-Tẓḍaṛ 1
 abrgdaz 1
 ibdr 1
 Radduɣ 1
@@ -5963,3 +5963,7 @@ Niws-asnt 1
 animiru-inu 1
 animiru 1
 Buṣṭun 1
+Ibna 1
+tḥḍu 1
+Snfln-t 1
+Tsnmm 1
