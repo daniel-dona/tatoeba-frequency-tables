@@ -1,18 +1,18 @@
 es 124
-Eo 90
+Eo 91
 yn 64
-rhen 60
-di 47
+rhen 61
+di 48
 Tomos 43
 Ill 32
 llo 28
 su 27
-Ys 25
-Sa 23
+Ys 26
+Sa 24
 Llo 22
+ill 20
 sunt 19
 lla 19
-ill 18
 Lla 17
 Nu 15
 yst 13
@@ -35,6 +35,7 @@ lesbian 8
 h-yddew 7
 af 7
 Greid 7
+can 7
 Nw 7
 mhod 6
 llifr 6
@@ -57,7 +58,6 @@ wid 5
 Ffrencig 5
 Negyn 5
 ddewindad 5
-can 5
 Domos 5
 K'lwg 5
 Gwa 5
@@ -118,6 +118,7 @@ Pod-eo 3
 sidder 3
 fefeiran 3
 Yst 3
+lic 3
 alltr 3
 pobl 3
 si 3
@@ -179,7 +180,6 @@ chalent 2
 edif 2
 cunheg 2
 cungwsc 2
-lic 2
 d'yn 2
 Ddew 2
 mar 2
@@ -582,3 +582,7 @@ cunwsc 1
 parol 1
 compraf 1
 pan 1
+goffi 1
+callt 1
+tifef 1
+difef 1

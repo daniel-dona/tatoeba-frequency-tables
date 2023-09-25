@@ -29,10 +29,10 @@ iki 38
 Ben 38
 sonra 36
 eden 35
-için 34
+için 35
+bana 34
 gün 33
 idim 33
-bana 33
 şey 33
 etdi 33
 چوق 32
@@ -125,6 +125,7 @@ içinde 12
 olsun 12
 adam 12
 hem 12
+bile 12
 dedim 12
 ki: 12
 ey 12
@@ -140,7 +141,6 @@ geldi 11
 lâkin 11
 güzel 11
 garib 11
-bile 11
 mini 11
 Buda 11
 çıkdı 11
@@ -449,6 +449,7 @@ yalan 5
 söyledi 5
 علینك 5
 Ali'nin 5
+Bunu 5
 ol 5
 kanâat 5
 yüz 5
@@ -618,7 +619,6 @@ hazır 4
 cihân 4
 olsa 4
 lisân-ı 4
-Bunu 4
 الله 4
 bize 4
 tecessüm 4
@@ -894,6 +894,7 @@ Edirne'de 3
 Cafer 3
 Tayyar 3
 bulunduğunu 3
+cevap 3
 Birinci 3
 yanıma 3
 kuvve-i 3
@@ -1641,7 +1642,6 @@ mûcib 2
 kumanda 2
 Bey'in 2
 nerede 2
-cevap 2
 olmaktır 2
 teşkilât-ı 2
 sesle 2
@@ -1866,6 +1866,7 @@ selim 2
 tebdîl-i 2
 kıyâfet 2
 düştü 2
+vermedi 2
 غلط 2
 أولادر 2
 Galat-ı 2
@@ -2312,6 +2313,7 @@ avdet 2
 gelib 2
 fezâ 2
 tâlim 2
+ilham 2
 آشنا 2
 münâsib 2
 ایلە 2
@@ -5681,7 +5683,6 @@ işittin 1
 ویرمه‌دی 1
 su'âllerime 1
 cevab 1
-vermedi 1
 زنهار 1
 Zinhâr 1
 Kat'iyyen 1
@@ -8614,7 +8615,6 @@ tahsîli 1
 lebâleb 1
 İlham 1
 perim 1
-ilham 1
 روحڭ 1
 - 1
 انڭ 1

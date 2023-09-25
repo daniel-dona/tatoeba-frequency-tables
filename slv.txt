@@ -1,4 +1,4 @@
-je 930
+je 934
 Ali 222
 sem 161
 se 160
@@ -45,8 +45,8 @@ Kje 32
 z 31
 govorim 31
 dan 30
+Ona 30
 Kdo 28
-Ona 27
 ti 27
 Zakaj 27
 po 27
@@ -54,10 +54,10 @@ Je 25
 Danes 25
 Mary 25
 kot 24
+On 24
 živi 24
 Moje 23
 bila 23
-On 23
 vse 23
 Marija 23
 tvoj 22
@@ -3824,3 +3824,7 @@ prva 1
 »C« 1
 tretja 1
 Glasbeniki 1
+prevajalka 1
+prevajalec 1
+Argentinka 1
+Ukrajinka 1

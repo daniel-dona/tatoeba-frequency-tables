@@ -1,4 +1,4 @@
-je 1667
+je 1669
 se 607
 u 551
 sam 457
@@ -16,7 +16,7 @@ za 166
 si 164
 što 164
 nije 158
-On 148
+On 149
 od 147
 To 126
 ti 118
@@ -25,7 +25,7 @@ me 108
 smo 106
 s 103
 će 96
-Ona 94
+Ona 95
 bi 93
 Ja 91
 Što 88
@@ -1693,6 +1693,7 @@ Edita 2
 studentica 2
 "Jesi 2
 profesorica 2
+prevoditelj 2
 pravima 2
 jedni 2
 osam 2
@@ -2864,7 +2865,6 @@ nastavnik 1
 Australci 1
 bosansko 1
 Lucifera 1
-prevoditelj 1
 Žurim 1
 Zadržite 1
 ljudska 1
@@ -8180,3 +8180,4 @@ zaluta 1
 Zaratustra 1
 pusta 1
 Jesen 1
+prevoditeljica 1
