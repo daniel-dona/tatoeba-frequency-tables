@@ -6,11 +6,11 @@ la 2583
 pu 2275
 nu 2116
 le 2043
-se 1881
-na 1596
+se 1882
+na 1597
 be 1319
 i 1284
-ko'a 1244
+ko'a 1245
 ma 1218
 ka 1210
 ko 1118
@@ -86,13 +86,13 @@ noi 172
 lu 168
 li'u 165
 nanmu 159
-verba 157
+verba 158
 cliva 156
 xabju 155
 fe 152
 kau 149
+lo'e 149
 fetsi 149
-lo'e 148
 ku'i 147
 sidju 146
 pendo 146
@@ -144,8 +144,8 @@ ctuca 104
 cnino 104
 po'o 104
 ke 104
+ponse 103
 va 102
-ponse 102
 zo 102
 joi 101
 co'u 101
@@ -3089,6 +3089,7 @@ slutsa 2
 guzme 2
 rindo 2
 rios 2
+filso 2
 interlinga 2
 pulce 2
 penka 2
@@ -6432,7 +6433,6 @@ dis 1
 djaneiros 1
 toldralogji 1
 lailas 1
-filso 1
 trangeni 1
 trucu'upre 1
 tibgumci'e 1

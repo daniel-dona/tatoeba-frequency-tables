@@ -5,8 +5,8 @@ se 160
 v 147
 Tom 126
 so 105
+ne 105
 in 100
-ne 98
 da 91
 govorite 89
 mesto 87
@@ -206,8 +206,10 @@ Hočem 7
 zakaj 7
 ljudi 7
 enega 7
+nič 7
 bomo 7
 hoče 7
+Nič 7
 vreme 7
 le 7
 rusko 7
@@ -298,17 +300,18 @@ volk 5
 Pes 5
 govorijo 5
 kralj 5
-nič 5
 imel 5
 res 5
 Vrata 5
 storiti 5
 jutri 5
 pride 5
+rečem 5
 prost 5
 mrtev 5
 čas 5
 Od 5
+vidim 5
 najboljši 5
 reči 5
 ničesar 5
@@ -603,7 +606,6 @@ stvari 3
 zunaj 3
 zimo 3
 Še 3
-rečem 3
 koder 3
 strani 3
 učiti 3
@@ -911,7 +913,6 @@ zmeraj 2
 čisto 2
 Glava 2
 Maria 2
-Nič 2
 pravi 2
 niso 2
 toplo 2
@@ -959,7 +960,6 @@ Samo 2
 Takoj 2
 poslati 2
 Moral 2
-vidim 2
 teboj 2
 bolan 2
 rezultate 2
@@ -1398,6 +1398,7 @@ idejo 2
 Morje 2
 plus 2
 kopljejo 2
+slišim 2
 gospod 1
 Ogawa 1
 Francoz 1

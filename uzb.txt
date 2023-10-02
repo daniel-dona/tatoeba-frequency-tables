@@ -1,14 +1,14 @@
 Men 65
 Bu 63
-U 61
+U 62
 bor 32
 bir 28
 edi 26
+Mening 25
 Tom 25
-Mening 24
+qayerda 23
 nima 22
 emas 22
-qayerda 22
 bilan 22
 bormi 22
 uchun 19
@@ -48,12 +48,14 @@ issiq 7
 kitobni 7
 va 7
 pul 7
+bu 7
 kitob 7
 yashaydi 7
 Qancha 7
 Kim 7
 Tomning 7
 qachon 7
+Bugun 7
 менинг 6
 йўқ 6
 Нима 6
@@ -62,7 +64,6 @@ Bir 6
 boraman 6
 qancha 6
 odam 6
-bu 6
 faqat 6
 emasmi 6
 soat 6
@@ -87,7 +88,6 @@ Kecha 5
 bo'ladi 5
 Ular 5
 turadi 5
-Bugun 5
 qanday 5
 Uni 5
 mumkin 5
@@ -156,6 +156,7 @@ o'qituvchi 3
 Ана 3
 Qayerga 3
 Mushuk 3
+uyim 3
 gapira 3
 olmaydi 3
 ingliz 3
@@ -214,6 +215,7 @@ yo‘q 3
 o‘z 3
 Baliqni 3
 birinchi 3
+yumdi 3
 Sensiz 2
 hayot 2
 одамлар 2
@@ -291,7 +293,6 @@ bino 2
 Otam 2
 qo'shiq 2
 boshladi 2
-uyim 2
 rahmat 2
 Kitoblaringizni 2
 oladi 2
@@ -320,6 +321,7 @@ gaplashishni 2
 ovoz 2
 borasan 2
 kompyuter 2
+qishloqda 2
 tomonidan 2
 o'rganmoqchi 2
 Ularning 2
@@ -483,9 +485,10 @@ ko‘p 2
 Germaniyaga 2
 savolingizga 2
 Tilingizni 2
-yumdi 2
 tarjimani 2
 o‘qidim 2
+maktabda 2
+nimani 2
 barbod 1
 kutaman 1
 Барча 1
@@ -1082,7 +1085,6 @@ onam 1
 kartoshkani 1
 archdi 1
 buzilgan 1
-qishloqda 1
 yig'lashdan 1
 to'xtadi 1
 surat 1
@@ -2290,3 +2292,7 @@ orasida 1
 ikkiyuzlamachi 1
 to‘xtamaydi 1
 Faqat 1
+o‘rganding 1
+o‘rgandingiz 1
+Ovqat 1
+koʻzlarini 1

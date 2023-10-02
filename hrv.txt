@@ -1,4 +1,4 @@
-je 1669
+je 1670
 se 607
 u 551
 sam 457
@@ -10,7 +10,7 @@ Tom 274
 i 231
 su 211
 mi 208
-Ne 191
+Ne 192
 to 187
 za 166
 si 164
@@ -124,12 +124,12 @@ reći 27
 Možeš 27
 posao 27
 mogao 26
+ništa 26
 vrata 26
 Mislim 26
 pomoći 26
 učiniti 26
 Dobro 25
-ništa 25
 po 25
 engleski 25
 godine 25
@@ -536,6 +536,7 @@ tobom 7
 dolara 7
 Zato 7
 posjetiti 7
+glazbu 7
 igra 7
 pa 7
 majku 7
@@ -563,6 +564,7 @@ pravo 7
 pomoć 7
 svijeta 7
 svijet 7
+zemlja 7
 pravi 7
 nakon 7
 školi 7
@@ -613,7 +615,6 @@ Yorku 6
 Daj 6
 spreman 6
 cipele 6
-glazbu 6
 okus 6
 možda 6
 mišljenje 6
@@ -661,7 +662,6 @@ djeca 6
 također 6
 vani 6
 Kiša 6
-zemlja 6
 dobru 6
 zajedno 6
 naše 6
@@ -1395,6 +1395,7 @@ nevjerojatno 3
 izaći 3
 barem 3
 pao 3
+Čujem 3
 išta 3
 pogledati 3
 strane 3
@@ -1650,6 +1651,7 @@ pčele 3
 iznad 3
 šešir 3
 uspjeh 3
+čujem 3
 rečeno 3
 Oh 3
 izbora 3
@@ -2042,7 +2044,6 @@ smetati 2
 Trebalo 2
 prezime 2
 Wang 2
-Čujem 2
 šumi 2
 vlastiti 2
 Obično 2
@@ -2608,6 +2609,7 @@ tajna 2
 praznici 2
 Sjednite 2
 Sretna 2
+Australija 2
 Kosovo 2
 pokrajina 2
 wc 2
@@ -2650,7 +2652,6 @@ zavidim 2
 izlazimo 2
 momcima 2
 američki 2
-čujem 2
 sjetim 2
 Otkad 2
 nevin 2
@@ -6324,7 +6325,6 @@ sjemenke 1
 sjediti 1
 Ljetni 1
 Tomovo 1
-Australija 1
 uvozi 1
 vune 1
 Veliko 1
@@ -8181,3 +8181,4 @@ Zaratustra 1
 pusta 1
 Jesen 1
 prevoditeljica 1
+ekstrema 1

@@ -60,6 +60,7 @@ Negyn 5
 ddewindad 5
 Domos 5
 K'lwg 5
+nw 5
 Gwa 5
 Gion 4
 gwstr 4
@@ -89,7 +90,6 @@ mun 4
 mulltisaf 4
 fengib 4
 h-ugell 4
-nw 4
 rhys 3
 ti 3
 cath 3
@@ -132,6 +132,7 @@ saeth 3
 ngwidd 3
 comiwnist 3
 Pab 3
+Si 3
 Ceosath 3
 Ceos 3
 fryd 2
@@ -214,7 +215,6 @@ dif 2
 min 2
 er-ys 2
 h-enifal 2
-Si 2
 ia 2
 leir 2
 cu 2
@@ -586,3 +586,4 @@ goffi 1
 callt 1
 tifef 1
 difef 1
+phod 1

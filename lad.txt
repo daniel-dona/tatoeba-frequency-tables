@@ -3,7 +3,7 @@ Tom 167
 un 147
 El 113
 la 100
-de 98
+de 99
 el 97
 en 91
 No 91
@@ -39,8 +39,8 @@ plaze 23
 נו 23
 Onde 22
 אונה 22
+las 21
 me 20
-las 20
 gato 20
 lingua 19
 Sos 19
@@ -96,6 +96,7 @@ vida 11
 mujer 11
 fue 11
 Son 11
+linguas 11
 gatos 11
 plazen 11
 paras 11
@@ -106,7 +107,6 @@ Trae 11
 frio 11
 tu 10
 Vos 10
-linguas 10
 komo 10
 Se 10
 ladron 10
@@ -185,6 +185,7 @@ merkando 6
 Vozotras 6
 nada 6
 sos 6
+Avla 6
 Grasias 6
 Mersi 6
 ermoza 6
@@ -224,7 +225,6 @@ komprando 5
 somos 5
 Mueva 5
 kriaturas 5
-Avla 5
 marido 5
 mushteri 5
 Avlas 5
@@ -362,6 +362,7 @@ plazer 3
 Estó 3
 perros 3
 muzika 3
+Komi 3
 merkamos 3
 kompramos 3
 Mozotras 3
@@ -405,6 +406,7 @@ Islam 3
 saven 3
 Keremos 3
 ama 3
+munchos 3
 בﬞיאו 3
 בלאנקו 3
 gerra 3
@@ -538,7 +540,6 @@ Eso 2
 Puedes 2
 Podes 2
 komio 2
-Komi 2
 kome 2
 Keresh 2
 Merka 2
@@ -630,7 +631,6 @@ Abandono 2
 entendi 2
 lavorar 2
 merkar 2
-munchos 2
 Veo 2
 leon 2
 ליאון 2
@@ -770,6 +770,7 @@ miente 2
 tienes 2
 neshama 2
 alma 2
+paizes 2
 difisil 2
 איפשטיין 2
 byervos 2
@@ -1813,7 +1814,6 @@ Akordamos 1
 Leila 1
 djoven 1
 naivo 1
-paizes 1
 falsos 1
 pensar 1
 סואיסידו 1
@@ -2188,3 +2188,4 @@ Tienen 1
 pura 1
 muncha 1
 bever 1
+arena 1

@@ -1,13 +1,13 @@
 an 643
-a 612
+a 613
 Tá 611
 mé 391
 ag 385
 Is 327
 é 262
-ar 234
+ar 235
 sé 207
-tú 203
+tú 204
 go 202
 An 200
 bhfuil 199
@@ -43,7 +43,7 @@ raibh 57
 agus 57
 dul 56
 ann 55
-Cad 51
+Cad 52
 leis 49
 siad 49
 Cén 49
@@ -130,6 +130,7 @@ ainm 16
 faoin 16
 bhfaca 16
 don 16
+scoil 16
 Chuir 16
 dhá 15
 ól 15
@@ -140,7 +141,6 @@ gan 15
 aithne 15
 bia 15
 Nach 15
-scoil 15
 Caithfidh 15
 Dúirt 15
 chéile 15
@@ -213,6 +213,7 @@ doras 10
 Fraincis 10
 ais 10
 airgid 10
+inniu 10
 chara 10
 suas 10
 ba 10
@@ -225,7 +226,6 @@ Céard 9
 cheannaigh 9
 sásta 9
 te 9
-inniu 9
 ceist 9
 Éireannach 9
 dearg 9
@@ -2937,3 +2937,4 @@ síopa 1
 comhair 1
 gceoltóirí 1
 ceoltóirí 1
+d'fhoghlaim 1

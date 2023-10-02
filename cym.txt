@@ -1,4 +1,4 @@
-yn 550
+yn 551
 i 339
 Mae 280
 y 195
@@ -6,7 +6,7 @@ Dw 182
 i'n 172
 Tom 164
 o 114
-ddim 112
+ddim 113
 ei 93
 ar 86
 hoffi 79
@@ -29,7 +29,7 @@ Roedd 48
 mynd 46
 chi'n 45
 yw 45
-ni 44
+ni 45
 i'r 42
 iawn 41
 siarad 38
@@ -59,20 +59,20 @@ fel 23
 ond 23
 ôl 23
 bwyta 23
+gwneud 23
 gan 22
 yma 22
 wneud 22
-gwneud 22
 Dych 21
 dw 21
 dim 21
 rhaid 21
 mae'r 20
+yfed 20
 o'r 19
 o'n 19
 da 19
 Cymraeg 19
-yfed 19
 cael 18
 dda 18
 gallu 18
@@ -88,16 +88,17 @@ nhw'n 17
 Sami 17
 e 16
 darllen 16
+hyn 16
 A 16
 rhy 16
 dysgu 16
 eu 15
 bwrw 15
 Yn 15
-hyn 15
 ardd 15
 oes 15
 e'n 14
+ni'n 14
 Ydych 14
 Saesneg 14
 Does 14
@@ -108,7 +109,6 @@ enw 14
 beth 14
 Ydy 14
 Dywedodd 14
-ni'n 13
 dych 13
 ein 13
 gwisgo 13
@@ -126,6 +126,7 @@ ydych 12
 Sut 11
 Diolch 11
 ci 11
+bob 11
 amser 11
 Ffrangeg 11
 angen 11
@@ -146,7 +147,6 @@ yw'r 10
 deall 10
 hapus 10
 Doedd 10
-bob 10
 aros 10
 Dydw 10
 yna 10
@@ -190,6 +190,7 @@ Pa 8
 gar 8
 unrhyw 8
 eto 8
+dydd 8
 adre 8
 hwyr 8
 Pam 8
@@ -211,7 +212,6 @@ erioed 7
 ac 7
 parc 7
 lyfrau 7
-dydd 7
 gadael 7
 brynu 7
 drws 7
@@ -336,6 +336,7 @@ trên 4
 gennych 4
 afalau 4
 ddydd 4
+Llun 4
 Athrawes 4
 athrawes 4
 gilydd 4
@@ -447,7 +448,6 @@ bore 3
 Armenia 3
 hanner 3
 wir 3
-Llun 3
 Rydym 3
 agos 3
 nghanol 3
@@ -488,6 +488,7 @@ reis 3
 tu 3
 gennyf 3
 llythyr 3
+llaeth 3
 coch 3
 fach 3
 Ai 3
@@ -554,6 +555,7 @@ awr 3
 tocynnau 3
 fyddwch 3
 Iawn 3
+Dan 3
 chwilio 3
 ficrosgop 3
 onid 3
@@ -710,7 +712,6 @@ hwnnw 2
 dŷ 2
 bysgota 2
 Laurie 2
-llaeth 2
 Coffi 2
 cwrs 2
 I 2
@@ -2085,7 +2086,6 @@ Doniol 1
 Brecwast 1
 Rhy 1
 angladd 1
-Dan 1
 mi'n 1
 trysor 1
 Galwn 1

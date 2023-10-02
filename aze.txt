@@ -1,16 +1,16 @@
 Mən 652
-O 452
+O 453
 Tom 404
-Bu 347
+Bu 349
 var 251
 bir 216
-nə 177
+nə 179
 çox 169
-Biz 152
+Biz 153
 ki 135
 idi 126
 Sən 123
-Mənim 117
+Mənim 118
 və 113
 deyil 111
 heç 106
@@ -22,7 +22,7 @@ Onun 71
 mənə 70
 Siz 69
 Tomun 69
-bu 67
+bu 68
 vaxt 66
 istəyirəm 65
 daha 62
@@ -35,8 +35,8 @@ mən 55
 edirəm 54
 Sənin 53
 Bir 53
+gün 50
 haqqında 48
-gün 48
 Mənə 47
 bilirəm 45
 gəlir 44
@@ -201,6 +201,7 @@ istəyirsən 13
 kəs 13
 istərdim 13
 qan 13
+yaşayırıq 12
 pis 12
 lüğət 12
 İt 12
@@ -220,7 +221,6 @@ dilində 12
 hansı 12
 ildə 12
 Yaponiya 12
-yaşayırıq 11
 Kitab 11
 Harada 11
 orada 11
@@ -284,6 +284,7 @@ dil 9
 dost 9
 olub 9
 Hələ 9
+evdə 9
 ay 9
 olsun 9
 həqiqəti 9
@@ -318,6 +319,7 @@ Məktəbə 8
 Avstraliyada 8
 hanı 8
 çətindir 8
+evim 8
 ehtiyac 8
 it 8
 soyuq 8
@@ -335,7 +337,6 @@ Hava 8
 şadam 8
 qoydu 8
 deyə 8
-evdə 8
 qız 8
 gələcək 8
 burda 8
@@ -373,7 +374,6 @@ söz 7
 dünyada 7
 ingiliscə 7
 vaxtım 7
-evim 7
 qaradır 7
 beş 7
 işə 7
@@ -669,6 +669,7 @@ bugün 5
 tezliklə 5
 görmürəm 5
 idilər 5
+məktəbdə 5
 Qışda 5
 Onları 5
 bilməzsən 5
@@ -697,6 +698,7 @@ müddət 5
 xeyrə 5
 İsveçdə 5
 vacib 5
+gözlərini 5
 alman 5
 səsini 5
 olacam 5
@@ -917,7 +919,7 @@ ispan 4
 İspaniyaya 4
 əbədi 4
 qaldı 4
-gözlərini 4
+yumdu 4
 düşmürəm 4
 onlara 4
 sındırdı 4
@@ -1128,7 +1130,6 @@ səbəbi 3
 müharibənin 3
 gözləmirdim 3
 öyrənməyə 3
-məktəbdə 3
 açanda 3
 boş 3
 gördünüz 3
@@ -1271,7 +1272,6 @@ Bağışla 3
 asılıdır 3
 yaşında 3
 baxdım 3
-yumdu 3
 küləkli 3
 uşaqları 3
 şəhərdə 3
@@ -7661,3 +7661,6 @@ qiymətlərlə 1
 qurtarıb 1
 Məktəbdə 1
 Musiqiçilər 1
+kənddədir 1
+öyrəndin 1
+öyrəndiniz 1
