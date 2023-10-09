@@ -1,5 +1,5 @@
 da 10763
-a 4316
+a 4315
 ba 4273
 ya 3848
 na 3800
@@ -472,13 +472,13 @@ yanayi 56
 Yi 56
 haɗu 56
 ƙarfi 56
-matukar 55
 kadan 55
 sauran 55
 kar 55
 manyan 55
 tsammani 55
 sayi 54
+matukar 54
 hannun 54
 sabuwar 54
 Abin 54
@@ -605,13 +605,13 @@ bango 44
 Kuma 44
 nike 43
 bayani 43
+matuƙar 43
 bude 43
 juya 43
 gabatar 43
 Waɗannan 43
 sa'a 43
 kyakkyawan 42
-matuƙar 42
 hawa 42
 mamakin 42
 ƙarfe 42
@@ -792,7 +792,6 @@ saurin 30
 magani 30
 dusar 30
 ƙanƙara 30
-from 30
 kulawa 30
 bayanin 30
 tarihi 30
@@ -814,6 +813,7 @@ motsa 29
 Ingila 29
 maimakon 29
 za'a 29
+from 29
 bayar 29
 miki 29
 menene 29
@@ -4026,6 +4026,7 @@ Angela 3
 hakikanin 3
 sadu 3
 Ginin 3
+abokinka 3
 kware 3
 shekarunka 3
 lasisin 3
@@ -5060,7 +5061,6 @@ gayaman 2
 karnukka 2
 Amirka 2
 shuɗiya 2
-abokinka 2
 saninsa 2
 Inason 2
 gayu 2

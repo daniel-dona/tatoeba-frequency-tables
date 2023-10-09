@@ -1,20 +1,20 @@
-es 286
+es 288
 Tom 167
 un 147
 El 113
 la 100
 de 99
 el 97
+No 92
 en 91
-No 91
-no 85
+no 87
 esta 79
 איס 73
 una 71
 a 69
 La 58
 Los 57
-son 51
+son 52
 Es 46
 איל 45
 Me 43
@@ -23,23 +23,23 @@ los 41
 ke 38
 pan 38
 i 36
+mi 33
 So 33
-mi 32
 און 32
+Mi 32
+esto 31
 kon 30
 Eya 30
-esto 30
-Mi 30
 לה 30
 se 27
 muy 26
+plaze 24
 tiene 24
 טום 24
-plaze 23
 נו 23
+las 22
 Onde 22
 אונה 22
-las 21
 me 20
 gato 20
 lingua 19
@@ -51,6 +51,7 @@ perro 18
 Kero 17
 djudios 17
 Yo 17
+so 17
 Sosh 17
 Tengo 17
 לוס 17
@@ -58,11 +59,10 @@ aki 16
 inglez 16
 kaza 16
 Dio 16
-so 16
+Las 16
 Sami 16
 אין 16
 era 15
-Las 15
 agua 15
 מי 15
 סו 15
@@ -71,12 +71,12 @@ mansana 14
 mora 14
 preto 14
 ambezando 14
+Dingunos 14
 Deke 14
 puerta 14
 mas 13
 estan 13
 djudia 13
-Dingunos 13
 איסטה 13
 pasharos 13
 komida 13
@@ -87,6 +87,7 @@ le 12
 vos 12
 portokal 12
 ayi 12
+padre 12
 York 12
 Ke 12
 סון 12
@@ -100,11 +101,11 @@ linguas 11
 gatos 11
 plazen 11
 paras 11
-padre 11
 dos 11
 te 11
 Trae 11
 frio 11
+A 10
 tu 10
 Vos 10
 komo 10
@@ -117,9 +118,9 @@ emportantes 10
 arvoles 10
 findjan 10
 Ladino 9
+su 9
 avla 9
 Te 9
-A 9
 ir 9
 Mozotros 9
 Kualo 9
@@ -131,7 +132,6 @@ grande 9
 לאס 9
 akodro 8
 Shabat 8
-su 8
 En 8
 kero 8
 Si 8
@@ -147,6 +147,7 @@ estava 8
 אה 8
 Todos 8
 Espanya 7
+sus 7
 Yerushalayim 7
 fransez 7
 este 7
@@ -160,6 +161,7 @@ ermano 7
 kere 7
 Maria 7
 Nu 7
+kriaturas 7
 Ma 7
 todo 7
 mate 7
@@ -176,7 +178,6 @@ korason 7
 ansi 7
 Siempre 7
 mozotros 6
-sus 6
 Avlo 6
 Ken 6
 kozas 6
@@ -206,6 +207,7 @@ Podesh 6
 שבת 6
 סי 6
 mishpaha 6
+ijo 6
 Topa 6
 kayendo 6
 arina 6
@@ -224,7 +226,6 @@ amigos 5
 komprando 5
 somos 5
 Mueva 5
-kriaturas 5
 marido 5
 mushteri 5
 Avlas 5
@@ -330,7 +331,6 @@ bolan 4
 muchachos 4
 viejo 4
 limpia 4
-ijo 4
 Topando 4
 Demanda 4
 estrecho 4
@@ -452,6 +452,7 @@ vidas 3
 אונדי 3
 מוראמוס 3
 suzio 3
+papa 3
 Gresia 3
 אירה 3
 קאביל 3
@@ -599,6 +600,7 @@ livros 2
 enemigos 2
 enemigas 2
 semos 2
+proprieta 2
 kansados 2
 fatigados 2
 Tienesh 2
@@ -680,6 +682,7 @@ franseza 2
 קומוניסטו 2
 djenio 2
 estavle 2
+djugar 2
 אייה 2
 ﭏ 2
 musulmanos 2
@@ -701,6 +704,7 @@ Austria 2
 פאאיז 2
 ruso 2
 ensenya 2
+todas 2
 טאטואיבה 2
 מוי 2
 intelijentes 2
@@ -781,6 +785,7 @@ mujeres 2
 dingunos 2
 amante 2
 opera 2
+les 2
 savia 2
 Vende 2
 vende 2
@@ -1084,7 +1089,6 @@ mentiroso 1
 ladrona 1
 Solo 1
 oy 1
-proprieta 1
 ladronisyo 1
 poko 1
 Favlas 1
@@ -1341,7 +1345,6 @@ Dario 1
 פאליסטינייאנוס 1
 סיריס 1
 אומאנוס 1
-djugar 1
 Al 1
 vermos 1
 haber 1
@@ -1469,7 +1472,6 @@ eros 1
 אירוס 1
 eskrivir 1
 kualkiera 1
-todas 1
 iguales 1
 פודיש 1
 איסקריבﬞיר 1
@@ -1511,7 +1513,6 @@ fashistos 1
 מאקינה 1
 מאטה 1
 פ׳אשיסטוס 1
-papa 1
 פאפה 1
 דיזי 1
 luna 1
@@ -1848,7 +1849,6 @@ polako 1
 demandas 1
 frekuentes 1
 frekuente 1
-les 1
 bananas 1
 estados 1
 bengali 1
@@ -2189,3 +2189,4 @@ pura 1
 muncha 1
 bever 1
 arena 1
+disheron 1

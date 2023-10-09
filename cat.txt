@@ -3,7 +3,7 @@ de 1499
 a 1422
 que 1297
 el 1193
-és 1015
+és 1016
 no 828
 va 788
 un 759
@@ -13,7 +13,7 @@ una 535
 per 534
 El 522
 i 517
-Tom 468
+Tom 470
 La 406
 les 394
 amb 383
@@ -129,10 +129,10 @@ estat 60
 ara 59
 massa 58
 cotxe 58
+encara 58
 entre 58
 seus 57
 cosa 57
-encara 57
 nit 56
 perquè 56
 sempre 56
@@ -379,6 +379,7 @@ Tu 21
 noia 21
 Ara 21
 sentit 21
+jove 21
 cara 21
 podem 21
 cor 21
@@ -392,7 +393,6 @@ hauria 20
 metge 20
 dones 20
 telèfon 20
-jove 20
 festa 20
 d'aquest 20
 molta 20
@@ -729,6 +729,7 @@ d'hora 10
 taxi 10
 voltant 10
 finestra 10
+sabates 10
 car 10
 Als 10
 vuit 10
@@ -813,7 +814,6 @@ Teniu 9
 marit 9
 sucre 9
 divendres 9
-sabates 9
 aquestes 9
 cervesa 9
 tipus 9
@@ -853,6 +853,7 @@ circ 9
 viatge 8
 feia 8
 poden 8
+noves 8
 diferents 8
 dura 8
 explicar 8
@@ -974,13 +975,13 @@ digui 7
 principi 7
 deia 7
 famós 7
-noves 7
 braç 7
 frase 7
 corrent 7
 facis 7
 tele 7
 avi 7
+necessita 7
 major 7
 sola 7
 pobre 7
@@ -1097,7 +1098,6 @@ cadira 6
 Ei 6
 5 6
 8 6
-necessita 6
 d'estar 6
 Quines 6
 parlen 6

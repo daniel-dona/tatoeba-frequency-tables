@@ -1,5 +1,5 @@
 is 264
-Ich 220
+Ich 221
 en 151
 Tom 125
 hod 101
@@ -14,9 +14,9 @@ De 59
 Gott 51
 Die 50
 Sie 50
-Meer 47
+Meer 48
 wees 46
-Er 44
+Er 45
 waar 38
 aan 37
 un 35
@@ -55,11 +55,11 @@ aam 17
 ab 16
 schun 16
 mein 15
+gehn 15
 fun 15
 Wo 15
 Hallebnacht 15
 meh 15
-gehn 14
 Aanfenger 14
 Äerd 14
 kann 13
@@ -79,6 +79,7 @@ nore 11
 etwas 11
 heit 11
 Wer 11
+muss 11
 Aanfang 11
 Abakaschi 11
 Annas 11
@@ -103,7 +104,6 @@ dass 9
 dem 9
 gesihn 9
 mache 9
-muss 9
 Loch 9
 hinnich 9
 Karre 8
@@ -153,6 +153,7 @@ acht 6
 dud 6
 drinke 6
 aanhalle 6
+misse 6
 hier 6
 eere 6
 host-du 6
@@ -192,7 +193,6 @@ bleive 5
 moie 5
 hogh 5
 mechte 5
-misse 5
 wolld 5
 gros 5
 So 5
@@ -337,6 +337,7 @@ draan 3
 jimand 3
 nommol 3
 rëpareere 3
+sterrve 3
 Keenich 3
 Ma 3
 saan 3
@@ -490,7 +491,6 @@ liebd 2
 glaave 2
 gestorreb 2
 ob-ich 2
-sterrve 2
 Fallke 2
 Raabfeghel 2
 Feghel 2
@@ -1484,3 +1484,6 @@ Daarem 1
 Mund 1
 ferkaue 1
 wal-mer 1
+scheise 1
+Muss-ich 1
+spaare 1

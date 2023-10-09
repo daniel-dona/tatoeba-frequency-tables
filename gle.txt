@@ -1,5 +1,5 @@
 an 643
-a 613
+a 614
 Tá 611
 mé 391
 ag 385
@@ -64,8 +64,8 @@ obair 37
 nach 36
 anseo 35
 teach 34
+anois 33
 dhéanamh 33
-anois 32
 dom 32
 ríomhaire 32
 air 31
@@ -270,6 +270,7 @@ Feirste 8
 chor 8
 Fan 8
 I 8
+Thomás 8
 Nuair 7
 brón 7
 ngrá 7
@@ -305,9 +306,9 @@ chailín 7
 dtuigeann 7
 á 7
 labhraím 7
+síos 7
 cá 7
 conas 7
-Thomás 7
 tar 6
 ábalta 6
 Déan 6
@@ -533,7 +534,6 @@ Caitheann 4
 cheann 4
 theanga 4
 staighre 4
-síos 4
 gortaithe 4
 dhearna 4
 mharú 4
@@ -735,6 +735,7 @@ adhmóidh 3
 Ghlaoigh 3
 Muiriel 3
 fíor 3
+Suí 3
 Tosaíonn 2
 t-oideachas 2
 Nár 2

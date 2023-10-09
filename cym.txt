@@ -1,10 +1,10 @@
-yn 551
+yn 552
 i 339
-Mae 280
+Mae 281
 y 195
 Dw 182
 i'n 172
-Tom 164
+Tom 165
 o 114
 ddim 113
 ei 93
@@ -167,6 +167,7 @@ ferch 9
 Mi 9
 sy'n 9
 iddo 9
+eto 9
 waith 9
 cartref 9
 swydd 9
@@ -189,7 +190,6 @@ byth 8
 Pa 8
 gar 8
 unrhyw 8
-eto 8
 dydd 8
 adre 8
 hwyr 8
@@ -261,6 +261,7 @@ wnaeth 6
 mor 6
 Dwi’n 6
 pan 6
+ifanc 6
 llawer 6
 Mae’r 6
 yno 6
@@ -308,7 +309,6 @@ dechrau 5
 Fe 5
 ben 5
 erbyn 5
-ifanc 5
 efo 5
 tocyn 5
 gwin 5

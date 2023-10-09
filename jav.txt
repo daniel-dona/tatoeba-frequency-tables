@@ -1,5 +1,5 @@
-Aku 133
-ora 116
+Aku 136
+ora 117
 Tom 107
 sing 64
 iku 45
@@ -16,16 +16,16 @@ ana 24
 lunga 24
 kudu 23
 wis 23
+isa 22
 menyang 21
 dhéwé 21
+arep 21
 seneng 21
 apa 20
-isa 20
-arep 20
+nang 20
 bakal 19
-dhèwèké 18
-Iki 17
-nang 17
+dhèwèké 19
+Iki 18
 dudu 17
 durung 15
 duwé 15
@@ -46,18 +46,18 @@ ta 13
 Dhéwéké 13
 marang 12
 lagi 12
+kéné 12
 kabèh 12
 sinau 12
 Mèri 12
 Ana 11
+endi 11
 gawé 11
 buku 11
 punika 10
 ngerti 10
 dina 10
 Kowe 10
-kéné 10
-endi 10
 tau 10
 ngomong 9
 wonten 9
@@ -84,6 +84,7 @@ pa 7
 ya 7
 Inggris 7
 apa-apa 7
+turu 7
 gelem 7
 Prancis 7
 apik 6
@@ -93,11 +94,13 @@ Kuwi 6
 Sapa 6
 dolanan 6
 paling 6
+mèh 6
 mesthi 6
 dhokter 6
 lali 6
 Sugeng 6
 asalé 6
+asu 6
 Wingi 5
 awakmu 5
 saben 5
@@ -106,9 +109,9 @@ lara 5
 minggu 5
 ngentèni 5
 Boston 5
-turu 5
-mèh 5
+waé 5
 Punika 5
+tahu 5
 dhèké 5
 pira 5
 tuku 5
@@ -116,7 +119,6 @@ tindak 5
 dhateng 5
 ngendi 5
 dhéwéké 5
-asu 5
 Basa 5
 Indhonésia 5
 pasagi 5
@@ -125,6 +127,7 @@ katimbang 4
 aja 4
 apel 4
 tok 4
+udan 4
 jus 4
 pulisi 4
 mlayu 4
@@ -149,7 +152,6 @@ numpak 4
 bis 4
 krungu 4
 bener 4
-waé 4
 saiki 4
 rabi 4
 nyambut 4
@@ -157,7 +159,6 @@ kapan 4
 dhuwur 4
 mlaku 4
 mung 4
-tahu 4
 maca 4
 Sampéyan 4
 loro 4
@@ -175,7 +176,7 @@ pirang 3
 kok 3
 Wonten 3
 pinten 3
-udan 3
+éntuk 3
 2000 3
 mlebu 3
 padha 3
@@ -218,6 +219,7 @@ tinimbang 3
 baja 3
 enem 3
 wolu 3
+kerja 3
 nyanyi 3
 telung 3
 nglakokaké 3
@@ -226,6 +228,7 @@ wedi 3
 madhang 3
 ngapusi 3
 ketemu 3
+Sami 3
 kaping 3
 jenengé 3
 pèlem 3
@@ -265,7 +268,6 @@ kana 2
 kono 2
 rasané 2
 wegah 2
-éntuk 2
 wedharaké 2
 tiyang 2
 Gendérané 2
@@ -324,6 +326,7 @@ Kapan 2
 nulis 2
 mangkat 2
 Jaré 2
+endi-endi 2
 Spanyol 2
 kaé 2
 musik 2
@@ -349,7 +352,6 @@ Awakmu 2
 papat 2
 Matur 2
 nuwun 2
-kerja 2
 bank 2
 dhéwéan 2
 Paris 2
@@ -386,7 +388,6 @@ layang 2
 Saiki 2
 temenan 2
 budhal 2
-Sami 2
 dhuwit 2
 Kedutaan 2
 Landa 2
@@ -395,6 +396,7 @@ meneng 2
 ingkang 2
 enak 2
 banget 2
+panganan 2
 kètokané 2
 Isih 2
 tansah 2
@@ -441,12 +443,14 @@ dakkandhani 2
 Anakku 2
 baé 2
 sanès 2
+Genéya 2
 Riga 2
 Lètlan 2
 toko 2
 késah 2
 paham 2
 Walanda 2
+Nang 2
 mandheg 2
 London 2
 Kuduné 2
@@ -760,7 +764,6 @@ nganggep 1
 ndandani 1
 jamé 1
 nemokaké 1
-endi-endi 1
 wangun 1
 bumi 1
 Endi 1
@@ -1091,7 +1094,6 @@ lanangé 1
 Persis 1
 dakpikiraké 1
 ꦥꦼꦂꦱꦶꦱ꧀ꦏꦪꦱꦶꦁꦢꦏ꧀ꦥꦶꦏꦶꦫꦏꦺ꧉ 1
-panganan 1
 Cina 1
 ꦄꦏ꧀ꦮꦺꦴꦫꦠꦲꦸꦩꦔꦤ꧀ꦥꦔꦤꦤ꧀ꦕꦶꦤ꧉ 1
 daging 1
@@ -1450,7 +1452,6 @@ Kadazan 1
 seratanipun 1
 piyambak 1
 ꦥꦸꦤꦶꦏꦱꦤꦺꦱ꧀ꦱꦼꦫꦠ꧀ꦠꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦥꦶꦪꦩ꧀ꦧꦏ꧀꧈ 1
-Genéya 1
 ꦒꦼꦤꦺꦪꦲꦱꦸꦏꦺꦴꦏ꧀ꦲꦺꦴꦫꦱꦼꦤꦼꦁꦏꦫꦺꦴꦏꦸꦕꦶꦁ 1
 ꦲꦶꦁꦏꦺꦤꦺꦲꦺꦴꦫꦲꦤꦮꦶꦠ꧀ꦧ꧀ꦭꦱ꧀꧈ 1
 ꦲꦤꦏ꧀ꦏꦸꦥꦥꦠ꧀꧈ 1
@@ -1507,7 +1508,6 @@ disinaoni 1
 ꦲꦮꦏ꧀ꦝꦺꦮꦺꦏꦧꦺꦃꦏꦸꦢꦸꦩꦔꦤ꧀꧈ 1
 èlmuwan" 1
 ꦝꦺꦮꦺꦏꦺꦠꦲꦸꦔꦺꦴꦩꦺꦴꦁ꧈ ꧌ꦲꦏꦸꦲꦉꦥ꧀ꦢꦢꦶꦲꦺꦭ꧀ꦩꦸꦮꦤ꧀꧍ 1
-Nang 1
 guntingku 1
 ꦤꦁꦲꦼꦤ꧀ꦢꦶꦒꦸꦤ꧀ꦠꦶꦁꦏꦸ 1
 kèndel 1
@@ -1718,3 +1718,14 @@ miber 1
 Omah 1
 kebek 1
 ꦲꦺꦴꦩꦃꦲꦶꦏꦸꦏꦼꦧꦼꦏ꧀ꦧꦺꦴꦕꦃꦧꦺꦴꦕꦃ꧉ 1
+dluwang 1
+ꦲꦶꦏꦶꦢ꧀ꦭꦸꦮꦁ꧉ 1
+gratis 1
+ꦱꦩꦶꦲꦺꦤ꧀ꦠꦸꦏ꧀ꦥꦔꦤ꧀ꦤꦤ꧀ꦒꦿꦠꦶꦱ꧀꧈ 1
+ꦲꦏꦸꦲꦶꦱꦠꦸꦫꦸꦤꦁꦲꦼꦤ꧀ꦢꦶꦧꦲꦺ꧉ 1
+ꦲꦏꦸꦲꦶꦱꦠꦸꦫꦸꦤꦁꦲꦼꦤ꧀ꦢꦶꦲꦼꦤ꧀ꦢꦶ꧉ 1
+dicokot 1
+ꦲꦏꦸꦢꦶꦕꦺꦴꦏꦺꦴꦠ꧀ꦲꦱꦸ꧉ 1
+ 1
+ꦒꦼꦤꦺꦪꦝꦺꦮꦺꦏ꧀ꦏꦺꦲꦉꦥ꧀ꦏꦽꦗꦤꦁꦏꦺꦤꦺ 1
+ꦤꦁꦏꦺꦤꦺꦩꦺꦃꦲꦺꦴꦫꦠꦲꦸꦲꦸꦢꦤ꧀꧈ 1

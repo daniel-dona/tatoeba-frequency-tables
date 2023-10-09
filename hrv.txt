@@ -1,4 +1,4 @@
-je 1670
+je 1671
 se 607
 u 551
 sam 457
@@ -154,6 +154,7 @@ dana 23
 želiš 23
 raditi 22
 nam 22
+grad 22
 treba 22
 molim 22
 godina 22
@@ -164,7 +165,6 @@ kući 21
 dijete 21
 Uvijek 21
 knjigu 21
-grad 21
 sada 21
 ćemo 21
 želi 21
@@ -1130,6 +1130,7 @@ razmišljao 4
 jedini 4
 pozvao 4
 Djeca 4
+Srbije 4
 par 4
 Ove 4
 Koga 4
@@ -1576,7 +1577,6 @@ napisao 3
 Previše 3
 rukom 3
 trenutak 3
-Srbije 3
 ljubazan 3
 muž 3
 mislio 3
@@ -2511,6 +2511,7 @@ crn 2
 jugoistočnom 2
 hrvatskom 2
 Prijestolnica 2
+Beograd 2
 srpskom 2
 Njemačke 2
 kupila 2
@@ -5888,7 +5889,6 @@ Republike 1
 Vlakovi 1
 Srbiji 1
 spori 1
-Beograd 1
 Srbija 1
 "Srbija" 1
 Firenca 1
@@ -8182,3 +8182,4 @@ pusta 1
 Jesen 1
 prevoditeljica 1
 ekstrema 1
+Glavni 1

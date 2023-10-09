@@ -1,6 +1,6 @@
-es 124
+es 125
 Eo 91
-yn 64
+yn 65
 rhen 61
 di 48
 Tomos 43
@@ -13,7 +13,7 @@ Llo 22
 ill 20
 sunt 19
 lla 19
-Lla 17
+Lla 18
 Nu 15
 yst 13
 a 12
@@ -42,6 +42,7 @@ llifr 6
 ed 6
 ben 6
 wol 6
+wid 6
 mi 6
 sab 6
 Yn 5
@@ -54,7 +55,6 @@ ply 5
 ffeirth 5
 ys 5
 grêdd 5
-wid 5
 Ffrencig 5
 Negyn 5
 ddewindad 5
@@ -91,6 +91,7 @@ mulltisaf 4
 fengib 4
 h-ugell 4
 rhys 3
+ddun 3
 ti 3
 cath 3
 ddef 3
@@ -138,7 +139,6 @@ Ceos 3
 fryd 2
 trui 2
 cathr 2
-ddun 2
 lle 2
 gwenir 2
 eidd 2

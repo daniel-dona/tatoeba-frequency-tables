@@ -1,7 +1,7 @@
-Ez 1204
+Ez 1206
 e 1033
 xwe 1033
-ji 994
+ji 995
 min 992
 bi 935
 li 826
@@ -13,7 +13,7 @@ ku 609
 Tom 544
 Em 543
 Tu 519
-me 514
+me 516
 te 494
 de 464
 ne 400
@@ -45,9 +45,9 @@ ew 178
 bikin 177
 in 176
 Wî 174
-hez 171
+hez 172
+Wê 168
 pir 168
-Wê 167
 Me 156
 wan 152
 Di 151
@@ -144,10 +144,10 @@ fêr 46
 araste 46
 bin 45
 Tomî 45
+nû 43
 van 42
 hat 42
 tên 42
-nû 41
 zêde 41
 bê 41
 çend 41
@@ -219,9 +219,9 @@ nav 27
 jiyana 27
 bîr 27
 tişt 27
+dikir 26
 bîst 26
 karê 26
-dikir 25
 dil 25
 Ne 25
 hin 25
@@ -1082,6 +1082,7 @@ Spas 5
 êvarî 5
 sporê 5
 ana 5
+gera 5
 zembîlê 5
 hîs 5
 Bê 5
@@ -1292,7 +1293,6 @@ Ku 4
 xwariye 4
 kêr 4
 qedand 4
-gera 4
 hêkan 4
 diran 4
 car 4
@@ -1453,6 +1453,7 @@ Fransî 4
 genim 4
 qezayê 4
 wiya 4
+mamosteyê 4
 bimeşe 4
 beşdarî 4
 salên 4
@@ -1886,7 +1887,6 @@ Keça 3
 biha 3
 naçim 3
 veda 3
-mamosteyê 3
 kîçaq 3
 kiřîye 3
 nikanî 3
@@ -2311,6 +2311,7 @@ Mary'ê 3
 danûstanê 3
 Maisie 3
 cêwî 3
+Polonyayê 3
 Neh 3
 dîwar 2
 bexche 2
@@ -2903,6 +2904,7 @@ keç 2
 pêyan 2
 Goga 2
 refê 2
+mamosteya 2
 xalxalok 2
 werza 2
 gulanê 2
@@ -3614,7 +3616,6 @@ Dêrikê 2
 terorê 2
 Şer 2
 nêrî 2
-Polonyayê 2
 Ewrek 2
 demildest 2
 fezayî 2
@@ -5488,7 +5489,6 @@ Rênas 1
 Deşt 1
 tewandin 1
 dozê 1
-mamosteya 1
 xalxalokan 1
 derdikevim 1
 difirim 1
