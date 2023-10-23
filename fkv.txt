@@ -1,4 +1,4 @@
-oon 213
+oon 214
 Se 35
 ei 32
 Hyvvää 29
@@ -27,6 +27,7 @@ Kiitos 6
 vuotta 6
 hyvvää 6
 Ei 6
+vasthaan 6
 ollu 6
 kolme 6
 Tässä 6
@@ -37,7 +38,6 @@ Hyvvii 5
 sen 5
 sitä 5
 pois 5
-vasthaan 5
 Mikä 5
 Yksi 5
 nelje 5
@@ -121,6 +121,7 @@ Nyt 3
 kala 3
 Kväänin 2
 Kainun 2
+ottaa 2
 komuuni 2
 telefoonissa 2
 päivä 2
@@ -148,6 +149,7 @@ internasjunaalin 2
 ihminen 2
 siihen 2
 sillon 2
+tehty 2
 tevosta 2
 missä 2
 hän 2
@@ -212,6 +214,7 @@ terävä 2
 lapun 2
 aprillikuuta 2
 sekä 2
+metalista 2
 olima 2
 kiini 2
 Onnee 2
@@ -251,7 +254,6 @@ sentteri 1
 institutti 1
 Hyvät 1
 assiit 1
-ottaa 1
 oman 1
 Porsanki 1
 kolmikielinen 1
@@ -399,7 +401,6 @@ tuomioistuimessa 1
 määräthään 1
 oikkeuksista 1
 velvolisuuksista 1
-tehty 1
 rangaistuskaunet 1
 ketä 1
 syytetty 1
@@ -747,7 +748,6 @@ Mammala 1
 reekeli 1
 Terän 1
 tavottu 1
-metalista 1
 Ilma 1
 vähän 1
 kevhäisempi 1
@@ -1363,3 +1363,13 @@ lennän 1
 Ottar 1
 seppä 1
 fiskari 1
+Ämmi 1
+lapsenlapset 1
+Sitä 1
+passaa 1
+kyssyyt 1
+Raavhaat 1
+auttaavat 1
+lapsia 1
+oppimhaan 1
+Piit 1

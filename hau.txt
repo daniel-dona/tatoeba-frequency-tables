@@ -1,17 +1,17 @@
 da 10763
-a 4315
-ba 4273
+a 4316
+ba 4275
 ya 3848
-na 3800
+na 3799
 yi 2494
 ta 2474
-ne 2305
+ne 2306
 ka 1824
 iya 1393
 mai 1305
 Na 1224
 cikin 1218
-Ina 1211
+Ina 1212
 shi 1096
 za 1067
 wannan 1060
@@ -38,7 +38,7 @@ zama 613
 Wannan 580
 ni 574
 suna 559
-nan 551
+nan 552
 don 546
 Shin 540
 ga 538
@@ -126,21 +126,21 @@ ita 225
 je 225
 sanya 224
 gidan 224
-ɗan 218
+ɗan 220
+tunanin 218
 Da 218
 zo 217
-tunanin 217
 samun 217
 an 215
 bane 215
 wasu 214
 akwai 212
-dan 211
 ranar 211
 mata 210
+dan 209
 Muna 209
+Ni 208
 cin 207
-Ni 207
 rana 205
 shiga 205
 gida 204
@@ -234,11 +234,11 @@ Wani 122
 masa 122
 launin 122
 dare 120
-anan 120
 Ko 120
 tsakanin 120
 wurin 120
 nake 120
+anan 119
 ƙara 119
 matsayin 119
 gano 119
@@ -303,8 +303,8 @@ can 94
 dace 94
 dariya 94
 tabbatar 94
+makaranta 93
 Japan 93
-makaranta 92
 Har 91
 gani 91
 shirin 91
@@ -352,9 +352,9 @@ dawo 79
 jira 79
 damu 79
 yara 79
+ƙoƙarin 78
 biya 78
 muke 77
-ƙoƙarin 77
 Mr 77
 cewar 77
 rai 77
@@ -491,7 +491,6 @@ kwana 53
 mota 53
 gari 53
 ja 53
-kokarin 53
 Faransanci 52
 halin 52
 kin 52
@@ -500,6 +499,7 @@ jiki 52
 tsaye 52
 Bani 52
 dake 52
+kokarin 52
 zaman 51
 duba 51
 kaɗan 51
@@ -564,6 +564,7 @@ kalli 47
 asalin 47
 tsuntsayen 47
 yafi 47
+sauƙi 46
 kada 46
 kanka 46
 shagon 46
@@ -576,7 +577,6 @@ nada 46
 fahimtar 46
 aika 46
 mayar 45
-sauƙi 45
 fito 45
 hoton 45
 Kawai 45
@@ -598,7 +598,6 @@ kisan 44
 tayi 44
 yaƙi 44
 kiran 44
-sauki 44
 Jirgin 44
 garin 44
 bango 44
@@ -608,6 +607,7 @@ bayani 43
 matuƙar 43
 bude 43
 juya 43
+sauki 43
 gabatar 43
 Waɗannan 43
 sa'a 43
@@ -838,6 +838,7 @@ karɓi 28
 yarinya 28
 kullun 28
 niyyar 28
+likita 28
 safiyar 28
 Saboda 28
 Ga 28
@@ -858,7 +859,6 @@ fa 28
 Jiya 28
 bayanan 28
 Barka 27
-likita 27
 ihu 27
 dakatar 27
 tattauna 27
@@ -2720,7 +2720,6 @@ Kanada 6
 tsoffin 6
 ƙariya 6
 wajena 6
-I 6
 sukari 6
 takawa 6
 gurin 6
@@ -3059,6 +3058,7 @@ Kakata 5
 jami'a 5
 barshi 5
 Australiya 5
+I 5
 kwakwalwar 5
 akai-akai 5
 tambayeni 5
@@ -3794,7 +3794,6 @@ magunguna 4
 gwargwadon 4
 fararen 4
 walkiya 4
-Biritaniya 4
 gareka 4
 kaje 4
 watsar 4
@@ -4588,6 +4587,7 @@ iyayenki 3
 Maharbin 3
 cizo 3
 bawan 3
+Biritaniya 3
 "Haka 3
 murmushin 3
 atomatik 3

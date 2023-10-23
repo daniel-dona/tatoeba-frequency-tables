@@ -16,7 +16,7 @@ Ní 176
 agam 167
 Níl 159
 liom 150
-i 126
+i 127
 mo 123
 le 106
 na 102
@@ -215,6 +215,7 @@ ais 10
 airgid 10
 inniu 10
 chara 10
+Thomáis 10
 suas 10
 ba 10
 príomhchathair 9
@@ -232,13 +233,13 @@ dearg 9
 fháil 9
 cosúil 9
 charr 9
-Thomáis 9
 ceann 9
 Tar 9
 arís 9
 de 9
 ríomhairí 9
 Mura 9
+ngrá 8
 éis 8
 riamh 8
 am 8
@@ -270,10 +271,8 @@ Feirste 8
 chor 8
 Fan 8
 I 8
-Thomás 8
 Nuair 7
 brón 7
-ngrá 7
 ár 7
 shin 7
 Cuir 7
@@ -309,6 +308,7 @@ labhraím 7
 síos 7
 cá 7
 conas 7
+Thomás 7
 tar 6
 ábalta 6
 Déan 6
@@ -416,6 +416,7 @@ rua 5
 fhírinne 5
 Itheann 5
 fhadhb 5
+Nílim 5
 eolas 5
 solas 5
 dtoil 5
@@ -529,7 +530,6 @@ roinnt 4
 dearmad 4
 oraibh 4
 Ólann 4
-Nílim 4
 Caitheann 4
 cheann 4
 theanga 4

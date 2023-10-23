@@ -4,9 +4,9 @@ sem 161
 se 160
 v 147
 Tom 126
-so 105
+so 108
 ne 105
-in 100
+in 102
 da 91
 govorite 89
 mesto 87
@@ -17,7 +17,7 @@ Govorite 86
 Ne 79
 si 78
 To 78
-za 72
+za 73
 Kaj 69
 mi 66
 ni 64
@@ -27,7 +27,7 @@ Jaz 58
 Govorim 51
 Koliko 46
 ime 44
-bo 42
+bo 43
 iz 42
 Kako 41
 lahko 41
@@ -42,7 +42,7 @@ bil 33
 Sem 33
 jezik 33
 Kje 32
-z 31
+z 32
 govorim 31
 dan 30
 Ona 30
@@ -69,13 +69,13 @@ lepa 20
 bom 20
 stane 20
 svojo 19
+Kdor 19
 Kdaj 19
 ta 19
 Ime 19
 ste 18
 prosim 18
 ali 18
-Kdor 18
 več 18
 angleško 17
 od 17
@@ -98,6 +98,7 @@ jo 15
 V 14
 Lahko 14
 veliko 14
+imajo 14
 vedno 14
 moje 14
 Naj 14
@@ -105,7 +106,6 @@ nemško 14
 Glavno 14
 imam 13
 če 13
-imajo 13
 Zelo 13
 smo 13
 pomeni 13
@@ -332,6 +332,7 @@ zaspan 5
 ena 5
 otok 5
 mleko 5
+štiri 5
 zob 5
 jutro 5
 hebrejsko 5
@@ -483,7 +484,6 @@ vprašal 4
 Janez 4
 pogum 4
 voda 4
-štiri 4
 sedem 4
 osem 4
 pošlje 4
@@ -787,6 +787,7 @@ vdovec 3
 Brez 3
 črka 3
 abecede 3
+pajkovci 3
 Znaš 2
 Ujgur 2
 zelene 2
@@ -813,6 +814,7 @@ udomačiti 2
 imela 2
 človek 2
 oni 2
+meč 2
 nebotičnik 2
 Francija 2
 Evropi 2
@@ -1333,6 +1335,7 @@ enakost 2
 Žirafa 2
 najvišja 2
 Krokodili 2
+Pajki 2
 žuželke 2
 zanimive 2
 Bolje 2
@@ -1370,6 +1373,8 @@ Madžarščina 2
 glodavcev 2
 nevaren 2
 oranžne 2
+Škorpijoni 2
+nog 2
 psi 2
 ose 2
 osa 2
@@ -1399,6 +1404,7 @@ Morje 2
 plus 2
 kopljejo 2
 slišim 2
+Klopi 2
 gospod 1
 Ogawa 1
 Francoz 1
@@ -1469,7 +1475,6 @@ Mama 1
 držite 1
 dobri 1
 prijatelji 1
-meč 1
 manjša 1
 Sonca 1
 Vojna 1
@@ -3429,7 +3434,6 @@ gora 1
 Sloveniji 1
 Šanghajski 1
 stolp 1
-Pajki 1
 Suhe 1
 južine 1
 zanimivo 1
@@ -3607,8 +3611,6 @@ miši 1
 kužke 1
 tekočo 1
 Grenlandija 1
-Škorpijoni 1
-nog 1
 Radi 1
 imamo 1
 pse 1
@@ -3829,3 +3831,10 @@ prevajalka 1
 prevajalec 1
 Argentinka 1
 Ukrajinka 1
+prime 1
+mečem 1
+poginil 1
+pršice 1
+škorpijoni 1
+klopi 1
+pare 1

@@ -1,4 +1,4 @@
-i 38
+i 39
 Da 33
 is 33
 I 32
@@ -10,14 +10,14 @@ des 21
 da 20
 hob 20
 du 16
-Des 15
+Des 16
 Tom 13
 di 13
 so 12
 wos 12
+ned 12
 an 11
 do 11
-ned 11
 hot 11
 und 10
 scho 9
@@ -97,6 +97,7 @@ gib 3
 um 3
 fümfe 3
 braan 3
+konn 3
 Passt 2
 der 2
 wissat 2
@@ -202,7 +203,6 @@ Braan 2
 ebas 2
 kon 2
 Um 2
-konn 2
 G'rad 1
 jeder 1
 Schmarr'n 1

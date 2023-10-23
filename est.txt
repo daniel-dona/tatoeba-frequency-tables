@@ -1,8 +1,8 @@
 on 1383
 Ma 886
-ei 714
-Tom 580
-sa 414
+ei 715
+Tom 581
+sa 415
 Kas 407
 et 318
 Ta 317
@@ -21,7 +21,7 @@ Mul 130
 keelt 129
 kui 122
 väga 121
-Me 120
+Me 121
 pole 113
 oled 97
 mulle 97
@@ -48,8 +48,8 @@ siin 63
 Mis 63
 veel 63
 nii 62
+Mida 62
 Kus 61
-Mida 60
 hea 59
 Mary 58
 Kes 57
@@ -58,9 +58,9 @@ sinu 54
 ema 53
 mis 52
 sul 52
+te 52
 välja 51
 Palun 51
-te 51
 saa 50
 teha 48
 Mulle 47
@@ -80,6 +80,7 @@ Kuidas 38
 kaks 38
 aga 37
 tema 37
+täna 37
 tahab 37
 koer 37
 Tomil 37
@@ -87,11 +88,10 @@ nad 36
 prantsuse 36
 koju 35
 kas 35
-täna 35
+vaja 34
 kes 34
 aru 33
 hästi 33
-vaja 33
 eile 33
 räägi 33
 ilus 33
@@ -155,6 +155,7 @@ läks 22
 tegi 22
 peale 22
 parem 22
+elab 22
 siia 22
 natuke 22
 olid 21
@@ -172,7 +173,6 @@ naine 20
 lapsed 20
 Millal 20
 meeldivad 20
-elab 20
 mina 20
 pea 20
 saan 20
@@ -234,6 +234,7 @@ andis 15
 kell 15
 jaoks 15
 kõige 15
+viis 15
 arvad 15
 väike 15
 lähen 15
@@ -276,7 +277,6 @@ nimi 13
 maha 13
 kõike 13
 ukse 13
-viis 13
 Ja 13
 ostis 13
 teil 13
@@ -333,6 +333,7 @@ vihkan 11
 töötab 11
 lihtsalt 11
 õppima 11
+koolis 11
 enne 11
 uuesti 11
 Bostonisse 11
@@ -348,6 +349,7 @@ külm 10
 kuus 10
 juurde 10
 varem 10
+Selles 10
 pealinn 10
 head 10
 osta 10
@@ -403,7 +405,6 @@ vihma 9
 piisavalt 9
 Vabandust 9
 jääda 9
-koolis 9
 valge 9
 sõbrad 9
 huvitav 9
@@ -432,7 +433,6 @@ igal 8
 tunne 8
 kala 8
 uus 8
-Selles 8
 surma 8
 riik 8
 kümme 8
@@ -613,6 +613,7 @@ küsimus 6
 must 6
 peal 6
 tulid 6
+sööb 6
 mängida 6
 võimalik 6
 laenata 6
@@ -726,7 +727,6 @@ värvi 5
 õuna 5
 aitan 5
 Karu 5
-sööb 5
 tunneb 5
 punast 5
 abielus 5
@@ -1118,6 +1118,7 @@ maa 3
 küsimusi 3
 laual 3
 arvuti 3
+jäätist 3
 õun 3
 avatud 3
 Grammatika 3
@@ -1380,6 +1381,7 @@ viiskümmend 3
 pudelit 3
 puidust 3
 vigu 3
+järves 3
 juuksed 3
 Tokyos 3
 prillid 3
@@ -1574,7 +1576,6 @@ Kõige 2
 Tatoeba 2
 ajutiselt 2
 Raamat 2
-jäätist 2
 sügavalt 2
 otsustasin 2
 arstiks 2
@@ -1666,6 +1667,7 @@ hall 2
 Lauses 2
 reisime 2
 kardad 2
+sõda 2
 Millised 2
 raskused 2
 Facebookis 2
@@ -2299,6 +2301,7 @@ valetada 2
 elevant 2
 Maapind 2
 pehme 2
+kalu 2
 Layla 2
 töölt 2
 pensionile 2
@@ -3190,7 +3193,6 @@ kõnnin 1
 pingviin 1
 külastasin 1
 muuseumi 1
-sõda 1
 võrdsed 1
 mõtted 1
 heasüdamlik 1
@@ -4832,7 +4834,6 @@ mao 1
 saba 1
 armastuslood 1
 Ujusime 1
-järves 1
 nooremat 1
 ülikool 1
 asutati 1
@@ -5979,7 +5980,6 @@ kuulnudki 1
 USAs 1
 igatsema 1
 Sukeldumisel 1
-kalu 1
 õpilased 1
 korealased 1
 teosed 1
@@ -6360,3 +6360,7 @@ samu 1
 põrgut 1
 kuradit 1
 Muusikud 1
+õppisid 1
+õppisite 1
+liiki 1
+kalaliiki 1

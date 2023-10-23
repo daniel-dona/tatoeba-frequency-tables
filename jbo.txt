@@ -1,5 +1,5 @@
 lo 12585
-mi 5920
+mi 5921
 cu 3364
 do 3333
 la 2583
@@ -10,7 +10,7 @@ se 1882
 na 1597
 be 1319
 i 1284
-ko'a 1245
+ko'a 1246
 ma 1218
 ka 1210
 ko 1118
@@ -301,9 +301,9 @@ frili 53
 banli 53
 lumci 53
 ba'e 53
+roda 53
 kanro 52
 dinju 52
-roda 52
 roroi 51
 vofli 51
 so'o 51
@@ -1541,6 +1541,7 @@ sispe'i 5
 seri'a 5
 ba'i 5
 zdazva 5
+tamne 5
 namcrprimu 5
 jbini 5
 platon 5
@@ -1756,7 +1757,6 @@ fatri 4
 zo'u: 4
 jon 4
 na'ebo 4
-tamne 4
 festi 4
 clarai 4
 cmibi'o 4
@@ -6496,3 +6496,4 @@ selsnu 1
 tcarlz 1
 tcalz 1
 kail 1
+plajda 1

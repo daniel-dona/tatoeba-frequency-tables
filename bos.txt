@@ -1,15 +1,15 @@
 je 451
 se 171
-sam 161
-u 154
-da 132
+sam 162
+u 156
+da 133
 li 110
 na 103
 Tom 88
 su 67
 ne 60
 i 58
-Ne 55
+Ne 57
 nije 50
 Ja 49
 mi 49
@@ -30,9 +30,9 @@ Kako 27
 Ovo 26
 me 26
 s 26
+mogu 23
 bio 23
 U 22
-mogu 21
 Šta 19
 Je 19
 bi 19
@@ -172,6 +172,7 @@ svoje 6
 trebao 6
 Danas 6
 želi 6
+želim 6
 Vi 6
 sviđa 6
 ljubav 6
@@ -209,7 +210,6 @@ ništa 5
 vidim 5
 bolnici 5
 govorim 5
-želim 5
 telefon 5
 Dječak 5
 Na 5
@@ -277,6 +277,7 @@ njemački 4
 Ono 4
 Sarajevu 4
 imam 4
+živjeti 4
 gradu 4
 čovjeka 4
 ćete 4
@@ -385,7 +386,6 @@ košulja 3
 računar 3
 More 3
 liječnik 3
-živjeti 3
 bez 3
 Imaš 3
 Život 3
@@ -533,6 +533,7 @@ jedni 2
 drugog 2
 Knjiga 2
 slobodan 2
+živim 2
 Radim 2
 gradske 2
 cvijeće 2
@@ -897,6 +898,7 @@ Rekli 2
 preumorni 2
 njoj 2
 Izgleda 2
+Samo 2
 Vjerujem 2
 jedu 2
 Jeste 2
@@ -926,6 +928,7 @@ plemena 2
 čaj 2
 jači 2
 tačan 2
+inozemstvu 2
 Džek 1
 Zove 1
 Tomojuki 1
@@ -1036,7 +1039,6 @@ povrijedimo 1
 plačemo 1
 Gregor 1
 Nemaš 1
-živim 1
 „Ko 1
 automobilu” 1
 „Marija” 1
@@ -2646,7 +2648,6 @@ izrađena 1
 svile 1
 nepristojan 1
 nepristojna 1
-Samo 1
 Japanka 1
 ranjen 1
 borbi 1
@@ -3156,3 +3157,8 @@ Muzičari 1
 umorni 1
 sjetim 1
 mušterija 1
+šalicu 1
+kave 1
+Popio 1
+čašicu 1
+kole 1
