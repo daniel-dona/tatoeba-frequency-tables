@@ -1,4 +1,4 @@
-on 1383
+on 1386
 Ma 886
 ei 715
 Tom 581
@@ -6,7 +6,7 @@ sa 415
 Kas 407
 et 318
 Ta 317
-See 265
+See 267
 ma 212
 seda 200
 oma 184
@@ -20,8 +20,8 @@ olen 133
 Mul 130
 keelt 129
 kui 122
+Me 122
 väga 121
-Me 121
 pole 113
 oled 97
 mulle 97
@@ -42,8 +42,8 @@ kõik 67
 mida 66
 meeldib 66
 su 65
+Tomi 65
 Minu 64
-Tomi 64
 siin 63
 Mis 63
 veel 63
@@ -195,6 +195,7 @@ raamatut 18
 praegu 18
 taga 18
 koera 18
+oleme 18
 saada 18
 raske 18
 tahtnud 18
@@ -208,7 +209,6 @@ sai 17
 tõesti 17
 tööd 17
 Ei 17
-oleme 17
 Siin 17
 selles 17
 peaks 17
@@ -323,6 +323,7 @@ kohe 11
 kirja 11
 Selle 11
 Head 11
+pealinn 11
 Täna 11
 Isa 11
 vend 11
@@ -350,7 +351,6 @@ kuus 10
 juurde 10
 varem 10
 Selles 10
-pealinn 10
 head 10
 osta 10
 poleks 10
@@ -375,6 +375,7 @@ juua 10
 võin 10
 pidanud 10
 Tule 10
+vanemad 10
 usu 10
 Sami 10
 noor 9
@@ -413,7 +414,6 @@ lugeda 9
 räägitakse 9
 sajab 9
 Mitu 9
-vanemad 9
 üldse 9
 hispaania 9
 täis 8
@@ -439,6 +439,7 @@ kümme 8
 silmad 8
 mäleta 8
 naise 8
+Maja 8
 peaksid 8
 mängib 8
 kena 8
@@ -510,7 +511,6 @@ näe 7
 neli 7
 Kelle 7
 peame 7
-Maja 7
 Talle 7
 Teie 7
 pikk 7
@@ -2179,8 +2179,6 @@ jõudmine 2
 rongijaama 2
 võtke 2
 rohelist 2
-test 2
-sentence 2
 vabariik 2
 Minul 2
 püüdnud 2
@@ -5047,8 +5045,6 @@ reetur 1
 Võid 1
 Valel 1
 laisemad 1
-#1 1
-#2 1
 kitarri 1
 lähete 1
 Ühinenud 1
@@ -6364,3 +6360,9 @@ Muusikud 1
 õppisite 1
 liiki 1
 kalaliiki 1
+söögiseen 1
+mürgiseen 1
+Thbilisi 1
+Gruusia 1
+katus 1
+lekib 1

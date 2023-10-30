@@ -1,4 +1,4 @@
-að 3815
+að 3814
 er 3123
 Ég 2291
 í 2067
@@ -7,7 +7,7 @@ ekki 1645
 ég 867
 Það 858
 Hann 795
-til 769
+til 768
 og 731
 það 694
 við 674
@@ -22,7 +22,7 @@ Við 510
 fyrir 505
 um 483
 af 450
-eru 449
+eru 448
 mér 429
 en 429
 þér 415
@@ -90,8 +90,8 @@ hana 104
 tala 104
 mín 103
 ættir 98
-allt 98
 Vinsamlegast 97
+allt 97
 bara 96
 þess 96
 Hvernig 96
@@ -179,11 +179,11 @@ mína 53
 mundi 53
 hérna 53
 þeim 52
-fólk 52
 verða 52
 kann 52
 kaupa 52
 núna 52
+fólk 51
 góður 51
 búinn 51
 skal 50
@@ -213,13 +213,13 @@ fengið 45
 Má 44
 nú 44
 held 44
-áfram 43
 kominn 43
 hvernig 43
 þessum 43
 Hvenær 43
 lengi 43
 séð 42
+áfram 42
 ára 42
 líka 42
 þeirra 41
@@ -230,7 +230,6 @@ hverjum 40
 gerir 40
 gamall 40
 komið 40
-gott 40
 einu 40
 gæti 40
 drekka 40
@@ -241,6 +240,7 @@ sína 39
 hefðir 39
 neitt 39
 Hvaða 39
+gott 39
 býr 39
 ætla 39
 vinsamlegast 39
@@ -1046,7 +1046,6 @@ Lestin 9
 hve 9
 líklega 9
 liðið 9
-enda 9
 rúminu 9
 Þannig 9
 miklu 9
@@ -1180,6 +1179,7 @@ lofaði 8
 þoli 8
 sáum 8
 líkist 8
+enda 8
 Mike 8
 lífið 8
 fékkstu 8
@@ -1805,7 +1805,6 @@ strákurinn 5
 nægan 5
 nákvæmlega 5
 Sagan 5
-héldu 5
 flösku 5
 mála 5
 bænum 5
@@ -1932,7 +1931,6 @@ ostur 5
 ræddum 5
 fundum 5
 hæsti 5
-berjast 5
 mörkum 5
 fullur 5
 umferðarslysinu 5
@@ -2161,6 +2159,7 @@ tökum 4
 hægar 4
 ró 4
 sakaði 4
+héldu 4
 Judy 4
 lækninn 4
 býst 4
@@ -2370,6 +2369,7 @@ sjúkrahúsið 4
 hefi 4
 sumt 4
 minnka 4
+berjast 4
 drengur 4
 neita 4
 200 4
@@ -5123,7 +5123,6 @@ mismunandi 2
 setið 2
 hávaðans 2
 Alltaf 2
-Nasistar 2
 Kommúnismi 2
 stundað 2
 andað 2
@@ -9998,3 +9997,4 @@ Paul 1
 smásögu 1
 Fór 1
 tölvupósta 1
+Strákarnir 1

@@ -1,24 +1,24 @@
-je 1672
-se 609
+je 1681
+se 611
 u 552
 sam 457
-da 410
+da 411
 li 388
 na 324
 ne 282
 Tom 274
-i 233
-su 212
-mi 208
+i 236
+su 218
+mi 209
 Ne 192
 to 187
-za 166
+za 167
 si 164
 što 164
 nije 158
 On 149
 od 149
-To 126
+To 127
 ti 118
 te 118
 me 108
@@ -28,7 +28,7 @@ s 103
 Ona 95
 bi 93
 Ja 91
-Što 88
+Što 89
 ću 87
 bio 84
 biti 72
@@ -68,13 +68,13 @@ jako 43
 samo 43
 dan 42
 svoje 42
+Nisam 42
+U 42
 koji 42
 uvijek 41
-U 41
 do 41
 Imam 41
 moj 40
-Nisam 40
 sa 40
 vrlo 40
 ovdje 40
@@ -152,6 +152,7 @@ jučer 23
 danas 23
 dana 23
 želiš 23
+ovaj 22
 raditi 22
 nam 22
 grad 22
@@ -161,7 +162,6 @@ godina 22
 dok 22
 tvoje 21
 Mi 21
-ovaj 21
 kući 21
 dijete 21
 Uvijek 21
@@ -182,6 +182,7 @@ Imaš 20
 Moram 20
 ste 19
 novac 19
+Koji 19
 kupio 19
 Jučer 19
 Znam 19
@@ -195,7 +196,6 @@ kad 19
 moje 18
 zove 18
 tri 18
-Koji 18
 govori 18
 Taj 18
 Sve 18
@@ -223,6 +223,7 @@ kupiti 16
 neće 16
 mora 16
 nikada 16
+bez 16
 Bio 16
 Bilo 16
 ona 16
@@ -235,8 +236,8 @@ Ova 16
 ono 16
 prijatelji 15
 deset 15
-bez 15
 ako 15
+Sviđa 15
 Nema 15
 želim 15
 znati 15
@@ -254,7 +255,6 @@ Svaki 15
 njegov 14
 I 14
 Hoćeš 14
-Sviđa 14
 toliko 14
 jezik 14
 lijepa 14
@@ -293,8 +293,10 @@ možemo 13
 stvari 13
 nisi 13
 znao 13
+ime 12
 svijetu 12
 Zar 12
+broj 12
 Japan 12
 sobu 12
 dugo 12
@@ -325,12 +327,10 @@ ide 12
 hvala 12
 sama 12
 tvoja 11
-ime 11
 sedam 11
 lijepo 11
 mislim 11
 New 11
-broj 11
 Svatko 11
 čini 11
 Nikada 11
@@ -383,6 +383,7 @@ preko 10
 radiš 10
 novca 10
 svaki 10
+Život 10
 škole 10
 htio 10
 Trebamo 10
@@ -440,10 +441,10 @@ protiv 9
 kroz 9
 postati 9
 jezika 9
+pravo 9
 između 9
 Izgleda 9
 hranu 9
-Život 9
 netko 9
 Nikad 9
 živio 9
@@ -527,6 +528,7 @@ Njegovo 7
 jeziku 7
 četiri 7
 pet 7
+životinje 7
 ljubav 7
 zato 7
 kćeri 7
@@ -562,7 +564,6 @@ svjetlo 7
 zemlje 7
 nećeš 7
 Tvoj 7
-pravo 7
 pomoć 7
 svijeta 7
 svijet 7
@@ -609,7 +610,6 @@ naš 6
 Jesu 6
 Oprosti 6
 šest 6
-životinje 6
 Pušenje 6
 Kakav 6
 Vi 6
@@ -666,6 +666,7 @@ vani 6
 Kiša 6
 dobru 6
 zajedno 6
+pjevačica 6
 naše 6
 moram 6
 žive 6
@@ -789,7 +790,6 @@ gledati 5
 unutra 5
 jednostavan 5
 takav 5
-pjevačica 5
 Pokaži 5
 muškarac 5
 događa 5
@@ -871,6 +871,8 @@ njoj 5
 Živim 5
 Italija 5
 Istanbulu 5
+vruće 5
+Zemlja 5
 Tome 5
 Kakva 5
 dokaz 5
@@ -1002,6 +1004,7 @@ Vas 4
 razlikuje 4
 upravo 4
 Možemo 4
+hladna 4
 Nakon 4
 Boga 4
 isti 4
@@ -1152,10 +1155,9 @@ jezici 4
 Italiju 4
 Ali 4
 strah 4
-vruće 4
+ljudsko 4
 odlučili 4
 postao 4
-Zemlja 4
 poljubiti 4
 Soba 4
 pol 4
@@ -1178,6 +1180,7 @@ Rekla 4
 naučio 4
 dušu 4
 Sokrat 4
+Žohari 4
 njihova 3
 japanskom 3
 "Da 3
@@ -1256,6 +1259,7 @@ poznato 3
 Bojim 3
 Vrata 3
 Njen 3
+pjevač 3
 mač 3
 potpuno 3
 30 3
@@ -1348,7 +1352,6 @@ smiješno 3
 kameru 3
 igrajući 3
 jednako 3
-hladna 3
 Ići 3
 svemir 3
 tek 3
@@ -1360,6 +1363,7 @@ braće 3
 stariji 3
 oluje 3
 meni 3
+šah 3
 Gledaš 3
 Liječnik 3
 očito 3
@@ -1517,6 +1521,7 @@ prijateljima 3
 jesu 3
 našem 3
 tablete 3
+Juha 3
 svojom 3
 ujaka 3
 Sally 3
@@ -1593,6 +1598,7 @@ nedostaje 3
 životu 3
 mlade 3
 poludio 3
+prava 3
 Europi 3
 svakom 3
 svega 3
@@ -1799,7 +1805,6 @@ grešaka 2
 zakasniti 2
 stanju 2
 ispuniti 2
-pjevač 2
 laž 2
 nekoga 2
 dovoljan 2
@@ -1852,6 +1857,7 @@ kreditne 2
 kartice 2
 je" 2
 Biti 2
+mali 2
 politici 2
 društvo 2
 igru 2
@@ -1971,7 +1977,6 @@ rada 2
 pomagati 2
 drugome 2
 Osjećao 2
-šah 2
 temeljito 2
 pregledao 2
 Nada 2
@@ -2225,6 +2230,7 @@ svima 2
 Nazvao 2
 Nažalost 2
 Ispričaj 2
+krv 2
 Nosila 2
 učinila 2
 zakon 2
@@ -2468,7 +2474,6 @@ Brokula 2
 vrsta 2
 Gledali 2
 Jedno 2
-prava 2
 Svakog 2
 pogledu 2
 dosadno 2
@@ -2547,7 +2552,6 @@ niste 2
 došli 2
 pročitati 2
 pregledati 2
-ljudsko 2
 vrh 2
 prevladati 2
 Smiri 2
@@ -2800,6 +2804,7 @@ Onaj 2
 psima 2
 laktove 2
 uredu 2
+smatraju 2
 snijega 2
 viši 2
 japansku 2
@@ -2820,8 +2825,6 @@ nebo 2
 jedeš 2
 kreveta 2
 Izvolite 2
-Šah 2
-mat 2
 zainteresiranim 2
 susjeda 2
 usrećim 2
@@ -2830,6 +2833,7 @@ suštini 2
 voća 2
 zelena 2
 Naučio 2
+Hajde 2
 Bože 2
 aviona 2
 Posjedujem 2
@@ -2847,9 +2851,12 @@ Vjeruj 2
 Vjerujte 2
 lijen 2
 liječnica 2
+Šah-mat 2
 točka 2
 Samarkandu 2
 poginuti 2
+Sloboda 2
+insekti 2
 Jack 1
 Tomojuki 1
 Ogura 1
@@ -3306,7 +3313,6 @@ sudjelovao 1
 razgovoru 1
 drago 1
 primi 1
-mali 1
 dar 1
 činjenica 1
 zaboravljena 1
@@ -4593,7 +4599,6 @@ srušiti 1
 rekord 1
 Gorko 1
 okrijepljujuće 1
-krv 1
 bijelu 1
 haljinu 1
 poštovati 1
@@ -4648,7 +4653,6 @@ proputovat 1
 griješi 1
 pročitam 1
 Trebaju 1
-Juha 1
 zasoljena 1
 mojih 1
 fotki 1
@@ -7539,7 +7543,6 @@ Sirakužana 1
 Postao 1
 umirovljenik 1
 četrdestpet 1
-smatraju 1
 spontano 1
 zapaljenje 1
 Učili 1
@@ -7813,6 +7816,8 @@ Uživaj 1
 načina 1
 Ponovi 1
 Pažnja 1
+Šah 1
+mat 1
 takvim 1
 soka 1
 zaboravit 1
@@ -7960,7 +7965,6 @@ Pivo 1
 znašto 1
 Naučila 1
 vladaju 1
-Hajde 1
 izgovori 1
 opravdanja 1
 dosad 1
@@ -8196,3 +8200,25 @@ paučnjaci 1
 Škorpioni 1
 para 1
 nogu 1
+temeljna 1
+temeljno 1
+prekratak 1
+leta 1
+probamo 1
+video 1
+okrugla 1
+vruća 1
+Jelo 1
+žohar 1
+štetočinama 1
+noćne 1
+noćni 1
+Buhe 1
+kukci 1
+krila 1
+agresivni 1
+sišu 1
+Oca 1
+Sina 1
+Svetoga 1
+Duha 1

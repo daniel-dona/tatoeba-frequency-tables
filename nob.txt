@@ -1,12 +1,12 @@
-er 4220
+er 4219
 Jeg 3502
 ikke 2382
 å 2129
-i 2123
+i 2122
 en 1991
 du 1833
 har 1755
-det 1754
+det 1753
 på 1672
 Tom 1659
 til 1509
@@ -403,7 +403,6 @@ skrev 32
 begynner 32
 sted 32
 vær 32
-største 32
 hører 32
 Faren 32
 Kom 32
@@ -415,6 +414,7 @@ lever 31
 kaffe 31
 timer 31
 lite 31
+største 31
 deres 31
 toget 31
 mest 31
@@ -5253,7 +5253,6 @@ gjespet 2
 avisa 2
 knyttet 2
 klippe 2
-våpenet 2
 registreringsnummeret 2
 troverdigheten 2
 begravd 2
@@ -5293,7 +5292,6 @@ gjørs 2
 kyssa 2
 Samis 2
 kakao 2
-Løgn 2
 Korrekt 2
 Riktig 2
 Stemmer 2
@@ -9998,3 +9996,5 @@ Enkelte 1
 tråkker 1
 meitemark 1
 Regningene 1
+hope 1
+avtvinger 1

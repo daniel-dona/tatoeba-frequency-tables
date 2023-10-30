@@ -109,6 +109,7 @@ tullee 3
 Emmä 3
 ruokkaa 3
 koira 3
+mie 3
 Sie 3
 kaula 3
 seissoo 3
@@ -182,7 +183,6 @@ nousi 2
 antoi 2
 Kirja 2
 Tervettulemaa 2
-mie 2
 Käänny 2
 saanu 2
 pääle 2
@@ -244,6 +244,7 @@ olen 2
 Sota 2
 17 2
 kessää 2
+Kyllä 2
 Elämä 2
 Aameen 2
 kvääninkansan 1
@@ -1303,7 +1304,6 @@ toimivat 1
 Minusta 1
 pappa 1
 piiale 1
-Kyllä 1
 tulleevaisuus 1
 löysimä 1
 viimi 1
@@ -1373,3 +1373,4 @@ auttaavat 1
 lapsia 1
 oppimhaan 1
 Piit 1
+pärjään 1

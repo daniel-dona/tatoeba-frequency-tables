@@ -1,8 +1,8 @@
 lo 12585
-mi 5921
-cu 3364
+mi 5923
+cu 3366
 do 3333
-la 2583
+la 2585
 pu 2275
 nu 2116
 le 2043
@@ -10,7 +10,7 @@ se 1882
 na 1597
 be 1319
 i 1284
-ko'a 1246
+ko'a 1248
 ma 1218
 ka 1210
 ko 1118
@@ -58,8 +58,8 @@ tavla 244
 za'u 242
 cukta 238
 ka'e 237
+tam 234
 kei 233
-tam 232
 me 229
 ei 228
 mi'o 224
@@ -206,8 +206,8 @@ gasnu 78
 carvi 78
 titnanba 78
 pe'a 77
+speni 77
 drani 77
-speni 76
 zo'e 76
 bruna 75
 tirna 75
@@ -260,13 +260,13 @@ lenku 62
 kelci 62
 klaku 61
 co'i 61
+ije 61
 ji'a 61
 valsi 61
 munje 60
 moi 60
 curmi 60
 mensi 60
-ije 60
 srera 60
 finti 60
 tsani 60
@@ -598,6 +598,7 @@ ru'e 23
 dunli 23
 frica 23
 le'e 23
+goi 23
 cipra 23
 plini 23
 tsuku 23
@@ -611,7 +612,6 @@ za'a 22
 rozgu 22
 tolcando 22
 tolmo'i 22
-goi 22
 claxu 22
 krasi 22
 grusi 22
@@ -1268,6 +1268,7 @@ cladakyxa'i 7
 rarna 7
 tolxanka 7
 batke 7
+fetspe 7
 cradi 7
 pavdei 7
 datni 7
@@ -1379,7 +1380,6 @@ puku 6
 sralo 6
 di'o 6
 tolju'i 6
-fetspe 6
 frati 6
 du'o 6
 ruble 6
@@ -6497,3 +6497,4 @@ tcarlz 1
 tcalz 1
 kail 1
 plajda 1
+mafcre 1

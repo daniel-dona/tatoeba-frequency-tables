@@ -1,4 +1,4 @@
-Mən 652
+Mən 655
 O 453
 Tom 404
 Bu 349
@@ -25,21 +25,21 @@ Tomun 69
 bu 68
 vaxt 66
 istəyirəm 65
+deyiləm 63
 daha 62
 də 59
 onu 59
-deyiləm 59
+edirəm 56
 o 56
 yoxdur 55
 mən 55
-edirəm 54
 Sənin 53
 Bir 53
 gün 50
 haqqında 48
 Mənə 47
+gəlir 46
 bilirəm 45
-gəlir 44
 üç 44
 iki 42
 hər 42
@@ -56,13 +56,14 @@ edir 38
 ilə 37
 şey 36
 başa 36
+Nə 35
 ən 35
+qədər 35
 burada 34
 sənə 34
 etdi 34
 Toma 34
-Nə 33
-qədər 33
+kömək 33
 yaşayır 33
 yox 32
 Bizim 32
@@ -72,7 +73,6 @@ alma 32
 bilmirəm 32
 hələ 31
 edə 31
-kömək 31
 harada 30
 idim 30
 Onu 30
@@ -106,6 +106,7 @@ niyə 23
 ona 23
 bilir 23
 evə 23
+Tomu 23
 Sizin 22
 Niyə 22
 baş 22
@@ -118,7 +119,6 @@ danışa 21
 Heç 21
 başladı 21
 Mary 21
-Tomu 21
 belə 20
 bütün 20
 etmək 20
@@ -173,6 +173,7 @@ yerləşir 16
 sən 16
 səhər 15
 Məncə 15
+et 15
 oldu 15
 Sənə 15
 xoşbəxt 15
@@ -183,9 +184,9 @@ Yaponiyaya 15
 tək 15
 Sami 15
 almaq 14
-et 14
 cavab 14
 bizim 14
+Xahiş 14
 olacaq 14
 yağış 14
 məndən 14
@@ -195,13 +196,15 @@ amma 14
 sadəcə 14
 çay 14
 qəzəbləndirmək 14
+yaşayırıq 13
 geri 13
 ya 13
 istəyirsən 13
+adam 13
 kəs 13
 istərdim 13
+bizə 13
 qan 13
-yaşayırıq 12
 pis 12
 lüğət 12
 İt 12
@@ -213,7 +216,6 @@ Məni 12
 ondan 12
 bilirsən 12
 maşın 12
-Xahiş 12
 şeyi 12
 lazım 12
 Su 12
@@ -233,7 +235,6 @@ Burada 11
 etdiyini 11
 Gəl 11
 Sabah 11
-adam 11
 verir 11
 soyuqdur 11
 qapını 11
@@ -245,7 +246,6 @@ olmasa 11
 Merinin 11
 onların 11
 xoşuna 11
-bizə 11
 Avropa 11
 ev 11
 buna 11
@@ -690,6 +690,7 @@ yuyur 5
 icazə 5
 ölkəsidir 5
 qayıtdı 5
+yaxın 5
 ikinci 5
 birinci 5
 adını 5
@@ -852,6 +853,7 @@ yerdədir 4
 arasında 4
 izah 4
 yer 4
+tərəf 4
 düşünürsünüz 4
 vəziyyəti 4
 bacım 4
@@ -889,7 +891,6 @@ yazır 4
 unutmuşam 4
 dənə 4
 inanma 4
-yaxın 4
 inkişaf 4
 Almaniya 4
 paytaxt 4
@@ -1082,6 +1083,7 @@ baxma 3
 Parisdə 3
 yağacaq 3
 gündür 3
+edin 3
 gedəcəksən 3
 Ad 3
 evinə 3
@@ -1469,6 +1471,7 @@ istəyərsən 2
 müğənnidir 2
 göstərir 2
 fabrikada 2
+müğənni 2
 kişiyəm 2
 diri 2
 vermirsən 2
@@ -1600,7 +1603,6 @@ gücsüz 2
 yəqin 2
 riyaziyyat 2
 Kişilər 2
-edin 2
 alın 2
 Hamısı 2
 gəlsin 2
@@ -1764,7 +1766,6 @@ qolf 2
 gözəlsiniz 2
 gözəlsən 2
 nəyisə 2
-tərəf 2
 salamladı 2
 insanlarıq 2
 satdı 2
@@ -2426,6 +2427,7 @@ bric 2
 günlər 2
 Sonra 2
 Bizdə 2
+Şəhərin 2
 yatdığını 2
 Ziri 2
 çalışdı 2
@@ -2461,6 +2463,7 @@ Qızımla 2
 qəzəbləndirməkdən 2
 sırf 2
 tərcüməni 2
+tapmağıma 2
 xanımlar 1
 vә 1
 cәnablar 1
@@ -2708,7 +2711,6 @@ anladı 1
 işlədim 1
 gedirdim 1
 Pizza 1
-müğənni 1
 yoldaşmı 1
 yoldaşınammı 1
 qadınam 1
@@ -7441,7 +7443,6 @@ uşağınız 1
 Deyəcəklərimə 1
 Uşaqlarım 1
 güvənir 1
-Şəhərin 1
 şəhərindənsən 1
 ağaclara 1
 dırmaşırlar 1
@@ -7664,3 +7665,12 @@ Musiqiçilər 1
 kənddədir 1
 öyrəndin 1
 öyrəndiniz 1
+Müğənni 1
+oxuyubsan 1
+oxumusan 1
+Axtardığınız 1
+Axtardığın 1
+mərkəzinə 1
+Subay 1
+subayam 1
+subay 1

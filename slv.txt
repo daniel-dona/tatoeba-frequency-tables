@@ -1,12 +1,12 @@
-je 934
+je 941
 Ali 222
 sem 161
 se 160
 v 147
 Tom 126
-so 108
+so 112
 ne 105
-in 102
+in 104
 da 91
 govorite 89
 mesto 87
@@ -14,11 +14,11 @@ na 86
 Govoriš 86
 govoriš 86
 Govorite 86
+To 80
 Ne 79
 si 78
-To 78
 za 73
-Kaj 69
+Kaj 70
 mi 66
 ni 64
 glavno 64
@@ -94,8 +94,8 @@ lepo 16
 dežela 16
 težka 16
 reče 16
+V 15
 jo 15
-V 14
 Lahko 14
 veliko 14
 imajo 14
@@ -109,6 +109,7 @@ imam 13
 Zelo 13
 smo 13
 pomeni 13
+živali 13
 težek 13
 Na 12
 Jutri 12
@@ -119,7 +120,6 @@ sta 12
 Ljubim 12
 Si 12
 Vse 12
-živali 12
 špansko 12
 Prosim 11
 časa 11
@@ -543,6 +543,7 @@ sreča 4
 Šrilanka 4
 otoška 4
 inteligentne 4
+žuželke 4
 zobe 4
 temno 4
 bije 4
@@ -562,6 +563,7 @@ nasvet 3
 živeti 3
 Nasvidenje 3
 Zemlja 3
+Svoboda 3
 trenutno 3
 Slovenska 3
 Potrebujem 3
@@ -747,6 +749,7 @@ zadovoljen 3
 Lačna 3
 Rusije 3
 Švice 3
+postaja 3
 Američan 3
 Američanka 3
 Slovenec 3
@@ -788,6 +791,7 @@ Brez 3
 črka 3
 abecede 3
 pajkovci 3
+Ščurki 3
 Znaš 2
 Ujgur 2
 zelene 2
@@ -893,6 +897,7 @@ peš 2
 Moram 2
 Vreme 2
 sončno 2
+številka 2
 Kajenje 2
 prepovedano 2
 višine 2
@@ -1152,6 +1157,7 @@ Vsem 2
 Mongolije 2
 sovražnica 2
 boljši 2
+vroča 2
 daleč 2
 devet 2
 umrla 2
@@ -1187,6 +1193,7 @@ posodo 2
 Dobrodošli 2
 takšno 2
 kdo 2
+pravice 2
 bel 2
 Nizozemščina 2
 Ljubljani 2
@@ -1267,7 +1274,6 @@ Zdravo 2
 stranišče 2
 tržnica 2
 glasneje 2
-postaja 2
 lačen 2
 lesena 2
 študent 2
@@ -1276,6 +1282,7 @@ noseča 2
 Tri 2
 Mijav 2
 poklicu 2
+Juha 2
 prosta 2
 torek 2
 sreda 2
@@ -1336,7 +1343,6 @@ enakost 2
 najvišja 2
 Krokodili 2
 Pajki 2
-žuželke 2
 zanimive 2
 Bolje 2
 enaki 2
@@ -1405,6 +1411,11 @@ plus 2
 kopljejo 2
 slišim 2
 Klopi 2
+človekova 2
+pravica 2
+Šah-mat 2
+Katera 2
+nočne 2
 gospod 1
 Ogawa 1
 Francoz 1
@@ -1479,7 +1490,6 @@ manjša 1
 Sonca 1
 Vojna 1
 mir 1
-Svoboda 1
 suženjstvo 1
 Neznanje 1
 Burdž 1
@@ -1742,7 +1752,6 @@ Običajno 1
 laje 1
 Nekateri 1
 verjamejo 1
-številka 1
 prinaša 1
 nesrečo 1
 vsakem 1
@@ -2768,7 +2777,6 @@ Lastnikova 1
 razlaga 1
 jasna 1
 pogledal 1
-vroča 1
 Tiste 1
 plaže 1
 Poj 1
@@ -2970,7 +2978,6 @@ rodijo 1
 svobodni 1
 dostojanstvo 1
 enake 1
-pravice 1
 Obdarjeni 1
 razumom 1
 vestjo 1
@@ -3220,7 +3227,6 @@ Koža 1
 Tam 1
 kluč 1
 paket 1
-Juha 1
 svoboden 1
 storim 1
 deževno 1
@@ -3838,3 +3844,14 @@ pršice 1
 škorpijoni 1
 klopi 1
 pare 1
+temelnja 1
+temeljne 1
+naslednja 1
+poleta 1
+lutka 1
+ščurek 1
+imenu 1
+Očeta 1
+Sina 1
+Svetega 1
+Duha 1
