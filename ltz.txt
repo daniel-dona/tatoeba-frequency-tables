@@ -1,5 +1,5 @@
-Ech 209
-ass 197
+Ech 210
+ass 198
 du 74
 Dir 73
 net 71
@@ -7,8 +7,8 @@ an 58
 dir 53
 e 48
 Tom 47
+hunn 44
 huet 44
-hunn 43
 sinn 41
 Wéi 37
 Den 34
@@ -26,9 +26,9 @@ et 26
 Si 26
 de 26
 en 26
+keng 23
 scho 23
 mech 22
-keng 22
 den 22
 mir 21
 Wou 21
@@ -43,12 +43,12 @@ gesinn 17
 hei 16
 Du 15
 mat 15
+fir 15
 Dat 15
 Meng 15
 bass 14
 sidd 14
 Hie 14
-fir 14
 am 14
 kann 14
 wou 14
@@ -62,10 +62,10 @@ ginn 12
 hues 12
 war 12
 méi 12
+ze 12
 kee 12
 nach 11
 dräi 11
-ze 11
 vill 11
 Mann 10
 vu 10
@@ -87,6 +87,7 @@ haut 9
 mäi 8
 wéi 8
 al 8
+eis 8
 iessen 8
 weess 8
 hëllefen 8
@@ -100,7 +101,6 @@ mussen 7
 hien 7
 gëtt 7
 Papp 7
-eis 7
 véier 7
 Wie 7
 dech 7
@@ -232,6 +232,7 @@ kënns 3
 Ricardo 3
 falsch 3
 puer 3
+kleng 3
 ganz 3
 wëll 3
 Uebst 3
@@ -318,7 +319,6 @@ näischt 2
 Mary 2
 déng 2
 säin 2
-kleng 2
 spillt 2
 denger 2
 niddereg 2
@@ -476,6 +476,7 @@ d'Fräiheet 2
 19 2
 als 2
 Januar 2
+Famill 2
 Vollek 2
 donkelblo 2
 bestuet 2
@@ -1114,7 +1115,6 @@ Uerdnungszuel 1
 Periodesystem 1
 Elementer 1
 adleger 1
-Famill 1
 Frankräich 1
 Staatspresident 1
 Positioun 1
@@ -1255,3 +1255,5 @@ Och 1
 wa 1
 Laachen 1
 d'ganz 1
+D'Haus 1
+Jongen 1

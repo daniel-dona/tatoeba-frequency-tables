@@ -1,14 +1,14 @@
-Ez 218
-ra 132
+Ez 219
+ra 133
 o 115
 Tom 105
-mi 100
+mi 102
 Ma 99
 de 88
 to 86
 ma 85
-xo 81
-a 75
+xo 82
+a 76
 Tı 74
 bi 67
 ey 62
@@ -24,10 +24,10 @@ mı 42
 û 42
 Ti 42
 ez 40
-O 39
+O 40
+zaf 40
 yê 39
-zaf 39
-rê 37
+rê 38
 kerd 35
 bê 35
 u 33
@@ -110,6 +110,7 @@ derg 9
 bo 9
 weş 9
 dê 9
+wa 9
 bî 9
 înan 9
 Tomî 9
@@ -128,7 +129,6 @@ bêrê 8
 bêro 8
 Nê 8
 bena 8
-wa 8
 Madê 8
 serrî 8
 Pîyê 8
@@ -141,6 +141,7 @@ Keyeyê 8
 yena 7
 ké 7
 Şo 7
+beno 7
 yeno 7
 şıma 7
 Nıka 7
@@ -171,7 +172,6 @@ veyşan 6
 ver 6
 şıré 6
 néşena 6
-beno 6
 kar 6
 tenya 6
 rınd 6
@@ -195,6 +195,7 @@ dewa 6
 mekteb 6
 bikero 6
 hîrê 6
+Eke 6
 tena 6
 lazim 6
 xeyr 5
@@ -242,7 +243,6 @@ bikerê 5
 la 5
 kontrol 5
 ça 5
-Eke 5
 dî 5
 Kurdîstanî 5
 Her 5
@@ -748,6 +748,7 @@ keyeyî 2
 rew 2
 Cezayîr 2
 Mennad 2
+hêrs 2
 Layla 2
 nêzdî 2
 qetîyen 2
@@ -790,6 +791,7 @@ melerze 2
 Kamcîn 2
 girdêr 2
 Kamcîne 2
+goşdarîya 2
 demserra 2
 miletê 2
 Rengê 2
@@ -2042,7 +2044,6 @@ merkezanê 1
 endustrîyelan 1
 ameyo 1
 çar 1
-hêrs 1
 bîyene 1
 Bejaia/Cezayîr 1
 mêrdeyê 1
@@ -2268,7 +2269,6 @@ Tayê 1
 tayê 1
 mireno 1
 mirena 1
-goşdarîya 1
 deyîre 1
 mektebo 1
 xilna 1
@@ -2811,3 +2811,7 @@ dezayê 1
 Zagros 1
 Nermîne 1
 Zagrosî 1
+zengîn 1
+danê 1
+ereba 1
+biherînê 1

@@ -1,12 +1,12 @@
 yn 553
 i 339
-Mae 281
+Mae 282
 y 195
-Dw 182
-i'n 172
+Dw 183
+i'n 173
 Tom 165
+o 115
 ddim 114
-o 114
 ei 93
 ar 86
 hoffi 79
@@ -67,10 +67,10 @@ Dych 21
 dw 21
 dim 21
 rhaid 21
+yfed 21
 mae'r 20
-yfed 20
+o'n 20
 o'r 19
-o'n 19
 da 19
 mae 19
 Cymraeg 19
@@ -111,6 +111,7 @@ Ydy 14
 Dywedodd 14
 dych 13
 ein 13
+prynu 13
 gwisgo 13
 yng 12
 heddiw 12
@@ -121,7 +122,6 @@ dweud 12
 astudio 12
 Rydw 12
 Dwi 12
-prynu 12
 ydych 12
 Sut 11
 Diolch 11
@@ -171,6 +171,7 @@ eto 9
 waith 9
 cartref 9
 swydd 9
+dŵr 9
 plant 9
 nawr 9
 Bydd 9
@@ -194,8 +195,8 @@ dydd 8
 adre 8
 hwyr 8
 Pam 8
+brynu 8
 bwrdd 8
-dŵr 8
 Layla 8
 hun 8
 Mae’n 8
@@ -213,7 +214,6 @@ ac 7
 parc 7
 lyfrau 7
 gadael 7
-brynu 7
 drws 7
 at 7
 Dim 7
@@ -376,6 +376,7 @@ gwrando 4
 dau 4
 eira 4
 gyda'i 4
+het 4
 selsig 4
 Da 4
 pryd 4
@@ -530,6 +531,7 @@ faint 3
 wahanol 3
 eraill 3
 Llongyfarchiadau 3
+Gwnaeth 3
 adael 3
 Daeth 3
 tipyn 3
@@ -748,7 +750,6 @@ rhwng 2
 pentref 2
 nhad 2
 cofio 2
-het 2
 pobl 2
 honni 2
 theatr 2
@@ -807,7 +808,6 @@ Wnes 2
 diwetha 2
 ceffyl 2
 roedd 2
-Gwnaeth 2
 gwisg 2
 jîns 2
 Bydda 2

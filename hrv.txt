@@ -13,7 +13,7 @@ mi 209
 Ne 192
 to 187
 za 167
-si 164
+si 165
 što 164
 nije 158
 On 149
@@ -60,10 +60,10 @@ svoj 46
 bila 46
 vrijeme 45
 kao 45
+Kako 44
 on 44
 Koliko 44
 nešto 44
-Kako 43
 jako 43
 samo 43
 dan 42
@@ -429,6 +429,7 @@ vlak 9
 znaš 9
 sina 9
 mog 9
+plivati 9
 snijeg 9
 pitati 9
 sretan 9
@@ -460,6 +461,7 @@ imamo 9
 Mnogo 9
 jednog 9
 tenis 9
+ove 9
 Moje 8
 mačka 8
 pas 8
@@ -488,7 +490,6 @@ ovoj 8
 moju 8
 Uskoro 8
 naučiti 8
-plivati 8
 Došao 8
 telefon 8
 Idem 8
@@ -519,7 +520,6 @@ moraš 8
 Jeste 8
 naslikao 8
 nemam 8
-ove 8
 ubiti 8
 plažu 8
 onaj 8
@@ -877,6 +877,7 @@ Tome 5
 Kakva 5
 dokaz 5
 cijelo 5
+naučio 5
 čitam 5
 paket 5
 plavo 5
@@ -1177,7 +1178,6 @@ odlučio 4
 pištolj 4
 Sad 4
 Rekla 4
-naučio 4
 dušu 4
 Sokrat 4
 Žohari 4
@@ -2152,6 +2152,7 @@ tijelom 2
 gotova 2
 Držala 2
 banku 2
+upute 2
 povezano 2
 jeftinije 2
 iako 2
@@ -2826,6 +2827,7 @@ jedeš 2
 kreveta 2
 Izvolite 2
 zainteresiranim 2
+Pažljivo 2
 susjeda 2
 usrećim 2
 Učinila 2
@@ -4292,7 +4294,6 @@ kreći 1
 uzimate 1
 pratite 1
 otisnute 1
-upute 1
 bočici 1
 time 1
 Trebat 1
@@ -7897,7 +7898,6 @@ Provjeri 1
 glupa 1
 Glupa 1
 Glupi 1
-Pažljivo 1
 slušaj 1
 savršen 1
 pjevaš 1
@@ -8222,3 +8222,4 @@ Oca 1
 Sina 1
 Svetoga 1
 Duha 1
+pročitajte 1

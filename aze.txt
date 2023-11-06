@@ -4,12 +4,12 @@ Tom 404
 Bu 349
 var 251
 bir 216
-nə 179
+nə 181
 çox 169
 Biz 153
 ki 135
 idi 126
-Sən 123
+Sən 125
 Mənim 118
 və 113
 deyil 111
@@ -37,8 +37,8 @@ Sənin 53
 Bir 53
 gün 50
 haqqında 48
+gəlir 48
 Mənə 47
-gəlir 46
 bilirəm 45
 üç 44
 iki 42
@@ -143,6 +143,7 @@ etməyə 18
 qulaq 18
 saat 18
 sizə 18
+su 18
 çoxlu 18
 İsa 18
 həftə 17
@@ -155,7 +156,6 @@ gecə 17
 danışır 17
 başqa 17
 dilini 17
-su 17
 on 16
 bilərəm 16
 əvvəl 16
@@ -176,10 +176,12 @@ Məncə 15
 et 15
 oldu 15
 Sənə 15
+adam 15
 xoşbəxt 15
 olar 15
 sizi 15
 verdi 15
+bizə 15
 Yaponiyaya 15
 tək 15
 Sami 15
@@ -200,10 +202,8 @@ yaşayırıq 13
 geri 13
 ya 13
 istəyirsən 13
-adam 13
 kəs 13
 istərdim 13
-bizə 13
 qan 13
 pis 12
 lüğət 12
@@ -304,6 +304,7 @@ fransızca 9
 ehtiyacı 9
 kimin 9
 xoşum 9
+gəlmir 9
 Müharibə 9
 gedib 9
 yola 9
@@ -357,7 +358,6 @@ işləyir 8
 qırmızıdır 8
 Yaponiyada 8
 bizi 8
-gəlmir 8
 davam 8
 biraz 8
 Şimali 8
@@ -381,6 +381,7 @@ oxumaq 7
 tennis 7
 adlanır 7
 bilərsiniz 7
+sarı 7
 tanış 7
 idin 7
 Çay 7
@@ -404,6 +405,7 @@ bilmədim 7
 kişi 7
 İngilis 7
 təmizdir 7
+yemək 7
 mənimlə 7
 ne 7
 Bostonda 7
@@ -452,6 +454,7 @@ pişikləri 7
 Avstraliyanı 7
 Avstraliyaya 7
 Sizi 7
+xoşlayırsan 7
 Nyu-Yorkda 7
 kahı 7
 Tom-un 7
@@ -496,7 +499,6 @@ Ana 6
 müqəddəs 6
 gözəldir 6
 oğlu 6
-yemək 6
 vacibdir 6
 edirsən 6
 axşam 6
@@ -590,7 +592,6 @@ anam 5
 altında 5
 görürəm 5
 məşğuldur 5
-sarı 5
 Onunla 5
 öyrənmək 5
 stol 5
@@ -930,7 +931,6 @@ evi 4
 açılır 4
 Yerə 4
 gözləri 4
-xoşlayırsan 4
 işləyirəm 4
 əla 4
 sarıdır 4
@@ -961,6 +961,7 @@ kofe 4
 barəsində 4
 olaraq 4
 tam 4
+xoşlamıram 4
 Mary-nin 4
 дејиләм 4
 almalıyam 4
@@ -1365,7 +1366,6 @@ Kofe 3
 fikirləşirsən 3
 qısaca 3
 Soğanı 3
-xoşlamıram 3
 duz 3
 qalıb 3
 duzladı 3
@@ -1545,6 +1545,7 @@ hərfi 2
 dayandırdın 2
 bişirirsən 2
 bişirsiniz 2
+Süd 2
 içirəm 2
 unutma 2
 tapşırığını 2
@@ -2186,6 +2187,7 @@ dəyişə 2
 dilimdir 2
 Tələs 2
 anasıdır 2
+İsti 2
 sözünün 2
 qısadır 2
 danışaram 2
@@ -2464,6 +2466,8 @@ qəzəbləndirməkdən 2
 sırf 2
 tərcüməni 2
 tapmağıma 2
+Axtardığınız 2
+Axtardığın 2
 xanımlar 1
 vә 1
 cәnablar 1
@@ -2982,7 +2986,6 @@ sovetoloq 1
 Binanı 1
 tapdım 1
 bişir 1
-Süd 1
 bişirlər 1
 konsertə 1
 gələcəksənmi 1
@@ -5506,7 +5509,6 @@ planetdə 1
 deyim 1
 Təkrar 1
 biliyin 1
-İsti 1
 dostudur 1
 ateistdir 1
 Əllər 1
@@ -7668,9 +7670,10 @@ kənddədir 1
 Müğənni 1
 oxuyubsan 1
 oxumusan 1
-Axtardığınız 1
-Axtardığın 1
 mərkəzinə 1
 Subay 1
 subayam 1
 subay 1
+Meyvə 1
+xoşlamırsan 1
+Yağlı 1
