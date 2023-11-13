@@ -1,5 +1,5 @@
-je 941
-Ali 222
+je 943
+Ali 224
 sem 161
 se 160
 v 147
@@ -47,7 +47,7 @@ govorim 31
 dan 30
 Ona 30
 Kdo 28
-ti 27
+ti 28
 Zakaj 27
 po 27
 Je 25
@@ -135,6 +135,7 @@ mora 11
 Ti 11
 prav 11
 Bil 11
+všeč 11
 A 11
 kitajsko 11
 o 10
@@ -167,7 +168,6 @@ nekaj 9
 tri 9
 prijatelj 9
 tudi 9
-všeč 9
 hvala 9
 brat 9
 dve 8
@@ -225,6 +225,7 @@ učitelj 7
 Imaš 7
 obožujejo 7
 zasebna 7
+vam 6
 Všeč 6
 Ena 6
 mizi 6
@@ -271,7 +272,6 @@ Uči 6
 barva 6
 Da 5
 eno 5
-vam 5
 treba 5
 roke 5
 leta 5
@@ -1417,6 +1417,7 @@ pravica 2
 Šah-mat 2
 Katera 2
 nočne 2
+nogomet 2
 gospod 1
 Ogawa 1
 Francoz 1

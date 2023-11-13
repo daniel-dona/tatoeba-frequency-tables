@@ -6,9 +6,9 @@ ta 31
 ka 25
 ya 21
 somo 20
+pirka 20
 tanpe 19
 kusu 19
-pirka 19
 as 19
 yan 18
 Tom 17
@@ -25,12 +25,12 @@ tan 11
 rusuy 11
 hemanta 10
 sekor 10
+na 10
 nisatta 10
 un 10
 aynu 10
 rera 10
 toanpe 9
-na 9
 itak 9
 hawe 9
 toan 8
@@ -102,6 +102,7 @@ eani 3
 he 3
 isacise 3
 inanike 3
+eci-kore 3
 apunno 3
 suy 3
 "e-iwanke 3
@@ -130,7 +131,6 @@ e-hok 3
 ヤ？ 2
 ku-ne 2
 Niptay 2
-eci-kore 2
 k-eraman 2
 iyayraykere 2
 ku-sak 2
@@ -460,3 +460,4 @@ nepki 1
 yaymonniska 1
 okake 1
 kanna 1
+hike 1

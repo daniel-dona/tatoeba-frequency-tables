@@ -1,17 +1,17 @@
-es 289
-Tom 167
-un 148
+es 290
+Tom 169
+un 149
 El 113
+de 101
 la 100
-de 100
-el 97
+el 99
 en 92
 No 92
-no 88
+no 89
 esta 79
 איס 73
 una 71
-a 69
+a 70
 La 58
 Los 57
 son 52
@@ -24,7 +24,7 @@ ke 38
 pan 38
 i 36
 mi 35
-So 33
+So 34
 און 32
 Mi 32
 esto 31
@@ -77,6 +77,7 @@ puerta 14
 mas 13
 yamo 13
 Son 13
+padre 13
 estan 13
 djudia 13
 איסטה 13
@@ -88,7 +89,6 @@ le 12
 vos 12
 portokal 12
 ayi 12
-padre 12
 York 12
 Ke 12
 סון 12
@@ -168,6 +168,7 @@ Ma 7
 todo 7
 mate 7
 avlash 7
+Este 7
 abandono 7
 Tenemos 7
 lashon 7
@@ -190,7 +191,6 @@ Avla 6
 Grasias 6
 Mersi 6
 ermoza 6
-Este 6
 alegre 6
 personas 6
 madjar 6
@@ -247,6 +247,7 @@ ermozo 5
 siempre 5
 kastilyano 5
 טייני 5
+kave 5
 yo 5
 Tiene 5
 לינגואס 5
@@ -295,7 +296,6 @@ sefaradi 4
 intelijente 4
 אמביזאנדו 4
 munchas 4
-kave 4
 alkunya 4
 estas 4
 Avre 4
@@ -457,6 +457,7 @@ Gresia 3
 אירה 3
 קאביל 3
 ashkenazi 3
+aze 3
 meldando 3
 פלאזי 3
 מילדאנדו 3
@@ -730,7 +731,6 @@ Epstein 2
 temani 2
 kuando 2
 governo 2
-aze 2
 Australia 2
 italiano 2
 Zamenhof 2
@@ -2199,3 +2199,8 @@ minan 1
 Shaul 1
 prima 1
 primo 1
+Embiame 1
+andjelo 1
+Jackson 1
+kontra 1
+Hamas 1

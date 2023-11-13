@@ -1,5 +1,5 @@
-yn 553
-i 339
+yn 554
+i 340
 Mae 282
 y 195
 Dw 183
@@ -15,8 +15,8 @@ hi 76
 ti 76
 ti'n 70
 a 68
+yr 68
 hi'n 67
-yr 67
 Mae'r 66
 chi 65
 fy 63
@@ -109,12 +109,12 @@ enw 14
 beth 14
 Ydy 14
 Dywedodd 14
+heddiw 13
 dych 13
 ein 13
 prynu 13
 gwisgo 13
 yng 12
-heddiw 12
 byd 12
 Paid 12
 na 12
@@ -148,6 +148,7 @@ deall 10
 hapus 10
 Doedd 10
 aros 10
+Mi 10
 Dydw 10
 yna 10
 bwyd 10
@@ -164,13 +165,13 @@ ffrind 9
 hen 9
 Peidiwch 9
 ferch 9
-Mi 9
 sy'n 9
 iddo 9
 eto 9
 waith 9
 cartref 9
 swydd 9
+brynu 9
 dŵr 9
 plant 9
 nawr 9
@@ -195,7 +196,6 @@ dydd 8
 adre 8
 hwyr 8
 Pam 8
-brynu 8
 bwrdd 8
 Layla 8
 hun 8
@@ -2532,3 +2532,6 @@ Gweithiwr 1
 siocled 1
 maen 1
 gadair 1
+wnes 1
+llefrith 1
+archfarchnad 1

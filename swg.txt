@@ -1,4 +1,4 @@
-isch 416
+isch 415
 I 291
 ned 214
 Tom 186
@@ -209,7 +209,6 @@ geit 11
 Wie 11
 maim 11
 Gligg 11
-glei 11
 andre 11
 Moa 11
 håd 11
@@ -229,6 +228,7 @@ beschda 10
 nur 10
 oder 10
 isch's 10
+glei 10
 Schwoba 10
 d'r 10
 Zeit 10
@@ -964,7 +964,6 @@ Feldweg 2
 Drhoim 2
 scheenschda 2
 - 2
-Bleed 2
 Kuah 2
 Milch 2
 uffheba 2
@@ -1512,6 +1511,7 @@ Liedle 2
 schelld 2
 Beruf 2
 Gaardä 2
+Spirk 2
 Ronder 1
 Loider 1
 Gell 1
@@ -1824,6 +1824,7 @@ iohr 1
 vorm 1
 Essa“ 1
 kocha“ 1
+Bleed 1
 schwarza 1
 weissa 1
 verschiddats 1
@@ -2377,7 +2378,6 @@ Weddr 1
 Musch's 1
 geniessa 1
 zagg 1
-gschwätzd 1
 Gscheider 1
 Domma 1
 lerna 1

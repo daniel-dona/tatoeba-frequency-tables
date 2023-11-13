@@ -2,14 +2,14 @@ do 3255
 zou 1175
 di 953
 no 888
-i 783
+i 784
 Tom 692
 ko 632
 ku 627
 o 579
-id 460
+id 461
 nu 433
-nopo 411
+nopo 412
 Au 408
 doid 393
 om 359
@@ -95,16 +95,16 @@ Nokuo 47
 Noikot 46
 tu' 46
 kusai 45
+pogun 45
 mangakan 45
 Nung 45
 miaga 45
 dioho 44
-pogun 44
 suvab 44
 hobi 44
 tanak 43
+tagazo 43
 iso 42
-tagazo 42
 kivaa 41
 duvo 39
 daamin 39
@@ -215,6 +215,7 @@ kinoizonon 20
 zapa 20
 Tadau 20
 guminavo 20
+Sina 19
 apatut 19
 ingkuo 19
 Id 19
@@ -228,7 +229,6 @@ za 19
 kaanto 19
 habus 18
 Minsingiho 18
-Sina 18
 kavasa 18
 sodop 18
 kokito 18
@@ -1840,6 +1840,7 @@ panjala 2
 sontoun 2
 basug 2
 tumolipoun 2
+bouvang 2
 minamatai 2
 hindusu 2
 Pakazo 2
@@ -3375,7 +3376,6 @@ Nokointong 1
 Okitaan 1
 pokupion 1
 mangandad 1
-bouvang 1
 Pomohoovon 1
 "España" 1
 monoonokot 1
@@ -6604,3 +6604,5 @@ mamagais 1
 Guhio 1
 ogingo 1
 taupan 1
+Izonon 1
+panda 1

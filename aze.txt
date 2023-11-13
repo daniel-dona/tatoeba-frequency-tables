@@ -117,13 +117,13 @@ məktəbə 21
 Bunu 21
 danışa 21
 Heç 21
+deyildi 21
 başladı 21
 Mary 21
 belə 20
 bütün 20
 etmək 20
 istəyir 20
-deyildi 20
 Onların 20
 qədərdir 20
 gəldi 20
@@ -345,6 +345,7 @@ hamı 8
 Evə 8
 aldım 8
 tərk 8
+olmayacaq 8
 etdim 8
 Hamı 8
 Hara 8
@@ -418,7 +419,6 @@ mənimdir 7
 etmir 7
 cavan 7
 kimdir 7
-olmayacaq 7
 çəkdi 7
 məşğul 7
 tez-tez 7
@@ -567,6 +567,7 @@ müharibə 6
 Günəş 6
 Məktəb 6
 ana 6
+qorxmuram 6
 Duz 6
 uşaqlar 6
 ağacı 6
@@ -704,7 +705,6 @@ gözlərini 5
 alman 5
 səsini 5
 olacam 5
-qorxmuram 5
 edəcək 5
 Payız 5
 qalib 5
@@ -1365,6 +1365,7 @@ dini 3
 Kofe 3
 fikirləşirsən 3
 qısaca 3
+asandır 3
 Soğanı 3
 duz 3
 qalıb 3
@@ -2372,7 +2373,6 @@ danışıldığını 2
 qızla 2
 həyatdır 2
 pəncərədir 2
-asandır 2
 Yerusəlim 2
 xiyar 2
 soğandan 2
@@ -2468,6 +2468,8 @@ tərcüməni 2
 tapmağıma 2
 Axtardığınız 2
 Axtardığın 2
+Asan 2
+Asanlıqla 2
 xanımlar 1
 vә 1
 cәnablar 1
@@ -7677,3 +7679,8 @@ subay 1
 Meyvə 1
 xoşlamırsan 1
 Yağlı 1
+Kağız 1
+asanlıqla 1
+yanır 1
+Üzmək 1
+əylənirəm 1
