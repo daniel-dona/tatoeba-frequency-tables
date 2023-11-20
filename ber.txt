@@ -1,9 +1,9 @@
 ad 179749
-n 147610
-d 109344
+n 147609
+d 109346
 ara 89765
 ay 71470
-i 58617
+i 58619
 deg 56037
 Ur 52072
 ur 47858
@@ -14,7 +14,7 @@ asegzawal 39616
 s 26930
 Ad 26862
 Maɣef 17684
-D 17493
+D 17494
 Ziri 15401
 yella 15341
 seg 13912
@@ -50,7 +50,7 @@ ayen 5775
  5668
 mi 5605
 yiwet 5527
-tidet 5301
+tidet 5300
 Zzayer 5293
 d-aɣen 5225
 llin 5183
@@ -182,7 +182,7 @@ Yamina 1859
 Zwina 1850
 lḥal 1846
 Tzemremt 1844
-mačči 1842
+mačči 1843
 Wnisa 1841
 Nabila 1832
 Nayla 1832
@@ -240,7 +240,7 @@ Aṭas 1433
 dima 1427
 sɛan 1422
 Tellid 1419
-maci 1415
+maci 1416
 aman 1406
 azekka 1402
 Ẓriɣ 1397
@@ -508,7 +508,7 @@ Tlid 651
 yid-sen 650
 wacḥal 649
 swaswa 648
-Wa 646
+Wa 647
 as-d-taɣ 645
 Riɣ 644
 qrib 643
@@ -4123,7 +4123,6 @@ aydi-nnes 82
 tettnadimt 82
 tessinem 82
 tesɛim 82
-icenga 82
 mmeslayeɣ 82
 ẓrant 82
 yaf 82
@@ -4160,6 +4159,7 @@ Yettu 81
 tiṭṭawin-nnem 81
 Nudaɣ 81
 taqendurt-nni 81
+icenga 81
 ttnadint 81
 tawḍed 81
 uselkim-inu 81
@@ -8582,6 +8582,7 @@ ussewwi 31
 Aduktur 31
 tessuter 31
 tkukiyin 31
+leɛyaḍ 31
 lseɣ 31
 tazurant 31
 leḥsab-inu 31
@@ -9045,7 +9046,6 @@ Bezzaf 29
 nettɛeḍḍil 29
 akeddab 29
 akud-nnes 29
-leɛyaḍ 29
 tettawḍeḍ 29
 Nessaweḍ 29
 ulufan-nni 29

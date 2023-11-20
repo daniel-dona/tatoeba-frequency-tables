@@ -1,20 +1,20 @@
-on 1386
+on 1389
 Ma 886
 ei 715
-Tom 581
+Tom 582
 sa 415
 Kas 407
-et 318
-Ta 317
+et 319
+Ta 318
 See 267
-ma 212
+ma 213
 seda 200
-oma 184
+oma 185
 see 174
 oli 155
 ja 148
 ole 143
-ta 141
+ta 142
 Sa 137
 olen 133
 Mul 130
@@ -51,7 +51,7 @@ nii 62
 Mida 62
 Kus 61
 hea 59
-Mary 58
+Mary 59
 Kes 57
 Mu 57
 sinu 54
@@ -75,6 +75,7 @@ pean 41
 ütles 40
 talle 39
 tagasi 39
+Tomil 39
 Kuidas 38
 Ära 38
 kaks 38
@@ -83,7 +84,6 @@ tema 37
 täna 37
 tahab 37
 koer 37
-Tomil 37
 nad 36
 prantsuse 36
 koju 35
@@ -94,6 +94,7 @@ aru 33
 hästi 33
 eile 33
 räägi 33
+maja 33
 ilus 33
 teda 33
 inglise 33
@@ -104,7 +105,6 @@ sellest 32
 raha 32
 keegi 32
 olla 32
-maja 32
 räägid 32
 Tema 31
 üle 31
@@ -118,6 +118,7 @@ Olen 29
 siis 28
 mitte 28
 teie 28
+armastan 28
 nüüd 28
 homme 28
 seal 28
@@ -125,32 +126,31 @@ arvan 28
 minema 28
 meie 27
 Tere 27
-armastan 27
 tegema 27
 mul 27
 nagu 27
 koos 27
+suur 27
 kolm 27
+rohkem 27
 sõber 27
 ainult 26
-suur 26
-rohkem 26
 eest 25
 pärast 25
 või 25
 enam 25
 ka 24
 läheb 24
+Mina 24
 tahad 24
 meeldi 24
+oleks 23
 kodus 23
 juba 23
 tead 23
 süüa 23
-Mina 23
 Koer 23
 õppida 23
-oleks 22
 läks 22
 tegi 22
 peale 22
@@ -275,6 +275,7 @@ kaasa 13
 inimene 13
 nimi 13
 maha 13
+mees 13
 kõike 13
 ukse 13
 Ja 13
@@ -285,6 +286,7 @@ vanem 13
 korda 13
 juhtus 13
 ennast 13
+kass 13
 nägin 13
 võib 13
 näha 13
@@ -302,7 +304,6 @@ Meie 12
 teadnud 12
 kedagi 12
 Sinu 12
-mees 12
 alla 12
 need 12
 uue 12
@@ -312,7 +313,6 @@ On 12
 kooli 12
 asub 12
 rääkinud 12
-kass 12
 saad 12
 tihti 12
 päris 12
@@ -367,6 +367,7 @@ tuba 10
 sama 10
 ette 10
 sisse 10
+valge 10
 oleksin 10
 õnnelik 10
 olin 10
@@ -406,7 +407,6 @@ vihma 9
 piisavalt 9
 Vabandust 9
 jääda 9
-valge 9
 sõbrad 9
 huvitav 9
 eesti 9
@@ -575,6 +575,7 @@ punane 6
 näed 6
 järgmisel 6
 väärt 6
+söönud 6
 laulja 6
 Homme 6
 edasi 6
@@ -682,7 +683,6 @@ kuul 5
 seitse 5
 kaheksa 5
 üheksa 5
-söönud 5
 keelest 5
 maailm 5
 jalgratas 5
@@ -852,6 +852,7 @@ ilusad 4
 abiellus 4
 selgelt 4
 tappis 4
+loen 4
 Prantsusmaa 4
 seisis 4
 naeratas 4
@@ -957,6 +958,7 @@ maailmas 4
 lõi 4
 peaaegu 4
 suudan 4
+soovib 4
 terve 4
 vajame 4
 alt 4
@@ -1053,6 +1055,7 @@ kahe 3
 Tuul 3
 teete 3
 arvamus 3
+Tuleb 3
 Sain 3
 Pea 3
 tähendab 3
@@ -1092,7 +1095,6 @@ poja 3
 võita 3
 lugenud 3
 Euroopa 3
-loen 3
 kõigile 3
 tõusnud 3
 lootustandev 3
@@ -1162,6 +1164,7 @@ lauda 3
 lill 3
 kauneim 3
 Johni 3
+keda 3
 armasta 3
 põhjus 3
 ebaviisakas 3
@@ -1271,7 +1274,6 @@ vist 3
 Poisid 3
 mõnikord 3
 Mariga 3
-soovib 3
 kolmsada 3
 hiina 3
 kuulanud 3
@@ -1386,6 +1388,7 @@ juuksed 3
 Tokyos 3
 prillid 3
 kooki 3
+ilmselt 3
 laua 3
 kasti 3
 rivi 3
@@ -1475,7 +1478,6 @@ mägedes 2
 muretse 2
 meelde 2
 Jõe 2
-Tuleb 2
 pakk 2
 paberit 2
 Eestis 2
@@ -1652,7 +1654,6 @@ kahele 2
 Mesilased 2
 Armastus 2
 Marit 2
-keda 2
 noorena 2
 edukas 2
 Peaaegu 2
@@ -1926,6 +1927,7 @@ Postkontor 2
 vannita 2
 toolil 2
 kõndisin 2
+tagurpidi 2
 eemale 2
 aadress 2
 millest 2
@@ -2156,7 +2158,6 @@ ehitati 2
 varastati 2
 vaadanud 2
 huvitavat 2
-ilmselt 2
 surmani 2
 tõmbas 2
 lastele 2
@@ -2278,6 +2279,7 @@ lugesin 2
 romaane 2
 kavatse 2
 müüa 2
+särgi 2
 kohal 2
 Kala 2
 naeris 2
@@ -2301,6 +2303,7 @@ Maapind 2
 pehme 2
 kalu 2
 Layla 2
+pööras 2
 töölt 2
 pensionile 2
 kutsuti 2
@@ -3996,7 +3999,6 @@ nokad 1
 koobas 1
 nahkhiiri 1
 õlle 1
-tagurpidi 1
 asjadest 1
 arusaamine 1
 seisab 1
@@ -5669,7 +5671,6 @@ laulaksid 1
 17 1
 Poistest 1
 tüdrukutest 1
-särgi 1
 oskaks 1
 Kaheksateist 1
 lahing 1
@@ -5990,7 +5991,6 @@ veedan 1
 jagavad 1
 tuleksid 1
 lõunani 1
-pööras 1
 Fadil 1
 Daniat 1
 ilusaks 1
@@ -6366,3 +6366,5 @@ Thbilisi 1
 Gruusia 1
 katus 1
 lekib 1
+talv 1
+hommikuks 1

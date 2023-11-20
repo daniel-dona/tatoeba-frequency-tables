@@ -1,11 +1,11 @@
 is 264
 Ich 221
 en 151
-Tom 125
+Tom 127
 hod 101
 net 98
+hon 82
 die 81
-hon 81
 Das 80
 sin 67
 de 67
@@ -37,26 +37,26 @@ do 24
 noch 23
 zu 23
 Glick 23
+Mein 22
 Was 22
 dein 22
 grien 22
 fer 21
 deer 21
 will 21
-Mein 20
 uff 20
 mich 20
 gern 19
 esse 19
 dich 19
 Waromm 18
+fun 17
 Do 17
 aam 17
 ab 16
 schun 16
 mein 15
 gehn 15
-fun 15
 Wo 15
 Hallebnacht 15
 meh 15
@@ -78,6 +78,7 @@ schaffe 11
 nore 11
 etwas 11
 heit 11
+dem 11
 Wer 11
 muss 11
 Aanfang 11
@@ -101,7 +102,6 @@ im 9
 doch 9
 Aarvet 9
 dass 9
-dem 9
 gesihn 9
 mache 9
 Loch 9
@@ -280,6 +280,7 @@ drehd 4
 bereie 4
 Fiel 4
 jede 4
+Hunn 4
 Jetz 4
 oft 4
 Kind 4
@@ -487,6 +488,7 @@ hod-der 2
 heesd 2
 beim 2
 ëxistierd 2
+dodgemach 2
 liebd 2
 glaave 2
 gestorreb 2
@@ -563,6 +565,7 @@ Seite 2
 Teekann 2
 laafd 2
 Is-es 2
+kaputtgemach 2
 Laade 2
 scheener 2
 Äerdbeere 2
@@ -614,7 +617,6 @@ Rodrieb 2
 dun-se 2
 aushellfe 2
 eppes 2
-Hunn 2
 Schnee 2
 Wees 2
 defun 2
@@ -643,6 +645,9 @@ wäär 2
 Danke 2
 sin-ich 2
 uffgestieh 2
+enn 2
+seine 2
+Katze 2
 nunnergeschmiss 1
 zieh-ich 1
 schlofd 1
@@ -828,7 +833,6 @@ eherlich 1
 Hellefst-du 1
 Iwersetze 1
 ferbodd 1
-dodgemach 1
 Natuer 1
 iwerall 1
 Denk 1
@@ -1050,7 +1054,6 @@ Werklich 1
 Neechst 1
 Insekte 1
 kaputtgeschlaa 1
-kaputtgemach 1
 gepickd 1
 sogaar 1
 Griecheland 1
@@ -1487,3 +1490,4 @@ wal-mer 1
 scheise 1
 Muss-ich 1
 spaare 1
+honn 1

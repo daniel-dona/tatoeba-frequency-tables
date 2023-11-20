@@ -1,4 +1,4 @@
-Tom 1161
+Tom 1163
 Men 876
 Ol 490
 bilen 438
@@ -10,9 +10,9 @@ bir 218
 näme 213
 gowy 199
 bu 193
+hiç 190
 ol 189
 ony 189
-hiç 189
 däl 183
 Mery 180
 Meri 176
@@ -70,10 +70,10 @@ Tomy 56
 nähili 52
 nirede 49
 näçe 49
+kim 48
 seniñ 48
 adam 47
 Seniň 47
-kim 47
 üç 47
 gezek 47
 geldi 47
@@ -109,10 +109,10 @@ biziň 36
 Eger 36
 etdim 36
 umyt 36
+Muny 36
 bolsa 36
 siziň 35
 Ony 35
-Muny 35
 bilmedi 35
 ýöne 35
 alyp 35
@@ -146,11 +146,11 @@ bäri 29
 iş 29
 bol 29
 has 29
+öň 29
 özi 29
 ýeke 29
 biri 29
 Haýyş 29
-öň 28
 emma 28
 indi 28
 ýyl 28
@@ -190,14 +190,15 @@ iň 23
 fransuzça 23
 gidip 23
 bolan 23
+Fransuzça 23
 bärde 23
 edýär 23
 däldir 23
 gije 23
 sagat 22
 çenli 22
-Fransuzça 22
 howa 22
+bolmak 22
 bardy 22
 etmegi 22
 täze 22
@@ -216,7 +217,6 @@ size 20
 kyn 20
 bizi 20
 geçen 20
-bolmak 20
 birnäçe 20
 däldigini 20
 zatlar 20
@@ -281,6 +281,7 @@ isleýän 15
 boluň 15
 Täze 15
 ýa 15
+ýaş 15
 otyr 15
 barýar 15
 başlady 15
@@ -317,13 +318,13 @@ göz 14
 Iňlisçe 13
 gyzykly 13
 ýaşaýar 13
-ýaş 13
 nahar 13
 Biziň 13
 adatça 13
 bagtly 13
 täzeden 13
 bolmagy 13
+gürläp 13
 birini 13
 gidýär 13
 bärik 13
@@ -355,7 +356,6 @@ islämok 12
 almak 12
 goý 12
 çalt 12
-gürläp 12
 çilim 12
 Bular 12
 bardyr 12
@@ -398,6 +398,7 @@ mümkin 11
 özümi 11
 dur 11
 etdiler 11
+wagty 11
 edenok 11
 zadym 11
 fransuz 11
@@ -409,6 +410,7 @@ kimi 11
 hatda 11
 minut 11
 Biziñ 11
+bilerinmi 11
 Seni 11
 bilýäñmi 11
 gitjekmi 10
@@ -421,6 +423,7 @@ zada 10
 işe 10
 taýýar 10
 Howa 10
+wagtynda 10
 doglan 10
 bolaryn 10
 dilinde 10
@@ -433,7 +436,6 @@ boljakdygyny 10
 Bize 10
 gyzy 10
 bilmeýär 10
-wagty 10
 aýdyň 10
 görmedim 10
 getirip 10
@@ -455,7 +457,6 @@ dünýä 10
 aýtdym 10
 sapar 10
 Ertir 10
-bilerinmi 10
 Meriniñ 10
 ýalñyş 10
 kime 10
@@ -475,7 +476,6 @@ Oňa 9
 aýtmaly 9
 halaýaryn 9
 bilenokdy 9
-wagtynda 9
 ýekeje 9
 Olara 9
 bolmady 9
@@ -1000,6 +1000,7 @@ bolýarlar 5
 başagaý 5
 tomaşa 5
 bolmazdan 5
+isleýärdi 5
 özünden 5
 puluny 5
 meñzänok 5
@@ -1708,7 +1709,6 @@ etmezligi 3
 Awstraliýadaky 3
 nämedigini 3
 bedeni 3
-isleýärdi 3
 çalyşmak 3
 etdirdi 3
 boljagyny 3
@@ -3324,6 +3324,7 @@ Gapylaryň 2
 gitmändir 2
 Gözleýän 2
 tapmagyma 2
+kosmonawt 2
 Asmanda 1
 petreşip 1
 Är-aýalyň 1
@@ -9997,4 +9998,3 @@ Ulaglar 1
 howany 1
 hapalaýarlar 1
 nämeleriñ 1
-Ulagyñda 1

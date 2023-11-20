@@ -1,11 +1,11 @@
 lo 12585
 mi 5924
-cu 3366
+cu 3367
 do 3334
-la 2585
+la 2586
 pu 2275
 nu 2116
-le 2043
+le 2044
 se 1883
 na 1597
 be 1319
@@ -1934,6 +1934,7 @@ memimoi 3
 lu'i 3
 skori 3
 ctile 3
+mexygu'e 3
 ki'esai 3
 farcri 3
 claselxadni 3
@@ -2005,6 +2006,7 @@ caxmati 3
 angeli 3
 parbi 3
 xasli 3
+flaselgu'e 3
 falo 3
 djunguos 3
 pengau 3
@@ -2352,7 +2354,6 @@ jegvo 2
 oipei 2
 nalzva 2
 bakri 2
-mexygu'e 2
 laesperanton 2
 spe'ato 2
 baurnuludu 2
@@ -2477,7 +2478,6 @@ meryru'u 2
 jborupnu 2
 paRIS 2
 crakla 2
-flaselgu'e 2
 gugdefuru 2
 felo 2
 cticinza 2
@@ -6498,3 +6498,4 @@ tcalz 1
 kail 1
 plajda 1
 mafcre 1
+xuan 1

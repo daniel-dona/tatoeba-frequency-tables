@@ -5,11 +5,11 @@ en 2518
 de 2480
 nich 1947
 du 1691
-hett 1603
+hett 1604
 He 1473
 in 1454
 De 1401
-to 1324
+to 1325
 Dat 1276
 heff 1258
 ik 1232
@@ -28,7 +28,7 @@ na 639
 mien 618
 Tom 609
 sünd 607
-wat 546
+wat 547
 weer 530
 he 520
 Wi 519
@@ -48,7 +48,7 @@ ut 418
 se 400
 so 399
 dor 398
-sik 368
+sik 369
 een 359
 dien 358
 noch 351
@@ -106,10 +106,10 @@ gifft 161
 dree 160
 all 155
 In 155
+eten 155
 Ria 155
 Lüüd 154
 wull 154
-eten 154
 dit 152
 Hund 151
 nu 150
@@ -131,7 +131,7 @@ mag 130
 kunn 127
 allens 126
 groot 125
-köfft 123
+köfft 124
 Woveel 121
 oder 119
 Water 118
@@ -913,6 +913,7 @@ stimmt 15
 leevste 15
 hungerig 15
 wannehr 15
+Maria 14
 Strand 14
 övertügen 14
 verkloren 14
@@ -971,7 +972,6 @@ Breef 14
 mookt 14
 Düsse 13
 - 13
-Maria 13
 Steern 13
 Russ’sch 13
 Johren 13
