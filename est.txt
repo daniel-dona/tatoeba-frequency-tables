@@ -5,7 +5,7 @@ Tom 582
 sa 415
 Kas 407
 et 319
-Ta 318
+Ta 319
 See 267
 ma 213
 seda 200
@@ -18,7 +18,7 @@ ta 142
 Sa 137
 olen 133
 Mul 130
-keelt 129
+keelt 130
 kui 122
 Me 122
 väga 121
@@ -28,8 +28,8 @@ mulle 97
 mind 88
 mu 85
 selle 84
+Nad 83
 midagi 82
-Nad 82
 ära 79
 minu 78
 palju 75
@@ -149,13 +149,13 @@ kodus 23
 juba 23
 tead 23
 süüa 23
+elab 23
 Koer 23
 õppida 23
 läks 22
 tegi 22
 peale 22
 parem 22
-elab 22
 siia 22
 natuke 22
 olid 21
@@ -802,6 +802,7 @@ vene 5
 koerad 5
 karu 5
 surid 5
+räägivad 5
 Aafrikas 5
 Kreekas 5
 Tõenäoliselt 5
@@ -1013,7 +1014,6 @@ Türgi 4
 ukraina 4
 sündis 4
 kestab 4
-räägivad 4
 portugali 4
 Milliseid 4
 külastada 4
@@ -1170,6 +1170,7 @@ põhjus 3
 ebaviisakas 3
 Paljud 3
 tundus 3
+New 3
 suurim 3
 annad 3
 kuulab 3
@@ -1660,7 +1661,6 @@ Peaaegu 2
 välismaale 2
 fänn 2
 Lõvi 2
-New 2
 York 2
 polegi 2
 sõita 2
@@ -6368,3 +6368,5 @@ katus 1
 lekib 1
 talv 1
 hommikuks 1
+udmurdi 1
+Yorgis 1

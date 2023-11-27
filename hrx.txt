@@ -3,7 +3,7 @@ Ich 221
 en 151
 Tom 127
 hod 101
-net 98
+net 100
 hon 82
 die 81
 Das 80
@@ -23,7 +23,7 @@ un 35
 in 35
 Aadler 34
 sein 32
-Du 29
+Du 30
 aach 29
 se 29
 es 27
@@ -60,6 +60,7 @@ gehn 15
 Wo 15
 Hallebnacht 15
 meh 15
+aarich 14
 Aanfenger 14
 Äerd 14
 kann 13
@@ -71,7 +72,7 @@ Heit 12
 Host-du 12
 fiel 12
 Buch 12
-aarich 12
+aus 12
 abgebrennd 12
 Wie 11
 schaffe 11
@@ -81,6 +82,7 @@ heit 11
 dem 11
 Wer 11
 muss 11
+Deer 11
 Aanfang 11
 Abakaschi 11
 Annas 11
@@ -96,9 +98,8 @@ so 10
 immer 10
 uns 10
 dart 10
-Deer 10
-aus 10
 im 9
+Bist-du 9
 doch 9
 Aarvet 9
 dass 9
@@ -109,7 +110,6 @@ hinnich 9
 Karre 8
 spreche 8
 eich 8
-Bist-du 8
 was 8
 kommd 8
 En 8
@@ -146,9 +146,12 @@ Muskitte 7
 gesaad 7
 griene 7
 degeghe 7
+krank 7
 Daagh 6
 dehemm 6
+Seid-der 6
 Keen 6
+gud 6
 acht 6
 dud 6
 drinke 6
@@ -177,13 +180,13 @@ Advogaat 6
 Wasser 6
 saad 6
 werd 6
+sihd 6
 Braud 6
 Planz 6
 Ransch 6
 Fraa 5
 Unser 5
 Maria 5
-Seid-der 5
 odder 5
 sechs 5
 Zeid 5
@@ -214,14 +217,11 @@ Affe 5
 Franzeesisch 5
 als 5
 Baam 5
-sihd 5
 Eemer 5
-krank 5
 Ransche 4
 Lieb 4
 Wiffel 4
 all 4
-gud 4
 geschribb 4
 zweu 4
 finnef 4
@@ -595,6 +595,7 @@ bissje 2
 lenger 2
 drin 2
 ausgereisd 2
+sihst 2
 sies 2
 Deitsch 2
 antworte 2
@@ -1244,7 +1245,6 @@ Alarrem 1
 Zukunft 1
 Affefleisch 1
 Banann 1
-sihst 1
 gehuppsd 1
 Mensche 1
 stamme 1

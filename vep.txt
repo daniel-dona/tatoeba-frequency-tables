@@ -1,4 +1,4 @@
-om 124
+om 127
 ei 40
 Tom 40
 Minä 32
@@ -57,6 +57,7 @@ elo 5
 a 5
 nimi 5
 händast 5
+Tomal 5
 em 5
 pimed 5
 Äjak 5
@@ -65,9 +66,11 @@ lumel 5
 Togat 5
 Ken 4
 Naku 4
+kaži 4
 tämbei 4
 Hänel 4
 Kevädel 4
+vauged 4
 kanz 4
 lujas 4
 Sana 4
@@ -91,8 +94,8 @@ lapsed 4
 nainu 4
 azjad 3
 konz 3
-kaži 3
 minä 3
+pert’ 3
 tül’c 3
 Sinai 3
 hibused 3
@@ -101,7 +104,6 @@ Päiväine 3
 Kitän 3
 sinai 3
 vanhembad 3
-vauged 3
 keitai 3
 olem 3
 Minun 3
@@ -126,7 +128,6 @@ Hänen 3
 Ota 3
 školaspäi 3
 Avaida 3
-Tomal 3
 hahkad 3
 vot 3
 maidod 3
@@ -144,6 +145,7 @@ vilu 3
 vauktad 3
 Londuz 3
 joucned 3
+sur’ 3
 Vezi 3
 tagaze 2
 Tervhen 2
@@ -160,7 +162,6 @@ Mikš 2
 Sikš 2
 muga 2
 eläb 2
-pert’ 2
 kaks’žiruine 2
 Veič 2
 Meil 2
@@ -274,7 +275,7 @@ maksab 2
 adivoihe 2
 koumekümne 2
 öd 2
-sur’ 2
+pälidn 2
 pertin 2
 pit’k 2
 hahk 2
@@ -873,7 +874,6 @@ pajataškanzi 1
 sokaz 1
 Brazilia 1
 Brazilian 1
-pälidn 1
 Heil 1
 kävun 1
 jaugai 1
@@ -906,3 +906,5 @@ Ročinman 1
 eläjiden 1
 lugu 1
 kazvab 1
+Singapur 1
+Singapuran 1

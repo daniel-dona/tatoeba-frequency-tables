@@ -1,7 +1,7 @@
 Mən 656
 O 453
 Tom 404
-Bu 349
+Bu 350
 var 251
 bir 216
 nə 181
@@ -35,7 +35,7 @@ yoxdur 55
 mən 55
 Sənin 53
 Bir 53
-gün 50
+gün 51
 haqqında 48
 gəlir 48
 Mənə 47
@@ -52,8 +52,8 @@ sevirəm 38
 öz 38
 məni 38
 paytaxtıdır 38
+ilə 38
 edir 38
-ilə 37
 şey 36
 başa 36
 Nə 35
@@ -80,8 +80,8 @@ artıq 30
 da 30
 Hər 29
 dili 29
+necə 29
 getdi 28
-necə 28
 yaşayıram 28
 nifrət 28
 getmək 28
@@ -204,6 +204,7 @@ ya 13
 istəyirsən 13
 kəs 13
 istərdim 13
+hansı 13
 qan 13
 pis 12
 lüğət 12
@@ -220,7 +221,6 @@ maşın 12
 lazım 12
 Su 12
 dilində 12
-hansı 12
 ildə 12
 Yaponiya 12
 Kitab 11
@@ -237,6 +237,7 @@ Gəl 11
 Sabah 11
 verir 11
 soyuqdur 11
+istifadə 11
 qapını 11
 qara 11
 demək 11
@@ -256,13 +257,13 @@ həkim 10
 Qız 10
 yeyirəm 10
 danışıram 10
+necədir 10
 hazır 10
 yaxşıdır 10
 həyat 10
 de 10
 qəbul 10
 Allah 10
-istifadə 10
 gəlib 10
 uzun 10
 yalan 10
@@ -277,10 +278,10 @@ yeməyi 9
 zəhləsi 9
 aldı 9
 səninlə 9
-necədir 9
 Çin 9
 düşünürəm 9
 dil 9
+hava 9
 dost 9
 olub 9
 Hələ 9
@@ -331,7 +332,6 @@ ehtiyacım 8
 balıq 8
 görmək 8
 etməyi 8
-hava 8
 bilməz 8
 İspaniyada 8
 Hava 8
@@ -384,6 +384,7 @@ adlanır 7
 bilərsiniz 7
 sarı 7
 tanış 7
+həll 7
 idin 7
 Çay 7
 verdim 7
@@ -471,7 +472,6 @@ bilərik 6
 Həyat 6
 yaşıl 6
 ağır 6
-həll 6
 getməliyəm 6
 dünya 6
 məşhur 6
@@ -622,6 +622,7 @@ Tomdan 5
 xoşbəxtəm 5
 güclü 5
 müəllim 5
+bilərəmmi 5
 şəhərdir 5
 bilmək 5
 itim 5
@@ -772,7 +773,6 @@ aç 4
 Polis 4
 turist 4
 Səninlə 4
-bilərəmmi 4
 Cim 4
 saçını 4
 dediyini 4
@@ -2025,12 +2025,14 @@ tut 2
 müəllimən 2
 Vayt 2
 Hindistana 2
+olunur 2
 hörmət 2
 yayda 2
 yatmaq 2
 doğulduğu 2
 Beləliklə 2
 doğulmusan 2
+etməliyik 2
 batır 2
 oldum 2
 sağdır 2
@@ -2227,6 +2229,8 @@ ehtiyacın 2
 düşünməyə 2
 Barmağımı 2
 yaladı 2
+Kredit 2
+kartı 2
 sizdən 2
 istəmirik 2
 Üzr 2
@@ -4761,7 +4765,6 @@ sifariş 1
 dostlarım 1
 arfadır 1
 homoseksualdırlar 1
-olunur 1
 həkimdirlər 1
 hobbisi 1
 Cənub 1
@@ -4804,7 +4807,6 @@ bacararsan 1
 radionu 1
 söndürdüm 1
 bilməyənlərə 1
-etməliyik 1
 oyananda 1
 qərbdə 1
 ilk 1
@@ -5692,8 +5694,6 @@ olmağa 1
 çalış 1
 ailəsini 1
 qorumalıdır 1
-Kredit 1
-kartı 1
 Narahat 1
 istəmirdi 1
 bığı 1
@@ -7685,3 +7685,7 @@ yanır 1
 Üzmək 1
 əylənirəm 1
 dünyəviyəm 1
+ödəyə 1
+İngiltərədə 1
+valyuta 1
+Problemi 1
