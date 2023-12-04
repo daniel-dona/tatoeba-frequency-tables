@@ -1,4 +1,4 @@
-ir 59
+ir 61
 Es 29
 ka 22
 Maņ 21
@@ -8,7 +8,7 @@ nav 14
 Voi 13
 Toms 13
 cīši 12
-tu 12
+tu 11
 ar 11
 par 10
 nu 10
@@ -114,7 +114,7 @@ Jī 2
 kūpā 2
 cylvāki 2
 Kōpēc 2
-gryuši 2
+jis 2
 Cylvāki 2
 byutnis 2
 vysu 2
@@ -160,6 +160,8 @@ Tei 2
 drupeit 2
 sīva 2
 Mareja 2
+Juos 2
+sirdsapziņa 2
 zīds 1
 skaists 1
 padareji 1
@@ -327,6 +329,7 @@ Gruzejā 1
 bolss 1
 sasaprīce 1
 nūmyra 1
+jius 1
 planavoj 1
 puorbaudeit 1
 bais 1
@@ -374,8 +377,9 @@ smaržu 1
 izmontuoja 1
 patīseibys 1
 serumu 1
-jys 1
+sapeics 1
 Nabyuti 1
+gryuši 1
 esi 1
 gryuteigs 1
 sajiutūšys 1
@@ -445,7 +449,6 @@ stuovūklis 1
 naatsakuopšu 1
 tyvuojīs 1
 gulēt 1
-jis 1
 dzierdēja 1
 mīļoj 1
 Tomu 1
@@ -793,3 +796,5 @@ asmu 1
 Šei 1
 pasauļs 1
 puorsteigt 1
+skaidra 1
+teira 1

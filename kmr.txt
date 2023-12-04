@@ -1,11 +1,11 @@
-Ez 1206
+Ez 1207
 e 1033
 xwe 1033
-ji 995
-min 992
+ji 997
+min 993
 bi 935
 li 826
-Ew 813
+Ew 814
 ê 737
 û 664
 ye 643
@@ -32,12 +32,12 @@ ez 239
 tu 236
 Ev 230
 bû 219
-dike 191
+dike 192
 ber 191
 bo 187
+heye 184
 ser 184
 vê 183
-heye 183
 dikim 183
 Te 183
 dikin 180
@@ -45,7 +45,7 @@ ew 178
 bikin 177
 in 176
 Wî 174
-hez 172
+hez 173
 Wê 168
 pir 168
 Me 156
@@ -391,6 +391,7 @@ cem 15
 çê 15
 piştî 15
 dawî 15
+Roja 15
 odeya 15
 rêya 15
 hinekî 15
@@ -415,7 +416,6 @@ berda 14
 dizanin 14
 bigire 14
 Xwendekar 14
-Roja 14
 çûm 14
 Pêwîst 14
 zêdetir 14
@@ -1096,6 +1096,7 @@ civînê 5
 bijî 5
 Deriyê 5
 şe 5
+têm 5
 Pirr 5
 xatirê 5
 bijîm 5
@@ -1309,7 +1310,6 @@ gote 4
 derekê 4
 Masî 4
 tenîsê 4
-têm 4
 tînim 4
 mirin 4
 Eva 4
@@ -9215,3 +9215,8 @@ futbolvanekî 1
 Nizanin 1
 Hingivê 1
 dêûbav 1
+Înê 1
+randevûya 1
+Nermînê 1
+malbateke 1
+bijîşkan 1

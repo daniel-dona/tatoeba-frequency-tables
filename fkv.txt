@@ -5,8 +5,8 @@ Hyvvää 29
 ja 27
 oli 27
 Mie 17
+Met 17
 Hän 17
-Met 16
 ole 16
 se 15
 Tämä 13
@@ -44,6 +44,7 @@ nelje 5
 met 5
 kymmenen 5
 päiväle 5
+nokko 5
 mennee 4
 pääkaupunki 4
 Norjan 4
@@ -55,13 +56,13 @@ kans 4
 Kaikki 4
 vanhaa 4
 yli 4
+kaikile 4
 viisi 4
 tuli 4
 tärkkee 4
 kahđeksen 4
 yhđeksen 4
 sie 4
-nokko 4
 aijan 3
 kieli 3
 hyväksythiin 3
@@ -99,7 +100,6 @@ myötä 3
 iso 3
 Kvääni 3
 auki 3
-kaikile 3
 luku 3
 kaksi 3
 kuusi 3
@@ -249,6 +249,7 @@ kessää 2
 Kyllä 2
 Elämä 2
 Aameen 2
+passaa 2
 kvääninkansan 1
 kielen 1
 kulttuurin 1
@@ -1366,7 +1367,6 @@ fiskari 1
 Ämmi 1
 lapsenlapset 1
 Sitä 1
-passaa 1
 kyssyyt 1
 Raavhaat 1
 auttaavat 1
@@ -1384,3 +1384,7 @@ maistuva 1
 hyvältä 1
 Iloissii 1
 lauluhetkii 1
+Olet 1
+sievä 1
+kuulema 1
+Mettänsuojelu 1

@@ -1,25 +1,25 @@
-Ma 171
+Ma 173
 re 91
 ma 44
 Tom 42
-Si 33
+Si 34
  33
-te 27
+te 28
 do 25
-si 23
+si 24
 Tena 21
+Tkva 21
 Toms 21
 Tina 20
-Tkva 20
 tena 18
 Tomi 18
 vare 16
+moǩo 15
+tina 15
 რე 14
 vore 14
 Te 14
 reno 14
-moǩo 14
-tina 14
 So 13
 Tis 13
 მა 12
@@ -37,10 +37,10 @@ tis 10
 Chqi 10
 rdu 10
 mu 10
+xvale 10
 tom 10
 oǩo 10
 Chqimi 9
-xvale 9
 arti 9
 dghas 9
 arto 9
@@ -87,6 +87,7 @@ ren 5
 miçku 5
 dǧas 5
 çkaras 5
+reki 5
 bordji 5
 Çkimi 5
 Ko 5
@@ -114,7 +115,6 @@ Malas 4
 mushi 4
 dudi 4
 vordi 4
-reki 4
 Muç̌o 4
 p̌eulepi 4
 goǩo 4
@@ -194,6 +194,7 @@ getu 3
 dzalami 3
 Muzhami 3
 mangari 3
+Tomk 3
 ṫabaǩi 3
 gurapa 3
 para 3
@@ -323,9 +324,11 @@ getxu 2
 qorkitxe 2
 vamichqƨ 2
 ginighƨ 2
+Mushi 2
 çxuru 2
 asho 2
 ogholamari 2
+dolari 2
 Mendi 2
 çhiçhet 2
 chilata 2
@@ -353,7 +356,6 @@ gomordzgua 2
 ukuli 2
 vardƨ 2
 tku 2
-ʒɣinaro 2
 teşe 2
 ç̌iç̌e 2
 Mitin 2
@@ -367,6 +369,7 @@ Kortxint 2
 shkviti 2
 Ushkuri 2
 ႰႤ 2
+Kumodziri 2
 amdǧa 2
 uçkƨ 2
 vap̌uns 2
@@ -403,7 +406,6 @@ udjguşi 2
 musheni 2
 mourku 2
 uliri 2
-Tomk 2
 piprke 2
 muç̌o 2
 miɣors 2
@@ -418,6 +420,7 @@ ameriǩari 2
 Ṫomik 2
 tkvani 2
 uǩuli 2
+uɣorsu 2
 Gomordzgua 2
 oşǩuru 2
 djoǧorşa 2
@@ -443,6 +446,7 @@ oxorants 2
 Bordji 2
 doxturi 2
 chkini 2
+chkimi 2
 ართი 1
 სუმი 1
 ოთხი 1
@@ -1138,7 +1142,6 @@ Muⱬamc 1
 michomilua 1
 xamu 1
 vatku 1
-Mushi 1
 mamonka 1
 reqi 1
 imṫikoni 1
@@ -1165,7 +1168,6 @@ uchqƨ 1
 Qimechƨt 1
 tom's 1
 300 1
-dolari 1
 nandulo 1
 mepekƨ 1
 sqanit 1
@@ -1517,6 +1519,7 @@ veguaxvile 1
 livers 1
 Chxomefi 1
 guasuftavy 1
+ʒɣinaro 1
 teq 1
 midgareni 1
 qesheilebunano 1
@@ -1676,7 +1679,6 @@ Meurko 1
 Gioç̌ishuanko 1
 Oç̌ishis 1
 maç̌u 1
-Kumodziri 1
 gaç̌u 1
 Tzeǩitxit 1
 Semi 1
@@ -2083,6 +2085,7 @@ tunti 1
 Vaiɣorano 1
 djoǧori 1
 Ç̌ǩomi 1
+tzqinaro 1
 doç̌arƨ 1
 jeǩi 1
 Djoǧori 1
@@ -2104,7 +2107,6 @@ andvili 1
 magurafu 1
 vamǧuna 1
 Merçkvana 1
-uɣorsu 1
 olapiniepi 1
 Demşvidi 1
 q'ude 1
@@ -2401,7 +2403,6 @@ gilauuna 1
 Film 1
 diç̌qapu 1
 moxvaraşe 1
-uɣ'orsu 1
 Muşo 1
 Migetzonebu 1
 stadium 1
@@ -2532,7 +2533,6 @@ ditirƨ 1
 Chƨlata 1
 Xvala 1
 shkas: 1
-chkimi 1
 tsira 1
 New 1
 York 1
@@ -2563,3 +2563,16 @@ ameriǩashe 1
 Shevxvadat 1
 gverdi 1
 bzhaamish 1
+maxintzalit 1
+mourko 1
+Tkvani 1
+chaxvia 1
+ṫabaǩis 1
+gedzƨ 1
+maskvama 1
+zhirsha 1
+bdziri 1
+oç̌ishi 1
+diṫaxu 1
+kitxulento 1
+tzingis 1

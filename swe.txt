@@ -1,15 +1,15 @@
-är 11217
-Jag 10962
-att 6882
-Tom 6869
+är 11221
+Jag 10963
+att 6883
+Tom 6871
 inte 6693
-en 4935
+en 4937
 du 4915
 på 4716
 det 4599
-i 4382
-har 4099
-Det 3762
+i 4383
+har 4100
+Det 3763
 Han 3343
 jag 3096
 mig 2661
@@ -17,18 +17,18 @@ för 2627
 här 2602
 var 2548
 med 2368
-till 2284
+till 2285
 och 2259
 om 2210
 Hon 2039
-ett 1878
+ett 1880
 Vi 1855
 dig 1849
-som 1826
-den 1783
+som 1829
+den 1784
 kan 1650
 Du 1567
-av 1541
+av 1542
 kommer 1229
 han 1229
 sig 1176
@@ -44,7 +44,7 @@ Hur 933
 Mary 916
 vi 871
 göra 858
-ska 842
+ska 843
 Är 830
 måste 811
 honom 792
@@ -66,7 +66,7 @@ oss 603
 än 600
 upp 590
 behöver 584
-bara 583
+bara 584
 hon 581
 sin 563
 henne 557
@@ -74,7 +74,7 @@ nu 555
 går 545
 bra 536
 gå 518
-Varför 514
+Varför 515
 man 512
 er 511
 Min 502
@@ -117,8 +117,8 @@ såg 342
 över 336
 hur 334
 kom 333
+dem 327
 När 326
-dem 326
 borde 320
 få 320
 komma 318
@@ -145,7 +145,7 @@ bil 272
 ditt 270
 tid 269
 mina 264
-bor 260
+bor 261
 sina 259
 franska 255
 vid 253
@@ -167,7 +167,7 @@ några 223
 själv 216
 säger 215
 detta 211
-Ingen 210
+Ingen 211
 redan 210
 Detta 209
 Vilken 209
@@ -179,9 +179,9 @@ morgon 203
 inget 200
 varit 199
 hus 198
+fel 197
 trodde 196
 rätt 196
-fel 196
 prata 195
 Ziri 195
 gav 194
@@ -274,13 +274,13 @@ fram 125
 skriva 124
 fråga 124
 På 124
+ord 123
 vän 123
 veta 123
 ensam 123
 någonsin 123
 dog 123
 böcker 122
-ord 122
 Gå 121
 trött 121
 rum 120
@@ -605,7 +605,9 @@ era 54
 Försök 54
 kör 54
 härifrån 53
+betyder 53
 året 53
+katter 53
 lita 53
 kläder 53
 mjölk 53
@@ -621,8 +623,6 @@ tyst 53
 meningen 53
 sitta 53
 japanska 52
-betyder 52
-katter 52
 visade 52
 behöva 52
 fönstret 52
@@ -1171,6 +1171,7 @@ humör 25
 ställer 25
 Nästa 24
 själva 24
+fann 24
 liknar 24
 regnade 24
 väder 24
@@ -1191,6 +1192,7 @@ vapen 24
 fullständigt 24
 träffat 24
 Inget 24
+ljuga 24
 Enligt 24
 tänder 24
 reste 24
@@ -1217,7 +1219,6 @@ Markku 24
 Emily 24
 skjorta 23
 affären 23
-fann 23
 kräver 23
 besöka 23
 Ken 23
@@ -1237,7 +1238,6 @@ bar 23
 Amerika 23
 Välkommen 23
 välja 23
-ljuga 23
 betalar 23
 nyckeln 23
 omkring 23
@@ -1435,6 +1435,7 @@ använde 19
 vackraste 19
 kolla 19
 minst 19
+närvarande 19
 helgen 19
 kastade 19
 kropp 19
@@ -1494,7 +1495,6 @@ gjord 18
 kroppen 18
 Kanada 18
 Bara 18
-närvarande 18
 prova 18
 Både 18
 frukt 18
@@ -3795,6 +3795,7 @@ Fånga 6
 brors 6
 svävar 6
 mätte 6
+ursprungligen 6
 Mycket 6
 Franska 6
 ex 6
@@ -4031,6 +4032,7 @@ gudar 5
 klingonska 5
 Elden 5
 vänjer 5
+jamar 5
 nederländska 5
 Elefanter 5
 träden 5
@@ -4422,7 +4424,6 @@ badkaret 5
 smärtsamt 5
 möjliga 5
 öppnat 5
-ursprungligen 5
 Djävulen 5
 tvillingbror 5
 tonåring 5
@@ -4729,7 +4730,6 @@ tanden 4
 svamp 4
 nåd 4
 passerat 4
-jamar 4
 Tuppen 4
 höna 4
 Antingen 4
@@ -5059,6 +5059,7 @@ innehållet 4
 skrivstil 4
 Janet 4
 Kavla 4
+storstad 4
 kommen 4
 startade 4
 mataffär 4
@@ -5442,6 +5443,7 @@ Datorer 4
 Växter 4
 investering 4
 2022 4
+klickade 4
 dammar 4
 frön 4
 belönade 4
@@ -6270,7 +6272,6 @@ klänningar 3
 företagens 3
 förrådde 3
 fjorton 3
-storstad 3
 överste 3
 gårdagens 3
 hejar 3
@@ -9427,6 +9428,7 @@ glutenfria" 2
 "I 2
 producerade 2
 fattigare 2
+vidare" 2
 Såhär 2
 försvinner 2
 Jons 2
@@ -9635,6 +9637,7 @@ webbsida 2
 Solenergi 2
 svartsjuka 2
 Kontaktade 2
+föras 2
 ryktas 2
 gömda 2
 bokning 2
@@ -9995,6 +9998,3 @@ erfarna 2
 möjlig 2
 Skogen 2
 kräktes 2
-Valar 2
-hålan 2
-Luft 2

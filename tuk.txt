@@ -36,7 +36,7 @@ pikir 103
 meniň 102
 edip 100
 hem 98
-gerek 94
+gerek 95
 wagt 94
 Siz 92
 barada 91
@@ -196,6 +196,7 @@ bärde 23
 edýär 23
 däldir 23
 gije 23
+Maňa 22
 sagat 22
 çenli 22
 bolmak 22
@@ -204,7 +205,6 @@ etmegi 22
 täze 22
 Seniñ 22
 Meryñ 22
-Maňa 21
 agşam 21
 aýdýar 21
 Leýla 21
@@ -309,6 +309,7 @@ ber 14
 özleriniň 14
 gitmäge 14
 gapyny 14
+bolmagy 14
 terjime 14
 bilýän 14
 bolýan 14
@@ -323,7 +324,6 @@ nahar 13
 Biziň 13
 adatça 13
 täzeden 13
-bolmagy 13
 gürläp 13
 birini 13
 gidýär 13
@@ -400,6 +400,7 @@ mümkin 11
 dur 11
 etdiler 11
 wagty 11
+borçly 11
 edenok 11
 zadym 11
 fransuz 11
@@ -440,10 +441,10 @@ bilmeýär 10
 aýdyň 10
 görmedim 10
 getirip 10
+halamok 10
 Köp 10
 etmegini 10
 aýdan 10
-borçly 10
 arzuw 10
 Merä 10
 şonuň 10
@@ -496,7 +497,6 @@ hakynda 9
 ses 9
 Üç 9
 edýän 9
-halamok 9
 goýup 9
 öýüni 9
 bilmeýändigini 9
@@ -549,6 +549,7 @@ günde 8
 görmek 8
 puly 8
 birinji 8
+öňünde 8
 gürrüň 8
 gyza 8
 özbaşdak 8
@@ -623,7 +624,6 @@ pikirini 7
 bildi 7
 taýyn 7
 ahmal 7
-öňünde 7
 islärdim 7
 bilersiňiz 7
 Size 7
