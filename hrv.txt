@@ -1,4 +1,4 @@
-je 1686
+je 1687
 se 614
 u 557
 sam 459
@@ -72,9 +72,9 @@ uvijek 42
 Nisam 42
 U 42
 koji 42
+Ovo 41
 do 41
 Imam 41
-Ovo 40
 moj 40
 sa 40
 vrlo 40
@@ -107,13 +107,13 @@ vidjeti 31
 Ti 31
 tvoj 30
 knjiga 30
+moja 30
 doći 30
 nas 30
 tu 30
 ili 30
 nema 30
 Moja 29
-moja 29
 taj 29
 ćeš 29
 Toma 29
@@ -733,6 +733,7 @@ drugima 5
 Jedan 5
 pivo 5
 siguran 5
+soba 5
 veliki 5
 otvoriti 5
 zvijezda 5
@@ -893,7 +894,6 @@ Njezina 4
 Pas 4
 znanstvenik 4
 devet 4
-soba 4
 brine 4
 prijatelje 4
 majci 4

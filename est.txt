@@ -1,4 +1,4 @@
-on 1389
+on 1391
 Ma 886
 ei 715
 Tom 582
@@ -41,9 +41,9 @@ tahan 68
 kõik 67
 mida 66
 meeldib 66
+Minu 65
 su 65
 Tomi 65
-Minu 64
 siin 63
 Mis 63
 veel 63
@@ -52,8 +52,8 @@ Mida 62
 Kus 61
 hea 59
 Mary 59
+Mu 58
 Kes 57
-Mu 57
 sinu 54
 ema 53
 mis 52
@@ -165,6 +165,7 @@ Keegi 21
 teine 21
 Sul 21
 üles 21
+tee 21
 õpetaja 21
 auto 21
 Te 21
@@ -183,7 +184,6 @@ ikka 19
 olete 19
 raamatu 19
 aastat 19
-tee 19
 minuga 19
 väsinud 19
 vana 19
@@ -2329,6 +2329,7 @@ Sloveenia 2
 insener 2
 töölauda 2
 veinid 2
+lemmikjook 2
 Sellises 1
 kärestikus 1
 ujuma 1

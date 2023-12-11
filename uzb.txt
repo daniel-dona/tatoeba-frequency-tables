@@ -1,19 +1,19 @@
-Men 66
-Bu 63
-U 63
+Men 68
+Bu 64
+U 64
 bor 32
 bir 28
 Tom 27
-edi 26
+edi 27
 Mening 25
+nima 23
 emas 23
 qayerda 23
 bilan 23
-nima 22
 bormi 22
 uchun 19
+yaxshi 17
 Sen 17
-yaxshi 16
 У 15
 Nima 15
 kerak 15
@@ -25,13 +25,13 @@ hech 13
 ham 13
 Menga 12
 deb 12
+juda 12
 bo'lib 12
 Biz 11
 emasman 11
-juda 11
 эмасман 10
+uni 10
 Siz 9
-uni 9
 edim 9
 suv 9
 Bugun 9
@@ -40,6 +40,7 @@ Ertaga 9
 бир 8
 kim 8
 javob 8
+kitob 8
 menga 8
 yomon 8
 Nega 8
@@ -50,7 +51,6 @@ kitobni 7
 va 7
 pul 7
 bu 7
-kitob 7
 yashaydi 7
 Qancha 7
 Kim 7
@@ -68,6 +68,7 @@ odam 6
 faqat 6
 emasmi 6
 soat 6
+ko‘raman 6
 учун 5
 Менинг 5
 yashayman 5
@@ -94,13 +95,14 @@ qaysi 5
 mumkin 5
 men 5
 bunchalik 5
-ko‘raman 5
+yo‘q 5
 Улар 4
 яхши 4
 эмас 4
 keldim 4
 Hech 4
 билан 4
+haqida 4
 senga 4
 sovuq 4
 katta 4
@@ -118,8 +120,10 @@ qilish 4
 tilini 4
 uning 4
 sotib 4
+televizor 4
 ko'rmayapti 4
 yoqadi 4
+buni 4
 keldi 4
 Iltimos 4
 O'tgan 4
@@ -134,7 +138,6 @@ Eshikni 4
 Pul 4
 go'shti 4
 Bank 4
-yo‘q 4
 Ko‘zlarim 4
 Seni 3
 Rahmat 3
@@ -147,7 +150,6 @@ gap 3
 Диққат 3
 унинг 3
 марта 3
-haqida 3
 sening 3
 dunyo 3
 Uy 3
@@ -163,6 +165,7 @@ uyim 3
 gapira 3
 olmaydi 3
 ingliz 3
+unga 3
 musiqa 3
 hamma 3
 Ingliz 3
@@ -176,11 +179,9 @@ xohlaysan 3
 istaysan 3
 It 3
 yeyapti 3
-televizor 3
 Toshkentda 3
 bormoqchi 3
 ko'raman 3
-buni 3
 ko'rgan 3
 tili 3
 hafta 3
@@ -195,6 +196,7 @@ aylandi 3
 doim 3
 albatta 3
 Shifokor 3
+olasan 3
 aytib 3
 Nimaga 3
 olamanmi 3
@@ -208,6 +210,7 @@ bilasanmi 3
 Bunaqa 3
 kutib 3
 tilda 3
+Nihoyat 3
 Meni 3
 Savolga 3
 Ushbu 3
@@ -273,6 +276,7 @@ kasal 2
 у 2
 Мана 2
 gullar 2
+uylandi 2
 tarjimon 2
 Yomg'ir 2
 doktor 2
@@ -345,6 +349,7 @@ hozir 2
 uy 2
 ishlashini 2
 bilmoqchiman 2
+chiqdi 2
 bola 2
 joylashgan 2
 yeyapman 2
@@ -412,7 +417,6 @@ olasizmi 2
 Agar 2
 yo 2
 qolasan 2
-olasan 2
 Bashoratga 2
 ko'rmoqchiman 2
 sizga 2
@@ -439,6 +443,7 @@ Qizimni 2
 marta 2
 Uyda 2
 qozoq 2
+yozgan 2
 olding 2
 bo'lgan 2
 yesang 2
@@ -453,6 +458,8 @@ rejang 2
 uzr 2
 Soat 2
 ob-havo 2
+gaplasha 2
+xursand 2
 o'ylayman 2
 uxlasangchi 2
 kimniki 2
@@ -484,6 +491,7 @@ oltidan 2
 o'tgan 2
 tomonda 2
 o'ldirding 2
+hayvonlar 2
 ko‘p 2
 Germaniyaga 2
 savolingizga 2
@@ -495,6 +503,10 @@ nimani 2
 yoshligida 2
 kosmonavt 2
 bo‘lishni 2
+Qaysi 2
+tillarda 2
+imzolashni 2
+xohlamayman 2
 barbod 1
 kutaman 1
 Барча 1
@@ -778,7 +790,6 @@ qurqqan 1
 to'qayg'a 1
 kirmas 1
 singlimga 1
-uylandi 1
 O'ylashimcha 1
 o'yinchi 1
 mavsumi 1
@@ -983,7 +994,6 @@ so'z 1
 ta'sirli 1
 Cho'llarda 1
 yo'qoldim 1
-unga 1
 hujum 1
 sanskritchani 1
 mushuk 1
@@ -1138,7 +1148,6 @@ Komandaning 1
 menejeri 1
 to'satdan 1
 iste'foga 1
-chiqdi 1
 kichik 1
 Qishloq 1
 joyida 1
@@ -1674,7 +1683,6 @@ Qochaylik 1
 ochaylik 1
 ochmang 1
 Kitobni 1
-yozgan 1
 Do'stlaring 1
 kimligini 1
 ayt 1
@@ -1796,9 +1804,7 @@ narxlarni 1
 ko'tardi 1
 Boston 1
 o'ylamagandim 1
-gaplasha 1
 olsak 1
-xursand 1
 bo'laman 1
 Baribir 1
 bekityapti 1
@@ -1871,7 +1877,6 @@ Kiring 1
 Shoshilaqol 1
 Sovuq 1
 Marhamat 1
-Nihoyat 1
 Ketdik 1
 Ajoyib 1
 alakyum 1
@@ -2093,7 +2098,6 @@ qilasiz 1
 osh 1
 pishirishni 1
 hohlayman 1
-hayvonlar 1
 qimmatlisan 1
 O'lmoqchi 1
 emasmiz 1
@@ -2325,3 +2329,14 @@ Do‘stlarimdan 1
 qarzdor 1
 yoqtirmayman 1
 kalitlarim 1
+Musiqa 1
+tinglashni 1
+Xonada 1
+qo‘shiqning 1
+nomi 1
+gaplasholasan 1
+Qahvam 1
+shakarsiz 1
+bo‘lsa 1
+bo‘laman 1
+turmushga 1

@@ -9,7 +9,7 @@ se 3030
 sam 2501
 ли 2090
 u 2057
-Tom 2049
+Tom 2050
 у 1802
 li 1791
 то 1494
@@ -20,7 +20,7 @@ i 1394
 не 1202
 to 1172
 ne 1150
-mi 1023
+mi 1024
 Da 1020
 ми 1006
 si 984
@@ -5064,7 +5064,6 @@ farmerke 6
 pođem 6
 parče 6
 razmišljam 6
-Tomi 6
 Pokušaću 6
 2013 6
 Norvežanin 6
@@ -5995,6 +5994,7 @@ dečaci 5
 suđe 5
 pogledamo 5
 odlučili 5
+Tomi 5
 pametno 5
 osetio 5
 Radničku 5
