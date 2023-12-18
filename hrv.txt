@@ -1,4 +1,4 @@
-je 1687
+je 1688
 se 614
 u 557
 sam 459
@@ -278,6 +278,7 @@ hladno 14
 žene 14
 koliko 14
 pitanje 13
+ime 13
 dva 13
 jednom 13
 Moraš 13
@@ -293,7 +294,6 @@ možemo 13
 stvari 13
 nisi 13
 znao 13
-ime 12
 svijetu 12
 Zar 12
 broj 12
@@ -403,6 +403,7 @@ vodu 10
 rođendan 10
 ikada 10
 napravila 10
+Moje 9
 oni 9
 ova 9
 Oprostite 9
@@ -464,7 +465,6 @@ Mnogo 9
 jednog 9
 tenis 9
 ove 9
-Moje 8
 mačka 8
 pas 8
 neću 8
@@ -1696,6 +1696,7 @@ grožđe 3
 hajde 3
 sranje 3
 Šišmiši 3
+Jack 2
 Zove 2
 Ken 2
 zovete 2
@@ -2865,7 +2866,6 @@ Samarkandu 2
 poginuti 2
 Sloboda 2
 insekti 2
-Jack 1
 Tomojuki 1
 Ogura 1
 lutka 1

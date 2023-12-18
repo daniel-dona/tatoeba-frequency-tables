@@ -1,16 +1,16 @@
 að 3814
-er 3123
+er 3124
 Ég 2291
-í 2067
+í 2068
 á 1675
 ekki 1645
-ég 867
+ég 868
 Það 858
 Hann 795
 til 768
 og 731
 það 694
-við 674
+við 676
 Hún 674
 Þú 644
 var 638
@@ -56,7 +56,7 @@ hef 161
 hafa 159
 hvað 157
 frá 148
-þegar 143
+þegar 144
 sér 142
 Ekki 141
 aftur 141
@@ -105,8 +105,8 @@ mitt 91
 aldrei 87
 veit 86
 þinn 86
+þín 86
 yfir 85
-þín 85
 koma 84
 taka 84
 alltaf 83
@@ -406,6 +406,7 @@ bjór 25
 strax 25
 ein 25
 Hvers 25
+vorum 24
 allar 24
 gefa 24
 ferðast 24
@@ -421,7 +422,6 @@ herbergið 24
 þær 24
 búið 24
 sjónvarpið 23
-vorum 23
 Klukkan 23
 dyrunum 23
 hringja 23
@@ -714,6 +714,7 @@ Faðir 14
 gerðu 14
 tónlist 14
 betri 14
+fórum 14
 sjálf 14
 foreldra 14
 Þar 14
@@ -744,6 +745,7 @@ stólnum 13
 þátt 13
 syngja 13
 bjóða 13
+vinir 13
 gærkveldi 13
 Hafðu 13
 Þótt 13
@@ -775,7 +777,6 @@ Sama 13
 tímann 13
 sért 13
 heitir 13
-fórum 13
 þekki 13
 sagðist 13
 ríkur 13
@@ -803,7 +804,6 @@ setti 12
 hádegismat 12
 Brown 12
 hvenær 12
-vinir 12
 gluggann 12
 þann 12
 gekk 12
@@ -1205,6 +1205,7 @@ söng 8
 algerlega 8
 skrifstofuna 8
 leysa 8
+bestu 8
 búum 8
 þeirri 8
 þrír 8
@@ -1355,7 +1356,6 @@ leitt 7
 sönn 7
 heiti 7
 spjalla 7
-bestu 7
 hleypur 7
 spurningu 7
 York 7
@@ -1970,6 +1970,7 @@ Mundu 5
 snúist 5
 ost 5
 Góðan 5
+Auðvitað 5
 bil 5
 veistu 5
 Ókei 5
@@ -2445,7 +2446,6 @@ lokast 4
 hurðir 4
 Ein 4
 heilsu 4
-Auðvitað 4
 höfðinu 4
 örlög 4
 Margar 4
@@ -2644,6 +2644,7 @@ fáir 3
 ráðin 3
 blekkja 3
 flugvélin 3
+minnist 3
 valið 3
 hvíld 3
 austur 3
@@ -3615,7 +3616,6 @@ Bókasafnið 2
 stelpuna 2
 Setningin 2
 Leigubílar 2
-minnist 2
 eftirspurnar 2
 benda 2
 þyngd 2

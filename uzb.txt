@@ -1,5 +1,5 @@
 Men 68
-Bu 64
+Bu 67
 U 64
 bor 32
 bir 28
@@ -32,22 +32,23 @@ emasman 11
 эмасман 10
 uni 10
 Siz 9
+kim 9
+kitob 9
 edim 9
 suv 9
 Bugun 9
 Ertaga 9
 бор 8
 бир 8
-kim 8
+Uning 8
+kitobni 8
 javob 8
-kitob 8
 menga 8
 yomon 8
 Nega 8
 ishlayman 8
 ва 7
 issiq 7
-kitobni 7
 va 7
 pul 7
 bu 7
@@ -57,10 +58,10 @@ Kim 7
 Tomning 7
 qachon 7
 qanday 7
+qaysi 7
 менинг 6
 йўқ 6
 Нима 6
-Uning 6
 Bir 6
 boraman 6
 qancha 6
@@ -91,7 +92,6 @@ bo'ladi 5
 Ular 5
 turadi 5
 Uni 5
-qaysi 5
 mumkin 5
 men 5
 bunchalik 5
@@ -134,7 +134,9 @@ uch 4
 oz 4
 berdi 4
 qushlarimni 4
+tarjima 4
 Eshikni 4
+tilda 4
 Pul 4
 go'shti 4
 Bank 4
@@ -209,7 +211,6 @@ Hozir 3
 bilasanmi 3
 Bunaqa 3
 kutib 3
-tilda 3
 Nihoyat 3
 Meni 3
 Savolga 3
@@ -377,6 +378,7 @@ yozmoqchiman 2
 bizning 2
 Oldin 2
 oldin 2
+yozilgan 2
 qilmayman 2
 bosh 2
 bekor 2
@@ -507,6 +509,9 @@ Qaysi 2
 tillarda 2
 imzolashni 2
 xohlamayman 2
+o‘nta 2
+tilga 2
+qilingan 2
 barbod 1
 kutaman 1
 Барча 1
@@ -1258,7 +1263,6 @@ Onangizni 1
 sevasizmi 1
 lotin 1
 alifbosi 1
-yozilgan 1
 fikrimiz 1
 yilingiz 1
 mubоrak 1
@@ -1622,7 +1626,6 @@ savobga 1
 yerdan 1
 olingiz 1
 To'g'ri 1
-tarjima 1
 qilingiz 1
 Bog'da 1
 qiyin 1
@@ -2340,3 +2343,10 @@ shakarsiz 1
 bo‘lsa 1
 bo‘laman 1
 turmushga 1
+tarjimai 1
+holi 1
+biografiyasi 1
+tildan 1
+qilgansan 1
+kitobning 1
+muallifi 1

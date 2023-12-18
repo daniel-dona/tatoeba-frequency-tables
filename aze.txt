@@ -1,7 +1,7 @@
 Mən 657
 O 453
 Tom 404
-Bu 351
+Bu 354
 var 251
 bir 216
 nə 181
@@ -18,13 +18,13 @@ Onlar 95
 mənim 94
 üçün 89
 yaxşı 81
-Onun 71
+Onun 73
 mənə 70
 Siz 69
 Tomun 69
 bu 68
+istəyirəm 66
 vaxt 66
-istəyirəm 65
 deyiləm 63
 daha 62
 də 59
@@ -59,12 +59,12 @@ başa 36
 Nə 35
 ən 35
 qədər 35
+kitab 34
 burada 34
 sənə 34
 etdi 34
 Toma 34
 yox 33
-kitab 33
 kömək 33
 yaşayır 33
 Bizim 32
@@ -135,10 +135,12 @@ minimal 19
 əmək 19
 haqqı 19
 gözəl 18
+on 18
 il 18
 Səni 18
 az 18
 Ona 18
+kitabı 18
 etməyə 18
 qulaq 18
 saat 18
@@ -149,7 +151,6 @@ su 18
 həftə 17
 getdim 17
 gördüm 17
-kitabı 17
 böyükdür 17
 Yeni 17
 gecə 17
@@ -157,7 +158,6 @@ danışır 17
 bilərsən 17
 başqa 17
 dilini 17
-on 16
 bilərəm 16
 əvvəl 16
 yeni 16
@@ -173,6 +173,7 @@ ver 16
 yerləşir 16
 sən 16
 səhər 15
+almaq 15
 Məncə 15
 et 15
 oldu 15
@@ -182,10 +183,10 @@ olar 15
 sizi 15
 verdi 15
 bizə 15
+hansı 15
 Yaponiyaya 15
 tək 15
 Sami 15
-almaq 14
 cavab 14
 bizim 14
 Xahiş 14
@@ -204,7 +205,6 @@ ya 13
 istəyirsən 13
 kəs 13
 istərdim 13
-hansı 13
 qan 13
 pis 12
 lüğət 12
@@ -283,6 +283,7 @@ düşünürəm 9
 dil 9
 hava 9
 dost 9
+tərcümə 9
 olub 9
 Hələ 9
 evdə 9
@@ -348,6 +349,7 @@ hamı 8
 Evə 8
 aldım 8
 tərk 8
+kimdir 8
 olmayacaq 8
 etdim 8
 Hamı 8
@@ -364,6 +366,7 @@ Yaponiyada 8
 bizi 8
 davam 8
 biraz 8
+olunub 8
 Şimali 8
 xoşu 8
 Afrikada 8
@@ -419,7 +422,6 @@ olan 7
 mənimdir 7
 etmir 7
 cavan 7
-kimdir 7
 çəkdi 7
 məşğul 7
 tez-tez 7
@@ -487,7 +489,6 @@ Azərbaycanın 6
 öldü 6
 əlini 6
 süd 6
-tərcümə 6
 verə 6
 etmə 6
 xəstə 6
@@ -544,7 +545,6 @@ bıçaq 6
 etdik 6
 Yaponiyadan 6
 günüdür 6
-olunub 6
 olmamışam 6
 Sizdə 6
 məsləhət 6
@@ -692,6 +692,7 @@ oxuyuram 5
 yuyur 5
 icazə 5
 ölkəsidir 5
+dildə 5
 qayıtdı 5
 yaxın 5
 ikinci 5
@@ -886,7 +887,6 @@ xeyli 4
 bizimlə 4
 düşür 4
 Misirdə 4
-dildə 4
 danışırlar 4
 pişiklər 4
 yonca 4
@@ -1728,6 +1728,7 @@ xəstəxanaya 2
 getmirəm 2
 bilmirdik 2
 Şəkil 2
+kitabın 2
 nömrəni 2
 ikimiz 2
 etmədiyimi 2
@@ -2092,6 +2093,7 @@ Lindanın 2
 eşitdik 2
 nadir 2
 hallarda 2
+Ayaqlarım 2
 görəndə 2
 bizik 2
 yaşın 2
@@ -2472,6 +2474,7 @@ Qızların 2
 Qızımla 2
 qəzəbləndirməkdən 2
 sırf 2
+etmisən 2
 tərcüməni 2
 tapmağıma 2
 Axtardığınız 2
@@ -2483,6 +2486,7 @@ olmağı 2
 Qəhvəm 2
 şəkərsiz 2
 imzalamaq 2
+dilə 2
 xanımlar 1
 vә 1
 cәnablar 1
@@ -3779,7 +3783,6 @@ dayanmadı 1
 Tarakanlar 1
 gündüzlər 1
 gizlənirlər 1
-kitabın 1
 içindədir 1
 vaxtlar 1
 ehtimala 1
@@ -5042,7 +5045,6 @@ Ortadakı 1
 çəkirsiniz 1
 olmaz 1
 Gecən 1
-Ayaqlarım 1
 donur 1
 babam 1
 Ümidimi 1
@@ -7660,7 +7662,6 @@ qəzəbləndirməyi 1
 çəkmədi 1
 kimisə 1
 istəyib 1
-etmisən 1
 Nədən 1
 qorxmalıyam 1
 Qorxmağı 1
@@ -7699,3 +7700,11 @@ televizor 1
 dillərdə 1
 sevinərəm 1
 Heyvanlar 1
+bioqrafiyası 1
+tərcüməyi-halı 1
+dildən 1
+yazılıb 1
+müəllifi 1
+Qurğuşunsuz 1
+benzin 1
+üşüyür 1

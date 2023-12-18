@@ -8,13 +8,13 @@ mi̱ 153
 ɛn 147
 kä 138
 Ci̱ 132
-nɛy 109
+nɛy 110
 ɣöö 107
 jɛn 99
 Ɛ 95
 Ɣän 94
 ci̱ 93
-kɛn 91
+kɛn 92
 la̱t 89
 i̱ 87
 Jɛn 77
@@ -41,11 +41,11 @@ bɛ 37
 lät 36
 ŋäc 35
 cä 34
+diaal 33
 Ji̱n 33
 ɣän 33
 ŋa̱cä 33
 nɔmɔ 32
-diaal 31
 ci 29
 mi̲ 29
 rɛy 28
@@ -141,6 +141,7 @@ Ci 12
 ca 12
 ciɛ 12
 di̱ 12
+Nɛy 12
 tɔt 12
 rɔɔdu 12
 ɛmɔ 12
@@ -151,7 +152,6 @@ Görä 11
 duel 11
 Teyni̱ 11
 gua̱th 11
-Nɛy 11
 thuk 11
 rɔ̱ 11
 tëë 11
@@ -354,6 +354,7 @@ ce̱tkɛ 5
 ni̲ 5
 Thami 5
 wëë 5
+döny 5
 Naŋ 5
 lär 5
 kët 5
@@ -430,7 +431,6 @@ cɔl 4
 gɔa 4
 pëk 4
 thiɛl 4
-döny 4
 Nyuri̱ 4
 kɛɛliw 4
 dapkɛ 4
@@ -2915,3 +2915,4 @@ luäkdä 1
 kacä 1
 latdɔ 1
 cienɔ 1
+Döny 1

@@ -38,8 +38,8 @@ bo 187
 vê 185
 heye 184
 ser 184
+Te 184
 dikim 183
-Te 183
 dikin 180
 ew 178
 bikin 177
@@ -56,7 +56,7 @@ Wan 147
 Li 143
 hene 140
 her 138
-We 135
+We 136
 im 128
 baş 127
 bikim 120
@@ -73,7 +73,7 @@ dest 109
 vir 103
 Bi 103
 hev 101
-ev 94
+ev 96
 Divê 93
 kiriye 91
 dibistanê 91
@@ -1104,6 +1104,7 @@ Pirr 5
 xatirê 5
 bijîm 5
 pêşniyar 5
+name 5
 nûçeyan 5
 nedît 5
 xeber 5
@@ -1363,6 +1364,7 @@ gundê 4
 dixemilînin 4
 hatî 4
 gelemperî 4
+xwendine 4
 diherike 4
 paş 4
 dehan 4
@@ -1713,7 +1715,6 @@ Swêd 3
 tariyê 3
 rojnameya 3
 Hêk 3
-name 3
 yekşem 3
 sipas 3
 ferhenga 3
@@ -2567,7 +2568,6 @@ dawet 2
 salnameyê 2
 dîwer 2
 zaroka 2
-xwendine 2
 carekî 2
 hembêz 2
 raketinê 2

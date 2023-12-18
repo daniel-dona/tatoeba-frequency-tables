@@ -1,4 +1,4 @@
-je 956
+je 957
 Ali 226
 sem 169
 se 167
@@ -19,7 +19,7 @@ To 81
 si 79
 Kaj 74
 za 73
-mi 66
+mi 67
 ni 65
 zelo 64
 glavno 64
@@ -71,9 +71,9 @@ lepa 20
 ta 20
 bom 20
 stane 20
+Ime 20
 svojo 19
 Kdor 19
-Ime 19
 ste 18
 prosim 18
 ali 18
@@ -462,6 +462,7 @@ vedeti 4
 mesec 4
 svoboda 4
 miru 4
+Jack 4
 vprašanja 4
 tam 4
 družino 4
@@ -663,7 +664,6 @@ gore 3
 Boston 3
 nam 3
 naš 3
-Jack 3
 delajo 3
 razumel 3
 leti 3
