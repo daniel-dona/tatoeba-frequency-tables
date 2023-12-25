@@ -1,9 +1,9 @@
 Tom 128945
-bir 101387
+bir 101388
 O 39217
-için 35995
+için 35999
 Bu 32733
-çok 29536
+çok 29542
 ve 28364
 Tom'un 28066
 var 23349
@@ -13,9 +13,9 @@ kadar 18082
 daha 18020
 değil 17932
 mi 16816
-şey 16808
+şey 16810
 olduğunu 16026
-iyi 15915
+iyi 15916
 onu 14996
 bu 14802
 Mary 13444
@@ -36,7 +36,7 @@ Bunu 8390
 Sami 8262
 yok 8206
 istiyorum 7883
-de 7850
+de 7851
 hiç 7825
 hakkında 7800
 nasıl 7562
@@ -47,7 +47,7 @@ ile 7311
 benim 7271
 Onlar 7136
 musun 7093
-en 6983
+en 6984
 etti 6981
 Sen 6959
 önce 6957
@@ -57,8 +57,8 @@ gerçekten 6543
 beni 6281
 Tom'u 6224
 sadece 6049
-ama 5889
-yapmak 5854
+ama 5891
+yapmak 5855
 olarak 5785
 sonra 5685
 şeyi 5642
@@ -91,7 +91,7 @@ Lütfen 3859
 nereli" 3848
 tek 3833
 vardı 3830
-hiçbir 3774
+hiçbir 3775
 Fransızca 3738
 biliyorum 3728
 iki 3701
@@ -108,7 +108,7 @@ Sadece 3563
 Çok 3533
 olmak 3499
 biliyor 3492
-güzel 3484
+güzel 3485
 olacak 3439
 Ali 3362
 aldı 3358
@@ -119,7 +119,7 @@ kişi 3286
 gitmek 3274
 değilim 3255
 başka 3230
-uzun 3211
+uzun 3212
 yıl 3161
 Ona 3132
 Bunun 3118
@@ -191,8 +191,8 @@ zor 2280
 ilk 2275
 kabul 2272
 şekilde 2268
+bugün 2259
 artık 2258
-bugün 2258
 Leyla 2249
 miyim 2239
 tarafından 2230
@@ -242,7 +242,7 @@ yaptığını 1806
 En 1803
 günü 1800
 söyledim 1777
-tüm 1771
+tüm 1772
 fark 1766
 görmek 1745
 on 1744
@@ -300,7 +300,7 @@ bizi 1517
 bilmiyor 1507
 beri 1505
 böyle 1500
-şeyler 1495
+şeyler 1496
 olduğumu 1494
 çalışıyor 1492
 ihtiyacı 1486
@@ -313,8 +313,8 @@ et 1465
 dışarı 1457
 yapıyor 1454
 Onunla 1447
+tamamen 1444
 insanlar 1443
-tamamen 1443
 üzerinde 1442
 söz 1434
 görünüyordu 1434
@@ -350,7 +350,7 @@ sorun 1301
 nereye 1300
 boyunca 1300
 hazır 1300
-genellikle 1292
+genellikle 1293
 yaptım 1289
 meşgul 1284
 terk 1274
@@ -398,7 +398,7 @@ su 1138
 düşünüyorsun 1137
 Başka 1134
 Geçen 1124
-kısa 1120
+kısa 1124
 fakat 1118
 Dan 1115
 Umarım 1113
@@ -560,7 +560,7 @@ yine 769
 attı 768
 ol 767
 istediğim 767
-Hangi 763
+Hangi 764
 süredir 763
 balık 762
 yaptığı 762
@@ -724,9 +724,9 @@ kar 568
 yavaş 567
 uygun 566
 İşte 566
+bazen 566
 yapabilir 566
 Asla 566
-bazen 565
 ayrıldı 565
 düştü 564
 Muhtemelen 563
@@ -980,8 +980,8 @@ neler 414
 biliyoruz 414
 fincan 413
 Birisi 413
+haklı 413
 güvenli 412
-haklı 412
 şehir 411
 dünyanın 411
 başarısız 411
@@ -1115,6 +1115,7 @@ yapmadım 358
 Anne 357
 korkuyor 357
 New 356
+Hayat 356
 günleri 356
 Boston'dan 356
 Japonya'da 355
@@ -1123,7 +1124,6 @@ otobüs 354
 teslim 354
 gerekiyordu 352
 okul 351
-Hayat 351
 üzere 351
 hayır 351
 temiz 350
@@ -1659,12 +1659,12 @@ etmelisin 239
 sonuna 239
 partisine 239
 şişe 238
+hayvan 238
 duyuyor 238
 bitirdi 238
 zayıf 238
 çocukken 238
 içmeyi 237
-hayvan 237
 içer 237
 yakışıklı 237
 sizinle 237
@@ -1997,6 +1997,7 @@ Sabah 196
 ormanda 196
 ettiği 196
 gidebilir 195
+Kitabı 195
 döneceğim 195
 kitabın 195
 Harika 195
@@ -2010,7 +2011,6 @@ söylemem 195
 restoranda 195
 üstesinden 195
 güvenilir 195
-Kitabı 194
 Kahve 194
 değerli 194
 denir 194
@@ -2474,6 +2474,7 @@ sözlük 158
 iyisi 158
 kalacağını 158
 edebileceğini 158
+uyumak 157
 yorgunum 157
 portakal 157
 yapın 157
@@ -2485,7 +2486,6 @@ sürecek 157
 bunları 157
 sevdi 157
 göründüğünü 157
-uyumak 156
 yaşamayı 156
 ayda 156
 uyuşturucu 156
@@ -2689,6 +2689,7 @@ istasyonda 144
 günler 144
 geçiriyor 144
 uyku 144
+denize 144
 kamyon 144
 arabada 144
 yaşıyorlar 144
@@ -2701,7 +2702,6 @@ etmeden 143
 Tamamen 143
 diyor 143
 çocuklara 143
-denize 143
 merkezine 143
 Yeterli 143
 bunlar 143
@@ -3864,6 +3864,7 @@ görmekten 99
 gıda 99
 Pencereyi 99
 teklifi 99
+pahalıdır 99
 kolaydı 99
 15 99
 trenle 99
@@ -3887,7 +3888,6 @@ karışmış 99
 olmamı 99
 partisinde 99
 Sami'ye 99
-pahalıdır 98
 sözcük 98
 ata 98
 Devletleri 98
@@ -5100,6 +5100,7 @@ makinesini 72
 etsin 72
 Bahçede 72
 eş 72
+öğretmendir 72
 yerime 72
 kararmadan 72
 mobilya 72
@@ -5159,7 +5160,6 @@ kalmaz 71
 kasten 71
 gelirim 71
 hakkına 71
-öğretmendir 71
 kardeşime 71
 popülerdir 71
 Çocukları 71
@@ -5229,6 +5229,7 @@ Doktorlar 70
 kadındır 70
 kurmaya 70
 tıbbi 70
+alacaksın 70
 reklam 70
 koku 70
 biletleri 70
@@ -5295,7 +5296,6 @@ kullanma 69
 seksen 69
 Kyoto'da 69
 okuyabilir 69
-alacaksın 69
 bahar 69
 zengindir 69
 konuşabilirim 69
@@ -7714,6 +7714,7 @@ alışkanlık 45
 Öncelikle 45
 butona 45
 gerçekte 45
+yapmamak 45
 dayanamam 45
 gittikten 45
 koşullar 45
@@ -7862,7 +7863,6 @@ sözlükte 44
 mutludur 44
 kaçınmaya 44
 şüphesiz 44
-yapmamak 44
 Noel'i 44
 yapacağıma 44
 söylenti 44

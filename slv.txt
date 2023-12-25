@@ -1,6 +1,6 @@
-je 957
+je 959
 Ali 226
-sem 169
+sem 170
 se 167
 v 157
 Tom 127
@@ -14,8 +14,8 @@ mesto 88
 govoriš 87
 Govoriš 86
 Govorite 86
+To 83
 Ne 82
-To 81
 si 79
 Kaj 74
 za 73
@@ -23,7 +23,7 @@ mi 67
 ni 65
 zelo 64
 glavno 64
-Jaz 58
+Jaz 59
 Govorim 53
 Koliko 46
 ime 45
@@ -32,10 +32,10 @@ Kako 42
 lahko 42
 to 42
 iz 42
+moj 40
 bi 40
-moj 39
 me 37
-moja 36
+moja 37
 ki 35
 jezik 35
 ima 34
@@ -57,11 +57,11 @@ Mary 25
 kot 24
 On 24
 vse 24
+Marija 24
 Moje 23
 bila 23
 tvoj 23
 s 23
-Marija 23
 Kdaj 22
 angleško 21
 Živijo 21
@@ -72,10 +72,10 @@ ta 20
 bom 20
 stane 20
 Ime 20
+prosim 19
 svojo 19
 Kdor 19
 ste 18
-prosim 18
 ali 18
 še 18
 ga 18
@@ -87,6 +87,7 @@ Ta 17
 kaj 17
 oče 17
 bilo 17
+dežela 17
 težka 17
 reče 17
 Ura 17
@@ -94,7 +95,6 @@ Nimam 16
 francosko 16
 Imam 16
 lepo 16
-dežela 16
 Lahko 15
 jo 15
 vedno 15
@@ -228,6 +228,8 @@ učitelj 7
 Imaš 7
 obožujejo 7
 zasebna 7
+list 6
+Da 6
 vam 6
 zdaj 6
 Všeč 6
@@ -277,7 +279,6 @@ tibetansko 6
 Uči 6
 učiteljica 6
 barva 6
-Da 5
 eno 5
 treba 5
 roke 5
@@ -392,7 +393,7 @@ največji 5
 Nebo 5
 Dober 4
 Anglež 4
-list 4
+potni 4
 želim 4
 boste 4
 vdova 4
@@ -562,7 +563,6 @@ bije 4
 izvira 4
 stvar 4
 Izgubil 3
-potni 3
 verjamem 3
 držati 3
 Pogosto 3
@@ -1344,6 +1344,7 @@ zapleten 2
 seveda 2
 Italijan 2
 Italijanka 2
+Ja 2
 Kitajka 2
 Kitajec 2
 papige 2
@@ -3415,7 +3416,6 @@ Bali 1
 Indijskem 1
 oceanu 1
 plešast 1
-Ja 1
 branje 1
 Ljubite 1
 sovražnike 1
@@ -3906,3 +3906,4 @@ slovnico 1
 jezika 1
 Čigava 1
 okrogel 1
+Potni 1

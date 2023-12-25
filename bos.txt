@@ -1,4 +1,4 @@
-je 451
+je 452
 se 171
 sam 162
 u 156
@@ -95,6 +95,7 @@ tu 10
 ljudi 10
 nas 10
 znam 10
+danas 10
 sada 10
 tvoj 9
 zove 9
@@ -111,7 +112,6 @@ znao 9
 Mislim 9
 Svi 9
 godina 9
-danas 9
 dobro 9
 Kada 9
 knjiga 8
@@ -317,6 +317,7 @@ kad 4
 hvala 4
 kruh 4
 stvari 4
+Koji 4
 kiša 4
 dao 4
 sestra 4
@@ -453,7 +454,6 @@ stići 3
 zaboravio 3
 uzeo 3
 znači 3
-Koji 3
 ni 3
 koga 3
 stan 3
@@ -725,6 +725,7 @@ mami 2
 Pisaću 2
 svom 2
 uredu 2
+datum 2
 počinje 2
 ostali 2
 bismo 2
@@ -1685,7 +1686,6 @@ prekosutra 1
 pojeo 1
 Napisaću 1
 Ništa 1
-datum 1
 rođeni 1
 Tisuću/Hiljadu 1
 devetsto 1

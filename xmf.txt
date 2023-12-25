@@ -1,4 +1,4 @@
-Ma 173
+Ma 174
 re 92
 ma 44
 Tom 42
@@ -6,20 +6,20 @@ Si 34
  33
 te 28
 do 25
-si 24
+si 25
+Toms 22
 Tena 21
 Tkva 21
-Toms 21
 Tina 20
 tena 18
 Tomi 18
 vare 16
+reno 15
 moǩo 15
 tina 15
 რე 14
 vore 14
 Te 14
-reno 14
 So 13
 Tis 13
 მა 12
@@ -69,6 +69,7 @@ bosṫons 6
 chqi 6
 Re 6
 taki 6
+dǧas 6
 Tomik 6
 tak 6
 თენა 5
@@ -82,10 +83,10 @@ ase 5
 mutuni 5
 ʒaneri 5
 Mardi 5
+mushi 5
 toms 5
 ren 5
 miçku 5
-dǧas 5
 çkaras 5
 reki 5
 bordji 5
@@ -112,7 +113,6 @@ rdƨ 4
 mitin 4
 Amdǧa 4
 Malas 4
-mushi 4
 dudi 4
 vordi 4
 Muç̌o 4
@@ -202,7 +202,9 @@ para 3
 midartu 3
 ɣ'udes 3
 muşi 3
+iri 3
 voreki 3
+Bordji 3
 ჟირი 2
 ჩქიმი 2
 რიკარდო 2
@@ -288,6 +290,7 @@ saqvarua 2
 Glaxa 2
 va 2
 Jgiri 2
+Chxuru 2
 Namu 2
 Jgiro 2
 Vamichqu 2
@@ -390,6 +393,7 @@ Mire 2
 odinuans 2
 Kudosǩidi 2
 oxorana 2
+kumortƨ 2
 Tineps 2
 ninari 2
 merça 2
@@ -436,7 +440,6 @@ sǩua 2
 mutƨ 2
 Tinepi 2
 vaxorans 2
-iri 2
 djgiri 2
 Mikƨ 2
 Tikƨ 2
@@ -444,7 +447,6 @@ p̌ianinos 2
 miɣ'orsu 2
 amar 2
 oxorants 2
-Bordji 2
 doxturi 2
 chkini 2
 chkimi 2
@@ -892,7 +894,6 @@ peulis 1
 ujinedƨ 1
 ushulebu 1
 Ushulebu 1
-Chxuru 1
 Jgirobua 1
 Ragadanc 1
 Frangulc 1
@@ -1770,8 +1771,8 @@ zojuntu 1
 Gonjarno 1
 Geishagorit 1
 Sore 1
-ʒɣars 1
-bşunk 1
+tzq'ars 1
+bshunk 1
 vaɣuntsu 1
 oxorja 1
 gegito 1
@@ -1798,7 +1799,6 @@ oolafinia 1
 Misvanjit 1
 50 1
 ǩoçişax 1
-kumortƨ 1
 mabire 1
 ret 1
 Diaçkims 1
@@ -2581,3 +2581,12 @@ uskvamashi 1
 Oxorsha 1
 midartit 1
 Gosopuri 1
+udjgushi 1
+moxazireba 1
+uǧuu 1
+Gegniǩinit 1
+vagapuno 1
+gilebruleki 1
+Maxintzal 1
+shvans 1
+Mesiaǩonuri 1

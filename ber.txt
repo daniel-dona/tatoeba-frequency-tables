@@ -1,13 +1,13 @@
-ad 179765
+ad 179767
 n 147651
-d 109376
-ara 89773
+d 109377
+ara 89774
 ay 71470
 i 58636
-deg 56059
-Ur 52075
+deg 56060
+Ur 52076
 ur 47865
-Tom 41904
+Tom 41905
 asegzawal 39616
 ɣef 32098
 ɣer 31358
@@ -45,7 +45,7 @@ d-tseɣ 6603
 d-sɣen 6483
 la 6276
 Melmi 6133
-am 6058
+am 6059
 ayen 5775
  5668
 mi 5605
@@ -92,7 +92,7 @@ anda 3081
 Mi 3067
 uɣerbaz 3043
 llan 2988
-akka 2980
+akka 2981
 nekk 2979
 din 2970
 Lliɣ 2927
@@ -302,7 +302,7 @@ d-tesɣem 1126
 imsujji 1120
 war 1118
 d-tuɣem 1118
-Werǧin 1113
+Werǧin 1114
 d-tesɣam 1109
 Ha-tt-an 1108
 armi 1107
@@ -746,8 +746,8 @@ tesriḍ 457
 uydi 457
 taɣlust 456
 tallalt 455
+wi 455
 mer 455
-wi 454
 mazal-it 453
 Meqqran 453
 Lwennas 453
@@ -4914,6 +4914,7 @@ tawim 66
 uswir 66
 lmendad 66
 yidir 66
+tasawent 66
 turtit 66
 ilaqen 66
 aklan 66
@@ -4970,7 +4971,6 @@ Aql-i 65
 imecṭaḥ 65
 Yiqbayliyen 65
 tannayt-nnem 65
-tasawent 65
 yuɣ-as-d 65
 ssya 65
 uɣlad 65
@@ -5409,6 +5409,7 @@ tameddurt-is 58
 ummil 58
 tessirt 58
 tmeddurt-is 58
+lekdubat 58
 usiḍyas 58
 yettqellib 58
 Ilim 58
@@ -5487,7 +5488,6 @@ leɛmer-is 57
 yessuli 57
 yettɛeddayen 57
 ddnub 57
-lekdubat 57
 Ili-kent 57
 Aɣdebbu 57
 Wahran 57

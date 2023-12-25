@@ -1,7 +1,7 @@
-je 1688
+je 1690
 se 614
 u 557
-sam 459
+sam 460
 da 412
 li 392
 na 324
@@ -27,7 +27,7 @@ s 104
 će 99
 Ona 95
 bi 93
-Ja 91
+Ja 92
 Što 89
 ću 87
 bio 84
@@ -66,13 +66,13 @@ Koliko 44
 nešto 44
 jako 43
 samo 43
+Ovo 42
 dan 42
 svoje 42
 uvijek 42
 Nisam 42
 U 42
 koji 42
-Ovo 41
 do 41
 Imam 41
 moj 40
@@ -101,13 +101,13 @@ Mogu 32
 Danas 32
 puno 32
 Nije 32
+moja 31
 znam 31
 kada 31
 vidjeti 31
 Ti 31
 tvoj 30
 knjiga 30
-moja 30
 doći 30
 nas 30
 tu 30
@@ -135,6 +135,7 @@ Dobro 25
 po 25
 engleski 25
 već 25
+molim 25
 možeš 25
 Oni 24
 malo 24
@@ -143,13 +144,13 @@ Svi 24
 bili 24
 Molim 24
 dvije 24
+danas 24
 jedan 24
 dobar 23
 čovjek 23
 Ta 23
 joj 23
 jučer 23
-danas 23
 dana 23
 želiš 23
 ovaj 22
@@ -157,7 +158,6 @@ raditi 22
 nam 22
 grad 22
 treba 22
-molim 22
 godina 22
 dok 22
 tvoje 21
@@ -171,6 +171,7 @@ sada 21
 želi 21
 život 21
 tko 20
+Koji 20
 svojim 20
 tome 20
 jer 20
@@ -182,7 +183,6 @@ Imaš 20
 Moram 20
 ste 19
 novac 19
-Koji 19
 kupio 19
 Jučer 19
 Znam 19
@@ -506,6 +506,7 @@ razumjeti 8
 Imamo 8
 srce 8
 sebe 8
+zemlja 8
 sin 8
 lijep 8
 igrati 8
@@ -568,7 +569,6 @@ pomoć 7
 svijeta 7
 svijet 7
 djeca 7
-zemlja 7
 pravi 7
 nakon 7
 školi 7
@@ -701,6 +701,7 @@ moguće 6
 hrani 6
 dala 6
 ostao 6
+Marija 6
 idemo 6
 hoće 6
 mraka 6
@@ -850,7 +851,6 @@ redu 5
 igrao 5
 šetnju 5
 gleda 5
-Marija 5
 popodne 5
 znanost 5
 Dječak 5
@@ -2039,6 +2039,7 @@ učenici 2
 drže 2
 njemačkog 2
 Ostavio 2
+datum 2
 dolazim 2
 mojom 2
 izgledaš 2
@@ -3843,7 +3844,6 @@ otvorenim 1
 Kažnjena 1
 nepažljive 1
 vožnje 1
-datum 1
 moćan 1
 damom 1
 potrebu 1
@@ -8243,3 +8243,6 @@ teška 1
 Sloveniji 1
 Svijet 1
 okrugli 1
+Kavu 1
+Vodu 1
+Putovnicu 1
