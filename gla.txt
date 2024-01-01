@@ -1,15 +1,15 @@
 Tha 279
 a 267
-an 263
+an 264
 mi 174
 e 133
 ann 116
-a' 106
+a' 107
 air 101
-tha 88
+tha 89
 Tòmas 87
 bheil 86
-thu 84
+thu 85
 gu 70
 eil 65
 ag 64
@@ -30,8 +30,8 @@ A 37
 agam 37
 robh 37
 math 35
+Dè 30
 sibh 30
-Dè 29
 obair 29
 agus 28
 Is 27
@@ -46,13 +46,13 @@ An 24
 gun 24
 latha 23
 mo 22
+an-diugh 22
 an-dè 21
-an-diugh 21
 Am 20
 le 19
 dhan 19
+iad 19
 "An 19
-iad 18
 nach 18
 taigh 18
 Fraingis 18
@@ -81,12 +81,14 @@ ort 14
 cho 14
 orm 13
 bi 13
+leabhar 13
 B' 13
 sgìth 13
 uisge 12
 an-dràsda 12
 dhuinn 12
 Càite 12
+tu 12
 ’S 12
 dè 12
 is 12
@@ -96,10 +98,8 @@ Bidh 11
 urrainn 11
 nas 11
 feum 11
-tu 11
 tighinn 11
 dhut 11
-leabhar 11
 toilichte 11
 agaibh 11
 à 11
@@ -140,6 +140,7 @@ gur 8
 fhaicinn 8
 mhath 8
 cò 8
+sa 8
 aon 8
 Thòmais 8
 iongnadh 8
@@ -152,7 +153,6 @@ fhios 7
 cù 7
 fon 7
 bhi 7
-sa 7
 faca 7
 chionn 7
 Bu 7
@@ -209,6 +209,7 @@ ann" 6
 luath 5
 Halò 5
 t-acras 5
+cur 5
 beagan 5
 bhith 5
 duilich 5
@@ -250,7 +251,6 @@ aois 4
 Astràilia 4
 an-dràsta 4
 thoil 4
-cur 4
 feumaidh 4
 smaoineachadh 4
 deagh 4
@@ -384,6 +384,7 @@ Dùin 3
 còig 3
 fadalach 3
 t-sìde 3
+ghàrradh 3
 far 3
 thòisich 3
 ràdh 3
@@ -582,7 +583,6 @@ shìde 2
  2
 saoghal 2
 Madainn 2
-ghàrradh 2
 cudromach 2
 Sin 2
 Bheil 2
@@ -1413,3 +1413,5 @@ Cho-dhùin 1
 gluasad 1
 Bheilg 1
 lionn 1
+Sgrìobh 1
+Ceannaichidh 1

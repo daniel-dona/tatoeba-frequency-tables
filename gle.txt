@@ -1,4 +1,4 @@
-an 653
+an 654
 a 624
 Tá 615
 mé 394
@@ -6,7 +6,7 @@ ag 388
 Is 333
 é 265
 ar 237
-tú 209
+tú 210
 sé 208
 go 206
 An 204
@@ -44,9 +44,9 @@ raibh 59
 dul 56
 ann 55
 Cad 53
-leabhar 49
+leabhar 51
+siad 50
 leis 49
-siad 49
 Cén 49
 iarraidh 48
 duine 46
@@ -197,6 +197,7 @@ lán 11
 Ar 11
 Conas 11
 mó 11
+inniu 11
 fheiceáil 11
 ocras 11
 Rachaidh 11
@@ -215,7 +216,6 @@ doras 10
 Fraincis 10
 ais 10
 airgid 10
-inniu 10
 chara 10
 cosúil 10
 charr 10
@@ -397,6 +397,7 @@ t-arán 5
 fada 5
 haon 5
 mhac 5
+Scríobh 5
 imirt 5
 hÉire 5
 ard 5
@@ -504,7 +505,6 @@ agaibh 4
 déag 4
 ceannach 4
 caitheamh 4
-Scríobh 4
 Bí 4
 Átha 4
 Cliath 4
@@ -2972,3 +2972,4 @@ bhearradh 1
 mbuafaidh 1
 ró-ghnóthach 1
 Tchórz 1
+Ceannóidh 1

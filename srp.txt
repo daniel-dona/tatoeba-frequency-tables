@@ -20,7 +20,7 @@ i 1394
 не 1202
 to 1172
 ne 1150
-mi 1024
+mi 1023
 Da 1021
 ми 1006
 si 984
@@ -2320,7 +2320,6 @@ Idi 13
 nazad 13
 važan 13
 pronašao 13
-zemlja 13
 pijem 13
 budi 13
 jedina 13
@@ -2512,6 +2511,7 @@ zadatak 12
 odgovorio 12
 istovremeno 12
 zainteresovan 12
+zemlja 12
 stavio 12
 Nisu 12
 otkaz 12
@@ -3699,6 +3699,7 @@ jutra 8
 puši 8
 sav 8
 najgore 8
+zemalja 8
 račun 8
 prsten 8
 dokaz 8
@@ -4191,7 +4192,6 @@ vratim 7
 čitao 7
 povredi 7
 bioskop 7
-zemalja 7
 zatvoru 7
 koristim 7
 Nemački 7

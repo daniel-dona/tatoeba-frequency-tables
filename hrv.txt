@@ -1,14 +1,14 @@
-je 1690
+je 1691
 se 614
 u 557
 sam 460
-da 412
+da 413
 li 392
 na 324
 ne 282
 Tom 274
 i 236
-su 218
+su 219
 mi 209
 Ne 192
 to 188
@@ -16,18 +16,18 @@ za 167
 si 166
 što 164
 nije 158
+od 150
 On 149
-od 149
 To 128
 ti 119
 te 118
-me 108
+me 109
 smo 107
 s 104
 će 99
 Ona 95
+Ja 93
 bi 93
-Ja 92
 Što 89
 ću 87
 bio 84
@@ -52,11 +52,11 @@ dobro 49
 kako 48
 tako 47
 Želim 47
+prije 47
 iz 47
 ali 46
 Gdje 46
 vrijeme 46
-prije 46
 svoj 46
 bila 46
 kao 45
@@ -72,9 +72,9 @@ svoje 42
 uvijek 42
 Nisam 42
 U 42
+Imam 42
 koji 42
 do 41
-Imam 41
 moj 40
 sa 40
 vrlo 40
@@ -151,21 +151,21 @@ dobar 23
 Ta 23
 joj 23
 jučer 23
+knjigu 23
 dana 23
+godina 23
 želiš 23
 ovaj 22
 raditi 22
 nam 22
 grad 22
 treba 22
-godina 22
 dok 22
 tvoje 21
 Mi 21
 kući 21
 dijete 21
 Uvijek 21
-knjigu 21
 sada 21
 ćemo 21
 želi 21
@@ -270,6 +270,7 @@ stvarno 14
 svi 14
 nekoliko 14
 Trebao 14
+stvari 14
 najbolje 14
 novaca 14
 riječ 14
@@ -289,9 +290,9 @@ kod 13
 učiti 13
 sviđa 13
 rano 13
+koje 13
 tebi 13
 možemo 13
-stvari 13
 nisi 13
 znao 13
 svijetu 12
@@ -311,7 +312,6 @@ majka 12
 kuća 12
 poslije 12
 koju 12
-koje 12
 sobi 12
 jesti 12
 misli 12
@@ -353,6 +353,7 @@ znači 11
 oko 11
 smrti 11
 čekati 11
+imam 11
 brat 11
 točno 11
 nisu 11
@@ -390,7 +391,6 @@ htio 10
 Trebamo 10
 jedno 10
 Bila 10
-imam 10
 ni 10
 Italiji 10
 odmah 10
@@ -453,6 +453,7 @@ hranu 9
 netko 9
 Nikad 9
 živio 9
+jedna 9
 teško 9
 savjet 9
 ovom 9
@@ -513,7 +514,6 @@ igrati 8
 dječaka 8
 večeras 8
 Ništa 8
-jedna 8
 govorio 8
 pije 8
 voziti 8
@@ -955,6 +955,7 @@ Ovog 4
 veliku 4
 duže 4
 hotelu 4
+nad 4
 sretna 4
 ponašanje 4
 čak 4
@@ -1178,6 +1179,7 @@ smijemo 4
 odlučio 4
 pištolj 4
 Sad 4
+Budite 4
 Rekla 4
 dušu 4
 Sokrat 4
@@ -1193,6 +1195,7 @@ torba 3
 ostatak 3
 Sva 3
 bića 3
+osam 3
 Tvoji 3
 sviđaju 3
 ptice 3
@@ -1282,7 +1285,6 @@ jaja 3
 roditeljima 3
 cijelim 3
 slučaj 3
-nad 3
 Boli 3
 crno 3
 oblačno 3
@@ -1708,7 +1710,6 @@ profesorica 2
 prevoditelj 2
 pravima 2
 jedni 2
-osam 2
 Triput 2
 rezultati 2
 Kažu 2
@@ -2511,6 +2512,7 @@ dokasno 2
 Napokon 2
 biljke 2
 oboje 2
+Metafore 2
 natrag 2
 ručak 2
 onome 2
@@ -2617,6 +2619,7 @@ besplatne 2
 Čeka 2
 Zaista 2
 jedi 2
+Umrla 2
 jeftino 2
 nastaviti 2
 tajna 2
@@ -2717,7 +2720,6 @@ zamolio 2
 Trebali 2
 Pa 2
 dijamante 2
-Budite 2
 Betty 2
 Ubiti 2
 Ubio 2
@@ -2867,6 +2869,7 @@ Samarkandu 2
 poginuti 2
 Sloboda 2
 insekti 2
+svoji 2
 Tomojuki 1
 Ogura 1
 lutka 1
@@ -5844,7 +5847,6 @@ svibnja 1
 glupan 1
 kritizira 1
 učitelja 1
-Metafore 1
 Zatvorio 1
 namještaja 1
 zabrinjava 1
@@ -6319,7 +6321,6 @@ nijednog 1
 zaljubljen 1
 neprijatelj 1
 svinja 1
-Umrla 1
 prodao 1
 Prodao 1
 juhu 1
@@ -8246,3 +8247,6 @@ okrugli 1
 Kavu 1
 Vodu 1
 Putovnicu 1
+tjeraju 1
+očajavam 1
+pisanjem 1
