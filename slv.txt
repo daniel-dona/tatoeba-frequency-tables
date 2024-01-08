@@ -1,4 +1,4 @@
-je 959
+je 961
 Ali 226
 sem 170
 se 167
@@ -74,6 +74,7 @@ stane 20
 Ime 20
 prosim 19
 svojo 19
+bilo 19
 Kdor 19
 ste 18
 ali 18
@@ -86,7 +87,6 @@ V 17
 Ta 17
 kaj 17
 oče 17
-bilo 17
 Imam 17
 dežela 17
 težka 17
@@ -240,6 +240,7 @@ rekla 6
 kdaj 6
 mama 6
 drugi 6
+Včeraj 6
 šolo 6
 naredil 6
 Kakšno 6
@@ -331,6 +332,7 @@ točno 5
 kje 5
 Nemčije 5
 New 5
+vroče 5
 sama 5
 sin 5
 Boga 5
@@ -429,7 +431,6 @@ pod 4
 Mačke 4
 Lačen 4
 čebele 4
-Včeraj 4
 iti 4
 vode 4
 čaj 4
@@ -466,6 +467,7 @@ miru 4
 Jack 4
 vprašanja 4
 tam 4
+precej 4
 družino 4
 hišo 4
 piha 4
@@ -669,7 +671,6 @@ razumel 3
 leti 3
 pismo 3
 prišla 3
-precej 3
 tebe 3
 radi 3
 Angleščina 3
@@ -686,7 +687,6 @@ počasi 3
 sva 3
 Napisal 3
 uporablja 3
-vroče 3
 prideš 3
 noč 3
 Vemo 3

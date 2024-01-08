@@ -1,5 +1,5 @@
 k 1143
-is 862
+is 863
 n 676
 t 632
 Tom 466
@@ -11,7 +11,7 @@ binnen 262
 Zai 225
 joe 207
 Wie 197
-het 179
+het 180
 en 174
 Is 164
 mien 163
@@ -441,6 +441,7 @@ oldste 9
 mòst 9
 Vien 8
 de 8
+Hier 8
 woonst 8
 wis 8
 gruine 8
@@ -513,7 +514,6 @@ weer 7
 haarst 7
 wast 7
 laid 7
-Hier 7
 pioano 7
 bier 7
 wonnen 7
@@ -4423,3 +4423,4 @@ hozen 1
 apperoat 1
 aarten 1
 Noordamerikoa 1
+wc-papier 1

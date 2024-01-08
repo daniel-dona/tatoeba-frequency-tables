@@ -1,27 +1,27 @@
-Tom 128946
+Tom 128947
 bir 101389
 O 39218
 için 35999
 Bu 32733
-çok 29542
+çok 29544
 ve 28364
 Tom'un 28066
-var 23350
+var 23351
 Ben 22070
-ne 21473
+ne 21474
 kadar 18083
 daha 18020
-değil 17933
-mi 16817
+değil 17932
+mi 16816
 şey 16810
 olduğunu 16026
 iyi 15916
 onu 14996
-bu 14802
+bu 14803
 Mary 13444
 Mary'nin 12548
-Bir 12515
-zaman 12386
+Bir 12516
+zaman 12387
 bunu 12161
 bana 12085
 her 11962
@@ -78,7 +78,7 @@ gün 4943
 zorunda 4902
 büyük 4780
 senin 4539
-oldu 4495
+oldu 4496
 üç 4491
 asla 4390
 Sanırım 4306
@@ -149,7 +149,7 @@ bize 2813
 Seni 2811
 kötü 2810
 ziyaret 2786
-saat 2773
+saat 2774
 geldi 2767
 Bugün 2755
 satın 2747
@@ -263,7 +263,7 @@ insan 1677
 henüz 1673
 dün 1669
 buraya 1663
-aldım 1654
+aldım 1655
 önemli 1643
 birçok 1642
 misiniz 1637
@@ -326,7 +326,7 @@ yaşıyor 1425
 kolay 1421
 yoksa 1397
 bazı 1386
-benden 1386
+benden 1385
 ev 1380
 olmalı 1373
 istedim 1365
@@ -338,11 +338,11 @@ eder 1349
 eski 1346
 kesinlikle 1345
 dakika 1343
-geliyor 1338
+geliyor 1339
 ikna 1331
 Onlara 1328
 yerde 1325
-işi 1321
+işi 1322
 söylemek 1318
 mü 1309
 onları 1307
@@ -359,7 +359,7 @@ yere 1270
 öldü 1266
 bilmek 1264
 göre 1262
-yardımcı 1255
+yardımcı 1256
 çıktı 1255
 yüzden 1254
 geçen 1253
@@ -546,8 +546,8 @@ düşündü 781
 görünüyorsun 780
 olsun 779
 istediği 778
-arkadaş 777
 onların 777
+arkadaş 776
 Birkaç 776
 Ali'nin 776
 yaşında 775
@@ -767,10 +767,10 @@ gösterdi 534
 sayıda 533
 niçin 533
 garip 532
+sonraki 530
 hayat 530
 ifade 530
 Dünya 529
-sonraki 529
 söyler 528
 kırmızı 528
 hayatta 526
@@ -786,8 +786,8 @@ Kaç 519
 söyleme 519
 babası 519
 sürede 519
+şarap 518
 yapma 518
-şarap 517
 akıllı 517
 ana 512
 mal 512
@@ -1119,8 +1119,8 @@ Hayat 356
 günleri 356
 Boston'dan 356
 Japonya'da 355
+otobüs 355
 spor 355
-otobüs 354
 teslim 354
 gerekiyordu 352
 okul 351
@@ -1134,13 +1134,13 @@ yapmamız 350
 Şimdiye 350
 Genellikle 349
 Birlikte 349
-olsaydı 349
 suçlu 349
 oyunu 348
 durum 348
 Senden 348
 olacağız 348
 yardıma 348
+olsaydı 348
 dürüst 347
 anlattı 347
 Boston 347
@@ -1427,13 +1427,13 @@ derhal 279
 Jackson 279
 yapmaz 278
 derin 278
+kaçta 278
 kesti 278
 çalışma 278
 onlardan 278
 değiştirdi 278
 Fransızcayı 277
 anlamına 277
-kaçta 277
 buradayım 277
 meyve 276
 başlar 276
@@ -1529,7 +1529,7 @@ verdiği 260
 sorumlu 260
 konuştum 260
 yapalım 260
-Otobüs 258
+Otobüs 259
 kapı 258
 endişe 258
 aşk 258
@@ -1665,6 +1665,7 @@ bitirdi 238
 zayıf 238
 çocukken 238
 içmeyi 237
+gazete 237
 içer 237
 yakışıklı 237
 sizinle 237
@@ -1674,7 +1675,6 @@ görünmüyorsun 237
 sinemaya 236
 taksi 236
 Fakat 236
-gazete 236
 alışverişe 236
 arka 236
 ölü 235
@@ -2249,6 +2249,7 @@ akıcı 175
 egzersiz 175
 iğrenç 175
 otobüse 174
+başkanı 174
 mutfakta 174
 banka 174
 rastladım 174
@@ -2266,7 +2267,6 @@ olmanı 174
 isteyip 174
 kiminle 174
 gömlek 173
-başkanı 173
 Tamam 173
 Oyun 173
 "Bu 173
@@ -2472,6 +2472,7 @@ kızla 158
 problem 158
 sözlük 158
 iyisi 158
+kimdir 158
 kalacağını 158
 edebileceğini 158
 uyumak 157
@@ -2480,7 +2481,6 @@ portakal 157
 yapın 157
 Bob 157
 kalmasını 157
-kimdir 157
 sürecek 157
 şeylerin 157
 bunları 157
@@ -2681,7 +2681,6 @@ yazın 145
 dilini 145
 kardeşine 145
 kaldığını 145
-olmazdı 145
 Mümkün 144
 başkenti 144
 Dikkat 144
@@ -2695,6 +2694,7 @@ arabada 144
 yaşıyorlar 144
 tadını 144
 ebeveynleri 144
+olmazdı 144
 Masanın 143
 Kadın 143
 bisikleti 143
@@ -4663,6 +4663,7 @@ okumadım 80
 kediyi 80
 hazırız 80
 karım 80
+pis 80
 Fransa 80
 Facebook 80
 hataydı 80
@@ -4715,7 +4716,6 @@ bencil 79
 dokunma 79
 Siyah 79
 ebeveynlerinin 79
-pis 79
 kovuldu 79
 içmem 79
 okulun 79
@@ -5439,6 +5439,7 @@ Bulaşıkları 67
 hayatımın 67
 otele 67
 bulmadı 67
+kalkıyor 67
 yetecek 67
 kazanma 67
 kötüydü 67
@@ -5502,7 +5503,6 @@ etek 66
 yağacağını 66
 hayali 66
 Aile 66
-kalkıyor 66
 Saçımı 66
 Yatak 66
 hoşça 66
@@ -7007,6 +7007,7 @@ güle 50
 Gelmek 50
 edinmek 50
 koyma 50
+Amerika'nın 50
 sözcüğü 50
 Haziran 50
 ayağı 50
@@ -7121,7 +7122,6 @@ ağlamayı 49
 Grup 49
 Ann 49
 Alkol 49
-Amerika'nın 49
 bilgili 49
 Golf 49
 makineyi 49
@@ -7611,6 +7611,7 @@ Boston'daydı 46
 atma 46
 Oy 46
 arkadaşla 46
+almama 46
 bulacağımı 46
 fırında 46
 hatırlamadığını 46
@@ -7753,7 +7754,6 @@ telefonuna 45
 sorunlarını 45
 bekliyorlar 45
 dönünceye 45
-almama 45
 kuvvetli 45
 derdi 45
 alabileceğini 45
@@ -9890,6 +9890,7 @@ gücünü 33
 "Kim 33
 ölmeden 33
 sevgilim 33
+Tuvalet 33
 Odam 33
 Başın 33
 gülme 33
@@ -9997,4 +9998,3 @@ torunu 33
 memnuniyetle 33
 beklemem 33
 çıkıyorsun 33
-gitmeyin 33

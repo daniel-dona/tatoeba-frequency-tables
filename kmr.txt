@@ -1,7 +1,7 @@
 Ez 1208
 e 1033
 xwe 1033
-ji 997
+ji 998
 min 995
 bi 936
 li 828
@@ -15,12 +15,12 @@ Em 543
 Tu 522
 me 518
 te 497
-de 464
+de 465
 ne 401
 re 387
 Min 361
 Hûn 306
-di 302
+di 303
 kir 297
 çi 280
 wê 261
@@ -60,8 +60,8 @@ We 136
 im 128
 baş 127
 bikim 120
+tê 117
 da 116
-tê 116
 we 116
 bawer 115
 be 112
@@ -85,7 +85,7 @@ Her 84
 dê 81
 çawa 81
 a 80
-din 77
+din 78
 Navê 75
 dixwazim 73
 av 72
@@ -147,11 +147,11 @@ Tomî 45
 nû 44
 van 42
 hat 42
+çend 42
 tên 42
 dît 41
 zêde 41
 bê 41
-çend 41
 nake 40
 îro 40
 çima 40
@@ -756,6 +756,7 @@ karên 8
 digire 8
 miqate 8
 amûra 8
+saetan 8
 temam 8
 cot 8
 destpêkê 8
@@ -853,7 +854,6 @@ zûtir 7
 gewdeyê 7
 xirab 7
 lebatî 7
-saetan 7
 şînatiyan 7
 lîstin 7
 Lîstik 7
@@ -1174,6 +1174,7 @@ mijarê 5
 kesê 5
 çûyî 5
 diçî 5
+kengê 5
 girover 5
 heyranê 5
 ewle 5
@@ -1186,6 +1187,7 @@ guman 5
 usa 5
 piçûk 5
 zarokê 5
+radibe 5
 bersiva 5
 fikirî 5
 Duşemê 5
@@ -1433,7 +1435,6 @@ Bala 4
 pirtûkê 4
 hêk 4
 vexwar 4
-kengê 4
 hezar 4
 xwendekarek 4
 hebûna 4
@@ -1452,7 +1453,6 @@ tewrî 4
 Ewana 4
 digerin 4
 ditirsim 4
-radibe 4
 Fransî 4
 genim 4
 qezayê 4
@@ -3326,6 +3326,7 @@ Helebceyê 2
 nahêlim 2
 veqetim 2
 Werin 2
+Otobus 2
 otobus 2
 deqe 2
 peya 2
@@ -3606,6 +3607,7 @@ Parîsê 2
 Sî 2
 navçeya 2
 şermok 2
+Otobusa 2
 agahî 2
 nêzikî 2
 Awistiryayê 2
@@ -7089,7 +7091,6 @@ dîşkaya 1
 haco 1
 stûnê 1
 muzîka 1
-Otobus 1
 Heqê 1
 bilêteke 1
 transferê 1
@@ -8872,7 +8873,6 @@ kurtikê 1
 diguhêrim 1
 pijandin 1
 gerînende 1
-Otobusa 1
 gustîlkeke 1
 elmasê 1
 gilgil 1
@@ -9226,3 +9226,4 @@ leşkerê 1
 pereyî 1
 kovarek 1
 azîneyeke 1
+Taksîmê 1

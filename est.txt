@@ -1,10 +1,10 @@
-on 1391
-Ma 886
+on 1402
+Ma 887
 ei 715
 Tom 582
 sa 416
 Kas 407
-Ta 320
+Ta 322
 et 319
 See 267
 ma 213
@@ -19,9 +19,9 @@ Sa 137
 olen 133
 Mul 130
 keelt 130
+väga 122
 kui 122
 Me 122
-väga 121
 pole 113
 oled 97
 mulle 97
@@ -32,9 +32,9 @@ selle 84
 midagi 82
 ära 79
 minu 78
-palju 75
+palju 76
 Miks 75
-Kui 73
+Kui 74
 sulle 71
 sind 68
 tahan 68
@@ -120,6 +120,7 @@ mitte 28
 teie 28
 armastan 28
 nüüd 28
+suur 28
 homme 28
 seal 28
 arvan 28
@@ -130,7 +131,6 @@ tegema 27
 mul 27
 nagu 27
 koos 27
-suur 27
 kolm 27
 rohkem 27
 sõber 27
@@ -141,6 +141,7 @@ või 25
 enam 25
 ka 24
 läheb 24
+elab 24
 Mina 24
 tahad 24
 meeldi 24
@@ -149,7 +150,6 @@ kodus 23
 juba 23
 tead 23
 süüa 23
-elab 23
 Koer 23
 õppida 23
 läks 22
@@ -163,6 +163,7 @@ teed 21
 teada 21
 Keegi 21
 teine 21
+aastat 21
 Sul 21
 üles 21
 tee 21
@@ -174,7 +175,6 @@ naine 20
 lapsed 20
 Millal 20
 meeldivad 20
-aastat 20
 mina 20
 pea 20
 saan 20
@@ -194,6 +194,7 @@ tuleb 18
 raamatut 18
 praegu 18
 taga 18
+pealinn 18
 koera 18
 oleme 18
 saada 18
@@ -221,6 +222,7 @@ Kass 16
 just 16
 kiiresti 16
 Need 16
+viis 16
 kinni 16
 temaga 16
 öelda 16
@@ -234,7 +236,6 @@ andis 15
 kell 15
 jaoks 15
 kõige 15
-viis 15
 arvad 15
 väike 15
 lähen 15
@@ -258,6 +259,7 @@ elan 14
 teinud 14
 kogu 14
 vett 14
+asub 14
 keele 14
 emakeel 14
 Mari 14
@@ -306,12 +308,12 @@ kedagi 12
 Sinu 12
 alla 12
 need 12
+Head 12
 uue 12
 puu 12
 all 12
 On 12
 kooli 12
-asub 12
 rääkinud 12
 saad 12
 tihti 12
@@ -322,8 +324,6 @@ Räägi 12
 kohe 11
 kirja 11
 Selle 11
-Head 11
-pealinn 11
 Täna 11
 Isa 11
 vend 11
@@ -430,6 +430,7 @@ Su 8
 esimene 8
 Ema 8
 igal 8
+uut 8
 tunne 8
 kala 8
 uus 8
@@ -503,7 +504,6 @@ tulen 7
 aias 7
 aasta 7
 järgi 7
-uut 7
 tule 7
 öö 7
 saksa 7
@@ -654,6 +654,7 @@ koht 6
 tõusma 6
 poodi 6
 Joon 6
+Hispaania 6
 lõpus 6
 poola 6
 ungari 6
@@ -860,6 +861,7 @@ naeratas 4
 Buss 4
 Peale 4
 — 4
+maa 4
 söövad 4
 rohtu 4
 jõin 4
@@ -1001,7 +1003,6 @@ täpselt 4
 hobuse 4
 tugevam 4
 oodata 4
-Hispaania 4
 televiisorit 4
 valutab 4
 sild 4
@@ -1116,7 +1117,6 @@ kodust 3
 olemas 3
 lauset 3
 kõlab 3
-maa 3
 küsimusi 3
 laual 3
 arvuti 3
@@ -1427,6 +1427,7 @@ tädi 3
 lahkunud 3
 Aias 3
 leidis 3
+Joškar-Olas 3
 tänavatel 2
 antud 2
 südametunnistus 2
@@ -1511,6 +1512,8 @@ laualt 2
 ajab 2
 habet 2
 Keuc 2
+Phoenix 2
+Arizona 2
 sulge 2
 Naine 2
 Beebi 2
@@ -2211,6 +2214,8 @@ Rääkisin 2
 ladina 2
 raamatutest 2
 Taani 2
+Oslo 2
+Norra 2
 hollandi 2
 Rootsi 2
 Šveits 2
@@ -2330,6 +2335,10 @@ insener 2
 töölauda 2
 veinid 2
 lemmikjook 2
+Soome 2
+Madrid 2
+Gröönimaa 2
+Nuuk 2
 Sellises 1
 kärestikus 1
 ujuma 1
@@ -2698,8 +2707,6 @@ meiliaadress 1
 Hüvasti 1
 feminism 1
 feminismist 1
-Phoenix 1
-Arizona 1
 osariigi 1
 printsess 1
 tütrele 1
@@ -5235,8 +5242,6 @@ perest 1
 Jorge 1
 Norrasse 1
 Norras 1
-Oslo 1
-Norra 1
 Saksa 1
 germaani 1
 vastused 1
@@ -6374,3 +6379,13 @@ Yorgis 1
 ujuvad 1
 Kellele 1
 kirjutad 1
+feminist 1
+elasin 1
+Teheranis 1
+teatrit 1
+teatreid 1
+Kirde-Euroopas 1
+Helsingi 1
+Valgevene 1
+Ida-Euroopas 1
+Kasahstan 1

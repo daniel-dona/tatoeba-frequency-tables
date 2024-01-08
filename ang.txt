@@ -1,11 +1,11 @@
 is 59
 on 50
-and 44
-Ic 44
+Ic 46
+and 45
 biþ 29
+ne 26
 Se 25
-to 23
-ne 23
+to 24
 þæt 22
 se 21
 þa 20
@@ -16,9 +16,9 @@ Iċ 16
 Mīn 15
 God 14
 þu 14
+Tom 14
 his 13
 swa 13
-Tom 13
 Hē 13
 þone 12
 ic 12
@@ -30,9 +30,9 @@ he 10
 cyning 10
 þam 9
 mid 9
+He 9
+hæbbe 9
 þǣm 9
-He 8
-hæbbe 8
 Þæt 8
 æppel 8
 eart 8
@@ -47,6 +47,7 @@ hlāf 7
 tō 7
 sunu 6
 Isaac 6
+hine 6
 þær 6
 Abraham 6
 ūs 6
@@ -57,7 +58,7 @@ swā 6
 Wē 6
 mē 6
 Iohannes 6
-hine 5
+wille 6
 þære 5
 hit 5
 heofonum 5
@@ -75,7 +76,6 @@ Lundene 5
 ðe 5
 "ic 5
 þin 5
-wille 5
 bēo 5
 Þa 4
 sona 4
@@ -94,6 +94,7 @@ mann 4
 ys 4
 te 4
 us 4
+Þu 4
 heorte 4
 rīċe 4
 ān 4
@@ -121,6 +122,7 @@ meaht 3
 þé 3
 sēon 3
 fēoh 3
+cann 3
 nū 3
 bōc 3
 ᵹit 3
@@ -139,9 +141,9 @@ Fæder 3
 ure 3
 eorðan 3
 bist 3
+seofon 3
 We 3
 scole 3
-Þu 3
 wel 3
 wē 3
 þæm 3
@@ -182,6 +184,7 @@ siððan 2
 het 2
 self 2
 bær 2
+hwær 2
 andwyrde 2
 mine 2
 ealdan 2
@@ -193,6 +196,7 @@ Dominus 2
 selfne 2
 ofspring 2
 sceal 2
+ham 2
 blæc 2
 hƿīte 2
 hūse 2
@@ -207,9 +211,9 @@ būtan 2
 friþ 2
 Þú 2
 léogan 2
+elles 2
 mæᵹ 2
 hūs 2
-cann 2
 Mē 2
 ᵹe 2
 besta 2
@@ -241,6 +245,7 @@ fram 2
 freond 2
 sindon 2
 broðor 2
+beon 2
 ƿolde 2
 heofonum; 2
 gehalgod 2
@@ -256,7 +261,7 @@ Spricest 2
 Þancie 2
 þancie 2
 Cannst 2
-seofon 2
+Mary 2
 Tatoeba 2
 geseon 2
 ġeong 2
@@ -306,6 +311,8 @@ becwōm 2
 ealdmodor 2
 geþeodu 2
 cume 2
+cildru 2
+libbaþ 2
 fandian 1
 Abrahames 1
 gehiersumnesse 1
@@ -345,7 +352,6 @@ ascode 1
 fæder: 1
 'Fæder 1
 ascie 1
-hwær 1
 seo 1
 offrung 1
 sie; 1
@@ -439,7 +445,6 @@ hæse 1
 þus' 1
 gecierde 1
 ferdon 1
-ham 1
 heofonlicre 1
 bletsunge 1
 sæᵹde 1
@@ -479,7 +484,6 @@ morgen 1
 Ðū 1
 līhst 1
 ǽg-hƿǽm 1
-elles 1
 sylfum 1
 hȳran 1
 ič 1
@@ -667,7 +671,6 @@ licgað 1
 Hƿær 1
 Darius 1
 overƿunnen 1
-beon 1
 hiene 1
 ðæm 1
 gefeohte 1
@@ -708,7 +711,6 @@ moton 1
 gangan 1
 gæþ 1
 seolfre 1
-Mary 1
 Sum 1
 spræce 1
 geþeode 1
@@ -1090,7 +1092,6 @@ huse 1
 gecumen 1
 Eac 1
 gan 1
-cildru 1
 fæderlandes 1
 eode 1
 meolce 1
@@ -1105,6 +1106,15 @@ gehiere 1
 Frēoġaþ 1
 Scotland 1
 Trēowu 1
-libbaþ 1
 Bēo 1
 fisċ 1
+lufode 1
+secgenne 1
+ænig 1
+ðing 1
+Is 1
+heo 1
+Vera 1
+slæpan 1
+hæfst 1
+wund 1

@@ -1,8 +1,8 @@
-je 1691
+je 1692
 se 614
 u 557
-sam 460
-da 413
+sam 462
+da 414
 li 392
 na 324
 ne 282
@@ -26,7 +26,7 @@ smo 107
 s 104
 će 99
 Ona 95
-Ja 93
+Ja 94
 bi 93
 Što 89
 ću 87
@@ -57,9 +57,9 @@ iz 47
 ali 46
 Gdje 46
 vrijeme 46
+kao 46
 svoj 46
 bila 46
-kao 45
 Kako 44
 on 44
 Koliko 44
@@ -196,6 +196,7 @@ kad 19
 moje 18
 zove 18
 tri 18
+Bio 18
 govori 18
 Taj 18
 Sve 18
@@ -225,7 +226,7 @@ neće 16
 mora 16
 nikada 16
 bez 16
-Bio 16
+želim 16
 Bilo 16
 ona 16
 knjige 16
@@ -239,7 +240,6 @@ prijatelji 15
 deset 15
 ako 15
 Nema 15
-želim 15
 jezik 15
 znati 15
 ostati 15
@@ -378,6 +378,7 @@ dobra 10
 misliš 10
 Netko 10
 Japanu 10
+gladan 10
 blizu 10
 djece 10
 preko 10
@@ -498,7 +499,6 @@ telefon 8
 Idem 8
 imaš 8
 Prije 8
-gladan 8
 Misliš 8
 neke 8
 ruke 8
@@ -547,6 +547,7 @@ mača 7
 majku 7
 automobil 7
 prijatelja 7
+ponedjeljak 7
 zauzet 7
 napravio 7
 probleme 7
@@ -582,6 +583,7 @@ stol 7
 ljude 7
 kraju 7
 način 7
+Sutra 7
 nedjeljom 7
 pitao 7
 piše 7
@@ -633,7 +635,6 @@ jednostavno 6
 nebu 6
 dobri 6
 Nismo 6
-ponedjeljak 6
 kosu 6
 domaću 6
 najbolji 6
@@ -684,7 +685,6 @@ njom 6
 zub 6
 Voliš 6
 Naš 6
-Sutra 6
 noć 6
 Nazovi 6
 stalno 6
@@ -925,6 +925,7 @@ bol 4
 ruci 4
 golub 4
 Ptica 4
+vuk 4
 proljeće 4
 mačke 4
 miševi 4
@@ -1240,7 +1241,6 @@ York 3
 jače 3
 vrabac 3
 nebom 3
-vuk 3
 došlo 3
 pasa 3
 ovome 3
@@ -1861,6 +1861,7 @@ brinuti 2
 kreditne 2
 kartice 2
 je" 2
+naučim 2
 Biti 2
 mali 2
 politici 2
@@ -3315,7 +3316,6 @@ promatrati 1
 bebe 1
 istina" 1
 pitala 1
-naučim 1
 obje 1
 udane 1
 luda 1
@@ -8250,3 +8250,4 @@ Putovnicu 1
 tjeraju 1
 očajavam 1
 pisanjem 1
+švedski 1

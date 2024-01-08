@@ -1,8 +1,8 @@
 að 3814
 er 3124
-Ég 2291
-í 2068
-á 1675
+Ég 2292
+í 2069
+á 1676
 ekki 1645
 ég 868
 Það 858
@@ -72,7 +72,7 @@ dag 125
 eða 123
 svona 122
 gær 120
-Er 119
+Er 120
 segja 118
 mikið 117
 Þau 115
@@ -111,10 +111,10 @@ koma 84
 taka 84
 alltaf 83
 læra 82
+Mig 82
 kemur 82
 ef 81
 erum 81
-Mig 81
 sig 80
 henni 80
 þið 80
@@ -934,6 +934,7 @@ tekið 10
 fljúga 10
 stöðina 10
 harðar 10
+mann 10
 síðasta 10
 labba 10
 útskýra 10
@@ -1023,7 +1024,6 @@ Læknirinn 9
 sýna 9
 bæði 9
 braut 9
-mann 9
 svaf 9
 orðabók 9
 Engin 9
@@ -1550,6 +1550,7 @@ Hvern 6
 súkkulaði 6
 gleður 6
 vinstri 6
+Með 6
 hita 6
 sextíu 6
 komir 6
@@ -1834,7 +1835,6 @@ fuglar 5
 hjónaband 5
 biðjast 5
 veginn 5
-Með 5
 Jordan 5
 jakkafötum 5
 Berðu 5
@@ -2131,6 +2131,7 @@ hvergi 4
 byggt 4
 nýtur 4
 fréttunum 4
+bakinu 4
 nýrri 4
 Parísar 4
 kílómetra 4
@@ -2670,7 +2671,6 @@ setur 3
 muninn 3
 röngu 3
 sársauka 3
-bakinu 3
 Kólumbus 3
 lengra 3
 hlutum 3
@@ -3741,6 +3741,7 @@ kallaði 2
 farangurinn 2
 klukka 2
 biluð 2
+Fagurt 2
 andlit 2
 hjartað 2
 ljótt 2
@@ -5114,6 +5115,7 @@ Djöfullin 2
 byssunum 2
 eyjur 2
 teið 2
+Jólakötturinn 2
 særður 2
 Hjónaband 2
 karls 2
@@ -6302,7 +6304,6 @@ mötuneytinu 1
 ofgnótt 1
 laxi 1
 myndarlegan 1
-Fagurt 1
 verðlaust 1
 ljóðið 1
 framleiðsla 1
@@ -9997,4 +9998,3 @@ Paul 1
 smásögu 1
 Fór 1
 tölvupósta 1
-Strákarnir 1

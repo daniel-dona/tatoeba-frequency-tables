@@ -4,9 +4,9 @@ ei 33
 Hyvvää 29
 ja 28
 oli 27
+Met 18
 Hän 18
 Mie 17
-Met 17
 ole 16
 se 15
 Tämä 13
@@ -16,14 +16,14 @@ hyvä 11
 ette 10
 Het 10
 vuona 8
+vuotta 8
 yötä 8
+hyvvää 8
 oikkeus 8
 eli 8
 hänen 8
 paljon 8
 hyvin 7
-vuotta 7
-hyvvää 7
 Mitä 6
 Kunka 6
 Kiitos 6
@@ -35,6 +35,7 @@ kolme 6
 Tässä 6
 päivää 5
 en 5
+uutta 5
 sen 5
 sitä 5
 pois 5
@@ -49,7 +50,6 @@ mennee 4
 pääkaupunki 4
 Norjan 4
 nimi 4
-uutta 4
 joului 4
 piä 4
 lupa 4
@@ -1397,3 +1397,4 @@ sikrinkit 1
 Katto 1
 synnytti 1
 pojan 1
+toivotama 1
