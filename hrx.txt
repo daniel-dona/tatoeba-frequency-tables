@@ -1,10 +1,10 @@
 is 264
-Ich 221
-en 153
+Ich 223
+en 155
 Tom 127
 hod 103
 net 100
-hon 82
+hon 84
 die 81
 Das 80
 sin 67
@@ -39,10 +39,10 @@ zu 23
 Glick 23
 Mein 22
 Was 22
+deer 22
 dein 22
 grien 22
 fer 21
-deer 21
 will 21
 uff 20
 mich 20
@@ -99,6 +99,7 @@ immer 10
 uns 10
 dart 10
 im 9
+eich 9
 Bist-du 9
 doch 9
 Aarvet 9
@@ -109,7 +110,6 @@ Loch 9
 hinnich 9
 Karre 8
 spreche 8
-eich 8
 was 8
 kommd 8
 En 8
@@ -650,6 +650,8 @@ enn 2
 seine 2
 Katze 2
 Steen 2
+Foto 2
+geschickd 2
 nunnergeschmiss 1
 zieh-ich 1
 schlofd 1

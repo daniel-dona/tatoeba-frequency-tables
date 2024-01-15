@@ -1,12 +1,12 @@
-je 1692
-se 614
+je 1694
+se 616
 u 557
 sam 462
 da 414
 li 392
 na 324
 ne 282
-Tom 274
+Tom 275
 i 236
 su 219
 mi 209
@@ -60,7 +60,7 @@ vrijeme 46
 kao 46
 svoj 46
 bila 46
-Kako 44
+Kako 45
 on 44
 Koliko 44
 nešto 44
@@ -237,6 +237,7 @@ ih 16
 Ova 16
 ono 16
 prijatelji 15
+ime 15
 deset 15
 ako 15
 Nema 15
@@ -279,7 +280,6 @@ hladno 14
 žene 14
 koliko 14
 pitanje 13
-ime 13
 dva 13
 jednom 13
 Moraš 13
@@ -329,6 +329,7 @@ ide 12
 hvala 12
 sama 12
 tvoja 11
+Moje 11
 sedam 11
 Vrijeme 11
 lijepo 11
@@ -404,7 +405,6 @@ vodu 10
 rođendan 10
 ikada 10
 napravila 10
-Moje 9
 oni 9
 ova 9
 Oprostite 9
@@ -608,6 +608,7 @@ ideju 7
 kurac 7
 Layla 7
 Bok 6
+Zovem 6
 njegovo 6
 naš 6
 Jesu 6
@@ -723,7 +724,7 @@ Naravno 6
 znamo 6
 Sami 6
 Fadil 6
-Zovem 5
+zoveš 5
 Dobar 5
 A 5
 vi 5
@@ -888,7 +889,6 @@ naučio 5
 paket 5
 plavo 5
 student 4
-zoveš 4
 Njezin 4
 Njezina 4
 Pas 4
@@ -8251,3 +8251,5 @@ tjeraju 1
 očajavam 1
 pisanjem 1
 švedski 1
+Saša 1
+Andrea 1

@@ -33,8 +33,8 @@ leat 73
 is 70
 rud 69
 sí 69
+Táim 68
 orm 67
-Táim 67
 mhaith 65
 féidir 65
 agat 63
@@ -174,6 +174,7 @@ litir 12
 Fuair 12
 amárach 12
 den 12
+Ar 12
 bheidh 12
 chomh 12
 álainn 12
@@ -195,7 +196,6 @@ Rinne 11
 tusa 11
 Dia 11
 lán 11
-Ar 11
 Conas 11
 mó 11
 inniu 11
@@ -221,6 +221,7 @@ chara 10
 cosúil 10
 charr 10
 Thomáis 10
+arís 10
 suas 10
 ba 10
 am 9
@@ -242,7 +243,6 @@ dearg 9
 fháil 9
 ceann 9
 Tar 9
-arís 9
 de 9
 ríomhairí 9
 Mura 9
@@ -519,6 +519,7 @@ choinneáil 4
 déanach 4
 locht 4
 éisc 4
+meisce 4
 ceol 4
 chóir 4
 tSín 4
@@ -648,7 +649,6 @@ tolg 3
 Díolann 3
 úsáideann 3
 aráin 3
-meisce 3
 madraí 3
 Leanne 3
 feoil 3
@@ -2979,3 +2979,4 @@ nasc 1
 cheangal 1
 dúil 1
 bís 1
+cantalach 1

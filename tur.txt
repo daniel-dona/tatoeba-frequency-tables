@@ -1,6 +1,6 @@
 Tom 128947
 bir 101389
-O 39218
+O 39220
 için 35999
 Bu 32733
 çok 29544
@@ -13,19 +13,19 @@ kadar 18083
 daha 18020
 değil 17932
 mi 16816
-şey 16810
+şey 16811
 olduğunu 16026
 iyi 15916
 onu 14996
 bu 14803
 Mary 13444
 Mary'nin 12548
-Bir 12516
+Bir 12517
 zaman 12387
 bunu 12161
 bana 12085
 her 11962
-Onun 10784
+Onun 10785
 mı 10712
 söyledi 10686
 Onu 9755
@@ -66,7 +66,7 @@ burada 5640
 Mary'ye 5615
 sana 5434
 fazla 5433
-Neden 5384
+Neden 5386
 mu 5331
 Bana 5256
 ona 5171
@@ -74,19 +74,19 @@ da 5057
 neden 5010
 biraz 5003
 ben 4950
-gün 4943
+gün 4944
 zorunda 4902
-büyük 4780
+büyük 4782
 senin 4539
 oldu 4496
 üç 4491
 asla 4390
 Sanırım 4306
-Her 4150
+Her 4152
 gece 4138
 geri 4116
 izin 4054
-Benim 3974
+Benim 3975
 Lütfen 3860
 nereli" 3848
 tek 3833
@@ -181,7 +181,7 @@ kendi 2392
 geç 2371
 düşünüyorum 2355
 yoktu 2347
-nedir 2340
+nedir 2341
 Gerçekten 2328
 karar 2321
 kimse 2313
@@ -196,7 +196,7 @@ artık 2258
 Leyla 2249
 miyim 2239
 tarafından 2232
-ediyor 2214
+ediyor 2216
 içinde 2213
 hangi 2209
 orada 2205
@@ -206,14 +206,14 @@ söyle 2158
 merak 2144
 olabilir 2124
 olacağını 2121
-Bütün 2118
+Bütün 2117
 araba 2117
 başladı 2102
 az 2066
 ister 2065
 yemeği 2040
 yapmayı 2032
-akşam 1996
+akşam 1997
 sanmıyorum 1994
 tam 1991
 küçük 1964
@@ -422,7 +422,7 @@ Fadıl 1063
 duydum 1061
 yakın 1060
 gidiyor 1052
-Tüm 1047
+Tüm 1048
 yapması 1043
 memnun 1039
 Leyla'nın 1036
@@ -480,7 +480,7 @@ koydu 886
 öğle 886
 çalışıyorum 884
 kardeşim 882
-hissediyorum 880
+hissediyorum 881
 yüz 878
 arkadaşı 875
 yol 872
@@ -508,8 +508,8 @@ istiyorsun 842
 vermek 841
 Polis 839
 onlar 835
+otuz 835
 Kız 834
-otuz 834
 konusunda 833
 yerine 833
 pazartesi 831
@@ -577,10 +577,10 @@ dolayı 744
 doğum 743
 kaybetti 740
 olurdu 740
+dans 739
 dikkat 738
 rağmen 736
 bekliyor 736
-dans 735
 aldın 735
 olursa 734
 yapmam 733
@@ -697,7 +697,7 @@ gel 601
 geldim 601
 çocuklar 600
 film 598
-adı 595
+adı 596
 doktor 594
 içki 594
 bırak 594
@@ -767,8 +767,8 @@ gösterdi 534
 sayıda 533
 niçin 533
 garip 532
+hayat 531
 sonraki 530
-hayat 530
 ifade 530
 Dünya 529
 söyler 528
@@ -796,11 +796,11 @@ Akşam 511
 üzgünüm 509
 şeyleri 509
 gelmedi 509
+Niçin 509
 çay 508
 okulda 508
 gidelim 507
 hediye 507
-Niçin 507
 evine 506
 Leyla'yı 506
 kendimi 504
@@ -900,7 +900,7 @@ Avustralya'ya 450
 ancak 449
 edin 448
 geleni 448
-adım 446
+adım 447
 vakit 446
 nedeni 446
 tanıyor 446
@@ -2021,6 +2021,7 @@ tarihi 194
 birbirimizi 194
 ihanet 194
 Yeterince 194
+alırım 194
 tutuklandı 194
 söylediğimi 194
 görmüyorum 194
@@ -2032,7 +2033,6 @@ yapmama 193
 sınavı 193
 bilmiyoruz 193
 edilmiş 193
-alırım 193
 şaşırtıcı 193
 anahtarı 193
 yapmana 193
@@ -2064,6 +2064,7 @@ miydin 190
 yatağa 190
 kardeşleriniz 190
 ağrıyor 189
+duş 189
 sarı 189
 dondurma 189
 yazmayı 189
@@ -2080,7 +2081,6 @@ milletten" 189
 "Komşuları 189
 dedeleri 189
 gerekirse 188
-duş 188
 Çince 188
 hakkı 188
 Gitmek 188
@@ -3446,6 +3446,7 @@ etmedik 113
 Birini 112
 yolun 112
 söylemeni 112
+yaşından 112
 söylerim 112
 pul 112
 türü 112
@@ -3483,7 +3484,6 @@ saçları 111
 belaya 111
 harcıyor 111
 yaptırmak 111
-yaşından 111
 tuz 111
 vardım 111
 kural 111
@@ -4408,6 +4408,7 @@ cimri 86
 değmez 86
 yataktan 86
 şansımız 86
+ediyorsunuz 86
 yapmazdım 86
 Claudio 86
 ihtimalle 85
@@ -4512,7 +4513,6 @@ Hakem 84
 meraklı 84
 istediğiniz 84
 söylemeyecek 84
-ediyorsunuz 84
 istemiyorsan 84
 Neyi 84
 söylemeliyim 84
@@ -4750,6 +4750,7 @@ nerede" 79
 çıkan 78
 yakaladım 78
 Nihayet 78
+elleri 78
 üye 78
 konsantre 78
 güveniyorum 78
@@ -4798,7 +4799,6 @@ kalmayacak 78
 arkadaşıyla 77
 Sağlık 77
 süper 77
-elleri 77
 kayıt 77
 Brown 77
 4 77
@@ -6787,6 +6787,7 @@ bulacağız 53
 müsaade 53
 eyaletinin 53
 havalı 53
+bitecek 52
 kaşık 52
 Tatil 52
 Filmi 52
@@ -6992,7 +6993,6 @@ neresidir" 51
 bilinmiyor 50
 savaştan 50
 Orası 50
-bitecek 50
 gezegendir 50
 toprak 50
 binaya 50
@@ -9705,6 +9705,7 @@ olmamasına 34
 kardeşlerim 34
 güvenim 34
 insandı 34
+titriyordu 34
 gerçekleşecek 34
 yetenek 34
 Kuru 34
@@ -9997,4 +9998,3 @@ izini 33
 torunu 33
 memnuniyetle 33
 beklemem 33
-çıkıyorsun 33

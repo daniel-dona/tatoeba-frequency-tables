@@ -1,16 +1,16 @@
 lo 12588
 mi 5926
-cu 3371
+cu 3372
 do 3335
 la 2589
 pu 2276
 nu 2116
-le 2044
+le 2045
 se 1884
 na 1597
 be 1321
 i 1284
-ko'a 1250
+ko'a 1251
 ma 1218
 ka 1210
 ko 1118
@@ -21,7 +21,7 @@ ra 815
 da 811
 fi 712
 klama 653
-ti 620
+ti 621
 ba 575
 du'u 546
 ro 521
@@ -287,11 +287,11 @@ fengu 57
 preti 56
 ponjo 56
 facki 56
+mrobi'o 56
 jibri 56
 dei 55
 lerci 55
 ko'e 55
-mrobi'o 55
 smuni 55
 xunre 55
 sarcu 55
@@ -6502,3 +6502,4 @@ xuan 1
 mari 1
 uusai 1
 xitla 1
+terbilma 1

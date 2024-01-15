@@ -2,14 +2,14 @@ a 1049
 que 942
 de 919
 o 864
-é 647
+é 649
 non 496
 un 475
-O 471
+O 472
 e 401
 unha 379
 Non 372
-A 368
+A 369
 do 266
 en 252
 da 224
@@ -21,7 +21,7 @@ Tom 197
 El 195
 por 192
 ao 186
-meu 180
+meu 181
 á 159
 na 156
 as 155
@@ -31,10 +31,10 @@ Ela 147
 súa 144
 Os 140
 seu 132
+miña 127
 ten 127
-miña 126
 son 122
-moi 112
+moi 114
 con 108
 me 106
 É 104
@@ -312,6 +312,7 @@ cara 16
 cunha 16
 alí 16
 mais 16
+profesor 15
 traballar 15
 teñen 15
 pelo 15
@@ -336,7 +337,6 @@ tomar 15
 chegar 14
 feliz 14
 Grazas 14
-profesor 14
 xeito 14
 es 14
 Para 14
@@ -8349,3 +8349,6 @@ incondicionalmente 1
 quizais 1
 vivirán 1
 Mercarían 1
+estrito 1
+profe 1
+estrita 1

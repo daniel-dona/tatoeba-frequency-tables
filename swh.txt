@@ -1,6 +1,6 @@
 ya 1292
 na 1068
-wa 752
+wa 753
 kwa 695
 ni 620
 katika 241
@@ -15,7 +15,7 @@ kama 151
 wakati 147
 yake 141
 mtu 128
-yangu 127
+yangu 126
 Ni 109
 moja 107
 lakini 107
@@ -29,7 +29,7 @@ kufanya 90
 tu 88
 watu 87
 kutoka 86
-wangu 85
+wangu 86
 hivyo 84
 alikuwa 83
 kazi 81
@@ -44,8 +44,8 @@ kubwa 66
 kuliko 63
 juu 63
 sio 60
-Amerika 59
 chini 59
+Amerika 58
 siku 57
 miaka 54
 saa 53
@@ -186,6 +186,7 @@ pesa 23
 Watu 22
 Wewe 22
 lugha 22
+zamani 22
 mwaka 22
 Asante 22
 kadhaa 22
@@ -201,7 +202,6 @@ yeyote 22
 gari 21
 jina 21
 Hii 21
-zamani 21
 Kila 21
 chochote 21
 Kiingereza 21
@@ -235,6 +235,7 @@ baridi 19
 afya 19
 haraka 19
 kifo 19
+Marekani 19
 haya 19
 Alikuwa 19
 zao 18
@@ -250,7 +251,6 @@ bidhaa 18
 ngumu 18
 shida 18
 mdogo 18
-Marekani 18
 ulikuwa 18
 karibuni 18
 damu 18
@@ -356,7 +356,6 @@ kufa 13
 paka 13
 hakika 13
 vitabu 13
-Rafiki 13
 wiki 13
 anaweza 13
 yule 13
@@ -397,6 +396,7 @@ ajabu 12
 mashine 12
 Ana 12
 sukari 12
+Rafiki 12
 nyingine 12
 moyo 12
 kwako 12
@@ -3087,6 +3087,7 @@ Tukio 2
 Vya 2
 sifanyi 2
 Wanasema 2
+Mpenzi 2
 hufa 2
 iliyoandikwa 2
 utarudi 2
@@ -8799,7 +8800,6 @@ Hatukupenda 1
 Tutaenda 1
 Oktoba 1
 unakosa 1
-Mpenzi 1
 mweledi 1
 Kwanini 1
 tulihamia 1
@@ -9241,7 +9241,7 @@ Kuwa 1
 utoke 1
 toa 1
 kitalii 1
-iligongwa 1
+iligonga 1
 kiroho 1
 Nilimkaribisha 1
 Ukitaka 1
