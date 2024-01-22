@@ -5,7 +5,7 @@ en 2518
 de 2481
 nich 1947
 du 1691
-hett 1605
+hett 1607
 He 1473
 in 1454
 De 1401
@@ -13,7 +13,7 @@ to 1325
 Dat 1276
 heff 1259
 ik 1234
-Se 1158
+Se 1160
 ’n 1073
 mi 1060
 un 883
@@ -21,7 +21,7 @@ von 845
 mit 776
 as 772
 op 716
-di 660
+di 661
 em 656
 an 651
 na 640
@@ -187,10 +187,10 @@ Naam 82
 Maal 82
 weren 81
 Dokter 80
+jo 80
 liggt 80
 Nacht 80
 hebben 79
-jo 79
 bet 79
 speelt 78
 Öllern 78
@@ -4838,6 +4838,7 @@ Ziri 2
 blieft 2
 Hefft 2
 Spreekt 2
+weckt 2
 Viël 1
 vötälen 1
 totolustern 1
@@ -9997,4 +9998,3 @@ Tüüchs 1
 Polter 1
 Kratzt 1
 Bibel 1
-hölpt 1

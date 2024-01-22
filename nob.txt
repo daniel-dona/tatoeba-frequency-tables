@@ -1,25 +1,25 @@
-er 4271
-Jeg 3549
-ikke 2406
-å 2149
+er 4274
+Jeg 3552
+ikke 2407
+å 2152
 i 2143
-en 2016
-du 1860
-har 1771
+en 2017
+du 1863
+har 1772
 det 1764
-på 1687
+på 1688
 Tom 1681
-til 1519
-jeg 1324
+til 1520
+jeg 1325
 og 1315
-Det 1151
+Det 1153
 for 1051
-med 1038
+med 1039
 meg 1035
 Han 994
 av 975
-var 956
-som 948
+var 958
+som 949
 at 855
 Hun 741
 et 740
@@ -28,9 +28,9 @@ deg 723
 kan 644
 vil 632
 om 575
-så 561
+så 562
 han 555
-Vi 547
+Vi 548
 den 485
 min 464
 seg 429
@@ -44,7 +44,7 @@ vi 321
 være 321
 skal 315
 oss 311
-fra 305
+fra 306
 veldig 302
 dette 296
 ut 296
@@ -52,8 +52,8 @@ ble 295
 gjøre 282
 ha 282
 ham 271
+Hvor 266
 vet 265
-Hvor 265
 går 262
 hva 261
 kommer 258
@@ -64,8 +64,8 @@ enn 244
 liker 242
 denne 230
 dag 229
-noen 224
-men 217
+noen 225
+men 218
 Dette 215
 hun 213
 aldri 211
@@ -88,14 +88,14 @@ trenger 180
 I 178
 ser 177
 gå 173
+når 172
 kunne 172
 bli 172
-når 171
 Kan 169
 Hvorfor 168
 etter 167
 gjør 165
-dem 164
+dem 165
 vært 163
 hans 157
 dere 155
@@ -104,8 +104,8 @@ eller 148
 alt 147
 over 143
 se 143
+ingen 143
 Maria 143
-ingen 142
 Når 140
 alltid 138
 år 137
@@ -113,9 +113,9 @@ Hvem 136
 få 136
 Den 135
 ta 134
+der 134
 sa 134
 kom 134
-der 133
 igjen 132
 to 129
 andre 128
@@ -149,9 +149,9 @@ tok 100
 penger 99
 uten 97
 ønske 96
+elsker 96
 ingenting 95
 inn 95
-elsker 95
 siden 94
 får 94
 Hvordan 94
@@ -210,13 +210,13 @@ spiser 67
 mellom 66
 huset 66
 synes 66
+Toms 66
 bilen 65
 boken 65
 gi 65
 nesten 65
 Min 65
 hennes 65
-Toms 65
 første 64
 nye 64
 ønsker 64
@@ -239,19 +239,19 @@ vår 58
 sta 58
 forstår 57
 like 57
+kjøpte 57
 venner 57
-kjøpte 56
+kjøpe 56
 sant 56
 ting 56
 måtte 56
 ny 56
+fransk 56
 byen 56
-kjøpe 55
 vanskelig 55
 siste 55
 dra 55
 ga 55
-fransk 55
 lenger 55
 hjelp 55
 venn 54
@@ -262,12 +262,12 @@ kveld 53
 rundt 53
 Noen 53
 viktig 52
+fort 52
 dårlig 52
 glad 52
 Så 52
 hater 52
 grunn 52
-fort 51
 ferdig 51
 Nå 51
 tatt 50
@@ -404,6 +404,7 @@ Etter 33
 håper 33
 skrev 32
 begynner 32
+kaffe 32
 sted 32
 vær 32
 hører 32
@@ -413,7 +414,6 @@ forklare 32
 fint 32
 Australia 32
 lever 31
-kaffe 31
 timer 31
 lite 31
 største 31
@@ -479,6 +479,7 @@ time 27
 hørt 27
 problemet 27
 takk 27
+forstå 27
 stå 27
 døren 27
 bort 27
@@ -490,7 +491,6 @@ middag 26
 dit 26
 senere 26
 slo 26
-forstå 26
 far 26
 egen 26
 ventet 26
@@ -547,6 +547,7 @@ sønn 23
 fjor 23
 syk 23
 tysk 23
+flink 23
 hunden 23
 venter 23
 God 23
@@ -573,11 +574,11 @@ personer 22
 side 22
 opptatt 22
 dollar 22
-flink 22
 klare 22
 faren 22
 bestemt 22
 måned 22
+glemte 22
 lei 22
 gav 22
 Kanskje 22
@@ -604,7 +605,6 @@ Broren 21
 skriver 21
 været 21
 kjøre 21
-glemte 21
 snø 21
 Vennligst 21
 lange 21
@@ -682,6 +682,7 @@ klokka 18
 Bare 18
 Selv 18
 Beklager 18
+synge 18
 del 18
 Paris 18
 små 18
@@ -717,7 +718,6 @@ brevet 17
 by 17
 åpnet 17
 ærlig 17
-synge 17
 foreldre 17
 blant 17
 tom 17
@@ -790,6 +790,7 @@ høyere 15
 lege 15
 morgenen 15
 viser 15
+politiet 15
 åtte 15
 tennene 15
 husker 15
@@ -843,7 +844,6 @@ ber 14
 Om 14
 skyld 14
 erfaring 14
-politiet 14
 varm 14
 uken 14
 Amerika 14
@@ -1298,6 +1298,7 @@ dreier 9
 foregår 9
 dumme 9
 varme 9
+morsomt 9
 lik 9
 Spør 9
 klager 9
@@ -1444,7 +1445,6 @@ verdifull 8
 koselig 8
 forventet 8
 spennende 8
-morsomt 8
 tretten 8
 skriker 8
 "Det 8
@@ -1588,6 +1588,7 @@ populær 7
 russisk 7
 sjefen 7
 Snakk 7
+kjedelig 7
 ryggen 7
 deprimert 7
 gråte 7
@@ -1606,6 +1607,7 @@ vinner 7
 knapt 7
 vasket 7
 klatret 7
+Kjenner 7
 natta 7
 vitsen 7
 velkommen 7
@@ -1750,6 +1752,7 @@ isen 6
 Møtet 6
 lettere 6
 fyren 6
+snakkes 6
 situasjonen 6
 skille 6
 live 6
@@ -1832,7 +1835,6 @@ forvirret 6
 forklaring 6
 Marias 6
 Bruk 6
-kjedelig 6
 avgjørende 6
 hverken 6
 gåter 6
@@ -1860,7 +1862,6 @@ lyd 6
 Stopp 6
 løgn 6
 snudde 6
-Kjenner 6
 skynde 6
 slutter 6
 pakke 6
@@ -2029,7 +2030,6 @@ tirsdag 5
 sosial 5
 velger 5
 politikere 5
-snakkes 5
 opplevd 5
 oppnådd 5
 ment 5
@@ -2063,6 +2063,7 @@ overleve 5
 bytte 5
 tog 5
 Sett 5
+Facebook 5
 "Hvorfor 5
 flygende 5
 samfunn 5
@@ -2465,7 +2466,6 @@ vennlig 4
 hen 4
 nesen 4
 viet 4
-Facebook 4
 stiger 4
 lyder 4
 skapt 4
@@ -3543,6 +3543,7 @@ Fari 3
 kanel 3
 Uglen 3
 gale 3
+Drikker 3
 kua 3
 skiltet 3
 hånda 3
@@ -4574,6 +4575,7 @@ buksa 2
 bedrøvelig 2
 medaljer 2
 stanset 2
+vansker 2
 innerst 2
 fjernsynet 2
 Utdanningssystemet 2
@@ -4870,6 +4872,7 @@ telles 2
 kilder 2
 ferden 2
 dyrene 2
+slave 2
 risiko 2
 mote 2
 roet 2
@@ -5043,6 +5046,7 @@ kursen 2
 fascinerende 2
 splitter 2
 peisen 2
+batterier 2
 ball 2
 renter 2
 framsteg 2
@@ -5266,6 +5270,7 @@ April 2
 eske 2
 enden 2
 lyseblå 2
+bortsett 2
 nakne 2
 Leser 2
 gjespet 2
@@ -5297,7 +5302,6 @@ ku 2
 rullet 2
 Null 2
 kilen 2
-Drikker 2
 Kalven 2
 Kairo 2
 ånden 2
@@ -5381,6 +5385,7 @@ skremme 2
 Fadil 2
 bryteren 2
 pistoler 2
+varslet 2
 klesvasken 2
 etternavn 2
 selskapene 2
@@ -8011,7 +8016,6 @@ illusjion 1
 trykkeri 1
 Arbeidsplassen 1
 forhåpningsfullt 1
-vansker 1
 delirium 1
 bekymringer 1
 engstelse 1
@@ -9025,7 +9029,6 @@ urne 1
 Bestemor 1
 Postmannen 1
 lune 1
-slave 1
 album 1
 Klærene 1
 e-post-addresse 1
@@ -9652,7 +9655,6 @@ Neida 1
 -- 1
 feilsøker 1
 klient 1
-batterier 1
 vekkerklokken 1
 heretter 1
 hederlig 1
@@ -9996,5 +9998,3 @@ farlige 1
 løgnene 1
 oppfordrer 1
 umiddelbar 1
-blodbadet 1
-utfordringer 1

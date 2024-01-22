@@ -1,31 +1,31 @@
-on 1402
-Ma 887
+on 1405
+Ma 888
 ei 715
-Tom 582
+Tom 584
 sa 416
 Kas 407
-Ta 322
+Ta 323
 et 319
-See 267
+See 268
 ma 213
-seda 200
+seda 202
 oma 185
 see 174
 oli 155
 ja 148
+ta 143
 ole 143
-ta 142
 Sa 137
 olen 133
 Mul 130
 keelt 130
+kui 123
 väga 122
-kui 122
 Me 122
 pole 113
 oled 97
 mulle 97
-mind 88
+mind 89
 mu 85
 Nad 84
 selle 84
@@ -44,9 +44,9 @@ meeldib 66
 Minu 65
 su 65
 Tomi 65
+veel 64
 siin 63
 Mis 63
-veel 63
 nii 62
 Mida 62
 Kus 61
@@ -67,8 +67,8 @@ Mulle 47
 me 46
 kunagi 45
 minna 44
+olnud 44
 tea 44
-olnud 43
 isa 43
 Tomile 42
 pean 41
@@ -105,12 +105,12 @@ sellest 32
 raha 32
 keegi 32
 olla 32
+liiga 32
 räägid 32
 Tema 31
 üle 31
 aega 31
 räägin 31
-liiga 31
 keel 31
 taha 30
 Tal 30
@@ -135,8 +135,8 @@ kolm 27
 rohkem 27
 sõber 27
 ainult 26
+pärast 26
 eest 25
-pärast 25
 või 25
 enam 25
 ka 24
@@ -156,6 +156,7 @@ läks 22
 tegi 22
 peale 22
 parem 22
+auto 22
 siia 22
 natuke 22
 olid 21
@@ -168,7 +169,6 @@ Sul 21
 üles 21
 tee 21
 õpetaja 21
-auto 21
 Te 21
 miks 21
 naine 20
@@ -182,6 +182,7 @@ sinuga 20
 Meil 20
 Toomas 20
 ikka 19
+pealinn 19
 olete 19
 raamatu 19
 minuga 19
@@ -193,8 +194,8 @@ ilma 18
 tuleb 18
 raamatut 18
 praegu 18
+Ei 18
 taga 18
-pealinn 18
 koera 18
 oleme 18
 saada 18
@@ -209,7 +210,7 @@ päev 17
 sai 17
 tõesti 17
 tööd 17
-Ei 17
+Kass 17
 Siin 17
 selles 17
 peaks 17
@@ -218,11 +219,11 @@ palun 16
 end 16
 tuli 16
 saanud 16
-Kass 16
 just 16
 kiiresti 16
 Need 16
 viis 16
+väike 16
 kinni 16
 temaga 16
 öelda 16
@@ -237,9 +238,9 @@ kell 15
 jaoks 15
 kõige 15
 arvad 15
-väike 15
 lähen 15
 enda 15
+elan 15
 õhtul 15
 teeb 15
 üks 15
@@ -255,7 +256,7 @@ tüdruk 14
 raamat 14
 Mitte 14
 kuidas 14
-elan 14
+teab 14
 teinud 14
 kogu 14
 vett 14
@@ -269,6 +270,7 @@ olema 14
 lihtne 14
 näinud 14
 välismaal 14
+surnud 14
 kaua 14
 kindel 14
 suri 14
@@ -279,12 +281,12 @@ inimene 13
 nimi 13
 maha 13
 mees 13
+alla 13
 kõike 13
 ukse 13
 Ja 13
 ostis 13
 teil 13
-teab 13
 vanem 13
 korda 13
 juhtus 13
@@ -297,7 +299,6 @@ elada 13
 isegi 13
 oskab 13
 tal 13
-surnud 13
 peidus 13
 pani 12
 inimesed 12
@@ -306,7 +307,6 @@ Meie 12
 teadnud 12
 kedagi 12
 Sinu 12
-alla 12
 need 12
 Head 12
 uue 12
@@ -328,6 +328,7 @@ Täna 11
 Isa 11
 vend 11
 lahti 11
+Ärge 11
 elu 11
 õigus 11
 vihkan 11
@@ -346,6 +347,7 @@ sellega 10
 ütlesin 10
 halb 10
 läksin 10
+jäi 10
 külm 10
 kuus 10
 juurde 10
@@ -356,7 +358,6 @@ osta 10
 poleks 10
 käib 10
 loomad 10
-Ärge 10
 teen 10
 tahaksin 10
 meile 10
@@ -382,7 +383,6 @@ Sami 10
 noor 9
 pool 9
 neile 9
-jäi 9
 meeldis 9
 Jah 9
 raamatuid 9
@@ -475,6 +475,7 @@ unusta 8
 Maryle 8
 Tomist 8
 Maryt 8
+pime 8
 aeglaselt 8
 Bostonis 8
 meel 8
@@ -544,7 +545,6 @@ näeb 7
 kuhu 7
 Päike 7
 poeg 7
-pime 7
 lilli 7
 läksid 7
 näen 7
@@ -860,6 +860,7 @@ seisis 4
 naeratas 4
 Buss 4
 Peale 4
+lauset 4
 — 4
 maa 4
 söövad 4
@@ -869,6 +870,7 @@ roheline 4
 saladus 4
 tähtsam 4
 unustas 4
+õun 4
 aitäh 4
 hommikul 4
 isal 4
@@ -1115,13 +1117,11 @@ istub 3
 Ilma 3
 kodust 3
 olemas 3
-lauset 3
 kõlab 3
 küsimusi 3
 laual 3
 arvuti 3
 jäätist 3
-õun 3
 avatud 3
 Grammatika 3
 härra 3
@@ -1428,6 +1428,7 @@ lahkunud 3
 Aias 3
 leidis 3
 Joškar-Olas 3
+ujuma 2
 tänavatel 2
 antud 2
 südametunnistus 2
@@ -1548,6 +1549,8 @@ Sõda 2
 algas 2
 külas 2
 kõiki 2
+koputas 2
+uksele 2
 Maa 2
 kõrgeim 2
 Lääne-Euroopas 2
@@ -2196,6 +2199,7 @@ sees 2
 häiris 2
 võivad 2
 tunnevad 2
+Vene 2
 koosneb 2
 hingata 2
 India 2
@@ -2302,6 +2306,7 @@ Vajame 2
 Eelistan 2
 mõista 2
 jalutasid 2
+õpetas 2
 valetada 2
 elevant 2
 Maapind 2
@@ -2331,6 +2336,7 @@ otsustasid 2
 Michael 2
 andestama 2
 Sloveenia 2
+Vabariigi 2
 insener 2
 töölauda 2
 veinid 2
@@ -2341,7 +2347,6 @@ Gröönimaa 2
 Nuuk 2
 Sellises 1
 kärestikus 1
-ujuma 1
 mõtlematu 1
 Jõesängi 1
 puhuv 1
@@ -2837,8 +2842,6 @@ andestaks 1
 kuulas 1
 säravate 1
 silmadega 1
-koputas 1
-uksele 1
 taimetoitlane 1
 Hobused 1
 looduslik 1
@@ -5131,7 +5134,6 @@ kolin 1
 Zürichisse 1
 nõud 1
 kraanikaussi 1
-Vene 1
 tähestik 1
 33 1
 kirillitsa 1
@@ -5914,7 +5916,6 @@ suitsuvaba 1
 püssirohtu 1
 Kabyle 1
 Ütles 1
-õpetas 1
 bioloogiat 1
 tähtegi 1
 Piinasime 1
@@ -6310,7 +6311,6 @@ laius 1
 meetrit 1
 nepali 1
 Sloveeni 1
-Vabariigi 1
 ametlik 1
 riigikeel 1
 sügavat 1
@@ -6389,3 +6389,12 @@ Helsingi 1
 Valgevene 1
 Ida-Euroopas 1
 Kasahstan 1
+Kolumbias 1
+luuletaja 1
+Lev 1
+Rubinštein 1
+Moskvas 1
+lugege 1
+nurrub 1
+Iževsk 1
+Udmurdi 1

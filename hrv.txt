@@ -1,13 +1,13 @@
-je 1694
+je 1695
 se 616
 u 557
 sam 462
 da 414
-li 392
+li 393
 na 324
 ne 282
 Tom 275
-i 236
+i 237
 su 219
 mi 209
 Ne 192
@@ -170,6 +170,7 @@ sada 21
 ćemo 21
 želi 21
 život 21
+Imaš 21
 tko 20
 Koji 20
 svojim 20
@@ -179,7 +180,6 @@ voli 20
 vidio 20
 jednu 20
 Ovaj 20
-Imaš 20
 Moram 20
 ste 19
 novac 19
@@ -503,6 +503,7 @@ Misliš 8
 neke 8
 ruke 8
 povijest 8
+meso 8
 razumjeti 8
 Imamo 8
 srce 8
@@ -561,7 +562,6 @@ Većina 7
 tjedan 7
 Samo 7
 bude 7
-meso 7
 svjetlo 7
 zemlje 7
 nećeš 7
@@ -2811,6 +2811,7 @@ razloga 2
 načinu 2
 crte 2
 pismu 2
+kruh 2
 vlada 2
 Onaj 2
 psima 2
@@ -7477,7 +7478,6 @@ Krojačica 1
 kroji 1
 kuhar 1
 peče 1
-kruh 1
 Japanom 1
 car 1
 Španjolskom 1
@@ -8253,3 +8253,5 @@ pisanjem 1
 švedski 1
 Saša 1
 Andrea 1
+nož 1
+Jeo 1

@@ -1,16 +1,16 @@
 an 657
-a 624
-Tá 619
-mé 394
-ag 391
+a 625
+Tá 620
+mé 395
+ag 392
 Is 333
 é 265
 ar 238
-tú 210
+tú 211
 sé 209
 go 206
-An 204
-bhfuil 202
+An 205
+bhfuil 203
 seo 187
 Ní 178
 agam 170
@@ -18,7 +18,7 @@ Níl 163
 liom 151
 i 128
 mo 127
-le 108
+le 109
 na 104
 maith 97
 do 96
@@ -41,7 +41,7 @@ agat 63
 Ba 60
 agus 60
 raibh 59
-dul 56
+dul 55
 ann 55
 Cad 53
 leis 52
@@ -83,9 +83,9 @@ bith 25
 chun 24
 fear 24
 bhean 24
+Máire 24
 foghlaim 24
 éigin 23
-Máire 23
 sibh 23
 mian 23
 tá 22
@@ -137,6 +137,7 @@ dhá 15
 isteach 15
 Chuaigh 15
 mac 15
+eile 15
 gan 15
 aithne 15
 Mary 15
@@ -149,7 +150,7 @@ Dúirt 15
 chéile 15
 bhaile 14
 bás 14
-eile 14
+páistí 14
 amach 14
 Cheannaigh 14
 áit 14
@@ -163,7 +164,6 @@ mise 13
 uisce 13
 múinteoir 13
 trí 13
-páistí 13
 caint 13
 uair 13
 daoine 13
@@ -180,6 +180,7 @@ chomh 12
 álainn 12
 againn 12
 teanga 12
+réidh 12
 ndáiríre 12
 buachaill 12
 bhur 12
@@ -202,7 +203,6 @@ inniu 11
 fheiceáil 11
 ocras 11
 Rachaidh 11
-réidh 11
 snámh 11
 mhadra 11
 léinn 11
@@ -258,6 +258,7 @@ Tháinig 8
 eagla 8
 Tabharfaidh 8
 gorm 8
+imeacht 8
 cheart 8
 uainn 8
 Seo 8
@@ -289,7 +290,6 @@ uirthi 7
 chonaic 7
 minic 7
 rinne 7
-imeacht 7
 fhuinneog 7
 mbeidh 7
 orthu 7
@@ -354,6 +354,7 @@ Ceapaim 6
 chuig 6
 lena 6
 hé 6
+chugam 6
 D'éirigh 6
 A 6
 Bíonn 6
@@ -383,6 +384,7 @@ oíche 5
 Ag 5
 ’Séard 5
 Lá 5
+dóibh 5
 freagra 5
 aréir 5
 cheist 5
@@ -423,6 +425,7 @@ Labhraím 5
 abairt 5
 rothar 5
 luaidhe 5
+sheoladh 5
 rua 5
 fhírinne 5
 Itheann 5
@@ -434,7 +437,6 @@ dtoil 5
 cúpla 5
 abhainn 5
 theanga 5
-chugam 5
 Tabhair 5
 Glaoigh 5
 fuath 5
@@ -478,7 +480,6 @@ bhris 4
 Seán 4
 hocht 4
 bhfanann 4
-dóibh 4
 slaghdán 4
 thug 4
 chuir 4
@@ -527,9 +528,9 @@ fhoghlaim 4
 Tuigeann 4
 foclóir 4
 t-ábhar 4
+ticéad 4
 eochair 4
 hiontach 4
-sheoladh 4
 Dún 4
 tSeapáin 4
 roinnt 4
@@ -564,6 +565,7 @@ cupán 3
 leadóg 3
 gunna 3
 mbord 3
+triúr 3
 scaradh 3
 labhraítear 3
 Tóiceo 3
@@ -665,7 +667,6 @@ tríocha 3
 ceamara 3
 D'ith 3
 m'iníon 3
-ticéad 3
 deirfiúr 3
 fón 3
 fadhb 3
@@ -763,7 +764,6 @@ freagairt 2
 ceisteanna 2
 Bhris 2
 Domhnach 2
-triúr 2
 Nua-Eabhrac 2
 iris 2
 faitíos 2
@@ -879,7 +879,6 @@ uaine 2
 Caoimhe 2
 gloiní 2
 dinnéar 2
-Slán 2
 aigéan 2
 níor 2
 dheachaigh 2
@@ -1148,6 +1147,7 @@ fosta 2
 Anois 2
 Iontach 2
 "A 2
+Slán 2
 thuigeann 2
 bialann 2
 ró-the 2
@@ -1230,6 +1230,7 @@ sna 2
 dtólamh 2
 craiceáilte 2
 Dá 2
+D'inis 2
 Ziri 2
 Thom 2
 idirlín 2
@@ -2918,7 +2919,6 @@ Coirdínigh 1
 neamhchiontach 1
 córas 1
 oibriúcháin 1
-D'inis 1
 gcuid 1
 spártha 1
 oighearscátálaí 1
@@ -2980,3 +2980,4 @@ cheangal 1
 dúil 1
 bís 1
 cantalach 1
+himeacht 1

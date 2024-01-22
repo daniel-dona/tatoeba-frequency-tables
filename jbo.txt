@@ -1,8 +1,8 @@
 lo 12588
-mi 5926
-cu 3372
+mi 5927
+cu 3373
 do 3335
-la 2589
+la 2590
 pu 2276
 nu 2116
 le 2045
@@ -16,7 +16,7 @@ ka 1210
 ko 1118
 ca 975
 tom 945
-xu 904
+xu 905
 ra 815
 da 811
 fi 712
@@ -58,7 +58,7 @@ tavla 244
 za'u 242
 cukta 238
 ka'e 237
-tam 234
+tam 235
 kei 233
 me 229
 ei 229
@@ -403,6 +403,7 @@ lebna 38
 snime 38
 litru 38
 lanzu 38
+cizra 38
 rirxe 37
 lacri 37
 xendo 37
@@ -411,7 +412,6 @@ cikre 37
 pu'o 37
 dansu 37
 xatra 37
-cizra 37
 solri 37
 xamsi 37
 lei 37
@@ -1572,6 +1572,7 @@ setca 5
 ionai 5
 xokau 5
 seldu'u 5
+xarnu 5
 ju'ocai 5
 ve'i 5
 tutci 5
@@ -1796,7 +1797,6 @@ selbapselfu 4
 gi'eku'i 4
 selzdifri 4
 selta'i 4
-xarnu 4
 pirlarfi'i 4
 ba'u 4
 o'anai 4

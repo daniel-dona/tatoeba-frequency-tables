@@ -1,10 +1,10 @@
-kɛ 565
-Töm 454
-ɛ 288
-jɛ 260
-cɛ 198
+kɛ 566
+Töm 457
+ɛ 289
+jɛ 262
+cɛ 201
  185
-mi̱ 155
+mi̱ 157
 ɛn 147
 kä 139
 Ci̱ 132
@@ -33,8 +33,8 @@ kɔn 44
 dee 43
 mɔ 41
 gua̱a̱th 41
+ni̱ 41
 we 41
-ni̱ 40
 rɔ 39
 la 39
 bɛ 37
@@ -220,6 +220,7 @@ car 8
 gaat 8
 Mi̱ 8
 Kä 8
+ba 8
 ruëëc 8
 cäŋ 8
 ti̲ 8
@@ -227,6 +228,7 @@ gɔ̱a̱r 8
 a 8
 nath 8
 ci̱kɛ 8
+yuɔr 8
 näk 8
 Mɛri̲ 8
 kɔr 8
@@ -298,7 +300,6 @@ mɛrɛ 6
 duɔɔth 6
 Ciɛ 6
 Guic 6
-ba 6
 to̱kdɔl 6
 tuɔk 6
 cu 6
@@ -308,7 +309,6 @@ i̱di̱ 6
 jɔak 6
 göörä 6
 i 6
-yuɔr 6
 lätɛ 6
 waaŋ 6
 ŋot 6
@@ -400,6 +400,7 @@ Nini̱ 4
 /Cien 4
 rɔ̱ŋ 4
 guicɛ 4
+kurɛ 4
 gaak 4
 diɛɛr 4
 to̱k 4
@@ -595,6 +596,7 @@ bun 3
 këër 3
 we̲ 3
 duɔ̲ɔ̲p 3
+/Thiɛlɛ 3
 cikɛ 3
 cie̲ŋ 3
 ɛntäämɛ 3
@@ -1083,6 +1085,7 @@ ji̱ökdɛ 2
 ci̱ɔ̱a̱ 2
 iyɔɔ 2
 puɔ̱ny 2
+thɔl 2
 cakɛ 1
 koth 1
 David 1
@@ -1184,7 +1187,6 @@ agɔa 1
 mathi̱ 1
 män 1
 Yuri̱ 1
-kurɛ 1
 john 1
 jiok 1
 e 1
@@ -1761,7 +1763,6 @@ go̲ri̲ 1
 thi̲e̲c 1
 caarɛ 1
 jɛi̲ 1
-/Thiɛlɛ 1
 di̲i̲tia̲ 1
 G̲o̲rɛ 1
 thi̲e̲e̲kä 1
@@ -2925,3 +2926,9 @@ ci̱ëëŋdu 1
 yɔ 1
 larɛ 1
 Mɛ̈thu 1
+Yuɔr 1
+nyuänkä 1
+la̱ta 1
+kɔak 1
+la̱tbanɛ 1
+kɔkni̱ 1
