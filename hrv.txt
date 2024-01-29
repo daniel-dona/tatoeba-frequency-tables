@@ -1,4 +1,4 @@
-je 1695
+je 1697
 se 616
 u 557
 sam 462
@@ -1694,9 +1694,11 @@ riskira 3
 ispred 3
 poslala 3
 pobijediti 3
+Venera 3
 grožđe 3
 hajde 3
 sranje 3
+planet 3
 Šišmiši 3
 Jack 2
 Zove 2
@@ -2833,7 +2835,6 @@ lagao 2
 neku 2
 oslijepi 2
 madež 2
-Venera 2
 nebo 2
 jedeš 2
 kreveta 2
@@ -8084,7 +8085,6 @@ Rezultati 1
 negativni 1
 Počeo 1
 školske 1
-planet 1
 Glasao 1
 ostanak 1
 tepih 1
@@ -8255,3 +8255,4 @@ Saša 1
 Andrea 1
 nož 1
 Jeo 1
+Jupiter 1

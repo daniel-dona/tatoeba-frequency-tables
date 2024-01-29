@@ -5,10 +5,10 @@ ji 998
 min 995
 bi 936
 li 828
-Ew 814
-ê 737
+Ew 815
+ê 738
 û 664
-ye 643
+ye 644
 ku 612
 Tom 544
 Em 543
@@ -397,6 +397,7 @@ rêya 15
 hinekî 15
 mîna 15
 çûn 15
+vekirî 15
 nakî 15
 hestî 15
 Bostonê 15
@@ -421,7 +422,6 @@ Pêwîst 14
 zêdetir 14
 bidî 14
 erdê 14
-vekirî 14
 Kê 14
 nedin 14
 hestiyên 14
@@ -1033,6 +1033,7 @@ kirine 6
 mirovên 6
 bandorê 6
 nexwest 6
+ajalan 6
 moxê 6
 rûviya 6
 Xwezî 6
@@ -1220,7 +1221,6 @@ tevahî 5
 kuna 5
 tena 5
 xaneyan 5
-ajalan 5
 beşek 5
 pirsê 5
 Mêrê 5
@@ -1809,6 +1809,7 @@ Zîlan 3
 berhemên 3
 mamosteyan 3
 Pêşeroja 3
+bên 3
 mezinkirin 3
 Meta 3
 Xalê 3
@@ -2636,7 +2637,6 @@ Bêhnvedana 2
 lêdana 2
 lîstokên 2
 Gelê 2
-bên 2
 destpêka 2
 koma 2
 rêz 2
@@ -9227,3 +9227,5 @@ pereyî 1
 kovarek 1
 azîneyeke 1
 Taksîmê 1
+Bexçeyê 1
+tamandin 1

@@ -21,8 +21,8 @@ i 13
 Buech 13
 en 13
 nit 12
+han 12
 mi 11
-han 11
 bisch 11
 vo 11
 D 11
@@ -31,9 +31,9 @@ d 10
 mir 10
 Wiä 10
 bi 10
+ich 10
 em 10
 da 9
-ich 9
 z 9
 di 9
 gsi 9
@@ -122,6 +122,7 @@ Vo 3
 au 3
 häissisch 3
 zum 3
+din 3
 Chan 3
 Chunnsch 3
 wiis 3
@@ -134,8 +135,10 @@ kei 3
 vom 3
 bis 3
 ihn 3
+scho 3
 hesch 3
 gern 3
+min 3
 wird 3
 Lüt 3
 als 3
@@ -145,6 +148,7 @@ alli 3
 gstorbe 3
 würkli 3
 Wenn 3
+Häsch 3
 Problem 3
 vor 3
 mache 3
@@ -175,7 +179,6 @@ Nööchi 2
 Hoi 2
 Bis 2
 Ihnä 2
-din 2
 Prueff 2
 Chasch 2
 Vill 2
@@ -209,7 +212,6 @@ trinke 2
 fast 2
 Hend 2
 be 2
-scho 2
 aber 2
 wett 2
 sis 2
@@ -224,7 +226,6 @@ Wer 2
 Baum 2
 gueti 2
 Person 2
-min 2
 mue 2
 schlofe 2
 zrugg 2
@@ -271,8 +272,8 @@ ihr 2
 Hesch 2
 Eier 2
 halb 2
-Häsch 2
 Het 2
+dihei 2
 chrank 2
 passiert 2
 dem 2
@@ -285,6 +286,7 @@ luegt 2
 woni 2
 muess 2
 verstoht 2
+gnoh 2
 Zug 2
 Die 2
 an 2
@@ -690,7 +692,6 @@ eigni 1
 Hör 1
 z'fluechä 1
 Kreditcharte 1
-dihei 1
 has 1
 übercho 1
 läbet 1
@@ -813,7 +814,6 @@ Spielregle 1
 Dozumal 1
 hani 1
 Französischunterricht 1
-gnoh 1
 schiins 1
 Git's 1
 WC 1
@@ -1006,3 +1006,8 @@ Siite 1
 hälte 1
 nümm 1
 dahei 1
+Am 1
+Friitig 1
+Badge 1
+vergässe 1
+Gschänk 1

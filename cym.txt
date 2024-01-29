@@ -1,12 +1,12 @@
-yn 554
+yn 555
 i 340
 Mae 282
 y 195
 Dw 183
 i'n 173
 Tom 165
+ddim 115
 o 115
-ddim 114
 ei 93
 ar 86
 hoffi 79
@@ -71,12 +71,12 @@ yfed 21
 mae'r 20
 o'n 20
 o'r 19
+gallu 19
 da 19
 mae 19
 Cymraeg 19
 cael 18
 dda 18
-gallu 18
 gweithio 18
 Oes 18
 chwarae 18
@@ -94,6 +94,7 @@ rhy 16
 dysgu 16
 eu 15
 bwrw 15
+Dydy 15
 Yn 15
 ardd 15
 oes 15
@@ -102,7 +103,6 @@ ni'n 14
 Ydych 14
 Saesneg 14
 Does 14
-Dydy 14
 Nid 14
 un 14
 enw 14
@@ -186,6 +186,7 @@ ydw 8
 'da 8
 ym 8
 glaw 8
+cysgu 8
 dal 8
 iaith 8
 byth 8
@@ -205,7 +206,6 @@ dwlu 8
 car 7
 sydd 7
 Dyn 7
-cysgu 7
 gloch 7
 Rwyt 7
 barod 7
@@ -2535,3 +2535,4 @@ gadair 1
 wnes 1
 llefrith 1
 archfarchnad 1
+Vera 1

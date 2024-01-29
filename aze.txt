@@ -1,14 +1,14 @@
-Mən 657
-O 453
+Mən 658
+O 454
 Tom 404
 Bu 354
 var 251
-bir 216
+bir 217
 nə 181
 çox 170
 Biz 153
 ki 135
-idi 127
+idi 128
 Sən 125
 Mənim 118
 və 113
@@ -20,10 +20,10 @@ mənim 94
 yaxşı 81
 Onun 73
 mənə 70
+Tomun 70
 Siz 69
-Tomun 69
 bu 68
-istəyirəm 66
+istəyirəm 67
 vaxt 66
 deyiləm 63
 daha 62
@@ -65,12 +65,12 @@ sənə 34
 etdi 34
 Toma 34
 yox 33
+bilmirəm 33
 kömək 33
 yaşayır 33
 Bizim 32
 onun 32
 alma 32
-bilmirəm 32
 hələ 31
 edə 31
 harada 30
@@ -99,12 +99,12 @@ gedir 26
 sonra 25
 dedi 25
 neçə 24
+niyə 24
+bilir 24
 görə 24
 sizin 24
 dəfə 23
-niyə 23
 ona 23
-bilir 23
 evə 23
 Tomu 23
 Sizin 22
@@ -116,6 +116,7 @@ baş 22
 Meri 22
 məktəbə 21
 İndi 21
+etmək 21
 Heç 21
 deyildi 21
 başladı 21
@@ -123,7 +124,6 @@ Mary 21
 nədir 20
 belə 20
 bütün 20
-etmək 20
 istəyir 20
 Onların 20
 qədərdir 20
@@ -170,6 +170,7 @@ xoşbəxt 16
 istəmir 16
 ver 16
 Əgər 16
+verdi 16
 yerləşir 16
 sən 16
 səhər 15
@@ -181,7 +182,6 @@ Sənə 15
 adam 15
 olar 15
 sizi 15
-verdi 15
 bizə 15
 hansı 15
 Yaponiyaya 15
@@ -231,6 +231,7 @@ asan 11
 gedirəm 11
 qırmızı 11
 ola 11
+həkim 11
 Burada 11
 etdiyini 11
 Gəl 11
@@ -253,7 +254,6 @@ buna 11
 Alma 10
 yaşamaq 10
 ol 10
-həkim 10
 Qız 10
 yeyirəm 10
 danışıram 10
@@ -735,6 +735,7 @@ içində 4
 Musiqi 4
 təzə 4
 iyirmi 4
+Anan 4
 evdədir 4
 ağacın 4
 yaşıldır 4
@@ -991,6 +992,7 @@ doqquz 3
 Ağ 3
 əmim 3
 Ev 3
+Ağac 3
 dəyiləm 3
 itirdi 3
 diqqətli 3
@@ -1417,7 +1419,6 @@ təhsili 2
 gələcəksən 2
 otaqdadır 2
 On 2
-Anan 2
 əsla 2
 saldı 2
 Xəbər 2
@@ -1429,7 +1430,6 @@ hovuzda 2
 tələbədir 2
 məktəbdən 2
 Evin 2
-Ağac 2
 kiçikdir 2
 altındadır 2
 bağla 2
@@ -1734,6 +1734,7 @@ ikimiz 2
 etmədiyimi 2
 düşürsən 2
 təcili 2
+oyunu 2
 hədiyyə 2
 başlayıb 2
 bilirsiniz 2
@@ -2037,6 +2038,7 @@ Beləliklə 2
 doğulmusan 2
 etməliyik 2
 batır 2
+ilk 2
 oldum 2
 sağdır 2
 İsveçə 2
@@ -2437,6 +2439,7 @@ Ailəm 2
 bric 2
 günlər 2
 Sonra 2
+icra 2
 Bizdə 2
 Şəhərin 2
 yatdığını 2
@@ -2446,6 +2449,7 @@ Ziri 2
 yağsa 2
 piknik 2
 ediləcək 2
+bilirmi 2
 tapdıqlarını 2
 xəstəyik 2
 subaydır 2
@@ -3796,7 +3800,6 @@ biletim 1
 olaq 1
 çatmasını 1
 istəyirdilər 1
-oyunu 1
 xatırlayırsınız 1
 Buqələmun 1
 rəng 1
@@ -4820,7 +4823,6 @@ söndürdüm 1
 bilməyənlərə 1
 oyananda 1
 qərbdə 1
-ilk 1
 baxışdan 1
 bəhanələr 1
 gətirməyə 1
@@ -7447,7 +7449,6 @@ olacaq» 1
 proqram 1
 DOS 1
 rejimində 1
-icra 1
 Bakıdır 1
 baytar 1
 uşağın 1
@@ -7492,7 +7493,6 @@ Televiziyanın 1
 azalda 1
 Maşınım 1
 Taqaloq 1
-bilirmi 1
 seçilmişəm 1
 Seçilən 1
 Göyü 1
@@ -7708,3 +7708,7 @@ müəllifi 1
 Qurğuşunsuz 1
 benzin 1
 üşüyür 1
+meyvəsini 1
+Windows 1
+95 1
+xəstələndiyini 1

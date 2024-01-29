@@ -1,12 +1,12 @@
-ad 179856
+ad 179857
 n 147813
 d 109450
-ara 89806
+ara 89805
 ay 71470
 i 58738
-deg 56119
+deg 56120
 Ur 52076
-ur 47902
+ur 47901
 Tom 41905
 asegzawal 39616
 ɣef 32121
@@ -194,7 +194,7 @@ Dehbeyya 1814
 Xira 1792
 Ɣseɣ 1783
 awal 1776
-I 1775
+I 1776
 atan 1754
 takeṛṛust 1737
 Leqbayel 1737
@@ -710,10 +710,10 @@ yelli-s 481
 taɣawsa 479
 acu-tt 478
 uzemmur 477
-d-tesɣiḍ 476
 Aql-ikem 476
 Tura 476
 Lant 476
+d-tesɣiḍ 475
 yiḍes 475
 Tesɣa-d 474
 Leqran 473
@@ -1083,10 +1083,10 @@ taɛrabt 308
 yimensi 307
 txedmeḍ 307
 uɣrum 306
+Claudio 306
 lbaṭel 305
 Ḥwajent 305
 yidlisen 305
-Claudio 305
 teẓgi 304
 tezmirem 304
 Yuɣ-d 304
@@ -1145,9 +1145,9 @@ Sin 290
 azemmur 290
 simraw 290
 tiliḍ 289
+Ini-as 289
 igumma 289
 Ttmahaleɣ 289
-Ini-as 288
 tagelmust 288
 Ɣer-sent 288
 Yessen 286
@@ -1819,6 +1819,7 @@ teqqlem 174
 » 174
 tuɣaleḍ 174
 Grande 174
+Isabella 174
 taɣuri 173
 yeqleɛ 173
 ɣer-neɣ 173
@@ -1829,7 +1830,6 @@ At 173
 qqlent 173
 akli 173
 amsaman 173
-Isabella 173
 Yeɛjeb-iyi 172
 tɣuri 172
 tettban-d 172
@@ -2371,7 +2371,6 @@ Ifuk 142
 aṭaksi 142
 iɛawed 142
 tugi 142
-timellalin 142
 usalay 142
 ɣlayen 142
 abeckiḍ 142
@@ -2391,6 +2390,7 @@ dihin 141
 taṣebḥit 141
 d-yettban 141
 taddart-nni 141
+timellalin 141
 asegbar 141
 allalen 141
 ilu 141
@@ -5434,7 +5434,6 @@ swiɣ 57
 tɛum 57
 taqcict-nni 57
 iḥemmel-itt 57
-Tettuḍ 57
 xeddment 57
 d-yeffɣen 57
 Tdukli 57
@@ -5451,6 +5450,7 @@ lmal 57
 walan 57
 aneɣmas 57
 teftist-nni 57
+watig 57
 yezzi 57
 d-yezzin 57
 Tetteddumt 57
@@ -5525,6 +5525,7 @@ d-yekcem 56
 ternu 56
 Ffeɣ 56
 yettnaɣ 56
+Tettuḍ 56
 uḍneɣ 56
 tugim 56
 Uḍneɣ 56
@@ -5537,7 +5538,6 @@ t-ttajja 56
 mazal-iten 56
 tneɣlust 56
 tekkes 56
-watig 56
 Nuṛwij 56
 tettessemt 56
 turaremt 56
