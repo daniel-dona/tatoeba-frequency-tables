@@ -1,4 +1,4 @@
-on 1405
+on 1406
 Ma 888
 ei 715
 Tom 584
@@ -6,7 +6,7 @@ sa 416
 Kas 407
 Ta 323
 et 319
-See 268
+See 269
 ma 213
 seda 202
 oma 185
@@ -78,10 +78,10 @@ talle 39
 Tomil 39
 Kuidas 38
 Ära 38
+täna 38
 kaks 38
 aga 37
 tema 37
-täna 37
 tahab 37
 koer 37
 nad 36
@@ -90,12 +90,12 @@ koju 35
 kas 35
 vaja 34
 kes 34
+ilus 34
 aru 33
 hästi 33
 eile 33
 räägi 33
 maja 33
-ilus 33
 teda 33
 inglise 33
 tean 33
@@ -408,6 +408,7 @@ piisavalt 9
 Vabandust 9
 jääda 9
 sõbrad 9
+sööb 9
 huvitav 9
 eesti 9
 lugeda 9
@@ -615,7 +616,6 @@ küsimus 6
 must 6
 peal 6
 tulid 6
-sööb 6
 mängida 6
 võimalik 6
 laenata 6
@@ -684,6 +684,7 @@ järgmine 5
 kuul 5
 seitse 5
 üheksa 5
+Mees 5
 keelest 5
 maailm 5
 jalgratas 5
@@ -839,7 +840,6 @@ ostsid 4
 sõnastiku 4
 kleit 4
 jalgpalli 4
-Mees 4
 alasti 4
 suudelda 4
 käis 4
@@ -1014,6 +1014,7 @@ vara 4
 võtnud 4
 leidsin 4
 Türgi 4
+lause 4
 ukraina 4
 sündis 4
 kestab 4
@@ -1075,6 +1076,7 @@ kiri 3
 Kassid 3
 jookseb 3
 kodu 3
+Naine 3
 tüdrukud 3
 poisid 3
 rase 3
@@ -1125,6 +1127,7 @@ jäätist 3
 avatud 3
 Grammatika 3
 härra 3
+kokku 3
 rääkisin 3
 jooksis 3
 otse 3
@@ -1397,10 +1400,10 @@ keldris 3
 Austraaliasse 3
 jaapani 3
 jalast 3
-lause 3
 nimekirja 3
 arsti 3
 ostan 3
+koosneb 3
 Helistan 3
 hauguvad 3
 Kreeka 3
@@ -1516,7 +1519,6 @@ Keuc 2
 Phoenix 2
 Arizona 2
 sulge 2
-Naine 2
 Beebi 2
 Suudle 2
 pluusi 2
@@ -1602,7 +1604,6 @@ sõja 2
 esitatud 2
 lugu 2
 Hea 2
-kokku 2
 võtsin 2
 kergem 2
 raamatus 2
@@ -2200,7 +2201,6 @@ häiris 2
 võivad 2
 tunnevad 2
 Vene 2
-koosneb 2
 hingata 2
 India 2
 valeta 2
@@ -6398,3 +6398,7 @@ lugege 1
 nurrub 1
 Iževsk 1
 Udmurdi 1
+Laps 1
+seitsmest 1
+sõnast 1
+Ilm 1

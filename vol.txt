@@ -3,7 +3,7 @@ No 543
 das 485
 no 435
 binom 415
-etosi 376
+etosi 377
 in 297
 obik 251
 Maria 200
@@ -36,7 +36,7 @@ al 75
 El 74
 vilom 74
 Kim 73
-Tomase 71
+Tomase 72
 golön 70
 binob 67
 us 66
@@ -147,16 +147,16 @@ fat 25
 domi 25
 Fat 25
 löfob 25
+lilädön 25
 Sagolöd 25
 Talop 25
+penedi 24
 tuvön 24
 äsagom 24
-lilädön 24
 Spikol-li 24
 kanol 24
 nolol 24
 tikol 24
-penedi 23
 cilis 23
 Dom 23
 dom 23
@@ -169,6 +169,7 @@ velati 23
 Logob 22
 vobi 22
 oni 22
+Kanob 22
 vobön 22
 flens 22
 miti 22
@@ -180,7 +181,6 @@ kömön 22
 tikob 22
 su 21
 u 21
-Kanob 21
 Kat 21
 nulik 21
 Dog 21
@@ -629,6 +629,7 @@ nim 5
 Famül 5
 Li-kanobs 5
 Ägivob 5
+vomis 5
 zifa 5
 fiti 5
 Pük 5
@@ -749,7 +750,6 @@ li-binoms 4
 logom 4
 neflen 4
 mul 4
-vomis 4
 dil 4
 Studob 4
 nendöfik 4
@@ -4646,3 +4646,5 @@ Aliza 1
 svimol 1
 Nif 1
 Panedol 1
+Vi 1
+Li-epenol 1

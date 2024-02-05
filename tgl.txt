@@ -1,23 +1,23 @@
-ang 32931
-sa 25656
+ang 32932
+sa 25658
 ng 24459
-na 15104
+na 15108
 po 13750
 ko 11782
-mga 11160
+mga 11162
 Tom 9373
 si 8325
 ako 7629
 mo 6060
 ni 5985
 Hindi 5911
-ba 5156
+ba 5157
 at 4667
 niya 4601
 ito 4518
 siya 4337
 ay 4252
-May 3682
+May 3684
 ka 3535
 Ang 3510
 nang 3473
@@ -181,8 +181,8 @@ labas 317
 tatlong 316
 beses 316
 bukas 312
+pangalan 311
 Isla 310
-pangalan 309
 kanilang 308
 Anong 308
 makita 305
@@ -258,9 +258,9 @@ Kumakain 218
 Siya 217
 lalaking 217
 sino 216
+isda 216
 hardin 216
 ating 215
-isda 214
 Greg 214
 maliit 213
 amin 213
@@ -345,11 +345,11 @@ mayroon 154
 mansanas 154
 isip 154
 ulo 154
+kulay 153
 masaya 153
 bumili 153
 susunod 152
 dalawa 152
-kulay 151
 malapit 151
 Michael 151
 ibig 150
@@ -812,6 +812,7 @@ Nagtatrabaho 64
 Gustong 64
 bote 64
 matagal 64
+iba-ibang 64
 Pinatay 64
 Huwebes 64
 tauhan 63
@@ -831,7 +832,6 @@ Linggo 62
 sombrero 62
 madali 62
 Nahuli 62
-iba-ibang 62
 Agosto 62
 Kulay 62
 konsepto 62
@@ -1110,6 +1110,7 @@ nalalaman 47
 kulay-kapeng 47
 baristang 47
 mahiwagang 47
+akwaryo 47
 Nais 46
 Naaalala 46
 diyos 46
@@ -1157,7 +1158,6 @@ bakuran 45
 Sumakay 45
 tablet 45
 Bumagsak 45
-akwaryo 45
 Pwede 44
 kasi 44
 asong 44
@@ -1386,6 +1386,7 @@ petsa 37
 teatro 37
 Minsan 37
 Binili 37
+mo" 37
 ulit 37
 kumanta 37
 aklatan 37
@@ -1447,7 +1448,6 @@ Magsisimula 35
 dumaan 35
 Sasama 35
 hanapin 35
-mo" 35
 pinanganak 35
 akala 35
 gising 35
@@ -1563,6 +1563,7 @@ maghapunan 33
 desisyon 33
 ayon 33
 pating 33
+malaking-malaking 33
 bubong 33
 Kanino 33
 nag-iisang 33
@@ -1650,7 +1651,6 @@ Asya 31
 nagbigay 31
 kuweba 31
 gabay 31
-malaking-malaking 31
 gumamela 31
 mag-alas 31
 naniniwalang 31
@@ -1741,6 +1741,7 @@ Nagulat 29
 Kulang 29
 makilala 29
 tuwalya 29
+"Anong 29
 bituin 29
 maalala 29
 nagustuhan 29
@@ -1800,7 +1801,6 @@ bababa 28
 sundin 28
 lindol 28
 Nahirapan 28
-"Anong 28
 maigi 28
 pinag-uusapan 28
 bastos 28
@@ -2250,6 +2250,7 @@ malamang 22
 tawagin 22
 halimaw 22
 liwasan 22
+"Ano 22
 magdamag 22
 Panahon 22
 karaming 22
@@ -2342,7 +2343,6 @@ isipin 21
 ako" 21
 Hinalo 21
 umpisa 21
-"Ano 21
 hilaw 21
 bobo 21
 munting 21
@@ -4239,6 +4239,7 @@ tintang 11
 Cindy 11
 almendras 11
 baging 11
+po" 11
 kabaligtaran 11
 regla 11
 pinalitan 11
@@ -4957,7 +4958,6 @@ Isaac 9
 Nananalo 9
 ko: 9
 ninyo" 9
-po" 9
 Erwin" 9
 mag-aayskrim 9
 morado 9
@@ -6513,6 +6513,7 @@ plorera 6
 ika-25 6
 aburido 6
 tikbalang 6
+malapad 6
 nangangagat 6
 diyaryong 6
 tumataas 6
@@ -7468,7 +7469,6 @@ humihithit 5
 nilupak 5
 maulap-ulap 5
 iguhit 5
-malapad 5
 B 5
 magpagupit 5
 – 5
@@ -7531,6 +7531,7 @@ petrolyo 5
 akóng 5
 kasimbilis 5
 napakaaga 5
+mabilog 5
 kumakausap 5
 mortal 5
 labindalawang 5
@@ -8569,7 +8570,6 @@ iyan" 4
 Hininto 4
 nagbabago 4
 konsyerto 4
-mabilog 4
 tataba 4
 pare 4
 bumasa 4

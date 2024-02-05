@@ -1,11 +1,11 @@
-yn 555
-i 340
+yn 556
+i 341
 Mae 282
 y 195
-Dw 183
+Dw 184
 i'n 173
 Tom 165
-ddim 115
+ddim 116
 o 115
 ei 93
 ar 86
@@ -53,6 +53,7 @@ fi 25
 Mae'n 25
 ydy 24
 gen 24
+gwneud 24
 hynny 24
 dod 23
 fel 23
@@ -60,12 +61,11 @@ yma 23
 ond 23
 ôl 23
 bwyta 23
-gwneud 23
 gan 22
+dim 22
 wneud 22
 Dych 21
 dw 21
-dim 21
 rhaid 21
 yfed 21
 mae'r 20
@@ -112,10 +112,10 @@ Dywedodd 14
 heddiw 13
 dych 13
 ein 13
+byd 13
 prynu 13
 gwisgo 13
 yng 12
-byd 12
 Paid 12
 na 12
 dweud 12
@@ -150,6 +150,7 @@ Doedd 10
 aros 10
 Mi 10
 Dydw 10
+eto 10
 yna 10
 bwyd 10
 gweld 10
@@ -167,7 +168,6 @@ Peidiwch 9
 ferch 9
 sy'n 9
 iddo 9
-eto 9
 waith 9
 cartref 9
 swydd 9

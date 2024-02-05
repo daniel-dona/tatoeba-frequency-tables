@@ -1,4 +1,4 @@
-je 1697
+je 1698
 se 616
 u 557
 sam 462
@@ -2722,6 +2722,7 @@ autobus 2
 zamolio 2
 Trebali 2
 Pa 2
+vrt 2
 dijamante 2
 Betty 2
 Ubiti 2
@@ -6739,7 +6740,6 @@ pogađaš 1
 pogodiš 1
 yena 1
 zalijeva 1
-vrt 1
 ponizan 1
 pozive 1
 telefonirati 1
@@ -8256,3 +8256,5 @@ Andrea 1
 nož 1
 Jeo 1
 Jupiter 1
+Zoološki 1
+otvoren 1

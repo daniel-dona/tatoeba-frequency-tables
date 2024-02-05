@@ -1,15 +1,15 @@
-je 961
+je 964
 Ali 226
-sem 170
+sem 171
 se 167
 v 157
 Tom 127
 so 112
-ne 105
+ne 106
 in 104
 da 91
+na 90
 govorite 90
-na 89
 mesto 88
 govoriš 87
 Govoriš 86
@@ -27,7 +27,7 @@ Jaz 60
 Govorim 53
 Koliko 46
 ime 45
-bo 43
+bo 44
 Kako 42
 lahko 42
 to 42
@@ -38,14 +38,14 @@ me 37
 moja 37
 ki 35
 jezik 35
+Kje 34
 ima 34
-Kje 33
 bil 33
 Sem 33
 dan 32
 z 32
+Ona 31
 govorim 31
-Ona 30
 Kdo 28
 ti 28
 po 28
@@ -55,13 +55,13 @@ Je 26
 Danes 26
 Mary 25
 kot 24
+s 24
 On 24
 vse 24
 Marija 24
 Moje 23
 bila 23
 tvoj 23
-s 23
 Kdaj 22
 angleško 21
 Živijo 21
@@ -178,6 +178,7 @@ brat 9
 dve 8
 Ni 8
 kavo 8
+ženska 8
 Želim 8
 včeraj 8
 avto 8
@@ -204,7 +205,6 @@ ujgursko 8
 pomemben 8
 hobi 8
 Rada 7
-ženska 7
 Hočem 7
 Če 7
 ob 7
@@ -452,6 +452,7 @@ sonce 4
 vrag 4
 bili 4
 ostal 4
+problem 4
 Nesreča 4
 zjutraj 4
 zame 4
@@ -553,6 +554,7 @@ mrzla 4
 tisoč 4
 Italije 4
 Francije 4
+postaja 4
 Slovenka 4
 sreča 4
 Šrilanka 4
@@ -644,7 +646,6 @@ njegovo 3
 Tudi 3
 ljubiš 3
 morali 3
-problem 3
 roko 3
 Mislil 3
 hočeš 3
@@ -763,7 +764,6 @@ zadovoljen 3
 Lačna 3
 Rusije 3
 Švice 3
-postaja 3
 Američan 3
 Američanka 3
 Slovenec 3
@@ -1360,6 +1360,7 @@ Bolje 2
 enaki 2
 »Kateri 2
 danes« 2
+Denar 2
 muhe 2
 slona 2
 inženir 2
@@ -1423,6 +1424,7 @@ idejo 2
 Morje 2
 zdravnica 2
 plus 2
+prva 2
 kopljejo 2
 slišim 2
 Klopi 2
@@ -3467,7 +3469,6 @@ Podarjenemu 1
 konju 1
 kratke 1
 noge 1
-Denar 1
 raste 1
 drevesu 1
 Visok 1
@@ -3835,7 +3836,6 @@ Abuja 1
 Nigerije 1
 pomenov 1
 »A« 1
-prva 1
 »B« 1
 »C« 1
 tretja 1
@@ -3907,3 +3907,11 @@ jezika 1
 Čigava 1
 okrogel 1
 Potni 1
+avtobusna 1
+katero 1
+hodil 1
+Oba 1
+živita 1
+Dunaju 1
+Riba 1
+sveža 1
