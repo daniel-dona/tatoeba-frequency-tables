@@ -1,4 +1,4 @@
-on 28311
+on 28312
 ei 10383
 Tom 9559
 Hän 8095
@@ -483,10 +483,10 @@ hänellä 175
 läpi 175
 jossa 175
 ajaa 175
+mistä 175
 mennyt 175
 sun 175
 olisin 174
-mistä 174
 unohda 174
 Tulen 173
 helppoa 172
@@ -9597,6 +9597,7 @@ kirjoituspöydälläsi 8
 sairaalasängyssä 8
 sairaalavuoteessa 8
 virkki: 8
+roikkuu 8
 Mariaana 8
 maksua 8
 Morjensta 8
@@ -9865,6 +9866,7 @@ vanhojen 7
 tarvitsette 7
 Taidanpa 7
 pääsy 7
+mainio 7
 pakenivat 7
 Korjasin 7
 puutarhasta 7
@@ -9996,5 +9998,3 @@ teos 7
 kolmannen 7
 suloinen 7
 ansainnut 7
-varauksen 7
-kiltisti 7

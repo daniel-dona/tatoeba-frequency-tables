@@ -1,5 +1,5 @@
 je 1698
-se 616
+se 618
 u 557
 sam 462
 da 414
@@ -1589,6 +1589,7 @@ rukom 3
 trenutak 3
 ljubazan 3
 muž 3
+ponavlja 3
 mislio 3
 prvog 3
 njegovog 3
@@ -2296,6 +2297,7 @@ upoznati 2
 pokušala 2
 Dana 2
 stola 2
+Povijest 2
 Francusku 2
 Havaje 2
 žuriti 2
@@ -4833,7 +4835,6 @@ odijelo 1
 odgvoriti 1
 priprema 1
 Liverpoola 1
-Povijest 1
 umjetnost 1
 Stranac 1
 Osušila 1
@@ -5419,7 +5420,6 @@ popravilo 1
 neljubaznost 1
 brinem 1
 otpušten 1
-ponavlja 1
 iste 1
 Ispostavilo 1
 zanimljivu 1
@@ -8258,3 +8258,4 @@ Jeo 1
 Jupiter 1
 Zoološki 1
 otvoren 1
+Historija 1

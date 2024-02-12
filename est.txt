@@ -1,22 +1,22 @@
-on 1406
-Ma 888
+on 1423
+Ma 890
 ei 715
-Tom 584
-sa 416
+Tom 585
+sa 417
 Kas 407
-Ta 323
+Ta 329
 et 319
-See 269
-ma 213
+See 270
+ma 214
 seda 202
 oma 185
-see 174
+see 176
 oli 155
-ja 148
+ja 149
 ta 143
 ole 143
 Sa 137
-olen 133
+olen 135
 Mul 130
 keelt 130
 kui 123
@@ -30,11 +30,11 @@ mu 85
 Nad 84
 selle 84
 midagi 82
-ära 79
+ära 80
 minu 78
-palju 76
+palju 77
+Kui 76
 Miks 75
-Kui 74
 sulle 71
 sind 68
 tahan 68
@@ -45,15 +45,15 @@ Minu 65
 su 65
 Tomi 65
 veel 64
+Mida 63
 siin 63
 Mis 63
 nii 62
-Mida 62
-Kus 61
+Kus 62
 hea 59
 Mary 59
+Kes 58
 Mu 58
-Kes 57
 sinu 54
 ema 53
 mis 52
@@ -75,9 +75,9 @@ pean 41
 tagasi 40
 ütles 40
 talle 39
+Ära 39
 Tomil 39
 Kuidas 38
-Ära 38
 täna 38
 kaks 38
 aga 37
@@ -211,6 +211,7 @@ sai 17
 tõesti 17
 tööd 17
 Kass 17
+Täna 17
 Siin 17
 selles 17
 peaks 17
@@ -233,6 +234,7 @@ saab 16
 pead 16
 peab 15
 andis 15
+raamat 15
 õde 15
 kell 15
 jaoks 15
@@ -253,7 +255,6 @@ Võta 15
 kord 14
 ühe 14
 tüdruk 14
-raamat 14
 Mitte 14
 kuidas 14
 teab 14
@@ -279,6 +280,7 @@ kohta 13
 kaasa 13
 inimene 13
 nimi 13
+kedagi 13
 maha 13
 mees 13
 alla 13
@@ -305,7 +307,6 @@ inimesed 12
 Pole 12
 Meie 12
 teadnud 12
-kedagi 12
 Sinu 12
 need 12
 Head 12
@@ -314,6 +315,7 @@ puu 12
 all 12
 On 12
 kooli 12
+töötab 12
 rääkinud 12
 saad 12
 tihti 12
@@ -321,10 +323,10 @@ päris 12
 meil 12
 Räägi 12
 üksi 11
+külm 11
 kohe 11
 kirja 11
 Selle 11
-Täna 11
 Isa 11
 vend 11
 lahti 11
@@ -332,7 +334,6 @@ lahti 11
 elu 11
 õigus 11
 vihkan 11
-töötab 11
 lihtsalt 11
 õppima 11
 koolis 11
@@ -342,13 +343,13 @@ Bostonisse 11
 teile 11
 Anna 11
 Mine 11
+usu 11
 Thomas 11
 sellega 10
 ütlesin 10
 halb 10
 läksin 10
 jäi 10
-külm 10
 kuus 10
 juurde 10
 varem 10
@@ -378,7 +379,6 @@ võin 10
 pidanud 10
 Tule 10
 vanemad 10
-usu 10
 Sami 10
 noor 9
 pool 9
@@ -413,6 +413,7 @@ huvitav 9
 eesti 9
 lugeda 9
 räägitakse 9
+pime 9
 sajab 9
 Mitu 9
 üldse 9
@@ -440,10 +441,12 @@ riik 8
 kümme 8
 silmad 8
 mäleta 8
+Kelle 8
 naise 8
 Maja 8
 peaksid 8
 mängib 8
+Homme 8
 kena 8
 vihane 8
 magada 8
@@ -471,12 +474,12 @@ mille 8
 suurepärane 8
 näljane 8
 veini 8
+magas 8
 kassi 8
 unusta 8
 Maryle 8
 Tomist 8
 Maryt 8
-pime 8
 aeglaselt 8
 Bostonis 8
 meel 8
@@ -504,6 +507,7 @@ Jaapanis 7
 endale 7
 tulen 7
 aias 7
+Oli 7
 aasta 7
 järgi 7
 tule 7
@@ -511,7 +515,6 @@ tule 7
 saksa 7
 näe 7
 neli 7
-Kelle 7
 peame 7
 Talle 7
 Teie 7
@@ -521,6 +524,7 @@ tugev 7
 Poiss 7
 viimane 7
 hiljem 7
+maksab 7
 aeg 7
 türgi 7
 Tee 7
@@ -540,7 +544,6 @@ magab 7
 tagant 7
 arvab 7
 jään 7
-magas 7
 nädalas 7
 näeb 7
 kuhu 7
@@ -568,7 +571,6 @@ inimest 6
 ootab 6
 töö 6
 sõna 6
-Oli 6
 Arst 6
 sõi 6
 läinud 6
@@ -579,13 +581,11 @@ väärt 6
 kaheksa 6
 söönud 6
 laulja 6
-Homme 6
 edasi 6
 ju 6
 Tundub 6
 hobune 6
 Kuu 6
-maksab 6
 räägite 6
 Kuigi 6
 naist 6
@@ -597,6 +597,7 @@ süda 6
 võtmed 6
 joob 6
 Tahan 6
+pärit 6
 arst 6
 sinine 6
 hakkas 6
@@ -642,6 +643,7 @@ oluline 6
 kana 6
 teavad 6
 Tahaksin 6
+linnas 6
 oska 6
 mäe 6
 otsa 6
@@ -672,6 +674,7 @@ vaid 5
 sõitis 5
 nalja 5
 kümne 5
+laul 5
 ööd 5
 Eesti 5
 toas 5
@@ -684,6 +687,7 @@ järgmine 5
 kuul 5
 seitse 5
 üheksa 5
+ostsid 5
 Mees 5
 keelest 5
 maailm 5
@@ -704,7 +708,6 @@ veeta 5
 hambaid 5
 sõpra 5
 Elu 5
-pärit 5
 vihkab 5
 vanaisa 5
 minutit 5
@@ -771,7 +774,6 @@ asjad 5
 paar 5
 vajab 5
 Parem 5
-linnas 5
 tõttu 5
 inimeste 5
 istus 5
@@ -801,6 +803,7 @@ viskas 5
 Kuna 5
 üllatunud 5
 vene 5
+sündis 5
 koerad 5
 karu 5
 surid 5
@@ -822,7 +825,6 @@ kerge 4
 ääres 4
 sooja 4
 poolest 4
-laul 4
 Laual 4
 loom 4
 suu 4
@@ -836,7 +838,6 @@ otsast 4
 alates 4
 Üks 4
 tundsin 4
-ostsid 4
 sõnastiku 4
 kleit 4
 jalgpalli 4
@@ -846,6 +847,7 @@ käis 4
 sooviksin 4
 võiksin 4
 leida 4
+paistab 4
 ega 4
 kuulus 4
 kurb 4
@@ -1016,7 +1018,6 @@ leidsin 4
 Türgi 4
 lause 4
 ukraina 4
-sündis 4
 kestab 4
 portugali 4
 Milliseid 4
@@ -1094,7 +1095,6 @@ sõnastik 3
 sõnu 3
 kasutada 3
 unustasin 3
-paistab 3
 karpi 3
 poja 3
 võita 3
@@ -1120,6 +1120,7 @@ Ilma 3
 kodust 3
 olemas 3
 kõlab 3
+pühapäev 3
 küsimusi 3
 laual 3
 arvuti 3
@@ -1280,6 +1281,7 @@ mõnikord 3
 Mariga 3
 kolmsada 3
 hiina 3
+pilvine 3
 kuulanud 3
 teevad 3
 Tahtsin 3
@@ -1418,6 +1420,7 @@ Isegi 3
 minuta 3
 tuju 3
 Võib 3
+algab 3
 kirik 3
 riideid 3
 Yanni 3
@@ -1580,8 +1583,8 @@ rõõmu 2
 pikki 2
 seisuga 2
 kolmkümmend 2
-pühapäev 2
 aednik 2
+Linnud 2
 igavesti 2
 Kõige 2
 Tatoeba 2
@@ -1660,6 +1663,7 @@ Nägemist 2
 murdsid 2
 kahele 2
 Mesilased 2
+lendavad 2
 Armastus 2
 Marit 2
 noorena 2
@@ -1731,6 +1735,7 @@ Brasiilias 2
 hind 2
 Oleks 2
 Tuba 2
+soe 2
 banaane 2
 valmistatud 2
 Oh 2
@@ -1751,6 +1756,7 @@ vaade 2
 voodit 2
 kaasas 2
 lammas 2
+Juba 2
 küsin 2
 parima 2
 jaanuaris 2
@@ -1864,6 +1870,7 @@ kuulsime 2
 ettepanek 2
 juhtuma 2
 grammatikat 2
+kirjanik 2
 põgenes 2
 Kahjuks 2
 mängu 2
@@ -2121,6 +2128,7 @@ korterisse 2
 kirjutuslaua 2
 hammast 2
 Olin 2
+raamatukogu 2
 hülgas 2
 inimesele 2
 Rooma 2
@@ -2128,6 +2136,7 @@ peavalu 2
 hakkasid 2
 suitseta 2
 berberi 2
+sulas 2
 hullem 2
 nelja 2
 lõvi 2
@@ -2249,7 +2258,6 @@ kõigi 2
 teiega 2
 Ateenas 2
 kauaks 2
-algab 2
 noorelt 2
 saite 2
 mõistad 2
@@ -2280,6 +2288,7 @@ solvasin 2
 apelsinimahla 2
 pojale 2
 Järgmine 2
+neljapäev 2
 jõuab 2
 relv 2
 klient 2
@@ -2345,6 +2354,7 @@ Soome 2
 Madrid 2
 Gröönimaa 2
 Nuuk 2
+esmaspäev 2
 Sellises 1
 kärestikus 1
 mõtlematu 1
@@ -2941,7 +2951,6 @@ nõukogude 1
 võim 1
 pluss 1
 elektrifitseerimine 1
-Linnud 1
 lendasid 1
 lõunasse 1
 Lehmad 1
@@ -3164,7 +3173,6 @@ pudel 1
 reedeks 1
 kõigist 1
 lilledest 1
-lendavad 1
 lillelt 1
 lillele 1
 Lillepood 1
@@ -3329,7 +3337,6 @@ vägs 1
 kõrge 1
 sinusugune 1
 Cornwall 1
-soe 1
 lampi 1
 lülitada 1
 autod 1
@@ -3381,7 +3388,6 @@ kaunist 1
 merevaadet 1
 Joonista 1
 tegurit 1
-Juba 1
 hommik 1
 Niisama 1
 kolisime 1
@@ -3748,7 +3754,6 @@ alust 1
 sakslane 1
 eksinud 1
 tunnustatud 1
-kirjanik 1
 kiusatakse 1
 vanglast 1
 temasse 1
@@ -3835,7 +3840,6 @@ Elan 1
 tugevust 1
 lõpp 1
 Ilmaennustuse 1
-pilvine 1
 kodutöö 1
 iseseisvalt 1
 peitsin 1
@@ -4729,7 +4733,6 @@ Kirjutuslaua 1
 fakte 1
 hirmuta 1
 inimesel 1
-raamatukogu 1
 bioloogiaõpetaja 1
 Sonia 1
 juhtida 1
@@ -4754,7 +4757,6 @@ lapsi 1
 Toomasel 1
 Kuuma 1
 Pruun 1
-sulas 1
 kutsus 1
 õigemalt 1
 Toomase 1
@@ -5582,7 +5584,6 @@ valetamise 1
 ajavad 1
 sarnasusi 1
 erinevusi 1
-neljapäev 1
 puhkepäev 1
 Piir 1
 Mängisin 1
@@ -6402,3 +6403,16 @@ Laps 1
 seitsmest 1
 sõnast 1
 Ilm 1
+Film 1
+Jumal 1
+tänatud 1
+teadlane 1
+ajakirjanik 1
+teisipäev 1
+kolmapäev 1
+reede 1
+loendasin 1
+Lumi 1
+päike 1
+Gruusiast 1
+Gruusias 1

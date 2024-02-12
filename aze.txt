@@ -1,7 +1,7 @@
 Mən 658
-O 454
+O 455
 Tom 404
-Bu 354
+Bu 355
 var 251
 bir 217
 nə 181
@@ -158,6 +158,7 @@ danışır 17
 bilərsən 17
 başqa 17
 dilini 17
+sən 17
 bilərəm 16
 əvvəl 16
 yeni 16
@@ -172,7 +173,6 @@ ver 16
 Əgər 16
 verdi 16
 yerləşir 16
-sən 16
 səhər 15
 almaq 15
 Məncə 15
@@ -500,6 +500,7 @@ Ana 6
 müqəddəs 6
 gözəldir 6
 oğlu 6
+qadın 6
 vacibdir 6
 edirsən 6
 axşam 6
@@ -627,7 +628,6 @@ bilərəmmi 5
 bilmək 5
 itim 5
 isə 5
-qadın 5
 döndü 5
 Yaxşı 5
 Kimsə 5
@@ -2155,6 +2155,7 @@ oxuyurdu 2
 gözləyirdim 2
 yaşamır 2
 axtarır 2
+mağazada 2
 klub 2
 Tualet 2
 Tomdur 2
@@ -5335,7 +5336,6 @@ Gözləməkdən 1
 öldürdü 1
 Baliyə 1
 İşləmək 1
-mağazada 1
 səhərdir 1
 Qəsəbədə 1
 kolxozda 1
@@ -7712,3 +7712,7 @@ meyvəsini 1
 Windows 1
 95 1
 xəstələndiyini 1
+geyimləri 1
+satılmır 1
+fotoları 1
+çəkmisən 1

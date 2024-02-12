@@ -54,7 +54,7 @@ chaq 181
 latlh 181
 jaj 179
 wa'Hu' 175
-'Iv 173
+'Iv 174
 paq 172
 poH 168
 'ar 168
@@ -125,13 +125,13 @@ DuSaQ 81
 Hegh 80
 SIS 79
 juHDaq 79
+maH 79
 mIllogh 79
 qaS 79
 puq 79
 qan 79
 'amerI'qa' 79
 paqvam 78
-maH 78
 'oHbe' 78
 motlh 77
 HIq 77
@@ -916,6 +916,7 @@ Dalo' 13
 boghaj'a' 13
 qabqu' 13
 nuch 13
+tlhej 13
 'oQqarmey 13
 bejtaH 13
 qa'naDa' 13
@@ -999,7 +1000,6 @@ maghom 12
 'echletHom 12
 chutmey 12
 SuDqu' 12
-tlhej 12
 HeHDaq 12
 waghqu' 12
 chaw'mey 12
@@ -1353,6 +1353,7 @@ SamIy 9
 Do'ol 9
 chI'le 9
 jISovbe' 8
+HItlhej 8
 vISIQlaHbe' 8
 ghaHlaw' 8
 lu' 8
@@ -1533,7 +1534,6 @@ vItur 8
 qampuchIya' 8
 bortaS 7
 jIyajbe' 7
-HItlhej 7
 vengvamDaq 7
 nuq'e' 7
 nuqneH 7
@@ -3613,6 +3613,7 @@ batlhHa' 3
 qelDI' 3
 vIHtaH 3
 DochmeywIj 3
+ngup 3
 Hochvetlh 3
 vIHutlhmo' 3
 yItI' 3
@@ -5173,7 +5174,6 @@ SoSpu'ma' 2
 DebDaq 2
 jo' 2
 law'Daq 2
-ngup 2
 juHHom 2
 moHbe' 2
 'amerIqa' 2
@@ -5879,6 +5879,7 @@ renwI' 2
 jImuS 2
 choghel 2
 Dayajbe''a' 2
+woD 2
 muchop 2
 jIrun 2
 qIgh 2
@@ -9997,4 +9998,3 @@ nI'pu' 1
 vIHar'a' 1
 lughorlu'bogh 1
 majaHneS'a' 1
-mamejneS'a' 1

@@ -4,7 +4,7 @@ xwe 1033
 ji 998
 min 995
 bi 936
-li 828
+li 830
 Ew 815
 ê 738
 û 664
@@ -403,6 +403,7 @@ hestî 15
 Bostonê 15
 wenda 14
 hate 14
+salan 14
 dibêjim 14
 xurt 14
 bibîne 14
@@ -463,7 +464,6 @@ bêje 12
 muzîkê 12
 jina 12
 ketin 12
-salan 12
 dizî 12
 dibînin 12
 bir 12
@@ -1771,6 +1771,7 @@ daxwaza 3
 bêhn 3
 zanyar 3
 biçûya 3
+jiya 3
 nabînin 3
 xweştir 3
 hezdikim 3
@@ -1941,6 +1942,7 @@ dihat 3
 zarokeke 3
 bajarî 3
 kete 3
+Şeş 3
 hêdîka 3
 Xanî 3
 aliyekî 3
@@ -2316,6 +2318,7 @@ Stenbolê 3
 Mary'ê 3
 danûstanê 3
 Maisie 3
+Enqereyê 3
 cêwî 3
 Polonyayê 3
 Neh 3
@@ -3605,6 +3608,7 @@ nabînî 2
 êşbir 2
 Parîsê 2
 Sî 2
+Enqerê 2
 navçeya 2
 şermok 2
 Otobusa 2
@@ -3615,7 +3619,6 @@ nimêj 2
 nimêjê 2
 îmze 2
 kurtikekî 2
-Enqereyê 2
 Dêrikê 2
 terorê 2
 Şer 2
@@ -4475,7 +4478,6 @@ gerstêrka 1
 bikaranînê 1
 Nêz 1
 Ankara'yê 1
-jiya 1
 saetekî 1
 asansorê 1
 nêrdewan 1
@@ -5590,7 +5592,6 @@ tiřsî 1
 dîya 1
 derva 1
 Duhu 1
-Şeş 1
 zar 1
 Evans 1
 ewî 1
@@ -8851,7 +8852,6 @@ nuklerî 1
 Tûtî 1
 Londonê 1
 welatî 1
-Enqerê 1
 Îzmîrê 1
 12ê 1
 pûşperê 1

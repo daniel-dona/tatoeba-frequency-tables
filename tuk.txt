@@ -1,9 +1,9 @@
 Tom 1164
 Men 878
-Ol 493
+Ol 494
 bilen 440
 Sen 316
-Bu 305
+Bu 307
 üçin 301
 we 286
 bir 217
@@ -46,7 +46,7 @@ köp 87
 gaty 87
 örän 85
 dälmi 85
-sen 82
+sen 83
 şeýle 79
 ýok 77
 Sami 70
@@ -68,7 +68,7 @@ gördüm 57
 Meniñ 56
 Tomy 56
 nähili 53
-nirede 49
+nirede 50
 kim 49
 näçe 49
 Seniň 48
@@ -148,13 +148,13 @@ bol 29
 kitap 29
 has 29
 öň 29
+ýyl 29
 özi 29
 ýeke 29
 biri 29
 Haýyş 29
 emma 28
 indi 28
-ýyl 28
 Marynyň 28
 hili 28
 pul 28
@@ -422,6 +422,7 @@ mugallym 10
 agyrýar 10
 ýaşamak 10
 boldum 10
+aýal 10
 ejem 10
 köne 10
 zada 10
@@ -469,7 +470,6 @@ etjekdigini 10
 elmydama 10
 Iki 9
 suw 9
-aýal 9
 giç 9
 düşünemok 9
 häli 9
@@ -596,6 +596,7 @@ hemmesini 8
 dünýäde 7
 ýaşaýarys 7
 nirededigini 7
+alty 7
 eken 7
 gepläp 7
 Elbetde 7
@@ -695,7 +696,6 @@ Saña 7
 islemeýen 7
 ýazdy 7
 Merinyň 7
-alty 6
 gara 6
 bilýäňmi 6
 ýalňyşlyk 6
@@ -903,6 +903,7 @@ göçdi 5
 getirdi 5
 Suw 5
 Bostony 5
+eşikleri 5
 hapa 5
 gelýänçä 5
 Kakam 5
@@ -1113,7 +1114,6 @@ gürleýär 4
 Pişik 4
 Biri 4
 ýarawsyz 4
-eşikleri 4
 ogurlapdyr 4
 sagatdan 4
 ýaşaýaryn 4
@@ -1149,6 +1149,7 @@ galan 4
 iýmek 4
 ýalňyz 4
 etmedik 4
+suraty 4
 berdiler 4
 telefona 4
 işleýärin 4
@@ -1538,7 +1539,6 @@ deň 3
 uzakly 3
 etjegini 3
 Tiz 3
-suraty 3
 birimizi 3
 işli 3
 2:30-a 3
@@ -3164,6 +3164,7 @@ oglanlar 2
 ökde 2
 Ýolda 2
 çykardym 2
+dükanda 2
 alaý 2
 gadymy 2
 makul 2
@@ -8537,7 +8538,6 @@ ynanmaýandygyňyzy 1
 ynanmaýandygyňy 1
 matematikany 1
 taşlaryn 1
-dükanda 1
 aždarha 1
 atomyň 1
 düzüm 1
