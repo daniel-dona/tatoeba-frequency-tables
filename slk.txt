@@ -1,4 +1,4 @@
-je 2281
+je 2283
 sa 2171
 som 1903
 Tom 1646
@@ -6,7 +6,7 @@ si 1548
 to 1353
 že 1118
 na 1014
-v 780
+v 781
 a 622
 mi 521
 Je 477
@@ -18,7 +18,7 @@ sú 365
 o 344
 s 342
 To 341
-Čo 330
+Čo 331
 ako 326
 nie 296
 Som 287
@@ -171,6 +171,7 @@ chce 55
 či 55
 deti 54
 ráno 54
+Boh 54
 knihy 54
 Včera 53
 mám 53
@@ -180,7 +181,6 @@ moje 52
 ak 52
 Mal 52
 Povedal 52
-Boh 52
 bez 52
 tvoj 51
 istý 51
@@ -295,6 +295,7 @@ neviem 33
 Jej 33
 vlasy 33
 žena 33
+veci 33
 rýchlo 33
 príde 33
 znova 33
@@ -308,14 +309,13 @@ Musíte 33
 Kam 33
 pondelok 33
 povedala 33
-veci 32
+dobré 32
 žiť 32
 stojí 32
 seba 32
 brat 32
 peňazí 32
 Keď 31
-dobré 31
 muž 31
 Urobil 31
 prácu 31
@@ -486,6 +486,7 @@ mali 22
 chorý 22
 Bostone 22
 spolu 22
+troch 22
 Jem 22
 kameň 22
 lebo 21
@@ -506,7 +507,6 @@ pozná 21
 váš 21
 myslíš 21
 Oni 21
-troch 21
 našiel 21
 znamená 21
 môžeme 21
@@ -969,6 +969,7 @@ prídeš 11
 dni 11
 budú 11
 chcela 11
+Všetky 11
 zemiaky 11
 nebezpečné 11
 jazykov 11
@@ -1046,7 +1047,6 @@ farby 10
 Čoskoro 10
 aký 10
 dôvodu 10
-Všetky 10
 písať 10
 chýba 10
 Obaja 10
@@ -2896,6 +2896,7 @@ Svetlo 3
 sklamaná 3
 reč 3
 knihe 3
+slon 3
 zamknúť 3
 kamarátov 3
 očakávali 3
@@ -3932,7 +3933,6 @@ obrázky 2
 Vám 2
 Dá 2
 najvyšší 2
-slon 2
 zaplatím 2
 zohnať 2
 iná 2

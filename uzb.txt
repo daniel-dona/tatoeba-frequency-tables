@@ -91,6 +91,7 @@ Kecha 5
 bo'ladi 5
 Ular 5
 turadi 5
+olib 5
 Uni 5
 mumkin 5
 men 5
@@ -127,7 +128,6 @@ buni 4
 keldi 4
 Iltimos 4
 O'tgan 4
-olib 4
 ajraldi 4
 - 4
 uch 4
@@ -194,6 +194,7 @@ qaror 3
 yer 3
 Qiz 3
 o'z 3
+ketdi 3
 aylanadi 3
 aylandi 3
 doim 3
@@ -399,7 +400,6 @@ bo'lasan 2
 ajralib 2
 Ahmad 2
 yerga 2
-ketdi 2
 Mendan 2
 olmayman 2
 Yer 2
@@ -2359,3 +2359,9 @@ olganmisan 1
 fikrlaringni 1
 taxmin 1
 olaman 1
+Boshliq 1
+hammasi 1
+Gips 1
+tashlandi 1
+Mijoz 1
+ketmoqda 1

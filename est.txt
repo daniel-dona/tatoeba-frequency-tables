@@ -1,5 +1,5 @@
-on 1423
-Ma 890
+on 1425
+Ma 891
 ei 715
 Tom 585
 sa 417
@@ -41,15 +41,15 @@ tahan 68
 kõik 67
 mida 66
 meeldib 66
+Tomi 66
 Minu 65
 su 65
-Tomi 65
 veel 64
 Mida 63
 siin 63
 Mis 63
+Kus 63
 nii 62
-Kus 62
 hea 59
 Mary 59
 Kes 58
@@ -114,10 +114,10 @@ räägin 31
 keel 31
 taha 30
 Tal 30
+teie 29
 Olen 29
 siis 28
 mitte 28
-teie 28
 armastan 28
 nüüd 28
 suur 28
@@ -139,9 +139,9 @@ pärast 26
 eest 25
 või 25
 enam 25
+elab 25
 ka 24
 läheb 24
-elab 24
 Mina 24
 tahad 24
 meeldi 24
@@ -164,6 +164,7 @@ teed 21
 teada 21
 Keegi 21
 teine 21
+lapsed 21
 aastat 21
 Sul 21
 üles 21
@@ -172,7 +173,6 @@ tee 21
 Te 21
 miks 21
 naine 20
-lapsed 20
 Millal 20
 meeldivad 20
 mina 20
@@ -269,6 +269,7 @@ neid 14
 sest 14
 olema 14
 lihtne 14
+kass 14
 näinud 14
 välismaal 14
 surnud 14
@@ -293,7 +294,6 @@ vanem 13
 korda 13
 juhtus 13
 ennast 13
-kass 13
 nägin 13
 võib 13
 näha 13
@@ -532,6 +532,7 @@ viga 7
 Oleme 7
 muusikat 7
 Seda 7
+Maria 7
 joon 7
 teid 7
 ostsin 7
@@ -601,7 +602,6 @@ pärit 6
 arst 6
 sinine 6
 hakkas 6
-Maria 6
 igav 6
 vähem 6
 lõunat 6
@@ -784,6 +784,7 @@ usalda 5
 kuula 5
 võid 5
 olime 5
+sõin 5
 temalt 5
 jälle 5
 Räägime 5
@@ -940,6 +941,7 @@ avada 4
 kuulsin 4
 loodan 4
 halba 4
+aitas 4
 naudin 4
 rannas 4
 mõtled 4
@@ -987,7 +989,6 @@ võtab 4
 pikem 4
 mures 4
 aitab 4
-sõin 4
 puue 4
 Bostonist 4
 tänu 4
@@ -1237,7 +1238,6 @@ andeks 3
 ootasin 3
 igatsen 3
 võimalust 3
-aitas 3
 küsimusele 3
 vanad 3
 omale 3
@@ -1430,6 +1430,7 @@ Peame 3
 ootavad 3
 Pool 3
 tädi 3
+Kala 3
 lahkunud 3
 Aias 3
 leidis 3
@@ -2299,7 +2300,6 @@ kavatse 2
 müüa 2
 särgi 2
 kohal 2
-Kala 2
 naeris 2
 saaksite 2
 lõpetada 2
@@ -2354,6 +2354,7 @@ Soome 2
 Madrid 2
 Gröönimaa 2
 Nuuk 2
+Jumal 2
 esmaspäev 2
 Sellises 1
 kärestikus 1
@@ -6404,7 +6405,6 @@ seitsmest 1
 sõnast 1
 Ilm 1
 Film 1
-Jumal 1
 tänatud 1
 teadlane 1
 ajakirjanik 1
@@ -6416,3 +6416,5 @@ Lumi 1
 päike 1
 Gruusiast 1
 Gruusias 1
+meres 1
+pirni 1

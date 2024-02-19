@@ -1,4 +1,4 @@
-je 1698
+je 1701
 se 618
 u 557
 sam 462
@@ -35,9 +35,9 @@ biti 72
 o 69
 ga 68
 mogu 65
+nego 63
 Tko 62
 Jesi 62
-nego 62
 ima 62
 više 61
 Je 52
@@ -336,6 +336,7 @@ lijepo 11
 mislim 11
 New 11
 Svatko 11
+Bolje 11
 čini 11
 Više 11
 ta 11
@@ -363,7 +364,6 @@ Njegova 10
 prijatelj 10
 Imate 10
 rječnik 10
-Bolje 10
 neki 10
 drugi 10
 oči 10
@@ -749,6 +749,7 @@ Nadam 5
 zaista 5
 priča 5
 zadovoljan 5
+Bog 5
 nama 5
 kralj 5
 čovjeku 5
@@ -917,7 +918,6 @@ nazvati 4
 prilično 4
 tijekom 4
 muškarca 4
-Bog 4
 pomogne 4
 bismo 4
 prošlo 4
@@ -2111,6 +2111,7 @@ Krave 2
 daju 2
 Njega 2
 kosa 2
+kratka 2
 Sama 2
 linije 2
 karti 2
@@ -2840,6 +2841,7 @@ oslijepi 2
 madež 2
 nebo 2
 jedeš 2
+tamu 2
 kreveta 2
 Izvolite 2
 zainteresiranim 2
@@ -4134,7 +4136,6 @@ Bolesnik 1
 poduku 1
 klavira 1
 istovremeno 1
-kratka 1
 poginuo 1
 rata 1
 nigdje 1
@@ -7769,7 +7770,6 @@ iPod 1
 pomrčina 1
 uzrokovala 1
 trosatnu 1
-tamu 1
 majicu 1
 Stigli 1
 Roberta 1
@@ -8259,3 +8259,8 @@ Jupiter 1
 Zoološki 1
 otvoren 1
 Historija 1
+slon 1
+Mladost 1
+upaliti 1
+svijeću 1
+proklinjati 1

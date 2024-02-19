@@ -186,6 +186,7 @@ antoi 2
 Kirja 2
 Tervettulemaa 2
 Käänny 2
+Talo 2
 saanu 2
 pääle 2
 syö 2
@@ -600,7 +601,6 @@ aika 1
 jyrkkää 1
 oikealle 1
 vasemmalle 1
-Talo 1
 suojelemistođistuksen 1
 alkoivat 1
 rakentamhaan 1
@@ -1402,3 +1402,4 @@ Lujin 1
 Kylämuseeumi 1
 paikka 1
 pysättyyt 1
+hävisi 1

@@ -1,17 +1,17 @@
 Aku 142
 ora 125
 Tom 110
-sing 64
+sing 66
 iku 46
-aku 44
+aku 45
 ing 40
 iki 37
 Kowé 37
 karo 36
 Dhèwèké 33
 kowé 31
+nang 27
 ana 26
-nang 26
 kuwi 26
 basa 25
 wis 24
@@ -20,9 +20,9 @@ kudu 23
 isa 22
 seneng 22
 menyang 21
+Iki 21
 dhéwé 21
 arep 21
-Iki 20
 apa 20
 bakal 20
 dhèwèké 19
@@ -45,6 +45,7 @@ lan 13
 kaya 13
 Kula 13
 Dhéwéké 13
+Ana 12
 marang 12
 lagi 12
 kéné 12
@@ -52,7 +53,6 @@ gawé 12
 kabèh 12
 sinau 12
 Mèri 12
-Ana 11
 dina 11
 buku 11
 tau 11
@@ -81,6 +81,7 @@ kutha 8
 awak 8
 gelem 8
 dadi 8
+apik 7
 isih 7
 kanggo 7
 Mary 7
@@ -90,7 +91,6 @@ Inggris 7
 apa-apa 7
 Prancis 7
 lali 7
-apik 6
 kucing 6
 Kuwi 6
 nganggo 6
@@ -141,6 +141,7 @@ nganti 4
 mulih 4
 telu 4
 sanga 4
+panggon 4
 ngrungokaké 4
 kenal 4
 ngandhani 4
@@ -155,6 +156,7 @@ Tak 4
 numpak 4
 bis 4
 krungu 4
+omah 4
 bener 4
 rabi 4
 kapan 4
@@ -193,7 +195,6 @@ lima 3
 pitu 3
 takon 3
 pingin 3
-panggon 3
 guru 3
 mbukak 3
 banjur 3
@@ -209,7 +210,6 @@ kedah 3
 nggo 3
 tekan 3
 bengi 3
-omah 3
 liyané 3
 Awakdhéwé 3
 malah 3
@@ -235,6 +235,7 @@ ngapusi 3
 ketemu 3
 mati 3
 kaping 3
+banget 3
 pèlem 3
 iling 3
 prajané 3
@@ -399,7 +400,6 @@ Landa 2
 meneng 2
 ingkang 2
 enak 2
-banget 2
 panganan 2
 kaos 2
 kètokané 2
@@ -1787,3 +1787,6 @@ kepedhesen 1
 ꦲꦶꦏꦶꦏꦼꦥꦼꦝꦼꦱ꧀ꦱꦼꦤ꧀꧈ 1
 yuyu 1
 ꦲꦶꦏꦶꦪꦸꦪꦸ꧉ 1
+ꦲꦶꦏꦶꦥꦁꦒꦺꦴꦤ꧀ꦱꦶꦁꦲꦥꦶꦏ꧀ꦧꦔꦼꦠ꧀꧈ 1
+nunggoni 1
+ꦲꦤꦱꦶꦁꦤꦸꦁꦒꦺꦴꦤꦶꦲꦏꦸꦤꦁꦲꦺꦴꦩꦃ꧉ 1

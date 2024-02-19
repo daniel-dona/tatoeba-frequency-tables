@@ -1,10 +1,10 @@
 ang 32968
-sa 25680
+sa 25687
 ng 24478
-na 15124
+na 15133
 po 13796
 ko 11795
-mga 11169
+mga 11176
 Tom 9378
 si 8330
 ako 7647
@@ -17,7 +17,7 @@ niya 4612
 ito 4521
 siya 4345
 ay 4253
-May 3688
+May 3695
 ka 3538
 Ang 3513
 nang 3480
@@ -252,17 +252,17 @@ ilalim 223
 batang 222
 Sana 222
 Maria 221
+isda 220
 Akala 220
 bintana 218
 hardin 218
 Kumakain 218
 Siya 217
 lalaking 217
-isda 217
 sino 216
+maliit 215
 ating 215
 Greg 214
-maliit 213
 amin 213
 problema 212
 umalis 211
@@ -327,6 +327,7 @@ kamay 167
 marunong 167
 Para 166
 niyan 164
+kulay 162
 gulang 162
 Iyan 162
 maganda 161
@@ -340,7 +341,6 @@ Kailan 157
 magulang 157
 Sami 157
 mabuti 156
-kulay 155
 sinasabi 154
 mayroon 154
 mansanas 154
@@ -427,6 +427,7 @@ sapat 122
 suot 122
 mukha 122
 relihiyon 122
+kabayo 121
 bayan 119
 piraso 119
 Maganda 119
@@ -435,7 +436,6 @@ Nakalimutan 118
 pinto 117
 ulan 117
 puwede 117
-kabayo 117
 nina 117
 de 116
 damo 116
@@ -684,6 +684,7 @@ Masaya 75
 lolo 74
 Kinailangan 74
 opinyon 74
+bukid 74
 sagot 74
 maulap 74
 dugo 74
@@ -708,6 +709,7 @@ pagod 72
 bisikleta 72
 dagat 72
 palaging 72
+iba-ibang 72
 bola 72
 problemang 72
 Pero 72
@@ -737,7 +739,6 @@ Nag-aaral 70
 Tama 70
 nangyayari 70
 pader 70
-bukid 70
 grupo 70
 dalampasigan 70
 restawran 70
@@ -805,7 +806,6 @@ una 65
 agad 65
 pakialam 65
 libong 65
-iba-ibang 65
 mahusay 65
 dilaw 65
 tapat 65
@@ -1041,6 +1041,7 @@ isa't-isa 51
 abilidad 51
 tent 51
 melokoton 51
+akwaryo 51
 perang 50
 mataas 50
 simula 50
@@ -1088,7 +1089,6 @@ putik 48
 sanwits 48
 Simar 48
 handaan 48
-akwaryo 48
 Dito 47
 magluto 47
 tumakbo 47
@@ -1166,6 +1166,7 @@ hinahanap 44
 hawak 44
 tanga 44
 buksan 44
+maliliit 44
 sariling 44
 Makikita 44
 Galing 44
@@ -1196,7 +1197,6 @@ tumira 43
 istorya 43
 Kasing 43
 tumawag 43
-maliliit 43
 espasyo 43
 malawak 43
 Brasil 43
@@ -1337,6 +1337,7 @@ nars 39
 trabahador 39
 gagawa 39
 madilim 39
+malaking-malaking 39
 harina 39
 Madalang 39
 Sinabihan 39
@@ -1363,6 +1364,7 @@ taglamig 38
 bolpen 38
 matematika 38
 ba" 38
+malalaking 38
 malungkot 38
 kakaiba 38
 Alemanya 38
@@ -1399,7 +1401,6 @@ droga 37
 oso 37
 aparador 37
 Humingi 37
-malalaking 37
 kurbata 37
 magpalit 37
 labanan 37
@@ -1510,7 +1511,6 @@ inosente 34
 libreng 34
 nanggaling 34
 nakikinig 34
-malaking-malaking 34
 lupain 34
 kulog 34
 Pinatunayan 34
@@ -2200,6 +2200,7 @@ Cassandra 23
 Tumaas 23
 makakuha 23
 Sarah 23
+higanteng 23
 Pambihira 23
 nagugutom 23
 paniwalaan 23
@@ -2284,7 +2285,6 @@ Asul 22
 Pinaniniwalaan 22
 sahod 22
 Marlin 22
-higanteng 22
 gumana 22
 Kinikilabutan 22
 Kabuhayan 22

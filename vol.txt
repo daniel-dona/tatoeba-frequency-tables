@@ -1,13 +1,13 @@
 Tomas 757
-No 545
+No 546
 das 486
 no 437
 binom 417
 etosi 377
 in 297
-obik 252
+obik 253
 Maria 200
-binon 168
+binon 170
 dunön 166
 e 149
 Tom 147
@@ -144,6 +144,7 @@ Atos 26
 esagom 26
 gretik 25
 fat 25
+binons 25
 domi 25
 Fat 25
 löfob 25
@@ -151,7 +152,7 @@ lilädön 25
 Sagolöd 25
 Talop 25
 penedi 24
-binons 24
+cilis 24
 tuvön 24
 äsagom 24
 Spikol-li 24
@@ -159,7 +160,6 @@ kanol 24
 nolol 24
 tikol 24
 velati 24
-cilis 23
 Dom 23
 dom 23
 of 23
@@ -172,6 +172,7 @@ vobi 22
 oni 22
 Kanob 22
 vobön 22
+nulik 22
 flens 22
 miti 22
 Hetob 22
@@ -183,15 +184,14 @@ tikob 22
 su 21
 u 21
 Kat 21
-nulik 21
 Dog 21
+mens 21
 flentapüki 21
 ele 21
 ofik 20
 fa 20
 penön 20
 kafi 20
-mens 20
 kim 20
 Li-vilol 20
 Li-kanol 20
@@ -239,6 +239,7 @@ so 16
 Kikodo 16
 slipön 16
 Mutobs 16
+Cils 16
 vedön 16
 yunik 16
 Li-binol 16
@@ -255,7 +256,6 @@ utosi 16
 vini 15
 binon-li 15
 labob 15
-Cils 15
 Älogob 15
 ut 15
 kanof 15
@@ -333,6 +333,7 @@ sevob 12
 vobom 11
 Si 11
 yels 11
+God 11
 mateli 11
 cil 11
 oma 11
@@ -363,7 +364,6 @@ Mot 10
 cils 10
 suno 10
 lifön 10
-God 10
 bodi 10
 soni 10
 Pul 10
@@ -1281,6 +1281,7 @@ mekön 2
 reigon 2
 Spel 2
 eke 2
+desinob 2
 nomik 2
 redikum 2
 höl 2
@@ -2245,7 +2246,6 @@ viläd 1
 jafon 1
 Desinob 1
 lupanar 1
-desinob 1
 Labon 1
 »Interlingue« 1
 pädabükon 1
@@ -4654,3 +4654,8 @@ Pisavob 1
 aigebol 1
 vobolön 1
 menik 1
+Tör 1
+jekälim 1
+blunedön 1
+leefad 1
+Lilobs 1

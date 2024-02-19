@@ -24,7 +24,7 @@ di 303
 kir 297
 çi 280
 wê 261
-Ji 255
+Ji 256
 em 250
 jî 243
 wî 241
@@ -36,12 +36,12 @@ dike 194
 ber 191
 bo 187
 vê 185
+Te 185
 heye 184
 ser 184
-Te 184
 dikim 183
 dikin 180
-ew 178
+ew 179
 bikin 177
 in 176
 Wî 174
@@ -163,10 +163,10 @@ nakin 39
 gelek 39
 Îro 39
 neke 39
+hemû 39
 Çavên 39
 Dilê 39
 rast 38
-hemû 38
 roj 37
 rastî 37
 dema 36
@@ -361,6 +361,7 @@ bim 16
 xwarin 16
 hem 16
 xêr 16
+hatin 16
 fransî 16
 kêm 16
 Gelek 16
@@ -381,7 +382,6 @@ bu 15
 xelkê 15
 bajêr 15
 naxwazim 15
-hatin 15
 Birayê 15
 nikare 15
 kû 15
@@ -1366,6 +1366,7 @@ gundê 4
 dixemilînin 4
 hatî 4
 gelemperî 4
+wêne 4
 xwendine 4
 diherike 4
 paş 4
@@ -1765,7 +1766,6 @@ qelew 3
 kurdistanê 3
 dîlanê 3
 Dîlanên 3
-wêne 3
 matmayî 3
 daxwaza 3
 bêhn 3
@@ -2308,6 +2308,7 @@ bizanim 3
 nemaye 3
 bilîzim 3
 Nasnameya 3
+televîzyonê 3
 qehweya 3
 Kurdistanê 3
 Malbateke 3
@@ -2576,6 +2577,7 @@ salnameyê 2
 dîwer 2
 zaroka 2
 carekî 2
+kişandin 2
 hembêz 2
 raketinê 2
 pengûenan 2
@@ -3560,7 +3562,6 @@ wext 2
 rûpelê 2
 pirsekê 2
 Naxwazim 2
-televîzyonê 2
 edeb 2
 mamosteyek 2
 hewcedariya 2
@@ -4463,7 +4464,6 @@ Marsê 1
 bizanibin 1
 pûlsars 1
 narayê 1
-kişandin 1
 agahiyên 1
 satelayta 1
 alîkarê 1
@@ -9229,3 +9229,5 @@ azîneyeke 1
 Taksîmê 1
 Bexçeyê 1
 tamandin 1
+kanal 1
+malaştin 1

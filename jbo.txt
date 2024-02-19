@@ -1,6 +1,6 @@
 lo 12588
 mi 5927
-cu 3373
+cu 3374
 do 3335
 la 2590
 pu 2276
@@ -32,7 +32,7 @@ nelci 476
 tu'a 438
 loi 423
 zvati 416
-mutce 406
+mutce 407
 ku 398
 djuno 393
 li 390
@@ -89,8 +89,8 @@ nanmu 159
 verba 158
 cliva 156
 xabju 155
+lo'e 152
 fe 152
-lo'e 151
 kau 149
 fetsi 149
 ku'i 147
@@ -750,6 +750,7 @@ za'ure'u 17
 bartu 17
 e'apei 17
 puzi 17
+mencre 17
 stati 17
 krefu 17
 secau 17
@@ -779,7 +780,6 @@ zanru 16
 soi 16
 cirla 16
 vrude 16
-mencre 16
 ca'e 16
 enai 16
 girzu 16
@@ -1772,6 +1772,7 @@ vi'ecpe 4
 dunku 4
 cecmu 4
 verclibau 4
+xarju 4
 u'a 4
 cmala'u 4
 ki'otre 4
@@ -2073,7 +2074,6 @@ velve'u 3
 piso'uroi 3
 krokodilo 3
 la'acu'i 3
-xarju 3
 nunbebna 3
 naras 3
 pinji 3

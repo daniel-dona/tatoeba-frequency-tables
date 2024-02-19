@@ -1,9 +1,9 @@
 ir 1614
-Es 956
-Toms 588
+Es 957
+Toms 589
 ka 469
-un 405
-to 383
+un 406
+to 384
 Vai 328
 Viņš 318
 ar 309
@@ -11,16 +11,16 @@ tu 287
 bija 287
 Man 271
 par 257
-es 249
+es 250
 nav 232
 no 227
 uz 222
 man 210
 kā 193
 tas 193
-Viņa 183
+Viņa 184
 ļoti 178
-ko 172
+ko 173
 Tas 168
 Mēs 160
 kas 155
@@ -31,8 +31,8 @@ savu 127
 Tu 126
 jūs 121
 tev 120
+viņa 111
 Tomam 110
-viņa 109
 viņš 106
 vai 105
 tik 99
@@ -40,9 +40,9 @@ būt 96
 viņu 95
 esi 92
 Marija 92
+bet 90
 ne 90
 var 89
-bet 89
 daudz 88
 tā 86
 Viņi 80
@@ -57,7 +57,7 @@ kaut 67
 mums 66
 labi 65
 darīt 65
-viņam 62
+viņam 63
 kad 61
 tikai 60
 Mums 60
@@ -146,11 +146,11 @@ laiks 31
 valodā 31
 cilvēku 31
 viņai 30
+pats 30
 vairs 30
 biju 30
 dzīvi 30
 joprojām 29
-pats 29
 gadā 29
 jo 29
 mīlu 28
@@ -197,18 +197,19 @@ Jums 22
 vēlas 22
 Mūsu 22
 manu 22
+kuru 22
 sapnis 22
 Visi 21
 grūti 21
 skaista 21
 mūs 21
-kuru 21
 tās 21
 lietas 20
 kopā 20
 katru 20
 Mani 20
 taisnība 20
+domā 20
 kafiju 20
 Kāds 20
 garšo 20
@@ -218,7 +219,6 @@ citu 19
 šī 19
 redzēt 19
 tiek 19
-domā 19
 sāka 19
 viss 19
 īsti 19
@@ -247,6 +247,7 @@ atrodas 17
 Zeme 17
 naudu 17
 jābūt 17
+ēst 17
 pirms 17
 kļuva 17
 nevajadzētu 17
@@ -259,7 +260,6 @@ tavu 16
 zināt 16
 Nav 16
 galvaspilsēta 16
-ēst 16
 jauns 16
 Varbūt 16
 sieviete 16
@@ -271,6 +271,8 @@ spēj 15
 tie 15
 Neviens 15
 atrast 15
+pateikt 15
+manis 15
 dienas 15
 ēd 15
 draugs 15
@@ -293,11 +295,10 @@ labu 14
 pasaulē 14
 visiem 14
 izskatās 14
-pateikt 14
 spēlēt 14
 atpakaļ 14
-manis 14
 zina 14
+gribētu 14
 skolu 14
 durvis 14
 pārliecināts 14
@@ -316,7 +317,6 @@ noguris 13
 te 13
 dara 13
 cilvēka 13
-gribētu 13
 vārds 13
 turpināja 13
 palīdzību 13
@@ -474,6 +474,7 @@ Marijas 9
 ēdienu 9
 istabā 9
 pašu 9
+dzirdēt 9
 Šajā 9
 jautājumu 9
 dēlu 9
@@ -536,7 +537,6 @@ nespēja 8
 kļūdas 8
 kuras 8
 mazāk 8
-dzirdēt 8
 nevienu 8
 kāda 8
 strīdēties 8
@@ -776,6 +776,7 @@ pēkšņi 6
 mieru 6
 ērti 6
 neatlaidīgs 6
+dzīvnieku 6
 būtne 6
 Plutons 6
 sistēmas 6
@@ -955,7 +956,6 @@ troksni 5
 visām 5
 atpūsties 5
 logu 5
-dzīvnieku 5
 dažādas 5
 sevis 5
 Katram 5
@@ -1297,6 +1297,7 @@ Sapnis 4
 sapņoja 4
 arvien 4
 musulmani 4
+nogalināt 4
 strauji 4
 garšīga 4
 situācija 4
@@ -1650,6 +1651,7 @@ vaļā 3
 nāve 3
 mūžībā 3
 elektrību 3
+Priekš 3
 domāt 3
 Fadils 3
 prātīgi 3
@@ -1899,7 +1901,6 @@ Taizemes 3
 kristāla 3
 lustra 3
 krīt 3
-nogalināt 3
 nedarīs 3
 ego 3
 ātrs 3
@@ -2104,6 +2105,7 @@ Gaiss 2
 Brazīlijas 2
 Čūska 2
 septiņas 2
+atsakos 2
 Abas 2
 parakstīja 2
 miera 2
@@ -2564,7 +2566,6 @@ daļas 2
 kādēļ 2
 drošības 2
 lielisku 2
-Priekš 2
 peldējos 2
 baseinā 2
 katram 2
@@ -2633,7 +2634,6 @@ neviena 2
 izbēgt 2
 pietika 2
 Patiesība 2
-acīs 2
 kož 2
 nolaupīja 2
 ļauts 2
@@ -3247,6 +3247,7 @@ nesagaidu 2
 veikšana 2
 sagaidām 2
 pašiem 2
+izteikties 2
 izmantota 2
 izsmalcināta 2
 ņirgāties 2
@@ -3344,6 +3345,7 @@ paņem 2
 daudzveidības 2
 mērķus 2
 risinājumu 2
+neuzdrošinājās 2
 Boriss 2
 pretī 2
 tualete 2
@@ -3879,7 +3881,6 @@ izpūta 1
 Nedēļā 1
 vidusskolā 1
 kārtīga 1
-atsakos 1
 varavīksne 1
 līgumu 1
 beigām 1
@@ -5439,6 +5440,7 @@ Mosties 1
 celies 1
 Nezāle 1
 neiznīkst 1
+acīs 1
 pasniedza 1
 nevarējām 1
 publisko 1
@@ -8252,7 +8254,6 @@ armiju 1
 ziloņiem 1
 Ģimene 1
 izsmalcinātā 1
-izteikties 1
 Astrālā 1
 projekcija 1
 papildināta 1
@@ -8764,7 +8765,6 @@ ierobežojumiem 1
 Telpā 1
 ierobežotības 1
 sajūta; 1
-neuzdrošinājās 1
 karalim 1
 muļķīgs 1
 Tallina 1
@@ -8990,11 +8990,10 @@ taupību 1
 skopumu 1
 vecākās 1
 mantra 1
-Manās 1
-dārgumi: 1
+bagātības 1
 līdzjūtība 1
-neuzdrīkstēšanās 1
-impērijā 1
+neuzdrošināšanās 1
+impērijas 1
 uzņēmējs 1
 vērtēju 1
 gatavību 1
@@ -9998,3 +9997,4 @@ nakšņo 1
 Skaistā 1
 Tiniklinga 1
 deja 1
+filipīniešu 1
