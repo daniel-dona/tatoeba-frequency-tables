@@ -1,4 +1,4 @@
-je 1701
+je 1702
 se 618
 u 557
 sam 462
@@ -74,8 +74,8 @@ Nisam 42
 U 42
 Imam 42
 koji 42
+moj 41
 do 41
-moj 40
 sa 40
 vrlo 40
 ovdje 40
@@ -160,6 +160,7 @@ raditi 22
 nam 22
 grad 22
 treba 22
+život 22
 dok 22
 tvoje 21
 Mi 21
@@ -169,7 +170,6 @@ Uvijek 21
 sada 21
 ćemo 21
 želi 21
-život 21
 Imaš 21
 tko 20
 Koji 20
@@ -2858,6 +2858,7 @@ Bože 2
 aviona 2
 Posjedujem 2
 Proljeće 2
+Glazba 2
 prekasno 2
 Tražimo 2
 zahvalan 2
@@ -8018,7 +8019,6 @@ izbor 1
 Nosim 1
 čarape 1
 čistiti 1
-Glazba 1
 glasna 1
 Jackson 1
 Otišala 1

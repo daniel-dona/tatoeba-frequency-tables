@@ -5,7 +5,7 @@ sing 66
 iku 46
 aku 45
 ing 40
-iki 37
+iki 38
 Kowé 37
 karo 36
 Dhèwèké 33
@@ -25,8 +25,8 @@ dhéwé 21
 arep 21
 apa 20
 bakal 20
+bisa 19
 dhèwèké 19
-bisa 18
 Aja 17
 dudu 17
 manèh 16
@@ -59,6 +59,7 @@ tau 11
 punika 10
 wonten 10
 ngerti 10
+ya 10
 Kowe 10
 ngomong 9
 luwih 9
@@ -74,7 +75,6 @@ kowe 8
 boten 8
 tak 8
 Iku 8
-ya 8
 ning 8
 turu 8
 kutha 8
@@ -93,6 +93,7 @@ Prancis 7
 lali 7
 kucing 6
 Kuwi 6
+telu 6
 nganggo 6
 Sapa 6
 ngentèni 6
@@ -126,6 +127,7 @@ dhéwéké 5
 Basa 5
 Indhonésia 5
 pasagi 5
+jam 5
 panjenengan 4
 katimbang 4
 aja 4
@@ -139,7 +141,6 @@ gedhé 4
 metu 4
 nganti 4
 mulih 4
-telu 4
 sanga 4
 panggon 4
 ngrungokaké 4
@@ -243,7 +244,6 @@ ngombé 3
 sega 3
 wadon 3
 angèl 3
-jam 3
 Sepuré 3
 adhem 3
 Kepriyé 2
@@ -353,6 +353,7 @@ tenanan 2
 Nalika 2
 sujana 2
 kelas 2
+Mengko 2
 Awakmu 2
 papat 2
 Matur 2
@@ -884,7 +885,6 @@ patiné 1
 dhéké 1
 piuju 1
 Sadurungé 1
-Mengko 1
 dak 1
 tilpun 1
 katuron 1
@@ -1790,3 +1790,11 @@ yuyu 1
 ꦲꦶꦏꦶꦥꦁꦒꦺꦴꦤ꧀ꦱꦶꦁꦲꦥꦶꦏ꧀ꦧꦔꦼꦠ꧀꧈ 1
 nunggoni 1
 ꦲꦤꦱꦶꦁꦤꦸꦁꦒꦺꦴꦤꦶꦲꦏꦸꦤꦁꦲꦺꦴꦩꦃ꧉ 1
+daktilpun 1
+ꦩꦼꦁꦏꦺꦴꦢꦏ꧀ꦠꦶꦭ꧀ꦥꦸꦤ꧀ꦗꦩ꧀ꦠꦼꦭꦸ꧈ ꦪ꧉ 1
+Engkok 1
+dakbèl 1
+ꦲꦼꦁꦏꦺꦴꦏ꧀ꦢꦏ꧀ꦧꦺꦭ꧀ꦗꦩ꧀ꦠꦼꦭꦸ꧈ ꦪ꧉ 1
+Manuk 1
+mabur 1
+ꦩꦤꦸꦏ꧀ꦲꦶꦏꦶꦧꦶꦱꦩꦧꦸꦂ꧉ 1

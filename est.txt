@@ -1,10 +1,10 @@
-on 1425
+on 1427
 Ma 891
 ei 715
-Tom 585
+Tom 586
 sa 417
 Kas 407
-Ta 329
+Ta 330
 et 319
 See 270
 ma 214
@@ -51,9 +51,9 @@ Mis 63
 Kus 63
 nii 62
 hea 59
+Mu 59
 Mary 59
 Kes 58
-Mu 58
 sinu 54
 ema 53
 mis 52
@@ -136,10 +136,10 @@ rohkem 27
 sõber 27
 ainult 26
 pärast 26
+elab 26
 eest 25
 või 25
 enam 25
-elab 25
 ka 24
 läheb 24
 Mina 24
@@ -197,6 +197,7 @@ praegu 18
 Ei 18
 taga 18
 koera 18
+Täna 18
 oleme 18
 saada 18
 raske 18
@@ -211,7 +212,6 @@ sai 17
 tõesti 17
 tööd 17
 Kass 17
-Täna 17
 Siin 17
 selles 17
 peaks 17
@@ -255,6 +255,7 @@ Võta 15
 kord 14
 ühe 14
 tüdruk 14
+nimi 14
 Mitte 14
 kuidas 14
 teab 14
@@ -280,7 +281,6 @@ Kell 14
 kohta 13
 kaasa 13
 inimene 13
-nimi 13
 kedagi 13
 maha 13
 mees 13
@@ -513,6 +513,7 @@ järgi 7
 tule 7
 öö 7
 saksa 7
+sõi 7
 näe 7
 neli 7
 peame 7
@@ -573,7 +574,6 @@ ootab 6
 töö 6
 sõna 6
 Arst 6
-sõi 6
 läinud 6
 punane 6
 näed 6
@@ -1826,6 +1826,7 @@ käid 2
 arvasid 2
 teadsid 2
 teame 2
+laulab 2
 külla 2
 hommikusöögiks 2
 eelistab 2
@@ -2237,6 +2238,7 @@ bulgaaria 2
 pakkus 2
 Kreekale 2
 Portugalis 2
+rahvusvaheline 2
 elektrikuks 2
 Betty 2
 istuda 2
@@ -3592,7 +3594,6 @@ Holkil 1
 kavatsenud 1
 peretraditsioone 1
 jätkata 1
-laulab 1
 inimestest 1
 peigmehele 1
 loteriiga 1
@@ -5272,7 +5273,6 @@ Inglismaale 1
 Ellen 1
 Nunnad 1
 õpetasid 1
-rahvusvaheline 1
 Miljard 1
 Ukrainas 1
 Ukrainat 1
@@ -6418,3 +6418,7 @@ Gruusiast 1
 Gruusias 1
 meres 1
 pirni 1
+Thbilisis 1
+Žanna 1
+Ööbik 1
+emakeelepäev 1

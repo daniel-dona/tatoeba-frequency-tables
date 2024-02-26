@@ -1,7 +1,7 @@
 Ez 1208
+xwe 1034
 e 1033
-xwe 1033
-ji 998
+ji 999
 min 995
 bi 936
 li 830
@@ -17,8 +17,8 @@ me 518
 te 497
 de 465
 ne 401
-re 387
-Min 361
+re 388
+Min 362
 Hûn 306
 di 303
 kir 297
@@ -143,8 +143,8 @@ hûn 47
 fêr 46
 bin 46
 araste 46
+nû 45
 Tomî 45
-nû 44
 van 42
 hat 42
 çend 42
@@ -347,6 +347,7 @@ yekî 17
 mirovan 17
 roja 17
 Piştî 17
+kirî 17
 ma 17
 cihê 17
 tînin 17
@@ -367,7 +368,6 @@ kêm 16
 Gelek 16
 Vê 16
 wekî 16
-kirî 16
 hewce 16
 girîng 16
 Xwe 16
@@ -9231,3 +9231,5 @@ Bexçeyê 1
 tamandin 1
 kanal 1
 malaştin 1
+do 1
+kompîtureke 1

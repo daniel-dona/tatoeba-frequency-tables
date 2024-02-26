@@ -30,7 +30,7 @@ Tomás 80
 sa 77
 atá 77
 leat 73
-is 70
+is 71
 rud 69
 sí 69
 Táim 68
@@ -55,9 +55,9 @@ fhios 44
 as 43
 aon 42
 Cé 42
+duit 41
 ina 41
 ach 40
-duit 40
 gach 38
 in 37
 nach 37
@@ -66,7 +66,7 @@ anseo 36
 teach 34
 anois 33
 dhéanamh 33
-dom 32
+dom 33
 ríomhaire 32
 air 31
 féin 31
@@ -115,12 +115,12 @@ léamh 18
 carr 18
 Thug 18
 dó 18
+ainm 18
 ansin 18
 iad 18
 grá 18
 madra 18
 thoil 17
-ainm 17
 acu 17
 muid 17
 faoin 17
@@ -173,6 +173,7 @@ focal 13
 litir 12
 Fuair 12
 amárach 12
+Dia 12
 den 12
 Ar 12
 bheidh 12
@@ -195,7 +196,6 @@ chuid 11
 deich 11
 Rinne 11
 tusa 11
-Dia 11
 lán 11
 Conas 11
 mó 11
@@ -2981,3 +2981,4 @@ dúil 1
 bís 1
 cantalach 1
 himeacht 1
+Jabu 1

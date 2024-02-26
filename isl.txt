@@ -1,5 +1,5 @@
 að 3834
-er 3138
+er 3139
 Ég 2307
 í 2073
 á 1679
@@ -76,8 +76,8 @@ Er 120
 segja 118
 mikið 117
 Þau 115
+Hver 113
 upp 113
-Hver 112
 fór 112
 úr 111
 Þessi 110
@@ -102,9 +102,9 @@ sagði 91
 fer 91
 hennar 91
 mitt 91
+þinn 88
 þín 88
 aldrei 87
-þinn 87
 veit 86
 alltaf 86
 yfir 85
@@ -292,6 +292,7 @@ fætur 34
 sitt 34
 þarna 34
 eitt 34
+uppáhalds 34
 ennþá 34
 Þær 34
 virðist 33
@@ -300,7 +301,6 @@ fyrr 33
 þangað 33
 tvö 33
 spurði 33
-uppáhalds 33
 spila 33
 degi 33
 hver 33
@@ -1012,6 +1012,7 @@ markaðinn 10
 þekkja 10
 varstu 10
 langaði 10
+frjáls 9
 Boston 9
 enska 9
 næst 9
@@ -1119,7 +1120,6 @@ hlustaði 9
 opnaði 9
 skemmtilegt 9
 Rússlandi 9
-frjáls 8
 breyta 8
 neinn 8
 Líkar 8
@@ -2888,6 +2888,7 @@ kaupir 3
 sungið 3
 munur 3
 svakalega 3
+hugbúnaður 3
 hljóðfæri 3
 lykillinn 3
 sagnir 3
@@ -4013,7 +4014,6 @@ einhverjum 2
 Skoðanir 2
 Tælenska 2
 opinn 2
-hugbúnaður 2
 eigingjörn 2
 greiðslukort 2
 samloku 2

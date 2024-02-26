@@ -4,9 +4,9 @@ ei 33
 Hyvvää 29
 ja 28
 oli 27
+Mie 18
 Met 18
 Hän 18
-Mie 17
 ole 16
 se 15
 Tämä 13
@@ -27,6 +27,7 @@ hyvin 7
 Mitä 6
 Kunka 6
 Kiitos 6
+en 6
 Hyvvii 6
 Ei 6
 vasthaan 6
@@ -34,7 +35,6 @@ ollu 6
 kolme 6
 Tässä 6
 päivää 5
-en 5
 uutta 5
 sen 5
 sitä 5
@@ -112,6 +112,7 @@ koira 3
 mie 3
 Sie 3
 kaula 3
+antanu 3
 seissoo 3
 ihmissii 3
 kväänikansan 3
@@ -206,7 +207,6 @@ Joku 2
 Jo 2
 usko 2
 olet 2
-antanu 2
 muistelhaan 2
 mitä 2
 Suomesta 2
@@ -1403,3 +1403,4 @@ Kylämuseeumi 1
 paikka 1
 pysättyyt 1
 hävisi 1
+alle 1

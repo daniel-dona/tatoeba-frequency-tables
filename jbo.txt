@@ -1,11 +1,11 @@
 lo 12588
 mi 5927
-cu 3374
+cu 3377
 do 3335
-la 2590
+la 2592
 pu 2276
 nu 2116
-le 2045
+le 2046
 se 1884
 na 1597
 be 1321
@@ -41,7 +41,7 @@ ca'o 357
 prenu 356
 cusku 354
 te 347
-pe 297
+pe 298
 no 279
 e'o 270
 ta 269
@@ -58,7 +58,7 @@ tavla 244
 za'u 242
 cukta 238
 ka'e 237
-tam 235
+tam 236
 kei 233
 me 229
 ei 229
@@ -89,7 +89,7 @@ nanmu 159
 verba 158
 cliva 156
 xabju 155
-lo'e 152
+lo'e 153
 fe 152
 kau 149
 fetsi 149
@@ -104,7 +104,7 @@ ninmu 143
 mi'ai 143
 tadni 141
 na'e 140
-patfu 138
+patfu 139
 jukpa 138
 jinvi 138
 simlu 138
@@ -454,6 +454,7 @@ ganai 32
 sidbo 32
 stidi 32
 cfari 32
+merko 32
 bei 32
 skicu 32
 panzi 32
@@ -470,7 +471,6 @@ sedu'u 31
 io 31
 ckaji 31
 sazri 31
-merko 31
 cikna 31
 ckiku 31
 badri 31
@@ -871,6 +871,7 @@ fanmo 13
 jelca 13
 so 13
 mupli 13
+xanto 13
 fonjudri 13
 jamna 13
 lalxu 13
@@ -917,7 +918,6 @@ kajde 12
 sedyta'u 12
 zo'oi 12
 dacti 12
-xanto 12
 junri 12
 gi'a 12
 xaskoi 12
@@ -1121,6 +1121,7 @@ klani 9
 capyju'i 9
 cumymu'efi'a 9
 bu'a 9
+cev 9
 manci 9
 losedu'u 9
 rutrceraso 9
@@ -1193,7 +1194,6 @@ zukcfu 8
 uidai 8
 catni 8
 friti 8
-cev 8
 kruji 8
 jadykevri'a 8
 ricyratcu 8
@@ -1617,6 +1617,7 @@ kosmu 5
 julbaco 5
 ĭancu 5
 torta 5
+bropre 5
 jbari 5
 cidjrlasi 5
 xasycidja 5
@@ -1868,7 +1869,6 @@ cesyvu'e 4
 zvajbi 4
 la'u 4
 tsarainaitrusi'o 4
-bropre 4
 tcapatis 4
 kabrydekpu 4
 cinkyre'u 4
@@ -2768,6 +2768,7 @@ cidni 2
 plixa 2
 alminiu 2
 mipyzga 2
+tolcumla 2
 togyga'u 2
 ticyspu 2
 mitcinse 2
@@ -4811,7 +4812,6 @@ xumjimcelxa'i 1
 curnu 1
 sampre 1
 nuntumdesku 1
-tolcumla 1
 mujyjamna 1
 tolcfa 1
 puca 1

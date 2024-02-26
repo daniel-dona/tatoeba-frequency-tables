@@ -1,5 +1,5 @@
-Ma 180
-re 93
+Ma 182
+re 95
 Tom 44
 ma 44
 Si 34
@@ -7,16 +7,16 @@ Si 34
 te 28
 do 25
 si 25
+Tkva 24
 Tena 23
-Tkva 23
 Toms 23
 Tina 20
 tena 18
 Tomi 18
 vare 17
 reno 17
-vore 15
-moǩo 15
+vore 16
+moǩo 16
 tina 15
 რე 14
 Te 14
@@ -33,13 +33,13 @@ jgiri 11
 Mu 11
 breli 11
 tomi 11
+ragadi 11
 iro 10
 tis 10
 Chqi 10
 rdu 10
 xvale 10
 tom 10
-ragadi 10
 oǩo 10
 Chqimi 9
 arti 9
@@ -69,6 +69,7 @@ taqi 6
 mutun 6
 chqi 6
 Re 6
+miçku 6
 taki 6
 dǧas 6
 Tomik 6
@@ -87,9 +88,9 @@ ardzashe 5
 Mardi 5
 mushi 5
 toms 5
-miçku 5
 çkaras 5
 reki 5
+miɣorsu 5
 osuri 5
 bordji 5
 Çkimi 5
@@ -107,9 +108,12 @@ voret 4
 mus 4
 va 4
 Migaxvamant 4
+Namu 4
+ç̌ita 4
 Oxori 4
 Sami 4
 borji 4
+reto 4
 rdƨ 4
 ꞇudes 4
 mitin 4
@@ -118,7 +122,6 @@ Amdǧa 4
 Malas 4
 dudi 4
 vordi 4
-miɣorsu 4
 Muç̌o 4
 p̌eulepi 4
 goǩo 4
@@ -164,7 +167,6 @@ Reno 3
 ardzas 3
 Vore 3
 ǧvini 3
-ç̌ita 3
 Joxo 3
 Ardzas 3
 Mus 3
@@ -174,7 +176,6 @@ Sumi 3
 ꞇate 3
 rikardo 3
 Ena 3
-reto 3
 tiʒkƨma 3
 anʒi 3
 Maxolo 3
@@ -296,7 +297,6 @@ saqvarua 2
 Glaxa 2
 Jgiri 2
 Chxuru 2
-Namu 2
 Jgiro 2
 Vamichqu 2
 mutunsha 2
@@ -312,7 +312,6 @@ Ofuṫes 2
 Telefony 2
 Ula 2
 Tiqy 2
-ʒɣari 2
 teqi 2
 chqin 2
 Asho 2
@@ -403,9 +402,12 @@ odinuans 2
 Kudosǩidi 2
 oxorana 2
 Tineps 2
+Meris 2
+shumili 2
 ninari 2
 merça 2
 Bordjik 2
+gindze 2
 oǩodƨ 2
 maɣale 2
 oxorans 2
@@ -421,6 +423,7 @@ uliri 2
 piprke 2
 muç̌o 2
 miɣors 2
+Irpeli 2
 Giɣorso 2
 Tisƨ 2
 çkimo 2
@@ -448,6 +451,7 @@ Tinepi 2
 vaxorans 2
 sumi 2
 djgiri 2
+bzhaami 2
 Mikƨ 2
 Tikƨ 2
 p̌ianinos 2
@@ -1012,6 +1016,7 @@ Brely 1
 Gisheṫuo 1
 Mivodinua 1
 Irfelsarto 1
+ʒɣari 1
 Qinmexvary 1
 muchu 1
 vordato 1
@@ -1768,6 +1773,7 @@ moxvaru 1
 Meu 1
 Moiǧato 1
 tkva 1
+tzɣari 1
 ɣavas 1
 shuntsu 1
 dorulapa 1
@@ -1825,9 +1831,7 @@ gilelƨ 1
 germanulo 1
 ṫeleponi 1
 vabgorundi 1
-Meris 1
 uɣorsƨ 1
-shumili 1
 vaorek 1
 Gime 1
 Ninari 1
@@ -1837,7 +1841,6 @@ faras 1
 Ṫoǩioşa 1
 Ɣini 1
 Mçhvemak 1
-gindze 1
 Kotkvi 1
 djaşi 1
 Siṫƨba 1
@@ -1992,7 +1995,6 @@ Ubralo 1
 artuafa 1
 junglefs 1
 uçkƨdƨ 1
-Irpeli 1
 tumaş 1
 ǧafua 1
 mamgurafali 1
@@ -2335,7 +2337,6 @@ sovet‌̌ologi 1
 tat‌̌rişa 1
 milamu 1
 odzirans 1
-bzhaami 1
 vangoçilituank 1
 ok̆o 1
 uordas 1
@@ -2633,3 +2634,15 @@ tsxenepi 1
 mepurinunsu 1
 chkaras 1
 ɣundu 1
+uǧu 1
+ǩuchxefy 1
+lazi 1
+retu 1
+Ameriǩari 1
+Brilianṫi 1
+Kodzirunk 1
+bordjgi 1
+Sǩantzǩuma 1
+Kƨmort 1
+çkimda 1
+peri 1

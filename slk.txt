@@ -1,4 +1,4 @@
-je 2283
+je 2287
 sa 2171
 som 1903
 Tom 1646
@@ -29,7 +29,7 @@ tu 254
 aby 249
 ma 244
 má 238
-Mária 234
+Mária 235
 z 231
 Mám 223
 ťa 218
@@ -106,12 +106,12 @@ deň 75
 ja 75
 pomôcť 74
 čas 74
+môj 74
 Dnes 74
 Táto 73
 kto 73
 Ak 73
 aj 73
-môj 73
 urobil 72
 príliš 71
 toto 71
@@ -324,6 +324,7 @@ hrdý 31
 Povedzte 31
 prišiel 30
 sama 30
+život 30
 stôl 30
 tomto 30
 stole 30
@@ -355,7 +356,6 @@ neskoro 28
 okolo 28
 izbe 28
 pravda 28
-život 28
 sestra 28
 vždy 28
 povie 28
@@ -453,6 +453,7 @@ dievča 23
 prísť 23
 izbu 23
 predtým 23
+krásna 23
 Prepáčte 23
 záhrade 23
 úplne 23
@@ -476,7 +477,6 @@ neskôr 22
 odišiel 22
 Po 22
 odísť 22
-krásna 22
 Do 22
 Áno 22
 pol 22
@@ -1222,6 +1222,7 @@ najlepším 9
 hráčom 9
 šesť 8
 blízko 8
+Život 8
 matke 8
 stanica 8
 asi 8
@@ -1387,7 +1388,6 @@ veverička 8
 otáznik 8
 dlhšie 7
 nehovorí 7
-Život 7
 pekný 7
 koľkej 7
 Londýne 7
@@ -2761,6 +2761,7 @@ nebeskej 4
 zver 4
 všetku 4
 veľkej 4
+hudba 4
 hrali 4
 Frízština 4
 tráva 4
@@ -3644,6 +3645,7 @@ sporáku 3
 mačiatko 3
 Uprednostňujem 3
 Posledné 3
+Hudba 3
 klamete 3
 pravidlo 3
 ryžu 3
@@ -3675,7 +3677,6 @@ zla 3
 otvoria 3
 klope 3
 neni 3
-hudba 3
 nijaké 3
 Zavolala 3
 najmladšia 3
@@ -9997,4 +9998,3 @@ silní 1
 Usaďte 1
 malinu 1
 malín 1
-chutia 1
