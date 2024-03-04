@@ -1,7 +1,7 @@
-la 1537
+la 1539
 de 1499
-a 1422
-que 1297
+a 1423
+que 1298
 el 1194
 és 1015
 no 828
@@ -13,13 +13,13 @@ una 535
 per 534
 El 521
 i 517
-Tom 470
+Tom 472
 La 406
 les 394
-amb 383
+amb 384
 al 361
+ha 349
 els 349
-ha 347
 En 344
 es 308
 més 291
@@ -73,12 +73,12 @@ Si 93
 això 92
 tan 90
 aquí 88
+Mary 88
 van 88
 Aquest 88
 bé 87
 mi 86
 llibre 86
-Mary 86
 Jo 86
 quan 85
 Quan 83
@@ -95,9 +95,9 @@ ella 76
 et 76
 o 76
 ja 76
+jo 75
 mai 74
 teva 74
-jo 74
 Com 72
 estava 71
 tinc 70
@@ -358,6 +358,7 @@ marxar 22
 altres 22
 totes 22
 vam 22
+sentit 22
 l'home 22
 ve 22
 Estats 22
@@ -378,7 +379,6 @@ estudiar 21
 Tu 21
 noia 21
 Ara 21
-sentit 21
 jove 21
 cara 21
 podem 21
@@ -502,11 +502,13 @@ Canadà 15
 algun 15
 treball 15
 John 15
+d'ell 15
 fi 15
 fumar 15
 guerra 15
 interessant 15
 gens 15
+parlant 15
 final 15
 Després 15
 Aquell 15
@@ -535,11 +537,9 @@ trobat 14
 Tenim 14
 podria 14
 Voldria 14
-d'ell 14
 acabat 14
 Ahir 14
 pa 14
-parlant 14
 tingut 14
 xinès 14
 conèixer 14
@@ -832,6 +832,7 @@ grup 9
 dilluns 9
 Quants 9
 germanes 9
+Austràlia 9
 llarg 9
 algunes 9
 anem 9
@@ -939,7 +940,6 @@ Parla 8
 sols 8
 l'hospital 8
 oblidar 8
-Austràlia 8
 t'agrada 8
 idea 8
 Este 8
@@ -1266,6 +1266,7 @@ embarassada 5
 veí 5
 lliures 5
 Sant 5
+vagi 5
 esquiar 5
 mercat 5
 baixar 5
@@ -1477,7 +1478,6 @@ Ser 4
 natural 4
 tempesta 4
 dormen 4
-vagi 4
 dutxar 4
 40 4
 acceptar 4
@@ -9692,3 +9692,4 @@ bacteris 1
 vivim 1
 Compraràs 1
 feré 1
+suggerit 1

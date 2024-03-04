@@ -1,4 +1,4 @@
-on 1427
+on 1428
 Ma 891
 ei 715
 Tom 586
@@ -314,6 +314,7 @@ uue 12
 puu 12
 all 12
 On 12
+elu 12
 kooli 12
 töötab 12
 rääkinud 12
@@ -331,7 +332,6 @@ Isa 11
 vend 11
 lahti 11
 Ärge 11
-elu 11
 õigus 11
 vihkan 11
 lihtsalt 11
@@ -6422,3 +6422,6 @@ Thbilisis 1
 Žanna 1
 Ööbik 1
 emakeelepäev 1
+Ajalugu 1
+kordub 1
+Muusika 1

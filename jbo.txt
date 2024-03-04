@@ -1,11 +1,11 @@
 lo 12588
-mi 5927
-cu 3377
+mi 5932
+cu 3380
 do 3335
 la 2592
 pu 2276
 nu 2116
-le 2046
+le 2049
 se 1884
 na 1597
 be 1321
@@ -71,12 +71,12 @@ bangu 209
 re 209
 bu'u 209
 gi'e 206
-gerku 202
+gerku 203
 je 201
 kakne 198
 au 192
 melbi 182
-mlatu 180
+mlatu 181
 nitcu 178
 karce 177
 xamgu 177
@@ -85,8 +85,8 @@ dunda 174
 noi 172
 lu 168
 li'u 165
+verba 159
 nanmu 159
-verba 158
 cliva 156
 xabju 155
 lo'e 153
@@ -139,7 +139,7 @@ jimpe 111
 e'u 111
 denpa 110
 da'i 108
-barda 106
+barda 107
 ctuca 104
 cnino 104
 po'o 104
@@ -161,7 +161,7 @@ ma'a 95
 sai 95
 morsi 94
 prulamdei 94
-cmalu 93
+cmalu 94
 jdini 93
 sipna 92
 pilno 92
@@ -203,9 +203,9 @@ zasti 80
 pe'u 79
 zarci 79
 gasnu 78
+pe'a 78
 carvi 78
 titnanba 78
-pe'a 77
 speni 77
 drani 77
 tatpi 76
@@ -1775,6 +1775,7 @@ cecmu 4
 verclibau 4
 xarju 4
 u'a 4
+pinji 4
 cmala'u 4
 ki'otre 4
 jelgau 4
@@ -2051,6 +2052,7 @@ stodi 3
 tolcre 3
 vrici 3
 da'apa 3
+crida 3
 sferies 3
 cukla 3
 inaja 3
@@ -2076,7 +2078,6 @@ krokodilo 3
 la'acu'i 3
 nunbebna 3
 naras 3
-pinji 3
 sipta'i 3
 neltce 3
 bralai 3
@@ -2566,7 +2567,6 @@ vajmau 2
 kai 2
 jinru 2
 fenso 2
-crida 2
 gligu'e 2
 pai 2
 su'ore 2
@@ -6503,3 +6503,4 @@ mari 1
 uusai 1
 xitla 1
 terbilma 1
+clakercrida 1

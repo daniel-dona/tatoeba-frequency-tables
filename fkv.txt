@@ -1,4 +1,4 @@
-oon 217
+oon 218
 Se 35
 ei 33
 Hyvvää 29
@@ -52,6 +52,7 @@ Norjan 4
 nimi 4
 joului 4
 piä 4
+ittenäinen 4
 lupa 4
 saanheet 4
 kans 4
@@ -85,7 +86,6 @@ mithään 3
 tähen 3
 kuuluu 3
 tämä 3
-ittenäinen 3
 tavala 3
 Kaikila 3
 kethään 3
@@ -1404,3 +1404,4 @@ paikka 1
 pysättyyt 1
 hävisi 1
 alle 1
+Suomi 1

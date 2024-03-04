@@ -1,22 +1,22 @@
 esas 2812
-Me 2224
+Me 2226
 la 2174
-ne 1273
+ne 1274
 La 1000
 Tom 955
 me 861
 tu 836
 Ka 690
-es 601
+es 605
 en 588
 havas 573
 Il 432
 vu 400
 Ni 398
-ke 395
+ke 396
 di 392
 mea 390
-a 376
+a 377
 esis 357
 e 353
 volas 312
@@ -25,15 +25,15 @@ tre 289
 Tu 273
 por 263
 Mea 256
-il 246
-El 227
+il 247
+El 229
 plu 221
 de 204
 bona 198
-to 195
+to 196
 savas 191
 ni 190
-kun 184
+kun 185
 To 183
 tua 180
 kam 177
@@ -57,7 +57,7 @@ Ube 122
 Pro 119
 Mary 119
 Esas 117
-amas 112
+amas 113
 bezonas 112
 multa 112
 granda 111
@@ -209,12 +209,12 @@ Quante 36
 til 36
 spozino 36
 dio 36
+kati 35
 felica 35
 letro 35
 elua 35
 yunino 35
 havis 35
-kati 34
 vera 34
 ante 34
 hodie 34
@@ -272,6 +272,7 @@ ek 28
 kolda 28
 vivar 27
 iros 27
+serchas 27
 dicar 27
 tote 27
 lektis 27
@@ -283,7 +284,6 @@ Yes 27
 persono 26
 tam 26
 tale 26
-serchas 26
 pomo 26
 kin 26
 divenis 26
@@ -376,6 +376,7 @@ biro 20
 respondo 20
 ipsa 20
 pensis 20
+savis 20
 sama 20
 Forsan 20
 muziko 20
@@ -390,7 +391,6 @@ esperas 19
 certa 19
 audis 19
 portas 19
-savis 19
 quar 19
 Angla 19
 lektas 19
@@ -412,6 +412,7 @@ heme 18
 telefonilo 18
 danjeroza 18
 vartar 18
+Co 18
 Ico 17
 preske 17
 studiar 17
@@ -432,7 +433,6 @@ familio 17
 Omni 17
 kurta 17
 shui 17
-Co 17
 eventis 16
 vino 16
 quik 16
@@ -510,6 +510,7 @@ Onu 14
 opiniono 14
 sucesis 14
 nulatempe 14
+koloro 14
 Danko 14
 animali 14
 Dum 13
@@ -546,7 +547,6 @@ konocis 13
 vakua 13
 Vua 13
 komprenis 13
-koloro 13
 Plu 13
 Omno 13
 ociema 13
@@ -640,6 +640,7 @@ studenti 11
 an 11
 surda 11
 dolca 11
+eventas 11
 Venez 11
 plezas 11
 komprenar 11
@@ -711,7 +712,6 @@ koqueyo 10
 omnadie 10
 amikino 10
 vento 10
-eventas 10
 rezidas 10
 rejo 10
 buxo 10
@@ -857,6 +857,7 @@ devis 8
 opinionas 8
 lavas 8
 dufoye 8
+feliceso 8
 probar 8
 antee 8
 vundita 8
@@ -977,7 +978,6 @@ futbalo 7
 stacas 7
 montris 7
 horlojo 7
-feliceso 7
 hospitalo 7
 fratuli 7
 tradukar 7
@@ -3178,6 +3178,7 @@ odiesas 2
 onkli 2
 Nultempe 2
 Tam 2
+socio 2
 oldeskas 2
 hundulo 2
 labora 2
@@ -6404,7 +6405,6 @@ laboristala 1
 employistala 1
 sioruli 1
 afektas 1
-socio 1
 aplaudar 1
 Puero 1
 varme 1
@@ -8322,3 +8322,10 @@ elfo 1
 Bengalana 1
 kindo 1
 inundesis 1
+Absoluta 1
+tolero 1
+ruiniva 1
+tolerema 1
+Redakoloro 1
+nemanjebla 1
+fungo 1
