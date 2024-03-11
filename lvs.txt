@@ -1,28 +1,28 @@
-ir 1625
+ir 1630
 Es 960
 Toms 598
-ka 476
-un 408
+ka 477
+un 409
 to 386
 Vai 328
-Viņš 319
-ar 310
-tu 290
-bija 290
+Viņš 320
+ar 311
+tu 291
+bija 291
 Man 272
 par 259
 es 251
 nav 232
 no 230
 uz 223
-man 211
+man 212
 tas 195
 kā 193
 Viņa 185
 ļoti 184
 ko 174
 Tas 169
-Mēs 160
+Mēs 161
 kas 156
 lai 146
 esmu 135
@@ -50,7 +50,7 @@ Viņi 80
 tevi 77
 Esmu 76
 teica 73
-jums 69
+jums 70
 mēs 69
 šo 68
 kaut 67
@@ -58,12 +58,12 @@ mums 66
 labi 65
 darīt 65
 viņam 63
+tikai 62
 kad 61
-tikai 60
+Kā 60
 Mums 60
-Kā 59
+Tā 59
 Jūs 59
-Tā 58
 Šis 57
 arī 56
 šeit 54
@@ -79,8 +79,8 @@ Tev 50
 vairāk 50
 nekad 50
 neesmu 50
+Tomu 50
 visu 50
-Tomu 49
 Ja 48
 viņi 48
 ja 48
@@ -101,9 +101,9 @@ Kur 42
 laiku 42
 pēc 41
 nevar 40
+esam 40
 mana 40
 viņiem 39
-esam 39
 Ir 39
 vajadzētu 39
 valodu 38
@@ -204,12 +204,12 @@ Visi 21
 grūti 21
 skaista 21
 mūs 21
+taisnība 21
 šī 20
 lietas 20
 kopā 20
 katru 20
 Mani 20
-taisnība 20
 domā 20
 kafiju 20
 Kāds 20
@@ -397,12 +397,14 @@ nāk 11
 vaina 11
 problēmas 11
 ēdu 11
+kam 11
 zemes 11
 redzēju 11
 it 11
 Bostonā 11
 izmanto 11
 nebūtu 11
+Tam 11
 sapņi 11
 sirdsapziņa 10
 nozīmē 10
@@ -432,7 +434,6 @@ Izvēlies 10
 darītu 10
 šis 10
 šajā 10
-kam 10
 tikpat 10
 mūzika 10
 kļūst 10
@@ -445,7 +446,6 @@ knapi 10
 vakarā 10
 lika 10
 varam 10
-Tam 10
 starp 10
 avokado 10
 Labrīt 9
@@ -508,6 +508,7 @@ brālis 8
 nopirku 8
 guļ 8
 zināja 8
+draugi 8
 apsēdās 8
 rīta 8
 dzimšanas 8
@@ -569,6 +570,7 @@ jauki 8
 tikt 8
 saules 8
 gaidīts 8
+atstāja 8
 uzstāja 8
 Sveiki 7
 Jā 7
@@ -577,7 +579,6 @@ māte 7
 rakstīt 7
 garš 7
 Viņu 7
-draugi 7
 alu 7
 Bija 7
 jutos 7
@@ -668,7 +669,6 @@ zemi 7
 sapņoju 7
 izturīgs 7
 izstumtais 7
-atstāja 7
 citam 6
 rokas 6
 Laiks 6
@@ -691,6 +691,7 @@ skaistas 6
 dziesmu 6
 kalna 6
 dzīvnieki 6
+dažus 6
 savai 6
 lūdza 6
 divus 6
@@ -826,7 +827,6 @@ nomira 5
 vārdi 5
 Bērni 5
 automašīnu 5
-dažus 5
 šovakar 5
 nedzeru 5
 sāpes 5
@@ -886,6 +886,7 @@ aizmirsa 5
 Pirms 5
 nedaudz 5
 izjūta 5
+nekādu 5
 jāpaliek 5
 roku 5
 Alkohols 5
@@ -1134,7 +1135,6 @@ nāca 4
 kalnu 4
 lielisks 4
 straumi 4
-nekādu 4
 kādas 4
 grāmatas 4
 Parasti 4
@@ -1397,6 +1397,7 @@ romānu 3
 peldēja 3
 students 3
 mēness 3
+garša 3
 izgudroja 3
 augstākais 3
 pieņēma 3
@@ -2089,7 +2090,6 @@ kuņģī 2
 Ticība 2
 pavadonis 2
 asa 2
-garša 2
 nopietna 2
 dzīvojam 2
 futbolu 2
@@ -3146,6 +3146,7 @@ Tomēr 2
 sāp 2
 tējā 2
 tējas 2
+lapas 2
 jāuztver 2
 muļķības 2
 patiesības 2
@@ -3425,6 +3426,7 @@ apņēmīgs 2
 Paskatīsimies 2
 Senatnē 2
 sasalusi 2
+neliela 2
 Rasa 2
 rasas 2
 saulē 2
@@ -3494,6 +3496,7 @@ jājūtas 2
 augstāko 2
 vēlmēm 2
 pamostas 2
+Pieņemsim 2
 savās 2
 elektrības 2
 izraka 2
@@ -7591,7 +7594,6 @@ sasaista 1
 Melnajā 1
 tanīna 1
 melnās 1
-lapas 1
 oksidētas 1
 Morāle 1
 liegt 1
@@ -9246,7 +9248,6 @@ darbam 1
 atstumtais 1
 atstumtā 1
 Salna 1
-neliela 1
 iztvaikoja 1
 saulei 1
 lecot 1
@@ -9859,7 +9860,6 @@ ieguvums 1
 ​​ne 1
 slava 1
 nepadarīja 1
-Pieņemsim 1
 Ķiploki 1
 atbaida 1
 vampīrus 1

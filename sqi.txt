@@ -1,9 +1,9 @@
-të 887
+të 889
 e 581
 në 378
 është 331
 i 271
-një 263
+një 264
 nuk 248
 Nuk 231
 Tomi 219
@@ -35,8 +35,8 @@ mirë 54
 ju 51
 Më 50
 Të 49
+Po 45
 A 44
-Po 44
 ti 41
 këtë 40
 di 40
@@ -47,8 +47,8 @@ duhet 38
 ne 37
 apo 35
 Jam 35
+Kam 34
 tij 34
-Kam 33
 Ju 33
 jo 33
 lutem 33
@@ -87,6 +87,7 @@ je 23
 Mund 23
 Shqiptarët 23
 para 22
+Dua 22
 Si 22
 tani 22
 I 22
@@ -95,9 +96,9 @@ tjetër 22
 Kush 22
 diçka 22
 asgjë 21
-Dua 21
 ditë 21
 Tomit 21
+ha 21
 ai 20
 bërë 20
 jeni 20
@@ -106,7 +107,6 @@ ishin 20
 vetëm 20
 Duhet 20
 sot 20
-ha 20
 ndonjë 20
 jetë 19
 bukur 19
@@ -281,6 +281,7 @@ mëngjes 7
 ndërtojnë 7
 "Në 7
 Maryn 7
+madh 7
 t'ju 7
 ndërtojmë 7
 flisni 6
@@ -326,13 +327,13 @@ gjitha 6
 keqe 6
 gjatë 6
 kem 6
+fle 6
 Na 6
 fat 6
 bëjë 6
 përgjigj 6
 sigurt 6
 ja 6
-madh 6
 tuaj" 6
 ndërtoni 6
 mësim 6
@@ -401,7 +402,6 @@ qau 5
 flasin 5
 huaja 5
 goja 5
-fle 5
 humbur 5
 krenar 5
 njerëz 5
@@ -778,6 +778,7 @@ ora 2
 iu 2
 bëra 2
 film 2
+mollët 2
 provoi 2
 Franca 2
 prinderit 2
@@ -1380,7 +1381,6 @@ Mikeli 1
 pastrimin 1
 dritareve 1
 perdorur 1
-mollët 1
 reçelin 1
 En 1
 dymbëdhjetë 1
@@ -4119,3 +4119,4 @@ Shoh 1
 zbuloi 1
 ishullin 1
 Kopshti 1
+shtrat 1
