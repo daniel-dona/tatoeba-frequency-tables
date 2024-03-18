@@ -1,18 +1,18 @@
-að 3834
-er 3147
+að 3835
+er 3150
 Ég 2321
 í 2075
 á 1683
 ekki 1653
 ég 876
 Það 867
-Hann 796
+Hann 797
 til 770
 og 738
 það 702
 við 684
 Hún 678
-Þú 652
+Þú 653
 var 643
 hann 637
 sem 609
@@ -21,8 +21,8 @@ með 522
 Við 519
 fyrir 508
 um 485
-eru 451
-af 451
+eru 452
+af 452
 mér 430
 en 430
 þér 417
@@ -39,14 +39,14 @@ Hvað 241
 svo 233
 hefur 220
 gera 214
-mjög 209
+mjög 210
 eftir 205
 eins 190
 hans 183
 verður 183
 út 181
+ert 181
 hún 180
-ert 180
 minn 178
 okkar 173
 John 171
@@ -73,8 +73,8 @@ eða 123
 svona 122
 Er 121
 gær 120
+mikið 118
 segja 118
-mikið 117
 Þau 115
 Hver 113
 upp 113
@@ -102,8 +102,8 @@ fer 92
 hennar 92
 sagði 91
 mitt 91
+aldrei 89
 þín 89
-aldrei 88
 þinn 88
 veit 86
 henni 86
@@ -115,9 +115,9 @@ koma 84
 taka 84
 ef 83
 erum 83
+Hvar 82
 kemur 82
 langar 82
-Hvar 81
 þið 81
 sig 80
 maður 78
@@ -785,6 +785,7 @@ sért 13
 sagðist 13
 ríkur 13
 tennis 13
+Þessir 13
 góðar 13
 barn 13
 Konan 13
@@ -833,7 +834,6 @@ Mamma 12
 Sjáðu 12
 myndir 12
 standa 12
-Þessir 12
 fréttir 12
 hættu 12
 spurja 12
@@ -902,6 +902,7 @@ sannarlega 11
 Fyrst 11
 kona 11
 Einn 11
+fallegt 11
 „Ég 11
 dauður 11
 Þakka 11
@@ -975,7 +976,6 @@ skilur 10
 skrifað 10
 síðustu 10
 aldri 10
-fallegt 10
 Þrátt 10
 hærri 10
 gift 10
@@ -1274,6 +1274,7 @@ fylgdi 8
 faðir 8
 veisluna 8
 slíkt 8
+éta 8
 Jill 8
 skyndilega 8
 Kannski 8
@@ -1435,7 +1436,6 @@ Kjótó 7
 drakk 7
 einhvers 7
 svaraði 7
-éta 7
 súpuna 7
 Jóni 7
 Íslands 7
@@ -1599,6 +1599,7 @@ setningum 6
 svindla 6
 miður 6
 veitingastað 6
+kettir 6
 stöðugt 6
 aldur 6
 hringi 6
@@ -1875,7 +1876,6 @@ kaupi 5
 komist 5
 banka 5
 ljóð 5
-kettir 5
 hreinu 5
 frímerki 5
 færa 5
@@ -3346,6 +3346,7 @@ Byrjaðu 3
 grunni 3
 Kóreu 3
 Noregi 3
+latur 3
 borinn 2
 Menn 2
 fátækt 2
@@ -5224,7 +5225,6 @@ Sennilega 2
 auðvitað 2
 Tíu 2
 sjötíu 2
-latur 2
 réttindum 1
 gæddir 1
 vitsmunum 1

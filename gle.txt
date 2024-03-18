@@ -1,17 +1,17 @@
-an 660
+an 661
 a 629
-Tá 620
+Tá 622
 mé 398
-ag 392
+ag 393
 Is 333
 é 265
 ar 239
-tú 213
+tú 214
 sé 210
 go 206
-An 205
-bhfuil 203
-seo 188
+An 206
+bhfuil 204
+seo 189
 Ní 179
 agam 170
 Níl 164
@@ -31,8 +31,8 @@ sa 77
 atá 77
 leat 73
 is 71
+sí 70
 rud 69
-sí 69
 Táim 68
 orm 67
 mhaith 65
@@ -60,9 +60,9 @@ ina 41
 ach 40
 gach 38
 in 37
+anseo 37
 nach 37
 obair 37
-anseo 36
 teach 34
 anois 33
 dhéanamh 33
@@ -118,6 +118,7 @@ dó 18
 ainm 18
 ansin 18
 iad 18
+faoi 18
 grá 18
 madra 18
 thoil 17
@@ -125,7 +126,6 @@ acu 17
 muid 17
 faoin 17
 Sin 17
-faoi 17
 cat 17
 don 17
 linn 17
@@ -400,6 +400,7 @@ súile 5
 t-arán 5
 fada 5
 haon 5
+ceannach 5
 mhac 5
 Scríobh 5
 imirt 5
@@ -507,7 +508,6 @@ cluiche 4
 móra 4
 agaibh 4
 déag 4
-ceannach 4
 caitheamh 4
 Bí 4
 Átha 4
@@ -524,6 +524,7 @@ locht 4
 meisce 4
 ceol 4
 chóir 4
+rís 4
 tSín 4
 fhoghlaim 4
 Tuigeann 4
@@ -657,7 +658,6 @@ aráin 3
 madraí 3
 Leanne 3
 feoil 3
-rís 3
 thír 3
 póca 3
 John 3
@@ -1217,6 +1217,7 @@ códú 2
 Bímis 2
 spraoi 2
 Tosaímis 2
+clár 2
 fusa 2
 scannáin 2
 m'obair 2
@@ -2749,7 +2750,6 @@ bhfeicimid 1
 aontaithe 1
 ruaig 1
 deo 1
-clár 1
 mód 1
 DOS 1
 míchuí 1
@@ -2994,3 +2994,4 @@ sórt 1
 Dhiúltaigh 1
 conradh 1
 shíniú 1
+phiongainí 1

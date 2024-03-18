@@ -2,7 +2,7 @@ ang 32996
 sa 25717
 ng 24506
 na 15149
-po 13812
+po 13815
 ko 11802
 mga 11187
 Tom 9388
@@ -17,12 +17,12 @@ niya 4612
 ito 4527
 siya 4345
 ay 4253
-May 3710
+May 3714
 ka 3540
 Ang 3513
 nang 3484
 hindi 2919
-akong 2728
+akong 2734
 isang 2596
 ninyo 2514
 kong 2407
@@ -141,9 +141,9 @@ aso 401
 kayang 401
 nakita 392
 trabaho 391
+Mayroon 390
 puwedeng 390
 talaga 389
-Mayroon 388
 kailangan 386
 Nakita 384
 bago 381
@@ -414,6 +414,7 @@ pala 126
 maayos 125
 ref 125
 ganda 125
+kabayo 125
 Pilipinas 125
 Dumating 124
 Australia 124
@@ -427,7 +428,6 @@ sapat 122
 suot 122
 mukha 122
 relihiyon 122
-kabayo 121
 bayan 119
 piraso 119
 Maganda 119
@@ -667,6 +667,7 @@ palabas 77
 biyahe 77
 baboy 77
 kalusugan 76
+palaging 76
 Pinag-usapan 76
 Naiintindihan 76
 Takot 76
@@ -709,7 +710,6 @@ Tokyo 72
 pagod 72
 bisikleta 72
 dagat 72
-palaging 72
 iba-ibang 72
 bola 72
 problemang 72
@@ -1129,6 +1129,7 @@ malinis 46
 Kita 46
 tulay 46
 apartment 46
+palagi 46
 kailanman 46
 Hayaan 46
 kagaya 46
@@ -1179,7 +1180,6 @@ Subukan 44
 amoy 44
 Binisita 44
 Sinasabi 44
-palagi 44
 parte 44
 tuktok 44
 tito 44
@@ -1427,6 +1427,7 @@ Inglatera 36
 umuulan 36
 Nanalo 36
 Ayos 36
+gutom 36
 Maaga 36
 magpahinga 36
 pabrika 36
@@ -1690,7 +1691,6 @@ parating 30
 lipunan 30
 Siyempre 30
 libangan 30
-gutom 30
 pinya 30
 kanta 30
 binata 30
@@ -6624,6 +6624,7 @@ Ben 6
 kukuha 6
 bakante 6
 Carlos 6
+kabayong 6
 Nagsasayang 6
 Tumaba 6
 Makukuha 6
@@ -8681,7 +8682,6 @@ Ipinaghanda 4
 bola-bola 4
 patalastas 4
 Napakasaya 4
-kabayong 4
 Natumba 4
 Nagturo 4
 Masasarap 4

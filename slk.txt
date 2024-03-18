@@ -1,8 +1,8 @@
-je 2290
-sa 2173
+je 2291
+sa 2174
 som 1903
 Tom 1646
-si 1552
+si 1554
 to 1355
 že 1120
 na 1015
@@ -20,7 +20,7 @@ s 342
 To 341
 Čo 331
 ako 326
-nie 296
+nie 297
 Som 287
 sme 275
 veľmi 268
@@ -39,10 +39,10 @@ po 211
 ho 209
 Nie 204
 bol 184
-za 172
+za 174
 ísť 169
 jej 165
-vás 161
+vás 162
 mu 153
 rád 152
 Chcem 150
@@ -55,8 +55,8 @@ Toma 144
 vám 136
 tak 135
 povedal 135
+tam 134
 ju 134
-tam 132
 byť 132
 urobiť 132
 veľa 130
@@ -69,7 +69,7 @@ Ste 120
 Kto 119
 Už 113
 Prosím 110
-ale 109
+ale 110
 už 106
 jeho 105
 knihu 105
@@ -232,6 +232,7 @@ budem 42
 však 42
 ľudia 41
 Musíš 41
+peniaze 41
 Boli 41
 naučiť 41
 Myslel 41
@@ -251,7 +252,6 @@ Vieš 40
 mnou 40
 kniha 39
 svojej 39
-peniaze 39
 ľudí 39
 naozaj 39
 nebol 39
@@ -1117,6 +1117,7 @@ musíš 9
 hlas 9
 trvať 9
 stretnúť 9
+kam 9
 zuby 9
 preto 9
 krajine 9
@@ -1241,7 +1242,6 @@ myslí 8
 denne 8
 obed 8
 nahnevaný 8
-kam 8
 Podľa 8
 naučil 8
 najlepší 8
@@ -2318,6 +2318,7 @@ ročné 4
 Anglicka 4
 stratili 4
 dôveru 4
+vedie 4
 nedokáže 4
 našich 4
 žiaden 4
@@ -2960,7 +2961,6 @@ Nenávidím 3
 obdobia 3
 albánsky 3
 Američania 3
-vedie 3
 Španielsko 3
 cieľom 3
 10 3
@@ -5405,6 +5405,7 @@ frízske 2
 všetkého 2
 dúfa 2
 prosí 2
+dostane 2
 nebojí 2
 zostanete 2
 zoznamoch 2
@@ -6218,6 +6219,10 @@ Privítala 2
 maďarsky 2
 švédsky 2
 perfektná 2
+štastie 2
+nekupiť 2
+Disciplína 2
+motivácia 2
 Penis 1
 mužských 1
 pohlavných 1
@@ -9993,8 +9998,3 @@ podpätku 1
 vysokým 1
 podpätkom 1
 Klamár 1
-silní 1
-Usaďte 1
-malinu 1
-malín 1
-chutia 1

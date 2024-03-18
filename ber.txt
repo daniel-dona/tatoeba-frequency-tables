@@ -1,30 +1,30 @@
-ad 179920
-n 147888
+ad 179921
+n 147890
 d 109499
 ara 89831
-ay 71470
-i 58810
+ay 71474
+i 58812
 deg 56179
 Ur 52093
 ur 47911
 Tom 41905
 asegzawal 39616
 ɣef 32151
-ɣer 31523
+ɣer 31534
 s 27024
-Ad 26873
+Ad 26874
 Maɣef 17684
 D 17520
+Ziri 15476
 yella 15470
-Ziri 15470
 seg 13999
 Skura 12911
 akken 12857
 Yanni 12148
 akk 11571
 acu 11468
+ma 11130
 aya 11129
-ma 11128
 win 10909
 kan 10683
 yiwen 10575
@@ -56,7 +56,7 @@ d-aɣen 5225
 llin 5183
 d-aɣent 5128
 d-taɣ 5087
-Rima 5010
+Rima 5012
 Amek 4859
 telli 4848
 Yessefk 4724
@@ -86,15 +86,15 @@ Bɣiɣ 3264
 neɣ 3258
 Ustṛalya 3230
 mliḥ 3217
-a 3173
+a 3174
 fell-as 3137
 anda 3081
 Mi 3067
 uɣerbaz 3045
 Lliɣ 2993
 llan 2991
+din 2988
 nekk 2987
-din 2987
 akka 2981
 srint 2918
 teḥwaj 2902
@@ -138,7 +138,7 @@ Yezmer 2292
 yiseggasen 2239
 yelhan 2232
 axxam 2220
-niḍen 2217
+niḍen 2219
 Marie 2200
 Llan 2200
 usawal 2193
@@ -151,8 +151,8 @@ Aql-aɣ 2142
 tikkelt 2141
 tmara 2136
 tura 2120
+yal 2101
 Tzemreḍ 2100
-yal 2099
 tamaziɣt 2096
 Mira 2094
 Zemreɣ 2068
@@ -310,9 +310,9 @@ taddart 1102
 tanglizit 1100
 d-tesɣeḍ 1100
 Nṛuḥ 1099
+tawwurt 1094
 bɣint 1093
 akud 1092
-tawwurt 1088
 Tṛuḥ 1088
 d-yesɣa 1087
 usegnaf 1086
@@ -390,8 +390,8 @@ kraḍ 875
 tamezwarut 871
 iṛuḥ 869
 d-tesɣa 868
+wawal 863
 imekli 861
-wawal 860
 aksum 857
 tutlayt 857
 fell-asen 853
@@ -413,8 +413,8 @@ ha-t-an 825
 Iban 823
 fell-awen 823
 tkeṛṛust 822
+tayri 822
 yid-m 822
-tayri 821
 Yebɣa 818
 yemmut 817
 baba-s 815
@@ -436,11 +436,11 @@ Yizwawen 784
 yexdem 779
 laman 778
 tamaynut 777
+tewwurt 776
 Nla 776
 tafat 773
 uẓawan 772
 Sriɣ 769
-tewwurt 767
 tebɣid 765
 taḥanut 764
 Yal 763
@@ -535,7 +535,7 @@ iḍ 622
 amcic 621
 ḥemmleɣ 620
 Neḥwaj 618
-wissen 616
+wissen 618
 teɣsert 615
 ɣur-s 612
 Liɣ 611
@@ -677,8 +677,8 @@ ttaɣent-d 502
 wis 500
 Nekkni 499
 leɛqel 499
+iwala 499
 fell-aneɣ 499
-iwala 498
 Werɛad 496
 Tlam 496
 igerdan 495
@@ -918,9 +918,9 @@ zemren 369
 Sɣiɣ-d 369
 Tagara 369
 tatrisant 369
+yusa-d 368
 yimalas 368
 Iyya 368
-yusa-d 367
 angul 367
 amecṭuḥ 366
 deg-sen 366
@@ -951,9 +951,9 @@ tezmireḍ 356
 yeṭṭes 356
 bu 355
 azatim 355
+Karl 354
 tanfult 354
 wiyaḍ 353
-Karl 353
 ččina 353
 Alberto 353
 London 352
@@ -1311,10 +1311,10 @@ uxeddim 248
 tmettant 248
 xedmen 248
 Tesɣamt-d 248
+yewweḍ 248
 Faḍil 248
 targit 247
 amiɣis 247
-yewweḍ 247
 bxir 246
 useṭṭel 246
 lemdeɣ 245
@@ -1390,6 +1390,7 @@ yerwel 233
 tasa 233
 iẓem 233
 tkeryulit 233
+Azul 232
 Ken 232
 yigiman 232
 tidal 232
@@ -1443,7 +1444,6 @@ Naɣ 224
 Ɣer-wen 224
 aɣurbiz 224
 As-d 223
-Azul 223
 yimekli 223
 iwali 223
 Teẓramt 223
@@ -1501,12 +1501,12 @@ Tḥemmlem 216
 Rrus 216
 g 216
 Wi 215
+Walaɣ 215
 Qqim 215
 Yebda 215
 tizewwa 215
 Amer 215
 lawan 214
-Walaɣ 214
 wanda 214
 ladɣa 214
 tesɛamt 214
@@ -1518,11 +1518,11 @@ Mmuqqel 213
 tjapunit 213
 tamsalt 213
 tlelli 213
+David 213
 taggara 213
 riɣ 213
 tettmahaled 213
 terra 212
-David 212
 taɣect 212
 tnarit-nnes 212
 usawal-nnes 212
@@ -1650,11 +1650,11 @@ adeg 195
 Werεad 195
 amsegdal 195
 « 195
+Tobias 195
 yidis 194
 yeqlan 194
 dindin 194
 tessin 194
-Tobias 194
 lmizan 193
 kuẓet 193
 ayefki 193
@@ -1703,6 +1703,7 @@ yiṭij 188
 lgerra 188
 seg-sen 187
 Keṛheɣ 187
+tawwurt-nni 187
 iseggasen 187
 aspagiti 187
 tkamra 187
@@ -1749,7 +1750,6 @@ nessiwel 181
 tẓat 181
 tamdint 181
 Tokyo 181
-tawwurt-nni 181
 ahil 181
 tettmahalem 181
 ttmahalen 181
@@ -1902,6 +1902,7 @@ amsukki 167
 taɣulit 167
 sqedceɣ 166
 ẓran 166
+yuzzel 166
 afeqqus 166
 tugniwin 166
 d-afeɣ 166
@@ -1911,7 +1912,6 @@ nutenti 166
 tugna 165
 taculliḍt 165
 t-geɣ 165
-yuzzel 165
 Tubeṛ 165
 amuṭu 165
 igersalen 165
@@ -1964,6 +1964,7 @@ wanect-a 162
 gar-asen 162
 aẓalim 162
 tmajaṛit 162
+Diego 162
 taklut 162
 tmahlemt 162
 takamyunt 162
@@ -1977,7 +1978,6 @@ aḥercaw 161
 tiddit 161
 taɛṛabt 161
 Ssawleɣ 161
-Diego 161
 iḥulfa 161
 sya 161
 teɣseḍ 161
@@ -2091,6 +2091,7 @@ teqcicin 154
 neẓri 154
 tesnajya 154
 aɣwali 154
+tiwwura 154
 ulameɣ 154
 tuwi-d 154
 tamurrigt 154
@@ -2126,7 +2127,6 @@ tkeṛṛust-nnes 152
 ugaṛaj 152
 teswidit 152
 yessawalen 152
-tiwwura 152
 thendit 152
 tigzirt 152
 tallalt-nwent 152
@@ -2186,6 +2186,7 @@ tiṭṭawin 149
 weltma-s 149
 ziɣ 149
 asif 149
+wakal 149
 rzuɣ 149
 taklit 149
 Yezdeɣ 149
@@ -2209,6 +2210,7 @@ tafest 149
 lḥedd 148
 texxamt-nnes 148
 tafsut 148
+iṣeggem 148
 tlufa 148
 idammen 148
 Ugin 148
@@ -2252,12 +2254,10 @@ tmarathit 147
 ttaylandit 147
 attwaḍfas 147
 twigurt 147
-wakal 146
 Teqqel 146
 Eg 146
 yimeṭṭawen 146
 ufiɣ 146
-iṣeggem 146
 yefṛeḥ 146
 tacifuft 146
 abiran 146
@@ -3320,6 +3320,7 @@ umahil-nwen 112
 Kulumbya 112
 Minsk 112
 yikubṭiren 112
+Gabriel 112
 tiseɣlit 112
 waqquc 112
 Daka 112
@@ -3338,7 +3339,6 @@ Aires 111
 tawḍem 111
 imsiwel 111
 Cabḥa 111
-Gabriel 111
 Tur-a 111
 ayuyu 111
 tsengalit 111
@@ -3522,6 +3522,7 @@ Pakistan 103
 nettu 103
 teɣred 103
 Asakal-nni 103
+Ivan 103
 as-tennid 103
 tedduɣ 103
 amaglay 103
@@ -3549,7 +3550,6 @@ Is 102
 wagim 102
 Kambudya 102
 t-tgem 102
-Ivan 102
 Xseɣ 102
 uxxam-inu 102
 Tettmahal 102
@@ -3634,6 +3634,7 @@ Nezdeɣ 98
 Mazal-ik 98
 yiman-nneɣ 98
 Terra-iyi 98
+Usiɣ-d 98
 Akal 98
 takeṛṛust-a 98
 meɣɣren 98
@@ -3657,7 +3658,6 @@ tapuṛtugalit-taguaranit 98
 izarmezruyanen 98
 Yeɣli 97
 d-yettas 97
-Usiɣ-d 97
 iceḍḍiḍen 97
 Azal 97
 lkaɣeḍ 97
@@ -4283,6 +4283,7 @@ awiɣ 78
 setten 78
 yettawi 78
 "Deg 78
+yemdel 78
 yeččan 78
 yan 78
 idiplumatiyen 78
@@ -4326,7 +4327,6 @@ uɣerbaz-nneɣ 77
 ufella 77
 Aql-aneɣ 77
 d-yeḍran 77
-yemdel 77
 urgaz-nni 77
 yerḥem 77
 Wakli 77
@@ -4347,6 +4347,7 @@ talmanit-tasaksunit 77
 tarusit-tazirit 77
 talbanit-tamasidunit 77
 tamaziɣt-tanglizit 77
+Rodrigo 77
 rrif 76
 Tamezwarut 76
 uɣerrabu 76
@@ -4393,7 +4394,6 @@ taserbit-tamajaṛit 76
 tarusit-tusitit 76
 tapactunt-tabalucit 76
 thunsruckit 76
-Rodrigo 76
 Taqcict-nni 75
 seg-neɣ 75
 yesseglaf 75
@@ -4665,6 +4665,7 @@ iqebbel 70
 umgaru 70
 d-tusam 70
 terramt 70
+at 70
 zher 70
 ɛyan 70
 tufa 70
@@ -4903,7 +4904,6 @@ txemmemem 66
 tasiwant-nnem 66
 trebḥemt 66
 iyi-tɛawned 66
-at 66
 Qerrbent 66
 termit 66
 yiman-nteɣ 66
@@ -5096,6 +5096,7 @@ tettṛaju 63
 tettaf 63
 ameslub 63
 yulel 63
+Iqerreb 63
 iwerdaniyen 63
 Ssebded 63
 ldint-d 63
@@ -5146,7 +5147,6 @@ awen 62
 ǧǧiɣ 62
 yekfa 62
 ddwa 62
-Iqerreb 62
 ɛeddan 62
 uɛrur-is 62
 Nutni 62
@@ -5236,6 +5236,7 @@ Yesṛuḥ 60
 Snat 60
 uḍḍun 60
 yiɣef-nnes 60
+Qerrbeɣ 60
 ɛemmti-s 60
 nemmet 60
 neẓra 60
@@ -5303,7 +5304,6 @@ adfel 59
 k-ɛawneɣ 59
 yeldey 59
 d-sɣiɣ 59
-Qerrbeɣ 59
 Yessaweḍ 59
 Mazal-iyi 59
 amaru 59
@@ -5909,6 +5909,7 @@ ljehd 51
 yiserdasen 51
 Susem 51
 yessired 51
+tewwurt-nni 51
 wanwa 51
 tebɣest 51
 Ldzayer 51
@@ -6073,7 +6074,6 @@ Ttesseɣ 49
 awal-inu 49
 Lqahira 49
 uneẓruf 49
-tewwurt-nni 49
 uzal 49
 yerran 49
 Iḍan 49
@@ -7166,6 +7166,7 @@ zerwen 40
 Reẓmen 40
 d-tuɣalemt 40
 Sidi 40
+Wwḍeɣ 40
 tinigert 40
 ttaǧǧat 40
 assemter 40
@@ -7246,6 +7247,7 @@ useggas-a 39
 yeskiddib 39
 teffeɣ-d 39
 Ttarraɣ 39
+tegmat 39
 iɣsan 39
 timiḍt 39
 tettemcabi 39
@@ -7297,7 +7299,6 @@ talɣut-a 39
 d-tged 39
 tettmeslay 39
 yeɣsen 39
-Wwḍeɣ 39
 ak-d-awiɣ 39
 iyi-d-tennamt 39
 lemdent 39
@@ -7380,7 +7381,6 @@ xaṭi 38
 iḥebbes 38
 tsegrit 38
 yimawlan-nwen 38
-tegmat 38
 am-slemdeɣ 38
 asenfar 38
 tent-ilan 38
@@ -7541,6 +7541,7 @@ yettezzi 37
 ameẓlu 37
 "Tanemmirt" 37
 inaw 37
+ṣeggmeɣ 37
 wawal-a 37
 Axxam-a 37
 tefkiḍ 37
@@ -7682,7 +7683,6 @@ teskerkis 36
 Jones 36
 nɣan-t 36
 t-yeɛjeb 36
-ṣeggmeɣ 36
 nadiɣ 36
 yizirig 36
 lbal-nnek 36
@@ -9125,6 +9125,7 @@ Tikkwal 29
 ten-terri 29
 ḥemmlen-tt 29
 yens 29
+idemmer 29
 tɣelqed 29
 ttasmen 29
 Tefkam-as 29
@@ -9361,7 +9362,6 @@ kent-yuɣen 28
 wul-nsen 28
 akebbuḍ-nnem 28
 Uran 28
-idemmer 28
 teɣram 28
 kksent 28
 telsid 28

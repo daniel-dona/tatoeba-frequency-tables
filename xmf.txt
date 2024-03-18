@@ -1,4 +1,4 @@
-Ma 182
+Ma 183
 re 95
 Tom 44
 ma 44
@@ -11,9 +11,9 @@ Tkva 24
 Tena 23
 Toms 23
 Tina 20
+Tomi 19
+vare 18
 tena 18
-Tomi 18
-vare 17
 reno 17
 vore 16
 moǩo 16
@@ -27,6 +27,7 @@ oko 12
 Çki 12
 xolo 12
 çkimi 12
+iro 11
 meri 11
 mu 11
 jgiri 11
@@ -34,7 +35,6 @@ Mu 11
 breli 11
 tomi 11
 ragadi 11
-iro 10
 tis 10
 Chqi 10
 rdu 10
@@ -62,6 +62,7 @@ dio 7
 joxo 7
 tes 7
 ren 7
+tak 7
 ვორექ 6
 s 6
 moko 6
@@ -73,7 +74,6 @@ miçku 6
 taki 6
 dǧas 6
 Tomik 6
-tak 6
 თენა 5
 ჩქი 5
 თე 5
@@ -82,6 +82,7 @@ rina 5
 shilebe 5
 glaxa 5
 ase 5
+Oxori 5
 mutuni 5
 ardzashe 5
 ʒaneri 5
@@ -110,7 +111,6 @@ va 4
 Migaxvamant 4
 Namu 4
 ç̌ita 4
-Oxori 4
 Sami 4
 borji 4
 reto 4
@@ -126,6 +126,7 @@ Muç̌o 4
 p̌eulepi 4
 goǩo 4
 reko 4
+Tomk 4
 ç̌umani 4
 Muşeni 4
 Bordji 4
@@ -200,7 +201,6 @@ getu 3
 dzalami 3
 Muzhami 3
 mangari 3
-Tomk 3
 ṫabaǩi 3
 tkvani 3
 uǩuli 3
@@ -434,6 +434,8 @@ tutaşxas 2
 banani 2
 ameriǩari 2
 Ṫomik 2
+tunti 2
+djoǧori 2
 uɣorsu 2
 Gomordzgua 2
 oşǩuru 2
@@ -462,6 +464,7 @@ oxorants 2
 doxturi 2
 chkini 2
 Tzq'ari 2
+Chkimi 2
 chkimi 2
 gverdi 2
 bzhaamish 2
@@ -920,7 +923,7 @@ Duragadue 1
 Qortuli 1
 gichqƨno 1
 vagashkurnas 1
-Qiꞇides 1
+kiides 1
 Sushish 1
 Çhkomua 1
 Mokodu 1
@@ -2088,9 +2091,7 @@ bedineri 1
 რეთ 1
 Morʒonso 1
 kodzirƨ 1
-tunti 1
 Vaiɣorano 1
-djoǧori 1
 Ç̌ǩomi 1
 tzqinaro 1
 doç̌arƨ 1
@@ -2511,7 +2512,6 @@ Vanat 1
 Tekƨ 1
 Finali 1
 ondjuas 1
-Chkimi 1
 noutbuki 1
 mixires 1
 Meurs 1
@@ -2646,3 +2646,11 @@ Sǩantzǩuma 1
 Kƨmort 1
 çkimda 1
 peri 1
+gumiçamu 1
+tesi 1
+ortudƨ 1
+kobdziri 1
+ina 1
+meritʒǩuma 1
+doɣvilƨ 1
+Kotxi 1

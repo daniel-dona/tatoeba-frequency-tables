@@ -1,23 +1,23 @@
-da 980
-ez 569
-dut 514
-bat 405
-Ez 404
-du 394
-eta 348
+da 990
+ez 570
+dut 516
+Ez 407
+bat 406
+du 395
+eta 350
 zuen 283
 egin 273
-naiz 266
+naiz 267
 zen 264
-dago 228
-Tom 228
+dago 229
+Tom 229
 nahi 223
 Tomek 215
-duzu 210
-egiten 201
-dira 167
+duzu 212
+egiten 202
+dira 168
 behar 166
-izan 164
+izan 165
 hori 147
 Nire 143
 nuen 140
@@ -28,8 +28,8 @@ bere 128
 nire 125
 Zer 124
 hitz 118
+zara 108
 baino 108
-zara 107
 zure 101
 joan 99
 asko 91
@@ -43,7 +43,7 @@ dute 76
 ditu 75
 dugu 74
 nintzen 73
-nago 70
+nago 71
 ikusi 68
 Mary 65
 izango 64
@@ -109,11 +109,11 @@ Nola 35
 polita 35
 denbora 35
 Hemen 35
+hil 35
 batean 35
 zaude 35
 buruz 35
 duen 34
-hil 34
 Samik 33
 dakit 32
 pentsatzen 32
@@ -161,11 +161,11 @@ liburu 25
 guztiak 25
 Nork 25
 gauza 25
+batek 24
 jaio 24
 duzun 24
 arreba 24
 dudan 24
-batek 23
 beti 23
 ezagutzen 23
 egun 23
@@ -292,6 +292,7 @@ bost 14
 ulertu 14
 lana 14
 dudala 14
+Maria 14
 inork 13
 Euria 13
 handi 13
@@ -319,7 +320,6 @@ hain 13
 utziko 13
 Eskerrik 13
 gustatuko 13
-Maria 13
 batekin 12
 noa 12
 ondoren 12
@@ -377,6 +377,7 @@ nion 11
 begiratu 11
 Lan 11
 ziur 11
+sinesten 11
 entzuten 11
 gai 10
 laguntza 10
@@ -419,7 +420,6 @@ Mundu 10
 frantsesez 10
 jaso 10
 gertatzen 10
-sinesten 10
 bidali 10
 naizen 10
 dinat 10
@@ -449,6 +449,7 @@ ezingo 9
 zarete 9
 ahizpa 9
 jolasten 9
+Euskara 9
 duk 9
 Kolore 9
 berdea 9
@@ -514,7 +515,6 @@ Liburua 8
 zazpi 8
 hiriburua 8
 urtebetetzea 8
-Euskara 8
 gorria 8
 atsegin 8
 begiak 8
@@ -569,6 +569,7 @@ onartzen 7
 Musika 7
 burua 7
 Zertan 7
+daiteke 7
 hobe 7
 diat 7
 esaldi 7
@@ -628,6 +629,7 @@ idazten 7
 jartzen 7
 amaren 7
 familia 7
+existitzen 7
 erosteko 7
 ahoa 7
 elkarrekin 7
@@ -650,7 +652,6 @@ lehenengo 6
 erlojua 6
 erakutsi 6
 merezi 6
-daiteke 6
 botatzen 6
 eskubide 6
 beharra 6
@@ -705,6 +706,7 @@ izaten 6
 garbitzen 6
 joatea 6
 gau 6
+Gorroto 6
 nauzu 6
 Hire 6
 apurtu 6
@@ -733,7 +735,6 @@ edango 6
 Emakume 6
 Hiri 6
 bukatu 6
-existitzen 6
 katua 6
 banu 6
 telebista 6
@@ -758,6 +759,7 @@ Samiren 6
 zaintzen 6
 Diru 6
 Mariak 6
+Olentzero 6
 aberatsa 5
 geratzen 5
 ume 5
@@ -794,6 +796,7 @@ itxarongo 5
 Gustatzen 5
 euskaraz 5
 jolastu 5
+mota 5
 begi 5
 erosiko 5
 negar 5
@@ -847,7 +850,6 @@ aurrera 5
 litzateke 5
 beteta 5
 erre 5
-Gorroto 5
 horregatik 5
 gu 5
 heltzen 5
@@ -929,6 +931,7 @@ zaborra 5
 zidaten 5
 balu 5
 Australiara 5
+Harry 5
 kontua 4
 askorik 4
 besoa 4
@@ -987,9 +990,9 @@ uztea 4
 Ikasten 4
 Nongoa 4
 urteko 4
+Errusia 4
 guztietako 4
 Nondik 4
-mota 4
 ibiltzen 4
 altuena 4
 " 4
@@ -1282,7 +1285,6 @@ Gogoko 3
 New 3
 Nongoak 3
 negarrez 3
-Errusia 3
 Ekuadorrekoa 3
 Munduan 3
 Hego 3
@@ -1310,6 +1312,7 @@ ikasle 3
 ur 3
 Honek 3
 ezkonduko 3
+Miren 3
 sortu 3
 Eseri 3
 zaituztet 3
@@ -1689,6 +1692,7 @@ minik 3
 dizute 3
 onetan 3
 istripu 3
+hilda 3
 arrain 3
 gidatu 3
 tom 3
@@ -1701,6 +1705,7 @@ Ezetz 3
 aldendu 3
 lirateke 3
 guztatzen 3
+harro 3
 Kontrola 3
 lanpetuta 3
 txanda 3
@@ -1908,7 +1913,6 @@ hogei 2
 solairu 2
 urdinak 2
 doaz 2
-Miren 2
 Bart 2
 izendatzen 2
 abokatua 2
@@ -1988,6 +1992,7 @@ jarriko 2
 Idatz 2
 Johnek 2
 bainatzen 2
+Mari 2
 egoera 2
 Hain 2
 txanpon 2
@@ -1998,6 +2003,7 @@ hankak 2
 zaharra 2
 Norena 2
 mintzo 2
+euskaldun 2
 Jan 2
 dudalako 2
 Baita 2
@@ -2157,7 +2163,9 @@ sinesteko 2
 Gehiago 2
 otoi 2
 Bizi 2
+bidaiatzen 2
 Zaldi 2
+antza 2
 konpontzen 2
 Animalia 2
 ezik 2
@@ -2268,6 +2276,7 @@ aldia 2
 kendu 2
 oihukatu 2
 es 2
+gaituena 2
 ordenagailua 2
 Leihoa 2
 egarri 2
@@ -2356,6 +2365,7 @@ zaitudala 2
 izozten 2
 Jauna 2
 zapatak 2
+aktorea 2
 Musikari 2
 Bonfa 2
 Suhiltzaileak 2
@@ -2531,6 +2541,7 @@ bakoitzaren 2
 bateko 2
 funtzio 2
 aldian-aldian 2
+benetako 2
 boto 2
 mailako 2
 baldintza 2
@@ -2690,7 +2701,6 @@ eskiatzera 2
 Gustatu 2
 kotxeak 2
 Tomerekin 2
-hilda 2
 gertatutakoa 2
 eguzkitako 2
 bizitzak 2
@@ -2749,7 +2759,6 @@ eramatea 2
 horrengandik 2
 modurik 2
 Zapata 2
-harro 2
 pilotara 2
 jolazten 2
 Poliki 2
@@ -2892,15 +2901,16 @@ Dan 2
 ninduzun 2
 Vegasen 2
 negutegi 2
-Olentzero 2
 entrenatzaile 2
 graziaz 2
 suaren 2
 Zirik 2
+Olentzerorengan 2
 Anton 2
 Alan 2
 Tina 2
 Atenasera 2
+estatubatuar 2
 Telefonoz 1
 jatorrizkoarekin 1
 borobila 1
@@ -3680,7 +3690,6 @@ ihintz 1
 izoztua 1
 poltsikotik 1
 jotzaile 1
-Mari 1
 Etekin 1
 honengan 1
 arina 1
@@ -3712,7 +3721,6 @@ Epa 1
 Noizkoa 1
 Estutxeak 1
 direnei 1
-euskaldun 1
 deritze 1
 Gosea 1
 errentan 1
@@ -4451,7 +4459,6 @@ Untsa 1
 joaiten 1
 Azkarra 1
 gizean 1
-bidaiatzen 1
 Pinpilinpauxa 1
 Zeru 1
 hodeitsu 1
@@ -4472,7 +4479,6 @@ Egunez 1
 hobetzen 1
 Zalditik 1
 jausi 1
-antza 1
 Zaldiekin 1
 zaldiak 1
 tentela 1
@@ -4759,7 +4765,6 @@ Gauzen 1
 muinaren 1
 ezina 1
 Animaliengandik 1
-gaituena 1
 ahalmena 1
 Pixkanaka 1
 zaigun 1
@@ -5127,7 +5132,6 @@ astrofisika 1
 Jekaterinburgen 1
 Brad 1
 Pitt 1
-aktorea 1
 Eduardo 1
 Ekuadorkoa 1
 Ekuadortarra 1
@@ -5970,7 +5974,6 @@ publikoaren 1
 agintearen 1
 oinarria; 1
 borondate 1
-benetako 1
 hauteskundeetan 1
 adieraziko 1
 Hauteskundeok 1
@@ -8473,7 +8476,6 @@ ahituta 1
 akituta 1
 langileak 1
 bortz 1
-Olentzerorengan 1
 Bizarzurirengan 1
 Finlandian 1
 Ipar 1
@@ -8538,3 +8540,32 @@ Askatuta 1
 hi 1
 Sagarra 1
 garaituak 1
+Kukurruku 1
+aztia 1
+antzezlea 1
+britainiar 1
+herritarra 1
+Potterren 1
+Wikipedia 1
+neurotipikoa 1
+Ahizpak 1
+izenaren 1
+euskarazko 1
+baliokidea 1
+Euskalduna 1
+Domingirik 1
+Batua 1
+gaizkile 1
+lapurren 1
+alderdia 1
+Ipurdi 1
+erakusketa 1
+protesta 1
+politiko 1
+Olatz 1
+Lizarralderen 1
+antzezlanean 1
+neurotipiko 1
+talde 1
+neurodibergenteen 1
+planetara 1

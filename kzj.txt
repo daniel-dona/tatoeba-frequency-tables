@@ -1,7 +1,7 @@
-do 3255
-zou 1175
+do 3256
+zou 1176
 di 953
-no 888
+no 889
 i 784
 Tom 692
 ko 632
@@ -18,7 +18,7 @@ isido 347
 dau 343
 nga 314
 au 229
-diti 222
+diti 223
 po 220
 zosido 196
 zi 188
@@ -27,7 +27,7 @@ mantad 182
 diau 173
 Mary 168
 dogo 165
-kozo 159
+kozo 160
 tuhun 155
 Au' 153
 daa 151
@@ -51,14 +51,14 @@ ginavo 99
 miampai 97
 diho 96
 ih 94
-nga' 91
+nga' 92
 au' 90
 disido 89
 doiho 88
 doiti 85
 montok 82
+i' 77
 dosido 76
-i' 76
 kio 72
 hamin 69
 ko' 69
@@ -254,6 +254,7 @@ ogumu 17
 tootopot 17
 Ounsikou 17
 Mai 17
+baas 17
 mamanau 16
 Nosoou 16
 tiso 16
@@ -266,7 +267,6 @@ tokito 16
 dimput 16
 susumikul 16
 mogium 16
-baas 16
 kopisoomo 16
 Kavasa' 16
 idsuang 15
@@ -1819,6 +1819,7 @@ tupus 2
 Tingkod 2
 hisun 2
 Betty 2
+noponu 2
 PC 2
 Pinungaanan 2
 tungau 2
@@ -3321,7 +3322,6 @@ titigaon 1
 momoos 1
 Monotos 1
 poniksaan 1
-noponu 1
 Pinapahabus 1
 Mingsingiho 1
 nongilis 1
@@ -6607,3 +6607,4 @@ taupan 1
 Izonon 1
 panda 1
 Miau 1
+Suminakai 1
