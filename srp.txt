@@ -31,7 +31,7 @@ su 862
 Ne 831
 sa 823
 Не 743
-nije 706
+nije 705
 си 689
 od 685
 за 668
@@ -87,7 +87,7 @@ sve 282
 nešto 281
 ja 279
 bih 279
-nisam 277
+nisam 278
 bilo 273
 ја 272
 Nisam 272
@@ -306,10 +306,10 @@ Bio 98
 dok 98
 без 97
 godine 97
+ona 97
 gde 97
 uradio 97
 сутра 96
-ona 96
 даље 96
 ide 95
 tvoj 95
@@ -485,6 +485,7 @@ neko 63
 Још 63
 Бостону 63
 priča 62
+vidim 62
 koju 62
 brzo 62
 јуче 62
@@ -492,7 +493,6 @@ brzo 62
 ове 62
 ovu 61
 imaš 61
-vidim 61
 novac 61
 према 61
 прича 61
@@ -1164,7 +1164,6 @@ Izvinite 25
 važno 25
 muziku 25
 Pazi 25
-vidi 25
 izgubio 25
 Hoćeš 25
 šešir 25
@@ -1221,6 +1220,7 @@ dođe 24
 Zbog 24
 sinoć 24
 znamo 24
+vidi 24
 nedelju 24
 manje 24
 druge 24

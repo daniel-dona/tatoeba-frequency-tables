@@ -7,7 +7,7 @@ to 1355
 že 1120
 na 1015
 v 782
-a 624
+a 625
 mi 521
 Je 478
 by 470
@@ -30,7 +30,7 @@ aby 249
 ma 244
 má 238
 Mária 235
-z 231
+z 232
 Mám 223
 ťa 219
 Kde 215
@@ -147,13 +147,13 @@ moja 60
 vie 60
 teba 60
 Nemám 60
+niekedy 60
 stalo 60
 Sú 59
 majú 59
 dom 59
 prosím 59
 iba 59
-niekedy 59
 dlho 58
 dvere 58
 stále 58
@@ -177,11 +177,11 @@ ak 53
 Včera 53
 mám 53
 Nič 53
+bez 53
 máš 52
 moje 52
 Mal 52
 Povedal 52
-bez 52
 tvoj 51
 istý 51
 svoju 51
@@ -224,13 +224,13 @@ všetky 43
 psa 43
 Nechcem 43
 videl 43
+ľudia 42
 dve 42
 spať 42
 im 42
 budem 42
 Ďakujem 42
 však 42
-ľudia 41
 Musíš 41
 peniaze 41
 Boli 41
@@ -336,6 +336,7 @@ Tieto 30
 Práve 30
 vaše 30
 Bostonu 30
+Aj 29
 išiel 29
 budeš 29
 kedy 29
@@ -352,7 +353,6 @@ vedel 29
 Nehovorím 29
 chlieb 29
 čakať 28
-Aj 28
 neskoro 28
 okolo 28
 izbe 28
@@ -604,6 +604,7 @@ napísal 18
 niekoho 18
 Nevedel 18
 tretej 18
+rady 18
 mesta 18
 ovocie 18
 Hneď 18
@@ -641,7 +642,6 @@ treba 17
 noci 17
 ku 17
 otázky 17
-rady 17
 veta 17
 včas 17
 Tomov 17
@@ -672,6 +672,7 @@ celú 16
 zostal 16
 jedia 16
 kvetov 16
+zvieratá 16
 Videli 16
 máme 16
 Počula 16
@@ -688,6 +689,7 @@ svojom 15
 tancovať 15
 Hľadám 15
 detí 15
+ktorá 15
 spokojný 15
 Otec 15
 Tomáš 15
@@ -709,7 +711,6 @@ pravdepodobne 15
 japonsky 15
 sami 15
 čaká 15
-zvieratá 15
 mojím 15
 kľúč 15
 názor 15
@@ -744,7 +745,6 @@ Chce 14
 biele 14
 topánky 14
 kávy 14
-ktorá 14
 poľsky 14
 Žijem 14
 nebolo 14
@@ -1302,6 +1302,7 @@ matku 8
 študovať 8
 ťažká 8
 malé 8
+láska 8
 sľub 8
 kôň 8
 zábavné 8
@@ -1472,7 +1473,6 @@ obchod 7
 dôkaz 7
 Nepáči 7
 spôsob 7
-láska 7
 strane 7
 Tatoeba 7
 okamžite 7
@@ -2475,6 +2475,7 @@ Kravy 4
 novinár 4
 Záhrada 4
 Podaj 4
+mladí 4
 Robí 4
 vysoko 4
 letiska 4
@@ -2533,6 +2534,7 @@ nehovor 4
 Ach 4
 čakám 4
 slávny 4
+dajú 4
 Komu 4
 východe 4
 rokmi 4
@@ -3190,7 +3192,6 @@ sedela 3
 kostol 3
 Mesto 3
 pohrýzol 3
-mladí 3
 dôležitejšie 3
 zrkadlo 3
 Príďte 3
@@ -3202,6 +3203,7 @@ hudobník 3
 Ukážem 3
 vyriešiť 3
 ponáhľať 3
+oblohy 3
 vedomí 3
 nočné 3
 predávajú 3
@@ -3267,7 +3269,6 @@ Všetkých 3
 nemáme 3
 Našťastie 3
 reštaurácia 3
-dajú 3
 chladné 3
 potrebujeme 3
 netrpezlivý 3
@@ -4455,7 +4456,6 @@ Stálo 2
 dával 2
 búrke 2
 vyjde 2
-oblohy 2
 leta 2
 Problém 2
 mory 2
@@ -5647,6 +5647,7 @@ soľničke 2
 ju“ 2
 horský 2
 Pečie 2
+Padá 2
 Pečú 2
 Upiekli 2
 Pečieš 2
@@ -9997,4 +9998,3 @@ Zaviedol 1
 podpätku 1
 vysokým 1
 podpätkom 1
-Klamár 1

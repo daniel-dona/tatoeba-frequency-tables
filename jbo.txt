@@ -2,12 +2,12 @@ lo 12589
 mi 5932
 cu 3381
 do 3335
-la 2592
+la 2594
 pu 2278
 nu 2116
 le 2049
-se 1885
-na 1597
+se 1886
+na 1599
 be 1321
 i 1284
 ko'a 1256
@@ -114,7 +114,7 @@ zo'u 135
 su'o 134
 mo 133
 ce'u 133
-meris 131
+meris 132
 gunka 130
 gi 130
 pei 128
@@ -1694,6 +1694,7 @@ gugdefu'i 4
 fepni 4
 razgu'e 4
 bangepu'o 4
+karl 4
 banru'usu 4
 zy 4
 mi'afra 4
@@ -1952,7 +1953,6 @@ smuci 3
 jirlu'i 3
 klacpe 3
 niutn 3
-karl 3
 bansuve'e 3
 larabrt 3
 skudji 3
@@ -6505,3 +6505,6 @@ xitla 1
 terbilma 1
 clakercrida 1
 brobau 1
+nanma 1
+marks 1
+marxiso 1

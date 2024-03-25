@@ -1,7 +1,7 @@
 on 1428
-Ma 891
-ei 715
-Tom 586
+Ma 893
+ei 716
+Tom 587
 sa 417
 Kas 407
 Ta 330
@@ -11,7 +11,7 @@ ma 214
 seda 202
 oma 185
 see 176
-oli 155
+oli 156
 ja 149
 ta 143
 ole 143
@@ -108,11 +108,11 @@ olla 32
 liiga 32
 räägid 32
 Tema 31
+taha 31
 üle 31
 aega 31
 räägin 31
 keel 31
-taha 30
 Tal 30
 teie 29
 Olen 29
@@ -142,6 +142,7 @@ või 25
 enam 25
 ka 24
 läheb 24
+süüa 24
 Mina 24
 tahad 24
 meeldi 24
@@ -149,7 +150,6 @@ oleks 23
 kodus 23
 juba 23
 tead 23
-süüa 23
 Koer 23
 õppida 23
 läks 22
@@ -225,6 +225,7 @@ kiiresti 16
 Need 16
 viis 16
 väike 16
+elan 16
 kinni 16
 temaga 16
 öelda 16
@@ -242,7 +243,6 @@ kõige 15
 arvad 15
 lähen 15
 enda 15
-elan 15
 õhtul 15
 teeb 15
 üks 15
@@ -307,6 +307,7 @@ inimesed 12
 Pole 12
 Meie 12
 teadnud 12
+külm 12
 Sinu 12
 need 12
 Head 12
@@ -324,7 +325,6 @@ päris 12
 meil 12
 Räägi 12
 üksi 11
-külm 11
 kohe 11
 kirja 11
 Selle 11
@@ -626,6 +626,7 @@ kirjutada 6
 käinud 6
 peavad 6
 saabus 6
+laulu 6
 väljas 6
 annan 6
 Suur 6
@@ -739,7 +740,6 @@ last 5
 võime 5
 anna 5
 tark 5
-laulu 5
 pere 5
 hiljaks 5
 Neil 5
@@ -1205,6 +1205,7 @@ Ah 3
 sattus 3
 käes 3
 teeksin 3
+Vesi 3
 võlgu 3
 endast 3
 kuulaksid 3
@@ -1751,7 +1752,6 @@ valiku 2
 tõeliselt 2
 pühak 2
 pakud 2
-Vesi 2
 kaunis 2
 vaade 2
 voodit 2
@@ -2228,6 +2228,7 @@ araabia 2
 Rääkisin 2
 ladina 2
 raamatutest 2
+Belgias 2
 Taani 2
 Oslo 2
 Norra 2
@@ -5243,7 +5244,6 @@ vietnami 1
 soome 1
 kartsin 1
 vaiksemalt 1
-Belgias 1
 Egiptuses 1
 perest 1
 Jorge 1
@@ -6426,3 +6426,4 @@ Ajalugu 1
 kordub 1
 Muusika 1
 vaarika 1
+laulsin 1

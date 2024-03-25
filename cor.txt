@@ -1,10 +1,10 @@
-yw 1324
-a 591
-an 444
+yw 1325
+a 595
+an 446
 Res 399
 ow 360
 dhymm 316
-My 303
+My 305
 Nyns 296
 Yw 284
 da 265
@@ -43,8 +43,8 @@ dhe 76
 esov 74
 lemmyn 73
 ta 71
+omma 70
 dos 70
-omma 69
 yn 66
 ov 66
 oberi 64
@@ -53,7 +53,7 @@ Hi 63
 kewsel 58
 diberth 57
 dhodho 56
-esa 54
+esa 55
 Prag 54
 Eus 53
 vynnav 53
@@ -170,6 +170,7 @@ nyns 18
 penn 18
 lyther 17
 Teg 17
+y'n 16
 stevel 16
 den 16
 Yma’n 16
@@ -186,7 +187,6 @@ orthiv 16
 leth 16
 Drog 16
 Ki 16
-y'n 15
 voos 15
 lowr 15
 liw 15
@@ -305,6 +305,7 @@ dy 9
 esons 9
 orti 9
 apposyans 9
+pyth 9
 karr 8
 dyskador 8
 unn 8
@@ -368,7 +369,6 @@ tyski 7
 Kewsewgh 7
 euthyk 7
 gorwedha 7
-pyth 7
 ragov 6
 koweth 6
 brenas 6
@@ -396,6 +396,7 @@ leveris 6
 Re 6
 hwilas 6
 Pes 6
+kyttrin 6
 skon 6
 byghan 6
 a’m 6
@@ -453,7 +454,6 @@ gow 5
 Rudh 5
 prenassa 5
 weres 5
-kyttrin 5
 nebes 5
 wertha 5
 Helen 5
@@ -551,6 +551,7 @@ Diwedhes 4
 aswon 4
 Rych 4
 Usi 4
+hwarva 4
 wre’ta 4
 brederis 4
 dehen 4
@@ -620,6 +621,7 @@ hwedhel 3
 “Mynnav” 3
 stevel-ma 3
 anwosi 3
+glewas 3
 Tybyans 3
 Bythkweth 3
 y’s 3
@@ -642,7 +644,6 @@ Deg 3
 splanna 3
 Nancy 3
 Jane 3
-hwarva 3
 lent 3
 Edhom 3
 karer 3
@@ -656,6 +657,7 @@ Kemmer 3
 Bydh 3
 kosel 3
 bon 3
+nyhewer 3
 mergh 3
 dillas 3
 pyskessa 3
@@ -781,6 +783,7 @@ torras 2
 y’m 2
 Nihon 2
 vyghan 2
+Pubonan 2
 kegina 2
 win 2
 bleydh 2
@@ -858,7 +861,6 @@ Loos 2
 wrav 2
 komolen 2
 gwyns 2
-nyhewer 2
 gwenton 2
 fylm 2
 Kembrek 2
@@ -1101,7 +1103,6 @@ marthys 1
 sav 1
 olas 1
 pan 1
-glewas 1
 yeyn-nowodhow 1
 erviras 1
 mamm-wynn 1
@@ -1161,7 +1162,6 @@ allses 1
 allsewgh 1
 dhiwedhes 1
 byw 1
-Pubonan 1
 gonvedhes 1
 honvedhes 1
 dhewlagas 1
@@ -1636,3 +1636,5 @@ dybyans 1
 hwerthin 1
 leverons 1
 wrussons 1
+neb 1
+leversys 1

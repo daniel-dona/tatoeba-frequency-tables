@@ -1,9 +1,9 @@
 að 3835
-er 3150
+er 3152
 Ég 2321
-í 2075
-á 1683
-ekki 1653
+í 2074
+á 1682
+ekki 1654
 ég 876
 Það 867
 Hann 797
@@ -19,10 +19,10 @@ sem 609
 þú 582
 með 522
 Við 519
-fyrir 508
+fyrir 509
 um 485
+af 453
 eru 452
-af 452
 mér 430
 en 430
 þér 417
@@ -32,7 +32,7 @@ fara 294
 þetta 278
 því 258
 þig 252
-Tom 251
+Tom 252
 honum 249
 vera 248
 Hvað 241
@@ -47,7 +47,7 @@ verður 183
 út 181
 ert 181
 hún 180
-minn 178
+minn 179
 okkar 173
 John 171
 hef 164
@@ -55,7 +55,7 @@ hverju 164
 mun 161
 hafa 160
 hvað 157
-frá 149
+frá 148
 þegar 146
 sér 142
 aftur 142
@@ -71,8 +71,8 @@ of 126
 dag 125
 eða 123
 svona 122
-Er 121
 gær 120
+Er 120
 mikið 118
 segja 118
 Þau 115
@@ -110,12 +110,12 @@ henni 86
 alltaf 86
 yfir 85
 læra 85
-Mig 85
 koma 84
 taka 84
+Mig 84
 ef 83
+Hvar 83
 erum 83
-Hvar 82
 kemur 82
 langar 82
 þið 81
@@ -187,9 +187,9 @@ fólk 51
 góður 51
 búinn 51
 skal 51
+Viltu 51
 líkar 50
 saman 50
-Viltu 50
 gerði 49
 minni 49
 Þeir 49
@@ -228,6 +228,7 @@ sagt 41
 höfum 41
 einu 41
 hjálpa 41
+drekka 41
 vita 41
 hverjum 40
 gerir 40
@@ -235,13 +236,12 @@ gamall 40
 komið 40
 hefðir 40
 Hvaða 40
+gott 40
 gæti 40
-drekka 40
 halda 40
 fékk 39
 sína 39
 neitt 39
-gott 39
 býr 39
 ætla 39
 keypti 39
@@ -401,6 +401,7 @@ hús 25
 burtu 25
 ári 25
 vona 25
+tvo 25
 lífi 25
 hræddur 25
 auðvelt 25
@@ -418,7 +419,6 @@ góða 24
 öðru 24
 munt 24
 finna 24
-tvo 24
 hrædd 24
 herbergið 24
 þær 24
@@ -494,6 +494,7 @@ eruð 21
 leita 20
 vinnu 20
 sinnum 20
+En 20
 lét 20
 vin 20
 kaffi 20
@@ -518,7 +519,6 @@ lestinni 20
 Áttu 20
 bróðir 20
 leit 19
-En 19
 herberginu 19
 aðra 19
 gegnum 19
@@ -861,6 +861,7 @@ Flýttu 12
 Hringdu 12
 sí 12
 æ 12
+öðrum 11
 verði 11
 Láttu 11
 nemendur 11
@@ -923,7 +924,6 @@ borg 11
 tækifæri 11
 Haltu 11
 opnar 11
-öðrum 10
 Boston 10
 heimavinnuna 10
 sunnudaginn 10
@@ -941,7 +941,6 @@ tekið 10
 fljúga 10
 stöðina 10
 harðar 10
-mann 10
 síðasta 10
 labba 10
 útskýra 10
@@ -1031,6 +1030,7 @@ stelpur 9
 Læknirinn 9
 sýna 9
 braut 9
+mann 9
 svaf 9
 orðabók 9
 Engin 9
@@ -1061,6 +1061,7 @@ ketti 9
 síðar 9
 bíll 9
 spurningar 9
+bjó 9
 sú 9
 borgaði 9
 trúir 9
@@ -1204,7 +1205,6 @@ löngu 8
 hattinn 8
 árs 8
 fyrra 8
-bjó 8
 London 8
 lag 8
 notað 8
@@ -1423,6 +1423,7 @@ jólagjöf 7
 komum 7
 tungumáli 7
 draum 7
+hvorn 7
 Liðið 7
 farin 7
 burt 7
@@ -1475,6 +1476,7 @@ kenningu 6
 jörðina 6
 náum 6
 leitaði 6
+víni 6
 Einhver 6
 lest 6
 lauk 6
@@ -1559,7 +1561,6 @@ Hvern 6
 súkkulaði 6
 gleður 6
 vinstri 6
-Með 6
 hita 6
 komir 6
 þekktu 6
@@ -1629,7 +1630,6 @@ værir 6
 sló 6
 pabba 6
 annari 6
-hvorn 6
 furða 6
 kvæntist 6
 Reikningurinn 6
@@ -1710,7 +1710,6 @@ flýti 5
 fylla 5
 símanúmerið 5
 héðan 5
-víni 5
 fræg 5
 bak 5
 svæði 5
@@ -1842,6 +1841,7 @@ fuglar 5
 hjónaband 5
 biðjast 5
 veginn 5
+Með 5
 Jordan 5
 jakkafötum 5
 Berðu 5
@@ -2142,7 +2142,6 @@ hvergi 4
 byggt 4
 nýtur 4
 fréttunum 4
-bakinu 4
 nýrri 4
 Parísar 4
 kílómetra 4
@@ -2355,7 +2354,6 @@ Sjúklingurinn 4
 Sjúklingnum 4
 þakklæti 4
 varpaði 4
-hundunum 4
 þokunnar 4
 tilheyra 4
 rúta 4
@@ -2683,6 +2681,7 @@ setur 3
 muninn 3
 röngu 3
 sársauka 3
+bakinu 3
 Kólumbus 3
 lengra 3
 hlutum 3
@@ -3076,6 +3075,7 @@ vissulega 3
 skiljanlegan 3
 skiljanlega 3
 blóðþyrstum 3
+hundunum 3
 hvíta 3
 hótel 3
 Flugvöllurinn 3
@@ -3106,6 +3106,7 @@ Amma 3
 nefndur 3
 stjórnmálum 3
 hlut 3
+kaffið 3
 líki 3
 skömm 3
 biðum 3
@@ -3731,6 +3732,7 @@ hvarf 2
 megin 2
 reykinga 2
 framann 2
+kynnti 2
 ömmu 2
 Fannstu 2
 fullum 2
@@ -3760,7 +3762,6 @@ sæki 2
 farangurinn 2
 klukka 2
 biluð 2
-Fagurt 2
 andlit 2
 hjartað 2
 ljótt 2
@@ -4443,7 +4444,6 @@ mjór 2
 lykil 2
 stoppa 2
 Gleðilegt 2
-kaffið 2
 skuli 2
 eitur 2
 fullan 2
@@ -4519,6 +4519,7 @@ aðstæðum 2
 Hagsmunir 2
 stangast 2
 svefni 2
+smár 2
 endast 2
 Samstillum 2
 úrin 2
@@ -4699,6 +4700,7 @@ Gaffalnotendur 2
 Finndu 2
 dagblað 2
 starfinu 2
+glas 2
 þyngjast 2
 almenningsgarðinn 2
 lágur 2
@@ -5096,6 +5098,7 @@ snúa 2
 uppsker 2
 tönn 2
 Fjarlægðin 2
+mennina 2
 syndlaus 2
 kasti 2
 þyrna 2
@@ -5139,7 +5142,6 @@ Djöfullin 2
 byssunum 2
 eyjur 2
 teið 2
-Jólakötturinn 2
 særður 2
 Hjónaband 2
 karls 2
@@ -6239,7 +6241,6 @@ lesturs 1
 forgang 1
 Lagið 1
 Kunningi 1
-kynnti 1
 nánum 1
 Þolinmæðin 1
 þrautir 1
@@ -6331,6 +6332,7 @@ mötuneytinu 1
 ofgnótt 1
 laxi 1
 myndarlegan 1
+Fagurt 1
 verðlaust 1
 ljóðið 1
 framleiðsla 1
@@ -8351,7 +8353,6 @@ höfuðstöðvar 1
 skólahúsið 1
 hræsin 1
 alheimar 1
-smár 1
 samtals 1
 Sigur 1
 Matarbirgðirnar 1
@@ -9116,7 +9117,6 @@ persónuleiki 1
 drukknandi 1
 læknisfræði 1
 bardagamaður 1
-glas 1
 yfirlýsingu 1
 prentverksmiðjunni 1
 Umfram 1

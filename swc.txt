@@ -1,9 +1,9 @@
-ya 11345
+ya 11344
 na 7135
 kwa 3135
 wa 3050
 ni 2733
-kama 2137
+kama 2136
 ku 1715
 mu 1412
 sana 1411
@@ -32,8 +32,8 @@ moja 541
 katika 537
 alikuwa 513
 hii 505
-zaidi 478
 mingi 478
+zaidi 477
 ndani 465
 watu 463
 Kwa 443
@@ -72,10 +72,10 @@ moya 297
 wangu 295
 kwanza 293
 nyumba 291
-ina 290
+ina 289
 kubwa 287
-kuliko 285
 / 285
+kuliko 284
 mwisho 281
 yetu 276
 hapa 267
@@ -92,7 +92,7 @@ kuhusu 233
 hiyo 231
 wako 231
 gari 227
-kawaida 224
+kawaida 223
 hali 214
 Niko 214
 ali 214
@@ -500,7 +500,6 @@ Mtu 51
 Najua 51
 raha 51
 aye 51
-kinywa 51
 chombo 51
 kupendeza 51
 anapenda 50
@@ -513,6 +512,7 @@ farasi 50
 fujo 50
 Kuko 50
 wali 50
+kinywa 50
 ishara 50
 Tuko 50
 Sitaki 49
@@ -1395,7 +1395,6 @@ sikukuwa 18
 Hatuwezi 18
 kipwa 18
 uchumi 18
-ngono 18
 kyenyi 18
 angali 18
 sikukuu 18
@@ -1552,6 +1551,7 @@ anga 16
 iki 16
 Usijali 16
 Anna 16
+ngono 16
 ca 16
 ilibidi 16
 utaona 16
@@ -2500,7 +2500,6 @@ Anaishi 9
 upumbavu 9
 Anapenda 9
 jasho 9
-furahisha 9
 30 9
 mukali 9
 binamu 9
@@ -2769,6 +2768,7 @@ mutihani 8
 tuzo 8
 Alikuya 8
 anaona 8
+furahisha 8
 soksi 8
 geuza 8
 Anajua 8
@@ -5628,7 +5628,6 @@ Sean 4
 kukupigia 4
 Kunywa 4
 zabibu 4
-Binafsi 4
 Unaitwa 4
 Ungekuwa 4
 Finlande 4
@@ -7170,7 +7169,6 @@ waaminifu 3
 musaliti 3
 sikuwa 3
 alimuona 3
-ninaona 3
 kulaumu 3
 semewa 3
 Makao 3
@@ -7439,6 +7437,7 @@ Utaifanya 3
 fukuziwa 3
 Pyrrhus 3
 Nilibakia 3
+Binafsi 3
 muvumilivu 3
 mabwana 3
 sadaka 3
@@ -9998,3 +9997,4 @@ kuhusa 2
 mtafsiri 2
 Wanaishi 2
 habina 2
+anakwambia: 2
