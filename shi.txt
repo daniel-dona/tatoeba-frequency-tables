@@ -1,4 +1,4 @@
-ad 3128
+ad 3129
 Ṭum 1899
 d 1668
 n 1547
@@ -7,9 +7,9 @@ Ar 1369
 Ur 1339
 Is 1279
 s 1234
-ur 1066
+ur 1067
 ar 942
-t 755
+t 756
 is 717
 tt 690
 rad 674
@@ -21,15 +21,15 @@ Mari 523
 iyi 457
 Rad 455
 nns 407
-f 378
+f 379
 iga 372
-nnk 349
-yat 343
+nnk 351
+yat 345
 inn 342
 a 297
 inu 295
 akkʷ 295
-k 282
+k 284
 as 263
 sul 261
 bahra 238
@@ -49,7 +49,7 @@ iy 184
 ɣinn 180
 yadlli 177
 Ma 175
-Riɣ 169
+Riɣ 170
 nit 169
 Illa 165
 aɣ 156
@@ -163,13 +163,13 @@ ammas 53
 Yanni 53
 zikk 52
 ẓḍaṛɣ 51
+aya 51
 Uckiɣ 50
 sin 50
 Mnck 50
 Nga 50
 waḍu 49
 iẓḍaṛ 49
-aya 49
 dark 49
 issn 49
 aylli 49
@@ -252,6 +252,7 @@ Yak 36
 aman 35
 ula 35
 tɣawsa 35
+imnsi 34
 wussan 34
 adlis 34
 yixf 34
@@ -267,7 +268,6 @@ isawl 33
 tugt 33
 Manta 33
 tawst 32
-imnsi 32
 udɣar 32
 kyyi 32
 Iskr 32
@@ -319,6 +319,7 @@ waydi 27
 yaḍni 27
 amukris 27
 Af 27
+imddukkal 26
 yuckan 26
 unẓaṛ 26
 tutlayt 26
@@ -352,7 +353,6 @@ aqqraɣ 25
 kʷn 25
 Sllaɣ 25
 Sawl 24
-imddukkal 24
 tsawalt 24
 za 24
 gik 24
@@ -566,6 +566,7 @@ gnɣ 16
 Ṛẓm 16
 Darnɣ 16
 Azul 15
+Cciɣ 15
 tsɣit 15
 Trit 15
 Ḥtta 15
@@ -648,7 +649,6 @@ iran 14
 Maya 14
 tack 14
 nnan 13
-Cciɣ 13
 izri 13
 tkkal 13
 tskar 13
@@ -1014,6 +1014,7 @@ tusnakt 9
 Ssnn 9
 usrag 9
 izznza 9
+tsragt 9
 zglɣ 9
 yudan 9
 sɣɣ 9
@@ -1128,7 +1129,6 @@ swuriyɣ 8
 tsngama 8
 Fls 8
 fllatun 8
-tsragt 8
 afgan 8
 tgamt 8
 nmmẓṛa 8
@@ -1550,6 +1550,7 @@ uzgal 6
 uylli 6
 Tbbi 6
 sɣ 6
+Fln 6
 yiḍṣ 5
 Jim 5
 arwass 5
@@ -1840,7 +1841,6 @@ Nxxl 5
 Kkant 5
 Ḥsu 5
 Ssnti 5
-Fln 5
 Ḥaqqan 4
 Lmd 4
 ssudmɣ 4
@@ -1899,6 +1899,7 @@ mmutn 4
 imzgan 4
 ttlliɣ 4
 irɣan 4
+ssaɛt 4
 ibidd 4
 tarzzift 4
 tiflut 4
@@ -2389,7 +2390,6 @@ twal 3
 tazggʷaɣt 3
 taɣart 3
 nsbidd 3
-ssaɛt 3
 Ssurf-i 3
 tsbuxrurt 3
 iẓra 3
@@ -3998,6 +3998,7 @@ Ittugdal 2
 tgzmin 2
 Innuṛẓm 2
 xaltis 2
+"Tanmmirt 2
 nnk" 2
 Iniyamt 2
 waɣẓn 2
@@ -4706,6 +4707,7 @@ tẓṛam 2
 tzwiri 2
 umstan 2
 wudayn 2
+"Ad 2
 uẓaṛuṛ 2
 tarmm 2
 tddrm 2
@@ -8208,7 +8210,6 @@ dran 1
 umessiwl 1
 iswuriyn 1
 tettddu 1
-"Tanmmirt 1
 umukris" 1
 tẓḍar 1
 tbrtqqizt 1
@@ -9997,4 +9998,3 @@ tettajj 1
 Akmay 1
 yislm 1
 Ukṛanya 1
-tktit 1

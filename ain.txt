@@ -1,20 +1,20 @@
-ne 62
-an 49
+ne 65
+an 51
 wa 45
-ruwe 35
-ta 31
-ka 25
+ruwe 37
+ta 33
+ka 28
+somo 21
 ya 21
-somo 20
 pirka 20
+as 20
 tanpe 19
 kusu 19
-as 19
 yan 18
 Tom 17
+tanto 16
 apto 15
 hunak 14
-tanto 14
 kor 14
 kanpisos 14
 k-arpa 13
@@ -22,16 +22,16 @@ siri 13
 tane 12
 iteki 12
 tan 11
+na 11
 rusuy 11
+aynu 11
 hemanta 10
 sekor 10
-na 10
 nisatta 10
 un 10
-aynu 10
+itak 10
 rera 10
 toanpe 9
-itak 9
 hawe 9
 toan 8
 k-an 8
@@ -43,6 +43,7 @@ seta 8
 humi 8
 nonno 7
 Satporo 7
+easkay 7
 oka 7
 ku-kor 7
 ku-rehe 6
@@ -50,7 +51,6 @@ e-arpa 6
 arka 6
 kam 6
 eaykap 6
-easkay 6
 ponno 6
 en-tere 6
 yakka 6
@@ -59,6 +59,7 @@ ruy 6
 poronno 6
 mean 6
 ek 6
+anakne 6
 sonno 6
 eytasa 6
 korka 5
@@ -75,9 +76,9 @@ tanpaku 5
 k-eramasu 5
 e-eramasu 5
 kur 5
+isam 5
 un" 5
 akkari 5
-anakne 5
 e-an 4
 kus 4
 k-e 4
@@ -88,11 +89,11 @@ pakno 4
 wa" 4
 Mari 4
 sirpirka 4
-isam 4
 sirsesek 4
 ki 4
 cape 4
 a 4
+pe 4
 ruwe" 4
 huci 4
 takne 4
@@ -111,6 +112,7 @@ ku 3
 te 3
 teyne 3
 a-nu 3
+upas 3
 nep 3
 inne 3
 teta 3
@@ -121,10 +123,10 @@ cikoykip 3
 tunasno 3
 nisa 3
 kunneywa 3
-pe 3
 hetak 3
 "toan 3
 pon 3
+pa 3
 toanta 3
 kaspa 3
 e-hok 3
@@ -147,12 +149,12 @@ ku-mipi 2
 nukar 2
 icasnure 2
 ku-kowen 2
-upas 2
 nankor 2
 mik 2
 noyne 2
 kuni 2
 ku-ramu 2
+mata 2
 maciya 2
 iyotta 2
 moyo 2
@@ -186,7 +188,6 @@ ne" 2
 mosma 2
 rehe 2
 mak 2
-pa 2
 etoko 2
 sinot 2
 e-kopisi 2
@@ -212,6 +213,7 @@ ku-moyre 2
 ku-hosipi 2
 okamkir 2
 en-kik 2
+hike 2
 チセ　メアン。 1
 ホㇱカヌマン　レラ　アㇱ。 1
 ヌマン　ウパㇱ　アㇱ。 1
@@ -299,7 +301,6 @@ aep 1
 kunneywano 1
 onuman 1
 ku-monrayke 1
-mata 1
 ene 1
 Tokiyo 1
 "Yaunmosir 1
@@ -460,4 +461,19 @@ nepki 1
 yaymonniska 1
 okake 1
 kanna 1
-hike 1
+kim 1
+wenkamuy 1
+a=nukar 1
+e=hosipi 1
+a=kor 1
+mataki 1
+a=rayke 1
+a=utari 1
+a=epakasnu 1
+hine 1
+tu 1
+a=akihi 1
+cepkoyki 1
+ni 1
+sempir 1
+sinuynak'=an 1

@@ -31,7 +31,7 @@ ma 244
 má 238
 Mária 235
 z 232
-Mám 223
+Mám 224
 ťa 219
 Kde 215
 ti 215
@@ -85,8 +85,8 @@ bude 92
 vo 92
 ešte 91
 bola 90
-Na 88
 so 87
+Na 87
 francúzsky 87
 Viem 86
 tri 85
@@ -252,12 +252,12 @@ Vieš 40
 mnou 40
 kniha 39
 svojej 39
+Moje 39
 ľudí 39
 naozaj 39
 nebol 39
 pomoc 38
 kým 38
-Moje 38
 Dúfam 38
 trochu 38
 kúpil 38
@@ -899,6 +899,7 @@ Od 12
 nehovoril 12
 myš 12
 otázok 12
+Nemáš 12
 prekvapenie 12
 lístok 12
 obľúbená 12
@@ -987,7 +988,6 @@ pravidlá 11
 Väčšina 11
 Sľubujem 11
 piatok 11
-Nemáš 11
 Poznáte 11
 Budeš 11
 vedia 11
@@ -2174,6 +2174,7 @@ Vyhral 5
 Vyhrali 5
 obloha 5
 Znova 5
+čisté 5
 Všetkým 5
 broskyňu 5
 prázdne 5
@@ -3909,6 +3910,7 @@ jednoduchými 3
 vetami 3
 videnia 3
 sviatok 3
+svedomie 3
 japonské 2
 Bojím 2
 dôstojnosti 2
@@ -5014,7 +5016,6 @@ rečniť 2
 tváre 2
 šteklivý 2
 spojiť 2
-čisté 2
 milostné 2
 Napriek 2
 zablahoželal 2
@@ -8747,8 +8748,6 @@ predaj 1
 kúpeľni 1
 presný 1
 Krvácam 1
-chodbě 1
-telefon 1
 pracujete 1
 Banda 1
 zlodejská 1
@@ -9998,3 +9997,4 @@ Zaviedol 1
 podpätku 1
 vysokým 1
 podpätkom 1
+Klamár 1

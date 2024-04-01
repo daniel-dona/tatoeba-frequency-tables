@@ -1,5 +1,5 @@
-Aku 142
-ora 125
+Aku 144
+ora 126
 Tom 110
 sing 66
 iku 46
@@ -17,8 +17,8 @@ basa 25
 wis 24
 lunga 24
 kudu 23
+seneng 23
 isa 22
-seneng 22
 menyang 21
 Iki 21
 dhéwé 21
@@ -58,11 +58,11 @@ buku 11
 tau 11
 punika 10
 wonten 10
+luwih 10
 ngerti 10
 ya 10
 Kowe 10
 ngomong 9
-luwih 9
 Panjenengan 9
 kula 9
 ngono 9
@@ -71,6 +71,7 @@ teka 9
 akèh 9
 Apa 9
 sapa 9
+gelem 9
 kowe 8
 boten 8
 tak 8
@@ -79,7 +80,6 @@ ning 8
 turu 8
 kutha 8
 awak 8
-gelem 8
 dadi 8
 apik 7
 isih 7
@@ -116,6 +116,7 @@ waé 5
 saiki 5
 Punika 5
 nyambut 5
+mlaku 5
 tahu 5
 dhèké 5
 pira 5
@@ -162,7 +163,6 @@ bener 4
 rabi 4
 kapan 4
 dhuwur 4
-mlaku 4
 mung 4
 maca 4
 Dhèké 4
@@ -234,6 +234,7 @@ taman 3
 madhang 3
 ngapusi 3
 ketemu 3
+budhal 3
 mati 3
 kaping 3
 banget 3
@@ -312,6 +313,7 @@ penting 2
 dikarepaké 2
 kandani 2
 awakdhéwé 2
+sekolah 2
 pikir 2
 doyan 2
 Akèh 2
@@ -394,7 +396,6 @@ layang 2
 énggal 2
 Saiki 2
 temenan 2
-budhal 2
 dhuwit 2
 Kedutaan 2
 Landa 2
@@ -418,6 +419,7 @@ ping 2
 asuné 2
 resminé 2
 kancamu 2
+Piyé 2
 kulina 2
 Takona 2
 bapakku 2
@@ -432,6 +434,7 @@ wajikan 2
 miring 2
 Honggari 2
 kon 2
+Ruslan 2
 tutug 2
 matané 2
 péngin 2
@@ -666,7 +669,6 @@ arani 1
 lungané 1
 restoran 1
 mengko 1
-sekolah 1
 Endang 1
 tekaa 1
 Tulung 1
@@ -1182,7 +1184,6 @@ Jeneng 1
 sakelas 1
 Kudu 1
 dakkancani 1
-Piyé 1
 sikilmu 1
 Jané 1
 ésuk 1
@@ -1309,7 +1310,6 @@ dhèk-é 1
 nambahna 1
 3333 1
 ukara 1
-Ruslan 1
 korpus 1
 Tatoéba 1
 bukuné 1
@@ -1798,3 +1798,12 @@ dakbèl 1
 Manuk 1
 mabur 1
 ꦩꦤꦸꦏ꧀ꦲꦶꦏꦶꦧꦶꦱꦩꦧꦸꦂ꧉ 1
+ꦲꦏꦸꦲꦺꦴꦫꦒꦼꦊꦩ꧀ꦧꦸꦝꦭ꧀ꦱꦼꦏꦺꦴꦭꦃ꧉ 1
+carané 1
+masang 1
+kibod 1
+ꦥꦶꦪꦺꦕꦫꦤꦺꦩꦱꦁꦏꦶꦧꦺꦴꦢ꧀ꦫꦸꦱ꧀ꦭꦤ꧀ 1
+timbang 1
+nyetir 1
+montor 1
+ꦲꦏꦸꦭꦸꦮꦶꦃꦱꦼꦤꦼꦁꦩ꧀ꦭꦏꦸꦠꦶꦩ꧀ꦧꦁꦚꦼꦠꦶꦂꦩꦺꦴꦤ꧀ꦠꦺꦴꦂ꧉ 1
