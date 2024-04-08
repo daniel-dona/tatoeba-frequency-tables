@@ -1,4 +1,4 @@
-is 381
+is 383
 Ich 326
 Tom 211
 en 203
@@ -6,8 +6,8 @@ hod 166
 net 152
 hon 142
 die 128
+das 124
 de 123
-das 122
 De 113
 sin 101
 Die 99
@@ -22,8 +22,8 @@ wees 55
 un 53
 Du 53
 es 52
+sein 52
 Gott 51
-sein 50
 meer 49
 Es 49
 Was 48
@@ -273,6 +273,7 @@ Eppel 6
 aankomm 6
 seid 6
 gleich 6
+Wem 6
 iwer 6
 Zeen 6
 Advogaat 6
@@ -423,7 +424,6 @@ Kennd-der 4
 beise 4
 bis 4
 Sunn 4
-Wem 4
 abhaue 4
 Puliss 4
 abrasseerd 4
@@ -447,6 +447,7 @@ gelachd 4
 wast-du 4
 lenger 4
 drin 4
+Lappis 4
 sicher 4
 Jetz 4
 Hunger 4
@@ -581,7 +582,6 @@ kusse 3
 kannst 3
 Kittel 3
 Berrich 3
-Lappis 3
 griener 3
 ranschegelleb 3
 Wees 3
@@ -612,6 +612,7 @@ Eltre 3
 heis 3
 dust-du 3
 spield 3
+Bleistift 3
 hade 3
 ausgesihn 3
 Heerst-du 3
@@ -854,7 +855,6 @@ Boddem 2
 Eer 2
 wie-ich 2
 Schreib 2
-Bleistift 2
 Schreibd 2
 Polizei 2
 Heerd-der 2

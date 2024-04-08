@@ -1,4 +1,4 @@
-je 1704
+je 1706
 se 618
 u 557
 sam 462
@@ -6,7 +6,7 @@ da 414
 li 393
 na 325
 ne 282
-Tom 275
+Tom 276
 i 237
 su 219
 mi 209
@@ -22,7 +22,7 @@ To 128
 ti 119
 te 118
 me 109
-smo 107
+smo 108
 s 104
 će 99
 Ona 95
@@ -61,13 +61,13 @@ kao 46
 svoj 46
 bila 46
 Kako 45
+Ovo 44
 on 44
 Koliko 44
 nešto 44
 uvijek 43
 jako 43
 samo 43
-Ovo 42
 dan 42
 svoje 42
 Nisam 42
@@ -167,6 +167,7 @@ Mi 21
 kući 21
 dijete 21
 Uvijek 21
+voli 21
 sada 21
 jednu 21
 ćemo 21
@@ -178,7 +179,6 @@ Koji 20
 svojim 20
 tome 20
 jer 20
-voli 20
 vidio 20
 Ako 20
 Ovaj 20
@@ -477,6 +477,7 @@ prozor 8
 bolestan 8
 poput 8
 ljeta 8
+glazbu 8
 pričati 8
 Dao 8
 Neka 8
@@ -541,7 +542,6 @@ tobom 7
 dolara 7
 Zato 7
 posjetiti 7
-glazbu 7
 igra 7
 pa 7
 mača 7
@@ -610,6 +610,7 @@ Layla 7
 Bok 6
 Zovem 6
 njegovo 6
+Dobar 6
 naš 6
 Jesu 6
 Oprosti 6
@@ -683,6 +684,7 @@ Mnogi 6
 cvijeće 6
 star 6
 van 6
+voda 6
 njom 6
 zub 6
 Voliš 6
@@ -726,7 +728,6 @@ znamo 6
 Sami 6
 Fadil 6
 zoveš 5
-Dobar 5
 A 5
 vi 5
 jest 5
@@ -826,7 +827,6 @@ osoba 5
 Prestani 5
 novog 5
 jezike 5
-voda 5
 zašto 5
 Sretan 5
 pogled 5
@@ -1009,6 +1009,7 @@ razlikuje 4
 upravo 4
 Možemo 4
 hladna 4
+tek 4
 Nakon 4
 Boga 4
 isti 4
@@ -1360,7 +1361,6 @@ igrajući 3
 jednako 3
 Ići 3
 svemir 3
-tek 3
 boli 3
 piva 3
 neprijatelja 3
@@ -1527,6 +1527,7 @@ Pokušao 3
 prijateljima 3
 jesu 3
 našem 3
+jabuka 3
 tablete 3
 Juha 3
 svojom 3
@@ -1743,6 +1744,7 @@ san 2
 50 2
 biće 2
 američku 2
+zgradu 2
 Radio 2
 danom 2
 pokuša 2
@@ -2258,7 +2260,6 @@ Probudi 2
 jug 2
 uraditi 2
 kakve 2
-jabuka 2
 budi 2
 budem 2
 glupo 2
@@ -3006,7 +3007,6 @@ dramu 1
 Vatra 1
 proširila 1
 susjednu 1
-zgradu 1
 vatrogasci 1
 pristigli 1
 otpustio 1
@@ -8273,3 +8273,5 @@ zauvijek 1
 ljut 1
 baka 1
 postala 1
+Uništili 1
+oštećenu 1

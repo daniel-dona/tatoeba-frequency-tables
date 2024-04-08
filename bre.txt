@@ -5,7 +5,7 @@ e 960
 da 753
 bara 698
 eo 691
-ket 608
+ket 610
 an 570
 eus 490
 zo 450
@@ -30,9 +30,9 @@ bet 186
 evit 184
 Ur 184
 Ne 180
-un 173
+un 174
 Bara 173
-Ma 158
+Ma 160
 oa 157
 An 156
 war 152
@@ -151,13 +151,13 @@ Emaon 40
 Te 40
 int-hi 40
 c'hi 39
+n'eo 39
 e-barzh 39
 anezhi 39
 ac'hanon 39
 ganañ 39
 Plijout 38
 zebr 38
-n'eo 37
 oar 37
 bihan 37
 mar 36
@@ -2427,6 +2427,7 @@ Hopala 2
 Goût 2
 farsal 2
 'ran 2
+druez 2
 Kontañ 2
 Farsal 2
 Edo 2
@@ -4570,7 +4571,6 @@ digoust 1
 Diskennomp 1
 Skrij' 1
 Bourrapl 1
-druez 1
 Tañ 1
 pir 1
 Pennad 1
@@ -6455,3 +6455,4 @@ lez-da-vont 1
 yae 1
 bochad 1
 n'emañ 1
+koustiañs 1

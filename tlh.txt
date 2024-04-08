@@ -1,8 +1,8 @@
 'e' 2206
 tam 1900
-ghaH 1318
+ghaH 1319
 'oH 854
-Hol 774
+Hol 775
 Hoch 694
 je 673
 'ej 565
@@ -28,7 +28,7 @@ wej 263
 DaHjaj 258
 pa' 255
 puS 254
-nuqDaq 250
+nuqDaq 251
 not 247
 jIHvaD 241
 cha' 239
@@ -44,7 +44,7 @@ puH 212
 QaQ 209
 SoH 204
 reH 201
-tam'e' 199
+tam'e' 200
 tlhoy 191
 vaj 190
 vISov 188
@@ -82,7 +82,7 @@ Ha'DIbaH 122
 vIneHbe' 121
 tugh 119
 vavwI' 118
-ghaHtaH 117
+ghaHtaH 118
 DIS 115
 rur 115
 De' 114
@@ -135,7 +135,7 @@ qan 79
 paqvam 78
 'oHbe' 78
 HIq 77
-'oHtaH 75
+'oHtaH 76
 qen 75
 tuj 75
 veng 75
@@ -247,13 +247,13 @@ ta' 46
 'aSralya' 46
 wejHa' 46
 mu'mey 45
+Ha' 45
 'ey 45
 meq 45
 mej 45
 ghobe' 44
 chal 44
 jav 44
-Ha' 44
 cha'maH 44
 vIjaH 44
 'eSpanya' 44
@@ -317,6 +317,7 @@ chegh 38
 be'nI'wI' 38
 pIjHa' 38
 jIQuch 38
+ngan 38
 chaHvaD 38
 Dun 38
 ngugh 38
@@ -330,7 +331,6 @@ Hochlogh 37
 vImaS 37
 DaSov'a' 37
 qoH 37
-ngan 37
 jupwI' 37
 ropyaH 37
 raS 36
@@ -419,6 +419,7 @@ mIn 28
 SoSlI' 28
 wIneH 28
 tuQ 28
+Qun'a' 28
 vIqaw 28
 vInID 28
 vItlhutlh 28
@@ -442,7 +443,6 @@ ba'taH 27
 tlhutlh 27
 lo'laH 27
 qech 27
-Qun'a' 27
 je'ta' 27
 qul 27
 ghojwI'pu' 27
@@ -1013,6 +1013,7 @@ chaw'mey 12
 ghung 12
 jIHDaq 12
 Saw 12
+noregh 12
 mungwIj'e' 12
 QISmaS 12
 vIchIl 12
@@ -1088,7 +1089,6 @@ yoD 11
 be'nallI' 11
 bIHegh 11
 nIponngan 11
-noregh 11
 Ha'quj 11
 lutIv 11
 tlhImvam 11
@@ -3803,6 +3803,7 @@ qang 3
 ngaQHa'moH 3
 lImuS 3
 mu'mey'e' 3
+malop 3
 'I'SeghIm 3
 ghItlhlaHbe' 3
 vIloSlI' 3
@@ -5528,6 +5529,7 @@ bojatlhlaH'a' 2
 qIDmeyDaj 2
 yIHon 2
 jotHa' 2
+nururbe' 2
 paj 2
 neHmo' 2
 mIpHa'ghach 2
@@ -5542,7 +5544,6 @@ loDnI'ra' 2
 Sop'a' 2
 ghoSbogh 2
 nI'qu' 2
-malop 2
 lurDechmey 2
 jImevlaHbe' 2
 toj 2
@@ -5711,6 +5712,7 @@ Daqaw 2
 vIvan 2
 Daqvetlh 2
 vInep 2
+retlhDajDaq 2
 rItlhmey 2
 boneHchugh 2
 ngaDHa' 2
@@ -6538,6 +6540,7 @@ vIlIjchu'pu' 2
 SuwISya' 2
 wIDamnIS'a' 2
 lo'nISlu' 2
+paqDaj'e' 2
 rIntaHDI' 2
 «vImuSHa'» 2
 boghpu'be' 2
@@ -6913,6 +6916,7 @@ puqbe'ma''e' 2
 yI'agh 2
 tungyen 2
 nobmey'e' 2
+'eSperanto 2
 'ep 2
 DaHoHpu' 2
 luDanta' 2
@@ -9994,7 +9998,3 @@ runpI'Daq 1
 tebDI' 1
 ghobej 1
 loDpu''e' 1
-mutoDta' 1
-qaqwI''e' 1
-Sopqu' 1
-ghojwI'lI' 1
