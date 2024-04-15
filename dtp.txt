@@ -17,7 +17,7 @@ om 137
 dilo 130
 po 126
 Milo' 113
-o 111
+o 112
 daa 108
 doho 108
 tokou 106
@@ -26,7 +26,7 @@ ilo 99
 tu 95
 boros 94
 Nunu 87
-kopio 83
+kopio 84
 tulun 83
 hilo'd 81
 dot 81
@@ -141,13 +141,13 @@ mangan 16
 tinu 16
 toinsanan 16
 Onuai 16
+oi 16
 milo' 16
 Nung 16
 iri 16
 Yoho 16
 dokoyu 15
 Ih 15
-oi 15
 tasu 15
 Ingaa 15
 tolu 15
@@ -1056,6 +1056,7 @@ Matomatik 2
 osinang 2
 Insan 2
 raja 2
+Waro 2
 Ikoyu 2
 Iyolo 2
 Disai 2
@@ -1817,7 +1818,6 @@ momusorou 1
 Popotigog 1
 Soroiso-iso 1
 mogirati 1
-Waro 1
 Gambar 1
 minangakan 1
 mastad 1
@@ -3673,3 +3673,7 @@ momugonit 1
 koloido' 1
 dokoyu'd 1
 poundorong 1
+sarup 1
+salji 1
+eeti 1
+ikoi 1

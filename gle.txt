@@ -1,6 +1,6 @@
 an 661
 a 629
-Tá 622
+Tá 623
 mé 398
 ag 393
 Is 333
@@ -16,7 +16,7 @@ Ní 179
 agam 170
 Níl 164
 liom 152
-i 129
+i 130
 mo 127
 le 109
 na 104
@@ -46,8 +46,8 @@ ann 55
 Cad 53
 leis 52
 leabhar 51
+siad 51
 Cén 51
-siad 50
 iarraidh 48
 duine 46
 Cá 44
@@ -55,8 +55,8 @@ fhios 44
 as 43
 aon 42
 Cé 42
+ina 42
 duit 41
-ina 41
 ach 40
 gach 38
 in 37
@@ -144,6 +144,7 @@ Mary 15
 léi 15
 bia 15
 ní 15
+gcónaí 15
 Níor 15
 Nach 15
 Caithfidh 15
@@ -155,7 +156,6 @@ páistí 14
 amach 14
 Cheannaigh 14
 áit 14
-gcónaí 14
 nuair 14
 cócaireacht 14
 teacht 14
@@ -329,6 +329,7 @@ Chonaic 6
 ndearna 6
 thuigim 6
 siúl 6
+Londain 6
 dúirt 6
 mall 6
 dhéanfaidh 6
@@ -380,7 +381,6 @@ gá 5
 bheag 5
 éasca 5
 deacair 5
-Londain 5
 nár 5
 Cathain 5
 oíche 5

@@ -1,7 +1,7 @@
 la 1539
 de 1499
 a 1423
-que 1298
+que 1299
 el 1194
 és 1015
 no 828
@@ -15,7 +15,7 @@ El 521
 i 517
 Tom 472
 La 406
-les 394
+les 395
 amb 384
 al 361
 ha 349
@@ -28,7 +28,7 @@ Ell 250
 molt 229
 Ella 202
 meu 199
-vaig 198
+vaig 199
 com 195
 està 185
 fer 177
@@ -57,8 +57,8 @@ casa 113
 temps 112
 aquest 111
 però 106
+dia 101
 he 101
-dia 100
 anar 100
 aquesta 99
 res 99
@@ -90,9 +90,9 @@ teu 81
 He 80
 Hi 80
 Estic 78
+et 77
 tu 77
 ella 76
-et 76
 o 76
 ja 76
 jo 75
@@ -432,6 +432,7 @@ pregunta 18
 riu 18
 quin 18
 ben 18
+l'altre 18
 ací 18
 vacances 18
 Boston 18
@@ -456,7 +457,6 @@ donar 17
 aprendre 17
 varen 17
 feliç 17
-l'altre 17
 Estàs 17
 crec 17
 situació 17
@@ -483,6 +483,7 @@ japonès 16
 blanc 16
 escoltar 16
 Gràcies 16
+flors 16
 peix 16
 fort 16
 perdut 16
@@ -517,7 +518,6 @@ teua 15
 día 15
 ajuda 15
 gats 15
-flors 15
 terra 15
 pitjor 15
 cansat 15
@@ -700,6 +700,7 @@ poble 10
 L'home 10
 Deixa'm 10
 professora 10
+Vas 10
 content 10
 prohibit 10
 l'anglès 10
@@ -734,6 +735,7 @@ car 10
 Als 10
 vuit 10
 hagués 10
+enviar 10
 menja 10
 cansada 10
 estaven 10
@@ -768,7 +770,6 @@ faci 9
 l'examen 9
 Cada 9
 pocs 9
-Vas 9
 Nova 9
 York 9
 Londres 9
@@ -818,7 +819,6 @@ aquestes 9
 cervesa 9
 tipus 9
 dins 9
-enviar 9
 - 9
 veig 9
 visitar 9
@@ -1214,6 +1214,7 @@ animal 6
 roba 6
 ulleres 6
 normal 6
+rebre 6
 creus 6
 parella 6
 este 6
@@ -1403,7 +1404,6 @@ farem 5
 Alemanya 5
 club 5
 duu 5
-rebre 5
 Més 5
 Mira 5
 espera 5
@@ -9693,3 +9693,5 @@ Compraràs 1
 feré 1
 suggerit 1
 ximpleria 1
+Respon-me 1
+Contesta'm 1

@@ -1,4 +1,4 @@
-je 964
+je 969
 Ali 226
 sem 171
 se 168
@@ -54,13 +54,13 @@ Zakaj 27
 Je 26
 Danes 26
 Mary 25
+bila 24
 kot 24
 s 24
 On 24
 vse 24
 Marija 24
 Moje 23
-bila 23
 tvoj 23
 Kdaj 22
 angleško 21
@@ -205,6 +205,7 @@ ujgursko 8
 pomemben 8
 hobi 8
 Rada 7
+pevka 7
 Hočem 7
 Če 7
 ob 7
@@ -234,6 +235,7 @@ vam 6
 zdaj 6
 Všeč 6
 Ena 6
+leta 6
 mizi 6
 šla 6
 rekla 6
@@ -283,7 +285,6 @@ barva 6
 eno 5
 treba 5
 roke 5
-leta 5
 sestra 5
 ljubezen 5
 Oprostite 5
@@ -397,9 +398,11 @@ Dober 4
 Anglež 4
 potni 4
 želim 4
+Maja 4
 boste 4
 vdova 4
 moč 4
+Slovenska 4
 skrbi 4
 nedelja 4
 Otroci 4
@@ -571,7 +574,8 @@ verjamem 3
 držati 3
 Pogosto 3
 mamo 3
-pevka 3
+Keuc 3
+dobra 3
 en 3
 besedo 3
 vaš 3
@@ -581,7 +585,6 @@ Nasvidenje 3
 Zemlja 3
 Svoboda 3
 trenutno 3
-Slovenska 3
 Potrebujem 3
 Svojemu 3
 očetu 3
@@ -744,6 +747,7 @@ zlato 3
 eden 3
 dolgo 3
 mrtva 3
+Jabolko 3
 ponedeljek 3
 laž 3
 belorusko 3
@@ -824,8 +828,6 @@ slabo 2
 Besedilo 2
 vašem 2
 mislim 2
-Maja 2
-dobra 2
 Sally 2
 nemščini 2
 zgodbo 2
@@ -844,6 +846,8 @@ Evropi 2
 Kristus 2
 riba 2
 zate 2
+rojena 2
+1992 2
 Zaprl 2
 vrata 2
 tujini 2
@@ -1243,7 +1247,6 @@ kava 2
 junak 2
 Srečno 2
 Jem 2
-Jabolko 2
 Pijem 2
 Tukaj 2
 tujec 2
@@ -1401,6 +1404,7 @@ osa 2
 Sova 2
 Toplo 2
 obleci 2
+slovenska 2
 Buče 2
 Lepo 2
 potuj 2
@@ -1438,6 +1442,8 @@ oblačno 2
 pelje 2
 Katero 2
 Angliji 2
+Kati 2
+Wolf 2
 gospod 1
 Ogawa 1
 Francoz 1
@@ -1464,7 +1470,6 @@ Daj 1
 dvigalo 1
 avtu 1
 mrtvo 1
-Keuc 1
 Ubiti 1
 ptici 1
 mah 1
@@ -1523,8 +1528,6 @@ neužitna 1
 Jane 1
 prerasla 1
 Kevc 1
-rojena 1
-1992 1
 računaš 1
 name 1
 pisarna 1
@@ -3670,7 +3673,6 @@ kuha 1
 zelenjavna 1
 Ajdova 1
 kaša 1
-slovenska 1
 jed 1
 Dobra 1
 domača 1
@@ -3917,3 +3919,5 @@ Riba 1
 sveža 1
 Zgodovina 1
 ponavlja 1
+madžarska 1
+rumeno 1
