@@ -1,5 +1,5 @@
 Tomas 776
-No 557
+No 558
 das 504
 no 446
 binom 427
@@ -20,12 +20,12 @@ ko 123
 at 123
 Kisi 120
 vemo 109
-Vilob 98
+Vilob 99
 Binob 94
 oli 92
 Nolob 90
+yufön 90
 gudik 89
-yufön 89
 ob 88
 ole 85
 et 85
@@ -69,17 +69,17 @@ Binol 49
 nu 48
 binol 47
 äbinom 47
+dat 47
 kil 46
-dat 46
 Hiel 45
 domo 45
 tel 44
 te 44
 moni 44
+obes 44
 tidel 44
 Tomasa 44
 valik 43
-obes 43
 binön 43
 ofi 42
 binos 41
@@ -210,6 +210,7 @@ fidom 19
 kis 19
 gudikün 19
 Nedob 19
+domoi 19
 fikulik 19
 Ätikob 19
 änolom 19
@@ -227,7 +228,6 @@ famik 18
 vati 18
 timi 18
 Spelob 18
-domoi 18
 lemön 18
 mutom 18
 lü 17
@@ -254,6 +254,7 @@ Mutob 16
 oyufom 16
 hetom 16
 sagom 16
+vilof 16
 Kiüp 16
 I 16
 nen 16
@@ -267,7 +268,6 @@ mot 15
 Älogob 15
 kanof 15
 gudikum 15
-vilof 15
 Givolöd 15
 oms 15
 denu 15
@@ -872,6 +872,7 @@ evedom 4
 nolomöd 4
 ok 4
 obinob 4
+gololöd 4
 egivol 4
 eki 4
 mudi 4
@@ -1137,7 +1138,6 @@ Li-memol 3
 kömolöd 3
 fögetön 3
 pefunom 3
-gololöd 3
 nedoms 3
 elemobs 3
 ovilom 3

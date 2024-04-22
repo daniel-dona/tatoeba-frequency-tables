@@ -1,7 +1,7 @@
-je 1717
+je 1719
 se 623
 u 557
-sam 462
+sam 464
 da 415
 li 393
 na 325
@@ -18,7 +18,7 @@ si 166
 nije 158
 od 150
 On 149
-To 128
+To 129
 ti 119
 te 118
 me 109
@@ -68,11 +68,11 @@ nešto 44
 uvijek 43
 Nisam 43
 jako 43
+Imam 43
 samo 43
 dan 42
 svoje 42
 U 42
-Imam 42
 koji 42
 moj 41
 do 41
@@ -89,11 +89,11 @@ a 37
 ovo 36
 ja 36
 Kada 35
+mu 35
 ju 35
 mnogo 35
 Da 34
 tamo 34
-mu 34
 živi 33
 rekao 33
 moja 32
@@ -182,13 +182,13 @@ svojim 20
 tome 20
 jer 20
 vidio 20
+Znam 20
 Ako 20
 Ovaj 20
 problem 20
 Moram 20
 kupio 19
 Jučer 19
-Znam 19
 došao 19
 god 19
 Nemam 19
@@ -289,12 +289,14 @@ Nitko 13
 imaju 13
 otišao 13
 kod 13
+tvoju 13
 učiti 13
 sviđa 13
 rano 13
 kuća 13
 koje 13
 tebi 13
+Tomu 13
 nisi 13
 znao 13
 nisu 13
@@ -326,7 +328,6 @@ pismo 12
 puta 12
 sat 12
 Upravo 12
-Tomu 12
 njega 12
 ide 12
 hvala 12
@@ -367,6 +368,7 @@ rječnik 10
 neki 10
 drugi 10
 oči 10
+Dao 10
 vole 10
 mjesto 10
 glavni 10
@@ -422,7 +424,6 @@ Evo 9
 njemački 9
 opasnosti 9
 Čovjek 9
-tvoju 9
 baš 9
 kiša 9
 nikad 9
@@ -448,6 +449,7 @@ novi 9
 protiv 9
 kroz 9
 postati 9
+adresu 9
 pravo 9
 između 9
 Izgleda 9
@@ -479,7 +481,6 @@ poput 8
 ljeta 8
 glazbu 8
 pričati 8
-Dao 8
 Neka 8
 veoma 8
 pod 8
@@ -601,6 +602,7 @@ Volio 7
 Trebam 7
 Voda 7
 takvo 7
+Marija 7
 dolazi 7
 im 7
 Nešto 7
@@ -705,7 +707,6 @@ moguće 6
 hrani 6
 dala 6
 ostao 6
-Marija 6
 idemo 6
 hoće 6
 mraka 6
@@ -728,6 +729,7 @@ znamo 6
 Sami 6
 Fadil 6
 zoveš 5
+Pas 5
 A 5
 vi 5
 jest 5
@@ -790,7 +792,6 @@ našeg 5
 trebaš 5
 kći 5
 voliš 5
-adresu 5
 Tvoja 5
 tjednu 5
 djevojčica 5
@@ -892,7 +893,6 @@ plavo 5
 student 4
 Njezin 4
 Njezina 4
-Pas 4
 znanstvenik 4
 devet 4
 brine 4
@@ -1630,6 +1630,7 @@ kraj 3
 nje 3
 želja 3
 kuca 3
+crn 3
 Italije 3
 Grčka 3
 votka 3
@@ -2415,6 +2416,7 @@ sigurnost 2
 vođu 2
 ekipe 2
 Nojevi 2
+lete 2
 Konačno 2
 jači 2
 godinu 2
@@ -2534,7 +2536,6 @@ prvom 2
 Posao 2
 Kamo 2
 poći 2
-crn 2
 jugoistočnom 2
 hrvatskom 2
 Prijestolnica 2
@@ -5247,7 +5248,6 @@ voti 1
 Izabrali 1
 upotrebljava 1
 kuhanju 1
-lete 1
 Ostao 1
 teksta 1
 poznaješ 1
@@ -8281,3 +8281,4 @@ Pauci 1
 poslovica 1
 žuta 1
 posesivan 1
+Ptice 1

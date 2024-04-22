@@ -1,12 +1,12 @@
-ir 1677
+ir 1678
 Es 995
 Toms 608
 ka 490
 un 420
 to 395
 Vai 337
-ar 328
-Viņš 325
+ar 330
+Viņš 326
 tu 294
 bija 293
 Man 281
@@ -19,11 +19,11 @@ man 220
 kā 200
 tas 199
 ļoti 192
+Viņa 187
 ko 187
-Viņa 186
 Tas 171
+Mēs 165
 kas 165
-Mēs 163
 lai 152
 esmu 141
 mani 139
@@ -101,10 +101,10 @@ Kas 44
 laiku 43
 nevar 42
 vajadzētu 42
+esam 41
 mana 41
 zinu 41
 pēc 41
-esam 40
 pārāk 40
 diezgan 40
 Ir 40
@@ -291,6 +291,7 @@ iespējams 15
 nevēlas 15
 patiešām 15
 gribi 15
+Viņas 15
 notiek 15
 Viss 15
 galā 15
@@ -314,7 +315,6 @@ viegli 14
 Jūsu 14
 palīdzību 14
 nemaz 14
-Viņas 14
 atkal 14
 bijis 14
 cukura 14
@@ -583,6 +583,7 @@ jauki 8
 saules 8
 logu 8
 veida 8
+dzīves 8
 gaidīts 8
 atstāja 8
 uzstāja 8
@@ -592,6 +593,7 @@ māte 7
 rakstīt 7
 garš 7
 Viņu 7
+bijām 7
 Tie 7
 ceļu 7
 Bija 7
@@ -684,7 +686,6 @@ mēdza 7
 Tikai 7
 dažādas 7
 agrāk 7
-dzīves 7
 Sapņi 7
 zemi 7
 sapņoju 7
@@ -701,7 +702,6 @@ kurā 6
 atrisināt 6
 problēmu 6
 Protams 6
-bijām 6
 labas 6
 negribēju 6
 drīz 6
@@ -888,6 +888,7 @@ daži 5
 bijuši 5
 Izskatās 5
 iedod 5
+nakts 5
 autobusu 5
 dodos 5
 ieraudzīja 5
@@ -1128,7 +1129,6 @@ asaras 4
 mirkli 4
 noticis 4
 pogu 4
-nakts 4
 gribat 4
 vēlētos 4
 strādāja 4
@@ -1237,6 +1237,7 @@ Lailai 4
 Mennads 4
 absolūti 4
 teicis 4
+nāve 4
 sliktas 4
 Priekš 4
 domāt 4
@@ -1377,6 +1378,7 @@ lāpu 4
 drošību 4
 putns 4
 gadījumam 4
+vidū 4
 Uzskatu 4
 Pūķi 4
 Labvakar 3
@@ -1703,7 +1705,6 @@ Samīmam 3
 teikumus 3
 "Tas 3
 vaļā 3
-nāve 3
 mūžībā 3
 drošības 3
 elektrību 3
@@ -3697,6 +3698,9 @@ pūķa 2
 estrādes 2
 gaisā 2
 dabūju 2
+mute 2
+pildās 2
+siekalām 2
 Džon 1
 Maiks 1
 Nensija 1
@@ -9994,7 +9998,3 @@ uzmanība 1
 kļūmes 1
 Varēja 1
 Sasodīts 1
-klausīt 1
-neiebilsti 1
-justos 1
-vainīgs 1

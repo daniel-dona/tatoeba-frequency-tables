@@ -1,7 +1,7 @@
 i 40
 I 34
+is 34
 Da 33
-is 33
 ma 31
 a 30
 net 27
@@ -36,6 +36,7 @@ in 6
 nu 6
 auf 6
 no 6
+vo 6
 Wos 6
 hom 6
 wia 6
@@ -43,7 +44,6 @@ Mir 6
 mit 6
 host 5
 Ihr 5
-vo 5
 Tog 5
 bin 5
 nia 5
@@ -60,6 +60,7 @@ kemma 4
 hod 4
 au 4
 geht's 4
+de 4
 imma 4
 san 4
 jo 4
@@ -81,7 +82,6 @@ o 3
 Wiaso 3
 kumma 3
 woaß 3
-de 3
 am 3
 zu 3
 braucht 3
@@ -209,6 +209,7 @@ Braan 2
 hoid 2
 ebas 2
 kon 2
+Minga 2
 Um 2
 kimm 2
 G'rad 1
@@ -660,7 +661,6 @@ bring 1
 wardn“ – 1
 vasaut“ 1
 Wo 1
-Minga 1
 D 1
 Oidstod 1
 Rengsburg 1
@@ -794,3 +794,6 @@ hoaßen 1
 Godn" 1
 Ins 1
 Gedi 1
+deierste 1
+Stod 1
+Deitschland 1
