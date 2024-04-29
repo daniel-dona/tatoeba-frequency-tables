@@ -1,11 +1,11 @@
 ad 180280
 n 148543
 d 109905
-ara 89960
+ara 89962
 ay 71474
-i 59117
+i 59118
 deg 56604
-Ur 52123
+Ur 52125
 ur 48002
 Tom 41905
 asegzawal 39616
@@ -21,7 +21,7 @@ seg 14109
 Skura 12930
 akken 12909
 Yanni 12278
-akk 11610
+akk 11612
 acu 11473
 aya 11150
 ma 11143
@@ -1986,6 +1986,7 @@ tadist 161
 timaynutin 161
 aḥercaw 161
 tsektit 161
+laẓ 161
 Ssawleɣ 161
 sya 161
 teɣseḍ 161
@@ -2007,7 +2008,6 @@ yella-d 160
 Tudert 160
 agatu 160
 yemgerraden 160
-laẓ 160
 amikṛumdeswal 160
 teqqlemt 160
 yemma-m 160
@@ -5200,6 +5200,7 @@ tfaked 61
 ifassen 61
 Anef-as 61
 amedya 61
+lluẓeɣ 61
 yerkasen 61
 izegzawen 61
 yettas-d 61
@@ -5265,7 +5266,6 @@ ih 60
 Tawwurt 60
 Igenni 60
 wayis 60
-lluẓeɣ 60
 Nga 60
 usentel 60
 lqern 60

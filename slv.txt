@@ -2,7 +2,7 @@ je 969
 Ali 226
 sem 171
 se 168
-v 157
+v 158
 Tom 127
 so 112
 ne 106
@@ -39,9 +39,9 @@ moja 37
 ki 35
 jezik 35
 Kje 34
+Sem 34
 ima 34
 bil 33
-Sem 33
 dan 32
 z 32
 Ona 31
@@ -1015,6 +1015,7 @@ S 2
 prijatelja 2
 svetovni 2
 obiskat 2
+službi 2
 tvojega 2
 umira 2
 slaven 2
@@ -2150,7 +2151,6 @@ Zna 1
 ljudskih 1
 plesov 1
 željni 1
-službi 1
 obupu 1
 odpoved 1
 Toma 1

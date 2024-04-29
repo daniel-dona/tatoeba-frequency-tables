@@ -1,5 +1,5 @@
 ya 1292
-na 1068
+na 1069
 wa 753
 kwa 695
 ni 620
@@ -24,7 +24,7 @@ kila 101
 kwamba 100
 hii 100
 zaidi 99
-hiyo 92
+hiyo 93
 kufanya 90
 tu 88
 watu 87
@@ -226,6 +226,7 @@ kula 20
 barua 19
 baba 19
 watoto 19
+wawili 19
 Mtu 19
 macho 19
 mbwa 19
@@ -243,7 +244,6 @@ kesho 18
 zangu 18
 Siku 18
 Uingereza 18
-wawili 18
 chake 18
 Una 18
 vita 18
@@ -354,6 +354,7 @@ Ningependa 13
 Jina 13
 kufa 13
 paka 13
+Ndege 13
 hakika 13
 vitabu 13
 wiki 13
@@ -390,7 +391,6 @@ marafiki 12
 Ulaya 12
 Australia 12
 mkate 12
-Ndege 12
 anapenda 12
 ajabu 12
 mashine 12
@@ -3084,6 +3084,7 @@ mikahawa 2
 shinikizo 2
 Badilisha 2
 Tukio 2
+nyani 2
 Vya 2
 sifanyi 2
 Wanasema 2
@@ -8750,7 +8751,6 @@ iliyotiwa 1
 muhuri 1
 liliharibu 1
 ninayoipenda 1
-nyani 1
 aliporusha 1
 nimeamini 1
 yatima 1
@@ -9279,3 +9279,4 @@ wanachukuliwa 1
 Ubelgiji 1
 unatazama 1
 imesaidia 1
+iliendeshwa 1

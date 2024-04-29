@@ -5,7 +5,7 @@ o 1028
 é 769
 non 597
 un 550
-O 543
+O 544
 e 483
 A 444
 unha 432
@@ -30,7 +30,7 @@ súa 182
 está 172
 Os 167
 miña 165
-seu 157
+seu 158
 Ela 150
 son 146
 ten 143
@@ -44,8 +44,8 @@ casa 103
 como 103
 ser 98
 hai 93
+moito 89
 facer 88
-moito 88
 foi 86
 Por 84
 pero 82
@@ -69,10 +69,10 @@ nada 69
 ti 67
 tan 66
 aquí 66
+era 66
 estaba 65
 esta 65
 polo 65
-era 65
 Eu 63
 podo 63
 te 63
@@ -170,6 +170,7 @@ nosa 32
 ano 32
 antes 32
 nunca 32
+nome 31
 agora 31
 muller 31
 can 31
@@ -180,7 +181,6 @@ Onde 31
 De 31
 despois 31
 cousas 30
-nome 30
 facelo 30
 persoas 30
 pra 30
@@ -1180,6 +1180,7 @@ monte 5
 Debería 5
 sufrir 5
 soidade 5
+Síntoo 5
 África 5
 teito 5
 mestra 5
@@ -1476,7 +1477,6 @@ máquina 4
 vivo 4
 vacas 4
 atrás 4
-Síntoo 4
 efecto 4
 levou 4
 chinés 4
@@ -2757,6 +2757,7 @@ Irei 2
 rapazas 2
 asemella 2
 pedirlle 2
+Francisco 2
 pus 2
 conexión 2
 Crías 2
@@ -3236,6 +3237,7 @@ visitei 2
 aula 2
 nevando 2
 Entra 2
+Chove 2
 Cheiras 2
 aliviado 2
 reprimendas 2
@@ -5336,7 +5338,6 @@ chamou 1
 pasteliños 1
 11 1
 chegaremos 1
-Francisco 1
 730 1
 Mercamos 1
 supurou 1
@@ -7178,7 +7179,6 @@ sueco 1
 Entrade 1
 besta 1
 Quéntame 1
-Chove 1
 leo 1
 direto 1
 lata 1
@@ -9441,3 +9441,10 @@ remedios 1
 perdure 1
 esquiladas 1
 lavado: 1
+Estuda 1
+Benvida 1
+Desculpe 1
+Morre 1
+Benvidos 1
+Coidado 1
+Pizarro 1

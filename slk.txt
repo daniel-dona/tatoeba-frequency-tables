@@ -1,4 +1,4 @@
-je 2331
+je 2332
 sa 2185
 som 1908
 Tom 1651
@@ -35,8 +35,8 @@ Mám 224
 Kde 223
 ťa 219
 ti 216
+po 213
 Nie 212
-po 211
 ho 209
 bol 184
 za 179
@@ -208,11 +208,11 @@ Máme 47
 tento 46
 svojho 46
 Povedz 46
+Rád 46
 robiť 46
 Bola 46
 vedieť 45
 ktoré 45
-Rád 45
 kávu 45
 včera 45
 odpoveď 45
@@ -319,6 +319,7 @@ brat 32
 peňazí 32
 muž 31
 Urobil 31
+život 31
 Dobre 31
 hrdý 31
 Práve 31
@@ -328,7 +329,6 @@ desať 30
 niekto 30
 dobrá 30
 sama 30
-život 30
 stôl 30
 tomto 30
 stole 30
@@ -536,6 +536,7 @@ srdce 20
 Poznáš 20
 Vedel 20
 naše 20
+Rada 20
 Veľa 20
 šťastie 20
 nemohol 20
@@ -570,7 +571,6 @@ pršať 19
 matka 19
 priateľov 19
 potom 19
-Rada 19
 ruky 19
 Vy 19
 kvety 19
@@ -621,6 +621,7 @@ počuť 17
 jazyky 17
 pracuje 17
 Zabudol 17
+Voda 17
 veľká 17
 tá 17
 Mohli 17
@@ -659,7 +660,6 @@ dcéra 16
 čase 16
 koláč 16
 dňa 16
-Voda 16
 mama 16
 Bude 16
 Urobila 16
@@ -681,6 +681,7 @@ máme 16
 Počula 16
 Vďaka 16
 Často 16
+básne 16
 Tomova 16
 kyticu 16
 učiť 15
@@ -781,7 +782,6 @@ nechcel 14
 hlad 14
 narodil 14
 zmysel 14
-básne 14
 navštíviť 14
 vedomý 14
 Chcela 14
@@ -2691,6 +2691,7 @@ Zablahoželajme 4
 Zasadil 4
 posadil 4
 Rob 4
+Chodí 4
 horí 4
 lietajú 4
 Píšete 4
@@ -2781,6 +2782,7 @@ všetku 4
 veľkej 4
 hudba 4
 hrali 4
+píšem 4
 Frízština 4
 tráva 4
 utvoril 4
@@ -3522,7 +3524,6 @@ Spí 3
 milovaný 3
 milovaná 3
 Rozumieš 3
-Chodí 3
 Raňajkujem 3
 Čítali 3
 Hľa 3
@@ -5444,7 +5445,6 @@ povstalo 2
 zemetrasenie 2
 oci 2
 esperantsky 2
-píšem 2
 nesmierne 2
 Hlavným 2
 mestom 2
@@ -6260,6 +6260,8 @@ Afrika 2
 Krkavce 2
 Veľryby 2
 Česko 2
+žeravých 2
+uhlíkoch 2
 Penis 1
 mužských 1
 pohlavných 1
@@ -9996,5 +9998,3 @@ niekoľkokrát 1
 poškriabal 1
 tŕnistých 1
 konárikoch 1
-„Nabudúce“ 1
-„si 1
