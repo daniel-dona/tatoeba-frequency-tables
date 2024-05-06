@@ -1,17 +1,17 @@
-da 990
-ez 570
-dut 516
-Ez 407
+da 991
+ez 572
+dut 517
+Ez 408
 bat 406
 du 395
 eta 350
 zuen 283
-egin 273
-naiz 267
+egin 274
+naiz 270
 zen 264
-dago 229
+dago 232
 Tom 229
-nahi 223
+nahi 224
 Tomek 215
 duzu 212
 egiten 202
@@ -19,8 +19,8 @@ dira 168
 behar 166
 izan 165
 hori 147
-Nire 143
-nuen 140
+Nire 144
+nuen 142
 ari 137
 hau 132
 esan 129
@@ -30,7 +30,7 @@ Zer 124
 hitz 118
 zara 108
 baino 108
-zure 101
+zure 102
 joan 99
 asko 91
 ditut 91
@@ -42,8 +42,8 @@ ere 76
 dute 76
 ditu 75
 dugu 74
+nago 73
 nintzen 73
-nago 71
 ikusi 68
 Mary 65
 izango 64
@@ -51,30 +51,30 @@ egon 62
 egingo 62
 Zenbat 62
 zer 61
+Ni 61
 dela 61
 Zure 60
-Ni 60
 edo 60
 gehiago 59
 bizi 59
+Non 57
 izena 57
 Bere 57
 Hau 57
 gustatzen 55
-Non 55
 inoiz 55
 uste 52
+daude 52
 maite 52
 mesedez 52
 baina 51
 gara 51
 Nik 51
-daude 51
+hemen 51
 ona 50
 zegoen 50
 ezin 49
 ezer 49
-hemen 49
 Berak 48
 Zein 48
 etorri 47
@@ -100,6 +100,7 @@ Bera 38
 ikasten 38
 den 38
 erosi 37
+zaude 37
 zidan 36
 ziren 36
 Oso 36
@@ -111,7 +112,6 @@ denbora 35
 Hemen 35
 hil 35
 batean 35
-zaude 35
 buruz 35
 duen 34
 Samik 33
@@ -126,9 +126,9 @@ dizut 31
 Kaixo 31
 beharko 31
 arte 31
+Zergatik 31
 gaur 31
 orain 30
-Zergatik 30
 duela 30
 jaten 30
 gertatu 30
@@ -207,6 +207,7 @@ dezaket 19
 nik 19
 oraindik 19
 neska 19
+etxean 19
 heldu 19
 lagundu 19
 Bai 18
@@ -217,7 +218,6 @@ zaio 18
 asmatu 18
 Bihar 18
 Mesedez 18
-etxean 18
 ala 18
 izatea 18
 Hiru 18
@@ -252,13 +252,14 @@ lagun 16
 batzuk 16
 Atzo 16
 eskolara 16
+dirua 16
 baduzu 16
 Nor 16
 gogoko 16
+jan 16
 esango 16
 irakurtzen 15
 mina 15
-dirua 15
 berriro 15
 Benetan 15
 munduko 15
@@ -267,7 +268,6 @@ Noiz 15
 daki 15
 honek 15
 Ba 15
-jan 15
 gauean 15
 orok 15
 izateko 15
@@ -372,6 +372,7 @@ edan 11
 daukazu 11
 bikaina 11
 edaten 11
+atera 11
 horretan 11
 nion 11
 begiratu 11
@@ -408,7 +409,6 @@ Gabon 10
 irakaslea 10
 amaitu 10
 Asko 10
-atera 10
 direla 10
 irabazi 10
 hobeto 10
@@ -419,6 +419,7 @@ naizela 10
 Mundu 10
 frantsesez 10
 jaso 10
+txakurra 10
 gertatzen 10
 bidali 10
 naizen 10
@@ -474,7 +475,6 @@ erabili 9
 dagoela 9
 zergatik 9
 Ama 9
-txakurra 9
 nengoen 9
 elkar 9
 dit 9
@@ -628,9 +628,12 @@ zekien 7
 idazten 7
 jartzen 7
 amaren 7
+Nekatuta 7
 familia 7
+Etxean 7
 existitzen 7
 erosteko 7
+katua 7
 ahoa 7
 elkarrekin 7
 Kafe 7
@@ -680,6 +683,7 @@ min 6
 Horrela 6
 hilabete 6
 Eskolara 6
+medikua 6
 garbi 6
 diote 6
 lagunak 6
@@ -699,6 +703,7 @@ duten 6
 dauden 6
 ezetz 6
 ote 6
+animalia 6
 balitz 6
 gogorra 6
 mahai 6
@@ -723,7 +728,6 @@ Etxea 6
 sartu 6
 soilik 6
 batetik 6
-Nekatuta 6
 ea 6
 zeuden 6
 Inor 6
@@ -735,7 +739,6 @@ edango 6
 Emakume 6
 Hiri 6
 bukatu 6
-katua 6
 banu 6
 telebista 6
 arrazoirik 6
@@ -808,7 +811,6 @@ Sentitzen 5
 Ireki 5
 arrazoia 5
 Nora 5
-medikua 5
 buruaz 5
 kontra 5
 dantza 5
@@ -840,7 +842,6 @@ Eraman 5
 Nahiago 5
 atzo 5
 zaren 5
-animalia 5
 joko 5
 zioten 5
 Jende 5
@@ -871,7 +872,6 @@ bidez 5
 horri 5
 konturatu 5
 betiko 5
-Etxean 5
 ardo 5
 Garagardoa 5
 jokatzen 5
@@ -1250,6 +1250,7 @@ erositako 3
 igo 3
 zauritu 3
 eginda 3
+uda 3
 20 3
 dizkiote 3
 aldeko 3
@@ -1326,8 +1327,10 @@ aurkituko 3
 Egunkaria 3
 goaz 3
 aurkeztu 3
+Lo 3
 tenisean 3
 jokatzea 3
+Medikua 3
 zalantzarik 3
 bazara 3
 Itzuli 3
@@ -1492,6 +1495,7 @@ bostetan 3
 ekainaren 3
 filma 3
 mintzatzen 3
+Ogia 3
 Esker 3
 asko" 3
 amona 3
@@ -1785,7 +1789,6 @@ Hari 2
 Horregatik 2
 sor 2
 Erretzeari 2
-uda 2
 zigarro 2
 eguneko 2
 aitzakia 2
@@ -1926,9 +1929,7 @@ bizikletaz 2
 galderak 2
 SESB 2
 nenbilela 2
-Lo 2
 gaueko 2
-Medikua 2
 Behin 2
 Saitou 2
 zaindu 2
@@ -2178,6 +2179,7 @@ Gaixo 2
 egona 2
 istripua 2
 eskura 2
+otsoak 2
 dibertigarria 2
 hitzak 2
 erein 2
@@ -2217,7 +2219,6 @@ Hasteko 2
 Irakurtzeko 2
 Gustuko 2
 argazki 2
-Ogia 2
 gastatu 2
 irabazten 2
 Ekarri 2
@@ -2910,6 +2911,7 @@ Anton 2
 Alan 2
 Tina 2
 Atenasera 2
+Sagarra 2
 estatubatuar 2
 Telefonoz 1
 jatorrizkoarekin 1
@@ -4509,7 +4511,6 @@ sinistu 1
 Sagarrondo 1
 landatu 1
 baratzean 1
-otsoak 1
 jendeari 1
 oldartzen 1
 Iraun 1
@@ -8538,7 +8539,6 @@ Demetrio 1
 Quebec 1
 Askatuta 1
 hi 1
-Sagarra 1
 garaituak 1
 Kukurruku 1
 aztia 1
@@ -8569,3 +8569,6 @@ neurotipiko 1
 talde 1
 neurodibergenteen 1
 planetara 1
+Bankutik 1
+Urtarorik 1
+beroena 1

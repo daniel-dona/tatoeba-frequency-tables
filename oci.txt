@@ -1,7 +1,7 @@
- 2213
+ 2217
 de 2164
 pas 1888
-a 1519
+a 1521
 la 1373
 es 1268
 lo 1182
@@ -81,11 +81,11 @@ veire 95
 Mon 94
 del 94
 i 94
+parlar 94
 hèr 94
 bon 92
 Las 92
 aquí 92
-parlar 92
 dens 91
 Siás 91
 non 87
@@ -277,6 +277,7 @@ Una 31
 Pòdes 31
 li 30
 Ziri 30
+Sètz 30
 chuc 30
 peu 29
 segur 29
@@ -296,7 +297,6 @@ Non 29
 ni 29
 Sami 29
 fach 29
-Sètz 29
 podi 28
 urós 28
 agut 28
@@ -474,6 +474,7 @@ jorns 19
 quina 19
 tons 19
 purmèr 19
+d'aqueste 19
 camin 19
 l'universitat 19
 pensar 19
@@ -537,7 +538,6 @@ d'aquesta 17
 mauaisit 17
 fonciona 17
 pèc 17
-d'aqueste 17
 vacanças 17
 medish 17
 sopar 17
@@ -627,6 +627,7 @@ França 15
 Parli 15
 diluns 15
 fan 15
+Vòls 15
 prendre 15
 Ieu 15
 Nèva 15
@@ -669,7 +670,6 @@ connexion 14
 libres 14
 pels 14
 Quand 14
-Vòls 14
 prèp 14
 foguèt 14
 copèt 14
@@ -3411,6 +3411,7 @@ apelhada 2
 vòstas 2
 punta 2
 harèi 2
+anadas 2
 trufi 2
 portaire 2
 bagatges 2
@@ -4861,6 +4862,8 @@ còst 2
 limit 2
 indemnitats 2
 d'espés 2
+París-Plaja 2
+eveniment 2
 consequéncia 1
 tornarèi 1
 Cridèc 1
@@ -5585,7 +5588,6 @@ d'essença 1
 venenta 1
 l'ancian 1
 picalha 1
-anadas 1
 ròca 1
 lucar 1
 surfaires 1
@@ -9996,5 +9998,3 @@ pagues 1
 l'aimavi 1
 revelhat 1
 T'agradariá 1
-anèri 1
-S'opausar 1

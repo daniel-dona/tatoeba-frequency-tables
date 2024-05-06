@@ -1,29 +1,29 @@
-Aš 16717
-Tomas 9885
-yra 7738
+Aš 16718
+Tomas 9887
+yra 7740
 kad 6458
-tu 5985
-Jis 5786
-Ar 5770
+tu 5986
+Jis 5787
+Ar 5771
 aš 4692
-į 3780
+į 3782
 Ji 3478
 Tu 3428
 ir 3396
 savo 3223
 Mes 3176
 su 3141
-tai 3076
+tai 3077
 buvo 2894
 Tai 2689
 man 2578
 labai 2441
 iš 2383
-jis 2281
+jis 2283
 mano 2098
-jūs 2081
-ką 1918
-Jie 1851
+jūs 2082
+ką 1919
+Jie 1853
 Man 1817
 tą 1784
 turi 1679
@@ -32,7 +32,7 @@ ne 1591
 kaip 1552
 Mano 1501
 čia 1463
-mane 1431
+mane 1432
 daug 1426
 Jūs 1401
 jo 1336
@@ -63,7 +63,7 @@ noriu 942
 Kas 918
 Ką 871
 nieko 866
-ar 856
+ar 857
 nors 852
 turiu 824
 jos 810
@@ -96,7 +96,7 @@ padaryti 613
 eiti 608
 Jo 600
 daryti 588
-žinau 573
+žinau 574
 - 572
 pat 565
 kada 563
@@ -105,7 +105,7 @@ tikrai 551
 jums 547
 Kiek 533
 Prašau 529
-Šitas 528
+Šitas 529
 be 523
 mums 518
 tas 513
@@ -143,15 +143,15 @@ kartą 380
 kalbėti 379
 mus 376
 Visi 375
-Tau 374
+Tau 375
 nežinau 373
 tiek 373
 buvau 371
 Jos 367
+rytoj 364
 Tomu 364
 Tas 363
 Jeigu 363
-rytoj 362
 žmogus 360
 juo 360
 kalbos 360
@@ -207,7 +207,7 @@ truputį 272
 Štai 270
 kodėl 270
 kalbą 270
-mokyklą 265
+mokyklą 267
 metais 265
 žmonių 264
 galima 262
@@ -264,8 +264,8 @@ Bostone 211
 Kokia 210
 ja 209
 sako 208
+namas 207
 visus 207
-namas 206
 norite 205
 pernelyg 204
 kurie 203
@@ -274,11 +274,11 @@ viena 203
 diena 203
 automobilį 202
 Taip 201
+kartu 201
 anksčiau 201
 nepatinka 200
 myli 200
 anksti 200
-kartu 199
 laiku 199
 Su 198
 kitą 197
@@ -287,7 +287,7 @@ graži 196
 eina 196
 vyras 195
 skaityti 195
-pradėjo 193
+pradėjo 194
 Į 192
 darbo 190
 Tomai 190
@@ -323,8 +323,8 @@ sunku 172
 anglų 171
 moka 170
 nesu 170
+Jums 170
 vardas 169
-Jums 169
 tiesa 168
 Rytoj 167
 motina 167
@@ -789,6 +789,7 @@ galėtų 68
 ateina 68
 Nustok 68
 lėtai 68
+"Ar 68
 tokie 68
 bent 68
 traukinį 68
@@ -797,7 +798,6 @@ reikės 68
 laikrodį 67
 arbatos 67
 Daug 67
-"Ar 67
 valandos 67
 Už 67
 dainą 67
@@ -1494,6 +1494,7 @@ Kokią 37
 pasiekti 37
 paprašiau 37
 Parodyk 37
+paslaptis 37
 motinos 37
 nešioja 37
 priešais 37
@@ -1539,7 +1540,6 @@ teisingas 36
 valanda 36
 sunki 36
 pavargau 36
-paslaptis 36
 daiktas 36
 Japonijos 36
 Netrukus 36
@@ -2247,6 +2247,7 @@ filmus 24
 norėjai 24
 valgis 24
 sumokėjo 24
+pasakys 24
 druskos 24
 Valgyk 24
 vietoj 24
@@ -2327,7 +2328,6 @@ pažiūrėk 23
 darysi 23
 negyvas 23
 miršta 23
-pasakys 23
 nubėgo 23
 toje 23
 papasakoti 23
@@ -2547,9 +2547,11 @@ mokinių 21
 reikalingi 21
 išmokė 21
 nebe 21
+patenkinti 21
 negalėjome 21
 liūdnas 21
 taigi 21
+šituo 21
 peilis 21
 Brazilijoje 21
 tilto 21
@@ -2657,9 +2659,7 @@ palauk 20
 ateityje 20
 juodas 20
 žalią 20
-patenkinti 20
 žodžiais 20
-šituo 20
 tylėjo 20
 dirbau 20
 aplankė 20
@@ -4020,6 +4020,7 @@ išjungti 13
 visuomenės 13
 įspėti 13
 ryžių 13
+baimę 13
 pastate 13
 skaitei 13
 Kanados 13
@@ -4034,6 +4035,7 @@ sykį 13
 striukę 13
 Nustokite 13
 žada 13
+Vargu 13
 specialiai 13
 Kainos 13
 Šituos 13
@@ -4299,6 +4301,7 @@ nelauktai 12
 turtą 12
 pageidauja 12
 matematiką 12
+Pamatęs 12
 tinkamą 12
 patariau 12
 viengungis 12
@@ -4312,7 +4315,6 @@ tikslo 12
 parodyk 12
 Mokykis 12
 Šitam 12
-baimę 12
 užmiršai 12
 nutvėrė 12
 valgote 12
@@ -4327,7 +4329,6 @@ pavydžiu 12
 siunčia 12
 Seniau 12
 užkąsti 12
-Vargu 12
 Pernelyg 12
 girdite 12
 pasitaiko 12
@@ -4533,6 +4534,7 @@ perėjo 11
 neišėjo 11
 stiklinė 11
 išsinuomoti 11
+rezultatu 11
 Pirmadienį 11
 paėmei 11
 atspėti 11
@@ -4951,7 +4953,6 @@ pirštą 10
 Neišeik 10
 "ačiū" 10
 atidus 10
-rezultatu 10
 visu 10
 Nereikėjo 10
 pasiūlymui 10
@@ -5058,7 +5059,6 @@ savotiškas 10
 būkite 10
 dera 10
 planuoju 10
-Pamatęs 10
 lapus 10
 pažadėjau 10
 nepriėmė 10
@@ -5352,6 +5352,7 @@ ruošiesi 9
 ištisus 9
 kelnės 9
 gandai 9
+kraują 9
 draugystę 9
 tuščiai 9
 sužavėtas 9
@@ -5791,6 +5792,7 @@ Marika 8
 pailsėkime 8
 Pasaulio 8
 mylėtų 8
+prakeiktas 8
 sumokėjai 8
 atsakyk 8
 valstybė 8
@@ -6051,6 +6053,7 @@ susikrimtęs 8
 neapkenčia 8
 įsigijo 8
 dvidešimties 8
+sukelia 8
 ''Tu 8
 krašto 8
 žvelgė 8
@@ -6428,7 +6431,6 @@ pabaigą 7
 Užeik 7
 mėnėsį 7
 nutraukė 7
-prakeiktas 7
 Mirtis 7
 nuskendo 7
 Kelkis 7
@@ -6564,7 +6566,6 @@ kelionių 7
 filmai 7
 Mažylis 7
 žaislais 7
-kraują 7
 obelys 7
 taikinį 7
 priprasi 7
@@ -6795,7 +6796,6 @@ netinkamas 7
 pėdų 7
 pasitikti 7
 mokytojui 7
-sukelia 7
 apsirikau 7
 bagažas 7
 įdomiausia 7
@@ -8623,6 +8623,7 @@ nelaimė 5
 Skurdas 5
 nepaskambinai 5
 pastato 5
+myli" 5
 vienodo 5
 čiulbėjo 5
 pasiuvo 5
@@ -9500,6 +9501,7 @@ apvali 5
 pusiausvyros 5
 auka 5
 drobė 5
+nesate 5
 šiukšles 5
 kažkokį 5
 gintis 5
@@ -9996,5 +9998,3 @@ Dešimt 4
 Kurias 4
 brolau 4
 šiltesnės 4
-Britanijos 4
-istorijoje 4

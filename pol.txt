@@ -1,23 +1,23 @@
-się 16105
-nie 13665
-jest 13501
-w 12047
-Tom 10878
+się 16106
+nie 13666
+jest 13505
+w 12049
+Tom 10879
 na 10157
 Nie 8965
 to 8125
 że 7679
 do 7325
 z 7105
-To 4354
-i 4261
+To 4355
+i 4262
 Czy 3870
 mi 3520
 o 3413
 mnie 3322
 ma 2977
 co 2877
-za 2705
+za 2706
 On 2693
 jak 2570
 tego 2446
@@ -25,17 +25,17 @@ po 2391
 Mary 2327
 są 2183
 tym 1947
-W 1941
+W 1942
 bardzo 1938
-był 1744
-od 1741
+był 1745
+od 1742
 tak 1711
 Ona 1662
 go 1579
 Jestem 1511
 już 1495
 ci 1444
-dla 1412
+dla 1413
 ale 1403
 Co 1364
 Toma 1361
@@ -78,15 +78,15 @@ Proszę 827
 Mój 791
 Ta 772
 dobrze 763
-dużo 754
+dużo 755
 Dlaczego 754
 powiedział 753
 on 739
 nic 739
 Na 730
+wszystko 709
 kiedy 709
 więcej 709
-wszystko 708
 jesteś 687
 iść 683
 ją 677
@@ -212,8 +212,8 @@ kilka 332
 zrobił 329
 stanie 326
 zobaczyć 326
+swojego 325
 też 324
-swojego 324
 mojej 323
 Mogę 322
 mógł 321
@@ -347,9 +347,9 @@ grać 210
 tych 208
 pomoc 207
 Dziś 207
+Nic 205
 przyjdzie 205
 myśli 205
-Nic 204
 zna 204
 porozmawiać 203
 Potrzebuję 202
@@ -409,11 +409,11 @@ pomocy 182
 jedzenia 182
 miałem 181
 kim 181
+ojca 181
 tą 180
 padać 180
 przyjść 180
 Lepiej 180
-ojca 180
 francuskiego 178
 jakieś 178
 nami 178
@@ -441,11 +441,11 @@ Widziałem 169
 która 168
 Jakie 168
 później 167
+pracuje 166
 południu 166
 dalej 166
 innych 166
 ile 166
-pracuje 165
 takiego 165
 twojej 165
 wolno 163
@@ -508,20 +508,20 @@ zanim 146
 pani 146
 żebym 146
 włosy 145
+którzy 145
 znowu 145
 niczego 144
 zwykle 144
 stąd 144
 okno 144
 mogą 144
-którzy 144
 ogóle 144
 zegarek 143
+potrzebuje 143
 chory 143
 naszej 143
 miała 143
 dwóch 142
-potrzebuje 142
 potrafi 142
 Przestań 142
 kraju 141
@@ -610,9 +610,9 @@ późno 128
 lubią 128
 czekać 128
 żyje 128
+mówią 128
 Było 127
 źle 127
-mówią 127
 prawo 127
 nauczyć 127
 Wszystkie 126
@@ -1027,6 +1027,7 @@ wysoki 76
 ochotę 76
 zapłacić 76
 łóżka 76
+Spójrz 75
 nagle 75
 Pociąg 75
 historia 75
@@ -1047,7 +1048,6 @@ czuje 75
 Potrzebujemy 75
 problemy 75
 Tomasz 75
-Spójrz 74
 widzieć 74
 proste 74
 ogląda 74
@@ -1134,6 +1134,7 @@ wieczór 68
 Matka 68
 wielkim 68
 zadzwonił 68
+prawdą 68
 dziewczyny 68
 Dziecko 68
 podróży 68
@@ -1150,7 +1151,6 @@ nikomu 68
 studentów 67
 Czasami 67
 wielki 67
-prawdą 67
 drugiej 67
 powinno 67
 rzadko 67
@@ -1737,6 +1737,7 @@ zwierząt 45
 wygrać 45
 tata 45
 winien 44
+braci 44
 wojna 44
 fortepianie 44
 chodzę 44
@@ -1774,7 +1775,6 @@ Paryżu 44
 komputera 44
 Być 44
 żony 43
-braci 43
 skończyła 43
 najmniej 43
 skończyłem 43
@@ -2244,6 +2244,7 @@ umiera 34
 odpowiedział 34
 ceny 34
 powody 34
+staje 34
 Rodzice 34
 patrzy 34
 zapomniał 34
@@ -2310,7 +2311,6 @@ czyż 33
 zostali 33
 Zostań 33
 rzekę 33
-staje 33
 Urodziłem 33
 wysokie 33
 Uczniowie 33
@@ -2376,6 +2376,7 @@ musieli 32
 pasażerów 32
 kąpiel 32
 butów 32
+rzeczywistości 32
 Natychmiast 32
 świeci 32
 mysz 32
@@ -2444,7 +2445,6 @@ Straciłem 31
 różnica 31
 Wiatr 31
 Umiem 31
-rzeczywistości 31
 starego 31
 Obecnie 31
 pracowników 31
@@ -2618,6 +2618,7 @@ małą 28
 słyszeć 28
 odpowiada 28
 Mieszka 28
+Koń 28
 Psy 28
 niedziela 28
 przeczytałem 28
@@ -2804,7 +2805,6 @@ pił 26
 zaledwie 26
 bój 26
 zgadza 26
-Koń 26
 zawodu 26
 pory 26
 muzyka 26
@@ -3963,6 +3963,7 @@ zaproszeni 18
 stylu 18
 kartkę 18
 podobni 18
+ziemia 18
 siostrze 18
 prawdziwą 18
 gadać 18
@@ -4163,7 +4164,6 @@ rosyjsku 17
 kolega 17
 Złapał 17
 Dokładnie 17
-ziemia 17
 sprzedaż 17
 zwolnić 17
 Proponuję 17
@@ -4792,6 +4792,7 @@ pobawić 14
 wyjątkowy 14
 pytać 14
 wyspie 14
+stanął 14
 łaciny 14
 głębokie 14
 ręcznik 14
@@ -4876,6 +4877,7 @@ bramę 14
 Starzec 14
 dniach 14
 tenisistą 14
+Uczy 14
 Wolisz 14
 nade 14
 niektórych 14
@@ -5096,7 +5098,6 @@ wysoką 13
 Dość 13
 zarobić 13
 szczegóły 13
-stanął 13
 koszula 13
 podejść 13
 Przyznaję 13
@@ -5191,7 +5192,6 @@ polu 13
 godny 13
 ryzykować 13
 niezbędne 13
-Uczy 13
 nazwał 13
 kontroli 13
 próbujesz 13
@@ -5658,6 +5658,7 @@ ciśnienie 12
 obywatelem 12
 Praktycznie 12
 podróże 12
+mądrzejsza 12
 pracujemy 12
 zimniej 12
 mieszkała 12
@@ -6093,7 +6094,6 @@ przyjdą 11
 środki 11
 pamiętnik 11
 końcem 11
-mądrzejsza 11
 akcentem 11
 Bilety 11
 policjantem 11
@@ -6774,6 +6774,7 @@ stronach 10
 pralkę 10
 podejmować 10
 kurwa 10
+dozwolone 10
 przerażające 10
 zmieniłeś 10
 Plik 10
@@ -6880,6 +6881,7 @@ piszący 10
 stworzona 10
 najsłabszy 10
 Samiego 10
+Algieria 10
 Wysłałam 10
 Piękne 9
 niezły 9
@@ -7438,7 +7440,6 @@ pożyczyłem 9
 źli 9
 zamykają 9
 odpowiednie 9
-dozwolone 9
 Wydawało 9
 ramach 9
 nerwowy 9
@@ -7593,7 +7594,6 @@ narysowali 9
 wolniejsze 9
 pchli 9
 śliska 9
-Algieria 9
 Dzwonię 9
 tramwaj 9
 Anglikiem 8
@@ -9142,6 +9142,7 @@ gapił 7
 znajomości 7
 portret 7
 chaos 7
+konieczna 7
 Nadzieja 7
 uśmiechają 7
 Kraj 7
@@ -9997,4 +9998,3 @@ Wstał 6
 dżentelmenem 6
 wolisz: 6
 obiecać 6
-niegrzeczne 6
