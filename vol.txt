@@ -1,14 +1,14 @@
-Tomas 778
+Tomas 780
 No 562
-das 506
-no 448
+das 507
+no 449
 binom 430
-etosi 390
+etosi 392
 in 300
 obik 259
 Maria 207
 dunön 177
-binon 171
+binon 172
 e 154
 Tom 150
 obe 148
@@ -32,13 +32,13 @@ et 85
 obi 83
 ka 79
 omi 78
-al 77
+al 78
 vilom 76
 El 75
 Kim 74
 Tomase 73
 golön 71
-adelo 69
+adelo 70
 kisi 68
 binob 67
 us 67
@@ -50,8 +50,8 @@ buki 63
 ol 63
 kanob 62
 pükön 62
+Tikob 61
 valikosi 61
-Tikob 60
 binoms 59
 etos 58
 nolob 57
@@ -83,10 +83,10 @@ Tomasa 44
 valik 43
 ofi 42
 ome 42
+ädelo 41
 binos 41
 nolön 41
 Löfob 40
-ädelo 40
 ola 40
 ni 40
 labom 39
@@ -97,10 +97,10 @@ studön 38
 mödik 38
 gudiko 38
 om 38
+if 38
 tu 37
 Binos 37
 kel 37
-if 37
 o 36
 sagön 36
 du 36
@@ -123,11 +123,11 @@ eli 31
 sanel 31
 nosi 31
 logön 30
+vifiko 29
 fidön 29
 binom-li 29
 obis 29
 it 29
-vifiko 28
 nedom 28
 sod 28
 atosi 28
@@ -211,6 +211,7 @@ fidom 19
 katis 19
 kis 19
 gudikün 19
+timi 19
 Nedob 19
 domoi 19
 fikulik 19
@@ -226,7 +227,6 @@ matel 18
 badik 18
 famik 18
 vati 18
-timi 18
 Spelob 18
 lemön 18
 mutom 18
@@ -334,6 +334,7 @@ el 12
 bili 12
 nefikulik 12
 nedol 12
+labobs 12
 tikom 12
 nedob 12
 sevob 12
@@ -359,7 +360,6 @@ löfof 11
 Blod 11
 Li-sevol 11
 cif 11
-labobs 11
 mutobs 11
 Pod 11
 keki 11
@@ -392,6 +392,7 @@ Nedän 10
 Binom-li 9
 säki 9
 vietik 9
+grünik 9
 saunik 9
 me 9
 Labol 9
@@ -425,7 +426,6 @@ etuvom 9
 Nifos 8
 kat 8
 Neai 8
-grünik 8
 ai 8
 Lödob 8
 zifi 8
@@ -693,6 +693,7 @@ Ofen 5
 Fidolöd 5
 yuf 5
 bog 5
+finön 5
 odunom 5
 Dledob 5
 ävilol 5
@@ -850,7 +851,6 @@ Odunob 4
 nögis 4
 sibinom 4
 egivom 4
-finön 4
 Ävobob 4
 jönikün 4
 nefikuliko 4
@@ -871,6 +871,7 @@ Pükon 4
 änolol 4
 evedom 4
 nolomöd 4
+Fot 4
 ok 4
 obinob 4
 gololöd 4
@@ -1131,7 +1132,6 @@ Dö 3
 Evedos 3
 Li-binols 3
 cenom 3
-Fot 3
 Sod 3
 konotön 3
 Pükob 3
@@ -1709,6 +1709,7 @@ sovadik 2
 elemof 2
 Esther 2
 ne 2
+edunomöv 2
 Lamerikäni 2
 Pebaltatas 2
 Sami 2
@@ -3831,7 +3832,6 @@ Lifön 1
 blibolöd 1
 honedafi 1
 bloda 1
-edunomöv 1
 legudikumo 1
 Blebolöd 1
 Virud 1
@@ -4712,3 +4712,7 @@ kuni 1
 odunobs 1
 Li-egetol 1
 Li-ovedol 1
+älömiböv 1
+aifidom 1
+Osäkob 1
+sufik 1

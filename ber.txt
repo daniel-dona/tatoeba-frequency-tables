@@ -1,7 +1,7 @@
 ad 180280
 n 148544
 d 109908
-ara 89963
+ara 89964
 ay 71474
 i 59126
 deg 56606
@@ -255,8 +255,8 @@ azal 1358
 tabeṭṭiwt 1357
 amahil 1353
 akersi 1350
+melmi 1339
 Ddiɣ 1339
-melmi 1338
 iḥemmel 1335
 yeg 1332
 Netta 1329
@@ -411,8 +411,8 @@ yekka 834
 Tesɛa 832
 yiman-nnes 831
 tkeṛṛust 826
+Iban 824
 beṛṛa 824
-Iban 823
 fell-awen 823
 tayri 822
 yid-m 822
@@ -617,9 +617,9 @@ sɛin 547
 Acuɣer 547
 Srint 547
 temkarḍit 546
+d-yas 545
 asmi 545
 Aql-ik 545
-d-yas 544
 yettmahal 544
 lint 544
 as-d-yaɣ 544
@@ -6211,6 +6211,7 @@ Asensu-nni 48
 uran 48
 yiccer 48
 Wal 48
+si 48
 teffred 48
 inadi 48
 ruḥent 48
@@ -6299,7 +6300,6 @@ Tetḥeqqemt 47
 tebɣud 47
 tesled 47
 neɛya 47
-si 47
 yicenga 47
 tallem 47
 yesseɣsi 47

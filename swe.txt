@@ -1,34 +1,34 @@
-är 11567
-Jag 11236
-att 7057
-Tom 7046
-inte 6892
+är 11570
+Jag 11237
+att 7060
+Tom 7048
+inte 6895
 du 5112
-en 5084
-på 4825
+en 5086
+på 4827
 det 4725
-i 4554
+i 4555
 har 4204
-Det 3860
-Han 3399
-jag 3138
+Det 3861
+Han 3400
+jag 3139
 mig 2706
 för 2674
 här 2644
-var 2595
+var 2596
 med 2444
 till 2353
-och 2318
+och 2319
 om 2249
-Hon 2070
+Hon 2071
 ett 1933
 som 1885
 Vi 1882
 dig 1879
-den 1824
-kan 1671
+den 1825
+kan 1672
 Du 1593
-av 1580
+av 1581
 han 1255
 kommer 1250
 sig 1209
@@ -54,13 +54,13 @@ vara 767
 ha 753
 ut 734
 Var 733
-hade 731
+hade 732
 Den 721
 vad 713
 din 690
 de 685
 tycker 641
-vet 628
+vet 629
 oss 620
 Kan 618
 än 618
@@ -70,9 +70,9 @@ bara 596
 hon 593
 sin 585
 henne 571
-nu 562
+nu 564
 går 554
-bra 547
+bra 548
 Varför 531
 man 524
 gå 520
@@ -80,7 +80,7 @@ er 516
 Min 515
 från 511
 aldrig 495
-någon 477
+någon 478
 gillar 461
 åt 457
 blev 435
@@ -113,12 +113,12 @@ Vem 355
 efter 352
 älskar 349
 in 349
-över 345
+över 346
 såg 344
 hur 344
 kom 344
+dem 336
 borde 335
-dem 335
 När 329
 få 327
 komma 319
@@ -170,8 +170,8 @@ själv 218
 Ingen 215
 inget 215
 morgon 214
+Vilken 214
 redan 214
-Vilken 213
 detta 212
 mot 212
 Detta 209
@@ -222,7 +222,7 @@ håller 167
 Kom 165
 sade 165
 nästan 165
-pratar 163
+pratar 164
 helt 163
 bättre 162
 tar 162
@@ -385,10 +385,10 @@ kvar 91
 genom 90
 snabbt 90
 tyckte 90
+rummet 90
 liten 90
 slog 90
 ihåg 89
-rummet 89
 alls 89
 Sverige 89
 öl 89
@@ -442,26 +442,27 @@ lämna 78
 gången 78
 världen 78
 höra 78
+svenska 78
 lever 77
-svenska 77
 förstå 77
 träffade 77
 plats 76
 nära 76
 arbete 76
 berättade 76
+gått 76
 lycklig 76
 stod 75
 dricka 75
 sover 75
 frågade 75
 ute 75
-gått 75
 tåget 75
 försöker 75
 god 75
 glömde 75
 sätt 75
+tittade 75
 roligt 74
 Sluta 74
 minuter 74
@@ -469,7 +470,6 @@ hos 74
 föll 74
 fyra 74
 båda 74
-tittade 74
 runt 73
 ätit 73
 Gillar 73
@@ -477,11 +477,11 @@ gärna 72
 land 72
 kort 72
 sex 72
+dålig 71
 tro 71
 Vilket 71
 saknar 71
 tillräckligt 71
-dålig 70
 lärare 70
 brev 70
 folk 70
@@ -514,6 +514,7 @@ ledsen 65
 medan 65
 Vilka 65
 musik 65
+simma 64
 person 64
 resa 64
 Många 64
@@ -524,7 +525,6 @@ död 64
 problemet 64
 våra 64
 stora 64
-simma 63
 deras 63
 Japan 63
 sov 63
@@ -572,6 +572,7 @@ hämta 58
 dags 58
 vårt 58
 För 58
+lämnade 58
 ringa 58
 stund 58
 era 58
@@ -586,7 +587,6 @@ grund 57
 Vår 57
 mjölk 57
 frukost 57
-lämnade 57
 döda 57
 viktigt 56
 minns 56
@@ -630,6 +630,7 @@ bussen 53
 bröd 53
 utomlands 53
 filmen 53
+tur 53
 perfekt 53
 läst 53
 låta 53
@@ -637,7 +638,6 @@ behöva 52
 förlorade 52
 mening 52
 mindre 52
-tur 52
 fönstret 52
 föddes 52
 brukar 51
@@ -1103,6 +1103,7 @@ tolv 27
 bland 27
 ordbok 27
 fullständigt 27
+Hör 27
 vintern 27
 väska 27
 tvättar 27
@@ -1148,7 +1149,6 @@ farbror 26
 dra 26
 eftermiddag 26
 Ställ 26
-Hör 26
 träffat 26
 taket 26
 Med 26
@@ -1213,6 +1213,7 @@ choklad 24
 hellre 24
 sparken 24
 planet 24
+annars 24
 Då 24
 skillnaden 24
 Hjälp 24
@@ -1255,7 +1256,7 @@ upptagna 23
 hål 23
 orolig 23
 erkände 23
-annars 23
+tusen 23
 Tyvärr 23
 berget 23
 Borde 23
@@ -1277,6 +1278,7 @@ tomt 23
 skillnad 23
 börjat 23
 ungerska 23
+flytande 23
 telefonen 23
 lovar 23
 hel 23
@@ -1300,7 +1302,6 @@ trasig 22
 Där 22
 lyckas 22
 ögonblick 22
-tusen 22
 flyga 22
 varm 22
 istället 22
@@ -1320,7 +1321,6 @@ besviken 22
 Måste 22
 slutat 22
 fara 22
-flytande 22
 Tänk 22
 sten 22
 sist 22
@@ -1452,6 +1452,7 @@ planen 19
 låt 19
 fiskar 19
 stolen 19
+gjord 19
 radion 19
 kroppen 19
 dyr 19
@@ -1527,7 +1528,6 @@ bygga 18
 fisken 18
 regn 18
 kamera 18
-gjord 18
 Bara 18
 prova 18
 Både 18
@@ -1642,6 +1642,7 @@ känd 16
 samvete 16
 kallar 16
 byggde 16
+Lyssna 16
 kronor 16
 dött 16
 student 16
@@ -1649,6 +1650,7 @@ studenter 16
 somnade 16
 Katter 16
 stiga 16
+översättning 16
 yen 16
 Rökning 16
 hinner 16
@@ -1722,7 +1724,6 @@ polis 15
 fiska 15
 Svara 15
 guld 15
-Lyssna 15
 Herr 15
 desto 15
 slag 15
@@ -1739,7 +1740,6 @@ förklarade 15
 Tvätta 15
 deltog 15
 typ 15
-översättning 15
 tysta 15
 Grekland 15
 droger 15
@@ -2282,6 +2282,7 @@ simmade 11
 kapten 11
 ficka 11
 diskussion 11
+slängde 11
 Okej 11
 halt 11
 roman 11
@@ -2468,7 +2469,6 @@ passa 10
 förslaget 10
 förutom 10
 underbar 10
-slängde 10
 damm 10
 givet 10
 Rita 10
@@ -2578,6 +2578,7 @@ orkar 9
 bygger 9
 Flygplanet 9
 brast 9
+noga 9
 såsom 9
 tålamod 9
 hoppar 9
@@ -2804,6 +2805,7 @@ sikte 8
 klagade 8
 frånvaro 8
 Nederländerna 8
+bitar 8
 examen 8
 kakan 8
 flagga 8
@@ -3098,7 +3100,6 @@ varor 7
 gräl 7
 smakade 7
 populära 7
-bitar 7
 Bilden 7
 promenerar 7
 accent 7
@@ -3115,7 +3116,6 @@ genväg 7
 Lite 7
 planeten 7
 medvetandet 7
-noga 7
 Räck 7
 försörja 7
 via 7
@@ -4063,6 +4063,7 @@ sinom 5
 Egentligen 5
 storasyster 5
 paj 5
+plast 5
 Jägaren 5
 européer 5
 skrivs 5
@@ -4101,6 +4102,7 @@ blyga 5
 knackade 5
 klasskamrater 5
 telefonsamtal 5
+Faktum 5
 vettigt 5
 envis 5
 grupp 5
@@ -4644,6 +4646,7 @@ besegrade 4
 pluggade 4
 punkten 4
 trollen 4
+sjal 4
 läxan 4
 Peking 4
 orsakat 4
@@ -4751,7 +4754,6 @@ räkningen 4
 frusit 4
 klubb 4
 substantiv 4
-plast 4
 Antalet 4
 svält 4
 farten 4
@@ -4808,7 +4810,6 @@ incidenten 4
 smyg 4
 ton 4
 svängde 4
-Faktum 4
 syns 4
 sparka 4
  4
@@ -4952,6 +4953,7 @@ gröt 4
 ogift 4
 Stilla 4
 Dö 4
+axlarna 4
 Gråter 4
 småsaker 4
 … 4
@@ -5695,7 +5697,6 @@ Koreahalvön 3
 hushållssysslorna 3
 smala 3
 spöke 3
-sjal 3
 finne 3
 varmaste 3
 löften 3
@@ -6051,6 +6052,7 @@ kund 3
 T-shirt 3
 charmig 3
 Faktiskt 3
+förare 3
 total 3
 operationen 3
 solljus 3
@@ -6103,7 +6105,6 @@ Andas 3
 skapa 3
 Ducka 3
 Ryck 3
-axlarna 3
 snobb 3
 Jo 3
 Bryr 3
@@ -7962,7 +7963,6 @@ Alle 2
 indisk 2
 förbered 2
 växt 2
-förare 2
 omelett 2
 framförallt 2
 Fången 2

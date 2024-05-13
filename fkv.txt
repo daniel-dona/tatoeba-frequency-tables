@@ -1,4 +1,4 @@
-oon 219
+oon 221
 Se 36
 ei 33
 Hyvvää 29
@@ -15,8 +15,8 @@ ko 11
 hyvä 11
 ette 10
 Het 10
+vuotta 9
 vuona 8
-vuotta 8
 yötä 8
 hyvvää 8
 oikkeus 8
@@ -227,6 +227,7 @@ mahđolinen 2
 syöpi 2
 pärjää 2
 koskhaan 2
+monta 2
 Ihmiset 2
 kuiten 2
 Onnea 2
@@ -258,6 +259,7 @@ Elämä 2
 Aameen 2
 passaa 2
 kahđeksan 2
+Nämät 2
 kvääninkansan 1
 kielen 1
 kulttuurin 1
@@ -794,7 +796,6 @@ pannu 1
 sanonu 1
 Rakkhaala 1
 lapsela 1
-monta 1
 nimmee 1
 Opettaaja 1
 kysässee 1
@@ -1390,7 +1391,6 @@ sievä 1
 kuulema 1
 Mettänsuojelu 1
 plus 1
-Nämät 1
 10 1
 amperin 1
 sikrinkit 1
@@ -1417,3 +1417,7 @@ Vetokoirat 1
 tykkäävä 1
 juosta 1
 feeberii 1
+Krannissa 1
+sijjaa 1
+valmistettu 1
+sitten 1

@@ -1,5 +1,5 @@
-on 1445
-Ma 907
+on 1446
+Ma 908
 ei 719
 Tom 589
 sa 419
@@ -142,14 +142,15 @@ pärast 26
 elab 26
 ka 25
 enam 25
+Mina 25
 tahad 25
 kodus 24
 süüa 24
-Mina 24
 meeldi 24
 oleks 23
 juba 23
 tead 23
+auto 23
 Koer 23
 õppida 23
 läks 22
@@ -157,7 +158,6 @@ teed 22
 tegi 22
 peale 22
 parem 22
-auto 22
 siia 22
 natuke 22
 olid 21
@@ -172,6 +172,7 @@ Sul 21
 tee 21
 õpetaja 21
 sinuga 21
+Meil 21
 Te 21
 miks 21
 ilma 20
@@ -183,7 +184,6 @@ minuga 20
 mina 20
 pea 20
 saan 20
-Meil 20
 Toomas 20
 ikka 19
 tuleb 19
@@ -407,6 +407,7 @@ hõivatud 9
 ütleb 9
 Kuhu 9
 asi 9
+ostsin 9
 vihma 9
 piisavalt 9
 Kust 9
@@ -541,7 +542,6 @@ hakkas 7
 Maria 7
 joon 7
 teid 7
-ostsin 7
 vabandust 7
 maasikaid 7
 saaksin 7
@@ -637,6 +637,7 @@ saabus 6
 laulu 6
 väljas 6
 annan 6
+leiba 6
 Suur 6
 püüdis 6
 peaksime 6
@@ -941,7 +942,6 @@ Naised 4
 lahke 4
 kuu 4
 viia 4
-leiba 4
 keelde 4
 tütart 4
 jääd 4

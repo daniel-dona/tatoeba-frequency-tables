@@ -1,25 +1,25 @@
  2217
-de 2164
-pas 1888
-a 1521
+de 2172
+pas 1891
+a 1523
 la 1373
 es 1268
-lo 1182
-un 1027
-que 973
-Lo 811
-Tom 665
+lo 1183
+un 1029
+que 974
+Lo 814
+Tom 666
 una 590
 Es 587
-La 435
-son 412
+La 436
+son 413
 Soi 371
 en 361
 e 354
 las 339
 per 318
 Tòm 309
-los 294
+los 295
 se 285
 Me 268
 Ai 233
@@ -46,18 +46,18 @@ te 141
 Maria 141
 Vòli 139
 Èi 136
-As 132
+As 133
 De 128
 qué 124
 Te 122
 vos 121
 amb 120
+Aqueste 118
+ton 118
 fòrça 117
-Aqueste 117
-ton 117
 temps 116
 ua 116
-Se 113
+Se 114
 cau 112
 o 111
 dins 111
@@ -83,9 +83,9 @@ del 94
 i 94
 parlar 94
 hèr 94
+aquí 93
 bon 92
 Las 92
-aquí 92
 dens 91
 Siás 91
 non 87
@@ -96,12 +96,12 @@ ne 82
 hèit 81
 quan 79
 Sabes 79
+Son 78
 sap 78
-Son 77
+pòt 75
 sa 75
 aquesta 75
 tròp 75
-pòt 74
 dambe 74
 líber 73
 Sabi 73
@@ -117,8 +117,8 @@ Sèm 66
 tan 66
 quicòm 66
 jo 65
+pauc 64
 Aquesta 64
-pauc 63
 dab 62
 Nos 62
 deman 61
@@ -136,9 +136,9 @@ tres 58
 estat 58
 E 58
 tornar 57
+encara 57
 bona 57
 pro 57
-encara 56
 Cresi 56
 ta 56
 Mary 55
@@ -180,11 +180,11 @@ Pòdi 45
 qu'es 44
 sonque 44
 lèu 44
+vòl 44
 sia 43
 mètge 43
 dit 43
 hè 43
-vòl 43
 Quina 43
 ende 43
 sol 42
@@ -611,6 +611,7 @@ plen 15
 seguretat 15
 entad 15
 Adiu 15
+sortir 15
 costat 15
 Uei 15
 teatre 15
@@ -697,7 +698,6 @@ enqüèra 13
 toa 13
 demandar 13
 nòste 13
-sortir 13
 s'ei 13
 restaurant 13
 cans 13
@@ -798,6 +798,7 @@ peis 12
 Catalonha 12
 fornariá 12
 Marie 12
+M'agradariá 12
 font 12
 mantèl 12
 vacas 12
@@ -863,7 +864,6 @@ Diguèt 11
 manhac 11
 sòrre 11
 Tomàs 11
-M'agradariá 11
 ambulància 11
 caissa 11
 qualqu'un 11
@@ -890,6 +890,7 @@ flor 10
 istòria 10
 dur 10
 qu'i 10
+viatjar 10
 veituras 10
 annada 10
 l'ora 10
@@ -954,6 +955,7 @@ Totòm 10
 Foguèt 10
 compreni 10
 salve 10
+tirar 9
 lòc 9
 mieja 9
 Ta 9
@@ -971,7 +973,6 @@ cresi 9
 bastida 9
 barri 9
 telefòne 9
-viatjar 9
 joen 9
 fuma 9
 brica 9
@@ -1061,7 +1062,6 @@ l'eroïna 9
 quincanèla 9
 vilatge 8
 carrèra 8
-tirar 8
 qu'una 8
 pluèja 8
 haut 8
@@ -1208,6 +1208,7 @@ maridats 7
 malastre 7
 l'occitan 7
 Mingi 7
+tròç 7
 l'aute 7
 prima 7
 l'estiu 7
@@ -1372,7 +1373,6 @@ linha 6
 aurà 6
 clar 6
 conegut 6
-tròç 6
 sabon 6
 s'èra 6
 pervist 6
@@ -1442,6 +1442,7 @@ coratge 6
 hruta 6
 l'accident 6
 caminat 6
+nas 6
 qu'estoc 6
 legumatge 6
 totòm 6
@@ -1508,6 +1509,7 @@ sistèma 6
 pòdon 6
 organizacion 6
 bravament 6
+tap 6
 alemand 6
 Mangi 6
 Qu'es 6
@@ -2016,7 +2018,6 @@ t'a 4
 Mike 4
 devís 4
 Caleré 4
-nas 4
 privada 4
 vestit 4
 ris 4
@@ -2117,6 +2118,7 @@ unas 4
 dolars 4
 celèbre 4
 Pendent 4
+sautat 4
 sortit 4
 pausar 4
 legit 4
@@ -2177,6 +2179,7 @@ d’un 4
 campionat 4
 roge 4
 coneguda 4
+champanhe 4
 triga 4
 telefonet 4
 vidèos 4
@@ -2264,6 +2267,7 @@ calor 4
 claufit 4
 meravilhoses 4
 bugada 4
+raja 4
 l'imatge 4
 Agachavi 4
 oficial 4
@@ -2693,7 +2697,6 @@ anglesa 3
 paraploja 3
 estranhament 3
 rapida 3
-sautat 3
 dejunar 3
 actors 3
 interpretacion 3
@@ -2725,6 +2728,7 @@ Crompi 3
 necessària 3
 une 3
 brembar 3
+refusa 3
 paures 3
 hame 3
 l'auta 3
@@ -2981,7 +2985,6 @@ decidiguèt 3
 actor 3
 netejat 3
 netegèt 3
-raja 3
 l'estanh 3
 secapels 3
 Danièl 3
@@ -3825,7 +3828,6 @@ gripa 2
 regaudissi 2
 l'accent 2
 esquiar 2
-refusa 2
 Estudii 2
 Torni 2
 sòl 2
@@ -4085,7 +4087,6 @@ Provença 2
 cambajon 2
 quicomet 2
 tomata 2
-champanhe 2
 Fòrça 2
 ligam 2
 tauleta 2
@@ -4864,6 +4865,7 @@ indemnitats 2
 d'espés 2
 París-Plaja 2
 eveniment 2
+mèca 2
 consequéncia 1
 tornarèi 1
 Cridèc 1
@@ -7440,7 +7442,6 @@ tanben" 1
 És 1
 aparelh-fòro 1
 desbrembar 1
-tap 1
 sortiscoc 1
 s'estonar 1
 aurés 1
@@ -9997,4 +9998,3 @@ baton 1
 pagues 1
 l'aimavi 1
 revelhat 1
-T'agradariá 1

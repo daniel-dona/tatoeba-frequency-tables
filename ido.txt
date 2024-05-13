@@ -1,13 +1,13 @@
-esas 2828
+esas 2830
 Me 2255
-la 2193
-ne 1289
+la 2194
+ne 1291
 La 1010
 Tom 987
 me 867
 tu 842
 Ka 706
-es 666
+es 667
 en 592
 havas 577
 Il 455
@@ -21,7 +21,7 @@ esis 369
 e 353
 volas 317
 povas 301
-tre 295
+tre 296
 Tu 278
 por 264
 Mea 261
@@ -99,9 +99,9 @@ vere 80
 manjas 80
 patro 77
 dum 77
+Ca 77
+nia 76
 bone 76
-Ca 76
-nia 75
 sempre 75
 Quale 74
 aquo 74
@@ -114,8 +114,8 @@ pekunio 70
 sen 69
 su 69
 vivo 69
+Ol 69
 ed 69
-Ol 68
 Ica 67
 dicis 67
 dil 67
@@ -151,12 +151,12 @@ konocas 51
 irar 50
 vidas 50
 esos 50
+amiki 49
 Omna 49
 on 49
 facar 49
 fratino 49
 laboras 49
-amiki 48
 ibe 48
 kafeo 48
 Kande 47
@@ -175,12 +175,12 @@ Ilua 44
 facas 44
 facis 44
 drinkas 44
+Deo 44
 viro 43
 arivis 43
 ube 43
 ilua 43
 tri 43
-Deo 43
 Vi 42
 ka 42
 urbo 42
@@ -219,6 +219,7 @@ havis 35
 hodie 35
 ante 34
 muliero 34
+desfacila 33
 kom 33
 alta 33
 richa 33
@@ -233,7 +234,6 @@ blanka 32
 existas 32
 pano 32
 hundi 31
-desfacila 31
 yari 31
 inteligenta 31
 standas 31
@@ -1140,6 +1140,7 @@ mariajar 6
 festo 6
 precipue 6
 Hispaniana 6
+Latina 6
 ocidis 6
 Hundo 6
 tarda 6
@@ -1326,7 +1327,6 @@ kreskas 5
 onklino 5
 esquado 5
 fakturo 5
-Latina 5
 Amerikana 5
 lasez 5
 morbo 5
@@ -1421,6 +1421,7 @@ maladesas 5
 Laurie 5
 Afrika 5
 joko 5
+ 5
 spegulo 5
 kolombo 5
 nubi 5
@@ -1560,6 +1561,7 @@ sklaveso 4
 memorar 4
 facez 4
 celar 4
+pardonas 4
 Memorez 4
 haltis 4
 viruso 4
@@ -1706,7 +1708,6 @@ melodio 4
 rozo 4
 banano 4
 ipse 4
- 4
 Klozez 4
 saltas 4
 koncernas 4
@@ -1913,7 +1914,6 @@ projeti 3
 devo 3
 guvernerio 3
 kompanio 3
-pardonas 3
 proprietajo 3
 ganis 3
 templo 3
@@ -8395,3 +8395,6 @@ laboristo 1
 alternativo 1
 autuno 1
 Kavalyuno 1
+Balayez 1
+pavimento 1
+usani 1

@@ -3,11 +3,11 @@ Ali 226
 sem 171
 se 168
 v 158
-Tom 127
+Tom 128
 so 112
 ne 106
 in 104
-da 91
+da 92
 na 90
 govorite 90
 mesto 88
@@ -20,7 +20,7 @@ si 79
 Kaj 74
 za 73
 mi 67
-ni 65
+ni 66
 zelo 64
 glavno 64
 Jaz 60
@@ -461,6 +461,7 @@ zjutraj 4
 zame 4
 utrujena 4
 mraz 4
+Vem 4
 a 4
 rešitev 4
 kajne 4
@@ -663,7 +664,6 @@ bodi 3
 misli 3
 jim 3
 kaže 3
-Vem 3
 soba 3
 šli 3
 gore 3
@@ -3921,3 +3921,5 @@ Zgodovina 1
 ponavlja 1
 madžarska 1
 rumeno 1
+slab 1
+voznik 1

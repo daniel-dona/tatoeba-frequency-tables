@@ -1,8 +1,8 @@
 Tom 129021
-bir 101516
+bir 101517
 O 39249
 için 36025
-Bu 32783
+Bu 32784
 çok 29572
 ve 28413
 Tom'un 28099
@@ -11,7 +11,7 @@ Ben 22085
 ne 21504
 kadar 18102
 daha 18041
-değil 17952
+değil 17953
 mi 16837
 şey 16823
 olduğunu 16043
@@ -32,7 +32,7 @@ Onu 9760
 o 9450
 gibi 8749
 Tom'a 8585
-Bunu 8396
+Bunu 8397
 Sami 8264
 yok 8218
 istiyorum 7896
@@ -59,13 +59,13 @@ Tom'u 6229
 sadece 6056
 ama 5899
 yapmak 5858
-olarak 5793
+olarak 5794
 sonra 5695
 şeyi 5656
-burada 5647
+burada 5648
 Mary'ye 5617
 fazla 5442
-sana 5438
+sana 5439
 Neden 5390
 mu 5348
 Bana 5265
@@ -136,8 +136,8 @@ son 2922
 ediyorum 2917
 kim 2906
 hafta 2903
+para 2889
 Boston'da 2889
-para 2887
 gitti 2867
 Hiç 2859
 yemek 2853
@@ -251,7 +251,7 @@ tane 1743
 Herkes 1738
 yalnız 1735
 yapmaya 1728
-kaç 1722
+kaç 1723
 Şu 1711
 Keşke 1711
 ya 1710
@@ -327,7 +327,7 @@ kolay 1422
 yoksa 1397
 bazı 1387
 benden 1386
-ev 1380
+ev 1381
 olmalı 1373
 benimle 1365
 istedim 1365
@@ -413,7 +413,7 @@ yağmur 1089
 yapar 1087
 olacağım 1083
 yapacak 1080
-kimin 1074
+kimin 1075
 uyruğu 1073
 hala 1070
 Bazı 1069
@@ -542,9 +542,9 @@ olması 787
 oluyor 787
 çıkardı 786
 ciddi 785
+arkadaş 781
 görünüyorsun 781
 düşündü 781
-arkadaş 780
 olsun 779
 onların 779
 yaşında 778
@@ -560,8 +560,8 @@ yine 769
 ol 768
 attı 768
 Hangi 767
+dil 767
 istediğim 767
-dil 766
 olmasını 765
 süredir 764
 yaptığı 764
@@ -783,7 +783,7 @@ inanamıyorum 524
 eden 523
 al 522
 babası 522
-Kaç 520
+Kaç 521
 şarap 519
 söyleme 519
 akıllı 519
@@ -926,11 +926,11 @@ ortaya 438
 Yemek 437
 nadiren 437
 köpeği 436
-dili 435
 teklif 435
 çocukları 435
 sona 435
 Nerede 434
+dili 434
 çıkmak 433
 On 432
 sıkı 431
@@ -3699,6 +3699,7 @@ uyandı 104
 Genel 104
 yoluyla 104
 yapılmıştır 104
+kimdi 104
 vermezdi 104
 öpmek 104
 olasılıkla 104
@@ -3731,7 +3732,6 @@ Yorgun 103
 Farklı 103
 civarında 103
 mağaza 103
-kimdi 103
 alamam 103
 konuşmasını 103
 aklıma 103
@@ -4582,6 +4582,7 @@ Sigarayı 82
 Maç 82
 alanı 82
 olmayın 82
+Köpeğim 82
 sayfa 82
 hangisini 82
 vardığımda 82
@@ -4619,7 +4620,6 @@ Fransa 81
 giderdi 81
 keman 81
 kötüye 81
-Köpeğim 81
 durumun 81
 paramı 81
 çalışmıyorum 81
@@ -5941,6 +5941,7 @@ durma 61
 Yakın 61
 tur 61
 24 61
+Bira 61
 kapattım 61
 Nisan 61
 Afrika'da 61
@@ -6025,7 +6026,6 @@ kalkarım 60
 satılık 60
 konuşun 60
 Şarap 60
-Bira 60
 uzat 60
 deme 60
 ekonomi 60
@@ -8465,6 +8465,7 @@ duyarım 40
 görünmeye 40
 sıvı 40
 arabasıyla 40
+soruyorum 40
 sorumluyum 40
 sürdürdü 40
 hazırlanmak 40
@@ -8654,7 +8655,6 @@ Kazadan 39
 dereceye 39
 Çocuğu 39
 odasından 39
-soruyorum 39
 Kaybedecek 39
 Dünkü 39
 hatalarını 39

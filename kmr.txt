@@ -9,7 +9,7 @@ Ew 815
 ê 739
 û 664
 ye 644
-ku 612
+ku 611
 Em 544
 Tom 544
 Tu 522
@@ -28,7 +28,7 @@ Ji 256
 em 250
 jî 243
 wî 241
-ez 239
+ez 238
 tu 237
 Ev 230
 bû 219
@@ -794,7 +794,6 @@ bingehîn 7
 dîn 7
 bînim 7
 sax 7
-dibînim 7
 bav 7
 sî 7
 Baş 7
@@ -951,6 +950,7 @@ bilî 6
 bigirim 6
 vekir 6
 Sêv 6
+dibînim 6
 Pirtûka 6
 heval 6
 mirî 6
@@ -4442,7 +4442,6 @@ dîlana 1
 Kurdistan'ê 1
 govend 1
 dîlanan 1
-Rûyên 1
 Difikirîm 1
 dikaribûm 1
 kîfroşk 1

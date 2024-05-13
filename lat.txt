@@ -1,13 +1,13 @@
-est 10115
+est 10117
 et 4769
-in 4530
+in 4532
 Thomas 3615
-non 3476
+non 3477
 sunt 2223
 ad 1742
 mihi 1614
 / 1569
-esse 1416
+esse 1417
 sum 1358
 me 1305
 ut 1124
@@ -28,7 +28,7 @@ eius 686
 Didymus 685
 hoc 682
 mea 657
-eum 633
+eum 634
 habet 611
 qui 610
 erat 587
@@ -75,8 +75,8 @@ ab 308
 sumus 308
 nunc 306
 Si 302
+tuum 301
 Nihil 300
-tuum 300
 si 297
 facere 296
 e 295
@@ -95,8 +95,8 @@ ea 260
 tuus 258
 volo 256
 tu 256
+terra 253
 meam 253
-terra 252
 Ego 250
 nomen 248
 librum 248
@@ -104,7 +104,7 @@ Mariae 246
 Qui 244
 Ad 244
 fuit 243
-omnia 241
+omnia 242
 mei 240
 semper 239
 Pater 236
@@ -139,7 +139,7 @@ terram 198
 habitat 196
 Thoma 195
 quoque 193
-Ea 191
+Ea 192
 Quam 190
 illa 188
 post 181
@@ -622,6 +622,7 @@ populum 57
 nomine 57
 nondum 57
 malo 56
+bellum 56
 Opus 56
 Cui 56
 Numquam 56
@@ -630,7 +631,6 @@ libri 56
 aquae 56
 illam 56
 negavit 56
-bellum 55
 oportet 55
 medicus 55
 hominum 55
@@ -1089,6 +1089,7 @@ publico 32
 longe 32
 Aquila 32
 Proximo 32
+mortuum 32
 aves 32
 Die 32
 Didymi 32
@@ -1123,7 +1124,6 @@ ientaculum 31
 Mala 31
 acta 31
 adesse 31
-mortuum 31
 emisti 31
 Quocum 31
 inveni 31
@@ -1214,6 +1214,7 @@ aperire 29
 duxit 29
 posset 29
 plorat 29
+Putasne 29
 Canere 29
 Abram 29
 vōs 29
@@ -1268,7 +1269,6 @@ sanguine 28
 Velim 28
 vincere 28
 nostro 28
-Putasne 28
 egressus 28
 quantum 28
 Aliquando 27
@@ -1326,6 +1326,7 @@ Verba 26
 aliis 26
 timere 26
 lapidem 26
+Una 26
 amorem 26
 Uter 26
 probus 26
@@ -1377,7 +1378,6 @@ Rachel 26
 Narra 26
 fugit 25
 facti 25
-Una 25
 – 25
 aurum 25
 principio 25
@@ -2428,6 +2428,7 @@ mānsistis 15
 discimus 14
 aequales 14
 lavat 14
+veritas 14
 gladio 14
 studio 14
 capit 14
@@ -2589,7 +2590,6 @@ virgam 14
 idus 14
 incolit 14
 Historia 13
-veritas 13
 undique 13
 gloria 13
 Vade 13
@@ -4375,6 +4375,7 @@ senectutem 8
 ratio 8
 parce 8
 Vis 8
+aliena 8
 anglice 8
 vocabulo 8
 Iuliam 8
@@ -4908,7 +4909,6 @@ columbam 7
 formosus 7
 nepotes 7
 addidit 7
-aliena 7
 mendacium 7
 ebrius 7
 numeri 7
@@ -6481,6 +6481,7 @@ rus 5
 vixi 5
 peccati 5
 Dicitur 5
+saecula 5
 ipsam 5
 velocius 5
 pervenit 5
@@ -6768,6 +6769,7 @@ Digitabula 5
 ferrea 5
 quartum 5
 vates 5
+miratur 5
 pariete 5
 Illos 5
 latrat 5
@@ -7826,7 +7828,6 @@ centrum 4
 latrantem 4
 Olim 4
 Noctem 4
-saecula 4
 thea 4
 appetere 4
 spectare 4
@@ -8223,7 +8224,6 @@ pretii 4
 dulciarium 4
 Caritas 4
 famulus 4
-miratur 4
 Quamobrem 4
 Butyrum 4
 editis 4
