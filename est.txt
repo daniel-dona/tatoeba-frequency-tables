@@ -1,15 +1,15 @@
-on 1446
+on 1447
 Ma 908
 ei 719
 Tom 589
 sa 419
 Kas 414
-Ta 333
+Ta 334
 et 320
 See 272
 ma 214
 seda 203
-oma 193
+oma 194
 see 179
 oli 159
 ja 150
@@ -1419,6 +1419,7 @@ jalast 3
 nimekirja 3
 arsti 3
 ostan 3
+sees 3
 koosneb 3
 Helistan 3
 hauguvad 3
@@ -2218,7 +2219,6 @@ Tallinn 2
 hotellis 2
 itaalia 2
 viie 2
-sees 2
 häiris 2
 võivad 2
 tunnevad 2
@@ -6496,3 +6496,4 @@ Kustutasin 1
 faili 1
 lind 1
 usuvad 1
+mõtete 1

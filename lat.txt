@@ -1,4 +1,4 @@
-est 10117
+est 10118
 et 4769
 in 4532
 Thomas 3615
@@ -17,7 +17,7 @@ tibi 963
 cum 961
 Maria 958
 de 891
-Quid 844
+Quid 845
 Ubi 828
 es 781
 se 776
@@ -48,14 +48,14 @@ Quot 428
 ex 426
 quid 420
 Thomae 415
-meum 411
+meum 412
 dixit 384
 autem 381
 per 377
 Num 370
+tua 368
 potest 368
 Mariam 368
-tua 367
 ei 362
 eam 355
 Deus 354
@@ -235,12 +235,12 @@ Iam 125
 emere 124
 huius 124
 Quo 123
+filium 123
 filii 123
 tē 123
 videtur 122
 mane 122
 via 122
-filium 122
 Quomodo 122
 aqua 121
 meae 121
@@ -476,12 +476,12 @@ novi 71
 dicitur 71
 propter 71
 omni 71
+uxor 71
 multo 71
 omnium 71
 Multi 71
 femina 71
 edo 70
-uxor 70
 solus 70
 animal 70
 soror 70
@@ -2613,6 +2613,7 @@ Paulum 13
 decet 13
 iri 13
 silvis 13
+Amo 13
 voluptas 13
 isto 13
 saltat 13
@@ -2795,7 +2796,6 @@ videor 12
 sunt: 12
 exercitus 12
 nascitur 12
-Amo 12
 verborum 12
 Christus 12
 Facile 12
@@ -3515,6 +3515,7 @@ eandem 10
 Juno 10
 Ergo 10
 Amicitia 10
+periculosa 10
 Auctor 10
 notus 10
 operis 10
@@ -3850,7 +3851,6 @@ quocumque 9
 ponit 9
 Ubique 9
 ubique 9
-periculosa 9
 auctor 9
 dura 9
 videat 9

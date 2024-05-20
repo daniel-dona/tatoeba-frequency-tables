@@ -1,4 +1,4 @@
-ir 63
+ir 64
 Es 29
 ka 22
 Maņ 21
@@ -20,12 +20,12 @@ es 9
 mani 9
 kai 8
 kū 7
+kas 6
 sovu 6
 iz 6
 byut 6
 tev 5
 sevi 5
-kas 5
 jūs 5
 dareit 5
 ruodīs 5
@@ -52,6 +52,7 @@ itū 3
 Jam 3
 dīna 3
 mōte 3
+maņ 3
 raud 3
 koč 3
 muna 3
@@ -76,6 +77,7 @@ Nivīns 3
 tūs 3
 Tev 3
 piec 3
+Tei 3
 Itys 2
 Tu 2
 as 2
@@ -87,7 +89,6 @@ Jai 2
 Paļdis 2
 tauteņōs 2
 māmeņa 2
-maņ 2
 raud’i 2
 meita 2
 loba 2
@@ -156,7 +157,6 @@ Izavielej 2
 varātu 2
 kab 2
 Šudiņ 2
-Tei 2
 drupeit 2
 sīva 2
 Mareja 2
@@ -803,3 +803,7 @@ Bārnim 1
 īdzymta 1
 taisneibys 1
 izjiuta 1
+taida 1
+dūma 1
+pītaisei 1
+mūkys 1

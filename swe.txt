@@ -1,36 +1,36 @@
-är 11570
-Jag 11237
-att 7060
-Tom 7048
-inte 6895
+är 11572
+Jag 11239
+att 7062
+Tom 7053
+inte 6900
 du 5112
-en 5086
-på 4827
+en 5089
+på 4831
 det 4725
 i 4555
-har 4204
-Det 3861
+har 4206
+Det 3864
 Han 3400
 jag 3139
 mig 2706
-för 2674
-här 2644
-var 2596
+för 2677
+här 2646
+var 2597
 med 2444
 till 2353
 och 2319
 om 2249
 Hon 2071
-ett 1933
-som 1885
+ett 1934
+som 1886
 Vi 1882
 dig 1879
 den 1825
 kan 1672
 Du 1593
-av 1581
+av 1585
 han 1255
-kommer 1250
+kommer 1253
 sig 1209
 så 1185
 Vad 1157
@@ -52,7 +52,7 @@ där 773
 Har 771
 vara 767
 ha 753
-ut 734
+ut 739
 Var 733
 hade 732
 Den 721
@@ -60,7 +60,7 @@ vad 713
 din 690
 de 685
 tycker 641
-vet 629
+vet 631
 oss 620
 Kan 618
 än 618
@@ -80,7 +80,7 @@ er 516
 Min 515
 från 511
 aldrig 495
-någon 478
+någon 479
 gillar 461
 åt 457
 blev 435
@@ -114,9 +114,9 @@ efter 352
 älskar 349
 in 349
 över 346
+kom 346
 såg 344
 hur 344
-kom 344
 dem 336
 borde 335
 När 329
@@ -131,7 +131,7 @@ verkligen 307
 tre 305
 får 303
 mer 303
-år 296
+år 297
 I 294
 Toms 294
 barn 292
@@ -178,10 +178,10 @@ Detta 209
 hus 209
 köpte 206
 blir 205
+varit 204
 trodde 203
 också 203
 fel 202
-varit 202
 gav 201
 rätt 197
 prata 196
@@ -207,10 +207,10 @@ sett 182
 stor 181
 längre 180
 ofta 179
+sedan 179
+länge 178
 gammal 178
 varje 178
-länge 176
-sedan 176
 visste 175
 kaffe 174
 namn 174
@@ -336,10 +336,10 @@ föräldrar 105
 Talar 105
 problem 105
 Maria 105
+nästa 104
 stort 104
 kanske 104
 vem 104
-nästa 103
 blivit 103
 tio 103
 Ska 103
@@ -470,6 +470,7 @@ hos 74
 föll 74
 fyra 74
 båda 74
+dålig 73
 runt 73
 ätit 73
 Gillar 73
@@ -477,7 +478,6 @@ gärna 72
 land 72
 kort 72
 sex 72
-dålig 71
 tro 71
 Vilket 71
 saknar 71
@@ -500,13 +500,13 @@ låter 68
 tyska 67
 flera 67
 lunch 67
+sista 67
 använder 67
 låg 67
 Yanni 67
 kommit 66
 följa 66
 skrev 66
-sista 66
 tidigare 65
 kostar 65
 John 65
@@ -609,6 +609,7 @@ hört 55
 kläder 55
 inne 55
 Se 55
+knappt 55
 redo 55
 behövde 55
 meningen 55
@@ -620,7 +621,6 @@ Känner 54
 köra 54
 sak 54
 drack 54
-knappt 54
 hundar 54
 tyst 54
 betyder 53
@@ -711,6 +711,7 @@ steg 46
 nytt 46
 Nej 46
 sida 46
+måndag 46
 studerar 46
 öppnade 46
 färdig 46
@@ -750,7 +751,6 @@ känna 43
 ställa 43
 Och 43
 chans 43
-måndag 43
 skyldig 43
 månader 43
 jul 43
@@ -844,6 +844,7 @@ stad 38
 lägga 38
 Europa 38
 film 38
+senaste 38
 Paris 38
 saken 38
 ljög 38
@@ -858,9 +859,9 @@ fängelse 36
 exempel 36
 hör 36
 Polisen 36
+frågan 36
 spanska 36
 kött 36
-senaste 36
 goda 36
 personer 36
 hjärta 36
@@ -879,7 +880,6 @@ skall 35
 exakt 35
 God 35
 Ursäkta 35
-frågan 35
 ungefär 35
 glasögon 35
 Såg 35
@@ -1030,6 +1030,7 @@ hög 29
 mörkt 29
 råkade 29
 tjänst 29
+månad 29
 blind 29
 sommaren 29
 hälsa 29
@@ -1094,7 +1095,6 @@ försök 27
 består 27
 svaret 27
 Hej 27
-månad 27
 fattig 27
 gilla 27
 skorna 27
@@ -1121,6 +1121,7 @@ vädret 26
 tillhör 26
 tappat 26
 väggen 26
+Nästa 26
 talat 26
 Dessa 26
 lilla 26
@@ -1165,7 +1166,6 @@ Skriv 26
 humör 26
 Stockholm 26
 plånbok 25
-Nästa 25
 kräver 25
 Dina 25
 sjukdom 25
@@ -1245,6 +1245,7 @@ Markku 24
 Emily 24
 skjorta 23
 trädet 23
+ställde 23
 Ken 23
 åsikt 23
 kär 23
@@ -1289,8 +1290,8 @@ Dan 23
 "Jag 23
 fint 22
 ful 22
+fullt 22
 hänger 22
-ställde 22
 klocka 22
 därför 22
 hann 22
@@ -1333,7 +1334,6 @@ söker 21
 blommorna 21
 höger 21
 förklaring 21
-fullt 21
 bröder 21
 socker 21
 framtiden 21
@@ -1435,6 +1435,7 @@ simmar 20
 direkt 20
 sökte 20
 rena 20
+nummer 20
 Tala 20
 vila 20
 överleva 20
@@ -1616,7 +1617,6 @@ jacka 17
 rösta 17
 uppmärksamhet 17
 bjöd 17
-nummer 17
 Bra 17
 kompis 17
 lycka 17
@@ -2914,6 +2914,7 @@ projektet 8
 stulen 8
 Blunda 8
 bröst 8
+allra 8
 sakerna 8
 svårare 8
 översätter 8
@@ -3218,7 +3219,6 @@ ritade 7
 varma 7
 Harry 7
 styrka 7
-allra 7
 därinne 7
 populärt 7
 svaga 7
@@ -3323,6 +3323,7 @@ område 7
 pyjamas 7
 lovat 7
 hittills 7
+numret 7
 uppriktig 7
 armen 7
 färgen 7
@@ -3741,6 +3742,7 @@ kaka 6
 Absolut 6
 Arabiska 6
 svägerska 6
+Sista 6
 anställde 6
 arrogant 6
 jeans 6
@@ -3865,6 +3867,7 @@ katastrof 6
 drygt 6
 ägde 6
 Oslo 6
+tidskriften 6
 sjukdomar 6
 romantisk 6
 överdriver 6
@@ -3892,6 +3895,7 @@ kreativ 6
 frisören 6
 hummer 6
 samarbete 6
+bilförare 6
 poolen 6
 schampo 6
 kraftig 6
@@ -4321,7 +4325,6 @@ Bär 5
 falskt 5
 sötsaker 5
 tält 5
-Sista 5
 löneförhöjning 5
 Sitter 5
 onödigt 5
@@ -4435,6 +4438,7 @@ päls 5
 söta 5
 idioten 5
 stöd 5
+knapp 5
 webbläsare 5
 krävande 5
 förstörd 5
@@ -4519,7 +4523,6 @@ förlägen 5
 skamsen 5
 naiv 5
 beställt 5
-bilförare 5
 soldater 5
 bevisar 5
 överkörd 5
@@ -5092,7 +5095,6 @@ Resultatet 4
 noll 4
 Saken 4
 talare 4
-numret 4
 Sköt 4
 lösningen 4
 arga 4
@@ -5324,7 +5326,6 @@ Vakna 4
 förrgår 4
 invånare 4
 försäkra 4
-knapp 4
 Söker 4
 biljetterna 4
 rak 4
@@ -8430,6 +8431,7 @@ oantastbar 2
 anteckningsblock 2
 svensk” 2
 schweizisk” 2
+publicerades 2
 antonym 2
 anträffbar 2
 avlagt 2
@@ -9265,7 +9267,6 @@ Holly 2
 impuls 2
 hejdat 2
 ovanlig 2
-tidskriften 2
 fras 2
 Susanna 2
 födseln 2
@@ -9997,4 +9998,3 @@ Noll 2
 sommardag 2
 mörda 2
 illusion 2
-bärbar 2

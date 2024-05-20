@@ -1,17 +1,17 @@
 a 1249
 que 1152
 de 1107
-o 1028
+o 1029
 é 769
 non 597
 un 550
 O 545
-e 483
-A 444
+e 484
+A 445
 unha 432
 Non 418
 do 336
-en 310
+en 311
 da 279
 os 263
 máis 257
@@ -30,7 +30,7 @@ súa 182
 está 173
 Os 167
 miña 165
-seu 158
+seu 159
 Ela 150
 son 146
 ten 143
@@ -47,7 +47,7 @@ hai 93
 moito 89
 facer 88
 foi 86
-Por 84
+Por 85
 pero 82
 Se 81
 seus 81
@@ -99,8 +99,8 @@ traballo 54
 xa 53
 tarde 52
 Este 52
+pode 51
 Cando 51
-pode 50
 ás 50
 nos 49
 Esta 48
@@ -114,11 +114,11 @@ ir 45
 vez 45
 eu 44
 están 44
+aos 44
 che 43
 coche 43
 co 43
 quen 43
-aos 43
 pouco 42
 dúas 42
 Un 41
@@ -167,11 +167,11 @@ escola 33
 tes 33
 entre 33
 nosa 32
+agora 32
 ano 32
 antes 32
 nunca 32
 nome 31
-agora 31
 muller 31
 can 31
 todos 31
@@ -320,6 +320,7 @@ cunha 18
 Foi 18
 gato 18
 ouvir 18
+palabras 18
 fermosa 18
 profesor 17
 vello 17
@@ -338,7 +339,6 @@ libros 17
 outro 17
 María 17
 alguén 17
-palabras 17
 durmir 17
 pasado 17
 E 17
@@ -376,6 +376,7 @@ todas 15
 guerra 15
 saúde 15
 neste 15
+fin 15
 Miña 15
 razón 15
 uns 15
@@ -402,7 +403,6 @@ mozo 14
 estaban 14
 poden 14
 seguro 14
-fin 14
 tal 14
 Aínda 14
 fiestra 14
@@ -793,6 +793,7 @@ Sinto 7
 campo 7
 sábado 7
 humana 7
+humanos 7
 responder 7
 causa 7
 Si 7
@@ -912,7 +913,6 @@ bolsa 6
 domingo 6
 cociñar 6
 curto 6
-humanos 6
 remate 6
 oportunidade 6
 heroe 6
@@ -1514,6 +1514,7 @@ tradutor 4
 enxeñeira 4
 estea 4
 Entramos 4
+rostro 4
 pracer 4
 deber 4
 = 4
@@ -1940,6 +1941,7 @@ nace 3
 mata 3
 abondos 3
 tartarugas 3
+artificial 3
 lama 3
 xirasoles 3
 casca 3
@@ -1980,10 +1982,12 @@ soubo 3
 incorrecto 3
 ando 3
 longas 3
+intelixencia 3
 escalada 3
 adórao 3
 Dúas 3
 símbolo 3
+verdadeiro 3
 trouxeron 3
 mobles 3
 sorriso 3
@@ -2096,7 +2100,6 @@ mascota 3
 simple 3
 acento 3
 montañas 3
-rostro 3
 + 3
 expertos 3
 traducida 3
@@ -2104,6 +2107,7 @@ amante 3
 pensamentos 3
 esforzo 3
 ante 3
+superar 3
 Pregúntome 3
 médicos 3
 nomes 3
@@ -2246,6 +2250,7 @@ empregar 2
 encontran 2
 privadas 2
 Gustaríanos 2
+mostrou 2
 pintura 2
 despedirme 2
 equivocado 2
@@ -2877,7 +2882,6 @@ provocar 2
 Podemos 2
 campás 2
 construción 2
-artificial 2
 vasoira 2
 vantaxe 2
 rañaceos 2
@@ -2992,7 +2996,6 @@ comprou 2
 enteiro 2
 30 2
 dramático 2
-intelixencia 2
 compañeiro 2
 granxa 2
 gando 2
@@ -3001,7 +3004,6 @@ actual 2
 euro 2
 exceso 2
 causas 2
-verdadeiro 2
 Veu 2
 ducha 2
 indio 2
@@ -3448,7 +3450,6 @@ riba 2
 domina 2
 revela 2
 beneficio 2
-superar 2
 tontería 2
 expresión 2
 criado 2
@@ -3794,7 +3795,6 @@ públicas 1
 humor 1
 escalar 1
 pintor 1
-mostrou 1
 vocación 1
 debuxo 1
 líneas 1
@@ -9448,3 +9448,4 @@ Morre 1
 Benvidos 1
 Coidado 1
 Pizarro 1
+gráficos 1

@@ -51,9 +51,11 @@ kamel 16
 trubul 16
 phenel 16
 Si 15
+tu 15
 žanav 15
 akana 15
 bi 15
+So 14
 anda 14
 žanel 14
 sostar 14
@@ -62,9 +64,7 @@ me 13
 trubusardas 13
 Vo 12
 pe 12
-tu 12
 korkořo 12
-So 11
 dav 11
 avel 11
 thaj 11
@@ -209,6 +209,7 @@ De 3
 Dikh 3
 žanglem 3
 keren 3
+rat 3
 phen 3
 ažutisardas 3
 Muřo 3
@@ -277,6 +278,7 @@ Jov 2
 hin 2
 buťi 2
 Jekh 2
+efta 2
 skamina 2
 Kado 2
 kerde 2
@@ -292,7 +294,6 @@ Kindem 2
 kerdo 2
 nasvali 2
 šaj 2
-rat 2
 xabe 2
 mulo 2
 Trubul 2
@@ -402,6 +403,7 @@ kheldam 2
 Kheldam 2
 avas 2
 Keras 2
+aven 2
 khelen 2
 khêlimata 2
 sam 2
@@ -438,9 +440,12 @@ bokhalo 2
 sem 2
 englišitska 2
 Musay 2
+dui 2
 Šay 2
 Ay 2
 Hay 2
+Tšiȟko 2
+ȟunjula 2
 džala 1
 paše 1
 yekhe 1
@@ -469,7 +474,6 @@ marikľi 1
 štar 1
 pandž 1
 šov 1
-efta 1
 ochto 1
 eňa 1
 deš 1
@@ -840,7 +844,6 @@ xale 1
 savořê 1
 barilam 1
 Barilam 1
-aven 1
 Aven 1
 khelas 1
 Khelas 1
@@ -997,7 +1000,6 @@ pačas 1
 may 1
 dur 1
 rodimos 1
-dui 1
 asaye 1
 situatsiya 1
 Varekon 1
@@ -1044,3 +1046,22 @@ tšinnaa 1
 graija 1
 mo 1
 daadeskodad 1
+Iek 1
+triin 1
+staar 1
+pangȟ 1
+ȟou 1
+oȟta 1
+enja 1
+deȟ 1
+Paarkiba 1
+Saste 1
+tumenge 1
+tukke 1
+Aaȟȟen 1
+Deuleha 1
+Kai 1
+džaha 1
+Kaana 1
+souveha 1
+tšeereha 1

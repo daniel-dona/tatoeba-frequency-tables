@@ -2,7 +2,7 @@ es 172
 Me 111
 li 73
 Li 65
-Tom 61
+Tom 62
 non 55
 Ob 52
 vu 50
@@ -35,12 +35,12 @@ Mary 12
 ke 11
 bon 11
 pome 11
+odia 11
 Lu 10
 vus 10
 lu 10
 ha 10
 Manja 10
-odia 10
 filias 10
 le 8
 vivar 8
@@ -799,3 +799,4 @@ anate 1
 Bonvenio 1
 Urbes 1
 aborta 1
+Fem 1

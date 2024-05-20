@@ -1,16 +1,16 @@
  2217
-de 2172
+de 2180
 pas 1891
 a 1523
 la 1373
-es 1268
+es 1269
 lo 1183
 un 1029
 que 974
-Lo 814
-Tom 666
-una 590
-Es 587
+Lo 815
+Tom 669
+una 591
+Es 588
 La 436
 son 413
 Soi 371
@@ -35,14 +35,14 @@ qu'ei 168
 aquò 167
 deu 165
 al 160
+me 148
 soi 146
 tot 146
 aqueste 146
 mai 146
+te 145
 I 145
-me 144
 mès 143
-te 141
 Maria 141
 Vòli 139
 Èi 136
@@ -57,10 +57,10 @@ ton 118
 fòrça 117
 temps 116
 ua 116
-Se 114
+Se 115
+dins 112
 cau 112
 o 111
-dins 111
 anar 111
 Un 107
 veitura 106
@@ -212,6 +212,7 @@ Degun 38
 matin 38
 Mercés 38
 ora 38
+sembla 38
 jamai 38
 jornal 38
 vist 37
@@ -229,7 +230,6 @@ díser 36
 nadar 36
 rason 36
 problèma 36
-sembla 36
 amics 35
 jòc 35
 còps 35
@@ -559,6 +559,7 @@ mal 17
 lach 17
 Legís 17
 cat 17
+Quita 17
 Totis 16
 Quant 16
 n'anar 16
@@ -737,7 +738,7 @@ Miquèl 13
 Marselha 13
 enfants 13
 cuol 13
-Quita 13
+Daissa 13
 bacterias 13
 trist 13
 sòu 13
@@ -1044,7 +1045,6 @@ doctor 9
 drogat 9
 Vòstra 9
 Èrem 9
-Daissa 9
 coneis 9
 Vòl 9
 fagas 9
@@ -1152,6 +1152,7 @@ Bordèu 8
 levat 8
 Mas 8
 rota 8
+complètament 8
 volgut 8
 Dens 8
 meses 8
@@ -1291,7 +1292,6 @@ boca 7
 l'ajuda 7
 uman 7
 dempuèi 7
-complètament 7
 paginas 7
 escaladar 7
 decision 7
@@ -2365,6 +2365,8 @@ escuèlhs 4
 caramèl 4
 intuitiu 4
 ferida 4
+tormentar 4
+calcinar 4
 accès 3
 avètz 3
 potingas 3
@@ -3855,6 +3857,7 @@ recenta 2
 auta 2
 hascas 2
 mirga 2
+semblat 2
 tirat 2
 sénher 2
 sembli 2
@@ -4607,6 +4610,7 @@ complicis 2
 barricas 2
 voidas 2
 onglas 2
+ansiós 2
 lisar 2
 d'atrapar 2
 segment 2
@@ -4667,6 +4671,7 @@ lepa 2
 s'idratar 2
 carnsaladariá 2
 carnsalada 2
+altitud 2
 romana 2
 luòc 2
 impudéncia 2
@@ -7228,7 +7233,6 @@ end'uei 1
 véner 1
 l'interès 1
 Miar 1
-semblat 1
 evidéncia 1
 badinada 1
 aprovat 1
@@ -9994,7 +9998,3 @@ justícia 1
 restaurada 1
 Criticar 1
 vius 1
-baton 1
-pagues 1
-l'aimavi 1
-revelhat 1

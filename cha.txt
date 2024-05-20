@@ -1,19 +1,19 @@
-i 62
-si 45
+i 63
+si 46
 Kao 43
 na 42
 hao 33
 gi 32
 siha 19
+yu' 19
 hu 18
 Tom 18
 I 18
-yu' 18
 ni 17
 hamyo 17
 un 14
+ti 13
 Håfa 11
-ti 11
 guaha 11
 Ti 11
 dzu' 11
@@ -21,10 +21,10 @@ esti 11
 yan 10
 ha 10
 håfa 10
+Si 9
 para 9
 guě' 9
 ma 9
-Si 8
 gue' 8
 hit 8
 Guaha 8
@@ -36,9 +36,10 @@ Hafa 7
 ham 7
 Ha 7
 Amerikanu 7
+u 6
 na'ån 6
 Gago' 6
-u 5
+Yu'us 5
 Ni 5
 ginen 5
 Man 5
@@ -49,7 +50,6 @@ Estudiånte 5
 Åmko'ña 5
 kinu 5
 fino' 4
-Yu'us 4
 Håyi 4
 malago' 4
 Sa' 4
@@ -83,6 +83,8 @@ hungok 3
 Maila' 3
 fumino' 3
 ha' 3
+Sam 3
+bås 3
 båba 3
 Gof 3
 dihas 3
@@ -102,6 +104,8 @@ biåhe 2
 palao'an 2
 fan 2
 Para 2
+Ohala 2
+homlo' 2
 polisia 2
 hafa 2
 Gaige 2
@@ -115,6 +119,7 @@ taimanu 2
 guě 2
 gof 2
 manhahaso 2
+Malago' 2
 kumu 2
 En 2
 sigenti 2
@@ -138,8 +143,6 @@ Tådza' 2
 la 2
 lataftaf 2
 kahulŏ' 2
-Sam 2
-bås 2
 falag 2
 mohon 2
 Mary 2
@@ -158,6 +161,7 @@ famagu'on 2
 mina' 2
 trankanya 2
 idza 2
+malak 2
 Ñålang 2
 ma'åsi' 2
 Mediku 2
@@ -176,6 +180,7 @@ Españot 2
 Hoben 2
 Manhoben 2
 Mangago' 2
+gimå'-hu 2
 lapes-mu 2
 lapes-miyu 2
 patgon-mu 2
@@ -187,6 +192,7 @@ på'go 2
 chumocho 2
 malago'-mu 2
 Ekungok 2
+nu 2
 Cha'-mu 2
 mandádagi 2
 masångan-ña 1
@@ -240,8 +246,6 @@ guåhu 1
 guiya 1
 åpåsi 1
 todu 1
-Ohala 1
-homlo' 1
 åpmam 1
 Ågang 1
 ngai'an 1
@@ -313,7 +317,6 @@ maoleg 1
 inatanhu 1
 Rason 1
 uniko 1
-Malago' 1
 kumåti 1
 a'gang 1
 dikikě' 1
@@ -740,7 +743,6 @@ islan 1
 Ginen 1
 gumera 1
 rusia 1
-malak 1
 presidenten 1
 bisita 1
 Okinawa 1
@@ -845,7 +847,6 @@ Hapunés 1
 familiå-hu 1
 karetå-hu 1
 che'lu-hu 1
-gimå'-hu 1
 lepblo-ku 1
 salappe'-hu 1
 na'-hu 1
@@ -875,5 +876,13 @@ tiempo-ku 1
 Tailugåt 1
 tinane' 1
 humanao 1
-nu 1
 minagåhet 1
+Dångkolo 1
+Frånsia 1
+Komu 1
+látaftaf 1
+kahulo' 1
+diningu 1
+apmam 1
+håo 1
+ma'åse' 1
