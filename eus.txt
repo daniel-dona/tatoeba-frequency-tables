@@ -47,11 +47,11 @@ nintzen 73
 ikusi 68
 Mary 65
 izango 64
+Ni 62
 egon 62
 egingo 62
 Zenbat 62
 zer 61
-Ni 61
 dela 61
 Zure 60
 edo 60
@@ -128,12 +128,12 @@ beharko 31
 arte 31
 Zergatik 31
 gaur 31
+nuke 30
 orain 30
 duela 30
 jaten 30
 gertatu 30
 guztia 29
-nuke 29
 ni 28
 egiteko 28
 nahiko 28
@@ -202,6 +202,7 @@ Bi 20
 jakin 20
 etorriko 20
 Beti 19
+zu 19
 ikasi 19
 dezaket 19
 nik 19
@@ -213,7 +214,6 @@ lagundu 19
 Bai 18
 jarri 18
 pentsatu 18
-zu 18
 zaio 18
 asmatu 18
 Bihar 18
@@ -240,6 +240,7 @@ zenuke 17
 ama 17
 bai 17
 Badakit 17
+esango 17
 Oraindik 17
 ahaztu 16
 autoa 16
@@ -257,7 +258,6 @@ baduzu 16
 Nor 16
 gogoko 16
 jan 16
-esango 16
 irakurtzen 15
 mina 15
 berriro 15
@@ -557,6 +557,7 @@ beldur 8
 Tomekin 8
 jantzi 8
 jarraitu 8
+banintz 8
 Lurra 7
 sentitu 7
 bueltatu 7
@@ -644,7 +645,6 @@ Mary-k 7
 abesten 7
 itxaroten 7
 erdia 7
-banintz 7
 Haren 6
 gaitezen 6
 zaitu 6
@@ -1553,6 +1553,7 @@ Ezinezkoa 3
 hondartzan 3
 Bigarren 3
 Handia 3
+baietz 3
 gurasoekin 3
 egunean 3
 Beharbada 3
@@ -2348,7 +2349,6 @@ gerra 2
 kanadarra 2
 laztana 2
 zara" 2
-baietz 2
 osabarekin 2
 Hiroshiman 2
 1945 2

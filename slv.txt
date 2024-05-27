@@ -2,10 +2,10 @@ je 969
 Ali 226
 sem 171
 se 168
-v 158
+v 162
 Tom 128
 so 112
-ne 106
+ne 107
 in 104
 da 92
 na 90
@@ -49,10 +49,10 @@ govorim 31
 Kdo 28
 ti 28
 po 28
+Danes 27
 Zakaj 27
 živi 27
 Je 26
-Danes 26
 Mary 25
 bila 24
 kot 24
@@ -157,6 +157,7 @@ nekaj 10
 prijatelj 10
 tega 10
 Bila 10
+danes 10
 slovensko 10
 povedal 9
 svoj 9
@@ -172,7 +173,6 @@ brez 9
 Nikoli 9
 tri 9
 tudi 9
-danes 9
 hvala 9
 brat 9
 dve 8
@@ -188,6 +188,7 @@ nisem 8
 žena 8
 kako 8
 Mislim 8
+bomo 8
 Rad 8
 vreme 8
 vsi 8
@@ -212,8 +213,8 @@ ob 7
 zakaj 7
 ljudi 7
 enega 7
+šolo 7
 nič 7
-bomo 7
 videl 7
 hoče 7
 Nič 7
@@ -243,7 +244,6 @@ kdaj 6
 mama 6
 drugi 6
 Včeraj 6
-šolo 6
 naredil 6
 Kakšno 6
 utrujen 6
@@ -286,6 +286,7 @@ eno 5
 treba 5
 roke 5
 sestra 5
+Otroci 5
 ljubezen 5
 Oprostite 5
 bolj 5
@@ -405,7 +406,6 @@ moč 4
 Slovenska 4
 skrbi 4
 nedelja 4
-Otroci 4
 Končno 4
 petek 4
 hiša 4
@@ -465,6 +465,7 @@ Vem 4
 a 4
 rešitev 4
 kajne 4
+šli 4
 vedeti 4
 mesec 4
 svoboda 4
@@ -570,6 +571,7 @@ temno 4
 bije 4
 izvira 4
 stvar 4
+šoli 4
 Izgubil 3
 verjamem 3
 držati 3
@@ -628,6 +630,7 @@ tedna 3
 boli 3
 dolge 3
 stvari 3
+niso 3
 zunaj 3
 zimo 3
 Še 3
@@ -665,7 +668,6 @@ misli 3
 jim 3
 kaže 3
 soba 3
-šli 3
 gore 3
 Boston 3
 nam 3
@@ -814,7 +816,6 @@ abecede 3
 pajkovci 3
 Katera 3
 Ščurki 3
-šoli 3
 Znaš 2
 Ujgur 2
 zelene 2
@@ -937,7 +938,6 @@ zmeraj 2
 Glava 2
 Maria 2
 pravi 2
-niso 2
 toplo 2
 mami 2
 začetek 2
@@ -1445,6 +1445,8 @@ Katero 2
 Angliji 2
 Kati 2
 Wolf 2
+Gremo 2
+restavracijo 2
 gospod 1
 Ogawa 1
 Francoz 1
@@ -3923,3 +3925,5 @@ madžarska 1
 rumeno 1
 slab 1
 voznik 1
+bližnjo 1
+oddaljeno 1

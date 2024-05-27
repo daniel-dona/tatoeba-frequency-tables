@@ -4,7 +4,7 @@ e 1033
 ji 1000
 min 996
 bi 936
-li 830
+li 831
 Ew 815
 ê 739
 û 664
@@ -16,7 +16,7 @@ Tu 522
 me 519
 te 498
 de 465
-ne 404
+ne 406
 re 388
 Min 362
 Hûn 306
@@ -75,8 +75,8 @@ Bi 103
 hev 101
 ev 96
 Divê 93
+dibistanê 92
 kiriye 91
-dibistanê 91
 ve 87
 malê 87
 xweş 86
@@ -152,8 +152,8 @@ tên 42
 dît 41
 zêde 41
 bê 41
+îro 41
 nake 40
-îro 40
 çima 40
 bibin 40
 yek 39
@@ -553,6 +553,7 @@ nikarî 10
 dengê 10
 derbarê 10
 zehmet 10
+Zarok 10
 mir 10
 Kîjan 10
 tije 10
@@ -617,7 +618,6 @@ pirsî 9
 dixwin 9
 werim 9
 mi 9
-Zarok 9
 kirina 9
 diaxivin 9
 xwarina 9

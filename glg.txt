@@ -1,19 +1,19 @@
-a 1249
-que 1152
-de 1107
+a 1250
+que 1153
+de 1110
 o 1029
-é 769
+é 770
 non 597
 un 550
-O 545
-e 484
+O 546
+e 485
 A 445
 unha 432
-Non 418
-do 336
+Non 420
+do 337
 en 311
-da 279
-os 263
+da 280
+os 266
 máis 257
 para 250
 no 228
@@ -22,7 +22,7 @@ por 217
 as 216
 meu 215
 ao 214
-El 196
+El 197
 na 190
 se 189
 á 184
@@ -32,16 +32,16 @@ Os 167
 miña 165
 seu 159
 Ela 150
-son 146
+son 147
 ten 143
-con 136
+con 138
 moi 128
 É 128
 me 122
 dos 116
 Que 113
+como 104
 casa 103
-como 103
 ser 98
 hai 93
 moito 89
@@ -49,9 +49,9 @@ facer 88
 foi 86
 Por 85
 pero 82
+As 82
 Se 81
 seus 81
-As 81
 todo 77
 pola 77
 el 76
@@ -60,7 +60,7 @@ ou 76
 túa 76
 mañá 75
 das 75
-teu 73
+teu 74
 Teño 73
 vida 71
 día 70
@@ -77,10 +77,10 @@ Eu 63
 podo 63
 te 63
 favor 62
+ela 61
 pai 61
 este 61
 anos 61
-ela 60
 só 59
 nai 59
 teño 59
@@ -121,13 +121,13 @@ co 43
 quen 43
 pouco 42
 dúas 42
+dous 41
+ver 41
 Un 41
 Quen 40
 hoxe 40
 vai 40
 algo 40
-dous 40
-ver 40
 porque 40
 ter 40
 iso 40
@@ -159,6 +159,7 @@ estou 35
 moitas 34
 sobre 34
 bo 34
+todos 34
 falar 34
 quero 33
 moitos 33
@@ -174,7 +175,6 @@ nunca 32
 nome 31
 muller 31
 can 31
-todos 31
 noso 31
 estar 31
 Onde 31
@@ -547,6 +547,7 @@ vento 10
 maioría 10
 mor 10
 fumar 10
+túas 10
 realidade 10
 cedo 10
 - 10
@@ -605,7 +606,6 @@ esforzos 9
 traballa 9
 Estaba 9
 traducir 9
-túas 9
 grazas 9
 animal 9
 mirar 9
@@ -761,6 +761,7 @@ verdes 7
 ós 7
 vermello 7
 montaña 7
+estará 7
 escribe 7
 Colón 7
 correo 7
@@ -812,6 +813,7 @@ sala 7
 precisa 7
 goberno 7
 pór 7
+falan 7
 existe 7
 estivo 7
 eran 7
@@ -879,7 +881,6 @@ necesario 6
 grupo 6
 Él 6
 dereitos 6
-estará 6
 público 6
 radio 6
 gústalle 6
@@ -946,7 +947,6 @@ abondo 6
 branca 6
 almofada 6
 última 6
-falan 6
 Polo 6
 nena 6
 puxo 6
@@ -956,6 +956,7 @@ dixen 6
 dela 6
 exemplo 6
 deixou 6
+mil 6
 piano 6
 chegue 6
 bebida 6
@@ -1147,12 +1148,12 @@ serio 5
 ovo 5
 pel 5
 queda 5
+detrás 5
 suposto 5
 vellos 5
 comprender 5
 comprar 5
 intre 5
-mil 5
 traballadores 5
 cantar 5
 oración 5
@@ -1433,7 +1434,6 @@ semáforo 4
 planta 4
 helicóptero 4
 come 4
-detrás 4
 agás 4
 tempura 4
 deu 4
@@ -1466,6 +1466,7 @@ medran 4
 la 4
 Xulio 4
 raposo 4
+pescozo 4
 Déixame 4
 deica 4
 Ata 4
@@ -1483,6 +1484,7 @@ chinés 4
 Asia 4
 buscando 4
 decembro 4
+campos 4
 morreron 4
 seca 4
 chea 4
@@ -1955,7 +1957,6 @@ romano 3
 pesadelo 3
 col 3
 fondos 3
-pescozo 3
 bailar 3
 anel 3
 aproximadamente 3
@@ -2029,7 +2030,6 @@ Ser 3
 cuestión 3
 parada 3
 Alexandre 3
-campos 3
 Pensei 3
 oficial 3
 Habémoste 3
@@ -2666,6 +2666,7 @@ presentes 2
 sona 2
 ledo 2
 estiveses 2
+hebreo 2
 mantenta 2
 décimo 2
 lavala 2
@@ -3126,6 +3127,7 @@ alternativas 2
 Aborrezo 2
 colar 2
 irmanciño 2
+David 2
 tantas 2
 bebe 2
 Grande 2
@@ -3263,6 +3265,7 @@ Aprendín 2
 nativo 2
 Atenas 2
 civilizacións 2
+escudos 2
 tradicionais 2
 Gústanos 2
 Elas 2
@@ -3529,6 +3532,7 @@ deserto 2
 eloxia 2
 bicos 2
 cabras 2
+meixelas 2
 pendentes 2
 prata 2
 mirra 2
@@ -3541,6 +3545,8 @@ raposos 2
 alma: 2
 busqueino 2
 pinga 2
+pódense 2
+veo 2
 extremos 2
 Celebramos 1
 temía 1
@@ -4987,7 +4993,6 @@ emprestara 1
 contratouno 1
 atropelou 1
 veute 1
-hebreo 1
 limpa-lo 1
 Pisoume 1
 rebeldía 1
@@ -6543,7 +6548,6 @@ penduraba 1
 visitaches 1
 potábel 1
 anoxado 1
-David 1
 consegue 1
 Avó 1
 Burj 1
@@ -7359,7 +7363,6 @@ Cidade 1
 Vaticano 1
 independente 1
 Italia 1
-escudos 1
 leóns 1
 rampantes 1
 representación 1
@@ -9285,7 +9288,6 @@ quererte 1
 Amada 1
 compárote 1
 enganchada 1
-meixelas 1
 colares 1
 Farémosche 1
 filigranas 1
@@ -9431,8 +9433,6 @@ xéranse 1
 fel 1
 aceda 1
 grans 1
-pódense 1
-veo 1
 espalla 1
 ladeiras 1
 Galaad 1
@@ -9449,3 +9449,13 @@ Benvidos 1
 Coidado 1
 Pizarro 1
 gráficos 1
+fértiles 1
+xudeus 1
+cortes 1
+granada 1
+torre 1
+construída 1
+parapetos 1
+penden 1
+armaduras 1
+heroes 1

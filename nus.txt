@@ -1,6 +1,6 @@
 kɛ 568
-Töm 458
-ɛ 292
+Töm 459
+ɛ 293
 jɛ 262
 cɛ 202
  186
@@ -278,6 +278,7 @@ pay 7
 dä 7
 thi̱ɛlɛ 7
 lɛp 7
+/ciɛ 7
 Nhɔk 7
 cän 7
 Tömɛ 7
@@ -314,13 +315,13 @@ waaŋ 6
 ŋot 6
 buɔ̱m 6
 dhil 6
-/ciɛ 6
 ɛgɔa 6
 wäl 6
 tɛ̈ɛ̈th 6
 juëy 6
 mi̱äth 6
 kenɛ 6
+mäth 6
 Thi̱ɛlɛ 6
 nhi̱al 6
 A 5
@@ -381,7 +382,6 @@ thuurɛ 5
 li̱ŋ 5
 di̱ɛɛr 5
 Dëri̱ 5
-mäth 5
 Tha̱mi̱i̱ 5
 Cu 5
 gɔ̱rkä 5
@@ -1024,6 +1024,7 @@ löŋ 2
 mɛk 2
 bäär 2
 duɔ̱p 2
+mäthdä 2
 bɔth 2
 Li̱ɛŋɛli̱thni̱ 2
 Ci̱aŋ 2
@@ -2526,7 +2527,6 @@ Yanaa 1
 gubay 1
 cäykä 1
 kɔkɔ 1
-mäthdä 1
 Cɔdä 1
 köt 1
 ti̱kdɛ 1
@@ -2940,3 +2940,4 @@ puäny 1
 dääb 1
 thieec 1
 nhɔak 1
+ci̱ëkdä 1

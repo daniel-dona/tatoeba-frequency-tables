@@ -5,7 +5,7 @@ Tom 1146
 tidak 1113
 di 717
 awak 702
-itu 620
+itu 621
 ini 586
 akan 566
 untuk 552
@@ -105,7 +105,7 @@ sebuah 61
 Perancis 61
 melihat 61
 Bolehkah 61
-oleh 59
+oleh 60
 diri 59
 sahaja 59
 sebelum 58
@@ -114,10 +114,10 @@ pasti 58
 sesuatu 57
 sendiri 57
 mungkin 57
+dua 56
 hanya 56
 Ia 56
 sekolah 55
-dua 55
 juga 55
 setiap 54
 ia 54
@@ -852,6 +852,7 @@ negeri 7
 menggemari 7
 Korea 7
 menangkap 7
+ekor 7
 Kerana 7
 arah 7
 Betapa 7
@@ -972,7 +973,6 @@ asing 6
 hadiah 6
 cerita 6
 sekelas 6
-ekor 6
 Ken 6
 ulang 6
 sekurang-kurangnya 6
@@ -1180,6 +1180,7 @@ Si 5
 membuatnya 5
 pasport 5
 Pulau 5
+monyet 5
 Sabtu 5
 kakaknya 5
 miskin 5
@@ -1405,7 +1406,6 @@ New 4
 urusan 4
 sukakan 4
 Meja 4
-monyet 4
 ingatan 4
 lemak 4
 jarang 4
@@ -2048,6 +2048,7 @@ Kini 3
 awak" 3
 sembunyikan 3
 berkemungkinan 3
+Pesawat 3
 merenung 3
 hubungan 3
 menanggalkan 3
@@ -2939,7 +2940,6 @@ memeriksanya 2
 ringkas 2
 mengulangkaji 2
 kacak 2
-Pesawat 2
 diam 2
 rempah 2
 Sebaik 2
@@ -7547,3 +7547,4 @@ No 1
 47 1
 Félicette 1
 terjun 1
+dikendali 1

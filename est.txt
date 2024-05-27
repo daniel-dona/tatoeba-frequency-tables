@@ -1,20 +1,20 @@
-on 1447
+on 1448
 Ma 908
 ei 719
 Tom 589
 sa 419
-Kas 414
+Kas 416
 Ta 334
 et 320
 See 272
 ma 214
 seda 203
-oma 194
+oma 196
 see 179
 oli 159
 ja 150
+ta 146
 ole 145
-ta 144
 Sa 137
 olen 135
 Mul 130
@@ -78,10 +78,10 @@ tagasi 40
 talle 39
 Ära 39
 Tomil 39
+tema 38
 täna 38
 kaks 38
 aga 37
-tema 37
 tahab 37
 koer 37
 nad 36
@@ -749,6 +749,7 @@ tark 5
 pere 5
 hiljaks 5
 Neil 5
+arvutit 5
 kuud 5
 Saksamaal 5
 oskan 5
@@ -1019,6 +1020,7 @@ täpselt 4
 Ühendriikides 4
 hobuse 4
 tugevam 4
+kasutab 4
 oodata 4
 televiisorit 4
 valutab 4
@@ -1236,7 +1238,6 @@ märk 3
 teeninud 3
 nuttis 3
 Jack 3
-arvutit 3
 sõitsin 3
 autojuht 3
 mustad 3
@@ -1360,6 +1361,7 @@ neil 3
 palli 3
 nädalal 3
 linnu 3
+lipp 3
 suudab 3
 ajada 3
 jõudsin 3
@@ -1506,6 +1508,7 @@ mägedes 2
 muretse 2
 meelde 2
 Jõe 2
+Igal 2
 pakk 2
 paberit 2
 Eestis 2
@@ -2039,7 +2042,6 @@ hullemaks 2
 kuulis 2
 pealt 2
 apelsinid 2
-lipp 2
 naeratus 2
 loodab 2
 meeles 2
@@ -2113,7 +2115,6 @@ Ricardo 2
 hammas 2
 Loodame 2
 elasid 2
-kasutab 2
 hakkad 2
 julgustavalt 2
 põlema 2
@@ -2622,7 +2623,6 @@ elamut 1
 pühapäeval 1
 tutvun 1
 teosega 1
-Igal 1
 linnul 1
 Praegu 1
 päevad 1
@@ -6497,3 +6497,4 @@ faili 1
 lind 1
 usuvad 1
 mõtete 1
+riigil 1

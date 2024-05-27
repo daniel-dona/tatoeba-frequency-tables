@@ -1,8 +1,8 @@
 'e' 2208
 tam 1908
 ghaH 1322
-'oH 858
-Hol 844
+'oH 859
+Hol 845
 Hoch 697
 je 674
 'ej 567
@@ -34,7 +34,7 @@ jIHvaD 241
 cha' 239
 tu'lu' 238
 chu' 234
-DIvI' 226
+DIvI' 227
 Duj 221
 net 221
 juH 220
@@ -54,7 +54,7 @@ latlh 183
 jaj 182
 chaq 181
 wa'Hu' 176
-'Iv 174
+'Iv 175
 paq 173
 'ar 169
 poH 168
@@ -448,6 +448,7 @@ qech 27
 je'ta' 27
 qul 27
 ghojwI'pu' 27
+Hol'e' 27
 teH 27
 luneH 27
 me'rIyvaD 27
@@ -464,7 +465,6 @@ be'nalwI' 26
 Qun 26
 loDpu' 26
 yapbe' 26
-Hol'e' 26
 DaSjaj 26
 parmaq 25
 SoHtaH 25
@@ -806,6 +806,7 @@ qatlhej 14
 mInDu' 14
 pumpu' 14
 Sargh 14
+wo' 14
 Qe' 14
 jIDoy' 14
 bIQDaq 14
@@ -871,7 +872,6 @@ latIyna 14
 mu'ghomvam 13
 qaStaH 13
 bel 13
-wo' 13
 Sub 13
 qoS 13
 lI' 13

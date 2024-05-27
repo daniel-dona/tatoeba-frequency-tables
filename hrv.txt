@@ -1,6 +1,6 @@
 je 1719
 se 623
-u 557
+u 558
 sam 464
 da 415
 li 393
@@ -135,6 +135,7 @@ učiniti 26
 Dobro 25
 po 25
 engleski 25
+danas 25
 već 25
 molim 25
 Oni 24
@@ -144,7 +145,6 @@ Svi 24
 bili 24
 Molim 24
 dvije 24
-danas 24
 jedan 24
 dobar 23
 čovjek 23
@@ -280,6 +280,7 @@ riječ 14
 Budi 14
 hladno 14
 žene 14
+nisu 14
 koliko 14
 pitanje 13
 dva 13
@@ -299,7 +300,6 @@ tebi 13
 Tomu 13
 nisi 13
 znao 13
-nisu 13
 tvoja 12
 Vrijeme 12
 svijetu 12
@@ -515,6 +515,7 @@ sin 8
 lijep 8
 igrati 8
 dječaka 8
+školi 8
 večeras 8
 Ništa 8
 govorio 8
@@ -575,7 +576,6 @@ djeca 7
 pjevačica 7
 pravi 7
 nakon 7
-školi 7
 Dobio 7
 Puno 7
 zabavu 7
@@ -866,6 +866,7 @@ očima 5
 drugih 5
 najviši 5
 Tomova 5
+Djeca 5
 Europe 5
 obaviti 5
 Dali 5
@@ -1141,7 +1142,6 @@ razmišljao 4
 Želimo 4
 jedini 4
 pozvao 4
-Djeca 4
 Srbije 4
 par 4
 Ove 4

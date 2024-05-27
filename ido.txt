@@ -1,20 +1,20 @@
 esas 2830
-Me 2258
-la 2195
+Me 2263
+la 2197
 ne 1291
-La 1010
-Tom 994
-me 870
-tu 842
-Ka 706
-es 667
+La 1012
+Tom 1001
+me 871
+tu 845
+Ka 712
+es 687
 en 592
-havas 577
-Il 455
-Ni 410
-vu 406
+havas 587
+Il 459
+Ni 412
+vu 409
 ke 399
-mea 393
+mea 394
 di 393
 a 380
 esis 371
@@ -22,13 +22,13 @@ e 353
 volas 318
 povas 301
 tre 296
-Tu 278
+Tu 280
 por 265
 Mea 261
-il 255
+il 256
 El 246
 plu 224
-kun 206
+kun 207
 to 206
 de 204
 bona 199
@@ -55,13 +55,13 @@ libro 127
 Elu 127
 Ube 126
 Pro 120
-Mary 119
+Mary 120
 amas 118
 Esas 117
 bezonas 116
-multa 114
+multa 115
+Vu 113
 granda 112
-Vu 112
 hike 111
 Quon 106
 lo 104
@@ -69,7 +69,7 @@ pro 103
 vua 103
 maxim 102
 tro 100
-Ta 98
+Ta 99
 du 98
 pensas 97
 omna 96
@@ -80,13 +80,13 @@ hundo 95
 ca 93
 mustas 93
 kato 92
+linguo 90
+Quo 90
 ma 90
 lernas 90
 per 89
-linguo 89
 sur 89
 quale 89
-Quo 89
 nun 88
 vidis 88
 ta 87
@@ -97,9 +97,9 @@ ilu 83
 multe 83
 vere 80
 manjas 80
+Ca 79
 patro 77
 dum 77
-Ca 77
 nia 76
 bone 76
 sempre 75
@@ -109,12 +109,12 @@ Maria 74
 odias 73
 su 72
 ad 72
+Ol 71
+nova 71
 nomesas 71
-nova 70
 pekunio 70
 sen 69
 vivo 69
-Ol 69
 ed 69
 Ica 67
 dicis 67
@@ -147,10 +147,10 @@ al 52
 Nulu 52
 tante 52
 elu 52
+esos 51
 konocas 51
 irar 50
 vidas 50
-esos 50
 amiki 49
 Omna 49
 on 49
@@ -184,6 +184,7 @@ tri 43
 Vi 42
 ka 42
 urbo 42
+Sami 42
 venas 41
 o 41
 On 40
@@ -192,12 +193,12 @@ importanta 40
 lojas 40
 se 40
 lando 40
-Sami 40
 vidar 39
 che 39
 infanti 39
 okuli 39
 libri 38
+chambro 38
 manjis 38
 kati 37
 komprenas 37
@@ -205,7 +206,6 @@ iras 37
 deziras 37
 kom 37
 vivas 37
-chambro 37
 iris 37
 til 37
 felica 36
@@ -244,6 +244,7 @@ Tua 31
 Ido 31
 mala 31
 filiulo 31
+co 31
 trovis 30
 venos 30
 lektar 30
@@ -266,7 +267,6 @@ matino 30
 Ziri 30
 agar 29
 dicar 29
-co 29
 reda 29
 Tatoeba 28
 iros 28
@@ -430,7 +430,9 @@ loko 17
 Nun 17
 Multa 17
 Australia 17
+lente 17
 Hodie 17
+rivero 17
 De 17
 forta 17
 olda 17
@@ -446,14 +448,13 @@ omnu 16
 mustis 16
 milito 16
 verajo 16
-lente 16
 questionis 16
 saneso 16
-rivero 16
 nigra 16
 instruktisto 16
 uzas 16
 ucelo 16
+larja 16
 portis 16
 stranja 16
 Vivez 16
@@ -523,6 +524,7 @@ sucesis 14
 nulatempe 14
 apud 14
 koloro 14
+Plu 14
 Dum 13
 "Ka 13
 Japoniana 13
@@ -556,7 +558,6 @@ vakua 13
 Vua 13
 komprenis 13
 helpas 13
-Plu 13
 mortinta 13
 ociema 13
 Lua 12
@@ -594,6 +595,7 @@ esez 12
 recevis 12
 propra 12
 certe 12
+strado 12
 populo 12
 sango 12
 India 12
@@ -653,8 +655,8 @@ eventas 11
 Venez 11
 plezas 11
 komprenar 11
-strado 11
 A 11
+shultri 11
 demokratio 11
 Kun 11
 unika 11
@@ -726,6 +728,7 @@ vento 10
 rezidas 10
 rejo 10
 buxo 10
+faliis 10
 sucesas 10
 perdita 10
 forsan 10
@@ -798,11 +801,13 @@ chipa 9
 korekta 9
 hungroza 9
 amoro 9
+bezonis 9
 roko 9
 pladi 9
 amo 9
 koquas 9
 mentiis 9
+jaluza 9
 vartas 9
 Hungariana 9
 dansis 9
@@ -876,6 +881,7 @@ yunulo 8
 ciel-arko 8
 Ita 8
 puerini 8
+povo 8
 autobuso 8
 obskura 8
 oli 8
@@ -891,7 +897,6 @@ interesas 8
 sekura 8
 nivas 8
 boko 8
-bezonis 8
 simii 8
 pasas 8
 espero 8
@@ -940,6 +945,7 @@ explikar 7
 l'amoro 7
 Prenez 7
 ti 7
+Jim 7
 serchis 7
 stulo 7
 le 7
@@ -999,13 +1005,11 @@ korto 7
 enemiko 7
 leono 7
 Ibe 7
-larja 7
 L'uceli 7
 adreso 7
 Qui 7
 postmarki 7
 kolektas 7
-povo 7
 pauzo 7
 sukro 7
 valoras 7
@@ -1079,7 +1083,6 @@ botelo 6
 mariajita 6
 trovas 6
 lektez 6
-Jim 6
 mil 6
 pedi 6
 kontenta 6
@@ -1138,6 +1141,7 @@ movar 6
 plajo 6
 laute 6
 motivo 6
+evidenta 6
 mariajar 6
 festo 6
 precipue 6
@@ -1320,7 +1324,6 @@ saturdio 5
 Montrez 5
 vartos 5
 nubo 5
-evidenta 5
 papilioni 5
 texto 5
 marchar 5
@@ -1364,7 +1367,6 @@ lundio 5
 maniero 5
 mayo 5
 prizis 5
-jaluza 5
 quante 5
 ultempe 5
 Olda 5
@@ -1405,6 +1407,7 @@ injenioro 5
 rejino 5
 serioza 5
 pluv-arko 5
+Restez 5
 mamiero 5
 musho 5
 Donald 5
@@ -1442,6 +1445,8 @@ kindi 5
 Tenez 5
 Faligez 5
 damzelo 5
+tolerema 5
+vekanta 5
 klozar 4
 Kobe 4
 explozo 4
@@ -1466,6 +1471,7 @@ mankas 4
 anjelo 4
 igas 4
 nervoza 4
+savo 4
 departar 4
 formo 4
 kantisto 4
@@ -1523,6 +1529,7 @@ artisto 4
 retrovenar 4
 fotografuri 4
 eventos 4
+spaco 4
 interes-esas 4
 Poloniana 4
 Estoniana 4
@@ -1620,7 +1627,6 @@ marveloza 4
 pafilo 4
 pordi 4
 tacar 4
-faliis 4
 Atencez 4
 flago 4
 vinkos 4
@@ -1629,7 +1635,6 @@ desaparis 4
 eroras 4
 naraco 4
 dop 4
-shultri 4
 kaudo 4
 restos 4
 exakte 4
@@ -1692,8 +1697,8 @@ sinagogo 4
 flatuis 4
 advokato 4
 koro 4
+Komencez 4
 herbo 4
-Restez 4
 virgino 4
 Infanti 4
 Robert 4
@@ -1741,6 +1746,7 @@ Frapez 4
 Unionesez 4
 bordo 4
 prizentis 4
+liberala 4
 martelo 3
 semane 3
 avertos 3
@@ -1773,7 +1779,6 @@ questionez 3
 legumi 3
 Afrontez 3
 L'aquo 3
-savo 3
 komprir 3
 moneto 3
 sorgoze 3
@@ -1863,7 +1868,6 @@ Tokio 3
 diskurso 3
 l'infanti 3
 okupas 3
-spaco 3
 joyas 3
 havos 3
 Kate 3
@@ -1919,6 +1923,7 @@ maladeso 3
 me; 3
 chanjar 3
 projeti 3
+Savo 3
 devo 3
 guvernerio 3
 kompanio 3
@@ -1956,6 +1961,7 @@ forco 3
 mariajata 3
 perdar 3
 laudar 3
+fluas 3
 rakonto 3
 akompanar 3
 trafiko 3
@@ -2185,7 +2191,6 @@ konfesis 3
 ankorfoye 3
 dezerto 3
 matri 3
-Komencez 3
 homulo 3
 pizza 3
 enigmato 3
@@ -2337,7 +2342,9 @@ koncernita 3
 individui 3
 perturbesar 3
 mercenario 3
+Balayez 3
 pafar 3
+esforco 3
 egalesas 2
 mortonta 2
 salutas 2
@@ -2651,7 +2658,6 @@ Cezaro 2
 konsilis 2
 plenigesas 2
 eroris 2
-fluas 2
 skemo 2
 duktanto 2
 pleez 2
@@ -3422,6 +3428,7 @@ arestesis 2
 Plombo 2
 para-pluvo 2
 mono 2
+nutras 2
 volkano 2
 remas 2
 studentino 2
@@ -3604,6 +3611,9 @@ krieskis 2
 kolonii 2
 pafez 2
 Vehez 2
+vidopunti 2
+Esforcez 2
+plankosulo 2
 Klabaster 1
 Gizmo 1
 acidente 1
@@ -4264,7 +4274,6 @@ agregis 1
 Ambe 1
 Meg 1
 detaloze 1
-Savo 1
 Konocado 1
 mutonyuno 1
 lanofelo 1
@@ -7253,7 +7262,6 @@ Palpez 1
 skiar 1
 feino-princino 1
 melankolio 1
-nutras 1
 foleso 1
 konoceskis 1
 bovo-karno 1
@@ -8338,7 +8346,6 @@ inundesis 1
 Absoluta 1
 tolero 1
 ruiniva 1
-tolerema 1
 Redakoloro 1
 nemanjebla 1
 fungo 1
@@ -8400,7 +8407,6 @@ laboristo 1
 alternativo 1
 autuno 1
 Kavalyuno 1
-Balayez 1
 pavimento 1
 usani 1
 liberesis 1
@@ -8419,3 +8425,12 @@ Britania 1
 Netigez 1
 pafadas 1
 molestar 1
+odianti 1
+L'Angla 1
+imperialista 1
+esforcez 1
+Enrejistrez 1
+enrejistrar 1
+Enskribez 1
+balayis 1
+balayas 1
