@@ -2,13 +2,13 @@ Ez 1210
 xwe 1034
 e 1033
 ji 1000
-min 996
+min 997
 bi 936
 li 831
 Ew 815
 ê 739
 û 664
-ye 644
+ye 645
 ku 611
 Em 544
 Tom 544
@@ -46,8 +46,8 @@ bikin 178
 in 176
 Wî 174
 hez 173
+pir 169
 Wê 168
-pir 168
 Me 156
 wan 153
 Di 151
@@ -82,9 +82,9 @@ malê 87
 xweş 86
 nekir 85
 Her 84
+a 81
 dê 81
 çawa 81
-a 80
 din 78
 Navê 75
 dixwazim 73
@@ -434,6 +434,7 @@ dereng 13
 navdar 13
 bajarê 13
 zarok 13
+hêdî 13
 nekî 13
 Mirov 13
 hatiye 13
@@ -468,7 +469,6 @@ dizî 12
 dibînin 12
 bir 12
 sibehê 12
-hêdî 12
 bimîne 12
 vala 12
 hewl 12
@@ -1317,6 +1317,7 @@ derekê 4
 Hêza 4
 Masî 4
 tenîsê 4
+înternetê 4
 tînim 4
 mirin 4
 Eva 4
@@ -1704,7 +1705,6 @@ Evan 3
 Maria 3
 dimeşe 3
 Azad 3
-înternetê 3
 ezman 3
 nizanîbû 3
 pejirandin 3
@@ -9230,3 +9230,4 @@ malaştin 1
 do 1
 kompîtureke 1
 sifirê 1
+Pêwendiya 1

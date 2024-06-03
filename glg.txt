@@ -1,12 +1,12 @@
-a 1250
+a 1251
 que 1153
-de 1110
+de 1111
 o 1029
 é 770
 non 597
 un 550
 O 546
-e 485
+e 486
 A 445
 unha 432
 Non 420
@@ -54,10 +54,10 @@ Se 81
 seus 81
 todo 77
 pola 77
+túa 77
 el 76
 cando 76
 ou 76
-túa 76
 mañá 75
 das 75
 teu 74
@@ -92,10 +92,10 @@ min 58
 noite 57
 novo 56
 inglés 56
+traballo 55
 sempre 55
 home 55
 Estou 55
-traballo 54
 xa 53
 tarde 52
 Este 52
@@ -1480,6 +1480,7 @@ vacas 4
 atrás 4
 efecto 4
 levou 4
+capacidade 4
 chinés 4
 Asia 4
 buscando 4
@@ -1538,6 +1539,7 @@ Alégrame 3
 verche 3
 vindeira 3
 raíña 3
+Coñezo 3
 dille 3
 Alégrome 3
 interesante 3
@@ -1656,6 +1658,7 @@ caír 3
 onda 3
 xeitos 3
 farto 3
+enerxía 3
 doutra 3
 actividades 3
 Sería 3
@@ -2004,7 +2007,6 @@ Pobre 3
 feble 3
 pediulle 3
 cita 3
-capacidade 3
 abaixo 3
 suicidouse 3
 orellas 3
@@ -2143,7 +2145,6 @@ empezar 2
 aves 2
 Europa 2
 mirala 2
-Coñezo 2
 botellas 2
 Levántome 2
 Tanto 2
@@ -2331,7 +2332,6 @@ nación 2
 señorita 2
 poucas 2
 vender 2
-enerxía 2
 interpretación 2
 acontecer 2
 humanas 2
@@ -7148,7 +7148,7 @@ apoio 1
 esperto 1
 Traballas 1
 Bilthoven 1
-axudaramente 1
+axudarame 1
 economicamente 1
 Día 1
 Internacional 1

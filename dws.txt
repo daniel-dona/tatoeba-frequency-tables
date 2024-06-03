@@ -1,4 +1,4 @@
-j 49
+j 50
 e 37
 h 10
 v 10
@@ -24,6 +24,7 @@ r 3
 nu 3
 nes 3
 ms 3
+f 3
 C 3
 p 3
 2 2
@@ -45,7 +46,6 @@ gra 2
 pl 2
 don 2
 ir 2
-f 2
 W 2
 K 2
 y 2
@@ -191,3 +191,4 @@ yma 1
 fex 1
 por 1
 ati 1
+Vot-e 1

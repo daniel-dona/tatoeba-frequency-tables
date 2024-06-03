@@ -82,11 +82,11 @@ da 30
 istəmirəm 29
 dili 29
 necə 29
-getdi 28
 yaşayıram 28
 nifrət 28
 getmək 28
 olduğunu 28
+getdi 27
 səni 27
 kim 27
 lazımdır 27
@@ -166,6 +166,7 @@ dörd 16
 Dünən 16
 olmaq 16
 Bütün 16
+oldu 16
 paytaxtı 16
 xoşbəxt 16
 istəmir 16
@@ -177,7 +178,6 @@ səhər 15
 almaq 15
 Məncə 15
 et 15
-oldu 15
 Sənə 15
 adam 15
 olar 15
@@ -1627,6 +1627,7 @@ ikisi 2
 qələm 2
 Təcili 2
 çıxardı 2
+məhv 2
 evləndi 2
 qeydi 2
 düşünmürsən 2
@@ -3349,7 +3350,6 @@ qutusundan 1
 playerə 1
 Şansımı 1
 sınayacağam 1
-məhv 1
 nerdivana 1
 dırmaşmağa 1
 Jane 1
@@ -7575,7 +7575,7 @@ qoyun 1
 istədiklərini 1
 Kitabxanamda 1
 azdır 1
-Rəis 1
+Şef 1
 Gips 1
 çıxarılır 1
 müştəri 1

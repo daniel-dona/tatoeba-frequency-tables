@@ -1,16 +1,16 @@
-on 1448
+on 1449
 Ma 908
 ei 719
 Tom 589
 sa 419
 Kas 416
-Ta 334
+Ta 335
 et 320
 See 272
 ma 214
 seda 203
 oma 196
-see 179
+see 180
 oli 159
 ja 150
 ta 146
@@ -75,9 +75,9 @@ Tomile 42
 pean 41
 tagasi 40
 ütles 40
+Tomil 40
 talle 39
 Ära 39
-Tomil 39
 tema 38
 täna 38
 kaks 38
@@ -130,6 +130,7 @@ arvan 28
 minema 28
 meie 27
 Tere 27
+läheb 27
 tegema 27
 või 27
 kolm 27
@@ -137,7 +138,6 @@ rohkem 27
 sõber 27
 ainult 26
 eest 26
-läheb 26
 pärast 26
 elab 26
 ka 25
@@ -237,6 +237,7 @@ vastu 16
 minust 16
 saab 16
 üks 16
+asub 16
 pead 16
 peab 15
 andis 15
@@ -250,7 +251,6 @@ enda 15
 õhtul 15
 teeb 15
 aidata 15
-asub 15
 polnud 15
 õpin 15
 sina 15
@@ -369,6 +369,7 @@ probleem 10
 Nüüd 10
 tuba 10
 sama 10
+Kuhu 10
 ette 10
 sisse 10
 valge 10
@@ -391,6 +392,7 @@ meeldis 9
 Jah 9
 raamatuid 9
 ees 9
+silmad 9
 magama 9
 Ameerika 9
 John 9
@@ -405,7 +407,6 @@ piima 9
 haige 9
 hõivatud 9
 ütleb 9
-Kuhu 9
 asi 9
 ostsin 9
 vihma 9
@@ -444,7 +445,6 @@ uus 8
 surma 8
 riik 8
 kümme 8
-silmad 8
 mäleta 8
 Kelle 8
 naise 8
@@ -687,6 +687,7 @@ laul 5
 Eesti 5
 lähed 5
 said 5
+ootas 5
 ühtegi 5
 ellu 5
 vaba 5
@@ -795,6 +796,7 @@ sõin 5
 temalt 5
 jälle 5
 Räägime 5
+korrusel 5
 asju 5
 kaotas 5
 Mind 5
@@ -842,7 +844,6 @@ loom 4
 suu 4
 Nagu 4
 selga 4
-ootas 4
 rääkis 4
 kiiremini 4
 hobused 4
@@ -1006,7 +1007,6 @@ aitab 4
 puue 4
 Bostonist 4
 tänu 4
-korrusel 4
 kõigest 4
 duši 4
 maksan 4
@@ -1139,6 +1139,7 @@ jäätist 3
 avatud 3
 Grammatika 3
 härra 3
+rong 3
 lugu 3
 kokku 3
 rääkisin 3
@@ -1622,7 +1623,6 @@ korteris 2
 elektrit 2
 tellinud 2
 jaama 2
-rong 2
 sõja 2
 esitatud 2
 Hea 2
@@ -1780,6 +1780,7 @@ jaanuaris 2
 eksami 2
 laulda 2
 jalutamas 2
+esimesel 2
 tavalised 2
 sadanud 2
 palve 2
@@ -3436,7 +3437,6 @@ Taevas 1
 ähvardav 1
 Terve 1
 nõuande 1
-esimesel 1
 paistavad 1
 paista 1
 abiellumisega 1
@@ -6498,3 +6498,5 @@ lind 1
 usuvad 1
 mõtete 1
 riigil 1
+pruunid 1
+Baar 1

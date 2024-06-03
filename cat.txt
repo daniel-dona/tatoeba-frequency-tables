@@ -10,7 +10,7 @@ un 759
 en 613
 No 606
 una 535
-per 534
+per 535
 El 523
 i 517
 Tom 472
@@ -59,10 +59,10 @@ aquest 111
 però 106
 dia 101
 he 101
+era 100
 anar 100
 aquesta 99
 res 99
-era 99
 Vaig 99
 dels 97
 Per 97
@@ -113,11 +113,11 @@ pare 65
 sense 65
 mare 64
 tres 64
+dos 64
 ens 63
 vida 63
 pel 63
 mateix 63
-dos 63
 Qui 63
 gran 62
 Un 62
@@ -976,6 +976,7 @@ principi 7
 deia 7
 famós 7
 braç 7
+L'avió 7
 frase 7
 corrent 7
 facis 7
@@ -1089,7 +1090,6 @@ aparcar 6
 correcta 6
 tema 6
 preguntar 6
-L'avió 6
 manca 6
 principal 6
 s'hi 6
@@ -9695,3 +9695,5 @@ suggerit 1
 ximpleria 1
 Respon-me 1
 Contesta'm 1
+pilotat 1
+micos 1

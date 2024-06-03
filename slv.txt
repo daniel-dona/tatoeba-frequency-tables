@@ -1,4 +1,4 @@
-je 969
+je 970
 Ali 226
 sem 171
 se 168
@@ -21,7 +21,7 @@ Kaj 74
 za 73
 mi 67
 ni 66
-zelo 64
+zelo 65
 glavno 64
 Jaz 60
 Govorim 53
@@ -109,13 +109,13 @@ Naj 14
 nemško 14
 Glavno 14
 če 13
+Moja 13
 smo 13
 živali 13
 težek 13
 o 12
 Na 12
 Jutri 12
-Moja 12
 imaš 12
 boš 12
 vas 12
@@ -3927,3 +3927,6 @@ slab 1
 voznik 1
 bližnjo 1
 oddaljeno 1
+internetna 1
+povezava 1
+počasna 1

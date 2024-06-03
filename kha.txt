@@ -1,15 +1,15 @@
-u 760
-ka 722
-Tom 475
-ia 420
-ban 418
-U 393
-ba 388
+u 763
+ka 723
+Tom 476
+ia 422
+ban 419
+U 395
+ba 389
 ki 284
 Nga 273
-lah 216
+lah 217
 Ka 211
-leh 187
+leh 188
 dei 168
 don 150
 nga 149
@@ -17,7 +17,7 @@ jong 144
 phi 137
 tip 134
 ha 133
-Mary 129
+Mary 130
 bad 121
 ianga 112
 kwah 110
@@ -26,10 +26,10 @@ la 92
 i 91
 Ngam 85
 leit 84
+sha 76
 Ki 76
-sha 75
 bha 74
-na 70
+na 71
 ong 69
 kaba 65
 khlem 63
@@ -38,8 +38,8 @@ aiu 58
 iaka 56
 da 55
 kane 54
+kato 54
 un 54
-kato 53
 um 53
 dang 52
 por 51
@@ -122,6 +122,7 @@ phin 19
 kynmaw 19
 poi 19
 miaw 18
+snem 18
 kin 18
 katba 18
 shuh 18
@@ -129,7 +130,6 @@ thikna 18
 pisa 18
 re 18
 ngam 17
-snem 17
 bynta 17
 Peit 17
 thied 17
@@ -235,6 +235,7 @@ Kam 10
 iarap 10
 lad 10
 kumto 10
+Ziri 10
 sngewbha 9
 shibun 9
 iohsngew 9
@@ -256,7 +257,6 @@ iap 9
 iakynduh 9
 tangba 9
 syndah 9
-Ziri 9
 khana 9
 Khublei 8
 baje 8
@@ -730,6 +730,7 @@ khluit 2
 helicopter 2
 Ho 2
 Iarap 2
+saw 2
 hymmen 2
 maw 2
 mynsiem 2
@@ -1098,7 +1099,6 @@ Burj 1
 Khalifa 1
 jingtei 1
 Wei 1
-saw 1
 san 1
 hynriew 1
 hynniew 1
@@ -1711,3 +1711,10 @@ Dmitri 1
 mynne 1
 mynstep 1
 Poker 1
+kynriah 1
+Bejaia 1
+Algiers 1
+mynshwa 1
+thong 1
+laiphew 1
+dollar 1

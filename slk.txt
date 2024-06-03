@@ -1,10 +1,10 @@
 je 2334
 sa 2191
-som 1909
+som 1912
 Tom 1657
 si 1566
 to 1368
-že 1121
+že 1124
 na 1021
 v 794
 a 627
@@ -20,8 +20,8 @@ o 345
 s 342
 Čo 338
 ako 329
+Som 304
 nie 303
-Som 301
 sme 277
 veľmi 271
 Prečo 257
@@ -33,7 +33,7 @@ Mária 239
 z 232
 Mám 224
 Kde 223
-ťa 219
+ťa 220
 ti 216
 po 213
 Nie 212
@@ -42,9 +42,9 @@ bol 184
 za 180
 ísť 169
 jej 165
-vás 162
+vás 164
+rád 155
 mu 154
-rád 152
 Chcem 150
 Ako 148
 V 148
@@ -1967,6 +1967,7 @@ spýtať 5
 Jablko 5
 podal 5
 zmeškal 5
+spoznal 5
 dočkať 5
 zaplávať 5
 rade 5
@@ -4176,7 +4177,6 @@ sveter 2
 ničoho 2
 kresťanstvo 2
 spoznala 2
-spoznal 2
 Dúfajú 2
 podarí 2
 horúce 2
