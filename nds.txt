@@ -1,16 +1,16 @@
 Ik 3219
 is 3214
 dat 2796
-en 2519
+en 2520
 de 2481
 nich 1950
 du 1692
-hett 1608
-He 1474
+hett 1610
+He 1475
 in 1455
 De 1401
-to 1325
-Dat 1278
+to 1324
+Dat 1279
 heff 1260
 ik 1235
 Se 1163
@@ -21,7 +21,7 @@ von 845
 mit 779
 as 772
 op 716
-di 664
+di 665
 em 657
 an 651
 na 641
@@ -39,7 +39,7 @@ bün 487
 sien 478
 för 466
 ehr 465
-keen 455
+keen 456
 Du 452
 deed 441
 kann 438
@@ -52,7 +52,7 @@ sik 369
 een 359
 dien 358
 noch 351
-Mien 343
+Mien 344
 veel 341
 will 334
 hest 318
@@ -770,6 +770,7 @@ Gefohr 18
 inlaadt 18
 gröön 18
 arbeiden 18
+Steert 18
 seeg 18
 Leevd 18
 Feern 18
@@ -813,7 +814,6 @@ Gesett 17
 toenn 17
 verkehrt 17
 toslapen 17
-Steert 17
 rode 17
 Arm 17
 Aap 17
@@ -1238,6 +1238,7 @@ rechts 10
 gefallen 10
 Temperatur 10
 Stuuv 10
+Swien 10
 eenfach 10
 wüsst 10
 Blood 10
@@ -1401,6 +1402,7 @@ Bruuk 8
 nachtens 8
 Koffie 8
 König 8
+Achter 8
 Aven 8
 raden 8
 föffteihn 8
@@ -1429,7 +1431,6 @@ smeten 8
 öllern 8
 meten 8
 Buten 8
-Swien 8
 föhlt 8
 Breevmarken 8
 Boor 8
@@ -1536,7 +1537,6 @@ grenzt 7
 Demant 7
 Inladen 7
 Ammel 7
-Achter 7
 Müüs 7
 Wasch 7
 ophollen 7
@@ -3224,7 +3224,6 @@ Hans 3
 Boren 3
 Wann 3
 wullst 3
-Mak 3
 Staat 3
 Al 3
 Hanna 3
@@ -4647,6 +4646,7 @@ wedderkennen 2
 Müggen 2
 Minnesota 2
 schaden 2
+Mak 2
 utsluten 2
 rinlaten 2
 slimm 2

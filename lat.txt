@@ -1,9 +1,9 @@
-est 10122
+est 10123
 et 4769
 in 4532
 Thomas 3616
 non 3479
-sunt 2223
+sunt 2225
 ad 1742
 mihi 1614
 / 1569
@@ -31,7 +31,7 @@ mea 657
 eum 634
 habet 611
 qui 610
-erat 588
+erat 589
 a 575
 meus 558
 sed 546
@@ -47,7 +47,7 @@ valde 434
 Quot 428
 ex 427
 quid 420
-Thomae 415
+Thomae 416
 meum 412
 dixit 385
 autem 381
@@ -295,10 +295,10 @@ eorum 104
 saepe 103
 Volo 103
 prope 103
+Tibi 102
 verum 102
 videre 102
 usque 102
-Tibi 101
 nisi 100
 tempore 100
 eōs 100
@@ -352,10 +352,10 @@ factum 91
 illi 91
 litteras 91
 sibi 91
+filius 90
 patrem 90
 factus 90
 cras 90
-filius 89
 Dei 89
 Dixitque 89
 igitur 89
@@ -448,6 +448,7 @@ Cras 74
 mensa 74
 Quem 74
 Cumque 74
+Homines 73
 Est 73
 Deum 73
 amici 73
@@ -460,7 +461,6 @@ loco 73
 Videsne 73
 ait 73
 Post 72
-Homines 72
 Homo 72
 quinque 72
 unum 72
@@ -628,13 +628,13 @@ Cui 56
 Numquam 56
 Suntne 56
 libri 56
+animalia 56
 aquae 56
 illam 56
 negavit 56
 oportet 55
 medicus 55
 hominum 55
-animalia 55
 puellae 55
 nam 55
 primum 55
@@ -2317,6 +2317,7 @@ miser 15
 debent 15
 sorore 15
 cubicula 15
+sordidae 15
 caro 15
 ludis 15
 pila 15
@@ -2477,7 +2478,6 @@ Autocinetum 14
 Quinque 14
 Mortem 14
 inest 14
-sordidae 14
 Dentes 14
 eges 14
 nummis 14
@@ -3449,6 +3449,7 @@ Esperantice 10
 bibi 10
 Alicia 10
 aspice 10
+Carmen 10
 habēmus 10
 aestate 10
 optat 10
@@ -3782,7 +3783,6 @@ conclave 9
 inventa 9
 Mitte 9
 Populus 9
-Carmen 9
 tredecim 9
 Galla 9
 Pellicula 9
@@ -4337,6 +4337,7 @@ regni 8
 istam 8
 mortales 8
 Fructus 8
+stulta 8
 Dubitum 8
 redi 8
 Pudet 8
@@ -4861,7 +4862,6 @@ virorum 7
 velociter 7
 Struthiocamelus 7
 Nimium 7
-stulta 7
 bibenda 7
 verberavisse 7
 assidue 7

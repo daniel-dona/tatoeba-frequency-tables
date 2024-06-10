@@ -1,20 +1,20 @@
 lo 12782
-mi 6183
-cu 3475
-do 3343
+mi 6185
+cu 3477
+do 3345
 la 2914
-pu 2294
-le 2271
+pu 2296
+le 2273
 nu 2122
 se 1916
 i 1759
 na 1615
 be 1329
 ko'a 1268
-ma 1219
+ma 1222
 ka 1211
 ko 1119
-ca 984
+ca 986
 tom 948
 xu 912
 ra 821
@@ -46,7 +46,7 @@ pinxe 292
 bu'u 285
 me 284
 no 279
-mi'a 277
+mi'a 279
 tavla 276
 ta 271
 e'o 270
@@ -66,8 +66,8 @@ tam 240
 fa 239
 kei 233
 ri 231
+mi'o 229
 ei 229
-mi'o 227
 prami 223
 bangu 222
 ba'o 221
@@ -77,10 +77,10 @@ je 205
 kakne 198
 lu 194
 au 192
+melbi 191
 noi 191
 li'u 191
 mlatu 190
-melbi 190
 xamgu 179
 nanmu 179
 karce 178
@@ -173,6 +173,7 @@ jdini 93
 sipna 92
 pilno 92
 ne'i 91
+kansa 91
 la'e 90
 sutra 90
 bo 90
@@ -197,7 +198,6 @@ fasnu 84
 traji 84
 nixli 83
 speni 83
-kansa 83
 pe'i 83
 dukse 82
 titnanba 82
@@ -210,10 +210,10 @@ bilga 80
 jetnu 80
 sanga 80
 pe'u 79
+zo'e 78
 drani 77
 bau 76
 tatpi 76
-zo'e 76
 remna 76
 ze'a 75
 bruna 75
@@ -310,6 +310,7 @@ lo'i 54
 jubme 54
 blabi 54
 zei 54
+noda 54
 roda 54
 frili 53
 banli 53
@@ -333,7 +334,6 @@ la'a 50
 bilma 50
 a'o 50
 je'a 50
-noda 50
 jungau 50
 cortu 49
 kanla 49
@@ -599,6 +599,7 @@ crisa 24
 vinji 24
 bazi 24
 salci 24
+lijda 24
 sance 24
 sanmi 24
 rutrkoko 24
@@ -624,7 +625,6 @@ ru'e 23
 dunli 23
 le'e 23
 lojbo 23
-lijda 23
 xy 23
 cipra 23
 plini 23
@@ -2349,6 +2349,7 @@ jungrxunana 3
 tadjyju'o 3
 liates 3
 lymyneid 3
+brojda 3
 keit 2
 xelvetik 2
 puze'i 2
@@ -6851,3 +6852,4 @@ mediteRAneos 1
 patuas 1
 nanbe'o 1
 ketco 1
+cemlanzu 1

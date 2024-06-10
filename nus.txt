@@ -16,18 +16,18 @@ jɛn 99
 kɛn 94
 ci̱ 94
 i̱ 92
-la̱t 89
+la̱t 90
 Jɛn 78
 ɣä 75
 ɛmɛ 73
 kɛnɛ 71
 bi̱ 70
 tee 69
+Cä 65
 Cɛ 65
-Cä 64
 gɔaa 58
+ti̱ 50
 ji̱ 49
-ti̱ 49
 bä 45
 kɔn 44
 dee 43
@@ -47,11 +47,11 @@ Ji̱n 33
 ŋa̱cä 33
 nɔmɔ 32
 rɛy 29
+nhɔk 29
 ben 29
 ci 29
 lar 29
 mi̲ 29
-nhɔk 28
 luäk 28
 ni 28
 mi 28
@@ -210,6 +210,7 @@ cuɔ̱ŋ 9
 duëël 9
 lɔcdɛ 9
 cop 9
+nath 9
 Cän 9
 mi̱th 9
 nhɔkɛ 9
@@ -226,7 +227,6 @@ cäŋ 8
 ti̲ 8
 gɔ̱a̱r 8
 a 8
-nath 8
 ci̱kɛ 8
 yuɔr 8
 näk 8
@@ -295,6 +295,7 @@ lo̱k 6
 Päli̱ 6
 kui̱dɛ 6
 ni̱n 6
+nööŋ 6
 duer 6
 Ɛŋa 6
 mɛrɛ 6
@@ -333,7 +334,6 @@ ruɔ̱n 5
 /cien 5
 wal 5
 pi̱w 5
-nööŋ 5
 ja̱l 5
 ŋɔak 5
 liep 5
@@ -436,6 +436,7 @@ caa 4
 cɔl 4
 gɔa 4
 pëk 4
+Banɛ 4
 thiɛl 4
 Nyuri̱ 4
 kɛɛliw 4
@@ -456,6 +457,8 @@ gua̱mɛ 4
 cänɛ 4
 good 4
 rɔadɛ 4
+ka̱n 4
+thurbil 4
 Bi 4
 book 4
 ca̱r 4
@@ -563,7 +566,6 @@ gɔ̱r 3
 yiɛ 3
 cetkɛ 3
 go̱o̱r 3
-Banɛ 3
 ɛmi 3
 jääny 3
 jɔw 3
@@ -623,9 +625,7 @@ dɛɛp 3
 duɔ̱ɔ̱p 3
 muc 3
 inun 3
-ka̱n 3
 thɛ̈l-pon-dɛ 3
-thurbil 3
 dueel 3
 gɔ̱a̱rä 3
 ɛla 3
@@ -705,6 +705,7 @@ tëk 2
 ɣäni̱ 2
 bar 2
 duerɛ 2
+baaŋ 2
 rëp 2
 lɛ̈lä 2
 kapä 2
@@ -1168,7 +1169,6 @@ ni̱kɔ 1
 Go̱o̱ri̱ 1
 Ayiëëc 1
 Ɛthuɔ̱k 1
-baaŋ 1
 Li̱wni̱ 1
 Wanɛ 1
 Jaapani̱ 1
@@ -2941,3 +2941,5 @@ dääb 1
 thieec 1
 nhɔak 1
 ci̱ëkdä 1
+cma̱dɛv'dɛvcɛ̈db 1
+ci̱ööt 1

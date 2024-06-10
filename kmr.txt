@@ -1,18 +1,18 @@
 Ez 1210
+e 1034
 xwe 1034
-e 1033
 ji 1000
 min 997
 bi 936
-li 831
+li 832
 Ew 815
 ê 739
 û 664
 ye 645
-ku 611
+ku 612
 Em 544
 Tom 544
-Tu 522
+Tu 523
 me 519
 te 498
 de 465
@@ -28,25 +28,25 @@ Ji 256
 em 250
 jî 243
 wî 241
-ez 238
+ez 239
 tu 237
-Ev 230
+Ev 231
 bû 219
-dike 194
+dike 196
 ber 191
 bo 187
 vê 185
 Te 185
 heye 184
 ser 184
-dikim 183
+dikim 184
 dikin 180
 ew 179
 bikin 178
-in 176
+in 177
 Wî 174
 hez 173
-pir 169
+pir 170
 Wê 168
 Me 156
 wan 153
@@ -64,9 +64,9 @@ tê 117
 da 116
 we 116
 bawer 115
-be 112
+be 113
+lê 112
 ba 112
-lê 111
 yê 111
 ya 110
 dest 110
@@ -94,8 +94,8 @@ bilind 70
 pê 70
 nekiriye 70
 got 68
+dikî 67
 Dema 67
-dikî 66
 alî 66
 î 65
 bikî 65
@@ -154,6 +154,7 @@ zêde 41
 bê 41
 îro 41
 nake 40
+hemû 40
 çima 40
 bibin 40
 yek 39
@@ -163,7 +164,6 @@ nakin 39
 gelek 39
 Îro 39
 neke 39
-hemû 39
 Çavên 39
 Dilê 39
 rast 38
@@ -224,14 +224,15 @@ hîn 26
 bîst 26
 karê 26
 dixwazin 25
+wisa 25
 dil 25
 Ne 25
 hin 25
 daye 25
 kurdî 25
+temaşe 25
 kê 25
 bidim 24
-wisa 24
 bibînim 24
 dîsa 24
 xuya 24
@@ -255,7 +256,6 @@ Porê 23
 nayê 23
 reş 23
 dixwaze 23
-temaşe 23
 sibê 23
 tiştî 23
 yekê 23
@@ -320,6 +320,7 @@ mijûl 18
 Kurdî 18
 serbajarê 18
 Mala 18
+mirovan 18
 biçin 18
 carî 18
 kêfxweş 18
@@ -330,6 +331,7 @@ karî 18
 tev 18
 welatê 18
 ra 18
+Bila 18
 wek 17
 heman 17
 kengî 17
@@ -344,7 +346,6 @@ pere 17
 Marî 17
 dizanî 17
 yekî 17
-mirovan 17
 roja 17
 Piştî 17
 kirî 17
@@ -353,7 +354,6 @@ cihê 17
 tînin 17
 řa 17
 Serê 17
-Bila 17
 nîne 16
 xist 16
 hey 16
@@ -404,6 +404,7 @@ Bostonê 15
 wenda 14
 hate 14
 salan 14
+navdar 14
 dibêjim 14
 xurt 14
 bibîne 14
@@ -431,7 +432,6 @@ nan 13
 saet 13
 guhdarî 13
 dereng 13
-navdar 13
 bajarê 13
 zarok 13
 hêdî 13
@@ -567,6 +567,7 @@ meh 10
 Erê 10
 Na 10
 Ya 10
+cîhanê 10
 neh 10
 deh 10
 nizane 10
@@ -634,7 +635,6 @@ salê 9
 şîr 9
 Niha 9
 dora 9
-cîhanê 9
 goşt 9
 şeş 9
 heft 9
@@ -1344,6 +1344,7 @@ hemşîre 4
 hevok 4
 şêr 4
 şêrîn 4
+tirkî 4
 şuştin 4
 Sûriyê 4
 Heft 4
@@ -1740,7 +1741,6 @@ hêza 3
 dibiriqe 3
 Bihar 3
 nagire 3
-tirkî 3
 Xwîn 3
 Parîs 3
 Tirkmenistanê 3
@@ -2124,6 +2124,7 @@ Jixwe 3
 hundir 3
 zanîngeha 3
 ketime 3
+ehmeqî 3
 Nexweşiya 3
 Ciwan 3
 bişîne 3
@@ -2323,6 +2324,7 @@ Enqereyê 3
 cêwî 3
 Polonyayê 3
 Neh 3
+Televîzyon 3
 dîwar 2
 bexche 2
 Dibare 2
@@ -7037,7 +7039,6 @@ zekemê 1
 xetimiye 1
 dernakeve 1
 nepixîne 1
-ehmeqî 1
 kambax 1
 Madê 1
 çêleka 1
@@ -9164,7 +9165,6 @@ destşoyê 1
 kûklayan 1
 Sûcdarê 1
 çapa 1
-Televîzyon 1
 Dengekî 1
 teqînê 1
 Kalê 1
@@ -9231,3 +9231,7 @@ do 1
 kompîtureke 1
 sifirê 1
 Pêwendiya 1
+Rêzefîlmên 1
+rêzefîlmekî 1
+rêzefîlmek 1
+mirovî 1

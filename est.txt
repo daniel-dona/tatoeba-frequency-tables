@@ -1,9 +1,9 @@
-on 1449
+on 1450
 Ma 908
 ei 719
 Tom 589
 sa 419
-Kas 416
+Kas 417
 Ta 335
 et 320
 See 272
@@ -44,11 +44,11 @@ Minu 66
 mida 66
 meeldib 66
 Tomi 66
+siin 64
 Mis 64
 Kus 64
 veel 64
 Mida 63
-siin 63
 nii 62
 Mu 60
 hea 59
@@ -103,13 +103,13 @@ räägi 33
 tean 33
 rääkida 33
 Tema 32
+teie 32
 sellest 32
 keegi 32
 olla 32
 liiga 32
 räägid 32
 taha 31
-teie 31
 üle 31
 aega 31
 räägin 31
@@ -879,6 +879,7 @@ Peale 4
 lauset 4
 — 4
 maa 4
+Linnud 4
 söövad 4
 rohtu 4
 jõin 4
@@ -1560,6 +1561,7 @@ pikka 2
 linna 2
 üliõpilane 2
 ostab 2
+tütar 2
 Kasahstanis 2
 Ega 2
 Probleem 2
@@ -1605,7 +1607,6 @@ rõõmu 2
 pikki 2
 seisuga 2
 aednik 2
-Linnud 2
 igavesti 2
 Kõige 2
 Tatoeba 2
@@ -1825,6 +1826,7 @@ sotsiaalselt 2
 Võibolla 2
 kõnet 2
 silmi 2
+laulavad 2
 Maril 2
 tuua 2
 pruut 2
@@ -2786,7 +2788,6 @@ kaarti 1
 unistusi 1
 viskab 1
 puhus 1
-tütar 1
 Muidugi 1
 laupäev 1
 Hetkel 1
@@ -3563,7 +3564,6 @@ pidama 1
 taustauuringu 1
 ütleksid 1
 astusin 1
-laulavad 1
 Vabanda 1
 koosolekut 1
 mumps 1
@@ -6500,3 +6500,4 @@ mõtete 1
 riigil 1
 pruunid 1
 Baar 1
+siristavad 1

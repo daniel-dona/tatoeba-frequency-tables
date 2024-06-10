@@ -3,13 +3,13 @@ que 1153
 de 1111
 o 1029
 é 770
-non 597
+non 598
 un 550
 O 546
 e 486
 A 445
 unha 432
-Non 420
+Non 421
 do 337
 en 311
 da 280
@@ -73,9 +73,9 @@ era 66
 estaba 65
 esta 65
 polo 65
+te 64
 Eu 63
 podo 63
-te 63
 favor 62
 ela 61
 pai 61
@@ -181,12 +181,12 @@ Onde 31
 De 31
 despois 31
 cousas 30
+onde 30
 facelo 30
 persoas 30
 pra 30
 verdade 29
 durante 29
-onde 29
 nun 29
 Gustaríame 29
 Deus 29
@@ -1051,6 +1051,7 @@ Cantas 5
 nesa 5
 viva 5
 tráfico 5
+vaias 5
 ataque 5
 inimigo 5
 amarelas 5
@@ -1298,7 +1299,6 @@ botella 4
 tempos 4
 baixa 4
 arriba 4
-vaias 4
 exactamente 4
 reunión 4
 soldados 4
@@ -9459,3 +9459,4 @@ parapetos 1
 penden 1
 armaduras 1
 heroes 1
+chamen 1

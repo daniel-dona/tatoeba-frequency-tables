@@ -4,11 +4,11 @@ Tom 4900
 a 4336
 este 4021
 în 3461
-nu 3363
+nu 3364
 o 2862
 că 2697
 la 2631
-Nu 2479
+Nu 2480
 cu 2054
 pe 2036
 un 1958
@@ -19,7 +19,7 @@ fost 1375
 Am 1251
 se 1215
 pentru 1213
-sunt 1209
+sunt 1210
 asta 1185
 din 1139
 e 1036
@@ -31,7 +31,7 @@ care 888
 fi 887
 mă 726
 va 718
-foarte 715
+foarte 716
 s-a 710
 te 698
 A 693
@@ -52,7 +52,7 @@ place 502
 Este 496
 el 471
 face 466
-bine 464
+bine 465
 făcut 451
 aici 448
 pot 448
@@ -68,7 +68,7 @@ ei 373
 Ei 373
 poate 370
 timp 369
-Îmi 361
+Îmi 362
 dar 358
 nevoie 356
 ceva 345
@@ -108,9 +108,9 @@ sau 246
 Ești 242
 Asta 240
 acasă 238
+ești 236
 nici 236
 facă 236
-ești 235
 Cum 234
 vă 231
 cel 229
@@ -131,7 +131,7 @@ cum 215
 trei 213
 știe 213
 avut 213
-unde 208
+unde 209
 mi-a 207
 cred 206
 spune 206
@@ -205,8 +205,8 @@ toată 134
 singur 134
 tu 134
 chiar 134
+îți 132
 Se 132
-îți 131
 Nimeni 131
 fiu 131
 mele 130
@@ -222,8 +222,8 @@ luat 126
 deja 126
 înainte 126
 astăzi 125
+merge 125
 limba 124
-merge 124
 lumea 123
 adevărat 123
 mulți 121
@@ -281,13 +281,13 @@ aș 97
 unul 96
 Mai 96
 fericit 96
+plac 96
 Toți 96
 toți 95
 duc 95
 repede 95
 persoană 95
 aproape 95
-plac 95
 Și 95
 crezut 95
 acord 93
@@ -606,6 +606,7 @@ Sunteți 44
 înseamnă 44
 câinele 44
 pasă 44
+stă 44
 ales 44
 zis 44
 astfel 44
@@ -618,7 +619,6 @@ spital 43
 Stai 43
 Viața 43
 asupra 43
-stă 43
 Doar 43
 Fiecare 43
 câine 43
@@ -1468,6 +1468,7 @@ deschisă 16
 rămân 16
 muncit 16
 Majoritatea 16
+limbile 16
 bucuros 16
 continuă 16
 Dragostea 16
@@ -1514,6 +1515,7 @@ Uită-te 16
 poliție 16
 păcat 16
 nerăbdare 16
+albastră 16
 continuare 16
 preferată 16
 inimă 16
@@ -1550,7 +1552,6 @@ sute 15
 devin 15
 20 15
 rar 15
-limbile 15
 sat 15
 lucreze 15
 patruzeci 15
@@ -1609,7 +1610,6 @@ privește 15
 special 15
 alături 15
 plăti 15
-albastră 15
 Niciodată 15
 Ușa 15
 suni 15
@@ -1953,6 +1953,7 @@ ducă 12
 susține 12
 apropiat 12
 Noua 12
+chemat 12
 N-ar 12
 greșelile 12
 metri 12
@@ -2071,7 +2072,6 @@ râde 11
 produce 11
 putere 11
 capitala 11
-chemat 11
 Jocul 11
 următoarea 11
 gură 11
@@ -2971,6 +2971,7 @@ norocul 7
 onoarea 7
 Iar 7
 frigider 7
+Rochia 7
 dormea 7
 N-aș 7
 fiice 7
@@ -3400,7 +3401,6 @@ strălucitor 6
 dezamăgitor 6
 posibilă 6
 spus-o 6
-Rochia 6
 metroul 6
 alerga 6
 deși 6
@@ -3839,6 +3839,7 @@ Puteam 5
 grevă 5
 populare 5
 Jucătorul 5
+periculoase 5
 egal 5
 benzi 5
 responsabilă 5
@@ -4492,7 +4493,6 @@ frații 4
 instrumente 4
 mină 4
 moale 4
-periculoase 4
 calci 4
 termine 4
 Hokkaido 4
@@ -8475,6 +8475,7 @@ tropicale 2
 Cupa 2
 adâncul 2
 progresul 2
+artificiale 2
 însănătoșit 2
 pasagerii 2
 soldații 2
@@ -9997,4 +9998,3 @@ Actualul 2
 colibri 2
 săpunul 2
 Șoferul 2
-Încercă 2

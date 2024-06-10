@@ -1,9 +1,9 @@
-es 172
-Me 111
+es 175
+Me 112
 li 73
 Li 65
-Tom 62
-non 55
+Tom 63
+non 56
 Ob 52
 vu 50
 a 41
@@ -11,9 +11,9 @@ in 39
 me 39
 did 37
 manja 32
+have 31
 men 30
 Lo 30
-have 30
 La 29
 filia 29
 vada 26
@@ -28,8 +28,8 @@ Dona 17
 nus 17
 Vu 16
 esed 16
+tre 14
 Les 13
-tre 12
 Qualim 12
 Mary 12
 ke 11
@@ -48,6 +48,7 @@ manjad 8
 mesaje 8
 on 7
 nusen 7
+hunde 7
 vud 7
 sen 7
 un 7
@@ -66,7 +67,6 @@ amike 6
 savar 6
 interesar 6
 probleme 6
-hunde 6
 les 6
 tu 6
 la 6
@@ -83,6 +83,7 @@ fumar 5
 haver 5
 tri 5
 morid 5
+du 5
 tempe 5
 dikte 5
 ve 5
@@ -110,7 +111,7 @@ Que 4
 semblar 4
 vusen 4
 familie 4
-du 4
+inteligenti 4
 an 4
 horlojete 4
 fransum 4
@@ -152,7 +153,6 @@ envadad 3
 oldi 3
 omnitem 3
 ye 3
-inteligenti 3
 del 3
 venir 3
 parlad 3
@@ -186,6 +186,7 @@ kantad 3
 dansad 3
 kanta 3
 odiad 3
+Lum 3
 vilaje 3
 se 3
 lerna 3
@@ -279,6 +280,7 @@ moneye 2
 pekunie 2
 exemple 2
 montes 2
+mali 2
 flage 2
 nigri 2
 Nos 2
@@ -294,7 +296,6 @@ vordes 2
 dansa 2
 Hitler 2
 red 2
-Lum 2
 John 2
 Leon 2
 animal 2
@@ -585,7 +586,6 @@ nos 1
 proba 1
 aque 1
 gusta 1
-mali 1
 Nosen 1
 redi 1
 prisa 1
@@ -800,3 +800,6 @@ Bonvenio 1
 Urbes 1
 aborta 1
 Fem 1
+poeme 1
+Pork 1
+matras 1
