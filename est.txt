@@ -1,6 +1,6 @@
 on 1450
 Ma 908
-ei 719
+ei 720
 Tom 589
 sa 419
 Kas 417
@@ -240,6 +240,7 @@ saab 16
 asub 16
 pead 16
 peab 15
+ühe 15
 andis 15
 raamat 15
 õde 15
@@ -260,7 +261,6 @@ Võta 15
 inimesed 14
 kohta 14
 kord 14
-ühe 14
 nimi 14
 alla 14
 Mitte 14
@@ -1829,6 +1829,7 @@ silmi 2
 laulavad 2
 Maril 2
 tuua 2
+päevaga 2
 pruut 2
 hüüdnime 2
 reegleid 2
@@ -3573,7 +3574,6 @@ lemmiklooma 1
 tüli 1
 pulma-aastapäevaks 1
 muutub 1
-päevaga 1
 aina 1
 ilusamaks 1
 Vasta 1
@@ -6501,3 +6501,5 @@ riigil 1
 pruunid 1
 Baar 1
 siristavad 1
+Roomat 1
+ehitatud 1

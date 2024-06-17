@@ -1,11 +1,11 @@
  2235
 de 2227
-pas 1900
+pas 1901
 a 1532
 la 1393
 es 1294
 lo 1194
-un 1049
+un 1050
 que 977
 Lo 820
 Tom 675
@@ -14,7 +14,7 @@ una 594
 La 438
 son 418
 Soi 371
-en 363
+en 364
 e 356
 las 342
 per 318
@@ -103,9 +103,9 @@ pòt 76
 sa 76
 tròp 75
 dambe 74
+jorn 73
 líber 73
 Sabi 73
-jorn 72
 còp 71
 Ont 71
 pauc 69
@@ -632,6 +632,7 @@ diluns 15
 Vòls 15
 prendre 15
 prèp 15
+foguèt 15
 Daissa 15
 Ieu 15
 Nèva 15
@@ -677,7 +678,6 @@ connexion 14
 libres 14
 pels 14
 Quand 14
-foguèt 14
 copèt 14
 quand 14
 manièra 14
@@ -893,6 +893,7 @@ d'ajuda 10
 flor 10
 istòria 10
 dur 10
+bastida 10
 qu'i 10
 viatjar 10
 veituras 10
@@ -977,7 +978,6 @@ hascoc 9
 tòca 9
 dormir 9
 cresi 9
-bastida 9
 utilizar 9
 barri 9
 telefòne 9
@@ -2068,6 +2068,7 @@ vinha 4
 M'auré 4
 crambas 4
 filme 4
+Roma 4
 genièr 4
 Diu 4
 quaranta 4
@@ -2613,7 +2614,6 @@ populacion 3
 hilhas 3
 18 3
 l'aur 3
-Roma 3
 Miquèu 3
 metro 3
 Dambe 3
