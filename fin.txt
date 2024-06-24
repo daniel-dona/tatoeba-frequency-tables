@@ -3,7 +3,7 @@ ei 10432
 Tom 9568
 Hän 8151
 että 6725
-ja 6703
+ja 6704
 Tomi 6270
 ole 6136
 oli 5544
@@ -15,7 +15,7 @@ se 3337
 kuin 3240
 Olen 2920
 sinä 2845
-ovat 2822
+ovat 2823
 sen 2655
 niin 2619
 Tämä 2352
@@ -38,10 +38,10 @@ minua 1686
 minä 1667
 olla 1634
 koskaan 1625
-He 1621
+He 1622
 Minulla 1597
 sinun 1558
-Älä 1525
+Älä 1526
 Minun 1512
 olen 1502
 hyvin 1483
@@ -165,8 +165,8 @@ päivä 470
 siihen 470
 haluaa 469
 tuon 467
+ne 466
 yhtä 465
-ne 465
 minulla 465
 me 463
 miten 463
@@ -219,7 +219,7 @@ tänne 365
 itse 362
 sai 362
 vanha 362
-oikein 361
+oikein 362
 tehnyt 360
 voinut 358
 tekee 356
@@ -321,9 +321,9 @@ edes 272
 ongelma 271
 Kiitos 271
 Marille 271
+Hyvää 270
 tahansa 269
 Minua 269
-Hyvää 269
 eikö 268
 pysty 266
 teidän 266
@@ -382,8 +382,8 @@ iltana 226
 auton 226
 käy 225
 nainen 224
+päivää 224
 vastaan 224
-päivää 223
 lisää 223
 Eikö 222
 voisi 221
@@ -649,6 +649,7 @@ kertonut 130
 ohi 129
 häneltä 129
 Mutta 129
+teille 129
 Tunnen 129
 vastata 129
 varten 128
@@ -656,7 +657,6 @@ alla 128
 Ihmiset 128
 maitoa 128
 mielestä 128
-teille 128
 ystäväni 127
 ongelmia 127
 milloin 127
@@ -3083,6 +3083,7 @@ puistoon 26
 Jack 26
 perheeni 26
 Tapaan 26
+Ruotsin 26
 kadun 26
 luet 26
 muisti 26
@@ -3207,7 +3208,6 @@ viideltä 25
 läksyjä 25
 vetoa 25
 järvi 25
-Ruotsin 25
 puri 25
 isoisäni 25
 lähden 25
@@ -3579,6 +3579,7 @@ Koirat 23
 ympyrän 23
 P 23
 kaukaisuudessa 22
+Norjan 22
 karkasi 22
 musiikki 22
 päänsä 22
@@ -3756,7 +3757,6 @@ Laylan 22
 mää 22
 pääministerin 22
 pihta 22
-Norjan 21
 nappia 21
 nousivat 21
 flunssa 21

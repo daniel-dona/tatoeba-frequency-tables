@@ -1,10 +1,10 @@
 est 10126
-et 4770
+et 4772
 in 4533
-Thomas 3616
+Thomas 3617
 non 3481
 sunt 2225
-ad 1742
+ad 1744
 mihi 1614
 / 1569
 esse 1417
@@ -56,7 +56,7 @@ Num 370
 tua 369
 potest 368
 Mariam 368
-ei 362
+ei 363
 eam 355
 Deus 354
 placet 353
@@ -79,20 +79,20 @@ tuum 302
 Nihil 300
 si 297
 facere 296
+eo 296
 e 295
-eo 295
 Dominus 291
 annos 284
 quae 283
 ego 280
 nobis 277
 omnes 275
-Cum 272
+Cum 273
 linguam 271
 Nonne 268
 quæ 265
 ea 261
-tuus 258
+tuus 259
 volo 256
 tu 256
 terra 253
@@ -119,8 +119,8 @@ quaeso 223
 ac 223
 pater 221
 atque 221
+dies 218
 bene 217
-dies 217
 etiam 217
 Omnes 215
 ire 214
@@ -147,8 +147,8 @@ an 179
 Eum 179
 quem 178
 pro 177
+erit 176
 tuam 176
-erit 175
 dedit 171
 pulchra 171
 quo 170
@@ -364,10 +364,10 @@ vir 88
 legere 88
 plus 88
 manu 88
+Linguam 88
 scire 87
 duo 87
 malum 87
-Linguam 87
 Quō 87
 Marcus 86
 hunc 86
@@ -375,13 +375,13 @@ fratres 86
 Puella 86
 discere 86
 ait: 86
+Nomen 85
 amicus 85
 telephonum 85
 Gallicam 85
 Nolite 85
 heri 84
 re 84
-Nomen 84
 habemus 84
 scripsit 84
 septem 83
@@ -924,6 +924,7 @@ difficilis 38
 optimum 38
 Dominum 38
 matris 38
+odi 38
 medio 38
 Esau 38
 cura 37
@@ -947,12 +948,12 @@ primus 37
 dedi 37
 fui 37
 quoniam 37
-odi 37
 filiis 37
 cunctis 37
 Manus 36
 magistra 36
 possit 36
+Latinam 36
 auxilium 36
 mortui 36
 anima 36
@@ -991,7 +992,6 @@ pulsat 36
 aquæ 36
 O 35
 fortuna 35
-Latinam 35
 felix 35
 multae 35
 Quota 35
@@ -1080,6 +1080,7 @@ pharao 33
 mundus 32
 alii 32
 hominis 32
+montem 32
 Tam 32
 Canem 32
 redire 32
@@ -1110,7 +1111,6 @@ creavit 31
 montes 31
 fortis 31
 mentem 31
-montem 31
 ibo 31
 rei 31
 alba 31
@@ -1123,6 +1123,7 @@ gratiam 31
 ientaculum 31
 imus 31
 Mala 31
+Omnis 31
 acta 31
 adesse 31
 emisti 31
@@ -1159,7 +1160,6 @@ tot 30
 disco 30
 Infans 30
 Anglica 30
-Omnis 30
 arbore 30
 Nullum 30
 lecto 30
@@ -4525,6 +4525,7 @@ cibos 8
 dexteram 8
 semini 8
 Mambre 8
+vadam 8
 multiplicabo 8
 eum; 8
 Vocavit 8
@@ -4928,6 +4929,7 @@ Lydia 7
 excitare 7
 crudelis 7
 plorant 7
+relinquit 7
 dormiens 7
 emisit 7
 debuit 7
@@ -5111,7 +5113,6 @@ erga 7
 potius 7
 benedictionem 7
 vade 7
-vadam 7
 egredietur 7
 suo: 7
 fœderis 7
@@ -5380,6 +5381,7 @@ Calamo 6
 Pecuniae 6
 legisti 6
 frumento 6
+collem 6
 fuimus 6
 glossario 6
 "Minime 6
@@ -5609,7 +5611,6 @@ Graecis 6
 lecticam 6
 tanquam 6
 lava 6
-relinquit 6
 libet 6
 Oceanum 6
 quotiens 6
@@ -6292,7 +6293,6 @@ proficiscemini 5
 proficisceris 5
 appropinquat 5
 Florem 5
-collem 5
 Lepus 5
 consequitur 5
 vincet 5
@@ -6632,6 +6632,7 @@ metus 5
 Mercurio 5
 mandata 5
 parumper 5
+gradus 5
 Epistulas 5
 oportere 5
 peius 5
@@ -6811,6 +6812,7 @@ alicubi 5
 comam 5
 peregrinatus 5
 operatur 5
+Donec 5
 latrant 5
 certiores 5
 exaudire 5
@@ -7668,6 +7670,7 @@ pulcherrimi 4
 continentes 4
 volens 4
 colores 4
+umbrae 4
 Dormiunt 4
 frigora 4
 celerrimus 4
@@ -7988,7 +7991,6 @@ Jovem 4
 singulas 4
 incipiam 4
 Utere 4
-gradus 4
 linguā 4
 surgere 4
 erubuit 4
@@ -8299,7 +8301,6 @@ rotatur 4
 occident 4
 quaesitum 4
 advenerat 4
-Donec 4
 manebant 4
 perditum 4
 alte 4
@@ -9600,7 +9601,6 @@ Christo 3
 Machina 3
 praesentior 3
 administravit 3
-umbrae 3
 deerit 3
 Cogita 3
 Ignavus 3

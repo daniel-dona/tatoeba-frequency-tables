@@ -1,4 +1,4 @@
-on 1450
+on 1451
 Ma 908
 ei 720
 Tom 589
@@ -9,7 +9,7 @@ et 320
 See 272
 ma 214
 seda 203
-oma 196
+oma 197
 see 180
 oli 159
 ja 150
@@ -578,6 +578,7 @@ inimest 6
 ootab 6
 sõna 6
 Arst 6
+laul 6
 läinud 6
 punane 6
 näed 6
@@ -682,7 +683,6 @@ vaid 5
 sõitis 5
 nalja 5
 kümne 5
-laul 5
 ööd 5
 Eesti 5
 lähed 5
@@ -1074,6 +1074,7 @@ kahe 3
 Tuul 3
 teete 3
 arvamus 3
+Igal 3
 Tuleb 3
 Sain 3
 Pea 3
@@ -1510,7 +1511,7 @@ mägedes 2
 muretse 2
 meelde 2
 Jõe 2
-Igal 2
+linnul 2
 pakk 2
 paberit 2
 Eestis 2
@@ -2627,7 +2628,6 @@ elamut 1
 pühapäeval 1
 tutvun 1
 teosega 1
-linnul 1
 Praegu 1
 päevad 1
 pikemad 1

@@ -33,6 +33,7 @@ Ei 6
 vasthaan 6
 ollu 6
 kolme 6
+päiväle 6
 Tässä 6
 päivää 5
 Norjan 5
@@ -45,7 +46,6 @@ Yksi 5
 nelje 5
 met 5
 kymmenen 5
-päiväle 5
 nokko 5
 mennee 4
 pääkaupunki 4
@@ -118,6 +118,7 @@ antanu 3
 seissoo 3
 ihmissii 3
 kväänikansan 3
+Onnea 3
 saattaa 3
 maikuuta 3
 kothiin 3
@@ -232,7 +233,6 @@ koskhaan 2
 monta 2
 Ihmiset 2
 kuiten 2
-Onnea 2
 Ajatus 2
 Miksi 2
 teema 2
@@ -1425,3 +1425,4 @@ Biili 1
 tyyris 1
 Hyvää 1
 nasunaalipäivää 1
+mettäsuomalaisten 1

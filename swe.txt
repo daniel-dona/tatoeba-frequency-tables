@@ -1,11 +1,11 @@
 är 11586
-Jag 11247
-att 7069
+Jag 11248
+att 7072
 Tom 7067
 inte 6908
 du 5124
 en 5105
-på 4837
+på 4838
 det 4734
 i 4560
 har 4218
@@ -14,7 +14,7 @@ Han 3405
 jag 3140
 mig 2706
 för 2684
-här 2651
+här 2652
 var 2601
 med 2446
 till 2355
@@ -24,8 +24,8 @@ Hon 2071
 ett 1937
 som 1895
 dig 1887
-Vi 1883
-den 1826
+Vi 1884
+den 1827
 kan 1672
 Du 1594
 av 1587
@@ -53,7 +53,7 @@ Har 771
 vara 767
 ha 753
 ut 739
-hade 734
+hade 735
 Var 733
 Den 722
 vad 714
@@ -128,7 +128,7 @@ sitt 311
 ville 308
 igen 308
 verkligen 307
-tre 305
+tre 306
 får 303
 mer 303
 år 297
@@ -144,7 +144,7 @@ hjälpa 281
 bil 280
 bor 277
 ditt 276
-tid 274
+tid 275
 franska 274
 mina 271
 sina 263
@@ -167,7 +167,7 @@ några 230
 säga 228
 säger 222
 själv 218
-Ingen 215
+Ingen 216
 inget 215
 morgon 214
 Vilken 214
@@ -227,13 +227,13 @@ helt 163
 bättre 162
 tar 162
 hjälp 161
+svårt 161
 idag 160
-svårt 160
 Boston 160
 köpa 159
 dörren 159
+boken 158
 andra 158
-boken 157
 nya 156
 liv 155
 verkar 154
@@ -350,11 +350,11 @@ satt 101
 ännu 101
 bad 100
 Allt 99
+dagar 99
 son 98
 fru 98
 katt 98
 hit 98
-dagar 98
 Pratar 97
 Tack 97
 vägen 97
@@ -372,12 +372,12 @@ annat 94
 sant 94
 Din 94
 hände 94
+hitta 94
 arbetar 93
 Hennes 93
 glad 93
 sitter 93
 del 93
-hitta 93
 borta 92
 långt 92
 igår 91
@@ -588,6 +588,7 @@ grund 57
 Vår 57
 mjölk 57
 frukost 57
+läste 57
 dödade 57
 döda 57
 viktigt 56
@@ -597,7 +598,6 @@ lita 56
 fisk 56
 hjälper 56
 säkert 56
-läste 56
 köra 56
 Tror 56
 Se 56
@@ -811,6 +811,7 @@ röst 40
 Finland 40
 ordet 40
 okej 40
+någonstans 40
 sjunger 40
 tappade 40
 sängen 40
@@ -829,7 +830,6 @@ verkade 39
 veckan 39
 Inte 39
 stark 39
-någonstans 39
 skogen 39
 kinesiska 39
 även 39
@@ -914,6 +914,7 @@ bestämde 34
 van 34
 lyssna 34
 piano 34
+förlora 34
 leka 34
 före 34
 överens 34
@@ -938,7 +939,6 @@ klänning 33
 Släpp 33
 igenom 33
 Följ 33
-förlora 33
 utom 33
 hemlighet 33
 plan 33
@@ -2369,6 +2369,7 @@ berömd 10
 kusten 10
 själ 10
 Ärligt 10
+parkera 10
 Smith 10
 va 10
 handla 10
@@ -2568,7 +2569,6 @@ olja 9
 tröjan 9
 spännande 9
 vänlighet 9
-parkera 9
 gata 9
 hemligt 9
 moster 9

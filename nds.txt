@@ -1,14 +1,14 @@
 Ik 3219
-is 3214
+is 3215
 dat 2796
 en 2520
-de 2481
+de 2483
 nich 1950
 du 1692
 hett 1610
 He 1475
 in 1455
-De 1401
+De 1402
 to 1324
 Dat 1279
 heff 1260
@@ -23,7 +23,7 @@ as 772
 op 716
 di 665
 em 657
-an 651
+an 652
 na 641
 mien 618
 Tom 610
@@ -373,6 +373,7 @@ smeckt 40
 arbeidt 40
 Tokyo 40
 krank 39
+Schoh 39
 rut 39
 söven 39
 diene 39
@@ -384,7 +385,6 @@ Sünd 39
 nöömt 39
 vull 39
 verstah 38
-Schoh 38
 Veel 38
 vertellt 38
 schrieven 38
@@ -664,6 +664,7 @@ dacht 21
 Schall 21
 warm 21
 Gold 21
+passt 21
 passeert 21
 blot 21
 heel 21
@@ -703,7 +704,6 @@ Jane 20
 düür 20
 dröffst 20
 Tatoeba 20
-passt 20
 free 20
 dörtig 20
 Stohl 20
@@ -964,6 +964,7 @@ Wekenenn 14
 studeren 14
 opstahn 14
 Schaap 14
+binnen 14
 und 14
 Australien 14
 nöhm 14
@@ -1015,7 +1016,6 @@ denken 13
 tostüürt 13
 Deerten 13
 sneden 13
-binnen 13
 Kilo 13
 of 13
 denkst 13
@@ -1052,6 +1052,7 @@ kriegt 12
 trüggkamen 12
 Feernsehn 12
 düchtig 12
+treckt 12
 Daak 12
 Wulken 12
 dubbelt 12
@@ -1129,7 +1130,6 @@ Mood 11
 Storm 11
 allen 11
 Ledder 11
-treckt 11
 Muus 11
 Ohren 11
 kreeg 11
@@ -4845,6 +4845,8 @@ Hefft 2
 Spreekt 2
 weckt 2
 ünnerseuken 2
+Dizze 2
+onzent 2
 Viël 1
 vötälen 1
 totolustern 1
@@ -9996,5 +9998,3 @@ Unglöövlich 1
 di“ 1
 wäd 1
 tüderig 1
-löst 1
-schnak 1

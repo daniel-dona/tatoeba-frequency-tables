@@ -1,13 +1,13 @@
 la 1642
-de 1563
+de 1564
 a 1502
 que 1380
 el 1243
 és 1064
-no 871
+no 872
 un 830
 va 815
-No 695
+No 696
 en 644
 una 563
 per 555
@@ -19,7 +19,7 @@ les 419
 amb 398
 al 376
 els 371
-ha 360
+ha 362
 En 349
 es 312
 més 300
@@ -35,8 +35,8 @@ fer 195
 està 190
 És 175
 meva 168
+hi 167
 Em 166
-hi 166
 Els 166
 fa 165
 té 160
@@ -47,8 +47,8 @@ ho 144
 dir 143
 són 143
 què 143
+si 139
 ser 138
-si 138
 tot 135
 A 131
 casa 125
@@ -63,7 +63,7 @@ puc 109
 Per 108
 aquesta 108
 però 108
-res 107
+res 108
 Vaig 105
 anar 104
 Què 102
@@ -87,9 +87,9 @@ Mary 88
 Jo 88
 et 86
 Estic 85
-Hi 84
+Hi 85
+tu 85
 teu 84
-tu 84
 anys 83
 pot 81
 Tinc 81
@@ -103,9 +103,9 @@ teva 79
 menjar 78
 mai 77
 us 77
+sap 75
 jo 75
 Com 74
-sap 74
 has 72
 estava 72
 parlar 71
@@ -146,10 +146,10 @@ encara 58
 entre 58
 Li 57
 gent 57
+Ja 57
 diu 56
 gos 56
 abans 56
-Ja 56
 vol 54
 racisme 54
 fins 53
@@ -344,6 +344,7 @@ punt 24
 ciutat 24
 nostres 24
 sigui 24
+Ningú 24
 petit 24
 compte 24
 part 24
@@ -356,7 +357,6 @@ Ara 24
 treballar 24
 soc 24
 Tomàs 24
-Ningú 23
 altra 23
 dormir 23
 Déu 23
@@ -1856,6 +1856,7 @@ llegeix 4
 podries 4
 pintura 4
 28 4
+bessons 4
 21 4
 Vosaltres 4
 absolutament 4
@@ -2416,7 +2417,6 @@ dono 3
 Hom 3
 vingué 3
 pollastre 3
-bessons 3
 signe 3
 Jesús 3
 Verb 3
@@ -2437,6 +2437,7 @@ perfum 3
 fruits 3
 oceans 3
 enemics 3
+espero 3
 polítics 3
 llevo 3
 Podries 3
@@ -3594,7 +3595,6 @@ Emily 2
 terrorisme 2
 mundial 2
 Provem 2
-espero 2
 tindria 2
 publicació 2
 rostre 2
@@ -3881,6 +3881,7 @@ trumfes 2
 ordres 2
 nevava 2
 d'aquell 2
+T'esperaré 2
 Formo 2
 màfia 2
 l'alfabet 2
@@ -4039,6 +4040,8 @@ Tano 2
 m'entens 2
 T'hem 2
 Valia 2
+infinits 2
+primers 2
 Sayoko 1
 presento 1
 Enhorabona 1
@@ -8663,7 +8666,6 @@ superem 1
 romanen 1
 branca 1
 unir-se 1
-T'esperaré 1
 esperaré 1
 Aniran 1
 aniran 1
@@ -9996,4 +9998,3 @@ Vindré 1
 embús 1
 Fes-lo 1
 Entra'l 1
-Recomano 1
