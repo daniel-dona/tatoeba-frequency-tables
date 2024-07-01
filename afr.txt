@@ -1,25 +1,25 @@
 nie 1225
-is 997
-het 936
+is 999
+het 938
 Ek 933
-die 722
+die 723
 'n 578
-Tom 429
+Tom 430
 jy 419
 my 336
 te 304
 om 286
 van 273
-jou 267
+jou 268
 Die 264
 dit 262
 vir 246
 in 242
 ek 220
 was 210
-Hy 199
+Hy 200
 sal 192
-Ons 187
+Ons 189
 gaan 172
 wil 156
 Jy 154
@@ -72,9 +72,9 @@ so 49
 sou 49
 maar 48
 nou 47
+sien 47
 bly 46
 huis 46
-sien 46
 eet 45
 meer 44
 daar 44
@@ -106,6 +106,7 @@ af 30
 gesê 30
 goed 29
 As 29
+water 29
 al 29
 Sami 29
 kinders 28
@@ -113,7 +114,6 @@ of 28
 altyd 28
 glo 28
 niks 28
-water 28
 vandag 28
 Moenie 28
 nooit 28
@@ -405,6 +405,7 @@ rook 7
 leef 7
 buurman 7
 Goeie 7
+sterk 7
 Alles 7
 honger 7
 vleis 7
@@ -442,6 +443,7 @@ skrik 7
 dis 7
 sout 7
 breek 7
+Daardie 7
 wonder 7
 gewees 7
 trek 7
@@ -467,7 +469,6 @@ God 6
 hoofstad 6
 brand 6
 groen 6
-sterk 6
 alle 6
 baas 6
 skip 6
@@ -530,7 +531,6 @@ kêrel 6
 normaal 6
 hele 6
 wakker 6
-Daardie 6
 dié 6
 ding 6
 Sal 6
@@ -1402,6 +1402,7 @@ Hallo 2
 kursus 2
 Mamma 2
 Katte 2
+muise 2
 plesier 2
 Nog 2
 skuld 2
@@ -2704,7 +2705,6 @@ Sluit 1
 oulik 1
 mamma 1
 Fok 1
-muise 1
 brei 1
 Gesondheid 1
 verstaannie 1
@@ -3553,3 +3553,6 @@ skriftelike 1
 skryfster 1
 Klop 1
 luise 1
+abnormaal 1
+chemikus 1
+gesuiwer 1

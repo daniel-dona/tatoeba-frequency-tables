@@ -1,7 +1,7 @@
 on 28452
 ei 10432
 Tom 9568
-Hän 8151
+Hän 8152
 että 6725
 ja 6704
 Tomi 6270
@@ -83,7 +83,7 @@ jo 954
 pitäisi 950
 vähän 928
 Tuo 911
-tulee 909
+tulee 910
 et 881
 Miten 839
 Hänen 830
@@ -148,7 +148,7 @@ olevan 521
 noin 518
 Et 518
 Meidän 516
-huomenna 510
+huomenna 513
 Voisitko 510
 pidä 507
 Kun 504
@@ -168,7 +168,7 @@ tuon 467
 ne 466
 yhtä 465
 minulla 465
-me 463
+me 464
 miten 463
 näyttää 462
 Mary 460
@@ -208,8 +208,8 @@ Tiedän 383
 muuta 378
 siinä 377
 kertaa 375
+taas 374
 usko 374
-taas 373
 tule 373
 Nyt 373
 Haluaisin 372
@@ -318,10 +318,10 @@ menee 273
 kello 272
 kirja 272
 edes 272
+Hyvää 271
 ongelma 271
 Kiitos 271
 Marille 271
-Hyvää 270
 tahansa 269
 Minua 269
 eikö 268
@@ -338,8 +338,8 @@ sä 256
 poissa 255
 melkein 255
 olette 255
+päästä 254
 siltä 253
-päästä 253
 kiitos 252
 uudestaan 251
 Älkää 249
@@ -363,9 +363,9 @@ käynyt 238
 ensi 237
 näytti 237
 ihmisiä 236
+Hei 234
 odottaa 233
 kovasti 233
-Hei 233
 Tule 232
 Nämä 232
 Sinulla 232
@@ -532,13 +532,13 @@ edelleen 160
 Lopeta 160
 toinen 159
 kuullut 159
+joskus 159
 väärin 159
 hiljaa 158
 huono 158
 rakastan 158
 minulta 158
 illalla 158
-joskus 158
 apua 158
 kuollut 157
 juo 157
@@ -706,6 +706,7 @@ tahtoi 119
 eri 118
 auttamaan 118
 jättää 118
+Näytät 118
 naimisissa 118
 töihin 117
 kolmen 117
@@ -713,7 +714,6 @@ todellakin 117
 uutta 117
 voittaa 117
 Aion 117
-Näytät 117
 hyviä 116
 kaikkia 116
 Siellä 116
@@ -744,6 +744,7 @@ päätti 112
 voisin 112
 ranskan 112
 teen 112
+hetken 111
 väärässä 111
 minuun 111
 tehty 111
@@ -751,7 +752,6 @@ luulet 111
 laittoi 111
 kengät 111
 Marya 111
-hetken 110
 kuusi 110
 milloinkaan 110
 viikon 110
@@ -901,6 +901,7 @@ kai 95
 tekisi 95
 maa 94
 hitaasti 94
+asian 94
 ainoastaan 94
 nousi 93
 Jokainen 93
@@ -908,7 +909,6 @@ Herra 93
 oot 93
 plus 93
 asui 93
-asian 93
 Haluaisitko 93
 varovainen 93
 harvoin 93
@@ -1245,6 +1245,7 @@ Jätä 67
 vaivaa 67
 itsestään 67
 sunnuntaisin 67
+Nähdään 67
 toi 67
 kylässä 67
 varmaankin 67
@@ -1261,7 +1262,6 @@ englannin 66
 kysymys 66
 Millä 66
 maailmassa 66
-Nähdään 66
 Japani 66
 löi 66
 virheen 66
@@ -1404,6 +1404,7 @@ kuluttua 59
 puuttuu 59
 antanut 59
 ihanaa 59
+Terve 59
 jokin 59
 ollaan 59
 allerginen 59
@@ -1420,7 +1421,6 @@ kohti 58
 pojat 58
 johon 58
 sanoja 58
-Terve 58
 Minne 58
 Englannin 58
 tarvitsemme 58
@@ -1450,6 +1450,7 @@ sata 57
 valehtele 57
 vaatteet 57
 sanan 57
+Moi 57
 mielestäsi 57
 varasti 57
 unohtanut 57
@@ -1470,7 +1471,6 @@ unohti 56
 Pelkään 56
 ostit 56
 onnellisia 56
-Moi 56
 Tykkäätkö 56
 Minäkin 56
 miltä 56
@@ -1954,6 +1954,7 @@ Pystytkö 42
 etsii 42
 pöytä 42
 pelottaa 42
+Ensi 42
 moottoripyörä 42
 tarkoita 42
 listan 42
@@ -2018,7 +2019,6 @@ puutarhassa 41
 tapaamiseen 41
 Kuuntele 41
 toiset 41
-Ensi 41
 Lontoossa 41
 vähitellen 41
 oppinut 41
@@ -2944,6 +2944,7 @@ piirtää 28
 Voisiko 28
 huolestuttaa 28
 leivän 28
+hei 28
 -1 28
 pärjää 27
 sotaa 27
@@ -3047,7 +3048,6 @@ Taas 27
 jätkä 27
 varovaisia 27
 Mariin 27
-hei 27
 romaani 27
 Pidättekö 27
 tähtitiedettä 27
@@ -3158,6 +3158,7 @@ teimme 26
 liikuntaa 26
 optimistinen 26
 Voitte 26
+Moro 26
 astrologiaan 26
 kasvot 25
 sateen 25
@@ -3289,7 +3290,6 @@ aamuisin 25
 Taidan 25
 mielesi 25
 ”Miten 25
-Moro 25
 Ooksä 25
 ku 25
 isosiskoni 25
@@ -3450,6 +3450,7 @@ lapsille 23
 Pane 23
 lopeta 23
 Mitäs 23
+Hyvästi 23
 Setäni 23
 Yleisesti 23
 Tuletko 23
@@ -3948,7 +3949,6 @@ mahtavaa 20
 Luulenpa 20
 Pesen 20
 olikin 20
-Hyvästi 20
 näytän 20
 Yorkiin 20
 viesti 20
@@ -4754,6 +4754,7 @@ ratsastaa 17
 ois 17
 upeaa 17
 kolmella 17
+Moikka 17
 itsekseni 17
 Pysäytä 17
 Jättäkää 17
@@ -5030,9 +5031,9 @@ leipoi 16
 Kertokaa 16
 isi 16
 sadan 16
+Heippa 16
 poikaystäväni 16
 etsin 16
-Moikka 16
 vaikutus 16
 Onhan 16
 vuoksesi 16
@@ -5076,6 +5077,7 @@ seuraavana 15
 jalkaa 15
 valmistui 15
 Kerran 15
+Näkemiin 15
 puhkesi 15
 kiitoksia 15
 hölynpölyä 15
@@ -5314,7 +5316,6 @@ oluesta 15
 asunnossa 15
 amerikkalaista 15
 Vai 15
-Heippa 15
 listalta 15
 naisista 15
 poroksi 15
@@ -5688,6 +5689,7 @@ luvun 14
 siskonne 14
 ettette 14
 museoita 14
+Morjes 14
 Maaria 14
 kommuunissa 14
 väijyksissä 14
@@ -5722,7 +5724,6 @@ kykenee 13
 lopetat 13
 jolle 13
 henkilökohtaisesti 13
-Näkemiin 13
 kiertää 13
 epäröi 13
 Ottaisin 13
@@ -6087,6 +6088,7 @@ väreistä 13
 Rioon 13
 nääntyä 13
 syypää 13
+Morjesta 13
 Metsä 13
 koskeko 13
 perjantaille 13
@@ -6097,7 +6099,6 @@ palamaan 13
 helpottuu 13
 Ok 13
 Hakekaa 13
-Morjes 13
 veen 13
 haudalla 13
 Tukholmassa 13
@@ -6561,7 +6562,6 @@ tulkaa 12
 kanna 12
 minullekin 12
 jääkylmää 12
-Morjesta 12
 seinät 12
 Yrittäkää 12
 Lauloin 12
@@ -9653,6 +9653,7 @@ Tuomasta 8
 puhdistavat 8
 putsaavat 8
 vuosikymmenen 8
+Source_VOA 8
 banaanin 8
 kylissä 8
 viereiseen 8
@@ -9997,4 +9998,3 @@ Käymme 7
 lasia 7
 vasenkätinen 7
 Pelasimme 7
-lähemmäs 7

@@ -1,14 +1,14 @@
-się 16268
-nie 13794
-jest 13635
-w 12176
-Tom 10943
-na 10250
+się 16270
+nie 13796
+jest 13637
+w 12177
+Tom 10944
+na 10252
 Nie 9042
-to 8208
+to 8209
 że 7788
 do 7408
-z 7193
+z 7194
 To 4387
 i 4305
 Czy 3940
@@ -19,7 +19,7 @@ ma 3001
 co 2906
 za 2728
 On 2704
-jak 2598
+jak 2599
 tego 2467
 po 2408
 Mary 2341
@@ -55,8 +55,8 @@ tu 1110
 Ten 1105
 zrobić 1098
 czy 1070
-sobie 1057
-cię 1032
+sobie 1058
+cię 1033
 przez 1010
 może 1006
 ze 999
@@ -70,7 +70,7 @@ jeszcze 918
 pan 912
 tej 899
 mam 897
-żeby 889
+żeby 890
 tam 846
 Kiedy 840
 była 838
@@ -79,11 +79,11 @@ Mój 808
 Ta 775
 powiedział 772
 dobrze 770
-dużo 759
+dużo 760
 Dlaczego 758
 nic 753
 on 745
-Na 740
+Na 741
 kiedy 718
 wszystko 715
 więcej 713
@@ -98,10 +98,10 @@ Gdzie 670
 chce 669
 mówi 668
 tę 665
-a 657
+a 658
 Chciałbym 648
 nigdy 647
-ciebie 644
+ciebie 645
 lat 628
 Kto 627
 lubi 609
@@ -114,7 +114,7 @@ wiele 562
 zbyt 561
 pracy 559
 wiem 558
-miał 556
+miał 557
 trzy 552
 Tomowi 552
 roku 551
@@ -178,8 +178,8 @@ ona 396
 Możesz 388
 aby 386
 dzisiaj 383
+rzeczy 381
 szkoły 380
-rzeczy 380
 je 380
 często 375
 - 374
@@ -202,10 +202,10 @@ Może 348
 więc 345
 chciał 344
 jeśli 342
+lubię 339
 mają 339
 życie 339
 temu 339
-lubię 338
 musi 338
 kilka 337
 zrobił 336
@@ -277,8 +277,8 @@ wszyscy 267
 Wczoraj 266
 wieczorem 264
 Jesteśmy 264
+które 264
 lepiej 264
-które 262
 książki 261
 dnia 259
 O 259
@@ -421,8 +421,8 @@ nich 180
 Lepiej 180
 nami 178
 pana 177
+we 177
 dolarów 176
-we 176
 wiedział 176
 brat 175
 pomysł 174
@@ -486,11 +486,11 @@ między 156
 samochodu 156
 Wiesz 155
 John 155
+kocha 154
 kawy 154
 została 154
 zimno 154
 powinienem 154
-kocha 153
 kawę 153
 Dziękuję 152
 pójść 152
@@ -615,10 +615,10 @@ mówisz 129
 źle 128
 mówią 128
 Wszystkie 127
+Za 127
 prawo 127
 nauczyć 127
 piękny 126
-Za 126
 musimy 126
 Tylko 126
 Możemy 126
@@ -633,12 +633,12 @@ jakiś 124
 innego 124
 tobie 123
 praca 123
+pewno 123
 trzeba 123
 również 123
 piękne 123
 Myślisz 123
 zdjęcie 122
-pewno 122
 sama 122
 łatwo 122
 śmierci 122
@@ -728,12 +728,12 @@ autobus 107
 znasz 107
 zaczyna 107
 pisać 107
+najbardziej 107
 Mówi 106
 urodziny 106
 Twoje 106
 porządku 106
 przyjaciela 106
-najbardziej 106
 gdzieś 105
 Trzeba 105
 Coś 105
@@ -1619,6 +1619,7 @@ zdań 48
 oddać 48
 Widzisz 48
 trudny 48
+Ciągle 48
 samolot 48
 niebezpieczne 48
 Boże 48
@@ -1656,7 +1657,6 @@ chłopców 47
 Przynieś 47
 Niektóre 47
 pogody 47
-Ciągle 47
 pali 47
 ulubionym 47
 telewizor 47
@@ -1942,6 +1942,7 @@ lekarz 40
 mężczyzną 40
 planu 40
 Zróbmy 40
+koszulę 40
 kochać 40
 wracać 40
 ostrożny 40
@@ -1983,7 +1984,6 @@ przypadek 39
 światła 39
 planuje 39
 piętrze 39
-koszulę 39
 alkoholu 39
 niedziele 39
 smakuje 39
@@ -2243,6 +2243,7 @@ dotrzeć 34
 kolacji 34
 rodzaju 34
 panem 34
+ryba 34
 dziwny 34
 żart 34
 zapomnę 34
@@ -2316,6 +2317,7 @@ sądziłem 33
 wyniku 33
 rodzinie 33
 przyjedzie 33
+młodych 33
 zdał 33
 rozsądku 33
 Została 33
@@ -2325,7 +2327,6 @@ idą 33
 Problem 33
 piątek 33
 ramię 33
-ryba 33
 czuł 33
 spóźni 33
 czyż 33
@@ -2374,7 +2375,6 @@ własnego 32
 kompletnie 32
 komuś 32
 Angielski 32
-młodych 32
 chodził 32
 Pieniądze 32
 pusty 32
@@ -4016,6 +4016,7 @@ zasługuje 18
 psu 18
 wybory 18
 Koniec 18
+dziewczyn 18
 pudełka 18
 pudło 18
 odkrył 18
@@ -4154,6 +4155,7 @@ ostatnim 17
 wygrywa 17
 wszedłem 17
 nauką 17
+widzą 17
 społeczeństwa 17
 nudne 17
 zostawiła 17
@@ -4208,7 +4210,6 @@ Jakiej 17
 tablicy 17
 wykładu 17
 uczestniczyć 17
-dziewczyn 17
 narkotyków 17
 gazeta 17
 propozycja 17
@@ -4374,7 +4375,6 @@ zapalić 16
 Witam 16
 ponadto 16
 Serce 16
-widzą 16
 Serdecznie 16
 uszu 16
 spędziłem 16
@@ -4596,6 +4596,7 @@ pożarze 15
 pańskiej 15
 pacjentów 15
 funtów 15
+wyglądać 15
 wyglądzie 15
 psuje 15
 raportu 15
@@ -4869,7 +4870,6 @@ Skończyłeś 14
 grając 14
 interesach 14
 boku 14
-wyglądać 14
 Wielka 14
 kamienia 14
 meble 14
@@ -5548,6 +5548,7 @@ powrót 12
 Podziwiam 12
 Judy 12
 zranił 12
+Jedną 12
 gorącej 12
 grą 12
 wysokiej 12
@@ -5957,7 +5958,6 @@ dzieciństwie 11
 ufaj 11
 bałem 11
 karierę 11
-Jedną 11
 długim 11
 naczyń 11
 Zarówno 11
@@ -7535,6 +7535,7 @@ zabawę 9
 weekendu 9
 aplikacje 9
 dbam 9
+niebieską 9
 znajomy 9
 zaskoczyło 9
 przyjaciółkę 9
@@ -8328,7 +8329,6 @@ dowodem 8
 ocena 8
 Należę 8
 wykonania 8
-niebieską 8
 marynarzem 8
 udał 8
 najstarszy 8
@@ -8620,6 +8620,7 @@ Ono 7
 ogródek 7
 wstydu 7
 siła 7
+Finlandia 7
 dosłownie 7
 czerwonej 7
 wykonane 7
@@ -9609,6 +9610,7 @@ oleju 6
 rozpaczy 6
 pokazywać 6
 kuzynów 6
+gazetach 6
 początkujących 6
 przewodnik 6
 populacji 6
@@ -9638,7 +9640,6 @@ cieszą 6
 lepszą 6
 uwaga 6
 Wydał 6
-Finlandia 6
 ustąpił 6
 szerokości 6
 Kierowcy 6
@@ -9997,4 +9998,3 @@ wykształcenia 6
 wydarzenie 6
 horyzoncie 6
 niepalących 6
-terytorium 6

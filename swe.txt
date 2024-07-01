@@ -1,19 +1,19 @@
-är 11586
-Jag 11248
+är 11589
+Jag 11250
 att 7072
 Tom 7067
 inte 6908
 du 5124
-en 5105
-på 4838
-det 4734
-i 4560
+en 5107
+på 4840
+det 4736
+i 4561
 har 4218
 Det 3870
 Han 3405
-jag 3140
+jag 3141
 mig 2706
-för 2684
+för 2685
 här 2652
 var 2601
 med 2446
@@ -21,10 +21,10 @@ till 2355
 och 2321
 om 2252
 Hon 2071
-ett 1937
+ett 1939
 som 1895
 dig 1887
-Vi 1884
+Vi 1885
 den 1827
 kan 1672
 Du 1594
@@ -38,20 +38,20 @@ vill 1122
 De 1100
 ni 1100
 mycket 975
-skulle 971
+skulle 973
 min 970
 Hur 954
 Mary 943
 vi 895
-göra 877
-Är 862
+göra 878
+Är 863
 ska 856
 måste 818
 honom 811
 där 778
 Har 771
 vara 767
-ha 753
+ha 754
 ut 739
 hade 735
 Var 733
@@ -72,7 +72,7 @@ sin 586
 henne 573
 nu 564
 går 554
-bra 548
+bra 549
 Varför 531
 man 526
 gå 520
@@ -84,13 +84,13 @@ någon 479
 gillar 461
 åt 458
 blev 438
-finns 435
+finns 436
 dag 426
 eller 424
 lite 418
 gick 418
+alla 417
 gör 416
-alla 416
 något 415
 mitt 414
 tror 406
@@ -98,9 +98,9 @@ många 395
 ser 392
 ingen 391
 fick 389
+men 379
 alltid 379
 sa 379
-men 378
 ta 378
 väldigt 377
 gjorde 374
@@ -132,8 +132,8 @@ tre 306
 får 303
 mer 303
 år 297
+Toms 295
 I 294
-Toms 294
 barn 292
 fortfarande 291
 bli 289
@@ -215,7 +215,7 @@ visste 175
 kaffe 174
 namn 174
 Skulle 172
-gjort 168
+gjort 169
 står 168
 språk 167
 håller 167
@@ -349,8 +349,8 @@ Att 102
 satt 101
 ännu 101
 bad 100
+dagar 100
 Allt 99
-dagar 99
 son 98
 fru 98
 katt 98
@@ -362,12 +362,12 @@ Mina 97
 te 97
 fått 97
 händer 97
+annat 96
 träffa 96
 faktiskt 96
 vacker 96
 full 95
 höll 95
-annat 94
 önskar 94
 sant 94
 Din 94
@@ -452,6 +452,7 @@ arbete 76
 berättade 76
 gått 76
 lycklig 76
+sätt 76
 stod 75
 dricka 75
 sover 75
@@ -461,7 +462,6 @@ tåget 75
 försöker 75
 god 75
 glömde 75
-sätt 75
 tittade 75
 roligt 74
 dålig 74
@@ -643,6 +643,7 @@ föddes 52
 brukar 51
 hatt 51
 älskade 51
+föredrar 51
 pratade 51
 heller 51
 lådan 51
@@ -654,7 +655,6 @@ morgonen 50
 köpt 50
 använda 50
 intresserad 50
-föredrar 50
 människa 50
 hårt 50
 glas 50
@@ -809,6 +809,7 @@ sönder 40
 stolt 40
 röst 40
 Finland 40
+veckan 40
 ordet 40
 okej 40
 någonstans 40
@@ -827,7 +828,6 @@ vann 39
 landet 39
 vackert 39
 verkade 39
-veckan 39
 Inte 39
 stark 39
 skogen 39
@@ -1263,6 +1263,7 @@ Tyvärr 23
 berget 23
 Borde 23
 Amerika 23
+leker 23
 Välkommen 23
 välja 23
 fri 23
@@ -1311,7 +1312,6 @@ euro 22
 växte 22
 fin 22
 lyckliga 22
-leker 22
 fest 22
 slutet 22
 vilse 22
@@ -1657,6 +1657,7 @@ yen 16
 Rökning 16
 hinner 16
 bet 16
+orm 16
 Sveriges 16
 förr 16
 varnade 16
@@ -1750,7 +1751,6 @@ filmer 15
 is 15
 delade 15
 Stör 15
-orm 15
 kylskåpet 15
 granne 15
 Indien 15
@@ -1968,6 +1968,7 @@ bekant 13
 pension 13
 avgår 13
 insekter 13
+vis 13
 karriär 13
 planerar 13
 kameran 13
@@ -2009,6 +2010,7 @@ uttråkad 13
 fönstren 13
 läraren 13
 blyertspenna 13
+hälsan 13
 konst 13
 vaken 13
 texten 13
@@ -2088,7 +2090,6 @@ fönster 12
 duger 12
 middagen 12
 söner 12
-vis 12
 tjej 12
 beklagar 12
 alkohol 12
@@ -2098,6 +2099,7 @@ risk 12
 Filmen 12
 sänka 12
 priset 12
+ej 12
 letat 12
 sena 12
 hot 12
@@ -2131,7 +2133,6 @@ sömnig 12
 erbjöd 12
 sovrum 12
 näsan 12
-hälsan 12
 allvarlig 12
 näsa 12
 pistolen 12
@@ -2230,7 +2231,6 @@ jobbade 11
 fötterna 11
 ångrar 11
 föreslår 11
-ej 11
 vete 11
 Fåglar 11
 gåva 11
@@ -2956,6 +2956,7 @@ risken 8
 rapport 8
 gränser 8
 pennor 8
+Musik 8
 möjlighet 8
 husdjur 8
 bidra 8
@@ -3255,7 +3256,6 @@ hej 7
 panik 7
 kraft 7
 händelse 7
-Musik 7
 Thomas 7
 ende 7
 korv 7
@@ -6994,6 +6994,7 @@ relation 3
 Sök 3
 hoppfull 3
 Rymden 3
+kurragömma 3
 lagligt 3
 Högre 3
 Språk 3
@@ -9854,7 +9855,6 @@ hobbyer 2
 ond 2
 emellertid 2
 läspar 2
-kurragömma 2
 Boston” 2
 Australien” 2
 Texten 2

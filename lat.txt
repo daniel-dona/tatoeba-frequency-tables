@@ -1,25 +1,25 @@
-est 10126
-et 4772
-in 4533
-Thomas 3617
-non 3481
+est 10129
+et 4773
+in 4534
+Thomas 3618
+non 3484
 sunt 2225
 ad 1744
 mihi 1614
 / 1569
 esse 1417
 sum 1361
-me 1305
+me 1306
 ut 1124
 quam 1031
-te 1026
+te 1027
 tibi 963
 cum 962
 Maria 958
-de 891
+de 892
 Quid 845
 Ubi 828
-es 781
+es 782
 se 776
 quod 752
 In 749
@@ -27,7 +27,7 @@ Non 742
 eius 686
 Didymus 685
 hoc 682
-mea 658
+mea 659
 eum 634
 qui 611
 habet 611
@@ -36,13 +36,13 @@ a 575
 meus 558
 sed 546
 Hoc 528
-Cur 516
-id 476
+Cur 517
+id 477
 Et 463
 Hic 461
 Haec 453
+Thoman 452
 Thōmās 451
-Thoman 451
 valde 434
 Quot 428
 ex 427
@@ -57,8 +57,8 @@ tua 369
 potest 368
 Mariam 368
 ei 363
+Deus 355
 eam 355
-Deus 354
 placet 353
 Quis 353
 sit 349
@@ -69,9 +69,9 @@ domum 326
 habeo 319
 possum 317
 ubi 316
-nos 310
+nos 311
+sumus 310
 opus 309
-sumus 309
 ab 308
 nunc 306
 Si 302
@@ -86,7 +86,7 @@ annos 284
 quae 283
 ego 280
 nobis 277
-omnes 275
+omnes 276
 Cum 273
 linguam 271
 Nonne 268
@@ -113,7 +113,7 @@ ne 232
 Te 231
 Nemo 230
 nihil 225
-inter 223
+inter 224
 venit 223
 quaeso 223
 ac 223
@@ -149,8 +149,8 @@ quem 178
 pro 177
 erit 176
 tuam 176
+pulchra 172
 dedit 171
-pulchra 171
 quo 170
 Mihi 169
 apud 168
@@ -229,7 +229,7 @@ placent 130
 tantum 130
 Scisne 129
 modo 129
-locutus 125
+locutus 126
 vobis 125
 Iam 125
 emere 124
@@ -277,10 +277,10 @@ bonum 110
 bibit 110
 canem 109
 dicere 109
+Feles 109
 Iacob 109
 magis 108
 potes 108
-Feles 108
 Heri 108
 eis 108
 vita 107
@@ -562,6 +562,7 @@ iter 62
 hæc 62
 possumus 61
 pecuniae 61
+dormit 61
 Vita 61
 egeo 61
 feci 61
@@ -575,7 +576,6 @@ puto 60
 Romam 60
 Gallia 60
 est" 60
-dormit 60
 fessus 60
 Sinensem 60
 Terra 60
@@ -672,6 +672,7 @@ Aegypto 52
 habēs 52
 invenire 52
 pariter 52
+faciunt 51
 Nec 51
 vivit 51
 Sic 51
@@ -692,7 +693,6 @@ num 51
 populus 51
 Thōmae 51
 pars 50
-faciunt 50
 magnam 50
 Nōn 50
 rebus 50
@@ -827,6 +827,7 @@ fenestram 43
 Hanc 43
 osculatus 43
 tum 43
+amica 42
 Aemilia 42
 meos 42
 frigida 42
@@ -841,7 +842,6 @@ simul 42
 Utinam 42
 servus 42
 Huc 42
-amica 41
 uno 41
 necesse 41
 Hi 41
@@ -2151,6 +2151,7 @@ Habeo 16
 clausa 16
 statuit 16
 Ave 16
+animalibus 16
 caret 16
 cognoscere 16
 habitas 16
@@ -2192,6 +2193,7 @@ umbellam 16
 fluvio 16
 Lutetiam 16
 arborem 16
+Viri 16
 Iacobus 16
 calceos 16
 terruit 16
@@ -2295,7 +2297,6 @@ laudat 15
 stellas 15
 Ferrum 15
 finis 15
-animalibus 15
 causas 15
 mutare 15
 horum 15
@@ -2322,7 +2323,6 @@ sordidae 15
 caro 15
 ludis 15
 pila 15
-Viri 15
 saltare 15
 epistulas 15
 opes 15
@@ -2559,6 +2559,7 @@ sanguinem 14
 fluvii 14
 Delia 14
 constituit 14
+delectant 14
 fessi 14
 Neminem 14
 proficisci 14
@@ -2734,7 +2735,6 @@ fugere 13
 generis 13
 error 13
 incendio 13
-delectant 13
 essent 13
 Alii 13
 clam 13
@@ -3839,6 +3839,7 @@ familias 9
 petit 9
 quaestionem 9
 Dubito 9
+times 9
 Agricola 9
 religio 9
 Atque 9
@@ -4306,7 +4307,6 @@ sumite 8
 juvat 8
 Viae 8
 eligere 8
-times 8
 novisti 8
 emimus 8
 laboravit 8
@@ -6809,6 +6809,7 @@ operaris 5
 curavit 5
 momento 5
 alicubi 5
+Tota 5
 comam 5
 peregrinatus 5
 operatur 5
@@ -8294,7 +8295,6 @@ Russia 4
 voluntate 4
 complectitur 4
 ibidem 4
-Tota 4
 anguli 4
 barba 4
 rotatur 4
@@ -8574,6 +8574,7 @@ dicentem 4
 invenies 4
 dextera 4
 iumentum 4
+Optimi 4
 gignit 4
 apte 4
 Timet 4
@@ -9997,4 +9998,3 @@ Sardinia 3
 Romanae 3
 ancillis 3
 bonæ 3
-Latinae 3

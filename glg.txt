@@ -1,20 +1,20 @@
-a 1254
-que 1157
-de 1115
-o 1032
+a 1255
+que 1159
+de 1117
+o 1033
 é 770
-non 598
-un 550
-O 546
-e 490
-A 446
+non 600
+un 551
+O 547
+e 492
+A 447
 unha 432
 Non 422
 do 338
-en 311
-da 282
+en 312
+da 283
 os 267
-máis 257
+máis 259
 para 250
 no 228
 Tom 219
@@ -27,17 +27,17 @@ na 190
 se 189
 á 184
 súa 182
-está 174
+está 175
 Os 169
-miña 166
+miña 167
 seu 160
 Ela 150
 son 148
 ten 143
-con 138
-moi 129
-É 128
-me 123
+con 139
+moi 131
+É 129
+me 124
 dos 116
 Que 113
 como 105
@@ -66,7 +66,7 @@ vida 71
 día 71
 tempo 69
 nada 69
-aquí 67
+aquí 68
 ti 67
 tan 66
 era 66
@@ -81,44 +81,44 @@ ela 61
 pai 61
 este 61
 anos 61
+Hai 61
+sen 60
 só 59
 nai 59
 teño 59
-sen 59
-Hai 59
 ben 58
 lle 58
 min 58
 noite 57
 novo 56
 inglés 56
+Estou 56
 traballo 55
 sempre 55
 home 55
-Estou 55
 xa 53
 tarde 52
 Este 52
 pode 51
 Cando 51
 ás 50
+coma 50
 nos 49
-coma 49
 Esta 48
 lingua 47
 Son 46
-mellor 45
+mellor 46
+ir 46
 coa 45
 cartos 45
-ir 45
 vez 45
 eu 44
+co 44
 están 44
 aos 44
 che 43
 dous 43
 coche 43
-co 43
 quen 43
 pouco 42
 dúas 42
@@ -129,23 +129,23 @@ Quen 40
 hoxe 40
 vai 40
 porque 40
+aínda 40
 ter 40
 iso 40
 Mary 40
-aínda 39
+libro 39
 mundo 39
 estás 39
 Unha 39
 xente 38
-libro 38
 hora 38
 boa 38
 Podes 38
 Como 38
+auga 37
 meus 37
 mesmo 37
 Xa 37
-auga 36
 demasiado 36
 veces 36
 súas 36
@@ -209,6 +209,7 @@ Quero 26
 ese 26
 cidade 26
 Hoxe 26
+primeiro 26
 sei 26
 cada 26
 tiña 26
@@ -216,7 +217,6 @@ comer 26
 podes 26
 dunha 25
 Tes 25
-primeiro 25
 problema 25
 Iso 25
 esa 25
@@ -266,6 +266,7 @@ contra 21
 Vai 21
 cama 21
 francés 21
+tren 21
 Gústame 21
 cousa 21
 Tatoeba 21
@@ -280,7 +281,6 @@ quere 20
 momento 20
 sabe 20
 erros 20
-tren 20
 ninguén 20
 axuda 20
 carta 20
@@ -301,6 +301,7 @@ nova 19
 cara 19
 alí 19
 dar 19
+fermosa 19
 feliz 18
 Xapón 18
 fillos 18
@@ -322,7 +323,6 @@ Foi 18
 gato 18
 ouvir 18
 palabras 18
-fermosa 18
 profesor 17
 vello 17
 man 17
@@ -406,6 +406,7 @@ seguro 14
 tal 14
 Aínda 14
 fiestra 14
+Todos 14
 linguas 14
 Agora 14
 polas 14
@@ -417,6 +418,7 @@ pé 14
 Estás 14
 forma 14
 ha 14
+queres 14
 rei 14
 idiomas 14
 canso 13
@@ -424,6 +426,7 @@ tipo 13
 calor 13
 desta 13
 seis 13
+Es 13
 problemas 13
 irmáns 13
 propia 13
@@ -440,11 +443,11 @@ Penso 13
 grandes 13
 ceo 13
 azul 13
+partido 13
 tamén 13
 branco 13
 calquera 13
 rápido 13
-Todos 13
 idade 13
 pasou 13
 algún 13
@@ -453,14 +456,13 @@ exame 13
 roupa 13
 soño 13
 Todo 13
-queres 13
 doutor 13
 rapaza 13
+lonxe 13
 cuarto 13
 verán 12
 deste 12
 latín 12
-Es 12
 chegou 12
 estudar 12
 ocupado 12
@@ -469,7 +471,6 @@ amado 12
 choiva 12
 Espero 12
 moza 12
-partido 12
 único 12
 sombra 12
 bicicleta 12
@@ -487,7 +488,7 @@ tódalas 12
 alma 12
 zapatos 12
 consello 12
-lonxe 12
+ningunha 11
 coas 11
 saír 11
 poucos 11
@@ -532,7 +533,6 @@ medio 11
 chamar 11
 será 11
 sangue 11
-ningunha 10
 idioma 10
 Sei 10
 pregunta 10
@@ -571,6 +571,7 @@ preguntas 10
 lume 10
 marchar 10
 marchou 10
+coller 10
 voz 10
 del 10
 mesma 10
@@ -624,6 +625,7 @@ moita 9
 América 9
 papel 9
 Unidos 9
+completamente 9
 significa 9
 había 9
 esquina 9
@@ -637,7 +639,6 @@ Despois 9
 carne 9
 punto 9
 poidas 9
-coller 9
 vin 9
 rompeu 9
 mente 9
@@ -654,7 +655,9 @@ escoitar 9
 segundo 9
 cociña 9
 / 9
+amada 9
 chove 8
+varias 8
 situación 8
 pobre 8
 Ás 8
@@ -688,7 +691,6 @@ almorzo 8
 mellores 8
 Estados 8
 primeira 8
-completamente 8
 chan 8
 Case 8
 puido 8
@@ -728,12 +730,10 @@ xogo 8
 aí 8
 connosco 8
 sabía 8
-amada 8
 irei 7
 soa 7
 posíbel 7
 verte 7
-varias 7
 oito 7
 realmente 7
 debe 7
@@ -826,6 +826,7 @@ cine 7
 entender 7
 balde 7
 cociñando 7
+mil 7
 adoita 7
 cans 7
 puiden 7
@@ -846,6 +847,7 @@ parella 6
 cear 6
 ferida 6
 digas 6
+corenta 6
 Gústache 6
 concerto 6
 semanas 6
@@ -908,6 +910,7 @@ sombreiro 6
 lentes 6
 flor 6
 Podería 6
+pensar 6
 triste 6
 fácil 6
 penso 6
@@ -958,7 +961,6 @@ dixen 6
 dela 6
 exemplo 6
 deixou 6
-mil 6
 piano 6
 chegue 6
 bebida 6
@@ -984,7 +986,6 @@ dis 5
 fillas 5
 quente 5
 italiano 5
-corenta 5
 Nadal 5
 información 5
 segredo 5
@@ -1005,6 +1006,7 @@ sistema 5
 deberías 5
 longo 5
 diario 5
+escribindo 5
 tenis 5
 resultado 5
 xaponeses 5
@@ -1057,6 +1059,7 @@ tráfico 5
 vaias 5
 ataque 5
 inimigo 5
+Francia 5
 amarelas 5
 países 5
 nubes 5
@@ -1074,7 +1077,6 @@ namentres 5
 dese 5
 xogadores 5
 interesa 5
-pensar 5
 aló 5
 deberes 5
 vermella 5
@@ -1118,6 +1120,7 @@ contar 5
 semella 5
 tío 5
 arredor 5
+ves 5
 deixes 5
 cambiar 5
 París 5
@@ -1229,6 +1232,7 @@ pantasmas 4
 pantasma 4
 Prefiro 4
 sur 4
+quedamos 4
 once 4
 Nun 4
 voo 4
@@ -1237,7 +1241,6 @@ gratis 4
 uso 4
 sabor 4
 nevar 4
-escribindo 4
 proxecto 4
 deben 4
 pobo 4
@@ -1253,6 +1256,7 @@ galiña 4
 xornalista 4
 amiga 4
 coñecida 4
+sal 4
 clásica 4
 azuis 4
 certa 4
@@ -1306,7 +1310,6 @@ reunión 4
 soldados 4
 correndo 4
 namorado 4
-Francia 4
 demais 4
 escoitei 4
 camiñar 4
@@ -1382,7 +1385,6 @@ Ola 4
 funciona 4
 ingresos 4
 cometer 4
-ves 4
 brasileiro 4
 Entre 4
 vale 4
@@ -1398,6 +1400,7 @@ dezaoito 4
 bombeiros 4
 tiveron 4
 esquezas 4
+igrexas 4
 acontece 4
 suxeito 4
 cordóns 4
@@ -1550,7 +1553,6 @@ rosas 3
 cruzar 3
 obriga 3
 tarefa 3
-quedamos 3
 Encántame 3
 dúbida 3
 Veña 3
@@ -1586,7 +1588,6 @@ principio 3
 inocencia 3
 bebé 3
 Fixen 3
-sal 3
 especialmente 3
 merda 3
 sabio 3
@@ -1708,6 +1709,7 @@ Atopeime 3
 aquelas 3
 milagre 3
 corredor 3
+Quería 3
 esperando 3
 obxecto 3
 desenvolvemento 3
@@ -1767,6 +1769,7 @@ castelán 3
 bebeu 3
 Pensas 3
 competicións 3
+especies 3
 prefire 3
 mozas 3
 cento 3
@@ -1814,7 +1817,6 @@ España 3
 carreira 3
 cadea 3
 ensinar 3
-igrexas 3
 quitou 3
 Moscova 3
 reparou 3
@@ -1958,6 +1960,7 @@ cabelo 3
 xeralmente 3
 flotan 3
 romano 3
+subiu 3
 pesadelo 3
 col 3
 fondos 3
@@ -2087,6 +2090,7 @@ interior 3
 arco 3
 temperaturas 3
 espello 3
+adultos 3
 canta 3
 Estas 3
 amar 3
@@ -2431,7 +2435,6 @@ convencerte 2
 Alí 2
 atopábase 2
 produciulle 2
-Quería 2
 respecto 2
 nacións 2
 Nacións 2
@@ -2559,7 +2562,6 @@ seguridade 2
 Pediume 2
 coitelo 2
 escritor 2
-especies 2
 domingos 2
 delas 2
 Nacín 2
@@ -2599,6 +2601,7 @@ descubriu 2
 clara 2
 nacen 2
 libres 2
+nivel 2
 axeitado 2
 asistencia 2
 servizos 2
@@ -2661,6 +2664,7 @@ actualmente 2
 tendes 2
 deulle 2
 benvida 2
+Realmente 2
 xiz 2
 calidade 2
 unicamente 2
@@ -2731,6 +2735,7 @@ brillante 2
 carece 2
 ocultos 2
 Terás 2
+mancha 2
 digo 2
 gas 2
 aceptar 2
@@ -2742,6 +2747,7 @@ quede 2
 voa 2
 suficientes 2
 rumor 2
+facilidade 2
 5 2
 Boas 2
 Abofé 2
@@ -2924,7 +2930,6 @@ asasinado 2
 industria 2
 mercado 2
 competencia 2
-subiu 2
 pesadelos 2
 comadrexa 2
 recoñécese 2
@@ -3249,6 +3254,7 @@ esvaecerse 2
 visitei 2
 aula 2
 nevando 2
+chegando 2
 Entra 2
 Cheiras 2
 aliviado 2
@@ -3327,6 +3333,7 @@ absolutamente 2
 festas 2
 heroína 2
 aplicación 2
+niso 2
 prefiro 2
 practicamente 2
 intentos 2
@@ -3346,7 +3353,6 @@ cheas 2
 faraón 2
 vitoria 2
 fuga 2
-adultos 2
 pensas 2
 medias 2
 Rosa 2
@@ -3379,6 +3385,7 @@ nenúfar 2
 variedade 2
 nenúfares 2
 augas 2
+limitar 2
 lirio 2
 mestura 2
 loita 2
@@ -3538,6 +3545,7 @@ bens 2
 deserto 2
 eloxia 2
 bicos 2
+viña 2
 cabras 2
 meixelas 2
 pendentes 2
@@ -4754,7 +4762,6 @@ dotados 1
 comportar 1
 fraternalmente 1
 Toda 1
-nivel 1
 asegure 1
 alimentación 1
 vivenda 1
@@ -4959,7 +4966,6 @@ tempestades 1
 lectores 1
 prefiren 1
 relatos 1
-Realmente 1
 enchoupados 1
 suor 1
 rede 1
@@ -5182,7 +5188,6 @@ irnos 1
 murches 1
 sendeiros 1
 Frega 1
-mancha 1
 vinagre 1
 Tomou 1
 oírme 1
@@ -5241,7 +5246,6 @@ chuviosa 1
 decirche 1
 tratando 1
 enfádase 1
-facilidade 1
 invitar 1
 unicamentre 1
 casouse 1
@@ -7177,7 +7181,6 @@ Bebedes 1
 Viaxo 1
 "Idade" 1
 "16" 1
-chegando 1
 berredes 1
 gritedes 1
 grises 1
@@ -7512,7 +7515,6 @@ aconsellaríate 1
 Quere 1
 escoitalo 1
 Filtrou 1
-niso 1
 omnívoros 1
 Vén 1
 ​​non 1
@@ -7820,7 +7822,6 @@ lanternas 1
 fonte 1
 cuxas 1
 rebordantes 1
-limitar 1
 torrente 1
 serpentean 1
 xardín; 1
@@ -9274,7 +9275,6 @@ bronceou 1
 fixéronme 1
 gardián 1
 gardar 1
-viña 1
 dime 1
 pastoreas 1
 repousas 1
@@ -9472,3 +9472,12 @@ natural 1
 maletas 1
 Entendeches 1
 esquecemos 1
+pascua 1
+Finge 1
+contradición 1
+Falemos 1
+deles 1
+Intentade 1
+inxestión 1
+decepcionados 1
+Nadan 1
