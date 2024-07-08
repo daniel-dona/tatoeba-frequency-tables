@@ -1,8 +1,8 @@
-es 3125
-Yo 2391
+es 3126
+Yo 2393
 un 1850
 li 1657
-Tom 1519
+Tom 1520
 ne 1427
 in 772
 tu 763
@@ -24,7 +24,7 @@ it 416
 Noi 411
 yo 398
 vole 391
-mi 388
+mi 390
 e 387
 Tu 355
 It 319
@@ -50,7 +50,7 @@ Mi 204
 Ili 204
 del 194
 vu 189
-parla 174
+parla 175
 Quo 168
 ti 165
 ci 162
@@ -137,12 +137,12 @@ cane 58
 old 58
 dormi 57
 dir 57
+nor 57
 dentes 57
 evenit 56
 tri 56
 tam 56
 ma 56
-nor 56
 die 55
 munde 55
 football 55
@@ -167,13 +167,13 @@ comprat 48
 patre 48
 aqua 48
 scrit 48
+studia 48
 chambre 48
 on 48
 havet 48
 qualmen 47
 nómine 47
 porta 47
-studia 47
 In 47
 deman 46
 perdit 46
@@ -640,6 +640,7 @@ somnie 10
 avan 10
 presc 10
 credet 10
+chef 10
 nominat 10
 A 10
 secrete 10
@@ -693,7 +694,6 @@ castelle 9
 flor 9
 projecte 9
 longmen 9
-chef 9
 departer 9
 consenti 9
 state 9
@@ -932,6 +932,7 @@ herbe 6
 lege 6
 diferent 6
 chocolate 6
+hispan 6
 durat 6
 soluer 6
 aperte 6
@@ -1076,7 +1077,6 @@ Canes 5
 discusser 5
 ínmediatmen 5
 studiante 5
-hispan 5
 signe 5
 hor 5
 complicat 5
@@ -1951,6 +1951,7 @@ saltat 2
 ll 2
 passate 2
 ínjust 2
+medicina 2
 exception 2
 bombe 2
 Johanna 2
@@ -2149,6 +2150,7 @@ rebello 2
 professor 2
 Cates 2
 condomes 2
+Morta 2
 habil 2
 seductet 2
 rar 2
@@ -2968,7 +2970,6 @@ Sir 1
 William 1
 babillar 1
 frauda 1
-medicina 1
 Claudine 1
 dorme 1
 casu 1
@@ -3455,7 +3456,6 @@ preservatives 1
 Compositores 1
 crea 1
 Presc 1
-Morta 1
 labies 1
 Mariko 1
 vomir 1
@@ -5618,3 +5618,4 @@ franceses 1
 electiones 1
 proceder 1
 replicar 1
+Assassina 1

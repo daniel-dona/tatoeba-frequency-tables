@@ -1,7 +1,7 @@
-ir 65
+ir 66
 Es 29
+Maņ 22
 ka 22
-Maņ 21
 i 17
 Voi 15
 tū 14
@@ -125,6 +125,7 @@ mes 2
 var 2
 vuordu 2
 juos 2
+bet 2
 saceja 2
 tāvs 2
 nūteik 2
@@ -145,6 +146,7 @@ puoruok 2
 sapni 2
 sapnys 2
 tyka 2
+muns 2
 palīk 2
 palykuši 2
 kolpim 2
@@ -159,6 +161,7 @@ Izavielej 2
 varātu 2
 kab 2
 Šudiņ 2
+muzyka 2
 drupeit 2
 sīva 2
 Mareja 2
@@ -418,7 +421,6 @@ temperaments 1
 atbylst 1
 matiem 1
 uzatraucs 1
-bet 1
 Australeja 1
 jauka 1
 vīta 1
@@ -592,7 +594,6 @@ sapnis 1
 Laimeigu 1
 nakti 1
 mīreigi 1
-muns 1
 sapyns 1
 sapņi 1
 leluoki 1
@@ -748,7 +749,6 @@ atsagrīzi 1
 pastaiguot 1
 Naleidzynoj 1
 cytim 1
-muzyka 1
 puorjēme 1
 aizkustynuoja 1
 Tai 1
@@ -818,3 +818,8 @@ Olu 1
 lyudzu 1
 pošeigs 1
 sovlobs 1
+patyka 1
+gondreiž 1
+kotra 1
+favorits 1
+smogmetals 1

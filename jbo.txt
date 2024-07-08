@@ -1,8 +1,8 @@
 lo 12810
-mi 6218
-cu 3484
+mi 6220
+cu 3485
 do 3345
-la 2985
+la 2986
 pu 2301
 le 2296
 nu 2122
@@ -13,7 +13,7 @@ be 1333
 ko'a 1268
 ma 1222
 ka 1213
-ko 1120
+ko 1122
 ca 986
 tom 949
 xu 913
@@ -59,8 +59,8 @@ gi'e 256
 co'a 251
 zukte 251
 nai 249
+tam 242
 za'u 242
-tam 241
 ka'e 240
 cukta 240
 fa 239
@@ -176,13 +176,13 @@ kansa 92
 ne'i 91
 la'e 90
 sutra 90
+catra 90
 bo 90
 ni 89
 xebni 89
 nanla 88
 jmive 88
 ckule 88
-catra 88
 pluka 88
 co 87
 nanba 87
@@ -190,10 +190,10 @@ plise 86
 kumfa 86
 tu 86
 zi 86
+pe'a 85
 terpa 85
 nanca 85
 zasti 84
-pe'a 84
 fasnu 84
 speni 84
 traji 84
@@ -6911,3 +6911,4 @@ sorbet 1
 lituanias 1
 cmacti 1
 mudyka'apre 1
+zercu'upre 1

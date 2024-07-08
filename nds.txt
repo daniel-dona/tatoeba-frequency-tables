@@ -26,8 +26,8 @@ em 657
 an 652
 na 641
 mien 618
+sünd 610
 Tom 610
-sünd 609
 wat 548
 weer 530
 he 522
@@ -255,6 +255,7 @@ Goorn 60
 lesen 60
 Wullt 60
 Melk 60
+Ji 58
 bruuk 58
 nüms 58
 slapen 58
@@ -262,7 +263,6 @@ drapen 58
 Vondaag 58
 grötter 58
 Sünn 58
-Ji 57
 Eten 57
 ünner 57
 steiht 57
@@ -897,6 +897,7 @@ Höövdstad 15
 Weken 15
 halv 15
 Holl 15
+duun 15
 twölv 15
 Wagen 15
 achtern 15
@@ -949,7 +950,6 @@ Staten 14
 Bob 14
 Glück 14
 Jümmer 14
-duun 14
 langen 14
 Söhns 14
 beiden 14

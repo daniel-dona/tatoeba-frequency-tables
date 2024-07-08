@@ -1,21 +1,21 @@
 do 3271
 zou 1183
-di 958
+di 959
 no 892
 i 790
 Tom 693
-ko 634
+ko 635
 ku 630
-o 579
+o 580
 id 465
 nu 436
 nopo 414
 Au 409
 doid 396
-dii 361
+dii 363
 om 360
-isido 348
-dau 344
+isido 349
+dau 345
 nga 314
 au 229
 diti 223
@@ -23,16 +23,16 @@ po 221
 zosido 197
 zi 188
 naku 184
-mantad 182
-diau 173
+mantad 183
+diau 174
 Mary 169
 dogo 165
 kozo 160
+Au' 156
 tuhun 155
-Au' 154
+kumaa 151
+zikoi 151
 daa 151
-kumaa 150
-zikoi 150
 tokou 140
 tu 138
 iho 136
@@ -57,7 +57,7 @@ disido 90
 doiho 88
 doiti 85
 montok 82
-i' 78
+i' 79
 dosido 76
 kio 72
 hamin 71
@@ -107,13 +107,13 @@ tagazo 43
 iso 42
 kivaa 41
 duvo 39
+iziau 39
 daamin 39
 sikul 39
 songuhun 39
+Kada' 39
 nogi 39
 kou 39
-iziau 38
-Kada' 38
 vagu 37
 Onggilis 37
 Kada 37
@@ -292,6 +292,7 @@ hoogo 15
 umikot 15
 zito 15
 Doiho 15
+soosonguhun 15
 dotiho 15
 kosuvabon 14
 zina 14
@@ -321,7 +322,6 @@ pakalaja 14
 monuhung 14
 Noihaan 14
 talipaun 14
-soosonguhun 14
 tombohog 13
 pokionuan 13
 kahapas 13
@@ -375,6 +375,7 @@ Doiti 12
 aino 12
 Layla 12
 vinasi' 12
+po' 12
 tunizon 12
 dioho' 12
 Bohizan 12
@@ -417,8 +418,8 @@ Zosido 11
 tingau 11
 diisai 11
 Ka 11
-po' 11
 kopoguhu 11
+ma 11
 Kakaal 11
 iho' 11
 sangadau 10
@@ -452,7 +453,6 @@ Avasi' 10
 Monguo 10
 sumakit 10
 Kaanu 10
-ma 10
 giningo 10
 tindahanon 10
 Kivotik 10
@@ -491,6 +491,7 @@ muot 9
 sumuang 9
 kosusaan 9
 kinahasaan 9
+dazanak 9
 modop 9
 tohikud 9
 Somoonu 9
@@ -545,7 +546,6 @@ tongus 8
 ngoduvo 8
 kataan 8
 tontohu 8
-dazanak 8
 kakaal 8
 Nombo 8
 popokito 8
@@ -1427,6 +1427,7 @@ Tumingkod 3
 dumbangan 3
 Spiritu 3
 tanda 3
+kotos 3
 sonḏii' 3
 Osikap 3
 Moguhu 3
@@ -1551,6 +1552,7 @@ anime 3
 Rusia 3
 Koduvo 3
 kopongo' 3
+Ogumu' 3
 Aiso' 3
 Lugansk 3
 Donetsk 3
@@ -1934,6 +1936,7 @@ Sinunudan 2
 poginuman 2
 planit 2
 Jane 2
+mamajangka 2
 ibut 2
 Noposik 2
 sumaang 2
@@ -2084,7 +2087,6 @@ Pinopoingat 2
 salajul 2
 Tobitua 2
 Dadi' 2
-kotos 2
 kalaja' 2
 avakas 2
 babaino 2
@@ -2306,6 +2308,7 @@ mongukut 2
 - 2
 kasa 2
 noohu 2
+kovudutan 2
 pingas 2
 kinotusan 2
 momihi 2
@@ -2410,7 +2413,6 @@ binooson 2
 Toombo 2
 Kuo 2
 Noovian 2
-Ogumu' 2
 zou" 2
 "Monguo 2
 Humozou 2
@@ -2425,6 +2427,7 @@ Ukraine 2
 Noonuan 2
 dopuan 2
 dolar 2
+manahob 2
 kosuangan 2
 poposusa' 2
 sumoboong 2
@@ -2445,6 +2448,7 @@ Obingpihadan 2
 Nitungan 2
 momohi' 2
 osokozut 2
+potuu' 2
 soginumu' 2
 ina' 2
 pinoginuman 2
@@ -3708,7 +3712,6 @@ Tama' 1
 obinsianan 1
 Nabalai 1
 Tumungag 1
-mamajangka 1
 Poinsuti 1
 Opoto' 1
 Sumovohi 1
@@ -5218,7 +5221,6 @@ navaavazaan 1
 sungkitan 1
 vaksin 1
 Mangkus-tangkus 1
-kovudutan 1
 Noingat 1
 nabasaan 1
 Monimpuun 1
@@ -6073,7 +6075,6 @@ pinoihoon 1
 pogohimut 1
 Pinogium 1
 kidouso 1
-manahob 1
 kiduvo 1
 Sakaakahi 1
 Johnson 1
@@ -6340,7 +6341,6 @@ pasu 1
 louting 1
 Kokiikitanai 1
 oto'onong 1
-potuu' 1
 dodizan 1
 minonuhung 1
 konteks 1
@@ -6639,3 +6639,5 @@ nokoongou 1
 zama' 1
 monongkobuntung 1
 Nakaladu 1
+poginazakai 1
+osingot 1

@@ -6,7 +6,7 @@ iku 49
 aku 45
 iki 42
 ing 41
-Kowé 40
+Kowé 41
 Dhèwèké 36
 karo 36
 kowé 31
@@ -31,10 +31,10 @@ Aja 18
 duwé 17
 wong 17
 dudu 17
+durung 16
 manèh 16
 saka 16
 ta 16
-durung 15
 mangan 15
 nèng 15
 endi 15
@@ -162,6 +162,7 @@ kopi 4
 pundi 4
 taun 4
 Tak 4
+bengi 4
 numpak 4
 bis 4
 krungu 4
@@ -175,6 +176,7 @@ Dhèké 4
 Sampéyan 4
 lungguh 4
 taman 4
+madhang 4
 Sami 4
 kaping 4
 nanging 4
@@ -216,7 +218,6 @@ Kayané 3
 kedah 3
 nggo 3
 tekan 3
-bengi 3
 liyané 3
 Awakdhéwé 3
 malah 3
@@ -238,7 +239,6 @@ telung 3
 nglakokaké 3
 Sing 3
 wedi 3
-madhang 3
 ngapusi 3
 ketemu 3
 temenan 3
@@ -1883,3 +1883,4 @@ gendérané 1
 panggoné 1
 ꦧꦶꦪꦺꦤ꧀ꦲꦶꦏꦶꦥꦁꦒꦺꦴꦤ꧀ꦤꦺꦲꦩꦤ꧀꧈ 1
 ꦲꦏꦸꦩꦸꦁꦔꦺꦴꦩ꧀ꦧꦺꦧꦚꦸ꧉ 1
+ꦏꦺꦴꦮꦺꦢꦸꦫꦸꦁꦩꦝꦁꦧꦼꦔꦶ꧉ 1

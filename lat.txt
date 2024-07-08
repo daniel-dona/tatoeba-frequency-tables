@@ -1,15 +1,15 @@
 est 10129
 et 4773
 in 4534
-Thomas 3618
+Thomas 3619
 non 3484
 sunt 2225
 ad 1744
-mihi 1614
+mihi 1616
 / 1569
-esse 1417
+esse 1419
 sum 1361
-me 1306
+me 1307
 ut 1124
 quam 1031
 te 1027
@@ -24,11 +24,11 @@ se 776
 quod 752
 In 749
 Non 742
-eius 686
+eius 687
 Didymus 685
 hoc 682
 mea 659
-eum 634
+eum 635
 qui 611
 habet 611
 erat 589
@@ -36,7 +36,7 @@ a 575
 meus 558
 sed 546
 Hoc 528
-Cur 517
+Cur 518
 id 477
 Et 463
 Hic 461
@@ -59,7 +59,7 @@ Mariam 368
 ei 363
 Deus 355
 eam 355
-placet 353
+placet 354
 Quis 353
 sit 349
 Estne 341
@@ -103,8 +103,8 @@ librum 248
 Mariae 246
 Qui 244
 Ad 244
+omnia 243
 fuit 243
-omnia 242
 mei 240
 semper 239
 Pater 237
@@ -122,7 +122,7 @@ atque 221
 dies 218
 bene 217
 etiam 217
-Omnes 215
+Omnes 216
 ire 214
 natus 213
 eos 210
@@ -224,9 +224,9 @@ Is 133
 mecum 132
 domi 132
 mortuus 131
+tantum 131
 sua 131
 placent 130
-tantum 130
 Scisne 129
 modo 129
 locutus 126
@@ -254,9 +254,9 @@ Quae 117
 Ex 117
 Domus 117
 homo 116
+habent 116
 tuo 116
 Israel 116
-habent 115
 puer 115
 Habesne 115
 aliquid 115
@@ -274,10 +274,10 @@ hanc 111
 ipse 111
 aquam 111
 bonum 110
+Feles 110
 bibit 110
 canem 109
 dicere 109
-Feles 109
 Iacob 109
 magis 108
 potes 108
@@ -306,6 +306,7 @@ faciendum 99
 Dic 99
 scit 99
 tempus 99
+Da 99
 Ne 99
 satis 99
 fore 99
@@ -314,11 +315,10 @@ diem 98
 Tu 98
 frater 98
 illius 98
-Da 98
+tecum 98
 eās 98
 dum 97
 mensam 97
-tecum 97
 Eam 97
 docuit 97
 quidem 97
@@ -338,6 +338,7 @@ Potesne 93
 Nesciebam 93
 habes 92
 urbem 92
+adhuc 92
 "Quid 92
 mala 91
 bonus 91
@@ -347,7 +348,6 @@ contra 91
 Ille 91
 puella 91
 Australia 91
-adhuc 91
 factum 91
 illi 91
 litteras 91
@@ -1007,6 +1007,7 @@ Hunc 35
 fuisti 35
 Gratias 35
 vespere 35
+nescit 35
 didici 35
 agere 35
 mulier 35
@@ -1038,7 +1039,6 @@ Quibus 34
 Caelum 34
 imaginem 34
 dabo 34
-nescit 34
 manibus 34
 momenti 34
 Tantum 34
@@ -2867,6 +2867,7 @@ mel 12
 utilis 12
 possem 12
 opere 12
+florem 12
 Illam 12
 recordor 12
 proficiscetur 12
@@ -3131,7 +3132,6 @@ Cavete 11
 coepi 11
 Lusitanice 11
 disce 11
-florem 11
 crus 11
 agricola 11
 Fabula 11

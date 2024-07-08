@@ -1,6 +1,6 @@
 on 28452
 ei 10432
-Tom 9568
+Tom 9569
 Hän 8152
 että 6725
 ja 6704
@@ -310,6 +310,7 @@ kukaan 281
 vettä 278
 aikaan 277
 Mihin 275
+Hyvää 275
 Etkö 275
 haluan 275
 eikä 274
@@ -318,7 +319,6 @@ menee 273
 kello 272
 kirja 272
 edes 272
-Hyvää 271
 ongelma 271
 Kiitos 271
 Marille 271
@@ -819,12 +819,12 @@ Montako 104
 Halusin 104
 Ovatko 104
 tapahtunut 104
+äiti 103
 kesti 103
 heidät 103
 enkä 103
 äitini 103
 Pysy 103
-äiti 102
 nukkuu 102
 Tein 102
 joitakin 102
@@ -879,6 +879,7 @@ silmät 97
 kunnes 97
 ongelman 97
 mukana 97
+Tatoeba 97
 olekin 97
 pystynyt 97
 juoda 96
@@ -887,7 +888,6 @@ menivät 96
 kävellä 96
 nimensä 96
 nukkua 96
-Tatoeba 96
 Paljonko 96
 lauseen 96
 sana 96
@@ -2960,6 +2960,7 @@ lääkäriin 27
 kestänyt 27
 huomattavasti 27
 katsoin 27
+Hyvästi 27
 vuoren 27
 Kevät 27
 kevät 27
@@ -3450,7 +3451,6 @@ lapsille 23
 Pane 23
 lopeta 23
 Mitäs 23
-Hyvästi 23
 Setäni 23
 Yleisesti 23
 Tuletko 23
@@ -5827,6 +5827,7 @@ lähestyy 13
 Asema 13
 käsillä 13
 Toivomme 13
+syntymäpäivää 13
 F 13
 Juoksin 13
 harvinainen 13
@@ -8030,7 +8031,6 @@ lääkärille 9
 Vanhat 9
 arvostaa 9
 leluja 9
-syntymäpäivää 9
 kullan 9
 keittää 9
 7 9

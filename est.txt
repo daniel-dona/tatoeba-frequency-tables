@@ -1,4 +1,4 @@
-on 1451
+on 1452
 Ma 908
 ei 720
 Tom 589
@@ -6,7 +6,7 @@ sa 419
 Kas 417
 Ta 335
 et 320
-See 272
+See 271
 ma 214
 seda 203
 oma 197
@@ -1032,7 +1032,6 @@ vara 4
 võtnud 4
 leidsin 4
 Türgi 4
-lause 4
 ukraina 4
 kestab 4
 portugali 4
@@ -1143,7 +1142,6 @@ Grammatika 3
 härra 3
 rong 3
 lugu 3
-kokku 3
 rääkisin 3
 jooksis 3
 otse 3
@@ -1421,11 +1419,11 @@ keldris 3
 Austraaliasse 3
 jaapani 3
 jalast 3
+lause 3
 nimekirja 3
 arsti 3
 ostan 3
 sees 3
-koosneb 3
 Helistan 3
 hauguvad 3
 Kreeka 3
@@ -1628,6 +1626,7 @@ jaama 2
 sõja 2
 esitatud 2
 Hea 2
+kokku 2
 võtsin 2
 kergem 2
 raamatus 2
@@ -2229,6 +2228,7 @@ häiris 2
 võivad 2
 tunnevad 2
 Vene 2
+koosneb 2
 hingata 2
 India 2
 valeta 2
@@ -6413,8 +6413,6 @@ nurrub 1
 Iževsk 1
 Udmurdi 1
 Laps 1
-seitsmest 1
-sõnast 1
 Ilm 1
 Film 1
 tänatud 1
@@ -6503,3 +6501,5 @@ Baar 1
 siristavad 1
 Roomat 1
 ehitatud 1
+Pääsuke 1
+rändlind 1

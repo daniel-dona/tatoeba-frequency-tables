@@ -9,7 +9,7 @@ Ew 815
 ê 739
 û 664
 ye 645
-ku 612
+ku 613
 Em 544
 Tom 544
 Tu 523
@@ -108,8 +108,8 @@ bavê 60
 kerema 60
 jê 59
 kî 59
+bûn 59
 Mary 58
-bûn 58
 bêriya 58
 dibe 57
 nas 57
@@ -120,9 +120,9 @@ asê 56
 mala 56
 tenê 55
 du 55
+kirin 55
 vî 55
 avjenî 55
-kirin 54
 behs 54
 herî 53
 berhev 53
@@ -948,6 +948,7 @@ hêja 6
 Rast 6
 bilî 6
 bigirim 6
+civînê 6
 vekir 6
 Sêv 6
 dibînim 6
@@ -1096,7 +1097,6 @@ vexwarina 5
 azadî 5
 bijîşk 5
 henek 5
-civînê 5
 bijî 5
 Deriyê 5
 şe 5
@@ -1191,6 +1191,7 @@ zarokê 5
 radibe 5
 bersiva 5
 fikirî 5
+beşdarî 5
 Duşemê 5
 naka 5
 nexwe 5
@@ -1462,7 +1463,6 @@ qezayê 4
 wiya 4
 mamosteyê 4
 bimeşe 4
-beşdarî 4
 salên 4
 Hema 4
 pênûsa 4
@@ -3233,6 +3233,7 @@ Encamên 2
 Encama 2
 çalakiyên 2
 nedihat 2
+Xwendekarên 2
 biristik 2
 pêkan 2
 nêçîrvan 2
@@ -6583,7 +6584,6 @@ vedigerand 1
 dixwendin 1
 diketin 1
 rûgeş 1
-Xwendekarên 1
 Rojekê 1
 nêçîrvanekî 1
 tora 1
@@ -9235,3 +9235,5 @@ Rêzefîlmên 1
 rêzefîlmekî 1
 rêzefîlmek 1
 mirovî 1
+daxwazname 1
+îmza 1

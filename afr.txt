@@ -1,7 +1,7 @@
 nie 1225
-is 999
+is 1001
 het 938
-Ek 933
+Ek 934
 die 723
 'n 578
 Tom 430
@@ -19,7 +19,7 @@ ek 220
 was 210
 Hy 200
 sal 192
-Ons 189
+Ons 190
 gaan 172
 wil 156
 Jy 154
@@ -468,6 +468,7 @@ oud 6
 God 6
 hoofstad 6
 brand 6
+moeg 6
 groen 6
 alle 6
 baas 6
@@ -566,7 +567,6 @@ dankie 5
 stad 5
 gebou 5
 oom 5
-moeg 5
 honde 5
 Ken 5
 broers 5
@@ -676,6 +676,7 @@ hoop 4
 binnekort 4
 gebly 4
 hande 4
+beskikbaar 4
 s'n 4
 foto 4
 voorbeeld 4
@@ -826,7 +827,6 @@ China 3
 belang 3
 Sy's 3
 geduur 3
-beskikbaar 3
 Al 3
 druk 3
 brug 3

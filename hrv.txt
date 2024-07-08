@@ -9,12 +9,12 @@ ne 282
 Tom 278
 i 237
 su 219
-mi 209
+mi 210
 Ne 193
 to 188
 za 167
 si 166
-što 164
+što 165
 nije 158
 od 150
 On 149
@@ -42,8 +42,8 @@ ima 62
 više 61
 Gdje 53
 Je 52
+sve 52
 još 52
-sve 51
 bih 51
 ići 51
 Mary 50
@@ -62,13 +62,13 @@ vrijeme 46
 kao 46
 svoj 46
 bila 46
+Imam 45
 on 44
 Koliko 44
 nešto 44
 uvijek 43
 Nisam 43
 jako 43
-Imam 43
 samo 43
 dan 42
 svoje 42
@@ -152,6 +152,7 @@ Ta 23
 joj 23
 jučer 23
 knjigu 23
+treba 23
 dana 23
 godina 23
 želiš 23
@@ -159,7 +160,6 @@ ovaj 22
 raditi 22
 nam 22
 grad 22
-treba 22
 život 22
 dok 22
 tvoje 21
@@ -996,6 +996,7 @@ cijene 4
 moji 4
 govore 4
 završio 4
+plan 4
 pun 4
 Kome 4
 današnje 4
@@ -1346,7 +1347,6 @@ Izgledaš 3
 sretno 3
 Govoriš 3
 slijedi 3
-plan 3
 odlično 3
 našu 3
 hrana 3

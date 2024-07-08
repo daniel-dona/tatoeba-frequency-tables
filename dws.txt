@@ -8,10 +8,10 @@ w 6
 u 6
 t 6
 n 6
+V 6
 l 5
 a 5
 q 5
-V 5
 aql 4
 sa 4
 k 4
@@ -46,6 +46,7 @@ gra 2
 pl 2
 don 2
 ir 2
+mus 2
 W 2
 K 2
 y 2
@@ -149,7 +150,6 @@ fasot 1
 E 1
 4 1
 le 1
-mus 1
 ba 1
 ydo 1
 5 1
@@ -192,3 +192,4 @@ fex 1
 por 1
 ati 1
 Vot-e 1
+dor 1

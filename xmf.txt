@@ -1,5 +1,5 @@
-Ma 186
-re 97
+Ma 187
+re 99
 Tom 45
 ma 44
 Si 36
@@ -12,7 +12,7 @@ Tkva 25
 Toms 24
 Tina 20
 Tomi 20
-vare 18
+vare 19
 tena 18
 reno 17
 moǩo 17
@@ -82,6 +82,7 @@ bordji 6
 თე 5
 çhiçhe 5
 rina 5
+skvami 5
 shilebe 5
 glaxa 5
 ase 5
@@ -102,7 +103,6 @@ reko 5
 muçho 4
 Dia 4
 vareno 4
-skvami 4
 taq 4
 mashƨna 4
 martal 4
@@ -129,7 +129,9 @@ Malas 4
 Maxolo 4
 vordi 4
 Muç̌o 4
+mangaro 4
 p̌eulepi 4
+dzalami 4
 goǩo 4
 Tomk 4
 ç̌umani 4
@@ -198,9 +200,7 @@ Djgiri 3
 aǧani 3
 bordjis 3
 kumortƨ 3
-mangaro 3
 getu 3
-dzalami 3
 Muzhami 3
 mangari 3
 ṫabaǩi 3
@@ -475,6 +475,7 @@ resp̌ubliǩa 2
 gverdi 2
 bzhaamish 2
 bdziri 2
+Geç̌opi 2
 tzanashi 2
 uǩaxle 2
 ართი 1
@@ -1028,7 +1029,7 @@ Gisheṫuo 1
 Mivodinua 1
 Irfelsarto 1
 ʒɣari 1
-Qinmexvary 1
+Kinmexvari 1
 muchu 1
 vordato 1
 bagha 1
@@ -2675,7 +2676,6 @@ antziani 1
 bzarxuls 1
 p̌ensiasha 1
 meursƨ 1
-Geç̌opi 1
 Kobalishi 1
 oç̌vali 1
 osurkƨ 1
@@ -2694,3 +2694,10 @@ pxshiras 1
 aǧorens 1
 chxou 1
 turki 1
+Logiǩur 1
+iç̌q'apu 1
+Sashǩurandji 1
+ipxvamank 1
+Amnaxanṫi 1
+Eǩibli 1
+gvalasha 1
