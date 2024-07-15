@@ -1,5 +1,5 @@
 Tomas 791
-No 567
+No 568
 das 517
 no 454
 binom 432
@@ -197,6 +197,7 @@ Dog 21
 ofik 20
 svimön 20
 kafi 20
+katis 20
 kim 20
 Li-vilol 20
 Li-kanol 20
@@ -208,7 +209,6 @@ spikön 19
 Mutol 19
 ela 19
 fidom 19
-katis 19
 kis 19
 gudikün 19
 timi 19
@@ -643,6 +643,7 @@ Jimatel 5
 binof-li 5
 nim 5
 stupik 5
+li-binoms 5
 Li-kanobs 5
 Ägivob 5
 zifa 5
@@ -656,6 +657,7 @@ kvisinöp 5
 Millie 5
 muls 5
 Flen 5
+Dogs 5
 golom 5
 beatik 5
 Älemob 5
@@ -766,7 +768,6 @@ nelijel 4
 reg 4
 mutoms 4
 älöfom 4
-li-binoms 4
 logom 4
 neflen 4
 mul 4
@@ -783,7 +784,6 @@ Elogob 4
 fit 4
 god 4
 Tomi 4
-Dogs 4
 dogs 4
 Kanobs 4
 jiblod 4
@@ -1025,6 +1025,7 @@ dü 3
 olsik 3
 tifan 3
 blibön 3
+kildeg 3
 frutik 3
 äviloms 3
 velib 3
@@ -1491,7 +1492,6 @@ vagik 2
 Yufom 2
 Lindän 2
 Ätidob 2
-kildeg 2
 ästudom 2
 logs 2
 logodi 2
@@ -1853,6 +1853,7 @@ okömobs 2
 Maifükolöd 2
 Mud 2
 "Etos 2
+sufik 2
 lanan 1
 Faemob 1
 Faemol-li 1
@@ -4715,7 +4716,6 @@ Li-ovedol 1
 älömiböv 1
 aifidom 1
 Osäkob 1
-sufik 1
 Iblinob 1
 isagof 1
 ägolof 1
@@ -4738,3 +4738,6 @@ blägikis 1
 osagoms 1
 äsagom-li 1
 lautol 1
+kanitolöd 1
+Doabs 1
+hetons 1

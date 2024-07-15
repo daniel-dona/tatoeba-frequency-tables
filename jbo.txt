@@ -1,6 +1,6 @@
 lo 12810
 mi 6220
-cu 3485
+cu 3486
 do 3345
 la 2986
 pu 2301
@@ -87,8 +87,8 @@ xamgu 179
 nanmu 179
 karce 178
 nitcu 178
+lo'e 164
 xabju 163
-lo'e 163
 zo'u 163
 verba 160
 cliva 156
@@ -1446,6 +1446,7 @@ ruble 6
 lindas 6
 bandu'e'u 6
 mencti 6
+tolmencre 6
 mo'a 6
 jenai 6
 eipei 6
@@ -1588,7 +1589,6 @@ i'anai 5
 ausai 5
 skapi 5
 e'enai 5
-tolmencre 5
 celgunta 5
 dertu 5
 kamka'o 5
@@ -6912,3 +6912,4 @@ lituanias 1
 cmacti 1
 mudyka'apre 1
 zercu'upre 1
+merpre 1

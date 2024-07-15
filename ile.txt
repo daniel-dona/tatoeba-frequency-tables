@@ -1,21 +1,21 @@
-es 3126
-Yo 2393
-un 1850
-li 1657
+es 3128
+Yo 2395
+un 1851
+li 1661
 Tom 1520
-ne 1427
+ne 1430
 in 772
 tu 763
-Li 757
+Li 758
 have 712
 Esque 699
 Il 664
-ha 590
-esset 589
+ha 592
+esset 591
 que 571
 de 544
+to 486
 Ella 485
-to 485
 quo 448
 va 439
 me 421
@@ -23,31 +23,31 @@ save 416
 it 416
 Noi 411
 yo 398
-vole 391
+vole 392
 mi 390
 e 387
 Tu 355
 It 319
 To 299
 bon 284
+te 283
 a 283
-te 282
-tre 279
-ama 279
+tre 280
+ama 280
 tui 276
 su 274
 posse 273
 Mary 249
+por 245
 pri 245
-por 244
 con 236
 quam 225
 plu 223
 il 221
-far 217
+far 218
 deve 214
+Ili 205
 Mi 204
-Ili 204
 del 194
 vu 189
 parla 175
@@ -79,7 +79,7 @@ max 106
 parlar 106
 tro 104
 Ples 104
-ja 103
+ja 104
 Quel 103
 Vu 100
 nu 100
@@ -155,10 +155,10 @@ Boston 54
 sestra 53
 francesi 53
 mann 52
+yun 52
 labora 51
 Su 51
 ver 51
-yun 51
 crede 51
 comprende 50
 filio 49
@@ -185,12 +185,12 @@ moné 45
 sin 43
 fratre 43
 di 43
+tot 42
 venir 42
 ta 42
 trinca 42
 standa 41
 long 41
-tot 41
 manjat 41
 alquó 41
 trovat 41
@@ -211,6 +211,7 @@ mal 37
 pensat 36
 omnes 36
 capital 35
+nocte 35
 bentost 35
 vider 35
 sol 35
@@ -220,7 +221,6 @@ homes 35
 robe 34
 marita 34
 lettre 34
-nocte 34
 Francia 34
 comprar 34
 Hay 33
@@ -249,6 +249,7 @@ morit 29
 lacte 29
 question 29
 trovar 29
+chascun 29
 denov 29
 labor 29
 canta 29
@@ -259,7 +260,6 @@ amica 28
 aprender 28
 maritat 28
 espera 28
-chascun 28
 rich 28
 pane 27
 sercha 27
@@ -342,6 +342,7 @@ table 21
 Omni 21
 cert 21
 ocupat 21
+Nu 21
 parapluvie 21
 studiat 21
 Trinca 21
@@ -352,7 +353,6 @@ furtet 20
 nascet 20
 nigri 20
 village 20
-Nu 20
 horas 20
 lor 19
 Ma 19
@@ -490,6 +490,7 @@ plan 13
 detra 13
 eveni 13
 finit 13
+morir 13
 erra 13
 atende 13
 claves 13
@@ -526,10 +527,10 @@ dangere 12
 conosset 12
 pisc 12
 vendi 12
-morir 12
 instructor 12
 decision 12
 mus 12
+perfect 12
 matine 12
 vicino 12
 plorat 12
@@ -543,6 +544,7 @@ oblivia 12
 ape 12
 orange 12
 manca 11
+soledí 11
 amar 11
 cates 11
 comensa 11
@@ -550,6 +552,7 @@ costume 11
 besat 11
 pigri 11
 dracon 11
+can 11
 tren 11
 Paris 11
 Interlingue 11
@@ -570,7 +573,6 @@ desira 11
 Pri 11
 continuat 11
 Svissia 11
-perfect 11
 persones 11
 talmen 11
 fluvie 11
@@ -597,7 +599,6 @@ Interlingua 10
 chapel 10
 normal 10
 lava 10
-soledí 10
 Veni 10
 che 10
 dansat 10
@@ -608,7 +609,6 @@ plesura 10
 svimma 10
 interessant 10
 debil 10
-can 10
 nive 10
 svimmat 10
 constructet 10
@@ -1489,6 +1489,7 @@ mortator 3
 studianta 3
 posit 3
 scole 3
+prega 3
 vicines 3
 explorat 3
 Pedro 3
@@ -1511,6 +1512,7 @@ levat 3
 portugalesi 3
 hotel 3
 van 3
+aboyat 3
 productet 3
 standat 3
 Sport 3
@@ -1662,6 +1664,7 @@ ego 3
 branches 3
 turre 3
 Alor 3
+creatura 3
 familiari 3
 format 3
 dextri 3
@@ -1730,6 +1733,7 @@ pisca 3
 Duesim 3
 clarmen 3
 30 3
+Guerre 3
 Molly 3
 judéos 3
 mais 3
@@ -1759,6 +1763,7 @@ ponie 3
 sandwich 3
 urgent 3
 oranges 3
+témpore 3
 bissextil 3
 p 3
 altore 3
@@ -1950,6 +1955,7 @@ Andrei 2
 saltat 2
 ll 2
 passate 2
+William 2
 ínjust 2
 medicina 2
 exception 2
@@ -1959,7 +1965,7 @@ suficent 2
 absent 2
 taverne 2
 mocat 2
-prega 2
+fusilat 2
 tranquil 2
 psichologo 2
 chambres 2
@@ -1991,7 +1997,6 @@ Atention 2
 chocat 2
 interdictet 2
 revider 2
-aboyat 2
 16 2
 leon 2
 ásino 2
@@ -2264,7 +2269,6 @@ spacie 2
 completar 2
 favorit 2
 toxic 2
-creatura 2
 reviser 2
 deserte 2
 nord 2
@@ -2475,7 +2479,6 @@ creativ 2
 ataccat 2
 metodes 2
 avatar 2
-Guerre 2
 scale 2
 col 2
 Tokyo 2
@@ -2567,7 +2570,6 @@ ventre 2
 papere 2
 mercenario 2
 expertes 2
-témpore 2
 deci-ott 2
 Proquo 2
 Mennad 2
@@ -2613,9 +2615,11 @@ Vigorosi 2
 exercitie 2
 sudar 2
 forjat 2
+Leon 2
 uves 2
 Ama 2
 aprension 2
+Karl 2
 Happa 2
 elevar 2
 Dansa 2
@@ -2967,7 +2971,6 @@ patientes 1
 acompania 1
 Francesi 1
 Sir 1
-William 1
 babillar 1
 frauda 1
 Claudine 1
@@ -2992,7 +2995,6 @@ Marius 1
 1914 1
 Angers 1
 traductiones 1
-fusilat 1
 obligation 1
 cacáo 1
 1947 1
@@ -5517,7 +5519,6 @@ autentic 1
 milliones 1
 moca 1
 deride 1
-Leon 1
 Amelia 1
 retrovat 1
 índispensabil 1
@@ -5539,7 +5540,6 @@ distractet 1
 pumice 1
 obedientmen 1
 exposit 1
-Karl 1
 Labores 1
 scarsi 1
 furtor 1
@@ -5619,3 +5619,7 @@ electiones 1
 proceder 1
 replicar 1
 Assassina 1
+profitabil 1
+Marx 1
+marxist 1
+bel-filio 1

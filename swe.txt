@@ -1,13 +1,13 @@
 är 11592
-Jag 11251
-att 7072
+Jag 11253
+att 7074
 Tom 7070
-inte 6909
-du 5124
+inte 6910
+du 5125
 en 5110
-på 4841
-det 4736
-i 4561
+på 4843
+det 4737
+i 4562
 har 4219
 Det 3871
 Han 3406
@@ -64,7 +64,7 @@ vet 631
 Kan 620
 oss 620
 än 619
-behöver 604
+behöver 605
 upp 603
 bara 596
 hon 593
@@ -216,7 +216,7 @@ kaffe 174
 namn 174
 Skulle 172
 gjort 169
-står 168
+står 169
 språk 167
 håller 167
 Kom 166
@@ -241,7 +241,7 @@ ingenting 153
 förstår 152
 ur 152
 ner 151
-hoppas 147
+hoppas 148
 Man 146
 bort 143
 vänner 142
@@ -723,6 +723,7 @@ klarar 45
 kvinnor 45
 röka 45
 låna 45
+Ät 45
 lät 45
 Vart 45
 ben 45
@@ -734,7 +735,6 @@ lägenhet 44
 slå 44
 klart 44
 dum 44
-Ät 44
 händerna 44
 beslut 44
 parken 44
@@ -841,6 +841,7 @@ eget 38
 kopp 38
 nöjd 38
 stad 38
+snö 38
 lägga 38
 Europa 38
 film 38
@@ -851,7 +852,6 @@ ljög 38
 klara 38
 Går 38
 eftersom 38
-snö 37
 trettio 37
 långa 37
 val 37
@@ -1714,6 +1714,7 @@ nå 16
 präst 16
 avslöjade 16
 brände 16
+Visste 16
 reparera 16
 soppa 16
 farmor 16
@@ -1813,7 +1814,7 @@ ler 15
 suger 15
 företag 15
 glada 15
-Visste 15
+klippa 15
 spik 15
 fattiga 15
 spinner 15
@@ -1920,7 +1921,6 @@ Huvudstaden 14
 helvete 14
 komplicerat 14
 oktober 14
-klippa 14
 ved 14
 jämt 14
 förlåta 14
@@ -2711,6 +2711,7 @@ rolig 9
 företaget 9
 burken 9
 mord 9
+ordboken 9
 snygg 9
 lik 9
 raka 9
@@ -2990,7 +2991,6 @@ skådespelare 8
 koma 8
 behålla 8
 julgranen 8
-ordboken 8
 slappna 8
 löste 8
 kastar 8
@@ -3225,6 +3225,7 @@ Harry 7
 styrka 7
 därinne 7
 populärt 7
+skräckfilmer 7
 svaga 7
 öst 7
 knät 7
@@ -3620,7 +3621,6 @@ Svaret 6
 skydd 6
 lyser 6
 Skala 6
-skräckfilmer 6
 blinkade 6
 hugger 6
 byggt 6
@@ -5301,6 +5301,7 @@ blickar 4
 hiss 4
 rama 4
 ödelade 4
+bion 4
 tidiga 4
 Förvänta 4
 Trevlig 4
@@ -6038,6 +6039,7 @@ tillät 3
 majonnäs 3
 Slottet 3
 peppar 3
+färre 3
 tomtar 3
 Häng 3
 puls 3
@@ -6611,7 +6613,6 @@ inträde 3
 temperament 3
 olåst 3
 Tillsammans 3
-bion 3
 duka 3
 fortsättning 3
 dukar 3
@@ -6643,6 +6644,7 @@ favoritförfattare 3
 nedladdningen 3
 sysslar 3
 samlades 3
+visas 3
 produkter 3
 jobbig 3
 längesen 3
@@ -7944,7 +7946,6 @@ Hälsan 2
 strålning 2
 joggingtur 2
 skolka 2
-färre 2
 Toyota 2
 fjällade 2
 förolämpning 2
@@ -9098,7 +9099,6 @@ direktflyg 2
 Sydney 2
 nåt” 2
 Annas 2
-visas 2
 matematiken 2
 Skada 2
 kinesiskt 2

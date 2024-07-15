@@ -2,16 +2,16 @@ yn 557
 i 341
 Mae 283
 y 197
-Dw 184
-i'n 173
+Dw 186
+i'n 175
 Tom 165
 ddim 116
-o 115
-ei 93
+o 116
+ei 95
 ar 86
-hoffi 79
+hoffi 81
 wedi 78
-hi 76
+hi 77
 ti 76
 ti'n 70
 a 68
@@ -117,6 +117,7 @@ prynu 13
 gwisgo 13
 yng 12
 Paid 12
+gath 12
 na 12
 dweud 12
 astudio 12
@@ -132,7 +133,6 @@ Ffrangeg 11
 angen 11
 ddoe 11
 fynd 11
-gath 11
 oedd 11
 fawr 11
 gael 11
@@ -2541,3 +2541,4 @@ Po 1
 llanwpo 1
 trai 1
 hei 1
+chath 1

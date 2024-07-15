@@ -1,26 +1,26 @@
 Saya 1416
-saya 1271
-yang 1154
+saya 1272
+yang 1155
 Tom 1148
-tidak 1116
+tidak 1117
 di 718
 awak 705
 itu 621
-ini 589
+ini 590
 akan 566
-untuk 553
+untuk 554
 Dia 532
 dan 412
 dengan 408
 dia 407
 ke 363
-anda 332
+anda 333
 Mary 310
 telah 293
-boleh 260
+boleh 261
 pergi 251
 dalam 250
-tahu 237
+tahu 238
 kita 221
 Awak 218
 apa 216
@@ -33,7 +33,7 @@ kepada 179
 sedang 177
 pada 174
 kamu 174
-Adakah 170
+Adakah 171
 lebih 160
 dari 159
 perlu 158
@@ -41,7 +41,7 @@ lagi 151
 Kami 149
 rumah 147
 seorang 145
-makan 144
+makan 145
 bahawa 144
 mereka 138
 bahasa 138
@@ -73,7 +73,7 @@ datang 89
 ialah 88
 tetapi 88
 perkara 87
-tentang 85
+tentang 86
 ingin 85
 Kita 84
 belajar 83
@@ -90,8 +90,8 @@ buat 74
 buku 74
 tinggal 71
 melakukan 71
+membuat 70
 Ini 69
-membuat 69
 malam 69
 beliau 68
 tahun 66
@@ -119,9 +119,9 @@ hanya 56
 Ia 56
 sekolah 55
 juga 55
+apa-apa 54
 setiap 54
 ia 54
-apa-apa 53
 bersama 53
 atas 52
 baru 51
@@ -213,12 +213,12 @@ kecil 33
 katakan 33
 bertanya 33
 tangan 33
+menggunakan 33
 tiba 33
 tapi 33
 Tolong 32
 pertama 32
 pagi 32
-menggunakan 32
 berapa 32
 lalu 32
 mudah 32
@@ -323,6 +323,7 @@ benar-benar 23
 اين 23
 penting 22
 ayah 22
+manakah 22
 dahulu 22
 percaya 22
 cakap 22
@@ -338,7 +339,6 @@ tadi 22
 kalau 22
 ايت 22
 anjing 21
-manakah 21
 Tuhan 21
 Bila 21
 ingat 21
@@ -365,6 +365,7 @@ semakin 20
 puluh 20
 bola 20
 kanak-kanak 20
+bandar 20
 nanti 20
 macam 20
 کامو 20
@@ -376,7 +377,6 @@ menghabiskan 19
 Anak 19
 duit 19
 pelajar 19
-bandar 19
 sepanjang 19
 harap 19
 Layla 19
@@ -432,6 +432,7 @@ menang 17
 اڤ 17
 mengetahui 16
 dengar 16
+lagu 16
 hijau 16
 marah 16
 gadis 16
@@ -457,7 +458,6 @@ muda 15
 kedai 15
 komputer 15
 jauh 15
-lagu 15
 membayar 15
 dulu 15
 mahal 15
@@ -561,6 +561,7 @@ berubah 12
 Rumah 12
 haiwan 12
 pejabat 12
+Seorang 12
 menjaga 12
 kehilangan 12
 gelap 12
@@ -593,6 +594,7 @@ jumpa 11
 kesilapan 11
 rakan 11
 gagal 11
+terdapat 11
 filem 11
 Tokyo 11
 stesen 11
@@ -603,7 +605,6 @@ laut 11
 Ayah 11
 kuda 11
 berminat 11
-Seorang 11
 burung 11
 mencuba 11
 membersihkan 11
@@ -641,7 +642,6 @@ rancangan 10
 Buku 10
 syarikat 10
 sempat 10
-terdapat 10
 dekat 10
 Terima 10
 badan 10
@@ -738,6 +738,7 @@ kawasan 9
 suami 9
 roti 9
 pihak 9
+terkenal 9
 terlambat 9
 saat 9
 membunuh 9
@@ -751,6 +752,7 @@ Sudikah 9
 اونتوق 9
 اورڠ 9
 اد 9
+bintang 9
 tunjukkan 8
 Esperanto 8
 merancang 8
@@ -810,7 +812,6 @@ cahaya 8
 kira-kira 8
 akal 8
 Jom 8
-terkenal 8
 belikan 8
 tepat 8
 mendaki 8
@@ -841,7 +842,6 @@ sepenuhnya 8
 لايلا 8
 لبيه 8
 ددالم 8
-bintang 8
 كيت 8
 Ziri 8
 lamakah 7
@@ -945,6 +945,7 @@ sarung 7
 Pernahkah 7
 sejam 7
 Anjing 7
+Google 7
 tengahari 7
 memilih 7
 Kanada 7
@@ -1087,7 +1088,6 @@ Kelmarin 6
 Tidakkah 6
 peguam 6
 janji 6
-Google 6
 laporan 6
 "Awak 6
 penyakit 6
@@ -1510,6 +1510,7 @@ pemahaman 4
 Belajar 4
 jahat 4
 Bangunan 4
+artis 4
 berbelas 4
 Tengok 4
 Lakukan 4
@@ -1634,6 +1635,7 @@ patung 3
 Rasa 3
 Angin 3
 musik 3
+Sejauh 3
 terjemahan 3
 jelita 3
 Yang 3
@@ -1911,7 +1913,6 @@ rezeki 3
 kemungkinan 3
 dipercayai 3
 memaksa 3
-artis 3
 malang 3
 disana 3
 Doni 3
@@ -2221,7 +2222,6 @@ kekayaan 2
 mudanya 2
 Ulat 2
 terbakar 2
-Sejauh 2
 dibaiki 2
 membacanya 2
 9 2
@@ -7556,3 +7556,5 @@ mengejek 1
 menjangkakannya 1
 hartanya 1
 kedekut 1
+Terjemahan 1
+lirik 1

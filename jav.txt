@@ -1,14 +1,14 @@
-Aku 148
+Aku 149
 ora 130
 Tom 112
-sing 68
+sing 69
 iku 49
 aku 45
 iki 42
+Kowé 42
 ing 41
-Kowé 41
+karo 37
 Dhèwèké 36
-karo 36
 kowé 31
 nang 29
 ana 28
@@ -28,10 +28,10 @@ arep 21
 bakal 20
 dhèwèké 19
 Aja 18
+durung 17
 duwé 17
 wong 17
 dudu 17
-durung 16
 manèh 16
 saka 16
 ta 16
@@ -57,20 +57,20 @@ dina 12
 gawé 12
 Mèri 12
 punika 11
+luwih 11
 ngomong 10
 wonten 10
-luwih 10
 ngerti 10
 ya 10
 Kowe 10
 Apa 10
+sapa 10
 Panjenengan 9
 kula 9
 ngono 9
 Awak 9
 teka 9
 akèh 9
-sapa 9
 awak 9
 gelem 9
 kowe 8
@@ -90,6 +90,7 @@ pa 7
 dolanan 7
 Inggris 7
 apa-apa 7
+dhokter 7
 Prancis 7
 asalé 7
 kucing 6
@@ -103,7 +104,6 @@ mèh 6
 mesthi 6
 mung 6
 tuku 6
-dhokter 6
 Sugeng 6
 asu 6
 jenengé 6
@@ -118,6 +118,7 @@ Boston 5
 waé 5
 saiki 5
 Punika 5
+rabi 5
 nyambut 5
 mlaku 5
 tahu 5
@@ -168,7 +169,6 @@ bis 4
 krungu 4
 omah 4
 bener 4
-rabi 4
 kapan 4
 dhuwur 4
 maca 4
@@ -277,6 +277,7 @@ Yèn 2
 muni 2
 "Aku 2
 tresna 2
+uga 2
 Anggona 2
 limun 2
 Sumangga 2
@@ -324,6 +325,7 @@ ngéwangi 2
 penting 2
 dikarepaké 2
 kandani 2
+Bapakku 2
 awakdhéwé 2
 sekolah 2
 Endang 2
@@ -497,6 +499,7 @@ lancar 2
 pasa 2
 Turki 2
 Muhammad 2
+dolan 2
 miber 2
 Omah 2
 Turua 2
@@ -537,7 +540,6 @@ menapa 1
 sira 1
 sira" 1
 mangka 1
-uga 1
 sliramu 1
 werak 1
 cokak 1
@@ -678,7 +680,6 @@ kanda 1
 kilometer 1
 sedina 1
 Gelem 1
-Bapakku 1
 Rama 1
 inggih 1
 sakdurungé 1
@@ -1715,7 +1716,6 @@ diucapaké 1
 ꦤꦔꦶꦁꦲꦏꦸꦥꦲꦩ꧀ꦱꦶꦁꦢꦶꦲꦸꦕꦥ꧀ꦥꦏꦺ꧉ 1
 ꦲꦏꦸꦲꦺꦴꦫꦮꦼꦫꦸꦃ꧉ 1
 Bocah-bocahé 1
-dolan 1
 ꦧꦺꦴꦕꦃꦧꦺꦴꦕꦃꦲꦺꦲꦺꦴꦫꦒꦼꦊꦩ꧀ꦢꦺꦴꦭꦤ꧀ꦏꦫꦺꦴꦠꦺꦴꦩ꧀꧈ 1
 ꦱꦶꦁꦲꦼꦤ꧀ꦢꦶꦱꦶꦁꦧꦼꦤꦼꦂ‌ 1
 ꦲꦶꦏꦶꦏꦧꦺꦃꦢꦸꦮꦺꦤꦺꦠꦺꦴꦩ꧀꧈ 1
@@ -1884,3 +1884,11 @@ panggoné 1
 ꦧꦶꦪꦺꦤ꧀ꦲꦶꦏꦶꦥꦁꦒꦺꦴꦤ꧀ꦤꦺꦲꦩꦤ꧀꧈ 1
 ꦲꦏꦸꦩꦸꦁꦔꦺꦴꦩ꧀ꦧꦺꦧꦚꦸ꧉ 1
 ꦏꦺꦴꦮꦺꦢꦸꦫꦸꦁꦩꦝꦁꦧꦼꦔꦶ꧉ 1
+ꦲꦏꦸꦢꦸꦫꦸꦁꦫꦧꦶ꧉ 1
+Tanganku 1
+tengen 1
+kuwat 1
+ꦠꦔꦤ꧀ꦏꦸꦱꦶꦁꦠꦼꦔꦼꦤ꧀ꦭꦸꦮꦶꦃꦏꦸꦮꦠ꧀꧈ 1
+tènis 1
+ꦏꦺꦴꦮꦺꦢꦺꦴꦭꦤ꧀ꦠꦺꦤꦶꦱ꧀ꦏꦫꦺꦴꦱꦥ 1
+ꦧꦥꦏ꧀ꦏꦸꦲꦸꦒꦝꦺꦴꦏ꧀ꦠꦼꦂ꧉ 1

@@ -1,13 +1,13 @@
-nuan 26
+nuan 27
 enggau 15
+Aku 13
 aku 13
-Aku 12
 ke 11
+tu 11
 iya 10
-tu 10
+nya 10
+ti 9
 enda 9
-nya 9
-ti 8
 kami 7
 kita 7
 di 6
@@ -21,6 +21,7 @@ dalam 4
 ngagai 4
 dik 4
 makai 4
+nemu 4
 diau 4
 dapur 4
 manah 4
@@ -32,7 +33,6 @@ sida 3
 bukai 3
 gaga 3
 mai 3
-nemu 3
 orang 3
 kitai 3
 indai 3
@@ -40,6 +40,7 @@ manok 3
 ngasoh 3
 nama 2
 pengidup 2
+penyalah 2
 urang 2
 ngelaban 2
 lepas 2
@@ -49,6 +50,7 @@ Sida 2
 nadai 2
 Semua 2
 ati 2
+siti 2
 Nemu 2
 bejaku 2
 nyin 2
@@ -79,8 +81,10 @@ barang 2
 Nama 2
 nulung 2
 Berapa 2
+ni 2
 Bakani 2
 rindu 2
+besai 2
 Enti 2
 burong 2
 deka 2
@@ -95,7 +99,6 @@ bumi 1
 Meri 1
 tiap 1
 Ampunka 1
-penyalah 1
 ngampunka 1
 salah 1
 Intu 1
@@ -135,7 +138,6 @@ perasaan 1
 mesti 1
 bertindak 1
 antara 1
-siti 1
 semangat 1
 persaudaraan 1
 enggi 1
@@ -222,7 +224,6 @@ kasih 1
 berita 1
 rega 1
 Ari 1
-ni 1
 penatai 1
 Selamat 1
 menua 1
@@ -253,7 +254,6 @@ amai 1
 main 1
 bo 1
 ukui 1
-besai 1
 “Aku 1
 miau 1
 kai 1
@@ -314,3 +314,7 @@ semua 1
 pengaya 1
 tetap 1
 pelit 1
+ngira 1
+Naka 1
+pasal 1
+mengeri 1
