@@ -3,15 +3,15 @@ se 623
 u 558
 sam 464
 da 415
-li 393
+li 394
 na 325
-ne 282
-Tom 278
+ne 283
+Tom 280
 i 237
-su 219
+su 222
 mi 210
 Ne 193
-to 188
+to 190
 za 167
 si 166
 što 165
@@ -19,7 +19,7 @@ nije 158
 od 150
 On 149
 To 129
-ti 119
+ti 121
 te 118
 me 109
 smo 108
@@ -28,11 +28,11 @@ s 104
 Ja 97
 Ona 95
 bi 93
-Što 90
+Što 92
 ću 87
 bio 84
 biti 73
-o 69
+o 70
 ga 68
 mogu 65
 nego 63
@@ -40,8 +40,8 @@ Tko 62
 Jesi 62
 ima 62
 više 61
+Je 53
 Gdje 53
-Je 52
 sve 52
 još 52
 bih 51
@@ -73,17 +73,17 @@ samo 43
 dan 42
 svoje 42
 U 42
+vrlo 42
 koji 42
 moj 41
 do 41
-vrlo 41
 sa 40
 ovdje 40
+bilo 39
 svoju 39
 ljudi 39
 vremena 38
 nisam 38
-bilo 38
 Moj 37
 a 37
 ovo 36
@@ -167,6 +167,7 @@ Mi 21
 kući 21
 dijete 21
 Uvijek 21
+tome 21
 voli 21
 sada 21
 jednu 21
@@ -179,7 +180,6 @@ ste 20
 novac 20
 Koji 20
 svojim 20
-tome 20
 jer 20
 vidio 20
 Znam 20
@@ -327,6 +327,7 @@ išao 12
 pismo 12
 puta 12
 sat 12
+znači 12
 Upravo 12
 njega 12
 ide 12
@@ -343,6 +344,7 @@ Bolje 11
 Više 11
 ta 11
 ispit 11
+misliš 11
 sestra 11
 čitati 11
 manje 11
@@ -353,7 +355,6 @@ dati 11
 minuta 11
 prvi 11
 pravu 11
-znači 11
 oko 11
 smrti 11
 čekati 11
@@ -378,7 +379,6 @@ liječnik 10
 spavati 10
 Nemoj 10
 dobra 10
-misliš 10
 Netko 10
 Japanu 10
 gladan 10
@@ -520,6 +520,7 @@ večeras 8
 Ništa 8
 govorio 8
 pije 8
+noć 8
 voziti 8
 čuo 8
 moraš 8
@@ -550,6 +551,7 @@ mača 7
 majku 7
 automobil 7
 prijatelja 7
+dobri 7
 ponedjeljak 7
 zauzet 7
 napravio 7
@@ -639,7 +641,6 @@ visoko 6
 postoje 6
 jednostavno 6
 nebu 6
-dobri 6
 Nismo 6
 kosu 6
 domaću 6
@@ -691,7 +692,6 @@ njom 6
 zub 6
 Voliš 6
 Naš 6
-noć 6
 Nazovi 6
 stalno 6
 mati 6
@@ -707,6 +707,7 @@ moguće 6
 hrani 6
 dala 6
 ostao 6
+čita 6
 idemo 6
 hoće 6
 mraka 6
@@ -1113,7 +1114,6 @@ Velika 4
 dopušteno 4
 ugasiti 4
 nitko 4
-čita 4
 Pitaj 4
 briga 4
 djetetu 4
@@ -1706,6 +1706,8 @@ grožđe 3
 hajde 3
 sranje 3
 planet 3
+Dupini 3
+plivači 3
 Jack 2
 Zove 2
 Ken 2
@@ -2890,6 +2892,8 @@ insekti 2
 kukci 2
 svoji 2
 vojnik 2
+brzi 2
+Laku 2
 Tomojuki 1
 Ogura 1
 lutka 1
@@ -8282,3 +8286,7 @@ poslovica 1
 žuta 1
 posesivan 1
 Ptice 1
+korisno 1
+kɔ̲c 1
+lic 1
+kä 1

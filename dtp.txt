@@ -1,15 +1,15 @@
-do 994
+do 995
 oku 613
-i 393
+i 394
 Tom 377
 ku 334
 no 302
 di 294
 nga 251
 nopo 249
-id 238
+id 239
 nu 215
-ko 188
+ko 189
 Au 186
 ko' 177
 dau 152
@@ -27,7 +27,7 @@ tu 96
 boros 94
 Nunu 88
 tulun 86
-hilo'd 85
+hilo'd 86
 kopio 84
 dot 83
 ih 78
@@ -37,7 +37,7 @@ dii 67
 au 66
 iyau 65
 baino 64
-diti 59
+diti 60
 diya 57
 nunu 57
 kumaa 57
@@ -53,9 +53,9 @@ walai 47
 dika 45
 hodi 45
 yau 45
+Nokuro 45
 montok 44
 Manu 44
-Nokuro 44
 yahai 44
 Kada 42
 Poransis 41
@@ -120,10 +120,10 @@ tusin 20
 Inggilis 20
 Kotoluadan 20
 kusai 20
+Soira 19
 korikot 19
 Apatut 19
 mangan 18
-Soira 18
 Maan 18
 ndo 18
 nung 18
@@ -133,6 +133,7 @@ karaja 18
 Yoho 18
 kokomoi 18
 noh 18
+soira 17
 Mada 17
 jaam 17
 ngaran 17
@@ -141,7 +142,6 @@ toinsanan 17
 gisom 17
 moti 17
 hiti'd 17
-soira 16
 aiso 16
 Ika 16
 tinu 16
@@ -376,6 +376,7 @@ soginumu 6
 sala 6
 mokianu 6
 jam 6
+minongoi 6
 Atuukoi 6
 otood 6
 otumbayaan 6
@@ -435,6 +436,7 @@ kinorikatan 5
 onom 5
 Nakasawo 5
 Hino 5
+Jipun 5
 poimpasi 5
 Kopiruba 5
 Otumbayaan 5
@@ -452,7 +454,6 @@ karati 5
 Alasu 5
 Basug 5
 sangadau 5
-minongoi 5
 Uhupai 5
 Ohuyan 5
 tokito 5
@@ -539,7 +540,6 @@ Wagu 4
 Witilon 4
 Louson 4
 mija' 4
-Jipun 4
 Oh 4
 alaid 4
 mongingia' 4
@@ -1239,6 +1239,7 @@ papaharo 2
 walos 2
 ngai 2
 tikid 2
+gonit 2
 wain 2
 pomolian 2
 supamakit 2
@@ -2372,7 +2373,6 @@ Tati 1
 monusi 1
 suminding 1
 tundu-undu 1
-gonit 1
 sombotol 1
 tindal 1
 inbismin 1
@@ -3824,3 +3824,10 @@ tionon/tundorongon 1
 nosunadan 1
 tokito-kito 1
 Paatadan 1
+Poingkakat 1
+palanuk 1
+datad 1
+monimbit 1
+diolo' 1
+monobon 1
+sorita' 1

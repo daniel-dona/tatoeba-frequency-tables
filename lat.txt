@@ -1,16 +1,16 @@
-est 10133
+est 10134
 et 4773
 in 4534
-Thomas 3620
-non 3484
+Thomas 3621
+non 3486
 sunt 2228
 ad 1744
 mihi 1616
 / 1569
 esse 1420
-sum 1361
+sum 1362
 me 1308
-ut 1124
+ut 1125
 quam 1031
 te 1027
 tibi 963
@@ -26,7 +26,7 @@ In 749
 Non 742
 eius 687
 Didymus 685
-hoc 682
+hoc 683
 mea 659
 eum 635
 qui 611
@@ -35,8 +35,8 @@ erat 589
 a 575
 meus 558
 sed 546
-Hoc 528
-Cur 518
+Hoc 529
+Cur 519
 id 477
 Et 463
 Hic 461
@@ -70,13 +70,13 @@ habeo 319
 possum 317
 ubi 316
 nos 311
-sumus 310
+sumus 311
 opus 309
 ab 308
 nunc 306
 Si 302
 tuum 302
-Nihil 300
+Nihil 301
 si 297
 facere 296
 eo 296
@@ -340,6 +340,7 @@ habes 92
 urbem 92
 adhuc 92
 "Quid 92
+illi 92
 mala 91
 bonus 91
 multum 91
@@ -349,7 +350,6 @@ Ille 91
 puella 91
 Australia 91
 factum 91
-illi 91
 litteras 91
 sibi 91
 filius 90
@@ -568,6 +568,7 @@ egeo 61
 feci 61
 ianuam 61
 mensis 61
+canit 61
 Domini 61
 istud 61
 Isaac 61
@@ -580,7 +581,6 @@ fessus 60
 Sinensem 60
 Terra 60
 anni 60
-canit 60
 At 60
 Cuius 59
 quos 59
@@ -1073,6 +1073,7 @@ puerum 33
 plena 33
 Nunquam 33
 oblitus 33
+Nolo 33
 pulsavit 33
 uti 33
 hinc 33
@@ -1095,7 +1096,6 @@ Proximo 32
 Die 32
 Didymi 32
 Natalis 32
-Nolo 32
 Fuistine 32
 ultra 32
 hortum 32
@@ -1930,6 +1930,7 @@ Romanis 18
 necavit 18
 Avis 18
 bibendum 18
+dicas 18
 videntur 18
 stella 18
 litterae 18
@@ -2037,7 +2038,6 @@ Amicum 17
 natura 17
 nostros 17
 pudet 17
-dicas 17
 Venerunt 17
 regione 17
 Habetisne 17
@@ -3788,6 +3788,7 @@ Galla 9
 Pellicula 9
 Calamum 9
 laboravi 9
+sacrum 9
 praesidem 9
 Lignum 9
 intellegis 9
@@ -3884,6 +3885,7 @@ mālum 9
 tacta 9
 mentiri 9
 victor 9
+nemini 9
 fertur 9
 reperit 9
 fortes 9
@@ -4194,6 +4196,7 @@ Mensis 8
 milibus 8
 doctor 8
 Ruthenice 8
+universum 8
 monstrare 8
 medici 8
 constitit 8
@@ -4245,7 +4248,6 @@ edisti 8
 reperta 8
 tales 8
 locutae 8
-sacrum 8
 Eratne 8
 insecta 8
 Ioannae 8
@@ -4373,7 +4375,6 @@ pānem 8
 Asinus 8
 crimen 8
 convenire 8
-nemini 8
 senectutem 8
 ratio 8
 parce 8
@@ -4696,7 +4697,6 @@ Domo 7
 impossibile 7
 Ianuarius 7
 Sinas 7
-universum 7
 pilae 7
 socer 7
 septuagesimo 7
@@ -5198,6 +5198,7 @@ ferit 6
 retro 6
 Mens 6
 para 6
+Civis 6
 debitoribus 6
 potestatem 6
 ovem 6
@@ -5518,6 +5519,7 @@ contraria 6
 fluctibus 6
 varios 6
 impune 6
+uteris 6
 cubili 6
 Cutis 6
 tristes 6
@@ -5593,6 +5595,7 @@ agnus 6
 inimici 6
 fide 6
 capio 6
+Hostes 6
 majorem 6
 dormis 6
 simplex 6
@@ -6027,7 +6030,6 @@ suprā 5
 Homerus 5
 transit 5
 Senatus 5
-Civis 5
 nocent 5
 rara 5
 caelis 5
@@ -6458,7 +6460,6 @@ tuarum 5
 miserere 5
 Teucrum 5
 adverso 5
-uteris 5
 utuntur 5
 obscurum 5
 iusti 5
@@ -6552,7 +6553,6 @@ humi 5
 sedens 5
 Polliceor 5
 hausit 5
-Hostes 5
 solito 5
 Plura 5
 honore 5
@@ -7149,6 +7149,7 @@ Comitia 5
 posuistī 5
 forfices 5
 hāc 5
+mysterium 5
 noscebat 5
 Diabolus 5
 prudentem 5
@@ -8892,7 +8893,6 @@ Pondo 4
 Intellexistine 4
 redibit 4
 certiōrem 4
-mysterium 4
 cannula 4
 oxhydrica 4
 ferruminatoria 4
@@ -9804,6 +9804,7 @@ remisi 3
 Singulas 3
 Homini 3
 pecūniae 3
+malleo 3
 acutus 3
 Aegra 3
 perfecto 3
@@ -9997,4 +9998,3 @@ Syria 3
 Sardinia 3
 Romanae 3
 ancillis 3
-bonæ 3

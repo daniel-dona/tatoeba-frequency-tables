@@ -4,7 +4,7 @@ das 517
 no 454
 binom 432
 etosi 400
-in 303
+in 304
 obik 265
 Maria 209
 dunön 180
@@ -73,11 +73,11 @@ tel 47
 binol 47
 äbinom 47
 moni 46
+obes 46
 tidel 46
 Hiel 45
 te 45
 valik 45
-obes 45
 domo 45
 binön 44
 Tomasa 44
@@ -295,6 +295,7 @@ fati 14
 vaxenik 14
 fot 14
 mutob 14
+Vemo 14
 änolob 14
 Kiöpo 13
 fidi 13
@@ -303,6 +304,7 @@ kanitön 13
 son 13
 oma 13
 Nem 13
+Binoms 13
 püki 13
 id 13
 Nelijapüki 13
@@ -316,7 +318,6 @@ nedobs 13
 lödön 13
 kanobs 13
 tikom 13
-Vemo 13
 nedob 13
 edunom 13
 labön 12
@@ -334,7 +335,6 @@ Li-logol 12
 Li-labol 12
 Om 12
 vom 12
-Binoms 12
 el 12
 nefikulik 12
 nedol 12
@@ -373,6 +373,7 @@ blodis 10
 Mot 10
 suno 10
 lifön 10
+gad 10
 logob 10
 Pul 10
 libik 10
@@ -403,7 +404,6 @@ me 9
 Labol 9
 labol 9
 lul 9
-gad 9
 Ob 9
 Kats 9
 jisoni 9
@@ -1000,6 +1000,7 @@ vödis 3
 givi 3
 Ävilof 3
 Valiks 3
+flols 3
 Ekömob 3
 yunikün 3
 pükis 3
@@ -1116,6 +1117,7 @@ alim 3
 dunon 3
 spelom 3
 Tidel 3
+eyufol 3
 ocenom 3
 vig 3
 hikat 3
@@ -1422,7 +1424,6 @@ flenes 2
 älautom 2
 milegi 2
 votiks 2
-flols 2
 liedos 2
 onedol 2
 Tidob 2
@@ -1683,7 +1684,6 @@ Velatiko 2
 Dlinobs 2
 Yulopels 2
 Rusäni 2
-eyufol 2
 ädunoms 2
 smülom 2
 sükoms 2

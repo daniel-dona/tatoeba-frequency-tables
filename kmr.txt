@@ -5,7 +5,7 @@ ji 1000
 min 997
 bi 936
 li 832
-Ew 815
+Ew 816
 ê 739
 û 664
 ye 645
@@ -31,7 +31,7 @@ wî 241
 ez 239
 tu 237
 Ev 231
-bû 219
+bû 220
 dike 196
 ber 191
 bo 187
@@ -1120,6 +1120,7 @@ Dora 5
 gul 5
 dapîra 5
 Dapîra 5
+hemşîre 5
 gur 5
 Hewa 5
 Havîn 5
@@ -1341,7 +1342,6 @@ gemarî 4
 mase 4
 bapîrê 4
 ferheng 4
-hemşîre 4
 hevok 4
 şêr 4
 şêrîn 4

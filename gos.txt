@@ -1,16 +1,16 @@
-k 1472
-is 1224
+k 1473
+is 1225
 n 1037
 t 1006
 Tom 664
 nait 532
-Hai 465
+Hai 466
 van 451
-binnen 413
+binnen 414
 ien 394
 dat 296
 het 288
-Wie 282
+Wie 283
 mie 273
 Zai 259
 op 257
@@ -26,8 +26,8 @@ noar 179
 aan 175
 Doe 173
 heur 173
+Heb 165
 was 164
-Heb 164
 gain 163
 Bin 160
 zien 155
@@ -68,14 +68,14 @@ joen 79
 Der 78
 kovvie 77
 ik 77
+ie 75
 Kom 74
-ie 74
 doun 72
 bist 70
 dit 70
 goan 69
 hai 69
-veul 68
+veul 69
 eten 67
 Joe 64
 zain 64
@@ -173,18 +173,18 @@ Duuts 29
 ais 29
 gong 28
 zai 28
+gruin 28
 kinnen 28
 laank 28
 waarken 28
 Het 27
 Kiek 27
 Loaten 27
-gruin 27
+ogen 27
 roupen 27
 Nait 26
 aaier 26
 ain 26
-ogen 26
 spreken 26
 Fraans 26
 zee 26
@@ -193,6 +193,7 @@ Vroag 26
 Engels 26
 wèst 26
 holt 25
+wien 25
 aal 25
 allain 25
 geliek 25
@@ -206,7 +207,6 @@ gaait 25
 studìnt 25
 aaltied 24
 doan 24
-wien 24
 Let 24
 Dij 24
 lekker 24
@@ -573,6 +573,7 @@ studìnten 10
 keunegin 10
 zin 10
 proat 10
+schoun 10
 groag 10
 olde 10
 snijen 9
@@ -631,7 +632,6 @@ foto 9
 onze 9
 swien 9
 kameroaden 9
-schoun 9
 Most 9
 stellen 9
 vermoord 9
@@ -758,6 +758,7 @@ mot 7
 betunteld 7
 Tokio 7
 Afrikoa 7
+kocht 7
 òfwas 7
 mos 7
 Wotter 7
@@ -887,7 +888,6 @@ mirreg 6
 Begun 6
 dus 6
 vlaag 6
-kocht 6
 woensdag 6
 Zee 6
 Skotlaand 6
@@ -993,6 +993,7 @@ Moeke 5
 dicht 5
 Koelkaast 5
 leeg 5
+verkopen 5
 ston 5
 laipen 5
 oraanje 5
@@ -1088,6 +1089,7 @@ vuuttje 5
 vuur 5
 zóllen 5
 Mòst 5
+zaik 5
 luuster 5
 gaauwer 5
 bericht 5
@@ -1161,7 +1163,6 @@ bedoulst 4
 winter 4
 Goinoavend 4
 Frais 4
-verkopen 4
 toon 4
 verdween 4
 schriefst 4
@@ -1303,7 +1304,6 @@ bèr 4
 enkele 4
 gaaist 4
 vuilde 4
-zaik 4
 bestaand 4
 Zunder 4
 gezond 4
@@ -1738,6 +1738,7 @@ olders 3
 vertraauwden 3
 honden 3
 idee 3
+Toms 3
 persoon 3
 uutgoaven 3
 daank 3
@@ -1877,6 +1878,7 @@ Mainstekaans 2
 Jechteg 2
 Schier 2
 Vrumd 2
+Verkopen 2
 Sukker 2
 Verget 2
 vòllen 2
@@ -2505,7 +2507,6 @@ hobby 2
 prakties 2
 broden 2
 kameroad 2
-Toms 2
 grootte 2
 boukje 2
 In 2
@@ -2886,7 +2887,6 @@ Fien 1
 Nuver 1
 Woarheer 1
 Kopen 1
-Verkopen 1
 Staarker 1
 ozzeg 1
 Bestoan 1
@@ -5813,3 +5813,4 @@ tak 1
 baargdörp 1
 Ecuador 1
 woaren 1
+douken 1

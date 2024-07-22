@@ -1,4 +1,4 @@
-on 1452
+on 1453
 Ma 908
 ei 720
 Tom 589
@@ -166,6 +166,7 @@ Keegi 21
 teine 21
 lapsed 21
 Millal 21
+pealinn 21
 aastat 21
 Sul 21
 üles 21
@@ -177,7 +178,6 @@ Te 21
 miks 21
 ilma 20
 naine 20
-pealinn 20
 meeldivad 20
 raamatu 20
 minuga 20
@@ -2347,6 +2347,7 @@ töölt 2
 pensionile 2
 kutsuti 2
 poisiga 2
+Alžeeria 2
 rahaga 2
 vasakul 2
 kutsutud 2
@@ -6076,7 +6077,6 @@ Tühistasin 1
 kohtumise 1
 Laske 1
 ilusat 1
-Alžeeria 1
 õigesti 1
 Viige 1
 Otsus 1
@@ -6503,3 +6503,4 @@ Roomat 1
 ehitatud 1
 Pääsuke 1
 rändlind 1
+Alžiir 1
