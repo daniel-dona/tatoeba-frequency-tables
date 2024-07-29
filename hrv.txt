@@ -1,5 +1,5 @@
 je 1719
-se 623
+se 626
 u 558
 sam 464
 da 415
@@ -7,7 +7,7 @@ li 394
 na 325
 ne 283
 Tom 280
-i 237
+i 239
 su 222
 mi 210
 Ne 193
@@ -36,9 +36,9 @@ o 70
 ga 68
 mogu 65
 nego 63
+ima 63
 Tko 62
 Jesi 62
-ima 62
 više 61
 Je 53
 Gdje 53
@@ -77,7 +77,7 @@ vrlo 42
 koji 42
 moj 41
 do 41
-sa 40
+sa 41
 ovdje 40
 bilo 39
 svoju 39
@@ -100,13 +100,13 @@ moja 32
 Volim 32
 Mogu 32
 Danas 32
+kada 32
 puno 32
 Nije 32
 tvoj 31
 Moja 31
 knjiga 31
 znam 31
-kada 31
 vidjeti 31
 Ti 31
 doći 30
@@ -244,6 +244,7 @@ Nema 15
 jezik 15
 znati 15
 ostati 15
+francuski 15
 Kad 15
 Neki 15
 svog 15
@@ -254,13 +255,13 @@ ujutro 15
 mnom 15
 kuću 15
 Svaki 15
+nisu 15
 njegov 14
 I 14
 Hoćeš 14
 toliko 14
 lijepa 14
 psa 14
-francuski 14
 Bez 14
 nalazi 14
 života 14
@@ -280,7 +281,6 @@ riječ 14
 Budi 14
 hladno 14
 žene 14
-nisu 14
 koliko 14
 pitanje 13
 dva 13
@@ -366,12 +366,14 @@ Njegova 10
 prijatelj 10
 Imate 10
 rječnik 10
+njemački 10
 neki 10
 drugi 10
 oči 10
 Dao 10
 vole 10
 mjesto 10
+nikad 10
 glavni 10
 težak 10
 pušiti 10
@@ -401,6 +403,7 @@ odmah 10
 kuće 10
 dao 10
 Već 10
+Hvala 10
 vratiti 10
 doma 10
 vodu 10
@@ -421,12 +424,10 @@ Otišao 9
 postoji 9
 uzeti 9
 Evo 9
-njemački 9
 opasnosti 9
 Čovjek 9
 baš 9
 kiša 9
-nikad 9
 cijeli 9
 ikad 9
 dogodilo 9
@@ -464,7 +465,6 @@ ovom 9
 volio 9
 svih 9
 idem 9
-Hvala 9
 imamo 9
 Mnogo 9
 jednog 9
@@ -613,6 +613,7 @@ vidi 7
 ideju 7
 kurac 7
 Layla 7
+Sami 7
 Bok 6
 Zovem 6
 njegovo 6
@@ -727,7 +728,6 @@ računalo 6
 Dođi 6
 Naravno 6
 znamo 6
-Sami 6
 Fadil 6
 zoveš 5
 Pas 5
@@ -1107,6 +1107,7 @@ Idemo 4
 mogla 4
 njezinom 4
 Znamo 4
+svojom 4
 prošle 4
 ostaviti 4
 Engleski 4
@@ -1341,6 +1342,7 @@ O 3
 Bill 3
 studira 3
 inozemstvu 3
+engelski 3
 pametna 3
 Umoran 3
 Izgledaš 3
@@ -1532,7 +1534,6 @@ našem 3
 jabuka 3
 tablete 3
 Juha 3
-svojom 3
 ujaka 3
 Sally 3
 Sjedni 3
@@ -1929,7 +1930,6 @@ lakoćom 2
 različitih 2
 poslova 2
 tražila 2
-engelski 2
 Radiš 2
 točan 2
 netočan 2
@@ -2219,6 +2219,7 @@ Oboje 2
 Nedostaje 2
 ugovor 2
 pravila 2
+ženom 2
 dokazati 2
 pomaže 2
 Sin 2
@@ -2484,6 +2485,7 @@ Nekada 2
 glavobolju 2
 glavi 2
 mršav 2
+irski 2
 nekad 2
 zadnjem 2
 tijelo 2
@@ -2504,6 +2506,7 @@ dolaziš 2
 rijeke 2
 razlika 2
 značajna 2
+poljski 2
 novinar 2
 vikenda 2
 Cipela 2
@@ -2891,6 +2894,7 @@ Sloboda 2
 insekti 2
 kukci 2
 svoji 2
+švedski 2
 vojnik 2
 brzi 2
 Laku 2
@@ -4545,7 +4549,6 @@ Potpisujući 1
 pristaješ 1
 uvjete 1
 privučen 1
-ženom 1
 stoj 1
 pločnikom 1
 napušta 1
@@ -5540,7 +5543,6 @@ odbije 1
 povoljan 1
 odgovarao 1
 pregled 1
-irski 1
 viski 1
 Tumarao 1
 uokolo 1
@@ -5690,7 +5692,6 @@ c'ovjek 1
 oc'ima 1
 Gregor 1
 Beatrice 1
-poljski 1
 povjerenja 1
 blagu 1
 Izrazito 1
@@ -7859,6 +7860,11 @@ inače 1
 mogle 1
 stario 1
 islam 1
+dosadim 1
+prosto 1
+kosim 1
+Lejla 1
+poljubili 1
 Prodat 1
 Maline 1
 Beduini 1
@@ -8255,7 +8261,6 @@ Putovnicu 1
 tjeraju 1
 očajavam 1
 pisanjem 1
-švedski 1
 Saša 1
 Andrea 1
 nož 1
@@ -8290,3 +8295,25 @@ korisno 1
 kɔ̲c 1
 lic 1
 kä 1
+EU 1
+24 1
+službena 1
+jezika: 1
+bugarski 1
+češki 1
+danski 1
+estonski 1
+finski 1
+grčki 1
+nizozemski 1
+hrvatski 1
+litavski 1
+latvijski 1
+mađarski 1
+malteški 1
+portugalski 1
+rumunjski 1
+slovački 1
+slovenski 1
+španiolski 1
+talianski 1

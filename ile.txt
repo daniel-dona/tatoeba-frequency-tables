@@ -1,17 +1,17 @@
 es 3138
-Yo 2399
+Yo 2400
 un 1855
 li 1662
-Tom 1521
+Tom 1522
 ne 1432
 in 772
 tu 764
 Li 760
 have 713
 Esque 700
-Il 665
-ha 595
-esset 591
+Il 667
+ha 596
+esset 593
 que 572
 de 545
 Ella 487
@@ -21,7 +21,7 @@ va 439
 me 421
 save 417
 it 416
-Noi 411
+Noi 412
 yo 399
 vole 393
 mi 390
@@ -29,7 +29,7 @@ e 387
 Tu 357
 It 320
 To 301
-bon 284
+bon 285
 te 283
 a 283
 tre 281
@@ -38,11 +38,11 @@ tui 277
 su 274
 posse 273
 Mary 249
-por 245
+por 246
 pri 245
 con 236
 quam 227
-plu 223
+plu 224
 il 221
 far 218
 deve 214
@@ -65,9 +65,9 @@ Ti 131
 pro 130
 esser 120
 savet 120
+fat 118
 le 117
 pensa 117
-fat 117
 bell 114
 noi 114
 vermen 110
@@ -230,6 +230,7 @@ leet 33
 tant 33
 Omnes 33
 puellas 32
+dormit 32
 hay 32
 desfacil 32
 On 32
@@ -237,7 +238,6 @@ auxilie 32
 Bon 31
 veritá 31
 alt 31
-dormit 31
 altri 31
 dormir 30
 rubi 30
@@ -426,6 +426,7 @@ significa 16
 audir 16
 carne 16
 comensar 16
+té 16
 response 16
 vendit 16
 sole 16
@@ -449,7 +450,6 @@ parc 15
 situat 15
 vez 15
 leer 15
-té 15
 inter 15
 null 15
 refrigidator 15
@@ -5628,3 +5628,5 @@ falsificat 1
 enorm 1
 progresses 1
 camine 1
+desbell 1
+ínbell 1

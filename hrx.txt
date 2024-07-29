@@ -1,19 +1,19 @@
 is 384
-Ich 326
+Ich 328
 Tom 211
 en 203
 hod 166
-net 152
+net 153
 hon 142
 die 128
 das 124
 de 123
 De 113
-sin 101
-Die 99
+sin 103
+Die 101
 Das 93
+Sie 73
 Meer 72
-Sie 71
 in 67
 se 62
 Er 61
@@ -33,9 +33,9 @@ wie 41
 mit 40
 noch 39
 uff 38
+mich 38
+mein 37
 aach 37
-mich 37
-mein 36
 zu 36
 Mein 35
 fer 34
@@ -45,16 +45,16 @@ Do 32
 keen 32
 dein 32
 gern 30
-dich 29
+dich 30
+aam 29
 mache 29
 deer 28
 fun 27
-aam 27
 was 26
 nichs 26
+Deer 26
 weis 25
 aarich 25
-Deer 25
 Glick 25
 Waromm 24
 bitte 24
@@ -84,6 +84,7 @@ dud 17
 Buch 17
 där 17
 dass 17
+gud 16
 drei 16
 Is 16
 Wer 16
@@ -93,7 +94,6 @@ kaafe 16
 aus 16
 Hod-der 16
 eich 15
-gud 15
 kann 15
 sich 15
 gesihn 15
@@ -199,6 +199,7 @@ eier 8
 ferloer 8
 sihd 8
 oft 8
+krank 8
 Katze 8
 Bild 8
 Fraa 7
@@ -211,6 +212,7 @@ Wennst-du 7
 em 7
 Geld 7
 wolld 7
+liehe 7
 unser 7
 eere 7
 komme 7
@@ -242,7 +244,6 @@ griene 7
 eppes 7
 degeghe 7
 Komm 7
-krank 7
 Celular 7
 jetz 6
 Katz 6
@@ -279,6 +280,7 @@ Zeen 6
 Advogaat 6
 nimmi 6
 saad 6
+Fiel 6
 Braud 6
 Planz 6
 Fisch 6
@@ -346,7 +348,6 @@ blau 5
 Baam 5
 Dart 5
 gedenkd 5
-Fiel 5
 bissje 5
 Mensche 5
 jede 5
@@ -670,7 +671,6 @@ gefalld 2
 aangebassd 2
 Hall 2
 aanheere 2
-liehe 2
 Radio 2
 solldst 2
 Machst-du 2
@@ -691,6 +691,7 @@ rëtuer 2
 Kam-ma 2
 iwerhaupt 2
 Cha 2
+Lieh 2
 ëxistierd 2
 dodgemach 2
 liebd 2
@@ -769,6 +770,7 @@ zumache 2
 Liehner 2
 scheener 2
 Äerbeere 2
+fiele 2
 heb 2
 entschloss 2
 Haas 2
@@ -1095,7 +1097,6 @@ uffgang 1
 Tee 1
 aarvete 1
 iwrichgeblibb 1
-Lieh 1
 eherlich 1
 Hellefst-du 1
 Iwersetze 1
@@ -1314,7 +1315,6 @@ Menner 1
 staarik 1
 iwerlebd 1
 Afrika 1
-fiele 1
 afrikanische 1
 Sproche 1
 Afrikanische 1
@@ -2013,3 +2013,6 @@ sellde 1
 selld 1
 Prostatakrebs 1
 Belohnung 1
+liehd 1
+Buls 1
+Fielst-du 1

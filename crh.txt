@@ -2,7 +2,7 @@ O 32
 edi 30
 Men 24
 bar 21
-ne 19
+ne 21
 degil 19
 ве 18
 да 13
@@ -10,9 +10,9 @@ suvuq 13
 yaşında 12
 on 12
 я 11
+Bu 11
 çoq 11
 pek 10
-Bu 10
 Bugün 9
 oldı 9
 Бу 8
@@ -40,6 +40,7 @@ eki 5
 Qırımda 5
 ediler 5
 Gece 5
+adı 5
 yerde 4
 — 4
 ичтимаий 4
@@ -56,7 +57,6 @@ büyük 4
 qıymetli 4
 Camuslar 4
 qaranlıqta 4
-adı 4
 nedir 3
 olsun 3
 Maña 3
@@ -86,6 +86,7 @@ Biñden 3
 az 3
 yedi 3
 seve 3
+öldi 3
 köre 3
 baqıp 3
 maña 3
@@ -169,7 +170,6 @@ yaşamaqta 2
 arqadaşımnıñ 2
 ailesinde 2
 Keçken 2
-öldi 2
 otuz 2
 küldi 2
 Nasıl 2
@@ -214,6 +214,7 @@ laf 2
 etesiñ 2
 Bunı 2
 çalışamı 2
+vaqıt 2
 Aqlı 2
 padişanıñ 1
 oğlu 1
@@ -1044,9 +1045,14 @@ studentim 1
 kimsiñ 1
 Apayıñıznıñ 1
 Aqayıñıznıñ 1
-vaqıt 1
 evlendiñ 1
 degilsiñ 1
 degilsiñiz 1
 Qabaat 1
 işlemeñiz 1
+Mında 1
+keldiñ 1
+Qart 1
+öz 1
+odasında 1
+qartnıñ 1

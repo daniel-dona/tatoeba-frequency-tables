@@ -1,8 +1,8 @@
 on 28453
 ei 10434
-Tom 9569
+Tom 9568
 Hän 8152
-että 6725
+että 6724
 ja 6704
 Tomi 6271
 ole 6138
@@ -11,7 +11,7 @@ En 4786
 Minä 4459
 Se 3695
 hän 3497
-se 3337
+se 3338
 kuin 3240
 Olen 2920
 sinä 2845
@@ -59,19 +59,19 @@ olisi 1240
 Sinun 1223
 Me 1214
 täytyy 1187
-tämä 1157
+tämä 1156
 ranskaa 1153
-hyvä 1144
+hyvä 1145
 täällä 1117
 pitää 1116
 kaikki 1111
-Oletko 1077
+Oletko 1078
 vielä 1070
 tämän 1061
 Miksi 1057
 Tomilla 1047
 mennä 1038
-aina 1030
+aina 1031
 Sinä 1022
 Kuinka 1022
 Jos 1017
@@ -82,7 +82,7 @@ Ei 958
 jo 954
 pitäisi 950
 vähän 928
-Tuo 911
+Tuo 912
 tulee 910
 et 881
 Miten 839
@@ -134,8 +134,8 @@ tässä 557
 he 544
 takaisin 543
 enemmän 541
-Kuka 539
-Tommi 539
+Kuka 540
+Tommi 540
 ettei 536
 tulla 535
 rahaa 528
@@ -172,8 +172,8 @@ me 464
 miten 463
 näyttää 462
 Mary 460
+sinut 460
 olivat 459
-sinut 459
 aivan 458
 auttaa 451
 ulos 450
@@ -262,7 +262,7 @@ syö 325
 näin 322
 Tänään 320
 Te 318
-Luulen 317
+Luulen 316
 Voinko 315
 lähteä 315
 hyvää 315
@@ -319,8 +319,8 @@ menee 273
 kello 272
 kirja 272
 edes 272
+Kiitos 272
 ongelma 271
-Kiitos 271
 Marille 271
 tahansa 269
 Minua 269
@@ -340,8 +340,8 @@ melkein 255
 olette 255
 päästä 254
 siltä 253
-kiitos 252
 uudestaan 251
+kiitos 251
 Älkää 249
 vuoden 248
 joku 248
@@ -493,6 +493,7 @@ helppoa 174
 Tulen 174
 paras 173
 etten 173
+tavata 172
 Koska 172
 ette 172
 Kerro 171
@@ -500,11 +501,10 @@ Mun 171
 mä 171
 Täällä 170
 nimi 170
-tavata 169
+oppia 169
 Mene 169
 rakastaa 168
 viisi 168
-oppia 168
 Monet 168
 kävi 167
 meillä 167
@@ -548,8 +548,8 @@ ollenkaan 156
 oven 156
 Oliko 156
 yönä 155
+vasta 155
 teetä 154
-vasta 154
 ranskaksi 154
 kiinnostunut 153
 monia 153
@@ -686,9 +686,9 @@ aikoina 123
 Kuulin 122
 menen 122
 helppo 122
+Oli 122
 vuoksi 121
 Ja 121
-Oli 121
 Australiassa 121
 Koira 120
 puhui 120
@@ -928,13 +928,13 @@ kaupungin 92
 Marilla 92
 totuuden 91
 tien 91
+uimaan 91
 koulun 91
 Yksi 91
 elokuvan 91
 Tyttö 91
 suurin 91
 löysi 90
-uimaan 90
 Jotkut 90
 vähemmän 90
 kirjoittanut 90
@@ -948,6 +948,7 @@ vuosi 89
 puhumaan 89
 kielen 89
 tapana 89
+mukava 89
 Kaksi 89
 kirjoitti 89
 päättänyt 89
@@ -1005,7 +1006,6 @@ käveli 85
 kuuluisa 84
 olisit 84
 Tapasin 84
-mukava 84
 olutta 84
 kutsutaan 84
 työ 84
@@ -1014,6 +1014,7 @@ minne 84
 puhut 84
 Isä 84
 toimii 84
+sinuun 84
 sellainen 84
 jonkun 84
 Sillä 83
@@ -1024,7 +1025,6 @@ syömään 83
 pöydän 83
 Toivottavasti 83
 kasvaa 83
-sinuun 83
 enempää 83
 saman 83
 kohtaan 82
@@ -1091,6 +1091,7 @@ kaikkien 78
 kuvan 78
 Tomiin 78
 tiesi 78
+Ken 77
 tappoi 77
 haluaisin 77
 Huomenna 77
@@ -1101,7 +1102,6 @@ tappaa 77
 autoni 77
 suurta 77
 nuorempi 76
-Ken 76
 virheitä 76
 yhteyttä 76
 Elämä 76
@@ -2251,6 +2251,7 @@ kantaa 37
 todellinen 37
 muistan 37
 kauhean 37
+tuntemaan 37
 Euroopassa 37
 Lopulta 37
 pystyn 37
@@ -2363,7 +2364,6 @@ kirjoitettu 35
 tajunnut 35
 minäkään 35
 pahasti 35
-tuntemaan 35
 Amerikan 35
 oppi 35
 kiinnostava 35
@@ -2589,6 +2589,7 @@ Aivan 32
 enkeli 32
 sanomatta 32
 johonkin 32
+Todella 32
 vihollinen 32
 hulluksi 32
 rakastat 32
@@ -2922,7 +2923,6 @@ menoa 28
 tyhmää 28
 piirsi 28
 suojella 28
-Todella 28
 juon 28
 kanssanne 28
 Asiat 28
@@ -3186,6 +3186,7 @@ junassa 25
 kaikkein 25
 neiti 25
 Ajan 25
+oppii 25
 tehtävää 25
 taloon 25
 työt 25
@@ -3325,7 +3326,6 @@ murehdi 24
 painava 24
 kirjailija 24
 opettajaksi 24
-oppii 24
 Yorkissa 24
 ketun 24
 käännös 24
@@ -4461,6 +4461,7 @@ näimme 18
 Luitko 18
 naura 18
 korjasi 18
+Mukava 18
 matematiikasta 18
 tullaan 18
 palkkaa 18
@@ -4676,6 +4677,7 @@ väärä 17
 hyvänsä 17
 eilisen 17
 kiellettyä 17
+tutustua 17
 kansalainen 17
 tornin 17
 auttaisit 17
@@ -4935,7 +4937,6 @@ millainen 16
 poliisia 16
 lähtevän 16
 lainaan 16
-Mukava 16
 keksit 16
 suostui 16
 huomata 16
@@ -5525,7 +5526,6 @@ joutua 14
 koettaa 14
 päällesi 14
 ajanut 14
-tutustua 14
 kunnon 14
 huonoin 14
 tavaraa 14
@@ -6360,6 +6360,7 @@ savua 12
 toteutui 12
 Tarkista 12
 Katsotaanpa 12
+jaa 12
 huolellinen 12
 ruokkia 12
 Talosi 12
@@ -6886,7 +6887,6 @@ TV:ssä 11
 kuolleena 11
 arvokkaita 11
 Miksemme 11
-jaa 11
 keskeyttää 11
 ensiksi 11
 jalalla 11
@@ -7708,6 +7708,7 @@ upealta 10
 tuijottaa 10
 Kuulostat 10
 minkään 10
+Hyvän 10
 kärpäsestä 10
 matto 10
 Hiiri 10
@@ -8460,7 +8461,6 @@ odotit 9
 16 9
 väärinkäsitys 9
 kuvaus 9
-Hyvän 9
 merimies 9
 sinisen 9
 kääntänyt 9

@@ -1,14 +1,14 @@
-le 14111
-es 9749
-un 8010
+le 14112
+es 9752
+un 8013
 de 7702
 ha 5448
 Le 5333
-in 4756
-Io 4552
+in 4757
+Io 4553
 que 4357
 non 4329
-e 3244
+e 3245
 del 3123
 a 2922
 tu 2567
@@ -39,28 +39,28 @@ como 909
 Tu 867
 il 862
 Illa 840
-grande 773
+grande 774
 Iste 746
 blau 697
-Esque 683
-vole 675
+Esque 684
+vole 676
 habeva 644
 multe 628
-illo 621
+illo 622
 esser 611
-Que 608
+Que 609
 debe 605
 Isto 599
 Mi 587
 qui 543
-isto 542
+isto 543
 Un 540
 tempore 535
 Illes 527
 era 525
 super 509
 bon 503
-facer 490
+facer 491
 In 483
 tote 480
 lingua 476
@@ -103,7 +103,7 @@ tanto 306
 anglese 304
 sol 294
 Deo 293
-On 291
+On 292
 ancora 284
 hic 283
 A 279
@@ -168,8 +168,8 @@ vive 178
 the 178
 patre 177
 importante 176
+can 175
 ver 174
-can 174
 nunquam 172
 cata 172
 parolas 171
@@ -192,8 +192,8 @@ assi 159
 prime 158
 Tote 156
 mar 154
+citate 154
 post 153
-citate 153
 musica 152
 vider 151
 felice 150
@@ -215,9 +215,9 @@ Ariel 139
 cognosce 138
 edificio 138
 parola 136
+poterea 136
 edificios 136
 vermente 135
-poterea 135
 vide 134
 ir 134
 uno 133
@@ -471,6 +471,7 @@ espaniol 61
 secunde 60
 spera 60
 usate 60
+religion 60
 glacie 59
 significa 59
 intelligente 59
@@ -485,7 +486,6 @@ mathematica 59
 seque 59
 visibile 59
 ipse 59
-religion 59
 studia 58
 Parla 58
 pauco 58
@@ -507,6 +507,7 @@ manos 56
 Ecce 56
 sex 55
 immediatemente 55
+guerra 55
 Me 55
 certe 55
 parlava 55
@@ -516,7 +517,6 @@ simple 55
 collina 55
 secur 54
 fortuna 54
-guerra 54
 Forsan 54
 amica 54
 jalne 54
@@ -661,6 +661,7 @@ devenite 44
 arabe 44
 moderne 43
 canes 43
+stupide 43
 japonese 43
 vespere 43
 qualcosa 43
@@ -680,7 +681,6 @@ aperte 43
 crangones 43
 homaros 43
 rubiette 43
-stupide 42
 Ora 42
 dictionario 42
 moriva 42
@@ -948,6 +948,7 @@ attinger 30
 camisa 30
 arriva 30
 apparato 30
+ex 30
 oblidate 30
 curso 30
 meditar 30
@@ -986,7 +987,6 @@ deo 29
 Ante 29
 representa 29
 basiava 29
-ex 29
 occurre 29
 insula 29
 sanguine 29
@@ -1455,6 +1455,7 @@ digitos 19
 salvage 19
 vicino 19
 pesante 19
+politica 19
 infinite 19
 spiritual 19
 divin 19
@@ -1519,7 +1520,6 @@ unitate 18
 potite 18
 plorava 18
 dara 18
-politica 18
 consiste 18
 evitar 18
 portar 18
@@ -1815,6 +1815,7 @@ oculo 15
 genere 15
 cambiava 15
 Mundial 15
+Grecia 15
 "Proque 15
 Neptuno 15
 Mangia 15
@@ -1922,7 +1923,6 @@ prendera 14
 diminue 14
 creava 14
 directe 14
-Grecia 14
 naves 14
 regular 14
 education 14
@@ -6264,6 +6264,7 @@ portraits 3
 vicina 3
 malevolentia 3
 droga 3
+durara 3
 scintillas 3
 surprender 3
 politessa 3
@@ -6447,6 +6448,7 @@ proportionate 3
 maneamento 3
 floresceva 3
 practicate 3
+Sparta 3
 aspirava 3
 assassinate 3
 duchar 3
@@ -7978,7 +7980,6 @@ communicava 2
 communicationes 2
 racias 2
 tank 2
-durara 2
 sali 2
 destructive 2
 schizophrenia 2
@@ -8351,6 +8352,7 @@ Repete 2
 recovrate 2
 concurre 2
 pharmacista 2
+eternalmente 2
 reappare 2
 optica 2
 renomine 2
@@ -9996,5 +9998,3 @@ slavic 2
 maligne 2
 gigantic 2
 syncretic 2
-transformante 2
-cielos 2

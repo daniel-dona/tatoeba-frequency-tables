@@ -1,31 +1,31 @@
-es 8614
-ia 6808
-la 6452
+es 8618
+ia 6811
+la 6453
 de 4312
-un 4308
-Me 3685
+un 4311
+Me 3687
 Tom 2871
 ла 2802
 ес 2732
 no 2623
 a 2244
-La 2227
+La 2228
 иа 2154
-en 1918
+en 1919
 де 1874
-tu 1630
+tu 1631
 me 1585
 ave 1551
 El 1366
 ун 1365
-e 1355
+e 1356
 ce 1251
-Esce 1202
+Esce 1205
 Ме 1183
 а 953
 Ла 932
 но 910
-va 894
+va 895
 ен 882
 el 860
 sua 854
@@ -33,7 +33,7 @@ plu 845
 multe 831
 Nos 804
 pote 799
-per 790
+per 791
 lo 778
 esta 742
 mea 735
@@ -42,7 +42,7 @@ cual 714
 Tu 665
 ме 662
 ту 656
-vole 631
+vole 634
 con 628
 е 596
 аве 564
@@ -73,7 +73,7 @@ Los 368
 ел 366
 on 363
 parla 360
-alga 356
+alga 357
 мулте 355
 плу 351
 меа 345
@@ -88,12 +88,12 @@ los 316
 vos 306
 куал 303
 Un 300
+acel 298
 поте 298
 No 297
-acel 297
 vive 295
 vide 295
-grande 288
+grande 289
 cuando 286
 ло 284
 mundo 271
@@ -111,8 +111,8 @@ jua 229
 bela 222
 нос 221
 asi 220
+lingua 218
 padre 218
-lingua 217
 persones 214
 ma 213
 коса 213
@@ -121,7 +121,7 @@ pare 205
 туа 204
 sola 201
 compra 199
-vera 196
+vera 197
 фа 196
 ci 194
 бон 194
@@ -141,7 +141,7 @@ Sami 168
 пар 167
 сур 167
 вос 166
-can 164
+can 165
 виве 164
 sin 163
 comensa 162
@@ -151,9 +151,9 @@ aprende 162
 Do 159
 se 159
 ancora 159
+sempre 158
 acua 158
 libro 157
-sempre 157
 abita 157
 du 155
 дебе 155
@@ -237,13 +237,13 @@ poma 105
 о 105
 mesma 104
 cade 102
-ala 101
+ala 102
 када 101
 Но 98
+site 97
 pais 97
 ки 97
 сола 97
-site 96
 А 96
 prima 95
 каса 95
@@ -277,10 +277,10 @@ vosa 88
 dole 86
 ami 86
 темпо 86
+musica 85
 cor 85
 Boston 85
 porta 85
-musica 84
 espeta 84
 cambia 84
 Como 84
@@ -656,6 +656,7 @@ emplea 34
 еске 34
 dansa 33
 esperanto 33
+stupida 33
 brun 33
 basa 33
 comentas 33
@@ -673,7 +674,6 @@ denova 32
 ateni 32
 posible 32
 nomida 32
-stupida 32
 papilio 32
 xines 32
 espaniol 32
@@ -847,6 +847,7 @@ rompeda 25
 sufisinte 25
 Pos 25
 para 25
+descovre 25
 famosa 25
 sistem 25
 asconde 25
@@ -880,7 +881,6 @@ numero 24
 clar 24
 vivente 24
 cisa 24
-descovre 24
 santa 24
 salta 24
 secur 24
@@ -999,6 +999,7 @@ Rio 21
 ata 21
 peso 21
 Sin 21
+Europa 21
 developa 21
 selebra 21
 nota 21
@@ -1024,6 +1025,7 @@ Pardona 20
 orania 20
 soldi 20
 destrui 20
+gera 20
 interompe 20
 pexes 20
 lago 20
@@ -1039,7 +1041,6 @@ paper 20
 estate 20
 grave 20
 governa 20
-Europa 20
 spasio 20
 Ama 20
 norde 20
@@ -1082,7 +1083,6 @@ tredes 19
 telefon 19
 Cisa 19
 tore 19
-gera 19
 imajina 19
 oro 19
 ponte 19
@@ -1100,6 +1100,7 @@ descrive 19
 pesosa 19
 composada 19
 talietas 19
+dura 19
 estende 19
 projeta 19
 menasa 19
@@ -1148,7 +1149,6 @@ Canes 18
 mobilas 18
 Con 18
 broma 18
-dura 18
 furni 18
 seguente 18
 Persones 18
@@ -2316,6 +2316,7 @@ fruta 8
 moda 8
 memori 8
 metodo 8
+Alo 8
 regretable 8
 Escuta 8
 ativia 8
@@ -2484,6 +2485,7 @@ relatas 8
 педес 8
 асуста 8
 петра 8
+Elas 8
 паиа 8
 emerji 8
 продуи 8
@@ -2572,7 +2574,6 @@ densa 7
 riable 7
 manico 7
 difusa 7
-Alo 7
 mediadia 7
 asendador 7
 12 7
@@ -2737,7 +2738,6 @@ analise 7
 portabagaje 7
 ложикал 7
 protesta 7
-Elas 7
 linias 7
 говерна 7
 пресента 7
@@ -3630,6 +3630,7 @@ abea 5
 Iudisme 5
 Fortunosa 5
 pasajores 5
+roc 5
 arma 5
 american 5
 tela 5
@@ -4266,6 +4267,7 @@ anjel 4
 фол 4
 идентифиа 4
 мигрорес 4
+morida 4
 Filastin 4
 Либри 4
 romanica 4
@@ -4284,7 +4286,6 @@ barati 4
 xices 4
 Omid 4
 nonbinaria 4
-roc 4
 Arabi 4
 sisjenero 4
 Esplica 4
@@ -4408,6 +4409,7 @@ farsi 4
 perdor 4
 salada 4
 documento 4
+cocaina 4
 корети 4
 dieta 4
 bolsa 4
@@ -4834,6 +4836,7 @@ aser 3
 Reposa 3
 Negra 3
 txesce 3
+slavica 3
 noia 3
 bote 3
 locada 3
@@ -5228,7 +5231,6 @@ Destensa 3
 летерас 3
 сенсоса 3
 Dormi 3
-morida 3
 dies 3
 диес 3
 деспренде 3
@@ -5509,7 +5511,6 @@ aberia 3
 italianes 3
 италианес 3
 фиос 3
-cocaina 3
 studias 3
 usosia 3
 tores 3
@@ -6179,7 +6180,6 @@ sude-este 2
 Danubio 2
 Balgarsce 2
 pompores 2
-slavica 2
 verdin 2
 nonvolente 2
 instituida 2
@@ -8090,6 +8090,7 @@ servintes 2
 cuatrodes-oto 2
 Hillel 2
 rabal 2
+Sparta 2
 reconstrui 1
 Escusa 1
 Jim 1
@@ -9997,4 +9998,3 @@ Prosedores 1
 естима 1
 дирижорес 1
 contratas 1
-inflada 1

@@ -8,7 +8,7 @@ ond 149
 du 144
 hôd 129
 en 117
-han 115
+han 116
 a 114
 mr 112
 å 109
@@ -68,11 +68,11 @@ kô 34
 Maria 33
 diå 33
 aber 32
+da 31
 wie 31
 älle 31
 di 30
 A 30
-da 30
 älles 30
 om 30
 r 30
@@ -210,6 +210,7 @@ Wie 11
 maim 11
 Gligg 11
 andre 11
+Zeit 11
 Moa 11
 Haus 11
 håd 11
@@ -232,7 +233,6 @@ isch's 10
 glei 10
 Schwoba 10
 d'r 10
-Zeit 10
 schee 10
 bissle 10
 viele 10
@@ -548,6 +548,7 @@ Deifl 4
 Senn 4
 glernd 4
 eane 4
+hoißd 4
 noch 4
 Fordschridd 4
 schnell 4
@@ -598,6 +599,7 @@ Wiå 4
 Ärbed 4
 sain 4
 Sachå 4
+gnau 4
 welled 4
 wem 4
 Aktie 4
@@ -744,7 +746,6 @@ oinzige 3
 eahne 3
 ächt 3
 Wassr 3
-hoißd 3
 Gockel 3
 kois 3
 bald 3
@@ -783,6 +784,7 @@ Vadr 3
 mae 3
 môn 3
 frei 3
+Dod 3
 glaubd 3
 Wend 3
 vrschdandå 3
@@ -831,7 +833,6 @@ gfallå 3
 Sai 3
 Frôg 3
 vô 3
-gnau 3
 bleibå 3
 Woischd 3
 Jôhr 3
@@ -1263,7 +1264,6 @@ ao 2
 Aoga 2
 fort 2
 eure 2
-Dod 2
 gwarded 2
 ihm 2
 Schwätz 2
@@ -5398,4 +5398,4 @@ zuagworfa 1
 dodrvo 1
 hera 1
 Sii 1
-gbau 1
+duaza 1

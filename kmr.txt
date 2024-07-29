@@ -55,12 +55,12 @@ bike 150
 Wan 149
 Li 143
 hene 140
-her 138
+her 139
 We 136
 im 129
 baş 127
 bikim 120
-tê 117
+tê 118
 da 116
 we 116
 bawer 115
@@ -80,8 +80,8 @@ kiriye 91
 ve 87
 malê 87
 xweş 86
+Her 85
 nekir 85
-Her 84
 a 81
 dê 81
 çawa 81
@@ -238,6 +238,7 @@ dîsa 24
 xuya 24
 zimanê 24
 avê 24
+nayê 24
 sar 24
 malbata 24
 cuda 24
@@ -253,7 +254,6 @@ benda 23
 rojê 23
 fêm 23
 Porê 23
-nayê 23
 reş 23
 dixwaze 23
 sibê 23
@@ -396,6 +396,7 @@ odeya 15
 rêya 15
 hinekî 15
 mîna 15
+gotin 15
 çûn 15
 vekirî 15
 nakî 15
@@ -451,7 +452,6 @@ bûne 13
 bibêje 13
 Maryê 13
 Pir 13
-gotin 13
 nabin 13
 kesên 13
 Ti 13
@@ -1997,6 +1997,7 @@ Hirçê 3
 gore 3
 mêvanan 3
 vedigere 3
+çêlek 3
 dibore 3
 biavêje 3
 xort 3
@@ -3071,7 +3072,6 @@ Otobûsa 2
 Nanê 2
 Naxira 2
 direye 2
-çêlek 2
 hêşîn 2
 Hebû 2
 hebûye 2
@@ -9237,3 +9237,4 @@ rêzefîlmek 1
 mirovî 1
 daxwazname 1
 îmza 1
+dotin 1
