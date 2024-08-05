@@ -1,10 +1,10 @@
-Ez 1210
+Ez 1211
 e 1034
 xwe 1034
 ji 1000
-min 997
+min 999
 bi 936
-li 832
+li 833
 Ew 816
 ê 739
 û 664
@@ -15,7 +15,7 @@ Tom 544
 Tu 523
 me 519
 te 498
-de 465
+de 466
 ne 406
 re 388
 Min 362
@@ -36,8 +36,8 @@ dike 196
 ber 191
 bo 187
 vê 185
+heye 185
 Te 185
-heye 184
 ser 184
 dikim 184
 dikin 180
@@ -50,7 +50,7 @@ pir 170
 Wê 168
 Me 156
 wan 153
-Di 151
+Di 152
 bike 150
 Wan 149
 Li 143
@@ -231,6 +231,7 @@ hin 25
 daye 25
 kurdî 25
 temaşe 25
+şikand 25
 kê 25
 bidim 24
 bibînim 24
@@ -245,7 +246,6 @@ cuda 24
 germ 24
 dibêje 24
 diçin 24
-şikand 24
 neda 24
  23
 destên 23
@@ -430,6 +430,7 @@ nedin 14
 hestiyên 14
 avêt 14
 nan 13
+dijîm 13
 saet 13
 guhdarî 13
 dereng 13
@@ -460,7 +461,6 @@ nekim 13
 digere 13
 Bawer 12
 girtî 12
-dijîm 12
 bêje 12
 muzîkê 12
 jina 12
@@ -2298,6 +2298,7 @@ keniya 3
 hewceyî 3
 dizîn 3
 têra 3
+Hewlêrê 3
 qirrika 3
 vedişêre 3
 winda 3
@@ -3525,7 +3526,6 @@ geriyam 2
 Aboriya 2
 Spanyayê 2
 dihele 2
-Hewlêrê 2
 Hestiyê 2
 şikesti 2
 zexm 2
@@ -3655,6 +3655,7 @@ Xelîfe 2
 balexaniyê 2
 zêr 2
 heyînê 2
+kompîtura 2
 numera 1
 enteresant 1
 gerdeniyê 1
@@ -9238,3 +9239,5 @@ mirovî 1
 daxwazname 1
 îmza 1
 dotin 1
+vîrûsek 1
+Vîrûsê 1

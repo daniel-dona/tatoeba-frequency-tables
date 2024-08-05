@@ -3,7 +3,7 @@ i 341
 Mae 283
 y 197
 Dw 186
-i'n 175
+i'n 177
 Tom 165
 ddim 116
 o 116
@@ -327,6 +327,7 @@ ennill 4
 digon 4
 dros 4
 ddigon 4
+Roeddwn 4
 ddyn 4
 cig 4
 ddwy 4
@@ -628,7 +629,6 @@ Tocio 2
 enfawr 2
 casáu'r 2
 trwy'r 2
-Roeddwn 2
 cyfoethog 2
 Prynais 2
 Gwna 2
@@ -2542,3 +2542,5 @@ llanwpo 1
 trai 1
 hei 1
 chath 1
+feddyg 1
+fyfyriwr 1

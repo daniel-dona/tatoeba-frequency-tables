@@ -1,6 +1,6 @@
 is 384
 Ich 328
-Tom 211
+Tom 212
 en 203
 hod 166
 net 153
@@ -8,7 +8,7 @@ hon 142
 die 128
 das 124
 de 123
-De 113
+De 114
 sin 103
 Die 101
 Das 93
@@ -20,9 +20,9 @@ Er 61
 waar 60
 wees 55
 un 53
+sein 53
 Du 53
 es 52
-sein 52
 Gott 51
 meer 49
 Es 49
@@ -141,6 +141,7 @@ Aanfang 11
 Abakaschi 11
 Annas 11
 fum 11
+kried 11
 Ëvent 11
 dohie 11
 Seid-der 10
@@ -157,7 +158,6 @@ musst 10
 gemach 10
 wo 10
 Wasser 10
-kried 10
 Unser 9
 geschribb 9
 doch 9
@@ -167,6 +167,7 @@ Hod 9
 nommol 9
 gess 9
 häd 9
+had 9
 Franzeesisch 9
 Loch 9
 hinnich 9
@@ -194,7 +195,6 @@ werklich 8
 Brod 8
 Bang 8
 um 8
-had 8
 eier 8
 ferloer 8
 sihd 8
@@ -2016,3 +2016,5 @@ Belohnung 1
 liehd 1
 Buls 1
 Fielst-du 1
+Mannle 1
+rausgehol 1

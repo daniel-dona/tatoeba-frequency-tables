@@ -1,24 +1,24 @@
 an 666
-a 636
+a 637
 Tá 625
-mé 399
+mé 400
 ag 393
-Is 333
-é 268
-ar 240
+Is 334
+é 269
+ar 241
 tú 219
 sé 212
 go 209
 bhfuil 207
 An 207
 seo 192
-Ní 181
+Ní 182
 agam 172
 Níl 164
 liom 155
 i 130
 mo 127
-le 111
+le 112
 na 104
 do 99
 maith 98
@@ -35,7 +35,7 @@ is 72
 orm 70
 rud 69
 Táim 68
-féidir 66
+féidir 67
 mhaith 65
 agat 63
 raibh 62
@@ -44,12 +44,12 @@ agus 60
 dul 55
 ann 55
 Cad 53
+leabhar 52
 leis 52
 Cén 52
-leabhar 51
 siad 51
+duine 48
 iarraidh 48
-duine 47
 fhios 46
 Cá 45
 Cé 43
@@ -76,9 +76,9 @@ bheith 30
 scríobh 29
 níos 27
 labhairt 26
+bith 26
 bhí 25
 ort 25
-bith 25
 Máire 25
 ó 24
 chun 24
@@ -101,6 +101,7 @@ gur 22
 cailín 21
 ná 20
 chónaí 20
+nua 20
 Ná 19
 dtí 19
 Béarla 19
@@ -112,7 +113,6 @@ ea 19
 chlog 19
 abhaile 19
 Gaeilge 19
-nua 19
 léamh 18
 carr 18
 dó 18
@@ -154,6 +154,7 @@ chéile 15
 bhaile 14
 bás 14
 páistí 14
+den 14
 amach 14
 Cheannaigh 14
 áit 14
@@ -165,7 +166,6 @@ mise 13
 uisce 13
 múinteoir 13
 trí 13
-den 13
 caint 13
 uair 13
 daoine 13
@@ -284,6 +284,7 @@ brón 7
 ár 7
 Cuir 7
 chéad 7
+ón 7
 cad 7
 iníon 7
 beirt 7
@@ -321,7 +322,6 @@ Déan 6
 tae 6
 cathair 6
 athair 6
-ón 6
 dúinn 6
 rith 6
 taitneamh 6
@@ -508,6 +508,7 @@ tart 4
 fearg 4
 cluiche 4
 móra 4
+cuid 4
 agaibh 4
 déag 4
 caitheamh 4
@@ -629,7 +630,6 @@ D'fhreagair 3
 tábla 3
 cathracha 3
 siúcra 3
-cuid 3
 úll 3
 snámhóir 3
 beo 3
@@ -1235,10 +1235,13 @@ Dá 2
 D'inis 2
 Ziri 2
 Thom 2
+Ceannóidh 2
 idirlín 2
 an-mhall 2
 fhreagra 2
 scuadcharr 2
+tSeoirsia 2
+Abcáis 2
 críochfort 1
 dhúisigh 1
 Glanaimid 1
@@ -2976,7 +2979,6 @@ bhearradh 1
 mbuafaidh 1
 ró-ghnóthach 1
 Tchórz 1
-Ceannóidh 1
 nasc 1
 cheangal 1
 dúil 1
@@ -3012,3 +3014,4 @@ ailléirge 1
 fionnadh 1
 insím 1
 marófar 1
+thógáil 1

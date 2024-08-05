@@ -38,7 +38,7 @@ minua 1686
 minä 1667
 olla 1634
 koskaan 1625
-He 1622
+He 1623
 Minulla 1597
 sinun 1558
 Älä 1526
@@ -182,8 +182,8 @@ Minusta 445
 varma 436
 haluat 430
 olemme 429
+Ne 424
 ilman 423
-Ne 422
 syödä 420
 nähnyt 417
 Olin 415
@@ -530,6 +530,7 @@ tulisi 161
 viikolla 161
 edelleen 160
 Lopeta 160
+oven 159
 toinen 159
 kuullut 159
 joskus 159
@@ -545,7 +546,6 @@ juo 157
 toimi 157
 tarvitsee 156
 ollenkaan 156
-oven 156
 Oliko 156
 yönä 155
 vasta 155
@@ -1881,6 +1881,7 @@ vapaata 44
 aurinkoa 44
 osaan 44
 tietävän 44
+sulkea 44
 Tuolla 44
 lääke 44
 kirjat 44
@@ -1962,7 +1963,6 @@ ampui 42
 kaikkialla 42
 hyötyä 42
 nimeään 42
-sulkea 42
 Tatoebassa 42
 selvästi 42
 Saat 42
@@ -3824,6 +3824,7 @@ löydettiin 21
 öljyä 21
 valkoista 21
 väkeä 21
+lukita 21
 ylihuomenna 21
 B 21
 riitä 21
@@ -3992,7 +3993,6 @@ Perheeni 20
 liittyy 20
 molemmilla 20
 pulassa 20
-lukita 20
 aamusta 20
 Ihailen 20
 avain 20
@@ -4754,6 +4754,7 @@ puhuimme 17
 ilmastointi 17
 ratsastaa 17
 ois 17
+Heippa 17
 upeaa 17
 kolmella 17
 Moikka 17
@@ -5032,7 +5033,6 @@ leipoi 16
 Kertokaa 16
 isi 16
 sadan 16
-Heippa 16
 poikaystäväni 16
 etsin 16
 vaikutus 16
@@ -9886,6 +9886,7 @@ yksinkertaiselta 7
 Kuun 7
 suunnitelmansa 7
 aukea 7
+Sayoko 7
 Kotini 7
 naapuriensa 7
 seitsemäntoista 7
@@ -9997,4 +9998,3 @@ Matti 7
 Käymme 7
 lasia 7
 vasenkätinen 7
-Pelasimme 7

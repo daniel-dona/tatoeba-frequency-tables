@@ -1,10 +1,10 @@
-est 10147
+est 10148
 et 4776
 in 4534
 Thomas 3619
 non 3486
 sunt 2228
-ad 1746
+ad 1747
 mihi 1620
 / 1569
 esse 1422
@@ -13,8 +13,8 @@ me 1308
 ut 1125
 quam 1039
 te 1027
+cum 963
 tibi 963
-cum 962
 Maria 958
 de 892
 Quid 846
@@ -24,7 +24,7 @@ se 776
 quod 752
 In 749
 Non 742
-eius 687
+eius 688
 Didymus 685
 hoc 683
 mea 659
@@ -53,7 +53,7 @@ dixit 385
 autem 381
 per 377
 Num 372
-tua 369
+tua 370
 potest 368
 Mariam 368
 ei 363
@@ -257,10 +257,10 @@ homo 116
 habent 116
 tuo 116
 Israel 116
+Puer 115
 puer 115
 Habesne 115
 aliquid 115
-Puer 114
 vero 114
 Quod 113
 sicut 113
@@ -596,6 +596,7 @@ mox 59
 vel 59
 hominem 58
 habebat 58
+nemo 58
 venire 58
 veni 58
 nescio 58
@@ -612,7 +613,6 @@ malo 57
 rerum 57
 similis 57
 somno 57
-nemo 57
 amant 57
 Sol 57
 bibo 57
@@ -751,6 +751,7 @@ nobiscum 47
 vestrum 47
 dolet 47
 profectus 47
+matrem 47
 partes 47
 horam 47
 paratus 47
@@ -763,7 +764,6 @@ Domino 47
 Amicus 46
 culpa 46
 huc 46
-matrem 46
 cor 46
 fieri 46
 Epistulam 46
@@ -852,6 +852,7 @@ ob 41
 senex 41
 optimus 41
 secum 41
+meis 41
 Canes 41
 Latina 41
 magno 41
@@ -875,7 +876,6 @@ iis 40
 fit 40
 unam 40
 Malum 40
-meis 40
 ova 40
 loquuntur 40
 Quæ 40
@@ -1344,6 +1344,7 @@ rubra 26
 gravis 26
 aperta 26
 pone 26
+cucurrit 26
 minutis 26
 didicisti 26
 Aquam 26
@@ -1409,7 +1410,6 @@ Placentne 25
 pretio 25
 Libenter 25
 linguas 25
-cucurrit 25
 novus 25
 lacu 25
 hortis 25
@@ -2699,6 +2699,7 @@ Cerevisiam 13
 secutus 13
 Oculos 13
 scribendum 13
+severus 13
 exspectabo 13
 decessit 13
 aedificio 13
@@ -2886,7 +2887,6 @@ amplexus 12
 pane 12
 tectum 12
 viribus 12
-severus 12
 iustus 12
 laetum 12
 Anglicum 12

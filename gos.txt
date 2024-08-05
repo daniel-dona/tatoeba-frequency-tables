@@ -1,7 +1,7 @@
 k 1473
 is 1225
 n 1037
-t 1006
+t 1007
 Tom 664
 nait 532
 Hai 466
@@ -16,16 +16,16 @@ Zai 259
 op 257
 joe 249
 Is 243
-Ik 240
+Ik 242
 mien 239
 te 235
 en 223
 mit 213
 Wat 179
 noar 179
-aan 175
+aan 176
+heur 174
 Doe 173
-heur 173
 Heb 165
 was 164
 gain 163
@@ -46,11 +46,11 @@ Woar 122
 hom 119
 Kin 116
 oet 116
-de 110
+de 111
 der 109
 Dizze 106
+hier 103
 wie 103
-hier 102
 Zie 102
 dizze 99
 Dit 97
@@ -82,8 +82,8 @@ zain 64
 zo 63
 Was 61
 bouk 61
+bin 61
 Maria 60
-bin 60
 Goa 60
 heb 59
 goud 58
@@ -98,11 +98,11 @@ over 54
 leutje 54
 hest 53
 mörgen 53
+wil 53
 vroagen 52
 Wil 52
 Zien 52
 Houveul 52
-wil 52
 e 50
 nou 50
 Sami 49
@@ -126,9 +126,9 @@ drij 42
 vraauw 42
 braif 41
 tou 41
+geern 40
 Welke 40
 hoes 40
-geern 39
 doar 39
 old 39
 haar 39
@@ -183,6 +183,7 @@ Loaten 27
 ogen 27
 roupen 27
 Nait 26
+wien 26
 aaier 26
 ain 26
 spreken 26
@@ -193,7 +194,6 @@ Vroag 26
 Engels 26
 wèst 26
 holt 25
-wien 25
 aal 25
 allain 25
 geliek 25
@@ -433,6 +433,7 @@ dee 13
 terog 13
 stoan 13
 sìnten 13
+wichtje 13
 mìnsen 13
 net 13
 dood 13
@@ -446,6 +447,7 @@ Denk 12
 slik 12
 klaid 12
 haard 12
+dag 12
 wis 12
 vaaier 12
 gongen 12
@@ -474,14 +476,12 @@ snij 12
 Veraind 12
 Keunenkriek 12
 stil 12
-wichtje 12
 traauwd 12
 beslizzen 12
 vergrèld 12
 mouten 12
 pien 11
 dudelk 11
-dag 11
 opende 11
 april 11
 geld 11
@@ -605,6 +605,7 @@ woapen 9
 potlood 9
 verjoardag 9
 soavends 9
+haile 9
 fles 9
 siktoaris 9
 woond 9
@@ -672,7 +673,6 @@ Betoal 8
 glaas 8
 witlook 8
 scholders 8
-haile 8
 rond 8
 feng 8
 Nederlaandse 8
@@ -1192,6 +1192,7 @@ runt 4
 lagde 4
 gras 4
 mainsttied 4
+rooie 4
 boas 4
 eulie 4
 Visk 4
@@ -1455,7 +1456,6 @@ alens 3
 bedrief 3
 gruide 3
 bluien 3
-rooie 3
 oorlog 3
 Meer 3
 verkoopt 3
@@ -5814,3 +5814,6 @@ baargdörp 1
 Ecuador 1
 woaren 1
 douken 1
+Blonde 1
+doekte 1
+peerdje 1

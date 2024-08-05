@@ -13,9 +13,9 @@ ko 189
 Au 186
 ko' 177
 dau 152
-om 151
+om 152
 dilo 131
-po 126
+po 128
 Milo' 113
 daa 113
 doho 112
@@ -821,6 +821,7 @@ manansawo 3
 korut 3
 todu 3
 luri 3
+daging 3
 tupi 3
 Tumilombus 3
 pisingilaan 3
@@ -890,6 +891,7 @@ doti 3
 kumoiso 3
 planet 3
 Mars 3
+ino 3
 Nokoroliu 3
 kasagaan 3
 gakod 3
@@ -1169,7 +1171,6 @@ Katalib 2
 mongonsok 2
 watu 2
 tumogod 2
-daging 2
 noponu 2
 kabang 2
 Minanahak 2
@@ -1350,7 +1351,6 @@ Baragang 2
 hilo’d 2
 momogusa 2
 takad 2
-ino 2
 Norolihan 2
 Kiroliu 2
 nakaanu 2
@@ -3831,3 +3831,5 @@ monimbit 1
 diolo' 1
 monobon 1
 sorita' 1
+Onuon 1
+suminsib 1

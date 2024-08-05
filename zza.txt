@@ -1,10 +1,10 @@
-Ez 220
-ra 137
+Ez 221
+ra 138
 o 115
 Tom 105
 mi 105
 Ma 99
-de 88
+de 89
 to 86
 ma 85
 xo 85
@@ -20,8 +20,8 @@ ya 49
 kena 47
 hes 44
 Mı 43
+mı 43
 û 43
-mı 42
 Ti 42
 yê 41
 ez 40
@@ -337,6 +337,7 @@ gırd 3
 veyşana 3
 mıré 3
 şa 3
+şıkıt 3
 het 3
 esté 3
 Vızér 3
@@ -491,7 +492,6 @@ rakewta 2
 tiyada 2
 Çıré 2
 Cıniya 2
-şıkıt 2
 dar 2
 paw 2
 merdémi 2
@@ -719,6 +719,7 @@ xebat 2
 Ne 2
 aşiqane 2
 lîsansê 2
+komputura 2
 tezê 2
 wendekar 2
 kurdan 2
@@ -833,6 +834,7 @@ bızone 2
 ki 2
 heywani 2
 Çımanéxu 2
+cıwiyena 2
 Destê 2
 zıwandê 1
 Şanê 1
@@ -1886,7 +1888,6 @@ pawitox 1
 personelê 1
 nêweşxaneyî 1
 ciwîyeno 1
-komputura 1
 merreyêko 1
 herîna 1
 lîsanso 1
@@ -2791,7 +2792,6 @@ Dergiye 1
 gırdiyê 1
 fizikiyo 1
 Bajaro 1
-cıwiyena 1
 pilo 1
 zıwanê 1
 kitab 1
@@ -2831,3 +2831,5 @@ milet 1
 monga 1
 dıtış 1
 nêna 1
+Erbil 1
+Virusi 1

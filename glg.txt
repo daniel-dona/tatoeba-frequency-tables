@@ -1,18 +1,18 @@
-a 1261
+a 1264
 que 1168
-de 1122
+de 1123
 o 1037
-é 772
+é 773
 non 603
 un 554
-O 549
+O 550
 e 494
 A 449
 unha 432
-Non 427
+Non 429
 do 339
 en 315
-da 285
+da 286
 os 268
 máis 263
 para 253
@@ -25,8 +25,8 @@ meu 215
 El 197
 na 191
 se 191
-á 185
-súa 182
+á 186
+súa 184
 está 175
 Os 171
 miña 167
@@ -84,10 +84,10 @@ pai 61
 anos 61
 Hai 61
 ben 60
+nai 60
+teño 60
 só 59
 lle 59
-nai 59
-teño 59
 min 58
 noite 57
 novo 56
@@ -218,6 +218,7 @@ preto 26
 comer 26
 podes 26
 Tes 25
+morte 25
 problema 25
 Iso 25
 esa 25
@@ -228,10 +229,10 @@ semana 24
 dun 24
 Eles 24
 fala 24
-morte 24
 ca 24
 diñeiro 24
 ler 24
+neno 23
 dez 23
 Podo 23
 Isto 23
@@ -247,7 +248,6 @@ Canto 23
 irmá 23
 fillo 23
 galego 23
-neno 22
 Ten 22
 porta 22
 Sempre 22
@@ -308,6 +308,7 @@ fillos 18
 festa 18
 vir 18
 comigo 18
+Ninguén 18
 Para 18
 Nunca 18
 feito 18
@@ -324,12 +325,12 @@ Foi 18
 gato 18
 ouvir 18
 palabras 18
+durmir 18
 profesor 17
 vello 17
 man 17
 nas 17
 café 17
-Ninguén 17
 leva 17
 dor 17
 médico 17
@@ -340,7 +341,6 @@ libros 17
 outro 17
 María 17
 alguén 17
-durmir 17
 pasado 17
 E 17
 aniversario 16
@@ -359,6 +359,7 @@ chover 16
 foron 16
 fin 16
 mans 16
+razón 16
 podería 16
 frase 16
 somos 16
@@ -379,7 +380,6 @@ guerra 15
 saúde 15
 neste 15
 Miña 15
-razón 15
 uns 15
 linguas 15
 viaxe 15
@@ -399,6 +399,7 @@ maior 14
 fose 14
 vive 14
 Cada 14
+habitación 14
 si 14
 pronto 14
 paz 14
@@ -431,7 +432,6 @@ latín 13
 problemas 13
 irmáns 13
 propia 13
-habitación 13
 senón 13
 temos 13
 avión 13
@@ -452,6 +452,7 @@ calquera 13
 rápido 13
 equipo 13
 idade 13
+mulleres 13
 pasou 13
 algún 13
 mes 13
@@ -464,6 +465,7 @@ doutor 13
 rapaza 13
 lonxe 13
 cuarto 13
+coas 12
 verán 12
 deste 12
 chegou 12
@@ -478,7 +480,6 @@ sombra 12
 bicicleta 12
 Fun 12
 neve 12
-mulleres 12
 idea 12
 saber 12
 negro 12
@@ -490,7 +491,6 @@ alma 12
 zapatos 12
 consello 12
 ningunha 11
-coas 11
 saír 11
 poucos 11
 Onte 11
@@ -532,6 +532,7 @@ mercar 11
 medio 11
 árbores 11
 chamar 11
+Antes 11
 será 11
 sangue 11
 idioma 10
@@ -558,6 +559,7 @@ cedo 10
 pequeno 10
 fame 10
 madeira 10
+sorte 10
 pequena 10
 sentido 10
 follas 10
@@ -619,7 +621,6 @@ clase 9
 paxaros 9
 escritorio 9
 ruído 9
-sorte 9
 pagar 9
 Sen 9
 Roma 9
@@ -651,7 +652,6 @@ xornal 9
 estudante 9
 plan 9
 comezar 9
-Antes 9
 Durante 9
 Estamos 9
 escoitar 9
@@ -763,6 +763,7 @@ falo 7
 Londres 7
 televisión 7
 Moitas 7
+necesario 7
 verdes 7
 ós 7
 vermello 7
@@ -882,7 +883,6 @@ Pode 6
 posible 6
 comportamento 6
 nosas 6
-necesario 6
 grupo 6
 Él 6
 dereitos 6
@@ -2314,6 +2314,7 @@ puntual 2
 occidentais 2
 cru 2
 Abriu 2
+ventilar 2
 débedas 2
 Xeorxia 2
 diferénciase 2
@@ -2549,6 +2550,7 @@ celébrase 2
 Pra 2
 deixa-lo 2
 espertar 2
+acepto 2
 condición 2
 elefantes 2
 motivos 2
@@ -3939,7 +3941,6 @@ Taro 1
 Akagawa 1
 roxóns 1
 Xeralmente 1
-ventilar 1
 ouvidos 1
 natal 1
 explicarmo 1
@@ -4569,7 +4570,6 @@ tíos 1
 lombo 1
 serpe 1
 cerrámo-la 1
-acepto 1
 aceptaría 1
 Debiches 1
 acepta-lo 1
@@ -9528,3 +9528,9 @@ per 1
 lettiera 1
 dei 1
 gatti 1
+negativas 1
+correu 1
+recuperou 1
+brevemente 1
+notará 1
+substitución 1
