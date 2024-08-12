@@ -1,4 +1,4 @@
-er 4356
+er 4357
 Jeg 3610
 ikke 2474
 å 2189
@@ -7,7 +7,7 @@ en 2049
 du 1887
 det 1803
 har 1801
-Tom 1763
+Tom 1764
 på 1714
 til 1559
 jeg 1343
@@ -18,7 +18,7 @@ med 1064
 meg 1049
 Han 1008
 av 987
-var 980
+var 981
 som 964
 at 885
 et 750
@@ -47,7 +47,7 @@ oss 317
 fra 311
 veldig 306
 dette 300
-ut 299
+ut 300
 ble 298
 gjøre 295
 ha 284
@@ -68,7 +68,7 @@ noen 232
 Mary 227
 hun 222
 men 221
-Dette 219
+Dette 220
 sin 219
 aldri 215
 henne 212
@@ -87,7 +87,7 @@ mer 184
 trenger 183
 I 181
 kunne 179
-ser 178
+ser 179
 bli 177
 gå 175
 når 174
@@ -432,6 +432,7 @@ lage 30
 ute 30
 dyr 30
 seks 30
+Folk 30
 lurer 30
 vinduet 30
 prøve 30
@@ -453,7 +454,6 @@ født 29
 Ta 29
 Disse 29
 trengte 29
-Folk 29
 tenke 29
 heter 29
 hit 29

@@ -1,36 +1,36 @@
-ang 33445
-sa 26375
-ng 25071
-na 15666
+ang 33455
+sa 26377
+ng 25075
+na 15675
 po 13817
 ko 12060
-mga 11529
+mga 11537
 Tom 9395
-si 8554
+si 8555
 ako 7932
+ni 6072
 mo 6071
-ni 6069
 Hindi 5926
 ba 5174
-at 5005
+at 5007
 niya 4660
 ito 4528
-ay 4404
+ay 4407
 siya 4403
 May 3823
-nang 3599
+nang 3601
 Ang 3556
 ka 3543
 hindi 2937
 akong 2790
 isang 2660
 ninyo 2514
-may 2503
+may 2504
 kong 2454
 para 2376
 kung 2347
 iyon 2101
-Sa 2061
+Sa 2066
 iyan 2049
 pa 1883
 pong 1787
@@ -60,7 +60,7 @@ gusto 977
 gawin 968
 ngayon 965
 Alam 937
-tao 929
+tao 930
 araw 860
 alam 858
 niyang 834
@@ -80,7 +80,7 @@ kayong 633
 'nyo 633
 bata 627
 kanya 622
-nasa 619
+nasa 621
 iyo 611
 kang 611
 ninyong 607
@@ -92,17 +92,17 @@ Puwede 575
 loob 571
 walang 565
 dito 558
-Maraming 552
+Maraming 553
 kaming 545
-buhay 541
+buhay 542
 kaysa 538
 taong 531
 kaya 531
 yaong 517
 itong 516
+wala 511
 Nasa 510
-wala 510
-tungkol 508
+tungkol 509
 ibang 504
 Sabi 503
 Kung 501
@@ -118,14 +118,14 @@ ano 472
 roon 470
 tayong 468
 anak 464
-lamang 451
+lamang 452
 Ayaw 449
 kahit 448
 raw 446
-parang 444
+parang 445
 hanggang 441
+libro 440
 nating 439
-libro 438
 Pranses 437
 maraming 430
 kita 430
@@ -154,11 +154,11 @@ naming 384
 dalawang 382
 kumain 380
 bagay 373
-silang 369
+silang 370
 Isla 368
 nga 367
 sabihin 366
-puno 362
+puno 363
 sabi 358
 aklat 358
 Ingles 357
@@ -211,8 +211,8 @@ mesa 282
 kailangang 281
 unikorniyo 281
 Ako 280
+panahon 279
 Ito 279
-panahon 278
 kapag 277
 pang 270
 Boston 267
@@ -273,9 +273,9 @@ problema 212
 umalis 211
 magandang 210
 berdeng 210
+siyudad 208
 kanila 207
 Nasaan 207
-siyudad 207
 bansa 205
 bulaklak 204
 masyadong 204
@@ -324,9 +324,9 @@ unang 171
 guro 170
 kamay 169
 marunong 169
+Para 168
 salamin 168
 pupunta 167
-Para 167
 kulay 166
 gulang 166
 Tapos 166
@@ -375,10 +375,10 @@ ibon 142
 lakas 142
 pumasok 141
 aming 141
+naging 141
 dumating 140
 paaralan 140
 karne 140
-naging 140
 atin 139
 estudyante 138
 Ginawa 138
@@ -587,11 +587,11 @@ laban 91
 keso 91
 kama 91
 lobo 91
+siyensiyang 91
 ipaliwanag 90
 pangungusap 90
 madaling 90
 laki 90
-siyensiyang 90
 eskuwelahan 90
 kalimutang 89
 prutas 89
@@ -707,12 +707,14 @@ lolo 74
 Kinailangan 74
 dolyar 74
 opinyon 74
+iba-ibang 74
 dugo 74
 tunog 74
 nahanap 74
 pagitan 74
 Disyembre 74
 sampung 73
+klaseng 73
 pamamagitan 73
 kumuha 73
 tapos 73
@@ -721,14 +723,12 @@ nagtatrabaho 73
 Umupo 73
 asukal 73
 maglaro 73
-iba-ibang 73
 bola 73
 dilaw 73
 tatlo 73
 kakayahan 73
 Portuges 73
 uling 73
-klaseng 72
 Tokyo 72
 Bumalik 72
 Aling 72
@@ -738,6 +738,7 @@ Matagal 72
 minsan 72
 importante 72
 dagat 72
+halos 72
 masarap 72
 restawran 72
 Araw 72
@@ -748,7 +749,6 @@ dyaket 72
 nangyayari 71
 bote 71
 Europa 71
-halos 71
 dalampasigan 71
 gumagawa 71
 bumalik 71
@@ -797,9 +797,11 @@ yung 67
 regalo 67
 tsokolate 67
 ate 67
+daigdig 67
 pangit 67
 paa 67
 abogado 67
+matagal 67
 humingi 67
 Tsino 67
 ilan 67
@@ -808,7 +810,6 @@ kulay-tsokolateng 67
 nagawa 66
 gulong 66
 bayad 66
-daigdig 66
 Pinatay 66
 baril 66
 sugat 66
@@ -825,7 +826,6 @@ manalo 65
 agad 65
 pakialam 65
 libong 65
-matagal 65
 bisita 65
 Iniisip 65
 mahusay 65
@@ -843,6 +843,7 @@ Huwebes 64
 tinderong 64
 makina 63
 Hunyo 63
+pelikula 63
 sombrero 63
 makipag-usap 63
 Agosto 63
@@ -858,7 +859,6 @@ Daniel 63
 Kulay 63
 barista 63
 Taga-Indiya 63
-pelikula 62
 binabasa 62
 tanghalian 62
 madali 62
@@ -866,6 +866,7 @@ Nahuli 62
 Mamaya 62
 mamaya 62
 tsip 62
+gera 62
 Malamang 62
 konsepto 62
 Aleman 61
@@ -877,7 +878,6 @@ silya 61
 nagsasalita 61
 narinig 61
 "Hindi 61
-gera 61
 gumagana 61
 maghintay 61
 Sachet 61
@@ -908,6 +908,7 @@ sipon 59
 nagsabi 59
 rosas 59
 tamang 59
+piksiyon 59
 pagkakataong 59
 butas 59
 Jerry 59
@@ -925,7 +926,6 @@ lamesa 58
 pag-ibig 58
 kayamanan 58
 naglalakad 58
-piksiyon 58
 kagamitan 58
 palitan 58
 Bago 57
@@ -1023,6 +1023,7 @@ kasamang 52
 Akin 52
 Higit 52
 kalidad 52
+utak 52
 nasaan 52
 gasolina 52
 espesyal 52
@@ -1043,7 +1044,6 @@ wakas 51
 matulog 51
 masama 51
 saka 51
-utak 51
 subukan 51
 Berde 51
 resulta 51
@@ -1220,6 +1220,7 @@ pagmamahal 43
 tangkad 43
 Nawalan 43
 pook 43
+malayo 43
 Kasing 43
 tumawag 43
 malawak 43
@@ -1250,7 +1251,6 @@ apoy 42
 pumupunta 42
 paninigarilyo 42
 aspekto 42
-malayo 42
 mapa 42
 umiyak 42
 Griyego 42
@@ -1286,6 +1286,7 @@ Bukas 41
 unggoy 41
 kampana 41
 magpakasal 41
+hari 41
 Hilig 41
 kalsada 41
 propesor 41
@@ -1311,7 +1312,6 @@ mag-alala 40
 Ginoong 40
 Pagod 40
 'yan 40
-hari 40
 kalawakan 40
 mananalo 40
 Nagbabasa 40
@@ -1319,6 +1319,7 @@ Itong 40
 tsa 40
 Araw-araw 40
 kotseng 40
+Amerindiyo 40
 Libre 40
 kabila 40
 ginto 40
@@ -1352,7 +1353,6 @@ biro 39
 paruparo 39
 Hinahanap 39
 maghanap 39
-Amerindiyo 39
 tuhod 39
 sumulat 39
 burol 39
@@ -1482,6 +1482,8 @@ gusaling 35
 Sasama 35
 hanapin 35
 akala 35
+mundong 35
+panahong 35
 nakilala 35
 pato 35
 Kontento 35
@@ -1523,7 +1525,6 @@ dalandan 34
 matuto 34
 Ako'y 34
 Budista 34
-panahong 34
 maintindihan 34
 impormasyon 34
 niya'y 34
@@ -1575,7 +1576,6 @@ Nakahanap 33
 Sana'y 33
 makinig 33
 bilis 33
-mundong 33
 Kasama 33
 dos 33
 gumising 33
@@ -1804,6 +1804,7 @@ Nag-aalala 29
 Sasamahan 29
 Umakyat 29
 sumusunod 29
+Taylandes 29
 pumapasok 29
 plastik 29
 kuneho 29
@@ -1818,6 +1819,7 @@ Nagustuhan 29
 nawalan 29
 datos 29
 pagkamatay 29
+alipin 29
 manedyer 29
 natutuwa 29
 pag-isipan 29
@@ -1854,7 +1856,6 @@ sanay 28
 Dinala 28
 nakatakas 28
 mensahe 28
-Taylandes 28
 ayos 28
 bumisita 28
 balang 28
@@ -1870,7 +1871,6 @@ iniinom 28
 pagsusulat 28
 gripo 28
 ipakita 28
-alipin 28
 Dilaw 28
 kinuha 28
 butiki 28
@@ -1881,6 +1881,7 @@ Byetnames 28
 tumakas 28
 magsuot 28
 ninuno 28
+George 28
 ika-22 28
 Rod 28
 ismartpon 28
@@ -1949,7 +1950,6 @@ itik 27
 kreyol 27
 Kumalat 27
 ika-23 27
-George 27
 ipinagdiriwang 27
 nilalang 27
 bulak 27
@@ -1966,6 +1966,7 @@ suot-suot 27
 tabatsoy 27
 sampol 27
 Ipinagdiriwang 27
+tao'y 26
 masasabi 26
 kumalat 26
 nais 26
@@ -2070,6 +2071,7 @@ sorbetes 25
 Maligayang 25
 Nagtrabaho 25
 sangkap 25
+lumaki 25
 Pinakita 25
 tanungin 25
 kumbinsihin 25
@@ -2099,7 +2101,6 @@ minatamis 25
 kakaunti 25
 iskrin 25
 Siguradong-sigurado 25
-tao'y 24
 Dati 24
 Siguradong 24
 Nagpakasal 24
@@ -2145,7 +2146,6 @@ gabing 24
 dulo 24
 Tatoeba 24
 kamera 24
-lumaki 24
 ordinaryong 24
 Nagsinungaling 24
 kalokohan 24
@@ -2178,6 +2178,7 @@ Ziggy 24
 Mehikano 24
 Lambak 24
 Hokkien 24
+miski 24
 BC 24
 seksiyon 24
 magpatuloy 24
@@ -2266,7 +2267,6 @@ hangga't 23
 Binaril 23
 mag-usap 23
 tsaahang 23
-miski 23
 responsibilidad 23
 dede 23
 Napatay 23
@@ -2545,6 +2545,7 @@ malunod 20
 Ipinangako 20
 tinutong 20
 Tao 20
+Le 20
 makipagkita 20
 lutuan 20
 Kong 20
@@ -2563,6 +2564,7 @@ matibay 20
 ika-17 20
 pinagmulan 20
 ika-30 20
+seryeng 20
 munang 20
 Inabandona 20
 Bagong 20
@@ -2682,7 +2684,6 @@ inilagay 19
 Inaresto 19
 Indonesia 19
 Korea 19
-Le 19
 duyan 19
 Sagot 19
 kapangyarihan 19
@@ -2692,7 +2693,6 @@ Gayunpaman 19
 ika-29 19
 ika-13 19
 alin 19
-seryeng 19
 Kabilang 19
 kahihinatnan 19
 maipapaliwanag 19
@@ -2962,6 +2962,7 @@ tratuhin 17
 Malusog 17
 hinalikan 17
 likidong 17
+K 17
 kalayaan 17
 talahib 17
 sinigwelas 17
@@ -3118,7 +3119,6 @@ limon 16
 baliw 16
 imposible 16
 pagpatay 16
-K 16
 flan 16
 goma 16
 patutunguhan 16
@@ -3293,14 +3293,18 @@ Gising 15
 balinghoy 15
 Derek 15
 bokabularyo 15
+natirang 15
 higaan 15
 Kakainin 15
 kinakatakutan 15
+disyerto 15
 Magkasama 15
 ika-21 15
 madla 15
 Mama 15
 pinaniniwalaan 15
+Ursula 15
+Guin 15
 laruang 15
 Amanda 15
 ilipat 15
@@ -3428,6 +3432,7 @@ ulong 14
 Sumali 14
 palda 14
 ispeling 14
+natira 14
 Naghubad 14
 Talaga 14
 naabot 14
@@ -3477,7 +3482,6 @@ Paul 14
 nagtitiwala 14
 pumayag 14
 salawal 14
-natirang 14
 bukal 14
 batis 14
 puwente 14
@@ -3485,15 +3489,12 @@ Tumatawa 14
 Nakahuli 14
 Bitawan 14
 salusalo 14
-disyerto 14
 kulay-kape 14
 magbisikleta 14
 pabo 14
 Mennad 14
 Nagtagal 14
 Nahuatl 14
-Ursula 14
-Guin 14
 Casper 14
 paksa 14
 lumilikha 14
@@ -3651,6 +3652,7 @@ diksiyunaryo 13
 suwerte 13
 luto 13
 enerhiya 13
+polusyon 13
 kukunin 13
 industriya 13
 tinitirhan 13
@@ -3679,7 +3681,6 @@ Sinubukang 13
 panggatong 13
 Nakarating 13
 tinatawag 13
-natira 13
 Jack 13
 nakukuha 13
 nakahanda 13
@@ -3703,6 +3704,7 @@ kusinero 13
 Tuwing 13
 parusahan 13
 kampo 13
+5 13
 nasawi 13
 dumarating 13
 Sabay 13
@@ -3729,6 +3731,7 @@ Erwin 13
 Celia 13
 Benny 13
 espiritwal 13
+abansadong 13
 inorder 13
 Weena 13
 ipagdiwang 13
@@ -3874,10 +3877,10 @@ Pininturahan 12
 Seryoso 12
 Bawat 12
 nangingisda 12
-polusyon 12
 bukod 12
 iiwanan 12
 Lumipad 12
+gerang 12
 Umaasa 12
 makakatulog 12
 nakinig 12
@@ -3936,7 +3939,6 @@ ekspresyon 12
 hinlalaki 12
 Hinahabol 12
 mawalan 12
-5 12
 kaliwang 12
 pinakamatangkad 12
 Natututo 12
@@ -3968,7 +3970,6 @@ Oliver 12
 tapsilog 12
 komedor 12
 leche 12
-abansadong 12
 kaligrapiya 12
 istrobering 12
 and 12
@@ -4318,6 +4319,7 @@ bumbilya 11
 pinalitan 11
 Isinuot 11
 Oryental 11
+prangkisang 11
 Taywanes 11
 Silangan 11
 larangan 11
@@ -4479,7 +4481,6 @@ sampu 10
 paliwanag 10
 Itaas 10
 paso 10
-gerang 10
 pagsasalin 10
 tawaging 10
 Solar 10
@@ -4646,7 +4647,6 @@ espiritu 10
 Napapaitan 10
 Isalin 10
 pinakamabilis 10
-prangkisang 10
 norteng 10
 Gradong 10
 Bali 10
@@ -4682,6 +4682,7 @@ Awstronesyo 10
 Binabati 10
 Itinuturing 10
 Tumataas 10
+nakakatanda 10
 natututunan 10
 Iinom 10
 ipinaglalaban 10
@@ -5086,7 +5087,6 @@ ihayag 9
 pagtawanan 9
 nakaimbak 9
 pangalanan 9
-nakakatanda 9
 kabit 9
 Makakahanap 9
 Tumutulong 9
@@ -5224,6 +5224,7 @@ Istritbyu 9
 espesyang 9
 nagpipizza 9
 Inglesa 9
+nuklear 9
 Magdadala 8
 diwa 8
 makatrabaho 8
@@ -6482,7 +6483,6 @@ Květa 7
 pangdiyetang 7
 hukbong 7
 Byetnamitang 7
-nuklear 7
 Nancy 6
 kadalasang 6
 Betty 6
@@ -7949,6 +7949,7 @@ Europeong 5
 Ika-9 5
 Ika-27 5
 kontra 5
+of 5
 Ika-24 5
 total 5
 tatanda 5
@@ -7956,6 +7957,7 @@ tatanda 5
 Ika-31 5
 Celtic 5
 Java 5
+teknolohiyang 5
 Siyensiya 5
 obserbasyon 5
 Kano 5
@@ -8005,6 +8007,7 @@ Indiyo 5
 Atlantiko 5
 kinang 5
 pagtakas 5
+Planet 5
 Negroid 5
 monghang 5
 nagbati 5
@@ -8979,6 +8982,7 @@ nagtatalo 4
 dumito 4
 nagdurusa 4
 Inaayos 4
+the 4
 argumento 4
 maaabot 4
 lukban 4
@@ -9105,7 +9109,6 @@ Ika-19 4
 optimal 4
 reyalidad 4
 View 4
-of 4
 Ika-12 4
 Errington 4
 Lipunan 4
@@ -9114,7 +9117,6 @@ komentaryo 4
 pahiwatig 4
 los 4
 video 4
-teknolohiyang 4
 Niluto 4
 Naranghang 4
 Metro 4
@@ -9160,7 +9162,6 @@ magtatago 4
 Lawang 4
 Dagdag 4
 Mu 4
-Planet 4
 Taga-Tsinang 4
 treyler 4
 palakasin 4
@@ -9259,6 +9260,7 @@ hintuan 4
 tawiran 4
 Maiiksi 4
 Maiikli 4
+tsimpanse 4
 Sundadont 4
 Sinodont 4
 Super-Sinodont 4
@@ -9996,5 +9998,3 @@ Nagpaopera 4
 Guni-guni 4
 magsasakay 4
 makakapagbago 4
-pag-aksayahan 4
-dumako 4

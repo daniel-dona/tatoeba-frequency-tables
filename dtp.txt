@@ -1,5 +1,5 @@
-do 995
-oku 613
+do 998
+oku 614
 i 394
 Tom 377
 ku 334
@@ -11,7 +11,7 @@ id 239
 nu 215
 ko 189
 Au 186
-ko' 177
+ko' 178
 dau 152
 om 152
 dilo 131
@@ -41,8 +41,8 @@ diti 60
 diya 57
 nunu 57
 kumaa 57
-lo 55
-tadau 52
+lo 56
+tadau 53
 nodi 52
 ti 52
 hiti 52
@@ -64,20 +64,20 @@ isio 40
 disido 39
 toun 39
 Amu 38
+diri 38
 maya 37
 amu 37
 diolo 37
-diri 37
 Orohian 36
 ngawi 35
 disio 35
 nangku 34
 Isai 33
 moi 33
+miagal 32
 toi 31
 mongoi 31
 tomod 31
-miagal 31
 iyolo 31
 dahai 31
 miampai 30
@@ -85,9 +85,9 @@ nogi 30
 osonong 30
 kaka 29
 hilo 29
+haro 29
 okon 28
 ginawo 28
-haro 28
 iti 27
 mangakan 27
 pogun 27
@@ -210,6 +210,7 @@ Siou 11
 Olumis 11
 Noilaan 11
 Hinonggo 11
+Miagal 11
 Obuli 11
 tinan 11
 Alansan 11
@@ -225,7 +226,6 @@ Sami 11
 noilaan 10
 orohian 10
 Ingkuro 10
-Miagal 10
 pokionuan 10
 Piro 10
 susumikul 10
@@ -342,6 +342,7 @@ Monuduk 7
 ayat 7
 yolo 7
 sompomogunan 7
+insan 7
 nohopod 7
 surat 7
 tuni 7
@@ -399,7 +400,6 @@ moboros 6
 manahak 6
 lamin 6
 kokito 6
-insan 6
 dukutur 6
 sinding 6
 solinaid 6
@@ -454,6 +454,7 @@ karati 5
 Alasu 5
 Basug 5
 sangadau 5
+ri 5
 Uhupai 5
 Ohuyan 5
 tokito 5
@@ -515,6 +516,7 @@ sabap 5
 okito 5
 ko'd 5
 kowowoyoon 5
+kinaantakan 5
 Malaysia 5
 konihab 5
 tulu 5
@@ -554,7 +556,6 @@ nuluhon 4
 modop 4
 kinosusuon 4
 gowuton 4
-ri 4
 Minsingilo' 4
 Kotigog 4
 Muhot 4
@@ -643,7 +644,6 @@ onuan 4
 Australia 4
 tosorou 4
 susuminding 4
-kinaantakan 4
 Oubas 4
 tandaha 4
 Poiloon 4
@@ -3833,3 +3833,8 @@ monobon 1
 sorita' 1
 Onuon 1
 suminsib 1
+kaalun 1
+Pologooson 1
+boobo'oi 1
+pogiuhupan 1
+doho'd 1

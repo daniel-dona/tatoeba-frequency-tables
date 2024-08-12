@@ -1,6 +1,6 @@
-es 200
-Me 120
-li 79
+es 201
+Me 121
+li 80
 Li 74
 Tom 69
 non 60
@@ -94,6 +94,7 @@ fumar 5
 haver 5
 vusen 5
 Lan 5
+del 5
 du 5
 Vun 5
 tempe 5
@@ -126,7 +127,6 @@ Que 4
 semblar 4
 familie 4
 inteligenti 4
-del 4
 an 4
 horlojete 4
 fransum 4
@@ -852,3 +852,5 @@ Sisoe 1
 Petres 1
 flota 1
 gravi 1
+emperere 1
+Tere 1

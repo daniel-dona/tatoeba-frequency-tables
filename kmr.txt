@@ -1,10 +1,10 @@
-Ez 1211
+Ez 1212
 e 1034
 xwe 1034
 ji 1000
 min 999
 bi 936
-li 833
+li 834
 Ew 816
 ê 739
 û 664
@@ -14,7 +14,7 @@ Em 544
 Tom 544
 Tu 523
 me 519
-te 498
+te 499
 de 466
 ne 406
 re 388
@@ -100,7 +100,7 @@ alî 66
 î 65
 bikî 65
 dilê 65
-Ma 63
+Ma 64
 tune 63
 mezin 61
 kar 60
@@ -315,6 +315,7 @@ weke 18
 derî 18
 bibînin 18
 sal 18
+êdî 18
 dem 18
 mijûl 18
 Kurdî 18
@@ -336,7 +337,6 @@ wek 17
 heman 17
 kengî 17
 hêvî 17
-êdî 17
 bibî 17
 demê 17
 here 17
@@ -1634,6 +1634,7 @@ Hestî 4
 pereya 4
 Ewropayê 4
 deyn 4
+Stenbolê 4
 Krîptopere 4
 Sermaya 4
 kana 4
@@ -1705,6 +1706,7 @@ mafê 3
 Evan 3
 Maria 3
 dimeşe 3
+najîm 3
 Azad 3
 ezman 3
 nizanîbû 3
@@ -2318,7 +2320,6 @@ Malbateke 3
 pêdivîya 3
 keçeke 3
 qestî 3
-Stenbolê 3
 Mary'ê 3
 danûstanê 3
 Maisie 3
@@ -2453,7 +2454,6 @@ tirse 2
 karmendê 2
 piştgiriyê 2
 pirsgirêkê 2
-najîm 2
 kartolan 2
 Bo 2
 xwedê 2
@@ -9241,3 +9241,5 @@ daxwazname 1
 dotin 1
 vîrûsek 1
 Vîrûsê 1
+lîstikek 1
+lîstiye 1

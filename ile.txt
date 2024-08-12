@@ -1,13 +1,13 @@
-es 3154
-Yo 2411
-un 1861
-li 1670
+es 3157
+Yo 2412
+un 1862
+li 1671
 Tom 1531
 ne 1435
 in 776
 tu 764
 Li 760
-have 716
+have 717
 Esque 704
 Il 667
 ha 598
@@ -26,7 +26,7 @@ yo 399
 vole 394
 mi 391
 e 389
-Tu 357
+Tu 358
 It 320
 To 302
 bon 285
@@ -48,7 +48,7 @@ far 218
 deve 214
 Ili 206
 Mi 205
-del 194
+del 195
 vu 191
 parla 176
 Quo 168
@@ -96,7 +96,7 @@ habita 85
 Qui 83
 felici 82
 Ne 82
-lingue 81
+lingue 82
 nov 80
 vive 79
 annus 79
@@ -256,6 +256,7 @@ chascun 29
 denov 29
 labor 29
 sembla 29
+calid 28
 amica 28
 aprender 28
 maritat 28
@@ -264,7 +265,6 @@ genitores 28
 rich 28
 pane 27
 sercha 27
-calid 27
 dictionarium 27
 Hodie 27
 passat 27
@@ -314,6 +314,7 @@ idé 23
 propri 23
 trincar 23
 blanc 23
+facil 23
 eat 23
 regardat 23
 yer 23
@@ -327,7 +328,6 @@ amore 22
 senti 22
 omni 22
 til 22
-facil 22
 scri 22
 Nu 22
 deci 22
@@ -349,6 +349,7 @@ studiat 21
 Trinca 21
 féminas 20
 sovente 20
+Esperanto 20
 John 20
 nascet 20
 nigri 20
@@ -358,7 +359,6 @@ lor 19
 Ma 19
 cavalle 19
 dies 19
-Esperanto 19
 Deo 19
 har 19
 aprende 19
@@ -1571,6 +1571,7 @@ fluentmen 3
 preparat 3
 mut 3
 evidentmen 3
+talent 3
 dolore 3
 Usa 3
 roman 3
@@ -1657,6 +1658,7 @@ tricota 3
 Quelcvez 3
 rosines 3
 policistes 3
+imperator 3
 misset 3
 concorda 3
 rect 3
@@ -1766,6 +1768,7 @@ web-situ 3
 ponie 3
 sandwich 3
 urgent 3
+Foy 3
 oranges 3
 témpore 3
 bissextil 3
@@ -2091,7 +2094,6 @@ portar 2
 Change 2
 rasonabil 2
 confuset 2
-talent 2
 interessa 2
 salutat 2
 Sophie 2
@@ -2241,7 +2243,6 @@ labirinte 2
 Ljubljana 2
 Patria 2
 ulula 2
-imperator 2
 leente 2
 motive 2
 particulari 2
@@ -2560,7 +2561,6 @@ aprecia 2
 Plantes 2
 tomates 2
 Tortugs 2
-Foy 2
 Hé 2
 crustes 2
 cerese 2
@@ -5643,3 +5643,4 @@ officie 1
 usatores 1
 practica 1
 antiqui 1
+Terra 1

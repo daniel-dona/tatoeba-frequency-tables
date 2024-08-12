@@ -16,7 +16,7 @@ Zai 259
 op 257
 joe 249
 Is 243
-Ik 242
+Ik 243
 mien 239
 te 235
 en 223
@@ -39,7 +39,7 @@ Dat 137
 as 135
 Mien 130
 in 130
-Ze 129
+Ze 130
 doe 127
 wat 126
 Woar 122
@@ -472,6 +472,7 @@ femilie 12
 appels 12
 toukomst 12
 Gainain 12
+bloumen 12
 snij 12
 Veraind 12
 Keunenkriek 12
@@ -502,7 +503,6 @@ scheer 11
 wereld 11
 Nou 11
 beetje 11
-bloumen 11
 pobbe 11
 Oh 11
 Guster 11
@@ -519,6 +519,7 @@ lòpt 11
 woarhaid 11
 altied 11
 gat 11
+schoun 11
 steurt 11
 doarnoa 11
 zat 10
@@ -573,7 +574,6 @@ studìnten 10
 keunegin 10
 zin 10
 proat 10
-schoun 10
 groag 10
 olde 10
 snijen 9
@@ -841,6 +841,7 @@ Wordt 6
 laifde 6
 verkòcht 6
 fies 6
+verkopen 6
 keek 6
 bleven 6
 ree 6
@@ -993,7 +994,6 @@ Moeke 5
 dicht 5
 Koelkaast 5
 leeg 5
-verkopen 5
 ston 5
 laipen 5
 oraanje 5
@@ -5817,3 +5817,4 @@ douken 1
 Blonde 1
 doekte 1
 peerdje 1
+verkoop 1

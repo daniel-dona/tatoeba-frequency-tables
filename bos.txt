@@ -1,4 +1,4 @@
-je 452
+je 453
 se 171
 sam 164
 u 158
@@ -14,10 +14,10 @@ nije 50
 Ja 49
 mi 49
 si 44
-za 43
+za 44
 smo 42
+od 38
 to 37
-od 37
 On 36
 ti 34
 To 32
@@ -30,8 +30,8 @@ Kako 27
 Ovo 26
 me 26
 s 26
+bio 24
 mogu 23
-bio 23
 U 22
 Šta 19
 Je 19
@@ -192,6 +192,7 @@ Sutra 6
 mnom 6
 kod 6
 kuću 6
+koja 6
 idemo 6
 Sviđa 6
 po 6
@@ -228,7 +229,6 @@ Dođi 5
 moju 5
 imao 5
 francuski 5
-koja 5
 tome 5
 sedam 5
 Niko 5
@@ -872,6 +872,7 @@ preko 2
 Pokušaj 2
 smisla 2
 tvrdio 2
+strane 2
 Sami 2
 slijedi 2
 mački 2
@@ -2418,7 +2419,6 @@ oporavio 1
 šoka 1
 Mora 1
 druge 1
-strane 1
 Linda 1
 plesala 1
 drugim 1
@@ -3164,3 +3164,12 @@ Popio 1
 čašicu 1
 kole 1
 Pij 1
+Podbadač 1
+kriminalne 1
+organizacije 1
+upravlja 1
+ilegalnim 1
+sajtovima 1
+klađenje 1
+uhapšen 1
+policije 1

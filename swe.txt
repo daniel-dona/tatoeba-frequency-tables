@@ -1,4 +1,4 @@
-är 11592
+är 11593
 Jag 11254
 att 7074
 Tom 7070
@@ -8,7 +8,7 @@ en 5110
 på 4843
 det 4737
 i 4562
-har 4219
+har 4221
 Det 3871
 Han 3406
 jag 3141
@@ -18,7 +18,7 @@ här 2652
 var 2603
 med 2447
 till 2355
-och 2321
+och 2322
 om 2252
 Hon 2071
 ett 1940
@@ -88,8 +88,8 @@ finns 436
 dag 426
 eller 425
 lite 418
+alla 418
 gick 418
-alla 417
 gör 416
 mitt 415
 något 415
@@ -145,7 +145,7 @@ bil 280
 bor 277
 ditt 276
 tid 275
-franska 274
+franska 275
 mina 271
 sina 263
 vid 262
@@ -192,8 +192,8 @@ engelska 191
 hennes 190
 hund 190
 hemma 189
+utan 188
 Ge 188
-utan 187
 Hans 186
 heter 186
 dina 186
@@ -217,7 +217,7 @@ namn 174
 Skulle 172
 gjort 169
 står 169
-språk 167
+språk 168
 håller 167
 Kom 166
 sade 165
@@ -278,10 +278,10 @@ skriva 126
 bilen 126
 just 126
 Mitt 125
+På 125
 fråga 124
 Gå 124
 veta 124
-På 124
 böcker 123
 ord 123
 rum 123
@@ -435,6 +435,7 @@ sagt 80
 huvudstad 80
 misstag 79
 staden 79
+svenska 79
 sova 79
 helst 79
 Säg 79
@@ -442,7 +443,6 @@ lämna 78
 gången 78
 världen 78
 höra 78
-svenska 78
 lever 77
 förstå 77
 träffade 77
@@ -482,6 +482,7 @@ tro 71
 Vilket 71
 saknar 71
 tillräckligt 71
+natten 71
 lärare 70
 Så 70
 brev 70
@@ -489,15 +490,14 @@ folk 70
 vecka 70
 idé 70
 undrar 70
-natten 70
 dö 69
 råd 69
+tyska 68
 tag 68
 hända 68
 ifrån 68
 rik 68
 låter 68
-tyska 67
 flera 67
 lunch 67
 sista 67
@@ -570,6 +570,7 @@ Australien 59
 fast 59
 tennis 58
 hämta 58
+katter 58
 Vår 58
 dags 58
 vårt 58
@@ -583,7 +584,6 @@ varmt 57
 rädda 57
 ihop 57
 hungrig 57
-katter 57
 sluta 57
 grund 57
 mjölk 57
@@ -852,6 +852,7 @@ ljög 38
 klara 38
 Går 38
 eftersom 38
+spanska 37
 trettio 37
 långa 37
 val 37
@@ -860,7 +861,6 @@ exempel 36
 hör 36
 Polisen 36
 frågan 36
-spanska 36
 kött 36
 goda 36
 personer 36
@@ -893,6 +893,7 @@ Tatoeba 35
 vart 35
 Snälla 35
 vattnet 35
+finska 35
 gråter 35
 regnar 34
 kniv 34
@@ -922,7 +923,6 @@ före 34
 överens 34
 vänlig 34
 Livet 34
-finska 34
 Hämta 34
 modersmål 34
 ändra 34
@@ -1235,6 +1235,7 @@ ihjäl 24
 tom 24
 bilar 24
 roll 24
+ungerska 24
 Vissa 24
 skicka 24
 sålde 24
@@ -1280,7 +1281,6 @@ försvann 23
 tomt 23
 skillnad 23
 börjat 23
-ungerska 23
 flytande 23
 telefonen 23
 lovar 23
@@ -1342,6 +1342,7 @@ medicin 21
 olycka 21
 täckt 21
 sjön 21
+italienska 21
 fredag 21
 stänga 21
 Jorden 21
@@ -1396,7 +1397,6 @@ femtio 20
 hotellet 20
 klagar 20
 född 20
-italienska 20
 innehåller 20
 Prata 20
 omedelbart 20
@@ -1656,6 +1656,7 @@ stiga 16
 Grekland 16
 yen 16
 Rökning 16
+is 16
 hinner 16
 bet 16
 orm 16
@@ -1685,6 +1686,7 @@ träffades 16
 värd 16
 bära 16
 undrade 16
+danska 16
 minnas 16
 överraskning 16
 form 16
@@ -1749,7 +1751,6 @@ typ 15
 tysta 15
 droger 15
 filmer 15
-is 15
 delade 15
 Stör 15
 kylskåpet 15
@@ -1777,7 +1778,7 @@ fötter 15
 benet 15
 drömmar 15
 fruktansvärt 15
-danska 15
+grekiska 15
 Vattnet 15
 konserten 15
 Dörren 15
@@ -1879,7 +1880,6 @@ räddade 14
 sången 14
 fiender 14
 svensk 14
-grekiska 14
 norska 14
 grannar 14
 hemsk 14
@@ -2001,6 +2001,7 @@ brott 13
 framme 13
 Vinden 13
 Imorgon 13
+Engelska 13
 rent 13
 båt 13
 uttryck 13
@@ -2104,6 +2105,7 @@ letat 12
 sena 12
 hot 12
 30 12
+grå 12
 eftermiddagen 12
 populär 12
 tjejer 12
@@ -2119,8 +2121,8 @@ behov 12
 situation 12
 samla 12
 promenera 12
+portugisiska 12
 glömmer 12
-Engelska 12
 utomhus 12
 Äntligen 12
 oftast 12
@@ -2237,7 +2239,6 @@ gåva 11
 make 11
 tyvärr 11
 mörkret 11
-grå 11
 datorer 11
 Jim 11
 presentera 11
@@ -2264,7 +2265,7 @@ Osaka 11
 flygplan 11
 Köp 11
 beter 11
-portugisiska 11
+nederländska 11
 klassisk 11
 viktigare 11
 kontrollera 11
@@ -2331,6 +2332,7 @@ nytta 11
 tårar 11
 tysk 11
 litade 11
+polska 11
 tillåtet 11
 order 11
 punkt 11
@@ -2458,7 +2460,6 @@ klädd 10
 försiktigt 10
 klev 10
 Gissa 10
-nederländska 10
 kinesisk 10
 skam 10
 hata 10
@@ -2516,7 +2517,6 @@ vägar 10
 fortsätter 10
 glaset 10
 posten 10
-polska 10
 ytterligare 10
 Bägge 10
 drabbades 10
@@ -2996,6 +2996,7 @@ löste 8
 kastar 8
 mors 8
 toppen 8
+officiella 8
 ignorerar 8
 frukosten 8
 smal 8
@@ -3405,6 +3406,7 @@ värker 7
 tyckt 7
 bröllopet 7
 grekiskan 7
+iriska 7
 rättvist 7
 städade 7
 vasen 7
@@ -3420,6 +3422,7 @@ snickare 7
 behandlade 7
 yrket 7
 usel 7
+tjeckiska 7
 favoritfärg 7
 natta 7
 Än 7
@@ -3434,6 +3437,7 @@ begravdes 7
 ull 7
 majs 7
 stormarknaden 7
+slovakiska 7
 vande 6
 Stick 6
 plånboken 6
@@ -3709,7 +3713,6 @@ undersökte 6
 stressad 6
 dödas 6
 rita 6
-officiella 6
 utmattad 6
 Hotade 6
 relevant 6
@@ -3820,6 +3823,7 @@ ropade 6
 Mer 6
 Luta 6
 måltid 6
+rumänska 6
 sken 6
 bidrag 6
 aggressiva 6
@@ -3867,8 +3871,8 @@ kaféet 6
 memorera 6
 uppenbarligen 6
 hemsökt 6
+kroatiska 6
 Stämmer 6
-iriska 6
 katastrof 6
 drygt 6
 ägde 6
@@ -3908,7 +3912,6 @@ poolen 6
 schampo 6
 kraftig 6
 Fånga 6
-tjeckiska 6
 brors 6
 svävar 6
 mätte 6
@@ -3952,7 +3955,7 @@ bittert 6
 ukrainska 6
 Rimas 6
 mataffären 6
-slovakiska 6
+slovenska 6
 bengali 6
 flygande 5
 bebis 5
@@ -4297,6 +4300,7 @@ Studerar 5
 motsatsen 5
 mulet 5
 ledsna 5
+bulgariska 5
 Koppen 5
 läcker 5
 spion 5
@@ -4413,7 +4417,6 @@ vuxit 5
 umgås 5
 sköljde 5
 gäspade 5
-rumänska 5
 Mig 5
 tufft 5
 dolde 5
@@ -4469,7 +4472,6 @@ Jupiter 5
 kassaskåpet 5
 beväpnade 5
 troligtvis 5
-kroatiska 5
 böter 5
 locket 5
 lasagne 5
@@ -4606,7 +4608,6 @@ beställningar 5
 blusen 5
 fältet 5
 moralisk 5
-slovenska 5
 hindi 5
 vinnare 5
 tillförlitlig 4
@@ -4806,6 +4807,7 @@ ljusa 4
 loss 4
 grisen 4
 tycks 4
+EU 4
 1950 4
 samarbeta 4
 ekonomiskt 4
@@ -5069,7 +5071,6 @@ diskuterar 4
 kristna 4
 Andorra 4
 vind 4
-bulgariska 4
 nackdelar 4
 dumheter 4
 gräla 4
@@ -5154,6 +5155,7 @@ Första 4
 steget 4
 Bröd 4
 dyker 4
+24 4
 Kineserna 4
 tävling 4
 tummarna 4
@@ -7334,6 +7336,7 @@ Etiopien 3
 cell 3
 påverkansoperation 3
 klyver 3
+estniska 3
 Kazakstan 3
 än" 3
 Grönlands 3
@@ -7658,7 +7661,6 @@ självkänsla 2
 McDonald’s 2
 kvävas 2
 fästmö 2
-EU 2
 blodiga 2
 grannländerna 2
 ämnade 2
@@ -8139,6 +8141,7 @@ kvavt 2
 stökig 2
 anmärka 2
 Kyckling 2
+lettiska 2
 Tiderna 2
 verb 2
 City 2
@@ -8540,7 +8543,6 @@ livs 2
 upplevelser 2
 tobak 2
 enäggstvillingar 2
-24 2
 parker 2
 autentisk 2
 autistisk 2
@@ -8725,6 +8727,7 @@ dyrbara 2
 misstaget 2
 Ingången 2
 låsbar 2
+Te 2
 rödare 2
 åldras 2
 taktik 2
@@ -9995,6 +9998,3 @@ skatta 2
 dejt 2
 spricka 2
 punktlighet 2
-mångfald 2
-Tavlan 2
-utveckla 2

@@ -1,9 +1,9 @@
-esas 2869
-Me 2304
-la 2235
-ne 1326
+esas 2874
+Me 2305
+la 2236
+ne 1327
 Tom 1080
-La 1030
+La 1031
 me 887
 tu 869
 es 756
@@ -14,9 +14,9 @@ Il 467
 vu 430
 Ni 429
 ke 412
-di 401
+di 402
 mea 397
-a 392
+a 395
 esis 380
 e 358
 volas 330
@@ -32,14 +32,14 @@ to 224
 kun 213
 de 207
 bona 204
-ni 199
+ni 202
 savas 198
 tua 190
 To 189
 kam 183
 sua 180
 Ilu 177
-Li 176
+Li 177
 quo 171
 vi 164
 prizas 163
@@ -70,8 +70,8 @@ lo 105
 pro 103
 maxim 103
 tro 102
+kato 101
 Ta 100
-kato 100
 du 99
 hundo 99
 quon 98
@@ -80,9 +80,9 @@ ankore 97
 domo 95
 ca 95
 mustas 93
+linguo 91
 ma 91
 lernas 91
-linguo 90
 Quo 90
 nun 89
 per 89
@@ -227,6 +227,7 @@ ante 34
 yuna 34
 desfacila 33
 problemo 33
+facila 33
 ludas 33
 mala 33
 helpar 32
@@ -235,7 +236,6 @@ inteligenta 32
 standas 32
 lernar 32
 homo 32
-facila 32
 Tua 32
 blanka 32
 automobilo 32
@@ -297,6 +297,7 @@ gardeno 26
 kavalo 26
 naskis 26
 Franca 26
+Esperanto 26
 olu 25
 lingui 25
 qui 25
@@ -313,7 +314,6 @@ aspektas 25
 yaro 25
 kontre 25
 Boston 25
-Esperanto 25
 pordo 24
 studias 24
 suno 24
@@ -378,6 +378,7 @@ Forsan 21
 irgo 21
 Usa 21
 ulu 21
+varmega 21
 pupeo 21
 Co 21
 treno 20
@@ -392,7 +393,7 @@ pensis 20
 muziko 20
 venar 20
 spozulo 20
-varmega 20
+Ili 20
 Omni 20
 karno 20
 eventis 19
@@ -409,7 +410,6 @@ Angla 19
 John 19
 mulieri 19
 danjeroza 19
-Ili 19
 matrala 19
 butiko 18
 povus 18
@@ -441,6 +441,7 @@ Nun 17
 lente 17
 Hodie 17
 rivero 17
+nigra 17
 De 17
 familio 17
 kurta 17
@@ -455,7 +456,6 @@ mustis 16
 verajo 16
 saneso 16
 esus 16
-nigra 16
 instruktisto 16
 yunini 16
 uzas 16
@@ -463,6 +463,7 @@ ucelo 16
 larja 16
 Omnu 16
 portis 16
+Eli 16
 animali 16
 Vivez 16
 autismoza 16
@@ -490,7 +491,7 @@ regardas 15
 questiono 15
 opiniono 15
 maro 15
-Eli 15
+Vua 15
 povra 15
 muso 15
 Omno 15
@@ -526,7 +527,6 @@ dankas 14
 Onu 14
 okupata 14
 sucesis 14
-Vua 14
 nulatempe 14
 apud 14
 koloro 14
@@ -602,6 +602,7 @@ propra 12
 bezonis 12
 certe 12
 strado 12
+mentiis 12
 sango 12
 obliviis 12
 India 12
@@ -637,6 +638,7 @@ Du 11
 stranjera 11
 sep 11
 nam 11
+Tero 11
 signifikas 11
 dicos 11
 konsilo 11
@@ -711,7 +713,6 @@ kantis 10
 ito 10
 Irez 10
 hemo 10
-Tero 10
 Nula 10
 Amerika 10
 Ye 10
@@ -820,7 +821,6 @@ pladi 9
 amo 9
 Hispana 9
 koquas 9
-mentiis 9
 jaluza 9
 vartas 9
 Hungariana 9
@@ -835,6 +835,7 @@ Liberigez 9
 gratitudoza 9
 kerlo 9
 dansas 9
+Hebrea 9
 Trump 9
 gambi 9
 Judi 9
@@ -935,7 +936,6 @@ Nederlando 8
 advokato 8
 stato 8
 mushi 8
-Hebrea 8
 ociera 8
 flava 8
 milionero 8
@@ -1733,6 +1733,7 @@ pandemio 4
 kuzino 4
 metalo 4
 legumo 4
+Yidisha 4
 cerebro 4
 melodio 4
 rozo 4
@@ -2252,7 +2253,6 @@ papagayi 3
 tempesto 3
 salado 3
 frianda 3
-Yidisha 3
 senhema 3
 efikos 3
 retroiros 3
@@ -3285,6 +3285,7 @@ sutar 2
 Skureli 2
 avelani 2
 chasis 2
+Fairo 2
 sekretariino 2
 homino" 2
 parapluvo 2
@@ -6578,7 +6579,6 @@ sutas 1
 Povra 1
 The 1
 Cure 1
-Fairo 1
 debaji 1
 abomininda 1
 citrono 1
@@ -8520,3 +8520,4 @@ questionos 1
 dentin 1
 Bratislava 1
 bopatro 1
+l'imperiestro 1

@@ -1,10 +1,10 @@
-lo 12814
-mi 6222
-cu 3487
+lo 12815
+mi 6223
+cu 3488
 do 3346
 la 2987
 pu 2304
-le 2296
+le 2297
 nu 2122
 se 1917
 i 1813
@@ -336,12 +336,12 @@ a'o 50
 stuzi 50
 je'a 50
 jungau 50
+glare 49
 cortu 49
 vitke 49
 kanla 49
 lanzu 49
 renorevo 49
-glare 48
 carmi 48
 jinga 48
 stace 48
@@ -367,10 +367,10 @@ jdima 45
 fu 45
 purdi 45
 kerfa 45
+terdi 45
 cpacu 45
 pixra 44
 bersa 44
-terdi 44
 pu'i 44
 clani 43
 zifre 43
@@ -592,6 +592,7 @@ tcica 24
 darno 24
 sinxa 24
 jeftu 24
+fagri 24
 bloti 24
 zi'o 24
 mentu 24
@@ -617,7 +618,6 @@ minde 23
 lunra 23
 ka'enai 23
 nuzba 23
-fagri 23
 punji 23
 jatna 23
 rozgu 23
@@ -2275,6 +2275,7 @@ snidu 3
 20 3
 tolpro 3
 sajysne 3
+balnoltru 3
 e'inai 3
 vy 3
 kumte 3
@@ -2949,7 +2950,6 @@ tolrinsa 2
 sorgle 2
 tavysi'u 2
 jetsku 2
-balnoltru 2
 jmisre 2
 oipeida'i 2
 basna 2

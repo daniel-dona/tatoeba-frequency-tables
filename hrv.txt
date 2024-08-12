@@ -35,8 +35,8 @@ biti 73
 o 70
 ga 68
 mogu 65
+ima 64
 nego 63
-ima 63
 Tko 62
 Jesi 62
 više 61
@@ -127,6 +127,7 @@ posao 27
 mogao 26
 ništa 26
 vrata 26
+engleski 26
 godine 26
 vas 26
 možeš 26
@@ -134,7 +135,6 @@ pomoći 26
 učiniti 26
 Dobro 25
 po 25
-engleski 25
 danas 25
 već 25
 molim 25
@@ -353,6 +353,7 @@ Kao 11
 bolje 11
 dati 11
 minuta 11
+jezika 11
 prvi 11
 pravu 11
 oko 11
@@ -387,7 +388,6 @@ gladan 10
 blizu 10
 djece 10
 preko 10
-jezika 10
 radiš 10
 novca 10
 svaki 10
@@ -1342,7 +1342,6 @@ O 3
 Bill 3
 studira 3
 inozemstvu 3
-engelski 3
 pametna 3
 Umoran 3
 Izgledaš 3
@@ -1930,6 +1929,7 @@ lakoćom 2
 različitih 2
 poslova 2
 tražila 2
+engelski 2
 Radiš 2
 točan 2
 netočan 2
@@ -2898,6 +2898,9 @@ svoji 2
 vojnik 2
 brzi 2
 Laku 2
+EU 2
+24 2
+službena 2
 Tomojuki 1
 Ogura 1
 lutka 1
@@ -8295,9 +8298,6 @@ korisno 1
 kɔ̲c 1
 lic 1
 kä 1
-EU 1
-24 1
-službena 1
 jezika: 1
 bugarski 1
 češki 1

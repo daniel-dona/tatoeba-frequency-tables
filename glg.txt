@@ -1,14 +1,14 @@
 a 1264
 que 1168
-de 1123
-o 1037
+de 1126
+o 1038
 é 773
 non 603
-un 554
+un 555
 O 550
-e 494
+e 495
 A 449
-unha 432
+unha 433
 Non 429
 do 339
 en 315
@@ -18,8 +18,8 @@ máis 263
 para 253
 no 231
 as 221
+ao 219
 Tom 219
-ao 218
 por 218
 meu 215
 El 197
@@ -79,18 +79,18 @@ podo 63
 sen 63
 este 62
 favor 62
+Hai 62
 ela 61
 pai 61
 anos 61
-Hai 61
 ben 60
 nai 60
 teño 60
 só 59
 lle 59
 min 58
+novo 57
 noite 57
-novo 56
 inglés 56
 Estou 56
 traballo 55
@@ -218,6 +218,7 @@ preto 26
 comer 26
 podes 26
 Tes 25
+dun 25
 morte 25
 problema 25
 Iso 25
@@ -226,7 +227,6 @@ dende 25
 frases 25
 corazón 25
 semana 24
-dun 24
 Eles 24
 fala 24
 ca 24
@@ -335,6 +335,7 @@ leva 17
 dor 17
 médico 17
 cun 17
+mar 17
 contigo 17
 Ese 17
 libros 17
@@ -354,7 +355,6 @@ es 16
 xardín 16
 Cal 16
 Ao 16
-mar 16
 chover 16
 foron 16
 fin 16
@@ -472,6 +472,7 @@ chegou 12
 ocupado 12
 tivo 12
 amado 12
+César 12
 choiva 12
 Espero 12
 moza 12
@@ -503,7 +504,6 @@ podemos 11
 luz 11
 miúdo 11
 saíu 11
-César 11
 paxaro 11
 quedar 11
 debería 11
@@ -560,6 +560,7 @@ pequeno 10
 fame 10
 madeira 10
 sorte 10
+Roma 10
 pequena 10
 sentido 10
 follas 10
@@ -573,6 +574,7 @@ doado 10
 noiva 10
 sete 10
 preguntas 10
+Despois 10
 lume 10
 marchar 10
 marchou 10
@@ -623,7 +625,6 @@ escritorio 9
 ruído 9
 pagar 9
 Sen 9
-Roma 9
 moita 9
 mellores 9
 América 9
@@ -640,7 +641,6 @@ axiña 9
 esperanza 9
 dentes 9
 Dáme 9
-Despois 9
 carne 9
 punto 9
 poidas 9
@@ -765,6 +765,7 @@ televisión 7
 Moitas 7
 necesario 7
 verdes 7
+grupo 7
 ós 7
 vermello 7
 montaña 7
@@ -883,7 +884,6 @@ Pode 6
 posible 6
 comportamento 6
 nosas 6
-grupo 6
 Él 6
 dereitos 6
 público 6
@@ -1436,6 +1436,7 @@ entende 4
 fixera 4
 comeu 4
 relación 4
+breve 4
 pasada 4
 temperatura 4
 mañás 4
@@ -1587,6 +1588,7 @@ suficiente 3
 chova 3
 familias 3
 Unido 3
+exército 3
 esquecerei 3
 visto 3
 preocupes 3
@@ -1844,6 +1846,7 @@ carallo 3
 condenado 3
 estache 3
 Calquera 3
+Lúa 3
 guía 3
 cómo 3
 ambos 3
@@ -1856,7 +1859,6 @@ camiñaba 3
 esperanto 3
 estiveron 3
 Real 3
-breve 3
 asentos 3
 punta 3
 bonitos 3
@@ -2073,6 +2075,7 @@ sinto 3
 maneira 3
 últimos 3
 propiedades 3
+decidiu 3
 ovellas 3
 Ningunha 3
 pizza 3
@@ -2145,6 +2148,7 @@ andoriñas 3
 violencia 3
 mozos 3
 Eneas 3
+Mentres 3
 corazóns 3
 perfumes 3
 Xerusalén 3
@@ -2223,7 +2227,6 @@ Necesítoo 2
 gana 2
 Tivo 2
 turco 2
-exército 2
 protexer 2
 excepción 2
 volva 2
@@ -2285,6 +2288,7 @@ ancián 2
 Internet 2
 queixarte 2
 china 2
+eclipse 2
 luar 2
 él 2
 falei 2
@@ -2701,7 +2705,6 @@ ingleses 2
 estacións 2
 talle 2
 benvido 2
-Lúa 2
 tardes 2
 xordo 2
 zapatillas 2
@@ -3246,7 +3249,6 @@ faime 2
 xemelgo 2
 28 2
 Xustiza 2
-decidiu 2
 darme 2
 gardado 2
 Observa 2
@@ -3546,7 +3548,6 @@ adquirila 2
 león 2
 tomada 2
 fuxiu 2
-Mentres 2
 Coas 2
 cantidade 2
 navegan 2
@@ -3874,7 +3875,6 @@ Cristóbal 1
 impresionou 1
 tribu 1
 predicindo 1
-eclipse 1
 CAUSOU 1
 Kioto 1
 Poseer 1
@@ -9534,3 +9534,9 @@ recuperou 1
 brevemente 1
 notará 1
 substitución 1
+intervalo 1
+unirse 1
+abandonou 1
+cruzaba 1
+piratas 1
+secuestrouno 1

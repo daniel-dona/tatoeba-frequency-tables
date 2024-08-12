@@ -6,7 +6,7 @@ v 162
 Tom 128
 so 112
 ne 107
-in 104
+in 105
 da 92
 na 90
 govorite 90
@@ -36,11 +36,11 @@ moj 40
 bi 40
 me 37
 moja 37
+ima 36
 ki 35
 jezik 35
 Kje 34
 Sem 34
-ima 34
 bil 33
 dan 32
 z 32
@@ -572,6 +572,7 @@ temno 4
 bije 4
 izvira 4
 stvar 4
+slovenščina 4
 šoli 4
 Izgubil 3
 verjamem 3
@@ -617,6 +618,7 @@ Oh 3
 Litva 3
 Nikogar 3
 tvoja 3
+24 3
 igra 3
 glasbo 3
 Vreme 3
@@ -808,7 +810,6 @@ vir 3
 prej 3
 Spolnost 3
 zadeva 3
-slovenščina 3
 debele 3
 vdovec 3
 Brez 3
@@ -860,6 +861,9 @@ Tista 2
 pošto 2
 ona 2
 jeziki 2
+poljščina 2
+češčina 2
+bolgarščina 2
 Ker 2
 naše 2
 dobil 2
@@ -1051,6 +1055,7 @@ idol 2
 Belorusiji 2
 drugih 2
 ja 2
+jezikov 2
 okusna 2
 učil 2
 Njihova 2
@@ -1448,6 +1453,8 @@ Kati 2
 Wolf 2
 Gremo 2
 restavracijo 2
+EU 2
+uradnih 2
 gospod 1
 Ogawa 1
 Francoz 1
@@ -1583,9 +1590,6 @@ precejšnja 1
 zanemarljiva 1
 Taki 1
 ruščina 1
-poljščina 1
-češčina 1
-bolgarščina 1
 skupne 1
 slovanske 1
 korenine 1
@@ -1729,7 +1733,6 @@ delati 1
 pogoji 1
 Mož 1
 mimo 1
-24 1
 junija 1
 prekleto 1
 občutljiv 1
@@ -2294,7 +2297,6 @@ nekdanje 1
 Sovjetske 1
 zveze 1
 Govori 1
-jezikov 1
 Hrana 1
 Tla 1
 pokrival 1
@@ -3933,3 +3935,24 @@ počasna 1
 turških 1
 časopisov 1
 laži 1
+jezikov: 1
+angleščina 1
+danščina 1
+estonščina 1
+finščina 1
+francoščina 1
+grščina 1
+nizozemščina 1
+hrvaščina 1
+irščina 1
+litovščina 1
+latvijščina 1
+madžarščina 1
+malteščina 1
+nemščina 1
+portugalščina 1
+romunščina 1
+slovaščina 1
+španščina 1
+švedščina 1
+italianščina 1
