@@ -3,14 +3,14 @@ să 6053
 Tom 4914
 a 4364
 este 4046
-în 3490
+în 3492
 nu 3380
 o 2874
 că 2716
 la 2644
 Nu 2510
 cu 2067
-pe 2050
+pe 2051
 un 1970
 mai 1803
 și 1718
@@ -338,6 +338,7 @@ Suntem 83
 aceste 82
 nimeni 82
 putem 81
+pus 81
 Există 81
 l-am 81
 Sper 81
@@ -346,7 +347,6 @@ oraș 80
 aceasta 80
 ora 80
 mergem 80
-pus 80
 vine 80
 lume 80
 cerut 80
@@ -707,6 +707,7 @@ câștiga 37
 vedea 37
 scuze 37
 scriu 37
+Și-a 37
 ochii 37
 întârziat 37
 aceeași 37
@@ -732,7 +733,6 @@ cer 36
 vină 36
 bogat 36
 trenul 36
-Și-a 36
 locuiesc 36
 așteaptă 36
 joc 36
@@ -834,6 +834,7 @@ gândit 31
 Ăsta 31
 telefonul 31
 pune 31
+pace 31
 gândești 31
 trezit 31
 ținut 31
@@ -862,7 +863,6 @@ Dă-mi 30
 amândoi 30
 Dar 30
 trebuia 30
-pace 30
 dragoste 30
 întrebări 30
 Continuă 30
@@ -1350,6 +1350,7 @@ masa 18
 alt 18
 Europa 18
 cânta 18
+mâini 18
 scrisă 18
 pierd 18
 ceilalți 18
@@ -1430,7 +1431,6 @@ Italia 17
 importante 17
 degrabă 17
 străinătate 17
-mâini 17
 joace 17
 Știe 17
 depinde 17
@@ -2168,6 +2168,7 @@ nota 10
 spăl 10
 perfectă 10
 genul 10
+ambele 10
 cancer 10
 insulă 10
 promisiune 10
@@ -2363,7 +2364,6 @@ Cunosc 9
 weekend 9
 Puțini 9
 rezonabil 9
-ambele 9
 străin 9
 membru 9
 ridică 9
@@ -4506,6 +4506,7 @@ Meciul 4
 accidente 4
 exersezi 4
 proprietatea 4
+piept 4
 frații 4
 instrumente 4
 mină 4
@@ -5562,7 +5563,6 @@ paralele 3
 reduc 3
 modificări 3
 Râzi 3
-piept 3
 substanțe 3
 întunecate 3
 totuna 3
@@ -9498,6 +9498,7 @@ Repede 2
 Scrie 2
 Corect 2
 Adu 2
+Odihnește-te 2
 Inspiră 2
 Țipă 2
 Strigă 2
@@ -9997,4 +9998,3 @@ Mult 2
 vrabia 2
 stăpânul 2
 oi 2
-româna 2

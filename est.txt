@@ -29,7 +29,7 @@ mind 89
 mu 86
 Nad 85
 selle 85
-midagi 83
+midagi 84
 ära 81
 minu 78
 palju 78
@@ -278,6 +278,7 @@ sest 14
 olema 14
 lihtne 14
 kass 14
+oskab 14
 välismaal 14
 surnud 14
 kaua 14
@@ -301,7 +302,6 @@ nägin 13
 võib 13
 näha 13
 isegi 13
-oskab 13
 tal 13
 peidus 13
 pani 12
@@ -2359,6 +2359,7 @@ pensionile 2
 kutsuti 2
 poisiga 2
 Alžeeria 2
+Igaüks 2
 rahaga 2
 vasakul 2
 kutsutud 2
@@ -6111,7 +6112,6 @@ Sellepärast 1
 vallandasime 1
 Millist 1
 kuulata 1
-Igaüks 1
 koolile 1
 varudest 1
 kasutamata 1

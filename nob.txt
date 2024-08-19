@@ -6,7 +6,7 @@ i 2172
 en 2049
 du 1887
 det 1803
-har 1801
+har 1802
 Tom 1764
 på 1714
 til 1559
@@ -33,7 +33,7 @@ han 574
 Vi 554
 den 493
 min 468
-seg 443
+seg 444
 noe 379
 Hva 358
 de 356
@@ -181,9 +181,9 @@ blitt 84
 dine 84
 spise 83
 finne 82
+Ingen 82
 tar 81
 sett 81
-Ingen 81
 allerede 79
 barn 79
 hvis 79
@@ -262,8 +262,8 @@ Noen 55
 hjelp 55
 Sami 55
 kveld 54
+rundt 54
 ord 53
-rundt 53
 hater 53
 grunn 53
 viktig 52
@@ -1808,6 +1808,7 @@ utvikle 6
 sammenligne 6
 vellykket 6
 toppen 6
+fjell 6
 blomstene 6
 luften 6
 oversetter 6
@@ -2098,7 +2099,6 @@ komplekst 5
 dømt 5
 demotiverende 5
 Dine 5
-fjell 5
 russiske 5
 behov 5
 teksten 5

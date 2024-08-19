@@ -1,25 +1,25 @@
-esas 2874
+esas 2876
 Me 2305
-la 2236
-ne 1327
-Tom 1080
-La 1031
+la 2239
+ne 1328
+Tom 1081
+La 1032
 me 887
 tu 869
 es 756
-Ka 752
+Ka 753
 en 604
 havas 599
 Il 467
+Ni 438
 vu 430
-Ni 429
 ke 412
 di 402
 mea 397
 a 395
 esis 380
-e 358
-volas 330
+e 359
+volas 334
 povas 310
 tre 303
 Tu 289
@@ -53,11 +53,11 @@ Qua 136
 Ube 131
 libro 131
 qua 131
+bezonas 129
 Elu 127
 Mary 126
 Pro 125
 amas 123
-bezonas 122
 Vu 121
 Esas 120
 granda 118
@@ -80,7 +80,7 @@ ankore 97
 domo 95
 ca 95
 mustas 93
-linguo 91
+linguo 92
 ma 91
 lernas 91
 Quo 90
@@ -124,8 +124,8 @@ un 67
 devas 66
 mondo 66
 esar 65
+nur 64
 omno 64
-nur 63
 kande 62
 mikra 61
 nomo 61
@@ -334,6 +334,7 @@ plus 23
 pos 23
 ita 23
 adheme 23
+sama 23
 kantas 23
 No 23
 helpo 23
@@ -351,7 +352,6 @@ tra 22
 kozi 22
 Esis 22
 nula 22
-sama 22
 flori 22
 lektas 22
 fishi 22
@@ -461,6 +461,7 @@ yunini 16
 uzas 16
 ucelo 16
 larja 16
+Onu 16
 Omnu 16
 portis 16
 Eli 16
@@ -517,6 +518,7 @@ voco 14
 chapelo 14
 arboro 14
 skopo 14
+Germana 14
 E 14
 hari 14
 sub 14
@@ -524,7 +526,6 @@ ponto 14
 Ulu 14
 natas 14
 dankas 14
-Onu 14
 okupata 14
 sucesis 14
 nulatempe 14
@@ -551,7 +552,6 @@ leda 13
 tarde 13
 parko 13
 sequas 13
-Germana 13
 Chinia 13
 Til 13
 audar 13
@@ -569,6 +569,7 @@ konocis 13
 vakua 13
 komprenis 13
 helpas 13
+rejo 13
 Hundi 13
 ociema 13
 Lua 12
@@ -664,7 +665,6 @@ dolca 11
 eventas 11
 Venez 11
 plezas 11
-rejo 11
 komprenar 11
 A 11
 shultri 11
@@ -738,6 +738,7 @@ volfo 10
 omnadie 10
 amikino 10
 vento 10
+amoro 10
 facos 10
 rezidas 10
 buxo 10
@@ -760,6 +761,7 @@ London 9
 Dicez 9
 nokte 9
 plumo 9
+rejulo 9
 demandis 9
 finis 9
 apertar 9
@@ -814,7 +816,6 @@ facile 9
 chipa 9
 korekta 9
 hungroza 9
-amoro 9
 boko 9
 roko 9
 pladi 9
@@ -906,8 +907,10 @@ eskapar 8
 avino 8
 Aquo 8
 sordida 8
+ocidis 8
 dansar 8
 interesas 8
+policisto 8
 sekura 8
 nivas 8
 Nulo 8
@@ -951,7 +954,6 @@ parolez 7
 l'aquo 7
 vespere 7
 respondar 7
-rejulo 7
 moderna 7
 explikar 7
 l'amoro 7
@@ -1026,9 +1028,7 @@ sukro 7
 valoras 7
 stulta 7
 ebria 7
-ocidis 7
 Europa 7
-policisto 7
 rano 7
 brava 7
 sako 7
@@ -1071,6 +1071,7 @@ repteri 7
 fashisto 7
 miaulas 7
 kulo 7
+rejino 7
 fola 7
 Salas 7
 eli 7
@@ -1417,7 +1418,6 @@ dejuno 5
 Nord-Korea 5
 kamiono 5
 injenioro 5
-rejino 5
 serioza 5
 pluv-arko 5
 Restez 5
@@ -1430,6 +1430,7 @@ formiki 5
 dika 5
 kuzulo 5
 Porki 5
+Yidisha 5
 nevino 5
 sucias 5
 magio 5
@@ -1733,7 +1734,6 @@ pandemio 4
 kuzino 4
 metalo 4
 legumo 4
-Yidisha 4
 cerebro 4
 melodio 4
 rozo 4
@@ -2061,6 +2061,7 @@ aspektis 3
 tranchis 3
 kordo 3
 Oro 3
+reji 3
 ruro 3
 atencoze 3
 oblivias 3
@@ -2159,6 +2160,7 @@ puniso 3
 distingo 3
 protekto 3
 egale 3
+imperiestro 3
 retenis 3
 ocidos 3
 jaguaro 3
@@ -3073,7 +3075,6 @@ yurizita 2
 Deklaro 2
 recevar 2
 rezolvar 2
-imperiestro 2
 sorgeme 2
 mari 2
 reparis 2
@@ -3216,6 +3217,7 @@ pozas 2
 speciala 2
 stranjeri 2
 idioto 2
+sufro 2
 kongreso 2
 existus 2
 oportus 2
@@ -3672,6 +3674,7 @@ espado 2
 deskargus 2
 revelis 2
 abeleyo 2
+rejuli 2
 Klabaster 1
 Gizmo 1
 Atomal 1
@@ -4834,7 +4837,6 @@ nepacienta 1
 ekvarsis 1
 Marchez 1
 trotuaro 1
-reji 1
 argumentis 1
 kalkulis 1
 ganabis 1
@@ -6346,7 +6348,6 @@ regnar 1
 l'Inferno 1
 servar 1
 Cielo 1
-sufro 1
 abolisar 1
 desaparigar 1
 Proprieto 1

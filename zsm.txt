@@ -3,7 +3,7 @@ saya 1295
 yang 1165
 Tom 1153
 tidak 1121
-di 738
+di 739
 awak 710
 itu 628
 ini 595
@@ -30,7 +30,7 @@ ada 197
 hari 195
 orang 186
 kepada 180
-sedang 178
+sedang 179
 pada 176
 kamu 174
 Adakah 174
@@ -216,6 +216,7 @@ kecil 33
 katakan 33
 tangan 33
 luar 33
+si 33
 Bagaimana 33
 tapi 33
 Tolong 32
@@ -226,7 +227,6 @@ berapa 32
 masuk 32
 lalu 32
 mudah 32
-si 32
 Beliau 32
 Kadazan 32
 Boleh 31
@@ -294,6 +294,7 @@ saja 25
 betul 25
 antara 24
 terbang 24
+tersebut 24
 meninggalkan 24
 menarik 24
 memandu 24
@@ -309,13 +310,13 @@ jalan 24
 waktu 24
 pandai 24
 دي 24
-tersebut 23
 Ibu 23
 cukup 23
 ikan 23
 jatuh 23
 bas 23
 dengannya 23
+depan 23
 minum 23
 jangan 23
 cinta 23
@@ -333,7 +334,6 @@ cantik 22
 musim 22
 bagus 22
 keluarga 22
-depan 22
 turun 22
 tadi 22
 kalau 22
@@ -1146,6 +1146,7 @@ Pasukan 5
 Rusia 5
 besok 5
 berumur 5
+konsert 5
 Hanya 5
 luas 5
 kesemua 5
@@ -1355,7 +1356,6 @@ timur 4
 keluarganya 4
 melukis 4
 Kedai 4
-konsert 4
 padang 4
 30 4
 lelakinya 4
@@ -1470,6 +1470,7 @@ alasan 4
 berpakaian 4
 singgah 4
 memecahkan 4
+Lisa 4
 Jon 4
 mencintainya 4
 ubat 4
@@ -1538,6 +1539,7 @@ diselesaikan 4
 mengunjungi 4
 berpisah 4
 2013 4
+Jim 4
 memegang 4
 berusia 4
 bagitahu 4
@@ -1828,7 +1830,6 @@ video 3
 kenyang 3
 besi 3
 Kesihatan 3
-Lisa 3
 mengumpulkan 3
 serta-merta 3
 keliru 3
@@ -1968,7 +1969,6 @@ memerlukannya 3
 misteri 3
 CD 3
 kah 3
-Jim 3
 berita 3
 bersara 3
 lari 3
@@ -7612,3 +7612,4 @@ Lajos 1
 Portisch 1
 Hungary 1
 menjejaki 1
+mengurat 1

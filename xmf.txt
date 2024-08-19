@@ -1,4 +1,4 @@
-Ma 206
+Ma 208
 re 106
 Tom 44
 Si 42
@@ -13,9 +13,9 @@ si 23
 Tina 23
 Tomi 23
 vare 21
+tena 19
 reno 19
 moǩo 19
-tena 18
 skani 16
 oǩo 16
 vore 15
@@ -78,6 +78,7 @@ glaxa 6
 ase 6
 teshi 6
 ç̌ita 6
+voreki 6
 para 6
 tes 6
 dudi 6
@@ -97,7 +98,6 @@ tku 5
 ǧolama 5
 Djgiri 5
 Oxori 5
-voreki 5
 vordi 5
 toms 5
 Mardi 5
@@ -200,6 +200,7 @@ merik 3
 chqi 3
 dghas 3
 borji 3
+miçkƨ 3
 tişi 3
 vorekƨ 3
 vamiçkƨ 3
@@ -250,6 +251,7 @@ brel 2
 mighƨ 2
 jibes 2
 tash 2
+ʒanaşe 2
 saqvaruash 2
 noghas 2
 Art 2
@@ -344,6 +346,7 @@ medinu 2
 tineps 2
 asho 2
 oǧolamari 2
+mop̌eǩu 2
 amç̌uani 2
 osaç̌iru 2
 irpeli 2
@@ -385,6 +388,7 @@ gilula 2
 rikardo 2
 mashna 2
 mitini 2
+ǧolu 2
 gomordzgua 2
 çxoure 2
 ate 2
@@ -396,7 +400,6 @@ teşe 2
 rdƨ 2
 Mitin 2
 gorçxu 2
-miçkƨ 2
 uçkudƨ 2
 vamiǧu 2
 iidi 2
@@ -465,6 +468,7 @@ oşǩuru 2
 djoǧorşa 2
 çki 2
 ip̌ikƨ 2
+tomk 2
 tundu 2
 dio-xolo 2
 nina 2
@@ -644,7 +648,6 @@ Jgirs 1
 muⱬamsƨt 1
 gegenqƨn 1
 saixiolo 1
-ʒanaşe 1
 artişa 1
 ibshaq'arutƨ 1
 Squri 1
@@ -1209,7 +1212,6 @@ Kimechit 1
 tom's 1
 300 1
 nandulo 1
-mop̌eǩu 1
 skanitu 1
 ǧureli 1
 rdasin 1
@@ -1455,7 +1457,6 @@ gale 1
 miʒkƨma 1
 morti 1
 Veǩabralat 1
-ǧolu 1
 vaduanebat 1
 gholama 1
 tutasha 1
@@ -2147,7 +2148,6 @@ ondjuasƨ 1
 Kigedvit 1
 e-teki 1
 ii'du 1
-tomk 1
 vami'orsƨ 1
 Uǩoxƨle 1
 mireǩunsƨ 1
@@ -2726,3 +2726,8 @@ glaxati 1
 odziransi 1
 shankartzǩuma 1
 ǩope 1
+Gverdi 1
+artşa 1
+şepxvaduku 1
+burgundian 1
+ǧuma 1

@@ -9,8 +9,8 @@ jot 23
 ei 23
 ollaa 20
 siä 16
+kirjoja 15
 Kokko 15
-kirjoja 14
 siun 13
 suvvaan 12
 hiiren 12
@@ -18,9 +18,9 @@ kirja 11
 tätä 11
 miun 11
 laulua 11
+Lue 11
 en 10
 sitä 10
-Lue 10
 soitti 10
 miä 9
 Maaria 9
@@ -38,6 +38,7 @@ hiiri 8
 oikiin 8
 elokkaita 8
 Siä 7
+kirjuttaa 7
 hänelle 7
 laulu 7
 tämä 7
@@ -51,7 +52,6 @@ Moskovaas 7
 Moskovaa 7
 Ken 6
 miulle 6
-kirjuttaa 6
 Möö 6
 hää 6
 siulle 6
@@ -83,6 +83,7 @@ vai 4
 Kons 4
 kalat 4
 Mitä 4
+kirjaa 4
 veel 4
 tiijen 4
 kala 4
@@ -109,7 +110,6 @@ vast 3
 paljo 3
 oli 3
 kyläs 3
-kirjaa 3
 Too 3
 Soita 3
 suvajaat 3
@@ -203,6 +203,7 @@ Tere 2
 Hyväst 2
 Krokodila 2
 Tytöt 2
+hävis 2
 Töö 2
 Hänen 2
 Joulua 2
@@ -242,6 +243,7 @@ kus 2
 rinnaal 2
 parkkaa 2
 saappaat 2
+Sorsa 2
 öötä 1
 yks 1
 inkeroin 1
@@ -472,7 +474,6 @@ Molommat 1
 tytöt 1
 nagroit 1
 itkööt 1
-hävis 1
 ootta 1
 tyttäret 1
 isä 1
@@ -728,3 +729,4 @@ Lähe 1
 Makkaattak 1
 Täälk 1
 No 1
+Häă 1

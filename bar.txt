@@ -1,12 +1,12 @@
 i 40
+is 35
+Da 34
 I 34
-is 34
-Da 33
 ma 31
 a 30
 net 27
+da 22
 Thomas 22
-da 21
 des 21
 hob 20
 du 16
@@ -16,9 +16,9 @@ di 13
 so 12
 wos 12
 ned 12
+ois 12
 an 11
 do 11
-ois 11
 hot 11
 und 10
 scho 9
@@ -26,6 +26,7 @@ amoi 9
 eh 8
 tuan 7
 uns 7
+Wos 7
 – 7
 zum 7
 Gö 6
@@ -37,7 +38,6 @@ nu 6
 auf 6
 no 6
 vo 6
-Wos 6
 hom 6
 wia 6
 Mir 6
@@ -800,3 +800,6 @@ Deitschland 1
 soitats 1
 Letzta 1
 gehn 1
+Winter 1
+besser 1
+Summa 1

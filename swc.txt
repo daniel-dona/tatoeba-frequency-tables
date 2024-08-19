@@ -95,7 +95,7 @@ gari 227
 kawaida 223
 hali 214
 Niko 214
-ali 214
+ali 213
 kwenda 212
 ambayo 212
 tatu 209
@@ -373,13 +373,13 @@ tafazali 70
 asubui 70
 pili 70
 mia 70
-Ana 70
 mikono 70
 rahisi 70
 Unataka 69
 kukuwa 69
 kuna 69
 moyo 69
+Ana 69
 Ku 69
 Sina 68
 huyu 68
@@ -1442,7 +1442,6 @@ Mwanaume 17
 Kulingana 17
 inaanza 17
 tengeneza 17
-danganya 17
 kiasi 17
 ngazi 17
 aki 17
@@ -1560,6 +1559,7 @@ uwezekano 16
 Wote 16
 Zaidi 16
 makubwa 16
+danganya 16
 kuonesha 16
 kinacho 16
 magumu 16
@@ -2283,7 +2283,6 @@ halisi 10
 Nilisahabu 10
 Mwili 10
 Furaha 10
-anaenda 10
 ukurasa 10
 nyeupe 10
 anachelewa 10
@@ -2305,7 +2304,6 @@ matatizo 10
 tala 10
 fupi 10
 Sauti 10
-lia 10
 muzimu 10
 itafika 10
 Tiya 10
@@ -2639,6 +2637,7 @@ angaliya 9
 FBI 9
 Ndaweza 9
 anatoka 9
+lia 9
 padiri 9
 Mpaka 9
 nilienda 9
@@ -2647,6 +2646,7 @@ niambie 9
 Panda 9
 kufukuza 9
 camion 9
+anaenda 9
 anapoteza 9
 Waza 9
 wanainchi 9
@@ -7601,6 +7601,7 @@ Sikuelewa 2
 pake 2
 Ukuta 2
 mujua 2
+Anaenda 2
 civilisation 2
 80 2
 hanze 2
@@ -7665,6 +7666,7 @@ Aliinuliwa 2
 Analalamika 2
 mtetezi 2
 kumukaribisha 2
+Anadanganya 2
 atashinda 2
 Alitembea 2
 public 2
@@ -7711,6 +7713,7 @@ gitar 2
 Anatafuta 2
 porte-monnaie 2
 amevaa 2
+Alilia 2
 chakufanya 2
 Alinilazimisha 2
 niifanye 2
@@ -9995,6 +9998,3 @@ WC 2
 Capone 2
 kuhusa 2
 mtafsiri 2
-Wanaishi 2
-habina 2
-anakwambia: 2

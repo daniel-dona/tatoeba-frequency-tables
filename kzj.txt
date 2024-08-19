@@ -1,13 +1,13 @@
-do 3320
+do 3321
 zou 1190
-di 970
+di 971
 no 900
-i 800
+i 801
 Tom 696
 ko 641
 ku 638
 o 585
-id 472
+id 473
 nu 442
 nopo 417
 Au 409
@@ -70,8 +70,8 @@ maan 62
 timpu 60
 Mimang 59
 buuk 58
+dino 58
 nung 57
-dino 57
 sondii 57
 kaanu 55
 zioho 55
@@ -773,6 +773,7 @@ kampung 5
 kotohu 5
 koimat 5
 Koikot 5
+Lisa 5
 toduuk 5
 iisai 5
 dukug 5
@@ -932,7 +933,6 @@ taagang 4
 manganu 4
 opiumanan 4
 kokounsikaan 4
-Lisa 4
 Avaavasi 4
 isaasai 4
 Osomok 4
@@ -1116,6 +1116,7 @@ manansavo 4
 kokuama'on 4
 sampaganakan 4
 kotingkod 4
+konsert 4
 koiso' 4
 ponizas 4
 humusob 4
@@ -1555,7 +1556,6 @@ bula 3
 Tianjin 3
 Biio' 3
 tenis 3
-konsert 3
 kioi 3
 13 3
 Ann 3
@@ -2159,6 +2159,7 @@ Ginumuhi 2
 Koopod 2
 Mr 2
 Nobohou 2
+Jim 2
 humanat 2
 Notimpuun 2
 masalah 2
@@ -2371,6 +2372,7 @@ tohidang 2
 songkosuvazan 2
 inunsikou 2
 artis 2
+toguvangon 2
 Ovuntong 2
 minguzat 2
 kinoutuson 2
@@ -4513,7 +4515,6 @@ Hamin 1
 nokoohon 1
 minghuda 1
 Popoobus 1
-Jim 1
 tiinggot/tagkos 1
 kopoobus 1
 detektif 1
@@ -5501,7 +5502,6 @@ Botung 1
 kano 1
 migambal 1
 popogiot 1
-toguvangon 1
 ponginaman 1
 Kilim 1
 tabii 1
@@ -6718,3 +6718,4 @@ satul 1
 Hungary 1
 Muang-kuang 1
 padagangon 1
+Mogondu' 1

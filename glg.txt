@@ -1,7 +1,7 @@
 a 1264
 que 1168
 de 1126
-o 1038
+o 1039
 é 773
 non 603
 un 555
@@ -11,13 +11,13 @@ A 449
 unha 433
 Non 429
 do 339
-en 315
+en 316
 da 286
 os 268
 máis 263
 para 253
 no 231
-as 221
+as 222
 ao 219
 Tom 219
 por 218
@@ -31,7 +31,7 @@ está 175
 Os 171
 miña 167
 seu 160
-Ela 150
+Ela 151
 son 148
 ten 145
 con 139
@@ -117,11 +117,11 @@ co 44
 están 44
 aos 44
 che 43
+dúas 43
 dous 43
 coche 43
 quen 43
 pouco 42
-dúas 42
 algo 42
 vai 41
 ver 41
@@ -149,12 +149,12 @@ Xa 37
 dicir 37
 demasiado 36
 veces 36
+sobre 36
 súas 36
 irmán 36
 amor 36
 días 35
 quero 35
-sobre 35
 tres 35
 En 35
 bo 35
@@ -338,6 +338,7 @@ cun 17
 mar 17
 contigo 17
 Ese 17
+mans 17
 libros 17
 outro 17
 María 17
@@ -358,7 +359,6 @@ Ao 16
 chover 16
 foron 16
 fin 16
-mans 16
 razón 16
 podería 16
 frase 16
@@ -1544,6 +1544,7 @@ guitarra 3
 desas 3
 mentiras 3
 culpábel 3
+peito 3
 costas 3
 segundos 3
 fuxir 3
@@ -2156,7 +2157,6 @@ rabaño 3
 mirra 3
 gacela 3
 descansar 2
-peito 2
 cascudas 2
 quedan 2
 vés 2
@@ -9540,3 +9540,5 @@ abandonou 1
 cruzaba 1
 piratas 1
 secuestrouno 1
+colocou 1
+cruz 1

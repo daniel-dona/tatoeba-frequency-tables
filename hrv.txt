@@ -1,15 +1,15 @@
-je 1719
+je 1720
 se 626
 u 558
 sam 464
 da 415
 li 394
-na 325
+na 326
 ne 283
 Tom 280
 i 239
 su 222
-mi 210
+mi 211
 Ne 193
 to 190
 za 167
@@ -27,8 +27,8 @@ s 104
 će 99
 Ja 97
 Ona 95
+Što 93
 bi 93
-Što 92
 ću 87
 bio 84
 biti 73
@@ -355,6 +355,7 @@ dati 11
 minuta 11
 jezika 11
 prvi 11
+radiš 11
 pravu 11
 oko 11
 smrti 11
@@ -388,7 +389,6 @@ gladan 10
 blizu 10
 djece 10
 preko 10
-radiš 10
 novca 10
 svaki 10
 Život 10
@@ -611,6 +611,7 @@ Nešto 7
 vjerovati 7
 vidi 7
 ideju 7
+računalo 7
 kurac 7
 Layla 7
 Sami 7
@@ -724,7 +725,6 @@ rekla 6
 Nemamo 6
 mom 6
 miru 6
-računalo 6
 Dođi 6
 Naravno 6
 znamo 6
@@ -2245,6 +2245,7 @@ Londonu 2
 lipnja 2
 pouzdati 2
 gore 2
+računalu 2
 Kralj 2
 zatvori 2
 vozač 2
@@ -4611,7 +4612,6 @@ onim 1
 jene 1
 dolare 1
 Tonia 1
-računalu 1
 Vaše 1
 primjedbe 1
 neprikladne 1
@@ -8317,3 +8317,5 @@ slovački 1
 slovenski 1
 španiolski 1
 talianski 1
+Virus 1
+pokvario 1

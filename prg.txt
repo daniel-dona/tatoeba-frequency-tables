@@ -1,17 +1,17 @@
-ast 231
-As 192
-ni 177
+ast 234
+As 197
+ni 178
 en 125
 as 94
 kāi 83
 tū 77
 Tāns 75
-turri 69
+turri 70
 si 62
 per 55
 be 50
+stan 49
 wīrst 49
-stan 48
 bēi 46
 Tenā 43
 sen 34
@@ -60,6 +60,7 @@ tēr 14
 widāi 14
 kawīdan 13
 nikwēigi 13
+mīli 13
 nika 13
 tūls 13
 lāiskan 12
@@ -73,7 +74,6 @@ aīnat 12
 aīnan 12
 kaddan 12
 biskin 12
-mīli 12
 Kasse 11
 nikāi 11
 di 11
@@ -88,6 +88,7 @@ dīlin 9
 Ik 9
 tenēi 9
 Majā 9
+debīkan 9
 tenesmu 9
 wisaddan 9
 wīlai 9
@@ -111,7 +112,6 @@ bītan 8
 segēi 8
 pergūbi 8
 tennans 8
-debīkan 8
 ankstāinan 8
 būlai 8
 kwaitēi 8
@@ -144,6 +144,7 @@ Kawīds 7
 majs 6
 dīwai 6
 ginnins 6
+zinna 6
 stēisan 6
 skūlin 6
 kāupi 6
@@ -175,7 +176,6 @@ zmūi 5
 sunnis 5
 majjans 5
 kawīdsmu 5
-zinna 5
 dīlatwei 5
 Eraīns 5
 tenesse 5
@@ -210,6 +210,7 @@ panzdau 5
 šismu 5
 gattaws 5
 Dāwids 5
+pēismen 4
 Tebbei 4
 bītai 4
 īstun 4
@@ -243,6 +244,7 @@ mergā 4
 septinnins 4
 dukka 4
 spārts 4
+skaitāi 4
 sīnda 4
 swāise 4
 perēit 4
@@ -271,7 +273,6 @@ wirdeīnan 4
 Tōman 4
 turīlai 4
 kwāilai 4
-pēismen 3
 praēit 3
 sirzdau 3
 tit 3
@@ -322,7 +323,6 @@ aupallusi 3
 gārbans 3
 Tatoebai 3
 brāti 3
-skaitāi 3
 kawīds 3
 mukinna 3
 sunnin 3
@@ -343,6 +343,7 @@ jāt 3
 Teinū 3
 minūtins 3
 klausēi 3
+pūja 3
 grazzins 3
 Kerdā 3
 Parīzei 3
@@ -415,6 +416,7 @@ mazzais 2
 izmīrsa 2
 pirmas 2
 Tenesse 2
+daddan 2
 kafējan 2
 stesses 2
 pintegan 2
@@ -522,7 +524,6 @@ dessimtin 2
 genā 2
 radiō 2
 rākas 2
-pūja 2
 Egiptan 2
 zīrgs 2
 debīkans 2
@@ -537,6 +538,7 @@ pīwan 2
 wīnan 2
 arwiskai 2
 palaīstun 2
+Undan 2
 preidāwuns 2
 wanginnuns 2
 wans 2
@@ -564,6 +566,7 @@ anga 2
 gulla 2
 ilgi 2
 Zmūi 2
+kattan 2
 trīns 2
 lāilina 2
 twajāi 2
@@ -603,6 +606,7 @@ Labbai 2
 giwē 2
 bepresliskan 2
 malnīks 2
+Buttan 2
 sāstan 2
 parku 2
 wīlais 2
@@ -672,6 +676,7 @@ swirrina 2
 Šaūjaiti 2
 krupeīlin 2
 trāgedija 2
+Ēima 2
 stubba 1
 dāwuns 1
 aws 1
@@ -764,7 +769,6 @@ auīmsenis 1
 awīzei 1
 Rānkas 1
 wūnzai 1
-daddan 1
 Debīkan 1
 pragūbimai 1
 engūbi 1
@@ -1175,7 +1179,6 @@ prēipirstan 1
 pintegas 1
 malnīkikan 1
 dadaīnin 1
-Undan 1
 werda 1
 100 1
 grādans 1
@@ -1312,7 +1315,6 @@ mišmašan 1
 geītkans 1
 swēre 1
 giwīja 1
-kattan 1
 kāitai 1
 Twajs 1
 kwāits 1
@@ -1508,7 +1510,6 @@ Kate 1
 lanzēi 1
 etwirrans 1
 astiskan 1
-Buttan 1
 kurpins 1
 Džōnu 1
 Zinānikai 1
@@ -2396,5 +2397,10 @@ Sūnus 1
 Swintas 1
 Naseīlis 1
 Āmen 1
-Ēima 1
 Akiwīstai 1
+Nakts 1
+timrā 1
+zalli 1
+gaīlan 1
+knuplōkan 1
+zmānin 1

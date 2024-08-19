@@ -1,7 +1,7 @@
 да 7699
-da 6847
+da 6848
 је 6810
-je 6792
+je 6794
 се 3957
 Том 3571
 сам 3480
@@ -9,24 +9,24 @@ se 3033
 sam 2501
 ли 2327
 u 2057
-Tom 2052
+Tom 2053
 у 1925
-li 1791
+li 1792
 то 1656
 Да 1514
 na 1483
 i 1394
 на 1354
 не 1314
-to 1172
-ne 1150
+to 1174
+ne 1151
 ми 1117
 и 1038
 mi 1023
 Da 1021
 су 991
 si 984
-za 891
+za 892
 su 862
 Ne 831
 sa 823
@@ -60,7 +60,7 @@ me 450
 То 443
 Ona 390
 те 388
-šta 387
+šta 388
 te 386
 га 384
 smo 382
@@ -158,8 +158,8 @@ Ovo 177
 бити 176
 do 176
 Колико 176
+Ti 175
 му 175
-Ti 174
 Mislim 173
 nego 172
 знам 171
@@ -209,9 +209,9 @@ zna 144
 Marija 143
 ништа 142
 ви 142
+Moj 142
 данас 142
 Када 141
-Moj 141
 radi 141
 људи 141
 Нико 140
@@ -472,6 +472,7 @@ taj 66
 svi 66
 Danas 66
 zar 66
+želi 66
 znaš 66
 izgleda 66
 oni 66
@@ -481,7 +482,6 @@ oni 66
 I 66
 Tome 66
 dalje 65
-želi 65
 dva 65
 kažem 65
 дошао 65
@@ -505,13 +505,13 @@ neko 63
 новца 63
 изгледа 63
 priča 62
+imaš 62
 vidim 62
 koju 62
 brzo 62
 Ова 62
 па 62
 ovu 61
-imaš 61
 novac 61
 проблем 61
 школу 61
@@ -581,6 +581,7 @@ Ovde 56
 Моја 55
 tvoja 55
 napisao 55
+auto 55
 uradim 55
 Nemam 55
 књиге 55
@@ -590,7 +591,6 @@ Nemam 55
 Баш 55
 stvarno 55
 Uvek 54
-auto 54
 juče 54
 meni 54
 ideš 54
@@ -998,6 +998,7 @@ Postoji 31
 Пас 31
 svom 31
 sestra 31
+učitelj 31
 pitanja 31
 večeras 31
 istinu 31
@@ -1034,7 +1035,6 @@ Sigurna 31
 О 30
 сад 30
 икад 30
-učitelj 30
 Trebalo 30
 Kupio 30
 Nema 30
@@ -1459,6 +1459,7 @@ kupim 21
 verovatno 21
 dobio 21
 vratio 21
+takođe 21
 par 21
 Naš 21
 Trebao 21
@@ -1534,7 +1535,6 @@ film 20
 težak 20
 sastanak 20
 sin 20
-takođe 20
 lud 20
 gledam 20
 ju 20
@@ -1901,6 +1901,7 @@ drveta 16
 napravio 16
 aerodroma 16
 Od 16
+Mrzim 16
 naočare 16
 sata 16
 nalazi 16
@@ -2022,7 +2023,6 @@ stanju 15
 Puno 15
 otvorio 15
 njoj 15
-Mrzim 15
 njegovoj 15
 kišobran 15
 naš 15
@@ -2329,6 +2329,7 @@ stara 13
 hleb 13
 leta 13
 devojke 13
+muž 13
 budućnosti 13
 ključeve 13
 važna 13
@@ -2493,7 +2494,6 @@ Sumnjam 12
 kojom 12
 rekli 12
 znanja 12
-muž 12
 članak 12
 veliko 12
 unapred 12
@@ -3973,6 +3973,7 @@ teška 8
 завршимо 8
 promaklo 8
 povredio 8
+čuje 8
 pitala 8
 14:30 8
 norveškom 8
@@ -4068,6 +4069,7 @@ zauzete 8
 професор 7
 pasa 7
 prednost 7
+zmije 7
 prijateljstvo 7
 Pitao 7
 iste 7
@@ -4503,7 +4505,6 @@ popričam 7
 glasaš 7
 Tomove 7
 ostanemo 7
-čuje 7
 Vrlo 7
 petak 7
 mnoge 7
@@ -4634,7 +4635,6 @@ Iznenađena 7
 друг 6
 projekat 6
 aerodrom 6
-zmije 6
 umetnost 6
 glavni 6
 Čini 6
@@ -6198,6 +6198,7 @@ kamiona 5
 Oženio 5
 pričate 5
 Nekad 5
+Znate 5
 beše 5
 definitivno 5
 brak 5
@@ -7675,7 +7676,6 @@ pozajmljujem 4
 ženama 4
 krenula 4
 norveških 4
-Znate 4
 šume 4
 Duva 4
 severa 4
