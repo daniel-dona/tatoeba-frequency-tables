@@ -1,7 +1,7 @@
-je 341
+je 343
 Tom 92
 so 88
-To 73
+To 74
 Sym 71
 w 69
 a 62
@@ -33,12 +33,12 @@ moja 18
 hač 18
 jeho 17
 by 17
+Smy 17
 čaj 17
 wo 16
 dźěći 16
 sy 16
 do 16
-Smy 16
 derje 15
 Kak 15
 wjele 14
@@ -105,6 +105,7 @@ Jeje 8
 Marija 8
 budźe 8
 Mamy 8
+Smój 8
 Maš 8
 će 8
 twoje 8
@@ -160,7 +161,6 @@ sotra 6
 wulka 6
 pos 6
 zyma 6
-Smój 6
 telewizu 6
 pije 6
 žona 6
@@ -299,6 +299,7 @@ Jěstej 4
 zrałe 4
 budźa 4
 zymy 3
+blido 3
 problem 3
 Pytam 3
 dźěło 3
@@ -452,7 +453,6 @@ japansce 3
 hłódni 3
 hłódne 3
 tykanc 2
-blido 2
 rěkaš 2
 fota 2
 stwě 2
@@ -606,6 +606,7 @@ jandźel 2
 wutrobu 2
 widźiš 2
 kćenje 2
+zelene 2
 dyrbju 2
 wědźeli 2
 wšo 2
@@ -1416,7 +1417,6 @@ wuske 1
 fachowe 1
 łučna 1
 kwětka 1
-zelene 1
 łopjena 1
 łuce 1
 rostu 1
@@ -2528,3 +2528,7 @@ Pytajće 1
 namakaće 1
 marule 1
 aprikozy 1
+Słowakaj 1
+Słowački 1
+Słowačce 1
+Morjo 1

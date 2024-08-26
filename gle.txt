@@ -1,13 +1,13 @@
 an 666
 a 637
-Tá 625
-mé 400
-ag 393
+Tá 626
+mé 401
+ag 394
 Is 334
 é 269
 ar 241
 tú 219
-sé 212
+sé 213
 go 209
 bhfuil 207
 An 207
@@ -23,7 +23,7 @@ na 104
 do 99
 maith 98
 sin 93
-Bhí 89
+Bhí 90
 í 85
 Tomás 83
 Tom 82
@@ -131,11 +131,11 @@ faoin 17
 Sin 17
 don 17
 linn 17
+ól 16
 bhfaca 16
 scoil 16
 Chuir 16
 dhá 15
-ól 15
 isteach 15
 Chuaigh 15
 mac 15
@@ -555,6 +555,7 @@ mharú 4
 déanaí 4
 bpost 4
 líne 4
+tobac 4
 chúis 4
 chaitheamh 4
 luí 4
@@ -730,7 +731,6 @@ tríd 3
 mbaile 3
 Faraor 3
 Aontaím 3
-tobac 3
 Gan 3
 ghortú 3
 triail 3
@@ -1138,6 +1138,7 @@ gadaí 2
 Ghlac 2
 Foghlaim 2
 Hé 2
+Éist 2
 Ritheann 2
 Fásann 2
 Á 2
@@ -1146,6 +1147,7 @@ Aontaíonn 2
 Tchíonn 2
 fosta 2
 Anois 2
+Éirigh 2
 Iontach 2
 "A 2
 Slán 2
@@ -2409,7 +2411,6 @@ Feic 1
 Freagair 1
 Díol 1
 Foc 1
-Éist 1
 Triail 1
 mhéid 1
 fásáin 1
@@ -2431,7 +2432,6 @@ déarfadh 1
 báis 1
 Tráthnona 1
 Culaith 1
-Éirigh 1
 Turas 1
 Fás 1
 Obair 1
@@ -3015,3 +3015,5 @@ fionnadh 1
 insím 1
 marófar 1
 thógáil 1
+dathúil 1
+Ól 1

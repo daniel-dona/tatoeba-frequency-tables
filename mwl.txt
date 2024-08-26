@@ -1,12 +1,13 @@
-l 28
+l 29
 de 27
 que 25
-la 20
-nun 18
-ye 18
+ye 22
+la 22
+nun 19
 L 15
 Nun 12
 cousas 10
+La 10
 ls 9
 ũa 9
 an 9
@@ -18,7 +19,6 @@ son 7
 las 6
 un 6
 a 6
-La 6
 nome 5
 ten 5
 cumo 5
@@ -41,12 +41,14 @@ Sós 4
 Ls 4
 bien 4
 se 4
+seca 4
 Las 3
 dies 3
 fabor 3
 stais 3
 mos 3
 Stou 3
+Tengo 3
 Bienbenido 3
 el 3
 Cousas 3
@@ -54,6 +56,7 @@ acuntecen 3
 cousa 3
 fui 3
 tou 3
+mie 3
 diç 3
 esso 3
 más 3
@@ -65,6 +68,8 @@ bai 3
 bi 3
 l'OO 3
 SOA 3
+teç 3
+çamarra 3
 diente 2
 Oulá 2
 Por 2
@@ -78,6 +83,7 @@ na 2
 hoije 2
 nós 2
 tamien 2
+mas 2
 d'acuordo 2
 Bibo 2
 nua 2
@@ -141,6 +147,8 @@ miu 2
 Jamás 2
 cinta 2
 studiantes 2
+tue 2
+amerosa 2
 Uolho 1
 uolho 1
 tartuas 1
@@ -179,7 +187,6 @@ déixedes 1
 lhebar 1
 pula 1
 tentacion 1
-mas 1
 lhibrai-mos 1
 Mal 1
 Parabienes 1
@@ -188,7 +195,6 @@ houmano 1
 bibo 1
 Studo 1
 ounibersidade 1
-Tengo 1
 gatos 1
 “De 1
 nacionalidade 1
@@ -256,7 +262,6 @@ questume 1
 d’arrascar-se 1
 cabeça 1
 Sale 1
-mie 1
 cas 1
 nunca 1
 buolbas 1
@@ -537,3 +542,7 @@ moneda 1
 2008 1
 repúlica 1
 atuntado 1
+Antentei 1
+scachar 1
+bidro 1
+scachou 1

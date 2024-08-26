@@ -1,24 +1,24 @@
-je 453
+je 455
 se 171
 sam 164
-u 158
-da 134
+u 161
+da 135
 li 110
 na 105
 Tom 88
-su 67
+su 68
 ne 62
 i 58
 Ne 57
-nije 50
+nije 52
 Ja 49
 mi 49
 si 44
+smo 44
 za 44
-smo 42
 od 38
 to 37
-On 36
+On 37
 ti 34
 To 32
 Ona 30
@@ -30,10 +30,10 @@ Kako 27
 Ovo 26
 me 26
 s 26
-bio 24
+bio 26
 mogu 23
-U 22
-Šta 19
+U 23
+Šta 20
 Je 19
 bi 19
 nisam 19
@@ -77,6 +77,7 @@ Idemo 12
 zar 11
 rekao 11
 engleski 11
+voli 11
 Ti 11
 molim 11
 uvijek 11
@@ -89,13 +90,13 @@ ona 10
 mogao 10
 samo 10
 mu 10
-voli 10
 vrlo 10
 tu 10
 ljudi 10
 nas 10
 znam 10
 živi 10
+Mislim 10
 danas 10
 sada 10
 tvoj 9
@@ -111,7 +112,6 @@ Nema 9
 Bio 9
 bilo 9
 znao 9
-Mislim 9
 Svi 9
 godina 9
 dobro 9
@@ -130,6 +130,7 @@ juče 8
 posao 8
 bila 8
 Hvala 8
+mnogo 8
 Tomu 8
 jezik 8
 doći 8
@@ -154,7 +155,6 @@ Ima 7
 Juče 7
 reći 7
 sutra 7
-mnogo 7
 može 7
 kada 7
 Možete 7
@@ -198,6 +198,7 @@ Sviđa 6
 po 6
 novac 6
 problem 6
+nikada 6
 njegov 5
 njegova 5
 Dobro 5
@@ -208,11 +209,13 @@ ime 5
 ova 5
 Nemam 5
 kahvu 5
+ove 5
 ništa 5
 vidim 5
 bolnici 5
 govorim 5
 telefon 5
+knjige 5
 Dječak 5
 Na 5
 lijep 5
@@ -230,6 +233,7 @@ moju 5
 imao 5
 francuski 5
 tome 5
+pet 5
 sedam 5
 Niko 5
 sok 5
@@ -244,7 +248,6 @@ tebi 5
 ključ 5
 gdje 5
 dana 5
-nikada 5
 odlučio 5
 tvoje 4
 Moje 4
@@ -308,7 +311,6 @@ jedan 4
 kroz 4
 znamo 4
 tri 4
-pet 4
 šest 4
 došao 4
 ananasa 4
@@ -318,6 +320,7 @@ daleko 4
 dobiti 4
 kad 4
 hvala 4
+tog 4
 kruh 4
 stvari 4
 Koji 4
@@ -342,6 +345,7 @@ neki 4
 zauzet 4
 letjeti 4
 učiniti 4
+Rusiji 4
 najbolje 4
 srce 4
 Lejla 4
@@ -364,7 +368,6 @@ Mariju 3
 ide 3
 potpuno 3
 pomoć 3
-ove 3
 mala 3
 čudno 3
 velike 3
@@ -382,7 +385,6 @@ djecu 3
 Srećan 3
 Srećna 3
 Dan 3
-knjige 3
 cipele 3
 želiš 3
 Postoji 3
@@ -433,6 +435,7 @@ mogla 3
 ponovo 3
 Moramo 3
 Išli 3
+Vidjeli 3
 razgovarati 3
 njima 3
 dva 3
@@ -449,7 +452,6 @@ Kad 3
 ravno 3
 Moram 3
 oko 3
-tog 3
 novine 3
 pravo 3
 stići 3
@@ -487,6 +489,7 @@ sunce 3
 puta 3
 Zašto 3
 Imao 3
+Japan 3
 hranu 3
 Neki 3
 ujutro 3
@@ -517,6 +520,7 @@ bosanskom 2
 Ta 2
 bića 2
 drugome 2
+nikad 2
 vozi 2
 Nemoj 2
 ostati 2
@@ -607,6 +611,7 @@ djevojku; 2
 sljedeće 2
 sedmice 2
 dvadeset 2
+veoma 2
 moru 2
 najviši 2
 svijetu 2
@@ -638,6 +643,7 @@ Hajde 2
 završi 2
 Rekao 2
 Australiji 2
+fudbal 2
 uspio 2
 Mariji 2
 rijetko 2
@@ -669,7 +675,6 @@ zadatak 2
 poštovati 2
 pravila 2
 plan 2
-Vidjeli 2
 džunglu 2
 rođendan 2
 četiri 2
@@ -834,7 +839,6 @@ ubiti 2
 mora 2
 Engleski 2
 srodni 2
-Japan 2
 zemlje 2
 pušiti 2
 Čovjek 2
@@ -854,10 +858,10 @@ namjerava 2
 naći 2
 krov 2
 spremna 2
+zemlja 2
 Daj 2
 moraš 2
 Odmah 2
-Rusiji 2
 opasnosti 2
 radiš 2
 otići 2
@@ -915,6 +919,7 @@ onda 2
 tada 2
 Iz 2
 Drago 2
+sigurna 2
 Naravno 2
 pola 2
 putu 2
@@ -932,6 +937,8 @@ jači 2
 tačan 2
 inozemstvu 2
 Ove 2
+Autor 2
+Želimo 2
 Džek 1
 Zove 1
 Tomojuki 1
@@ -999,7 +1006,6 @@ ideje 1
 spavaju 1
 oštaro 1
 pišem 1
-nikad 1
 vara 1
 Veoma 1
 viđa 1
@@ -1310,7 +1316,6 @@ mačko 1
 rata 1
 Blagajnik 1
 samoposlugi 1
-veoma 1
 brz 1
 otoci 1
 Burdž 1
@@ -1411,7 +1416,6 @@ heroj 1
 izgleda 1
 uništeno 1
 uradi 1
-fudbal 1
 opasan 1
 sport 1
 ostvariš 1
@@ -2274,7 +2278,6 @@ ručali 1
 našim 1
 parkovima 1
 planinama 1
-zemlja 1
 jugoistoku 1
 čuo 1
 vijesti 1
@@ -2873,7 +2876,6 @@ sapuni 1
 Tamo 1
 lijevo 1
 Slažete 1
-sigurna 1
 mjesto 1
 Siđite 1
 osmoj 1
@@ -3173,3 +3175,15 @@ sajtovima 1
 klađenje 1
 uhapšen 1
 policije 1
+Srušili 1
+oštećenu 1
+zgradu 1
+monarha 1
+kraljicu 1
+stubova 1
+islama 1
+pekara 1
+hrišćanstvu 1
+dominantno 1
+vjerovanje 1
+trojstvo 1

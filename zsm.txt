@@ -1,8 +1,8 @@
 Saya 1422
-saya 1295
-yang 1165
-Tom 1153
-tidak 1121
+saya 1296
+yang 1167
+Tom 1154
+tidak 1122
 di 739
 awak 710
 itu 628
@@ -10,12 +10,12 @@ ini 595
 akan 570
 untuk 560
 Dia 537
-dan 420
-dia 417
-dengan 412
+dan 421
+dia 418
+dengan 414
 ke 371
 anda 340
-Mary 311
+Mary 312
 telah 293
 boleh 264
 pergi 259
@@ -23,14 +23,14 @@ dalam 253
 tahu 242
 kita 222
 Awak 222
-apa 217
+apa 218
 adalah 211
-mahu 200
+mahu 201
 ada 197
 hari 195
 orang 186
 kepada 180
-sedang 179
+sedang 180
 pada 176
 kamu 174
 Adakah 174
@@ -54,7 +54,7 @@ tak 116
 suka 115
 dapat 112
 sini 111
-menjadi 109
+menjadi 110
 sudah 108
 kerana 108
 rasa 103
@@ -62,7 +62,7 @@ bukan 103
 baik 101
 banyak 100
 masa 100
-berkata 97
+berkata 98
 Apa 96
 seperti 96
 bercakap 94
@@ -78,8 +78,8 @@ ingin 86
 Kita 84
 belajar 83
 Jangan 82
+memberitahu 82
 satu 81
-memberitahu 81
 nak 80
 sama 79
 sekarang 79
@@ -125,9 +125,9 @@ bersama 54
 ia 54
 atas 54
 tidur 52
+berlaku 51
 baru 51
 bekerja 51
-berlaku 50
 masalah 50
 sana 50
 begitu 50
@@ -140,9 +140,9 @@ lakukan 48
 Apakah 47
 besar 47
 Ada 47
+Sami 47
 terlalu 46
 tiga 46
-Sami 46
 Bahasa 45
 jam 45
 tempat 45
@@ -268,6 +268,7 @@ memberi 26
 faham 26
 takut 26
 berjaya 26
+secara 26
 seseorang 26
 Sudah 26
 Hari 26
@@ -281,7 +282,6 @@ mati 25
 kan 25
 mendapat 25
 kawan 25
-secara 25
 memiliki 25
 cara 25
 epal 25
@@ -370,6 +370,7 @@ bola 20
 nanti 20
 kaki 20
 macam 20
+Layla 20
 کامو 20
 berbahasa 19
 Malaysia 19
@@ -383,7 +384,6 @@ lepas 19
 kemudian 19
 sepanjang 19
 harap 19
-Layla 19
 kepadanya 19
 دڠن 19
 hal 18
@@ -572,6 +572,7 @@ kehilangan 12
 kaya 12
 pokok 12
 gelap 12
+cepat 12
 Itulah 12
 bertutur 12
 tolong 12
@@ -615,7 +616,6 @@ mencuba 11
 membersihkan 11
 memanggil 11
 Kedua-dua 11
-cepat 11
 adik 11
 walaupun 11
 pelbagai 11
@@ -1124,6 +1124,7 @@ cermin 6
 رومه 6
 Hadiah 6
 itu" 6
+Rima 6
 rumput 5
 Perempuan 5
 sukan 5
@@ -1320,7 +1321,6 @@ tahan 5
 ianya 5
 warga 5
 sedih 5
-Rima 5
 bebas 4
 pemikiran 4
 dipenuhi 4
@@ -1762,6 +1762,7 @@ Bahagian 3
 melaksanakan 3
 berkeinginan 3
 rehat 3
+berkomunikasi 3
 persamaan 3
 diletakkan 3
 ditahan 3
@@ -2395,7 +2396,6 @@ terpesona 2
 mencintaimu 2
 klik 2
 Petang 2
-berkomunikasi 2
 Arab 2
 Al-Quran 2
 karangan 2
@@ -2608,6 +2608,7 @@ subjek 2
 mengantuk 2
 Kampung 2
 nanas 2
+fizikal 2
 acara 2
 neneknya 2
 Thailand 2
@@ -3186,6 +3187,7 @@ bidang 2
 4:3 2
 برهنتي 2
 لاون 2
+Perlawanan 2
 pahlawan 2
 ڤهلاون 2
 Perseteruan 2
@@ -4294,7 +4296,6 @@ Insan 1
 sifatnya 1
 menilai 1
 berdasarkan 1
-fizikal 1
 paras 1
 Latihan 1
 memanah 1
@@ -6478,7 +6479,6 @@ berlawan 1
 برلاون 1
 برڬادوه 1
 ڤراڠ 1
-Perlawanan 1
 ڤرلاونن 1
 مڠوجي 1
 كسمواڽ 1
@@ -7613,3 +7613,8 @@ Portisch 1
 Hungary 1
 menjejaki 1
 mengurat 1
+Gustavo 1
+telepati 1
+jeritan 1
+pertengkaran 1
+ganas 1

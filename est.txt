@@ -1,4 +1,4 @@
-on 1457
+on 1459
 Ma 908
 ei 722
 Tom 589
@@ -26,12 +26,12 @@ pole 115
 oled 97
 mulle 97
 mind 89
-mu 86
+mu 87
 Nad 85
 selle 85
 midagi 84
 ära 81
-minu 78
+minu 79
 palju 78
 Kui 77
 Miks 75
@@ -105,13 +105,13 @@ rääkida 33
 Tema 32
 teie 32
 sellest 32
+üle 32
 keegi 32
 olla 32
 liiga 32
 keel 32
 räägid 32
 taha 31
-üle 31
 aega 31
 räägin 31
 Olen 31
@@ -201,6 +201,7 @@ koera 18
 Täna 18
 elan 18
 oleme 18
+üks 18
 saada 18
 raske 18
 tahtnud 18
@@ -236,7 +237,6 @@ temaga 16
 vastu 16
 minust 16
 saab 16
-üks 16
 asub 16
 pead 16
 peab 15
@@ -592,6 +592,7 @@ kaheksa 6
 üheksa 6
 söönud 6
 laulja 6
+Mees 6
 edasi 6
 ju 6
 Tundub 6
@@ -696,7 +697,6 @@ järgmine 5
 kuul 5
 seitse 5
 ostsid 5
-Mees 5
 keelest 5
 maailm 5
 jalgratas 5
@@ -2405,6 +2405,9 @@ televiisor 2
 ametlikku 2
 pindu 2
 omas 2
+Graham 2
+Greene 2
+lemmikkirjanikke 2
 Sellises 1
 kärestikus 1
 mõtlematu 1
@@ -6532,3 +6535,4 @@ Tõmba 1
 esiti 1
 seletad 1
 tõmmata 1
+parda 1

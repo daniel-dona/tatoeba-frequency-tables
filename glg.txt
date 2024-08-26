@@ -1,19 +1,19 @@
-a 1264
-que 1168
-de 1126
-o 1039
+a 1266
+que 1169
+de 1128
+o 1042
 é 773
 non 603
 un 555
 O 550
-e 495
+e 496
 A 449
 unha 433
 Non 429
 do 339
 en 316
 da 286
-os 268
+os 269
 máis 263
 para 253
 no 231
@@ -46,8 +46,8 @@ ser 98
 hai 96
 moito 89
 facer 88
+foi 87
 Por 87
-foi 86
 pero 83
 Se 82
 seus 82
@@ -56,12 +56,12 @@ mañá 78
 el 78
 pola 78
 todo 77
+ou 77
 túa 77
 cando 76
-ou 76
 das 75
 teu 74
-Teño 73
+Teño 74
 día 72
 vida 71
 tempo 70
@@ -79,10 +79,10 @@ podo 63
 sen 63
 este 62
 favor 62
+anos 62
 Hai 62
 ela 61
 pai 61
-anos 61
 ben 60
 nai 60
 teño 60
@@ -180,6 +180,7 @@ estar 31
 Onde 31
 De 31
 despois 31
+ata 30
 cousas 30
 onde 30
 facelo 30
@@ -193,7 +194,6 @@ Gustaríame 29
 Deus 29
 menos 29
 gran 29
-ata 28
 amigo 28
 así 28
 fai 28
@@ -241,8 +241,10 @@ persoa 23
 frío 23
 No 23
 cinco 23
+Sempre 23
 mesa 23
 música 23
+vivir 23
 medo 23
 Canto 23
 irmá 23
@@ -250,11 +252,10 @@ fillo 23
 galego 23
 Ten 22
 porta 22
-Sempre 22
+tren 22
 ninguén 22
 amigos 22
 erro 22
-vivir 22
 ó 22
 outros 22
 parte 22
@@ -270,7 +271,6 @@ contra 21
 Vai 21
 cama 21
 francés 21
-tren 21
 Gústame 21
 cousa 21
 Tatoeba 21
@@ -279,6 +279,7 @@ di 21
 Meu 21
 fixo 20
 morreu 20
+Vou 20
 quere 20
 sabe 20
 erros 20
@@ -290,7 +291,6 @@ pais 20
 vou 19
 país 19
 vostede 19
-Vou 19
 accidente 19
 Temos 19
 teñen 19
@@ -343,6 +343,7 @@ libros 17
 outro 17
 María 17
 alguén 17
+comezou 17
 pasado 17
 E 17
 aniversario 16
@@ -363,7 +364,6 @@ razón 16
 podería 16
 frase 16
 somos 16
-comezou 16
 mais 16
 camiño 16
 tomar 16
@@ -717,6 +717,7 @@ dereito 8
 Estes 8
 intelixente 8
 Vamos 8
+existe 8
 facía 8
 van 8
 pasar 8
@@ -821,7 +822,6 @@ precisa 7
 goberno 7
 pór 7
 falan 7
-existe 7
 estivo 7
 eran 7
 custa 7
@@ -1558,6 +1558,7 @@ Alégrome 3
 interesante 3
 chocolate 3
 sesenta 3
+cen 3
 doutros 3
 rosas 3
 cruzar 3
@@ -1936,6 +1937,7 @@ conversa 3
 Mirei 3
 celebrar 3
 almas 3
+risco 3
 arrestado 3
 medidas 3
 contado 3
@@ -2102,6 +2104,7 @@ interior 3
 arco 3
 temperaturas 3
 espello 3
+fuga 3
 adultos 3
 canta 3
 Estas 3
@@ -2180,7 +2183,6 @@ discreto 2
 honesto 2
 oitenta 2
 noventa 2
-cen 2
 Oxalá 2
 roubado 2
 cortoulle 2
@@ -2886,7 +2888,6 @@ Shinjuku 2
 Deu 2
 anciá 2
 emperador 2
-risco 2
 suspendido 2
 ambiente 2
 adoptar 2
@@ -3369,7 +3370,6 @@ quente; 2
 cheas 2
 faraón 2
 vitoria 2
-fuga 2
 pensas 2
 medias 2
 Rosa 2
@@ -3452,6 +3452,7 @@ Artificial 2
 determinada 2
 sentía 2
 sinfonía 2
+Caeu 2
 pequenas 2
 diferenzas 2
 penuxe 2
@@ -8232,7 +8233,6 @@ globo 1
 raios 1
 perigosos 1
 depósito 1
-Caeu 1
 cambiaba 1
 bombilla 1
 Chamarías 1
@@ -9542,3 +9542,12 @@ piratas 1
 secuestrouno 1
 colocou 1
 cruz 1
+despedila 1
+datos 1
+Tire 1
+beiravía 1
+tirouse 1
+tirado 1
+Soou 1
+timbre 1
+moverse 1

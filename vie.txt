@@ -1,13 +1,13 @@
 không 5310
-tôi 4927
+tôi 4928
 Tôi 4798
 có 4072
-là 3940
+là 3941
 đã 3848
 ấy 3426
 một 3036
 Tom 2802
-của 2599
+của 2600
 bạn 2287
 ta 1831
 đó 1794
@@ -44,7 +44,7 @@ cái 806
 chúng 792
 việc 787
 giờ 774
-thích 763
+thích 764
 bị 757
 về 755
 nhà 748
@@ -60,7 +60,7 @@ tiếng 675
 khi 673
 nhiều 672
 ăn 668
-mà 657
+mà 658
 nghĩ 641
 rồi 631
 con 616
@@ -93,7 +93,7 @@ qua 440
 còn 439
 quá 432
 vậy 430
-Có 417
+Có 418
 nay 415
 thành 415
 ông 399
@@ -109,7 +109,7 @@ mới 356
 chỉ 356
 tốt 353
 thật 351
-nhất 349
+nhất 350
 lúc 345
 nhưng 344
 gặp 342
@@ -204,9 +204,9 @@ sáng 203
 luôn 198
 mai 197
 đúng 195
+bài 194
 điện 194
 lớn 194
-bài 193
 mặt 193
 gái 193
 Con 192
@@ -398,6 +398,7 @@ dự 99
 thử 99
 loại 98
 vị 98
+Em 98
 hoa 98
 chịu 98
 khỏe 98
@@ -405,7 +406,6 @@ chị 98
 vụ 97
 đứa 97
 thú 97
-Em 97
 dài 96
 bánh 96
 sức 96
@@ -427,6 +427,7 @@ giống 92
 năng 91
 đặt 90
 điểm 90
+hát 90
 sát 89
 dậy 89
 cười 89
@@ -435,7 +436,6 @@ Ngày 89
 muộn 88
 đáng 88
 dụng 88
-hát 88
 lạnh 87
 chân 87
 tô 87
@@ -520,10 +520,10 @@ dối 72
 thăm 72
 liên 72
 tử 72
+Việt 72
 yên 72
 khăn 71
 thiết 71
-Việt 71
 quay 71
 cứu 71
 đông 70
@@ -643,6 +643,7 @@ khí 54
 tuyết 54
 họp 54
 trò 54
+Nam 54
 cổ 54
 giữa 53
 tăng 53
@@ -657,7 +658,6 @@ giàu 53
 đỏ 53
 càng 53
 mời 53
-Nam 53
 cực 53
 đôi 52
 sư 52
@@ -1254,6 +1254,7 @@ thảo 20
 quê 20
 Rõ 20
 Mùa 20
+Bài 20
 thậm 20
 rộn 20
 tùy 19
@@ -1286,7 +1287,6 @@ tạp 19
 cắn 19
 pizza 19
 Mấy 19
-Bài 19
 đào 19
 thở 19
 ấn 19
@@ -1863,6 +1863,7 @@ giếng 9
 lão 9
 nhóc 9
 tạm 9
+Đàn 9
 Á 9
 rác 9
 bạo 9
@@ -1996,7 +1997,6 @@ vắt 8
 mắng 8
 Màu 8
 vương 8
-Đàn 8
 guitar 8
 vải 8
 bấm 8
@@ -2318,6 +2318,7 @@ mau 5
 hung 5
 Tấm 5
 Thì 5
+Trang 5
 ngớ 5
 ngẩn 5
 gã 5
@@ -2534,7 +2535,6 @@ vạt 5
 Tầng 5
 (Tầng 5
 rầy 4
-Trang 4
 bực 4
 quá" 4
 sao" 4
@@ -6509,3 +6509,5 @@ chat 1
 boston 1
 nhằn 1
 Hi 1
+Cung 1
+Quỳnh 1

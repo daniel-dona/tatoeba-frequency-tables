@@ -5,7 +5,7 @@ sam 464
 da 415
 li 394
 na 326
-ne 283
+ne 284
 Tom 280
 i 239
 su 222
@@ -494,6 +494,7 @@ velika 8
 zadaću 8
 Imao 8
 ovoj 8
+umrijeti 8
 moju 8
 Uskoro 8
 Došao 8
@@ -557,7 +558,6 @@ zauzet 7
 napravio 7
 probleme 7
 djecu 7
-umrijeti 7
 plakati 7
 umro 7
 dobiti 7
@@ -968,6 +968,7 @@ važno 4
 Jer 4
 skijati 4
 sestre 4
+smije 4
 ostali 4
 zemlju 4
 mojim 4
@@ -1010,6 +1011,7 @@ tečno 4
 vidjeli 4
 engleskom 4
 Vas 4
+Smrt 4
 razlikuje 4
 upravo 4
 Možemo 4
@@ -1304,7 +1306,6 @@ moći 3
 španjolski 3
 Naše 3
 "Je 3
-smije 3
 igram 3
 naša 3
 mnogim 3
@@ -1957,7 +1958,6 @@ provodiš 2
 djecom 2
 sporije 2
 provoditi 2
-Smrt 2
 sustiže 2
 slobodu 2
 vatra 2
@@ -8319,3 +8319,6 @@ slovenski 1
 talianski 1
 Virus 1
 pokvario 1
+Serengeti 1
+fašizmu 1
+kolonijalizmu 1

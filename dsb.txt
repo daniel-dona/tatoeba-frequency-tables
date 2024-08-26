@@ -1,10 +1,10 @@
-jo 289
+jo 291
 se 90
 Tom 71
 Som 57
 a 54
+To 54
 w 54
-To 53
 z 46
 Wóna 43
 Wón 42
@@ -59,6 +59,7 @@ wuknuś 11
 Njejsom 11
 mója 11
 buźo 11
+Smy 11
 wušy 10
 śi 10
 teke 10
@@ -70,7 +71,6 @@ kócka 10
 ja 10
 jě 10
 słon 10
-Smy 10
 Powědam 10
 Myslim 9
 awto 9
@@ -170,6 +170,7 @@ głodna 5
 wócy 5
 tebje 5
 Mamy 5
+Smej 5
 wěźeś 5
 telewiziju 5
 Co 5
@@ -239,7 +240,6 @@ mucna 4
 jolic 4
 Njejsćo 4
 twójim 4
-Smej 4
 Nichten 4
 abo 4
 źinsa 4
@@ -391,6 +391,7 @@ y 3
 ž 3
 knigłow 2
 tykańc 2
+blido 2
 sebje 2
 fota 2
 śpě 2
@@ -689,7 +690,6 @@ apetit 1
 Pjelch 1
 gryzaŕ 1
 połožył 1
-blido 1
 Wuźěłanje 1
 słownika 1
 pomina 1
@@ -2198,3 +2198,7 @@ chórych 1
 kłasć 1
 wordowaś 1
 Pytajśo 1
+Słowaki 1
+Słowaka 1
+Mórjo 1
+zelene 1

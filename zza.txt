@@ -1,5 +1,5 @@
-Ez 224
-ra 138
+Ez 226
+ra 139
 o 115
 Tom 105
 mi 105
@@ -17,8 +17,8 @@ yo 57
 do 56
 nê 56
 ya 49
-kena 47
-hes 44
+kena 48
+hes 45
 Mı 43
 mı 43
 û 43
@@ -102,6 +102,7 @@ tiyad 10
 maya 10
 E 10
 bikerî 10
+Ganî 10
 min 10
 qisey 10
 ina 9
@@ -117,7 +118,6 @@ bî 9
 înan 9
 Tomî 9
 kamca 9
-Ganî 9
 tîya 9
 dest 8
 yena 8
@@ -238,6 +238,7 @@ fehm 5
 Rojbaş 5
 yî 5
 vaje 5
+meşte 5
 awe 5
 verê 5
 îngilizkî 5
@@ -308,7 +309,6 @@ der 4
 telefonê 4
 Birayê 4
 şimena 4
-meşte 4
 embaz 4
 hetkarîya 4
 Porê 4
@@ -448,6 +448,7 @@ dewe 3
 mamosta 3
 veng 3
 xemgîn 3
+şira 3
 şora 3
 hende 3
 keyfweş 3
@@ -739,7 +740,6 @@ rehet 2
 Samî 2
 belengaz 2
 Meewne 2
-şira 2
 şorî 2
 nêeşkeno 2
 neweyî 2
@@ -836,6 +836,7 @@ ki 2
 heywani 2
 Çımanéxu 2
 Destê 2
+bikera 2
 Estanbol 2
 zıwandê 1
 Şanê 1
@@ -2799,7 +2800,6 @@ kitab 1
 birîya 1
 fitiq 1
 dîqet 1
-bikera 1
 telefonêko 1
 roşanan 1
 Embaza 1
@@ -2837,3 +2837,7 @@ Virusi 1
 Anqara 1
 êdi 1
 nêcıwiyena 1
+ameya 1
+Krakow 1
+Polonya 1
+asnawe 1

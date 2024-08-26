@@ -1,5 +1,5 @@
 ang 33455
-sa 26377
+sa 26378
 ng 25075
 na 15675
 po 13817
@@ -17,7 +17,7 @@ niya 4660
 ito 4528
 ay 4407
 siya 4403
-May 3823
+May 3824
 nang 3601
 Ang 3556
 ka 3543
@@ -138,7 +138,7 @@ kotse 410
 kapatid 407
 aso 405
 nakita 404
-tubig 403
+tubig 404
 pizzeria 403
 kayang 401
 trabaho 395
@@ -2129,6 +2129,7 @@ oo 24
 kapayapaan 24
 narito 24
 Dagdagan 24
+nahulog 24
 Nahihirapan 24
 Nagtataka 24
 Tungkol 24
@@ -2221,7 +2222,6 @@ matabang 23
 pag-inom 23
 Malambot 23
 Ipinagbabawal 23
-nahulog 23
 moradong 23
 buto 23
 pasyente 23

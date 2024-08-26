@@ -1,11 +1,11 @@
-est 10158
+est 10159
 et 4776
 in 4534
 Thomas 3623
-non 3489
+non 3490
 sunt 2230
-ad 1747
-mihi 1620
+ad 1748
+mihi 1621
 / 1569
 esse 1423
 sum 1366
@@ -28,7 +28,7 @@ eius 688
 Didymus 685
 hoc 683
 mea 659
-eum 635
+eum 636
 habet 612
 qui 611
 erat 590
@@ -52,7 +52,7 @@ meum 412
 dixit 385
 autem 381
 per 377
-Num 372
+Num 373
 tua 370
 Mariam 369
 potest 368
@@ -125,7 +125,7 @@ etiam 217
 Omnes 216
 ire 214
 natus 213
-eos 210
+eos 212
 vult 208
 video 207
 vis 206
@@ -143,7 +143,7 @@ Ea 193
 Quam 190
 illa 188
 post 181
-Eum 180
+Eum 181
 an 179
 quem 178
 tuam 178
@@ -1341,6 +1341,7 @@ fuerunt 26
 eras 26
 pulchram 26
 urbis 26
+Poculum 26
 Foris 26
 rubra 26
 gravis 26
@@ -1386,6 +1387,7 @@ facti 25
 fili 25
 – 25
 aurum 25
+da 25
 principio 25
 quadraginta 25
 quinquaginta 25
@@ -1406,7 +1408,6 @@ scribo 25
 vales 25
 cantat 25
 futurum 25
-Poculum 25
 Placentne 25
 pretio 25
 Libenter 25
@@ -1452,7 +1453,6 @@ brevis 24
 lupus 24
 animus 24
 regnum 24
-da 24
 loci 24
 Rosae 24
 faciat 24
@@ -3506,6 +3506,7 @@ argento 10
 dignus 10
 miles 10
 simus 10
+times 10
 novis 10
 paulum 10
 Sit 10
@@ -3848,7 +3849,6 @@ familias 9
 petit 9
 quaestionem 9
 Dubito 9
-times 9
 Agricola 9
 religio 9
 Atque 9
@@ -3980,6 +3980,7 @@ desierunt 9
 pinguis 9
 vicerit 9
 Magi 9
+defendere 9
 morbum 9
 Quali 9
 divitiis 9
@@ -4482,7 +4483,6 @@ loca 8
 sensum 8
 stulte 8
 irascitur 8
-defendere 8
 simulat 8
 habeas 8
 videbantur 8
@@ -6710,6 +6710,7 @@ Iunonis 5
 Iuno 5
 hostis 5
 limpida 5
+invitavisti 5
 Divites 5
 "Tibi 5
 studui 5
@@ -7749,6 +7750,7 @@ tetigit 4
 Scientia 4
 fers 4
 stabis 4
+Debemus 4
 Mortua 4
 domō 4
 locutiones 4
@@ -8097,7 +8099,6 @@ Nauta 4
 alti 4
 finitum 4
 Europae 4
-invitavisti 4
 Fuscinula 4
 natavit 4
 inire 4
@@ -9714,7 +9715,6 @@ culinae 3
 duco 3
 pedulia 3
 Trīgintā 3
-Debemus 3
 ascendisset 3
 mīlitēs 3
 advocatum 3

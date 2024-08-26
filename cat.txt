@@ -1,11 +1,11 @@
 la 1648
-de 1572
-a 1503
+de 1573
+a 1504
 que 1381
 el 1247
 és 1080
 no 873
-un 834
+un 835
 va 821
 No 697
 en 644
@@ -23,7 +23,7 @@ ha 363
 En 349
 es 314
 més 300
-del 286
+del 287
 Ell 251
 molt 245
 vaig 232
@@ -33,7 +33,7 @@ com 202
 em 196
 fer 195
 està 190
-És 175
+És 176
 meva 171
 Els 168
 fa 167
@@ -227,7 +227,9 @@ molts 36
 només 36
 han 36
 s'ha 36
+matí 36
 música 36
+deu 36
 perdre 36
 Tens 36
 dies 35
@@ -237,10 +239,8 @@ Al 35
 vist 35
 francès 35
 Tots 35
-matí 35
 poc 35
 trobar 35
-deu 35
 Ens 35
 bisexual 35
 fill 34
@@ -641,6 +641,7 @@ lluny 12
 got 12
 salut 12
 piano 12
+l'aigua 12
 revista 12
 l'accident 12
 bicicleta 12
@@ -697,7 +698,6 @@ conduir 11
 consciència 11
 èxit 11
 d'aigua 11
-l'aigua 11
 prova 11
 entenc 11
 arriba 11
@@ -1807,6 +1807,7 @@ dóna 4
 quilòmetres 4
 decidit 4
 atleta 4
+quart 4
 accés 4
 bandera 4
 t'he 4
@@ -2308,7 +2309,6 @@ cremar 3
 Oi 3
 creixen 3
 Pren 3
-quart 3
 Coneixes 3
 peus 3
 depressa 3

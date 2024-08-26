@@ -1,6 +1,6 @@
 yn 557
 i 341
-Mae 283
+Mae 284
 y 197
 Dw 186
 i'n 177
@@ -31,7 +31,7 @@ mynd 46
 chi'n 45
 yw 45
 i'r 42
-iawn 41
+iawn 42
 siarad 38
 eisiau 37
 byw 36
@@ -52,12 +52,12 @@ di 25
 fi 25
 Mae'n 25
 ydy 24
+yma 24
 gen 24
 gwneud 24
 hynny 24
 dod 23
 fel 23
-yma 23
 ond 23
 ôl 23
 bwyta 23
@@ -66,10 +66,10 @@ dim 22
 wneud 22
 Dych 21
 dw 21
+o'n 21
 rhaid 21
 yfed 21
 mae'r 20
-o'n 20
 o'r 19
 gallu 19
 da 19
@@ -93,13 +93,13 @@ A 16
 rhy 16
 dysgu 16
 eu 15
+ni'n 15
 bwrw 15
 Dydy 15
 Yn 15
 ardd 15
 oes 15
 e'n 14
-ni'n 14
 Ydych 14
 Saesneg 14
 Does 14
@@ -312,6 +312,7 @@ erbyn 5
 efo 5
 tocyn 5
 gwin 5
+Dan 5
 colli 5
 Ga 5
 Dyma 4
@@ -324,6 +325,7 @@ gorau 4
 llygaid 4
 eistedd 4
 ennill 4
+teimlo'n 4
 digon 4
 dros 4
 ddigon 4
@@ -403,7 +405,6 @@ prifddinas 4
 hoffi'r 4
 fydd 4
 Yma 4
-Dan 4
 Dylech 4
 frecwast 4
 nesa 4
@@ -429,7 +430,6 @@ broblem 3
 America 3
 cŵn 3
 Awstralia 3
-teimlo'n 3
 bron 3
 ef 3
 mae'n 3
@@ -729,6 +729,7 @@ bywyd 2
 synnwyr 2
 pêl-droed 2
 union 2
+olygus 2
 orffen 2
 Dylwn 2
 wnaed 2
@@ -1321,7 +1322,6 @@ prif 1
 gynnyrch 1
 Welais 1
 hynod 1
-olygus 1
 Nes 1
 Roeddwon 1
 roeddwt 1
@@ -2544,3 +2544,4 @@ hei 1
 chath 1
 feddyg 1
 fyfyriwr 1
+saff 1
