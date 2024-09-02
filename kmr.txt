@@ -12,7 +12,7 @@ ye 645
 ku 613
 Em 544
 Tom 544
-Tu 524
+Tu 523
 me 519
 te 499
 de 466
@@ -589,7 +589,6 @@ digirin 10
 aliyan 10
 taybet 10
 salekê 10
-dar 10
 timî 10
 qey 10
 anî 10
@@ -656,6 +655,7 @@ nîşan 9
 cara 9
 malbatê 9
 lawiran 9
+dar 9
 Nikarim 9
 difikirim 9
 awayekî 9
@@ -9243,4 +9243,3 @@ vîrûsek 1
 Vîrûsê 1
 lîstikek 1
 lîstiye 1
-bare 1

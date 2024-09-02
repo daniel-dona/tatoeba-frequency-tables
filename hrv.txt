@@ -1,5 +1,5 @@
 je 1720
-se 626
+se 627
 u 558
 sam 464
 da 415
@@ -50,9 +50,9 @@ Mary 50
 može 49
 Zašto 49
 dobro 49
+Kako 48
 kako 48
-Kako 47
-tako 47
+tako 48
 Želim 47
 prije 47
 iz 47
@@ -931,6 +931,7 @@ vuk 4
 proljeće 4
 mačke 4
 miševi 4
+došlo 4
 ponekad 4
 otok 4
 Tata 4
@@ -1251,7 +1252,6 @@ York 3
 jače 3
 vrabac 3
 nebom 3
-došlo 3
 pasa 3
 ovome 3
 sretni 3
@@ -1849,6 +1849,7 @@ trebam 2
 svijetom 2
 Zaboravio 2
 Zamolio 2
+otvori 2
 Koristi 2
 najomiljeniji 2
 SAD-a 2
@@ -3292,7 +3293,6 @@ očite 1
 nedostatke 1
 otiđeš 1
 nedostajat 1
-otvori 1
 pitaj 1
 Sto 1
 Nizozemske 1
@@ -8322,3 +8322,5 @@ pokvario 1
 Serengeti 1
 fašizmu 1
 kolonijalizmu 1
+Sezame 1
+otišlo 1

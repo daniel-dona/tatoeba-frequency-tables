@@ -7,21 +7,22 @@ rir 6
 w 6
 u 6
 t 6
+a 6
 n 6
-V 6
 l 5
-a 5
 q 5
+V 5
+J 5
 aql 4
 sa 4
 k 4
 ji 4
 san 4
-J 4
 fra 3
 s 3
 r 3
 nu 3
+i 3
 nes 3
 ms 3
 f 3
@@ -29,6 +30,7 @@ C 3
 p 3
 2 2
 jun 2
+fa 2
 qu 2
 yedo 2
 yaql 2
@@ -36,9 +38,9 @@ de 2
 kytax 2
 ybixy 2
 do 2
-i 2
 sipo 2
 kos 2
+c 2
 paso 2
 ha 2
 gu 2
@@ -86,7 +88,6 @@ urgspi 1
 oile 1
 ac 1
 nurg 1
-fa 1
 ryu 1
 dol 1
 ydux 1
@@ -114,7 +115,6 @@ zoes 1
 g 1
 wi 1
 zoesz 1
-c 1
 er 1
 qi 1
 om 1
@@ -193,3 +193,5 @@ por 1
 ati 1
 Vot-e 1
 dor 1
+Qa 1
+lin 1

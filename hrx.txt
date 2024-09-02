@@ -50,9 +50,9 @@ aam 29
 mache 29
 deer 28
 fun 27
+Deer 27
 was 26
 nichs 26
-Deer 26
 weis 25
 aarich 25
 Glick 25
@@ -122,7 +122,6 @@ kommd 12
 schaffe 12
 Himd 12
 Aarvet 12
-ich 12
 alles 12
 sihn 12
 host 12
@@ -133,6 +132,7 @@ Karre 11
 spreche 11
 Wiffel 11
 Kann-ich 11
+ich 11
 Geh 11
 schlofe 11
 host-du 11
@@ -160,6 +160,7 @@ wo 10
 Wasser 10
 däd 10
 Unser 9
+all 9
 geschribb 9
 doch 9
 brauche 9
@@ -177,7 +178,6 @@ lamsam 9
 eer 9
 Maria 8
 Daagh 8
-all 8
 zweu 8
 bleive 8
 moie 8
@@ -210,6 +210,7 @@ Fer 7
 Zeid 7
 Aach 7
 Wennst-du 7
+Terf-ich 7
 em 7
 Geld 7
 wolld 7
@@ -229,6 +230,8 @@ waare 7
 ohne 7
 Boston 7
 geschaffd 7
+seid 7
+gleich 7
 Gebb 7
 wohne 7
 dasst-du 7
@@ -273,8 +276,6 @@ basseerd 6
 nie 6
 Eppel 6
 aankomm 6
-seid 6
-gleich 6
 Wem 6
 iwer 6
 Zeen 6
@@ -383,7 +384,6 @@ rehnd 4
 dann 4
 Problem 4
 gezeichd 4
-Derf-ich 4
 aanbiede 4
 musste 4
 Vaammer 4
@@ -773,6 +773,7 @@ fiele 2
 heb 2
 entschloss 2
 Haas 2
+terf 2
 kannst-du 2
 nenne 2
 kleen 2
@@ -809,7 +810,6 @@ Pimentong 2
 rod 2
 Rodrieb 2
 dun-se 2
-Terf-ich 2
 aushellfe 2
 stehn 2
 Setz 2
@@ -1055,7 +1055,6 @@ jeder 1
 Moment 1
 aankomme 1
 aangang 1
-Derf 1
 ist 1
 letst 1
 lohnd 1
@@ -1348,7 +1347,6 @@ Herde 1
 owe 1
 gesehld 1
 bewehe 1
-derf 1
 grose 1
 schaarfe 1
 Kralle 1
@@ -1587,7 +1585,6 @@ rëaghiere 1
 schreibd 1
 Gedichte 1
 berst 1
-terf 1
 ihne 1
 was-mer 1
 Tatoeba 1
