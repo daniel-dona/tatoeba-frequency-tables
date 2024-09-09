@@ -1,16 +1,16 @@
-Saya 1422
-saya 1296
-yang 1167
+Saya 1423
+saya 1299
+yang 1168
 Tom 1154
 tidak 1122
 di 739
 awak 710
 itu 628
 ini 595
-akan 570
+akan 571
 untuk 560
 Dia 537
-dan 421
+dan 422
 dia 418
 dengan 414
 ke 371
@@ -21,9 +21,9 @@ boleh 264
 pergi 259
 dalam 253
 tahu 242
-kita 222
+kita 223
 Awak 222
-apa 218
+apa 219
 adalah 211
 mahu 201
 ada 197
@@ -48,8 +48,8 @@ bahasa 138
 mempunyai 134
 kami 125
 daripada 123
+sangat 123
 pernah 123
-sangat 122
 tak 116
 suka 115
 dapat 112
@@ -85,7 +85,7 @@ sama 79
 sekarang 79
 mana 78
 berada 78
-buat 76
+buat 77
 buku 76
 masih 76
 tinggal 71
@@ -125,9 +125,9 @@ bersama 54
 ia 54
 atas 54
 tidur 52
+bekerja 52
 berlaku 51
 baru 51
-bekerja 51
 masalah 50
 sana 50
 begitu 50
@@ -205,12 +205,12 @@ merasakan 36
 كامو 36
 Sila 35
 sekali 35
+mampu 35
 Itu 35
 Australia 34
 bertanya 34
 menggunakan 34
 selalu 34
-mampu 34
 tiba 34
 kecil 33
 katakan 33
@@ -252,10 +252,11 @@ ketika 29
 hendak 29
 Mungkin 29
 semalam 28
+terus 28
 bulan 28
 nampak 28
 kelmarin 28
-terus 27
+berjaya 27
 patut 27
 sejuk 27
 doktor 27
@@ -267,7 +268,6 @@ mula 26
 memberi 26
 faham 26
 takut 26
-berjaya 26
 secara 26
 seseorang 26
 Sudah 26
@@ -338,6 +338,7 @@ turun 22
 tadi 22
 kalau 22
 kanak-kanak 22
+bandar 22
 ايت 22
 anjing 21
 Tuhan 21
@@ -352,7 +353,6 @@ bapa 21
 ayat 21
 Nampaknya 21
 sibuk 21
-bandar 21
 Mari 21
 bertemu 21
 ماري 21
@@ -404,6 +404,7 @@ terakhir 18
 terpaksa 18
 sering 18
 Kau 18
+kehidupan 18
 Bukan 18
 mengapa 18
 pakaian 18
@@ -431,7 +432,6 @@ perjalanan 17
 gemar 17
 bila 17
 sebelah 17
-kehidupan 17
 cuma 17
 menang 17
 اڤ 17
@@ -447,6 +447,7 @@ kucing 16
 kuat 16
 meletakkan 16
 maaf 16
+menyukai 16
 dibuat 16
 memberikan 16
 sukar 16
@@ -480,7 +481,6 @@ selamat 15
 dilakukan 15
 empat 15
 Untuk 15
-menyukai 15
 pekerjaan 15
 mahukan 15
 memutuskan 15
@@ -684,6 +684,7 @@ ataupun 10
 isteri 10
 ternampak 10
 benci 10
+pihak 10
 terkenal 10
 lambat 10
 menaiki 10
@@ -744,7 +745,6 @@ kawasan 9
 suami 9
 roti 9
 tandas 9
-pihak 9
 terlambat 9
 saat 9
 membunuh 9
@@ -1545,6 +1545,7 @@ berusia 4
 bagitahu 4
 mencium 4
 setengah 4
+Bagi 4
 cincin 4
 Duduk 4
 menerjemahkan 4
@@ -1989,7 +1990,6 @@ jari 3
 Adik 3
 bantal 3
 jawapannya 3
-Bagi 3
 menjadikannya 3
 berkelah 3
 terjemahkan 3
@@ -2758,6 +2758,7 @@ cita-cita 2
 anggun 2
 kiralah 2
 penerbangan 2
+berkembang 2
 Peraturan 2
 ketinggalan 2
 Hasil 2
@@ -4740,7 +4741,6 @@ Benar-benar 1
 penggunaan 1
 manapun 1
 Umat 1
-berkembang 1
 Nokosimban 1
 nodi 1
 dino 1
@@ -7618,3 +7618,5 @@ telepati 1
 jeritan 1
 pertengkaran 1
 ganas 1
+"Mari 1
+bersama-sama" 1

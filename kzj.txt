@@ -1,6 +1,6 @@
-do 3326
-zou 1190
-di 977
+do 3330
+zou 1192
+di 978
 no 900
 i 803
 Tom 697
@@ -12,7 +12,7 @@ nu 442
 nopo 417
 Au 409
 doid 404
-om 369
+om 370
 dii 366
 isido 360
 dau 349
@@ -27,13 +27,13 @@ mantad 183
 diau 175
 Mary 171
 dogo 166
-kozo 161
+kozo 162
 tuhun 158
 Au' 157
+daa 153
 zikoi 152
-daa 152
 kumaa 151
-tokou 141
+tokou 142
 iho 138
 tu 138
 boos 136
@@ -68,7 +68,7 @@ koiho 63
 toun 62
 maan 62
 timpu 60
-Mimang 59
+Mimang 60
 buuk 58
 dino 58
 nung 57
@@ -81,11 +81,11 @@ ngaavi 53
 kokomoi 52
 aanangan 51
 insan 51
+Aanangan 50
 Koiho 50
 dati 50
 nodii 50
 ti 50
-Aanangan 49
 Nunu 49
 dagai 49
 tu' 49
@@ -136,13 +136,13 @@ diozu 33
 ino 32
 Kadazan 32
 okon 32
+koposizon 31
 Jipun 31
 ngaan 31
 tomoimo 31
 Okon 31
 toi 30
 ziaha' 30
-koposizon 30
 ontok 30
 gisom 30
 Songkuo 30
@@ -156,6 +156,7 @@ Izou 29
 tasu 28
 Apatut 28
 Mositi 28
+kakadazan 28
 vinasi 28
 vaig 28
 mikot 27
@@ -163,7 +164,6 @@ Kanou 27
 doino 27
 piipio 27
 hongon 27
-kakadazan 27
 avasi 27
 Sami 27
 ingkaa 27
@@ -388,6 +388,7 @@ tavan 11
 Onuai 11
 Minugad 11
 totuvong 11
+momohi 11
 nu" 11
 maso 11
 minit 11
@@ -427,7 +428,6 @@ sangadau 10
 onu 10
 paganakan 10
 Oihaan 10
-momohi 10
 Ingkaa 10
 bobog 10
 Maan 10
@@ -1018,6 +1018,7 @@ Manganu 4
 suduvon 4
 somoonu 4
 kahasa 4
+potihombus 4
 avasi' 4
 tutubpoon 4
 kisanganu 4
@@ -1224,6 +1225,7 @@ tizonon 3
 poihoo 3
 Sabah 3
 aanu 3
+pakalaja' 3
 mingkakat 3
 Tuminingkod 3
 sumaga 3
@@ -1341,7 +1343,6 @@ Kakadazan 3
 togingo 3
 kada 3
 pagampu 3
-potihombus 3
 sinikulan 3
 Nosunudan 3
 nosinduahan 3
@@ -1697,7 +1698,6 @@ isooi 2
 tumongkizad 2
 Otootopot 2
 kohimpupuson 2
-pakalaja' 2
 tumo'od 2
 mintutun 2
 Katapatan 2
@@ -6727,3 +6727,8 @@ togizak 1
 osiisikap 1
 koinano' 1
 agauk 1
+"Kanou 1
+popobuu' 1
+kahantazo' 1
+songovian" 1
+cheese 1

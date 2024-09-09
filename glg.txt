@@ -1,34 +1,34 @@
-a 1278
-que 1179
-de 1144
-o 1064
-é 779
-non 605
-un 558
+a 1280
+que 1183
+de 1148
+o 1069
+é 781
+non 607
+un 559
 O 551
-e 516
-A 450
-unha 437
+e 518
+A 452
+unha 438
 Non 430
 do 345
 en 323
 da 290
-os 272
+os 276
 máis 264
-para 255
+para 256
 no 235
 as 232
+meu 225
 ao 222
-meu 222
+por 219
 Tom 219
-por 218
 El 197
 se 193
 na 192
-á 187
+á 188
 súa 185
-está 177
-miña 175
+miña 180
+está 179
 Os 173
 seu 164
 Ela 151
@@ -37,7 +37,7 @@ ten 145
 con 142
 moi 132
 É 132
-me 124
+me 125
 dos 121
 Que 115
 como 109
@@ -47,8 +47,8 @@ hai 96
 moito 89
 facer 88
 foi 88
-Por 87
-pero 83
+Por 88
+pero 84
 seus 83
 As 83
 Se 82
@@ -67,7 +67,7 @@ vida 71
 tempo 70
 nada 70
 aquí 70
-tan 68
+tan 69
 polo 67
 ti 67
 estaba 66
@@ -78,18 +78,18 @@ te 65
 Eu 64
 podo 63
 ben 62
+só 62
 este 62
 favor 62
 anos 62
 Hai 62
-só 61
 ela 61
 pai 61
 nai 60
 teño 60
 lle 59
+novo 59
 min 58
-novo 57
 noite 57
 traballo 56
 home 56
@@ -104,8 +104,8 @@ tarde 52
 lingua 52
 Este 52
 coma 51
+nos 50
 Esta 49
-nos 49
 vez 47
 Son 46
 mellor 46
@@ -132,6 +132,7 @@ Quen 40
 hoxe 40
 aínda 40
 ter 40
+Xa 40
 Mary 40
 veces 39
 libro 39
@@ -144,17 +145,16 @@ mesmo 38
 hora 38
 boa 38
 Podes 38
-Xa 38
 Como 38
 auga 37
 súas 37
 dicir 37
+entre 37
 demasiado 36
 sobre 36
 irmán 36
 tres 36
 amor 36
-entre 36
 días 35
 quero 35
 En 35
@@ -174,6 +174,7 @@ ano 32
 noso 32
 antes 32
 nunca 32
+persoas 32
 nome 31
 muller 31
 can 31
@@ -182,7 +183,6 @@ estar 31
 Onde 31
 De 31
 despois 31
-persoas 31
 cousas 30
 onde 30
 facelo 30
@@ -196,12 +196,13 @@ cos 29
 Gustaríame 29
 ollos 29
 menos 29
+corazón 29
 amigo 28
 teus 28
 así 28
 fai 28
 historia 28
-corazón 28
+preto 28
 dunha 27
 Hoxe 27
 primeiro 27
@@ -211,7 +212,7 @@ mal 27
 sexa 27
 dende 27
 nunha 27
-preto 27
+irmá 27
 comer 27
 Quero 26
 ese 26
@@ -219,7 +220,6 @@ cidade 26
 sei 26
 cada 26
 tiña 26
-irmá 26
 podes 26
 Tes 25
 dun 25
@@ -298,6 +298,7 @@ estación 19
 familia 19
 outra 19
 gusta 19
+nós 19
 nenos 19
 cara 19
 alí 19
@@ -317,7 +318,6 @@ Nunca 18
 palabra 18
 teléfono 18
 toda 18
-nós 18
 rapaz 18
 aprender 18
 flores 18
@@ -356,6 +356,7 @@ tódolos 16
 certo 16
 es 16
 Cal 16
+lugar 16
 Ao 16
 chover 16
 foron 16
@@ -378,7 +379,6 @@ Es 15
 pelo 15
 Cada 15
 Na 15
-lugar 15
 estaban 15
 todas 15
 guerra 15
@@ -386,13 +386,16 @@ saúde 15
 neste 15
 Miña 15
 uns 15
+Todos 15
 linguas 15
 viaxe 15
 Agora 15
 escribir 15
 algunha 15
+número 15
 poder 15
 filla 15
+cabeza 15
 miñas 14
 vén 14
 vas 14
@@ -406,7 +409,9 @@ senón 14
 pronto 14
 paz 14
 río 14
+amado 14
 mozo 14
+homes 14
 grandes 14
 ceo 14
 poden 14
@@ -414,11 +419,8 @@ seguro 14
 tal 14
 Aínda 14
 fiestra 14
-Todos 14
 polas 14
-número 14
 té 14
-cabeza 14
 pé 14
 Estás 14
 forma 14
@@ -440,15 +442,14 @@ propia 13
 temos 13
 avión 13
 estudar 13
-amado 13
 John 13
 falta 13
-homes 13
 Esa 13
 baixo 13
 Penso 13
 azul 13
 partido 13
+único 13
 tamén 13
 branco 13
 calquera 13
@@ -480,7 +481,6 @@ Pero 12
 túas 12
 Espero 12
 moza 12
-único 12
 sombra 12
 bicicleta 12
 Fun 12
@@ -497,6 +497,7 @@ zapatos 12
 consello 12
 medio 12
 árbores 12
+chamar 12
 ningunha 11
 saír 11
 poucos 11
@@ -537,7 +538,6 @@ chave 11
 horas 11
 mercar 11
 lume 11
-chamar 11
 Antes 11
 será 11
 sangue 11
@@ -573,6 +573,7 @@ sentido 10
 mellores 10
 follas 10
 futuro 10
+había 10
 lado 10
 Cantos 10
 canción 10
@@ -594,6 +595,7 @@ Estamos 10
 Queres 10
 rapaces 10
 pedra 10
+amada 10
 nadar 9
 presidente 9
 preciso 9
@@ -637,7 +639,6 @@ Unidos 9
 primeira 9
 completamente 9
 significa 9
-había 9
 esquina 9
 súpeto 9
 Sinto 9
@@ -665,11 +666,11 @@ sería 9
 segundo 9
 cociña 9
 / 9
-amada 9
 chove 8
 varias 8
 situación 8
 Ás 8
+realmente 8
 fixeches 8
 cea 8
 reloxo 8
@@ -682,6 +683,7 @@ poida 8
 significado 8
 lugares 8
 voar 8
+Estabamos 8
 noivo 8
 ovos 8
 enfermidade 8
@@ -699,6 +701,7 @@ resposta 8
 almorzo 8
 Estados 8
 chan 8
+tema 8
 Case 8
 puido 8
 primavera 8
@@ -743,7 +746,6 @@ posíbel 7
 verte 7
 digas 7
 oito 7
-realmente 7
 debe 7
 ganas 7
 estrada 7
@@ -759,7 +761,6 @@ adoito 7
 matemáticas 7
 exercicio 7
 debes 7
-Estabamos 7
 peixe 7
 Á 7
 ouro 7
@@ -796,7 +797,6 @@ mágoa 7
 natureza 7
 perigo 7
 logo 7
-tema 7
 gaña 7
 prezo 7
 queren 7
@@ -823,6 +823,7 @@ comeza 7
 deume 7
 pensa 7
 duro 7
+poñer 7
 sala 7
 precisa 7
 obra 7
@@ -874,6 +875,7 @@ enderezo 6
 orde 6
 camión 6
 éxito 6
+par 6
 caso 6
 estuda 6
 naquel 6
@@ -959,7 +961,6 @@ avoa 6
 din 6
 Sonche 6
 Neste 6
-poñer 6
 parvos 6
 vivía 6
 abondo 6
@@ -997,6 +998,7 @@ luns 6
 bágoas 6
 chámase 6
 mel 6
+pomba 6
 – 6
 compañeiros 6
 chaves 5
@@ -1004,6 +1006,7 @@ peito 5
 contestar 5
 dis 5
 aguia 5
+pés 5
 fillas 5
 quente 5
 italiano 5
@@ -1029,9 +1032,9 @@ tenis 5
 resultado 5
 deben 5
 xaponeses 5
+pobo 5
 praia 5
 perda 5
-par 5
 chamada 5
 próxima 5
 desapareceu 5
@@ -1220,7 +1223,6 @@ destino 5
 peor 5
 corpus 5
 estea 5
-pomba 5
 toca 4
 conciencia 4
 buscar 4
@@ -1233,7 +1235,6 @@ daquela 4
 cancro 4
 raíña 4
 marabilloso 4
-pés 4
 pequenos 4
 Comprei 4
 trinta 4
@@ -1259,7 +1260,6 @@ uso 4
 sabor 4
 nevar 4
 proxecto 4
-pobo 4
 fogar 4
 Reino 4
 peso 4
@@ -1492,6 +1492,7 @@ cres 4
 limpar 4
 quince 4
 froito 4
+cabelo 4
 medran 4
 Xulio 4
 raposo 4
@@ -1702,6 +1703,7 @@ imaxinar 3
 memoria 3
 embaixo 3
 Tiña 3
+políticos 3
 3 3
 produce 3
 deter 3
@@ -1744,6 +1746,7 @@ desenvolvemento 3
 personalidade 3
 Madrid 3
 virus 3
+sentimentos 3
 Dixo 3
 dúbidas 3
 digan 3
@@ -1770,6 +1773,7 @@ inmediatamente 3
 falaba 3
 estrutura 3
 8 3
+humanidade 3
 Smith 3
 panadaría 3
 Helena 3
@@ -1823,6 +1827,7 @@ interesantes 3
 Debe 3
 xudicial 3
 Estades 3
+ocupados 3
 desfacerse 3
 cartas 3
 normal 3
@@ -1982,7 +1987,6 @@ casca 3
 rubia 3
 zoo 3
 louro 3
-cabelo 3
 xeralmente 3
 flotan 3
 romano 3
@@ -2167,12 +2171,14 @@ nomes 3
 cinzas 3
 adoptadas 3
 debilitan 3
+importantes 3
 destes 3
 verbo 3
 romanos 3
 cartaxineses 3
 latina 3
 andoriñas 3
+escoito 3
 violencia 3
 mozos 3
 Eneas 3
@@ -2327,6 +2333,7 @@ Sabía 2
 enfermou 2
 ocupada 2
 eliminar 2
+Durmín 2
 xanela 2
 incendio 2
 Picasso 2
@@ -2413,7 +2420,6 @@ Moito 2
 tino 2
 síntome 2
 secou 2
-políticos 2
 deberían 2
 cumprir 2
 chaqueta 2
@@ -2486,7 +2492,6 @@ molécula 2
 metal 2
 xenoma 2
 coñecido 2
-sentimentos 2
 racional 2
 células 2
 sanguíneas 2
@@ -2537,7 +2542,6 @@ ricas 2
 Canadá 2
 complexa 2
 ensínanos 2
-humanidade 2
 Escolle 2
 chou 2
 título 2
@@ -2577,6 +2581,7 @@ visitamos 2
 Endexamais 2
 xamais 2
 curmán 2
+primo 2
 República 2
 celébrase 2
 Pra 2
@@ -2636,7 +2641,6 @@ comúns 2
 “vi” 2
 Mellor 2
 patio 2
-ocupados 2
 descanso 2
 Marie 2
 descubriu 2
@@ -3386,6 +3390,7 @@ carga 2
 Aos 2
 bonitas 2
 danza 2
+2 2
 círculo 2
 Vives 2
 bailaba 2
@@ -3543,7 +3548,6 @@ conferencias 2
 síndrome 2
 críticas 2
 tentalo 2
-importantes 2
 daquel 2
 sensibles 2
 alegría 2
@@ -3575,7 +3579,6 @@ Sobre 2
 prometer 2
 confirmada 2
 feitos 2
-escoito 2
 asustados 2
 marcar 2
 goles 2
@@ -3612,6 +3615,7 @@ colares 2
 prata 2
 inoxidable 2
 Coma 2
+Velaí 2
 oír 2
 raposos 2
 alma: 2
@@ -3933,7 +3937,6 @@ zona 1
 escasez 1
 malos 1
 Chámaa 1
-Durmín 1
 peite 1
 Chamádeme 1
 descubrides 1
@@ -4601,7 +4604,6 @@ amañar 1
 arranxar 1
 estábame 1
 duchar 1
-primo 1
 precise 1
 histórica 1
 desexa-los 1
@@ -7607,7 +7609,6 @@ pandeireta 1
 realizou 1
 graza 1
 envergadura 1
-2 1
 25 1
 m 1
 aguias 1
@@ -9357,7 +9358,6 @@ xúrovos: 1
 espertedes 1
 deixade 1
 acordar 1
-Velaí 1
 Mirade 1
 saltando 1
 virtudes 1
@@ -9648,3 +9648,21 @@ emborrachade 1
 cambiaches 1
 nome" 1
 ti" 1
+vixía 1
+porta: 1
+"Abre 1
+impecable 1
+orballada 1
+empapado 1
+relento" 1
+quitei 1
+túnica 1
+voume 1
+lavei 1
+vounos 1
+ensuciar 1
+aseguramos 1
+cargos 1
+estean 1
+entendan 1
+constitúen 1

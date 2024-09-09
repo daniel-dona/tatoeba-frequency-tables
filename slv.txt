@@ -1,4 +1,4 @@
-je 974
+je 975
 Ali 226
 sem 174
 se 169
@@ -28,18 +28,18 @@ Govorim 53
 Koliko 46
 ime 45
 bo 44
-Kako 42
+Kako 43
+to 43
 lahko 42
-to 42
 iz 42
 moj 40
 bi 40
 me 37
 moja 37
 ima 36
+Kje 35
 ki 35
 jezik 35
-Kje 34
 bil 34
 Sem 34
 z 33
@@ -132,6 +132,7 @@ Moj 11
 nikoli 11
 biti 11
 Mi 11
+do 11
 kar 11
 pa 11
 vem 11
@@ -145,7 +146,6 @@ A 11
 kitajsko 11
 ura 10
 Grem 10
-do 10
 svoje 10
 star 10
 jaz 10
@@ -624,6 +624,7 @@ tvoja 3
 24 3
 igra 3
 glasbo 3
+Moram 3
 Vreme 3
 Bojim 3
 živim 3
@@ -631,6 +632,7 @@ Vi 3
 Kakšne 3
 bodo 3
 pomoč 3
+pridem 3
 Rusiji 3
 govoriti 3
 tedna 3
@@ -693,6 +695,7 @@ Res 3
 teče 3
 majhno 3
 poti 3
+priti 3
 Bostonu 3
 nima 3
 Vedno 3
@@ -926,7 +929,6 @@ rumene 2
 problema 2
 grem 2
 peš 2
-Moram 2
 sončno 2
 številka 2
 Kajenje 2
@@ -939,7 +941,6 @@ elegantna 2
 česa 2
 vašo 2
 denarnico 2
-pridem 2
 kreditne 2
 kartice 2
 Nehaj 2
@@ -1047,7 +1048,6 @@ k 2
 kura 2
 fanta 2
 zlata 2
-priti 2
 Roke 2
 Pojdi 2
 umit 2
@@ -1109,6 +1109,7 @@ lačna 2
 želi 2
 presenetilo 2
 Zaradi 2
+tja 2
 naredim 2
 najboljše 2
 resnih 2
@@ -2472,7 +2473,6 @@ poljubila 1
 Vej 1
 strašiš 1
 puliš 1
-tja 1
 skupaj 1
 grize 1
 plažo 1

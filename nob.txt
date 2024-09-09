@@ -1,10 +1,10 @@
-er 4357
+er 4359
 Jeg 3614
 ikke 2476
 å 2189
 i 2174
 en 2051
-du 1888
+du 1890
 har 1805
 det 1803
 Tom 1766
@@ -28,7 +28,7 @@ deg 732
 kan 658
 vil 645
 om 585
-så 580
+så 582
 han 574
 Vi 555
 den 494
@@ -36,9 +36,9 @@ min 468
 seg 444
 noe 379
 Hva 358
-de 356
+de 358
 hadde 340
-De 330
+De 332
 må 330
 være 328
 vi 324
@@ -55,7 +55,7 @@ ham 279
 vet 271
 Hvor 268
 kommer 267
-hva 265
+hva 267
 går 263
 Er 259
 din 256
@@ -135,8 +135,8 @@ litt 116
 mine 116
 nok 116
 hele 116
+gjorde 116
 La 115
-gjorde 114
 god 109
 godt 109
 sine 109
@@ -271,6 +271,7 @@ fort 52
 dårlig 52
 Så 52
 fortelle 52
+under 51
 føler 51
 Nå 51
 tatt 50
@@ -285,10 +286,10 @@ bil 49
 For 49
 tiden 49
 veien 49
-under 49
 hvorfor 49
 leve 49
 gjennom 49
+bordet 47
 snill 47
 vite 47
 ennå 47
@@ -302,9 +303,9 @@ beste 46
 begynte 46
 gått 46
 skjedde 46
-bordet 45
 På 45
 lett 45
+lang 45
 disse 45
 Da 45
 tenker 45
@@ -323,7 +324,6 @@ skrive 43
 dagen 43
 hund 43
 gode 43
-lang 43
 uke 43
 lyst 43
 drikker 43
@@ -336,6 +336,7 @@ vant 41
 kjenner 41
 holdt 41
 gamle 41
+Vet 41
 Å 41
 hverandre 40
 hvem 40
@@ -355,7 +356,6 @@ mor 39
 kvinne 39
 bok 39
 Tyskland 39
-Vet 39
 enda 39
 jobb 39
 finnes 39
@@ -1167,6 +1167,7 @@ golf 10
 derfor 10
 esperanto 10
 starter 10
+solgte 10
 sofaen 10
 Columbus 10
 greier 10
@@ -1275,7 +1276,6 @@ varte 9
 Hallo 9
 glade 9
 gull 9
-solgte 9
 Kristoffer 9
 voksen 9
 åpne 9
@@ -1388,6 +1388,7 @@ tjue 8
 Rommet 8
 gulvet 8
 slutten 8
+rekke 8
 nektet 8
 smak 8
 lovet 8
@@ -1732,7 +1733,6 @@ søstrene 6
 trærne 6
 fylt 6
 flytter 6
-rekke 6
 halvparten 6
 starte 6
 òg 6
@@ -2705,6 +2705,7 @@ Ville 4
 Veien 4
 smal 4
 uenig 4
+godteri 4
 stige 4
 skremte 4
 peiling 4
@@ -2982,6 +2983,7 @@ Hopp 3
 myk 3
 sentrum 3
 stol 3
+frekke 3
 dame 3
 framfor 3
 telt 3
@@ -3448,7 +3450,6 @@ kjøpesenteret 3
 forfremmet 3
 Kvinner 3
 Yoko 3
-godteri 3
 trukket 3
 trykket 3
 prøv 3
@@ -3596,6 +3597,7 @@ Klar 3
 Fortsett 3
 Sayoko 3
 forsov 3
+Lang 3
 overlevde 3
 skammet 3
 berbisk 3
@@ -5474,6 +5476,7 @@ taco 2
 Røm 2
 Skrik 2
 Rop 2
+gutta 2
 menneskeverd 1
 menneskerettigheter 1
 brorskapets 1
@@ -6322,7 +6325,6 @@ konfigureringen 1
 kommunikasjonsprotokollen 1
 vagt 1
 Løsningen 1
-frekke 1
 snøstormen 1
 grunnønsker: 1
 togtrafikken 1
@@ -9996,5 +9998,3 @@ sørlige 1
 fantastiske 1
 seriøs 1
 nordavind 1
-bekmørkt 1
-dagboken 1

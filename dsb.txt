@@ -1,7 +1,7 @@
-jo 291
+jo 292
 se 90
 Tom 71
-Som 57
+Som 59
 a 54
 To 54
 w 54
@@ -12,9 +12,9 @@ na 42
 su 40
 ma 31
 Źo 31
+to 31
 až 30
 ako 30
-to 28
 njejo 28
 za 27
 Ja 27
@@ -67,6 +67,7 @@ Na 10
 Mój 10
 wót 10
 te 10
+we 10
 kócka 10
 ja 10
 jě 10
@@ -76,7 +77,6 @@ Myslim 9
 awto 9
 ga 9
 kótarež 9
-we 9
 maju 9
 rowno 9
 dobry 8
@@ -615,6 +615,7 @@ módry 2
 góleśi 2
 nowu 2
 dosć 2
+jśpě 2
 Pijom 2
 wino 2
 Elefant 2
@@ -1831,7 +1832,6 @@ Pśichod 1
 zajźonosć 1
 namała 1
 pětk 1
-jśpě 1
 mucha 1
 Jaden 1
 styri 1
@@ -2203,3 +2203,9 @@ Słowaki 1
 Słowaka 1
 Mórjo 1
 zelene 1
+łacny 1
+łacna 1
+Słyšyš 1
+Słyšyśo 1
+Słyšytej 1
+Blido 1

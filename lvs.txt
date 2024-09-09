@@ -1,14 +1,14 @@
-ir 2190
-Es 1348
+ir 2192
+Es 1349
 Toms 713
 ka 620
 to 551
 un 524
-Man 439
+Man 440
 Vai 428
 Viņš 421
 ar 396
-bija 373
+bija 374
 es 368
 tu 361
 par 354
@@ -20,14 +20,14 @@ Tas 287
 kā 278
 uz 273
 ko 261
-ļoti 257
+ļoti 258
 Viņa 226
 kas 209
 Mēs 196
 esmu 193
 mani 190
 lai 178
-Tu 170
+Tu 171
 tev 159
 tik 156
 savu 155
@@ -37,8 +37,8 @@ daudz 141
 būt 140
 bet 140
 vai 138
+esi 137
 var 136
-esi 136
 Tomam 131
 viņa 130
 viņu 130
@@ -71,8 +71,8 @@ vienmēr 72
 Kas 72
 nevaru 72
 Šis 71
+neesmu 71
 Ja 70
-neesmu 70
 Šī 69
 šodien 69
 nekā 68
@@ -89,22 +89,22 @@ jūtos 65
 Tomu 65
 nezinu 64
 būtu 63
+vajag 63
 pēc 63
 vienkārši 63
-vajag 62
 Viņam 62
 Lūdzu 61
 Ko 60
 labāk 60
+diezgan 60
 nebija 60
 jūsu 60
-diezgan 59
 Kāpēc 59
 pa 59
 nepatīk 58
 pie 58
+jo 58
 vēl 57
-jo 57
 nekad 56
 Cik 56
 viņi 55
@@ -130,13 +130,13 @@ gribu 46
 viņiem 45
 bieži 45
 neko 45
-līdz 44
+līdz 45
 vajadzētu 44
 cilvēkiem 44
 esat 43
 tur 43
+Mans 43
 zinu 42
-Mans 42
 mūsu 41
 viņai 41
 cilvēku 41
@@ -438,6 +438,7 @@ jūtas 13
 paliek 13
 nebiju 13
 paša 13
+īpaši 13
 tādēļ 13
 Saules 13
 Esi 13
@@ -474,7 +475,6 @@ daļa 12
 sava 12
 pareizi 12
 viedokli 12
-īpaši 12
 palīdz 12
 nokrita 12
 zupa 12
@@ -990,6 +990,7 @@ Neesmu 6
 pieradis 6
 jūties 6
 abi 6
+lēns 6
 plūst 6
 vairākas 6
 brīdi 6
@@ -1195,7 +1196,6 @@ paliec 5
 papīra 5
 ļauna 5
 "Vai 5
-lēns 5
 uzbruka 5
 izvēle 5
 vārdiem 5
@@ -2033,6 +2033,7 @@ noslēpums 3
 Piens 3
 apriebies 3
 brīdī 3
+sarežģīta 3
 jāmācās 3
 niez 3
 attieksme 3
@@ -2825,6 +2826,7 @@ pārsteiguma 2
 Kura 2
 kārta 2
 taisns 2
+interneta 2
 balsī 2
 prezidenta 2
 galvu 2
@@ -3031,7 +3033,6 @@ sūda 2
 tomāts 2
 auglis 2
 teiktā 2
-sarežģīta 2
 izteiciens 2
 vienkāršāk 2
 paēdis 2
@@ -3184,6 +3185,7 @@ alus 2
 tēva 2
 aizveries 2
 kūka 2
+briesmās 2
 kūkas 2
 upes 2
 Beduīni 2
@@ -4030,6 +4032,7 @@ pretī 2
 tualete 2
 latīņu 2
 daudzu 2
+nokļūt 2
 Tirgus 2
 atradi 2
 atradāt 2
@@ -4358,6 +4361,7 @@ jāparāda 2
 iedzimtā 2
 baudas 2
 izjūtu 2
+Bērniem 2
 pierast 2
 spēka 2
 drosmes 2
@@ -4419,6 +4423,7 @@ estrādes 2
 gaisā 2
 planēja 2
 dabūju 2
+bērnībā 2
 skaudība 2
 izraisīt 2
 sajūtas 2
@@ -5054,7 +5059,6 @@ padari 1
 netīru 1
 slīpums 1
 stāvs 1
-interneta 1
 briesmām 1
 skaļā 1
 ministra 1
@@ -6010,7 +6014,6 @@ pārsteigumu 1
 šokolādes 1
 Pēdējo 1
 basām 1
-briesmās 1
 jāaizņemās 1
 Džona 1
 samaksātu 1
@@ -9345,7 +9348,6 @@ Boldijs 1
 Martai 1
 malas 1
 raudzījās 1
-nokļūt 1
 nepastāvīgs 1
 gaistoša 1
 gāze 1
@@ -9996,5 +9998,3 @@ uzstāj 1
 uzstāt 1
 neuzstājiet 1
 uzstājība 1
-nemainīs 1
-pretojies 1

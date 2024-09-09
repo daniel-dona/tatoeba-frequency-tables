@@ -1,13 +1,13 @@
-að 3835
-er 3153
-Ég 2321
-í 2073
+að 3837
+er 3160
+Ég 2323
+í 2077
 á 1682
 ekki 1654
-ég 876
-Það 867
+ég 878
+Það 868
 Hann 797
-til 770
+til 771
 og 738
 það 702
 við 684
@@ -23,23 +23,23 @@ fyrir 509
 um 485
 af 453
 eru 452
-mér 430
+mér 431
 en 430
 þér 417
 mig 306
-fara 294
-Þetta 292
+fara 295
+Þetta 293
 þetta 278
 því 258
 Tom 253
 þig 252
 honum 249
 vera 248
-Hvað 241
+Hvað 242
 svo 233
 hefur 220
 gera 214
-mjög 210
+mjög 211
 eftir 205
 eins 190
 hans 183
@@ -100,8 +100,8 @@ verið 96
 ráðlagði 93
 fer 92
 hennar 92
+mitt 92
 sagði 91
-mitt 91
 aldrei 89
 þín 89
 þinn 88
@@ -116,8 +116,8 @@ Mig 84
 ef 83
 Hvar 83
 erum 83
+langar 83
 kemur 82
-langar 82
 þið 81
 sig 80
 maður 78
@@ -179,10 +179,10 @@ mína 53
 mundi 53
 kann 53
 hérna 53
+núna 53
 þeim 52
 verða 52
 kaupa 52
-núna 52
 fólk 51
 góður 51
 búinn 51
@@ -200,10 +200,10 @@ ensku 48
 lengur 48
 öll 47
 varð 47
+gaman 47
 annað 47
 vildi 46
 Má 46
-gaman 46
 enginn 46
 þarft 46
 Geturðu 46
@@ -213,11 +213,11 @@ nú 45
 Enginn 45
 fengið 45
 held 45
+Hvenær 44
 kominn 43
 hvernig 43
 líka 43
 þessum 43
-Hvenær 43
 lengi 43
 séð 42
 áfram 42
@@ -226,6 +226,7 @@ sama 42
 þeirra 41
 sagt 41
 höfum 41
+gott 41
 einu 41
 hjálpa 41
 drekka 41
@@ -236,14 +237,13 @@ gamall 40
 komið 40
 hefðir 40
 Hvaða 40
-gott 40
+ætla 40
 gæti 40
 halda 40
 fékk 39
 sína 39
 neitt 39
 býr 39
-ætla 39
 keypti 39
 vinsamlegast 39
 vinna 38
@@ -260,6 +260,7 @@ fimm 37
 lítur 37
 satt 37
 búa 37
+kvöld 37
 Allir 37
 alla 36
 talar 36
@@ -282,9 +283,9 @@ ganga 35
 Hefurðu 35
 Japan 35
 hafi 35
+spila 35
 ferð 35
 hvert 35
-kvöld 35
 tungumál 35
 bíl 34
 sinn 34
@@ -302,7 +303,6 @@ fyrr 33
 þangað 33
 tvö 33
 spurði 33
-spila 33
 degi 33
 hver 33
 Þið 33
@@ -609,6 +609,7 @@ laus 17
 nógu 17
 fólki 17
 einungis 17
+tilbúinn 17
 Veistu 17
 fylgja 17
 tvær 17
@@ -685,7 +686,6 @@ las 15
 ungur 15
 hundinn 15
 heimi 15
-tilbúinn 15
 sannleikann 15
 svara 15
 ómögulegt 15
@@ -700,6 +700,7 @@ eigin 14
 virkar 14
 leyfa 14
 þurfti 14
+útlanda 14
 kalla 14
 fundinn 14
 fimmtíu 14
@@ -757,7 +758,6 @@ gærkveldi 13
 Hafðu 13
 Þótt 13
 trúa 13
-útlanda 13
 geturðu 13
 þekkir 13
 borga 13
@@ -1029,6 +1029,7 @@ Fyrirgefðu 9
 stelpur 9
 Læknirinn 9
 sýna 9
+viltu 9
 braut 9
 mann 9
 svaf 9
@@ -1100,6 +1101,7 @@ heldurðu 9
 Gjörðu 9
 löng 9
 annar 9
+sakna 9
 dreymdi 9
 brátt 9
 klukkutíma 9
@@ -1132,6 +1134,7 @@ Sólin 8
 bílnum 8
 hönd 8
 Strax 8
+fótbolta 8
 nýjar 8
 ætlaði 8
 hamingjusöm 8
@@ -1143,7 +1146,6 @@ langa 8
 staðið 8
 lána 8
 hendur 8
-viltu 8
 fólks 8
 ánægður 8
 gleraugun 8
@@ -1248,7 +1250,6 @@ Jæja 8
 tólf 8
 fallega 8
 hugmyndir 8
-sakna 8
 Lokaðu 8
 hvor 8
 fangelsi 8
@@ -1288,7 +1289,6 @@ Satt 7
 hugsar 7
 einmitt 7
 Jim 7
-fótbolta 7
 teitina 7
 skulum 7
 ættirðu 7
@@ -1986,6 +1986,7 @@ veistu 5
 vakti 5
 heimsins 5
 stanslaust 5
+Maturinn 5
 Sittu 5
 uppiskroppa 5
 Líttu 5
@@ -2131,6 +2132,7 @@ einfaldlega 4
 erlendis 4
 Joe 4
 ferðina 4
+sólina 4
 setjast 4
 farir 4
 Börn 4
@@ -2452,6 +2454,7 @@ haltu 4
 lokast 4
 hurðir 4
 Ein 4
+gamalt 4
 heilsu 4
 höfðinu 4
 örlög 4
@@ -2473,7 +2476,6 @@ aðgerða 4
 myrkri 4
 Þvoðu 4
 Sjáumst 4
-Maturinn 4
 aðstoðað 4
 Eigðu 4
 viljið 4
@@ -2661,7 +2663,6 @@ austur 3
 lyf 3
 bekk 3
 Andlit 3
-sólina 3
 hatar 3
 búast 3
 einhverri 3
@@ -3244,9 +3245,9 @@ upplýsingum 3
 kveðjum 3
 sendu 3
 sjálfri 3
-gamalt 3
 dáið 3
 tilbreytingar 3
+veður 3
 þýðing 3
 brjáluð 3
 Útskýring 3
@@ -3310,6 +3311,7 @@ Farið 3
 buxurnar 3
 kyssa 3
 hávaðanum 3
+andskotanum 3
 tölvan 3
 villt 3
 mikilvægasta 3
@@ -4195,6 +4197,7 @@ Tekurðu 2
 Kanínur 2
 fangi 2
 veiði 2
+maturinn 2
 barnsins 2
 de 2
 toppinn 2
@@ -4816,7 +4819,6 @@ reyktir 2
 bjartsýnn 2
 samþykkir 2
 viðurkenni 2
-veður 2
 ljósmyndir 2
 ljósmyndun 2
 máltíð 2
@@ -4965,6 +4967,7 @@ söngvarann 2
 önnum 2
 kafin 2
 gnægð 2
+Sjónvarpið 2
 26 2
 Eldgosið 2
 brúðkaupsveislu 2
@@ -5036,7 +5039,6 @@ ráðleggingar 2
 týna 2
 myndavélinni 2
 lík 2
-andskotanum 2
 sjáumst 2
 bíddu 2
 feginn 2
@@ -7483,7 +7485,6 @@ elgi 1
 efnafræðisett 1
 giftumst 1
 Smakkaðist 1
-maturinn 1
 Contador 1
 gulu 1
 treyjuna 1
@@ -9997,4 +9998,3 @@ mal 1
 fjarstæðukenndasta 1
 Francesca 1
 íturvaxnari 1
-fyrirsæturnar 1

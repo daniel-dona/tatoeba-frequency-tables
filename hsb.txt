@@ -1,4 +1,4 @@
-je 343
+je 344
 Tom 92
 so 88
 To 74
@@ -14,9 +14,9 @@ zo 45
 ma 40
 su 40
 Mam 32
+to 32
 Ja 29
 Je 29
-to 28
 Čehodla 28
 rady 26
 bě 26
@@ -83,6 +83,7 @@ jabłuko 9
 Toma 9
 rěči 9
 Kelko 9
+we 9
 maja 9
 hižo 9
 wulki 9
@@ -95,7 +96,6 @@ poliwku 9
 moje 8
 wot 8
 tam 8
-we 8
 sam 8
 wučer 8
 psa 8
@@ -709,6 +709,7 @@ najwjetše 2
 Mary 2
 dosć 2
 pjatk 2
+jstwě 2
 dźewjeć 2
 wino 2
 Dyrbimy 2
@@ -1990,7 +1991,6 @@ Dźeń 1
 njeplanowane 1
 Přichod 1
 zańdźenosć 1
-jstwě 1
 mucha 1
 Jedyn 1
 štyri 1
@@ -2533,3 +2533,8 @@ Słowakaj 1
 Słowački 1
 Słowačce 1
 Morjo 1
+Słyšiš 1
+Słyšitaj 1
+Słyšitej 1
+Słyšiće 1
+Blido 1
