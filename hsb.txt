@@ -11,7 +11,7 @@ Hdźe 50
 na 49
 Wona 46
 zo 45
-ma 40
+ma 41
 su 40
 Mam 32
 to 32
@@ -72,6 +72,7 @@ wuši 10
 ty 10
 tři 10
 tež 10
+Kelko 10
 k 10
 kóčka 10
 Njejsym 10
@@ -82,7 +83,6 @@ Myslu 9
 jabłuko 9
 Toma 9
 rěči 9
-Kelko 9
 we 9
 maja 9
 hižo 9
@@ -357,6 +357,7 @@ Tu 3
 swojim 3
 narodźiła 3
 młódši 3
+mjedwjedź 3
 wulkej 3
 Tam 3
 myš 3
@@ -572,7 +573,6 @@ kraju 2
 pjenjez 2
 žiwa 2
 Čorny 2
-mjedwjedź 2
 mlokom 2
 čorna 2
 běłe 2
@@ -2538,3 +2538,4 @@ Słyšitaj 1
 Słyšitej 1
 Słyšiće 1
 Blido 1
+zubow 1

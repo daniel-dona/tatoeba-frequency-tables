@@ -1,4 +1,4 @@
-ast 247
+ast 248
 As 204
 ni 182
 en 125
@@ -8,7 +8,7 @@ kāi 83
 Tāns 80
 turri 71
 si 62
-per 56
+per 57
 be 51
 wīrst 50
 stan 49
@@ -16,7 +16,7 @@ bēi 48
 Tenā 44
 sen 34
 ezze 33
-spārtai 31
+spārtai 32
 mi 31
 Sta 31
 mazzi 31
@@ -52,10 +52,10 @@ majjan 16
 min 16
 Tenēi 15
 šan 15
+Ka 15
 Asma 15
 bilāi 14
 assei 14
-Ka 14
 tēr 14
 widāi 14
 mīli 14
@@ -83,6 +83,7 @@ grazzu 10
 jāu 10
 pastippan 10
 tenā 10
+sta 10
 stwi 10
 nawwan 10
 waīda 10
@@ -98,7 +99,6 @@ wīlai 9
 wissans 9
 Madli 9
 beggi 9
-sta 9
 penningans 9
 pirzdau 9
 etkūmps 9
@@ -120,6 +120,7 @@ kwaitēi 8
 labbai 8
 buttai 8
 wīda 7
+dīwai 7
 brendu 7
 segīwuns 7
 zinna 7
@@ -144,7 +145,6 @@ Tom 7
 bilīwuns 7
 Kawīds 7
 majs 6
-dīwai 6
 ginnins 6
 stēisan 6
 skūlin 6
@@ -321,6 +321,7 @@ tikrōman 3
 gērblai 3
 istōrijan 3
 Niainunts 3
+Malnīkai 3
 Tenesmu 3
 jātwei 3
 welsipēdan 3
@@ -460,7 +461,6 @@ Pirzdau 2
 billin 2
 Stwi 2
 kadāi 2
-Malnīkai 2
 spīlai 2
 spīlispagaptins 2
 Bilāi 2
@@ -520,6 +520,7 @@ abipussi 2
 gērba 2
 adlin 2
 ilgai 2
+aūga 2
 Pēismen 2
 enpeisāi 2
 Īzus 2
@@ -1060,7 +1061,6 @@ wāiss 1
 pussideinans 1
 stawīdai 1
 garēi 1
-aūga 1
 tāutai 1
 Japāniska 1
 admiralitāti 1
@@ -2460,3 +2460,4 @@ jūrjas 1
 snēigt 1
 Faīns 1
 Appi 1
+krimma 1

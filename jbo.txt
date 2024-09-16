@@ -1,13 +1,13 @@
-lo 12817
+lo 12818
 mi 6228
-cu 3490
+cu 3491
 do 3348
-la 2990
-pu 2306
+la 2991
+pu 2307
 le 2297
 nu 2122
 se 1917
-i 1815
+i 1816
 na 1618
 be 1333
 ko'a 1270
@@ -21,7 +21,7 @@ ra 823
 da 816
 fi 732
 klama 665
-ti 624
+ti 625
 poi 596
 ba 588
 du'u 562
@@ -36,7 +36,7 @@ loi 424
 mutce 411
 ku 401
 djuno 398
-cusku 382
+cusku 383
 prenu 370
 vi 363
 ca'o 358
@@ -64,7 +64,7 @@ za'u 242
 cukta 241
 ka'e 240
 fa 239
-kei 234
+kei 235
 ri 232
 mi'o 229
 ei 229
@@ -1244,6 +1244,7 @@ palta 8
 ru'u 8
 darsi 8
 me'i 8
+toldra 8
 tecra'a 8
 xebro 8
 zukcfu 8
@@ -1346,7 +1347,6 @@ sraji 7
 perli 7
 patlu 7
 gapci 7
-toldra 7
 dotygu'e 7
 xukau 7
 o'o 7
@@ -6918,3 +6918,5 @@ Tomku 1
 tsasu 1
 kenadjinu 1
 asti 1
+xuvyr 1
+sedu’u 1

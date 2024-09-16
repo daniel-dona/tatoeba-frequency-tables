@@ -1,14 +1,14 @@
-an 666
-a 637
+an 669
+a 638
 Tá 626
 mé 401
 ag 394
 Is 334
-é 269
-ar 241
+é 270
+ar 242
 tú 219
 sé 213
-go 209
+go 210
 bhfuil 207
 An 207
 seo 192
@@ -16,10 +16,10 @@ Ní 182
 agam 172
 Níl 164
 liom 155
-i 130
+i 131
 mo 127
-le 112
-na 104
+le 113
+na 105
 do 99
 maith 98
 sin 93
@@ -39,8 +39,8 @@ féidir 67
 mhaith 65
 agat 63
 raibh 62
+agus 61
 Ba 60
-agus 60
 dul 55
 ann 55
 Cad 53
@@ -54,8 +54,8 @@ fhios 46
 Cá 45
 Cé 43
 as 43
+ina 43
 aon 42
-ina 42
 duit 41
 ach 40
 nach 39
@@ -85,8 +85,8 @@ chun 24
 éigin 24
 fear 24
 bhean 24
+sibh 24
 foghlaim 24
-sibh 23
 fáth 23
 mian 23
 tá 22
@@ -113,6 +113,7 @@ ea 19
 chlog 19
 abhaile 19
 Gaeilge 19
+Dúirt 19
 léamh 18
 carr 18
 dó 18
@@ -123,7 +124,6 @@ Níor 18
 grá 18
 madra 18
 cat 18
-Dúirt 18
 thoil 17
 acu 17
 muid 17
@@ -133,6 +133,7 @@ don 17
 linn 17
 ól 16
 bhfaca 16
+ní 16
 scoil 16
 Chuir 16
 dhá 15
@@ -146,7 +147,6 @@ Mary 15
 Ar 15
 léi 15
 bia 15
-ní 15
 gcónaí 15
 Nach 15
 Caithfidh 15
@@ -172,6 +172,7 @@ daoine 13
 rá 13
 Táimid 13
 focal 13
+bhur 13
 litir 12
 Fuair 12
 seomra 12
@@ -187,7 +188,6 @@ teanga 12
 réidh 12
 ndáiríre 12
 buachaill 12
-bhur 12
 Thomáis 12
 liomsa 12
 insint 12
@@ -260,6 +260,7 @@ fuar 8
 Tháinig 8
 eagla 8
 Tabharfaidh 8
+rinne 8
 gorm 8
 imeacht 8
 cheart 8
@@ -291,7 +292,6 @@ beirt 7
 leabharlann 7
 uirthi 7
 minic 7
-rinne 7
 fhuinneog 7
 mbeidh 7
 orthu 7
@@ -527,6 +527,7 @@ locht 4
 éisc 4
 meisce 4
 ceol 4
+feoil 4
 chóir 4
 rís 4
 tSín 4
@@ -546,6 +547,7 @@ beorach 4
 Mháire 4
 inis 4
 Caitheann 4
+daoibh 4
 cheann 4
 staighre 4
 gortaithe 4
@@ -658,7 +660,6 @@ Díolann 3
 aráin 3
 madraí 3
 Leanne 3
-feoil 3
 thír 3
 póca 3
 John 3
@@ -696,6 +697,7 @@ soiléir 3
 maireachtáil 3
 gol 3
 Millie 3
+arán 3
 leath 3
 Mheiriceá 3
 líofa 3
@@ -704,7 +706,6 @@ scéal 3
 gáire 3
 chóta 3
 coinne 3
-daoibh 3
 tapa 3
 Tliongáinis 3
 té 3
@@ -725,6 +726,7 @@ Buíochas 3
 deasc 3
 mura 3
 Ni 3
+maidin 3
 páipéar 3
 tríd 3
 úrscéal 3
@@ -973,6 +975,7 @@ neacht 2
 t-ainm 2
 teileagram 2
 gar 2
+óir 2
 forc 2
 gabhlóg 2
 Gearmánach 2
@@ -998,7 +1001,6 @@ ghabháil 2
 Pua 2
 linne 2
 Laidineach 2
-arán 2
 Aontaithe 2
 nuachtáin 2
 D'fhoghlaim 2
@@ -1008,6 +1010,7 @@ gramadaí 2
 inseoidh 2
 gcairde 2
 t-iasc 2
+gcoinne 2
 Peann 2
 Bain 2
 thit 2
@@ -1068,12 +1071,12 @@ rince 2
 tirim 2
 dtús 2
 gceapann 2
-maidin 2
 máthair 2
 tábhacht 2
 comh 2
 shaol 2
 Caithin 2
+inar 2
 geimhreadh 2
 Chomhairligh 2
 deoch 2
@@ -1086,6 +1089,7 @@ cluasa 2
 bheadh 2
 Farshad 2
 chuige 2
+chuala 2
 dheireadh 2
 Mas 2
 Maith 2
@@ -1103,6 +1107,7 @@ háit 2
 athraíonn 2
 fad 2
 theacht 2
+hithe 2
 láithreach 2
 Bhíomar 2
 muidne 2
@@ -1230,6 +1235,7 @@ dhlúthchara 2
 oideachas 2
 breithe 2
 teorainn 2
+céard 2
 sna 2
 dtólamh 2
 craiceáilte 2
@@ -1244,6 +1250,7 @@ fhreagra 2
 scuadcharr 2
 tSeoirsia 2
 Abcáis 2
+Tiarna 2
 críochfort 1
 dhúisigh 1
 Glanaimid 1
@@ -1717,7 +1724,6 @@ lochán 1
 bunáit 1
 mhíleata 1
 siorradh 1
-óir 1
 rós 1
 mic 1
 Turcach 1
@@ -1828,7 +1834,6 @@ siondróm 1
 Down 1
 Gaeilgeoir 1
 inscne 1
-gcoinne 1
 foréigin 1
 mban 1
 théim 1
@@ -2040,7 +2045,6 @@ Fuji 1
 fheiceál 1
 ghlachfadh 1
 Milan 1
-inar 1
 chuisle 1
 tapaigh 1
 scí 1
@@ -2094,7 +2098,6 @@ m'eochair 1
 sínte 1
 urlabhra 1
 laige 1
-chuala 1
 Dochreidte 1
 fhéinphic 1
 fhéinín 1
@@ -2172,7 +2175,6 @@ bímis 1
 mbeirt 1
 fhanacht 1
 leagan 1
-hithe 1
 dí 1
 comhluadar 1
 mbainimid 1
@@ -2839,7 +2841,6 @@ Meitheamh 1
 dhuit 1
 Fillfidh 1
 béil 1
-céard 1
 déarfainn 1
 diabhalta 1
 coinín 1
@@ -3017,3 +3018,14 @@ marófar 1
 thógáil 1
 dathúil 1
 Ól 1
+Maois: 1
+“Um 1
+thrathnóna 1
+tabharfaidh 1
+smig; 1
+gearáin 1
+choinne; 1
+gcoinne-ne 1
+ngearain–óir 1
+sinne–ach 1
+Tiarna” 1

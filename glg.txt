@@ -1,18 +1,18 @@
-a 1280
+a 1282
 que 1183
-de 1148
+de 1149
 o 1069
-é 781
-non 607
-un 559
-O 551
+é 783
+non 609
+un 560
+O 552
 e 518
-A 452
+A 453
 unha 438
 Non 430
-do 345
-en 323
-da 290
+do 346
+en 324
+da 291
 os 276
 máis 264
 para 256
@@ -27,7 +27,7 @@ se 193
 na 192
 á 188
 súa 185
-miña 180
+miña 181
 está 179
 Os 173
 seu 164
@@ -49,10 +49,10 @@ facer 88
 foi 88
 Por 88
 pero 84
+Se 83
 seus 83
 As 83
-Se 82
-todo 81
+todo 82
 das 80
 pola 80
 mañá 78
@@ -62,9 +62,9 @@ túa 77
 cando 76
 teu 75
 Teño 74
+vida 72
+tempo 72
 día 72
-vida 71
-tempo 70
 nada 70
 aquí 70
 tan 69
@@ -76,9 +76,9 @@ era 66
 esta 65
 te 65
 Eu 64
+só 63
 podo 63
 ben 62
-só 62
 este 62
 favor 62
 anos 62
@@ -101,9 +101,9 @@ Cando 53
 pode 52
 ás 52
 tarde 52
+coma 52
 lingua 52
 Este 52
-coma 51
 nos 50
 Esta 49
 vez 47
@@ -173,6 +173,7 @@ ata 32
 ano 32
 noso 32
 antes 32
+De 32
 nunca 32
 persoas 32
 nome 31
@@ -181,22 +182,21 @@ can 31
 Deus 31
 estar 31
 Onde 31
-De 31
 despois 31
+verdade 30
 cousas 30
 onde 30
 facelo 30
 pra 30
 gran 30
+corazón 30
 isto 30
-verdade 29
 durante 29
 nun 29
 cos 29
 Gustaríame 29
 ollos 29
 menos 29
-corazón 29
 amigo 28
 teus 28
 así 28
@@ -233,6 +233,7 @@ semana 24
 Eles 24
 fala 24
 No 24
+erro 24
 ca 24
 diñeiro 24
 ler 24
@@ -257,7 +258,6 @@ porta 22
 contra 22
 tren 22
 ninguén 22
-erro 22
 ó 22
 parte 22
 grande 22
@@ -298,6 +298,7 @@ estación 19
 familia 19
 outra 19
 gusta 19
+toda 19
 nós 19
 nenos 19
 cara 19
@@ -317,7 +318,6 @@ xardín 18
 Nunca 18
 palabra 18
 teléfono 18
-toda 18
 rapaz 18
 aprender 18
 flores 18
@@ -382,6 +382,7 @@ Na 15
 estaban 15
 todas 15
 guerra 15
+poden 15
 saúde 15
 neste 15
 Miña 15
@@ -414,7 +415,6 @@ mozo 14
 homes 14
 grandes 14
 ceo 14
-poden 14
 seguro 14
 tal 14
 Aínda 14
@@ -472,6 +472,7 @@ cuarto 13
 verán 12
 deste 12
 leite 12
+saír 12
 chegou 12
 ocupado 12
 tivo 12
@@ -491,6 +492,7 @@ negro 12
 importante 12
 beleza 12
 quería 12
+estas 12
 tódalas 12
 alma 12
 zapatos 12
@@ -499,7 +501,6 @@ medio 12
 árbores 12
 chamar 12
 ningunha 11
-saír 11
 poucos 11
 Onte 11
 chorar 11
@@ -528,7 +529,6 @@ Creo 11
 capaz 11
 policía 11
 Vexo 11
-estas 11
 xusto 11
 estraño 11
 forte 11
@@ -1149,6 +1149,7 @@ gorxa 5
 mentira 5
 sorpresa 5
 piso 5
+anaco 5
 vergoña 5
 xadrez 5
 bico 5
@@ -1433,7 +1434,6 @@ dentro 4
 motivo 4
 Estaban 4
 estribos 4
-anaco 4
 ventos 4
 barco 4
 durmido 4
@@ -1831,6 +1831,7 @@ ocupados 3
 desfacerse 3
 cartas 3
 normal 3
+asistencia 3
 médica 3
 vontade 3
 colo 3
@@ -2245,6 +2246,7 @@ cerca 2
 permite 2
 rendeuse 2
 acaba 2
+houbese 2
 avións 2
 poderían 2
 falada 2
@@ -2651,7 +2653,6 @@ nacen 2
 libres 2
 nivel 2
 axeitado 2
-asistencia 2
 servizos 2
 medios 2
 circunstancias 2
@@ -2775,6 +2776,7 @@ terei 2
 perde 2
 Leva 2
 martelo 2
+Deille 2
 chineses 2
 contan 2
 Vaite 2
@@ -3764,7 +3766,6 @@ ides 1
 Xusto 1
 artigos 1
 coñecerche 1
-houbese 1
 Formei 1
 distinto 1
 excitados 1
@@ -5225,7 +5226,6 @@ sentiuse 1
 perdes 1
 espelloe 1
 soas 1
-Deille 1
 inútiles 1
 chovendo 1
 Conózoa 1
@@ -9666,3 +9666,8 @@ cargos 1
 estean 1
 entendan 1
 constitúen 1
+Bágoas 1
+medida 1
+existiríamos 1
+descobrese 1
+gratuíta 1

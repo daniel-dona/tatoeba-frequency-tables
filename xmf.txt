@@ -1,14 +1,14 @@
 Ma 209
 re 106
-Tom 44
+Tom 45
 Si 42
  33
 te 29
 ma 29
+Toms 28
 Tkva 28
 do 27
 Tena 27
-Toms 27
 si 23
 Tina 23
 Tomi 23
@@ -16,8 +16,8 @@ vare 21
 tena 19
 reno 19
 moǩo 19
+oǩo 17
 skani 16
-oǩo 16
 vore 15
 tina 15
 რე 14
@@ -29,12 +29,12 @@ taki 14
 Chkimi 13
 Mu 13
 ɣudes 13
+çkimi 13
 ragadi 13
 მა 12
 Çki 12
 meri 12
 So 12
-çkimi 12
 tom 12
 iro 11
 tis 11
@@ -77,9 +77,11 @@ mutun 6
 glaxa 6
 ase 6
 teshi 6
+Djgiri 6
 ç̌ita 6
 voreki 6
 para 6
+Amdǧa 6
 tes 6
 dudi 6
 reko 6
@@ -96,14 +98,12 @@ tolepi 5
 so 5
 tku 5
 ǧolama 5
-Djgiri 5
 Oxori 5
 vordi 5
 toms 5
 Mardi 5
 ardzashe 5
 Muç̌o 5
-Amdǧa 5
 çkaras 5
 miɣorsu 5
 osuri 5
@@ -122,6 +122,7 @@ mus 4
 Migaxvamant 4
 ardzas 4
 Namu 4
+ǩitxiri 4
 Kishilebeno 4
 Sumi 4
 Sami 4
@@ -131,6 +132,7 @@ reto 4
 bordjis 4
 tzaneri 4
 mitin 4
+Taki 4
 Malas 4
 Maxolo 4
 miǧu 4
@@ -160,6 +162,7 @@ Musho 3
 sum 3
 ti 3
 voxora 3
+oxori 3
 Anʒi 3
 muç̌o 3
 ʒanas 3
@@ -182,7 +185,6 @@ da 3
 xuti 3
 uǩaxle 3
 kianas 3
-Taki 3
 iuapu 3
 mudgareni 3
 oxorants 3
@@ -196,11 +198,14 @@ Kumodziri 3
 Ç̌umani 3
 Kudosǩidi 3
 malas 3
+mitini 3
 merik 3
 chqi 3
 dghas 3
+Ina 3
 borji 3
 miçkƨ 3
+axal 3
 tişi 3
 vorekƨ 3
 vamiçkƨ 3
@@ -208,6 +213,7 @@ Sode 3
 aǧani 3
 va 3
 kumortƨ 3
+Meris 3
 getu 3
 Muzhami 3
 mangari 3
@@ -253,6 +259,7 @@ jibes 2
 tash 2
 ʒanaşe 2
 saqvaruash 2
+vamushens 2
 noghas 2
 Art 2
 mushens 2
@@ -278,7 +285,6 @@ xom 2
 ish 2
 mofrti 2
 qore 2
-oxori 2
 sheulebƨ 2
 ambe 2
 Muzma 2
@@ -308,7 +314,6 @@ Vore 2
 mutunsha 2
 Chkini 2
 goǩonano 2
-ǩitxiri 2
 Gemuani 2
 vardu 2
 tzanas 2
@@ -318,6 +323,7 @@ Gandjit 2
 Telefony 2
 Gjgiri 2
 ǧolamiri 2
+teki 2
 dzǧabi 2
 michku 2
 pranguli 2
@@ -351,6 +357,7 @@ amç̌uani 2
 osaç̌iru 2
 irpeli 2
 Mendi 2
+adre 2
 Kimia 2
 ç̌iç̌et 2
 chilata 2
@@ -387,14 +394,12 @@ vauorsu 2
 gilula 2
 rikardo 2
 mashna 2
-mitini 2
 ǧolu 2
 gomordzgua 2
 çxoure 2
 ate 2
 ukuli 2
 vardƨ 2
-Ina 2
 teşe 2
 ç̌iç̌e 2
 rdƨ 2
@@ -404,7 +409,6 @@ uçkudƨ 2
 vamiǧu 2
 iidi 2
 shxva 2
-axal 2
 sakvari 2
 ʒaneri 2
 shkviti 2
@@ -429,7 +433,6 @@ Mire 2
 odinuans 2
 oxorana 2
 Tineps 2
-Meris 2
 shumili 2
 ninari 2
 merça 2
@@ -456,6 +459,7 @@ isṫoria 2
 Gedirtit 2
 tutaşxas 2
 banani 2
+ɣidiri 2
 Ardzas 2
 anʒi 2
 joxo 2
@@ -485,7 +489,9 @@ Tikƨ 2
 p̌ianinos 2
 goǩoni 2
 miɣ'orsu 2
+maşƨnaşi 2
 amar 2
+Muşi 2
 doxturi 2
 Tzq'ari 2
 resp̌ubliǩa 2
@@ -660,7 +666,6 @@ rdas 1
 gukvirdƨ 1
 merish 1
 goghvizinafaqƨ 1
-vamushens 1
 vamiꞇors 1
 ucbas 1
 nirsis 1
@@ -1047,7 +1052,6 @@ irpelsarto 1
 tzq'ari 1
 Kinmexvari 1
 muchu 1
-teki 1
 vordato 1
 baǧana 1
 vagmagines 1
@@ -1236,7 +1240,6 @@ ubaǧu 1
 sakortuoshe 1
 kotxu 1
 unchashis 1
-adre 1
 keshulebuno 1
 oshkuru 1
 p̌untsu 1
@@ -2049,7 +2052,6 @@ Giçhq'olidet 1
 Rula 1
 Vamoǩo 1
 noxişi 1
-ɣidiri 1
 Çƨlata 1
 vedirtƨ 1
 gavagindzari 1
@@ -2370,7 +2372,6 @@ Eçxuru 1
 Koragadetƨ 1
 xonarmaǧalo 1
 dumoguru 1
-maşƨnaşi 1
 gilauuna 1
 şkirenuli 1
 Film 1
@@ -2421,7 +2422,6 @@ Meksiǩas 1
 Apxazeti 1
 samaçablo 1
 sakortuo 1
-Muşi 1
 mortzonts 1
 Gitilit 1
 maşƨnaşe 1
@@ -2733,3 +2733,12 @@ burgundian 1
 ǧuma 1
 mutuns 1
 vamaç̌u 1
+uparet 1
+onaxval 1
+vamçinens 1
+gioora 1
+ulu 1
+dandjirşa 1
+iino 1
+uçku 1
+sore 1

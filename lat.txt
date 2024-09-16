@@ -1,9 +1,9 @@
-est 10171
+est 10172
 et 4786
 in 4541
 Thomas 3627
-non 3492
-sunt 2233
+non 3495
+sunt 2234
 ad 1750
 mihi 1622
 / 1569
@@ -44,9 +44,9 @@ Hic 462
 Haec 453
 Thoman 453
 valde 435
+ex 428
 Quot 428
 quid 428
-ex 427
 meum 418
 Thomae 417
 dixit 385
@@ -56,7 +56,7 @@ Num 374
 tua 372
 Mariam 370
 potest 369
-ei 364
+ei 365
 placet 361
 Deus 358
 eam 355
@@ -74,7 +74,7 @@ sumus 312
 opus 309
 ab 308
 nunc 307
-Si 302
+Si 303
 tuum 302
 Nihil 301
 si 297
@@ -160,9 +160,9 @@ Id 165
 facit 164
 licet 164
 Quando 164
+esset 164
 Nunc 164
 pecuniam 163
-esset 163
 homines 162
 ille 162
 nunquam 162
@@ -237,9 +237,9 @@ huius 125
 emere 124
 videtur 123
 Quo 123
+meae 123
 filium 123
 filii 123
-meae 122
 mane 122
 via 122
 Quomodo 122
@@ -299,14 +299,14 @@ Tibi 102
 verum 102
 videre 102
 usque 102
-nisi 100
+nisi 101
 tempore 100
+tempus 100
 eōs 100
 Tu 99
 faciendum 99
 Dic 99
 scit 99
-tempus 99
 Da 99
 Ne 99
 satis 99
@@ -393,6 +393,7 @@ Librum 83
 Nos 83
 culina 83
 emi 83
+Tempus 82
 scio 82
 nostrum 82
 flores 82
@@ -403,7 +404,6 @@ feles 82
 Ita 82
 Quotiēns 82
 aeque 82
-Tempus 81
 caelo 81
 vides 81
 liberos 81
@@ -466,6 +466,7 @@ Videsne 73
 ait 73
 Homo 72
 quinque 72
+omnium 72
 sis 72
 facile 72
 magister 72
@@ -479,7 +480,6 @@ propter 71
 omni 71
 uxor 71
 multo 71
-omnium 71
 Multi 71
 femina 71
 vinum 71
@@ -704,6 +704,7 @@ Soror 50
 ludo 50
 canes 50
 magni 50
+Hae 50
 advenit 50
 Aliquid 50
 libum 50
@@ -721,7 +722,6 @@ ipsa 49
 oriunda 49
 Brasilia 49
 male 49
-Hae 49
 viam 49
 Thomam 49
 velle 49
@@ -868,6 +868,7 @@ unde 41
 semen 41
 cuncta 41
 dīxit 41
+vitae 40
 cibus 40
 pacem 40
 Luna 40
@@ -884,7 +885,6 @@ intellegere 40
 cotidie 40
 Hæc 40
 nōs 40
-vitae 39
 Dum 39
 Multae 39
 Tum 39
@@ -970,6 +970,7 @@ auro 36
 prius 36
 gerit 36
 stat 36
+partem 36
 birotam 36
 currit 36
 aspicit 36
@@ -1008,7 +1009,6 @@ antequam 35
 donum 35
 iuvenis 35
 vere 35
-partem 35
 Hunc 35
 fuisti 35
 Gratias 35
@@ -1101,6 +1101,7 @@ Die 32
 Didymi 32
 Natalis 32
 Fuistine 32
+corde 32
 ultra 32
 ista 32
 morte 32
@@ -1137,7 +1138,6 @@ tertio 31
 iit 31
 signum 31
 accepit 31
-corde 31
 domini 31
 suæ 31
 vix 31
@@ -1966,6 +1966,7 @@ macellum 18
 facturum 18
 Mamma 18
 theatrum 18
+veniunt 18
 toto 18
 nātus 18
 ibit 18
@@ -2064,7 +2065,6 @@ foedus 17
 ostendit 17
 Bellum 17
 tabernam 17
-veniunt 17
 lactis 17
 potionis 17
 plenus 17
@@ -5103,6 +5103,7 @@ mortuo 7
 Melior 7
 posuerim 7
 forum 7
+essemus 7
 iimus 7
 vitat 7
 socrus 7
@@ -5582,6 +5583,7 @@ Legere 6
 solent 6
 nequeo 6
 flammas 6
+lacrimae 6
 tellus 6
 hospes 6
 sonum 6
@@ -5879,7 +5881,6 @@ laetitia 6
 regulam 6
 accepta 6
 somnum 6
-essemus 6
 viridarium 6
 audiit 6
 incendium 6
@@ -6533,7 +6534,6 @@ sanitatem 5
 singula 5
 memor 5
 corripuit 5
-lacrimae 5
 parentis 5
 istis 5
 orbem 5

@@ -1,25 +1,25 @@
-do 3330
+do 3339
 zou 1192
-di 978
-no 900
-i 803
+di 982
+no 901
+i 808
 Tom 697
 ko 641
 ku 638
-o 585
-id 473
+o 587
+id 474
 nu 442
 nopo 417
 Au 409
 doid 404
 om 370
 dii 366
-isido 360
+isido 362
 dau 349
 nga 314
 au 229
 diti 225
-po 222
+po 225
 zosido 198
 zi 191
 naku 186
@@ -30,10 +30,10 @@ dogo 166
 kozo 162
 tuhun 158
 Au' 157
+zikoi 153
 daa 153
-zikoi 152
+tokou 152
 kumaa 151
-tokou 142
 iho 138
 tu 138
 boos 136
@@ -55,12 +55,12 @@ ih 95
 au' 95
 disido 90
 doiho 88
-i' 85
+i' 86
 doiti 85
 montok 82
 dosido 77
 kio 74
-hamin 71
+hamin 72
 ko' 71
 Onu 64
 aiso 63
@@ -73,8 +73,8 @@ buuk 58
 dino 58
 nung 57
 sondii 57
+kaanu 56
 mimang 56
-kaanu 55
 zioho 55
 nodi 53
 ngaavi 53
@@ -141,6 +141,7 @@ Jipun 31
 ngaan 31
 tomoimo 31
 Okon 31
+songian 30
 toi 30
 ziaha' 30
 ontok 30
@@ -153,17 +154,18 @@ haid 29
 mongoi 29
 minsingiho 29
 Izou 29
+vaig 29
 tasu 28
 Apatut 28
 Mositi 28
 kakadazan 28
 vinasi 28
-vaig 28
 mikot 27
 Kanou 27
 doino 27
 piipio 27
 hongon 27
+Mugad 27
 avasi 27
 Sami 27
 ingkaa 27
@@ -177,7 +179,6 @@ lahan 26
 Perancis 25
 Krismas 25
 Kavasa 25
-songian 24
 nokoiho 24
 tagal 24
 kadai 24
@@ -191,22 +192,22 @@ ngaavi' 23
 oihaan 23
 nakatahib 23
 Miaga 23
-Mugad 23
+John 23
 momoguno 23
 ihia 23
 Doid 23
 gaung 23
+Di 23
 savo 22
 nomboo 22
 Mantad 22
 Avasi 22
 Boston 22
 koni 22
-Di 22
 miho 21
 kangku 21
 saviavi 21
-John 21
+poguhu 21
 tikid 20
 Isai 20
 kuukuamaon 20
@@ -218,7 +219,6 @@ zapa 20
 Id 20
 Tadau 20
 guminavo 20
-poguhu 20
 taakanon 20
 za 20
 diho' 20
@@ -242,6 +242,8 @@ ahal 18
 mamain 18
 mokinongou 18
 potuu 18
+koikot 18
+baas 18
 nimaan 18
 mamanau 17
 Mangakan 17
@@ -255,7 +257,6 @@ noikot 17
 ogumu 17
 tootopot 17
 Ounsikou 17
-baas 17
 Kavasa' 17
 idsuang 16
 Nosoou 16
@@ -271,6 +272,7 @@ dimput 16
 susumikul 16
 mogium 16
 kopisoomo 16
+Minugad 15
 umasam 15
 Kotohuadan 15
 komozon 15
@@ -282,7 +284,6 @@ Ahansan 15
 voos 15
 kapal 15
 humozog 15
-koikot 15
 monikid 15
 Iisai 15
 miaga' 15
@@ -296,6 +297,7 @@ Doiho 15
 talipaun 15
 soosonguhun 15
 dotiho 15
+makan 14
 kosuvabon 14
 Iziau 14
 zina 14
@@ -326,7 +328,6 @@ monuhung 14
 Noihaan 14
 po' 14
 tombohog 13
-makan 13
 pokionuan 13
 kahapas 13
 kavagu 13
@@ -374,6 +375,7 @@ Momoguno 12
 kanu 12
 Oonu 12
 tavasi' 12
+asam 12
 oi 12
 momongo 12
 togumu 12
@@ -386,7 +388,6 @@ dioho' 12
 Bohizan 12
 tavan 11
 Onuai 11
-Minugad 11
 totuvong 11
 momohi 11
 nu" 11
@@ -421,6 +422,7 @@ kavo 11
 Zosido 11
 tingau 11
 diisai 11
+Avasi' 11
 Ka 11
 kopoguhu 11
 ma 11
@@ -441,7 +443,6 @@ Natagak 10
 Kinaman 10
 o' 10
 Doino 10
-asam 10
 sitisin 10
 kalas 10
 vusak 10
@@ -453,7 +454,6 @@ toluai 10
 ahaid 10
 kinahasaan 10
 iso' 10
-Avasi' 10
 Monguo 10
 sumakit 10
 Kaanu 10
@@ -494,6 +494,7 @@ Zisido 9
 katapatan 9
 mongingia 9
 sumuang 9
+izioho' 9
 kosusaan 9
 dazanak 9
 modop 9
@@ -548,7 +549,6 @@ tongus 8
 ngoduvo 8
 popoiho 8
 kataan 8
-izioho' 8
 tontohu 8
 kakaal 8
 Nombo 8
@@ -565,6 +565,7 @@ pongku 8
 Tuminihombus 8
 otomou 8
 piovit-ovit 8
+pagapon 8
 mimbuul 7
 pinungaan 7
 ginumuan 7
@@ -627,6 +628,7 @@ kakamot 7
 zotiho 7
 toodoon 7
 tozibut 7
+doiho' 7
 kokuamaon 7
 Ziri 7
 oubas 6
@@ -679,6 +681,7 @@ Muhi 6
 Mambasa 6
 posoihi 6
 ayat 6
+kaakan 6
 komohoingan 6
 toi' 6
 doungadau 6
@@ -736,7 +739,6 @@ Noiduanan 6
 Guminapus 6
 zioho' 6
 soibu 6
-doiho' 6
 apol 6
 kuozon 6
 duuduvo 6
@@ -759,6 +761,7 @@ obuli 5
 isai-isai 5
 Miniikau 5
 kuhit 5
+agazo 5
 Osoou 5
 Dazanak 5
 Tanak 5
@@ -910,7 +913,6 @@ Malazu 4
 sajaam 4
 luti 4
 pisuvazan 4
-agazo 4
 tumingkod 4
 pakakalaja 4
 wayang 4
@@ -953,6 +955,7 @@ Duvo 4
 induvo 4
 izonon 4
 gitar 4
+pakalaja' 4
 ohodong 4
 Mokinongou 4
 Tuhan 4
@@ -962,8 +965,8 @@ undang-undang 4
 pihion 4
 Pohogoson 4
 bas 4
-kaakan 4
 totomou 4
+tizan 4
 banda' 4
 pinopoiho 4
 Mintong 4
@@ -1225,7 +1228,6 @@ tizonon 3
 poihoo 3
 Sabah 3
 aanu 3
-pakalaja' 3
 mingkakat 3
 Tuminingkod 3
 sumaga 3
@@ -1233,7 +1235,6 @@ nazakan 3
 ikoton 3
 ahansan 3
 onsokon 3
-tizan 3
 Muhagang 3
 timpuun 3
 pahad 3
@@ -1572,6 +1573,7 @@ Koduvo 3
 kopongo' 3
 Ogumu' 3
 Aiso' 3
+Humozou 3
 Lugansk 3
 Donetsk 3
 kosuvab 3
@@ -1935,6 +1937,7 @@ manangkus 2
 tumahib 2
 Koimat 2
 douso 2
+kotongkizadan 2
 mononsog 2
 noombo 2
 Nokotingkod 2
@@ -2435,7 +2438,6 @@ Noovian 2
 osogit 2
 zou" 2
 "Monguo 2
-Humozou 2
 soprano 2
 azamut 2
 Minomogungguk 2
@@ -2486,6 +2488,7 @@ dolibol 2
 mija'" 2
 momohingos 2
 tampangi 2
+otodu 2
 Titombuhui 1
 Luputan 1
 Harry 1
@@ -3669,7 +3672,6 @@ kikagazaan 1
 sogiigisom 1
 Amen 1
 Paandadan 1
-kotongkizadan 1
 Novongi 1
 Kipogun 1
 momolita' 1
@@ -6732,3 +6734,5 @@ popobuu' 1
 kahantazo' 1
 songovian" 1
 cheese 1
+koponginsaasada'ai 1
+Oluahan 1
