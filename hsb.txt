@@ -1,4 +1,4 @@
-je 344
+je 345
 Tom 92
 so 88
 To 74
@@ -754,6 +754,7 @@ překwapić 2
 Ćah 2
 Čakam 2
 dworje 2
+čerwjena 2
 módra 2
 zelena 2
 Kajke 2
@@ -2148,7 +2149,6 @@ kruwa 1
 wječor 1
 Wšo 1
 narodninam 1
-čerwjena 1
 žołta 1
 bruna 1
 Sněh 1
@@ -2539,3 +2539,4 @@ Słyšitej 1
 Słyšiće 1
 Blido 1
 zubow 1
+Krej 1

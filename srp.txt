@@ -1,14 +1,14 @@
 да 7699
-da 6852
+da 6867
 је 6812
 je 6801
 се 3957
 Том 3571
 сам 3480
-se 3033
+se 3034
 sam 2503
 ли 2327
-u 2059
+u 2060
 Tom 2058
 у 1926
 li 1792
@@ -29,7 +29,7 @@ si 984
 za 892
 su 862
 Ne 831
-sa 823
+sa 824
 Не 808
 си 793
 није 739
@@ -54,7 +54,7 @@ To 526
 смо 509
 bio 499
 Тому 486
-bi 467
+bi 482
 бих 463
 me 450
 То 443
@@ -76,7 +76,7 @@ o 352
 сте 328
 био 327
 Мери 324
-ovo 307
+ovo 308
 много 303
 ја 302
 ima 302
@@ -220,9 +220,9 @@ malo 139
 Gde 138
 ni 138
 mu 137
+svoje 137
 пре 136
 po 135
-svoje 135
 moj 135
 dana 133
 bude 132
@@ -362,10 +362,10 @@ baš 89
 Зар 87
 želeo 87
 Molim 86
+svoj 86
 живи 86
 Nikad 85
 Niko 85
-svoj 85
 imao 85
 каже 84
 ko 84
@@ -451,6 +451,7 @@ mora 69
 говори 69
 Још 69
 Бостону 69
+mnom 68
 volim 68
 jednu 68
 tvoje 68
@@ -459,7 +460,6 @@ tvoje 68
 десило 68
 урадиш 68
 кад 67
-mnom 67
 knjigu 67
 spreman 67
 јуче 67
@@ -589,6 +589,7 @@ Nemam 55
 Будите 55
 недеље 55
 Баш 55
+mesto 55
 stvarno 55
 Uvek 54
 juče 54
@@ -600,7 +601,6 @@ sviđa 54
 Веома 54
 радиш 54
 преко 54
-mesto 54
 vrlo 54
 минута 53
 нису 53
@@ -712,6 +712,7 @@ neću 46
 veliki 45
 sati 45
 jednom 45
+Trebalo 45
 pravu 45
 previše 45
 osoba 45
@@ -844,6 +845,7 @@ uspeo 38
 деси 38
 имаш 38
 Više 38
+reči 38
 Остани 38
 пас 37
 Izgleda 37
@@ -861,7 +863,6 @@ uskoro 37
 праву 37
 Надам 37
 понедељка 37
-reči 37
 znači 37
 Мислио 37
 А 36
@@ -1035,7 +1036,6 @@ Sigurna 31
 О 30
 сад 30
 икад 30
-Trebalo 30
 Kupio 30
 Nema 30
 ispit 30
@@ -1790,6 +1790,7 @@ avion 17
 njima 17
 dobru 17
 Majka 17
+odeću 17
 Osećam 17
 Što 17
 svih 17
@@ -1892,7 +1893,6 @@ Imate 16
 mesta 16
 Tek 16
 svetlo 16
-odeću 16
 mleko 16
 razumeo 16
 svega 16
@@ -3096,6 +3096,7 @@ Radim 10
 Mama 10
 Uzmi 10
 doručak 10
+pažljivo 10
 Dozvoli 10
 kafe 10
 so 10
@@ -3425,7 +3426,6 @@ rešiti 9
 zvuk 9
 pitaš 9
 retko 9
-pažljivo 9
 sećaš 9
 onoga 9
 sviraš 9
@@ -3635,6 +3635,7 @@ vozačku 8
 kosa 8
 zemlju 8
 njeno 8
+odgovore 8
 pasoš 8
 vide 8
 mraku 8
@@ -4128,7 +4129,6 @@ dobiješ 7
 pogledom 7
 desno 7
 osobu 7
-odgovore 7
 odluka 7
 Prosto 7
 slučajno 7
@@ -4435,6 +4435,7 @@ situacije 7
 završila 7
 učitelji 7
 našoj 7
+nokte 7
 mnogi 7
 Jumi 7
 Dok 7
@@ -4471,6 +4472,7 @@ Jedna 7
 aktivnost 7
 tvoji 7
 nažalost 7
+zatvoriš 7
 Znao 7
 shvatam 7
 efekat 7
@@ -4489,6 +4491,7 @@ sastav 7
 krije 7
 opasan 7
 napisali 7
+promeniš 7
 prostora 7
 žestoko 7
 propustio 7
@@ -5144,7 +5147,6 @@ Voliš 6
 jeli 6
 suđa 6
 umesto 6
-nokte 6
 lepe 6
 čekati 6
 Uzeo 6
@@ -5186,7 +5188,6 @@ perem 6
 Srce 6
 crvene 6
 prstiju 6
-zatvoriš 6
 sopstvene 6
 Svaka 6
 pozovem 6
@@ -7300,6 +7301,7 @@ Slučajno 4
 zaustave 4
 osiguranje 4
 popiješ 4
+ulje 4
 pogođen 4
 kamena 4
 muka 4
@@ -7566,7 +7568,6 @@ Dosadilo 4
 objašnjenje 4
 hodniku 4
 šansu 4
-promeniš 4
 Marijin 4
 uteha 4
 otkrili 4
@@ -8228,6 +8229,7 @@ popravim 4
 малчице 4
 вунену 4
 упуцан 4
+proveriš 4
 оптимиста 3
 опасна 3
 Гладни 3
@@ -9234,6 +9236,7 @@ uzme 3
 Meksiku 3
 zgrade 3
 Krajnje 3
+kreneš 3
 živce 3
 principima 3
 pitaj 3
@@ -9443,7 +9446,6 @@ crvenim 3
 krovom 3
 požaru 3
 automobilu 3
-ulje 3
 platiti 3
 poreza 3
 prevariš 3
@@ -9933,6 +9935,7 @@ Biti 3
 nagovori 3
 dozvole 3
 državi 3
+prozore 3
 sledećoj 3
 podsticao 3
 suvo 3
@@ -9995,6 +9998,3 @@ odlučim 3
 Ogromna 3
 se" 3
 komunicira 3
-drugde 3
-potajno 3
-tipa 3

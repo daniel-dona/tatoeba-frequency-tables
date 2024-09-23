@@ -1,14 +1,14 @@
 yn 557
 i 341
-Mae 284
-y 197
-Dw 186
-i'n 177
+Mae 285
+y 198
+Dw 187
+i'n 178
 Tom 165
 ddim 116
 o 116
 ei 95
-ar 86
+ar 87
 hoffi 81
 wedi 78
 hi 77
@@ -214,6 +214,7 @@ ac 7
 parc 7
 lyfrau 7
 gadael 7
+teledu 7
 drws 7
 at 7
 Dim 7
@@ -238,6 +239,7 @@ braf 6
 bryd 6
 ffôn 6
 chwaer 6
+gwylio 6
 Sul 6
 cariad 6
 ganddi 6
@@ -278,11 +280,9 @@ allan 5
 ddau 5
 saith 5
 gwaith 5
-gwylio 5
 i'w 5
 ystafell 5
 bobl 5
-teledu 5
 Wnest 5
 ddrud 5
 berson 5
@@ -314,6 +314,7 @@ tocyn 5
 gwin 5
 Dan 5
 colli 5
+Duw 5
 Ga 5
 Dyma 4
 te 4
@@ -411,7 +412,6 @@ nesa 4
 barti 4
 gofod 4
 ffilmiau 4
-Duw 4
 goleuni 4
 ydy'r 4
 rhech 4

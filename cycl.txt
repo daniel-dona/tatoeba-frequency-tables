@@ -15,6 +15,7 @@ SubjectPronoun) 4
 (forAll 3
 HOB 3
 PERSON1 3
+(not 3
 FirstPerson-NLAttr 3
 Ungendered-NLAttr 3
 (SubcollectionOfWithRelationToTypeFn 3
@@ -31,7 +32,6 @@ AppleTree)) 2
 Sauron 2
 PERSON2 2
 (nameStrings 2
-(not 2
 ((TypeCapableFn 2
 behaviorCapable) 2
 Bear-Animal 2
@@ -204,3 +204,10 @@ ObjectName 1
 ObjectType))) 1
 Bite 1
 (it) 1
+(canPerceive 1
+(TheAgent 1
+I) 1
+(TheConcept 1
+Hearing) 1
+(TheObject 1
+You))) 1

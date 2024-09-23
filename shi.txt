@@ -1,15 +1,15 @@
-ad 3941
+ad 3942
 Ṭum 2349
-d 2073
+d 2074
 n 1915
 ɣ 1848
-Ur 1590
+Ur 1591
 Is 1487
 s 1470
 Ar 1446
 ur 1336
 ar 1157
-is 953
+is 955
 t 833
 rad 823
 tt 804
@@ -20,7 +20,7 @@ iyi 645
 Tom 583
 Mari 538
 Rad 527
-nns 526
+nns 527
 f 460
 iga 444
 yat 441
@@ -45,7 +45,7 @@ Iga 227
 Ad 222
 Ma 212
 nit 210
-ak 208
+ak 209
 Riɣ 205
 mas 205
 ɣinn 204
@@ -92,7 +92,7 @@ riɣ 107
 ira 107
 mani 106
 dari 106
-tskrt 104
+tskrt 105
 Nniɣ 104
 dars 103
 zɣ 102
@@ -178,12 +178,12 @@ nnun 56
 Manza 56
 Ɣalɣ 56
 dduɣ 56
+ixf 55
 Ira 55
 tnnit 55
 yak 54
 Kkiɣ 54
 Max 54
-ixf 54
 nskr 54
 awn 54
 tnt 54
@@ -1108,6 +1108,7 @@ Nkk 9
 sa 9
 tam 9
 isaqsa 9
+tri 9
 twlaft 9
 tuẓẓumt 9
 ftan 9
@@ -1229,7 +1230,6 @@ najj 8
 iswa 8
 yasi 8
 kʷtiɣ 8
-tri 8
 gʷmas 8
 Kʷtiɣ 8
 Iwa 8
@@ -1245,6 +1245,7 @@ tamzwarut 8
 Tucka 8
 Iɣal 8
 ultmak 8
+ijṛa 8
 Aynna 8
 tafugla 8
 Ih 8
@@ -1318,6 +1319,7 @@ uzray 8
 Karl 8
 tiwinas 8
 irifi 8
+tg 8
 ifaw 8
 ttmudduɣ 8
 tẓḍaṛm 8
@@ -1391,7 +1393,6 @@ Iqqan-aɣ-d 7
 ṛmin 7
 Tusi 7
 azul 7
-ijṛa 7
 tadggʷat-ad 7
 zzriɣ 7
 gin 7
@@ -1488,7 +1489,6 @@ ttaylaln 7
 sllan 7
 Nslla 7
 Islla 7
-tg 7
 Rmsɣ 7
 Tgamt 7
 anbɣur 7
@@ -5814,6 +5814,7 @@ tqayrut 2
 Tqzz 2
 umatr 2
 Isṭunya 2
+Wargɣ 2
 Tḥmlt 1
 tmuddut 1
 Tjla-ak 1
@@ -9997,4 +9998,3 @@ timxinin 1
 Tsmmrwit 1
 Tbrimt 1
 tnqqat 1
-tnqqam 1

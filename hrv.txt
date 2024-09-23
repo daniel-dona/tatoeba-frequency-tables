@@ -1,4 +1,4 @@
-je 1723
+je 1725
 se 627
 u 558
 sam 466
@@ -46,9 +46,9 @@ sve 52
 još 52
 bih 51
 ići 51
+Zašto 50
 Mary 50
 može 49
-Zašto 49
 dobro 49
 Kako 48
 kako 48
@@ -1526,6 +1526,7 @@ bejzbol 3
 kupuje 3
 ribe 3
 otišla 3
+krv 3
 pjevati 3
 organizacije 3
 Pokušao 3
@@ -2256,7 +2257,6 @@ svima 2
 Nazvao 2
 Nažalost 2
 Ispričaj 2
-krv 2
 Nosila 2
 učinila 2
 zakon 2
@@ -2906,6 +2906,7 @@ Laku 2
 EU 2
 24 2
 službena 2
+crvena 2
 Tomojuki 1
 Ogura 1
 lutka 1
@@ -8331,3 +8332,4 @@ učiš 1
 izašao 1
 Glava 1
 Pismo 1
+Krv 1

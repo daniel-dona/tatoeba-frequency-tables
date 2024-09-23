@@ -1,12 +1,12 @@
 Tomas 813
 No 576
-das 535
+das 536
 no 464
 binom 443
 etosi 411
 in 312
 obik 269
-Maria 221
+Maria 222
 dunön 188
 binon 173
 e 160
@@ -20,7 +20,7 @@ ko 131
 at 129
 Kisi 127
 vemo 113
-Vilob 103
+Vilob 104
 Binob 99
 ob 96
 yufön 96
@@ -46,8 +46,8 @@ vilob 69
 us 67
 Binom 67
 ol 67
+binof 67
 buki 66
-binof 66
 pükön 65
 Tikob 64
 kanob 64
@@ -61,8 +61,8 @@ nolob 58
 Kiöp 55
 kanom 54
 okik 54
+dat 54
 Binol 53
-dat 53
 oba 52
 jönik 52
 Tomasi 51
@@ -76,11 +76,11 @@ moni 47
 te 46
 obes 46
 tidel 46
+Tomasa 46
 domo 46
 Hiel 45
 valik 45
 binön 45
-Tomasa 45
 nolön 44
 ome 44
 ädelo 43
@@ -121,17 +121,17 @@ Ya 34
 kikod 34
 eli 33
 dogi 33
+logön 32
 va 32
-logön 31
 fidön 31
 sanel 31
 nolom 31
 vifiko 30
 binom-li 30
+obis 30
 Sagolöd 30
 Nu 30
 esagom 30
-obis 29
 sod 29
 it 29
 nedom 28
@@ -227,6 +227,7 @@ Man 18
 Linglänapüki 18
 kati 18
 yunik 18
+Nolol 18
 Li-binol 18
 badik 18
 famik 18
@@ -240,7 +241,6 @@ vini 17
 slipön 17
 jul 17
 vedön 17
-Nolol 17
 obinom 17
 Ävilob 17
 vilof 17
@@ -578,6 +578,7 @@ onsik 6
 bäledik 6
 Ädelo 6
 blods 6
+jiblod 6
 jisonis 6
 Pebaltats 6
 voli 6
@@ -665,7 +666,6 @@ muls 5
 Flen 5
 Dogs 5
 golom 5
-jiblod 5
 beatik 5
 Älemob 5
 lautel 5
@@ -691,6 +691,7 @@ gretiki 5
 äfidom 5
 stebön 5
 ädunol 5
+Li-änolol 5
 vitön 5
 neit 5
 lödol 5
@@ -836,7 +837,6 @@ Deutapüki 4
 fidoms 4
 Laboms 4
 Vobol 4
-Li-änolol 4
 omsik 4
 kapälön 4
 Nedoms 4
@@ -1119,7 +1119,6 @@ dunolöd 3
 äkanobs 3
 gloki 3
 Lols 3
-Vilol 3
 äbinos 3
 tidelis 3
 okömob 3
@@ -1127,6 +1126,7 @@ balidna 3
 Löfoms 3
 alim 3
 dunon 3
+Kanof-li 3
 Äsäkob 3
 spelom 3
 Tidel 3
@@ -1646,6 +1646,7 @@ leumo 2
 spelobs 2
 onifos 2
 cinädan 2
+Vilol 2
 sagof 2
 äsäkom 2
 Li-äsäkol 2
@@ -1682,7 +1683,6 @@ Li-dlinol 2
 Pükolöd 2
 vietiki 2
 apodi 2
-Kanof-li 2
 älödoms 2
 ogolol 2
 lemon 2
@@ -4781,3 +4781,4 @@ Okömom-li 1
 turd 1
 Edeidom 1
 gods 1
+kömomöd 1
