@@ -1,7 +1,7 @@
 lo 12818
-mi 6228
+mi 6229
 cu 3491
-do 3348
+do 3349
 la 2991
 pu 2307
 le 2297
@@ -76,8 +76,8 @@ gerku 211
 je 205
 kakne 198
 lu 194
+au 194
 noi 193
-au 193
 mlatu 191
 melbi 191
 li'u 191
@@ -854,6 +854,7 @@ menli 15
 cnita 15
 seja'e 15
 santa 15
+gletu 15
 javni 15
 li'a 15
 pencu 15
@@ -880,7 +881,6 @@ critu 14
 tu'i 14
 zo'o 14
 paroi 14
-gletu 14
 ni'o 14
 cfipu 14
 xagmau 14
@@ -2819,6 +2819,7 @@ rikardos 2
 takeutcis 2
 noltrunau 2
 mi'ecpe 2
+ganxo 2
 jarbu 2
 respa 2
 bancus 2
@@ -4810,7 +4811,6 @@ jifsku 1
 noigri 1
 selfla 1
 rover 1
-ganxo 1
 boxfo 1
 bazu 1
 pipybanfi 1

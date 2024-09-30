@@ -21,7 +21,7 @@ On 149
 To 129
 ti 121
 te 118
-me 109
+me 111
 smo 108
 s 105
 će 99
@@ -94,6 +94,7 @@ ju 35
 mnogo 35
 Da 34
 tamo 34
+ili 34
 živi 33
 rekao 33
 Moja 32
@@ -103,7 +104,6 @@ Mogu 32
 Danas 32
 kada 32
 puno 32
-ili 32
 Nije 32
 tvoj 31
 knjiga 31
@@ -359,6 +359,7 @@ prvi 11
 radiš 11
 pravu 11
 oko 11
+Život 11
 smrti 11
 čekati 11
 imam 11
@@ -391,7 +392,6 @@ blizu 10
 preko 10
 novca 10
 svaki 10
-Život 10
 škole 10
 htio 10
 Trebamo 10
@@ -761,6 +761,7 @@ nama 5
 kralj 5
 čovjeku 5
 Mama 5
+čaj 5
 zaboraviti 5
 Možda 5
 sol 5
@@ -937,7 +938,6 @@ otok 4
 Tata 4
 sliči 4
 strana 4
-čaj 4
 smiješ 4
 dane 4
 popraviti 4
@@ -1284,6 +1284,7 @@ Dajte 3
 radije 3
 Zauvijek 3
 praznike 3
+Kava 3
 Nazvali 3
 Hoćete 3
 stan 3
@@ -1723,6 +1724,7 @@ profesorica 2
 prevoditelj 2
 pravima 2
 jedni 2
+Čaj 2
 Triput 2
 rezultati 2
 Kažu 2
@@ -1841,7 +1843,6 @@ crveno 2
 Pronašao 2
 prehlada 2
 bogata 2
-Kava 2
 visoka 2
 sunca 2
 kuhati 2
@@ -2813,6 +2814,7 @@ nehrđajućeg 2
 bolest 2
 molio 2
 kafiću 2
+kava 2
 podijelio 2
 grupe 2
 otprilike 2
@@ -2898,6 +2900,7 @@ poginuti 2
 Sloboda 2
 insekti 2
 kukci 2
+Svijet 2
 svoji 2
 švedski 2
 vojnik 2
@@ -2907,6 +2910,7 @@ EU 2
 24 2
 službena 2
 crvena 2
+fascinira 2
 Tomojuki 1
 Ogura 1
 lutka 1
@@ -2944,7 +2948,6 @@ bratstva 1
 Vang 1
 Lao 1
 Dži 1
-Čaj 1
 meri 1
 seci 1
 Ujgur 1
@@ -7323,7 +7326,6 @@ lokalnom 1
 obližnjem 1
 donio 1
 donijela 1
-kava 1
 Profesor 1
 studente 1
 raspravljamo 1
@@ -8257,7 +8259,6 @@ Gramatika 1
 teška 1
 Čija 1
 Sloveniji 1
-Svijet 1
 okrugli 1
 Kavu 1
 Vodu 1

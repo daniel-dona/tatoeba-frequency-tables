@@ -6,15 +6,15 @@ hod 166
 net 153
 hon 142
 die 128
+de 124
 das 124
-de 123
 De 114
 sin 103
-Die 101
+Die 102
 Das 93
 Sie 73
 Meer 72
-in 67
+in 68
 se 62
 Er 61
 waar 60
@@ -131,6 +131,7 @@ abgebrennd 12
 Karre 11
 spreche 11
 Wiffel 11
+gehd 11
 Kann-ich 11
 ich 11
 Geh 11
@@ -147,7 +148,6 @@ dohie 11
 Seid-der 10
 Disch 10
 En 10
-gehd 10
 Nimmand 10
 Licht 10
 Mach 10
@@ -738,6 +738,7 @@ ringang 2
 suche 2
 Enkelkinner 2
 falld 2
+Trepp 2
 abgewe 2
 Jeder 2
 kisse 2
@@ -1213,7 +1214,6 @@ Abfalle 1
 Himdknopp 1
 inschlofe 1
 Wenn-ma 1
-Trepp 1
 runnefalld 1
 is-ma 1
 unne 1
@@ -2014,3 +2014,4 @@ Buls 1
 Fielst-du 1
 Mannle 1
 rausgehol 1
+Keller 1

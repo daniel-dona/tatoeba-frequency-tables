@@ -1,6 +1,6 @@
 się 16428
 nie 13918
-jest 13747
+jest 13750
 w 12285
 Tom 10992
 na 10319
@@ -10,7 +10,7 @@ to 8280
 do 7463
 z 7234
 To 4441
-i 4350
+i 4351
 Czy 3965
 mi 3601
 o 3460
@@ -25,8 +25,8 @@ po 2423
 Mary 2349
 są 2223
 W 1982
+bardzo 1973
 tym 1973
-bardzo 1972
 od 1780
 był 1777
 tak 1735
@@ -72,7 +72,7 @@ tej 907
 żeby 903
 mam 900
 tam 850
-była 844
+była 845
 Kiedy 842
 Proszę 838
 Mój 817
@@ -107,7 +107,7 @@ lat 633
 lubi 611
 Myślę 603
 mój 594
-Jego 589
+Jego 590
 czasu 580
 Nigdy 571
 wiem 567
@@ -369,9 +369,9 @@ tenisa 202
 przyjaciół 202
 godziny 200
 jeden 200
+Maria 200
 Jutro 199
 chodzi 199
-Maria 199
 wciąż 198
 moich 198
 Będę 198
@@ -495,18 +495,18 @@ powinieneś 154
 zimno 154
 kawę 154
 pójść 154
+matka 152
 dość 152
 zanim 152
 język 151
 Kocham 151
-matka 151
 mogą 151
 buty 151
 telefon 150
 wiadomość 150
+miała 150
 twojego 150
 miasta 149
-miała 149
 którzy 149
 znowu 149
 żebym 149
@@ -582,11 +582,11 @@ Twój 135
 Często 135
 tydzień 135
 mało 135
+rację 135
 myślisz 135
 dał 135
 parku 135
 duży 134
-rację 134
 natychmiast 134
 jedną 134
 źle 134
@@ -831,6 +831,7 @@ zrobiłem 95
 pytania 95
 Wiele 95
 trudne 95
+Bóg 95
 Czuję 95
 piwo 94
 prowadzić 94
@@ -840,7 +841,6 @@ mnóstwo 94
 Chciałem 94
 zjadł 94
 mógłbyś 94
-Bóg 94
 uwierzyć 94
 piosenkę 93
 rok 93
@@ -1082,6 +1082,7 @@ długi 73
 stół 73
 wrócić 73
 jednego 73
+kobietą 73
 restauracji 73
 potem 73
 przychodzi 72
@@ -1097,7 +1098,6 @@ zrobię 72
 okna 72
 kobieta 72
 Znasz 72
-kobietą 72
  72
 gazetę 71
 domowe 71
@@ -1411,6 +1411,7 @@ następny 56
 prowadzi 56
 lesie 56
 kolor 56
+piękną 56
 zostawić 56
 godzinie 56
 śpiewa 56
@@ -1429,7 +1430,6 @@ pokazać 55
 sami 55
 Zostaw 55
 zamiast 55
-piękną 55
 uczył 55
 Powiedziała 55
 podróżować 55
@@ -2613,6 +2613,7 @@ oko 29
 leniwy 29
 mieszkam 29
 pozwolił 29
+tłumaczenie 29
 trwa 29
 lewej 29
 Należy 29
@@ -2795,7 +2796,6 @@ liczba 27
 pomogę 27
 Fuji 27
 jedyny 27
-tłumaczenie 27
 latem 27
 pożar 27
 wstał 27
@@ -3190,6 +3190,7 @@ Powinien 23
 zaprosił 23
 wiosna 23
 Światło 23
+każde 23
 Narodzenie 23
 Japończykiem 23
 pośpiechu 23
@@ -3309,7 +3310,6 @@ Złodziej 22
 książce 22
 Cokolwiek 22
 gazecie 22
-każde 22
 P 22
 przejmuj 22
 ojczystym 22
@@ -3686,6 +3686,7 @@ mówiłeś 20
 jada 20
 pająki 20
 córką 20
+Każde 20
 znajdę 20
 Zaczekaj 20
 rozmowę 20
@@ -3874,7 +3875,6 @@ Dziewczynka 19
 kluczy 19
 parasolkę 19
 ofertę 19
-Każde 19
 wyjazd 19
 troje 19
 torbie 19
@@ -4565,6 +4565,7 @@ widokiem 15
 Nigdzie 15
 wybiera 15
 imprezy 15
+wysoką 15
 jemu 15
 planach 15
 pięknych 15
@@ -4776,6 +4777,7 @@ Poradziła 15
 krzyknął 15
 Chcecie 15
 warta 15
+darmowe 15
 Tokyo 15
 nosie 15
 zobaczę 15
@@ -4854,7 +4856,6 @@ weźmie 14
 wieczorami 14
 prosiłem 14
 sukcesem 14
-wysoką 14
 powrotu 14
 szanować 14
 zeszyt 14
@@ -5059,7 +5060,6 @@ przymierzyć 14
 Odwiedziłem 14
 koszykówkę 14
 ołówka 14
-darmowe 14
 uspokoić 14
 zauważyłem 14
 Pytanie 14
@@ -9186,6 +9186,7 @@ powiedziane 7
 Europa 7
 piszesz 7
 fajny 7
+blondynką 7
 Europejskiej 7
 aresztowała 7
 Zajęcia 7
@@ -9997,4 +9998,3 @@ wyspy 6
 nauczenie 6
 twojemu 6
 absurdalne 6
-rocznica 6

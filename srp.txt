@@ -1,17 +1,17 @@
-да 7699
-da 6867
+да 7700
+da 6875
 је 6812
-je 6801
+je 6805
 се 3957
 Том 3571
 сам 3480
 se 3034
-sam 2503
+sam 2504
 ли 2327
+Tom 2062
 u 2060
-Tom 2058
-у 1926
-li 1792
+у 1927
+li 1794
 то 1656
 Да 1514
 na 1483
@@ -23,7 +23,7 @@ ne 1153
 ми 1117
 и 1038
 mi 1024
-Da 1021
+Da 1023
 су 991
 si 984
 za 892
@@ -32,7 +32,7 @@ Ne 831
 sa 824
 Не 808
 си 793
-није 739
+није 740
 за 725
 nije 705
 od 685
@@ -41,20 +41,20 @@ od 685
 са 626
 On 594
 što 578
-Он 558
+Он 559
 ће 558
 од 557
 што 555
 ме 553
-ти 530
-ti 530
+ти 531
+ti 531
 To 526
 će 520
 шта 512
 смо 509
 bio 499
 Тому 486
-bi 482
+bi 483
 бих 463
 me 450
 То 443
@@ -64,12 +64,12 @@ Ona 392
 te 386
 га 384
 smo 382
-овде 373
+овде 375
 би 370
 Ja 366
 ово 364
-Она 360
-Мислим 355
+Она 361
+Мислим 356
 o 352
 Нисам 343
 Šta 343
@@ -116,7 +116,7 @@ ga 237
 било 232
 ћу 231
 зна 228
-treba 219
+treba 222
 ali 219
 još 219
 још 219
@@ -150,17 +150,17 @@ biti 187
 Zašto 183
 mene 181
 ništa 181
+Tomu 181
 тако 180
-Tomu 178
 Ovo 177
 Хоћу 177
 кући 176
 бити 176
 do 176
 Колико 176
+Mislim 175
 Ti 175
 му 175
-Mislim 174
 nego 172
 знам 171
 sada 171
@@ -173,9 +173,9 @@ vreme 167
 Зашто 165
 три 164
 воли 162
+Koliko 161
 kući 160
 већ 158
-Koliko 158
 молим 157
 или 155
 jedan 154
@@ -200,12 +200,12 @@ već 145
 pre 145
 нас 145
 сада 145
+увек 145
 ко 144
 zna 144
 могао 144
 Волим 143
 ću 143
-увек 143
 Marija 143
 ништа 142
 ви 142
@@ -214,8 +214,8 @@ Moj 142
 Када 141
 radi 141
 људи 141
+била 141
 Нико 140
-била 140
 malo 139
 Gde 138
 ni 138
@@ -230,9 +230,9 @@ bude 132
 зар 131
 Ти 131
 nas 131
+ili 131
 Svi 131
 ljudi 130
-ili 130
 Sve 130
 Oni 130
 урадим 130
@@ -302,9 +302,9 @@ ono 107
 Молим 105
 a 104
 godina 104
+svoju 104
 без 103
 ovaj 103
-svoju 103
 ћеш 103
 ниси 103
 Буди 102
@@ -328,9 +328,9 @@ gde 97
 uradio 97
 ту 97
 ide 96
+tvoj 96
 по 95
 život 95
-tvoj 95
 јер 95
 стварно 95
 koja 94
@@ -371,13 +371,13 @@ imao 85
 ko 84
 dovoljno 84
 sutra 84
+misliš 84
 око 84
 Престани 84
 Добро 83
 nekoliko 83
 problem 83
 nema 83
-misliš 83
 један 83
 Био 83
 puno 82
@@ -392,18 +392,18 @@ ih 80
 toliko 79
 živi 79
 француски 79
+trebalo 79
 jer 79
 одмах 79
 Много 79
 Можеш 79
 Sada 79
 Све 78
+neće 78
 bili 78
 želiš 78
-trebalo 78
 поново 78
 новац 78
-neće 77
 Želim 77
 имам 77
 Има 77
@@ -460,6 +460,7 @@ tvoje 68
 десило 68
 урадиш 68
 кад 67
+taj 67
 knjigu 67
 spreman 67
 јуче 67
@@ -468,7 +469,6 @@ spreman 67
 Бостон 67
 нема 66
 knjiga 66
-taj 66
 svi 66
 Danas 66
 zar 66
@@ -577,6 +577,7 @@ Ovde 56
 себе 56
 Је 56
 месту 56
+stvarno 56
 Престаните 56
 твој 55
 Моја 55
@@ -590,7 +591,6 @@ Nemam 55
 недеље 55
 Баш 55
 mesto 55
-stvarno 55
 Uvek 54
 juče 54
 meni 54
@@ -648,6 +648,7 @@ Moraš 51
 кроз 51
 Та 50
 posle 50
+novca 50
 dugo 50
 Moram 50
 redu 50
@@ -657,7 +658,6 @@ nikad 50
 kuće 49
 pet 49
 otišao 49
-novca 49
 kupio 49
 onda 49
 Dođi 49
@@ -822,6 +822,7 @@ pišem 39
 Možete 39
 dobra 39
 prijatelji 39
+uspeo 39
 воле 39
 кућа 39
 уопште 39
@@ -835,7 +836,6 @@ stigao 38
 Ljudi 38
 prema 38
 imamo 38
-uspeo 38
 између 38
 нико 38
 десет 38
@@ -923,6 +923,7 @@ pravi 34
 ikada 34
 igra 34
 uz 34
+Tomov 34
 čuo 34
 stvar 34
 reč 34
@@ -956,7 +957,6 @@ prozor 33
 jedno 33
 Imamo 33
 dao 33
-Tomov 33
 поред 33
 њим 33
 значи 33
@@ -1050,6 +1050,7 @@ daleko 30
 njim 30
 син 30
 сати 30
+школи 30
 допада 30
 Каже 30
 пријатељи 30
@@ -1079,7 +1080,6 @@ reći 29
 Хтео 29
 учи 29
 разумем 29
-школи 29
 аутобус 29
 соби 29
 ноћ 29
@@ -1634,6 +1634,7 @@ Dođite 19
 Наш 19
 говорите 19
 шест 19
+седи 19
 грешку 19
 погрешно 19
 пива 19
@@ -1815,7 +1816,6 @@ poput 17
 кошта 17
 свега 17
 учинио 17
-седи 17
 увече 17
 пише 17
 Изгубио 17
@@ -1903,6 +1903,7 @@ aerodroma 16
 Od 16
 Mrzim 16
 naočare 16
+gitaru 16
 sata 16
 nalazi 16
 ponosan 16
@@ -2006,6 +2007,7 @@ napišem 16
 добри 15
 језику 15
 igraju 15
+hrane 15
 Dao 15
 godinu 15
 razlika 15
@@ -2027,7 +2029,6 @@ njegovoj 15
 kišobran 15
 naš 15
 bašti 15
-gitaru 15
 njegove 15
 Većina 15
 fudbal 15
@@ -2144,7 +2145,6 @@ Tomovo 15
 нож 14
 причу 14
 padala 14
-hrane 14
 zavisi 14
 svako 14
 Jedva 14
@@ -2161,6 +2161,7 @@ Izgledaš 14
 nemaju 14
 tajnu 14
 pravila 14
+ići 14
 rođendan 14
 Japan 14
 nemam 14
@@ -2320,7 +2321,6 @@ grešku 13
 japanski 13
 studira 13
 Čuo 13
-ići 13
 student 13
 Biću 13
 nekim 13
@@ -2723,6 +2723,7 @@ spavanje 11
 zdravlje 11
 nad 11
 ideju 11
+dam 11
 Imali 11
 videli 11
 gubi 11
@@ -2954,6 +2955,7 @@ kupiti 10
 pun 10
 kupila 10
 Vam 10
+kofer 10
 prva 10
 probam 10
 dozvolio 10
@@ -3257,7 +3259,6 @@ valjda 9
 sinu 9
 Dobar 9
 kancelariji 9
-kofer 9
 Sneg 9
 različitih 9
 ubedim 9
@@ -3481,6 +3482,7 @@ obrazovanje 9
 ljubazan 9
 питању 9
 naša 9
+doneo 9
 želeli 9
 iskustvo 9
 oprao 9
@@ -3647,7 +3649,6 @@ vredi 8
 Toliko 8
 živa 8
 samoubistvo 8
-dam 8
 teoriji 8
 stranu 8
 primio 8
@@ -3930,7 +3931,6 @@ meri 8
 napustio 8
 jedva 8
 odlazim 8
-doneo 8
 rečeno 8
 rečima 8
 razmišljaš 8
@@ -4665,6 +4665,7 @@ hoćete 6
 komšije 6
 Smem 6
 kralj 6
+Čula 6
 Mesec 6
 fudbala 6
 univerzitetu 6
@@ -4731,6 +4732,7 @@ Kapetan 6
 onih 6
 mobilni 6
 poziv 6
+pobegne 6
 певачица 6
 Џим 6
 радо 6
@@ -5463,7 +5465,6 @@ CD 5
 Živela 5
 Kafa 5
 predlog 5
-Čula 5
 Najviše 5
 Trebaju 5
 uprkos 5
@@ -5544,7 +5545,6 @@ reši 5
 srcu 5
 lekove 5
 Ovu 5
-pobegne 5
 крајева 5
 језиком 5
 закон 5
@@ -8786,6 +8786,7 @@ tata 3
 Њих 3
 слова 3
 трава 3
+предмет 3
 полудео 3
 Немачкој 3
 Послушао 3
@@ -9997,4 +9998,3 @@ disk 3
 odlučim 3
 Ogromna 3
 se" 3
-komunicira 3

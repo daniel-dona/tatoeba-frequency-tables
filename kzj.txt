@@ -1,21 +1,21 @@
-do 3347
-zou 1194
-di 988
-no 901
-i 813
+do 3351
+zou 1197
+di 993
+no 902
+i 816
 Tom 697
-ko 642
-ku 638
-o 589
+ko 643
+ku 641
+o 590
 id 474
 nu 444
 nopo 417
 Au 409
 doid 404
 om 370
-dii 367
+dii 368
 isido 362
-dau 350
+dau 351
 nga 314
 po 230
 au 229
@@ -23,20 +23,20 @@ diti 225
 zosido 198
 zi 191
 naku 187
-mantad 184
+mantad 185
 diau 175
-Mary 171
+Mary 172
 dogo 166
 kozo 162
 tuhun 158
 Au' 158
 tokou 157
-daa 154
+daa 155
 zikoi 153
 kumaa 151
-iho 138
+iho 139
 tu 138
-boos 136
+boos 137
 iti 133
 mai 124
 ii 122
@@ -48,14 +48,14 @@ Kivaa 113
 tadau 106
 ka 105
 miampai 101
-au' 100
+au' 101
 ginavo 99
 diho 97
 nga' 97
 ih 95
 disido 90
 doiho 88
-i' 86
+i' 87
 doiti 85
 montok 82
 dosido 77
@@ -69,7 +69,7 @@ toun 62
 maan 62
 timpu 60
 Mimang 60
-buuk 58
+buuk 59
 dino 58
 nung 57
 sondii 57
@@ -92,6 +92,7 @@ tu' 49
 moboos 48
 Iti 48
 jaam 47
+tanak 47
 Nokuo 47
 Noikot 47
 Nung 46
@@ -101,7 +102,6 @@ pogun 45
 mangakan 45
 dioho 44
 suvab 44
-tanak 44
 kivaa 44
 tagazo 44
 hobi 44
@@ -114,10 +114,10 @@ duvo 39
 daamin 39
 nogi 39
 kou 39
+Onggilis 38
 kulita 38
 mugad 38
 vagu 37
-Onggilis 37
 Kada 37
 pomusaavan 37
 Osuusuvab 37
@@ -165,6 +165,7 @@ Kanou 27
 doino 27
 piipio 27
 hongon 27
+John 27
 Mugad 27
 avasi 27
 Sami 27
@@ -178,13 +179,13 @@ pomogunan 26
 lahan 26
 Perancis 25
 ngaavi' 25
-John 25
 Krismas 25
 Kavasa 25
 nokoiho 24
 tagal 24
 kadai 24
 topiumanan 24
+Doid 24
 Ingkuo 24
 gambal 24
 kobohingkaangan 24
@@ -195,7 +196,6 @@ nakatahib 23
 Miaga 23
 momoguno 23
 ihia 23
-Doid 23
 gaung 23
 Di 23
 savo 22
@@ -263,6 +263,7 @@ idsuang 16
 Nosoou 16
 tiso 16
 suat 16
+Ahansan 16
 mato 16
 dokutul 16
 Zi 16
@@ -281,7 +282,6 @@ nombo 15
 Itia 15
 mogisuusuvai 15
 kalaja 15
-Ahansan 15
 voos 15
 kapal 15
 humozog 15
@@ -422,6 +422,7 @@ koginavaan 11
 kavo 11
 Zosido 11
 izioho' 11
+ahaid 11
 tingau 11
 diisai 11
 Avasi' 11
@@ -440,6 +441,7 @@ Moboos 10
 Nokoiho 10
 sada 10
 tahaid 10
+kalamazan 10
 papapanau 10
 Natagak 10
 Kinaman 10
@@ -453,7 +455,6 @@ Mogot 10
 muot 10
 oh 10
 toluai 10
-ahaid 10
 kinahasaan 10
 iso' 10
 Monguo 10
@@ -476,7 +477,6 @@ Sasau 9
 Aino 9
 mintong 9
 Kumalaja 9
-kalamazan 9
 doungosodop 9
 tinimungan 9
 savi-avi 9
@@ -592,6 +592,7 @@ Manaak 7
 sundung 7
 Ontok 7
 kovoovozoon 7
+panaasan 7
 Mooi 7
 maganu 7
 kaapat 7
@@ -619,6 +620,7 @@ kotundaan 7
 sisindion 7
 mai' 7
 ginumu' 7
+dogo' 7
 tuminimpuun 7
 dii" 7
 titihion 7
@@ -673,7 +675,6 @@ Ihia 6
 Osusa 6
 umul 6
 Hangadon 6
-panaasan 6
 tutumuhud 6
 uoton 6
 tontok 6
@@ -727,7 +728,6 @@ atangkangau 6
 disan 6
 kitoluo 6
 vanan 6
-dogo' 6
 siibo 6
 votik 6
 susu 6
@@ -739,6 +739,7 @@ unibositi 6
 Noiduanan 6
 Guminapus 6
 zioho' 6
+tanong 6
 soibu 6
 apol 6
 kuozon 6
@@ -1382,6 +1383,7 @@ Kitohu 3
 minuhi 3
 minidu 3
 iisai-isai 3
+sada' 3
 Noponu 3
 Google 3
 luputan 3
@@ -1474,7 +1476,6 @@ pai 3
 Peter 3
 buvazoi 3
 ambat 3
-tanong 3
 Nababasan 3
 matematik 3
 Mimbalajal 3
@@ -1548,6 +1549,7 @@ moing 3
 Magavi 3
 " 3
 mongungkub 3
+minggu' 3
 Cookie 3
 ponoodo 3
 mongindapu 3
@@ -1573,6 +1575,7 @@ anime 3
 Rusia 3
 Koduvo 3
 kopongo' 3
+katahib 3
 Ogumu' 3
 Aiso' 3
 Humozou 3
@@ -1893,6 +1896,7 @@ kakang 2
 tohombon 2
 Minobohi 2
 Titiodop 2
+Momohi 2
 pokisuduvon 2
 Pinapaatod 2
 "tangavasi" 2
@@ -1974,7 +1978,6 @@ toongobon 2
 Minamatai 2
 Kivaa' 2
 sambayang 2
-sada' 2
 noposik 2
 sompogunan 2
 talun 2
@@ -2030,6 +2033,7 @@ Obuhou 2
 ƀinasa 2
 Kuđa 2
 suangtalun 2
+alaalaat 2
 ko’ 2
 iman-imanon 2
 todu 2
@@ -2312,7 +2316,6 @@ Mitanud 2
 Koikatai 2
 Baazatan 2
 sinogub 2
-minggu' 2
 kuudi 2
 Christopher 2
 tolungku 2
@@ -2428,7 +2431,6 @@ umatu 2
 Java 2
 Javascript 2
 Nuhu 2
-katahib 2
 Thomas 2
 mintana' 2
 Posuangai 2
@@ -3512,7 +3514,6 @@ Alamai 1
 tingau/izing 1
 batoli 1
 tolipoun 1
-Momohi 1
 1939 1
 nokoimbuhai 1
 taang 1
@@ -4042,7 +4043,6 @@ upuson 1
 supital 1
 poindoos 1
 Hobi’ 1
-alaalaat 1
 giil 1
 Kidimpoton 1
 panangaung 1
@@ -6748,3 +6748,10 @@ Sumadon 1
 dukaluk 1
 kinohuan 1
 Ugadai 1
+kinotutuko 1
+Mananong 1
+Tonongon 1
+Tanangan 1
+Minonolifon 1
+baka 1
+Mogovit 1

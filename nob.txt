@@ -1,10 +1,10 @@
-er 4359
-Jeg 3614
-ikke 2476
+er 4364
+Jeg 3616
+ikke 2477
 å 2189
-i 2174
-en 2051
-du 1890
+i 2175
+en 2054
+du 1891
 har 1805
 det 1803
 Tom 1766
@@ -12,10 +12,10 @@ på 1716
 til 1560
 jeg 1343
 og 1342
-Det 1172
+Det 1174
 for 1068
 med 1065
-meg 1049
+meg 1050
 Han 1009
 av 988
 var 983
@@ -23,15 +23,15 @@ som 964
 at 884
 et 751
 Hun 749
-Du 737
+Du 739
 deg 732
 kan 658
 vil 645
 om 585
 så 582
-han 574
+han 576
 Vi 555
-den 494
+den 495
 min 468
 seg 444
 noe 379
@@ -62,21 +62,21 @@ din 256
 mye 252
 enn 249
 liker 244
-denne 237
+denne 238
 dag 233
 noen 232
 Mary 227
+men 222
 hun 222
-men 221
 Dette 220
 sin 219
 aldri 217
 henne 212
 skulle 212
 her 206
-opp 204
+opp 205
+Ikke 204
 mange 204
-Ikke 202
 bare 200
 tror 198
 ville 191
@@ -158,10 +158,10 @@ ingenting 95
 får 95
 mot 92
 ditt 92
+Alle 91
 bedre 91
 stor 91
 ofte 91
-Alle 90
 hjem 90
 lenge 90
 da 89
@@ -172,12 +172,12 @@ komme 87
 bra 87
 bør 86
 gjort 86
+mann 86
 helt 86
 Hvis 85
-mann 85
+blitt 85
 språk 84
 feil 84
-blitt 84
 dine 84
 spise 83
 finne 82
@@ -289,6 +289,7 @@ veien 49
 hvorfor 49
 leve 49
 gjennom 49
+står 47
 bordet 47
 snill 47
 vite 47
@@ -298,11 +299,11 @@ hatt 47
 dager 47
 liv 47
 lese 46
-står 46
 beste 46
 begynte 46
 gått 46
 skjedde 46
+eneste 46
 På 45
 lett 45
 lang 45
@@ -310,7 +311,6 @@ disse 45
 Da 45
 tenker 45
 gir 45
-eneste 45
 fortalte 45
 prøvde 44
 lærer 44
@@ -366,6 +366,7 @@ spille 38
 klokken 38
 person 38
 leser 38
+tidlig 38
 skje 38
 borte 38
 sover 38
@@ -374,7 +375,6 @@ mener 38
 land 37
 fem 37
 drikke 37
-tidlig 37
 akkurat 37
 Australia 37
 kommet 36
@@ -445,6 +445,7 @@ forelsket 30
 fått 30
 hendene 30
 gitt 30
+Ja 30
 sannheten 30
 én 30
 ei 30
@@ -462,7 +463,6 @@ Hvilken 29
 Norge 29
 møte 29
 tro 29
-Ja 29
 hus 29
 jente 29
 kaldt 28
@@ -570,6 +570,7 @@ Skriv 23
 reise 23
 Kanskje 23
 bestemte 23
+gutt 23
 finner 23
 sist 23
 Unnskyld 23
@@ -620,7 +621,6 @@ snø 21
 lange 21
 nær 21
 bilder 21
-gutt 21
 brød 21
 klarte 21
 natten 21
@@ -815,6 +815,7 @@ bodd 15
 overrasket 15
 venstre 15
 regne 15
+klassen 15
 Hvilket 15
 sikkert 15
 huske 15
@@ -864,7 +865,6 @@ sykkelen 14
 leker 14
 stasjonen 14
 begynt 14
-klassen 14
 kun 14
 ferd 14
 inne 14
@@ -1077,6 +1077,7 @@ foretrekker 11
 sønnen 11
 kampen 11
 Må 11
+drømmer 11
 ferie 11
 Bilen 11
 betaler 11
@@ -1173,7 +1174,6 @@ Columbus 10
 greier 10
 Uansett 10
 Synes 10
-drømmer 10
 Hele 10
 ris 10
 forskjellen 10
@@ -1368,6 +1368,7 @@ forhold 8
 spill 8
 restaurant 8
 fiender 8
+skutt 8
 spillet 8
 skylder 8
 kranglet 8
@@ -1492,6 +1493,7 @@ fremmed 7
 sykehuset 7
 ekte 7
 Barn 7
+gutten 7
 gata 7
 musikken 7
 Slå 7
@@ -1520,7 +1522,6 @@ følger 7
 babyen 7
 Navnet 7
 listen 7
-skutt 7
 fjerne 7
 japanske 7
 heldig 7
@@ -1667,7 +1668,6 @@ Hans 6
 Jack 6
 Legg 6
 april 6
-gutten 6
 overraskende 6
 Neste 6
 ordboken 6
@@ -4680,6 +4680,7 @@ hindre 2
 treffer 2
 politistasjonen 2
 rommene 2
+skremmer 2
 bringebær 2
 Havre 2
 menyen 2
@@ -5477,6 +5478,7 @@ Røm 2
 Skrik 2
 Rop 2
 gutta 2
+skuff 2
 menneskeverd 1
 menneskerettigheter 1
 brorskapets 1
@@ -8268,7 +8270,6 @@ artist 1
 piken 1
 opplevet 1
 stillheten 1
-skremmer 1
 overraske 1
 feilfri 1
 ulendte 1
@@ -9997,4 +9998,3 @@ soner 1
 sørlige 1
 fantastiske 1
 seriøs 1
-nordavind 1

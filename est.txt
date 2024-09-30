@@ -1,16 +1,16 @@
-on 1461
+on 1464
 Ma 908
 ei 722
 Tom 589
-sa 423
-Kas 417
+sa 425
+Kas 420
 Ta 336
 et 320
 See 271
 ma 216
 seda 203
 oma 200
-see 180
+see 181
 oli 159
 ja 152
 ta 146
@@ -113,6 +113,7 @@ keel 32
 räägid 32
 taha 31
 aega 31
+või 31
 räägin 31
 Olen 31
 Tal 30
@@ -132,7 +133,6 @@ meie 27
 Tere 27
 läheb 27
 tegema 27
-või 27
 kolm 27
 rohkem 27
 sõber 27
@@ -141,6 +141,7 @@ eest 26
 pärast 26
 elab 26
 ka 25
+teed 25
 enam 25
 Mina 25
 tahad 25
@@ -150,14 +151,15 @@ meeldi 24
 oleks 23
 juba 23
 tead 23
+pealinn 23
 auto 23
 Koer 23
 õppida 23
 läks 22
-teed 22
 tegi 22
 peale 22
 parem 22
+tee 22
 õpetaja 22
 siia 22
 natuke 22
@@ -168,11 +170,9 @@ Keegi 21
 teine 21
 lapsed 21
 Millal 21
-pealinn 21
 aastat 21
 Sul 21
 üles 21
-tee 21
 sinuga 21
 Meil 21
 Te 21
@@ -293,6 +293,7 @@ kõike 13
 ukse 13
 ostis 13
 teil 13
+kohvi 13
 vanem 13
 korda 13
 juhtus 13
@@ -361,7 +362,6 @@ osta 10
 poleks 10
 käib 10
 loomad 10
-kohvi 10
 teen 10
 tahaksin 10
 meile 10
@@ -1023,6 +1023,7 @@ täpselt 4
 hobuse 4
 tugevam 4
 kasutab 4
+soovid 4
 silmas 4
 oodata 4
 televiisorit 4
@@ -1427,6 +1428,7 @@ jalast 3
 lause 3
 nimekirja 3
 arsti 3
+Ukraina 3
 itaalia 3
 ostan 3
 sees 3
@@ -2133,7 +2135,6 @@ julgustavalt 2
 põlema 2
 jalg 2
 õpib 2
-soovid 2
 Väga 2
 juukseid 2
 nõustu 2
@@ -2230,7 +2231,6 @@ vabariik 2
 Minul 2
 püüdnud 2
 laste 2
-Ukraina 2
 Tallinn 2
 hotellis 2
 kreeka 2
@@ -2268,6 +2268,7 @@ pakkus 2
 Kreekale 2
 Portugalis 2
 rahvusvaheline 2
+Kiiev 2
 elektrikuks 2
 Betty 2
 istuda 2
@@ -5302,7 +5303,6 @@ Nunnad 1
 Miljard 1
 Ukrainas 1
 Ukrainat 1
-Kiiev 1
 šamaan 1
 elektrikud 1
 Kutsu 1
@@ -6537,3 +6537,7 @@ seletad 1
 tõmmata 1
 parda 1
 Interneti-ühendus 1
+Soovid 1
+kohv 1
+Rumeenia 1
+Bukarest 1

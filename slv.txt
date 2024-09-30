@@ -67,6 +67,7 @@ angleško 21
 Živijo 21
 te 21
 še 21
+ali 20
 lepa 20
 že 20
 ta 20
@@ -79,7 +80,6 @@ bilo 19
 Kdor 19
 več 19
 ste 18
-ali 18
 Ta 18
 ga 18
 Nisem 18
@@ -313,6 +313,7 @@ iti 5
 Pes 5
 govorijo 5
 kralj 5
+čaj 5
 imel 5
 Kam 5
 res 5
@@ -438,7 +439,6 @@ Mačke 4
 Lačen 4
 čebele 4
 vode 4
-čaj 4
 barve 4
 igrati 4
 Po 4
@@ -760,6 +760,7 @@ zlato 3
 eden 3
 dolgo 3
 mrtva 3
+kava 3
 Jabolko 3
 ponedeljek 3
 laž 3
@@ -1257,7 +1258,7 @@ Dobrodošla 2
 Dobrodošel 2
 Madžarska 2
 domu 2
-kava 2
+Kava 2
 junak 2
 Srečno 2
 Jem 2
@@ -3076,7 +3077,6 @@ obleka 1
 kapa 1
 dokumenta 1
 ledena 1
-Kava 1
 nepogrešljiva 1
 kulture 1
 turške 1
@@ -3981,3 +3981,4 @@ izpopolnjena 1
 njo 1
 govoril 1
 varna 1
+Čaj 1

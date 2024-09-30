@@ -1,17 +1,17 @@
-Aku 150
+Aku 152
 ora 130
 Tom 112
 sing 69
 iku 49
 aku 45
-Kowé 43
-iki 42
-ing 42
+Kowé 44
+iki 43
+ing 43
 karo 37
 Dhèwèké 36
+nang 32
 kowé 31
-nang 30
-ana 29
+ana 30
 basa 27
 kuwi 26
 wis 25
@@ -44,12 +44,12 @@ Kula 14
 Ora 14
 yèn 14
 kabèh 14
+sinau 14
 weruh 13
 kaya 13
 kéné 13
 buku 13
 tau 13
-sinau 13
 Dhéwéké 13
 Ana 12
 marang 12
@@ -101,6 +101,7 @@ telu 6
 nganggo 6
 Sapa 6
 ngentèni 6
+omah 6
 paling 6
 mèh 6
 mesthi 6
@@ -155,6 +156,7 @@ mulih 4
 sanga 4
 panggon 4
 guru 4
+banjur 4
 ngrungokaké 4
 kenal 4
 ngandhani 4
@@ -169,7 +171,6 @@ Tak 4
 numpak 4
 bis 4
 krungu 4
-omah 4
 bener 4
 kapan 4
 dhuwur 4
@@ -208,7 +209,6 @@ pitu 3
 takon 3
 pingin 3
 mbukak 3
-banjur 3
 Wis 3
 ngudud 3
 kene 3
@@ -255,7 +255,9 @@ prajané 3
 sega 3
 wadon 3
 angèl 3
+dalan 3
 teles 3
+péngin 3
 tumbas 3
 Anakku 3
 Sepuré 3
@@ -451,7 +453,6 @@ ngelak 2
 bocah 2
 endhog 2
 pati 2
-dalan 2
 jeruk 2
 wajikan 2
 miring 2
@@ -460,7 +461,6 @@ Honggari 2
 kon 2
 tutug 2
 matané 2
-péngin 2
 Koréa 2
 Ing 2
 dhéwé-dhéwé 2
@@ -468,6 +468,7 @@ Ngapunten 2
 pitku 2
 Yanni 2
 prahotoné 2
+nemu 2
 payung 2
 jaba 2
 sinahu 2
@@ -1396,7 +1397,6 @@ murupaké 1
 ꦪꦤ꧀ꦤꦶꦩꦸꦫꦸꦥ꧀ꦥꦏꦺꦥꦿꦲꦺꦴꦠꦺꦴꦤꦺ꧉ 1
 Mendhingan 1
 ꦩꦼꦤ꧀ꦝꦶꦁꦔꦤ꧀ꦲꦮꦏ꧀ꦩꦸꦠꦸꦫꦸꦧꦲꦺ꧉ 1
-nemu 1
 kunci 1
 ꦏꦺꦴꦮꦺꦤꦼꦩꦸꦏꦸꦚ꧀ꦕꦶꦲꦶꦏꦸꦤꦁꦲꦼꦤ꧀ꦢꦶ 1
 tigang 1
@@ -1906,3 +1906,9 @@ Ali 1
 takoné 1
 ꦧꦺꦴꦕꦃꦧꦺꦴꦕꦃꦲꦏꦺꦃꦠꦏꦺꦴꦤ꧀ꦤꦺ꧉ 1
 ꦠꦔꦤ꧀ꦏꦸꦠꦼꦊꦱ꧀꧈ 1
+kuduné 1
+ꦏꦺꦴꦮꦺꦏꦸꦢꦸꦤꦺꦲꦤꦲꦶꦁꦲꦺꦴꦩꦃ꧉ 1
+ꦲꦏꦸꦥꦺꦔꦶꦤ꧀ꦱꦶꦤꦲꦸꦲꦶꦏꦶ꧉ 1
+cemèng 1
+dakgawa 1
+ꦲꦏꦸꦤꦼꦩꦸꦕꦼꦩꦺꦁꦤꦁꦢꦭꦤ꧀ ꦧꦚ꧀ꦗꦸꦂꦢꦏ꧀ꦒꦮꦤꦁꦲꦺꦴꦩꦃ꧉ 1

@@ -1,16 +1,17 @@
-ono 125
+ono 133
 Miä 58
 Foma 50
+koti 50
 Miun 47
-koti 41
 Tänäpään 27
 Hää 25
+ei 25
 jot 23
-ei 23
-ollaa 20
+ollaa 21
 siä 16
 kirjoja 15
 Kokko 15
+Miul 14
 siun 13
 suvvaan 12
 hiiren 12
@@ -19,6 +20,7 @@ tätä 11
 miun 11
 laulua 11
 Lue 11
+oo 11
 en 10
 sitä 10
 soitti 10
@@ -27,8 +29,8 @@ Maaria 9
 liki 9
 hyvä 9
 Höö 9
+peeni 9
 Joo 9
-oo 9
 telefona 9
 oon 8
 hänen 8
@@ -40,11 +42,13 @@ elokkaita 8
 Siä 7
 kirjuttaa 7
 hänelle 7
+ja 7
 laulu 7
 tämä 7
 Oo 7
 kallaa 7
 Onok 7
+suur 7
 söi 7
 kokko 7
 Moskova 7
@@ -54,12 +58,10 @@ Ken 6
 miulle 6
 Möö 6
 hää 6
+pittää 6
 siulle 6
-ja 6
 Se 6
 Hiiri 6
-suur 6
-peeni 6
 Söö 6
 Telefona 6
 Hyvvää 5
@@ -69,7 +71,6 @@ tehä 5
 tiitää 5
 Kus 5
 saoi 5
-pittää 5
 lohta 5
 Avvaa 5
 Laps 5
@@ -133,7 +134,6 @@ lintu 3
 Nämät 3
 Siun 3
 tytärtä 3
-Miul 3
 Uutta 3
 Vootta 3
 tekköö 3
@@ -148,6 +148,7 @@ telefonnaa 3
 Vennäen 3
 päälinna 3
 kirjat 3
+kottia 3
 Mikä 2
 Anteeks 2
 istui 2
@@ -156,6 +157,7 @@ nämät 2
 tahon 2
 Suuremp 2
 osa 2
+ennää 2
 taho 2
 konskaa 2
 mittää 2
@@ -212,6 +214,7 @@ Joulu 2
 flakku 2
 koin 2
 duumaa 2
+Australias 2
 unohan 2
 päätetsä 2
 Niin 2
@@ -242,6 +245,7 @@ viroks 2
 kus 2
 rinnaal 2
 parkkaa 2
+mäkilöis 2
 saappaat 2
 Sorsa 2
 öötä 1
@@ -275,7 +279,6 @@ Monta 1
 ihmisiä 1
 kutsuit 1
 praaznikkaa 1
-ennää 1
 duumajaa 1
 monet 1
 ystävät 1
@@ -514,7 +517,6 @@ tahtoi 1
 uutta 1
 paljttoa 1
 elin 1
-Australias 1
 ain 1
 ihmisiin 1
 nimilöjä 1
@@ -693,10 +695,8 @@ kirkkoa 1
 mättään 1
 pääl 1
 škoulua 1
-kottia 1
 joen 1
 stantsian 1
-mäkilöis 1
 katto 1
 mertä 1
 Avita 1
@@ -730,3 +730,9 @@ Makkaattak 1
 Täälk 1
 No 1
 Häă 1
+kera 1
+Moskovan 1
+al 1
+kumpa 1
+kraasata 1
+mašina 1
