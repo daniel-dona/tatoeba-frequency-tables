@@ -1,23 +1,23 @@
 nie 1225
-is 1001
+is 1008
 het 938
-Ek 934
+Ek 935
 die 723
 'n 578
-Tom 430
-jy 419
-my 336
-te 304
-om 286
+Tom 432
+jy 420
+my 337
+te 305
+om 287
 van 273
 jou 268
-Die 264
-dit 262
+Die 265
+dit 263
 vir 246
 in 242
 ek 220
 was 210
-Hy 200
+Hy 201
 sal 192
 Ons 190
 gaan 172
@@ -29,7 +29,7 @@ kan 140
 wat 139
 sy 136
 met 133
-Sy 127
+Sy 129
 en 121
 moet 119
 op 114
@@ -45,15 +45,15 @@ hy 89
 Wat 85
 dat 85
 weet 80
+Hulle 73
 as 73
 hulle 73
-Hulle 72
 werk 72
 Is 72
 kom 71
 aan 70
+Hierdie 69
 toe 68
-Hierdie 68
 na 65
 hou 62
 by 62
@@ -61,9 +61,9 @@ se 62
 Het 61
 maak 60
 word 55
+praat 55
 hier 53
 Waar 53
-praat 52
 asseblief 51
 Kan 51
 net 51
@@ -71,8 +71,8 @@ u 50
 so 49
 sou 49
 maar 48
+sien 48
 nou 47
-sien 47
 bly 46
 huis 46
 eet 45
@@ -94,8 +94,8 @@ boek 36
 Daar 36
 help 36
 gee 36
+twee 34
 deur 34
-twee 33
 Hoekom 33
 Wie 33
 hê 31
@@ -216,6 +216,7 @@ Japan 14
 alleen 14
 Jou 14
 suster 14
+Dankie 14
 veel 14
 Waarom 14
 mooi 14
@@ -233,7 +234,6 @@ graag 13
 ou 13
 tafel 13
 eerste 13
-Dankie 13
 motor 13
 skool 13
 dans 13
@@ -259,8 +259,10 @@ trots 12
 wie 12
 gevra 12
 wou 12
+studeer 12
 voor 12
 tee 12
+kamer 12
 lieg 12
 n 12
 In 12
@@ -288,11 +290,9 @@ voël 11
 boeke 11
 bus 11
 ontmoet 11
-studeer 11
 vind 11
 plan 11
 Was 11
-kamer 11
 terugkom 11
 geword 11
 sonder 11
@@ -313,6 +313,7 @@ slegs 10
 vroeg 10
 trappe 10
 bestuur 10
+Nee 10
 groente 10
 nat 10
 mal 10
@@ -346,16 +347,17 @@ gedink 9
 loop 9
 Almal 9
 koek 9
-Nee 9
 daaroor 9
 blou 9
 koud 9
 vlieg 9
 gegee 9
 horlosie 9
+moeilik 9
 jouself 9
 verlaat 9
 huil 9
+Wil 9
 onder 9
 seer 9
 verbaas 9
@@ -379,15 +381,14 @@ spel 8
 Mag 8
 reis 8
 donker 8
+leer 8
 Met 8
 Watter 8
 ryk 8
 oomblik 8
 bottel 8
 steek 8
-moeilik 8
 saak 8
-Wil 8
 iemand 8
 homself 8
 vuil 8
@@ -420,7 +421,6 @@ Ekskuus 7
 Vir 7
 trein 7
 Hier 7
-leer 7
 vrae 7
 Eet 7
 plaas 7
@@ -549,6 +549,7 @@ sport 6
 Kyk 6
 Bly 6
 En 6
+dik 6
 Maria 6
 stukkend 6
 toilet 6
@@ -578,6 +579,7 @@ meeste 5
 persoon 5
 totdat 5
 Wag 5
+Ja 5
 gekry 5
 hoef 5
 geheim 5
@@ -643,6 +645,7 @@ buiteland 5
 dors 5
 ouma 5
 manlik 5
+Russies 5
 Alle 4
 vry 4
 regte 4
@@ -919,6 +922,7 @@ werklik 3
 minder 3
 vanmiddag 3
 lyn 3
+Leer 3
 radio 3
 verbrand 3
 maan 3
@@ -963,6 +967,7 @@ vang 3
 keuse 3
 ruk 3
 glad 3
+mure 3
 geverf 3
 belangstel 3
 Jammer 3
@@ -970,6 +975,7 @@ Melk 3
 verby 3
 waarvan 3
 voete 3
+Sny 3
 soet 3
 ryp 3
 tamaties 3
@@ -1006,7 +1012,6 @@ appels 3
 swyg 3
 stem 3
 dus 3
-dik 3
 verras 3
 skoonma 3
 werd 3
@@ -1112,7 +1117,6 @@ taamlik 2
 verkeerslig 2
 gebied 2
 vel 2
-Ja 2
 stoele 2
 aanbeveel 2
 klavier 2
@@ -1180,6 +1184,7 @@ aktiewe 2
 burgerskap 2
 hemp 2
 staat 2
+jaloers 2
 foute 2
 dogtertjie 2
 aangeneem 2
@@ -1254,7 +1259,6 @@ jong 2
 sedert 2
 berig 2
 gunsteling 2
-Leer 2
 herhaal 2
 vlag 2
 11 2
@@ -1356,7 +1360,6 @@ ligbulb 2
 regter 2
 Dalk 2
 geproe 2
-mure 2
 voer 2
 oorreed 2
 paspoort 2
@@ -1375,7 +1378,6 @@ regering 2
 dam 2
 skud 2
 heer 2
-Sny 2
 aartappel 2
 Streng 2
 besondere 2
@@ -1390,6 +1392,7 @@ antwoorde 2
 rustig 2
 selfs 2
 hemel 2
+Natuurlik 2
 verdien 2
 gunstelling 2
 a 2
@@ -1572,6 +1575,7 @@ worse 2
 Kêrel 2
 Egipte 2
 geregeer 2
+handdoek 2
 Noorweë 2
 hel 2
 duiwels 2
@@ -1590,6 +1594,7 @@ hondjie 2
 onderwys 2
 Myn 2
 stert 2
+Grieks 2
 sewe 1
 nege 1
 wesens 1
@@ -1886,7 +1891,6 @@ sent 1
 heelwat 1
 teorieë 1
 oorsprong 1
-jaloers 1
 Tennis 1
 stokperdjie 1
 Swede 1
@@ -2661,7 +2665,6 @@ god 1
 Wel 1
 ernstig 1
 Nogtans 1
-Natuurlik 1
 Swem 1
 area 1
 gletser 1
@@ -3410,7 +3413,6 @@ duiwel 1
 dogters 1
 brandweerman 1
 bierbuik 1
-handdoek 1
 heelmaak 1
 Vyser 1
 ons's 1
@@ -3556,3 +3558,8 @@ luise 1
 abnormaal 1
 chemikus 1
 gesuiwer 1
+Ongelooflik 1
+Kak 1
+Interessant 1
+Linda 1
+Sukses 1

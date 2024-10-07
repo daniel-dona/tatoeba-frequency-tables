@@ -1,17 +1,17 @@
-a 2629
-ar 1143
+a 2632
+ar 1145
 e 961
  849
 da 753
 bara 698
 eo 695
 ket 619
-an 575
-eus 490
-zo 454
+an 577
+eus 493
+zo 456
 o 414
 ur 335
-Ar 326
+Ar 328
 ra 316
 en 308
 ma 308
@@ -22,19 +22,19 @@ em 260
 ha 252
 ran 245
 din 242
-vez 239
-gant 238
+vez 240
+gant 239
 'zo 237
 mat 219
 bet 187
-evit 184
+evit 185
 Ur 184
 Ne 182
-un 174
+un 175
 Bara 173
 Ma 160
 oa 157
-An 156
+An 157
 war 153
 ho 140
 Me 140
@@ -46,11 +46,11 @@ er 117
 he 116
 prenet 116
 vara 114
-hag 108
+hag 109
 - 108
 gantañ 105
 na 104
-am 102
+am 103
 O 102
 ez 101
 amañ 100
@@ -91,18 +91,18 @@ out 62
 eget 62
 chom 61
 ebet 61
+amzer 61
 te 61
 c'hoant 61
 N'eo 60
-amzer 60
 Kafe 59
 hini 57
 Hennezh 57
 evet 57
 va 56
+dezhañ 56
 vont 56
 gav 55
-dezhañ 54
 Mont 53
 Prenañ 51
 emaon 50
@@ -176,11 +176,11 @@ teus 35
 Troc'hañ 35
 zebriñ 34
 du 34
+kalz 34
 daou 34
 N'eus 34
 A 34
 plij 33
-kalz 33
 tamm 32
 bras 32
 lavaret 32
@@ -208,12 +208,12 @@ Chom 29
 Komz 29
 lenn 29
 bremañ 29
+dezhi 29
 Kanañ 29
 netra 29
 mamm 29
 ul 28
 c'hizhier 28
-dezhi 28
 gêr 28
 Amañ 27
 tud 27
@@ -239,7 +239,6 @@ troc'het 25
 Setu 24
 Piv 24
 douar 24
-boa 24
 Aet 24
 komz 24
 ezhomm 24
@@ -257,6 +256,7 @@ diaoul 23
 votoù 23
 dra-se 22
 miz 22
+boa 22
 Ya 22
 'peus 22
 dre 22
@@ -285,6 +285,7 @@ pell 21
 Gortoz 21
 labourer 21
 reont 20
+gwir 20
 Ul 20
 hiziv 20
 galleg 20
@@ -300,7 +301,6 @@ emaint 20
 ya 20
 Deomp 20
 troc'hañ 20
-gwir 19
 saozneg 19
 bemdez 19
 marv 19
@@ -345,6 +345,7 @@ wech 17
 bepred 17
 Evañ 17
 a-benn 17
+: 17
 Salud 17
 tan 17
 muioc'h 17
@@ -376,13 +377,13 @@ hag-eñ 16
 riz 16
 te-du 16
 Trugarez 15
+gomz 15
 Deuit 15
 kant 15
 neuze 15
 vamm 15
 eme 15
 c'harr 15
-: 15
 oas 15
 neb 15
 paotr 15
@@ -405,7 +406,6 @@ veze 15
 gouest 15
 brene 15
 Demat 14
-gomz 14
 tra 14
 div 14
 ret 14
@@ -844,6 +844,7 @@ poazhet 7
 krampouezh 7
 evoc'h 7
 potoù 7
+lâret 7
 Breizh-Veur 7
 euskareg 7
 egile 6
@@ -978,7 +979,6 @@ c'harrigell 6
 c'harrastell 6
 orañjez 6
 pia 6
-lâret 6
 gêr-benn 6
 Skrivañ 5
 Kenavo 5
@@ -1205,6 +1205,7 @@ aod 4
 Gwenn 4
 skorn 4
 welan 4
+gounezet 4
 Brid 4
 santout 4
 disul 4
@@ -1499,7 +1500,6 @@ Jakez 3
 sal 3
 vugel 3
 gloued 3
-gounezet 3
 eilenn 3
 liv 3
 kouezh 3
@@ -2087,7 +2087,6 @@ Taolet 2
 huchal 2
 ouzhoc'h 2
 Lakaet 2
-emezon 2
 Hon 2
 rouantelezh 2
 polontez 2
@@ -2856,6 +2855,7 @@ Poullaouen 2
 -Ha 2
 doueoù-plouz 2
 laket 2
+doujañs 2
 Pezh 2
 treut: 2
 Aluzen 2
@@ -2924,6 +2924,7 @@ Adoromp 2
 sakramant 2
 Jesus 2
 Salver 2
+oberoù 2
 ziskenn 2
 Vab 2
 pinvidikañ 2
@@ -2956,6 +2957,7 @@ deñval 2
 displegañ 2
 komprenet 2
 sikoure 2
+kreñvoc'h 2
 Krediñ 2
 divarrek 2
 Lazhit 2
@@ -3424,6 +3426,7 @@ dresañ 1
 "Trugarez 1
 dantet 1
 ac'hanon" 1
+emezon 1
 Dom 1
 Vari 1
 War-nes 1
@@ -5818,7 +5821,6 @@ doulloù 1
 preñved 1
 zouj 1
 doujet 1
-doujañs 1
 Doujañs 1
 lart 1
 dour-red 1
@@ -5955,7 +5957,6 @@ verrons 1
 Dieu 1
 enfant 1
 rankomp 1
-oberoù 1
 Meulomp 1
 c'hraet 1
 osti 1
@@ -6058,7 +6059,6 @@ glinkañ 1
 pal 1
 Erlec'hiet 1
 skoas 1
-kreñvoc'h 1
 Toki 1
 Pona 1
 plijus-tre 1
@@ -6265,8 +6265,6 @@ Aljeria 1
 tiorren 1
 c'hlevet 1
 "bonheur" 1
-dezhi: 1
-dezhañ: 1
 Ouigour 1
 Ouigoured 1
 blas 1
@@ -6477,3 +6475,8 @@ Pepepep 1
 Vaksinet 1
 enep 1
 c'hovid 1
+arm 1
+c'hleze 1
+fealded 1
+simant 1
+vignoniezh 1

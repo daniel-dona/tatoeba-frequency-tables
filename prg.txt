@@ -1,6 +1,6 @@
 ast 249
-As 205
-ni 182
+As 206
+ni 183
 en 125
 as 94
 tū 84
@@ -12,9 +12,9 @@ per 57
 be 52
 wīrst 50
 stan 49
-bēi 48
+bēi 49
 Tenā 44
-sen 34
+sen 35
 ezze 33
 spārtai 32
 mi 31
@@ -23,18 +23,18 @@ mazzi 31
 adder 31
 Tū 30
 paggan 30
+ka 27
 tennan 27
 iz 26
-ka 26
 tin 24
 kwāi 24
 asma 23
 prawerru 23
 tāns 22
 Majs 22
+segītun 21
 tūlin 20
 kāigi 20
-segītun 20
 tīt 20
 Ni 20
 prei 20
@@ -79,6 +79,7 @@ biskin 12
 Šis 11
 grazzu 11
 nikāi 11
+waīda 11
 mans 10
 debīkan 10
 jāu 10
@@ -87,11 +88,11 @@ tenā 10
 sta 10
 stwi 10
 nawwan 10
-waīda 10
 ti 9
 dīlin 9
 Ik 9
 tenēi 9
+tennans 9
 Majā 9
 tenesmu 9
 wisaddan 9
@@ -111,7 +112,6 @@ stwen 8
 bītan 8
 segēi 8
 pergūbi 8
-tennans 8
 Stan 8
 ankstāinan 8
 būlai 8
@@ -695,6 +695,7 @@ līkuta 2
 Ēn 2
 Ēima 2
 dups 2
+Jūris 2
 stubba 1
 dāwuns 1
 aws 1
@@ -2453,7 +2454,6 @@ pamērisnans 1
 Wīda 1
 maskōwitiskan 1
 īnsan 1
-Jūris 1
 gillu 1
 Gēidjaiti 1
 jūrjas 1
@@ -2479,3 +2479,4 @@ Skorpions 1
 Aziukkarags 1
 Undens 1
 Zukkai 1
+tusnan 1

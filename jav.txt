@@ -1,5 +1,5 @@
-Aku 152
-ora 130
+Aku 153
+ora 131
 Tom 112
 sing 69
 iku 49
@@ -46,6 +46,7 @@ yèn 14
 kabèh 14
 sinau 14
 weruh 13
+dina 13
 kaya 13
 kéné 13
 buku 13
@@ -53,7 +54,6 @@ tau 13
 Dhéwéké 13
 Ana 12
 marang 12
-dina 12
 gawé 12
 Mèri 12
 punika 11
@@ -67,13 +67,14 @@ ya 10
 Kowe 10
 Apa 10
 sapa 10
+gelem 10
 Panjenengan 9
 kula 9
 ngono 9
 Iku 9
 teka 9
 awak 9
-gelem 9
+dadi 9
 kowe 8
 isih 8
 boten 8
@@ -83,7 +84,6 @@ Inggris 8
 turu 8
 kutha 8
 lali 8
-dadi 8
 apik 7
 kanggo 7
 Mary 7
@@ -95,8 +95,10 @@ Prancis 7
 asalé 7
 ngombé 7
 kucing 6
+Wingi 6
 kono 6
 Kuwi 6
+awakmu 6
 telu 6
 nganggo 6
 Sapa 6
@@ -110,9 +112,7 @@ tuku 6
 Sugeng 6
 asu 6
 jenengé 6
-Wingi 5
 jus 5
-awakmu 5
 saben 5
 kanca 5
 lara 5
@@ -448,6 +448,7 @@ bapakku 2
 bapak 2
 kancané 2
 Buku 2
+Senèn 2
 layangmu 2
 ngelak 2
 bocah 2
@@ -1229,7 +1230,6 @@ Jawa 1
 ilang 1
 Jawané 1
 omahé 1
-Senèn 1
 kuncènana 1
 lawangé 1
 ꦲꦗꦭꦭꦶꦏꦸꦚ꧀ꦕꦺꦤꦤꦭꦮꦁꦔꦺ 1
@@ -1912,3 +1912,5 @@ kuduné 1
 cemèng 1
 dakgawa 1
 ꦲꦏꦸꦤꦼꦩꦸꦕꦼꦩꦺꦁꦤꦁꦢꦭꦤ꧀ ꦧꦚ꧀ꦗꦸꦂꦢꦏ꧀ꦒꦮꦤꦁꦲꦺꦴꦩꦃ꧉ 1
+ꦮꦶꦔꦶꦢꦶꦤꦱꦼꦤꦺꦤ꧀꧈ 1
+ꦲꦏꦸꦲꦺꦴꦫꦒꦼꦊꦩ꧀ꦢꦢꦶꦲꦮꦏ꧀ꦩꦸ꧉ 1

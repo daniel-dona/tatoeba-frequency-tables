@@ -1,6 +1,6 @@
-je 1725
-se 627
-u 558
+je 1732
+se 628
+u 559
 sam 466
 da 415
 li 394
@@ -9,14 +9,14 @@ ne 284
 Tom 280
 i 239
 su 222
-mi 211
+mi 212
 Ne 193
 to 190
 za 167
 si 166
 što 165
 nije 158
-od 150
+od 151
 On 149
 To 129
 ti 121
@@ -40,8 +40,8 @@ nego 63
 Tko 62
 Jesi 62
 više 61
+Gdje 55
 Je 53
-Gdje 53
 sve 52
 još 52
 bih 51
@@ -95,6 +95,7 @@ mnogo 35
 Da 34
 tamo 34
 ili 34
+tvoj 33
 živi 33
 rekao 33
 Moja 32
@@ -105,7 +106,6 @@ Danas 32
 kada 32
 puno 32
 Nije 32
-tvoj 31
 knjiga 31
 znam 31
 vidjeti 31
@@ -115,10 +115,10 @@ nas 30
 tu 30
 nema 30
 taj 29
+radi 29
 mene 29
 ćeš 29
 Toma 29
-radi 28
 posao 28
 auto 27
 reći 27
@@ -218,6 +218,7 @@ govoriti 17
 Na 17
 tebe 17
 gdje 17
+otac 17
 trebao 17
 put 17
 kaže 16
@@ -233,7 +234,6 @@ ona 16
 knjige 16
 toga 16
 napraviti 16
-otac 16
 ih 16
 Ova 16
 ono 16
@@ -256,6 +256,7 @@ mnom 15
 kuću 15
 Svaki 15
 nisu 15
+tvoja 14
 njegov 14
 pitanje 14
 I 14
@@ -294,6 +295,7 @@ tvoju 13
 učiti 13
 sviđa 13
 rano 13
+majka 13
 kuća 13
 koje 13
 tebi 13
@@ -301,7 +303,6 @@ pismo 13
 Tomu 13
 nisi 13
 znao 13
-tvoja 12
 Vrijeme 12
 svijetu 12
 Zar 12
@@ -315,7 +316,6 @@ vode 12
 Htio 12
 gradu 12
 bicikl 12
-majka 12
 poslije 12
 koju 12
 sobi 12
@@ -544,6 +544,7 @@ imati 7
 omiljeni 7
 tobom 7
 dolara 7
+Daj 7
 Zato 7
 posjetiti 7
 igra 7
@@ -631,7 +632,6 @@ Vi 6
 ljubavi 6
 Yorku 6
 platiti 6
-Daj 6
 spreman 6
 cipele 6
 okus 6
@@ -996,6 +996,8 @@ bojim 4
 Tokijo 4
 tvojoj 4
 cijene 4
+O 4
+čemu 4
 moji 4
 govore 4
 završio 4
@@ -1158,6 +1160,7 @@ brod 4
 rukama 4
 vikend 4
 dijelu 4
+Europi 4
 Vjerujem 4
 tvog 4
 zaboravi 4
@@ -1339,8 +1342,6 @@ starija 3
 tisuća 3
 Vjerojatno 3
 pripada 3
-O 3
-čemu 3
 6 3
 Bill 3
 studira 3
@@ -1395,6 +1396,7 @@ ubijen 3
 prirode 3
 posla 3
 Bi 3
+tisuću 3
 boje 3
 držati 3
 dijetu 3
@@ -1408,6 +1410,7 @@ slično 3
 jesi 3
 Dat 3
 četrdeset 3
+zemalja 3
 nevjerojatno 3
 izaći 3
 barem 3
@@ -1614,7 +1617,6 @@ nedostaje 3
 mlade 3
 poludio 3
 prava 3
-Europi 3
 svakom 3
 svega 3
 tajne 3
@@ -1633,6 +1635,7 @@ kraj 3
 žali 3
 nje 3
 želja 3
+Kamo 3
 kuca 3
 crn 3
 Italije 3
@@ -1648,6 +1651,7 @@ Francuski 3
 jutro 3
 odabrati 3
 gladni 3
+ideš 3
 troje 3
 Zbilja 3
 kratak 3
@@ -2040,7 +2044,6 @@ oprati 2
 torbicu 2
 Dugujem 2
 e-mail 2
-tisuću 2
 Našao 2
 Baš 2
 završava 2
@@ -2061,7 +2064,6 @@ dolazim 2
 mojom 2
 izgledaš 2
 Pretpostavljam 2
-zemalja 2
 krvi 2
 pobijedio 2
 očekivao 2
@@ -2545,7 +2547,6 @@ svu 2
 večer 2
 prvom 2
 Posao 2
-Kamo 2
 poći 2
 jugoistočnom 2
 hrvatskom 2
@@ -2592,7 +2593,6 @@ komadiću 2
 činiš 2
 politike 2
 gladna 2
-ideš 2
 predvidjeti 2
 Tu 2
 izjavu 2
@@ -2911,6 +2911,9 @@ EU 2
 službena 2
 crvena 2
 fascinira 2
+„Tko 2
+to“ 2
+„To 2
 Tomojuki 1
 Ogura 1
 lutka 1
@@ -8334,3 +8337,10 @@ izašao 1
 Glava 1
 Pismo 1
 Krv 1
+poljubaca 1
+majka“ 1
+otac“ 1
+Europska 1
+unija 1
+skupina 1
+27 1

@@ -12,7 +12,7 @@ har 4232
 Det 3877
 Han 3408
 jag 3148
-mig 2712
+mig 2713
 för 2697
 här 2658
 var 2605
@@ -28,7 +28,7 @@ Vi 1889
 den 1832
 kan 1674
 Du 1599
-av 1596
+av 1597
 han 1259
 kommer 1254
 sig 1217
@@ -53,12 +53,12 @@ vara 773
 Har 771
 ha 755
 ut 739
-hade 736
+hade 737
 Var 734
 Den 725
 vad 715
 din 690
-de 686
+de 687
 tycker 642
 vet 631
 Kan 621
@@ -167,7 +167,7 @@ några 230
 säga 228
 säger 222
 själv 218
-Ingen 216
+Ingen 217
 morgon 215
 inget 215
 redan 215
@@ -191,8 +191,8 @@ Vill 192
 engelska 191
 hennes 190
 hund 190
+Ge 190
 hemma 189
-Ge 189
 utan 188
 Hans 186
 heter 186
@@ -456,6 +456,7 @@ försöker 76
 sätt 76
 stod 75
 dricka 75
+fyra 75
 sover 75
 frågade 75
 ute 75
@@ -469,7 +470,6 @@ Sluta 74
 minuter 74
 hos 74
 föll 74
-fyra 74
 båda 74
 runt 73
 ätit 73
@@ -1220,6 +1220,7 @@ sparken 24
 planet 24
 annars 24
 Då 24
+tusen 24
 skillnaden 24
 Hjälp 24
 tjock 24
@@ -1260,7 +1261,6 @@ hål 23
 orolig 23
 erkände 23
 ögonblick 23
-tusen 23
 Tyvärr 23
 berget 23
 Borde 23
@@ -3490,6 +3490,7 @@ amerikanska 6
 vykort 6
 öre 6
 porten 6
+pojkarna 6
 mig” 6
 Våren 6
 uppsats 6
@@ -3999,7 +4000,6 @@ krona 5
 hållplats 5
 informera 5
 motståndaren 5
-pojkarna 5
 cyklade 5
 enhjuling 5
 ägodelar 5
@@ -8376,6 +8376,7 @@ aktiverat 2
 aktiveras 2
 Väl 2
 nittio 2
+alibi 2
 Därefter 2
 framgångsrikt 2
 roligare 2
@@ -9997,4 +9998,3 @@ abstrakt 2
 formulering 2
 föredra 2
 förhoppningsvis 2
-adrenalinet 2

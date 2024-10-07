@@ -1,15 +1,15 @@
 is 384
-Ich 328
+Ich 332
 Tom 212
 en 203
 hod 166
 net 153
 hon 142
 die 128
-de 124
-das 124
+de 126
+das 125
 De 114
-sin 103
+sin 106
 Die 102
 Das 93
 Sie 73
@@ -76,10 +76,10 @@ Leit 20
 Mari 20
 Loss 19
 uns 19
+im 18
 Wie 18
 nore 18
 wisse 18
-im 17
 dud 17
 Buch 17
 där 17
@@ -196,6 +196,7 @@ werklich 8
 Brod 8
 Bang 8
 um 8
+wohne 8
 eier 8
 ferloer 8
 sihd 8
@@ -233,7 +234,6 @@ geschaffd 7
 seid 7
 gleich 7
 Gebb 7
-wohne 7
 dasst-du 7
 waarte 7
 Muskitte 7
@@ -248,6 +248,7 @@ griene 7
 eppes 7
 degeghe 7
 Komm 7
+Kind 7
 Celular 7
 jetz 6
 Katz 6
@@ -291,7 +292,6 @@ Ransch 6
 Hunn 6
 Antwort 6
 defun 6
-Kind 6
 Sprech 6
 wusst 6
 wäär 6
@@ -313,6 +313,7 @@ Brief 5
 Tëlevisong 5
 Minutte 5
 leve 5
+Sohn 5
 In 5
 hellfe 5
 schwäer 5
@@ -392,7 +393,6 @@ aanschaffe 4
 deier 4
 awer 4
 weh 4
-Sohn 4
 Jimand 4
 Koppweh 4
 eenfach 4
@@ -944,6 +944,7 @@ lamsamer 2
 gestann 2
 lechle 2
 Billioneer 2
+sechste 2
 nunnergeschmiss 1
 zieh-ich 1
 schlofd 1
@@ -2015,3 +2016,6 @@ Fielst-du 1
 Mannle 1
 rausgehol 1
 Keller 1
+finnefte 1
+Stock 1
+Neinte 1
