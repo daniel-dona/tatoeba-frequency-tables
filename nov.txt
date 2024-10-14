@@ -1,5 +1,5 @@
 es 203
-Me 121
+Me 122
 li 80
 Li 74
 Tom 70
@@ -102,6 +102,7 @@ ve 5
 Vus 5
 ganad 5
 Disi 5
+sava 5
 kate 5
 plu 5
 tum 5
@@ -135,7 +136,6 @@ Let 4
 dar 4
 mus 4
 verim 4
-sava 4
 milke 4
 viva 4
 prisa 4
@@ -272,6 +272,7 @@ homo 2
 constatatione 2
 donad 2
 chambre 2
+pri 2
 pent 2
 Japon 2
 Tokyo 2
@@ -306,6 +307,7 @@ finad 2
 taske 2
 ariva 2
 vole 2
+nulum 2
 pekunie 2
 exemple 2
 montes 2
@@ -451,7 +453,6 @@ hunda 1
 amikes 1
 lesen 1
 prisentad 1
-pri 1
 maledictione 1
 Zero 1
 six 1
@@ -594,7 +595,6 @@ Renuntia 1
 renuntia 1
 Bovas 1
 pase 1
-nulum 1
 duime 1
 pupe 1
 altri 1
@@ -858,3 +858,4 @@ Deo 1
 real 1
 kristana 1
 ringe 1
+kristanisme 1

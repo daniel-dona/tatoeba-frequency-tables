@@ -1,4 +1,4 @@
-ir 2197
+ir 2199
 Es 1349
 Toms 713
 ka 620
@@ -13,10 +13,10 @@ es 368
 tu 361
 par 354
 no 332
-nav 324
+nav 326
 man 316
 tas 298
-Tas 286
+Tas 287
 kā 278
 uz 273
 ko 262
@@ -28,7 +28,7 @@ esmu 193
 mani 190
 lai 178
 Tu 171
-tev 160
+tev 161
 tik 156
 savu 155
 jūs 154
@@ -43,7 +43,7 @@ viņa 131
 Tomam 131
 viņu 130
 viņš 130
-patīk 124
+patīk 125
 kaut 116
 Esmu 114
 Marija 107
@@ -60,7 +60,7 @@ darīt 88
 pārāk 87
 jau 86
 mēs 85
-labi 83
+labi 84
 arī 82
 teica 82
 kad 75
@@ -81,9 +81,9 @@ visu 68
 šeit 67
 vairāk 67
 ja 67
+cilvēki 66
 Tev 66
 varētu 66
-cilvēki 65
 Ir 65
 jūtos 65
 Tomu 65
@@ -148,6 +148,7 @@ būs 40
 gan 40
 cik 39
 labs 39
+tiešām 39
 mājās 39
 dzīvo 39
 lūdzu 39
@@ -157,7 +158,6 @@ tam 39
 viss 39
 grūti 38
 vari 38
-tiešām 38
 dzīvi 38
 savas 37
 pat 37
@@ -165,6 +165,7 @@ doties 37
 kāds 36
 mazliet 36
 gandrīz 35
+Mana 35
 dienu 35
 joprojām 35
 manu 35
@@ -175,7 +176,6 @@ laikā 34
 valodā 34
 viegli 34
 jādara 34
-Mana 33
 cilvēks 33
 kur 33
 tās 33
@@ -334,10 +334,12 @@ bailes 17
 varam 17
 pacietīgs 17
 reizēm 17
+Kurš 16
 Pēc 16
 gadu 16
 vēlreiz 16
 ūdens 16
+strādā 16
 nevajadzēja 16
 vārds 16
 noteikti 16
@@ -358,13 +360,12 @@ pāri 16
 lika 16
 pateicīgs 16
 Viņiem 15
-Kurš 15
+māja 15
 strādāt 15
 tie 15
 visas 15
 te 15
 dara 15
-strādā 15
 mācīties 15
 durvis 15
 tāds 15
@@ -408,8 +409,8 @@ vienīgais 14
 pietiekami 14
 mēdzu 14
 starp 14
+īpaši 14
 uzmanību 14
-māja 13
 nevēlos 13
 Nekas 13
 Tagad 13
@@ -439,7 +440,6 @@ jūtas 13
 paliek 13
 nebiju 13
 paša 13
-īpaši 13
 tādēļ 13
 Saules 13
 Esi 13
@@ -454,6 +454,7 @@ Tie 12
 izdevās 12
 vienā 12
 laimīgs 12
+valsts 12
 Bet 12
 tēju 12
 veidā 12
@@ -493,7 +494,6 @@ gaidīt 11
 iedeva 11
 aizņemts 11
 Tava 11
-valsts 11
 draugu 11
 aiz 11
 kamēr 11
@@ -691,6 +691,7 @@ Saule 8
 galda 8
 nevienam 8
 vecāki 8
+smagi 8
 beidzot 8
 uzskata 8
 bijusi 8
@@ -808,7 +809,6 @@ stundas 7
 vēlamies 7
 āboli 7
 Suns 7
-smagi 7
 pienu 7
 spēli 7
 ienīstu 7
@@ -1181,6 +1181,7 @@ nāca 5
 kalnu 5
 izjūta 5
 filmas 5
+vislabāk 5
 virvi 5
 runāju 5
 gaismu 5
@@ -1481,7 +1482,6 @@ izmantoja 4
 priecājos 4
 lielisks 4
 likt 4
-vislabāk 4
 straumi 4
 ņemt 4
 labo 4

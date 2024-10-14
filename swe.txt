@@ -1,8 +1,8 @@
-är 11615
+är 11616
 Jag 11264
 att 7099
 Tom 7073
-inte 6915
+inte 6916
 du 5129
 en 5125
 på 4850
@@ -16,11 +16,11 @@ mig 2713
 för 2697
 här 2658
 var 2605
-med 2451
+med 2453
 till 2366
 och 2328
-om 2255
-Hon 2073
+om 2256
+Hon 2076
 ett 1945
 som 1899
 dig 1890
@@ -31,7 +31,7 @@ Du 1599
 av 1597
 han 1259
 kommer 1254
-sig 1217
+sig 1220
 så 1193
 Vad 1160
 vill 1124
@@ -66,8 +66,8 @@ oss 621
 än 619
 behöver 605
 upp 604
+hon 598
 bara 597
-hon 596
 sin 588
 henne 573
 nu 564
@@ -114,9 +114,9 @@ efter 352
 älskar 349
 in 349
 över 348
+hur 347
 kom 347
 såg 346
-hur 345
 dem 337
 borde 335
 När 330
@@ -147,7 +147,7 @@ ditt 276
 tid 275
 franska 275
 mina 272
-sina 264
+sina 265
 vid 262
 ligger 261
 kunna 258
@@ -660,6 +660,7 @@ människa 50
 hårt 50
 glas 50
 Efter 50
+bryr 50
 kvinna 50
 arbeta 50
 menar 50
@@ -676,7 +677,6 @@ svart 49
 bo 49
 män 49
 mötet 49
-bryr 49
 timme 49
 Till 49
 ert 49
@@ -2275,6 +2275,7 @@ kontrollera 11
 dock 11
 inbjudan 11
 spår 11
+klär 11
 mörk 11
 brödet 11
 löv 11
@@ -2678,7 +2679,6 @@ slutna 9
 krav 9
 erbjuder 9
 färger 9
-klär 9
 Schweiz 9
 hals 9
 tråkig 9
@@ -4588,6 +4588,7 @@ nedför 5
 Undvik 5
 mottagit 5
 mig" 5
+Snabbt 5
 gåvan 5
 fransman 5
 halka 5
@@ -5568,7 +5569,6 @@ kraftiga 4
 måndags 4
 Åskan 4
 Butiken 4
-Snabbt 4
 örfil 4
 spottade 4
 björnar 4
@@ -9274,6 +9274,7 @@ trivdes 2
 bevisade 2
 sagolikt 2
 Lek 2
+slarvar 2
 floder 2
 dödssjuk 2
 förolämpa 2
@@ -9309,6 +9310,7 @@ befarar 2
 rytmen 2
 Java 2
 snöstorm 2
+Delhi 2
 miljontals 2
 alger 2
 totalt 2
@@ -9996,5 +9998,3 @@ Stöd 2
 trycket 2
 abstrakt 2
 formulering 2
-föredra 2
-förhoppningsvis 2

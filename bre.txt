@@ -4,7 +4,7 @@ e 961
  849
 da 753
 bara 698
-eo 695
+eo 696
 ket 619
 an 577
 eus 493
@@ -186,6 +186,7 @@ bras 32
 lavaret 32
 gafe 32
 Eñ 32
+Re 31
 Na 31
 pelec'h 31
 pezh 31
@@ -197,7 +198,7 @@ reiñ 31
 Debret 31
 gwin 31
 Gwelloc'h 31
-Re 30
+bremañ 30
 labour 30
 atav 30
 d'ober 30
@@ -207,7 +208,6 @@ gaout 30
 Chom 29
 Komz 29
 lenn 29
-bremañ 29
 dezhi 29
 Kanañ 29
 netra 29
@@ -995,6 +995,7 @@ Pelec’h 5
 Kompren 5
 deoc’h 5
 Pellgomz 5
+ziwezhat 5
 bragoù 5
 vervel 5
 n’eo 5
@@ -1175,7 +1176,6 @@ Tatoeba 4
 Ne’m 4
 arc’hant 4
 loar 4
-ziwezhat 4
 C’hoant 4
 Douar 4
 dreiñ 4

@@ -1,11 +1,11 @@
 Tomas 813
-No 577
+No 578
 das 537
 no 464
 binom 443
 etosi 411
 in 312
-obik 269
+obik 270
 Maria 222
 dunön 188
 binon 173
@@ -13,7 +13,7 @@ e 160
 obe 154
 dö 151
 Tom 150
-Kikod 148
+Kikod 149
 is 139
 olik 135
 ko 131
@@ -21,7 +21,7 @@ at 129
 Kisi 127
 vemo 113
 Vilob 104
-Binob 99
+Binob 102
 ob 96
 yufön 96
 oli 95
@@ -48,9 +48,9 @@ Binom 67
 ol 67
 binof 67
 buki 66
+kanob 65
 pükön 65
 Tikob 64
-kanob 64
 valikosi 64
 etos 60
 binoms 59
@@ -95,10 +95,10 @@ ni 41
 ola 40
 if 40
 labom 39
+odelo 39
 gudiko 39
 du 39
 tu 38
-odelo 38
 studön 38
 Binos 38
 mödik 38
@@ -108,10 +108,10 @@ o 37
 sagön 37
 nosi 37
 Etos 37
-omik 36
 ävilom 36
 Nek 36
 mödiko 36
+omik 35
 ad 35
 Binof 35
 bovüli 35
@@ -126,9 +126,9 @@ va 32
 nolom 32
 fidön 31
 sanel 31
+obis 31
 vifiko 30
 binom-li 30
-obis 30
 Sagolöd 30
 Nu 30
 esagom 30
@@ -162,6 +162,7 @@ Kat 25
 lilädön 25
 Hetob 25
 nolol 25
+kömön 25
 tikob 25
 penedi 24
 Logob 24
@@ -174,7 +175,6 @@ Spikol-li 24
 kanol 24
 Boston 24
 flentapüki 24
-kömön 24
 vobön 23
 mens 23
 obs 23
@@ -1599,6 +1599,7 @@ hikös 2
 kös 2
 Mul 2
 Cedon 2
+vitom 2
 äsedom 2
 difik 2
 Oyufobs 2
@@ -3365,7 +3366,6 @@ Kanoböx 1
 "Okömom-li" 1
 "Tikob 1
 no" 1
-vitom 1
 Ämutom-li 1
 slipoms 1
 mögon 1
@@ -4782,3 +4782,6 @@ turd 1
 Edeidom 1
 gods 1
 kömomöd 1
+viken 1
+jiviken 1
+hiviken 1

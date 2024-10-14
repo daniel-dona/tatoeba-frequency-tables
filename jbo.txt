@@ -1,19 +1,19 @@
-lo 12818
-mi 6229
-cu 3491
+lo 12828
+mi 6233
+cu 3495
 do 3349
-la 2991
-pu 2307
-le 2297
+la 2995
+pu 2310
+le 2298
 nu 2122
-se 1917
+se 1918
 i 1816
-na 1618
+na 1620
 be 1333
-ko'a 1270
+ko'a 1271
 ma 1224
-ka 1213
-ko 1122
+ka 1215
+ko 1123
 ca 989
 tom 951
 xu 914
@@ -26,7 +26,7 @@ poi 596
 ba 588
 du'u 562
 ro 523
-citka 519
+citka 520
 djica 496
 nelci 489
 li 440
@@ -46,12 +46,12 @@ me 300
 bu'u 297
 pinxe 295
 tavla 285
+mi'a 282
 no 279
-mi'a 279
 ta 272
 e'o 270
 pa 269
-e 268
+e 269
 viska 268
 zdani 265
 jai 265
@@ -59,7 +59,7 @@ gi'e 256
 co'a 251
 zukte 251
 nai 249
-tam 243
+tam 245
 za'u 242
 cukta 241
 ka'e 240
@@ -81,13 +81,13 @@ noi 193
 mlatu 191
 melbi 191
 li'u 191
-dunda 180
+dunda 181
 fo 179
 xamgu 179
 nanmu 179
 karce 178
 nitcu 178
-lo'e 164
+lo'e 166
 xabju 163
 zo'u 163
 verba 160
@@ -100,20 +100,20 @@ ku'i 148
 tadni 148
 tcidu 148
 pendo 147
+ralte 147
 sidju 146
 gleki 146
-ralte 146
 cmene 145
 mi'ai 143
 patfu 141
+jukpa 141
 na'e 140
-jukpa 139
 gunka 138
 jinvi 138
 simlu 138
 vo'a 136
+meris 136
 mo 135
-meris 135
 su'o 134
 ke'a 133
 ce'u 133
@@ -170,7 +170,7 @@ kansa 96
 sai 95
 cmalu 95
 prulamdei 94
-jdini 93
+jdini 94
 sipna 92
 pilno 92
 catra 92
@@ -184,9 +184,9 @@ nanla 88
 jmive 88
 ckule 88
 pluka 88
+nanba 88
+plise 87
 co 87
-nanba 87
-plise 86
 kumfa 86
 tu 86
 zi 86
@@ -254,11 +254,11 @@ coi 67
 xekri 67
 cidja 67
 sei 66
+krici 66
 morji 66
 limna 65
 ta'i 65
 ponjo 65
-krici 65
 tcati 65
 ji'a 65
 slabu 64
@@ -441,12 +441,12 @@ tcika 36
 ladru 36
 spofu 36
 danlu 36
+djan 35
 rinka 35
 spuda 35
 zerle'a 35
 jalge 35
 noroi 35
-djan 34
 lifri 34
 sa'u 34
 merko 34
@@ -473,6 +473,7 @@ sidbo 32
 stidi 32
 cfari 32
 bei 32
+ckiku 32
 skicu 32
 tadji 32
 sy 32
@@ -489,7 +490,6 @@ sedu'u 31
 ckaji 31
 sazri 31
 cikna 31
-ckiku 31
 badri 31
 surla 31
 krasi 31
@@ -535,6 +535,7 @@ pano 27
 dakli 27
 ie 27
 xruti 27
+temci 27
 kargu 27
 danfu 27
 taxfu 27
@@ -576,9 +577,9 @@ so'u 25
 rismi 25
 xirma 25
 nei 25
-temci 25
 bunre 25
 frica 25
+lijda 25
 goi 25
 jamfu 25
 di'ai 25
@@ -601,7 +602,6 @@ crisa 24
 vinji 24
 bazi 24
 salci 24
-lijda 24
 sance 24
 sanmi 24
 rutrkoko 24
@@ -672,6 +672,7 @@ palci 21
 a'u 21
 pamoi 21
 so'imei 21
+xenru 21
 mukti 21
 nau 21
 najnimre 21
@@ -696,7 +697,6 @@ masno 20
 sakta 20
 dunra 20
 dilnu 20
-xenru 20
 prane 20
 mixre 20
 bakyjba 20
@@ -838,6 +838,7 @@ kucli 15
 nazbi 15
 matne 15
 sorprekarce 15
+rectu 15
 skari 15
 lalxu 15
 dargu 15
@@ -864,7 +865,6 @@ a'ucai 15
 loldi 14
 klesi 14
 e'unai 14
-rectu 14
 vacysai 14
 cmaci 14
 marce 14
@@ -1035,6 +1035,7 @@ sampu 11
 di'a 11
 tolzdi 11
 ky 11
+ckeji 11
 dai 11
 uinaidai 11
 cev 11
@@ -1093,7 +1094,6 @@ mokau 10
 za'umei 10
 volve 10
 spusku 10
-ckeji 10
 jo 10
 anas 10
 xadni 10
@@ -1160,6 +1160,7 @@ ru 9
 spisa 9
 xelso 9
 broda 9
+xebro 9
 klani 9
 capyju'i 9
 cumymu'efi'a 9
@@ -1246,7 +1247,6 @@ darsi 8
 me'i 8
 toldra 8
 tecra'a 8
-xebro 8
 zukcfu 8
 uidai 8
 ainai 8
@@ -1292,7 +1292,9 @@ jy 7
 fapro 7
 jei 7
 xadba 7
+xauzma 7
 selsku 7
+cersai 7
 muzga 7
 ponpre 7
 tirse 7
@@ -1328,6 +1330,7 @@ sorpeka 7
 serai 7
 cladakyxa'i 7
 rarna 7
+denci 7
 tolxanka 7
 batke 7
 fetspe 7
@@ -1401,7 +1404,6 @@ tato'ebas 6
 to'u 6
 ka'argau 6
 bramau 6
-xauzma 6
 gubni 6
 an 6
 ibo 6
@@ -1436,7 +1438,6 @@ loni 6
 funca 6
 gunse 6
 puku 6
-denci 6
 zu'o 6
 di'o 6
 tirxu 6
@@ -1504,6 +1505,7 @@ va'ei 6
 dibmle 6
 plika'e 6
 zilska 6
+bropre 6
 jbari 6
 cidjrbandungo 6
 cidjrfufu 6
@@ -1543,7 +1545,6 @@ berti 5
 jisygau 5
 purci 5
 janli 5
-cersai 5
 xlura 5
 mivdalmuzga 5
 cnixai 5
@@ -1690,7 +1691,6 @@ kosmu 5
 julbaco 5
 ĭancu 5
 torta 5
-bropre 5
 cidjrlasi 5
 xasycidja 5
 matcas 5
@@ -1846,6 +1846,7 @@ pinji 4
 cmala'u 4
 ki'otre 4
 jelgau 4
+tolcau 4
 cabra 4
 ragve 4
 livla 4
@@ -1903,6 +1904,7 @@ calku 4
 selti'i 4
 einai 4
 tasta 4
+prubi'o 4
 salpo 4
 jbama 4
 gercmo 4
@@ -1939,6 +1941,7 @@ runbau 4
 brode 4
 cesyvu'e 4
 zvajbi 4
+senci 4
 la'u 4
 solnuntolcanci 4
 tsarainaitrusi'o 4
@@ -2169,7 +2172,6 @@ janbe 3
 dormidju 3
 tolvai 3
 mokca 3
-tolcau 3
 prulamjeftu 3
 vaizma 3
 nederland 3
@@ -2783,6 +2785,7 @@ tedvanci 2
 lekyzma 2
 klaje'i 2
 nunkarcyjanli 2
+cakyrespa 2
 pifli'a 2
 pemfi'i 2
 mi'arckasu 2
@@ -2901,7 +2904,6 @@ sfaile 2
 jeftyfanmo 2
 gei 2
 ki'asku 2
-prubi'o 2
 cnici 2
 nunpenmi 2
 tasmi 2
@@ -3138,7 +3140,6 @@ tinzu'e 2
 banvu'i'e 2
 cantu'a 2
 marvele 2
-senci 2
 marikas 2
 salta 2
 zmiku 2
@@ -4676,7 +4677,6 @@ pukyzma 1
 mikelAnjelos 1
 mo'ini'a 1
 Lollipop 1
-cakyrespa 1
 je'ugo'i 1
 lajdictergu'i 1
 ba'urdu'u 1
@@ -6920,3 +6920,4 @@ kenadjinu 1
 asti 1
 xuvyr 1
 sedu’u 1
+no'ordo 1

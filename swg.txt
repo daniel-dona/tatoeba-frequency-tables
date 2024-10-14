@@ -1,5 +1,5 @@
 isch 415
-I 294
+I 295
 ned 215
 Tom 186
 i 185
@@ -8,14 +8,14 @@ ond 149
 du 144
 hôd 129
 en 117
-han 116
+han 117
 a 114
 mr 112
 å 109
 mir 108
 – 108
 an 107
-dass 96
+dass 97
 send 85
 no 83
 mid 81
@@ -38,8 +38,8 @@ was 58
 bloß 55
 nô 54
 koi 52
+et 51
 scho 50
-et 50
 hod 50
 mi 49
 fir 47
@@ -492,6 +492,7 @@ zua 4
 alde 4
 Film 4
 wirschd 4
+halda 4
 oos 4
 Wald 4
 arg 4
@@ -544,6 +545,7 @@ schmeggd 4
 werd 4
 Mid 4
 isst 4
+denkd 4
 Deifl 4
 Senn 4
 glernd 4
@@ -632,7 +634,6 @@ Do 3
 „Mir 3
 Fahrrädle 3
 Toms 3
-halda 3
 kenna 3
 Uhr 3
 gscheit 3
@@ -732,7 +733,6 @@ Maga 3
 iber 3
 machsch 3
 wies 3
-denkd 3
 gligglich 3
 gnuag 3
 Komm 3
@@ -5399,3 +5399,6 @@ dodrvo 1
 hera 1
 Sii 1
 duaza 1
+du´s 1
+ghaim 1
+kenndeschd 1

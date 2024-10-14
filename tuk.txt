@@ -1,7 +1,7 @@
 Tom 1169
 Men 879
-Ol 495
-bilen 442
+Ol 497
+bilen 443
 Sen 318
 Bu 312
 üçin 305
@@ -30,16 +30,16 @@ Meniň 120
 muny 118
 Toma 113
 Semi 109
+maňa 108
 gün 107
-maňa 106
 pikir 103
 meniň 102
-edip 100
+edip 102
 hem 98
 gerek 96
 ýerde 94
+Siz 94
 wagt 94
-Siz 93
 barada 93
 gaty 88
 Mary 87
@@ -56,7 +56,7 @@ Sami 70
 haçan 69
 şony 69
 bolup 68
-boldy 66
+boldy 67
 Näme 64
 onuň 63
 etdi 61
@@ -69,7 +69,7 @@ nähili 56
 Meniñ 56
 Tomy 56
 nirede 52
-kim 49
+kim 50
 näçe 49
 Seniň 48
 isleýärin 48
@@ -174,19 +174,19 @@ hemişe 25
 iki 25
 hepde 25
 diýen 25
+edýär 25
 gelip 25
 Onuñ 25
 ýene 25
 dogry 25
 yzyna 25
+et 25
 iň 24
 sag 24
 bilýär 24
 Düýn 24
 bärde 24
-edýär 24
 öýde 24
-et 24
 öýe 23
 düýn 23
 Maňa 23
@@ -330,6 +330,7 @@ Biziň 13
 çykdy 13
 adatça 13
 täzeden 13
+jaň 13
 almak 13
 birini 13
 gidýär 13
@@ -397,7 +398,6 @@ geçdi 11
 üns 11
 juda 11
 Maryny 11
-jaň 11
 zadyň 11
 oýnap 11
 bile 11
@@ -485,6 +485,7 @@ bilenokdy 9
 ýekeje 9
 bolmady 9
 Iň 9
+bilersiňmi 9
 heniz 9
 sebäpli 9
 galdy 9
@@ -544,7 +545,6 @@ bilelikde 8
 bilerin 8
 etme 8
 Layla 8
-bilersiňmi 8
 bäş 8
 käwagt 8
 garaşdy 8
@@ -1145,6 +1145,7 @@ diýjek 4
 ideýa 4
 Öý 4
 geçer 4
+bilersiňizmi 4
 saýawanyny 4
 bermez 4
 göwnüne 4
@@ -1527,7 +1528,6 @@ kimdigini 3
 dürli 3
 Bizi 3
 Diňeje 3
-bilersiňizmi 3
 gaýtdy 3
 kino 3
 edendir 3
@@ -3224,6 +3224,7 @@ seredeniňde-de 2
 ýazsam 2
 Haýwany 2
 öýleri 2
+duşman 2
 Adamyň 2
 geňdi 2
 29-njy 2
@@ -3356,6 +3357,7 @@ Angliýada 2
 goýberdiň 2
 Garaýşym 2
 kompýuter 2
+Soň 2
 Asmanda 1
 petreşip 1
 Är-aýalyň 1
@@ -8931,7 +8933,6 @@ ilaty 1
 yralady 1
 palestinaly 1
 araplary 1
-duşman 1
 hasaplamaýan 1
 ysraýylly 1
 jöhitleriň 1
@@ -9997,4 +9998,3 @@ edäýmeli 1
 sylaýarys 1
 erkinlige 1
 goýberjek 1
-Ýedi 1
