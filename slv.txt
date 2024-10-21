@@ -1,4 +1,4 @@
-je 975
+je 976
 Ali 226
 sem 174
 se 169
@@ -9,8 +9,8 @@ ne 107
 in 105
 da 93
 na 91
+mesto 90
 govorite 90
-mesto 89
 govoriš 87
 Govoriš 86
 Govorite 86
@@ -22,7 +22,7 @@ za 73
 mi 69
 ni 69
 zelo 66
-glavno 64
+glavno 65
 Jaz 60
 Govorim 53
 Koliko 46
@@ -3983,3 +3983,6 @@ govoril 1
 varna 1
 Čaj 1
 poljubov 1
+Yamoussoukro 1
+Slonokoščene 1
+obale 1

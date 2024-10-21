@@ -7,7 +7,7 @@ bir 217
 nə 181
 çox 171
 Biz 153
-ki 135
+ki 134
 idi 128
 Sən 125
 Mənim 118
@@ -25,13 +25,13 @@ Siz 69
 bu 69
 istəyirəm 67
 vaxt 66
+daha 63
 deyiləm 63
-daha 62
 də 59
 onu 59
+yoxdur 56
 edirəm 56
 o 56
-yoxdur 55
 mən 55
 Sənin 53
 Bir 53
@@ -58,11 +58,11 @@ edir 38
 başa 36
 Nə 35
 ən 35
+etdi 35
 qədər 35
 kitab 34
 burada 34
 sənə 34
-etdi 34
 Toma 34
 yox 33
 bilmirəm 33
@@ -835,6 +835,7 @@ Yunanıstan 4
 müdafiə 4
 keçdi 4
 balacadır 4
+Vaxt 4
 bilmirdim 4
 xəstəxanadadır 4
 sevirik 4
@@ -953,7 +954,6 @@ qarpız 4
 çəhrayıdır 4
 çəhrayı 4
 peyki 4
-Mars 4
 Yupiter 4
 Nyu-York 4
 xoşunuza 4
@@ -1120,7 +1120,6 @@ Bizi 3
 gələndə 3
 suala 3
 verməyəcək 3
-Vaxt 3
 əslində 3
 söndür 3
 deməmişəm 3
@@ -1356,6 +1355,7 @@ dayandıra 3
 Çəhrayı 3
 Marsın 3
 Marsda 3
+Mars 3
 olmusan 3
 yaraşır 3
 Texas 3
@@ -7718,3 +7718,8 @@ fotoları 1
 çəkmisən 1
 bağlantım 1
 yavaşdır 1
+Biri 1
+intihar 1
+itkisindən 1
+vahiməli 1
+itki 1

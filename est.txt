@@ -1,4 +1,4 @@
-on 1510
+on 1514
 Ma 924
 ei 734
 Tom 614
@@ -138,6 +138,7 @@ läheb 27
 tegema 27
 enam 27
 kolm 27
+pealinn 27
 rohkem 27
 sõber 27
 ainult 26
@@ -155,7 +156,6 @@ süüa 24
 siia 24
 olid 23
 tegi 23
-pealinn 23
 Sul 23
 õpetaja 23
 auto 23
@@ -2465,6 +2465,7 @@ seisavad 2
 politseinikud 2
 prantsusekeelset 2
 luuletust 2
+Omaani 2
 Sellises 1
 kärestikus 1
 mõtlematu 1
@@ -6702,3 +6703,9 @@ Gabriel 1
 missiooni 1
 DVD 1
 Diana 1
+Tuneesia 1
+Tunis 1
+Sanaa 1
+Jeemeni 1
+Masqaţ 1
+Maskat 1

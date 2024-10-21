@@ -1,4 +1,4 @@
-je 1732
+je 1733
 se 628
 u 559
 sam 466
@@ -15,7 +15,7 @@ to 190
 za 167
 si 166
 što 165
-nije 158
+nije 159
 od 151
 On 149
 To 129
@@ -152,6 +152,7 @@ Ta 23
 joj 23
 jučer 23
 knjigu 23
+grad 23
 treba 23
 dana 23
 godina 23
@@ -160,7 +161,6 @@ ovaj 22
 raditi 22
 Koji 22
 nam 22
-grad 22
 život 22
 dok 22
 tvoje 21
@@ -341,6 +341,7 @@ New 11
 Svatko 11
 Bolje 11
 čini 11
+glavni 11
 Više 11
 ta 11
 ispit 11
@@ -378,7 +379,6 @@ Dao 10
 vole 10
 mjesto 10
 nikad 10
-glavni 10
 težak 10
 pušiti 10
 liječnik 10
@@ -397,6 +397,7 @@ htio 10
 Trebamo 10
 jedno 10
 Bila 10
+Nikad 10
 ni 10
 Italiji 10
 odmah 10
@@ -457,7 +458,6 @@ između 9
 Izgleda 9
 hranu 9
 netko 9
-Nikad 9
 živio 9
 jedna 9
 teško 9
@@ -1363,6 +1363,7 @@ njihov 3
 pričaš 3
 trudna 3
 smiješno 3
+kasno 3
 kameru 3
 igrajući 3
 jednako 3
@@ -1961,7 +1962,6 @@ morem 2
 siv 2
 počni 2
 traje 2
-kasno 2
 provodiš 2
 djecom 2
 sporije 2
@@ -8346,3 +8346,6 @@ skupina 1
 27 1
 Oprez 1
 opasan 1
+Yamoussoukro 1
+Obale 1
+Bjelokosti 1

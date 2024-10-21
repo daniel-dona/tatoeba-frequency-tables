@@ -1,19 +1,19 @@
 Tom 1169
-Men 879
+Men 880
 Ol 497
 bilen 443
 Sen 318
 Bu 312
-üçin 305
+üçin 306
 we 286
 bir 219
-näme 217
+näme 218
 gowy 202
 bu 195
 ol 191
 ony 191
 hiç 190
-däl 185
+däl 186
 Mery 180
 Meri 177
 aýtdy 172
@@ -53,16 +53,16 @@ sen 83
 kömek 71
 seniň 70
 Sami 70
+bolup 70
 haçan 69
 şony 69
-bolup 68
 boldy 67
-Näme 64
+Näme 65
 onuň 63
 etdi 61
 gyz 60
+etmek 59
 oglan 58
-etmek 58
 gördüm 58
 meni 57
 nähili 56
@@ -166,11 +166,12 @@ Hiç 27
 aýdyp 26
 aýt 26
 sany 26
+özüni 26
 etmeli 26
+yzyna 26
 eýýäm 26
 görýärin 26
 hemişe 25
-özüni 25
 iki 25
 hepde 25
 diýen 25
@@ -179,7 +180,6 @@ gelip 25
 Onuñ 25
 ýene 25
 dogry 25
-yzyna 25
 et 25
 iň 24
 sag 24
@@ -223,6 +223,7 @@ geçen 20
 birnäçe 20
 on 20
 zatlar 20
+Meni 20
 mundan 20
 meñ 20
 özüniñ 20
@@ -233,7 +234,6 @@ bolmaly 19
 edil 19
 Siziň 19
 görünýär 19
-Meni 19
 tarapyndan 19
 oña 19
 Mera 19
@@ -525,6 +525,7 @@ doly 9
 hat 9
 diñe 9
 soñ 9
+howply 9
 ynanyp 9
 bilesim 9
 şat 8
@@ -546,6 +547,7 @@ bilerin 8
 etme 8
 Layla 8
 bäş 8
+Munuň 8
 käwagt 8
 garaşdy 8
 bolardy 8
@@ -686,7 +688,6 @@ oýlamaýaryn 7
 arasynda 7
 gysýar 7
 iñlis 7
-howply 7
 çyndanam 7
 Name 7
 özleri 7
@@ -727,7 +728,6 @@ diyip 6
 Bütin 6
 işledi 6
 hekaýa 6
-Munuň 6
 gelýän 6
 etdik 6
 Şuny 6
@@ -773,6 +773,7 @@ entegem 6
 etmejekdigini 6
 gazanýar 6
 diýýärin 6
+ynamly 6
 halaýan 6
 däldim 6
 ýaman 6
@@ -909,6 +910,7 @@ göçdi 5
 getirdi 5
 Suw 5
 Bostony 5
+Biri 5
 eşikleri 5
 hapa 5
 gelýänçä 5
@@ -928,7 +930,6 @@ meňzeýär 5
 ene 5
 awtobusa 5
 başlap 5
-ynamly 5
 bilýärsiňizmi 5
 Polisiýa 5
 Ir 5
@@ -1085,6 +1086,7 @@ mekdep 4
 giderin 4
 naharlaryny 4
 çagalaryna 4
+biljekdigine 4
 otyrlar 4
 alyş 4
 kellesini 4
@@ -1115,7 +1117,6 @@ bolmaýar 4
 gürleýär 4
 çykýar 4
 Pişik 4
-Biri 4
 ýarawsyz 4
 ogurlapdyr 4
 sagatdan 4
@@ -1403,6 +1404,7 @@ görip 3
 alar 3
 da 3
 Belki 3
+ulanmak 3
 Has 3
 edeniňi 3
 laýyk 3
@@ -1809,6 +1811,7 @@ Isleýän 3
 sözünde 3
 duşuşyga 3
 Mugallym 3
+möhüm 3
 geljekdigini 3
 gazandy 3
 hormatyny 3
@@ -2001,7 +2004,6 @@ gorkýaryn" 2
 "Sen 2
 gorkak" 2
 saçlaryny 2
-ulanmak 2
 Şugün 2
 şemally 2
 gidesi 2
@@ -2052,7 +2054,6 @@ Jenap 2
 haçanda 2
 geýýär 2
 ant 2
-biljekdigine 2
 ýerlerinde 2
 bilmejekdigini 2
 bilenokdyr 2
@@ -2519,6 +2520,7 @@ golaý 2
 geçýändigini 2
 offise 2
 geçirildi 2
+baş 2
 däldini 2
 ýerdäki 2
 özüňizi 2
@@ -2885,6 +2887,7 @@ hepdelik 2
 Geljek 2
 synp 2
 galsalar 2
+öldürdi 2
 eşidýärin 2
 dermany 2
 lukmanyň 2
@@ -3035,7 +3038,6 @@ kömekleşip 2
 durmady 2
 yşyk 2
 seýilgäh 2
-möhüm 2
 ýakynda 2
 ýadymda 2
 etmedigine 2
@@ -5445,7 +5447,6 @@ sözläp 1
 nämeleriň 1
 göze 1
 gelüwli 1
-baş 1
 mümkinçilikler 1
 çäksiz 1
 horajykdy 1
@@ -6969,7 +6970,6 @@ meýilleşdirmeýändiklerini 1
 agşama 1
 emläge 1
 gaplaň 1
-öldürdi 1
 gargalara 1
 satypdyr 1
 Gyş 1

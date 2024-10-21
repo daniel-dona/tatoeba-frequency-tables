@@ -125,8 +125,8 @@ maana 174
 kusema 173
 zamani 172
 leo 170
-Na 166
 gisi 166
+Na 165
 mwaka 165
 Kila 164
 mzuri 164
@@ -755,7 +755,6 @@ waza 35
 kulingana 35
 Weka 35
 tafuta 35
-furahi 35
 isipokuwa 35
 mauaji 35
 akiwa 35
@@ -779,6 +778,7 @@ Watoto 34
 maendeleo 34
 liste 34
 naona 34
+furahi 34
 Hauwezi 34
 udongo 34
 hauwezi 34
@@ -1892,6 +1892,7 @@ kuzungumza 13
 inaitwa 13
 kuitika 13
 zidi 13
+Nafurahi 13
 kibaya 13
 Muna 13
 aksanti 13
@@ -2032,7 +2033,6 @@ Shuka 12
 kudumu 12
 amri 12
 kuvumilia 12
-Nafurahi 12
 kwenu 12
 Sema 12
 Aiko 12
@@ -3212,7 +3212,6 @@ ishirini 7
 Siamini 7
 anapataka 7
 kuzama 7
-Musi 7
 Chini 7
 B 7
 niona 7
@@ -3660,6 +3659,7 @@ mafanyikio 6
 Juma 6
 créer 6
 burefu 6
+Musi 6
 shoga 6
 chèque 6
 Barabara 6

@@ -1,5 +1,5 @@
 Tomas 813
-No 578
+No 579
 das 537
 no 464
 binom 443
@@ -43,9 +43,9 @@ keli 72
 kisi 70
 binob 69
 vilob 69
+ol 68
 us 67
 Binom 67
-ol 67
 binof 67
 buki 66
 kanob 65
@@ -87,9 +87,9 @@ ome 44
 binos 43
 ofi 43
 om 43
+Löfob 42
 umo 42
 no-li 42
-Löfob 41
 ofe 41
 ni 41
 ola 40
@@ -175,6 +175,7 @@ Spikol-li 24
 kanol 24
 Boston 24
 flentapüki 24
+oni 23
 vobön 23
 mens 23
 obs 23
@@ -185,7 +186,6 @@ Spikols-li 23
 Li-tikol 23
 su 22
 u 22
-oni 22
 svimön 22
 Mens 22
 flens 22
@@ -802,6 +802,7 @@ nuni 4
 sonis 4
 Pükol 4
 nifos 4
+hetob 4
 mödikumo 4
 okömol 4
 hetoms 4
@@ -990,7 +991,6 @@ smalikum 3
 Li-äbinol 3
 Ä 3
 jifleni 3
-hetob 3
 yufolöd 3
 böd 3
 "Si" 3

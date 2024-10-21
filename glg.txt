@@ -1,11 +1,11 @@
-a 1290
+a 1293
 que 1197
 de 1153
-o 1079
-é 796
-non 615
-un 563
-O 557
+o 1080
+é 799
+non 616
+un 564
+O 558
 e 526
 A 458
 unha 440
@@ -14,8 +14,8 @@ do 349
 en 327
 da 293
 os 281
-máis 268
-para 257
+máis 271
+para 259
 as 236
 no 236
 meu 229
@@ -33,7 +33,7 @@ Os 173
 seu 164
 son 155
 Ela 152
-ten 145
+ten 146
 con 144
 moi 133
 É 132
@@ -50,18 +50,18 @@ foi 88
 Por 88
 pero 84
 Se 83
+das 83
 seus 83
 As 83
 todo 82
-das 82
 pola 80
 mañá 78
 el 78
 ou 78
-túa 77
+túa 78
 tempo 76
+teu 76
 cando 76
-teu 75
 Teño 75
 día 74
 vida 72
@@ -97,9 +97,9 @@ inglés 56
 Estou 56
 sempre 55
 xa 54
+pode 53
 Cando 53
 lingua 53
-pode 52
 ás 52
 tarde 52
 nos 52
@@ -107,9 +107,9 @@ coma 52
 Este 52
 Esta 49
 ir 48
+mellor 47
 vez 47
 Son 46
-mellor 46
 coa 46
 cartos 45
 co 45
@@ -119,11 +119,11 @@ pouco 44
 algo 44
 eu 44
 dous 44
+quen 44
 che 43
 dúas 43
 coche 43
 Un 43
-quen 43
 vai 41
 ver 41
 porque 41
@@ -151,6 +151,7 @@ dicir 38
 auga 37
 sobre 37
 amor 37
+bo 37
 entre 37
 demasiado 36
 nosa 36
@@ -160,7 +161,6 @@ todos 36
 días 35
 quero 35
 En 35
-bo 35
 estou 35
 moitas 34
 agora 34
@@ -183,23 +183,23 @@ can 31
 estar 31
 Onde 31
 despois 31
+corazón 31
 verdade 30
 cousas 30
 onde 30
 facelo 30
 pra 30
 gran 30
-corazón 30
 isto 30
 durante 29
 nun 29
 cos 29
 Gustaríame 29
+así 29
 ollos 29
 menos 29
 amigo 28
 teus 28
-así 28
 fai 28
 historia 28
 nin 28
@@ -289,6 +289,7 @@ nova 20
 carta 20
 Parece 20
 nenos 20
+dar 20
 pais 20
 fermosa 20
 vou 19
@@ -307,7 +308,6 @@ toda 19
 nós 19
 cara 19
 alí 19
-dar 19
 feliz 18
 Xapón 18
 Cada 18
@@ -705,6 +705,7 @@ almorzo 8
 tradución 8
 Estados 8
 chan 8
+natureza 8
 tema 8
 Case 8
 puido 8
@@ -745,6 +746,7 @@ película 8
 sabía 8
 irei 7
 soa 7
+cor 7
 posíbel 7
 verte 7
 digas 7
@@ -799,7 +801,6 @@ pan 7
 coñecer 7
 Benvido 7
 mágoa 7
-natureza 7
 perigo 7
 logo 7
 gaña 7
@@ -851,6 +852,7 @@ adoita 7
 cans 7
 puiden 7
 oficina 7
+sequera 7
 tirar 7
 teña 7
 través 7
@@ -861,7 +863,6 @@ romanés 7
 x 7
 fálase 6
 Tódolos 6
-cor 6
 parella 6
 cear 6
 ferida 6
@@ -988,7 +989,6 @@ Cres 6
 Puxo 6
 única 6
 barcos 6
-sequera 6
 aprende 6
 lago 6
 fermosas 6
@@ -1046,6 +1046,7 @@ famoso 5
 dente 5
 vela 5
 explicar 5
+fíxoo 5
 finalmente 5
 chamarme 5
 vaia 5
@@ -1148,6 +1149,7 @@ tío 5
 arredor 5
 ves 5
 deixes 5
+Feliz 5
 cambiar 5
 París 5
 xénero 5
@@ -1222,6 +1224,7 @@ pasa 5
 dereita 5
 sabedoría 5
 política 5
+Nin 5
 tiven 5
 bus 5
 existen 5
@@ -1232,6 +1235,7 @@ destino 5
 peor 5
 corpus 5
 estea 5
+rostro 5
 toca 4
 conciencia 4
 buscar 4
@@ -1288,7 +1292,6 @@ azuis 4
 certa 4
 real 4
 costume 4
-fíxoo 4
 veleno 4
 Segundo 4
 costumes 4
@@ -1412,7 +1415,6 @@ Brasil 4
 brasileiro 4
 Entre 4
 vale 4
-Feliz 4
 escuro 4
 escrito 4
 Síntome 4
@@ -1528,9 +1530,9 @@ morreron 4
 seca 4
 chea 4
 sufrimento 4
+necesitas 4
 estrela 4
 dan 4
-Nin 4
 voan 4
 imos 4
 ministro 4
@@ -1554,7 +1556,6 @@ tradutor 4
 enxeñeira 4
 Entramos 4
 montañas 4
-rostro 4
 pracer 4
 deber 4
 = 4
@@ -2097,7 +2098,6 @@ marchas 3
 regar 3
 saíron 3
 puideres 3
-necesitas 3
 contento 3
 Rusia 3
 pescar 3
@@ -2130,6 +2130,7 @@ Unión 3
 ordenou 3
 tristeza 3
 solución 3
+veciño 3
 acabe 3
 vidas 3
 academia 3
@@ -2866,6 +2867,7 @@ virando 2
 tarefas 2
 mercadoría 2
 custos 2
+pinturas 2
 trece 2
 relator 2
 Crese 2
@@ -3347,7 +3349,6 @@ Elas 2
 espada 2
 tartaruga 2
 bicicletas 2
-veciño 2
 comendo 2
 Aprendo 2
 volveuse 2
@@ -3518,6 +3519,7 @@ conseguiu 2
 querida 2
 covas 2
 deches 2
+Marina 2
 aprenden 2
 montón 2
 melancolía 2
@@ -5521,7 +5523,6 @@ compadecer 1
 perdera 1
 aplicados 1
 detallases 1
-pinturas 1
 lévase 1
 votaron 1
 termos 1
@@ -8358,7 +8359,6 @@ burro 1
 encantáronlle 1
 leitugas 1
 cavar 1
-Marina 1
 cultiva 1
 cacheados 1
 papagaios 1
@@ -9722,3 +9722,10 @@ atención" 1
 "Isto 1
 merecer 1
 benevolencia" 1
+Bela 1
+pintarte 1
+fermoso: 1
+brillo 1
+encanto 1
+complexión 1
+Cantar 1

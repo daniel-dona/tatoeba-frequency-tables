@@ -6,10 +6,10 @@ Tom 32
 bir 28
 edi 27
 Mening 25
+bilan 24
 nima 23
 emas 23
 qayerda 23
-bilan 23
 bormi 22
 uchun 20
 yaxshi 18
@@ -139,6 +139,7 @@ berdi 4
 qushlarimni 4
 Eshikni 4
 tilda 4
+Meni 4
 Pul 4
 go'shti 4
 Bank 4
@@ -182,6 +183,7 @@ Yordam 3
 xohlaysan 3
 istaysan 3
 ovoz 3
+Ularning 3
 Tomni 3
 It 3
 yeyapti 3
@@ -222,7 +224,6 @@ Bunaqa 3
 ob-havo 3
 kutib 3
 Nihoyat 3
-Meni 3
 Savolga 3
 Ushbu 3
 qor 3
@@ -342,7 +343,6 @@ kompyuter 2
 qishloqda 2
 tomonidan 2
 o'rganmoqchi 2
-Ularning 2
 emassan 2
 Yangi 2
 Pivo 2
@@ -2394,3 +2394,14 @@ kelolmayman 1
 bo‘ladi 1
 o‘lgan 1
 o‘lmaganman 1
+Kimdir 1
+oʻzini 1
+oʻldirdi 1
+hamkorligi 1
+vazifa 1
+muvaffaqiyatli 1
+bajarildi 1
+Raqsga 1
+tushmoqchiman 1
+chayon 1
+chaqdi 1

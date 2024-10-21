@@ -1,6 +1,6 @@
-ir 2199
-Es 1349
-Toms 713
+ir 2202
+Es 1350
+Toms 714
 ka 620
 to 552
 un 524
@@ -8,7 +8,7 @@ Man 440
 Vai 428
 Viņš 423
 ar 396
-bija 374
+bija 375
 es 368
 tu 361
 par 354
@@ -16,7 +16,7 @@ no 332
 nav 326
 man 316
 tas 298
-Tas 287
+Tas 288
 kā 278
 uz 273
 ko 262
@@ -26,9 +26,9 @@ kas 209
 Mēs 196
 esmu 193
 mani 190
-lai 178
+lai 179
 Tu 171
-tev 161
+tev 162
 tik 156
 savu 155
 jūs 154
@@ -48,13 +48,13 @@ kaut 116
 Esmu 114
 Marija 107
 Viņi 105
+Tā 103
 ne 102
-Tā 102
 tevi 97
 tikai 96
 šo 90
+jums 89
 Kā 88
-jums 88
 viņam 88
 darīt 88
 pārāk 87
@@ -599,9 +599,11 @@ troksnis 10
 Labrīt 9
 Sveiki 9
 citam 9
+Jā 9
 neatceros 9
 svarīgs 9
 agri 9
+negribēju 9
 iepazīties 9
 dzimšanas 9
 kļūda 9
@@ -675,7 +677,6 @@ garš 8
 zināja 8
 apsēdās 8
 rīta 8
-negribēju 8
 kurienes 8
 drīz 8
 runājat 8
@@ -777,7 +778,6 @@ klātbūtnē 8
 nāves 8
 Augsne 8
 uzstāja 8
-Jā 7
 Laiks 7
 māte 7
 bērnu 7
@@ -1065,6 +1065,7 @@ vēlmes 6
 piepildījās 6
 Reizēm 6
 šim 6
+situācija 6
 prātu 6
 cena 6
 varbūt 6
@@ -1315,7 +1316,6 @@ pateicīgi 5
 nogalināt 5
 sveces 5
 ego 5
-situācija 5
 kurla 5
 1953 5
 lēnām 5
@@ -2650,6 +2650,7 @@ stirnas 3
 Vējutēv 3
 ragana 3
 dizainā 3
+neapskaužama 3
 Labdien 2
 redzēšanos 2
 brīvi 2
@@ -3486,6 +3487,7 @@ pavasara 2
 sniedza 2
 skaitlim 2
 kultūras 2
+uztraucas 2
 Pateicoties 2
 Kanādas 2
 maigi 2
@@ -4645,6 +4647,7 @@ Interjera 2
 Interjeru 2
 pielāgot 2
 atbilstoši 2
+loma 2
 Džon 1
 Maiks 1
 Nensija 1
@@ -7002,7 +7005,6 @@ miris" 1
 "dzimšanas" 1
 japāņiem 1
 ķīniešiem 1
-uztraucas 1
 spīdzināts 1
 Paturi 1
 slepenajai 1
@@ -9996,5 +9998,3 @@ virtuvi 1
 vairojas 1
 sitās 1
 vadīju 1
-grāmatnīcu 1
-nogriezās 1
