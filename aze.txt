@@ -14,9 +14,9 @@ Mənim 118
 və 113
 deyil 111
 heç 106
+mənim 95
 Onlar 95
-mənim 94
-üçün 89
+üçün 90
 yaxşı 81
 Onun 73
 mənə 70
@@ -50,10 +50,10 @@ sənin 41
 kimi 40
 sevirəm 39
 öz 39
+edir 39
 məni 38
 paytaxtıdır 38
 ilə 38
-edir 38
 şey 36
 başa 36
 Nə 35
@@ -104,11 +104,11 @@ bilir 24
 görə 24
 sizin 24
 dəfə 23
+Bunu 23
 ona 23
 evə 23
 Tomu 23
 Sizin 22
-Bunu 22
 danışa 22
 Niyə 22
 baş 22
@@ -128,6 +128,7 @@ istəyir 20
 Onların 20
 qədərdir 20
 gəldi 20
+il 19
 zəng 19
 olur 19
 bilmir 19
@@ -136,7 +137,6 @@ minimal 19
 haqqı 19
 gözəl 18
 on 18
-il 18
 Səni 18
 az 18
 Ona 18
@@ -149,6 +149,7 @@ su 18
 çoxlu 18
 İsa 18
 həftə 17
+dörd 17
 getdim 17
 gördüm 17
 böyükdür 17
@@ -162,7 +163,6 @@ sən 17
 bilərəm 16
 əvvəl 16
 yeni 16
-dörd 16
 Dünən 16
 olmaq 16
 Bütün 16
@@ -307,6 +307,7 @@ ehtiyacı 9
 kimin 9
 xoşum 9
 gəlmir 9
+davam 9
 Müharibə 9
 gedib 9
 yola 9
@@ -365,7 +366,6 @@ işləyir 8
 qırmızıdır 8
 Yaponiyada 8
 bizi 8
-davam 8
 biraz 8
 olunub 8
 Şimali 8
@@ -1100,6 +1100,7 @@ saatlarla 3
 buradan 3
 yatıram 3
 oyun 3
+apar 3
 getməlisən 3
 doludur 3
 maska 3
@@ -1662,7 +1663,6 @@ Tenis 2
 oynamaq 2
 topu 2
 xahiş 2
-apar 2
 Nənə 2
 Radioya 2
 Türkiyənin 2
@@ -7723,3 +7723,5 @@ intihar 1
 itkisindən 1
 vahiməli 1
 itki 1
+Bakalavr 1
+dərəcəsi 1

@@ -1,14 +1,14 @@
 да 7701
-da 6880
+da 6883
 је 6813
-je 6806
+je 6807
 се 3958
 Том 3572
 сам 3480
 se 3035
 sam 2505
 ли 2328
-Tom 2064
+Tom 2065
 u 2061
 у 1929
 li 1794
@@ -18,7 +18,7 @@ na 1484
 i 1394
 на 1356
 не 1314
-to 1175
+to 1176
 ne 1153
 ми 1118
 и 1039
@@ -339,20 +339,20 @@ nikada 94
 Ви 94
 неко 94
 имао 94
+Hajde 93
 put 93
 волим 92
 добар 92
-Hajde 92
 koliko 92
 tome 92
 толико 92
 Na 91
+Moja 90
 код 90
 мисли 90
 ranije 90
 баш 89
 моје 89
-Moja 89
 voli 89
 baš 89
 године 88
@@ -429,6 +429,7 @@ Zar 74
 књигу 74
 знаш 74
 тобом 73
+uradi 72
 između 72
 Ovaj 72
 tu 72
@@ -438,7 +439,6 @@ kaže 72
 ову 72
 Tomom 72
 čovek 71
-uradi 71
 često 71
 брзо 71
 Требало 71
@@ -1230,6 +1230,7 @@ Mislila 26
 Izvinite 25
 važno 25
 Pazi 25
+dođe 25
 izgubio 25
 Hoćeš 25
 šešir 25
@@ -1268,7 +1269,6 @@ dođeš 25
 meseca 24
 mom 24
 jeo 24
-dođe 24
 Zbog 24
 sinoć 24
 znamo 24
@@ -1871,6 +1871,7 @@ OK 17
 Očigledno 17
 nove 17
 mrzi 17
+ćerka 17
 noć 17
 nosio 17
 Sutra 17
@@ -1980,7 +1981,6 @@ ozbiljno 16
 stignem 16
 dođem 16
 čujem 16
-ćerka 16
 drugog 16
 gore 16
 zaboravio 16
@@ -4380,6 +4380,7 @@ Novac 7
 govoriti 7
 toalet 7
 E 7
+bolesna 7
 krompir 7
 platu 7
 obogatili 7
@@ -5053,7 +5054,6 @@ računara 6
 papira 6
 Čuvaj 6
 Dovoljno 6
-bolesna 6
 divan 6
 Sreća 6
 majke 6

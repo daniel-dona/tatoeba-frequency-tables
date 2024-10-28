@@ -2,13 +2,13 @@ lo 12828
 mi 6233
 cu 3495
 do 3349
-la 2995
+la 2997
 pu 2310
 le 2298
 nu 2122
 se 1918
 i 1816
-na 1620
+na 1622
 be 1333
 ko'a 1271
 ma 1224
@@ -286,6 +286,7 @@ zgana 59
 detri 59
 skami 58
 rirni 58
+cevni 58
 certu 58
 sisti 58
 zei 58
@@ -296,7 +297,6 @@ mei 58
 ve 57
 vo 57
 fanva 57
-cevni 57
 jibri 57
 preti 56
 facki 56
@@ -1779,6 +1779,7 @@ djein 4
 vidni 4
 ma'i 4
 vlaste 4
+iesus 4
 xejykre 4
 lozu'o 4
 loza'i 4
@@ -2517,7 +2518,6 @@ nuncasnu 2
 ctufau 2
 sampli 2
 ijeku'i 2
-iesus 2
 uan 2
 citnymau 2
 pruprulamdei 2
@@ -3253,6 +3253,7 @@ xanmi 2
 taglic 2
 ibu 2
 SInodont 2
+merpre 2
 turdida 2
 braiyn 1
 larxra 1
@@ -6913,7 +6914,6 @@ lituanias 1
 cmacti 1
 mudyka'apre 1
 zercu'upre 1
-merpre 1
 Tomku 1
 tsasu 1
 kenadjinu 1

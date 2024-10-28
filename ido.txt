@@ -1,7 +1,7 @@
-esas 2937
+esas 2939
 Me 2343
 la 2266
-ne 1355
+ne 1356
 Tom 1104
 La 1040
 me 893
@@ -18,7 +18,7 @@ di 405
 a 403
 mea 399
 esis 387
-e 361
+e 362
 volas 344
 povas 310
 tre 304
@@ -168,9 +168,9 @@ En 48
 laboro 47
 kompris 47
 ja 47
+Deo 47
 ka 46
 urbo 46
-Deo 46
 Bona 45
 ube 45
 lua 45
@@ -1105,6 +1105,7 @@ Hastez 6
 revuo 6
 sioro 6
 luno 6
+saja 6
 konkordas 6
 botelo 6
 polico 6
@@ -1260,7 +1261,6 @@ banko 5
 "No 5
 aferi 5
 vizitos 5
-saja 5
 duimo 5
 dorso 5
 matematiko 5
@@ -1442,6 +1442,7 @@ patologial 5
 jirafo 5
 formiki 5
 dika 5
+Iesu 5
 kuzulo 5
 Porki 5
 Yidisha 5
@@ -1749,7 +1750,6 @@ expliko 4
 Lavez 4
 talentoza 4
 vangi 4
-Iesu 4
 interreto 4
 pandemio 4
 kuzino 4
@@ -3371,6 +3371,7 @@ astmo 2
 kalkulilo 2
 Nobla 2
 helpema 2
+enti 2
 tun 2
 Tun 2
 Dumnokte 2
@@ -6837,7 +6838,6 @@ faxuro 1
 uragano 1
 porkepino 1
 distingas 1
-enti 1
 komenti 1
 Sana 1
 mondolinguo 1
@@ -8604,3 +8604,5 @@ yarcento 1
 delicioza 1
 fidus 1
 Onklo 1
+Fungi 1
+magial 1

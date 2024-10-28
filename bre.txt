@@ -4,9 +4,9 @@ e 961
  849
 da 753
 bara 698
-eo 696
+eo 697
 ket 619
-an 577
+an 578
 eus 493
 zo 456
 o 414
@@ -117,12 +117,12 @@ botoù 49
 eur 48
 Yann 48
 Gant 47
+Doue 47
 para 47
 oc'h 46
 dour 46
 Emañ 46
 bara-mañ 46
-Doue 46
 mont 45
 ganeoc'h 45
 mar-plij 45
@@ -222,6 +222,7 @@ alies 27
 gavan 27
 ganaouenn 27
 amann 27
+dud 26
 Al 26
 yezh 26
 gwelet 26
@@ -229,7 +230,6 @@ c'hoari 26
 glav 26
 ganeomp 26
 Butunet 26
-dud 25
 emaout 25
 Gouzout 25
 Pet 25
@@ -1434,6 +1434,7 @@ domm 4
 anaoudegezh 4
 lez 4
 Lâret 4
+mouezh 4
 Dalc'hmat 4
 lec'hienn 4
 c'hallfe 4
@@ -1899,7 +1900,6 @@ ordinal 3
 interet 3
 Elez 3
 meuleudi 3
-mouezh 3
 gitar 3
 'Ba' 3
 Genghis 3
@@ -6480,3 +6480,4 @@ c'hleze 1
 fealded 1
 simant 1
 vignoniezh 1
+Mouezh 1

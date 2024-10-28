@@ -1,12 +1,12 @@
-Ik 3219
-is 3214
+Ik 3220
+is 3216
 dat 2796
 en 2520
 de 2483
 nich 1950
 du 1692
 hett 1610
-He 1475
+He 1476
 in 1455
 De 1402
 to 1324
@@ -26,10 +26,10 @@ em 657
 an 652
 na 641
 mien 618
+Tom 611
 sünd 610
-Tom 610
 wat 548
-weer 530
+weer 531
 he 522
 Wi 520
 den 502
@@ -38,7 +38,7 @@ Wat 488
 bün 487
 sien 478
 för 466
-ehr 465
+ehr 466
 keen 456
 Du 452
 deed 441
@@ -479,6 +479,7 @@ Kiek 30
 Gah 30
 Dörp 30
 itt 30
+witt 30
 weh 30
 keek 30
 anfungen 30
@@ -499,7 +500,6 @@ jüstso 29
 Franzöösch 29
 lütten 29
 Tog 29
-witt 29
 Deerns 29
 ees 29
 finnen 29
@@ -524,6 +524,7 @@ Glas 28
 Diek 28
 segg 28
 in’n 28
+up 27
 lange 27
 Steen 27
 Bröder 27
@@ -547,7 +548,6 @@ höör 27
 Geev 27
 Villicht 27
 wäsen 27
-up 26
 John 26
 Hotel 26
 jünger 26
@@ -1179,6 +1179,7 @@ Moderspraak 10
 Nehm 10
 Tokumst 10
 studeert 10
+mall 10
 Gedicht 10
 Grööntüüg 10
 antagen 10
@@ -1281,7 +1282,6 @@ schient 9
 fründlich 9
 Kunst 9
 angahn 9
-mall 9
 ropen 9
 flüggt 9
 kolen 9
@@ -1537,6 +1537,7 @@ grenzt 7
 Demant 7
 Inladen 7
 Ammel 7
+Bruus 7
 Müüs 7
 Wasch 7
 ophollen 7
@@ -1704,7 +1705,6 @@ Kock 6
 reintomaken 6
 Brasilien 6
 Kroon 6
-Bruus 6
 hannelt 6
 alltohoop 6
 Inschenör 6

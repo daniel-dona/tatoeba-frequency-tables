@@ -3,13 +3,13 @@ sa 26561
 ng 25258
 na 15840
 po 13817
-ko 12130
+ko 12131
 mga 11597
 Tom 9400
 si 8630
 ako 8019
 ni 6093
-mo 6073
+mo 6074
 Hindi 5928
 ba 5175
 at 5101
@@ -58,7 +58,7 @@ ngayon 995
 bang 986
 mong 986
 gusto 978
-gawin 968
+gawin 969
 Alam 937
 tao 935
 araw 870
@@ -302,9 +302,9 @@ Silvestre 187
 Gaano 186
 salita 186
 magaling 185
+anong 185
 yata 185
 Sobrang 185
-anong 184
 di 184
 bilang 183
 Ariel 183
@@ -1221,6 +1221,7 @@ daming 44
 hukbo 44
 Hudyo 44
 restawrang 44
+Pakiusap 43
 Natutulog 43
 tasa 43
 kinabukasan 43
@@ -1251,7 +1252,6 @@ eskinita 43
 Kastilang 43
 nauunawaan 43
 kinakailangang 43
-Pakiusap 42
 Tinanggihan 42
 dumaan 42
 masamang 42
@@ -4289,6 +4289,7 @@ iba't 11
 lumahok 11
 1970 11
 naghahalikan 11
+hinihingi 11
 mapagbigay 11
 Kulay-rosas 11
 bangus 11
@@ -4608,7 +4609,6 @@ Maghanap 10
 Indiyana 10
 Napagod 10
 Binibigyan 10
-hinihingi 10
 Tinitigan 10
 Steve 10
 hugasan 10

@@ -1,7 +1,7 @@
-est 10195
+est 10197
 et 4795
 in 4542
-Thomas 3629
+Thomas 3630
 non 3504
 sunt 2240
 ad 1752
@@ -9,15 +9,15 @@ mihi 1624
 / 1569
 esse 1429
 sum 1374
-me 1314
+me 1315
 ut 1126
 quam 1040
-te 1028
+te 1029
 cum 968
 tibi 964
 Maria 960
 de 893
-Quid 848
+Quid 849
 Ubi 830
 es 783
 se 776
@@ -25,9 +25,9 @@ quod 756
 In 752
 Non 744
 eius 691
+hoc 685
 Didymus 685
-hoc 684
-mea 667
+mea 668
 eum 637
 habet 617
 qui 612
@@ -44,7 +44,7 @@ Hic 462
 Haec 453
 Thoman 453
 valde 436
-ex 428
+ex 429
 Quot 428
 quid 428
 meum 419
@@ -93,7 +93,7 @@ Nonne 268
 quæ 265
 ea 261
 tuus 259
-volo 257
+volo 258
 tu 256
 Ego 254
 meam 254
@@ -108,8 +108,8 @@ Ad 244
 mei 243
 semper 240
 Pater 240
+Te 235
 Noli 234
-Te 234
 ne 233
 Nemo 230
 nihil 227
@@ -163,8 +163,8 @@ pecuniam 164
 Quando 164
 esset 164
 Nunc 164
+ille 163
 homines 162
-ille 162
 nunquam 162
 Hodie 162
 tui 162
@@ -199,14 +199,14 @@ Puto 147
 Ecce 145
 ibi 145
 anno 145
+De 144
 haec 144
-De 143
 suo 143
 hora 143
 amo 142
 Nescio 142
+fecit 142
 neque 142
-fecit 141
 hac 140
 urbe 140
 lingua 139
@@ -443,6 +443,7 @@ constat 75
 amici 75
 pueri 75
 Dīcit 75
+Homo 74
 decem 74
 fuisse 74
 Italia 74
@@ -463,7 +464,6 @@ canere 73
 loco 73
 Videsne 73
 ait 73
-Homo 72
 quinque 72
 omnium 72
 sis 72
@@ -581,6 +581,7 @@ fessus 60
 Sinensem 60
 Terra 60
 anni 60
+mox 60
 At 60
 Marīa 60
 hominem 59
@@ -595,7 +596,6 @@ cibum 59
 hebdomade 59
 munere 59
 habito 59
-mox 59
 vel 59
 nemo 58
 venire 58
@@ -1015,6 +1015,7 @@ Gratias 35
 vespere 35
 nescit 35
 didici 35
+pulsavit 35
 agere 35
 mulier 35
 patria 34
@@ -1059,6 +1060,7 @@ Urbs 33
 Vos 33
 Tam 33
 paenitet 33
+meas 33
 Pecuniam 33
 sapit 33
 ago 33
@@ -1076,7 +1078,6 @@ plena 33
 Nunquam 33
 oblitus 33
 Nolo 33
-pulsavit 33
 hortum 33
 uti 33
 hinc 33
@@ -1122,7 +1123,6 @@ alba 31
 Tatoeba 31
 Quamdiu 31
 mari 31
-meas 31
 Britannia 31
 gratiam 31
 ientaculum 31
@@ -1242,6 +1242,7 @@ Lac 28
 sive 28
 matre 28
 puellam 28
+Filia 28
 exedra 28
 Multos 28
 gestabile 28
@@ -1295,7 +1296,6 @@ dicunt 27
 publicus 27
 Medicus 27
 alterum 27
-Filia 27
 Discipulus 27
 Eboraci 27
 carum 27
@@ -1432,9 +1432,11 @@ fregit 25
 Omne 25
 veniat 25
 Graeca 25
+aegrotat 25
 Crēdō 25
 huic 25
 ora 25
+certiorem 25
 memini 25
 usus 25
 ēmistis 25
@@ -1498,7 +1500,6 @@ vestimenta 24
 aliquis 24
 Mox 24
 proximo 24
-aegrotat 24
 Jam 24
 Plus 24
 viros 24
@@ -1515,7 +1516,6 @@ litora 24
 haud 24
 fecisse 24
 Vix 24
-certiorem 24
 dixit: 24
 intelligens 24
 litterās 24
@@ -1774,6 +1774,7 @@ nigra 20
 viridis 20
 Canicus 20
 mulierem 20
+Bona 20
 Matrem 20
 Magistra 20
 quaero 20
@@ -1848,7 +1849,6 @@ pluit 19
 clarus 19
 utitur 19
 videbo 19
-Bona 19
 habetis 19
 petasum 19
 diaeta 19
@@ -1938,6 +1938,7 @@ bonos 18
 Romanis 18
 Avis 18
 bibendum 18
+natura 18
 dicas 18
 videntur 18
 stella 18
@@ -1960,6 +1961,7 @@ templum 18
 eiusdem 18
 deversorium 18
 Sub 18
+foedus 18
 habeō 18
 currus 18
 adsunt 18
@@ -2021,6 +2023,7 @@ piscare 18
 pueris 18
 maximi 18
 Mulieres 18
+fores 18
 eodem 18
 Danaum 18
 postea 18
@@ -2046,7 +2049,6 @@ beatus 17
 musica 17
 Tua 17
 Amicum 17
-natura 17
 nostros 17
 pudet 17
 Venerunt 17
@@ -2063,7 +2065,7 @@ discipula 17
 parvi 17
 argentaria 17
 Hortus 17
-foedus 17
+arborem 17
 ostendit 17
 Bellum 17
 tabernam 17
@@ -2201,7 +2203,6 @@ navis 16
 umbellam 16
 fluvio 16
 Lutetiam 16
-arborem 16
 Viri 16
 Iacobus 16
 calceos 16
@@ -2285,7 +2286,6 @@ Alae 16
 senectute 16
 parum 16
 Vide 16
-fores 16
 angelus 16
 adeo 16
 istum 16
@@ -2604,6 +2604,7 @@ Noemi 14
 virgam 14
 idus 14
 incolit 14
+spero 13
 Historia 13
 undique 13
 gloria 13
@@ -2785,7 +2786,6 @@ nāta 13
 vīcum 13
 imperātum 13
 loquī 13
-spero 12
 lente 12
 movetur 12
 libera 12
@@ -4929,6 +4929,7 @@ audīvistī 7
 crēdere 7
 Ira 7
 avaritia 7
+fide 7
 Sapiens 7
 gentium 7
 lætus 7
@@ -5011,6 +5012,7 @@ faciemus 7
 scopulos 7
 tempestate 7
 Quoniam 7
+morbo 7
 requiescere 7
 regnavit 7
 tulerunt 7
@@ -5616,7 +5618,6 @@ agitis 6
 Medicum 6
 agnus 6
 inimici 6
-fide 6
 capio 6
 Hostes 6
 majorem 6
@@ -5735,7 +5736,6 @@ iussi 6
 venti 6
 recitavit 6
 ais 6
-morbo 6
 sepulcrum 6
 tacitus 6
 sapientiae 6

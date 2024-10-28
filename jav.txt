@@ -1,11 +1,11 @@
-Aku 153
+Aku 154
 ora 131
 Tom 112
 sing 69
 iku 49
 aku 45
+iki 44
 Kowé 44
-iki 43
 ing 43
 karo 37
 Dhèwèké 36
@@ -16,10 +16,10 @@ basa 27
 kuwi 26
 wis 25
 lunga 25
+apa 24
 kudu 23
 menyang 23
 Iki 23
-apa 23
 dhéwé 23
 seneng 23
 isa 22
@@ -94,6 +94,7 @@ dhokter 7
 Prancis 7
 Sugeng 7
 asalé 7
+jenengé 7
 ngombé 7
 kucing 6
 Wingi 6
@@ -111,7 +112,6 @@ mesthi 6
 mung 6
 tuku 6
 asu 6
-jenengé 6
 jus 5
 saben 5
 kanca 5
@@ -119,6 +119,7 @@ lara 5
 minggu 5
 kopi 5
 Boston 5
+taun 5
 bengi 5
 waé 5
 saiki 5
@@ -143,6 +144,7 @@ jam 5
 panjenengan 4
 katimbang 4
 aja 4
+abang 4
 apel 4
 tok 4
 udan 4
@@ -166,7 +168,6 @@ saged 4
 tangi 4
 pasar 4
 pundi 4
-taun 4
 Tak 4
 numpak 4
 bis 4
@@ -191,7 +192,7 @@ Saben 4
 ng 4
 mau 3
 Piyambakipun 3
-abang 3
+werna 3
 pirang 3
 kok 3
 Wonten 3
@@ -210,6 +211,7 @@ takon 3
 pingin 3
 mbukak 3
 Wis 3
+kapungkur 3
 ngudud 3
 kene 3
 roti 3
@@ -240,6 +242,7 @@ kerja 3
 nyanyi 3
 telung 3
 nglakokaké 3
+lair 3
 Sing 3
 wedi 3
 ngapusi 3
@@ -275,7 +278,6 @@ Manuké 2
 awang-awang 2
 wit 2
 enom 2
-werna 2
 Kon 2
 gak 2
 Yèn 2
@@ -309,7 +311,6 @@ kerdusé 2
 ngetokaké 2
 bal 2
 nembé 2
-kapungkur 2
 mréné 2
 nduwé 2
 Ya 2
@@ -395,7 +396,6 @@ manggon 2
 papan 2
 ngéné 2
 matèni 2
-lair 2
 ngerjakna 2
 PR-ku 2
 Wong-wong 2
@@ -457,6 +457,7 @@ pati 2
 jeruk 2
 wajikan 2
 miring 2
+nem 2
 Rambutku 2
 Honggari 2
 kon 2
@@ -1286,7 +1287,6 @@ sonten 1
 dalu 1
 dawa 1
 mbata 1
-nem 1
 nduweni 1
 sisih 1
 ꦝꦺꦮꦺꦏ꧀ꦏꦺꦏꦧꦺꦃꦲꦺꦴꦫꦔꦼꦭꦏ꧀꧈ 1
@@ -1915,3 +1915,7 @@ dakgawa 1
 ꦮꦶꦔꦶꦢꦶꦤꦱꦼꦤꦺꦤ꧀꧈ 1
 ꦲꦏꦸꦲꦺꦴꦫꦒꦼꦊꦩ꧀ꦢꦢꦶꦲꦮꦏ꧀ꦩꦸ꧉ 1
 énjing 1
+èwu 1
+ꦲꦏꦸꦭꦲꦶꦂꦤꦼꦩ꧀ꦲꦺꦮꦸꦠꦲꦸꦤ꧀ꦏꦥꦸꦁꦏꦸꦂ꧉ 1
+Panganan 1
+ꦥꦔꦤꦤ꧀ꦮꦂꦤꦲꦧꦁꦲꦶꦏꦶꦗꦼꦤꦼꦁꦔꦺꦲꦥ 1

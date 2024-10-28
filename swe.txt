@@ -12,7 +12,7 @@ har 4232
 Det 3877
 Han 3408
 jag 3148
-mig 2713
+mig 2714
 för 2697
 här 2659
 var 2605
@@ -26,8 +26,8 @@ som 1899
 dig 1890
 Vi 1889
 den 1832
-kan 1674
-Du 1599
+kan 1675
+Du 1600
 av 1599
 han 1259
 kommer 1254
@@ -455,6 +455,7 @@ lycklig 76
 försöker 76
 sätt 76
 stod 75
+hos 75
 dricka 75
 fyra 75
 sover 75
@@ -468,7 +469,6 @@ roligt 74
 dålig 74
 Sluta 74
 minuter 74
-hos 74
 föll 74
 båda 74
 runt 73
@@ -657,6 +657,7 @@ Katten 50
 använda 50
 intresserad 50
 människa 50
+bo 50
 hårt 50
 glas 50
 Efter 50
@@ -674,7 +675,6 @@ tal 49
 högt 49
 stationen 49
 svart 49
-bo 49
 män 49
 mötet 49
 timme 49

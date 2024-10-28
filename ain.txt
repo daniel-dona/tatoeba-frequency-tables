@@ -1,7 +1,7 @@
-ne 100
+ne 101
 an 63
-wa 61
-ruwe 57
+wa 62
+ruwe 58
 ta 47
 ka 35
 Tom 30
@@ -21,10 +21,10 @@ tanto 16
 hunak 15
 apto 15
 kor 15
+un 14
 toan 13
 na 13
 tane 13
-un 13
 or 13
 rusuy 13
 aynu 12
@@ -41,13 +41,13 @@ ku-ne 10
 kur 10
 rera 10
 a 10
+k-an 9
 en-kore 9
 yakka 9
 oka 9
 ek 9
 anakne 9
 eytasa 9
-k-an 8
 kam 8
 kani 8
 eaykap 8
@@ -125,6 +125,8 @@ toanta 4
 takne 4
 ku-hok 4
 ku-ki 4
+ni 4
+sempir 4
 ku-maka 4
 maka 4
 icakkere 4
@@ -164,9 +166,8 @@ e-hok 3
 sinen 3
 esoyne 3
 cepkoyki 3
-ni 3
-sempir 3
 sunke 3
+ku-nuynak 3
 apa 3
 ヤ？ 2
 Niptay 2
@@ -260,7 +261,6 @@ suyesuye 2
 un-tere 2
 tere 2
 okkaypo 2
-ku-nuynak 2
 wano 2
 turus 2
 siruhuy 2

@@ -1,15 +1,15 @@
-ast 249
-As 206
-ni 183
-en 125
+ast 251
+As 208
+ni 185
+en 126
 as 94
 tū 84
 kāi 83
 Tāns 80
-turri 71
+turri 72
 si 62
 per 57
-be 52
+be 53
 wīrst 50
 stan 49
 bēi 49
@@ -21,7 +21,7 @@ mi 31
 Sta 31
 mazzi 31
 adder 31
-Tū 30
+Tū 31
 paggan 30
 ka 27
 tennan 27
@@ -52,17 +52,18 @@ majjan 16
 min 16
 Tenēi 15
 šan 15
+assei 15
 Ka 15
 Asma 15
 mīli 15
 bilāi 14
-assei 14
 tēr 14
 widāi 14
 Kasse 13
 kawīdan 13
 Mennei 13
 nikwēigi 13
+aīnan 13
 di 13
 nika 13
 tūls 13
@@ -73,7 +74,6 @@ tāws 12
 mettan 12
 ēn 12
 aīnat 12
-aīnan 12
 kaddan 12
 biskin 12
 Šis 11
@@ -103,6 +103,7 @@ beggi 9
 penningans 9
 pirzdau 9
 etkūmps 9
+kwaitēi 9
 pastāi 9
 Mes 9
 wissan 9
@@ -116,7 +117,6 @@ Stan 8
 ankstāinan 8
 būlai 8
 pēr 8
-kwaitēi 8
 labbai 8
 buttai 8
 wīda 7
@@ -130,6 +130,7 @@ mūti 7
 šlāit 7
 Kwēi 7
 kawīdans 7
+majā 7
 teinū 7
 mazēi 7
 kērdan 7
@@ -154,7 +155,6 @@ sawaītin 6
 Šin 6
 Kāigi 6
 īda 6
-majā 6
 kāupuns 6
 asmai 6
 Bītan 6
@@ -275,6 +275,7 @@ peisāi 4
 nawwans 4
 ērgi 4
 wirdeīnan 4
+dwāi 4
 Tōman 4
 turīlai 4
 men 4
@@ -320,6 +321,7 @@ tikrōman 3
 gērblai 3
 istōrijan 3
 Niainunts 3
+Stwi 3
 Malnīkai 3
 Tenesmu 3
 jātwei 3
@@ -361,14 +363,17 @@ grazzins 3
 lāuksnan 3
 Kerdā 3
 Parīzei 3
+Undan 3
 waīstun 3
 gērbsenin 3
 Kas 3
 mērgan 3
 pirman 3
+sestran 3
 ukawalns 3
 ginni 3
 sin 3
+brātins 3
 delli 3
 bilāis 3
 pakkajan 3
@@ -388,7 +393,6 @@ nummerin 3
 etrāi 3
 gi 3
 spārtais 3
-dwāi 3
 pilnan 3
 widāwuns 3
 šāi 3
@@ -462,7 +466,6 @@ lāngu 2
 dājan 2
 Pirzdau 2
 billin 2
-Stwi 2
 kadāi 2
 spīlai 2
 spīlispagaptins 2
@@ -505,6 +508,7 @@ bilīlai 2
 ānkstais 2
 Nōda 2
 ārstini 2
+pīws 2
 wūblin 2
 pabilītan 2
 twajjas 2
@@ -550,7 +554,6 @@ pīwan 2
 wīnan 2
 arwiskai 2
 palaīstun 2
-Undan 2
 preidāwuns 2
 wanginnuns 2
 wans 2
@@ -561,7 +564,6 @@ mīriwuns 2
 īmlai 2
 kailūstan 2
 rānkans 2
-sestran 2
 Stawīdas 2
 rēizans 2
 cukkerin 2
@@ -573,7 +575,6 @@ wūraisin 2
 teikāi 2
 etwartinna 2
 nikawīdans 2
-brātins 2
 anga 2
 gulla 2
 Dēiwan 2
@@ -995,7 +996,6 @@ skaitātun 1
 lazza 1
 lāztan 1
 dāniskas 1
-pīws 1
 naūnan 1
 Īma 1
 sestras 1
@@ -2480,3 +2480,7 @@ Aziukkarags 1
 Undens 1
 Zukkai 1
 tusnan 1
+gīwan 1
+buwīntwei 1
+mēstan 1
+dukti 1

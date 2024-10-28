@@ -2,7 +2,7 @@ Men 73
 Bu 69
 U 65
 bor 33
-Tom 32
+Tom 33
 bir 28
 edi 27
 Mening 25
@@ -11,17 +11,17 @@ nima 23
 emas 23
 qayerda 23
 bormi 22
-uchun 20
+uchun 21
 yaxshi 18
 Sen 18
+Nima 16
 У 15
 mening 15
-Nima 15
 kerak 15
+ham 15
 Мен 14
 yo'q 14
 Бу 14
-ham 14
 emasman 13
 juda 13
 hech 13
@@ -34,6 +34,7 @@ va 10
 эмасман 10
 uni 10
 Ertaga 10
+Uning 9
 kim 9
 bu 9
 kitob 9
@@ -43,7 +44,6 @@ suv 9
 Bugun 9
 бор 8
 бир 8
-Uning 8
 kitobni 8
 javob 8
 menga 8
@@ -140,6 +140,7 @@ qushlarimni 4
 Eshikni 4
 tilda 4
 Meni 4
+yil 4
 Pul 4
 go'shti 4
 Bank 4
@@ -192,7 +193,9 @@ bormoqchi 3
 Sening 3
 ko'raman 3
 ko'rgan 3
+oldin 3
 tili 3
+bosh 3
 kelmayman 3
 hafta 3
 erta 3
@@ -387,10 +390,8 @@ borish 2
 yozmoqchiman 2
 bizning 2
 Oldin 2
-oldin 2
 yozilgan 2
 qilmayman 2
-bosh 2
 bekor 2
 yoqtirmaydi 2
 qiladi 2
@@ -488,7 +489,6 @@ tana 2
 yogʻdi 2
 Bizda 2
 haydovchisi 2
-yil 2
 Nimalarni 2
 o'rganaman 2
 bo'ladimi 2
@@ -524,6 +524,7 @@ xavfsiz 2
 bo'lasizlar 2
 Ertangi 2
 yig‘ilishga 2
+to‘rt 2
 barbod 1
 kutaman 1
 Барча 1
@@ -2395,8 +2396,8 @@ bo‘ladi 1
 o‘lgan 1
 o‘lmaganman 1
 Kimdir 1
-oʻzini 1
-oʻldirdi 1
+o‘zini 1
+o‘ldirdi 1
 hamkorligi 1
 vazifa 1
 muvaffaqiyatli 1
@@ -2405,3 +2406,15 @@ Raqsga 1
 tushmoqchiman 1
 chayon 1
 chaqdi 1
+Menimcha 1
+hali 1
+uyda 1
+harflardan 1
+foydalanish 1
+muhim 1
+Bakalavr 1
+darajasi 1
+davom 1
+etadi 1
+o‘limidan 1
+o‘tdi 1

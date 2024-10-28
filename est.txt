@@ -1,4 +1,4 @@
-on 1514
+on 1517
 Ma 924
 ei 734
 Tom 614
@@ -119,6 +119,7 @@ aega 31
 räägin 31
 armastan 30
 koos 30
+pealinn 30
 seal 30
 siis 29
 mitte 29
@@ -138,7 +139,6 @@ läheb 27
 tegema 27
 enam 27
 kolm 27
-pealinn 27
 rohkem 27
 sõber 27
 ainult 26
@@ -2436,6 +2436,8 @@ töölauda 2
 ostnud 2
 samu 2
 veinid 2
+Thbilisi 2
+Gruusia 2
 lemmikjook 2
 Soome 2
 Madrid 2
@@ -6393,8 +6395,6 @@ liiki 1
 kalaliiki 1
 söögiseen 1
 mürgiseen 1
-Thbilisi 1
-Gruusia 1
 katus 1
 lekib 1
 talv 1
@@ -6709,3 +6709,7 @@ Sanaa 1
 Jeemeni 1
 Masqaţ 1
 Maskat 1
+Chișinău 1
+Moldova 1
+Kaasan 1
+Tatarstani 1
