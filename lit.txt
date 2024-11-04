@@ -14,7 +14,7 @@ tai 3526
 Mes 3467
 savo 3447
 su 3442
-buvo 3129
+buvo 3130
 Tai 2978
 man 2875
 iš 2634
@@ -503,11 +503,11 @@ Kad 115
 laukia 115
 sakiau 115
 mėnesį 115
+šalta 114
 kalbu 114
 gyvenimas 114
 nesuprantu 113
 šita 113
-šalta 113
 Galvoju 113
 nepaprastai 113
 Australijoje 113
@@ -4884,6 +4884,7 @@ kvailiai 11
 išbandyti 11
 vaizdas 11
 Vakarienė 11
+Naktis 11
 gripu 11
 ilsėtis 11
 užgesinti 11
@@ -5323,7 +5324,6 @@ spąstus 10
 Graikijos 10
 Skubėk 10
 vėžio 10
-Naktis 10
 greitesnis 10
 sergate 10
 nerimauti 10

@@ -1,4 +1,4 @@
-är 11616
+är 11617
 Jag 11264
 att 7099
 Tom 7073
@@ -28,18 +28,18 @@ Vi 1889
 den 1832
 kan 1675
 Du 1600
-av 1599
+av 1600
 han 1259
 kommer 1254
 sig 1220
 så 1193
 Vad 1160
 vill 1124
-De 1105
+De 1106
 ni 1100
 mycket 977
+min 975
 skulle 974
-min 973
 Hur 954
 Mary 943
 vi 896
@@ -58,7 +58,7 @@ Var 734
 Den 725
 vad 715
 din 690
-de 687
+de 688
 tycker 642
 vet 631
 Kan 622
@@ -78,7 +78,7 @@ man 527
 gå 520
 Min 518
 er 516
-från 512
+från 513
 aldrig 500
 någon 481
 gillar 463
@@ -105,7 +105,7 @@ ta 378
 väldigt 377
 gjorde 376
 när 370
-två 362
+två 363
 En 360
 kunde 360
 Ni 356
@@ -146,7 +146,7 @@ bor 277
 ditt 276
 tid 275
 franska 275
-mina 272
+mina 271
 sina 265
 vid 262
 ligger 261
@@ -580,6 +580,7 @@ ringa 58
 stund 58
 era 58
 lärde 58
+döda 58
 olika 58
 viktigt 57
 rädda 57
@@ -591,7 +592,6 @@ mjölk 57
 frukost 57
 läste 57
 dödade 57
-döda 57
 minns 56
 sjunga 56
 lita 56
@@ -2381,6 +2381,7 @@ va 10
 handla 10
 Sedan 10
 skapade 10
+Flygplanet 10
 fakta 10
 Välj 10
 rörelse 10
@@ -2586,7 +2587,6 @@ mynt 9
 orkar 9
 ”Hur 9
 bygger 9
-Flygplanet 9
 brast 9
 noga 9
 såsom 9
@@ -4147,6 +4147,7 @@ ljusen 5
 uppäten 5
 hindrar 5
 intressen 5
+Kristus 5
 grejerna 5
 snarkade 5
 åttio 5
@@ -4867,7 +4868,6 @@ artist 4
 skiter 4
 hustru 4
 täcker 4
-Kristus 4
 växla 4
 tanden 4
 svamp 4
@@ -4885,6 +4885,7 @@ skog 4
 skylten 4
 bekymmer 4
 arbetstid 4
+apor 4
 Ljug 4
 sugen 4
 apelsinjuice 4
@@ -5782,6 +5783,7 @@ klubben 3
 turades 3
 Olyckor 3
 fåglarna 3
+vinflaska 3
 avlägsen 3
 ölglas 3
 omges 3
@@ -5970,7 +5972,6 @@ imponerande 3
 opålitlig 3
 yta 3
 moské 3
-apor 3
 snabbast 3
 juridik 3
 befordran 3
@@ -7761,6 +7762,7 @@ meningsfull 2
 moraliska 2
 vetenskapligt 2
 konstnärligt 2
+uppstånden 2
 kulor 2
 självständigt 2
 fritidsintresse 2
@@ -9996,5 +9998,3 @@ abstinensbesvär 2
 vanföreställningar 2
 Stöd 2
 trycket 2
-abstrakt 2
-formulering 2

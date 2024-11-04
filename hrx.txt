@@ -1,5 +1,5 @@
-is 384
-Ich 332
+is 385
+Ich 334
 Tom 212
 en 203
 hod 166
@@ -19,9 +19,9 @@ se 62
 Er 61
 waar 60
 wees 55
+Du 54
 un 53
 sein 53
-Du 53
 es 52
 Gott 51
 meer 49
@@ -40,9 +40,9 @@ zu 36
 Mein 35
 fer 34
 Aadler 34
+keen 33
 will 33
 Do 32
-keen 32
 dein 32
 gern 30
 dich 30
@@ -59,19 +59,19 @@ Glick 25
 Waromm 24
 bitte 24
 esse 23
+Host-du 23
 dem 23
 muss 23
 meh 23
 grien 23
-Host-du 22
 fiel 22
 Wo 22
 so 22
 schun 22
 gehn 21
 etwas 21
+noh 21
 Där 21
-noh 20
 Leit 20
 Mari 20
 Loss 19
@@ -156,6 +156,7 @@ aarem 10
 Mary 10
 musst 10
 gemach 10
+gess 10
 wo 10
 Wasser 10
 däd 10
@@ -167,7 +168,6 @@ brauche 9
 gester 9
 Hod 9
 nommol 9
-gess 9
 häd 9
 had 9
 Franzeesisch 9
@@ -263,6 +263,7 @@ Vaam-mer 6
 nimmand 6
 seid-der 6
 sie 6
+lieve 6
 jimand 6
 gestorreb 6
 for 6
@@ -320,7 +321,6 @@ schwäer 5
 ener 5
 So 5
 hod-der 5
-lieve 5
 krieerd 5
 glaabd 5
 soll 5
@@ -421,6 +421,7 @@ Sein 4
 gehob 4
 lerne 4
 Ent 4
+Frucht 4
 Kennd-der 4
 beise 4
 bis 4
@@ -432,6 +433,7 @@ gedun 4
 Auto 4
 essd 4
 Fang 4
+hasse 4
 weche 4
 Planet 4
 Äerdbeere 4
@@ -471,6 +473,7 @@ Kaltes 4
 streificher 4
 Blusong 4
 dëleteere 4
+Knuwloch 4
 hon's 3
 Mann 3
 Grosmutter 3
@@ -536,7 +539,6 @@ Ab 3
 Annase 3
 kost 3
 Abakatt 3
-Frucht 3
 Angst 3
 Mol 3
 genau 3
@@ -556,7 +558,6 @@ Bitte 3
 achte 3
 romm 3
 Is-es 3
-hasse 3
 Muskitt 3
 Laade 3
 Advogaate 3
@@ -2019,3 +2020,5 @@ Keller 1
 finnefte 1
 Stock 1
 Neinte 1
+Znuwloch 1
+riechst 1

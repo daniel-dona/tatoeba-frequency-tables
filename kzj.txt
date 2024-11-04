@@ -1,4 +1,4 @@
-do 3354
+do 3358
 zou 1200
 di 996
 no 905
@@ -6,16 +6,16 @@ i 819
 Tom 697
 ko 644
 ku 644
-o 590
+o 591
 id 474
 nu 446
 nopo 419
 Au 409
 doid 405
 om 370
-dii 368
+dii 369
 isido 363
-dau 351
+dau 353
 nga 314
 po 230
 au 229
@@ -24,7 +24,7 @@ zosido 198
 zi 191
 naku 187
 mantad 185
-diau 175
+diau 176
 Mary 172
 dogo 166
 kozo 162
@@ -41,9 +41,9 @@ iti 133
 mai 124
 ii 123
 nunu 123
+baino 121
 gia 121
-baino 120
-Aiso 117
+Aiso 118
 Kivaa 113
 tadau 106
 ka 106
@@ -67,8 +67,8 @@ Onu 64
 aiso 63
 toun 62
 maan 62
+timpu 61
 Mimang 61
-timpu 60
 buuk 59
 dino 59
 nung 57
@@ -158,13 +158,13 @@ Izou 29
 Kanou 28
 tasu 28
 Apatut 28
+hongon 28
 Mositi 28
 kakadazan 28
 vinasi 28
 mikot 27
 doino 27
 piipio 27
-hongon 27
 John 27
 Mugad 27
 avasi 27
@@ -226,6 +226,7 @@ taakanon 20
 za 20
 monoodo 20
 Sina 19
+ahal 19
 ingkuo 19
 ngoopod 19
 tavasi 19
@@ -239,7 +240,6 @@ kavasa 18
 sodop 18
 kokito 18
 Otopot 18
-ahal 18
 tinan 18
 mamain 18
 mokinongou 18
@@ -271,6 +271,7 @@ muhi 16
 tokito 16
 maza 16
 dimput 16
+Iisai 16
 susumikul 16
 mogium 16
 kopisoomo 16
@@ -286,7 +287,6 @@ voos 15
 kapal 15
 humozog 15
 monikid 15
-Iisai 15
 miaga' 15
 Manu 15
 duuhia 15
@@ -6765,3 +6765,7 @@ Panangkatahuadai 1
 Iziaha 1
 kinantakan 1
 Roberto 1
+Notimpaanan 1
+ugi 1
+sumoomo' 1
+pinoposogu' 1

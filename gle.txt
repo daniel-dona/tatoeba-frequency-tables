@@ -1,7 +1,7 @@
-an 669
+an 670
 a 638
-Tá 626
-mé 401
+Tá 627
+mé 402
 ag 394
 Is 334
 é 270
@@ -23,7 +23,7 @@ na 105
 do 99
 maith 98
 sin 93
-Bhí 90
+Bhí 91
 í 85
 Tomás 83
 Tom 82
@@ -233,6 +233,7 @@ m'athair 9
 breá 9
 dheartháir 9
 d'aois 9
+fuar 9
 chonaic 9
 Céard 9
 cheana 9
@@ -256,7 +257,6 @@ mhéad 8
 cúramach 8
 caife 8
 siopa 8
-fuar 8
 Tháinig 8
 eagla 8
 Tabharfaidh 8
@@ -331,6 +331,7 @@ ndearna 6
 thuigim 6
 siúl 6
 Londain 6
+oíche 6
 dúirt 6
 mall 6
 dhéanfaidh 6
@@ -388,7 +389,6 @@ bheag 5
 deacair 5
 nár 5
 Cathain 5
-oíche 5
 Ag 5
 ’Séard 5
 Lá 5
@@ -3029,3 +3029,4 @@ gcoinne-ne 1
 ngearain–óir 1
 sinne–ach 1
 Tiarna” 1
+fliuch 1

@@ -1,7 +1,7 @@
-a 1293
+a 1294
 que 1197
 de 1153
-o 1080
+o 1081
 é 799
 non 616
 un 564
@@ -9,7 +9,7 @@ O 558
 e 526
 A 458
 unha 440
-Non 431
+Non 432
 do 349
 en 327
 da 293
@@ -28,7 +28,7 @@ na 193
 á 190
 súa 186
 miña 182
-está 180
+está 181
 Os 173
 seu 164
 son 155
@@ -59,12 +59,12 @@ mañá 78
 el 78
 ou 78
 túa 78
-tempo 76
+tempo 77
 teu 76
 cando 76
 Teño 75
 día 74
-vida 72
+vida 73
 aquí 71
 nada 70
 tan 69
@@ -854,6 +854,7 @@ puiden 7
 oficina 7
 sequera 7
 tirar 7
+feita 7
 teña 7
 través 7
 paixón 7
@@ -993,7 +994,6 @@ aprende 6
 lago 6
 fermosas 6
 la 6
-feita 6
 beira 6
 atopou 6
 monte 6
@@ -2394,6 +2394,7 @@ dame 2
 saias 2
 Ver 2
 agradecido 2
+perdas 2
 ballón 2
 dicirme 2
 amas 2
@@ -4095,7 +4096,6 @@ salchichas 1
 axúdanos 1
 Estaríavos 1
 puidésedes 1
-perdas 1
 Esto 1
 tolería 1
 encargada 1
@@ -9729,3 +9729,4 @@ brillo 1
 encanto 1
 complexión 1
 Cantar 1
+Diso 1

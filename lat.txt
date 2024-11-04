@@ -1,15 +1,15 @@
-est 10197
+est 10198
 et 4795
 in 4542
 Thomas 3630
-non 3504
-sunt 2240
+non 3505
+sunt 2241
 ad 1752
 mihi 1624
 / 1569
 esse 1429
 sum 1374
-me 1315
+me 1316
 ut 1126
 quam 1040
 te 1029
@@ -32,7 +32,7 @@ eum 637
 habet 617
 qui 612
 erat 591
-a 576
+a 577
 meus 561
 sed 546
 Hoc 531
@@ -58,7 +58,7 @@ Mariam 371
 potest 369
 ei 366
 placet 361
-Deus 359
+Deus 360
 eam 355
 Quis 354
 sit 353
@@ -103,8 +103,8 @@ nomen 249
 fuit 247
 Mariae 247
 omnia 246
+Ad 245
 Qui 244
-Ad 244
 mei 243
 semper 240
 Pater 240
@@ -200,9 +200,9 @@ Ecce 145
 ibi 145
 anno 145
 De 144
+hora 144
 haec 144
 suo 143
-hora 143
 amo 142
 Nescio 142
 fecit 142
@@ -345,7 +345,9 @@ adhuc 92
 factum 92
 "Quid 92
 illi 92
+filius 91
 mala 91
+Dei 91
 multum 91
 bona 91
 contra 91
@@ -354,8 +356,6 @@ puella 91
 Linguam 91
 Australia 91
 sibi 91
-filius 90
-Dei 90
 patrem 90
 factus 90
 cras 90
@@ -716,6 +716,7 @@ bello 50
 animo 50
 Duo 49
 locum 49
+nostri 49
 filio 49
 cui 49
 ipsa 49
@@ -727,7 +728,6 @@ Thomam 49
 velle 49
 donec 49
 multi 48
-nostri 48
 felem 48
 Ab 48
 Germania 48
@@ -1217,6 +1217,7 @@ secundo 29
 amisi 29
 aperire 29
 duxit 29
+Iesus 29
 posset 29
 plorat 29
 Putasne 29
@@ -1268,7 +1269,6 @@ monte 28
 vera 28
 hīc 28
 lacte 28
-Iesus 28
 domino 28
 tuas 28
 sanguine 28
@@ -1541,6 +1541,7 @@ naves 23
 adest 23
 at 23
 Nam 23
+solem 23
 Amica 23
 desidero 23
 sella 23
@@ -1604,7 +1605,6 @@ dicis 22
 iste 22
 Verum 22
 est: 22
-solem 22
 visum 22
 neminem 22
 "Ubi 22
@@ -2270,6 +2270,7 @@ cordis 16
 solvit 16
 mirum 16
 stulti 16
+plerumque 16
 suus 16
 computatrum 16
 Age 16
@@ -2309,7 +2310,6 @@ Ferrum 15
 finis 15
 causas 15
 mutare 15
-horum 15
 trans 15
 certe 15
 Tempestas 15
@@ -2391,7 +2391,6 @@ vidisse 15
 cursum 15
 lacrimis 15
 pretium 15
-plerumque 15
 urbes 15
 nati 15
 nota 15
@@ -2476,6 +2475,7 @@ cornua 14
 decet 14
 nescire 14
 fame 14
+horum 14
 abundat 14
 Romanorum 14
 legunt 14
@@ -2767,6 +2767,7 @@ sciam 13
 misericordiam 13
 animadvertit 13
 puteum 13
+Desine 13
 Fecit 13
 Quin 13
 carcere 13
@@ -2993,7 +2994,6 @@ primogenitum 12
 Quos 12
 pinxit 12
 munera 12
-Desine 12
 pectora 12
 alicuius 12
 vigilat 12
@@ -3578,6 +3578,7 @@ Hīc 10
 Officium 10
 elephantes 10
 nuper 10
+versus 10
 clamore 10
 intravit 10
 aetatis 10
@@ -3686,6 +3687,7 @@ docent 9
 verus 9
 iure 9
 pares 9
+humani 9
 Austria 9
 fructibus 9
 Sicilia 9
@@ -3707,6 +3709,7 @@ mittam 9
 verbo 9
 interfectus 9
 cadet 9
+tergo 9
 quaedam 9
 tertiam 9
 gerunt 9
@@ -3729,6 +3732,7 @@ balneo 9
 Pila 9
 Panis 9
 aspiciunt 9
+emo 9
 Telehorasis 9
 factae 9
 Mensam 9
@@ -3934,7 +3938,6 @@ sciat 9
 officina 9
 nolit 9
 habebit 9
-versus 9
 populos 9
 more 9
 cognovi 9
@@ -4090,7 +4093,6 @@ Vobis 8
 Vae 8
 debita 8
 vadis 8
-humani 8
 alienum 8
 Caesaris 8
 mus 8
@@ -4134,7 +4136,6 @@ totus 8
 datur 8
 virtutem 8
 gens 8
-tergo 8
 pollicitus 8
 ipsorum 8
 Galli 8
@@ -4177,7 +4178,6 @@ Teniludio 8
 Duobus 8
 Pelliculam 8
 Taberna 8
-emo 8
 materia 8
 potiones 8
 vile 8
@@ -5005,6 +5005,7 @@ quaestio 7
 laedit 7
 fruges 7
 peior 7
+cucurri 7
 amaturum 7
 custodiunt 7
 tene 7
@@ -5404,6 +5405,7 @@ Calamo 6
 Pecuniae 6
 legisti 6
 frumento 6
+Florem 6
 collem 6
 fuimus 6
 glossario 6
@@ -5435,7 +5437,6 @@ Stellae 6
 oro 6
 revertetur 6
 emisse 6
-utrumque 6
 computatorio 6
 latum 6
 hebdomadis 6
@@ -5722,7 +5723,6 @@ nimia 6
 cave 6
 vitulum 6
 sonitu 6
-cucurri 6
 comitata 6
 comitatus 6
 nullas 6
@@ -6316,7 +6316,6 @@ Attulistine 5
 proficiscemini 5
 proficisceris 5
 appropinquat 5
-Florem 5
 Lepus 5
 consequitur 5
 vincet 5
@@ -6366,6 +6365,7 @@ audiunt 5
 molesta 5
 bestia 5
 principes 5
+utrumque 5
 heros 5
 antiquae 5
 scribitur 5
@@ -6697,6 +6697,7 @@ Societas 5
 Manere 5
 majores 5
 vicinus 5
+utramque 5
 osculatae 5
 amplexa 5
 scrīpsistis 5
@@ -7515,6 +7516,7 @@ medico 4
 Clara 4
 breves 4
 pirum 4
+nona 4
 Certamen 4
 cena 4
 Edimus 4
@@ -8086,7 +8088,6 @@ fisus 4
 fisa 4
 mavis 4
 telo 4
-utramque 4
 aderant 4
 Lūna 4
 ululat 4
@@ -9378,7 +9379,6 @@ uvam 3
 quadrata 3
 Advenitne 3
 Discite 3
-nona 3
 Sapo 3
 Magistrum 3
 peccavi 3
