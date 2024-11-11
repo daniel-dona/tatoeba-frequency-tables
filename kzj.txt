@@ -1,12 +1,12 @@
-do 3358
+do 3359
 zou 1200
-di 996
+di 997
 no 905
-i 819
+i 820
 Tom 697
+ku 646
 ko 644
-ku 644
-o 591
+o 592
 id 474
 nu 446
 nopo 419
@@ -69,7 +69,7 @@ toun 62
 maan 62
 timpu 61
 Mimang 61
-buuk 59
+buuk 60
 dino 59
 nung 57
 sondii 57
@@ -161,11 +161,11 @@ Apatut 28
 hongon 28
 Mositi 28
 kakadazan 28
+John 28
 vinasi 28
 mikot 27
 doino 27
 piipio 27
-John 27
 Mugad 27
 avasi 27
 Sami 27
@@ -253,6 +253,7 @@ Kinoingan 17
 tiinu 17
 kaantakan 17
 otumbazaan 17
+suat 17
 isai 17
 noikot 17
 ogumu 17
@@ -262,7 +263,6 @@ Kavasa' 17
 idsuang 16
 Nosoou 16
 tiso 16
-suat 16
 Ahansan 16
 mato 16
 dokutul 16
@@ -885,6 +885,7 @@ tinoodoon 5
 injin 5
 bogia 5
 pigogutan 5
+ama' 5
 mimpanau 5
 sumikul 5
 no' 5
@@ -1109,7 +1110,6 @@ koimang 4
 opuak 4
 Miingat-ingat 4
 pisaasavaan 4
-ama' 4
 komponi 4
 Pinosunudan 4
 Noumbak 4
@@ -1589,6 +1589,7 @@ bohizan 3
 Abazatan 3
 doiti' 3
 tobulou 3
+Onuon 3
 duunia 3
 sikul" 3
 dongotuvong 2
@@ -2486,7 +2487,6 @@ ina' 2
 pinoginuman 2
 kapatazon 2
 kopotutan 2
-Onuon 2
 Minanaat 2
 Nobutatai 2
 Naahom 2
@@ -6769,3 +6769,4 @@ Notimpaanan 1
 ugi 1
 sumoomo' 1
 pinoposogu' 1
+Suatan 1

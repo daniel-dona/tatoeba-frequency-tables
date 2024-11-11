@@ -12,7 +12,7 @@ go 210
 bhfuil 207
 An 207
 seo 192
-Ní 182
+Ní 183
 agam 172
 Níl 164
 liom 155
@@ -627,6 +627,7 @@ ball 3
 Gabh 3
 amhránaí 3
 chloisteáil 3
+ithim 3
 romhat 3
 Oíche 3
 D'fhreagair 3
@@ -852,7 +853,6 @@ Feicfidh 2
 Bhraith 2
 Maja 2
 Keuc 2
-ithim 2
 Fhrainc 2
 "Go 2
 agat" 2
@@ -3030,3 +3030,4 @@ ngearain–óir 1
 sinne–ach 1
 Tiarna” 1
 fliuch 1
+geilitín 1

@@ -1,6 +1,6 @@
 Tomas 814
 No 579
-das 537
+das 538
 no 464
 binom 443
 etosi 411
@@ -17,7 +17,7 @@ Kikod 149
 is 139
 olik 135
 ko 132
-at 129
+at 131
 Kisi 127
 vemo 113
 Vilob 104
@@ -39,7 +39,7 @@ golön 75
 El 75
 Kim 75
 adelo 74
-keli 72
+keli 73
 kisi 70
 binob 69
 vilob 69
@@ -50,11 +50,11 @@ binof 67
 buki 66
 kanob 65
 pükön 65
+valikosi 65
 Tikob 64
-valikosi 64
+vilol 60
 etos 60
 binoms 59
-vilol 59
 omis 59
 Labob 58
 nolob 58
@@ -70,10 +70,10 @@ nu 50
 flen 49
 kil 49
 binol 49
-moni 48
+moni 49
 tel 47
+te 47
 äbinom 47
-te 46
 obes 46
 tidel 46
 Tomasa 46
@@ -96,10 +96,10 @@ ola 40
 if 40
 labom 39
 odelo 39
+studön 39
 gudiko 39
 du 39
 tu 38
-studön 38
 Binos 38
 mödik 38
 kel 38
@@ -114,10 +114,10 @@ mödiko 36
 omik 35
 ad 35
 Binof 35
+Ya 35
 bovüli 35
 tieda 35
 löfom 34
-Ya 34
 kikod 34
 eli 33
 dogi 33
@@ -162,6 +162,7 @@ Kat 25
 of 25
 lilädön 25
 Hetob 25
+flentapüki 25
 nolol 25
 kömön 25
 tikob 25
@@ -175,7 +176,6 @@ nulik 24
 Spikol-li 24
 kanol 24
 Boston 24
-flentapüki 24
 oni 23
 mens 23
 obs 23
@@ -196,6 +196,7 @@ velatik 22
 fa 21
 sapik 21
 penön 21
+Ätikob 21
 Änolob 21
 ofik 20
 Mutol 20
@@ -207,7 +208,6 @@ timi 20
 Nedob 20
 Li-vilol 20
 Li-kanol 20
-Ätikob 20
 Flentapüki 20
 smalik 19
 spikön 19
@@ -218,6 +218,7 @@ Spelob 19
 domoi 19
 fikulik 19
 stenüdik 19
+Kiüp 19
 änolom 19
 utosi 19
 Buk 18
@@ -246,7 +247,6 @@ obinom 17
 hetom 17
 vilof 17
 lödom 17
-Kiüp 17
 malädik 17
 nen 17
 so 16
@@ -295,6 +295,7 @@ labof 14
 cem 14
 O 14
 jimatel 14
+nedobs 14
 fati 14
 nedol 14
 kanobs 14
@@ -320,7 +321,7 @@ dlinön 13
 bili 13
 dledom 13
 dunol 13
-nedobs 13
+labobs 13
 lödön 13
 nedob 13
 odunob 13
@@ -347,7 +348,6 @@ vom 12
 el 12
 nefikulik 12
 cif 12
-labobs 12
 sevob 12
 Si 11
 suno 11
@@ -472,6 +472,7 @@ nevifiko 8
 otosi 8
 Vob 8
 Ogolob 8
+Vilom 8
 Löfof 8
 äsagol 8
 Vilobs 8
@@ -530,7 +531,6 @@ voms 7
 dub 7
 esavom 7
 labon 7
-Vilom 7
 yufom 7
 äpükom 7
 egelo 7
@@ -1050,6 +1050,7 @@ Drinöd 3
 Änifos 3
 fota 3
 Logobs 3
+cöc 3
 Kanof 3
 nifi 3
 äfunom 3
@@ -1527,7 +1528,6 @@ sudik 2
 beris 2
 gretikis 2
 pükavan 2
-cöc 2
 büfü 2
 ävedom 2
 jimatan 2
@@ -1870,6 +1870,7 @@ Beginolöd 2
 efögetob 2
 benen 2
 ämutom 2
+cöci 2
 äsükol 2
 sükob 2
 kukeli 2
@@ -4563,7 +4564,6 @@ Olilons 1
 Olilofs 1
 Lennon 1
 baledik 1
-cöci 1
 naf 1
 Li-oselol 1
 Fidoms 1
@@ -4785,3 +4785,5 @@ kömomöd 1
 viken 1
 jiviken 1
 hiviken 1
+pibumom 1
+ibumon 1

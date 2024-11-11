@@ -1,22 +1,22 @@
-a 1294
+a 1296
 que 1197
 de 1153
-o 1081
-é 799
-non 616
-un 564
-O 558
+o 1082
+é 801
+non 618
+un 565
+O 559
 e 526
 A 458
 unha 440
-Non 432
+Non 433
 do 349
 en 327
 da 293
 os 281
 máis 271
 para 259
-as 236
+as 237
 no 236
 meu 229
 ao 224
@@ -28,7 +28,7 @@ na 193
 á 190
 súa 186
 miña 182
-está 181
+está 182
 Os 173
 seu 164
 son 155
@@ -36,8 +36,8 @@ Ela 152
 ten 146
 con 144
 moi 133
-É 132
-me 125
+É 133
+me 126
 dos 125
 Que 116
 como 110
@@ -55,9 +55,9 @@ seus 83
 As 83
 todo 82
 pola 80
+ou 79
 mañá 78
 el 78
-ou 78
 túa 78
 tempo 77
 teu 76
@@ -65,7 +65,7 @@ cando 76
 Teño 75
 día 74
 vida 73
-aquí 71
+aquí 72
 nada 70
 tan 69
 polo 67
@@ -96,7 +96,7 @@ home 56
 inglés 56
 Estou 56
 sempre 55
-xa 54
+xa 55
 pode 53
 Cando 53
 lingua 53
@@ -111,15 +111,15 @@ mellor 47
 vez 47
 Son 46
 coa 46
+aos 46
+dous 45
 cartos 45
 co 45
 están 45
-aos 45
+quen 45
 pouco 44
 algo 44
 eu 44
-dous 44
-quen 44
 che 43
 dúas 43
 coche 43
@@ -161,12 +161,12 @@ todos 36
 días 35
 quero 35
 En 35
+Deus 35
 estou 35
 moitas 34
 agora 34
 moitos 34
 falar 34
-Deus 34
 Está 34
 tes 34
 ata 33
@@ -177,6 +177,7 @@ antes 32
 De 32
 nunca 32
 persoas 32
+onde 31
 nome 31
 muller 31
 can 31
@@ -186,7 +187,6 @@ despois 31
 corazón 31
 verdade 30
 cousas 30
-onde 30
 facelo 30
 pra 30
 gran 30
@@ -247,6 +247,7 @@ frío 23
 cinco 23
 Sempre 23
 mesa 23
+ninguén 23
 música 23
 amigos 23
 vivir 23
@@ -260,7 +261,6 @@ momento 22
 porta 22
 contra 22
 tren 22
-ninguén 22
 cousa 22
 ó 22
 grande 22
@@ -268,6 +268,7 @@ ningún 22
 difícil 21
 Só 21
 onte 21
+sabe 21
 árbore 21
 Vai 21
 cama 21
@@ -275,6 +276,7 @@ francés 21
 Gústame 21
 axuda 21
 Tatoeba 21
+nenos 21
 alto 21
 di 21
 María 21
@@ -283,12 +285,10 @@ fixo 20
 morreu 20
 Vou 20
 quere 20
-sabe 20
 erros 20
 nova 20
 carta 20
 Parece 20
-nenos 20
 dar 20
 pais 20
 fermosa 20
@@ -430,6 +430,7 @@ Estás 14
 forma 14
 ha 14
 queres 14
+doutor 14
 rei 14
 idiomas 14
 canso 13
@@ -466,7 +467,6 @@ parece 13
 exame 13
 roupa 13
 soño 13
-doutor 13
 rapaza 13
 lonxe 13
 cuarto 13
@@ -579,6 +579,7 @@ pequena 10
 sentido 10
 mellores 10
 follas 10
+primeira 10
 había 10
 lado 10
 Cantos 10
@@ -639,7 +640,6 @@ moita 9
 América 9
 papel 9
 Unidos 9
-primeira 9
 completamente 9
 significa 9
 esquina 9
@@ -650,6 +650,7 @@ volta 9
 dicionario 9
 catro 9
 axiña 9
+causa 9
 dentes 9
 Dáme 9
 carne 9
@@ -802,6 +803,7 @@ coñecer 7
 Benvido 7
 mágoa 7
 perigo 7
+Francia 7
 logo 7
 gaña 7
 prezo 7
@@ -814,7 +816,6 @@ campo 7
 sábado 7
 humanos 7
 responder 7
-causa 7
 Si 7
 heroe 7
 ve 7
@@ -957,6 +958,7 @@ hotel 6
 Ken 6
 nese 6
 teñas 6
+perder 6
 marches 6
 veciños 6
 texto 6
@@ -1037,6 +1039,7 @@ resultado 5
 deben 5
 xaponeses 5
 pobo 5
+peso 5
 praia 5
 perda 5
 chamada 5
@@ -1084,7 +1087,6 @@ crer 5
 vaias 5
 ataque 5
 inimigo 5
-Francia 5
 demais 5
 amarelas 5
 países 5
@@ -1141,7 +1143,6 @@ enriba 5
 gañar 5
 maiores 5
 ningures 5
-perder 5
 dou 5
 contar 5
 semella 5
@@ -1276,7 +1277,6 @@ nevar 4
 proxecto 4
 fogar 4
 Reino 4
-peso 4
 talento 4
 virtude 4
 norte 4
@@ -2956,6 +2956,7 @@ provocar 2
 Podemos 2
 campás 2
 construción 2
+hóspede 2
 vasoira 2
 vantaxe 2
 rañaceos 2
@@ -3070,6 +3071,7 @@ corpos 2
 Adoitaba 2
 comprou 2
 enteiro 2
+películas 2
 30 2
 dramático 2
 compañeiro 2
@@ -3456,6 +3458,7 @@ mestura 2
 fermosos 2
 loita 2
 desgrazas 2
+gustan 2
 barrio 2
 recursos 2
 xustiza 2
@@ -3635,6 +3638,7 @@ prata 2
 inoxidable 2
 Coma 2
 Velaí 2
+Mirade 2
 oír 2
 raposos 2
 alma: 2
@@ -3651,6 +3655,7 @@ Dido 2
 chamamos 2
 Mente 2
 Divina 2
+desexado 2
 compadres 2
 José 2
 respectivamente 2
@@ -5808,7 +5813,6 @@ destruíu 1
 escosistema 1
 especiais 1
 chofer 1
-hóspede 1
 varre 1
 regaloume 1
 puxese 1
@@ -6137,7 +6141,6 @@ subornos 1
 cadáveres 1
 sobresaíntes 1
 Decidimos 1
-películas 1
 Afeccionados 1
 pelexaron 1
 Desexaba 1
@@ -7896,7 +7899,6 @@ garantir 1
 quéreme 1
 rodeada 1
 papagaio 1
-gustan 1
 sementes 1
 xirasol 1
 Marrocos 1
@@ -9366,7 +9368,6 @@ xúrovos: 1
 espertedes 1
 deixade 1
 acordar 1
-Mirade 1
 saltando 1
 virtudes 1
 frear 1
@@ -9694,7 +9695,6 @@ superior 1
 aproxímanos 1
 inexacta 1
 sacudiu 1
-desexado 1
 padriños 1
 madriñas 1
 compadre 1
@@ -9730,3 +9730,7 @@ encanto 1
 complexión 1
 Cantar 1
 Diso 1
+inmanente 1
+recomendounos 1
+Esconderémonos 1
+dobradas 1

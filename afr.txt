@@ -1,7 +1,7 @@
 nie 1232
-is 1030
-het 958
-Ek 943
+is 1031
+het 959
+Ek 945
 die 735
 'n 588
 Tom 437
@@ -15,14 +15,14 @@ dit 272
 Die 270
 vir 252
 in 246
-ek 222
+ek 224
 was 216
 Hy 209
-sal 192
+sal 193
 Ons 191
 gaan 172
 Dit 160
-wil 157
+wil 158
 Jy 156
 kan 142
 ons 142
@@ -35,14 +35,14 @@ moet 122
 op 115
 baie 115
 hierdie 109
-doen 107
+doen 108
 wees 106
 haar 103
 oor 103
 hom 92
 My 91
 hy 90
-Wat 87
+Wat 88
 dat 87
 weet 80
 as 74
@@ -97,9 +97,9 @@ gee 36
 twee 34
 deur 34
 Hoekom 34
+hê 33
 gesê 33
 Wie 33
-hê 32
 kon 31
 nodig 31
 laat 31
@@ -147,6 +147,7 @@ hond 22
 goeie 22
 begin 22
 seker 22
+kry 22
 seun 21
 vriend 21
 lewe 21
@@ -155,7 +156,6 @@ beter 21
 melk 21
 regtig 21
 gemaak 21
-kry 21
 kat 20
 pa 20
 gister 20
@@ -199,6 +199,7 @@ vriende 16
 saam 16
 Kom 16
 benodig 16
+geleer 15
 vrou 15
 wêreld 15
 U 15
@@ -214,7 +215,6 @@ heeltemal 15
 enigiets 15
 agter 14
 gekoop 14
-geleer 14
 Japan 14
 alleen 14
 ou 14
@@ -240,6 +240,7 @@ eerste 13
 speel 13
 motor 13
 Praat 13
+Engels 13
 taal 13
 skool 13
 dans 13
@@ -260,7 +261,6 @@ dalk 13
 hulp 12
 verkeerd 12
 staan 12
-Engels 12
 trots 12
 klein 12
 wie 12
@@ -3598,3 +3598,6 @@ geantwoord 1
 wurm 1
 gesnuif 1
 snuif 1
+aanlyn 1
+Ekke 1
+verbysterd 1

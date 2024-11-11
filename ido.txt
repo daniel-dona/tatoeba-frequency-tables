@@ -1,8 +1,8 @@
-esas 2943
+esas 2952
 Me 2346
 la 2269
 ne 1358
-Tom 1106
+Tom 1108
 La 1042
 me 897
 tu 887
@@ -11,7 +11,7 @@ es 757
 havas 614
 en 614
 Il 480
-Ni 443
+Ni 444
 vu 442
 ke 428
 di 406
@@ -47,7 +47,7 @@ Ne 165
 prizas 164
 bela 157
 el 152
-ol 151
+ol 152
 parolas 144
 Qua 138
 bezonas 136
@@ -162,12 +162,12 @@ kredas 50
 on 49
 habitas 49
 kafeo 49
+Deo 49
 Kande 48
 morge 48
+kompris 48
 En 48
-Deo 48
 laboro 47
-kompris 47
 ja 47
 ka 46
 urbo 46
@@ -447,6 +447,7 @@ lito 17
 rivero 17
 nigra 17
 De 17
+ucelo 17
 familio 17
 kurta 17
 shui 17
@@ -462,7 +463,6 @@ amba 16
 instruktisto 16
 yunini 16
 uzas 16
-ucelo 16
 questiono 16
 larja 16
 Onu 16
@@ -753,6 +753,7 @@ sucesas 10
 askoltas 10
 perdita 10
 forsan 10
+Usani 10
 malodoras 10
 Rusia 10
 viri 10
@@ -1697,7 +1698,6 @@ laboros 4
 livar 4
 furtas 4
 tasko 4
-Usani 4
 voluntez 4
 cent 4
 medikamento 4
@@ -1762,6 +1762,7 @@ rozo 4
 banano 4
 ipse 4
 Klozez 4
+stulto 4
 saltas 4
 koncernas 4
 Ricardo 4
@@ -1784,6 +1785,7 @@ parlamentala 4
 militarala 4
 kulpo 4
 Aquon 4
+naiva 4
 jemelo 4
 armi 4
 Frapez 4
@@ -2299,7 +2301,6 @@ Kato 3
 akuzas 3
 Emily 3
 klareso 3
-stulto 3
 furtisto 3
 sufras 3
 paradizo 3
@@ -2372,7 +2373,6 @@ Brosar 3
 kario 3
 habitos 3
 medikamenti 3
-naiva 3
 kliento 3
 fantomo 3
 mastikas 3
@@ -2630,6 +2630,7 @@ Al 2
 pagar 2
 dekoris 2
 Yunulo 2
+kredema 2
 lojis 2
 agus 2
 radiofonilo 2
@@ -2665,6 +2666,7 @@ Esus 2
 uzata 2
 Fidez 2
 Kontre 2
+stulti 2
 kontree 2
 Hispaniani 2
 trotar 2
@@ -4225,7 +4227,6 @@ progreso 1
 tardeskis 1
 panda 1
 timigas 1
-kredema 1
 motivi 1
 renkontras 1
 omnamonate 1
@@ -4356,7 +4357,6 @@ vizitabus 1
 stulteso 1
 kuracanta 1
 herbi 1
-stulti 1
 venenagis 1
 kuregas 1
 kondicioni 1
@@ -8612,3 +8612,7 @@ pultro 1
 ostentas 1
 adyunti 1
 helpanti 1
+stupidi 1
+needukita 1
+naivegi 1
+naivego 1

@@ -1,4 +1,4 @@
-ir 2211
+ir 2212
 Es 1351
 Toms 716
 ka 621
@@ -18,7 +18,7 @@ man 317
 tas 299
 Tas 291
 kā 283
-uz 276
+uz 277
 ko 264
 ļoti 261
 Viņa 228
@@ -26,14 +26,14 @@ kas 209
 Mēs 196
 esmu 193
 mani 190
-lai 179
+lai 180
 Tu 171
 tev 162
 tik 156
 savu 156
 jūs 154
 tā 150
-daudz 142
+daudz 143
 bet 141
 būt 140
 var 138
@@ -64,9 +64,9 @@ labi 84
 arī 83
 teica 82
 kad 75
+Mums 74
 mums 73
 Jūs 73
-Mums 73
 vienmēr 72
 Kas 72
 nevaru 72
@@ -264,6 +264,7 @@ Dzīve 21
 jābūt 21
 pirms 21
 Uz 20
+laika 20
 angļu 20
 valoda 20
 pasaulē 20
@@ -278,7 +279,6 @@ kuru 20
 patiešām 20
 Kādēļ 20
 kļūst 20
-laika 19
 Neviens 19
 dzīvoju 19
 naudu 19
@@ -378,6 +378,7 @@ Beidz 15
 mežā 15
 izmanto 15
 priekšroku 15
+pietiekami 15
 Un 15
 tiem 15
 Tam 15
@@ -407,7 +408,6 @@ redzējis 14
 it 14
 vajadzīgs 14
 vienīgais 14
-pietiekami 14
 mēdzu 14
 starp 14
 īpaši 14
@@ -1178,6 +1178,7 @@ aizmirsa 5
 runājam 5
 veltīgi 5
 pārdeva 5
+vilcienu 5
 mēģinu 5
 nāca 5
 kalnu 5
@@ -1479,7 +1480,6 @@ viegls 4
 pagatavoja 4
 līmenis 4
 pēdējo 4
-vilcienu 4
 izmantoja 4
 priecājos 4
 lielisks 4

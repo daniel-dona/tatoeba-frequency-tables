@@ -76,7 +76,7 @@ Kuinka 1029
 sinulle 1028
 Jos 1026
 Sinä 1025
-häntä 1021
+häntä 1023
 jos 1016
 jo 967
 Ei 963
@@ -699,6 +699,7 @@ sellaista 120
 eri 120
 minkä 120
 katsoa 120
+Näytät 120
 oon 120
 kolmen 119
 saakka 119
@@ -706,7 +707,6 @@ syytä 119
 jättää 119
 alle 119
 lause 119
-Näytät 119
 naimisissa 119
 tahtoi 119
 todellakin 118
@@ -1333,6 +1333,7 @@ kuumaa 63
 puu 63
 Millainen 63
 sietää 63
+kohti 63
 eräs 63
 tein 63
 näitä 63
@@ -1374,7 +1375,6 @@ Koko 61
 hirveän 61
 aamiaista 61
 Joskus 61
-kohti 61
 puolestani 61
 lintu 61
 elokuva 61
@@ -7824,6 +7824,7 @@ tarkempi 10
 vierailustanne 10
 Juokaa 10
 seonnut 10
+Juokse 10
 jäätyi 10
 tarviin 10
 malta 10
@@ -8606,7 +8607,6 @@ kuukausia 9
 pinta-ala 9
 Paksun 9
 oleta 9
-Juokse 9
 mansikoista 9
 possu 9
 Maata 9
@@ -9647,6 +9647,7 @@ Susanna 8
 varautunut 8
 kreikkalainen 8
 käsittää 8
+Juoskaa 8
 tuunata 8
 kysymykseeni 8
 älyttömän 8
@@ -9997,4 +9998,3 @@ puutarhasta 7
 yskä 7
 lähteestä 7
 mustasta 7
-mainetta 7

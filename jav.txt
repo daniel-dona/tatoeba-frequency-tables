@@ -1,5 +1,5 @@
-Aku 154
-ora 131
+Aku 155
+ora 132
 Tom 112
 sing 69
 iku 49
@@ -58,6 +58,7 @@ gawé 12
 Mèri 12
 punika 11
 luwih 11
+gelem 11
 ngomong 10
 wonten 10
 ngerti 10
@@ -67,14 +68,13 @@ ya 10
 Kowe 10
 Apa 10
 sapa 10
-gelem 10
+dadi 10
 Panjenengan 9
 kula 9
 ngono 9
 Iku 9
 teka 9
 awak 9
-dadi 9
 kowe 8
 isih 8
 boten 8
@@ -232,6 +232,7 @@ Wong 3
 wingi 3
 Jakarta 3
 siji 3
+anyar 3
 kakèhan 3
 ndelok 3
 tinimbang 3
@@ -364,7 +365,6 @@ tanggal 2
 gedhe 2
 Hokkaido 2
 sampun 2
-anyar 2
 daktuku 2
 Sesuk 2
 banter 2
@@ -507,10 +507,12 @@ Muhammad 2
 dolan 2
 miber 2
 Omah 2
+bojomu 2
 Turua 2
 Dhuwité 2
 nyetir 2
 montor 2
+tah 2
 Tanganku 2
 kangen 1
 kakus 1
@@ -1734,7 +1736,6 @@ dicokot 1
  1
 ꦒꦼꦤꦺꦪꦝꦺꦮꦺꦏ꧀ꦏꦺꦲꦉꦥ꧀ꦏꦽꦗꦤꦁꦏꦺꦤꦺ 1
 ꦤꦁꦏꦺꦤꦺꦩꦺꦃꦲꦺꦴꦫꦠꦲꦸꦲꦸꦢꦤ꧀꧈ 1
-bojomu 1
 ꦲꦏꦸꦲꦶꦏꦶꦧꦺꦴꦗꦺꦴꦩꦸ 1
 ꦲꦗꦩꦠꦶ 1
 ngriki 1
@@ -1850,7 +1851,6 @@ Asuné 1
 ꦲꦼꦤ꧀ꦢꦁ 1
 ꦔꦥꦸꦤ꧀ꦠꦼꦤ꧀ 1
 Temen 1
-tah 1
 ꦠꦼꦩꦼꦤ꧀ꦠꦃ 1
 Tangia 1
 ꦠꦔꦶꦪ 1
@@ -1919,3 +1919,6 @@ dakgawa 1
 ꦲꦏꦸꦭꦲꦶꦂꦤꦼꦩ꧀ꦲꦺꦮꦸꦠꦲꦸꦤ꧀ꦏꦥꦸꦁꦏꦸꦂ꧉ 1
 Panganan 1
 ꦥꦔꦤꦤ꧀ꦮꦂꦤꦲꦧꦁꦲꦶꦏꦶꦗꦼꦤꦼꦁꦔꦺꦲꦥ 1
+Omahmu 1
+ꦲꦺꦴꦩꦃꦩꦸꦲꦚꦂꦠꦃ 1
+ꦲꦏꦸꦲꦺꦴꦫꦒꦼꦊꦩ꧀ꦢꦢꦶꦧꦺꦴꦗꦺꦴꦩꦸ꧉ 1

@@ -1,4 +1,4 @@
-on 1517
+on 1519
 Ma 924
 ei 734
 Tom 615
@@ -86,12 +86,12 @@ hästi 38
 raha 38
 kaks 38
 maja 38
+Kõik 37
 kes 37
 ilus 37
 tahab 37
 prantsuse 37
 koer 37
-Kõik 36
 vaja 35
 koju 35
 kas 35
@@ -302,6 +302,7 @@ teil 13
 puu 13
 kohvi 13
 vanem 13
+elu 13
 korda 13
 õigus 13
 nägin 13
@@ -325,7 +326,6 @@ all 12
 vend 12
 On 12
 lahti 12
-elu 12
 meile 12
 keeles 12
 kooli 12
@@ -530,6 +530,7 @@ sõi 7
 näed 7
 näe 7
 neli 7
+üheksa 7
 söönud 7
 peame 7
 laulja 7
@@ -601,7 +602,6 @@ toas 6
 järgmisel 6
 väärt 6
 kaheksa 6
-üheksa 6
 Mees 6
 ju 6
 Tundub 6
@@ -2262,6 +2262,7 @@ allkorrusel 2
 nuga 2
 hilines 2
 nõustusid 2
+seotud 2
 bussis 2
 jõudmine 2
 rongijaama 2
@@ -5061,7 +5062,6 @@ tennisemängija 1
 pidime 1
 Kuulsin 1
 mõrvaga 1
-seotud 1
 Kedagi 1
 toimus 1
 kurtnud 1
@@ -6714,3 +6714,5 @@ Moldova 1
 Kaasan 1
 Tatarstani 1
 karikaturistina 1
+Kassidel 1
+kõigega 1

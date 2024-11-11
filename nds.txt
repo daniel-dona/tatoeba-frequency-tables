@@ -1,14 +1,14 @@
 Ik 3220
-is 3216
+is 3217
 dat 2796
 en 2520
-de 2483
+de 2484
 nich 1950
 du 1692
 hett 1610
-He 1476
-in 1455
-De 1402
+He 1477
+in 1456
+De 1404
 to 1324
 Dat 1279
 heff 1260
@@ -23,9 +23,9 @@ as 772
 op 716
 di 665
 em 657
-an 652
+an 653
 na 641
-mien 618
+mien 620
 Tom 611
 sünd 610
 wat 548
@@ -187,8 +187,8 @@ Naam 82
 Dokter 82
 Maal 82
 jo 81
+liggt 81
 weren 81
-liggt 80
 Nacht 80
 hebben 79
 bet 79
@@ -276,9 +276,9 @@ schull 56
 funnen 56
 ahn 55
 jemehr 55
+tohuus 55
 eet 55
 groten 55
-tohuus 54
 All 54
 lever 54
 Stünnen 54
@@ -822,6 +822,7 @@ Bill 17
 woans 17
 Mantel 17
 Fehler 17
+söken 17
 sneet 17
 hunnerd 17
 Voss 17
@@ -853,7 +854,6 @@ Avendeten 16
 Süstern 16
 Büx 16
 Slötels 16
-söken 16
 Üm 16
 sülve 16
 bestellt 15
@@ -1057,6 +1057,7 @@ Daak 12
 Wulken 12
 dubbelt 12
 Studenten 12
+Tuun 12
 fleegt 12
 Navers 12
 Koppwehdaag 12
@@ -1134,7 +1135,6 @@ Muus 11
 Ohren 11
 kreeg 11
 Sushi 11
-Tuun 11
 Saterdag 11
 Student 11
 Snackt 11
@@ -1312,6 +1312,7 @@ Lehren 9
 Süden 9
 markt 9
 Smack 9
+Achter 9
 Iesland 9
 slaap 9
 lagen 9
@@ -1402,7 +1403,6 @@ Bruuk 8
 nachtens 8
 Koffie 8
 König 8
-Achter 8
 Aven 8
 raden 8
 föffteihn 8
@@ -1938,6 +1938,7 @@ Arger 5
 Hehn 5
 gröttsten 5
 los 5
+lannt 5
 Rull 5
 Dööts 5
 Gröön 5
@@ -2010,6 +2011,7 @@ kööp 5
 bröök 5
 Kummst 5
 oppassen 5
+wassen 5
 mehrsten 5
 Doos 5
 Föhrst 5
@@ -2257,7 +2259,6 @@ Vörhang 4
 Löög 4
 Söögdeerten 4
 Höhner 4
-lannt 4
 Köpp 4
 Buuk 4
 T-Shirt 4
@@ -2366,7 +2367,6 @@ Ossen 4
 schreen 4
 Harrst 4
 wees 4
-wassen 4
 Peper 4
 Aavt 4
 Middweken 4
@@ -2591,6 +2591,7 @@ Gesetten 3
 Lojban 3
 Eek 3
 Dutt 3
+dwars 3
 Gistern 3
 ´n 3
 Löpel 3
@@ -3339,7 +3340,6 @@ Summ 2
 Hüüt 2
 Speelt 2
 Emma 2
-dwars 2
 Heini 2
 Quarkbüdel 2
 gaan 2
@@ -4373,6 +4373,7 @@ Füürwehr 2
 Geboortsdagsparty 2
 Buurhoff 2
 reine 2
+Kattekers 2
 Löper 2
 Füürwehrfroo 2
 bevör 2
@@ -7878,7 +7879,6 @@ mucksch 1
 alltoveel 1
 Venen 1
 Kyoko 1
-Kattekers 1
 WoW 1
 Jedi 1
 Stalens 1
