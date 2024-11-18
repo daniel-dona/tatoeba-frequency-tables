@@ -39,7 +39,7 @@ va 28
 ney 26
 A 25
 Mary 25
-Mi 23
+Mi 24
 bé 22
 wazena 21
 di 20
@@ -158,6 +158,7 @@ pêro 7
 çend 7
 şırê 7
 Şıma 7
+da 7
 kotî 7
 nîyo 7
 Înan 7
@@ -183,7 +184,6 @@ Tomdo 6
 na 6
 germ 6
 serre 6
-da 6
 ciwîyenê 6
 bibî 6
 nêkena 6
@@ -736,6 +736,7 @@ bar 2
 kole 2
 çîyêk 2
 tene 2
+werdî 2
 vîr 2
 rehet 2
 Samî 2
@@ -1943,7 +1944,6 @@ areqneno 1
 Nêzdîyê 1
 dolabê 1
 çî-mîyê 1
-werdî 1
 amê 1
 Şaristanê 1
 Çewlîgî 1
@@ -2842,3 +2842,4 @@ Krakow 1
 Polonya 1
 asnawe 1
 dindanê 1
+sîparîşê 1

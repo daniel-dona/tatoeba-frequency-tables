@@ -1,20 +1,20 @@
-do 3359
+do 3360
 zou 1200
-di 997
+di 998
 no 905
-i 820
+i 821
 Tom 697
 ku 646
 ko 644
 o 592
 id 474
-nu 446
+nu 447
 nopo 419
 Au 409
 doid 405
 om 370
 dii 369
-isido 363
+isido 364
 dau 353
 nga 314
 po 230
@@ -29,9 +29,9 @@ Mary 172
 dogo 166
 kozo 162
 Au' 159
+tokou 158
 tuhun 158
 daa 158
-tokou 157
 zikoi 153
 kumaa 152
 iho 139
@@ -53,7 +53,7 @@ ginavo 99
 nga' 98
 diho 97
 ih 95
-disido 91
+disido 92
 doiho 88
 i' 87
 doiti 85
@@ -152,6 +152,7 @@ I 29
 songkuo 29
 dotokou 29
 haid 29
+John 29
 mongoi 29
 minsingiho 29
 Izou 29
@@ -161,7 +162,6 @@ Apatut 28
 hongon 28
 Mositi 28
 kakadazan 28
-John 28
 vinasi 28
 mikot 27
 doino 27
@@ -300,6 +300,7 @@ soosonguhun 15
 dotiho 15
 makan 14
 kosuvabon 14
+kahapas 14
 Iziau 14
 zina 14
 abal 14
@@ -331,7 +332,6 @@ Noihaan 14
 po' 14
 tombohog 13
 pokionuan 13
-kahapas 13
 kavagu 13
 Nokito 13
 takanon 13
@@ -365,6 +365,7 @@ nakaanu 13
 tia 13
 Kakaal 13
 pogiuman 13
+Bohizan 13
 pagapon 13
 tapa 12
 momohi 12
@@ -388,7 +389,6 @@ Doiti 12
 aino 12
 tunizon 12
 sumakit 12
-Bohizan 12
 tavan 11
 Onuai 11
 totuvong 11
@@ -497,6 +497,7 @@ Zisido 9
 katapatan 9
 mongingia 9
 sumuang 9
+kalabau 9
 kosusaan 9
 dazanak 9
 modop 9
@@ -551,7 +552,6 @@ ngoduvo 8
 popoiho 8
 kataan 8
 tontohu 8
-kalabau 8
 Songuhun 8
 kakaal 8
 Nombo 8
@@ -642,6 +642,7 @@ Amerika 6
 noo 6
 bosikal 6
 tiih 6
+Kopisoomo 6
 pointopot 6
 Atangkangau 6
 Kopivosian 6
@@ -757,7 +758,6 @@ onuan 5
 toiko 5
 Guhion 5
 koiso 5
-Kopisoomo 5
 kosusa 5
 vatu 5
 Minuhi 5
@@ -917,6 +917,7 @@ Koongou 4
 Malazu 4
 sajaam 4
 luti 4
+pinsil 4
 pisuvazan 4
 tumingkod 4
 pakakalaja 4
@@ -1166,7 +1167,6 @@ kabang 3
 tavanus 3
 nouzan 3
 kogompit 3
-pinsil 3
 Titiongoi 3
 nohiivan 3
 umohig 3
@@ -1930,6 +1930,7 @@ Nara 2
 tudukon 2
 intangan 2
 minogovit 2
+Oviton 2
 Mininsud 2
 potihombuso 2
 nadadang 2
@@ -2305,6 +2306,7 @@ pomungaan 2
 nokosoomo 2
 Popobuzu 2
 dii' 2
+poposohimbou 2
 bohungkitas 2
 nopupusan 2
 "Kotohuadan" 2
@@ -3621,7 +3623,6 @@ sampaapaping 1
 mananalasai 1
 suminimba 1
 tuminangkangau 1
-Oviton 1
 songamba 1
 Ponongkibooso 1
 monguntai 1
@@ -5093,7 +5094,6 @@ mamahapas 1
 Potontuo' 1
 Poihoo' 1
 Pohombuso' 1
-poposohimbou 1
 pasport 1
 mogindad 1
 ginunting 1

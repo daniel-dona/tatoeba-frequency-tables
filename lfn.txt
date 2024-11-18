@@ -1,11 +1,11 @@
-es 9225
+es 9227
 ia 7194
 la 6720
-un 4604
-de 4494
+un 4605
+de 4495
 Me 3941
 Tom 3106
-no 2828
+no 2830
 ла 2802
 ес 2732
 a 2382
@@ -14,7 +14,7 @@ La 2308
 en 2012
 де 1874
 tu 1782
-me 1727
+me 1728
 ave 1648
 El 1462
 e 1416
@@ -36,17 +36,17 @@ Nos 858
 lo 854
 per 848
 esta 780
-mea 773
+mea 774
 Esta 766
 cual 753
 Tu 717
 vole 684
-con 663
+con 664
 ме 662
 ту 656
 е 596
 Lo 594
-tua 575
+tua 576
 nos 567
 аве 564
 fa 562
@@ -66,7 +66,7 @@ come 416
 sur 415
 debe 406
 dise 405
-parla 399
+parla 400
 Еске 399
 Los 398
 alga 386
@@ -79,12 +79,12 @@ ama 362
 Cual 357
 мулте 355
 плу 351
+acel 349
 vade 348
 tota 348
-acel 348
 меа 345
 los 336
-No 329
+No 330
 vos 327
 vide 323
 Un 317
@@ -109,8 +109,8 @@ Acel 263
 asi 235
 persones 235
 jua 233
+padre 232
 воле 232
-padre 231
 bela 229
 lingua 229
 vera 225
@@ -158,8 +158,8 @@ Ci 162
 se 162
 du 161
 он 161
+nunca 159
 aida 158
-nunca 158
 dia 158
 aora 157
 tempo 157
@@ -299,8 +299,8 @@ cualce 83
 пенса 83
 fasil 82
 atenta 81
+Dio 81
 sala 80
-Dio 80
 акел 80
 – 79
 лабора 79
@@ -365,11 +365,11 @@ deside 65
 ом 65
 enebriada 65
 pluve 64
+esiste 64
 enfante 64
 скриве 64
 пос 64
 simple 63
-esiste 63
 анкора 63
 тра 63
 шаке 63
@@ -578,6 +578,8 @@ re 41
 velia 40
 mostra 40
 colie 40
+denova 40
+stupida 40
 vola 40
 strana 40
 umanas 40
@@ -586,9 +588,7 @@ Australia 40
 креде 40
 гато 40
 sposo 39
-denova 39
 Aora 39
-stupida 39
 sonia 39
 Xina 39
 матина 39
@@ -859,8 +859,10 @@ abrida 26
 отел 26
 ela 26
 boteca 25
+direto 25
 luna 25
 asoluta 25
+Dise 25
 sta 25
 eleje 25
 parce 25
@@ -899,8 +901,6 @@ aira 24
 Estas 24
 Japan 24
 pesos 24
-direto 24
-Dise 24
 interesante 24
 stelas 24
 nesesada 24
@@ -1230,6 +1230,7 @@ Meа 17
 parteni 17
 instrui 17
 Du 17
+investiga 17
 briliante 17
 escava 17
 stranjer 17
@@ -1296,7 +1297,6 @@ regulas 16
 sores 16
 partes 16
 ferida 16
-investiga 16
 adormi 16
 clave 16
 Aprende 16
@@ -2049,6 +2049,7 @@ spende 10
 aproba 10
 seca 10
 Jua 10
+culo 10
 servo 10
 trema 10
 covre 10
@@ -2226,7 +2227,6 @@ boton 9
 "No 9
 surfas 9
 spesifada 9
-culo 9
 solida 9
 abitua 9
 previde 9
@@ -4563,6 +4563,7 @@ jenom 4
 enviada 4
 vapor 4
 cultivor 4
+palma 4
 Entra 4
 asasinada 4
 pulmones 4
@@ -4573,6 +4574,7 @@ Musk 4
 Escava 4
 recambiable 4
 Trata 4
+Colpa 4
 bela" 4
 porteta 4
 personalia 4
@@ -5707,7 +5709,6 @@ mustax 3
 Cade 3
 axa 3
 lenior 3
-palma 3
 ipoteca 3
 parcida 3
 beleta 3
@@ -5744,7 +5745,6 @@ Dotor 3
 avisada 3
 Cautia 3
 conselada 3
-Colpa 3
 nazis 3
 uigur 3
 slovenian 3
@@ -6240,6 +6240,7 @@ fatores 2
 calminte 2
 comenta: 2
 dramosa 2
+atleta 2
 palia 2
 grandi 2
 arteria 2
@@ -9125,7 +9126,6 @@ calmida 1
 viletanes 1
 fronteral 1
 monson 1
-atleta 1
 ajil 1
 10000 1
 Androide 1

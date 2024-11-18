@@ -243,6 +243,7 @@ citiem 23
 garšo 23
 Ziri 23
 kopā 22
+No 22
 katru 22
 atrast 22
 Šodien 22
@@ -255,7 +256,6 @@ devās 22
 dēļ 22
 zemē 22
 labu 21
-No 21
 diena 21
 slikti 21
 pateikt 21
@@ -716,6 +716,7 @@ nespēja 8
 Nē 8
 Pasaki 8
 kuras 8
+pilsētas 8
 nevienu 8
 dodas 8
 nedaudz 8
@@ -837,7 +838,6 @@ akmens 7
 vainas 7
 darīšu 7
 kādā 7
-pilsētas 7
 Pirms 7
 maza 7
 bērniem 7
@@ -1770,6 +1770,7 @@ nokritu 4
 ausis 4
 nobrāzums 4
 sacīja 4
+pacēlās 4
 nolādēt 4
 vēlmēm 4
 pievienotu 4
@@ -2204,6 +2205,7 @@ piezīmes 3
 pabeidzis 3
 nesa 3
 jāmaina 3
+dūmu 3
 uzticams 3
 laikos 3
 prioritāte 3
@@ -2549,7 +2551,6 @@ sagādātajām 3
 neērtībām 3
 Helovīnu 3
 harmoniju 3
-pacēlās 3
 rīcība 3
 uztvert 3
 kaitinošs 3
@@ -3334,7 +3335,6 @@ visam 2
 baktērijas 2
 Neko 2
 Istabā 2
-dūmu 2
 noguruši 2
 garas 2
 pastaigas 2

@@ -1,13 +1,13 @@
 er 2591
-Eg 2064
+Eg 2066
 Tom 1552
-ikkje 1001
+ikkje 1002
 å 957
 det 866
 i 854
 du 815
 på 810
-har 699
+har 700
 ein 680
 Det 652
 til 647
@@ -24,7 +24,7 @@ og 342
 eit 328
 for 319
 som 291
-av 287
+av 288
 Du 280
 Vi 273
 kan 251
@@ -41,8 +41,8 @@ Mary 179
 den 165
 vil 163
 kjem 162
+dei 160
 min 160
-dei 159
 vart 159
 ho 157
 dette 155
@@ -97,9 +97,9 @@ Kvar 77
 skulle 76
 over 76
 kva 75
+tre 74
 der 73
 Denne 73
-tre 73
 no 73
 gjer 73
 gjekk 72
@@ -184,12 +184,12 @@ vert 37
 når 37
 di 37
 dokker 37
+ingen 36
 folk 36
 kvar 36
 god 36
 feil 36
 alltid 35
-ingen 35
 lenger 35
 tilbake 35
 heime 35
@@ -273,6 +273,7 @@ altfor 26
 same 25
 Maria 25
 kor 25
+kjenner 25
 får 25
 kvifor 25
 lenge 25
@@ -285,7 +286,6 @@ klatra 25
 heilt 24
 mann 24
 lag 24
-kjenner 24
 mot 24
 dagen 24
 lesa 24
@@ -792,6 +792,7 @@ månen 9
 korso 9
 frasen 9
 brukte 9
+funne 9
 Hestar 9
 ringja 9
 garde 9
@@ -876,7 +877,6 @@ stola 8
 avlyst 8
 deira 8
 framfor 8
-funne 8
 låna 8
 Hent 8
 svenske 8
@@ -946,6 +946,7 @@ romanen 7
 vinna 7
 tapte 7
 Ser 7
+vener 7
 studert 7
 vanleg 7
 Høyr 7
@@ -1065,7 +1066,6 @@ Del 6
 rør 6
 Lag 6
 foten 6
-vener 6
 slikt 6
 skoa 6
 særleg 6

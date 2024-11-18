@@ -1,5 +1,5 @@
 ast 251
-As 208
+As 210
 ni 185
 en 126
 as 94
@@ -50,18 +50,19 @@ swajjan 17
 buttan 17
 majjan 16
 min 16
+Ka 16
 Tenēi 15
 šan 15
 assei 15
-Ka 15
 Asma 15
+widāi 15
 mīli 15
 bilāi 14
 tēr 14
-widāi 14
 Kasse 13
 kawīdan 13
 Mennei 13
+ēn 13
 nikwēigi 13
 aīnan 13
 di 13
@@ -72,7 +73,6 @@ mennei 12
 buwinna 12
 tāws 12
 mettan 12
-ēn 12
 aīnat 12
 kaddan 12
 biskin 12
@@ -81,6 +81,7 @@ grazzu 11
 nikāi 11
 waīda 11
 mans 10
+dīlin 10
 debīkan 10
 jāu 10
 pastippan 10
@@ -89,7 +90,6 @@ sta 10
 stwi 10
 nawwan 10
 ti 9
-dīlin 9
 Ik 9
 tenēi 9
 tennans 9
@@ -212,6 +212,7 @@ panzdau 5
 wīrs 5
 šismu 5
 gattaws 5
+men 5
 Dāwids 5
 pēismen 4
 Tebbei 4
@@ -279,7 +280,6 @@ dwāi 4
 Tōman 4
 turīlai 4
 saltan 4
-men 4
 kwāilai 4
 Pannu 4
 praēit 3
@@ -616,6 +616,7 @@ pussideinan 2
 skatīsnan 2
 gaūtun 2
 peisātun 2
+spendikan 2
 Labbai 2
 giwē 2
 bepresliskan 2
@@ -674,6 +675,7 @@ pīmpans 2
 gērbuns 2
 Sunnis 2
 laikāi 2
+īst 2
 tikkars 2
 raudāi 2
 jāute 2
@@ -1510,7 +1512,6 @@ tūliskwan 1
 pōliskai 1
 aupalla 1
 butikku 1
-spendikan 1
 bandāimai 1
 perpīdusi 1
 kwēitikans 1
@@ -2009,7 +2010,6 @@ tinklin 1
 plūja 1
 ebtiktun 1
 kāimasbuttan 1
-īst 1
 zukkans 1
 līkitun 1
 senpakkai 1
@@ -2484,3 +2484,7 @@ gīwan 1
 buwīntwei 1
 mēstan 1
 dukti 1
+spendikai 1
+kukūrei 1
+Sperreis 1
+laukijja 1

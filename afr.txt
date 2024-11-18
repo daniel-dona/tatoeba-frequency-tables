@@ -1,19 +1,19 @@
 nie 1232
-is 1031
+is 1032
 het 959
 Ek 945
 die 735
 'n 588
 Tom 437
-jy 429
+jy 430
 my 341
 te 306
 om 288
 van 276
-jou 274
+jou 275
 dit 272
 Die 270
-vir 252
+vir 253
 in 246
 ek 224
 was 216
@@ -82,10 +82,10 @@ Mary 44
 terug 44
 vergeet 43
 nog 41
+Hoe 41
 alles 41
 iets 41
 Dis 40
-Hoe 40
 julle 40
 sê 40
 dink 39
@@ -181,6 +181,7 @@ moes 18
 reg 18
 Moet 18
 man 17
+bang 17
 jaar 17
 mens 17
 daardie 17
@@ -189,7 +190,6 @@ volgende 16
 oop 16
 broer 16
 ouers 16
-bang 16
 lekker 16
 tot 16
 Laat 16
@@ -258,6 +258,7 @@ gepraat 13
 Gaan 13
 niemand 13
 dalk 13
+naam 12
 hulp 12
 verkeerd 12
 staan 12
@@ -280,7 +281,6 @@ verander 12
 gehoor 12
 reëls 12
 gebore 11
-naam 11
 maand 11
 verloor 11
 besluit 11
@@ -339,6 +339,7 @@ hard 9
 bank 9
 see 9
 droom 9
+skryf 9
 Frans 9
 dokter 9
 laaste 9
@@ -376,7 +377,6 @@ rook 8
 Julle 8
 môre 8
 plek 8
-skryf 8
 Mnr 8
 uur 8
 Gee 8
@@ -3601,3 +3601,5 @@ snuif 1
 aanlyn 1
 Ekke 1
 verbysterd 1
+Paddas 1
+slange 1

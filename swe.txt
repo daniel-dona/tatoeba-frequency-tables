@@ -1,8 +1,8 @@
-är 11619
-Jag 11264
-att 7099
+är 11620
+Jag 11266
+att 7101
 Tom 7073
-inte 6917
+inte 6919
 du 5129
 en 5126
 på 4850
@@ -12,7 +12,7 @@ har 4232
 Det 3878
 Han 3408
 jag 3148
-mig 2714
+mig 2716
 för 2697
 här 2660
 var 2605
@@ -21,16 +21,16 @@ till 2366
 och 2328
 om 2256
 Hon 2076
-ett 1945
-som 1899
+ett 1946
+som 1900
 Vi 1890
 dig 1890
 den 1832
 kan 1675
-Du 1601
+Du 1602
 av 1600
 han 1259
-kommer 1254
+kommer 1255
 sig 1220
 så 1193
 Vad 1160
@@ -66,7 +66,7 @@ oss 621
 än 619
 behöver 605
 upp 604
-hon 598
+hon 600
 bara 597
 sin 587
 henne 573
@@ -383,9 +383,9 @@ borta 92
 kvar 92
 igår 91
 genom 91
+ihåg 91
 snabbt 90
 tyckte 90
-ihåg 90
 rummet 90
 liten 90
 slog 90
@@ -583,6 +583,7 @@ lärde 58
 döda 58
 olika 58
 viktigt 57
+minns 57
 rädda 57
 ihop 57
 hungrig 57
@@ -592,7 +593,6 @@ mjölk 57
 frukost 57
 läste 57
 dödade 57
-minns 56
 sjunga 56
 lita 56
 fisk 56
@@ -650,6 +650,7 @@ pratade 51
 heller 51
 lådan 51
 alldeles 51
+ju 51
 bakom 51
 klar 50
 köpt 50
@@ -665,7 +666,6 @@ bryr 50
 kvinna 50
 arbeta 50
 menar 50
-ju 50
 spelade 49
 bör 49
 vackra 49
@@ -1000,6 +1000,7 @@ bilden 31
 lust 31
 kalla 30
 Solen 30
+vit 30
 flygplatsen 30
 havet 30
 känt 30
@@ -1026,7 +1027,6 @@ blod 30
 hatade 30
 handlar 29
 barnet 29
-vit 29
 färg 29
 Deras 29
 besökte 29
@@ -1112,6 +1112,7 @@ bio 27
 grät 27
 skickade 27
 sjukhuset 27
+antar 27
 sälja 27
 lånade 27
 lördag 27
@@ -1190,7 +1191,6 @@ skull 25
 Enligt 25
 Barnet 25
 Italien 25
-antar 25
 kvinnan 25
 utanför 25
 Rör 25
@@ -5418,6 +5418,7 @@ ritar 4
 Yoga 4
 verbet 4
 fårakläder 4
+lakan 4
 påskägg 4
 Kyss 4
 klättrar 4
@@ -6819,7 +6820,6 @@ sanskrit 3
 rakblad 3
 äckligt 3
 fyllas 3
-lakan 3
 strök 3
 Apor 3
 Hong 3
