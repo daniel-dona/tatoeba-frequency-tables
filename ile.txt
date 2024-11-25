@@ -1,4 +1,4 @@
-es 3226
+es 3228
 Yo 2446
 un 1879
 li 1708
@@ -15,19 +15,19 @@ esset 606
 que 578
 de 566
 Ella 496
-to 492
+to 493
 quo 453
 va 445
 me 427
 save 423
 it 420
-Noi 417
+Noi 418
 yo 406
 vole 403
 mi 396
 e 395
 Tu 365
-It 321
+It 323
 To 306
 tre 292
 a 291
@@ -45,7 +45,7 @@ plu 233
 quam 232
 il 225
 far 220
-deve 218
+deve 219
 Mi 208
 Ili 207
 del 199
@@ -132,6 +132,7 @@ les 59
 volet 59
 ili 59
 manjar 59
+nor 59
 amico 58
 cane 58
 tam 58
@@ -143,7 +144,6 @@ tri 57
 dormi 57
 ma 57
 dir 57
-nor 57
 die 56
 munde 56
 saver 56
@@ -166,6 +166,7 @@ comprat 50
 patre 50
 auxiliar 50
 nómine 50
+anc 50
 In 50
 filio 49
 aqua 49
@@ -174,7 +175,6 @@ on 49
 havet 49
 qualmen 48
 capital 48
-anc 48
 porta 48
 studia 48
 deman 47
@@ -202,8 +202,8 @@ filia 40
 important 40
 ocules 40
 o 40
+land 39
 mal 39
-land 38
 u 38
 annu 38
 vider 38
@@ -447,6 +447,7 @@ ridet 15
 incontrat 15
 canzon 15
 studiar 15
+strax 15
 London 15
 stult 15
 dansar 15
@@ -464,7 +465,6 @@ brossar 15
 cresce 15
 Ti-ci 14
 mentit 14
-strax 14
 ca 14
 plan 14
 comprender 14
@@ -941,6 +941,7 @@ vaccas 6
 Féminas 6
 herbe 6
 lege 6
+discusser 6
 diferent 6
 chocolate 6
 hispan 6
@@ -1086,7 +1087,6 @@ cria 5
 interesse 5
 passu 5
 ponte 5
-discusser 5
 ínmediatmen 5
 studiante 5
 signe 5
@@ -5714,3 +5714,4 @@ Furie 1
 emotion 1
 funciona 1
 detallie 1
+pais 1

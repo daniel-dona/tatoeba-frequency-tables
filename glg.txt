@@ -1,11 +1,11 @@
 a 1300
-que 1199
+que 1200
 de 1153
-o 1083
-é 802
-non 618
-un 565
-O 560
+o 1084
+é 803
+non 620
+un 566
+O 561
 e 528
 A 459
 unha 440
@@ -43,13 +43,13 @@ Que 116
 como 111
 casa 104
 ser 100
-hai 96
+hai 97
 moito 90
 facer 88
 foi 88
 Por 88
+Se 84
 pero 84
-Se 83
 das 83
 seus 83
 As 83
@@ -106,8 +106,8 @@ nos 52
 coma 52
 Este 52
 Esta 49
+mellor 48
 ir 48
-mellor 47
 vez 47
 Son 46
 coa 46
@@ -424,6 +424,7 @@ tal 14
 calquera 14
 Aínda 14
 fiestra 14
+mes 14
 polas 14
 té 14
 Estás 14
@@ -462,7 +463,6 @@ mulleres 13
 pasou 13
 algún 13
 saber 13
-mes 13
 parece 13
 exame 13
 roupa 13
@@ -600,6 +600,7 @@ Queres 10
 rapaces 10
 pedra 10
 amada 10
+chove 9
 nadar 9
 presidente 9
 preciso 9
@@ -641,6 +642,7 @@ América 9
 papel 9
 Unidos 9
 completamente 9
+chan 9
 significa 9
 esquina 9
 súpeto 9
@@ -671,7 +673,6 @@ sería 9
 segundo 9
 cociña 9
 / 9
-chove 8
 varias 8
 situación 8
 Ás 8
@@ -706,7 +707,6 @@ almorzo 8
 tradución 8
 coñecer 8
 Estados 8
-chan 8
 natureza 8
 tema 8
 Case 8
@@ -3272,6 +3272,7 @@ grego 2
 experto 2
 Xaneiro 2
 outubro 2
+chovera 2
 nove 2
 limpa 2
 dicía 2
@@ -6875,7 +6876,6 @@ mancou 1
 ofrecemento 1
 noite; 1
 mollada 1
-chovera 1
 chisca 1
 chiscoulle 1
 fíxolle 1
@@ -9739,3 +9739,5 @@ Amanda 1
 Das 1
 Será 1
 inestimable 1
+duro; 1
+pasaríamos 1

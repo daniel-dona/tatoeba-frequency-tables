@@ -1,17 +1,17 @@
 ast 251
-As 210
+As 213
 ni 185
 en 126
 as 94
 tū 84
 kāi 83
 Tāns 80
-turri 72
+turri 73
 si 62
 per 57
 be 53
+bēi 52
 wīrst 50
-bēi 50
 stan 49
 Tenā 44
 sen 35
@@ -174,6 +174,7 @@ wisāi 6
 būt 6
 Mazzi 6
 nijāu 6
+gattaws 6
 zmūi 5
 sunnis 5
 majjans 5
@@ -192,11 +193,13 @@ naktin 5
 mūka 5
 pawīstis 5
 gārban 5
+aulaūtwei 5
 bilītun 5
 automōbilin 5
 dukka 5
 mīlin 5
 kawīdai 5
+līkutan 5
 mazīngi 5
 stesse 5
 adressin 5
@@ -211,7 +214,6 @@ panzdau 5
 ānkstai 5
 wīrs 5
 šismu 5
-gattaws 5
 men 5
 Dāwids 5
 pēismen 4
@@ -254,7 +256,6 @@ swāise 4
 perēit 4
 Japānijan 4
 perwaidinna 4
-līkutan 4
 mīnsin 4
 deīktan 4
 kittans 4
@@ -267,6 +268,7 @@ brātin 4
 dīgi 4
 audāst 4
 Kwāi 4
+brātins 4
 nadruwēi 4
 sūit 4
 šis 4
@@ -314,7 +316,6 @@ ankstāi 3
 aīns 3
 pāusan 3
 wēisins 3
-aulaūtwei 3
 mettans 3
 stubbai 3
 tikrōman 3
@@ -374,7 +375,6 @@ sestran 3
 ukawalns 3
 ginni 3
 sin 3
-brātins 3
 delli 3
 bilāis 3
 pakkajan 3
@@ -694,7 +694,6 @@ krupeīlin 2
 trāgedija 2
 garrawan 2
 Toms 2
-līkuta 2
 Ēn 2
 Ēima 2
 Nakts 2
@@ -2355,6 +2354,7 @@ lētaisis 1
 Etwērpsenis 1
 akiwīsts 1
 Īr 1
+līkuta 1
 blānda 1
 rēplins 1
 Tõms 1
@@ -2488,3 +2488,5 @@ spendikai 1
 kukūrei 1
 Sperreis 1
 laukijja 1
+gattawa 1
+trins 1

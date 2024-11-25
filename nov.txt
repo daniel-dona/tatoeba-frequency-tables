@@ -1,5 +1,5 @@
 es 203
-Me 122
+Me 123
 li 80
 Li 74
 Tom 70
@@ -12,7 +12,7 @@ me 40
 La 38
 have 38
 did 37
-men 34
+men 35
 manja 32
 Lo 31
 filia 30
@@ -24,7 +24,7 @@ de 21
 Nus 21
 jupe 21
 esed 20
-ama 19
+ama 20
 lo 18
 Dona 17
 nus 17
@@ -80,6 +80,7 @@ la 6
 dikte 6
 deve 6
 fema 6
+kate 6
 dona 6
 disi 6
 puera 6
@@ -103,7 +104,6 @@ Vus 5
 ganad 5
 Disi 5
 sava 5
-kate 5
 plu 5
 tum 5
 audi 5

@@ -1,11 +1,11 @@
-est 10208
+est 10209
 et 4796
 in 4542
 Thomas 3632
 non 3508
 sunt 2245
 ad 1753
-mihi 1625
+mihi 1626
 / 1569
 esse 1431
 sum 1374
@@ -25,7 +25,7 @@ quod 756
 In 752
 Non 745
 eius 692
-hoc 686
+hoc 687
 Didymus 685
 mea 668
 eum 637
@@ -36,7 +36,7 @@ a 577
 meus 563
 sed 546
 Hoc 531
-Cur 523
+Cur 524
 id 481
 Thōmās 474
 Et 463
@@ -225,9 +225,9 @@ mecum 133
 domi 132
 mortuus 132
 tantum 132
+placent 131
 sua 131
 Scisne 130
-placent 130
 modo 129
 locutus 127
 vobis 125
@@ -256,12 +256,12 @@ Ex 117
 homo 116
 habent 116
 Lingua 116
+Habesne 116
 aliquid 116
 tuo 116
 Israel 116
 Puer 115
 puer 115
-Habesne 115
 sicut 114
 vero 114
 Quod 113
@@ -385,11 +385,11 @@ Gallicam 85
 Nolite 85
 heri 84
 re 84
+Ut 84
 habemus 84
 Tempus 83
 septem 83
 scio 83
-Ut 83
 sententia 83
 Librum 83
 Nos 83
@@ -535,6 +535,7 @@ maior 64
 Potionem 64
 Bene 64
 Sine 63
+tamen 63
 facis 63
 duos 63
 iuxta 63
@@ -548,7 +549,6 @@ quibus 62
 Deo 62
 Pueri 62
 minus 62
-tamen 62
 putas 62
 sui 62
 scribere 62
@@ -760,6 +760,7 @@ horam 47
 paratus 47
 Raedam 47
 laetus 47
+equum 47
 pulcher 47
 ludum 47
 mortua 47
@@ -776,7 +777,6 @@ habitare 46
 parvus 46
 procul 46
 urbs 46
-equum 46
 linguis 46
 audire 46
 misit 46
@@ -1243,6 +1243,7 @@ Lac 28
 sive 28
 matre 28
 puellam 28
+dicunt 28
 Filia 28
 exedra 28
 Multos 28
@@ -1292,7 +1293,6 @@ dormiunt 27
 volare 27
 Nobis 27
 affert 27
-dicunt 27
 fuerunt 27
 publicus 27
 Medicus 27
@@ -2457,6 +2457,7 @@ tacere 14
 librorum 14
 scripsisti 14
 porta 14
+vires 14
 proximum 14
 servare 14
 Magis 14
@@ -2613,7 +2614,6 @@ Vade 13
 praeter 13
 fortior 13
 dices 13
-vires 13
 studet 13
 cepit 13
 initio 13
@@ -3031,6 +3031,7 @@ invēnistis 12
 mēnse 12
 Vascula 12
 scripta 11
+voluntas 11
 Certe 11
 putant 11
 perit 11
@@ -3319,7 +3320,6 @@ fēcisse 11
 perītior 11
 consentire 10
 amari 10
-voluntas 10
 ferrum 10
 ver 10
 astra 10
@@ -3777,6 +3777,7 @@ aliqua 9
 Currus 9
 vaco 9
 calor 9
+Sinae 9
 therotrophium 9
 diaetam 9
 flet 9
@@ -4233,7 +4234,6 @@ futurus 8
 Hieme 8
 Saccharum 8
 calamos 8
-Sinae 8
 esurit 8
 avem 8
 clavis 8
@@ -7303,6 +7303,7 @@ voluptate 4
 Has 4
 levior 4
 videbit 4
+laudanda 4
 operari 4
 Kiotii 4
 Feci 4
@@ -9133,7 +9134,6 @@ venientibus 3
 Tarde 3
 servabo 3
 promissa 3
-laudanda 3
 incolumes 3
 occidunt 3
 peribunt 3
