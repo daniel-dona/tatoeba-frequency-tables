@@ -1,19 +1,19 @@
-er 2591
-Eg 2066
-Tom 1552
-ikkje 1002
-å 957
+er 2593
+Eg 2068
+Tom 1555
+ikkje 1004
+å 958
 det 866
 i 854
 du 815
-på 810
-har 700
+på 811
+har 701
 ein 680
-Det 652
-til 647
+Det 653
+til 648
 Han 561
-meg 469
-eg 444
+meg 470
+eg 445
 var 442
 han 388
 at 378
@@ -21,7 +21,7 @@ med 376
 deg 352
 Ho 352
 og 342
-eit 328
+eit 329
 for 319
 som 291
 av 288
@@ -30,7 +30,7 @@ Vi 273
 kan 251
 fransk 245
 Er 232
-seg 231
+seg 232
 ei 230
 Dei 220
 om 213
@@ -40,7 +40,7 @@ Kva 189
 Mary 179
 den 165
 vil 163
-kjem 162
+kjem 163
 dei 160
 min 160
 vart 159
@@ -63,9 +63,9 @@ gjera 119
 de 117
 veit 116
 Kven 116
-oss 114
+oss 115
 mange 113
-mykje 112
+mykje 113
 ut 112
 dag 108
 sin 105
@@ -79,17 +79,17 @@ din 98
 snakkar 95
 bur 92
 so 90
+enn 88
 Kan 87
 aldri 87
 snakka 87
-enn 86
 vi 86
 Kvifor 86
 kom 84
 Ikkje 83
 såg 82
+trur 81
 mitt 80
-trur 80
 sa 78
 berre 77
 lyst 77
@@ -103,7 +103,7 @@ Denne 73
 no 73
 gjer 73
 gjekk 72
-ser 70
+ser 71
 Ziri 70
 etter 68
 Sami 68
@@ -122,7 +122,7 @@ slo 59
 Me 58
 alle 58
 nokon 58
-betre 57
+betre 58
 spelar 57
 ville 55
 litt 55
@@ -186,6 +186,7 @@ di 37
 dokker 37
 ingen 36
 folk 36
+år 36
 kvar 36
 god 36
 feil 36
@@ -193,7 +194,6 @@ alltid 35
 lenger 35
 tilbake 35
 heime 35
-år 35
 andre 35
 Korfor 35
 lærer 35
@@ -220,12 +220,12 @@ Sola 32
 slå 32
 desse 32
 Sjå 31
+enno 31
 langt 31
 Korleis 31
 Ver 31
 igjen 30
 lei 30
-enno 30
 pengar 30
 rett 30
 ganske 30
@@ -604,6 +604,7 @@ John 12
 fortelja 12
 Layla 12
 gått 12
+gifta 12
 Ukraina 12
 skje 12
 nederlandsk 12
@@ -648,7 +649,6 @@ Hjarta 11
 hende 11
 nettopp 11
 interessert 11
-gifta 11
 forklåra 11
 brukar 11
 Borna 11
@@ -801,6 +801,7 @@ norske 9
 vanlegvis 9
 artig 9
 øva 9
+forventa 9
 Godt 9
 litteratur 9
 Kattar 9
@@ -881,7 +882,6 @@ låna 8
 Hent 8
 svenske 8
 Verdsrommet 8
-forventa 8
 organiserte 8
 tilbod 8
 perfekt 8
@@ -1098,6 +1098,7 @@ Aldri 6
 diktet 6
 sjuande 6
 skada 6
+lagt 6
 jakka 6
 meter 6
 Bruk 6
@@ -1233,6 +1234,7 @@ vaska 5
 Dersom 5
 biblioteket 5
 reise 5
+sannsynlegvis 5
 bekymra 5
 russisk 5
 keisamt 5
@@ -1272,7 +1274,6 @@ kjeft 5
 bygde 5
 Bror 5
 italiensk 5
-lagt 5
 menn 5
 sverd 5
 stira 5
@@ -1464,7 +1465,6 @@ væska 4
 inneheld 4
 Nancy 4
 hår 4
-sannsynlegvis 4
 blått 4
 statsborgar 4
 gjeva 4
@@ -1753,6 +1753,7 @@ Familien 3
 mogeleg 3
 jaktar 3
 Døra 3
+yngre 3
 kone 3
 ekteskap 3
 meiningar 3
@@ -2304,7 +2305,6 @@ Løva 2
 veken 2
 Både 2
 kjøtet 2
-yngre 2
 forlate 2
 gammal 2
 Flyet 2
@@ -2898,6 +2898,7 @@ minne… 2
 gjestar 2
 butikkar 2
 fylte 2
+The 2
 slapp 2
 Humøret 2
 Leon 2
@@ -5256,7 +5257,6 @@ tangentane 1
 Tangentane 1
 gule 1
 elde 1
-The 1
 Beatles 1
 internettet 1
 smaken 1
@@ -6727,3 +6727,4 @@ ruskande 1
 spyrja 1
 buret 1
 blyantar 1
+Flintstones 1

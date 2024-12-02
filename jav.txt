@@ -1,15 +1,15 @@
-Aku 155
-ora 132
-Tom 114
+Aku 156
+ora 133
+Tom 116
 sing 69
 iku 49
+Kowé 45
 aku 45
 iki 44
-Kowé 44
 ing 43
 karo 37
 Dhèwèké 36
-nang 32
+nang 33
 kowé 31
 ana 30
 basa 27
@@ -24,10 +24,10 @@ dhéwé 23
 seneng 23
 isa 22
 bisa 22
-arep 21
+arep 22
 bakal 20
+duwé 19
 dhèwèké 19
-duwé 18
 Aja 18
 dudu 18
 durung 17
@@ -37,6 +37,7 @@ endi 16
 saka 16
 ta 16
 mangan 15
+weruh 15
 nèng 15
 lan 14
 lagi 14
@@ -45,7 +46,6 @@ Ora 14
 yèn 14
 kabèh 14
 sinau 14
-weruh 13
 dina 13
 kaya 13
 kéné 13
@@ -110,6 +110,7 @@ paling 6
 mèh 6
 mesthi 6
 mung 6
+loro 6
 tuku 6
 asu 6
 jus 5
@@ -130,7 +131,6 @@ mlaku 5
 tahu 5
 dhèké 5
 pira 5
-loro 5
 Kabèh 5
 lungguh 5
 tindak 5
@@ -449,6 +449,7 @@ bapakku 2
 bapak 2
 kancané 2
 Buku 2
+omahé 2
 Senèn 2
 layangmu 2
 ngelak 2
@@ -1232,7 +1233,6 @@ kertas 1
 Jawa 1
 ilang 1
 Jawané 1
-omahé 1
 kuncènana 1
 lawangé 1
 ꦲꦗꦭꦭꦶꦏꦸꦚ꧀ꦕꦺꦤꦤꦭꦮꦁꦔꦺ 1
@@ -1930,3 +1930,10 @@ tur 1
 peteng 1
 ꦥꦮꦺꦴꦤ꧀ꦤꦺꦕꦶꦭꦶꦏ꧀ꦠꦸꦂꦥꦼꦠꦼꦁ꧉ 1
 ꦧꦥꦏ꧀ꦏꦺꦗꦼꦤꦼꦁꦔꦺꦠꦺꦴꦩ꧀꧈ 1
+ꦲꦏꦸꦤꦁꦲꦺꦴꦩꦃꦲꦺꦠꦺꦴꦩ꧀꧈ 1
+ꦏꦺꦴꦮꦺꦲꦺꦴꦫꦮꦼꦫꦸꦃ꧉ 1
+regané 1
+ꦠꦺꦴꦩ꧀ꦲꦉꦥ꧀ꦮꦼꦫꦸꦃꦉꦒꦤꦺ꧉ 1
+Gajah 1
+kuping 1
+ꦒꦗꦃꦢꦸꦮꦺꦏꦸꦥꦶꦁꦭꦺꦴꦫꦺꦴ꧉ 1

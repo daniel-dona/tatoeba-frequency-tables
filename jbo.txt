@@ -1,13 +1,13 @@
-lo 12846
+lo 12847
 mi 6237
-cu 3504
+cu 3506
 do 3350
-la 2999
+la 3001
 pu 2312
 le 2299
 nu 2127
-se 1925
-i 1826
+se 1926
+i 1827
 na 1624
 be 1344
 ko'a 1277
@@ -59,9 +59,9 @@ gi'e 256
 co'a 251
 zukte 251
 nai 249
-tam 246
+tam 247
+cukta 242
 za'u 242
-cukta 241
 ka'e 240
 fa 239
 kei 236
@@ -69,7 +69,7 @@ ri 232
 mi'o 230
 ei 229
 bangu 224
-prami 223
+prami 224
 ba'o 221
 re 220
 gerku 211
@@ -97,10 +97,10 @@ kau 150
 fetsi 150
 ku'i 149
 ninmu 149
+pendo 148
 tadni 148
 tcidu 148
 gleki 148
-pendo 147
 ralte 147
 sidju 146
 cmene 145
@@ -6931,3 +6931,4 @@ selbe'i 1
 selylei 1
 tsaselgau 1
 bitgau 1
+ziris 1

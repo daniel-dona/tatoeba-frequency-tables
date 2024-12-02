@@ -1,6 +1,6 @@
 ast 251
 As 213
-ni 185
+ni 186
 en 126
 as 94
 tū 84
@@ -17,9 +17,9 @@ Tenā 44
 sen 35
 ezze 33
 spārtai 32
+mazzi 32
 mi 31
 Sta 31
-mazzi 31
 adder 31
 Tū 31
 paggan 30
@@ -59,13 +59,13 @@ widāi 15
 mīli 15
 bilāi 14
 tēr 14
+di 14
 Kasse 13
 kawīdan 13
 Mennei 13
 ēn 13
 nikwēigi 13
 aīnan 13
-di 13
 nika 13
 tūls 13
 lāiskan 12
@@ -398,6 +398,7 @@ pilnan 3
 widāwuns 3
 šāi 3
 māldan 3
+Be 3
 tenesses 3
 bitasīdin 3
 Kaīls 3
@@ -651,7 +652,6 @@ pēnkins 2
 turīwusis 2
 wūrai 2
 druwēi 2
-Be 2
 kērdai 2
 grīmi 2
 Tenesses 2
@@ -2490,3 +2490,5 @@ Sperreis 1
 laukijja 1
 gattawa 1
 trins 1
+mazgenan 1
+mēritwei 1
