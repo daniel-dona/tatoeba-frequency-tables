@@ -6,7 +6,7 @@ el 1247
 és 1080
 no 873
 un 835
-va 821
+va 822
 No 697
 en 644
 una 570
@@ -90,7 +90,7 @@ Estic 85
 Hi 85
 teu 85
 tu 85
-anys 83
+anys 84
 teva 83
 pot 81
 Tinc 81
@@ -111,7 +111,7 @@ estava 72
 tres 71
 parlar 71
 massa 70
-als 69
+als 70
 Vull 69
 mare 68
 cotxe 68
@@ -135,8 +135,8 @@ qui 62
 ara 61
 seus 61
 perquè 61
+Es 61
 Aquesta 61
-Es 60
 tant 60
 vas 59
 sempre 59
@@ -1777,6 +1777,7 @@ fer-se 4
 sorprendre 4
 Espera 4
 torni 4
+trenta 4
 voldria 4
 vostres 4
 necessitat 4
@@ -2255,7 +2256,6 @@ examen 3
 detectiu 3
 temperatura 3
 cadell 3
-trenta 3
 construcció 3
 New 3
 rentadora 3
@@ -3765,6 +3765,7 @@ casar-me 2
 bomba 2
 Marina 2
 Parlen 2
+suïcidar 2
 m'ajudéssiu 2
 comunitat 2
 Jackson 2
@@ -7951,7 +7952,6 @@ dinou 1
 m'entén 1
 nebodes 1
 famèlic 1
-suïcidar 1
 agraeixo 1
 plovent 1
 matricular 1

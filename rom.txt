@@ -81,6 +81,7 @@ len 11
 xal 11
 tut 11
 Gindiv 11
+Na 10
 matora 10
 kerav 10
 som 10
@@ -93,7 +94,6 @@ siguro 10
 Alžerija 10
 buut 10
 del 9
-Na 9
 tusa 9
 Kaj 9
 akathe 9
@@ -109,6 +109,7 @@ lašo 8
 ferdi 8
 kadi 8
 francusicka 8
+Le 8
 mandar 8
 sakko 8
 xav 8
@@ -118,7 +119,6 @@ kana 7
 somas 7
 amenge 7
 vi 7
-Le 7
 ani 7
 keras 7
 Žanes 7
@@ -175,6 +175,7 @@ xasardas 5
 Drago 5
 amen 5
 kompjuteri 5
+vareso 5
 Musaj 5
 mool 5
 thund 5
@@ -210,7 +211,6 @@ zumavel 4
 kinel 4
 Tomesko 4
 Trubus 4
-vareso 4
 kanikaj 4
 kniga 4
 fugo 4
@@ -1151,3 +1151,6 @@ avreśanes 1
 zavisîl 1
 hakhjardem 1
 gindisardem 1
+kerdǒl 1
+lole 1
+medicina 1

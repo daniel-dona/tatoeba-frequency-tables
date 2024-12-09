@@ -14,9 +14,9 @@ par 12
 ar 11
 es 11
 beja 11
+Jis 11
 nu 10
 tys 10
-Jis 10
 mani 9
 kai 9
 kū 8
@@ -37,6 +37,7 @@ Kai 5
 ruodīs 5
 vēļ 4
 tuo 4
+dzeivuot 4
 pa 4
 beju 4
 koč 4
@@ -52,7 +53,6 @@ cukra 4
 vysod 4
 napateik 3
 lobs 3
-dzeivuot 3
 pats 3
 Jam 3
 dīna 3
@@ -175,6 +175,7 @@ Mareja 2
 Juos 2
 sirdsapziņa 2
 vītni 2
+Kū 2
 zīds 1
 skaists 1
 padareji 1
@@ -849,7 +850,6 @@ aktivi 1
 pasivi 1
 uzzyna 1
 atroduoji 1
-Kū 1
 izvieļs 1
 izmontojam 1
 generatoru 1
@@ -868,3 +868,7 @@ laseit 1
 Nui 1
 Nā 1
 Acimradzami 1
+ād 1
+pūki 1
+pīroda 1
+nabadzeibā 1

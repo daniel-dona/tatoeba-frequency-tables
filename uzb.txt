@@ -1,8 +1,8 @@
 Men 73
 Bu 69
 U 65
+Tom 34
 bor 33
-Tom 33
 bir 28
 edi 27
 Mening 25
@@ -66,6 +66,7 @@ narsa 6
 йўқ 6
 Нима 6
 yordam 6
+meni 6
 Bir 6
 boraman 6
 qancha 6
@@ -83,7 +84,6 @@ ko'p 5
 senga 5
 go'zal 5
 ustida 5
-meni 5
 kecha 5
 Har 5
 Yana 5
@@ -2418,3 +2418,7 @@ davom 1
 etadi 1
 o‘limidan 1
 o‘tdi 1
+Tozalamoqchiman 1
+o‘pishiga 1
+ruxsat 1
+berdim 1

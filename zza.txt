@@ -1,6 +1,6 @@
 Ez 227
 ra 140
-o 115
+o 116
 mi 106
 Tom 105
 Ma 99
@@ -22,9 +22,9 @@ hes 46
 Mı 43
 mı 43
 û 43
+zaf 42
 Ti 42
 yê 41
-zaf 41
 ez 40
 O 40
 rê 39
@@ -50,12 +50,12 @@ kenê 19
 xu 18
 Tomi 18
 tı 18
+Ewro 17
 seba 17
 é 16
 ay 16
 Ey 16
 se 16
-Ewro 16
 ganî 16
 ser 15
 Na 14
@@ -155,6 +155,7 @@ nan 7
 Ay 7
 zana 7
 pêro 7
+germ 7
 çend 7
 şırê 7
 Şıma 7
@@ -182,7 +183,6 @@ Kes 6
 zanê 6
 Tomdo 6
 na 6
-germ 6
 serre 6
 ciwîyenê 6
 bibî 6
@@ -830,6 +830,7 @@ vırazé 2
 çıman 2
 qisaya 2
 şîme 2
+hewa 2
 Miletê 2
 kolaya 2
 bızone 2
@@ -2662,7 +2663,6 @@ bikewî 1
 Dîlane 1
 siftayêne 1
 futbol 1
-hewa 1
 wendî 1
 Xalê 1
 hêgayê 1

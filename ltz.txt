@@ -1,4 +1,4 @@
-Ech 249
+Ech 250
 ass 223
 du 93
 Dir 79
@@ -10,12 +10,12 @@ Tom 51
 hunn 50
 Wéi 45
 huet 44
-sinn 42
+sinn 43
 Wat 41
 si 38
+eng 37
 Mir 37
 Den 37
-eng 36
 et 35
 Et 34
 Hutt 33
@@ -235,6 +235,7 @@ bestuet 4
 Wunneng 4
 Gudde 3
 Owend 3
+Hëllef 3
 Dokter 3
 Päerd 3
 Fouss 3
@@ -329,7 +330,6 @@ maache 3
 Sport 3
 Sprooche 3
 Neen 2
-Hëllef 2
 D'Kaz 2
 wëssen 2
 wie 2
@@ -1329,3 +1329,4 @@ Parken 1
 Gëtt 1
 Drëtte 1
 Weltkrich 1
+Jongfra 1

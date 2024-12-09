@@ -137,6 +137,7 @@ tano 28
 tena 28
 hatari 28
 mambo 27
+mpya 27
 maji 27
 lake 27
 mtoto 27
@@ -148,7 +149,6 @@ ambaye 27
 yoyote 26
 hivi 26
 chakula 26
-mpya 26
 yeye 26
 mwanamke 26
 simu 26
@@ -330,6 +330,7 @@ utani 14
 msichana 14
 elfu 14
 iliyopita 14
+zawadi 14
 kuanza 14
 hufanya 14
 eneo 14
@@ -375,7 +376,6 @@ polisi 13
 mji 13
 ambapo 13
 mafuta 13
-zawadi 13
 basi 13
 " 13
 sheria 13
@@ -533,6 +533,7 @@ siri 9
 chokoleti 9
 Mbona 9
 kahawa 9
+kompyuta 9
 uhakika 9
 asili 9
 Urusi 9
@@ -595,7 +596,6 @@ matunda 8
 kunywa 8
 mti 8
 Ninaweza 8
-kompyuta 8
 bunduki 8
 adui 8
 Tunaweza 8
@@ -1385,6 +1385,7 @@ alikubali 4
 siyo 4
 kavu 4
 Ndipo 4
+Nilinunua 4
 pizza 4
 Kula 4
 ice 4
@@ -1842,7 +1843,6 @@ wafanyikazi 3
 uma 3
 pikipiki 3
 kandanda 3
-Nilinunua 3
 tuko 3
 anga 3
 mfukoni 3
@@ -9279,3 +9279,4 @@ Ubelgiji 1
 unatazama 1
 imesaidia 1
 iliendeshwa 1
+Sikukubali 1

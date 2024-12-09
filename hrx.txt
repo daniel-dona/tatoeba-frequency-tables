@@ -4,12 +4,12 @@ Tom 212
 en 203
 hod 166
 net 153
-hon 142
+hon 143
 die 128
 de 126
-das 125
+das 126
 De 114
-sin 106
+sin 108
 Die 102
 Das 93
 Sie 73
@@ -70,6 +70,7 @@ so 22
 schun 22
 gehn 21
 etwas 21
+wisse 21
 noh 21
 Där 21
 Leit 20
@@ -79,7 +80,6 @@ uns 19
 im 18
 Wie 18
 nore 18
-wisse 18
 dud 17
 Buch 17
 där 17
@@ -186,6 +186,7 @@ Geschenke 8
 nemmd 8
 gros 8
 hier 8
+komme 8
 Hand 8
 bist-du 8
 kemfe 8
@@ -218,10 +219,10 @@ wolld 7
 liehe 7
 unser 7
 eere 7
-komme 7
 gefunn 7
 gäll 7
 Sami 7
+jimand 7
 wieder 7
 wer 7
 fersughe 7
@@ -264,7 +265,6 @@ nimmand 6
 seid-der 6
 sie 6
 lieve 6
-jimand 6
 gestorreb 6
 for 6
 Weck 6
@@ -364,6 +364,7 @@ kald 5
 denne 5
 Schlof 5
 finne 5
+fergess 5
 geruf 5
 gelecheld 5
 Spass 5
@@ -387,6 +388,7 @@ Problem 4
 gezeichd 4
 aanbiede 4
 musste 4
+lang 4
 Vaammer 4
 aanmache 4
 aanschaffe 4
@@ -461,7 +463,6 @@ Foto 4
 bei 4
 gebbd 4
 Kamera 4
-fergess 4
 Een 4
 unsre 4
 Epple 4
@@ -474,6 +475,7 @@ streificher 4
 Blusong 4
 dëleteere 4
 Knuwloch 4
+Meeghd-s 4
 hon's 3
 Mann 3
 Grosmutter 3
@@ -506,7 +508,6 @@ fangd 3
 schaffd 3
 Aam 3
 aanbasse 3
-lang 3
 Rehn 3
 Bibliotek 3
 solle-mer 3
@@ -713,6 +714,7 @@ Tëlefon 2
 scheene 2
 kleener 2
 Foghel 2
+genugh 2
 Schluss 2
 Kampf 2
 bezaald 2
@@ -887,6 +889,7 @@ baade 2
 wal-ich 2
 dreckich 2
 Dokterin 2
+gefäärlich 2
 billich 2
 waarst 2
 nee 2
@@ -946,6 +949,7 @@ gestann 2
 lechle 2
 Billioneer 2
 sechste 2
+Meeghd-der 2
 nunnergeschmiss 1
 zieh-ich 1
 schlofd 1
@@ -1141,7 +1145,6 @@ geland 1
 wechgefloh 1
 halleb 1
 friher 1
-genugh 1
 Kempf 1
 Freiheet 1
 Doktre 1
@@ -1730,7 +1733,6 @@ eerem 1
 werd-der 1
 Leerer 1
 Professer 1
-gefäärlich 1
 Eiffeltorrem 1
 besughe 1
 Bring 1
@@ -2022,3 +2024,10 @@ Stock 1
 Neinte 1
 Znuwloch 1
 riechst 1
+Meeghst-du 1
+Meeghde-mer 1
+rehne 1
+Meeghd-ich 1
+daure 1
+rinbasse 1
+Meeghd 1

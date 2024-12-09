@@ -7,12 +7,12 @@ i'n 178
 Tom 165
 ddim 117
 o 116
-ei 95
+ei 97
 ar 87
 hoffi 81
 wedi 78
-hi 77
-ti 77
+hi 78
+ti 78
 ti'n 70
 a 68
 yr 68
@@ -26,10 +26,10 @@ am 52
 dy 51
 Mary 48
 Roedd 48
+yw 47
 ni 46
 mynd 46
 chi'n 45
-yw 45
 i'r 42
 iawn 42
 siarad 38
@@ -42,9 +42,9 @@ Ble 30
 Beth 30
 gwybod 29
 eich 29
+hwn 29
 wyt 29
 nhw 29
-hwn 27
 mewn 27
 mi 27
 meddwl 27
@@ -70,12 +70,12 @@ o'n 21
 rhaid 21
 yfed 21
 mae'r 20
+llyfr 20
 o'r 19
 gallu 19
 da 19
 mae 19
 Cymraeg 19
-llyfr 18
 cael 18
 dda 18
 gweithio 18
@@ -153,6 +153,7 @@ Dydw 10
 eto 10
 yna 10
 bwyd 10
+Pam 10
 gweld 10
 yfory 10
 Maen 10
@@ -196,7 +197,6 @@ unrhyw 8
 dydd 8
 adre 8
 hwyr 8
-Pam 8
 bwrdd 8
 Layla 8
 hun 8
@@ -225,6 +225,7 @@ gwelwch 7
 heb 7
 anrheg 7
 ffilm 7
+wnaeth 7
 i’n 7
 Dyw 7
 siop 6
@@ -259,7 +260,6 @@ well 6
 gyrru 6
 anodd 6
 Rydyn 6
-wnaeth 6
 mor 6
 Dwi’n 6
 pan 6
@@ -331,6 +331,7 @@ teimlo'n 4
 digon 4
 dros 4
 ddigon 4
+fab 4
 Roeddwn 4
 ddyn 4
 cig 4
@@ -435,7 +436,6 @@ ef 3
 mae'n 3
 Aeth 3
 ganddo 3
-fab 3
 dwy 3
 win 3
 dail 3
@@ -529,6 +529,7 @@ ffyn 3
 Cath 3
 Eto 3
 faint 3
+mab 3
 wahanol 3
 eraill 3
 Llongyfarchiadau 3
@@ -653,6 +654,7 @@ munud 2
 ugain 2
 Mr 2
 Bingley 2
+wnest 2
 gynffon 2
 Ysgrifennodd 2
 dalu 2
@@ -786,7 +788,6 @@ boeth 2
 Cadwch 2
 wrthyf 2
 gwallt 2
-mab 2
 gwyddorau 2
 nifer 2
 Yng 2
@@ -972,6 +973,8 @@ Helô 2
 Blwyddyn 2
 Wnei 2
 fwyaf 2
+ysgrifennu'r 2
+Meddyg 2
 Loegr 1
 gysgodd 1
 baban 1
@@ -1110,7 +1113,6 @@ diwrnod 1
 Japaneaidd 1
 flodau 1
 ddiflas 1
-wnest 1
 S'mae 1
 Pekka 1
 phedair 1

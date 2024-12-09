@@ -1,9 +1,9 @@
 Mən 658
 O 455
 Tom 404
-Bu 355
+Bu 356
 var 251
-bir 217
+bir 219
 nə 181
 çox 171
 Biz 153
@@ -29,13 +29,13 @@ daha 63
 deyiləm 63
 də 59
 onu 59
-yoxdur 56
+yoxdur 57
 edirəm 56
 o 56
 mən 55
+Bir 54
+gün 54
 Sənin 53
-Bir 53
-gün 52
 haqqında 49
 gəlir 48
 Mənə 47
@@ -47,9 +47,9 @@ hər 42
 haradadır 41
 böyük 41
 sənin 41
+öz 40
 kimi 40
 sevirəm 39
-öz 39
 edir 39
 məni 38
 paytaxtıdır 38
@@ -82,7 +82,7 @@ da 30
 istəmirəm 29
 dili 29
 necə 29
-yaşayıram 28
+yaşayıram 29
 nifrət 28
 getmək 28
 olduğunu 28
@@ -128,6 +128,7 @@ istəyir 20
 Onların 20
 qədərdir 20
 gəldi 20
+həftə 19
 il 19
 zəng 19
 olur 19
@@ -148,7 +149,6 @@ sizə 18
 su 18
 çoxlu 18
 İsa 18
-həftə 17
 dörd 17
 getdim 17
 gördüm 17
@@ -170,6 +170,7 @@ oldu 16
 paytaxtı 16
 xoşbəxt 16
 istəmir 16
+olacaq 16
 ver 16
 Əgər 16
 verdi 16
@@ -190,7 +191,6 @@ Sami 15
 cavab 14
 bizim 14
 Xahiş 14
-olacaq 14
 yağış 14
 məndən 14
 dünən 14
@@ -284,6 +284,7 @@ dil 9
 hava 9
 dost 9
 tərcümə 9
+bilməz 9
 olub 9
 Hələ 9
 evdə 9
@@ -298,6 +299,7 @@ hara 9
 ağrıyır 9
 olma 9
 edəcəm 9
+məşğul 9
 taksi 9
 məcbur 9
 yerdə 9
@@ -337,7 +339,6 @@ Uşaqlar 8
 Hansı 8
 görmək 8
 etməyi 8
-bilməz 8
 İspaniyada 8
 Hava 8
 şadam 8
@@ -423,7 +424,6 @@ mənimdir 7
 etmir 7
 cavan 7
 çəkdi 7
-məşğul 7
 tez-tez 7
 siqaret 7
 Atam 7
@@ -483,6 +483,7 @@ səndən 6
 oxuyur 6
 kiçik 6
 təhsil 6
+dilidir 6
 mahnı 6
 məktub 6
 Azərbaycanın 6
@@ -520,6 +521,7 @@ etdilər 6
 Onlara 6
 etmirəm 6
 vurdu 6
+Bazar 6
 sağ 6
 sərbəst 6
 xoşlayır 6
@@ -595,6 +597,7 @@ anam 5
 altında 5
 görürəm 5
 məşğuldur 5
+xəstəxanada 5
 Onunla 5
 öyrənmək 5
 stol 5
@@ -605,7 +608,6 @@ düşünür 5
 yaxşıyam 5
 Qəhvə 5
 baxdı 5
-dilidir 5
 oxudum 5
 oğlum 5
 Yaşıl 5
@@ -747,7 +749,6 @@ Siqaret 4
 çəkmək 4
 adətən 4
 problemi 4
-xəstəxanada 4
 Yalnız 4
 etdin 4
 qərar 4
@@ -827,7 +828,6 @@ deməyə 4
 Rusiya 4
 gündə 4
 Dənizdə 4
-Bazar 4
 kənd 4
 gülümsədi 4
 kağız 4
@@ -1110,6 +1110,7 @@ balası 3
 adalar 3
 işıq 3
 açıq 3
+ertəsi 3
 yerində 3
 İnternet 3
 vaxtdan 3
@@ -1266,6 +1267,7 @@ elan 3
 yeri 3
 içdi 3
 bazar 3
+uça 3
 ortaq 3
 piyada 3
 deyilsiniz 3
@@ -1336,6 +1338,7 @@ Burnum 3
 yekə 3
 vadar 3
 barmaqlarını 3
+itirir 3
 mənbəyi 3
 ilham 3
 qanadları 3
@@ -1358,6 +1361,7 @@ Marsın 3
 Marsda 3
 Mars 3
 olmusan 3
+qaldım 3
 yaraşır 3
 Texas 3
 Minnesotada 3
@@ -1386,6 +1390,7 @@ yalnız 3
 вар 3
 söylədilər 3
 almalısan 3
+tanıyıram 3
 qəşəngdir 3
 Sabahınız 2
 Qəzetim 2
@@ -1398,6 +1403,7 @@ dekabr 2
 Qış 2
 tələbə 2
 Ət 2
+Xəstəxanada 2
 üstündədir 2
 ağsan 2
 Beş 2
@@ -1923,6 +1929,7 @@ bilməzsiniz 2
 vaxtlarınızda 2
 qabağında 2
 vətəndaşıdır 2
+hamını 2
 Braziliyadan 2
 salamlar 2
 köçdü 2
@@ -2012,7 +2019,6 @@ səkkizinci 2
 yarımadasının 2
 qeydiyyatdan 2
 yazın 2
-uça 2
 evidir 2
 Gözlərini 2
 yaşamağı 2
@@ -2251,7 +2257,6 @@ meşədə 2
 iyi 2
 içinə 2
 maşının 2
-itirir 2
 gəlmisən 2
 çayın 2
 xoşbəxtlik 2
@@ -2473,7 +2478,6 @@ Aşpaz 2
 Eviniz 2
 boğuldum 2
 Qızı 2
-tanıyıram 2
 Qızlarla 2
 əmizdirirəm 2
 Qızlarınız 2
@@ -2526,7 +2530,6 @@ ayları 1
 yanvar 1
 fevraldır 1
 mühəndisəm 1
-Xəstəxanada 1
 ədəbiyyatı 1
 təzədir 1
 məktəbiniz 1
@@ -3607,7 +3610,6 @@ qəhvəyə 1
 Qəhvəyə 1
 Öyrənməyə 1
 Sürünənlərə 1
-ertəsi 1
 Lazanyanı 1
 lazanyanı 1
 Səfərləri 1
@@ -4381,7 +4383,6 @@ Hindistanda 1
 bildiyim 1
 butulkanı 1
 doldur 1
-hamını 1
 kişilərin 1
 qalstuk 1
 taxır 1
@@ -6113,7 +6114,6 @@ imkanımız 1
 yeridir 1
 diskim 1
 başlamalısan 1
-qaldım 1
 cavanlığında 1
 şerləri 1
 and 1
@@ -7725,3 +7725,16 @@ vahiməli 1
 itki 1
 Bakalavr 1
 dərəcəsi 1
+Xəstəlik 1
+təsirini 1
+Xəstəliyin 1
+təsiri 1
+azalır 1
+Sankt-Peterburqda 1
+Donuzlar 1
+iquanadır 1
+Kənddə 1
+Payton 1
+proqramlaşdırma 1
+Hazırda 1
+şərh 1

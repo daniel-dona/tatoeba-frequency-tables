@@ -1,17 +1,17 @@
-të 890
+të 893
 e 581
-në 382
+në 383
 është 333
 i 274
 një 266
-nuk 249
+nuk 250
 Nuk 231
 Tomi 219
 me 178
 do 176
 për 169
 që 162
-më 161
+më 162
 Unë 132
 se 119
 shumë 119
@@ -25,15 +25,15 @@ u 73
 Ajo 65
 kam 65
 janë 65
+mund 64
 Do 64
-mund 63
 Ai 62
 E 59
 nga 58
 mirë 55
 ishte 55
+Më 51
 ju 51
-Më 50
 Të 49
 Po 45
 A 44
@@ -73,19 +73,19 @@ Ti 27
 shkoj 26
 duke 26
 tha 26
+gjithë 25
 pa 25
 por 25
 ke 25
 Çfarë 25
 kombësie 25
 "Të 25
-gjithë 24
+I 24
 parë 24
 Ata 23
 Dua 23
 qe 23
 je 23
-I 23
 Mund 23
 Shqiptarët 23
 para 22
@@ -273,6 +273,7 @@ librin 7
 veten 7
 lule 7
 Isha 7
+vdiq 7
 fshehur 7
 Nëse 7
 vetë 7
@@ -354,6 +355,7 @@ midis 5
 gabime 5
 kete 5
 shpesh 5
+njoh 5
 përveç 5
 jonë 5
 tënde 5
@@ -365,6 +367,7 @@ atje 5
 Eja 5
 pyetje 5
 tek 5
+ushqim 5
 këto 5
 libri 5
 cilën 5
@@ -395,7 +398,6 @@ mrekullueshme 5
 hapur 5
 Kishte 5
 ulur 5
-vdiq 5
 vetmi 5
 tërë 5
 shikon 5
@@ -433,7 +435,6 @@ Shtëpia 4
 takuar 4
 student 4
 sikur 4
-njoh 4
 Disa 4
 mundësi 4
 Shqipëri 4
@@ -455,7 +456,6 @@ gjëra 4
 Le 4
 Qeni 4
 pushim 4
-ushqim 4
 quajnë 4
 grua 4
 miqtë 4
@@ -696,6 +696,7 @@ Asgjë 3
 ndodhi 3
 ngadalë 3
 shpejtë 3
+fluturojnë 3
 ndjesë 3
 Ra 3
 Ha 3
@@ -874,6 +875,7 @@ nxënës 2
 muzeu 2
 njeriut 2
 shqipe 2
+Macja 2
 Tirana 2
 kryeqyteti 2
 m'u 2
@@ -1001,6 +1003,7 @@ theva 2
 Ricardo 2
 SOS 2
 pikën 2
+s'mund 2
 diçkaje 2
 pikë 2
 verën 2
@@ -1123,6 +1126,7 @@ kushton 2
 Alfabeti 2
 djali 2
 duken 2
+fshat 2
 pushoj 2
 kanadez 2
 persona 2
@@ -1341,6 +1345,7 @@ veshin 2
 S'jam 2
 këngëtare 2
 Autori 2
+Derrat 2
 dashuroj 1
 falemnderit 1
 Shyqyr 1
@@ -1732,7 +1737,6 @@ kushte 1
 përbërë 1
 sonet 1
 mjek 1
-Macja 1
 biskotë 1
 tij" 1
 "Ai 1
@@ -2170,7 +2174,6 @@ pirg 1
 vrau 1
 thes 1
 Arrin 1
-s'mund 1
 përmbahet 1
 Sos 1
 grimë 1
@@ -2518,7 +2521,6 @@ Qesha 1
 turpshme 1
 Vitet 1
 kaluan 1
-fluturojnë 1
 këndojnë 1
 qeshi 1
 buzëqeshi 1
@@ -2676,7 +2678,6 @@ italian 1
 dyshimtë 1
 Shpata 1
 mbrojtur 1
-fshat 1
 gënjeshtar 1
 lëndohesh 1
 oqean 1
@@ -4124,3 +4125,5 @@ shtrat 1
 futbolli 1
 çantë 1
 mikroskop 1
+Porosita 1
+macja 1
