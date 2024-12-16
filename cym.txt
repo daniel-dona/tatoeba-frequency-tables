@@ -1,6 +1,6 @@
 yn 558
-i 341
-Mae 285
+i 342
+Mae 287
 y 198
 Dw 187
 i'n 178
@@ -36,8 +36,8 @@ siarad 38
 eisiau 37
 byw 36
 â 36
-newydd 33
-gyda 31
+newydd 34
+gyda 32
 Ble 30
 Beth 30
 gwybod 29
@@ -48,12 +48,12 @@ nhw 29
 mewn 27
 mi 27
 meddwl 27
+fi 26
 di 25
-fi 25
+gen 25
 Mae'n 25
 ydy 24
 yma 24
-gen 24
 gwneud 24
 hynny 24
 dod 23
@@ -64,13 +64,13 @@ bwyta 23
 gan 22
 dim 22
 wneud 22
+llyfr 21
 Dych 21
 dw 21
 o'n 21
 rhaid 21
 yfed 21
 mae'r 20
-llyfr 20
 o'r 19
 gallu 19
 da 19
@@ -192,6 +192,7 @@ dal 8
 iaith 8
 byth 8
 Pa 8
+ac 8
 gar 8
 unrhyw 8
 dydd 8
@@ -210,7 +211,6 @@ gloch 7
 Rwyt 7
 barod 7
 erioed 7
-ac 7
 parc 7
 lyfrau 7
 gadael 7
@@ -707,6 +707,7 @@ rhoi 2
 tlodion 2
 'ngalw 2
 docyn 2
+afal 2
 flasus 2
 Gyda 2
 stryd 2
@@ -930,6 +931,7 @@ Sori 2
 Owen 2
 wlyb 2
 llysiau 2
+oren 2
 Do 2
 blasus 2
 brecwast 2
@@ -1263,7 +1265,6 @@ brynais 1
 chafodd 1
 Phryna 1
 mo'r 1
-afal 1
 Diflanodd 1
 hwyaden 1
 ffreutur 1
@@ -2279,7 +2280,6 @@ Fawrth 1
 tegan 1
 degan 1
 ti'r 1
-oren 1
 bacwn 1
 gwnes 1
 gwnest 1

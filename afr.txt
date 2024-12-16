@@ -1,24 +1,24 @@
 nie 1236
-is 1033
+is 1035
 het 960
 Ek 949
-die 738
+die 739
 'n 589
 Tom 438
 jy 430
-my 342
+my 344
 te 306
 om 288
 van 276
 jou 276
+Die 275
 dit 274
-Die 271
 vir 253
-in 247
+in 248
 ek 224
-was 217
+was 218
 Hy 209
-sal 193
+sal 194
 Ons 191
 gaan 173
 Dit 160
@@ -36,13 +36,13 @@ op 115
 baie 115
 hierdie 109
 doen 109
-wees 106
+wees 107
 oor 104
 haar 103
 hom 92
 My 91
-hy 90
-Wat 88
+hy 91
+Wat 89
 dat 87
 weet 81
 as 74
@@ -123,12 +123,12 @@ gedoen 27
 slaap 27
 waar 26
 tyd 26
+besig 26
 ken 25
 geen 25
 gesien 25
 nuwe 25
 Wanneer 25
-besig 25
 uit 25
 ma 24
 ook 24
@@ -297,6 +297,7 @@ bel 11
 vind 11
 plan 11
 Was 11
+blou 11
 terugkom 11
 mal 11
 geëet 11
@@ -325,7 +326,6 @@ bestuur 10
 Nee 10
 groente 10
 belangrik 10
-blou 10
 koud 10
 nat 10
 sleg 10
@@ -372,6 +372,7 @@ verbaas 9
 verkoop 9
 Haar 8
 eksamen 8
+verwag 8
 Baie 8
 rook 8
 Julle 8
@@ -406,7 +407,6 @@ Layla 8
 vra 7
 verlede 7
 Van 7
-verwag 7
 gelees 7
 siek 7
 wit 7
@@ -933,6 +933,7 @@ werklik 3
 minder 3
 vanmiddag 3
 lyn 3
+slaapkamer 3
 Leer 3
 vlag 3
 radio 3
@@ -950,6 +951,7 @@ plante 3
 steeds 3
 Help 3
 verdrink 3
+aarde 3
 pas 3
 studie 3
 glase 3
@@ -1263,7 +1265,6 @@ toegelaat 2
 doodgemaak 2
 goedere 2
 hartseer 2
-slaapkamer 2
 hierso 2
 jong 2
 sedert 2
@@ -1297,7 +1298,6 @@ hoog 2
 kuns 2
 talent 2
 on 2
-aarde 2
 gewoon 2
 verlof 2
 kelner 2
@@ -1340,6 +1340,7 @@ opgee 2
 instaat 2
 besigheid 2
 onlangse 2
+samelewing 2
 berei 2
 pleeg 2
 jaag 2
@@ -1603,6 +1604,7 @@ slaperig 2
 gebyt 2
 hondjie 2
 onderwys 2
+planeet 2
 Myn 2
 stert 2
 Agter 2
@@ -2387,7 +2389,6 @@ uitputting 1
 geskrik 1
 taak 1
 aangespreek 1
-samelewing 1
 misdadigers 1
 koninkryk 1
 gedraai 1
@@ -3520,7 +3521,6 @@ Ganumedes 1
 ysvorm 1
 vloeibare 1
 seë 1
-planeet 1
 bevry 1
 Staan 1
 vaderland 1
@@ -3609,3 +3609,7 @@ oplet 1
 Wolf 1
 getem 1
 rotte 1
+gedoem 1
+gordyne 1
+slaapkamergordyne 1
+mark 1

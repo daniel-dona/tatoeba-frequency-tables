@@ -8,8 +8,8 @@ in 315
 obik 270
 Maria 225
 dunön 189
-binon 173
-e 161
+binon 174
+e 162
 obe 154
 Tom 153
 dö 153
@@ -180,6 +180,7 @@ Binobs 24
 ele 24
 oni 23
 flens 23
+Dog 23
 mens 23
 obs 23
 nemi 23
@@ -192,7 +193,6 @@ u 22
 fa 22
 svimön 22
 Mens 22
-Dog 22
 miti 22
 kim 22
 velatik 22
@@ -214,6 +214,7 @@ Flentapüki 20
 änolom 20
 utosi 20
 smalik 19
+vini 19
 spikön 19
 fidom 19
 Li-binol 19
@@ -225,7 +226,6 @@ velatiko 19
 stenüdik 19
 mutom 19
 Buk 18
-vini 18
 i 18
 Labom 18
 Man 18
@@ -567,6 +567,8 @@ sil 6
 dabinon 6
 älabom 6
 Larabänapüki 6
+Vom 6
+fidof 6
 äkömom 6
 Binof-li 6
 Kömolöd 6
@@ -575,6 +577,7 @@ tabi 6
 Li-dledol 6
 Ägivob 6
 vomis 6
+fiti 6
 Tsyinänapüki 6
 Binol-li 6
 onsik 6
@@ -634,13 +637,11 @@ de 5
 mel 5
 neflenis 5
 Söl 5
-Vom 5
 Adelo 5
 ati 5
 seti 5
 Zif 5
 vat 5
-fidof 5
 fidons 5
 fate 5
 Fidob 5
@@ -656,7 +657,6 @@ nim 5
 stupik 5
 Li-kanobs 5
 zifa 5
-fiti 5
 Pük 5
 Binons 5
 nonik 5
@@ -947,6 +947,7 @@ dagi 3
 cili 3
 Tab 3
 Kin 3
+deadik 3
 alseimik 3
 Tatoeba 3
 püks 3
@@ -1287,7 +1288,6 @@ klänedon 2
 Bob 2
 Tidol 2
 matan 2
-deadik 2
 Su 2
 leigik 2
 Selom 2
@@ -4796,3 +4796,4 @@ jiflenis 1
 talopel 1
 pesagöl 1
 Dledoms 1
+dlinof 1

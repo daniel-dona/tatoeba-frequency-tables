@@ -3,7 +3,7 @@ ei 10525
 Tom 9601
 Hän 8245
 että 6770
-ja 6750
+ja 6751
 Tomi 6337
 ole 6190
 oli 5617
@@ -54,7 +54,7 @@ mitään 1338
 olet 1333
 siitä 1333
 sinua 1300
-Mari 1255
+Mari 1256
 olisi 1246
 Sinun 1233
 Me 1218
@@ -70,13 +70,13 @@ Oletko 1083
 tämän 1075
 Miksi 1071
 Tomilla 1057
-aina 1052
+aina 1053
 mennä 1051
 sinulle 1033
 Kuinka 1032
 Jos 1028
+häntä 1026
 Sinä 1025
-häntä 1025
 jos 1016
 jo 967
 Ei 965
@@ -1182,6 +1182,7 @@ Ottakaa 72
 neuvoa 72
 loppu 72
 vakavasti 72
+äitinsä 71
 ensimmäistä 71
 lyhyt 71
 vanhan 71
@@ -1192,7 +1193,6 @@ pääsi 71
 syystä 71
 luulin 71
 joi 70
-äitinsä 70
 voidaan 70
 rehellinen 70
 Heillä 70
@@ -8900,6 +8900,7 @@ pakkasta 8
 Säilytä 8
 päätöstä 8
 tyhjää 8
+unen 8
 maalausta 8
 luoksesi 8
 saatavilla 8
@@ -9997,4 +9998,3 @@ pelastaakseen 7
 isäntä 7
 halvalla 7
 kylläinen 7
-päänsärky 7

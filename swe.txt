@@ -7,7 +7,7 @@ du 5129
 en 5126
 på 4850
 det 4741
-i 4581
+i 4583
 har 4232
 Det 3878
 Han 3408
@@ -18,7 +18,7 @@ här 2660
 var 2605
 med 2453
 till 2366
-och 2328
+och 2330
 om 2256
 Hon 2076
 ett 1947
@@ -55,7 +55,7 @@ ha 755
 ut 739
 hade 737
 Var 734
-Den 725
+Den 727
 vad 715
 din 690
 de 688
@@ -97,7 +97,7 @@ tror 407
 många 396
 ser 392
 ingen 391
-fick 389
+fick 390
 men 380
 alltid 380
 sa 379
@@ -916,6 +916,7 @@ stannar 34
 köper 34
 igenom 34
 van 34
+Ryssland 34
 lyssna 34
 piano 34
 förlora 34
@@ -962,7 +963,6 @@ sägs 32
 Mannen 32
 Som 32
 ber 32
-Ryssland 32
 håret 32
 springer 32
 meningar 32
@@ -1966,6 +1966,7 @@ snön 13
 äpplena 13
 grottan 13
 vanlig 13
+flydde 13
 bekant 13
 pension 13
 avgår 13
@@ -2226,7 +2227,6 @@ Turkiet 11
 Egypten 11
 sticka 11
 faktum 11
-flydde 11
 sanning 11
 föreställa 11
 vetat 11
@@ -3678,6 +3678,7 @@ skriker 6
 missbrukar 6
 identitet 6
 Naturen 6
+presidenten 6
 Gav 6
 genomförde 6
 bebisen 6
@@ -4954,7 +4955,6 @@ monster 4
 Världens 4
 accepterade 4
 Träffar 4
-presidenten 4
 ankar 4
 Ligg 4
 tystlåten 4
@@ -5496,6 +5496,7 @@ flyktingar 4
 seriöst 4
 text 4
 planterat 4
+asyl 4
 fången 4
 "Vem 4
 lydde 4
@@ -8179,6 +8180,7 @@ självmant 2
 jättekul 2
 reality-tv 2
 snavade 2
+gavs 2
 dödande 2
 globalt 2
 servett 2
@@ -9819,7 +9821,6 @@ vältränad 2
 rast 2
 Namnen 2
 2013 2
-asyl 2
 syndabock 2
 Sköldpaddor 2
 Hoppsan 2
@@ -9997,4 +9998,3 @@ tänkbara 2
 abstinensbesvär 2
 vanföreställningar 2
 Stöd 2
-trycket 2

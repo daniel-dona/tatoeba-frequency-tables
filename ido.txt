@@ -1,24 +1,24 @@
-esas 2953
+esas 2961
 Me 2348
-la 2269
-ne 1360
+la 2273
+ne 1361
 Tom 1111
 La 1043
-me 897
+me 899
 tu 887
 Ka 765
 es 757
 havas 617
 en 614
-Il 481
+Il 482
 Ni 445
 vu 442
 ke 428
-di 406
+di 407
 a 404
 mea 399
 esis 387
-e 362
+e 363
 volas 346
 povas 311
 tre 304
@@ -28,7 +28,7 @@ il 269
 Mea 266
 El 262
 to 241
-plu 232
+plu 233
 kun 218
 de 210
 savas 206
@@ -37,7 +37,7 @@ bona 204
 To 194
 tua 193
 sua 186
-kam 185
+kam 186
 Li 181
 Ilu 177
 quo 176
@@ -47,7 +47,7 @@ Ne 165
 prizas 164
 bela 157
 el 153
-ol 152
+ol 153
 parolas 144
 Qua 138
 bezonas 136
@@ -81,11 +81,11 @@ ankore 97
 ca 96
 mustas 95
 linguo 92
+Quo 92
+ma 92
 lernas 92
 ta 91
 sur 91
-Quo 91
-ma 91
 per 90
 quale 90
 nun 89
@@ -111,10 +111,10 @@ pekunio 77
 ad 75
 aquo 75
 su 74
+vivo 72
 devas 72
 nova 72
 dicis 72
-vivo 71
 nomesas 71
 sen 70
 homi 70
@@ -141,12 +141,13 @@ volis 57
 amiko 57
 da 57
 facar 57
+ye 56
 tempo 55
 esos 55
+konocas 55
 darfas 54
 Nulu 54
 nultempe 54
-ye 54
 tante 53
 amiki 52
 elu 52
@@ -154,15 +155,14 @@ laboras 52
 Omna 51
 vidas 51
 ibe 51
-konocas 51
 irar 50
 fratino 50
 Quala 50
 kredas 50
+Deo 50
 on 49
 habitas 49
 kafeo 49
-Deo 49
 Kande 48
 morge 48
 kompris 48
@@ -236,6 +236,7 @@ ludas 33
 automobilo 33
 existas 33
 filiulo 33
+anke 33
 hundi 32
 venis 32
 blua 32
@@ -246,7 +247,6 @@ dormas 32
 tota 32
 Tua 32
 blanka 32
-anke 32
 pano 32
 hiere 31
 Quanta 31
@@ -500,6 +500,7 @@ Vua 15
 nulatempe 15
 povra 15
 muso 15
+populo 15
 Omno 15
 Danko 15
 uzar 14
@@ -531,12 +532,12 @@ ponto 14
 natas 14
 dankas 14
 okupata 14
+konocis 14
 sucesis 14
 rejo 14
 apud 14
 koloro 14
 Plu 14
-populo 14
 mortinta 14
 Dum 13
 "Ka 13
@@ -573,13 +574,14 @@ preferas 13
 onu 13
 Saluto 13
 fino 13
-konocis 13
 bezonis 13
 vakua 13
 komprenis 13
 helpas 13
 mentiis 13
 sango 13
+religio 13
+Judaismo 13
 Hundi 13
 Kati 13
 ociema 13
@@ -701,6 +703,7 @@ chera 10
 agis 10
 brilas 10
 adhike 10
+Segun 10
 reguli 10
 vilajo 10
 do 10
@@ -759,6 +762,7 @@ Rusia 10
 viri 10
 kerlo 10
 Futuesez 10
+Judi 10
 sango-preso 10
 saltar 10
 piktisto 10
@@ -783,6 +787,7 @@ klefi 9
 retrovenis 9
 poemo 9
 lavar 9
+komencas 9
 singla 9
 bestii 9
 krayono 9
@@ -838,7 +843,6 @@ dansis 9
 jurnalo 9
 vidos 9
 princino 9
-religio 9
 Olu 9
 tanta 9
 Liberigez 9
@@ -847,7 +851,6 @@ dansas 9
 Hebrea 9
 Trump 9
 gambi 9
-Judi 9
 amis 9
 kisis 9
 batelo 9
@@ -865,13 +868,11 @@ utila 8
 rare 8
 New 8
 York 8
-Segun 8
 donos 8
 cirkume 8
 romano 8
 enirar 8
 venonta 8
-komencas 8
 matine 8
 vartis 8
 amar 8
@@ -946,6 +947,7 @@ advokato 8
 stato 8
 mushi 8
 fola 8
+Iesu 8
 ociera 8
 flava 8
 milionero 8
@@ -1034,6 +1036,7 @@ Qui 7
 rizo 7
 postmarki 7
 kolektas 7
+Lia 7
 pauzo 7
 sukro 7
 valoras 7
@@ -1176,7 +1179,6 @@ laute 6
 motivo 6
 evidenta 6
 mariajar 6
-Lia 6
 festo 6
 precipue 6
 Hispaniana 6
@@ -1194,6 +1196,7 @@ depos 6
 krimino 6
 ekirar 6
 ganas 6
+studiis 6
 ferme 6
 mortos 6
 binoklo 6
@@ -1235,7 +1238,6 @@ inkubi 6
 flatuar 6
 Aljeria 6
 lentigini 6
-Iesu 6
 sucias 6
 fakti 6
 urso 6
@@ -1267,6 +1269,7 @@ duimo 5
 dorso 5
 matematiko 5
 komplexa 5
+anjelo 5
 Questionez 5
 telefonar 5
 krokodilo 5
@@ -1393,7 +1396,6 @@ Nu 5
 joyo 5
 kreis 5
 porko 5
-studiis 5
 duesma 5
 lundio 5
 maniero 5
@@ -1474,7 +1476,6 @@ acida 5
 flarado 5
 brueto 5
 stacis 5
-konacas 5
 kindi 5
 picho 5
 Tenez 5
@@ -1501,7 +1502,6 @@ komencez 4
 radio 4
 oportas 4
 mankas 4
-anjelo 4
 igas 4
 L'aquo 4
 nervoza 4
@@ -2198,6 +2198,7 @@ Quar 3
 opinioni 3
 Espero 3
 koito 3
+kompleta 3
 fixe 3
 vinko 3
 sidilo 3
@@ -2310,6 +2311,7 @@ Plubonesas 3
 medicino 3
 ridar 3
 perdas 3
+Satano 3
 nani 3
 ecelanta 3
 soldato 3
@@ -2410,7 +2412,6 @@ tamburo 3
 reprezentas 3
 jino 3
 vermuto 3
-kristanismo 3
 acidente 2
 egalesas 2
 mortonta 2
@@ -3135,7 +3136,6 @@ policano 2
 pikas 2
 anusala 2
 ordinare 2
-kompleta 2
 lavo 2
 gaya 2
 televidilo 2
@@ -3286,7 +3286,6 @@ socio 2
 oldeskas 2
 hundulo 2
 labora 2
-Judaismo 2
 koloroza 2
 fureto 2
 furtero" 2
@@ -3437,7 +3436,6 @@ batilo 2
 Frostas 2
 legitimar 2
 enoyiganta 2
-Satano 2
 heredos 2
 regnis 2
 idealisto 2
@@ -3718,8 +3716,9 @@ ped-iras 2
 pazis 2
 Shamez 2
 asasinis 2
-judaismo 2
+Kristanismo 2
 habiteyo 2
+kristanismo 2
 pavorigis 2
 Klabaster 1
 Gizmo 1
@@ -8036,6 +8035,7 @@ dissolvas 1
 retrodonar 1
 pejorativa 1
 raton-yuni 1
+konacas 1
 11ma 1
 2001 1
 tago 1
@@ -8576,7 +8576,6 @@ putani 1
 relatanta 1
 Religio 1
 automobili 1
-Kristanismo 1
 sproso 1
 odiar 1
 expirodato 1
@@ -8595,7 +8594,6 @@ Vikingo 1
 oliviero 1
 skriptis 1
 kompozis 1
-konacis 1
 Galileala 1
 Galileo 1
 Galilei 1
@@ -8621,3 +8619,9 @@ savenda 1
 pacoze 1
 respekto 1
 inquesto 1
+sucedanto 1
+nasko 1
+gravidesko 1
+servanta 1
+iritas 1
+vexas 1
