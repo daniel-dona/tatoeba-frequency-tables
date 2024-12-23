@@ -1,13 +1,13 @@
 lo 12852
 mi 6241
-cu 3511
+cu 3512
 do 3353
-la 3004
+la 3006
 pu 2313
 le 2303
 nu 2127
-se 1926
-i 1830
+se 1927
+i 1831
 na 1627
 be 1348
 ko'a 1278
@@ -78,8 +78,8 @@ kakne 198
 au 195
 lu 194
 mlatu 193
+melbi 193
 noi 193
-melbi 192
 li'u 191
 dunda 181
 xamgu 180
@@ -2004,6 +2004,7 @@ cabycerni 3
 gundi 3
 fanri 3
 selcme 3
+uisai 3
 nalzvati 3
 deivid 3
 samantas 3
@@ -2441,7 +2442,6 @@ sirji 2
 krati 2
 xilckabu 2
 xopkins 2
-uisai 2
 e'usai 2
 liz 2
 lapacrid 2
@@ -6932,3 +6932,5 @@ selylei 1
 tsaselgau 1
 bitgau 1
 ziris 1
+fadil 1
+danias 1

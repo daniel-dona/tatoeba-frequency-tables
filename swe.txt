@@ -8,7 +8,7 @@ en 5126
 på 4850
 det 4741
 i 4583
-har 4232
+har 4233
 Det 3878
 Han 3408
 jag 3148
@@ -235,8 +235,8 @@ dörren 160
 Boston 160
 nya 159
 andra 158
+liv 156
 verkar 155
-liv 155
 ingenting 153
 förstår 152
 ur 152
@@ -1005,6 +1005,7 @@ flygplatsen 30
 havet 30
 känt 30
 visa 30
+nio 30
 morse 30
 varken 30
 skrivit 30
@@ -1033,7 +1034,6 @@ besökte 29
 glömma 29
 hög 29
 mörkt 29
-nio 29
 råkade 29
 tjänst 29
 månad 29
@@ -1588,6 +1588,7 @@ Fråga 17
 levde 17
 hobby 17
 kriget 17
+Katter 17
 luft 17
 byn 17
 Dags 17
@@ -1651,7 +1652,6 @@ dött 16
 student 16
 studenter 16
 somnade 16
-Katter 16
 stiga 16
 översättning 16
 Grekland 16
@@ -6649,6 +6649,7 @@ strut 3
 franskan 3
 frites 3
 famn 3
+programmeringsspråk 3
 Drömmer 3
 ragg 3
 Tallinn 3
@@ -9097,7 +9098,6 @@ påklädd 2
 domare 2
 Lyckligtvis 2
 väsentlig 2
-programmeringsspråk 2
 svärta 2
 tippar 2
 Hatar 2

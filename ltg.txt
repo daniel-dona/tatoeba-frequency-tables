@@ -1,5 +1,5 @@
-ir 73
-Es 33
+ir 74
+Es 34
 ka 23
 Maņ 22
 i 17
@@ -38,6 +38,7 @@ ruodīs 5
 vēļ 4
 tuo 4
 dzeivuot 4
+dīna 4
 pa 4
 beju 4
 koč 4
@@ -55,8 +56,8 @@ vysod 4
 napateik 3
 lobs 3
 pats 3
+irā 3
 Jam 3
-dīna 3
 mōte 3
 maņ 3
 raud 3
@@ -94,8 +95,9 @@ as 2
 saļdiejums 2
 vīns 2
 As 2
-irā 2
+navaru 2
 Jai 2
+Loba 2
 Paļdis 2
 tauteņōs 2
 māmeņa 2
@@ -123,6 +125,7 @@ grybu 2
 Toma 2
 īt 2
 gryuts 2
+ticēt 2
 navarieju 2
 Jī 2
 kūpā 2
@@ -171,6 +174,7 @@ Izavielej 2
 varātu 2
 cylvākim 2
 kab 2
+sovom 2
 Šudiņ 2
 muzyka 2
 mans 2
@@ -201,7 +205,6 @@ Ite 1
 vaicuojums 1
 Asu 1
 kautreigs 1
-navaru 1
 atslādzamuo 1
 atdareit 1
 nagaršuo 1
@@ -216,7 +219,6 @@ kienenīni 1
 puori 1
 treisdesmit 1
 Vasals 1
-Loba 1
 Lobs 1
 vokors 1
 Vasali 1
@@ -362,7 +364,6 @@ vīntuļnīceibā 1
 Škotys 1
 atškireigā 1
 daļā 1
-ticēt 1
 vyss 1
 runuot 1
 guoja 1
@@ -733,7 +734,6 @@ jo 1
 gaida 1
 uzmaneigi 1
 redzēt 1
-sovom 1
 ticeibom 1
 nyknys 1
 pamete 1
@@ -900,3 +900,10 @@ cytaida 1
 mīsa 1
 labdareibys 1
 pasuokumus 1
+acim 1
+Četri 1
+plus 1
+pīci 1
+deveni 1
+Zeile 1
+putnys 1

@@ -1,6 +1,6 @@
 yn 558
 i 342
-Mae 287
+Mae 288
 y 198
 Dw 187
 i'n 178
@@ -27,7 +27,7 @@ dy 51
 Mary 48
 Roedd 48
 yw 47
-ni 46
+ni 47
 mynd 46
 chi'n 45
 i'r 42
@@ -113,11 +113,11 @@ heddiw 13
 dych 13
 ein 13
 byd 13
+gath 13
 prynu 13
 gwisgo 13
 yng 12
 Paid 12
-gath 12
 na 12
 dweud 12
 astudio 12
@@ -274,6 +274,7 @@ Gymraeg 5
 adref 5
 problem 5
 ddinas 5
+ddwy 5
 ysgrifennu 5
 rhif 5
 allan 5
@@ -335,7 +336,6 @@ fab 4
 Roeddwn 4
 ddyn 4
 cig 4
-ddwy 4
 es 4
 rŵan 4
 trên 4
@@ -431,6 +431,7 @@ broblem 3
 America 3
 cŵn 3
 Awstralia 3
+ddu 3
 bron 3
 ef 3
 mae'n 3
@@ -612,7 +613,6 @@ hardd 2
 gêm 2
 Tatoeba 2
 llygad 2
-ddu 2
 debyg 2
 gwers 2
 cyntaf 2
@@ -2547,3 +2547,4 @@ chath 1
 feddyg 1
 fyfyriwr 1
 saff 1
+gynnon 1

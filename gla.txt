@@ -5,7 +5,7 @@ mi 176
 e 135
 ann 116
 a' 107
-air 103
+air 104
 tha 89
 Tòmas 87
 bheil 86
@@ -35,11 +35,11 @@ sibh 30
 obair 29
 agus 28
 Is 27
+i 27
 Màiri 27
 agad 27
 glè 26
 dhomh 26
-i 26
 gun 26
 dol 25
 ri 24
@@ -79,10 +79,10 @@ duine 14
 bha 14
 ort 14
 cho 14
+leabhar 14
 uisge 13
 orm 13
 bi 13
-leabhar 13
 B' 13
 bu 13
 sgìth 13
@@ -1418,3 +1418,5 @@ Ceannaichidh 1
 Saor 1
 theth 1
 tur 1
+Sgrìobhaidh 1
+bith-eòlas 1

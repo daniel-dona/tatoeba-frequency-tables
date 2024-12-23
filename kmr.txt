@@ -6,11 +6,11 @@ min 999
 bi 936
 li 834
 Ew 816
-ê 739
+ê 740
 û 664
 ye 645
 ku 613
-Em 544
+Em 545
 Tom 544
 Tu 523
 me 519
@@ -22,7 +22,7 @@ Min 362
 Hûn 306
 di 303
 kir 297
-çi 280
+çi 281
 wê 261
 Ji 256
 em 250
@@ -507,6 +507,7 @@ awayî 12
 rizgar 12
 dan 11
 nêzî 11
+bixwin 11
 der 11
 mêr 11
 dixwest 11
@@ -548,7 +549,6 @@ dixe 11
 hebe 11
 nebe 11
 hestiyek 11
-bixwin 10
 nikarî 10
 dengê 10
 derbarê 10
@@ -1056,6 +1056,7 @@ dêya 6
 nehat 6
 kêfa 6
 welêt 6
+îşev 6
 nade 6
 werî 6
 fîlmekî 6
@@ -1256,7 +1257,6 @@ wêneyan 5
 stranan 5
 hişyar 5
 Mêrdînê 5
-îşev 5
 sînemayê 5
 dixebitin 5
 Qet 5

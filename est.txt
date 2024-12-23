@@ -2,9 +2,9 @@ on 1519
 Ma 924
 ei 734
 Tom 615
-Kas 439
+Kas 440
 sa 434
-Ta 351
+Ta 352
 et 344
 See 278
 ma 219
@@ -33,7 +33,7 @@ midagi 86
 minu 84
 ära 82
 Kui 80
-palju 79
+palju 80
 Miks 76
 sulle 72
 tahan 72
@@ -140,9 +140,9 @@ tegema 27
 enam 27
 kolm 27
 rohkem 27
+elab 27
 sõber 27
 ainult 26
-elab 26
 tahad 26
 teed 25
 juba 25
@@ -192,6 +192,7 @@ saan 20
 tahtnud 20
 Toomas 20
 tuleb 19
+raamatut 19
 praegu 19
 Ei 19
 Täna 19
@@ -200,7 +201,6 @@ väsinud 19
 vana 19
 läbi 18
 tööd 18
-raamatut 18
 kiiresti 18
 taga 18
 koera 18
@@ -505,6 +505,7 @@ ise 8
 Ütle 8
 Tänan 8
 tulla 8
+inimesi 8
 suuda 8
 rääkima 8
 kukkus 8
@@ -553,6 +554,7 @@ muusikat 7
 Seda 7
 hakkas 7
 Maria 7
+kirjutab 7
 joon 7
 vabandust 7
 maasikaid 7
@@ -582,7 +584,6 @@ tõsi 7
 küsis 7
 koht 7
 Hei 7
-inimesi 7
 aastal 7
 kardina 7
 poola 7
@@ -620,7 +621,6 @@ Tahan 6
 pärit 6
 arst 6
 sinine 6
-kirjutab 6
 igav 6
 vähem 6
 lõunat 6
@@ -1247,6 +1247,7 @@ valetab 3
 lähim 3
 surm 3
 poega 3
+Brasiilias 3
 soe 3
 lai 3
 Ah 3
@@ -1813,7 +1814,6 @@ kuulub 2
 Lill 2
 pood 2
 imeline 2
-Brasiilias 2
 hind 2
 Oleks 2
 Tuba 2
@@ -6716,3 +6716,4 @@ Tatarstani 1
 karikaturistina 1
 Kassidel 1
 kõigega 1
+bioloogiast 1

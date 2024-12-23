@@ -1,14 +1,14 @@
 Tomas 824
-No 583
+No 584
 das 542
 no 468
 binom 448
 etosi 414
 in 315
-obik 270
+obik 271
 Maria 225
 dunön 189
-binon 174
+binon 176
 e 162
 obe 154
 Tom 153
@@ -48,7 +48,7 @@ us 67
 Binom 67
 binof 67
 buki 66
-kanob 65
+kanob 66
 pükön 65
 valikosi 65
 Tikob 64
@@ -163,6 +163,7 @@ kömön 26
 gretik 25
 Dom 25
 Kat 25
+tuvön 25
 of 25
 lilädön 25
 flentapüki 25
@@ -171,7 +172,6 @@ penedi 24
 Logob 24
 Kanob 24
 dom 24
-tuvön 24
 vobön 24
 nulik 24
 Spikol-li 24
@@ -381,6 +381,7 @@ Binom-li 10
 blodis 10
 Mot 10
 lifön 10
+Kats 10
 logob 10
 Pul 10
 libik 10
@@ -411,7 +412,6 @@ labol 9
 lul 9
 älogob 9
 Ob 9
-Kats 9
 jisoni 9
 Men 9
 veütik 9
@@ -873,6 +873,7 @@ Flentapük 4
 Odunob 4
 egivom 4
 dunolöd 4
+gloki 4
 ätikob 4
 Ävobob 4
 jönikün 4
@@ -1126,7 +1127,6 @@ Sevol 3
 pükol 3
 yagön 3
 äkanobs 3
-gloki 3
 Lols 3
 äbinos 3
 tidelis 3
@@ -1261,6 +1261,7 @@ nifaman 2
 Kö 2
 spel 2
 Tayänapük 2
+Tayäna 2
 Äbinom-li 2
 jerik 2
 Ven 2
@@ -1482,6 +1483,7 @@ svidik 2
 pod 2
 Fidof 2
 Rojats 2
+labons 2
 Rojatis 2
 Zitron 2
 züdöfik 2
@@ -1687,6 +1689,7 @@ Li-dlinol 2
 Pükolöd 2
 vietiki 2
 apodi 2
+zül 2
 älödoms 2
 ogolol 2
 lemon 2
@@ -1887,6 +1890,7 @@ Mud 2
 sufik 2
 otuvob 2
 Hicil 2
+Cifazif 2
 lanan 1
 Faemob 1
 Faemol-li 1
@@ -2083,7 +2087,6 @@ pädämikons 1
 tep 1
 Logedolöd 1
 lefogis 1
-Tayäna 1
 Ämoükom 1
 Reidom 1
 Pidob 1
@@ -2894,7 +2897,6 @@ svidikum 1
 zitrons 1
 Plidof-li 1
 Plidom-li 1
-labons 1
 vitaminis 1
 äremol-li 1
 eremol-li 1
@@ -3647,7 +3649,6 @@ Pükom-li 1
 Senitö 1
 Beginobs 1
 Kanon-li 1
-zül 1
 Kimiki 1
 nüni 1
 Givon 1
@@ -4797,3 +4798,8 @@ talopel 1
 pesagöl 1
 Dledoms 1
 dlinof 1
+lifis 1
+Bangkok 1
+Vietnamäna 1
+Hà 1
+Nội 1

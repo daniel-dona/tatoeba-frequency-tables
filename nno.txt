@@ -16,8 +16,8 @@ meg 471
 var 447
 eg 445
 han 388
+at 381
 med 379
-at 379
 Ho 358
 deg 354
 og 344
@@ -32,7 +32,7 @@ fransk 245
 Er 236
 seg 234
 ei 230
-Dei 226
+Dei 228
 om 216
 Kor 205
 likar 197
@@ -78,8 +78,8 @@ din 100
 Boston 98
 snakkar 95
 bur 92
+enn 91
 so 90
-enn 89
 aldri 88
 Kan 87
 vi 87
@@ -182,6 +182,7 @@ vore 38
 ligg 38
 dokker 38
 vert 37
+lenger 37
 når 37
 di 37
 ingen 36
@@ -191,13 +192,13 @@ kvar 36
 god 36
 feil 36
 alltid 35
-lenger 35
 tilbake 35
 heime 35
 andre 35
 Korfor 35
 lærer 35
 Tak 35
+seier 34
 utan 34
 burde 34
 sjølv 34
@@ -209,7 +210,6 @@ saman 33
 hjelpa 33
 Lat 33
 Gøym 33
-seier 32
 under 32
 att 32
 fekk 32
@@ -442,6 +442,7 @@ søv 15
 hest 15
 nei 15
 fordi 15
+lever 15
 liv 15
 likevel 15
 Kunne 15
@@ -522,7 +523,6 @@ Berre 13
 katt 13
 augo 13
 Tokyo 13
-lever 13
 driv 13
 vorten 13
 lov 13
@@ -977,6 +977,7 @@ Kameraet 7
 veggen 7
 søte 7
 vita 7
+menn 7
 kjøt 7
 lange 7
 skjøna 7
@@ -1280,7 +1281,6 @@ kjeft 5
 bygde 5
 Bror 5
 italiensk 5
-menn 5
 sverd 5
 stira 5
 gjetta 5
@@ -1580,6 +1580,7 @@ Spania 4
 fasinerande 4
 Som 4
 ungarar 4
+damer 4
 seksjonen 4
 konsonantar 4
 moro 4
@@ -1901,6 +1902,7 @@ vanskelegare 3
 mål 3
 gul 3
 kyssa 3
+kvinner 3
 dollar 3
 pause 3
 buss 3
@@ -2011,7 +2013,6 @@ vara 3
 hovudstad 3
 germanske 3
 nordmenn 3
-damer 3
 både 3
 velja 3
 stinkar 3
@@ -2515,7 +2516,6 @@ gjester 2
 området 2
 undrast 2
 freista 2
-kvinner 2
 mareritt 2
 genser 2
 genseren 2
