@@ -1,4 +1,4 @@
-esas 2963
+esas 2964
 Me 2349
 la 2273
 ne 1361
@@ -7,7 +7,7 @@ La 1043
 me 899
 tu 887
 Ka 765
-es 757
+es 760
 havas 617
 en 614
 Il 482
@@ -22,7 +22,7 @@ e 363
 volas 346
 povas 311
 tre 304
-Tu 292
+Tu 293
 por 277
 il 269
 Mea 266
@@ -40,7 +40,7 @@ sua 186
 kam 186
 Li 181
 Ilu 177
-quo 176
+quo 177
 vi 172
 pri 172
 Ne 165
@@ -54,11 +54,11 @@ bezonas 136
 libro 135
 qua 134
 Ube 131
-Pro 130
+Pro 131
 Elu 127
 amas 126
 Mary 126
-Vu 123
+Vu 124
 Esas 122
 multa 119
 granda 118
@@ -172,12 +172,12 @@ ja 47
 ka 46
 urbo 46
 Bona 45
+Vi 45
 ube 45
 lua 45
 tri 45
 Se 44
 viro 44
-Vi 44
 Ilua 44
 facas 44
 ilua 44
@@ -286,6 +286,7 @@ filiino 28
 mortis 28
 Yes 28
 semblas 27
+tala 27
 lektis 27
 povis 27
 kin 27
@@ -296,7 +297,6 @@ Co 27
 persono 26
 genitori 26
 tam 26
-tala 26
 divenis 26
 infanto 26
 kaptis 26
@@ -1473,6 +1473,7 @@ violacesis 5
 batis 5
 jolia" 5
 acida 5
+nepolita 5
 flarado 5
 brueto 5
 stacis 5
@@ -3533,7 +3534,6 @@ Latviana 2
 Sloveniana 2
 Albaniana 2
 Flatuar 2
-nepolita 2
 cielarko 2
 pluvarko 2
 Pomo 2
@@ -3691,6 +3691,7 @@ forno 2
 amantulo 2
 pregeyo 2
 krieskis 2
+usani 2
 kolonii 2
 pafez 2
 Vehez 2
@@ -8437,7 +8438,6 @@ alternativo 1
 autuno 1
 Kavalyuno 1
 pavimento 1
-usani 1
 liberesis 1
 honoropromiso 1
 paf-armo 1

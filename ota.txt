@@ -1,9 +1,9 @@
-bir 493
+bir 494
  438
-ve 433
+ve 437
 idi 190
 بر 172
-bu 150
+bu 151
 توم 135
 Bu 135
 ile 126
@@ -14,7 +14,7 @@ kadar 75
 ki 61
 Bir 61
 dedi 61
-olan 58
+olan 59
 gibi 57
 de 56
 و 54
@@ -28,8 +28,8 @@ daha 40
 ben 40
 iki 38
 Ben 38
+eden 36
 sonra 36
-eden 35
 için 35
 چوق 34
 bana 34
@@ -62,8 +62,8 @@ en 22
 Ehrimen 22
 günü 21
 Kolordu 21
+ise 21
 dem 21
-ise 20
 ediyordu 20
 hâlde 20
 etmiş 19
@@ -80,13 +80,14 @@ olmak 18
 دگل 18
 Osmanlı 18
 kendi 18
+bütün 18
 ü 18
 meydâna 18
 nûr 18
 Hürmüz 18
 ایدی 17
 اونی 17
-bütün 17
+eder 17
 olduğunu 17
 içün 16
 بز 16
@@ -94,13 +95,12 @@ içün 16
 ده 16
 راحتسز 16
 yalnız 16
+başka 16
 üç 16
-eder 16
 yok 16
 mi 16
 pehlivan 16
 ایچون 15
-başka 15
 vardı 15
 Ne 15
 oldum 15
@@ -120,10 +120,10 @@ bile 14
 an 13
 iken 13
 altında 13
+içinde 13
 ederek 13
 başladım 13
 olur 12
-içinde 12
 İşte 12
 olsun 12
 adam 12
@@ -483,6 +483,7 @@ ejderhâ-yı 5
 şekil 5
 çıkardı 5
 cevâb 5
+insanı 5
 sözler 5
 deli 5
 doğrusu 5
@@ -665,7 +666,6 @@ meydân-ı 4
 idiler 4
 hele 4
 akıl 4
-insanı 4
 başladılar 4
 adamın 4
 mahsûs 4
@@ -904,6 +904,7 @@ kâmilen 3
 müteessir 3
 emin 3
 yol 3
+tatbik 3
 gelen 3
 mukavemet 3
 gelmek 3
@@ -1651,7 +1652,6 @@ maddî 2
 mücadeleye 2
 hayâlât 2
 amelî 2
-tatbik 2
 Milletin 2
 yolu 2
 hareket 2
@@ -1990,6 +1990,7 @@ ilâhî 2
 kılmıştır 2
 zîrâ 2
 canlı 2
+hikâye-i 2
 بونلر 2
 cihânın 2
 عصری 2
@@ -2250,6 +2251,7 @@ gümüş 2
 verdi: 2
 memnûniyetle 2
 Zîrâ 2
+ona 2
 Oraya 2
 Hele 2
 tutarak 2
@@ -2328,6 +2330,7 @@ hâle 2
 envâr 2
 Kollarını 2
 saçları 2
+zelzele-i 2
 titretdi 2
 toprak 2
 kapadım 2
@@ -2508,6 +2511,7 @@ Başında 2
 Elini 2
 atarak 2
 hile 2
+dünyayı 2
 yüzü 2
 Merhamet 2
 gülüyordu 2
@@ -2628,6 +2632,7 @@ bilmezler 2
 sendendir 2
 eyleyen 2
 görmüşüz 2
+eğer 2
 Tatoeba'da 1
 iştirâkçi 1
 چوجقلر 1
@@ -6121,7 +6126,6 @@ zinâ 1
 mukayyettir 1
 حكايهٔ 1
 حیاتم 1
-hikâye-i 1
 hayâtım 1
 كُلٌّ 1
 küllün 1
@@ -7750,7 +7754,6 @@ gölgesinde 1
 nev'-i 1
 insanın 1
 çıkamaz 1
-ona 1
 çıkmak 1
 olmalı 1
 kalbde 1
@@ -8276,7 +8279,6 @@ Vuslat 1
 ra'dâsâ 1
 zemîni 1
 inletdi 1
-zelzele-i 1
 velvele-resâ 1
 dünyâyı 1
 alt 1
@@ -9707,7 +9709,6 @@ diyorlardı 1
 Civan-ı 1
 serâpâ 1
 âvâze-yi 1
-dünyayı 1
 öğlene 1
 Ehrimenîyi 1
 tepeledim 1
@@ -9997,4 +9998,3 @@ tedkîk-i 1
 ثلاثه 1
 اجتماعىدن 1
 مشكلدر 1
-mevâlid-i 1

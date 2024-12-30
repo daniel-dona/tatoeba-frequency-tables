@@ -4,7 +4,7 @@ Mae 288
 y 198
 Dw 187
 i'n 178
-Tom 165
+Tom 166
 ddim 117
 o 116
 ei 97
@@ -58,10 +58,10 @@ gwneud 24
 hynny 24
 dod 23
 fel 23
+gan 23
 ond 23
 ôl 23
 bwyta 23
-gan 22
 dim 22
 wneud 22
 llyfr 21
@@ -90,6 +90,7 @@ e 16
 darllen 16
 hyn 16
 A 16
+oes 16
 rhy 16
 dysgu 16
 eu 15
@@ -98,7 +99,6 @@ bwrw 15
 Dydy 15
 Yn 15
 ardd 15
-oes 15
 e'n 14
 Ydych 14
 Saesneg 14
@@ -134,6 +134,7 @@ angen 11
 ddoe 11
 fynd 11
 oedd 11
+Pam 11
 fawr 11
 gael 11
 os 11
@@ -153,7 +154,6 @@ Dydw 10
 eto 10
 yna 10
 bwyd 10
-Pam 10
 gweld 10
 yfory 10
 Maen 10
@@ -660,6 +660,7 @@ Ysgrifennodd 2
 dalu 2
 marwolaeth 2
 hwyneb 2
+gariad 2
 Esperanto 2
 blodau 2
 i'm 2
@@ -695,6 +696,7 @@ Heddiw 2
 gwirioni 2
 fathau 2
 frechdanau 2
+nid 2
 agosaf 2
 ddysgu 2
 Ein 2
@@ -1142,7 +1144,6 @@ breuddwydio 1
 ohonynt 1
 Siapaneg 1
 bodoli 1
-gariad 1
 cloc 1
 gyfaill 1
 bost 1
@@ -1218,7 +1219,6 @@ gyda'u 1
 ymddiheuro 1
 gennyt 1
 sgrechian 1
-nid 1
 oriau 1
 hir 1
 rheda 1

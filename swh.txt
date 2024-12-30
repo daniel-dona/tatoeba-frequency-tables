@@ -14,8 +14,8 @@ Je 168
 kama 151
 wakati 147
 yake 141
+yangu 128
 mtu 128
-yangu 126
 Ni 109
 moja 107
 lakini 107
@@ -49,7 +49,7 @@ Amerika 58
 siku 57
 miaka 54
 saa 53
-hapa 51
+hapa 52
 hilo 51
 Kuna 50
 nzuri 49
@@ -71,9 +71,9 @@ hili 45
 nchi 44
 muda 44
 ana 44
+karibu 44
 njia 43
 vya 43
-karibu 43
 kupata 42
 kweli 42
 Yeye 42
@@ -108,12 +108,12 @@ yote 34
 wewe 34
 mmoja 34
 si 33
+Mungu 33
 wengi 33
 baada 33
 gani 32
 mbili 32
 hata 32
-Mungu 32
 huo 32
 habari 31
 shule 31
@@ -300,8 +300,10 @@ jioni 15
 nzima 15
 binti 15
 amani 15
+Mama 15
 nchini 15
 dhahabu 15
+zawadi 15
 mbali 15
 Siwezi 15
 pekee 15
@@ -330,7 +332,6 @@ utani 14
 msichana 14
 elfu 14
 iliyopita 14
-zawadi 14
 kuanza 14
 hufanya 14
 eneo 14
@@ -360,6 +361,7 @@ hakika 13
 vitabu 13
 wiki 13
 anaweza 13
+yuko 13
 yule 13
  13
 mwezi 13
@@ -370,7 +372,6 @@ dola 13
 Baba 13
 alisema 13
 Mfalme 13
-Mama 13
 ardhi 13
 polisi 13
 mji 13
@@ -427,7 +428,6 @@ samaki 11
 sigara 11
 dunia 11
 kulia 11
-yuko 11
 wazi 11
 Ujerumani 11
 Kifaransa 11
@@ -2904,6 +2904,7 @@ kifua 2
 kuvumilia 2
 kumpoteza 2
 kujijua 2
+Hawatakubali 2
 Unapendeza 2
 Ninatumai 2
 kumuua 2
@@ -6678,7 +6679,6 @@ miungu 1
 neema 1
 Sifurahii 1
 aiskrimu 1
-Hawatakubali 1
 udhuru 1
 kutofika 1
 unaendelea 1
@@ -9280,3 +9280,5 @@ unatazama 1
 imesaidia 1
 iliendeshwa 1
 Sikukubali 1
+tupatie 1
+subira 1

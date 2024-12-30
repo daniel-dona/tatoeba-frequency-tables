@@ -1,8 +1,8 @@
-is 385
+is 386
 Ich 334
 Tom 212
 en 203
-hod 166
+hod 167
 net 153
 hon 143
 die 128
@@ -15,23 +15,23 @@ Das 93
 Sie 73
 Meer 72
 in 68
+Er 62
 se 62
-Er 61
 waar 60
 wees 55
 Du 54
 un 53
 sein 53
 es 52
+Was 51
 Gott 51
 meer 49
 Es 49
-Was 48
 aan 44
 do 43
 wie 41
+noch 40
 mit 40
-noch 39
 uff 38
 mich 38
 mein 37
@@ -49,12 +49,12 @@ dich 30
 aam 29
 mache 29
 deer 28
+was 28
 fun 27
 Deer 27
-was 26
 nichs 26
+aarich 26
 weis 25
-aarich 25
 Glick 25
 Waromm 24
 bitte 24
@@ -66,10 +66,10 @@ meh 23
 grien 23
 fiel 22
 Wo 22
+etwas 22
 so 22
 schun 22
 gehn 21
-etwas 21
 wisse 21
 noh 21
 Där 21
@@ -201,6 +201,7 @@ wohne 8
 eier 8
 ferloer 8
 sihd 8
+eppes 8
 oft 8
 krank 8
 Katze 8
@@ -230,6 +231,7 @@ Ovend 7
 sprechd 7
 waare 7
 ohne 7
+basseerd 7
 Boston 7
 geschaffd 7
 seid 7
@@ -246,7 +248,6 @@ besser 7
 Stunn 7
 wohnd 7
 griene 7
-eppes 7
 degeghe 7
 Komm 7
 Kind 7
@@ -274,7 +275,6 @@ weider 6
 Gester 6
 Wann 6
 gefall 6
-basseerd 6
 nie 6
 Eppel 6
 aankomm 6
@@ -309,6 +309,7 @@ du 5
 gehn-ich 5
 wenn 5
 schwimme 5
+Saa 5
 mechte 5
 Brief 5
 Tëlevisong 5
@@ -622,6 +623,7 @@ gefrohd 3
 benutze 3
 waard 3
 Blumme 3
+dass-se 3
 Woche 3
 aanrufe 3
 fresse 3
@@ -633,6 +635,7 @@ ferschwunn 3
 Bass 3
 Bleib 3
 Follichd 3
+Ess 3
 hinne 3
 Hof 3
 Kenndst-du 3
@@ -660,7 +663,6 @@ meeghlich 2
 wenn-der 2
 liebst 2
 angle 2
-Saa 2
 Dauve 2
 Micke 2
 Messer 2
@@ -740,6 +742,7 @@ Um 2
 ringang 2
 suche 2
 Enkelkinner 2
+Hoer 2
 falld 2
 Trepp 2
 abgewe 2
@@ -894,10 +897,10 @@ billich 2
 waarst 2
 nee 2
 konnd 2
+Machd 2
 was-der 2
 eendun 2
 Geil 2
-dass-se 2
 attackeerd 2
 uffs 2
 dëssidiere 2
@@ -935,7 +938,6 @@ annres 2
 hod's 2
 ernst 2
 fort 2
-Ess 2
 Essd 2
 hassd 2
 gewe 2
@@ -1214,7 +1216,6 @@ statt 1
 jedeenn 1
 fortgang 1
 Abbutzlumpe 1
-Hoer 1
 Abfalle 1
 Himdknopp 1
 inschlofe 1
@@ -1741,7 +1742,6 @@ Däst-du 1
 Däd-der 1
 schicke 1
 Torrem 1
-Machd 1
 Bëgamott 1
 gefalle 1
 schullich 1
@@ -2031,3 +2031,6 @@ Meeghd-ich 1
 daure 1
 rinbasse 1
 Meeghd 1
+korze 1
+rauskommd 1
+fehld 1

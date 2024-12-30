@@ -1,5 +1,5 @@
 nie 1236
-is 1035
+is 1036
 het 960
 Ek 949
 die 739
@@ -10,8 +10,8 @@ my 344
 te 306
 om 288
 van 276
+Die 276
 jou 276
-Die 275
 dit 274
 vir 253
 in 248
@@ -801,6 +801,7 @@ teenwoordigheid 4
 dame 4
 toestemming 4
 woud 4
+blare 4
 rond 4
 dringend 4
 skaduwee 4
@@ -945,6 +946,7 @@ Australië 3
 lelik 3
 harde 3
 groter 3
+bruin 3
 verder 3
 bespreek 3
 plante 3
@@ -1041,7 +1043,6 @@ yskas 3
 sagter 3
 verdieping 3
 omgewing 3
-blare 3
 krag 3
 gesels 3
 kaggel 3
@@ -1287,7 +1288,6 @@ berou 2
 stroom 2
 pragtige 2
 verkoue 2
-bruin 2
 gewerk 2
 Marie 2
 bekostig 2

@@ -1,12 +1,12 @@
 да 7703
-da 6892
+da 6893
 је 6814
 je 6812
 се 3959
 Том 3572
 сам 3480
 se 3036
-sam 2506
+sam 2507
 ли 2328
 Tom 2067
 u 2065
@@ -814,6 +814,7 @@ misli 40
 uradila 40
 прави 39
 odem 39
+nedelje 39
 živim 39
 verujem 39
 zajedno 39
@@ -833,7 +834,6 @@ siguran 39
 rekla 39
 kiša 38
 stigao 38
-nedelje 38
 Izgleda 38
 Ljudi 38
 Vas 38
@@ -923,6 +923,7 @@ pravi 34
 ikada 34
 igra 34
 uz 34
+počeo 34
 Tomov 34
 čuo 34
 stvar 34
@@ -958,7 +959,6 @@ jedno 33
 Imamo 33
 dao 33
 voliš 33
-počeo 33
 поред 33
 њим 33
 значи 33
@@ -1806,6 +1806,7 @@ Može 17
 trideset 17
 Moje 17
 kojoj 17
+učim 17
 dozvolu 17
 grada 17
 zapravo 17
@@ -1913,7 +1914,6 @@ rečenice 16
 roditelji 16
 znate 16
 uraditi 16
-učim 16
 Čak 16
 svojih 16
 čega 16
@@ -2348,6 +2348,7 @@ Njen 13
 sestre 13
 besan 13
 Sa 13
+Prošle 13
 току 13
 родитеља 13
 њом 13
@@ -2520,7 +2521,6 @@ Dajte 12
 mlad 12
 roman 12
 idu 12
-Prošle 12
 slučaju 12
 важан 12
 многе 12
@@ -3266,6 +3266,7 @@ ubedim 9
 Ken 9
 izlazi 9
 bejzbol 9
+kineski 9
 spavaš 9
 odmor 9
 reče 9
@@ -3615,7 +3616,6 @@ Došao 8
 igrač 8
 rado 8
 naučiti 8
-kineski 8
 idete 8
 devojkom 8
 razmišljao 8
