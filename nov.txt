@@ -1,4 +1,4 @@
-es 203
+es 204
 Me 123
 li 80
 Li 74
@@ -142,6 +142,7 @@ prisa 4
 Sami 4
 bel 4
 judes 4
+Lum 4
 robes 4
 monde 4
 rosikolori 4
@@ -210,7 +211,6 @@ kantad 3
 dansad 3
 kanta 3
 odiad 3
-Lum 3
 vilaje 3
 se 3
 lerna 3
@@ -286,6 +286,7 @@ nudles 2
 hundes 2
 nederlandum 2
 italum 2
+gelbi 2
 ja 2
 patro 2
 questione 2
@@ -526,7 +527,6 @@ XXX 1
 usa 1
 Popule 1
 folies 1
-gelbi 1
 fad 1
 suke 1
 nun 1

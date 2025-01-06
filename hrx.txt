@@ -46,11 +46,12 @@ Do 32
 dein 32
 gern 30
 dich 30
+deer 29
 aam 29
 mache 29
-deer 28
 was 28
 fun 27
+Wo 27
 Deer 27
 nichs 26
 aarich 26
@@ -65,7 +66,6 @@ muss 23
 meh 23
 grien 23
 fiel 22
-Wo 22
 etwas 22
 so 22
 schun 22
@@ -97,6 +97,7 @@ eich 15
 kann 15
 sich 15
 gesihn 15
+wo 15
 Hallebnacht 15
 gesaad 15
 kenne 14
@@ -119,6 +120,7 @@ Aff 13
 Palëstina 13
 Heit 12
 kommd 12
+gehd 12
 schaffe 12
 Himd 12
 Aarvet 12
@@ -131,7 +133,6 @@ abgebrennd 12
 Karre 11
 spreche 11
 Wiffel 11
-gehd 11
 Kann-ich 11
 ich 11
 Geh 11
@@ -142,6 +143,7 @@ Aanfang 11
 Abakaschi 11
 Annas 11
 fum 11
+besser 11
 kried 11
 Ëvent 11
 dohie 11
@@ -157,7 +159,6 @@ Mary 10
 musst 10
 gemach 10
 gess 10
-wo 10
 Wasser 10
 däd 10
 Unser 9
@@ -244,7 +245,6 @@ adoteerd 7
 Gehd 7
 alt 7
 Dokter 7
-besser 7
 Stunn 7
 wohnd 7
 griene 7
@@ -258,6 +258,7 @@ Lieb 6
 glicklich 6
 Keen 6
 acht 6
+du 6
 Wenn-der 6
 hogh 6
 aanhalle 6
@@ -305,7 +306,6 @@ is-es 5
 odder 5
 sechs 5
 Kaffi 5
-du 5
 gehn-ich 5
 wenn 5
 schwimme 5
@@ -367,6 +367,7 @@ Schlof 5
 finne 5
 fergess 5
 geruf 5
+ehnder 5
 gelecheld 5
 Spass 5
 Nochber 5
@@ -663,6 +664,7 @@ meeghlich 2
 wenn-der 2
 liebst 2
 angle 2
+gehst 2
 Dauve 2
 Micke 2
 Messer 2
@@ -721,6 +723,7 @@ Schluss 2
 Kampf 2
 bezaald 2
 beovachte 2
+schlechter 2
 2013 2
 Kennst-du 2
 Mamma 2
@@ -835,6 +838,7 @@ Sin-se 2
 sollst 2
 mim 2
 sprechst 2
+jinger 2
 Sorvett 2
 geweest 2
 Dings 2
@@ -869,7 +873,6 @@ Heerd-der 2
 däd-ich 2
 Schiff 2
 solle 2
-ehnder 2
 pizza 2
 was-se 2
 hod-er 2
@@ -1032,7 +1035,6 @@ muss-se 1
 bleibst 1
 bleibd 1
 lieb 1
-gehst 1
 Woherheet 1
 Stimm 1
 zitterd 1
@@ -1162,7 +1164,6 @@ Aller 1
 Ferkeerder 1
 schwäres 1
 Enn 1
-schlechter 1
 gude 1
 Meisterstick 1
 geglaabd 1
@@ -1584,7 +1585,6 @@ Raum 1
 rieche 1
 1963 1
 gelebd 1
-jinger 1
 mecht 1
 wie-se 1
 rëaghiere 1
@@ -2034,3 +2034,4 @@ Meeghd 1
 korze 1
 rauskommd 1
 fehld 1
+frecher 1

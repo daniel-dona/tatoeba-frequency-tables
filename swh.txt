@@ -2,7 +2,7 @@ ya 1292
 na 1069
 wa 753
 kwa 695
-ni 620
+ni 622
 katika 241
 kwenye 227
 kuwa 214
@@ -80,22 +80,22 @@ Yeye 42
 nyumba 42
 huu 42
 huyo 42
+mara 41
 mahali 41
 kabisa 41
 ikiwa 41
 bora 41
 kawaida 41
-mara 40
 usiku 40
 mkubwa 40
 nguvu 39
+Mimi 38
 huko 38
 yao 38
 muhimu 38
 Ikiwa 38
 Hakuna 37
 sehemu 37
-Mimi 36
 leo 36
 kidogo 36
 unaweza 36
@@ -265,6 +265,7 @@ upande 17
 kusafiri 17
 picha 17
 nafasi 17
+ngapi 17
 umri 17
 mwa 17
 ndio 17
@@ -277,7 +278,6 @@ Nataka 16
 chumba 16
 mwili 16
 jengo 16
-ngapi 16
 kamili 16
 Baada 16
 London 16
@@ -789,6 +789,7 @@ mdomo 6
 hasira 6
 benki 6
 Mwanamke 6
+kanisani 6
 mweupe 6
 mtihani 6
 kipya 6
@@ -926,7 +927,6 @@ Anatoka 5
 mwimbaji 5
 jikoni 5
 pombe 5
-kanisani 5
 mwanafunzi 5
 mazuri 5
 bluu 5
@@ -9282,3 +9282,6 @@ iliendeshwa 1
 Sikukubali 1
 tupatie 1
 subira 1
+mkristo 1
+Unaenda 1
+mwema 1

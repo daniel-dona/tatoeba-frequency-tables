@@ -1,19 +1,19 @@
-er 4381
-Jeg 3624
-ikke 2480
+er 4382
+Jeg 3625
+ikke 2481
 å 2192
 i 2177
 en 2058
 du 1904
 har 1808
-det 1805
+det 1806
 Tom 1768
 på 1717
 til 1563
+og 1344
 jeg 1343
-og 1343
 Det 1177
-for 1068
+for 1069
 med 1067
 meg 1053
 Han 1009
@@ -29,7 +29,7 @@ kan 659
 vil 646
 om 587
 så 582
-han 577
+han 578
 Vi 557
 den 495
 min 468
@@ -100,8 +100,8 @@ etter 169
 hans 160
 nå 157
 dere 156
+eller 150
 alt 149
-eller 149
 ingen 147
 sa 146
 se 145
@@ -117,7 +117,7 @@ få 136
 ta 135
 der 135
 igjen 135
-to 133
+to 134
 andre 129
 snakker 128
 gang 127
@@ -199,10 +199,10 @@ lære 73
 sammen 73
 la 72
 fikk 72
+fordi 72
 felles 72
 ned 71
 burde 71
-fordi 71
 skolen 71
 samme 70
 rett 70
@@ -439,6 +439,7 @@ lurer 30
 vinduet 30
 prøve 30
 Hvilken 30
+Norge 30
 satt 30
 Her 30
 vanligvis 30
@@ -461,7 +462,6 @@ tenke 29
 heter 29
 hit 29
 begge 29
-Norge 29
 møte 29
 råd 29
 tro 29
@@ -746,6 +746,7 @@ hagen 17
 fremdeles 17
 greit 17
 fantastisk 17
+kaller 17
 vannet 17
 naken 17
 all 17
@@ -790,7 +791,6 @@ språket 16
 unge 16
 setningen 16
 vennene 16
-kaller 16
 tretti 16
 Barna 16
 svart 16
@@ -2583,6 +2583,7 @@ lidenskap 4
 håpløs 4
 revolusjon 4
 søke 4
+Nordmenn 4
 Mario 4
 naturlige 4
 reagere 4
@@ -3183,7 +3184,6 @@ parasittene 3
 formerer 3
 økonomisk 3
 Hvert 3
-Nordmenn 3
 skrives 3
 ens 3
 feire 3
@@ -4282,6 +4282,7 @@ kø 2
 vennlige 2
 verdsetter 2
 Regjeringens 2
+"Norge" 2
 allianse 2
 vedtok 2
 importert 2
@@ -5251,6 +5252,7 @@ strøm 2
 sjekket 2
 gladest 2
 Chicago 2
+offisielle 2
 kollega 2
 springen 2
 Thailand 2
@@ -7070,7 +7072,6 @@ kontorplanter 1
 ansett 1
 mektige 1
 innflytelsesrike 1
-"Norge" 1
 lastebilsjåfør 1
 alliert 1
 stiftet 1
@@ -9997,4 +9998,3 @@ arktiske 1
 klimatiske 1
 soner 1
 sørlige 1
-fantastiske 1

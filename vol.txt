@@ -1,8 +1,8 @@
 Tomas 824
 No 585
-das 542
+das 543
 no 468
-binom 448
+binom 449
 etosi 414
 in 316
 obik 271
@@ -219,6 +219,7 @@ spikön 19
 fidom 19
 Li-binol 19
 matel 19
+ya 19
 gudikün 19
 domoi 19
 fikulik 19
@@ -235,12 +236,12 @@ kati 18
 vedön 18
 yunik 18
 Nolol 18
-ya 18
 badik 18
 famik 18
 vati 18
 vilof 18
 lemön 18
+malädik 18
 lü 17
 bukis 17
 slipön 17
@@ -248,7 +249,6 @@ obinom 17
 Ävilob 17
 hetom 17
 lödom 17
-malädik 17
 I 17
 nen 17
 so 16
@@ -318,6 +318,7 @@ Binoms 13
 püki 13
 Nelijapüki 13
 buk 13
+Binon 13
 dlinön 13
 bili 13
 dledom 13
@@ -356,7 +357,6 @@ suno 11
 soni 11
 Nolobs 11
 valikos 11
-Binon 11
 podi 11
 kanon 11
 nelijapüki 11
@@ -542,6 +542,7 @@ fleni 7
 kiüp 7
 pök 7
 cenön 7
+Dledob 7
 sükom 7
 Ek 7
 ekömol 7
@@ -617,7 +618,6 @@ flolis 6
 spatön 6
 Etuvob 6
 odunom 6
-Dledob 6
 mutof 6
 ävilol 6
 nevamiko 6
@@ -932,6 +932,7 @@ Neiti 3
 Löfilob 3
 Thomas 3
 ziom 3
+yelovik 3
 Äpenob 3
 sanani 3
 Oreinos 3
@@ -1143,6 +1144,7 @@ ocenom 3
 vig 3
 hikat 3
 nolon 3
+blövik 3
 Odeidons 3
 ävilomöv 3
 elemob 3
@@ -1252,7 +1254,6 @@ aneito 2
 presidanu 2
 älogon 2
 loviotirakloti 2
-yelovik 2
 neverätik 2
 Säkob 2
 düp 2
@@ -1724,7 +1725,6 @@ jibubi 2
 okömof 2
 Eitosi 2
 etuvol 2
-blövik 2
 Binols-li 2
 himen 2
 jimen 2
