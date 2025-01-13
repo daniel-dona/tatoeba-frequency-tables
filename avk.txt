@@ -1,22 +1,22 @@
-va 954
+va 960
  936
 Va 698
-tir 602
+tir 604
 In 362
 me 303
-Kas 212
-ke 192
+Kas 213
+ke 197
 al 175
 jin 142
 rin 138
 in 137
-da 135
+da 136
 koe 124
 Tom 123
-zo 108
-pu 99
-gu 96
-batcoba 89
+zo 109
+pu 101
+gu 97
+batcoba 91
 is 85
 Me 81
 tigir 65
@@ -26,18 +26,18 @@ Inya 61
 tiyir 61
 Sin 57
 sotir 56
+tid 53
 neva 53
-tid 52
 ko 50
 rinafa 49
 Koe 48
 Bata 47
+bat 47
 jinafa 46
-bat 44
 Batcoba 43
 Toklize 41
 dam 41
-sin 40
+sin 41
 tokcoba 38
 til 37
 : 36
@@ -49,18 +49,19 @@ fu 32
 Pu 32
 mona 32
 vakol 32
+kan 32
 anton 31
 voxe 31
+ise 31
 Til 31
 moe 30
 int 30
-ise 30
 co 30
 nik 29
 en 29
-kan 29
 vay 29
 Tokdume 27
+mu 27
 widava 27
 ta 26
 rinaf 26
@@ -68,7 +69,6 @@ tí 26
 blira 26
 bartiv 26
 albá 26
-mu 26
 ava 25
 direm 25
 loon 24
@@ -99,13 +99,13 @@ inde 19
 Tokinde 19
 do 19
 gan 19
+koncoba 19
 toz 18
 lodam 18
 Inafa 18
 kurmik 18
 dum 18
 inafa 18
-koncoba 18
 pune 18
 nume 17
 tela 17
@@ -126,6 +126,7 @@ gadikya 16
 twa 16
 vas 16
 patecta 16
+intafa 16
 eldeon 16
 Mary 16
 ageltuca 15
@@ -150,10 +151,12 @@ gruper 14
 ravlem 14
 lava 14
 Batse 14
+yon 14
 Lorik 14
 Esperantoava 14
 vols 13
 kalil 13
+enide 13
 vol 13
 Ba 13
 nazbeikya 13
@@ -165,9 +168,7 @@ ede 13
 re 13
 En 13
 tigí 13
-intafa 13
 To 13
-enide 12
 loeke 12
 jontika 12
 dun 12
@@ -185,7 +186,6 @@ Re 11
 rupa 11
 rumeik 11
 kalir 11
-yon 11
 digí 11
 pulvil 11
 Karvol 11
@@ -206,6 +206,7 @@ rieta 10
 gildá 10
 volse 10
 berikya 10
+inaf 10
 ravlemak 10
 korik 10
 Do 10
@@ -235,7 +236,6 @@ Kan 9
 bak 9
 arinton 9
 Englava 9
-inaf 9
 intaf 9
 imwa 9
 Paris 9
@@ -288,6 +288,7 @@ kalaf 8
 tuwava 8
 kev 8
 A 8
+isu 8
 pruve 8
 dene 8
 renal 8
@@ -331,7 +332,7 @@ bibe 7
 lexa 7
 ina 7
 vor 7
-isu 7
+eke 7
 matela 7
 valeaf 7
 listikya 7
@@ -387,7 +388,6 @@ gadava 6
 listaf 6
 ilkadé 6
 Tit 6
-eke 6
 Kot 6
 talolk 6
 uzda 6
@@ -401,6 +401,7 @@ atela 6
 ilava 6
 za 6
 golda 6
+bagala 6
 tiyid 6
 albad 6
 awalkoda 6
@@ -412,6 +413,7 @@ akoydaf 6
 Djugrupé 6
 i 6
 sotid 6
+voxen 6
 antafa 5
 taneaf 5
 siatos 5
@@ -523,7 +525,6 @@ dug 5
 numen 5
 to 5
 Inaf 5
-voxen 5
 maneke 4
 awalk 4
 alma 4
@@ -554,6 +555,7 @@ Kota 4
 Rossia 4
 dí 4
 dace 4
+zolonafa 4
 gildeyé 4
 tselkak 4
 nolda 4
@@ -630,7 +632,6 @@ Wan 4
 Rena 4
 keniber 4
 kotgrupaf 4
-bagala 4
 ilanuk 4
 Jontiktan 4
 wal 4
@@ -642,6 +643,7 @@ plek 4
 aalxo 4
 dik 4
 Francava 4
+sedme 4
 Revielon 4
 berpot 4
 Askil 4
@@ -721,7 +723,6 @@ soraver 3
 lieke 3
 gael 3
 ware 3
-zolonafa 3
 batyon 3
 lukoptaf 3
 toklize 3
@@ -894,12 +895,12 @@ mallanil 3
 ika 3
 baza 3
 Impadimak 3
-sedme 3
 gruped 3
 sid 3
 vulkuyú 3
 lokiewaf 3
 Kali 3
+sinaf 3
 Weti 3
 daremielon 3
 kazawayá 3
@@ -1005,6 +1006,7 @@ anameda 3
 Yolt 3
 volto 3
 Kosovoa 3
+yastik 3
 suterotik 2
 rotuxason 2
 Kivara 2
@@ -1083,6 +1085,7 @@ abrotcifa 2
 trelafa 2
 bula 2
 parvuuca 2
+boy 2
 klaim 2
 bulol 2
 soe 2
@@ -1287,6 +1290,7 @@ kolanil 2
 tcatexo 2
 mallanir 2
 dimlanitir 2
+kali 2
 Zveri 2
 "foot" 2
 Soli 2
@@ -1413,6 +1417,7 @@ nariyir 2
 vayá 2
 ja 2
 atitsur 2
+pak 2
 irubasik 2
 artlapir 2
 epita 2
@@ -1425,7 +1430,6 @@ ilbodeyer 2
 kadim 2
 guazafa 2
 persavaf 2
-sinaf 2
 Perua 2
 grupeyel 2
 lustel 2
@@ -1645,6 +1649,7 @@ robelir 2
 ozwaks 2
 jontolafa 2
 dikí 2
+kaatoer 2
 grupenglavur 2
 djumaskir 2
 bowere 2
@@ -1665,6 +1670,7 @@ isen 2
 Toloy 2
 ruseta 2
 acku 2
+zilid 2
 preima 2
 gelt 2
 eluxaxa 2
@@ -1695,6 +1701,7 @@ Batcé 2
 benelafa 2
 Tanoya 2
 Vol 2
+dacoba 2
 itamadayar 2
 gin 2
 tcor 2
@@ -1728,6 +1735,7 @@ anelik 2
 francavura 2
 kurenikye 2
 aala 2
+varze 2
 ton 2
 voldo 2
 Antaf 2
@@ -1761,6 +1769,7 @@ Santoleaksat 2
 mevieli 2
 Tel 2
 vukuda 2
+tugijarotiar 2
 dodiskon 2
 lusté 2
 Volto 2
@@ -1770,6 +1779,8 @@ soka 2
 irubar 2
 firviyí 2
 lyumayar 2
+dana 2
+osk 2
 Aftuca 1
 doluca 1
 kotafa 1
@@ -1989,7 +2000,6 @@ robogason 1
 co-tit 1
 lofavlaf 1
 Vil 1
-boy 1
 gobetat 1
 Lidafa 1
 vieleafa 1
@@ -2727,7 +2737,6 @@ djugazavzá 1
 tolrozá 1
 tenuketé 1
 5-e 1
-kali 1
 15-e 1
 taneaksat 1
 tidtalayar 1
@@ -3336,7 +3345,6 @@ artlapiyir 1
 Golde 1
 dirot 1
 tuvelfenkul 1
-pak 1
 avur 1
 Yerumara 1
 Kurera 1
@@ -4852,7 +4860,6 @@ Adam" 1
 lenopa 1
 fokaatoena 1
 katalikikeem 1
-kaatoer 1
 balgel 1
 raporafa 1
 yantafa 1
@@ -4967,7 +4974,6 @@ someskur 1
 ruse 1
 foria 1
 bragoda 1
-zilid 1
 Jaftolya 1
 sovroder 1
 vanzilil 1
@@ -5244,7 +5250,6 @@ grenyafa 1
 puda 1
 Belisik 1
 kalackaf 1
-dacoba 1
 rorojuse 1
 sorenatá 1
 Fentugal 1
@@ -5612,7 +5617,6 @@ sokidatcolier 1
 govegrupé 1
 lodjukukiewaskinaca 1
 fura 1
-varze 1
 govegriawisit 1
 ixeyer 1
 iltitalaf 1
@@ -6167,7 +6171,6 @@ stujera 1
 bil 1
 zobeyed 1
 boksaf 1
-tugijarotiar 1
 trakura 1
 Suomiik 1
 amlitad 1
@@ -6305,3 +6308,30 @@ abandonnen 1
 jaden-an 1
 Lempa 1
 nedega 1
+lotan 1
+laned 1
+klokeem 1
+tadler 1
+tegiravera 1
+afton 1
+danexa 1
+sulera 1
+rekee 1
+lozolonaf 1
+kazawana 1
+dolantina 1
+klokpak 1
+kazawan 1
+tufaka 1
+tamadokobatcedera 1
+jonukey 1
+malaskira 1
+algona 1
+klokravera 1
+klokboy 1
+buives 1
+tegis 1
+dralucaova 1
+gruye 1
+milaf 1
+raveneem 1

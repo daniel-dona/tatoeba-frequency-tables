@@ -1,11 +1,11 @@
-es 3248
-Yo 2456
+es 3250
+Yo 2457
 un 1893
 li 1720
 Tom 1568
 ne 1459
 in 796
-Li 785
+Li 786
 tu 779
 have 729
 Esque 728
@@ -23,11 +23,11 @@ save 426
 it 423
 Noi 421
 yo 407
-vole 405
+vole 406
 mi 398
 e 396
 Tu 366
-It 324
+It 326
 To 308
 tre 294
 a 292
@@ -112,8 +112,8 @@ Sami 69
 infantes 67
 manja 67
 vell 66
+cat 65
 odia 65
-cat 64
 sur 64
 quel 64
 matre 63
@@ -187,10 +187,10 @@ fratre 45
 di 45
 sin 44
 tot 43
+ta 43
 standa 42
 long 42
 venir 42
-ta 42
 trinca 42
 trovat 42
 important 41
@@ -325,6 +325,7 @@ ea 23
 aprendet 23
 parol 23
 dente-brosse 23
+luder 22
 hom 22
 semane 22
 pupé 22
@@ -336,7 +337,6 @@ Omni 22
 Nu 22
 deci 22
 féminas 21
-luder 21
 Yes 21
 laborar 21
 Ci 21
@@ -619,6 +619,7 @@ anelle 10
 plese 10
 plesura 10
 svimma 10
+yelb 10
 interessant 10
 debil 10
 compra 10
@@ -678,7 +679,6 @@ sorciera 9
 probabilmen 9
 micri 9
 decidet 9
-yelb 9
 avocate 9
 corect 9
 Canada 9
@@ -2443,6 +2443,7 @@ skiat 2
 handball 2
 illos 2
 7 2
+pedeat 2
 pictet 2
 Alcun 2
 tis-ci 2
@@ -4526,7 +4527,6 @@ Omid 1
 Dilshad 1
 devenient 1
 molestant 1
-pedeat 1
 salivat 1
 claudicat 1
 aplauder 1
@@ -5730,3 +5730,4 @@ musulmanes 1
 costes 1
 desfacilitás 1
 reparatura 1
+turkise 1

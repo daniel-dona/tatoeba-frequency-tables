@@ -14,9 +14,9 @@ Je 168
 kama 151
 wakati 147
 yake 141
-yangu 128
+yangu 129
 mtu 128
-Ni 109
+Ni 110
 moja 107
 lakini 107
 yako 104
@@ -47,7 +47,7 @@ sio 60
 chini 59
 Amerika 58
 siku 57
-miaka 54
+miaka 55
 saa 53
 hapa 52
 hilo 51
@@ -289,6 +289,7 @@ huwa 16
 - 16
 baadaye 16
 akili 15
+wana 15
 mwalimu 15
 changu 15
 mlango 15
@@ -315,7 +316,6 @@ kamwe 15
 hicho 15
 Nilikuwa 15
 Dan 15
-wana 14
 safari 14
 peke 14
 mama 14
@@ -385,6 +385,7 @@ maili 13
 tayari 13
 mapema 13
 Dani 13
+zako 12
 wanaume 12
 maana 12
 "La 12
@@ -419,7 +420,6 @@ hayo 12
 nusu 12
 haki 11
 Kazi 11
-zako 11
 wanyama 11
 mjinga 11
 tafadhali 11
@@ -1290,6 +1290,7 @@ Mataifa 4
 Jana 4
 Faida 4
 Weka 4
+Dada 4
 anafanya 4
 masuala 4
 chajio 4
@@ -1474,6 +1475,7 @@ Nipe 3
 visiwa 3
 Vitabu 3
 Sawa 3
+mingapi 3
 Maji 3
 Kaa 3
 nifike 3
@@ -1666,7 +1668,6 @@ mahakama 3
 tarakilishi 3
 mto 3
 Muuaji 3
-Dada 3
 mashaka 3
 kutokuwa 3
 bwawa 3
@@ -2063,7 +2064,6 @@ Sielewi 2
 Sentensi 2
 zinahitaji 2
 kikomo 2
-mingapi 2
 Bendera 2
 Angalikuwa 2
 uhai 2
@@ -2916,6 +2916,7 @@ kurekebisha 2
 18 2
 Inaweza 2
 aliyeiba 2
+baisikeli 2
 nyepesi 2
 jinai 2
 Natumaini 2
@@ -6722,7 +6723,6 @@ kilichokubaliwa 1
 kitazingatiwa 1
 yameandikwa 1
 kuamini 1
-baisikeli 1
 kukodishwa 1
 mfanyikazi 1
 miakaa 1

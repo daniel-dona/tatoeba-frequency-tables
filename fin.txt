@@ -14,7 +14,7 @@ hän 3526
 se 3364
 kuin 3272
 Olen 2952
-ovat 2859
+ovat 2860
 sinä 2857
 sen 2689
 niin 2646
@@ -25,7 +25,7 @@ hänen 2126
 en 2090
 minulle 2089
 kun 2084
-Onko 2012
+Onko 2013
 sitä 1982
 voi 1976
 minun 1907
@@ -44,7 +44,7 @@ sinun 1563
 Älä 1540
 Minun 1518
 olen 1513
-hyvin 1494
+hyvin 1495
 todella 1463
 tehdä 1440
 nyt 1372
@@ -511,10 +511,10 @@ meillä 169
 myöhemmin 168
 Monet 168
 Vaikka 167
+teillä 167
 tunne 167
 Tomilta 167
 söi 166
-teillä 166
 valmis 165
 jäädä 165
 tapahtuu 165
@@ -4718,6 +4718,7 @@ auttaisit 17
 teatteriin 17
 pelkästään 17
 Lähdetään 17
+puhelinta 17
 olekaan 17
 Tavallisesti 17
 kuuteen 17
@@ -4973,7 +4974,6 @@ ihmetteli 16
 täsmällinen 16
 joulu 16
 sanomalehtiä 16
-puhelinta 16
 kolmesataa 16
 poliisia 16
 lähtevän 16
@@ -6970,6 +6970,7 @@ kaikkialta 11
 pölyn 11
 kuullessani 11
 hienosti 11
+harvinaisia 11
 teihin 11
 maidon 11
 kiireisiä 11
@@ -7546,7 +7547,6 @@ Internet 10
 suomeksi 10
 Suunnitelma 10
 jäin 10
-harvinaisia 10
 Herran 10
 rakastamme 10
 laulan 10

@@ -1,4 +1,4 @@
-on 1525
+on 1526
 Ma 925
 ei 734
 Tom 615
@@ -12,7 +12,7 @@ seda 209
 oma 204
 see 188
 oli 168
-ja 157
+ja 158
 ta 152
 ole 147
 Sa 142
@@ -78,10 +78,10 @@ pean 42
 talle 41
 Tomil 41
 tema 40
+ilus 40
 Ära 39
 täna 39
 nad 39
-ilus 39
 aga 38
 hästi 38
 raha 38
@@ -116,10 +116,10 @@ olla 32
 keel 32
 räägid 32
 aega 31
+suur 31
 räägin 31
 armastan 30
 koos 30
-suur 30
 pealinn 30
 seal 30
 siis 29
@@ -269,6 +269,7 @@ näinud 15
 oskab 15
 Võta 15
 kohta 14
+Meie 14
 inimene 14
 nimi 14
 Sinu 14
@@ -296,7 +297,6 @@ surnud 14
 kindel 14
 Kell 14
 kaasa 13
-Meie 13
 kedagi 13
 kõike 13
 ostis 13
@@ -825,6 +825,7 @@ korrusel 5
 asju 5
 kaotas 5
 Mind 5
+kool 5
 täpselt 5
 öösel 5
 tohi 5
@@ -1048,7 +1049,6 @@ nädalal 4
 vihmavarju 4
 huvitab 4
 perekond 4
-kool 4
 Ühendriikides 4
 hobuse 4
 tugevam 4
