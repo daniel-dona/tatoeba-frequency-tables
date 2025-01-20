@@ -1,14 +1,15 @@
-um 40
-Se 33
+um 42
+Se 34
 vȯļ 19
-äb 13
-Ma 9
+äb 16
+Ma 10
 Minā 7
 Või 7
 Jõvā 6
 ma 5
 pǟva 4
 Minnõn 4
+tīeda 4
 kīeldõ 4
 ūž 3
 ūo 3
@@ -37,10 +38,13 @@ sa 2
 knaššõd 2
 sīlmad 2
 at 2
+ku 2
 väggi 2
+min 2
 Aițumāl 2
 eņtš 2
 Jelāmi 2
+Mis 2
 Äp 2
 Tuodlist 2
 Tokš 2
@@ -48,7 +52,6 @@ Irmõz 2
 tuožīņõst 2
 igāb 2
 vigā 2
-tīeda 2
 rõkāndõt 2
 sūomõ 2
 sinā 2
@@ -59,6 +62,7 @@ jemīņ 2
 magūb 2
 aigõ 2
 tērõb 2
+Ne 2
 Jõvvõ 1
 sīemnaigõ 1
 Vȯndzist 1
@@ -139,7 +143,6 @@ sizzõl 1
 Tämmõn 1
 siņņizt 1
 nägțõb 1
-ku 1
 kūliz 1
 īr 1
 sǭnd 1
@@ -156,7 +159,6 @@ set 1
 rǭžki 1
 novvõmõst 1
 jeddõvaņțliji 1
-min 1
 nai 1
 Maŗī 1
 Āiga 1
@@ -178,7 +180,6 @@ slikțõm 1
 smekīz 1
 sīeb 1
 vȭidagõks 1
-Mis 1
 prīekõ 1
 Nǟ 1
 Nähtavasti 1
@@ -281,3 +282,13 @@ iļarū 1
 broutšiz 1
 kui 1
 ul 1
+pǟvapuskūd 1
+āndõkst 1
+ārmaztõb 1
+baltõd 1
+kēļi 1
+Jõvīst 1
+iz 1
+ruoik 1
+sīe 1
+sī 1

@@ -42,6 +42,7 @@ buku 16
 Kula 15
 nèng 15
 lan 14
+dina 14
 lagi 14
 kéné 14
 Ora 14
@@ -49,7 +50,6 @@ yèn 14
 kabèh 14
 sinau 14
 Awak 13
-dina 13
 kaya 13
 gawé 13
 tau 13
@@ -62,6 +62,7 @@ punika 11
 luwih 11
 Iku 11
 ya 11
+sapa 11
 dadi 11
 ngomong 10
 wonten 10
@@ -69,7 +70,6 @@ ngerti 10
 akèh 10
 Kowe 10
 Apa 10
-sapa 10
 Panjenengan 9
 kula 9
 ngono 9
@@ -89,6 +89,7 @@ lali 8
 jenengé 8
 ngombé 8
 apik 7
+Wingi 7
 kanggo 7
 Mary 7
 pa 7
@@ -101,7 +102,6 @@ Prancis 7
 Sugeng 7
 asalé 7
 asu 7
-Wingi 6
 kono 6
 Kuwi 6
 awakmu 6
@@ -510,6 +510,7 @@ lancar 2
 pasa 2
 Turki 2
 Muhammad 2
+Kemis 2
 miber 2
 Omah 2
 bojomu 2
@@ -1704,7 +1705,6 @@ Pangapunten 1
 ꦲꦱ꧀ꦩꦤꦶꦥꦸꦤ꧀ꦩꦸꦲꦩ꧀ꦩꦢ꧀꧈ 1
 ꦲꦏꦸꦏꦸꦭꦶꦤꦠꦔꦶꦲꦺꦱꦸꦏ꧀꧈ 1
 awah 1
-Kemis 1
 bir 1
 ꦱꦧꦼꦤ꧀ꦢꦶꦤꦏꦼꦩꦶꦱ꧀ ꦲꦮꦏ꧀ꦝꦺꦮꦺꦔꦺꦴꦩ꧀ꦧꦺꦧꦶꦂ꧉ 1
 Sepur 1
@@ -1977,3 +1977,6 @@ anjing 1
 ꦠꦺꦴꦩ꧀ꦔꦶꦔꦸꦲꦚ꧀ꦗꦶꦁ꧉ 1
 nyakot 1
 ꦲꦱꦸꦲꦶꦏꦶꦚꦏꦺꦴꦠ꧀꧈ 1
+Jenengku 1
+ꦗꦼꦤꦼꦁꦏꦸꦱꦥ 1
+ꦮꦶꦔꦶꦢꦶꦤꦏꦼꦩꦶꦱ꧀꧈ 1

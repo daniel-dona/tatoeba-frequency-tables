@@ -1,4 +1,4 @@
-är 11622
+är 11623
 Jag 11267
 att 7101
 Tom 7075
@@ -9,9 +9,9 @@ på 4850
 det 4742
 i 4583
 har 4233
-Det 3878
+Det 3879
 Han 3409
-jag 3148
+jag 3149
 mig 2716
 för 2697
 här 2660
@@ -48,7 +48,7 @@ göra 878
 ska 857
 måste 820
 honom 813
-där 779
+där 780
 vara 773
 Har 771
 ha 755
@@ -279,10 +279,10 @@ skriva 126
 just 126
 Mitt 125
 På 125
+böcker 124
 fråga 124
 Gå 124
 veta 124
-böcker 123
 ord 123
 rum 123
 bok 122
@@ -573,6 +573,7 @@ varmt 58
 hämta 58
 katter 58
 Vår 58
+läste 58
 dags 58
 vårt 58
 För 58
@@ -591,7 +592,6 @@ sluta 57
 grund 57
 mjölk 57
 frukost 57
-läste 57
 dödade 57
 sjunga 56
 lita 56
@@ -606,6 +606,7 @@ betala 56
 Försök 56
 kör 56
 ursäkt 55
+året 55
 tv 55
 hört 55
 kläder 55
@@ -617,7 +618,6 @@ meningen 55
 sitta 55
 härifrån 54
 japanska 54
-året 54
 visade 54
 Känner 54
 sak 54
@@ -1491,6 +1491,7 @@ Tiden 19
 datorn 19
 stack 19
 fortsätta 19
+hundra 19
 Hallå 19
 godis 19
 dåliga 19
@@ -1550,7 +1551,6 @@ lättare 18
 målade 18
 sång 18
 gravid 18
-hundra 18
 20 18
 ris 18
 lider 18
@@ -1682,6 +1682,7 @@ väger 16
 fots 16
 våningen 16
 Av 16
+Förra 16
 öppnar 16
 Er 16
 träffades 16
@@ -1772,7 +1773,6 @@ kniven 15
 förvirrad 15
 lugnt 15
 teori 15
-Förra 15
 cyklar 15
 skämtar 15
 systrar 15
@@ -9326,6 +9326,7 @@ välkänd 2
 sanningens 2
 pinjenötterna 2
 ekorren 2
+skon 2
 duschat 2
 Duvor 2
 sylt 2
@@ -9997,4 +9998,3 @@ adekvat 2
 huvudsatser 2
 alternativen 2
 tänkbara 2
-abstinensbesvär 2

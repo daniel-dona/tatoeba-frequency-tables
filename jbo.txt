@@ -1,16 +1,16 @@
 lo 12878
-mi 6255
-cu 3517
-do 3361
-la 3019
+mi 6257
+cu 3518
+do 3363
+la 3020
 pu 2320
 le 2308
 nu 2132
-se 1930
+se 1931
 i 1847
 na 1632
 be 1350
-ko'a 1284
+ko'a 1285
 ma 1227
 ka 1218
 ko 1127
@@ -25,7 +25,7 @@ ti 634
 poi 600
 ba 589
 du'u 567
-ro 525
+ro 526
 citka 520
 djica 499
 nelci 492
@@ -37,7 +37,7 @@ mutce 414
 ku 407
 djuno 400
 cusku 388
-prenu 371
+prenu 372
 vi 363
 ca'o 358
 te 356
@@ -159,12 +159,12 @@ gau 100
 cadzu 100
 ciska 99
 djedi 99
+kansa 99
 tai 99
 vau 99
 penmi 97
 ma'a 97
 mu 97
-kansa 97
 morsi 96
 ui 96
 cmalu 96
@@ -242,13 +242,13 @@ fai 69
 pensi 69
 za'o 69
 bebna 69
+glibau 68
 bavlamdei 68
 po 68
 ny 68
 xekri 68
 binxo 68
 ly 67
-glibau 67
 vajni 67
 bajra 67
 coi 67
@@ -391,6 +391,7 @@ jo'u 41
 vorme 41
 cuxna 41
 pacna 41
+crino 41
 re'u 41
 ju'o 41
 birti 41
@@ -399,7 +400,6 @@ flipo 41
 smaji 40
 farlu 40
 pu'o 40
-crino 40
 lebna 40
 zenba 40
 retsku 40
@@ -1078,6 +1078,7 @@ kalte 10
 kunti 10
 ry 10
 lyndyn 10
+xriso 10
 fasygu'e 10
 zdadi'u 10
 vreta 10
@@ -1139,7 +1140,6 @@ virnu 9
 cino 9
 sevzi 9
 kadno 9
-xriso 9
 basfa 9
 gerna 9
 voksa 9
@@ -6940,3 +6940,4 @@ buklolgai 1
 begygu'e 1
 ckajypre 1
 rubde'a 1
+barakobamas 1

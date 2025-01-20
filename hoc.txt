@@ -9,7 +9,7 @@ ket́a 90
 te 83
 𑣇𑣖𑣈𑣜 81
 chi 76
-ge 73
+ge 74
 Hatu 71
 𑢲𑣉𑣖 64
 𑢡𑣈 60
@@ -17,7 +17,7 @@ reaḱ 55
 me 51
 𑢮𑣉𑣙𑣁𑣜𑣋𑣈 51
 teaḱ 49
-ren 48
+ren 49
 𑣌𑣁𑣓𑣁 48
 𑣙𑣁𑣕𑣃𑣜𑣈 47
 onḍoḱ 46
@@ -382,6 +382,7 @@ renkoaḱ 6
 tingu 5
 Japan 5
 Alam 5
+Otesai 5
 Bilae 5
 renić 5
 Nama 5
@@ -462,7 +463,6 @@ China 4
 chenaḱa 4
 Adaanań 4
 uṛuḱoḱa 4
-Otesai 4
 renko 4
 Aandi 4
 raḱ 4
@@ -856,6 +856,7 @@ somjaooḱ 2
 Doctor 2
 hobaoḱ 2
 Sari 2
+Burj 2
 salangi 2
 rem 2
 reben 2
@@ -1480,7 +1481,6 @@ ruaaa 1
 Sen 1
 eṛaḱnn 1
 Sirmam 1
-Burj 1
 Kalifa 1
 Jaḱsirmabanai 1
 "Thank 1
@@ -2574,6 +2574,10 @@ name 1
 𑢼𑣂𑣖𑣁𑣄 1
 𑣏𑣁𑣗𑣁𑣌𑣁𑣓 1
 𑣙𑣁𑣕𑣃𑣌𑣉𑣄 1
+Currently 1
+Khalifa 1
+salangiùtar 1
+Skyscraper 1
 Ruu 1
 City 1
 Capital 1

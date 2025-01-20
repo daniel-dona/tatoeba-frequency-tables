@@ -1,35 +1,35 @@
-esas 2987
-Me 2366
-la 2277
-ne 1376
-Tom 1117
-La 1046
-me 906
-tu 899
+esas 2994
+Me 2369
+la 2278
+ne 1379
+Tom 1118
+La 1050
+me 907
+tu 900
 Ka 775
 es 760
-havas 617
+havas 619
 en 617
-Il 483
-vu 452
+Il 484
+vu 453
 Ni 445
 ke 429
 di 409
 a 407
 mea 402
-esis 387
+esis 390
 e 364
 volas 355
-povas 313
+povas 314
 tre 305
-Tu 293
+Tu 294
 por 281
 il 269
 Mea 267
 El 262
 to 244
 plu 235
-kun 219
+kun 223
 savas 211
 de 210
 ni 206
@@ -38,7 +38,7 @@ To 195
 tua 194
 sua 186
 kam 186
-vi 181
+vi 182
 Li 181
 quo 181
 Ilu 177
@@ -48,7 +48,7 @@ prizas 167
 bela 157
 el 153
 ol 153
-parolas 145
+parolas 146
 Qua 138
 libro 136
 bezonas 136
@@ -76,8 +76,8 @@ Ta 101
 hundo 101
 omna 100
 du 100
+domo 98
 ca 98
-domo 97
 ankore 97
 mustas 95
 quale 94
@@ -95,8 +95,8 @@ Kad 88
 Ca 88
 ica 86
 patro 85
+Ol 85
 multe 85
-Ol 84
 vere 84
 ilu 83
 nia 81
@@ -118,7 +118,7 @@ dicis 72
 homi 72
 nomesas 71
 sen 70
-dil 69
+dil 70
 ed 69
 mondo 68
 un 68
@@ -142,9 +142,9 @@ volis 57
 amiko 57
 da 57
 ye 56
+esos 56
 konocas 56
 tempo 55
-esos 55
 darfas 54
 Nulu 54
 nultempe 54
@@ -213,11 +213,12 @@ deziras 37
 elua 37
 iris 37
 til 37
+spozino 37
 yuna 37
 alta 36
 Quante 36
-spozino 36
 dio 36
+existas 36
 muliero 36
 co 36
 letro 35
@@ -225,7 +226,6 @@ puerino 35
 ante 35
 yunino 35
 hodie 35
-existas 35
 quan 34
 homo 34
 mala 34
@@ -282,6 +282,7 @@ Tatoeba 28
 vivar 28
 serchas 28
 pomo 28
+komprar 28
 tote 28
 povis 28
 kolda 28
@@ -289,7 +290,6 @@ Yes 28
 genitori 27
 semblas 27
 tala 27
-komprar 27
 lektis 27
 kin 27
 gardeno 27
@@ -333,6 +333,7 @@ adheme 24
 skribis 24
 lektas 24
 cielo 24
+verda 24
 Usa 24
 vendas 24
 teo 24
@@ -352,7 +353,6 @@ tero 23
 mediko 23
 savar 23
 fatigita 23
-verda 23
 jemeli 23
 Yen 23
 jus 23
@@ -385,8 +385,10 @@ lago 21
 semano 21
 Forsan 21
 John 21
+olda 21
 spozulo 21
 varmega 21
+Omni 21
 pupeo 21
 treno 20
 esperas 20
@@ -400,7 +402,6 @@ muziko 20
 venar 20
 fisho 20
 Ili 20
-Omni 20
 karno 20
 eventis 19
 skribar 19
@@ -429,7 +430,6 @@ Multa 18
 lente 18
 mentias 18
 forta 18
-olda 18
 telefonilo 18
 mortigis 18
 vartar 18
@@ -473,6 +473,7 @@ larja 16
 Omnu 16
 portis 16
 Eli 16
+populo 16
 animali 16
 Vivez 16
 autismoza 16
@@ -502,7 +503,6 @@ Vua 15
 nulatempe 15
 povra 15
 muso 15
-populo 15
 Omno 15
 Danko 15
 uzar 14
@@ -540,6 +540,7 @@ apud 14
 koloro 14
 Plu 14
 mortinta 14
+religio 14
 Dum 13
 Hiere 13
 jorno 13
@@ -582,7 +583,6 @@ komprenis 13
 helpas 13
 mentiis 13
 sango 13
-religio 13
 Judaismo 13
 Hundi 13
 Kati 13
@@ -635,6 +635,7 @@ probis 11
 mesajo 11
 arivos 11
 ludis 11
+denti 11
 regretas 11
 Esez 11
 Ma 11
@@ -713,7 +714,6 @@ reguli 10
 vilajo 10
 do 10
 gitaro 10
-denti 10
 sporto 10
 dineo 10
 insulo 10
@@ -1083,6 +1083,7 @@ chokolado 7
 intencis 7
 Pekunio 7
 yusta 7
+l'Angliana 7
 korpo 7
 tradukisto 7
 fenestri 7
@@ -1227,7 +1228,6 @@ oranjo 6
 mortas 6
 kaptar 6
 skribas 6
-l'Angliana 6
 Bonveno 6
 olim 6
 valo 6
@@ -2658,6 +2658,7 @@ Pueri 2
 ultre 2
 Pasinta 2
 recevas 2
+Obama 2
 skreno 2
 albumo 2
 pliz 2
@@ -3486,6 +3487,7 @@ Pauline 2
 Toki 2
 Pona 2
 Germano 2
+Kristano 2
 reklamo 2
 Serbia 2
 weras 2
@@ -3553,6 +3555,7 @@ sikita 2
 Persiana 2
 Klimar 2
 pulmoni 2
+Uceli 2
 mustar 2
 optimisto 2
 Myanmar 2
@@ -3735,6 +3738,7 @@ habiteyo 2
 kristanismo 2
 pavorigis 2
 Vestizez 2
+panifisto 2
 Klabaster 1
 Gizmo 1
 Atomal 1
@@ -4282,7 +4286,6 @@ Technic 1
 Meccano 1
 Spozi 1
 uni 1
-Obama 1
 (Ne-Identigita 1
 Fluganta 1
 Objekto) 1
@@ -7180,7 +7183,6 @@ Gutenberg 1
 Tōkyō 1
 despropra 1
 shovez 1
-Kristano 1
 provinco 1
 nemortiva 1
 Homo-Araneo 1
@@ -7440,7 +7442,6 @@ Homala 1
 reni 1
 diolumo 1
 Quin 1
-Uceli 1
 abeli 1
 Musho 1
 Qualeso 1
@@ -8649,3 +8650,9 @@ afektacas 1
 afektacema 1
 nesavante 1
 magioza 1
+fornisto 1
+bakisto 1
+oldo 1
+Barack 1
+Opiati 1
+Normaleso 1

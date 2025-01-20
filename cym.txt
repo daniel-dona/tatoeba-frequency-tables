@@ -20,7 +20,7 @@ hi'n 67
 Mae'r 66
 chi 65
 fy 64
-bod 61
+bod 62
 Wyt 57
 am 52
 dy 51
@@ -30,8 +30,8 @@ yw 47
 ni 47
 mynd 46
 chi'n 45
+iawn 44
 i'r 42
-iawn 42
 siarad 38
 eisiau 37
 byw 36
@@ -74,6 +74,7 @@ mae'r 20
 o'r 19
 gallu 19
 da 19
+fod 19
 mae 19
 Cymraeg 19
 cael 18
@@ -81,7 +82,6 @@ dda 18
 gweithio 18
 Oes 18
 chwarae 18
-fod 18
 ysgol 17
 Rhaid 17
 nhw'n 17
@@ -260,6 +260,8 @@ well 6
 gyrru 6
 anodd 6
 Rydyn 6
+ti’n 6
+chi’n 6
 mor 6
 Dwi’n 6
 pan 6
@@ -302,8 +304,6 @@ tri 5
 wyth 5
 sut 5
 'ma 5
-ti’n 5
-chi’n 5
 iddi 5
 O 5
 Lloegr 5
@@ -312,6 +312,7 @@ Fe 5
 ben 5
 erbyn 5
 efo 5
+Efallai 5
 tocyn 5
 gwin 5
 Dan 5
@@ -541,7 +542,6 @@ tipyn 3
 stopio 3
 Llundain 3
 chwedlau 3
-Efallai 3
 glas 3
 wyau 3
 Prynodd 3

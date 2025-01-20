@@ -1,4 +1,4 @@
-waa 25
+waa 26
 ma 21
 ku 18
 Waxaan 14
@@ -12,9 +12,9 @@ ka 8
 Kani 7
 baan 7
 ugu 6
+Magacaygu 6
 Maxaad 6
 ahay 6
-Magacaygu 5
 Muxuu 5
 oo 5
 soo 4
@@ -79,6 +79,7 @@ waxaan 2
 buug 2
 Magaceedu 2
 Xaliimo 2
+maxay 2
 Macalin 2
 macalimad 2
 baad 2
@@ -322,7 +323,6 @@ Cabdi 1
 Magacaa 1
 sheegtay 1
 Maryan 1
-maxay 1
 kuma 1
 Muuse 1
 Cismaan 1
@@ -379,3 +379,10 @@ diji 1
 Salalaahu 1
 calayhi 1
 wasalam 1
+sina 1
+wile 1
+ala 1
+awen 1
+lon 1
+tenpo 1
+suli 1

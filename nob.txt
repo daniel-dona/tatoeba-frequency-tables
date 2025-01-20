@@ -1,17 +1,17 @@
-er 4382
+er 4383
 Jeg 3627
 ikke 2481
 å 2194
 i 2177
 en 2058
-du 1904
+du 1905
 har 1808
 det 1806
 Tom 1768
 på 1717
 til 1563
+jeg 1344
 og 1344
-jeg 1343
 Det 1177
 for 1069
 med 1067
@@ -27,7 +27,7 @@ Du 748
 deg 735
 kan 659
 vil 646
-om 587
+om 588
 så 582
 han 578
 Vi 557
@@ -35,7 +35,7 @@ den 495
 min 468
 seg 444
 noe 379
-Hva 361
+Hva 362
 de 359
 hadde 340
 De 332
@@ -52,7 +52,7 @@ ble 298
 gjøre 295
 ha 284
 ham 279
-vet 272
+vet 273
 Hvor 270
 kommer 269
 hva 268
@@ -85,7 +85,7 @@ trenger 185
 Har 184
 blir 184
 mer 184
-I 180
+I 181
 ser 180
 kunne 179
 bli 178
@@ -330,13 +330,13 @@ lyst 43
 drikker 43
 svært 43
 vant 42
+bøker 42
 spiller 42
 Å 42
 norsk 42
 Japan 41
 kjenner 41
 holdt 41
-bøker 41
 gamle 41
 Vet 41
 hverandre 40
@@ -512,6 +512,7 @@ fortalt 26
 Ziri 26
 vondt 25
 svarte 25
+fjor 25
 ba 25
 Se 25
 minutter 25
@@ -525,13 +526,14 @@ elsket 25
 holder 25
 mindre 25
 vel 25
+leste 25
 øl 25
 måten 24
 brev 24
 klarer 24
+hundre 24
 gift 24
 spist 24
-fjor 24
 opptatt 24
 Tokyo 24
 vakker 24
@@ -548,13 +550,11 @@ Liker 24
 kanskje 24
 hos 24
 sove 24
-leste 24
 lager 24
 sitter 24
 farlig 24
 Yanni 24
 kjent 23
-hundre 23
 arbeid 23
 varmt 23
 læreren 23
@@ -1846,6 +1846,7 @@ vanskelige 6
 ødelegge 6
 sterke 6
 inntrykk 6
+tapt 6
 menneskelige 6
 forskjellig 6
 omkring 6
@@ -2026,6 +2027,7 @@ nære 5
 vind 5
 setningene 5
 antall 5
+Brasil 5
 restauranten 5
 fyller 5
 rasende 5
@@ -2146,7 +2148,6 @@ femte 5
 fjernet 5
 muligheten 5
 kyss 5
-tapt 5
 utfordring 5
 Enhver 5
 ri 5
@@ -2427,7 +2428,6 @@ tillate 4
 Danmark 4
 slange 4
 bred 4
-Brasil 4
 liste 4
 italienske 4
 elva 4
@@ -4110,6 +4110,7 @@ avholdt 2
 utdatert 2
 Middag 2
 riste 2
+Spillet 2
 strever 2
 ordentlig 2
 hendelsen 2
@@ -6671,7 +6672,6 @@ Passasjerene 1
 engstelige 1
 forsinkelser 1
 lyseblått 1
-Spillet 1
 insisterte 1
 frastjålet 1
 japaner 1

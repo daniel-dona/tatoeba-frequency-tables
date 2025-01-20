@@ -1,12 +1,12 @@
 да 7707
-da 6895
+da 6896
 је 6819
 je 6814
 се 3961
 Том 3573
 сам 3480
 se 3037
-sam 2508
+sam 2510
 ли 2329
 Tom 2067
 u 2065
@@ -14,7 +14,7 @@ u 2065
 li 1795
 то 1657
 Да 1515
-na 1485
+na 1486
 i 1394
 на 1358
 не 1315
@@ -66,7 +66,7 @@ te 388
 smo 382
 овде 375
 би 372
-Ja 366
+Ja 368
 ово 364
 Она 361
 Мислим 356
@@ -108,8 +108,8 @@ koji 253
 вас 253
 који 243
 али 238
+ga 238
 веома 237
-ga 237
 више 237
 могу 237
 хоће 235
@@ -217,7 +217,7 @@ radi 141
 била 141
 Нико 140
 malo 140
-Gde 138
+Gde 139
 ni 138
 mu 137
 po 137
@@ -392,6 +392,7 @@ ih 80
 toliko 79
 živi 79
 француски 79
+želiš 79
 trebalo 79
 jer 79
 одмах 79
@@ -402,7 +403,6 @@ Sada 79
 Све 78
 neće 78
 bili 78
-želiš 78
 поново 78
 новац 78
 видим 78
@@ -753,6 +753,7 @@ Koji 43
 srećan 43
 drugi 43
 jezika 43
+dete 43
 њега 43
 напоље 43
 им 43
@@ -768,7 +769,6 @@ brat 42
 Bila 42
 Voleo 42
 Ali 42
-dete 42
 добра 42
 можете 42
 Тај 42
@@ -1331,6 +1331,7 @@ novu 23
 šest 23
 Pitam 23
 jesti 23
+Ponekad 23
 rano 23
 koga 23
 mogli 23
@@ -1402,7 +1403,6 @@ rečnik 22
 Idem 22
 ka 22
 bogat 22
-Ponekad 22
 Tamo 22
 Pre 22
 savet 22
@@ -3189,6 +3189,7 @@ zvao 10
 izgubim 10
 interesantno 10
 laž 10
+grešim 10
 Izvini 10
 Nemačke 10
 Дајем 10
@@ -3518,7 +3519,6 @@ Iznenađen 9
 Прочитај 9
 zaljubljen 9
 onome 9
-grešim 9
 radili 9
 ubedi 9
 Марији 9

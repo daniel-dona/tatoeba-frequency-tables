@@ -1,21 +1,21 @@
 je 1750
-se 633
+se 634
 u 560
-sam 470
+sam 471
 da 417
 li 401
 na 331
 ne 285
 Tom 284
 i 241
-su 223
+su 224
 mi 213
 Ne 195
 to 190
 za 168
 si 167
 što 167
-nije 159
+nije 160
 od 151
 On 149
 To 129
@@ -27,12 +27,12 @@ s 105
 će 100
 Ja 99
 Ona 96
+Što 94
 bi 94
-Što 93
 ću 87
 bio 84
 biti 73
-o 70
+o 71
 ga 68
 mogu 65
 ima 65
@@ -97,10 +97,10 @@ tvoj 34
 tamo 34
 ili 34
 živi 34
+knjiga 33
 Volim 33
 rekao 33
 Moja 32
-knjiga 32
 moja 32
 Mogu 32
 Danas 32
@@ -120,10 +120,10 @@ mene 29
 ćeš 29
 Toma 29
 Možeš 28
+godine 28
 posao 28
 auto 27
 reći 27
-godine 27
 Mislim 27
 mogao 26
 ništa 26
@@ -384,8 +384,10 @@ mjesto 10
 nikad 10
 težak 10
 pušiti 10
+dogodilo 10
 liječnik 10
 Neću 10
+znaš 10
 spavati 10
 Nemoj 10
 dobra 10
@@ -436,9 +438,7 @@ kiša 9
 cijeli 9
 daleko 9
 ikad 9
-dogodilo 9
 vlak 9
-znaš 9
 sina 9
 mog 9
 umrijeti 9
@@ -464,6 +464,7 @@ hranu 9
 netko 9
 lijep 9
 živio 9
+Ništa 9
 jedna 9
 teško 9
 savjet 9
@@ -520,7 +521,6 @@ igrati 8
 dječaka 8
 školi 8
 večeras 8
-Ništa 8
 govorio 8
 pije 8
 noć 8
@@ -1513,6 +1513,7 @@ rijetko 3
 poslijepodne 3
 Želio 3
 naručiti 3
+pročitao 3
 More 3
 tražio 3
 desert 3
@@ -1850,6 +1851,7 @@ dovoljan 2
 Imala 2
 stigli 2
 Osaku 2
+Prošle 2
 Nogomet 2
 nogometne 2
 Amerika 2
@@ -2216,7 +2218,6 @@ krvari 2
 glasnije 2
 Radim 2
 francuskog 2
-pročitao 2
 poznat 2
 radimo 2
 Majka 2
@@ -2635,6 +2636,7 @@ pritužbi 2
 djevojku 2
 kraljicu 2
 Želite 2
+Brazilu 2
 auti 2
 Europske 2
 unije 2
@@ -3241,7 +3243,6 @@ Otvoreno 1
 kupovini 1
 Idealno 1
 piknik 1
-Prošle 1
 padalo 1
 Izgradnja 1
 mosta 1
@@ -6277,7 +6278,6 @@ vaza 1
 rađe 1
 pobrinuti 1
 uplašeni 1
-Brazilu 1
 ubija 1
 učiteljova 1
 maza 1
@@ -8417,3 +8417,7 @@ kocke 1
 leda 1
 otopiti 1
 mesta 1
+stotinu 1
+Lopte 1
+okrugle 1
+[Deleted] 1

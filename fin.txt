@@ -1,10 +1,10 @@
-on 28760
+on 28767
 ei 10528
 Tom 9601
-Hän 8245
+Hän 8246
 että 6770
 ja 6751
-Tomi 6337
+Tomi 6339
 ole 6192
 oli 5618
 En 4839
@@ -36,7 +36,7 @@ Mitä 1793
 vain 1744
 minua 1701
 minä 1668
-olla 1645
+olla 1651
 He 1639
 koskaan 1635
 Minulla 1619
@@ -181,7 +181,7 @@ siellä 451
 Minusta 451
 varma 438
 haluat 434
-olemme 433
+olemme 434
 Ne 429
 ilman 428
 nähnyt 422
@@ -219,13 +219,13 @@ tänne 370
 tehnyt 368
 vanha 365
 oikein 364
+voinut 363
 sai 363
 itse 362
-voinut 360
 tekee 360
+kaiken 360
 puhuu 359
 kaunis 357
-kaiken 357
 joten 356
 olin 356
 sanoa 355
@@ -569,11 +569,11 @@ uudelleen 151
 anna 151
 koulussa 150
 tulen 150
+asti 150
 isäni 150
 lopettaa 150
 molemmat 150
 Sitä 150
-asti 149
 tuskin 149
 uskoa 149
 päällä 148
@@ -603,6 +603,7 @@ voimme 144
 Pidätkö 143
 talon 142
 talo 142
+päivässä 142
 Voin 142
 lapset 142
 ulkona 142
@@ -613,7 +614,6 @@ Siinä 141
 useita 140
 löytää 140
 Tee 140
-päivässä 140
 istui 140
 kaukana 140
 kahden 139
@@ -692,12 +692,12 @@ vuoksi 122
 puhui 121
 eri 121
 Minulle 121
+minkä 121
 Ja 121
 Australiassa 121
 teit 120
 Koira 120
 sellaista 120
-minkä 120
 syytä 120
 katsoa 120
 Näytät 120
@@ -972,6 +972,7 @@ koulusta 88
 lähtee 88
 tekevät 88
 opiskelee 88
+sairas 88
 juhliin 88
 sinulta 88
 työn 88
@@ -985,13 +986,13 @@ lääkäri 87
 seitsemän 87
 Soita 87
 kiinnostaa 87
+kipeä 87
 tulevat 87
 vaarallista 87
 yön 87
 Käyn 87
 syntyi 86
 välitä 86
-sairas 86
 olisit 86
 kaupungissa 86
 haluaisi 86
@@ -1005,7 +1006,6 @@ syömään 85
 kutsutaan 85
 työ 85
 Kävin 85
-kipeä 85
 Isä 85
 löydä 85
 sait 85
@@ -1431,6 +1431,7 @@ palasi 58
 yhdeksän 58
 oleva 58
 Talo 58
+kieltäytyi 58
 kysymykseen 58
 Häntä 58
 sanan 58
@@ -1485,7 +1486,6 @@ unohti 56
 Auto 56
 satoi 56
 kalaa 56
-kieltäytyi 56
 Pelkään 56
 ostit 56
 pimeää 56
@@ -1985,6 +1985,7 @@ etsii 42
 rouva 42
 pelottaa 42
 Ensi 42
+saattanut 42
 moottoripyörä 42
 tarkoita 42
 ampui 42
@@ -2068,6 +2069,7 @@ kuvitella 41
 Ulkona 41
 kaikilla 41
 kaupassa 41
+sairaana 41
 ystäväsi 41
 vastauksen 41
 kenenkään 41
@@ -2141,7 +2143,6 @@ käytät 39
 mitenkään 39
 hyväksyä 39
 Odottakaa 39
-saattanut 39
 välinen 39
 vasten 39
 autoon 39
@@ -2169,7 +2170,6 @@ Voitteko 39
 Heitä 39
 Ranska 39
 pelkäävät 39
-sairaana 39
 prosenttia 39
 Tatoebaan 39
 ikkuna 39
@@ -2447,6 +2447,7 @@ Teit 34
 nostaa 34
 erilainen 34
 kiinaa 34
+kuolee 34
 avulla 34
 soita 34
 Koulu 34
@@ -2513,7 +2514,6 @@ perheensä 33
 ala 33
 Täytyykö 33
 Haluamme 33
-kuolee 33
 pahalta 33
 Puhuin 33
 oluen 33
@@ -3387,6 +3387,7 @@ rauhan 24
 jalat 24
 turhaan 24
 kasvavat 24
+vuosien 24
 lauantaina 24
 kalliita 24
 varmoja 24
@@ -3530,7 +3531,6 @@ Suoraan 23
 ajattelet 23
 kutsuttiin 23
 Kauppa 23
-vuosien 23
 koskea 23
 setäni 23
 pysäköidä 23
@@ -3840,6 +3840,7 @@ yhteydessä 21
 tunnet 21
 ellei 21
 japanin 21
+parissa 21
 suurimman 21
 parin 21
 rakennettu 21
@@ -4019,7 +4020,6 @@ parhaat 20
 sulaa 20
 silmiin 20
 toteen 20
-parissa 20
 verrattuna 20
 yleisesti 20
 Perheeni 20
@@ -6308,6 +6308,7 @@ ryhtyä 12
 tavasta 12
 kylmästä 12
 allekirjoittaa 12
+saatossa 12
 naamaa 12
 pääni 12
 menetä 12
@@ -6321,6 +6322,7 @@ prosentin 12
 tarjosi 12
 apuaan 12
 projektia 12
+kolmessa 12
 aine 12
 virheet 12
 perheesi 12
@@ -6845,7 +6847,6 @@ vakuuttuneeksi 11
 sormus 11
 kokoa 11
 käsiala 11
-saatossa 11
 työpaikkansa 11
 asuneet 11
 käyttämään 11
@@ -6856,7 +6857,6 @@ Meri 11
 Englannista 11
 kenkäsi 11
 jäätynyt 11
-kolmessa 11
 Yorkin 11
 Mieluummin 11
 Filosofia 11
@@ -7663,6 +7663,7 @@ Havaijille 10
 Harvoin 10
 pienintäkään 10
 palautti 10
+yöhön 10
 käyttäydy 10
 Leipä 10
 kohteli 10
@@ -7699,6 +7700,7 @@ toisillemme 10
 ansaan 10
 viljan 10
 toissapäivänä 10
+vakaasti 10
 Puhuitko 10
 Aseta 10
 häpeä 10
@@ -8408,7 +8410,6 @@ jatkoa 9
 maistuvat 9
 ihmisiin 9
 myyty 9
-yöhön 9
 hyväksynyt 9
 auto-onnettomuudessa 9
 tekemästä 9
@@ -8441,7 +8442,6 @@ professori 9
 ajaksi 9
 pienestä 9
 nauttimaan 9
-vakaasti 9
 herran 9
 Jones 9
 suola 9
@@ -9491,8 +9491,10 @@ valkosipulia 8
 täydy 8
 Lähe 8
 olis 8
+päättäväisesti 8
 isolla 8
 kevään 8
+hävitti 8
 pyhät 8
 pidemmät 8
 epätavallinen 8
@@ -9777,6 +9779,7 @@ virstan 8
 laturia 8
 neljäsosan 8
 mäntyjen 8
+Laura 8
 vesirokon 8
 laulakin 8
 rakennussuunnitelmat 8
@@ -9995,6 +9998,3 @@ vuoteessa 7
 teoriaa 7
 Lisäsin 7
 pelastaakseen 7
-isäntä 7
-halvalla 7
-kylläinen 7

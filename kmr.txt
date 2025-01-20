@@ -1,4 +1,4 @@
-Ez 1212
+Ez 1215
 e 1034
 xwe 1034
 ji 1000
@@ -13,7 +13,7 @@ ku 613
 Em 545
 Tom 544
 Tu 523
-me 519
+me 522
 te 499
 de 466
 ne 406
@@ -738,6 +738,7 @@ piř 8
 jîr 8
 piştrast 8
 binivîsin 8
+zarokê 8
 cihekî 8
 dipeyive 8
 dimîne 8
@@ -829,6 +830,7 @@ Dev 7
 dixwe 7
 nefret 7
 Laşê 7
+salên 7
 pak 7
 bimînim 7
 ecêb 7
@@ -1190,7 +1192,6 @@ Hevalên 5
 guman 5
 usa 5
 piçûk 5
-zarokê 5
 radibe 5
 bersiva 5
 fikirî 5
@@ -1463,7 +1464,6 @@ qezayê 4
 wiya 4
 mamosteyê 4
 bimeşe 4
-salên 4
 Hema 4
 pênûsa 4
 Bêdeng 4
@@ -9243,3 +9243,6 @@ vîrûsek 1
 Vîrûsê 1
 lîstikek 1
 lîstiye 1
+nodî 1
+90'î 1
+heştêyî 1

@@ -1,9 +1,9 @@
-es 3250
+es 3252
 Yo 2457
-un 1893
+un 1894
 li 1720
 Tom 1568
-ne 1459
+ne 1460
 in 796
 Li 786
 tu 779
@@ -27,7 +27,7 @@ vole 406
 mi 398
 e 396
 Tu 366
-It 326
+It 327
 To 308
 tre 294
 a 292
@@ -50,7 +50,7 @@ Mi 209
 Ili 207
 del 200
 vu 196
-parla 177
+parla 178
 ti 173
 Quo 168
 ci 167
@@ -255,6 +255,7 @@ Hodie 29
 morit 29
 amat 29
 lacte 29
+Chascun 29
 trovar 29
 audit 29
 maritat 29
@@ -262,7 +263,6 @@ chascun 29
 denov 29
 sembla 29
 amica 28
-Chascun 28
 aprender 28
 espera 28
 genitores 28
@@ -272,6 +272,7 @@ pane 27
 sercha 27
 dictionarium 27
 cordie 27
+anglesi 27
 passat 27
 Tui 27
 obliviat 27
@@ -282,9 +283,9 @@ lentmen 27
 bebé 26
 ante 26
 cantar 26
-anglesi 26
 lingues 26
 comensat 26
+existe 26
 tard 26
 bir 26
 malad 26
@@ -297,7 +298,6 @@ sport 25
 propri 25
 self 25
 trist 25
-existe 25
 sam 25
 Australia 25
 pom 24
@@ -491,6 +491,7 @@ questiona 13
 svimmar 13
 international 13
 pomes 13
+verdi 13
 trincat 13
 plen 13
 balne 13
@@ -523,7 +524,6 @@ cates 12
 Roma 12
 retornat 12
 durant 12
-verdi 12
 escutat 12
 arivar 12
 proxim 12
@@ -2030,6 +2030,8 @@ Atention 2
 chocat 2
 interdictet 2
 revider 2
+Barack 2
+Obama 2
 16 2
 leon 2
 ásino 2
@@ -3086,8 +3088,6 @@ mentitores 1
 balbutiat 1
 "por 1
 exemple" 1
-Barack 1
-Obama 1
 mentiard 1
 César 1
 Cecily 1
@@ -5731,3 +5731,5 @@ costes 1
 desfacilitás 1
 reparatura 1
 turkise 1
+cristan 1
+Normalitá 1

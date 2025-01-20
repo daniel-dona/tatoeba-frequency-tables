@@ -1,4 +1,4 @@
-i 17
+i 18
 Im 10
 Iarwain 8
 I 6
@@ -19,6 +19,7 @@ Aníron 3
 barf 3
 amar 3
 gallon 3
+Eru 3
 síla 2
 lû 2
 Odulen 2
@@ -50,8 +51,11 @@ gordof 2
 aes 2
 Lasto 2
 raug 2
+Te 2
 im 2
 ithron 2
+Me 2
+Tom 2
 Suilannad 1
 Meneg 1
 suilaid 1
@@ -202,7 +206,6 @@ gwann 1
 bain 1
 Em 1
 gellyn 1
-Te 1
 law 1
 Cuio 1
 anann 1
@@ -214,7 +217,6 @@ bilu 1
 Ci 1
 Tirio 1
 dadui 1
-Me 1
 vellyn 1
 'aur 1
 Sami 1
@@ -230,5 +232,14 @@ cuiar 1
 waith 1
 De 1
 edain 1
-Eru 1
 u-naed 1
+Ilphen 1
+pedir 1
+Annúnaid 1
+calen 1
+gwain 1
+annanc 1
+ara 1
+aew 1
+fileg 1
+edhil 1
