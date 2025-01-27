@@ -8,8 +8,8 @@ Is 334
 ar 243
 tú 219
 sé 213
+bhfuil 210
 go 210
-bhfuil 209
 An 208
 seo 193
 Ní 183
@@ -17,7 +17,7 @@ agam 173
 Níl 165
 liom 155
 i 131
-mo 127
+mo 128
 le 113
 na 105
 do 99
@@ -50,8 +50,8 @@ Cén 52
 siad 51
 duine 48
 iarraidh 48
+Cá 46
 fhios 46
-Cá 45
 aon 43
 Cé 43
 as 43
@@ -67,8 +67,8 @@ teach 34
 anois 33
 dhéanamh 33
 dom 33
+ríomhaire 33
 féin 32
-ríomhaire 32
 air 31
 uaim 30
 ithe 30
@@ -1142,6 +1142,7 @@ Thá 2
 choinsias 2
 gadaí 2
 Ghlac 2
+pearsanta 2
 Foghlaim 2
 Hé 2
 Éist 2
@@ -2393,7 +2394,6 @@ Bheag 1
 Imithe 1
 iascaireacht 1
 ionaí 1
-pearsanta 1
 phóca 1
 neart 1
 tubaisteach 1

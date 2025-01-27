@@ -2,14 +2,14 @@ Ma 244
 re 127
 Tom 55
 Si 49
+Toms 35
 Tkva 35
-Toms 34
-do 33
+do 34
 te 33
  33
 ma 33
 Tena 29
-vare 27
+vare 28
 si 25
 moǩo 25
 Tina 25
@@ -27,11 +27,11 @@ vore 15
 xolo 15
 Chkimi 15
 Mu 15
+vorek 15
 რე 14
 Çki 14
 rdu 14
 ragadi 14
-vorek 14
 So 13
 chkimi 13
 çkimi 13
@@ -61,6 +61,7 @@ xvale 9
 Tiki 9
 para 8
 arti 8
+Tomk 8
 mushi 8
 tomi 8
 oko 7
@@ -77,7 +78,6 @@ bordji 7
 Amdǧa 7
 tes 7
 miǧu 7
-Tomk 7
 ren 7
 tak 7
 ვორექ 6
@@ -88,6 +88,7 @@ borjis 6
 mutun 6
 Ate 6
 djgiro 6
+Skani 6
 tolepi 6
 tku 6
 teshi 6
@@ -106,7 +107,6 @@ reko 6
 fara 5
 shilebe 5
 martal 5
-Skani 5
 ichiebu 5
 ǧolama 5
 mara 5
@@ -130,6 +130,7 @@ dzalami 5
 nina 5
 ǩaṫu 5
 meris 5
+uǧƨ 5
 ç̌iç̌e 4
 vareno 4
 Chqi 4
@@ -154,6 +155,7 @@ Sami 4
 Tinepi 4
 reto 4
 bordjis 4
+antzi 4
 Malas 4
 Maxolo 4
 Mendi 4
@@ -166,15 +168,16 @@ rdƨ 4
 uǩuli 4
 vamiçkƨ 4
 çkaras 4
+va 4
 mangaro 4
 p̌eulepi 4
+midartƨ 4
 goǩo 4
 mangari 4
 ç̌umani 4
 iri 4
 ǩata 4
 Bordji 4
-uǧƨ 4
 დრო 3
 ტომიქ 3
 ჩქიმ 3
@@ -219,9 +222,9 @@ kianas 3
 Diachkimi 3
 Djgiro 3
 iuapu 3
-antzi 3
 mudgareni 3
 oxorants 3
+ṫelevizori 3
 namut 3
 teşi 3
 zhirxolo 3
@@ -247,14 +250,12 @@ vorekƨ 3
 Sode 3
 uudes 3
 aǧani 3
-va 3
 rek 3
 Meu 3
 ɣuça 3
 oxorana 3
 kumortƨ 3
 Meris 3
-midartƨ 3
 getu 3
 oxorans 3
 Muzhami 3
@@ -375,6 +376,7 @@ Telefony 2
 ǧolamiri 2
 tzq'ari 2
 teki 2
+baǧana 2
 Mozodjit 2
 ç̌opili 2
 Asho 2
@@ -420,7 +422,6 @@ xelat 2
 amnaxanṫi 2
 baǧanepi 2
 tinepts 2
-ṫelevizori 2
 miku 2
 brelts 2
 Ç̌ita 2
@@ -584,6 +585,7 @@ vavorek 2
 noǧasha 2
 shuro 2
 aloba 2
+Resṫorants 2
 ართი 1
 სუმი 1
 ოთხი 1
@@ -1119,7 +1121,6 @@ irpelsarto 1
 Kinmexvari 1
 muchu 1
 vordato 1
-baǧana 1
 vagmagines 1
 logiǩasha 1
 Mumashkirenu 1
@@ -3062,7 +3063,6 @@ diprtuku 1
 amshvis 1
 vamǧolamu 1
 tutashxa 1
-Resṫorants 1
 djveshi 1
 evrop̌a“ 1
 goshina 1
@@ -3089,3 +3089,7 @@ vauchkƨ 1
 voretƨn 1
 Hoṫelsha 1
 ǩirbi 1
+xiba 1
+gandju 1
+tsiraskua 1
+oxorts 1
