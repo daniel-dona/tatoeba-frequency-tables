@@ -1,5 +1,5 @@
-es 210
-Me 127
+es 211
+Me 128
 li 81
 Li 77
 Tom 75
@@ -331,6 +331,7 @@ red 2
 John 2
 Leon 2
 animal 2
+kata 2
 astonantim 2
 mentia 2
 monstre 2
@@ -673,7 +674,6 @@ viro 1
 Usa 1
 Spanum 1
 simil 1
-kata 1
 Ido 1
 movad 1
 mova 1

@@ -1,6 +1,6 @@
-nie 1236
+nie 1238
 is 1036
-het 960
+het 961
 Ek 950
 die 739
 'n 589
@@ -10,13 +10,13 @@ my 344
 te 306
 om 288
 van 277
-Die 276
+Die 277
 jou 276
 dit 274
 vir 253
 in 248
 ek 224
-was 218
+was 219
 Hy 209
 sal 194
 Ons 191
@@ -24,12 +24,12 @@ gaan 173
 Dit 160
 wil 159
 Jy 157
-kan 144
+kan 145
 ons 143
 wat 140
 sy 137
 met 135
-Sy 133
+Sy 134
 moet 124
 en 123
 op 115
@@ -37,8 +37,8 @@ baie 115
 hierdie 109
 doen 109
 wees 107
+haar 104
 oor 104
-haar 103
 hom 92
 My 91
 hy 91
@@ -53,7 +53,7 @@ aan 72
 werk 72
 Hierdie 72
 kom 71
-toe 68
+toe 69
 hou 66
 na 65
 Het 64
@@ -66,9 +66,9 @@ Waar 54
 hier 53
 asseblief 51
 Kan 51
+so 51
 net 51
 u 50
-so 50
 maar 49
 sou 49
 nou 48
@@ -106,9 +106,9 @@ laat 31
 kinders 30
 goed 30
 As 30
+altyd 30
 af 30
 of 29
-altyd 29
 niks 29
 water 29
 vandag 29
@@ -124,13 +124,13 @@ slaap 27
 waar 26
 tyd 26
 besig 26
+ma 25
 ken 25
 geen 25
 gesien 25
 nuwe 25
 Wanneer 25
 uit 25
-ma 24
 ook 24
 voel 24
 weer 24
@@ -174,6 +174,7 @@ lank 19
 haat 19
 probeer 19
 drie 18
+broer 18
 gebruik 18
 dood 18
 meisie 18
@@ -181,7 +182,6 @@ moes 18
 kos 18
 reg 18
 Moet 18
-broer 17
 man 17
 bang 17
 jaar 17
@@ -195,6 +195,7 @@ tot 16
 Laat 16
 ander 16
 dom 16
+hoor 16
 vriende 16
 saam 16
 Kom 16
@@ -206,7 +207,6 @@ U 15
 weg 15
 genoeg 15
 wanneer 15
-hoor 15
 lees 15
 Weet 15
 teen 15
@@ -224,6 +224,7 @@ Dankie 14
 veel 14
 Waarom 14
 mooi 14
+skool 14
 wyn 14
 Mens 14
 Niemand 14
@@ -242,7 +243,6 @@ motor 13
 Praat 13
 Engels 13
 taal 13
-skool 13
 dans 13
 keer 13
 gevra 13
@@ -333,9 +333,11 @@ gebeur 10
 moeilik 10
 Ek's 10
 vol 10
+huil 10
 hare 10
 Voëls 10
 ses 9
+Haar 9
 hard 9
 bank 9
 see 9
@@ -363,14 +365,12 @@ horlosie 9
 jouself 9
 verlaat 9
 voorstel 9
-huil 9
 Wil 9
 onder 9
 homself 9
 seer 9
 verbaas 9
 verkoop 9
-Haar 8
 eksamen 8
 verwag 8
 Baie 8
@@ -733,6 +733,7 @@ ongeluk 4
 deelneem 4
 geval 4
 wonderlik 4
+baba 4
 enigiemand 4
 hiervan 4
 amper 4
@@ -816,6 +817,7 @@ vark 4
 Een 3
 menslike 3
 teenoor 3
+gehardloop 3
 toespraak 3
 Osaka 3
 ontvang 3
@@ -915,7 +917,6 @@ beheer 3
 vervelig 3
 boot 3
 ver 3
-baba 3
 100 3
 neus 3
 verantwoordelik 3
@@ -1067,7 +1068,6 @@ Sien 3
 samesweringsteorieë 3
 ag 2
 gewete 2
-gehardloop 2
 meneer 2
 dorpie 2
 Los 2

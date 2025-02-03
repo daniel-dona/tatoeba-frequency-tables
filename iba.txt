@@ -6,9 +6,9 @@ aku 15
 iya 13
 nya 13
 tu 13
+ba 10
 ti 9
 enda 9
-ba 9
 kami 8
 kita 8
 di 6
@@ -38,6 +38,7 @@ mih 3
 belama 3
 bukai 3
 gaga 3
+rumah 3
 Tom 3
 kala 3
 meli 3
@@ -68,7 +69,6 @@ nyin 2
 tadi 2
 Dah 2
 keja 2
-rumah 2
 nyalin 2
 sari 2
 tok 2
@@ -78,6 +78,7 @@ tua 2
 Aram 2
 Tulah 2
 lebuh 2
+iku 2
 Mary 2
 ulih 2
 Sapa 2
@@ -93,6 +94,7 @@ kena 2
 barang 2
 nulung 2
 Bakani 2
+ukui 2
 besai 2
 Enti 2
 burong 2
@@ -206,7 +208,6 @@ terumpit 1
 disepu 1
 melikat 1
 tiga 1
-iku 1
 nya” 1
 dikesayauka 1
 Minta 1
@@ -262,7 +263,6 @@ Ali 1
 amai 1
 main 1
 bo 1
-ukui 1
 “Aku 1
 miau 1
 kai 1
@@ -356,3 +356,6 @@ nyebut 1
 "scam" 1
 jaku 1
 Kanton 1
+Bisi 1
+dua 1
+luar 1

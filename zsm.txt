@@ -1,9 +1,9 @@
 Saya 1437
-saya 1310
+saya 1311
 yang 1176
 Tom 1157
 tidak 1128
-di 741
+di 742
 awak 716
 itu 639
 ini 598
@@ -28,7 +28,7 @@ adalah 213
 ada 203
 mahu 201
 hari 197
-orang 186
+orang 187
 kepada 182
 sedang 181
 pada 178
@@ -36,11 +36,11 @@ kamu 176
 Adakah 174
 dari 162
 lebih 161
-perlu 158
+perlu 159
 lagi 152
 Kami 152
+rumah 152
 makan 151
-rumah 151
 seorang 147
 bahawa 147
 mereka 144
@@ -81,7 +81,7 @@ memberitahu 83
 satu 82
 Jangan 82
 nak 82
-sekarang 80
+sekarang 81
 sama 79
 buku 79
 mana 78
@@ -93,18 +93,18 @@ tinggal 71
 membuat 71
 malam 71
 Ini 69
+tahun 68
 beliau 68
 pun 67
 Anda 67
-tahun 67
 berbuat 66
 lain 64
 sebelum 64
 Mereka 63
 sebuah 63
 kereta 63
+oleh 62
 Perancis 62
-oleh 61
 melihat 61
 Bolehkah 61
 sahaja 61
@@ -113,16 +113,16 @@ atas 59
 diri 59
 pasti 58
 sekolah 57
+dua 57
 sesuatu 57
 sendiri 57
 mungkin 57
-dua 56
 hanya 56
 Ia 56
 apa-apa 55
+setiap 55
 ia 55
 juga 55
-setiap 54
 bersama 54
 berlaku 52
 tidur 52
@@ -137,10 +137,10 @@ Aku 49
 besar 49
 kelihatan 49
 dunia 48
+Ada 48
 lakukan 48
 Apakah 47
 terlalu 47
-Ada 47
 membeli 47
 Sami 47
 Bahasa 46
@@ -194,8 +194,8 @@ sepatutnya 39
 Berapa 38
 Di 38
 sesiapa 38
+berjumpa 38
 mengambil 38
-berjumpa 37
 semasa 37
 salah 36
 kembali 36
@@ -214,10 +214,10 @@ bertanya 34
 tangan 34
 menggunakan 34
 selalu 34
+luar 34
 tiba 34
 kecil 33
 katakan 33
-luar 33
 si 33
 Bagaimana 33
 tapi 33
@@ -288,6 +288,7 @@ meninggalkan 25
 mati 25
 menulis 25
 kan 25
+ramai 25
 mendapat 25
 cara 25
 epal 25
@@ -302,7 +303,6 @@ terbang 24
 tersebut 24
 menarik 24
 memandu 24
-ramai 24
 bas 24
 membawa 24
 Siapa 24
@@ -426,6 +426,7 @@ marah 17
 beli 17
 guru 17
 berkahwin 17
+kucing 17
 menonton 17
 kegemaran 17
 petang 17
@@ -447,7 +448,6 @@ gadis 16
 Terdapat 16
 basikal 16
 berdiri 16
-kucing 16
 kuat 16
 meletakkan 16
 maaf 16
@@ -717,6 +717,7 @@ beri 9
 nasihat 9
 kasut 9
 Cina 9
+ekor 9
 menghadiri 9
 digunakan 9
 tanya 9
@@ -775,7 +776,6 @@ tingkap 8
 cerita 8
 sepuluh 8
 menangkap 8
-ekor 8
 terhadap 8
 menolong 8
 naik 8
@@ -1120,6 +1120,7 @@ pantai 6
 universiti 6
 berbeza 6
 Gadis 6
+Dulu 6
 sabar 6
 mengatakannya 6
 kerap 6
@@ -1214,6 +1215,7 @@ Muhammad 5
 pasangan 5
 betapa 5
 panggilan 5
+Kyoto 5
 Allah 5
 parti 5
 Jack 5
@@ -1221,6 +1223,7 @@ Nak 5
 kerjanya 5
 tabiat 5
 Singapura 5
+gemuk 5
 gereja 5
 Engkau 5
 masalahnya 5
@@ -1293,7 +1296,6 @@ pantas 5
 buta 5
 muzium 5
 membuang 5
-Dulu 5
 agama 5
 lulus 5
 musuh 5
@@ -1328,6 +1330,7 @@ tahan 5
 ianya 5
 warga 5
 sedih 5
+Yanni 5
 bebas 4
 pemikiran 4
 dipenuhi 4
@@ -1439,7 +1442,6 @@ ilmu 4
 panjang 4
 menentang 4
 Peter 4
-Kyoto 4
 dibunuh 4
 Wah 4
 mencadangkan 4
@@ -1451,7 +1453,6 @@ lembut 4
 gemarkan 4
 siap 4
 belas 4
-gemuk 4
 berpuas 4
 menyakitkan 4
 Kuda 4
@@ -1630,7 +1631,6 @@ mengesyaki 4
 berbicara 4
 Usah 4
 ke" 4
-Yanni 4
 samarata 3
 segi 3
 kemuliaan 3
@@ -3266,6 +3266,7 @@ pengsan 2
 membaikinya 2
 memuatkan 2
 sahabat 2
+Skura 2
 budaya 2
 cuai 2
 meluncur 2
@@ -6873,7 +6874,6 @@ Persoalannya 1
 Kalian 1
 arus 1
 janjikan 1
-Skura 1
 Panggil 1
 Ismail 1
 1990-an 1
@@ -7656,3 +7656,4 @@ Kota 1
 dapati 1
 menengah 1
 menyelamatkannya 1
+dikunjungi 1

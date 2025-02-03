@@ -1,24 +1,24 @@
 Ik 3220
-is 3217
+is 3218
 dat 2796
 en 2520
 de 2484
 nich 1950
 du 1692
 hett 1610
-He 1477
+He 1478
 in 1456
 De 1405
-to 1324
-Dat 1279
+to 1328
+Dat 1280
 heff 1260
 ik 1235
 Se 1163
 ’n 1073
 mi 1061
-un 883
+un 884
 von 845
-mit 779
+mit 780
 as 772
 op 716
 di 665
@@ -26,10 +26,10 @@ em 657
 an 653
 na 641
 mien 620
-Tom 611
+Tom 612
 sünd 610
 wat 548
-weer 531
+weer 532
 he 523
 Wi 521
 den 502
@@ -49,7 +49,7 @@ dor 401
 se 400
 so 399
 sik 369
-een 359
+een 360
 dien 358
 noch 351
 Mien 344
@@ -61,7 +61,7 @@ Huus 285
 üm 284
 man 261
 vör 260
-bi 256
+bi 257
 ji 255
 uns 255
 wi 255
@@ -263,12 +263,12 @@ drapen 58
 Vondaag 58
 grötter 58
 Sünn 58
+Bedd 57
 Eten 57
 ünner 57
 steiht 57
 maal 57
 toveel 57
-Bedd 56
 Disch 56
 ganz 56
 See 56
@@ -368,6 +368,7 @@ annern 41
 ne’e 40
 Dröff 40
 Morgen 40
+Been 40
 blieven 40
 smeckt 40
 arbeidt 40
@@ -380,7 +381,6 @@ diene 39
 Woord 39
 Boston 39
 Hand 39
-Been 39
 Sünd 39
 nöömt 39
 vull 39
@@ -425,6 +425,7 @@ Wöör 34
 Nee 34
 lopen 34
 anropen 34
+anner 34
 hoog 34
 woneem 34
 lütte 34
@@ -440,7 +441,6 @@ dücht 33
 kaam 33
 mööd 33
 dood 33
-anner 33
 Dien 33
 Stünn 33
 Hunnen 33
@@ -449,6 +449,7 @@ her 33
 schullen 32
 Do 32
 Wien 32
+hören 32
 hitt 32
 Appel 32
 negen 32
@@ -463,7 +464,6 @@ froh 32
 kriegen 32
 Wöörbook 32
 söök 31
-hören 31
 Regen 31
 Fleger 31
 füng 31
@@ -1281,6 +1281,7 @@ Fuji 9
 schient 9
 fründlich 9
 Kunst 9
+verkehrte 9
 angahn 9
 ropen 9
 flüggt 9
@@ -1315,6 +1316,7 @@ Smack 9
 Achter 9
 Iesland 9
 slaap 9
+Ohr 9
 lagen 9
 Immen 9
 echt 9
@@ -1373,7 +1375,6 @@ Indien 8
 Wunn 8
 freit 8
 Deert 8
-verkehrte 8
 Över 8
 glöövt 8
 Sofa 8
@@ -1542,7 +1543,6 @@ Müüs 7
 Wasch 7
 ophollen 7
 Buurn 7
-Ohr 7
 blievt 7
 staken 7
 echte 7
@@ -1642,6 +1642,7 @@ hiut 7
 Fransche 7
 Latien 6
 tütt 6
+geit 6
 je 6
 dä 6
 biet 6
@@ -1859,7 +1860,6 @@ teuven 6
 häb 5
 Et 5
 ne 5
-geit 5
 Brägen 5
 Tüüg 5
 Susan 5
@@ -2129,6 +2129,7 @@ Wœr 5
 bäten 5
 gohn 5
 holpen 5
+'t 5
 twe 4
 Buer 4
 brukt 4
@@ -4846,6 +4847,7 @@ Hefft 2
 Spreekt 2
 weckt 2
 ünnerseuken 2
+hum 2
 Viël 1
 vötälen 1
 totolustern 1
@@ -9996,5 +9998,3 @@ Unglöövlich 1
 di“ 1
 wäd 1
 tüderig 1
-löst 1
-schnak 1

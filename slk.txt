@@ -1,11 +1,11 @@
-je 3831
-sa 2848
+je 3832
+sa 2850
 som 2335
-Tom 2041
+Tom 2042
 si 1953
 to 1655
-že 1345
-na 1315
+že 1347
+na 1316
 v 1007
 a 862
 mi 632
@@ -17,15 +17,15 @@ ste 525
 ako 477
 do 466
 Čo 443
-To 435
+To 436
 s 425
 o 414
 Som 407
 po 396
-nie 381
+nie 382
 mesto 362
+má 340
 Prečo 339
-má 339
 sme 337
 Mária 332
 z 331
@@ -37,13 +37,13 @@ aby 292
 ti 286
 ma 277
 Kde 270
+Ako 263
 ho 263
-Ako 262
 ťa 255
 Nie 248
 za 236
+bol 231
 rád 230
-bol 230
 jej 215
 vás 210
 mu 205
@@ -66,8 +66,8 @@ urobiť 160
 povedal 159
 hlavným 159
 niečo 158
+Kto 155
 Tomovi 155
-Kto 154
 Hlavné 154
 Koľko 154
 Hlavným 154
@@ -204,6 +204,7 @@ anglicky 63
 moje 63
 Milujem 63
 Videl 63
+Povedal 63
 Každý 62
 môže 62
 Mal 62
@@ -213,18 +214,17 @@ Zajtra 62
 odpoveď 62
 všetky 61
 Ty 61
-Povedal 61
 Povedz 60
 hovoriť 60
 Ďakujem 60
 pred 60
 ak 59
+dobrý 59
 Vieš 59
 mať 59
 kniha 58
 zo 58
 ktorý 58
-dobrý 58
 dve 58
 im 58
 svoju 57
@@ -478,6 +478,7 @@ páči 29
 znamená 29
 nevidel 29
 názor 29
+prísť 28
 vlak 28
 niekoľko 28
 nad 28
@@ -499,7 +500,6 @@ vodu 27
 raz 27
 jedno 27
 Mary 27
-prísť 27
 unavený 27
 zima 27
 patrí 27
@@ -740,6 +740,7 @@ Keby 19
 kľúč 19
 nádej 19
 chybu 19
+včas 19
 Tomov 19
 Vďaka 19
 jediný 19
@@ -769,7 +770,6 @@ kvetov 18
 naša 18
 vašu 18
 darček 18
-včas 18
 Hneď 18
 potrebuje 18
 koho 18
@@ -846,6 +846,7 @@ zeleninu 16
 mojím 16
 radšej 16
 Vlak 16
+bojí 16
 vedia 16
 básne 16
 navštíviť 16
@@ -900,6 +901,7 @@ miestnosti 15
 zviera 15
 príležitosť 15
 Pred 15
+napísať 15
 Čoskoro 15
 Potom 15
 Napísal 15
@@ -965,7 +967,6 @@ náš 14
 Človek 14
 pomaranče 14
 budúci 14
-napísať 14
 vetu 14
 začať 14
 dôvod 14
@@ -990,7 +991,6 @@ hlave 14
 nádherný 14
 myslel 14
 lístok 14
-bojí 14
 hlad 14
 stáť 14
 Povedali 14
@@ -1002,6 +1002,7 @@ Dáš 14
 zjedol 14
 Japonska 13
 cestu 13
+Nezabudni 13
 Takmer 13
 právo 13
 chorá 13
@@ -1070,7 +1071,6 @@ republiky 13
 dlhšie 12
 nechcem 12
 rodinu 12
-Nezabudni 12
 pekné 12
 Nechaj 12
 pekne 12
@@ -1626,6 +1626,7 @@ kvet 8
 zmenil 8
 Vezmem 8
 rozhovor 8
+strach 8
 angličtiny 8
 prekvapení 8
 nájdem 8
@@ -1859,7 +1860,6 @@ kníhkupectve 7
 zavolám 7
 muža 7
 bratia 7
-strach 7
 dovolenku 7
 druhá 7
 svojou 7
@@ -2678,6 +2678,7 @@ Vždycky 5
 Ó 5
 akú 5
 uhorky 5
+vtip 5
 prekrásne 5
 prekvapiť 5
 poslal 5
@@ -2851,6 +2852,7 @@ Verili 5
 opatrnejší 5
 Slovinska 5
 trápi 5
+vlka 5
 Nechceš 5
 katalánsky 5
 žení 5
@@ -3288,7 +3290,6 @@ mohlo 4
 nebyť 4
 nešťastný 4
 druhých 4
-vtip 4
 druhej 4
 varovať 4
 pôvod 4
@@ -3608,7 +3609,6 @@ osa 4
 Ľubľana 4
 Začal 4
 poznajú 4
-vlka 4
 Hocičo 4
 spýtajte 4
 hrozný 4
@@ -4934,6 +4934,7 @@ zavolaj 3
 plyšový 3
 medvedík 3
 medvedíka 3
+veľkého 3
 Zamkni 3
 Zamknite 3
 Košice 3
@@ -5198,6 +5199,7 @@ dôstojnosti 2
 jednať 2
 duchu 2
 Správne 2
+zlého 2
 nebudú 2
 chlap 2
 rovnakí 2
@@ -7076,7 +7078,6 @@ liezť 2
 tulene 2
 Ľadové 2
 mrože 2
-veľkého 2
 gumových 2
 medvedíkov 2
 Kjóte 2
@@ -8070,7 +8071,6 @@ usmerni 1
 rovnú 1
 dolinou 1
 tône 1
-zlého 1
 mnou; 1
 prút 1
 palica 1

@@ -7,8 +7,8 @@ bara 698
 eo 697
 ket 619
 an 578
-eus 493
-zo 456
+eus 494
+zo 457
 o 414
 ur 335
 Ar 328
@@ -26,7 +26,7 @@ vez 240
 gant 239
 'zo 237
 mat 219
-bet 187
+bet 188
 evit 185
 Ur 184
 Ne 182
@@ -86,11 +86,11 @@ ganit 64
 graet 64
 rin 64
 pa 64
+ebet 63
 Pebezh 63
 out 62
 eget 62
 chom 61
-ebet 61
 amzer 61
 te 61
 c'hoant 61
@@ -123,12 +123,12 @@ oc'h 46
 dour 46
 Emañ 46
 bara-mañ 46
+kavet 45
 mont 45
 ganeoc'h 45
 mar-plij 45
 Pelec'h 44
 c'hoazh 44
-kavet 44
 Pa 44
 En 43
 ti 43
@@ -252,6 +252,7 @@ traoù 23
 raio 23
 met 23
 a-walc'h 23
+N'em 23
 diaoul 23
 votoù 23
 dra-se 22
@@ -265,7 +266,6 @@ avel 22
 noz 22
 buan 22
 ev 22
-N'em 22
 ganaouenn-mañ 22
 revr 22
 Ober 22
@@ -3036,6 +3036,7 @@ moteurien 2
 brav-se 2
 andon 2
 Aniverser 2
+arm 2
 Erwan 1
 Le 1
 Bourdonnec 1
@@ -6475,9 +6476,9 @@ Pepepep 1
 Vaksinet 1
 enep 1
 c'hovid 1
-arm 1
 c'hleze 1
 fealded 1
 simant 1
 vignoniezh 1
 Mouezh 1
+Arm 1

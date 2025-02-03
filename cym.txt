@@ -1,8 +1,8 @@
 yn 558
-i 342
+i 343
 Mae 288
 y 198
-Dw 187
+Dw 188
 i'n 178
 Tom 166
 ddim 117
@@ -33,7 +33,7 @@ chi'n 45
 iawn 44
 i'r 42
 siarad 38
-eisiau 37
+eisiau 38
 byw 36
 â 36
 newydd 34
@@ -85,6 +85,7 @@ chwarae 18
 ysgol 17
 Rhaid 17
 nhw'n 17
+dysgu 17
 Sami 17
 e 16
 darllen 16
@@ -92,7 +93,6 @@ hyn 16
 A 16
 oes 16
 rhy 16
-dysgu 16
 eu 15
 ni'n 15
 bwrw 15
@@ -2548,3 +2548,4 @@ feddyg 1
 fyfyriwr 1
 saff 1
 gynnon 1
+Iseldireg 1

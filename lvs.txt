@@ -1,9 +1,9 @@
-ir 2561
+ir 2562
 Es 1812
 Toms 783
 ka 769
 to 711
-Man 626
+Man 628
 un 583
 Viņš 552
 Vai 552
@@ -12,17 +12,17 @@ bija 492
 par 452
 ar 444
 tu 429
-Tas 427
+Tas 428
 man 413
 nav 399
-no 395
+no 397
 tas 377
 kā 358
 ko 335
 uz 314
 ļoti 306
 esmu 285
-mani 259
+mani 261
 Viņa 252
 kas 242
 tik 238
@@ -35,7 +35,7 @@ savu 194
 daudz 181
 būt 180
 bet 173
-Esmu 169
+Esmu 171
 jūs 166
 esi 160
 var 158
@@ -90,10 +90,10 @@ vienkārši 78
 Viņam 77
 cilvēki 76
 Tev 76
+šeit 75
 būtu 75
 Ko 75
 ja 75
-šeit 74
 varētu 74
 diezgan 74
 Šis 74
@@ -184,9 +184,9 @@ slikti 37
 nevis 37
 kurš 37
 gadā 37
+dzīvot 36
 Varbūt 36
 laikam 36
-dzīvot 35
 nesaprotu 35
 negribu 35
 iespējams 35
@@ -265,6 +265,7 @@ valodas 25
 citiem 25
 nebiju 25
 Paldies 24
+noguris 24
 labu 24
 jutos 24
 vārdu 24
@@ -275,7 +276,6 @@ parasti 24
 vaina 24
 kļūst 24
 tādu 24
-noguris 23
 valoda 23
 atrast 23
 atrodas 23
@@ -285,6 +285,7 @@ likās 23
 devās 23
 dēļ 23
 dzīve 23
+apnicis 23
 Ziri 23
 zemē 23
 suns 22
@@ -294,7 +295,6 @@ tāds 22
 patiešām 22
 Viss 22
 nebūtu 22
-apnicis 22
 vēlaties 21
 te 21
 Neviens 21
@@ -619,6 +619,7 @@ mazāk 11
 pasaule 11
 Bostonā 11
 vienalga 11
+beidz 11
 rada 11
 uzvarēt 11
 smieklīgi 11
@@ -727,6 +728,7 @@ neticami 10
 avokado 10
 patika 10
 sapņoju 10
+nost 10
 pārliecinošs 10
 Jūtos 10
 mēģināju 10
@@ -798,7 +800,6 @@ olas 9
 dēlu 9
 spēles 9
 spēlē 9
-beidz 9
 filmu 9
 ārkārtīgi 9
 sieva 9
@@ -943,7 +944,6 @@ atstāt 8
 sapņus 8
 Sapņi 8
 zemi 8
-nost 8
 gaidīts 8
 pārmaiņas 8
 solis 8
@@ -953,6 +953,7 @@ izstumtais 8
 Augsne 8
 uzstāja 8
 putns 8
+piekusis 8
 palaidu 8
 izvēlīgs 8
 apskaužu 8
@@ -1092,7 +1093,6 @@ klātbūtne 7
 auksts 7
 iesākt 7
 sabojāja 7
-piekusis 7
 doma 7
 tēmas 7
 izmisuma 7
@@ -5291,6 +5291,7 @@ pokeru 2
 neņēma 2
 murmināju 2
 nāku 2
+izaicinājumiem 2
 Džon 1
 Maiks 1
 Nensija 1
@@ -9997,4 +9998,3 @@ astoņas 1
 valstis 1
 izstiepj 1
 dabūtu 1
-kompostēt 1

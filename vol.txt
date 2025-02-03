@@ -1,13 +1,13 @@
 Tomas 825
 No 589
-das 543
-no 473
+das 544
+no 474
 binom 453
-etosi 415
+etosi 416
 in 317
 obik 273
 Maria 226
-dunön 189
+dunön 190
 binon 180
 e 162
 Tom 155
@@ -16,7 +16,7 @@ obe 154
 Kikod 152
 is 141
 olik 136
-ko 132
+ko 133
 at 132
 Kisi 128
 vemo 115
@@ -40,8 +40,8 @@ golön 76
 Kim 75
 adelo 74
 keli 74
-kisi 72
-ol 71
+kisi 73
+ol 72
 binob 70
 vilob 70
 binof 68
@@ -53,9 +53,9 @@ pükön 66
 valikosi 65
 Tikob 64
 etos 62
+omis 61
 binoms 60
 vilol 60
-omis 60
 nolob 59
 Labob 58
 dat 56
@@ -147,6 +147,7 @@ omes 28
 Talop 28
 Fat 27
 men 27
+nolol 27
 kiöp 27
 tikol 27
 velati 27
@@ -159,7 +160,6 @@ lilädön 26
 Hetob 26
 Boston 26
 Atos 26
-nolol 26
 kömön 26
 gretik 25
 Dom 25
@@ -175,6 +175,7 @@ Kanob 24
 dom 24
 vobön 24
 nulik 24
+obs 24
 Spikol-li 24
 kanol 24
 Binobs 24
@@ -184,7 +185,6 @@ Mens 23
 flens 23
 Dog 23
 mens 23
-obs 23
 nemi 23
 Ätikob 23
 Spikols-li 23
@@ -198,12 +198,12 @@ kim 22
 velatik 22
 sapik 21
 penön 21
+ya 21
 Änolob 21
 Mutol 20
 ela 20
 kafi 20
 katis 20
-ya 20
 kis 20
 timi 20
 Spelob 20
@@ -271,6 +271,7 @@ oms 16
 Labobs 16
 isi 16
 binobs 16
+Te 16
 binon-li 15
 Kis 15
 bür 15
@@ -289,7 +290,6 @@ fot 15
 mutob 15
 Vemo 15
 denu 15
-Te 15
 olömibos 15
 Id 15
 fidi 14
@@ -352,6 +352,7 @@ Son 12
 el 12
 nefikulik 12
 cif 12
+mutobs 12
 Si 11
 suno 11
 soni 11
@@ -371,7 +372,6 @@ viloms 11
 Blod 11
 Li-sevol 11
 ibo 11
-mutobs 11
 Pod 11
 keki 11
 jokolada 11
@@ -399,6 +399,7 @@ kukön 10
 Löfom 10
 savön 10
 blövabälik 10
+kanoms 10
 Esagob 10
 Nedän 10
 dunom 10
@@ -428,7 +429,6 @@ fikuliko 9
 ädunom 9
 Liko 9
 Alim 9
-kanoms 9
 pala 9
 älogom 9
 noloms 9
@@ -879,6 +879,7 @@ gloki 4
 ätikob 4
 Ävobob 4
 jönikün 4
+balidna 4
 nefikuliko 4
 solat 4
 spelom 4
@@ -1138,7 +1139,6 @@ Lols 3
 äbinos 3
 tidelis 3
 okömob 3
-balidna 3
 Löfoms 3
 alim 3
 dunon 3
@@ -1840,6 +1840,7 @@ hitos 2
 Konotolöd 2
 klödob 2
 lilädom 2
+Speloms 2
 fidol 2
 elilädom 2
 tikoms 2
@@ -1880,6 +1881,7 @@ Vilhelm 2
 Beginolöd 2
 älogom-li 2
 efögetob 2
+Vitolöd 2
 benen 2
 ämutom 2
 cöci 2
@@ -4210,7 +4212,6 @@ pecenom 1
 vedol 1
 Funolöz 1
 nepükol 1
-Speloms 1
 papelöl 1
 obiki 1
 egesagof 1
@@ -4526,7 +4527,6 @@ Dlinob 1
 Li-ostudol 1
 kanomöv 1
 Fidobsöd 1
-Vitolöd 1
 Li-spatol 1
 solats 1
 smeli 1
@@ -4823,3 +4823,7 @@ dabinom 1
 jisone 1
 sufiko 1
 seveb 1
+vikodön 1
+Edunobs 1
+Efidom-li 1
+Spikof 1
