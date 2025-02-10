@@ -1,12 +1,12 @@
 yo 805
 de 562
-tu 543
-el 504
+tu 544
+el 513
 Ya 491
-ya 478
-na 464
+ya 479
+na 473
 Tom 453
-si 443
+si 444
 le 277
 ta 242
 Ta 218
@@ -14,9 +14,9 @@ No 180
 un 179
 cunel 171
 quiere 167
-Tiene 160
+Tiene 161
 cosa 139
-maga 134
+maga 138
 Sabe 127
 cumigo 118
 mío 117
@@ -47,11 +47,11 @@ comé 62
 Hindé 61
 casa 61
 mga 60
+Bien 58
 para 57
+lang 57
 y 57
 quedá 57
-lang 56
-Bien 55
 Por 53
 ele 53
 Cosa 52
@@ -63,9 +63,9 @@ tiene 47
 kitá 47
 esté 47
 Ay 47
+pa 45
 aquí 45
 Mary 44
-pa 44
 ba 43
 dale 42
 se 42
@@ -90,9 +90,9 @@ olvidá 31
 dos 31
 cuchillo 31
 Nusabe 30
+cuento 29
 coche 29
 ayudá 29
-cuento 28
 hindé 28
 ponô 28
 usted 28
@@ -100,6 +100,7 @@ Quien 27
 salé 27
 libro 26
 principiá 26
+kita 26
 gayot 25
 ustedes 25
 tú 25
@@ -108,13 +109,12 @@ tata 24
 oí 24
 qué 24
 perro 24
-kita 24
+vos 24
 cuando 23
 escuela 23
 todo 23
 leche 23
 café 23
-vos 23
 estudía 23
 Si 22
 usá 22
@@ -144,6 +144,7 @@ ablá 18
 bien 18
 miedo 18
 hasta 18
+gato 18
 allá 18
 gayót 18
 mandá 18
@@ -153,6 +154,7 @@ Manada 18
 o 18
 Qué 18
 Usted 18
+aqui 17
 pero 17
 trabajo 17
 Este 17
@@ -161,10 +163,8 @@ tuyu 17
 decidí 17
 Favor 17
 barco 17
-aqui 16
 agua 16
 Mas 16
-gato 16
 favor 16
 lé 16
 pan 16
@@ -181,6 +181,7 @@ toalla 16
 llave 15
 manada 15
 hace 15
+comigo 15
 amigo 15
 vez 15
 hombre 15
@@ -191,13 +192,13 @@ hindê 15
 Tú 15
 tan 14
 Pensaba 14
-comigo 14
 adentro 14
 diútay 14
 mujer 14
 mano 14
 acabá 14
 encontrá 14
+Tan 14
 ojos 14
 cosas 14
 dalé 14
@@ -216,6 +217,7 @@ siempre 13
 otro 13
 hora 13
 Nunca 13
+pajaro 13
 Numá 13
 Pakimodo 13
 Todo 13
@@ -244,6 +246,7 @@ lápiz 12
 mediodía 12
 Evos 12
 sunsacá 12
+bueno 12
 Hay 12
 luna 12
 nuay 11
@@ -256,7 +259,6 @@ cuchara 11
 estudiá 11
 mas 11
 cumprá 11
-pajaro 11
 prestá 11
 pensá 11
 páyung 11
@@ -266,7 +268,6 @@ Cuanto 11
 ventana 11
 jugá 11
 Dol 11
-bueno 11
 más 11
 poco 10
 su 10
@@ -301,6 +302,7 @@ calendario 10
 resollá 10
 junto 9
 también 9
+kame 9
 habla 9
 Amó 9
 ayuda 9
@@ -327,7 +329,6 @@ unicornio 9
 clase 8
 ganá 8
 esperá 8
-kame 8
 peiná 8
 problema 8
 comida 8
@@ -341,7 +342,6 @@ camino 8
 Na 8
 TV 8
 pirmi 8
-Tan 8
 canción 8
 desde 8
 río 8
@@ -403,6 +403,7 @@ orientación 7
 dirección 7
 sombrero 7
 ságuing 7
+ventilador 7
 marang 7
 visitá 6
 culpa 6
@@ -438,6 +439,7 @@ novio 6
 agarrá 6
 todo'l 6
 era 6
+Anda 6
 sucedé 6
 a 6
 Hablá 6
@@ -461,7 +463,6 @@ veces 6
 eroplano 6
 anak 6
 viento 6
-ventilador 6
 cadenita 6
 frutas 6
 Ojala 6
@@ -645,6 +646,7 @@ traducí 4
 restaurant 4
 entende 4
 háce 4
+pueblo 4
 lingasa 3
 usa 3
 aretes 3
@@ -789,6 +791,7 @@ taxi 3
 aeropuerto 3
 cocina 3
 razón 3
+aplaya 3
 cumpleaños 3
 abierto 3
 Okey 3
@@ -864,6 +867,8 @@ Era 3
 pasáo 3
 pati 3
 man-cuento 3
+Maka-risas 3
+vinta 3
 decidi 2
 hijo 2
 pensamiento 2
@@ -981,7 +986,6 @@ sin 2
 fecha 2
 pakwán 2
 Conoce 2
-Anda 2
 solvá 2
 Ken 2
 payung 2
@@ -996,6 +1000,7 @@ cansáo 2
 herví 2
 azul 2
 cansao 2
+mar 2
 "Tallí 2
 "Sí 2
 basura 2
@@ -1202,6 +1207,8 @@ bo 2
 Sale 2
 soldao 2
 Hende 2
+kapre 2
+Ñor 2
 muri 2
 vivi 2
 tio 2
@@ -1212,6 +1219,8 @@ cre 2
 suspechá 2
 hombro 2
 lunes 2
+vira-vira 2
+bello 2
 pitácâ 1
 kunele 1
 informacion 1
@@ -1520,7 +1529,6 @@ Secretaria 1
 Helena 1
 religioso 1
 acceptá 1
-mar 1
 George 1
 'history' 1
 Señorita 1
@@ -1662,7 +1670,6 @@ almendra 1
 albaricoque 1
  1
 bolpen 1
-aplaya 1
 Mojáo 1
 uvas 1
 Paris 1
@@ -2308,13 +2315,10 @@ privilegio 1
 fiesta 1
 cuero 1
 Japones 1
-kapre 1
-Ñor 1
 Bik 1
 conmigo: 1
 nace 1
 niño 1
-en 1
 "planeta" 1
 Filipino 1
 Di 1
@@ -2436,9 +2440,15 @@ mejorá 1
 ocho 1
 millón 1
 dollar 1
-DELETE 1
 flauta 1
 pinaka-valiente 1
 Tan-relax 1
 ri 1
 confesá 1
+kamo 1
+Nonong 1
+alegria 1
+luchahan 1
+adobo 1
+maka-risas 1
+esquina 1

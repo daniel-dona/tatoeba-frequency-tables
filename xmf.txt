@@ -1,5 +1,5 @@
-Ma 244
-re 127
+Ma 245
+re 128
 Tom 55
 Si 49
 Toms 35
@@ -11,9 +11,9 @@ ma 33
 Tena 29
 vare 28
 si 25
+tena 25
 moǩo 25
 Tina 25
-tena 24
 Tomi 23
 oǩo 22
 reno 20
@@ -94,6 +94,7 @@ tku 6
 teshi 6
 ǩitxiri 6
 vordi 6
+michku 6
 Ena 6
 Muç̌o 6
 Goǧa 6
@@ -112,7 +113,6 @@ ichiebu 5
 mara 5
 ardzas 5
 Oxori 5
-michku 5
 Sumi 5
 Mardi 5
 ardzashe 5
@@ -301,7 +301,6 @@ vauchqƨ 2
 mitins 2
 mours 2
 Dia 2
-Mitinc 2
 brel 2
 miǧƨ 2
 tash 2
@@ -727,6 +726,7 @@ jima 1
 professional 1
 molaꞇafe 1
 kuchxburtish 1
+Mitinc 1
 vauꞇorcƨ 1
 glxash 1
 keteba 1
@@ -1064,6 +1064,7 @@ p̌oliṫiǩare 1
 Aa 1
 reku 1
 rdjoxo 1
+Mitinʒ 1
 Vauchku 1
 Moxvaduni 1
 ç̌arundi 1
@@ -1724,9 +1725,8 @@ rusetişe 1
 ႫႠ 1
 ႰႳႱႤႧႸႤ 1
 ႥႭႰႤႵჇ 1
-ႳႸႵႳႰႨ 1
-ႽႨႧႠ 1
-ႰႤ 1
+Uşkuri 1
+çhita 1
 tzq̌ar 1
 Shkvit 1
 Mozojiti 1
@@ -3093,3 +3093,4 @@ xiba 1
 gandju 1
 tsiraskua 1
 oxorts 1
+Kigegito 1

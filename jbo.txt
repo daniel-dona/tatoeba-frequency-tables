@@ -1,8 +1,8 @@
 lo 12882
 mi 6258
-cu 3521
+cu 3522
 do 3364
-la 3028
+la 3029
 pu 2322
 le 2308
 nu 2133
@@ -82,9 +82,9 @@ lu 194
 melbi 193
 li'u 191
 dunda 182
+xamgu 181
 fo 180
 nitcu 180
-xamgu 180
 nanmu 179
 karce 178
 lo'e 169
@@ -986,6 +986,7 @@ boston 12
 nobli 12
 esporte 12
 uo 12
+cev 12
 xunai 12
 mango 12
 varnila 12
@@ -1040,7 +1041,6 @@ ckeji 11
 dai 11
 uinaidai 11
 bu'a 11
-cev 11
 plixau 11
 ga 11
 atl 11

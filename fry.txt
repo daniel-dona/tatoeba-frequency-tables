@@ -5,14 +5,14 @@ de 73
 yn 70
 it 65
 fan 64
-net 55
+net 56
 út 39
 en 36
 It 33
 dat 33
+De 32
 ik 32
 Tom 32
-De 31
 jo 29
 Wat 28
 bin 28
@@ -23,8 +23,8 @@ wie 24
 haadstêd 24
 my 23
 hat 22
+binne 22
 Wêr 21
-binne 21
 dy 20
 op 20
 te 19
@@ -97,6 +97,7 @@ studint 6
 haatsje 6
 haw 6
 west 6
+wurde 5
 Hja 5
 eagen 5
 sil 5
@@ -122,7 +123,6 @@ komt 5
 kocht 5
 Hast 5
 minsken 4
-wurde 4
 fjouwer 4
 sizze 4
 famke 4
@@ -366,6 +366,7 @@ dialekt 2
 kinne 2
 Kinsto 2
 sels 2
+lekker 2
 wy 2
 kinnen 2
 mines 2
@@ -915,7 +916,6 @@ Silst 1
 lêze 1
 opnaam 1
 bêst 1
-lekker 1
 koese 1
 swimme 1
 Ferline 1
@@ -1318,3 +1318,7 @@ begroeven 1
 bakker 1
 bakt 1
 oaljekoek 1
+sinnepanielen 1
+koene 1
+brûkt 1
+Sipels 1

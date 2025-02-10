@@ -1,5 +1,5 @@
 je 1750
-se 634
+se 635
 u 560
 sam 471
 da 417
@@ -332,6 +332,7 @@ išao 12
 puta 12
 sat 12
 znači 12
+smrti 12
 Upravo 12
 njega 12
 ide 12
@@ -364,7 +365,6 @@ radiš 11
 pravu 11
 oko 11
 Život 11
-smrti 11
 čekati 11
 imam 11
 brat 11
@@ -546,6 +546,7 @@ imati 7
 omiljeni 7
 tobom 7
 dolara 7
+nemaju 7
 Daj 7
 Zato 7
 posjetiti 7
@@ -858,6 +859,7 @@ vjeruje 5
 Tokiju 5
 otoka 5
 pitanja 5
+zube 5
 iskren 5
 redu 5
 igrao 5
@@ -923,7 +925,6 @@ kruha 4
 strašno 4
 svatko 4
 najviše 4
-nemaju 4
 Ljeto 4
 nazvati 4
 Čini 4
@@ -951,6 +952,7 @@ smiješ 4
 dane 4
 popraviti 4
 inozemstvo 4
+Bojim 4
 pjevač 4
 dugu 4
 subotu 4
@@ -1280,7 +1282,6 @@ svojem 3
 drva 3
 dodati 3
 poznato 3
-Bojim 3
 Vrata 3
 Njen 3
 mač 3
@@ -2247,7 +2248,6 @@ oca 2
 primjerice 2
 raj 2
 Perem 2
-zube 2
 dnevno 2
 posljednja 2
 pecati 2
@@ -2572,6 +2572,7 @@ gradova 2
 Turska 2
 jača 2
 Grčke 2
+kornjače 2
 plaži 2
 votku 2
 moglo 2
@@ -2924,6 +2925,7 @@ Svijet 2
 svoji 2
 švedski 2
 vojnik 2
+Ptice 2
 brzi 2
 Laku 2
 EU 2
@@ -5959,7 +5961,6 @@ Bajkalsko 1
 Rusiji 1
 najdublje 1
 grlu 1
-kornjače 1
 Našli 1
 kornjaču 1
 Legenda 1
@@ -8300,7 +8301,6 @@ Pauci 1
 poslovica 1
 žuta 1
 posesivan 1
-Ptice 1
 korisno 1
 kɔ̲c 1
 lic 1
@@ -8420,3 +8420,5 @@ mesta 1
 stotinu 1
 Lopte 1
 okrugle 1
+Kornjače 1
+Morske 1

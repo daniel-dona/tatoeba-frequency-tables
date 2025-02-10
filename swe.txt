@@ -1,11 +1,11 @@
 är 11625
-Jag 11267
-att 7102
+Jag 11269
+att 7101
 Tom 7075
 inte 6919
 du 5131
 en 5130
-på 4851
+på 4853
 det 4744
 i 4584
 har 4233
@@ -17,7 +17,7 @@ för 2697
 här 2660
 var 2606
 med 2453
-till 2366
+till 2370
 och 2330
 om 2257
 Hon 2076
@@ -30,7 +30,7 @@ kan 1675
 Du 1602
 av 1600
 han 1259
-kommer 1255
+kommer 1254
 sig 1220
 så 1193
 Vad 1160
@@ -47,7 +47,7 @@ göra 879
 Är 863
 ska 857
 måste 820
-honom 813
+honom 814
 där 780
 vara 773
 Har 772
@@ -69,7 +69,7 @@ upp 604
 hon 600
 bara 597
 sin 587
-henne 573
+henne 574
 nu 564
 går 554
 bra 549
@@ -328,11 +328,11 @@ läsa 107
 föräldrar 107
 gånger 107
 dricker 107
-snart 107
 Maria 107
 mamma 106
 emot 106
 jobbet 106
+snart 106
 nog 106
 nästa 105
 bror 105
@@ -390,11 +390,11 @@ rummet 90
 liten 90
 slog 90
 alls 89
-Sverige 89
 öl 89
 tillsammans 89
 Denna 88
 tidigt 88
+Sverige 88
 åker 88
 sjuk 87
 samma 87
@@ -411,6 +411,7 @@ syster 85
 Layla 85
 Kommer 84
 hörde 84
+väntar 84
 enda 83
 varandra 83
 sent 83
@@ -420,7 +421,6 @@ lade 82
 familj 82
 Håll 82
 mellan 82
-väntar 82
 Marys 82
 fort 81
 bordet 81
@@ -521,6 +521,7 @@ musik 65
 simma 64
 person 64
 gifta 64
+Japan 64
 ringde 64
 död 64
 problemet 64
@@ -529,7 +530,6 @@ vore 64
 våra 64
 stora 64
 deras 63
-Japan 63
 sov 63
 svar 63
 dotter 63
@@ -916,7 +916,6 @@ stannar 34
 köper 34
 igenom 34
 van 34
-Ryssland 34
 lyssna 34
 piano 34
 förlora 34
@@ -944,6 +943,7 @@ log 33
 skola 33
 klänning 33
 Släpp 33
+Ryssland 33
 Följ 33
 utom 33
 hemlighet 33
@@ -1035,6 +1035,7 @@ glömma 29
 hög 29
 mörkt 29
 råkade 29
+Frankrike 29
 tjänst 29
 månad 29
 svår 29
@@ -1060,7 +1061,6 @@ olyckan 28
 regna 28
 senast 28
 ena 28
-Frankrike 28
 röker 28
 himlen 28
 menade 28
@@ -1105,6 +1105,7 @@ ordbok 27
 fullständigt 27
 Hör 27
 vintern 27
+Välkommen 27
 väska 27
 tvättar 27
 provet 27
@@ -1266,7 +1267,6 @@ berget 23
 Borde 23
 Amerika 23
 leker 23
-Välkommen 23
 välja 23
 fri 23
 fantastisk 23
@@ -1403,6 +1403,7 @@ gjord 20
 Prata 20
 omedelbart 20
 skjuta 20
+Kanada 20
 använde 20
 rörde 20
 närvarande 20
@@ -1463,7 +1464,6 @@ stolen 19
 radion 19
 kroppen 19
 dyr 19
-Kanada 19
 vackraste 19
 kolla 19
 minst 19
@@ -6332,6 +6332,7 @@ Erfarenheten 3
 Stoppa 3
 strålade 3
 stjärnorna 3
+Syrien 3
 benägen 3
 förstådd 3
 uppdrag 3
@@ -8391,7 +8392,6 @@ roligare 2
 Kosta 2
 anklagade 2
 vårdslöshet 2
-Syrien 2
 up 2
 ändlöst 2
 smörja 2
@@ -9767,7 +9767,6 @@ politiska 2
 filten 2
 grodor 2
 illaluktande 2
-invadera 2
 krisen 2
 talet 2
 involverad 2
@@ -9998,3 +9997,4 @@ växterna 2
 adekvat 2
 huvudsatser 2
 alternativen 2
+tänkbara 2

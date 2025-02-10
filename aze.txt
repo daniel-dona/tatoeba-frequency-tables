@@ -130,6 +130,7 @@ qədərdir 20
 gəldi 20
 həftə 19
 il 19
+olmaq 19
 Bütün 19
 zəng 19
 olur 19
@@ -141,7 +142,6 @@ gözəl 18
 on 18
 Səni 18
 az 18
-olmaq 18
 getdim 18
 Ona 18
 kitabı 18
@@ -255,6 +255,7 @@ buna 11
 Alma 10
 yaşamaq 10
 ol 10
+tanış 10
 Qız 10
 yeyirəm 10
 danışıram 10
@@ -280,10 +281,10 @@ beş 9
 oxumaq 9
 zəhləsi 9
 aldı 9
-tanış 9
 səninlə 9
 Çin 9
 düşünürəm 9
+Hansı 9
 dil 9
 hava 9
 dost 9
@@ -341,7 +342,6 @@ ehtiyacım 8
 balıq 8
 yazdı 8
 Uşaqlar 8
-Hansı 8
 görmək 8
 maşını 8
 etməyi 8
@@ -1257,6 +1257,7 @@ yaş 3
 Kosovo 3
 Ukrayna 3
 Ukraynada 3
+istərdin 3
 keçir 3
 demişəm 3
 tünd 3
@@ -1400,6 +1401,7 @@ qəşəngdir 3
 Sabahınız 2
 Qəzetim 2
 haqqındadır 2
+tarixi 2
 sirr 2
 ayıdır 2
 may 2
@@ -2004,7 +2006,6 @@ adınızı 2
 Kosovonun 2
 dövlət 2
 Kiyev 2
-istərdin 2
 Rusiyanın 2
 qaz 2
 səksən 2
@@ -2181,6 +2182,7 @@ istəmirdim 2
 yaxınlığında 2
 doğdu 2
 Əminsən 2
+şəxsən 2
 atasını 2
 qonşum 2
 şərabı 2
@@ -2524,7 +2526,6 @@ necəsiniz 1
 Haralısınız 1
 Tualetlər 1
 Mətn 1
-tarixi 1
 Qardaşın 1
 çiçəkdir 1
 Dekabr 1
@@ -5395,7 +5396,6 @@ vağzalı 1
 univermağın 1
 İncəsənət 1
 madyanım 1
-şəxsən 1
 məsləhətlərinizi 1
 xatırlayacam 1
 şəhərətrafında 1
@@ -7762,3 +7762,4 @@ itlərə 1
 Səllallahu 1
 əleyhi 1
 səlləm 1
+şəxsiyyətlərlə 1
