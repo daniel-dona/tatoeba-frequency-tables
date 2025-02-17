@@ -2,10 +2,10 @@ Mən 664
 O 456
 Tom 405
 Bu 356
-var 251
+var 252
 bir 220
 nə 181
-çox 171
+çox 173
 Biz 153
 ki 134
 idi 128
@@ -135,6 +135,7 @@ Bütün 19
 zəng 19
 olur 19
 bilmir 19
+çoxlu 19
 minimal 19
 əmək 19
 haqqı 19
@@ -150,7 +151,6 @@ qulaq 18
 saat 18
 sizə 18
 su 18
-çoxlu 18
 İsa 18
 dörd 17
 gördüm 17
@@ -308,6 +308,7 @@ məşğul 9
 taksi 9
 məcbur 9
 yerdə 9
+Ən 9
 fikir 9
 fransızca 9
 ehtiyacı 9
@@ -362,6 +363,7 @@ kimdir 8
 olmayacaq 8
 etdim 8
 Hamı 8
+siqaret 8
 Hara 8
 səhv 8
 idik 8
@@ -426,7 +428,6 @@ etmir 7
 cavan 7
 çəkdi 7
 tez-tez 7
-siqaret 7
 Atam 7
 xəstədir 7
 yağır 7
@@ -451,6 +452,7 @@ siz 7
 Qatar 7
 bacısı 7
 atam 7
+hansıdır 7
 eyni 7
 yaşayırsan 7
 dildə 7
@@ -602,6 +604,7 @@ anam 5
 altında 5
 görürəm 5
 məşğuldur 5
+çəkmək 5
 xəstəxanada 5
 öyrənmək 5
 stol 5
@@ -668,7 +671,6 @@ uşağım 5
 bahalıdır 5
 varmı 5
 pendir 5
-Ən 5
 qalmaq 5
 həkimdir 5
 adım 5
@@ -707,6 +709,7 @@ birinci 5
 adını 5
 Serbiyanın 5
 müddət 5
+şokolad 5
 xeyrə 5
 İsveçdə 5
 vacib 5
@@ -751,7 +754,6 @@ problemin 4
 itidir 4
 gedirik 4
 Siqaret 4
-çəkmək 4
 adətən 4
 problemi 4
 Yalnız 4
@@ -974,6 +976,7 @@ Mary-nin 4
 дејиләм 4
 almalıyam 4
 Qızları 4
+növü 4
 Gün 3
 aydın 3
 Necəsən 3
@@ -1217,7 +1220,6 @@ istədim 3
 solğun 3
 yadından 3
 olsaydım 3
-hansıdır 3
 Sizə 3
 onda 3
 Almaniyaya 3
@@ -1463,6 +1465,7 @@ yatmır 2
 Dəniz 2
 Bıçağım 2
 hissəsində 2
+qadağandır 2
 sürətli 2
 velosipedlə 2
 Qılınc 2
@@ -2511,6 +2514,8 @@ dilə 2
 göndərə 2
 xaricə 2
 Romanı 2
+sevdiyiniz 2
+sevdiyin 2
 xanımlar 1
 vә 1
 cәnablar 1
@@ -2649,7 +2654,6 @@ sevərəm 1
 Şansım 1
 Hovuza 1
 restoranın 1
-qadağandır 1
 Qonşunun 1
 çəmənliyi 1
 Hürən 1
@@ -4709,7 +4713,6 @@ istəyirsinizsə 1
 keçməlisiniz 1
 istəyirsənsə 1
 keçməlisən 1
-şokolad 1
 Eyni 1
 verməyəcəyini 1
 Pedofiliya 1
@@ -7763,3 +7766,6 @@ Səllallahu 1
 əleyhi 1
 səlləm 1
 şəxsiyyətlərlə 1
+Otelimizdə 1
+Kavasakinin 1
+fabrikləri 1

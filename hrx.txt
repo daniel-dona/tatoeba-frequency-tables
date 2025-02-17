@@ -5,13 +5,13 @@ en 214
 hod 182
 net 163
 hon 148
-die 138
+die 139
 de 137
 das 134
 De 125
 sin 110
 Die 103
-Das 94
+Das 95
 Sie 75
 Meer 75
 in 74
@@ -80,6 +80,7 @@ Mari 20
 Loss 19
 uns 19
 Wer 19
+Haus 19
 aus 19
 im 18
 nore 18
@@ -90,7 +91,6 @@ Hod-der 18
 odder 17
 Buch 17
 dass 17
-Haus 17
 eich 16
 gud 16
 drei 16
@@ -200,6 +200,7 @@ nemmd 8
 unser 8
 hier 8
 komme 8
+lieve 8
 Hand 8
 kemfe 8
 Abakatte 8
@@ -229,7 +230,6 @@ seid-der 7
 eere 7
 gefunn 7
 gäll 7
-lieve 7
 Sami 7
 jimand 7
 wieder 7
@@ -656,6 +656,7 @@ ferschwunn 3
 Bass 3
 Bleib 3
 Follichd 3
+brennd 3
 hinne 3
 Hof 3
 Kenndst-du 3
@@ -1937,7 +1938,6 @@ Herter 1
 ferschlofd 1
 Planze 1
 wachse 1
-brennd 1
 Stei 1
 Steid 1
 Setzd 1
@@ -2075,3 +2075,6 @@ Lamsam 1
 Sterne 1
 Forschein 1
 Chansë 1
+'S 1
+Vampire 1
+Dunkelheed 1

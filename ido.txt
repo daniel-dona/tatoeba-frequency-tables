@@ -1,12 +1,12 @@
-esas 3012
+esas 3014
 Me 2379
 la 2284
 ne 1387
-Tom 1122
+Tom 1124
 La 1060
 me 914
 tu 905
-Ka 779
+Ka 780
 es 760
 havas 622
 en 618
@@ -19,29 +19,29 @@ di 409
 mea 404
 esis 392
 e 364
-volas 357
-povas 318
+volas 358
+povas 320
 tre 308
 Tu 294
 por 281
 il 270
-Mea 269
+Mea 270
 El 262
 to 245
-plu 236
+plu 237
 kun 225
 savas 212
 de 210
+bona 207
 ni 206
-bona 206
+tua 196
 To 195
-tua 195
-sua 186
-kam 186
+sua 187
+kam 187
 vi 184
 quo 182
 Li 181
-Ilu 177
+Ilu 178
 pri 174
 prizas 169
 Ne 169
@@ -81,9 +81,9 @@ ca 98
 ankore 97
 mustas 96
 per 94
+linguo 94
 quale 94
-linguo 93
-Quo 93
+Quo 94
 ta 92
 sur 92
 ma 92
@@ -98,7 +98,7 @@ patro 85
 Ol 85
 multe 85
 vere 85
-ilu 83
+ilu 84
 odias 83
 manjas 82
 nia 81
@@ -106,7 +106,7 @@ Maria 81
 sempre 80
 bone 80
 pekunio 80
-Quale 78
+Quale 79
 dum 78
 ad 77
 nova 76
@@ -170,9 +170,9 @@ morge 48
 ka 48
 laboro 48
 kompris 48
+se 48
 lando 48
 ja 47
-se 47
 Bona 46
 urbo 46
 Vi 45
@@ -188,10 +188,10 @@ drinkas 44
 arivis 43
 ulo 43
 Sami 43
+kati 42
 vera 42
 importanta 42
 o 42
-kati 41
 vidar 41
 kom 41
 vivas 41
@@ -199,10 +199,10 @@ On 41
 venas 41
 havis 41
 manjis 40
+che 40
 infanti 40
 lojas 40
 komprenas 39
-che 39
 richa 39
 okuli 39
 felica 38
@@ -230,13 +230,14 @@ letro 35
 ante 35
 mala 35
 problemo 34
+rapide 34
 homo 34
 anke 34
 desfacila 33
 lektar 33
 helpar 33
-rapide 33
 inteligenta 33
+lernar 33
 facila 33
 ludas 33
 filiulo 33
@@ -246,7 +247,6 @@ yari 32
 blua 32
 tale 32
 standas 32
-lernar 32
 dormas 32
 tota 32
 Tua 32
@@ -441,6 +441,7 @@ stupida 17
 quik 17
 Japonia 17
 plena 17
+omnu 17
 mustis 17
 loko 17
 milito 17
@@ -459,7 +460,6 @@ biblioteko 16
 donis 16
 famoza 16
 Hike 16
-omnu 16
 problemi 16
 aden 16
 verajo 16
@@ -502,6 +502,7 @@ filmo 15
 Ulu 15
 regardas 15
 opiniono 15
+onu 15
 Vua 15
 nulatempe 15
 povra 15
@@ -535,7 +536,6 @@ ponto 14
 natas 14
 dankas 14
 posedas 14
-onu 14
 okupata 14
 konocis 14
 sucesis 14
@@ -585,6 +585,7 @@ facos 13
 helpas 13
 mentiis 13
 sango 13
+obliviis 13
 Judaismo 13
 Hundi 13
 Kati 13
@@ -620,7 +621,6 @@ propra 12
 certe 12
 strado 12
 floro 12
-obliviis 12
 India 12
 mortigos 12
 avertar 12
@@ -854,6 +854,7 @@ quin 9
 vidos 9
 princino 9
 Olu 9
+restar 9
 Liberigez 9
 gratitudoza 9
 dansas 9
@@ -951,7 +952,6 @@ chasas 8
 yuri 8
 yuro 8
 Angliana 8
-restar 8
 diktatoreso 8
 Nederlando 8
 miaulas 8
@@ -1034,6 +1034,7 @@ horlojo 7
 hospitalo 7
 tradukar 7
 Singla 7
+movar 7
 stono 7
 korto 7
 enemiko 7
@@ -1180,7 +1181,6 @@ preferata 6
 kapabla 6
 Via 6
 aviono 6
-movar 6
 plajo 6
 laute 6
 motivo 6
@@ -1631,6 +1631,7 @@ sonjis 4
 sekreto 4
 novaji 4
 trovesas 4
+Probez 4
 pardonar 4
 aranei 4
 nov 4
@@ -1715,6 +1716,7 @@ furtero 4
 diligenta 4
 aero 4
 naskas 4
+koncienco 4
 petro 4
 instruisto 4
 pardonos 4
@@ -2018,6 +2020,7 @@ kolino 3
 forco 3
 mariajata 3
 perdar 3
+mi 3
 laudar 3
 fluas 3
 rakonto 3
@@ -2035,7 +2038,6 @@ sezoni 3
 standar 3
 recenta 3
 L'elefanti 3
-Probez 3
 Wals 3
 baleni 3
 iraceskas 3
@@ -2177,7 +2179,6 @@ novajo 3
 dei 3
 profito 3
 Ruso 3
-gripo 3
 paroleskis 3
 exemplo 3
 Importas 3
@@ -2187,7 +2188,6 @@ sendar 3
 dominacas 3
 nude 3
 Tempo 3
-koncienco 3
 puniso 3
 distingo 3
 protekto 3
@@ -2217,6 +2217,7 @@ max 3
 februaro 3
 oktobro 3
 princo 3
+revas 3
 lango 3
 Sinioro 3
 ombro 3
@@ -2648,6 +2649,7 @@ splendida 2
 plombo 2
 plana 2
 'Yes' 2
+dankis 2
 bovino 2
 Al 2
 pagar 2
@@ -2740,7 +2742,6 @@ Lisa 2
 juar 2
 acensar 2
 Masao 2
-mi 2
 Cezaro 2
 konsilis 2
 plenigesas 2
@@ -2871,6 +2872,7 @@ hidrogeno 2
 oxigeno 2
 Per 2
 tuki 2
+jerzeo 2
 ad-heme 2
 mankis 2
 tasedo 2
@@ -3075,6 +3077,7 @@ siorulo 2
 demando 2
 pulso 2
 tacis 2
+gripo 2
 Draki 2
 fiktiva 2
 kremo-glacio 2
@@ -3188,7 +3191,6 @@ elefanto 2
 grosa 2
 kofro 2
 traiti 2
-revas 2
 facabis 2
 jenas 2
 kisas 2
@@ -3748,6 +3750,7 @@ Fungi 2
 pavorigis 2
 Vestizez 2
 panifisto 2
+plano 2
 Klabaster 1
 Gizmo 1
 Atomal 1
@@ -4239,7 +4242,6 @@ Bach 1
 kopiar 1
 kreata 1
 renkontro 1
-dankis 1
 expandar 1
 memorio 1
 Gore 1
@@ -4832,7 +4834,6 @@ bluo 1
 definas 1
 "feliceso" 1
 sorcino 1
-jerzeo 1
 rekontro-chambro 1
 Kancero 1
 remediesas 1
@@ -6815,8 +6816,6 @@ lakrimi 1
 Biro 1
 malto 1
 L'Irlandana 1
-Dabar 1
-sezonas 1
 Kain 1
 Yannui 1
 dentisti 1
@@ -8151,8 +8150,6 @@ farar 1
 Heroi 1
 kuzo 1
 blato 1
-Dešra 1
-gardi 1
 polutita 1
 komendas 1
 genuflexis 1

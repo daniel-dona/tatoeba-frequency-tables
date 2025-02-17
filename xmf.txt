@@ -1,6 +1,6 @@
 Ma 245
 re 128
-Tom 55
+Tom 56
 Si 49
 Toms 35
 Tkva 35
@@ -34,13 +34,13 @@ rdu 14
 ragadi 14
 So 13
 chkimi 13
+dǧas 13
 çkimi 13
 tom 13
 Chki 13
 მა 12
 meri 12
 Tomik 12
-dǧas 12
 ɣudes 12
 djoxo 12
 ula 12
@@ -108,6 +108,7 @@ reko 6
 fara 5
 shilebe 5
 martal 5
+ardza 5
 ichiebu 5
 ǧolama 5
 mara 5
@@ -137,7 +138,6 @@ Chqi 4
 chqimi 4
 mashƨna 4
 voxora 4
-ardza 4
 didi 4
 iuuapu 4
 jgiri 4
@@ -151,6 +151,7 @@ Migaxvamant 4
 Namu 4
 Kishilebeno 4
 dzǧabi 4
+pranguli 4
 Sami 4
 Tinepi 4
 reto 4
@@ -215,7 +216,6 @@ Mus 3
 tzanas 3
 da 3
 Tik 3
-pranguli 3
 xuti 3
 uǩaxle 3
 kianas 3
@@ -261,6 +261,7 @@ oxorans 3
 Muzhami 3
 udjguşi 3
 isṫoria 3
+Arti 3
 ṫabaǩi 3
 tunti 3
 tkvani 3
@@ -513,7 +514,6 @@ Tisƨ 2
 çkimo 2
 Gedirtit 2
 tutaşxas 2
-Arti 2
 banani 2
 Vamoǩo 2
 ɣidiri 2
@@ -3094,3 +3094,6 @@ gandju 1
 tsiraskua 1
 oxorts 1
 Kigegito 1
+bǧurutu 1
+ragadanʒ 1
+akʒenṫit 1

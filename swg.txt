@@ -52,15 +52,15 @@ Dees 45
 Des 43
 Du 42
 uff 42
-die 42
 wia 41
 ma 41
+die 41
 ä 40
 net 39
 Was 38
 Wär 38
+dia 35
 aus 35
-dia 34
 viel 34
 abr 34
 då 34
@@ -178,7 +178,6 @@ alloi 13
 oi 13
 grad 13
 Weib 13
-drei 13
 Schwob 13
 sodd 13
 kommd 13
@@ -191,6 +190,7 @@ Wo 12
 domm 12
 Isch 12
 Der 12
+drei 12
 erschd 12
 sähr 12
 Die 12
@@ -456,6 +456,7 @@ gsuåchd 5
 bischd 5
 Fraid 5
 gfondå 5
+femf 5
 faschd 5
 läbå 5
 ehm 5
@@ -565,7 +566,6 @@ gsaid 4
 hoff 4
 neiå 4
 Baum 4
-femf 4
 Audo 4
 wisså 4
 jô 4
@@ -5208,6 +5208,8 @@ X 1
 Xangbuåch 1
 Xondheid 1
 Xendl 1
+Xeds 1
+Xälzbrod 1
 godzige 1
 Ozelotpelz 1
 Otelot 1

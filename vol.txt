@@ -1,7 +1,7 @@
 Tomas 826
 No 590
 das 545
-no 475
+no 476
 binom 453
 etosi 417
 in 317
@@ -28,9 +28,9 @@ oli 96
 gudik 93
 Nolob 93
 ole 90
+et 90
 obi 89
 omi 89
-et 89
 vilom 85
 ka 84
 al 83
@@ -76,9 +76,9 @@ obes 48
 binön 48
 domo 48
 tel 47
+valik 47
 äbinom 47
 tidel 47
-valik 46
 Tomasa 46
 Hiel 45
 ome 45
@@ -145,6 +145,7 @@ gletik 28
 atosi 28
 omes 28
 Talop 28
+binons 27
 Fat 27
 men 27
 nolol 27
@@ -153,7 +154,6 @@ tikol 27
 velati 27
 cilis 26
 vobi 26
-binons 26
 domi 26
 zif 26
 lilädön 26
@@ -371,6 +371,7 @@ löfof 11
 viloms 11
 Blod 11
 Li-sevol 11
+ofen 11
 ibo 11
 Pod 11
 keki 11
@@ -394,7 +395,6 @@ tikön 10
 bosi 10
 Bostoni 10
 som 10
-ofen 10
 kukön 10
 Löfom 10
 savön 10
@@ -555,6 +555,7 @@ kaniti 6
 onik 6
 At 6
 Mans 6
+redik 6
 fenik 6
 Äbinos 6
 lügik 6
@@ -628,7 +629,6 @@ Esagom 6
 vödi 5
 äbinon 5
 Deutänapüki 5
-redik 5
 äkanob 5
 lak 5
 Sör 5
@@ -4832,3 +4832,6 @@ dos 1
 Mel 1
 vem 1
 dibik 1
+Pöki 1
+aidunon 1
+Apods 1
