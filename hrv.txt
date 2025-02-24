@@ -1,8 +1,8 @@
-je 1750
+je 1751
 se 635
 u 560
 sam 471
-da 417
+da 418
 li 401
 na 331
 ne 285
@@ -44,7 +44,7 @@ Gdje 55
 Je 54
 još 54
 sve 52
-dobro 51
+dobro 52
 bih 51
 ići 51
 Zašto 50
@@ -78,9 +78,9 @@ U 42
 do 42
 koji 42
 sa 41
+bilo 40
 ljudi 40
 ovdje 40
-bilo 39
 svoju 39
 vremena 38
 nisam 38
@@ -238,6 +238,7 @@ toga 16
 napraviti 16
 ih 16
 ono 16
+I 15
 prijatelji 15
 ime 15
 dva 15
@@ -262,7 +263,6 @@ nisu 15
 tvoja 14
 njegov 14
 pitanje 14
-I 14
 Hoćeš 14
 otišao 14
 toliko 14
@@ -642,6 +642,7 @@ okus 6
 možda 6
 mišljenje 6
 toj 6
+Bog 6
 mrtav 6
 vodom 6
 visoko 6
@@ -759,7 +760,6 @@ Nadam 5
 zaista 5
 priča 5
 zadovoljan 5
-Bog 5
 nama 5
 kralj 5
 čovjeku 5
@@ -8422,3 +8422,4 @@ Lopte 1
 okrugle 1
 Kornjače 1
 Morske 1
+vidje 1

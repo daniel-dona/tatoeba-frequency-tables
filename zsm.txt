@@ -3,7 +3,7 @@ saya 1311
 yang 1176
 Tom 1157
 tidak 1128
-di 742
+di 743
 awak 716
 itu 639
 ini 598
@@ -175,6 +175,7 @@ sedikit 41
 apabila 41
 Boston 41
 يڠ 41
+Tiada 40
 Tidak 40
 membantu 40
 kali 40
@@ -182,7 +183,6 @@ jadi 40
 belum 40
 beberapa 40
 sakit 40
-Tiada 39
 sampai 39
 minggu 39
 membaca 39
@@ -772,6 +772,7 @@ Esperanto 8
 merancang 8
 20 8
 susah 8
+Korea 8
 tingkap 8
 cerita 8
 sepuluh 8
@@ -868,7 +869,6 @@ pendidikan 7
 kamus 7
 negeri 7
 menggemari 7
-Korea 7
 Kerana 7
 arah 7
 Betapa 7
@@ -1177,6 +1177,7 @@ meminjamkan 5
 laju 5
 berbual 5
 melompat 5
+Utara 5
 mengikut 5
 Selalunya 5
 perang 5
@@ -1400,7 +1401,6 @@ berdiam 4
 undang-undang 4
 terutamanya 4
 alam 4
-Utara 4
 bakal 4
 mulai 4
 6 4
@@ -7657,3 +7657,4 @@ dapati 1
 menengah 1
 menyelamatkannya 1
 dikunjungi 1
+McDonald's 1

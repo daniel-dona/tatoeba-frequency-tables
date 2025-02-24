@@ -6,7 +6,7 @@ aku 15
 iya 13
 nya 13
 tu 13
-ba 10
+ba 11
 ti 9
 enda 9
 kami 8
@@ -94,6 +94,8 @@ kena 2
 barang 2
 nulung 2
 Bakani 2
+menua 2
+Nadai 2
 ukui 2
 besai 2
 Enti 2
@@ -236,12 +238,10 @@ rega 1
 Ari 1
 penatai 1
 Selamat 1
-menua 1
 kitu 1
 Jaku 1
 Bahasa 1
 Inggeris 1
-Nadai 1
 payung 1
 nabik 1
 basa 1
@@ -359,3 +359,6 @@ Kanton 1
 Bisi 1
 dua 1
 luar 1
+McDonald 1
+Korea 1
+Utara 1

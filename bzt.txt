@@ -1,7 +1,7 @@
-es 152
+es 154
 Eo 100
 yn 72
-rhen 66
+rhen 67
 di 53
 Tomos 52
 Ill 36
@@ -11,9 +11,9 @@ llo 30
 su 28
 ill 25
 Llo 24
+lla 24
 sunt 23
-lla 23
-Lla 21
+Lla 22
 Ty 16
 yst 16
 Nu 15
@@ -73,6 +73,7 @@ gwirdd 5
 Mair 5
 Negyn 5
 ddewindad 5
+wer 5
 h-ugell 5
 nw 5
 Gwa 5
@@ -135,7 +136,6 @@ lic 3
 alltr 3
 pobl 3
 si 3
-wer 3
 sew 3
 mheg 3
 mengib 3
@@ -654,3 +654,4 @@ Rhen 1
 d'ystydd 1
 ddyled 1
 barlar 1
+Ffreinċ 1

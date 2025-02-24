@@ -1,13 +1,13 @@
-do 3380
-zou 1207
+do 3381
+zou 1208
 di 1003
 no 908
 i 824
 Tom 698
 ku 650
 ko 649
-o 601
-id 478
+o 602
+id 479
 nu 450
 nopo 421
 Au 409
@@ -42,8 +42,8 @@ mai 125
 ii 124
 nunu 124
 baino 123
-gia 121
-Aiso 119
+gia 122
+Aiso 120
 Kivaa 114
 ka 107
 tadau 106
@@ -54,8 +54,8 @@ nga' 98
 diho 97
 ih 95
 disido 92
+doiho 89
 i' 88
-doiho 88
 doiti 85
 montok 82
 dosido 78
@@ -367,6 +367,7 @@ Kakaal 13
 pogiuman 13
 Bohizan 13
 pagapon 13
+Onuai 12
 tapa 12
 momohi 12
 kupi 12
@@ -392,7 +393,6 @@ tunizon 12
 sumakit 12
 giningo 12
 tavan 11
-Onuai 11
 nuununu 11
 totuvong 11
 nu" 11
@@ -851,6 +851,7 @@ kotuhidan 5
 tinau 5
 pinsingihaan 5
 monguama' 5
+Korea 5
 okonko 5
 topuod 5
 minonongkiboos 5
@@ -1046,7 +1047,6 @@ Pinoindikau 4
 odu 4
 nogonop 4
 Naanu 4
-Korea 4
 beg 4
 sinodu 4
 Opiumanan 4
@@ -2431,6 +2431,7 @@ papatahang 2
 gipan 2
 pinodohinan 2
 Aanu 2
+Koibutan 2
 asabi' 2
 ponoizukan 2
 gontob 2
@@ -5782,7 +5783,6 @@ agazat 1
 Koumbak 1
 tavantang 1
 Osuvai 1
-Koibutan 1
 salangan 1
 nosuangan 1
 Monongkotohuod 1
@@ -6793,3 +6793,5 @@ tumangkabo 1
 Gohombon 1
 Pinohodongo' 1
 Maahan 1
+McD 1
+fail 1

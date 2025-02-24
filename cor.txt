@@ -1,6 +1,6 @@
 yw 1325
 a 595
-an 446
+an 448
 Res 399
 ow 360
 dhymm 316
@@ -29,7 +29,7 @@ ki 118
 vynn 111
 dha 108
 lyver 101
-A 98
+A 99
 gul 95
 An 91
 genes 90
@@ -64,8 +64,8 @@ kavos 51
 gewer 51
 gans 51
 assaya 50
+dybri 48
 orth 47
-dybri 47
 gensi 46
 Ni 45
 hedhyw 45
@@ -146,9 +146,9 @@ Tomm 22
 Homm 22
 os 22
 kov 22
+Ple’ma 21
 bloodh 21
 dew 21
-Ple’ma 20
 tri 20
 kana 20
 chi 20
@@ -175,6 +175,7 @@ stevel 16
 den 16
 Yma’n 16
 vyth 16
+aval 16
 teg 16
 i 16
 deg 16
@@ -197,7 +198,6 @@ gorthebi 15
 govyn 15
 kath 14
 war 14
-aval 14
 Ro 14
 weles 14
 ilow 14
@@ -612,6 +612,7 @@ jy 3
 Canada 3
 Martesen 3
 Keslowena 3
+wruss’ta 3
 a-dro 3
 dhyskadores 3
 lymnans 3
@@ -738,7 +739,6 @@ Ottawa 2
 gewsis 2
 ros 2
 droos 2
-wruss’ta 2
 krys 2
 yey 2
 Ny’gas 2
