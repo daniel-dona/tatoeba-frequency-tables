@@ -49,8 +49,8 @@ về 761
 bị 759
 nhà 751
 Chúng 748
+những 736
 mình 736
-những 735
 học 729
 lại 712
 điều 702
@@ -60,9 +60,9 @@ tiếng 678
 khi 677
 nhiều 674
 ăn 669
-mà 660
+mà 661
 nghĩ 642
-rồi 633
+rồi 634
 con 620
 hơn 612
 thấy 611
@@ -82,8 +82,8 @@ cần 478
 chưa 475
 đâu 470
 ai 461
+sống 451
 đầu 451
-sống 450
 chuyện 448
 xe 448
 họ 447
@@ -92,7 +92,7 @@ vì 443
 còn 441
 qua 440
 quá 433
-vậy 431
+vậy 432
 Có 418
 thành 417
 nay 416
@@ -195,7 +195,7 @@ Pháp 210
 khó 209
 động 209
 gọi 208
-cứ 206
+cứ 207
 trường 206
 tối 206
 từng 206
@@ -373,11 +373,11 @@ thoại 109
 bà 108
 mắt 108
 xuất 108
+tiếp 108
 màu 107
 sĩ 107
 Ở 107
 bệnh 107
-tiếp 107
 tranh 106
 thương 105
 bàn 104
@@ -539,12 +539,12 @@ kiểm 70
 2 70
 vi 70
 thận 70
+tục 70
 lớp 69
 Bố 69
 kinh 69
 chuyển 69
 Quốc 69
-tục 69
 trình 68
 thiếu 68
 phép 68
@@ -684,6 +684,7 @@ táo 51
 tóc 51
 y 51
 bọn 51
+Cuộc 50
 bước 50
 nguy 50
 vời 50
@@ -695,7 +696,6 @@ khả 50
 dưới 50
 dục 50
 chí 50
-Cuộc 49
 tượng 49
 cạnh 49
 hứa 49
@@ -712,6 +712,7 @@ tiêu 48
 giao 48
 5 48
 phía 48
+đầy 48
 ga 47
 không" 47
 lầm 47
@@ -720,7 +721,6 @@ thuật 47
 hệ 47
 tương 47
 rảnh 47
-đầy 47
 "Tôi 46
 Ý 46
 hồi 46
@@ -828,6 +828,7 @@ nuôi 39
 rửa 39
 khoa 39
 ứng 39
+bí 39
 6 39
 điên 38
 hoạt 38
@@ -839,7 +840,6 @@ may 38
 hoặc 38
 hòa 38
 nặng 38
-bí 38
 Ba 38
 20 37
 la 37
@@ -1362,6 +1362,7 @@ Vậy 17
 ngành 17
 dụ 17
 cháu 17
+ẩn 17
 tốc 17
 gồm 17
 Jim 17
@@ -1397,7 +1398,6 @@ Quyển 16
 Lời 16
 ban 16
 Nga 16
-ẩn 16
 Bill 16
 Thành 16
 thiệu 16
@@ -1530,6 +1530,7 @@ nguyện 13
 ngất 13
 mây 13
 dưỡng 13
+Được 13
 thẻ 13
 Bắc 13
 ngài 13
@@ -1596,7 +1597,6 @@ Luân 12
 xi 12
 Đến 12
 tàng 12
-Được 12
 Mắt 12
 Bất 12
 Dân 12
@@ -2537,6 +2537,7 @@ Hóa 5
 Olympic 5
 nhốt 5
 vạt 5
+OK 5
 Tầng 5
 (Tầng 5
 Quy 5
@@ -2860,7 +2861,6 @@ sandwich 4
 2009 4
 "Dừng 4
 chút" 4
-OK 4
 ngâm 4
 Kindle 4
 Điên 4

@@ -1,15 +1,16 @@
-i 18
+i 19
+ná 10
 ar 8
-ná 8
 · 8
 Aiya 6
 na 6
 Elen 5
+síla 5
+Ma 5
 : 5
-síla 4
 Mára 4
 Á 4
-Ma 4
+I 4
 A 4
 ëa 4
 ámen 4
@@ -20,7 +21,6 @@ Nan 3
 Hísiel 3
 nér 3
 nu 3
-I 3
 alda 3
 Noldo 3
 Ná 3
@@ -84,6 +84,7 @@ ma 2
 Alatulya 2
 Méranyë 2
 parma 2
+lingwë 2
  1
  1
  1
@@ -328,7 +329,6 @@ mar 1
 laiwa 1
 Aha 1
 hloirëa 1
-lingwë 1
 Aldar 1
 coinar 1
 Telpë 1
@@ -337,3 +337,8 @@ Mana 1
 atan 1
 ui 1
 ea 1
+malina 1
+Anar 1
+Ringa 1
+ólelyalvë 1
+ostonna 1

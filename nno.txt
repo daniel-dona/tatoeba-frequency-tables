@@ -1,40 +1,40 @@
-er 2786
-Eg 2235
-Tom 1645
-ikkje 1100
-å 1040
-det 943
+er 2795
+Eg 2237
+Tom 1650
+ikkje 1101
+å 1041
+det 946
 i 914
 du 877
-på 863
-har 747
+på 864
+har 751
 ein 730
-Det 718
-til 700
-Han 621
-meg 520
+Det 719
+til 703
+Han 624
+meg 522
 var 493
 eg 485
-han 422
-med 409
-at 404
-Ho 396
+han 423
+med 410
+at 405
+Ho 398
 deg 379
 og 367
-eit 357
+eit 359
 for 343
-av 322
+av 323
 Vi 319
 som 316
-Du 311
+Du 312
 kan 261
 Dei 250
 fransk 249
-Er 246
+Er 248
 ei 245
 seg 243
-om 221
-likar 217
+om 222
+likar 218
 Kor 214
 Kva 206
 Mary 189
@@ -44,10 +44,10 @@ den 177
 dei 176
 kjem 173
 min 170
-dette 169
-skal 165
+dette 170
+skal 167
+hadde 165
 ho 164
-hadde 162
 så 161
 veldig 156
 ha 151
@@ -58,8 +58,8 @@ må 138
 tok 138
 her 137
 gjera 135
+frå 131
 noko 130
-frå 129
 veit 126
 Kven 125
 oss 123
@@ -70,7 +70,7 @@ mykje 118
 dag 116
 går 116
 opp 115
-sin 112
+sin 113
 gå 111
 denne 108
 din 106
@@ -98,8 +98,8 @@ trur 84
 over 84
 Kvar 83
 blei 81
+lyst 81
 tre 80
-lyst 80
 ser 80
 der 78
 Denne 78
@@ -118,9 +118,10 @@ henne 68
 høg 64
 I 64
 nokon 64
+Den 63
 alle 63
+laga 62
 ville 62
-laga 61
 gong 61
 bli 61
 mi 60
@@ -128,12 +129,11 @@ slo 60
 betre 60
 men 59
 litt 59
+sine 59
 Me 58
 spelar 58
-Den 57
 gjorde 57
 heile 57
-sine 57
 sett 57
 ned 56
 spela 56
@@ -159,11 +159,11 @@ læra 48
 ditt 48
 si 48
 Når 48
+verkeleg 48
 sidan 47
 Alle 47
 glad 47
 før 47
-verkeleg 47
 eller 46
 blir 46
 Ein 45
@@ -196,7 +196,7 @@ seier 38
 folk 38
 heime 38
 år 38
-andre 37
+andre 38
 kvar 37
 Lat 37
 lærer 37
@@ -240,10 +240,11 @@ langt 31
 skjedde 31
 allereie 31
 For 31
+fortalde 31
 ofte 30
 åt 30
+dagen 30
 gamal 30
-fortalde 30
 slutta 30
 heilt 29
 døydde 29
@@ -304,7 +305,6 @@ dyr 24
 Likar 24
 unna 24
 mot 24
-dagen 24
 vår 24
 lesa 24
 vatn 24
@@ -541,6 +541,7 @@ drog 14
 Russland 14
 redd 14
 spørsmål 14
+Velkomen 14
 vann 14
 leitar 14
 Noko 14
@@ -551,6 +552,7 @@ einaste 14
 siste 14
 Sei 14
 trøytt 14
+fyrste 14
 John 14
 vita 14
 endra 14
@@ -585,17 +587,16 @@ ord 13
 Ta 13
 jobb 13
 tenkt 13
+hus 13
 lett 13
 slik 13
 Ring 13
 harpe 13
-Velkomen 13
 gjennom 13
 Bli 13
 butikken 13
 eingong 13
 talar 13
-fyrste 13
 hata 13
 mus 13
 hende 13
@@ -679,7 +680,6 @@ beste 11
 jente 11
 bestemt 11
 sprang 11
-hus 11
 Trur 11
 omsett 11
 kanskje 11
@@ -700,6 +700,7 @@ treffa 11
 gøymde 11
 sette 11
 par 11
+kreft 11
 Slottet 11
 krig 11
 Hjarta 11
@@ -712,6 +713,7 @@ namnet 11
 Hadde 11
 blund 11
 Vis 11
+Velkomne 11
 godteri 11
 tastaturet 11
 vaksinerte 11
@@ -775,9 +777,9 @@ undervisa 10
 ringja 10
 prøva 10
 fleste 10
+foreldra 10
 songen 10
 synd 10
-Velkomne 10
 trombone 10
 filma 10
 planet 10
@@ -825,6 +827,7 @@ skriva 9
 ja 9
 galen 9
 forbi 9
+lurar 9
 syngja 9
 honning 9
 fint 9
@@ -837,6 +840,7 @@ sov 9
 kartet 9
 festen 9
 mest 9
+måndag 9
 månen 9
 første 9
 Stopp 9
@@ -909,7 +913,6 @@ Høyr 8
 varm 8
 nær 8
 natta 8
-lurar 8
 høyra 8
 fantastisk 8
 tysk 8
@@ -925,7 +928,6 @@ bygde 8
 kjøt 8
 meter 8
 juksa 8
-måndag 8
 umogleg 8
 hardt 8
 Diverre 8
@@ -937,7 +939,6 @@ låna 8
 spørja 8
 framtida 8
 dansa 8
-foreldra 8
 svenske 8
 Verdsrommet 8
 organiserte 8
@@ -965,6 +966,7 @@ komikar 8
 robot 8
 språket 7
 rart 7
+jobben 7
 kvite 7
 stoppa 7
 fått 7
@@ -1089,6 +1091,7 @@ musa 7
 voks 7
 bruk 7
 slange 7
+byggja 7
 setninga 7
 sunge 7
 Japan 7
@@ -1112,7 +1115,6 @@ måtar 7
 ubueleg 7
 dansk 6
 en 6
-jobben 6
 gjeld 6
 kjend 6
 trefte 6
@@ -1223,6 +1225,7 @@ Memorer 6
 Spring 6
 Møt 6
 møtest 6
+reint 6
 franske 6
 uunngåeleg 6
 arbeidslaus 6
@@ -1407,7 +1410,6 @@ harpa 5
 stolar 5
 vitsane 5
 Jo 5
-reint 5
 Burde 5
 forakteleg 5
 Spotify 5
@@ -1427,7 +1429,6 @@ kranglar 5
 oppvarming 5
 imponerte 5
 imponerande 5
-byggja 5
 strikka 5
 tjue 5
 hardare 5
@@ -1474,6 +1475,7 @@ invitert 5
 arkitektar 5
 nyttårsdag 5
 brusen 5
+sjukehuset 5
 orda 4
 nynorsk 4
 svært 4
@@ -1527,6 +1529,7 @@ Utan 4
 mora 4
 sko 4
 Mars 4
+tredje 4
 Familien 4
 Både 4
 vinter 4
@@ -1583,6 +1586,7 @@ skunda 4
 likt 4
 tyder 4
 kniven 4
+Finst 4
 beskjed 4
 bryllaupet 4
 Mi 4
@@ -1612,6 +1616,7 @@ deler 4
 gissa 4
 blomstrar 4
 latin 4
+Tyrkia 4
 uttalar 4
 dekt 4
 skorne 4
@@ -1770,6 +1775,7 @@ knivstukken 4
 gris 4
 potetsalat 4
 kapittelet 4
+fredag 4
 detektivar 4
 detektiv 4
 korta 4
@@ -1786,6 +1792,7 @@ varmen 4
 største 4
 Prøver 4
 søndag 4
+Moskva 4
 dottera 4
 respekterer 4
 1600 4
@@ -1795,7 +1802,6 @@ komikarar 4
 avbraut 4
 bortskjemde 4
 brus 4
-sjukehuset 4
 nedteljinga 4
 skilnad 3
 grad 3
@@ -1844,12 +1850,12 @@ omkring 3
 setningar 3
 Son 3
 To 3
+rømde 3
 studentane 3
 Frankrike 3
 sonen 3
 bygd 3
 film 3
-tredje 3
 skrivebordet 3
 mogeleg 3
 jaktar 3
@@ -1958,7 +1964,6 @@ mørk 3
 profesjonell 3
 brenn 3
 korkje 3
-Finst 3
 Ungar 3
 raude 3
 Planen 3
@@ -1966,7 +1971,6 @@ tapa 3
 Skodda 3
 hòl 3
 søner 3
-kreft 3
 ferskt 3
 nyfiken 3
 2 3
@@ -1993,6 +1997,7 @@ buss 3
 Kjøper 3
 jakt 3
 skjegg 3
+laurdag 3
 arbeidslause 3
 hatten 3
 leikne 3
@@ -2011,7 +2016,6 @@ gåve 3
 skjett 3
 euro 3
 forsøk 3
-Tyrkia 3
 Pua 3
 Harry 3
 spurt 3
@@ -2275,7 +2279,6 @@ soppane 3
 giftige 3
 soppar 3
 hale 3
-fredag 3
 plukka 3
 fienden 3
 spelkort 3
@@ -2286,6 +2289,7 @@ fôra 3
 kalde 3
 Midtausten 3
 utolmodig 3
+tysdag 3
 lovlydig 3
 borgar 3
 handhelsa 3
@@ -2310,6 +2314,7 @@ Fisk 3
 Sjølvsagt 3
 lukkeleg 3
 lyga 3
+onsdag 3
 Madrid 3
 Vinteren 3
 Tøm 3
@@ -2411,7 +2416,6 @@ bokmål 2
 særs 2
 færøysk 2
 vente 2
-rømde 2
 forårsaka 2
 død 2
 prinsipp 2
@@ -2643,7 +2647,6 @@ hengde 2
 fødselsdag 2
 reiv 2
 Jordskjelvet 2
-laurdag 2
 tastatur 2
 forferdelege 2
 aviser 2
@@ -2672,6 +2675,7 @@ fødselsdagen 2
 tenk 2
 tener 2
 paven 2
+femte 2
 forslaget 2
 tolmodig 2
 Teksten 2
@@ -3279,7 +3283,6 @@ lærebøkene 2
 bua 2
 sena 2
 drepe 2
-tysdag 2
 tola 2
 loven 2
 klemma 2
@@ -3360,14 +3363,13 @@ gratis 2
 Sit 2
 ro 2
 forteljinga 2
-Moskva 2
 retning 2
 tannlegen 2
 stiller 2
 Vatnet 2
 Zjanna 2
 Fisken 2
-onsdag 2
+torsdag 2
 døydd 2
 Grønland 2
 Nuuk 2
@@ -3381,6 +3383,7 @@ krangla 2
 roing 2
 lukta 2
 steinen 2
+fjerde 2
 ingeniør 2
 skifta 2
 tilgi 2
@@ -3446,6 +3449,7 @@ førebudde 2
 lynet 2
 utvalde 2
 historia 2
+diskutera 2
 Posten 2
 sending 2
 varer 2
@@ -4478,7 +4482,6 @@ soverom 1
 hukommelse 1
 Francis 1
 svare 1
-femte 1
 smiler 1
 stemde 1
 poliklinikkar 1
@@ -6434,7 +6437,6 @@ daddel 1
 fårefrikassé 1
 hæren 1
 skyete 1
-torsdag 1
 journalist 1
 forskar 1
 Izjevsk 1
@@ -6474,7 +6476,6 @@ overfor 1
 Familie 1
 spanderer 1
 nummer 1
-fjerde 1
 bygda 1
 Madagaskar 1
 Regnar 1
@@ -6879,7 +6880,6 @@ drue- 1
 bananjus 1
 forklåringar 1
 kjempegod 1
-diskutera 1
 Tanta 1
 albumet 1
 overnatta 1
@@ -7142,3 +7142,6 @@ plan 1
 posten 1
 djupast 1
 lighteren 1
+Regnvatn 1
+sjette 1
+jarn 1

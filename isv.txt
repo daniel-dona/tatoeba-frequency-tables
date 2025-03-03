@@ -1,10 +1,10 @@
-jest 126
-Ja 59
+jest 127
+Ja 61
 ne 40
-Tom 35
-jesm 33
+Tom 36
+jesm 35
 Ty 27
-To 20
+To 21
 v 19
 On 17
 My 16
@@ -61,6 +61,7 @@ kot 3
 Sami 3
 mentor 3
 hlěb 3
+jedl 3
 Tokipona 3
 nenavidžu 3
 igrati 3
@@ -97,7 +98,7 @@ njim 2
 njeju 2
 osoba 2
 Kto 2
-jedl 2
+jedla 2
 krasna 2
 mnoju 2
 budete 2
@@ -106,6 +107,7 @@ koristny 2
 znajete 2
 fašist 2
 mrtvy 2
+pljunul 2
 Ljudi 2
 Kuki 2
 restorany 2
@@ -156,6 +158,7 @@ vse 2
 Budizm 2
 Izraelju 2
 knigu 2
+Marija 2
 moja 2
 silno 2
 tož 2
@@ -174,6 +177,7 @@ Kitaj 2
 budu 2
 Vojna 2
 "magyar" 2
+a 2
 Добродошли 1
 Dobrodošli 1
 Vitaj 1
@@ -245,7 +249,6 @@ vaš 1
 Črveny 1
 barva 1
 experti 1
-jedla 1
 Někto 1
 bzdnul 1
 liftu 1
@@ -278,7 +281,6 @@ spěvala 1
 spěval 1
 pěvala 1
 pěval 1
-pljunul 1
 srditi 1
 rydal 1
 lžut 1
@@ -493,7 +495,6 @@ shematične 1
 plany 1
 něma 1
 Nacionalizm 1
-Marija 1
 vrhnica 1
 upekla 1
 ljubet 1
@@ -701,7 +702,6 @@ Meksikanskom 1
 zalivu 1
 Ne 1
 zautra 1
-a 1
 dnes 1
 Konflikt 1
 Francija 1
@@ -717,3 +717,7 @@ nauky 1
 větky 1
 togože 1
 drěva 1
+jabloko 1
+banan 1
+pljunula 1
+ryba 1
