@@ -1,4 +1,4 @@
-yn 558
+yn 559
 i 343
 Mae 288
 y 198
@@ -59,10 +59,10 @@ hynny 24
 dod 23
 fel 23
 gan 23
+dim 23
 ond 23
 ôl 23
 bwyta 23
-dim 22
 wneud 22
 llyfr 21
 Dych 21
@@ -95,6 +95,7 @@ oes 16
 rhy 16
 eu 15
 ni'n 15
+Does 15
 bwrw 15
 Dydy 15
 Yn 15
@@ -102,7 +103,6 @@ ardd 15
 e'n 14
 Ydych 14
 Saesneg 14
-Does 14
 Nid 14
 un 14
 enw 14
@@ -265,6 +265,7 @@ chi’n 6
 mor 6
 Dwi’n 6
 pan 6
+erbyn 6
 ifanc 6
 llawer 6
 Mae’r 6
@@ -310,7 +311,6 @@ Lloegr 5
 dechrau 5
 Fe 5
 ben 5
-erbyn 5
 efo 5
 Efallai 5
 tocyn 5
@@ -2549,3 +2549,5 @@ fyfyriwr 1
 saff 1
 gynnon 1
 Iseldireg 1
+moddion 1
+twpdra 1

@@ -1,9 +1,9 @@
 Ez 227
 ra 140
-o 116
+o 117
 mi 106
 Tom 105
-Ma 99
+Ma 100
 de 92
 to 86
 xo 86
@@ -11,8 +11,8 @@ ma 85
 a 76
 Tı 74
 bi 67
+ey 63
 ke 63
-ey 62
 yo 57
 do 56
 nê 56
@@ -27,7 +27,7 @@ Ti 42
 yê 41
 ez 40
 O 40
-rê 39
+rê 40
 kerd 35
 bê 35
 u 33
@@ -117,6 +117,7 @@ wa 9
 bî 9
 înan 9
 Tomî 9
+ci 9
 kamca 9
 tîya 9
 dest 8
@@ -135,7 +136,6 @@ Madê 8
 serrî 8
 Pîyê 8
 keyeyê 8
-ci 8
 eşkena 8
 her 8
 nas 8
@@ -170,6 +170,7 @@ kitabê 7
 bike 7
 ne 7
 rojan 7
+lazim 7
 veyşan 6
 ver 6
 şıré 6
@@ -199,7 +200,6 @@ hîrê 6
 Eke 6
 tena 6
 Her 6
-lazim 6
 xeyr 5
 heskena 5
 ro 5
@@ -303,6 +303,7 @@ coka 4
 nêzana 4
 şewe 4
 Ziwanê 4
+meke 4
 Wexto 4
 Çira 4
 der 4
@@ -422,7 +423,6 @@ tay 3
 Mîyanê 3
 şimeno 3
 Yanni 3
-meke 3
 şino 3
 çinayê 3
 domanê 3
@@ -457,6 +457,7 @@ reyde 3
 "Ti 3
 saetî 3
 rojî 3
+Telefonê 3
 labelê 3
 Rojhelatê 3
 çunke 3
@@ -2078,7 +2079,6 @@ gale 1
 nêame 1
 pisînge 1
 xînt 1
-Telefonê 1
 pade 1
 problemo 1
 teknîk 1
@@ -2844,3 +2844,6 @@ asnawe 1
 dindanê 1
 sîparîşê 1
 mamosteya 1
+şikîyayo 1
+ferhengo 1
+elektronîk 1

@@ -3,10 +3,10 @@ ar 1145
 e 961
  849
 da 753
+eo 698
 bara 698
-eo 697
 ket 619
-an 578
+an 579
 eus 494
 zo 457
 o 414
@@ -143,8 +143,8 @@ hep 42
 holl 41
 C'hoant 41
 Mat 41
+hon 41
 Hi 41
-hon 40
 d'an 40
 Ho 40
 Emaon 40
@@ -274,6 +274,7 @@ Butuniñ 22
 se 21
 paouez 21
 debriñ 21
+Ret 21
 petra 21
 tont 21
 reas 21
@@ -292,7 +293,6 @@ galleg 20
 redek 20
 Penaos 20
 bep 20
-Ret 20
 goude 20
 ivez 20
 vezañ 20
@@ -312,6 +312,7 @@ prenañ 19
 Kaoc'h 19
 peseurt 19
 dija 19
+deomp 19
 Kerzh 19
 'gav 19
 felpenn 19
@@ -330,7 +331,6 @@ laouen 18
 e-pad 18
 warc'hoazh 18
 a-raok 18
-deomp 18
 deskiñ 18
 seurt 18
 c'hwezh 18
@@ -878,6 +878,7 @@ avaloù 6
 vugale 6
 burev 6
 priz 6
+diwar-benn 6
 gontell 6
 vaouez 6
 delioù 6
@@ -1014,7 +1015,6 @@ N'en 5
 abaoe 5
 Botoù 5
 yelo 5
-diwar-benn 5
 vreur 5
 dremen 5
 aozet 5
@@ -1787,6 +1787,7 @@ Galv 3
 Pobet 3
 ginnig 3
 'oas 3
+soñjoù 3
 Kemerit 3
 Troet 3
 lennan 3
@@ -2577,7 +2578,6 @@ E-barzh 2
 Pokat 2
 lipat 2
 ziviz 2
-soñjoù 2
 Sellout 2
 foll 2
 afo 2
@@ -6482,3 +6482,5 @@ simant 1
 vignoniezh 1
 Mouezh 1
 Arm 1
+adcheñchañ 1
+dazont 1

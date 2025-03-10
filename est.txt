@@ -1,6 +1,6 @@
 on 1526
 Ma 925
-ei 734
+ei 735
 Tom 615
 Kas 440
 sa 434
@@ -59,10 +59,10 @@ sul 54
 mis 53
 ema 53
 välja 52
+saa 52
 te 52
 Palun 51
 teha 51
-saa 51
 kunagi 50
 minna 48
 me 48
@@ -526,6 +526,7 @@ tulen 7
 aias 7
 töö 7
 Oli 7
+vaid 7
 järgi 7
 tule 7
 öö 7
@@ -596,7 +597,6 @@ inimest 6
 ootab 6
 sõna 6
 Arst 6
-vaid 6
 laul 6
 läinud 6
 punane 6
@@ -724,6 +724,7 @@ lund 5
 toit 5
 tehtud 5
 tuled 5
+ega 5
 lemmik 5
 Nende 5
 jõe 5
@@ -885,7 +886,6 @@ võiksin 4
 nõustus 4
 leida 4
 paistab 4
-ega 4
 kuulus 4
 kurb 4
 ilusad 4
@@ -1090,6 +1090,7 @@ lahkuma 3
 sõltub 3
 palk 3
 Ateenasse 3
+teel 3
 selleks 3
 miski 3
 eksis 3
@@ -1530,7 +1531,6 @@ ometigi 2
 millal 2
 iganes 2
 kiita 2
-teel 2
 nõudis 2
 haigus 2
 Kogu 2
@@ -6720,3 +6720,17 @@ bioloogiast 1
 uudised 1
 turistidest 1
 ujutatud 1
+Tulevikku 1
+ehitada 1
+jõu 1
+vallutamissooviga 1
+demokraatliku 1
+meetodi 1
+kannatliku 1
+rakendamise 1
+konstruktiivses 1
+kokkuleppimise 1
+õhkkonnas 1
+suhtudes 1
+lugupidavalt 1
+vabadusse 1

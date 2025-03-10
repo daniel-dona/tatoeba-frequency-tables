@@ -23,15 +23,15 @@ spārtai 50
 kwāi 49
 mi 47
 ezze 47
-adder 44
+adder 45
 na 42
 paggan 40
 tennan 39
 Mes 39
 tāns 38
+ka 38
 padīnga 37
 Majs 37
-ka 37
 mīli 37
 iz 36
 tin 36
@@ -45,11 +45,11 @@ buwinna 31
 min 30
 Ast 30
 tūlin 29
+Ka 27
 šin 26
 Mennei 26
 bilāi 26
 Majā 26
-Ka 26
 Asma 26
 widāi 26
 mīri 25
@@ -57,9 +57,9 @@ Assei 25
 buttan 25
 prawerru 24
 Ni 24
+swajjan 24
 waīda 24
 grazzu 23
-swajjan 23
 En 23
 āblin 23
 Kasse 22
@@ -92,7 +92,6 @@ nikāi 15
 turēi 15
 būtwei 15
 Mazzi 15
-sunnis 14
 kawīdan 14
 mennei 14
 dīlin 14
@@ -106,12 +105,14 @@ di 14
 labbai 14
 bilīwuns 14
 mans 13
+sunnis 13
 aīnat 13
 majā 13
 teinū 13
 penningans 13
 pirzdau 13
 labban 13
+kas 13
 kāuptun 13
 twajs 13
 tūls 13
@@ -125,7 +126,6 @@ pastippan 12
 biskin 12
 asmai 12
 pēr 12
-kas 12
 pastāi 12
 Kas 12
 īst 12
@@ -137,6 +137,7 @@ mūka 11
 wissans 11
 etkūmps 11
 kwaitēi 11
+wissan 11
 ainaseīlingi 11
 Sunnis 11
 ti 10
@@ -149,7 +150,6 @@ wīlai 10
 beggi 10
 bijja 10
 brāti 10
-wissan 10
 Kwāi 10
 buttai 10
 Kawīds 10
@@ -196,6 +196,7 @@ undan 8
 perarwi 8
 pa 8
 dabber 8
+Dēiws 8
 wīrs 8
 wisāi 8
 Kaīls 8
@@ -227,7 +228,6 @@ Tom 7
 brātin 7
 mēnsan 7
 subs 7
-Dēiws 7
 labs 7
 turrimai 7
 waīduns 7
@@ -345,7 +345,6 @@ wirdeīnan 5
 plūtwei 5
 anni 5
 turīlai 5
-tenesses 5
 men 5
 waițātwei 5
 films 5
@@ -426,6 +425,7 @@ waīdusi 4
 krūwa 4
 druwēi 4
 saltan 4
+tenesses 4
 Tāws 4
 bitasīdin 4
 mūsa 4
@@ -1077,8 +1077,9 @@ Saūli 2
 plans 2
 grazzin 2
 wūriskaisi 2
-Kan 2
 mukinnimai 2
+sūns 2
+pateikāi 2
 dāwuns 1
 eninteressinsnans 1
 Metāi 1
@@ -3192,6 +3193,7 @@ swāikstiwusi 1
 aūss 1
 etbudda 1
 dēnginiskas 1
+Kan 1
 Tomoko 1
 Sato 1
 ukapōpulars 1
@@ -3207,7 +3209,7 @@ skaītan 1
 neikaūwa 1
 galinnuns 1
 pellin 1
-alkuhōlikeri 1
+alkuhōlikerini 1
 Mennad 1
 prawillaniks 1
 mēntiwusi 1
@@ -3322,7 +3324,6 @@ kunstan 1
 Ideālai 1
 trīnkin 1
 bāru 1
-sūns 1
 tusīwusi 1
 tusīwuns 1
 tusītwei 1
@@ -3330,3 +3331,6 @@ Tusēiti 1
 enminītun 1
 Enminīs 1
 duktin 1
+"Ik 1
+Dēiwan" 1
+"Krimmas" 1

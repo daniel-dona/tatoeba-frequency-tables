@@ -1,4 +1,4 @@
-es 154
+es 155
 Eo 100
 yn 72
 rhen 67
@@ -12,8 +12,8 @@ su 28
 ill 25
 Llo 24
 lla 24
+Lla 23
 sunt 23
-Lla 22
 Ty 16
 yst 16
 Nu 15
@@ -21,10 +21,10 @@ mew 14
 Nw 14
 a 12
 ci 12
+gath 11
 Ke 11
 gws 11
 Mew 11
-gath 10
 in 10
 sun 10
 eo 10
@@ -655,3 +655,4 @@ d'ystydd 1
 ddyled 1
 barlar 1
 Ffreinċ 1
+muin 1

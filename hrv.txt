@@ -1,5 +1,5 @@
 je 1751
-se 635
+se 636
 u 560
 sam 471
 da 418
@@ -124,11 +124,11 @@ godine 28
 posao 28
 auto 27
 reći 27
+engleski 27
 Mislim 27
 mogao 26
 ništa 26
 vrata 26
-engleski 26
 Molim 26
 vas 26
 možeš 26
@@ -191,6 +191,7 @@ Ima 20
 Moram 20
 žena 19
 tri 19
+govori 19
 kupio 19
 Jučer 19
 Sve 19
@@ -201,7 +202,6 @@ kad 19
 moje 18
 Možete 18
 Bio 18
-govori 18
 Taj 18
 Želiš 18
 sati 18
@@ -1289,6 +1289,7 @@ potpuno 3
 30 3
 besplatno 3
 sobom 3
+Amerika 3
 osobu 3
 zgrada 3
 restoran 3
@@ -1855,7 +1856,6 @@ Osaku 2
 Prošle 2
 Nogomet 2
 nogometne 2
-Amerika 2
 premala 2
 promijenio 2
 crveno 2
@@ -8423,3 +8423,5 @@ okrugle 1
 Kornjače 1
 Morske 1
 vidje 1
+Tečno 1
+vratila 1

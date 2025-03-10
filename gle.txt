@@ -1,5 +1,5 @@
-an 670
-a 639
+an 673
+a 642
 Tá 629
 mé 402
 ag 395
@@ -8,17 +8,17 @@ Is 334
 ar 243
 tú 219
 sé 213
+go 211
 bhfuil 210
-go 210
 An 208
 seo 193
-Ní 183
+Ní 184
 agam 173
 Níl 165
 liom 155
-i 131
+i 132
 mo 128
-le 113
+le 115
 na 105
 do 99
 maith 98
@@ -39,7 +39,7 @@ féidir 67
 agat 65
 mhaith 65
 raibh 62
-agus 61
+agus 62
 Ba 60
 dul 55
 ann 55
@@ -56,8 +56,8 @@ aon 43
 Cé 43
 as 43
 ina 43
+ach 41
 duit 41
-ach 40
 nach 40
 gach 38
 in 37
@@ -98,8 +98,8 @@ fearr 22
 leor 22
 mór 22
 gur 22
+ná 21
 cailín 21
-ná 20
 chónaí 20
 nua 20
 Ná 19
@@ -111,6 +111,7 @@ aici 19
 ainm 19
 ea 19
 chlog 19
+faoi 19
 abhaile 19
 Gaeilge 19
 Dúirt 19
@@ -119,7 +120,6 @@ carr 18
 dó 18
 ansin 18
 iad 18
-faoi 18
 Níor 18
 grá 18
 madra 18
@@ -153,6 +153,7 @@ Caithfidh 15
 chéile 15
 bhaile 14
 bás 14
+trí 14
 páistí 14
 den 14
 amach 14
@@ -165,7 +166,6 @@ Beidh 13
 mise 13
 uisce 13
 múinteoir 13
-trí 13
 caint 13
 uair 13
 daoine 13
@@ -251,6 +251,7 @@ de 9
 ríomhairí 9
 Mura 9
 ngrá 8
+ár 8
 éis 8
 bhliain 8
 cad 8
@@ -266,6 +267,7 @@ gorm 8
 imeacht 8
 cheart 8
 uainn 8
+cur 8
 Seo 8
 hálainn 8
 bean 8
@@ -283,7 +285,6 @@ I 8
 Thomás 8
 Nuair 7
 brón 7
-ár 7
 Cuir 7
 chéad 7
 ón 7
@@ -298,8 +299,8 @@ orthu 7
 chaoi 7
 freisin 7
 sneachta 7
-cur 7
 domhan 7
+chur 7
 seacht 7
 dochtúir 7
 bainne 7
@@ -345,7 +346,6 @@ Teastaíonn 6
 bliain 6
 tiomáint 6
 rudaí 6
-chur 6
 áthas 6
 mhúinteoir 6
 iontach 6
@@ -555,6 +555,7 @@ gortaithe 4
 lón 4
 dhearna 4
 mharú 4
+tríd 4
 déanaí 4
 bpost 4
 líne 4
@@ -730,7 +731,6 @@ mura 3
 Ni 3
 maidin 3
 páipéar 3
-tríd 3
 úrscéal 3
 mbaile 3
 Faraor 3
@@ -3035,3 +3035,16 @@ deartháireacha 1
 brí 1
 ceapaim 1
 aspairín 1
+brú 1
+chois 1
+mhúnlófar 1
+dtodhchaí 1
+bpróiseas 1
+daonlathach 1
+bhfeidhm 1
+foighneach 1
+mheon 1
+dearfach 1
+chomhaontaithe 1
+tsaoirse 1
+urramú 1
