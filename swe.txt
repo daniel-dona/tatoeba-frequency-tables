@@ -1,4 +1,4 @@
-är 11627
+är 11628
 Jag 11273
 att 7113
 Tom 7083
@@ -7,11 +7,11 @@ du 5133
 en 5132
 på 4856
 det 4748
-i 4586
+i 4587
 har 4237
 Det 3881
 Han 3409
-jag 3151
+jag 3152
 mig 2721
 för 2700
 här 2660
@@ -85,7 +85,7 @@ gillar 463
 åt 458
 finns 441
 blev 439
-dag 427
+dag 428
 eller 426
 alla 421
 gick 420
@@ -105,9 +105,9 @@ ta 378
 väldigt 377
 gjorde 377
 när 371
-två 363
+två 364
+En 361
 kunde 361
-En 360
 Ni 356
 Vem 355
 efter 352
@@ -148,7 +148,7 @@ tid 275
 franska 275
 mina 271
 sina 265
-vid 262
+vid 263
 ligger 261
 kunna 258
 vilja 256
@@ -257,13 +257,13 @@ kände 137
 snäll 136
 rädd 135
 då 135
+ny 134
 säker 134
 Ta 134
 ensam 134
 fram 134
 huset 133
 jobb 133
-ny 133
 försökte 133
 gott 133
 Gör 133
@@ -853,6 +853,7 @@ ljög 38
 klara 38
 Går 38
 Polisen 37
+Klockan 37
 spanska 37
 trettio 37
 långa 37
@@ -860,7 +861,6 @@ val 37
 fängelse 36
 exempel 36
 hör 36
-Klockan 36
 frågan 36
 kött 36
 goda 36
@@ -2237,6 +2237,7 @@ jobbade 11
 fötterna 11
 ångrar 11
 föreslår 11
+kvart 11
 vete 11
 Fåglar 11
 vardagsrummet 11
@@ -2427,7 +2428,6 @@ uppgiften 10
 skynda 10
 glädje 10
 sträng 10
-kvart 10
 nöje 10
 erfarenhet 10
 modern 10
@@ -3828,6 +3828,7 @@ suckade 6
 samhället 6
 skyldiga 6
 oroliga 6
+Brödet 6
 sjuksköterskan 6
 farliga 6
 Redan 6
@@ -4419,7 +4420,6 @@ slöt 5
 vattnade 5
 blekaste 5
 bädda 5
-Brödet 5
 lek 5
 persiska 5
 diskussionen 5
@@ -4514,6 +4514,7 @@ sandslott 5
 fattigdom 5
 älg 5
 storm 5
+bakade 5
 teckenspråk 5
 Fokusera 5
 stig 5
@@ -5303,6 +5304,7 @@ kittlig 4
 receptionen 4
 solnedgång 4
 operera 4
+brändes 4
 trög 4
 Helt 4
 långvarig 4
@@ -5426,7 +5428,6 @@ lakan 4
 påskägg 4
 Kyss 4
 klättrar 4
-bakade 4
 Internet 4
 visat 4
 Köttet 4
@@ -6613,7 +6614,6 @@ me 3
 ba 3
 värda 3
 helgerna 3
-brändes 3
 blundar 3
 Samtliga 3
 samtalsämne 3
@@ -7757,6 +7757,7 @@ Jugoslavien 2
 förknippar 2
 Darwin 2
 vinkel 2
+gryr 2
 Okunnighet 2
 väte 2
 oroade 2
@@ -9997,4 +9998,3 @@ förtroende 2
 serien 2
 abstrahera 2
 abstraktion 2
-abstrakta 2

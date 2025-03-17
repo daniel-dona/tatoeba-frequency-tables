@@ -6,12 +6,12 @@ to 715
 Man 633
 un 588
 Viņš 554
-Vai 553
-es 549
+Vai 554
+es 550
 bija 494
 par 456
 ar 448
-tu 430
+tu 431
 Tas 428
 man 415
 nav 401
@@ -26,7 +26,7 @@ mani 261
 Viņa 253
 kas 245
 tik 238
-Tu 232
+Tu 233
 tā 231
 Mēs 218
 lai 211
@@ -94,16 +94,16 @@ Tev 76
 būtu 75
 Ko 75
 varētu 75
+pēc 75
 ja 75
 diezgan 74
 Šis 74
-pēc 74
 Ir 72
 pats 72
 Lūdzu 70
+Tomu 70
 jo 70
 pie 69
-Tomu 69
 vajag 68
 jūsu 68
 Cik 66
@@ -134,8 +134,8 @@ nevar 54
 esam 54
 tur 54
 viņiem 52
+Mans 52
 pat 52
-Mans 51
 līdz 51
 tika 50
 gan 50
@@ -185,16 +185,16 @@ nevis 37
 kurš 37
 gadā 37
 dzīvot 36
+valodā 36
+kafiju 36
 Varbūt 36
 laikam 36
 nesaprotu 35
 negribu 35
+runā 35
 iespējams 35
-valodā 35
 kur 35
-kafiju 35
 cilvēks 34
-runā 34
 runāt 34
 domā 34
 atkal 34
@@ -224,6 +224,7 @@ mūs 30
 Nav 30
 manis 30
 jābūt 30
+kāpēc 30
 nekas 30
 sapnis 30
 Viņai 29
@@ -231,7 +232,6 @@ vienu 29
 diena 29
 tavu 29
 vajadzēja 29
-kāpēc 29
 ēst 29
 nemaz 29
 lietas 28
@@ -288,6 +288,7 @@ dzīve 23
 apnicis 23
 Ziri 23
 zemē 23
+Uz 22
 suns 22
 sauc 22
 dienas 22
@@ -297,7 +298,6 @@ patiešām 22
 šajā 22
 Viss 22
 nebūtu 22
-Uz 21
 savus 21
 vēlaties 21
 te 21
@@ -389,6 +389,7 @@ strādā 17
 mācīties 17
 tēju 17
 vārds 17
+manas 17
 jauns 17
 ārā 17
 balss 17
@@ -412,7 +413,6 @@ dzimšanas 16
 acis 16
 nevajag 16
 iespēja 16
-manas 16
 nevēlas 16
 veids 16
 prom 16
@@ -432,6 +432,7 @@ māja 15
 strādāt 15
 liela 15
 bijām 15
+zini 15
 būšu 15
 kaķis 15
 mājas 15
@@ -477,7 +478,6 @@ Tie 14
 negribēju 14
 vakar 14
 iespēju 14
-zini 14
 māju 14
 gaidīju 14
 Tava 14
@@ -749,6 +749,7 @@ zināja 9
 Protams 9
 rīta 9
 iepazīties 9
+drīz 9
 Bija 9
 Vakar 9
 automašīnu 9
@@ -848,9 +849,9 @@ trīsdesmit 8
 uzticēties 8
 apsēdās 8
 mierā 8
-drīz 8
 runājat 8
 kādam 8
+nomira 8
 vārdi 8
 dzīvnieki 8
 dzied 8
@@ -972,7 +973,6 @@ pavadīt 7
 ceļu 7
 Daudz 7
 skaistas 7
-nomira 7
 atnāca 7
 Bērni 7
 dažus 7
@@ -1043,6 +1043,7 @@ kājas 7
 zem 7
 atstāju 7
 līdzi 7
+vectēvs 7
 numuru 7
 kautrīgs 7
 gribētos 7
@@ -1199,7 +1200,6 @@ pār 6
 cigarešu 6
 kuri 6
 tīšām 6
-vectēvs 6
 spējām 6
 aizgāja 6
 pamanīja 6
@@ -1800,6 +1800,7 @@ Taču 4
 gaume 4
 cepure 4
 Runājot 4
+nedzer 4
 Vācu 4
 Grāmata 4
 grūta 4
@@ -1851,6 +1852,7 @@ būsim 4
 mūžībā 4
 godu 4
 izglāba 4
+berberu 4
 kuram 4
 tādas 4
 banāni 4
@@ -2412,7 +2414,6 @@ patīc 3
 projām 3
 piestāv 3
 divām 3
-nedzer 3
 pārliecinoši 3
 salas 3
 četras 3
@@ -2484,7 +2485,6 @@ baseinā 3
 īsts 3
 pagājušonakt 3
 Fadils 3
-berberu 3
 pavadīju 3
 iemigt 3
 kalnos 3
@@ -3261,6 +3261,7 @@ silta 2
 palīdzēšu 2
 Manu 2
 fizikas 2
+aizgāju 2
 mugursomu 2
 uzzīmēja 2
 jaunais 2
@@ -4223,6 +4224,7 @@ bināro 2
 avotiem 2
 Gadsimtiem 2
 Polijas 2
+Berberi 2
 Dzejnieks 2
 ierocis 2
 18 2
@@ -4294,6 +4296,7 @@ suņu 2
 suņiem 2
 burvis 2
 Abi 2
+priekšnieks 2
 kļūstat 2
 dāņu 2
 nāvessods 2
@@ -5665,7 +5668,6 @@ tusnis 1
 paliki 1
 skolotāju 1
 bastoju 1
-aizgāju 1
 neprasīšu 1
 atvainojis 1
 paskaidroji 1
@@ -8893,7 +8895,6 @@ gadsimtu 1
 simtgadīgā 1
 birzs 1
 Krakova 1
-Berberi 1
 islāmu 1
 8 1
 Abstraktā 1
@@ -9189,7 +9190,6 @@ nedarām 1
 dejošu 1
 Jēziņ 1
 nedzirdīgi 1
-priekšnieks 1
 akls 1
 nepiedzimu 1
 Josips 1

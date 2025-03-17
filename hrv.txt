@@ -1,10 +1,10 @@
-je 1751
+je 1753
 se 636
 u 560
 sam 471
 da 418
 li 401
-na 331
+na 333
 ne 285
 Tom 284
 i 241
@@ -21,7 +21,7 @@ On 149
 To 129
 ti 123
 te 120
-me 114
+me 115
 smo 110
 s 105
 će 100
@@ -158,14 +158,15 @@ jučer 23
 knjigu 23
 dana 23
 želiš 23
+tvoje 22
 raditi 22
 Koji 22
 nam 22
 jednu 22
 život 22
 dok 22
-tvoje 21
 Mi 21
+tko 21
 ste 21
 kući 21
 dijete 21
@@ -177,7 +178,6 @@ sada 21
 želi 21
 Imaš 21
 zove 20
-tko 20
 novac 20
 svojim 20
 jer 20
@@ -287,6 +287,7 @@ hladno 14
 žene 14
 koliko 14
 jednom 13
+svijetu 13
 Moraš 13
 Nitko 13
 imaju 13
@@ -304,7 +305,6 @@ Tomu 13
 nisi 13
 znao 13
 Vrijeme 12
-svijetu 12
 Zar 12
 broj 12
 Japan 12
@@ -618,6 +618,7 @@ Nešto 7
 vjerovati 7
 vidi 7
 ideju 7
+mom 7
 računalo 7
 kurac 7
 Layla 7
@@ -628,6 +629,7 @@ njegovo 6
 Dobar 6
 naš 6
 Jesu 6
+Koje 6
 Oprosti 6
 Jedan 6
 šest 6
@@ -729,7 +731,6 @@ nove 6
 krivu 6
 rekla 6
 Nemamo 6
-mom 6
 miru 6
 dvoje 6
 Dođi 6
@@ -741,7 +742,6 @@ Pas 5
 A 5
 vi 5
 jest 5
-Koje 5
 trebaju 5
 drugima 5
 pivo 5
@@ -752,6 +752,7 @@ otvoriti 5
 zvijezda 5
 razumije 5
 sami 5
+tom 5
 poslati 5
 prijedlog 5
 koristi 5
@@ -785,6 +786,7 @@ Rim 5
 Pada 5
 glavu 5
 ocu 5
+Boli 5
 naći 5
 rođen 5
 ukrao 5
@@ -917,7 +919,6 @@ S 4
 vaš 4
 promijeniti 4
 hoću 4
-tom 4
 onoga 4
 Vaš 4
 boji 4
@@ -972,7 +973,6 @@ duže 4
 hotelu 4
 nad 4
 sretna 4
-Boli 4
 ponašanje 4
 čak 4
 kažeš 4
@@ -1428,6 +1428,7 @@ nevjerojatno 3
 izaći 3
 barem 3
 pao 3
+prezime 3
 Čujem 3
 išta 3
 pogledati 3
@@ -2086,7 +2087,6 @@ biste 2
 imali 2
 smetati 2
 Trebalo 2
-prezime 2
 Wang 2
 šumi 2
 vlastiti 2
@@ -2566,6 +2566,7 @@ hrvatskom 2
 Prijestolnica 2
 Beograd 2
 srpskom 2
+najljepši 2
 Njemačke 2
 kupila 2
 gradova 2
@@ -5942,7 +5943,6 @@ spori 1
 Srbija 1
 "Srbija" 1
 Firenca 1
-najljepši 1
 Švicarska 1
 Francuske 1
 Austrije 1
@@ -8425,3 +8425,7 @@ Morske 1
 vidje 1
 Tečno 1
 vratila 1
+Ogledalo 1
+ogledalo 1
+zidu 1
+grlo 1

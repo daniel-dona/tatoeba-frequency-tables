@@ -1,11 +1,11 @@
-nie 1244
-is 1042
-het 962
-Ek 951
+nie 1246
+is 1043
+het 963
+Ek 952
 die 740
 'n 591
 Tom 439
-jy 431
+jy 432
 my 344
 te 306
 om 288
@@ -39,7 +39,7 @@ doen 109
 wees 107
 haar 104
 oor 104
-My 92
+My 93
 hom 92
 hy 91
 Wat 89
@@ -135,13 +135,13 @@ ook 24
 voel 24
 weer 24
 geld 24
+soos 24
 mag 23
 kar 23
 lief 23
 mense 23
 bietjie 23
 drink 23
-soos 23
 gekom 22
 hond 22
 goeie 22
@@ -304,6 +304,7 @@ geëet 11
 geword 11
 sonder 11
 bekommerd 11
+ses 10
 naby 10
 vraag 10
 land 10
@@ -336,7 +337,6 @@ vol 10
 huil 10
 hare 10
 Voëls 10
-ses 9
 Haar 9
 hard 9
 bank 9
@@ -602,6 +602,7 @@ vandaan 5
 gespeel 5
 omtrent 5
 Water 5
+kantoor 5
 opgestaan 5
 Skryf 5
 anders 5
@@ -720,7 +721,6 @@ slegte 4
 uitgaan 4
 oë 4
 enigste 4
-kantoor 4
 - 4
 gevat 4
 ooit 4
@@ -1504,6 +1504,7 @@ pere 2
 indien 2
 tuiste 2
 Vee 2
+verdiepings 2
 papier 2
 bekwame 2
 plat 2
@@ -3012,7 +3013,6 @@ verbeel 1
 alte 1
 gesuip 1
 agste 1
-verdiepings 1
 Blaar 1
 beoefen 1
 dansers 1
