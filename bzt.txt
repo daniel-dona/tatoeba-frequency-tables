@@ -4,7 +4,7 @@ yn 72
 rhen 67
 di 53
 Tomos 52
-Ill 36
+Ill 37
 Ys 34
 Sa 31
 llo 30
@@ -46,6 +46,7 @@ mhod 6
 llifr 6
 Ô-g 6
 ben 6
+Saesonig 6
 padr 6
 wid 6
 Ffrencig 6
@@ -62,7 +63,6 @@ nôn 5
 tew 5
 gwol 5
 ag 5
-Saesonig 5
 ply 5
 ffeirth 5
 ys 5
@@ -136,6 +136,7 @@ lic 3
 alltr 3
 pobl 3
 si 3
+munn 3
 sew 3
 mheg 3
 mengib 3
@@ -150,6 +151,7 @@ h-enifal 3
 Si 3
 Ceosath 3
 Ceos 3
+parol 3
 sera 3
 fryd 2
 trui 2
@@ -211,7 +213,6 @@ manugaf 2
 inelleith 2
 ddragun 2
 rhiddigl 2
-munn 2
 cristian 2
 nef 2
 afant 2
@@ -237,7 +238,6 @@ ystad 2
 negyn 2
 fi 2
 uddirant 2
-parol 2
 ffrencig 2
 chosin 2
 cosin 2
@@ -656,3 +656,4 @@ ddyled 1
 barlar 1
 Ffreinċ 1
 muin 1
+inheir 1

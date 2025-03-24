@@ -1,6 +1,6 @@
-ad 186891
+ad 186894
 n 154166
-d 114858
+d 114859
 ara 92875
 ay 71472
 i 65479
@@ -9,7 +9,7 @@ Ur 54290
 ur 49390
 Tom 42489
 asegzawal 39624
-ɣer 34215
+ɣer 34217
 ɣef 33671
 s 28673
 Ad 27917
@@ -22,14 +22,14 @@ akken 13441
 Skura 13022
 Yanni 12743
 akk 12427
-aya 11862
+aya 11863
 acu 11762
 ma 11369
-kan 11265
+kan 11266
 win 11049
 yiwen 11024
 Yella 10123
-kra 9242
+kra 9243
 adlis 9126
 aṭas 8758
 A 8560
@@ -69,7 +69,7 @@ Anda 4431
 lliɣ 4411
 d-nseɣ 4380
 Nuja 4353
-Ma 4293
+Ma 4294
 llint 4287
 d-sɣeɣ 4141
 d-naɣ 4072
@@ -497,7 +497,7 @@ tged 711
 Ttxil-k 710
 tazewwut 708
 lḥeqq 705
-iliɣ 702
+iliɣ 703
 telliḍ 700
 yidrimen 700
 swaswa 697
@@ -1055,10 +1055,10 @@ nla 336
 tasiwant 335
 txedmeḍ 335
 assaɣ 334
+neg 334
 Yeddukklen 334
 Ḥwajen 334
 isem-nnes 333
-neg 333
 kramraw 333
 izemren 332
 ttedduɣ 332
@@ -1278,8 +1278,8 @@ yitran 272
 ha-tt-an 272
 afrar 272
 Nniɣ-as 271
+mgal 271
 izaranen 271
-mgal 270
 tiseɣt 270
 gen 269
 album 269
@@ -1727,13 +1727,13 @@ Awi-d 196
 Werεad 196
 « 196
 iteddu 196
+yennayer 196
 fell-aken 196
 wawalen 195
 yura 195
 udi 195
 yerfa 195
 amsegdal 195
-yennayer 195
 tmeddit 194
 yesṛuḥ 194
 tetteg 194
@@ -1857,6 +1857,7 @@ tḥemmlem 180
 iḥulfa 180
 uxxam-nnes 180
 Paris 179
+gma 179
 almani 179
 tasarut 179
 iqbac 179
@@ -1869,7 +1870,6 @@ amenyaf 179
 tamiɣist 179
 Rio 179
 d-iwet 178
-gma 178
 yenna-iyi-d 178
 teɣzef 178
 Ḥbes 178
@@ -2115,6 +2115,7 @@ Nna 161
 inmettiyen 161
 Yeg 161
 Lorenzo 161
+rzuɣ 160
 tumḍint 160
 amikṛumdeswal 160
 teqqlemt 160
@@ -2125,7 +2126,6 @@ ttelugut 160
 ubyaṛ 160
 ttwaliɣ 159
 ilugan 159
-rzuɣ 159
 Jane 159
 tinqiḍin 159
 idammen 159
@@ -4488,7 +4488,6 @@ yeṭṭfen 78
 tannayt-nnek 78
 d-tewwimt 78
 Tugimt 78
-Mamek 78
 ileḥḥu 78
 isuffuɣ 78
 wul-im 78
@@ -4536,6 +4535,7 @@ Wakli 77
 umidi 77
 wul-ik 77
 tudes 77
+Mamek 77
 Ttnadin 77
 taspenyulit-tabaskit 77
 talbanit-taṭerkit 77

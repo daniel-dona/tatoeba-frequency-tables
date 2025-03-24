@@ -1,5 +1,5 @@
 on 1526
-Ma 925
+Ma 926
 ei 735
 Tom 615
 Kas 440
@@ -144,9 +144,9 @@ elab 27
 sõber 27
 ainult 26
 teed 26
+Mina 26
 tahad 26
 juba 25
-Mina 25
 meeldi 25
 oleks 24
 kodus 24
@@ -1513,6 +1513,9 @@ leidis 3
 Joškar-Olas 3
 Istanbuli 3
 silmast 3
+tarkvara 3
+uusimale 3
+versioonile 3
 tänavatel 2
 antud 2
 südametunnistus 2
@@ -2474,6 +2477,7 @@ politseinikud 2
 prantsusekeelset 2
 luuletust 2
 Omaani 2
+uuendasin 2
 Sellises 1
 kärestikus 1
 mõtlematu 1
@@ -6734,3 +6738,4 @@ kokkuleppimise 1
 suhtudes 1
 lugupidavalt 1
 vabadusse 1
+Uuendasin 1

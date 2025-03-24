@@ -1,5 +1,5 @@
 je 120
-sie 86
+sie 87
 za 73
 to 52
 niy 51
@@ -8,9 +8,9 @@ Niy 49
 na 47
 Tom 41
 mie 36
-do 28
+do 30
 żech 24
-sōm 22
+sōm 23
 we 22
 co 20
 po 20
@@ -35,6 +35,7 @@ dōma 11
 ty 10
 w 10
 bez 10
+Kaj 10
 z 9
 tak 9
 go 9
@@ -43,7 +44,6 @@ mu 9
 Ty 9
 yno 9
 Toma 9
-Kaj 9
 aż 9
 Je 8
 Mōj 8
@@ -64,6 +64,7 @@ wartko 7
 Ale 7
 ôszkliwy 7
 wziōn 7
+ku 7
 Mōm 6
 iże 6
 Ôna 6
@@ -77,7 +78,7 @@ kej 6
 spać 6
 Tyn 6
 Jeżeś 6
-ku 6
+Muszã 6
 We 5
 dōm 5
 żeś 5
@@ -97,7 +98,6 @@ Mary 5
 robi 5
 Ô 5
 gibko 5
-Muszã 5
 nic 5
 już 5
 tã 5
@@ -238,6 +238,7 @@ jym 2
 dżymym 2
 takõ 2
 nigdy 2
+jechać 2
 Bydź 2
 poczkej 2
 piynć 2
@@ -358,6 +359,7 @@ jako 2
 ja 2
 werkcojgōw 2
 Pijã 2
+kafyj 2
 tymi 2
 wele 2
 mianujesz 2
@@ -554,7 +556,6 @@ gupoty 1
 Barzo 1
 dzisioj 1
 chcieli 1
-jechać 1
 Warszawy 1
 Przeczytej 1
 zace 1
@@ -911,7 +912,6 @@ ganc 1
 inakszyj 1
 Chybiŏ 1
 Brakuje 1
-kafyj 1
 kawã 1
 pani 1
 czwŏrtym 1
@@ -1490,3 +1490,14 @@ potym 1
 zōndã 1
 sklepu 1
 pytŏsz 1
+moje 1
+klucze 1
+roboty 1
+Przekludzōm 1
+miastu 1
+Potrzebujã 1
+kluczy 1
+swojigo 1
+auta 1
+Pijy 1
+swōj 1

@@ -1,13 +1,13 @@
 się 16736
 nie 14221
-jest 14067
-w 12554
-Tom 11082
-na 10537
+jest 14069
+w 12556
+Tom 11083
+na 10538
 Nie 9281
 to 8483
 że 7972
-do 7615
+do 7617
 z 7361
 To 4546
 i 4512
@@ -18,13 +18,13 @@ mnie 3456
 ma 3092
 co 3004
 On 2919
-za 2804
+za 2805
 jak 2682
 tego 2524
 po 2481
 Mary 2369
 są 2279
-W 2015
+W 2016
 bardzo 2014
 tym 2006
 był 1811
@@ -37,7 +37,7 @@ już 1579
 ci 1496
 dla 1470
 ale 1454
-Co 1423
+Co 1424
 Toma 1386
 domu 1346
 Mam 1301
@@ -83,7 +83,7 @@ powiedział 788
 dużo 777
 nic 772
 on 770
-Na 752
+Na 753
 wszystko 746
 kiedy 740
 więcej 733
@@ -176,12 +176,12 @@ wie 407
 ona 406
 tobą 404
 aby 398
-dzisiaj 395
+dzisiaj 396
 Możesz 394
 rzeczy 389
 je 389
 szkoły 386
-często 384
+często 385
 gdy 384
 - 382
 pomóc 382
@@ -309,7 +309,7 @@ pokój 245
 Każdy 245
 jeść 245
 uczyć 244
-Jaki 242
+Jaki 243
 Do 242
 u 242
 Powinieneś 241
@@ -1594,6 +1594,7 @@ Byłam 51
 Anglii 50
 centrum 50
 listu 50
+jakim 50
 Szybko 50
 Chcemy 50
 liczyć 50
@@ -1625,7 +1626,6 @@ biurku 49
 cel 49
 wojna 49
 Paryża 49
-jakim 49
 most 49
 warto 49
 wszędzie 49
@@ -1750,6 +1750,7 @@ więzienia 46
 japońskiego 46
 państwa 46
 mężczyzną 46
+Niemczech 46
 rana 46
 zająć 46
 Brakuje 46
@@ -1795,7 +1796,6 @@ kwiat 45
 powietrza 45
 ranka 45
 babcia 45
-Niemczech 45
 wiek 45
 przyjaciele 45
 spał 45
@@ -2339,6 +2339,7 @@ nadziei 33
 odjeżdża 33
 Idziemy 33
 ważny 33
+euro 33
 Nancy 33
 Boję 33
 Zapytaj 33
@@ -2396,7 +2397,6 @@ wami 33
 Widziałam 33
 wpadł 32
 Japończycy 32
-euro 32
 Chociaż 32
 latach 32
 niemal 32
@@ -2473,6 +2473,7 @@ miałeś 31
 niewiele 31
 Kate 31
 ząb 31
+Gram 31
 gotuje 31
 decyzji 31
 ptak 31
@@ -2554,7 +2555,6 @@ podłogę 30
 Miasto 30
 tygodni 30
 potrwa 30
-Gram 30
 opinia 30
 Jack 30
 małą 30
@@ -3183,6 +3183,7 @@ państwu 24
 zamknięty 24
 wytrzymać 24
 małżeństwem 24
+grasz 24
 Zagrajmy 24
 marzeniem 24
 szczery 24
@@ -3196,6 +3197,7 @@ Jemy 24
 Sprawdź 24
 leki 24
 wyjaśnienia 24
+płakał 24
 pomimo 24
 zgodził 24
 Wiedziałeś 24
@@ -3289,7 +3291,6 @@ rozmowy 23
 pogodę 23
 odwagi 23
 przyzwyczajony 23
-grasz 23
 pamiętasz 23
 śmierdzi 23
 czytał 23
@@ -3307,7 +3308,6 @@ przybył 23
 mojemu 23
 zamknął 23
 chwilą 23
-płakał 23
 Chłopcy 23
 Zazwyczaj 23
 świetnym 23
@@ -3482,6 +3482,7 @@ wzrost 21
 wiary 21
 oto 21
 choroba 21
+normalne 21
 prądu 21
 gaz 21
 robiłem 21
@@ -3623,7 +3624,6 @@ jakaś 20
 przyniósł 20
 Matematyka 20
 Chciała 20
-normalne 20
 ścianę 20
 prosty 20
 cierpliwości 20
@@ -4163,6 +4163,7 @@ wzajemnie 17
 musieliśmy 17
 sposobu 17
 Mógłby 17
+kurs 17
 mego 17
 jednocześnie 17
 opinie 17
@@ -4363,7 +4364,6 @@ małżeństwo 16
 czytasz 16
 Sędzia 16
 jaja 16
-kurs 16
 cóż 16
 silne 16
 Dziesięć 16
@@ -5693,6 +5693,7 @@ miasteczku 12
 Podziwiam 12
 Judy 12
 zranił 12
+dzieciństwie 12
 ufaj 12
 Jedną 12
 naczyń 12
@@ -6114,7 +6115,6 @@ przyjemne 11
 trawę 11
 czarnego 11
 zachowywał 11
-dzieciństwie 11
 bałem 11
 karierę 11
 długim 11
@@ -7877,6 +7877,7 @@ leczy 8
 Pomyliłem 8
 klęskę 8
 butelka 8
+wersji 8
 atomowa 8
 Założył 8
 przyniesie 8
@@ -9773,7 +9774,6 @@ grom 6
 wkurza 6
 założona 6
 podlewać 6
-wersji 6
 tkanina 6
 efekt 6
 odpowiednia 6
@@ -9941,6 +9941,7 @@ uwierzyłem 6
 Czasy 6
 rzędu 6
 Mógł 6
+instrumencie 6
 zwyczaje 6
 gapić 6
 nieznajomych 6
@@ -9997,4 +9998,3 @@ Parku 6
 Ciotka 6
 pochwalony 6
 Wspaniale 6
-dwa-trzy 6

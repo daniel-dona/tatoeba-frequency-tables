@@ -1,29 +1,29 @@
-la 1775
-de 1728
-a 1596
+la 1776
+de 1730
+a 1597
 que 1526
 el 1359
 és 1198
 no 939
-va 901
+va 903
 un 899
 No 736
 en 711
-i 621
+i 623
 una 612
 per 602
 El 580
 La 518
 Tom 486
 les 456
+els 425
 amb 424
-els 423
-al 417
+al 418
 ha 390
 En 362
-es 345
+es 346
 més 343
-del 313
+del 314
 molt 269
 Ell 253
 vaig 251
@@ -35,7 +35,7 @@ Ella 207
 està 205
 És 193
 hi 188
-Els 187
+Els 188
 meva 186
 fa 183
 té 174
@@ -64,7 +64,7 @@ Per 119
 he 119
 res 117
 puc 116
-dels 114
+dels 115
 dia 113
 veure 111
 bé 109
@@ -74,8 +74,8 @@ anar 106
 Les 106
 això 105
 Va 104
+van 104
 Quan 102
-van 102
 Aquest 102
 aquí 100
 quan 98
@@ -118,11 +118,11 @@ has 73
 parlar 73
 dos 72
 massa 71
+Qui 71
 seus 70
 ens 70
 cotxe 70
 sempre 70
-Qui 70
 perquè 69
 Vull 69
 ara 68
@@ -137,10 +137,10 @@ sobre 67
 On 67
 mateix 66
 entre 66
+Es 65
 estat 65
 Ho 65
 encara 65
-Es 64
 pel 64
 vas 63
 llengua 62
@@ -175,8 +175,8 @@ Ets 49
 tots 49
 bona 49
 alguna 49
+on 48
 arribar 47
-on 47
 ningú 46
 bon 46
 meus 46
@@ -189,9 +189,9 @@ M'agradaria 45
 setmana 44
 Quin 44
 parla 44
+l'escola 44
 tornar 44
 coses 43
-l'escola 43
 començar 43
 Puc 43
 Japó 43
@@ -267,13 +267,13 @@ ni 34
 venir 34
 difícil 33
 haver 33
+Van 33
 dues 33
 així 33
 primer 33
 problema 33
 vegada 33
 m'ha 33
-Van 32
 sembla 32
 paraula 32
 poder 32
@@ -531,6 +531,7 @@ policia 17
 estàs 16
 força 16
 qual 16
+França 16
 quedar 16
 caminar 16
 Canadà 16
@@ -538,6 +539,7 @@ prendre 16
 fi 16
 d'aquesta 16
 forma 16
+cantar 16
 dic 16
 pels 16
 xinès 16
@@ -554,7 +556,6 @@ cançó 15
 taula 15
 fos 15
 cas 15
-França 15
 córrer 15
 rellotge 15
 gana 15
@@ -571,7 +572,6 @@ Ahir 15
 interessant 15
 guitarra 15
 parlant 15
-cantar 15
 problemes 15
 carrer 15
 vostè 15
@@ -585,6 +585,7 @@ l'esperanto 15
 pitjor 15
 diuen 15
 sou 15
+l'amor 15
 gai 15
 gràcies 14
 cert 14
@@ -600,6 +601,7 @@ Aquella 14
 París 14
 anar-hi 14
 primera 14
+guanyar 14
 bonic 14
 tingut 14
 malalta 14
@@ -615,7 +617,6 @@ any 14
 lliure 14
 color 14
 rei 14
-l'amor 14
 quasi 14
 mar 14
 confiar 14
@@ -654,7 +655,6 @@ Molts 13
 surt 13
 pagar 13
 idioma 13
-guanyar 13
 pensar 13
 mestre 13
 calor 13
@@ -741,6 +741,7 @@ L'home 11
 debò 11
 habitació 11
 Vostè 11
+eren 11
 l'anglès 11
 tanca 11
 Nova 11
@@ -877,7 +878,6 @@ sisplau 9
 faci 9
 necessita 9
 pocs 9
-eren 9
 sola 9
 pobres 9
 Londres 9
@@ -1184,6 +1184,7 @@ ferro 7
 pis 7
 farem 7
 roba 7
+Alemanya 7
 normal 7
 rebre 7
 plans 7
@@ -1346,7 +1347,6 @@ quart 6
 Creus 6
 març 6
 animal 6
-Alemanya 6
 verda 6
 d'ells 6
 d'arribar 6
@@ -1616,6 +1616,7 @@ recorde 5
 podrà 5
 dorm 5
 Marina 5
+quals 5
 probablement 5
 nous 5
 vers 5
@@ -2032,7 +2033,6 @@ D'acord 4
 Parleu 4
 xerrar 4
 m'havia 4
-quals 4
 amazic 4
 gais 4
 lesbianes 4
@@ -2459,6 +2459,7 @@ quedarà 3
 l'opinió 3
 parleu 3
 Sabeu 3
+temple 3
 campanya 3
 gorra 3
 taronges 3
@@ -2629,6 +2630,7 @@ trobaré 3
 falsa 3
 vindre 3
 tretze 3
+nord 3
 está 3
 jugue 3
 denúncia 3
@@ -3476,7 +3478,6 @@ demostrada 2
 Deixo 2
 bateria 2
 nascut 2
-temple 2
 d'hivern 2
 violí 2
 marxa 2
@@ -3867,7 +3868,6 @@ agrade 2
 mengem 2
 tragèdia 2
 l'hemisferi 2
-nord 2
 sud 2
 cantonada 2
 Eixos 2
@@ -4134,6 +4134,7 @@ Arctic 2
 Monkeys 2
 perdre'm 2
 intento 2
+anomenar 2
 Flash 2
 protectora 2
 ansietat 2
@@ -4323,6 +4324,7 @@ Pelé 2
 màgia 2
 immortal 2
 Reial 2
+trobadors 2
 Sayoko 1
 presento 1
 Enhorabona 1
@@ -8976,7 +8978,6 @@ gandula 1
 olives 1
 avellanes 1
 acostumem 1
-anomenar 1
 malament: 1
 divertidíssim 1
 n'acaba 1
@@ -9997,4 +9998,3 @@ Estudiem 1
 específic 1
 concret 1
 angines 1
-fixament 1

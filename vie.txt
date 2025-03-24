@@ -1,7 +1,7 @@
 không 5333
 tôi 4948
 Tôi 4829
-có 4097
+có 4098
 là 3959
 đã 3861
 ấy 3444
@@ -28,7 +28,7 @@ gì 1287
 đang 1273
 phải 1254
 với 1248
-đến 1220
+đến 1221
 biết 1129
 muốn 1047
 trong 1025
@@ -43,7 +43,7 @@ Cô 842
 cái 810
 chúng 799
 việc 791
-giờ 776
+giờ 777
 thích 765
 về 762
 bị 760
@@ -63,7 +63,7 @@ nhiều 674
 mà 661
 nghĩ 642
 rồi 635
-con 620
+con 621
 hơn 612
 thấy 611
 nên 584
@@ -102,7 +102,7 @@ năm 386
 ý 385
 nữa 382
 trên 381
-trước 372
+trước 373
 Hãy 367
 sách 363
 chỉ 358
@@ -127,7 +127,7 @@ hay 316
 định 313
 Họ 309
 bằng 304
-cùng 302
+cùng 303
 thời 300
 Không 299
 nhìn 291
@@ -159,7 +159,7 @@ mẹ 245
 Ông 245
 ngủ 243
 trở 243
-hai 242
+hai 243
 Đó 241
 Nếu 241
 em 238
@@ -205,10 +205,10 @@ luôn 200
 mai 198
 đúng 195
 bài 195
+mặt 194
 điện 194
 lớn 194
 Con 193
-mặt 193
 gái 193
 cửa 192
 thường 190
@@ -611,6 +611,7 @@ Trời 58
 trị 58
 giận 58
 Chắc 57
+đứng 57
 trưa 57
 Việc 57
 Chiếc 57
@@ -619,7 +620,6 @@ nhờ 57
 ngoại 56
 an 56
 nhảy 56
-đứng 56
 vệ 56
 mức 56
 khóa 56
@@ -862,6 +862,7 @@ hầu 37
 mũ 37
 chia 37
 chim 37
+vua 37
 bão 37
 ngoái 37
 Thế 37
@@ -893,7 +894,6 @@ sân 35
 trợ 35
 tặng 35
 cải 35
-vua 35
 dừng 35
 ti 35
 đeo 35
@@ -3732,6 +3732,7 @@ hách 2
 nghếch 2
 ố 2
 bấy 2
+Bấy 2
 Bám 2
 gi 2
 bốc 2
@@ -5058,7 +5059,6 @@ visa 1
 eo 1
 Bột 1
 ngưới 1
-Bấy 1
 sâm-panh 1
 Monroe 1
 ZhongShan 1
@@ -6548,3 +6548,4 @@ Dụ 1
 #tylekeouytin 1
 Mậu 1
 Thuận 1
+bợm 1

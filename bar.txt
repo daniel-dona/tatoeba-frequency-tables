@@ -2,7 +2,7 @@ i 40
 is 35
 Da 34
 I 34
-ma 31
+ma 32
 a 30
 net 27
 da 22
@@ -91,6 +91,7 @@ sche 3
 wieda 3
 echt 3
 neamd 3
+weida 3
 Du 3
 d‘ 3
 ma's 3
@@ -153,7 +154,6 @@ wern 2
 ohne 2
 ist 2
 kum 2
-weida 2
 gaunzn 2
 Göd 2
 muaß 2
@@ -806,3 +806,4 @@ Summa 1
 Wohnt 1
 Machma 1
 Fang'ma 1
+Foan 1

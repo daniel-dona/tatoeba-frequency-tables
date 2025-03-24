@@ -1,19 +1,19 @@
-je 1119
+je 1120
 Ali 235
 se 226
+sem 200
 v 200
-sem 196
 in 139
 Tom 132
 ne 127
 so 124
 da 121
-na 107
+na 111
 Ne 91
 mesto 91
 govorite 90
 si 88
-za 87
+za 88
 govoriš 87
 Govoriš 86
 Govorite 86
@@ -146,6 +146,7 @@ imaš 12
 mora 12
 vas 12
 nekaj 12
+Bil 12
 malo 12
 Si 12
 špansko 12
@@ -160,7 +161,6 @@ Ti 11
 prav 11
 videl 11
 tukaj 11
-Bil 11
 prijatelj 11
 A 11
 kitajsko 11
@@ -665,6 +665,9 @@ stavka 4
 stavek 4
 koli 4
 prevajati 4
+opremo 4
+najnovejšo 4
+različico 4
 Izgubil 3
 držati 3
 Keuc 3
@@ -1578,6 +1581,7 @@ miši 2
 Škorpijoni 2
 nog 2
 psi 2
+odgovoren 2
 tisto 2
 ose 2
 zato 2
@@ -1710,6 +1714,8 @@ vedo 2
 duša 2
 nesmrtna 2
 čudovito 2
+programsko 2
+Programsko 2
 gospod 1
 Ogawa 1
 Francoz 1
@@ -3752,7 +3758,6 @@ majhnega 1
 kužka 1
 Sveta 1
 blažena 1
-odgovoren 1
 udomačil 1
 melje 1
 zločinov 1
@@ -4732,3 +4737,9 @@ Zmedenega 1
 sloga 1
 nekoga 1
 mogel 1
+Posodobil 1
+Posodobila 1
+posodobil 1
+posodobila 1
+ohranitev 1
+templja 1
