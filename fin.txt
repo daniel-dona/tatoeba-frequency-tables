@@ -1,15 +1,15 @@
-on 28856
-ei 10556
+on 28858
+ei 10557
 Tom 9608
 Hän 8269
 että 6784
 ja 6767
 Tomi 6349
-ole 6213
-oli 5630
-En 4860
+ole 6215
+oli 5632
+En 4861
 Minä 4469
-Se 3734
+Se 3736
 hän 3536
 se 3372
 kuin 3283
@@ -18,7 +18,7 @@ ovat 2872
 sinä 2861
 sen 2696
 niin 2648
-Tämä 2381
+Tämä 2382
 Tomin 2302
 mitä 2277
 hänen 2129
@@ -38,7 +38,7 @@ minua 1709
 minä 1669
 olla 1653
 He 1647
-koskaan 1640
+koskaan 1641
 Minulla 1625
 sinun 1567
 Älä 1542
@@ -50,7 +50,7 @@ tehdä 1444
 nyt 1375
 joka 1375
 kanssa 1368
-mitään 1343
+mitään 1345
 siitä 1339
 olet 1334
 sinua 1302
@@ -66,7 +66,7 @@ pitää 1128
 täällä 1127
 kaikki 1121
 Oletko 1089
-vielä 1087
+vielä 1088
 tämän 1077
 Miksi 1071
 Tomilla 1059
@@ -144,8 +144,8 @@ mies 530
 minut 529
 pois 528
 ihan 527
+Meidän 526
 olevan 526
-Meidän 525
 noin 521
 Et 521
 huomenna 517
@@ -216,7 +216,7 @@ tule 374
 Nyt 373
 Anteeksi 372
 tänne 370
-tehnyt 368
+tehnyt 369
 vanha 365
 oikein 364
 voinut 363
@@ -247,8 +247,8 @@ täysin 339
 ajan 338
 Mistä 338
 asuu 336
+yhtään 336
 Kukaan 335
-yhtään 335
 mukaan 334
 Milloin 334
 pian 333
@@ -300,9 +300,9 @@ missä 293
 meitä 291
 sinne 288
 alkaa 287
+tee 287
 antaa 287
 erittäin 286
-tee 286
 vettä 286
 pitkään 286
 hänestä 284
@@ -311,7 +311,7 @@ emme 283
 aikaan 279
 Mihin 279
 tarpeeksi 279
-Etkö 278
+Etkö 279
 ongelma 278
 haluan 278
 menee 276
@@ -433,9 +433,9 @@ lukea 199
 teet 198
 ainoa 198
 hieman 198
+kissa 198
 maailman 197
 auki 197
-kissa 197
 samaa 197
 tiedän 197
 niitä 196
@@ -470,10 +470,10 @@ saattaa 184
 Sen 184
 lähellä 183
 Sain 182
+Onpa 182
 Ota 182
 Isäni 181
 hänellä 181
-Onpa 181
 jossa 181
 Tulen 181
 ajaa 181
@@ -3196,6 +3196,7 @@ työni 26
 ajattelin 26
 teimme 26
 Avasin 26
+laitonta 26
 Pystyn 26
 liikuntaa 26
 optimistinen 26
@@ -3319,7 +3320,6 @@ Millaista 25
 haluavansa 25
 oltava 25
 valmiita 25
-laitonta 25
 tavaroita 25
 moottoripyörällä 25
 työnsi 25
@@ -3343,6 +3343,7 @@ käyttäytyy 24
 pahoin 24
 ajattelee 24
 Amerikkaan 24
+aloittanut 24
 itkee 24
 pahasta 24
 muuttamaan 24
@@ -3469,7 +3470,6 @@ pikkuveljeni 23
 laita 23
 Useimmat 23
 tuoda 23
-aloittanut 23
 muistamaan 23
 taiteilija 23
 tunnetaan 23
@@ -5922,6 +5922,7 @@ parhaamme 13
 Lämpötila 13
 Lasi 13
 olevasi 13
+laaja 13
 siirrettiin 13
 ateisti 13
 Espanja 13
@@ -6387,7 +6388,6 @@ matkustamisesta 12
 kotonaan 12
 Tuntuu 12
 poisti 12
-laaja 12
 vahvoja 12
 kovaan 12
 viitsi 12

@@ -1,14 +1,14 @@
-är 11630
+är 11633
 Jag 11274
 att 7113
-Tom 7083
-inte 6924
-du 5133
-en 5132
-på 4856
+Tom 7085
+inte 6925
+du 5136
+en 5134
+på 4857
 det 4748
 i 4587
-har 4237
+har 4239
 Det 3881
 Han 3409
 jag 3152
@@ -16,7 +16,7 @@ mig 2721
 för 2700
 här 2660
 var 2607
-med 2456
+med 2457
 till 2374
 och 2334
 om 2257
@@ -61,7 +61,7 @@ din 690
 de 688
 tycker 642
 vet 631
-Kan 622
+Kan 623
 oss 621
 än 619
 behöver 605
@@ -87,7 +87,7 @@ finns 441
 blev 439
 dag 428
 eller 426
-alla 421
+alla 422
 gick 420
 gör 418
 lite 418
@@ -111,7 +111,7 @@ kunde 361
 Ni 356
 Vem 355
 efter 352
-älskar 349
+älskar 350
 in 349
 över 348
 hur 348
@@ -148,16 +148,16 @@ tid 275
 franska 275
 mina 271
 sina 265
-vid 263
+vid 264
 ligger 261
 kunna 258
 vilja 256
 tillbaka 255
 pengar 252
+se 249
 Alla 249
-se 248
 talar 248
-Om 245
+Om 246
 någonting 244
 äter 240
 äta 239
@@ -372,12 +372,12 @@ full 95
 hitta 95
 önskar 94
 sant 94
+sitter 94
 hände 94
 arbetar 93
 Hennes 93
 långt 93
 glad 93
-sitter 93
 del 93
 borta 92
 ihåg 92
@@ -416,6 +416,7 @@ enda 83
 varandra 83
 sent 83
 ung 82
+bordet 82
 mor 82
 lade 82
 familj 82
@@ -423,7 +424,6 @@ Håll 82
 mellan 82
 Marys 82
 fort 81
-bordet 81
 läser 81
 berätta 81
 frågor 81
@@ -613,6 +613,7 @@ kläder 55
 inne 55
 knappt 55
 redo 55
+hundar 55
 behövde 55
 meningen 55
 sitta 55
@@ -622,7 +623,6 @@ visade 54
 Känner 54
 sak 54
 drack 54
-hundar 54
 tyst 54
 betyder 53
 vinna 53
@@ -779,6 +779,7 @@ uppe 42
 Vänta 42
 äpple 42
 dator 42
+bär 42
 möjligt 42
 äldre 42
 skrattade 42
@@ -798,7 +799,6 @@ gråta 41
 ögonen 41
 bröt 41
 kärlek 41
-bär 41
 Ser 41
 blå 41
 dansa 41
@@ -811,6 +811,7 @@ början 40
 stolt 40
 röst 40
 Finland 40
+Inte 40
 ordet 40
 okej 40
 stark 40
@@ -829,7 +830,6 @@ vann 39
 landet 39
 vackert 39
 verkade 39
-Inte 39
 skogen 39
 kinesiska 39
 eftersom 39
@@ -1435,6 +1435,7 @@ värre 20
 ställe 20
 nervös 20
 Oroa 20
+antagligen 20
 beredd 20
 simmar 20
 direkt 20
@@ -1501,7 +1502,6 @@ Fortsätt 19
 döden 19
 sekund 19
 lyssnade 19
-antagligen 19
 pass 19
 tydligt 19
 hatten 19
@@ -1781,6 +1781,7 @@ fötter 15
 benet 15
 drömmar 15
 fruktansvärt 15
+svensk 15
 grekiska 15
 Vattnet 15
 konserten 15
@@ -1881,7 +1882,6 @@ brott 14
 räddade 14
 sången 14
 fiender 14
-svensk 14
 norska 14
 grannar 14
 hemsk 14
@@ -2368,6 +2368,7 @@ arkitektur 11
 nådde 11
 motståndare 11
 Jesus 11
+Hundar 11
 beställning 11
 hammare 11
 Skura 11
@@ -2559,7 +2560,6 @@ lägg 10
 rödvin 10
 klättrade 10
 foten 10
-Hundar 10
 skrämmande 10
 dokumentet 10
 bananer 10
@@ -2581,6 +2581,7 @@ vänlighet 9
 gata 9
 hemligt 9
 moster 9
+accent 9
 misslyckas 9
 behövs 9
 skrivbordet 9
@@ -3112,7 +3113,6 @@ smakade 7
 populära 7
 Bilden 7
 promenerar 7
-accent 7
 samtalet 7
 universitet 7
 fria 7
@@ -4459,6 +4459,7 @@ slocknade 5
 torrt 5
 Stannar 5
 päls 5
+jobbigt 5
 söta 5
 idioten 5
 stöd 5
@@ -4494,6 +4495,7 @@ formuläret 5
 Bebisen 5
 slipsar 5
 begravd 5
+intelligenta 5
 kysst 5
 fegis 5
 fullkomligt 5
@@ -4949,6 +4951,7 @@ diskmaskinen 4
 meddelat 4
 utgör 4
 dussin 4
+brittisk 4
 siste 4
 skulder 4
 trettioett 4
@@ -5347,7 +5350,6 @@ uppriktighet 4
 lyste 4
 fattat 4
 of 4
-jobbigt 4
 funderat 4
 märker 4
 Vakna 4
@@ -6055,6 +6057,7 @@ vant 3
 heller” 3
 påfågel 3
 dammråttor 3
+menyn 3
 arbetslivserfarenhet 3
 bilnyckeln 3
 tillät 3
@@ -6067,7 +6070,6 @@ Häng 3
 puls 3
 ärendet 3
 nagellack 3
-brittisk 3
 behöll 3
 bränsle 3
 Visade 3
@@ -6670,7 +6672,6 @@ sysslar 3
 samlades 3
 visas 3
 produkter 3
-jobbig 3
 längesen 3
 behandla 3
 fastnat 3
@@ -6771,7 +6772,6 @@ Flickorna 3
 snögubbe 3
 Blixten 3
 snutar 3
-intelligenta 3
 darrar 3
 regeln 3
 sömnen 3
@@ -7970,7 +7970,6 @@ petar 2
 passion 2
 ”Inte 2
 kapitalt 2
-menyn 2
 iakttar 2
 kassaskåp 2
 paddlade 2
@@ -9735,6 +9734,7 @@ persikor 2
 schampot 2
 skadar 2
 imponerade 2
+jobbig 2
 fnissade 2
 trehundra 2
 klippt 2

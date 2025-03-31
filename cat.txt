@@ -1,28 +1,28 @@
 la 1776
-de 1730
+de 1733
 a 1597
-que 1526
+que 1528
 el 1359
 és 1198
-no 939
-va 903
-un 899
-No 736
-en 711
+no 940
+va 904
+un 900
+No 739
+en 712
 i 623
 una 612
 per 602
-El 580
+El 581
 La 518
 Tom 486
 les 456
-els 425
-amb 424
+els 426
+amb 425
 al 418
-ha 390
+ha 392
 En 362
 es 346
-més 343
+més 345
 del 314
 molt 269
 Ell 253
@@ -34,11 +34,11 @@ fer 208
 Ella 207
 està 205
 És 193
-hi 188
+hi 190
 Els 188
 meva 186
 fa 183
-té 174
+té 175
 seu 173
 Em 171
 són 164
@@ -50,7 +50,7 @@ què 153
 si 151
 dir 150
 ho 148
-A 140
+A 141
 aquest 127
 casa 127
 ell 125
@@ -61,14 +61,14 @@ Vaig 122
 aquesta 120
 era 120
 Per 119
+res 119
 he 119
-res 117
 puc 116
 dels 115
 dia 113
 veure 111
-bé 109
-Què 108
+bé 110
+Què 109
 Si 107
 anar 106
 Les 106
@@ -98,7 +98,7 @@ tu 88
 teva 85
 ella 84
 fet 83
-Tinc 82
+Tinc 83
 menjar 82
 Això 81
 tres 81
@@ -114,8 +114,8 @@ jo 76
 cosa 75
 estava 75
 mare 74
+parlar 74
 has 73
-parlar 73
 dos 72
 massa 71
 Qui 71
@@ -127,10 +127,10 @@ perquè 69
 Vull 69
 ara 68
 pare 68
+Aquesta 68
 Un 68
 qui 68
 nit 67
-Aquesta 67
 gent 67
 tant 67
 sobre 67
@@ -254,18 +254,18 @@ dona 36
 mica 36
 Ens 36
 vist 35
+vegades 35
 francès 35
 nostra 35
 ets 35
 tenia 35
 bisexual 35
 fill 34
+difícil 34
 germà 34
-vegades 34
 pots 34
 ni 34
 venir 34
-difícil 33
 haver 33
 Van 33
 dues 33
@@ -286,6 +286,7 @@ sentir 31
 paraules 31
 Déu 31
 por 31
+moltes 31
 ahir 31
 Tot 31
 estar 31
@@ -296,11 +297,11 @@ viure 31
 frases 31
 Està 30
 Ha 30
-moltes 30
 Hem 30
 altres 30
 estic 30
 Mai 30
+tens 30
 Ara 30
 sortir 30
 cinc 30
@@ -310,7 +311,7 @@ Fins 29
 nosaltres 29
 mort 29
 Fa 29
-tens 29
+viu 29
 vam 29
 home 29
 cor 29
@@ -327,7 +328,6 @@ lloc 28
 I 28
 aigua 28
 totes 28
-viu 28
 nostre 28
 favor 28
 cel 28
@@ -439,6 +439,7 @@ volia 21
 quin 21
 Necessito 21
 d'aquest 21
+allà 21
 Vols 20
 jugar 20
 Vam 20
@@ -460,7 +461,6 @@ agraden 20
 feliç 20
 crec 20
 ajuda 20
-allà 20
 escoltar 20
 segur 20
 Boston 20
@@ -524,6 +524,7 @@ varen 17
 Aquell 17
 família 17
 japonès 17
+conèixer 17
 gats 17
 llatí 17
 Us 17
@@ -531,6 +532,7 @@ policia 17
 estàs 16
 força 16
 qual 16
+ganes 16
 França 16
 quedar 16
 caminar 16
@@ -543,7 +545,6 @@ cantar 16
 dic 16
 pels 16
 xinès 16
-conèixer 16
 saben 16
 Gràcies 16
 reunió 16
@@ -591,7 +592,6 @@ gràcies 14
 cert 14
 senyor 14
 Aquí 14
-ganes 14
 Amèrica 14
 tarda 14
 Voldria 14
@@ -620,6 +620,7 @@ rei 14
 quasi 14
 mar 14
 confiar 14
+feia 13
 d'ella 13
 vista 13
 carn 13
@@ -676,7 +677,6 @@ ulleres 13
 trencades 13
 Layla 13
 Hola 12
-feia 12
 pogut 12
 animals 12
 mala 12
@@ -764,6 +764,7 @@ Deu 11
 d'hora 11
 M'agraden 11
 cabells 11
+escola 11
 plorar 11
 finestra 11
 marit 11
@@ -837,7 +838,6 @@ Fes 10
 treballa 10
 caixa 10
 Cap 10
-escola 10
 Teniu 10
 - 10
 oficina 10
@@ -863,6 +863,7 @@ faldilles 10
 vent 10
 Son 10
 creus 10
+veiem 10
 Brasil 10
 suport 10
 ales 10
@@ -978,7 +979,6 @@ estimada 9
 juliol 9
 maig 9
 Heus 9
-veiem 9
 açò 9
 circ 9
 viatge 8
@@ -1344,6 +1344,7 @@ dóna 6
 bus 6
 arbres 6
 quart 6
+l'hivern 6
 Creus 6
 març 6
 animal 6
@@ -1565,7 +1566,6 @@ net 5
 Som 5
 estimar 5
 feines 5
-l'hivern 5
 trencat 5
 preferit 5
 bandera 5
@@ -1667,6 +1667,7 @@ dutxar 4
 M'estic 4
 l'autobús 4
 t'oblidis 4
+senzill 4
 portes 4
 convèncer 4
 programa 4
@@ -1698,6 +1699,7 @@ sentiments 4
 ferida 4
 raons 4
 diguis 4
+barri 4
 forta 4
 luxe 4
 malaltia 4
@@ -2135,7 +2137,6 @@ L'estació 3
 metro 3
 sonar 3
 Mike 3
-senzill 3
 aus 3
 m'està 3
 parts 3
@@ -2159,12 +2160,12 @@ mantega 3
 muntanyes 3
 robat 3
 quinze 3
+omplir 3
 fe 3
 pero 3
 Te 3
 parlis 3
 familia 3
-barri 3
 pais 3
 Betty 3
 gol 3
@@ -2904,7 +2905,6 @@ bebè 2
 vénen 2
 programar 2
 Disculpi 2
-omplir 2
 atendre 2
 savis 2
 treballador 2
@@ -3775,6 +3775,7 @@ n'ets 2
 cercat 2
 pits 2
 collarets 2
+l'aurora 2
 fonts 2
 cobreix 2
 Emily 2
@@ -3932,6 +3933,7 @@ complicat 2
 estiguin 2
 aturat 2
 seriosament 2
+forner 2
 conill 2
 embruixada 2
 francesos 2
@@ -4325,6 +4327,7 @@ màgia 2
 immortal 2
 Reial 2
 trobadors 2
+Occitània 2
 Sayoko 1
 presento 1
 Enhorabona 1
@@ -7362,7 +7365,6 @@ cercarem 1
 Aparta 1
 m'embruixen 1
 guaita 1
-l'aurora 1
 resplendent 1
 esvelta 1
 raïms 1
@@ -7993,7 +7995,6 @@ d'oest 1
 sobrecarregar 1
 mula 1
 bot 1
-forner 1
 crusants 1
 s'atreveix 1
 contradir-lo 1
@@ -9997,4 +9998,3 @@ Seguirem 1
 Estudiem 1
 específic 1
 concret 1
-angines 1

@@ -1186,6 +1186,7 @@ Serchez 6
 preferata 6
 kapabla 6
 Via 6
+vers 6
 aviono 6
 laute 6
 motivo 6
@@ -1354,7 +1355,6 @@ sencese 5
 mapo 5
 regardar 5
 peizajo 5
-vers 5
 vizitar 5
 febla 5
 belega 5
@@ -2902,6 +2902,7 @@ adulta 2
 eminenta 2
 pavoro 2
 Respondez 2
+Marchez 2
 trotuaro 2
 kustumis 2
 Quan 2
@@ -4907,7 +4908,6 @@ Quente 1
 Ueno 1
 nepacienta 1
 ekvarsis 1
-Marchez 1
 argumentis 1
 kalkulis 1
 ganabis 1
@@ -8720,3 +8720,4 @@ darfis 1
 rivenos 1
 komputatoro 1
 cindruyo 1
+Derguina 1

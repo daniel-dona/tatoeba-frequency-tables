@@ -1,6 +1,6 @@
-es 155
-Eo 100
-yn 72
+es 156
+Eo 101
+yn 73
 rhen 67
 di 53
 Tomos 52
@@ -8,7 +8,7 @@ Ill 37
 Ys 34
 Sa 31
 llo 30
-su 28
+su 29
 ill 25
 Llo 24
 lla 24
@@ -48,6 +48,7 @@ llifr 6
 ben 6
 Saesonig 6
 padr 6
+Dew 6
 wid 6
 Ffrencig 6
 mi 6
@@ -67,7 +68,6 @@ ply 5
 ffeirth 5
 ys 5
 grêdd 5
-Dew 5
 gas 5
 gwirdd 5
 Mair 5
@@ -244,6 +244,7 @@ cosin 2
 llag 2
 Jackson 2
 cumeg 2
+masculiuith 2
 ô 2
 Toki 2
 Pona 2
@@ -611,7 +612,6 @@ ridarddan 1
 ewent 1
 Barack 1
 Obama 1
-masculiuith 1
 esperanto 1
 merrid 1
 punent 1
@@ -657,3 +657,4 @@ barlar 1
 Ffreinċ 1
 muin 1
 inheir 1
+sertheir 1

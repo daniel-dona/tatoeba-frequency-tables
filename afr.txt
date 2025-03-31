@@ -1,9 +1,9 @@
-nie 1246
-is 1043
-het 963
+nie 1247
+is 1045
+het 964
 Ek 952
 die 740
-'n 591
+'n 592
 Tom 439
 jy 432
 my 344
@@ -47,11 +47,11 @@ dat 87
 weet 82
 Hulle 74
 as 74
+Hierdie 74
 hulle 73
 Is 73
 aan 72
 werk 72
-Hierdie 72
 kom 71
 toe 69
 hou 66
@@ -207,6 +207,7 @@ wêreld 15
 U 15
 weg 15
 wanneer 15
+Niemand 15
 lees 15
 Weet 15
 teen 15
@@ -227,7 +228,6 @@ mooi 14
 skool 14
 wyn 14
 Mens 14
-Niemand 14
 sin 14
 kyk 14
 verstaan 14
@@ -777,6 +777,7 @@ blameer 4
 onthou 4
 sluit 4
 proe 4
+ryp 4
 spinasie 4
 foon 4
 skei 4
@@ -994,7 +995,6 @@ waarvan 3
 voete 3
 Sny 3
 soet 3
-ryp 3
 tamaties 3
 Mooi 3
 sussie 3
@@ -3619,3 +3619,6 @@ letter 1
 Elon 1
 Musk 1
 Nazi 1
+pruime 1
+pruim 1
+gekla 1
