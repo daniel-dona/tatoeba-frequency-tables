@@ -4,7 +4,7 @@ so 88
 To 74
 Sym 71
 w 69
-a 62
+a 64
 z 52
 Wón 51
 Hdźe 50
@@ -15,11 +15,11 @@ ma 41
 su 40
 Mam 32
 to 32
+bě 30
 Ja 29
 Je 29
 Čehodla 28
 rady 26
-bě 26
 mój 25
 njeje 25
 kaž 23
@@ -49,6 +49,7 @@ ale 14
 jě 14
 was 14
 Rěču 14
+Na 13
 Mój 13
 W 12
 francošćinu 12
@@ -58,7 +59,6 @@ Rěčiš 12
 dwě 11
 Nimam 11
 knihu 11
-Na 11
 awto 11
 wuknyć 11
 doma 11
@@ -298,6 +298,7 @@ Jěstej 4
 ćeta 4
 zrałe 4
 budźa 4
+Słowo 4
 zymy 3
 blido 3
 problem 3
@@ -405,6 +406,7 @@ narodźił 3
 domoj 3
 dźěsći 3
 nowe 3
+čłowjek 3
 Wčera 3
 alfabet 3
 pismikow: 3
@@ -569,6 +571,7 @@ wowka 2
 swoje 2
 kóncu 2
 wutroba 2
+pola 2
 kraju 2
 pjenjez 2
 žiwa 2
@@ -704,7 +707,6 @@ hdyž 2
 woznamjenja 2
 nósnik 2
 najwjetše 2
-čłowjek 2
 Štóž 2
 Mary 2
 dosć 2
@@ -838,6 +840,7 @@ jim 2
 dobrotu 2
 hidźa 2
 Lubuju 2
+spočatku 2
 apetit 1
 Połch 1
 hrymzak 1
@@ -1256,7 +1259,6 @@ wšej 1
 wĕrnosći 1
 wĕrnje 1
 pomjenowało 1
-pola 1
 zajimawa 1
 ródnym 1
 Jemu 1
@@ -2540,3 +2542,6 @@ Słyšiće 1
 Blido 1
 zubow 1
 Krej 1
+Boha 1
+Bóh 1
+Hlej 1

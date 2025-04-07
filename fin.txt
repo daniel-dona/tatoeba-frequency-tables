@@ -1,12 +1,12 @@
-on 28858
+on 28860
 ei 10557
-Tom 9608
-Hän 8269
+Tom 9609
+Hän 8271
 että 6784
 ja 6767
-Tomi 6349
+Tomi 6351
 ole 6215
-oli 5632
+oli 5633
 En 4861
 Minä 4469
 Se 3736
@@ -18,7 +18,7 @@ ovat 2872
 sinä 2861
 sen 2696
 niin 2648
-Tämä 2382
+Tämä 2383
 Tomin 2302
 mitä 2277
 hänen 2129
@@ -34,7 +34,7 @@ paljon 1807
 Mitä 1800
 ollut 1799
 vain 1748
-minua 1709
+minua 1712
 minä 1669
 olla 1653
 He 1647
@@ -53,7 +53,7 @@ kanssa 1368
 mitään 1345
 siitä 1339
 olet 1334
-sinua 1302
+sinua 1304
 Mari 1257
 olisi 1248
 Sinun 1233
@@ -129,7 +129,7 @@ ikinä 598
 yksi 591
 tuo 591
 Hänellä 575
-Tommi 565
+Tommi 567
 tässä 563
 eilen 563
 he 554
@@ -290,9 +290,9 @@ naimisiin 302
 kauan 297
 yhä 296
 sillä 296
+alkoi 295
 parempi 295
 miksi 295
-alkoi 294
 voin 294
 mun 294
 heti 293
@@ -318,11 +318,11 @@ menee 276
 kello 275
 eikä 275
 Hyvää 275
+Minua 273
 edes 273
 Kiitos 273
 Marille 273
 tahansa 272
-Minua 272
 kirja 272
 eikö 272
 pysty 270
@@ -1706,6 +1706,7 @@ hieno 49
 TV:tä 49
 Annoin 49
 vei 49
+jatkoi 49
 kolmelta 49
 tuollaista 49
 Tervetuloa 49
@@ -1744,7 +1745,6 @@ tarkasti 48
 Puhu 48
 viikkoa 48
 syöt 48
-jatkoi 48
 tosiaan 48
 maailma 48
 pystyi 48
@@ -2036,6 +2036,7 @@ ranskalaisia 42
 sääntöjä 42
 Olit 42
 alueella 42
+Ziri 42
 Katsoin 41
 onnistunut 41
 maksoi 41
@@ -2081,7 +2082,6 @@ OK 41
 rohkea 41
 toisiamme 41
 sulle 41
-Ziri 41
 yhteinen 40
 satanut 40
 mahdollisuuden 40
@@ -3590,6 +3590,7 @@ maito 23
 tekemättä 23
 pitkäksi 23
 kaupan 23
+rikos 23
 tapettiin 23
 Pappi 23
 kesällä 23
@@ -3745,7 +3746,6 @@ kokeeseen 22
 etsinyt 22
 mieltäni 22
 pelkäsi 22
-rikos 22
 planeetta 22
 kirjoitat 22
 valmistautunut 22
@@ -5584,6 +5584,7 @@ vaiheessa 14
 joutua 14
 koettaa 14
 ajanut 14
+loukkasi 14
 huonoin 14
 kumpaakaan 14
 tavaraa 14
@@ -5957,7 +5958,6 @@ voittamaan 13
 puki 13
 riskin 13
 pitäisikö 13
-loukkasi 13
 kasva 13
 pyörtyi 13
 "No 13
@@ -9958,6 +9958,7 @@ kukin 7
 kylmempi 7
 edessään 7
 tarkkaa 7
+kunniaa 7
 yksityiskohtia 7
 miellyttävää 7
 julistaa 7
@@ -9997,4 +9998,3 @@ hienoinen 7
 keksiminen 7
 aikakauden 7
 niinkään 7
-Pääsin 7

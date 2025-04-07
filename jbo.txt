@@ -1,14 +1,14 @@
-lo 12922
-mi 6279
+lo 12924
+mi 6281
 cu 3538
-do 3379
-la 3050
+do 3380
+la 3053
 pu 2327
 le 2309
-nu 2136
+nu 2137
 se 1941
-i 1899
-na 1639
+i 1901
+na 1640
 be 1355
 ko'a 1295
 ma 1238
@@ -19,8 +19,8 @@ tom 952
 xu 924
 ra 823
 da 819
-fi 741
-klama 669
+fi 742
+klama 670
 ti 641
 poi 605
 ba 590
@@ -52,16 +52,16 @@ no 279
 e'o 270
 pa 270
 e 269
+tam 268
 viska 268
 zdani 267
-tam 267
 jai 266
 gi'e 257
 co'a 252
 zukte 251
 nai 249
+ka'e 244
 cukta 244
-ka'e 243
 fa 242
 za'u 242
 kei 241
@@ -88,7 +88,7 @@ nitcu 180
 nanmu 180
 karce 178
 lo'e 169
-fe 168
+fe 169
 xabju 164
 zo'u 163
 verba 160
@@ -113,8 +113,8 @@ gunka 139
 jinvi 139
 vo'a 138
 simlu 138
+mo 137
 ce'u 137
-mo 136
 ke'a 135
 su'o 135
 go'i 134
@@ -123,7 +123,7 @@ zmadu 131
 mu'i 130
 ke 130
 pei 129
-mo'u 127
+mo'u 128
 troci 126
 ki'u 123
 so'i 123
@@ -521,6 +521,7 @@ kurji 28
 ti'e 28
 tezu'e 28
 skina 28
+nupre 28
 pi'e 28
 xajmi 28
 lodu'u 28
@@ -537,7 +538,6 @@ trene 27
 xirma 27
 dakli 27
 ie 27
-nupre 27
 xruti 27
 temci 27
 kargu 27
@@ -845,6 +845,7 @@ skari 15
 lalxu 15
 dargu 15
 creka 15
+raltca 15
 srasu 15
 bolci 15
 jipci 15
@@ -872,7 +873,6 @@ marce 14
 jersi 14
 carna 14
 bil 14
-raltca 14
 ckusro 14
 cladu 14
 jbobau 14
@@ -2754,6 +2754,7 @@ pu'atce 2
 misfi'i 2
 kuspe 2
 spranto 2
+sralytu'a 2
 mamtu 2
 sroku'a 2
 nerkalri 2
@@ -4466,7 +4467,6 @@ temymapti 1
 nomu'ei 1
 mic 1
 zbepi 1
-sralytu'a 1
 sralygu'a 1
 co'unai 1
 cinjikca 1
@@ -6952,3 +6952,5 @@ geibriyl 1
 selbri 1
 mivyselna'a 1
 su'o'o 1
+ankaras 1
+gugdeturu 1

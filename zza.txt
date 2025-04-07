@@ -3,7 +3,7 @@ ra 140
 o 117
 mi 106
 Tom 105
-Ma 100
+Ma 101
 de 92
 to 86
 xo 86
@@ -19,14 +19,14 @@ nê 56
 ya 49
 kena 49
 hes 46
+zaf 46
 Mı 43
 mı 43
 û 43
-zaf 42
 Ti 42
+O 41
 yê 41
 ez 40
-O 40
 rê 40
 kerd 35
 bê 35
@@ -36,8 +36,8 @@ To 29
 No 29
 ê 29
 va 28
+A 26
 ney 26
-A 25
 Mary 25
 Mi 24
 bé 22
@@ -58,14 +58,15 @@ Ey 16
 se 16
 ganî 16
 ser 15
+Şima 15
 Na 14
+ewro 14
 şena 14
 çi 14
 Ê 14
 estê 14
 keye 14
 keno 14
-Şima 14
 pîyê 14
 esto 13
 teber 13
@@ -96,7 +97,6 @@ kam 11
 ziwanê 11
 şi 10
 esta 10
-ewro 10
 dé 10
 tiyad 10
 maya 10
@@ -829,6 +829,7 @@ néşayé 2
 Ser 2
 vırazé 2
 çıman 2
+tersa 2
 qisaya 2
 şîme 2
 hewa 2
@@ -2618,7 +2619,6 @@ Mehmed 1
 xebate 1
 pandemî 1
 çapkerdene 1
-tersa 1
 Saete 1
 nêm 1
 Îtalyankî 1
@@ -2847,3 +2847,6 @@ mamosteya 1
 şikîyayo 1
 ferhengo 1
 elektronîk 1
+tersaye 1
+tersayîme 1
+tersayê 1

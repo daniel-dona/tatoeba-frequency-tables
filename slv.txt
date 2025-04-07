@@ -1,6 +1,6 @@
 je 1120
 Ali 235
-se 226
+se 227
 sem 200
 v 200
 in 139
@@ -28,9 +28,9 @@ Jaz 60
 bi 58
 Govorim 53
 to 51
+Kako 50
 lahko 50
 me 49
-Kako 49
 iz 49
 bo 47
 Koliko 47
@@ -62,11 +62,11 @@ bila 28
 vse 28
 še 26
 On 26
+ta 26
 Mary 26
 več 26
 kaj 25
 že 25
-ta 25
 te 24
 bilo 24
 Marija 24
@@ -210,6 +210,7 @@ kavo 8
 Želim 8
 leta 8
 včeraj 8
+Hočem 8
 avto 8
 pesem 8
 ob 8
@@ -239,7 +240,6 @@ pevka 7
 vam 7
 Ena 7
 ljubezen 7
-Hočem 7
 Oprostite 7
 koliko 7
 zakaj 7
@@ -335,6 +335,7 @@ filipinsko 6
 poljsko 6
 tibetansko 6
 Uči 6
+beseda 6
 stara 6
 sreča 6
 modro 6
@@ -377,6 +378,7 @@ vidim 5
 zjutraj 5
 zame 5
 reči 5
+vedeti 5
 svoboda 5
 Ljudje 5
 delajo 5
@@ -423,7 +425,6 @@ dansko 5
 singalsko 5
 Učimo 5
 Študiram 5
-beseda 5
 uzbeško 5
 nepalsko 5
 gruzinsko 5
@@ -532,7 +533,6 @@ rešitev 4
 kajne 4
 šli 4
 gore 4
-vedeti 4
 mesec 4
 Boston 4
 Jack 4
@@ -551,6 +551,7 @@ pol 4
 počasi 4
 pije 4
 Beseda 4
+Iz 4
 Dan 4
 Šla 4
 uporablja 4
@@ -793,7 +794,6 @@ drugih 3
 svojem 3
 Človek 3
 red 3
-Iz 3
 moram 3
 Napisal 3
 prideš 3
@@ -1038,6 +1038,7 @@ osemnajst 2
 dvajset 2
 Kruh 2
 svež 2
+prihaja 2
 Ženska 2
 temi 2
 sreče 2
@@ -1200,6 +1201,7 @@ rok 2
 Grozen 2
 idol 2
 Belorusiji 2
+Ukrajini 2
 ja 2
 okusna 2
 Tla 2
@@ -1963,7 +1965,6 @@ sedemnajst 1
 devetnajst 1
 mački 1
 Zima 1
-prihaja 1
 pogoji 1
 Mož 1
 mimo 1
@@ -2477,7 +2478,6 @@ bančnega 1
 računa 1
 Ruščina 1
 slovanski 1
-Ukrajini 1
 Kazahstanu 1
 Kirgizistanu 1
 razširjen 1
@@ -4743,3 +4743,7 @@ posodobil 1
 posodobila 1
 ohranitev 1
 templja 1
+izgovori 1
+lonca 1
+para 1
+Slava 1

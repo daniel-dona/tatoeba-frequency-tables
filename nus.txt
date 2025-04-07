@@ -21,11 +21,11 @@ i̱ 101
 ɛmɛ 87
 kɛnɛ 87
 Jɛn 83
-ti̱ 76
 bi̱ 76
 tee 74
 gɔaa 73
 Cä 71
+ti̱ 71
 Cɛ 69
 bä 63
 kɔn 62
@@ -54,8 +54,7 @@ mi̲ 36
 ruac 35
 te 34
 ben 34
-kɛl 34
-da̱ŋ 34
+kɛl 33
 bi 32
 Bä 32
 luäk 31
@@ -67,6 +66,7 @@ thi̱n 30
 mi 30
 min 29
 ci 29
+da̱ŋ 29
 /cɛ 28
 ŋu 28
 thok 28
@@ -207,7 +207,6 @@ päl 11
 ti̲ 11
 kuɛn 11
 mi̱n 11
-Kɛl 11
 lɔcdä 10
 cieŋ 10
 ɛjɛn 10
@@ -228,7 +227,6 @@ ka̱m 10
 Mɛri 10
 rɔdɛ 10
 ci̱ëë 10
-Kuɔ̱r 10
 cak 9
 pa̱ny 9
 Cuŋni̱ 9
@@ -384,7 +382,6 @@ Thaak 6
 cɛɛ 6
 ji̠n 6
 Yi̱öw 6
-Wäl 6
 A 5
 Mal 5
 /Cɛ 5
@@ -402,7 +399,6 @@ rami 5
 ma̱th 5
 Luäk 5
 wiee 5
-Bitni̱ 5
 da 5
 wi̱i̱ 5
 Cuɛ 5
@@ -584,6 +580,7 @@ gua̱a̱ 4
 i̠ 4
 ji̠ 4
 ley 4
+Kuɔ̱r 4
 riŋ 3
 i̱ruun 3
 lari̱ 3
@@ -616,6 +613,7 @@ Geri̱ 3
 jɔwdu 3
 kap 3
 ɛnyɔk 3
+Bitni̱ 3
 Cam 3
 jälɛ 3
 cia 3
@@ -807,8 +805,6 @@ mary 3
 amäni̱ 3
 Cuɔ̱ŋɛ 3
 ria̱a̱k 3
-Bathdɔɔri̱ 3
-Tanydɔɔri̱ 3
 liak 2
 Koth 2
 puɔ̱nydu 2
@@ -1242,13 +1238,6 @@ puɔ̱nyduëël 2
 yi̱öw 2
 Komli̱kni̱ 2
 Yiöw 2
-Bathdɔɔr 2
-Bapdɔɔr 2
-Tanydɔɔr 2
-Taydɔɔr 2
-Bit 2
-Bapdɔɔri̱ 2
-Taydɔɔri̱ 2
 cakɛ 1
 koth 1
 David 1
@@ -3377,13 +3366,20 @@ lɔaacdä 1
 Teëdi̱ 1
 Malkɔni̱ 1
 Nyɛri̱a̱a̱ŋ 1
+Bathdɔɔri̱ 1
 Gɔanäär 1
+Tanydɔɔri̱ 1
 Kumɛ 1
 Gämbɛ̈ɛ̈l 1
 ruunä 1
 bɛɛl 1
 da̱weec 1
 waalɛ 1
+Bathdɔɔr 1
+Bapdɔɔr 1
+Tanydɔɔr 1
+Taydɔɔr 1
+Bit 1
 palä 1
 wi̱ 1
 tilic 1

@@ -4,7 +4,7 @@ de 1296
 o 1254
 é 948
 non 685
-O 635
+O 636
 e 629
 un 627
 A 552
@@ -12,13 +12,13 @@ unha 491
 Non 474
 do 400
 en 384
-da 342
+da 343
 os 322
 máis 319
 para 298
 no 265
 as 264
-ao 251
+ao 252
 meu 246
 por 235
 se 232
@@ -28,8 +28,8 @@ miña 204
 á 200
 El 198
 súa 198
+está 198
 Os 198
-está 197
 son 184
 seu 180
 ten 158
@@ -178,6 +178,7 @@ estou 37
 gran 37
 verdade 36
 dun 36
+noso 36
 ollos 36
 tes 36
 despois 36
@@ -185,7 +186,6 @@ persoas 36
 onde 35
 can 35
 nun 35
-noso 35
 Onde 35
 Está 35
 isto 35
@@ -1257,6 +1257,7 @@ Merquei 5
 Helena 5
 houbo 5
 pintou 5
+raro 5
 mesmos 5
 ratos 5
 enriba 5
@@ -1544,7 +1545,6 @@ estrutura 4
 metro 4
 noites 4
 cadro 4
-raro 4
 comunidade 4
 elas 4
 18 4
@@ -1701,6 +1701,7 @@ doe 4
 seguen 4
 campos 4
 Pensei 4
+vapor 4
 morreron 4
 seca 4
 chea 4
@@ -2024,6 +2025,7 @@ cheminea 3
 so 3
 gorda 3
 formiga 3
+Sae 3
 explicación 3
 aconteceu 3
 semellaba 3
@@ -2298,6 +2300,7 @@ Habémoste 3
 sentir 3
 marchas 3
 ordenador 3
+Paréceme 3
 pozo 3
 regar 3
 saíron 3
@@ -2862,7 +2865,6 @@ sobriña 2
 caixas 2
 construír 2
 vindeiro 2
-Sae 2
 testemuño 2
 testemuña 2
 nerviosa 2
@@ -3436,7 +3438,6 @@ inimigos 2
 papoula 2
 preferida 2
 margaridas 2
-vapor 2
 barbear 2
 pois 2
 meter 2
@@ -3451,7 +3452,6 @@ marchares 2
 chisco 2
 descansa 2
 alagamento 2
-Paréceme 2
 estragado 2
 baleira 2
 dificultade 2
@@ -3657,6 +3657,7 @@ quita 2
 medias 2
 Rosa 2
 fogón 2
+pota 2
 lazos 2
 amantes 2
 mazás 2
@@ -7923,7 +7924,6 @@ estúpidamente 1
 chispa 1
 eléctrica 1
 obrigaría 1
-pota 1
 Outro 1
 vintecatro 1
 fuxindo 1

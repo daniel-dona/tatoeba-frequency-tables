@@ -1,4 +1,4 @@
-is 401
+is 402
 Ich 342
 Tom 224
 en 217
@@ -11,7 +11,7 @@ das 135
 De 126
 sin 110
 Die 103
-Das 97
+Das 99
 Sie 75
 Meer 75
 in 74
@@ -183,11 +183,13 @@ gester 9
 Hod 9
 nommol 9
 scheen 9
+basseerd 9
 alt 9
 sihd 9
 Loch 9
 hinnich 9
 ihm 9
+oft 9
 lamsam 9
 krank 9
 Maria 8
@@ -214,7 +216,6 @@ wohne 8
 eier 8
 ferloer 8
 eppes 8
-oft 8
 Katze 8
 Bild 8
 Mann 7
@@ -240,7 +241,6 @@ Ovend 7
 sprechd 7
 waare 7
 ohne 7
-basseerd 7
 Boston 7
 genau 7
 geschaffd 7
@@ -2094,3 +2094,4 @@ iwernachte 1
 een-un-zwanzich 1
 Kilometer 1
 Polaarradius 1
+mannichmol 1

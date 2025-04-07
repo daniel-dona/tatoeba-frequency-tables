@@ -1,17 +1,17 @@
 Tom 129222
 bir 102155
-O 39391
+O 39393
 için 36161
 Bu 33050
 çok 29747
 ve 28612
 Tom'un 28152
 var 23569
-Ben 22228
-ne 21634
-kadar 18243
+Ben 22229
+ne 21635
+kadar 18244
 daha 18138
-değil 18012
+değil 18013
 mi 17036
 şey 16915
 olduğunu 16103
@@ -30,7 +30,7 @@ Onun 10817
 söyledi 10714
 Onu 9780
 o 9530
-gibi 8831
+gibi 8832
 Tom'a 8603
 Bunu 8460
 Sami 8285
@@ -39,7 +39,7 @@ istiyorum 7988
 de 7956
 hiç 7873
 hakkında 7820
-nasıl 7608
+nasıl 7609
 Biz 7547
 yardım 7475
 onun 7399
@@ -61,7 +61,7 @@ ama 5927
 yapmak 5880
 olarak 5824
 sonra 5717
-şeyi 5674
+şeyi 5675
 burada 5668
 Mary'ye 5619
 fazla 5473
@@ -71,18 +71,18 @@ mu 5404
 Bana 5315
 ona 5191
 da 5143
-neden 5031
+neden 5033
 biraz 5026
 ben 4981
 gün 4978
-zorunda 4914
+zorunda 4915
 büyük 4822
 senin 4574
 oldu 4519
 üç 4507
 asla 4421
 Sanırım 4333
-Her 4213
+Her 4214
 izin 4202
 gece 4156
 geri 4136
@@ -149,7 +149,7 @@ Seni 2829
 bize 2822
 değildi 2822
 saat 2812
-geldi 2799
+geldi 2800
 ziyaret 2796
 Bugün 2787
 satın 2778
@@ -268,7 +268,7 @@ misiniz 1665
 önemli 1659
 birçok 1657
 süre 1635
-işe 1633
+işe 1634
 Biraz 1632
 neredeyse 1628
 Onları 1627
@@ -429,7 +429,7 @@ Leyla'nın 1037
 kahve 1028
 Hiçbir 1028
 Seninle 1022
-hissediyorum 1017
+hissediyorum 1018
 bizimle 1014
 İki 1008
 yüksek 1007
@@ -443,13 +443,13 @@ bilmiyordum 993
 baktı 992
 yeterince 992
 olup 988
-değilsin 986
+değilsin 987
 olduğundan 979
 biliyordum 975
 teşekkür 972
 şeyin 971
+zamanı 958
 yedi 956
-zamanı 956
 soğuk 953
 ödünç 943
 Üç 937
@@ -538,7 +538,7 @@ zengin 796
 arasında 795
 Bay 794
 aptal 794
-olsun 792
+olsun 793
 olması 792
 oluyor 789
 ciddi 788
@@ -578,7 +578,7 @@ dolayı 746
 doğum 745
 kaybetti 745
 boş 744
-aldın 742
+aldın 743
 dans 741
 dikkat 741
 rağmen 740
@@ -614,11 +614,11 @@ köpek 698
 özel 697
 görmedim 696
 sizi 690
+ettin 690
 söyledin 690
 Eve 689
 uzak 689
 geçirdi 689
-ettin 689
 sigara 688
 dolar 686
 diğer 685
@@ -1191,6 +1191,7 @@ Yaşlı 338
 Almanca 338
 yazık 338
 yatakta 337
+anlıyorum 337
 yapmanı 337
 giderken 336
 at 336
@@ -1200,7 +1201,6 @@ neydi 336
 gitmem 336
 görüyorum 335
 sevmez 335
-anlıyorum 335
 Ancak 335
 işten 334
 odaya 334
@@ -1818,6 +1818,7 @@ dönecek 217
 başı 217
 korumak 217
 göründüğü 217
+anlamak 216
 çiçekler 216
 gittiler 216
 içiyor 216
@@ -1832,7 +1833,6 @@ topu 216
 denemek 216
 anlıyor 216
 Mary'yle 216
-anlamak 215
 Sizinle 215
 kalıyor 215
 yapacağız 215
@@ -1946,6 +1946,7 @@ etmedin 202
 ısrar 202
 parçası 202
 gitmeden 201
+Kar 201
 çoğunu 201
 katı 201
 ruh 201
@@ -1960,7 +1961,6 @@ gördüğünü 201
 sinirli 201
 restoranda 201
 edeceğiz 201
-Kar 200
 Yaz 200
 ilgisi 200
 verdiler 200
@@ -2433,6 +2433,7 @@ hoşlanmadığını 163
 Güney 162
 hafif 162
 yapılır 162
+tıraş 162
 Karım 162
 sözlük 162
 kör 162
@@ -2452,7 +2453,6 @@ Hafta 161
 yüzüne 161
 yıldız 161
 kendime 161
-tıraş 161
 problem 161
 iletişim 161
 doğrudur 161
@@ -2766,6 +2766,7 @@ alabilirim 141
 dalga 141
 çıkma 141
 söylüyorum 141
+Arapça 141
 cinayet 141
 baskı 141
 gitmiyoruz 141
@@ -2791,7 +2792,6 @@ koltuk 140
 riske 140
 olduğunun 140
 ettiğin 140
-Arapça 140
 olacağı 140
 oldular 140
 çalıştığı 140
@@ -3020,6 +3020,7 @@ Rus 128
 "Libya" 128
 kahverengi 127
 anladı 127
+halde 127
 takımı 127
 Dört 127
 ağrısı 127
@@ -3132,7 +3133,6 @@ nineleri 126
 "Dedeleriniz 126
 "Dedelerimiz 126
 "Dedelerin 126
-halde 125
 nüfusu 125
 Sonra 125
 ekonomik 125
@@ -3961,6 +3961,7 @@ girdim 98
 kazası 98
 uzaklaştı 98
 hatam 98
+sola 98
 almalısın 98
 severdi 98
 Sorunun 98
@@ -4001,7 +4002,6 @@ görevi 97
 vermelisin 97
 konuşamam 97
 gördüğü 97
-sola 97
 olağanüstü 97
 işinden 97
 umduğunu 97
@@ -5446,6 +5446,7 @@ vazgeçmek 68
 taşıyordu 68
 harita 68
 evrak 68
+Kolay 68
 uyuyakaldı 68
 hitap 68
 geçirmeyi 68
@@ -5578,7 +5579,6 @@ yerken 66
 sudan 66
 dedektif 66
 tuzak 66
-Kolay 66
 varken 66
 gerekip 66
 satar 66
@@ -9329,6 +9329,7 @@ sayfayı 36
 geçmesine 36
 pişirme 36
 açmadı 36
+gelsin 36
 hasat 36
 Şanslı 36
 inandığını 36
@@ -9783,7 +9784,6 @@ aylarında 34
 Sahilde 34
 taksiyle 34
 Suudi 34
-gelsin 34
 yurtdışında 34
 mumları 34
 kardeşlerim 34
