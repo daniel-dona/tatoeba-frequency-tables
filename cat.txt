@@ -1,27 +1,27 @@
 la 1776
-de 1733
-a 1598
-que 1528
+de 1735
+a 1599
+que 1529
 el 1359
-és 1199
-no 940
+és 1200
+no 941
 va 904
 un 901
 No 739
 en 712
 i 623
 una 612
-per 602
+per 604
 El 581
 La 518
 Tom 486
 les 456
-els 426
-amb 425
+els 427
+amb 426
 al 418
 ha 392
 En 362
-es 346
+es 347
 més 345
 del 314
 molt 269
@@ -47,7 +47,7 @@ seva 163
 ser 162
 tot 158
 què 153
-si 151
+si 152
 dir 150
 ho 148
 A 141
@@ -79,9 +79,9 @@ Quan 102
 Aquest 102
 aquí 100
 quan 98
-pot 96
+pot 97
+o 96
 tan 96
-o 95
 He 93
 llibre 93
 et 93
@@ -110,8 +110,8 @@ Com 77
 sense 77
 sap 76
 gran 76
+cosa 76
 jo 76
-cosa 75
 estava 75
 mare 74
 parlar 74
@@ -134,8 +134,8 @@ nit 67
 gent 67
 tant 67
 sobre 67
+mateix 67
 On 67
-mateix 66
 entre 66
 Es 65
 estat 65
@@ -170,9 +170,9 @@ amic 50
 porta 50
 comprar 50
 diners 50
+tots 50
 Has 50
 Ets 49
-tots 49
 bona 49
 alguna 49
 on 48
@@ -197,14 +197,14 @@ Puc 43
 Japó 43
 feina 42
 passar 42
+d'una 42
 Avui 42
+s'ha 42
 estan 42
 després 41
 Sóc 41
-d'una 41
 Encara 41
 avui 41
-s'ha 41
 allò 41
 tard 41
 trobar 41
@@ -274,6 +274,7 @@ primer 33
 problema 33
 vegada 33
 m'ha 33
+Déu 32
 sembla 32
 paraula 32
 poder 32
@@ -284,7 +285,6 @@ seves 32
 amics 31
 sentir 31
 paraules 31
-Déu 31
 por 31
 moltes 31
 ahir 31
@@ -317,6 +317,7 @@ home 29
 cor 29
 esperanto 29
 tenim 28
+altra 28
 des 28
 mà 28
 petit 28
@@ -334,7 +335,6 @@ cel 28
 d'anar 27
 saber 27
 algú 27
-altra 27
 pares 27
 m'agrada 27
 nens 27
@@ -842,6 +842,7 @@ Teniu 10
 - 10
 oficina 10
 estaven 10
+Allò 10
 imatge 10
 Abans 10
 humà 10
@@ -941,7 +942,6 @@ classes 9
 cervesa 9
 T'has 9
 deixis 9
-Allò 9
 ma 9
 parlo 9
 paper 9
@@ -1407,6 +1407,7 @@ L'exèrcit 5
 avançat 5
 M'has 5
 embarassada 5
+éssers 5
 lliures 5
 Sant 5
 Ser 5
@@ -1655,7 +1656,6 @@ fossis 4
 dreta 4
 clar 4
 miro 4
-éssers 4
 iguals 4
 consell 4
 coll 4
@@ -3976,6 +3976,7 @@ segona 2
 tallar-me 2
 haguessis 2
 aprendre-ho 2
+través 2
 llavi 2
 quilos 2
 canvien 2
@@ -4323,6 +4324,7 @@ expressió 2
 florir 2
 mentals 2
 gravació 2
+Natura 2
 n'he 2
 Pelé 2
 màgia 2
@@ -4330,6 +4332,7 @@ immortal 2
 Reial 2
 trobadors 2
 Occitània 2
+concebre 2
 Sayoko 1
 presento 1
 Enhorabona 1
@@ -8193,7 +8196,6 @@ d'home 1
 mofa 1
 L'herba 1
 situa 1
-través 1
 superior 1
 dracs 1
 nodreixen 1
@@ -9996,5 +9998,3 @@ llàstima 1
 Segueixi 1
 Seguirem 1
 Estudiem 1
-específic 1
-concret 1

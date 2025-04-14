@@ -1,10 +1,10 @@
 tidak 3329
-Tom 3249
+Tom 3251
 Aku 3158
 yang 3001
 di 2617
 itu 2021
-Dia 1892
+Dia 1893
 ini 1787
 Saya 1549
 kamu 1405
@@ -13,13 +13,13 @@ saya 1129
 dengan 1112
 bisa 1077
 aku 1058
-dan 972
+dan 974
 adalah 948
 ke 947
 untuk 864
 ada 842
 dia 784
-dari 763
+dari 764
 pergi 732
 ingin 704
 Apa 701
@@ -53,10 +53,10 @@ sini 378
 mana 363
 lagi 358
 tahun 356
-mereka 349
+mereka 350
 kami 342
 seorang 336
-telah 325
+telah 326
 melihat 319
 Jangan 310
 rumah 306
@@ -80,13 +80,13 @@ memiliki 250
 Ada 247
 belum 242
 satu 240
-bahwa 237
-semua 236
+bahwa 238
+semua 237
 tidur 232
 hal 223
 waktu 222
 sekali 220
-dua 219
+dua 220
 buku 218
 berbicara 212
 baru 209
@@ -96,8 +96,8 @@ dapat 201
 Tolong 194
 karena 192
 sama 192
+membeli 184
 terlalu 184
-membeli 183
 Inggris 183
 malam 183
 jam 181
@@ -134,8 +134,8 @@ sekolah 149
 berapa 148
 bertemu 145
 atau 144
+kembali 143
 mulai 142
-kembali 142
 Prancis 141
 uang 141
 merasa 140
@@ -144,8 +144,8 @@ lama 140
 lain 140
 Siapa 139
 terlihat 138
+kepada 138
 selama 137
-kepada 137
 depan 137
 membuat 137
 hidup 135
@@ -504,6 +504,7 @@ benci 37
 sebelah 36
 Setiap 36
 agak 36
+kantor 36
 tertawa 36
 memilih 36
 baik-baik 36
@@ -515,7 +516,6 @@ Banyak 36
 menang 36
 menghabiskan 36
 menjawab 36
-kantor 35
 teh 35
 saling 35
 siap 35
@@ -754,6 +754,7 @@ mesin 23
 Biarkan 23
 tersenyum 23
 bus 23
+Maria 23
 harganya 23
 Tahun 23
 seminggu 23
@@ -782,7 +783,6 @@ lepas 22
 memancing 22
 badan 22
 jawab 22
-Maria 22
 New 22
 kecuali 22
 Permisi 22
@@ -1177,6 +1177,7 @@ dimana 14
 semi 14
 Musim 14
 meskipun 14
+memberitahukan 14
 lanjut 14
 mencium 14
 kulkas 14
@@ -1242,10 +1243,10 @@ harapan 13
 ditulis 13
 menolong 13
 maupun 13
+ketakutan 13
 bersenang-senang 13
 tukang 13
 pacarku 13
-memberitahukan 13
 benda 13
 ternyata 13
 memberitahumu 13
@@ -1343,7 +1344,6 @@ ambilkan 12
 garam 12
 merasakan 12
 ragu 12
-ketakutan 12
 dinding 12
 temannya 12
 mahasiswa 12
@@ -1390,6 +1390,7 @@ menganggap 11
 Mana 11
 masyarakat 11
 Begitu 11
+tiket 11
 nyenyak 11
 ekonomi 11
 wajah 11
@@ -1517,7 +1518,6 @@ rindu 10
 perasaan 10
 angin 10
 pertandingan 10
-tiket 10
 pemerintah 10
 "Saya 10
 "Kamu 10
@@ -4299,6 +4299,7 @@ judul 3
 cm 3
 Alah 3
 bangkit 3
+sebungkus 3
 sesak 3
 nakal 3
 mencicipi 3
@@ -5810,7 +5811,6 @@ menyarankannya 2
 koper-koper 2
 dalil 2
 tawanan 2
-sebungkus 2
 pindahkan 2
 jahe 2
 selam 2
@@ -6470,6 +6470,7 @@ Laptop 2
 Sembunyi 2
 petak 2
 umpet 2
+popcorn 2
 hoaks 2
 kentang 2
 Tobias 2
@@ -9997,4 +9998,3 @@ Aturannya 1
 omelet 1
 numpang 1
 pake 1
-liburnya 1

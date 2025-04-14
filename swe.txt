@@ -1,44 +1,44 @@
-är 11636
+är 11645
 Jag 11274
 att 7113
 Tom 7086
-inte 6925
+inte 6926
+en 5137
 du 5136
-en 5135
-på 4857
+på 4858
 det 4748
-i 4589
+i 4594
 har 4239
 Det 3881
 Han 3409
-jag 3152
+jag 3153
 mig 2721
 för 2701
 här 2660
 var 2607
 med 2457
 till 2376
-och 2334
+och 2335
 om 2257
 Hon 2077
-ett 1949
-som 1902
+ett 1950
+som 1903
 Vi 1890
 dig 1890
 den 1836
 kan 1678
 Du 1602
 av 1601
-han 1262
+han 1263
 kommer 1256
-sig 1221
+sig 1223
 så 1194
 Vad 1160
 vill 1124
 De 1106
 ni 1100
 mycket 977
-skulle 975
+skulle 976
 min 975
 Hur 954
 Mary 945
@@ -51,12 +51,12 @@ honom 815
 där 780
 vara 774
 Har 772
-ha 755
+ha 756
 ut 739
 hade 737
 Var 734
 Den 727
-vad 716
+vad 717
 din 690
 de 688
 tycker 642
@@ -100,7 +100,7 @@ ser 392
 fick 390
 men 382
 alltid 380
-sa 379
+sa 380
 ta 378
 väldigt 377
 gjorde 377
@@ -112,14 +112,14 @@ Ni 357
 Vem 355
 efter 352
 älskar 350
-in 349
+in 350
 över 348
 hur 348
 kom 348
 såg 347
 dem 338
 borde 335
-När 331
+När 332
 få 327
 komma 320
 hans 314
@@ -135,8 +135,8 @@ får 303
 Toms 296
 I 295
 barn 292
+allt 292
 fortfarande 291
-allt 291
 bli 289
 Sami 289
 känner 286
@@ -177,8 +177,8 @@ detta 212
 Detta 210
 köpte 210
 hus 209
+blir 208
 varit 208
-blir 206
 trodde 204
 också 204
 gav 203
@@ -215,8 +215,8 @@ visste 175
 kaffe 174
 namn 174
 Skulle 172
+gjort 170
 håller 169
-gjort 169
 står 169
 språk 167
 Kom 166
@@ -424,11 +424,11 @@ Håll 82
 mellan 82
 Marys 82
 fort 81
+annan 81
 läser 81
 berätta 81
 frågor 81
 staden 80
-annan 80
 imorgon 80
 förstå 80
 senare 80
@@ -473,9 +473,9 @@ föll 74
 båda 74
 runt 73
 ätit 73
+land 73
 Gillar 73
 gärna 72
-land 72
 kort 72
 sex 72
 tro 71
@@ -528,6 +528,7 @@ problemet 64
 hjälpte 64
 vore 64
 våra 64
+huvudet 64
 stora 64
 deras 63
 sov 63
@@ -537,7 +538,6 @@ tvungen 63
 be 63
 stannade 62
 sanningen 62
-huvudet 62
 mår 61
 Glöm 61
 enkelt 61
@@ -790,6 +790,7 @@ historia 41
 reda 41
 litet 41
 mest 41
+sönder 41
 laga 41
 katten 41
 veckan 41
@@ -806,7 +807,6 @@ anledning 41
 förstod 41
 Fadil 41
 Tokyo 40
-sönder 40
 början 40
 stolt 40
 röst 40
@@ -860,6 +860,7 @@ trettio 37
 långa 37
 val 37
 exempel 36
+stället 36
 hör 36
 frågan 36
 kött 36
@@ -879,7 +880,6 @@ fler 35
 allting 35
 skall 35
 tåg 35
-stället 35
 exakt 35
 God 35
 Ursäkta 35
@@ -1191,6 +1191,7 @@ Inget 25
 slags 25
 skull 25
 Enligt 25
+omkring 25
 Barnet 25
 Italien 25
 kvinnan 25
@@ -1231,7 +1232,6 @@ vapen 24
 Amerika 24
 dyrt 24
 ljuga 24
-omkring 24
 tänder 24
 reste 24
 listan 24
@@ -1602,6 +1602,7 @@ Staden 17
 Äter 17
 överallt 17
 förslag 17
+slår 17
 framtid 17
 sätter 17
 Dricker 17
@@ -1623,6 +1624,7 @@ bjöd 17
 Bra 17
 kompis 17
 lycka 17
+dumma 17
 kille 17
 hållet 17
 drag 17
@@ -1666,7 +1668,6 @@ förr 16
 varnade 16
 vare 16
 bit 16
-slår 16
 banken 16
 Vid 16
 upptäckte 16
@@ -1707,7 +1708,6 @@ ren 16
 Blev 16
 försökt 16
 kyssa 16
-dumma 16
 idén 16
 rösten 16
 alternativ 16
@@ -1945,6 +1945,7 @@ släppte 13
 högra 13
 Japans 13
 nyckel 13
+kung 13
 rakt 13
 mätt 13
 by 13
@@ -2080,7 +2081,6 @@ bestämmer 12
 smör 12
 teven 12
 kunskap 12
-kung 12
 000 12
 platser 12
 bekväm 12
@@ -2666,6 +2666,7 @@ smutsigt 9
 skadades 9
 översatte 9
 sjutton 9
+uppför 9
 information 9
 kyss 9
 förälskade 9
@@ -2804,6 +2805,7 @@ ordförråd 9
 Prästen 9
 relativt 9
 ananas 9
+Amerikaner 9
 NATO 9
 orsaken 8
 blommar 8
@@ -2911,7 +2913,6 @@ sjönk 8
 inställning 8
 inträffade 8
 axel 8
-uppför 8
 fienden 8
 samman 8
 liksom 8
@@ -3047,6 +3048,7 @@ vunnit 8
 kommentar 8
 kläderna 8
 Åt 8
+flyttar 8
 sekunder 8
 Ormen 8
 kastrullen 8
@@ -3291,6 +3293,7 @@ allesammans 7
 attityd 7
 förneka 7
 poesi 7
+Österrike 7
 klassrummet 7
 njuter 7
 förlät 7
@@ -3356,7 +3359,6 @@ skär 7
 sms 7
 motorvägen 7
 kjolen 7
-flyttar 7
 varenda 7
 fällde 7
 oväsen 7
@@ -3520,6 +3522,7 @@ Betty 6
 trappan 6
 sjö 6
 läker 6
+Presidenten 6
 Meg 6
 pojkar 6
 Hissen 6
@@ -3543,6 +3546,7 @@ tallrik 6
 hebreiska 6
 förstör 6
 stjäla 6
+slottet 6
 trygg 6
 Skit 6
 korten 6
@@ -3617,6 +3621,7 @@ blont 6
 skrivet 6
 sanna 6
 bakhåll 6
+president 6
 blad 6
 läppar 6
 förstås 6
@@ -3703,7 +3708,6 @@ Berättade 6
 övre 6
 berättelsen 6
 överlägsen 6
-Österrike 6
 styr 6
 Vann 6
 Slösa 6
@@ -4038,7 +4042,6 @@ tionde 5
 stånd 5
 studenterna 5
 Betyder 5
-Presidenten 5
 nått 5
 märklig 5
 ätpinnar 5
@@ -4148,7 +4151,6 @@ fotografera 5
 båtar 5
 bokstav 5
 förstått 5
-president 5
 ölen 5
 färskt 5
 ljusen 5
@@ -4504,6 +4506,7 @@ oskuld 5
 köp 5
 sallad 5
 År 5
+elefant 5
 inte" 5
 önskade 5
 finskan 5
@@ -4749,7 +4752,6 @@ brutit 4
 dryck 4
 attackera 4
 dölja 4
-slottet 4
 stränga 4
 stämt 4
 Alkohol 4
@@ -4955,6 +4957,7 @@ brittisk 4
 siste 4
 skulder 4
 trettioett 4
+clown 4
 synen 4
 försvunna 4
 version 4
@@ -5413,7 +5416,6 @@ Olyckan 4
 flyget 4
 behärska 4
 möten 4
-elefant 4
 giftermål 4
 förhindra 4
 underrättat 4
@@ -6034,6 +6036,7 @@ järnvägsstationen 3
 telefonabonnemang 3
 Förut 3
 lektion 3
+skallen 3
 kompromissa 3
 slank 3
 smällde 3
@@ -6076,7 +6079,6 @@ bränsle 3
 Visade 3
 siffror 3
 tillverkade 3
-clown 3
 ögna 3
 Judy 3
 vinka 3
@@ -7919,7 +7921,6 @@ Johnny 2
 ”Ja” 2
 trähus 2
 eländigt 2
-skallen 2
 mätaren 2
 förrådet 2
 Mormors 2
@@ -9230,6 +9231,7 @@ där” 2
 veta” 2
 nudlar 2
 Stek 2
+cirkus 2
 attackerad 2
 attackerades 2
 Whatsapp 2
@@ -9996,5 +9998,3 @@ Glömde 2
 berättigade 2
 föreståndare 2
 säsongen 2
-förtroende 2
-serien 2

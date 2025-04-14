@@ -1,10 +1,10 @@
-a 1488
-que 1398
-de 1296
+a 1490
+que 1399
+de 1297
 o 1254
-é 948
-non 685
-O 636
+é 949
+non 686
+O 637
 e 629
 un 627
 A 552
@@ -13,15 +13,15 @@ Non 474
 do 400
 en 384
 da 343
-os 322
+os 323
 máis 319
 para 298
 no 265
 as 264
 ao 252
 meu 246
-por 235
-se 232
+por 236
+se 233
 Tom 223
 na 214
 miña 204
@@ -53,8 +53,8 @@ Por 95
 As 95
 Se 94
 pola 94
+ou 94
 vida 93
-ou 93
 das 91
 seus 89
 tempo 85
@@ -73,9 +73,9 @@ ben 74
 polo 72
 tan 72
 ti 72
+pode 71
 este 71
 esta 71
-pode 70
 podo 70
 estaba 69
 te 69
@@ -118,16 +118,16 @@ quen 51
 frases 51
 coa 50
 ir 50
+Deus 50
 están 50
 pouco 49
 veces 49
 porque 49
 aínda 49
 mundo 49
-Deus 49
 co 49
+mesmo 48
 ver 48
-mesmo 47
 eu 47
 entre 47
 Quen 46
@@ -141,6 +141,7 @@ vai 45
 tres 45
 iso 45
 meus 44
+todos 44
 dicir 44
 Unha 44
 auga 43
@@ -148,7 +149,6 @@ xente 43
 sobre 43
 coche 43
 libro 43
-todos 43
 nosa 42
 moitas 42
 hoxe 42
@@ -249,6 +249,7 @@ Isto 25
 Ten 25
 problema 25
 Iso 25
+cousa 25
 toda 25
 medo 25
 neste 25
@@ -269,7 +270,6 @@ cinco 24
 Sempre 24
 Nunca 24
 amigos 24
-cousa 24
 axuda 24
 outros 24
 grande 24
@@ -437,6 +437,7 @@ Es 15
 fose 15
 chorar 15
 propia 15
+si 15
 senón 15
 río 15
 mozo 15
@@ -466,7 +467,6 @@ rico 14
 irmáns 14
 vive 14
 habitación 14
-si 14
 temos 14
 avión 14
 estudar 14
@@ -615,6 +615,7 @@ amada 11
 situación 10
 media 10
 pobre 10
+debe 10
 ganas 10
 gatos 10
 animais 10
@@ -674,6 +675,7 @@ rapaces 10
 cans 10
 pedra 10
 paso 10
+través 10
 chove 9
 nadar 9
 presidente 9
@@ -686,7 +688,6 @@ acordo 9
 edificio 9
 español 9
 Fai 9
-debe 9
 irmás 9
 diante 9
 necesita 9
@@ -721,6 +722,7 @@ tema 9
 Case 9
 puido 9
 queren 9
+seres 9
 pensar 9
 súpeto 9
 alta 9
@@ -752,7 +754,6 @@ fermosas 9
 feita 9
 cociña 9
 soidade 9
-través 9
 pasa 9
 paixón 9
 Nin 9
@@ -793,7 +794,6 @@ libre 8
 axudar 8
 algunhas 8
 Estados 8
-seres 8
 fútbol 8
 flor 8
 igrexa 8
@@ -1480,6 +1480,7 @@ botella 4
 baixa 4
 arriba 4
 poucas 4
+doutra 4
 reunión 4
 Sería 4
 soldados 4
@@ -1896,7 +1897,6 @@ caír 3
 Bach 3
 xeitos 3
 farto 3
-doutra 3
 interpretación 3
 actividades 3
 viches 3
@@ -4003,6 +4003,7 @@ paraíso 2
 recordados 2
 aparece 2
 pregúntome 2
+Natureza 2
 praceres 2
 Estudei 2
 románico 2
@@ -9997,4 +9998,3 @@ destrución 1
 nucleares) 1
 programar 1
 super 1
-extinga 1

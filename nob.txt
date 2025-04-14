@@ -1,4 +1,4 @@
-er 4383
+er 4384
 Jeg 3627
 ikke 2481
 å 2194
@@ -21,7 +21,7 @@ av 990
 var 983
 som 966
 at 886
-et 752
+et 753
 Hun 749
 Du 748
 deg 735
@@ -364,6 +364,7 @@ spiste 39
 problem 38
 spille 38
 klokken 38
+land 38
 person 38
 leser 38
 tidlig 38
@@ -373,7 +374,6 @@ borte 38
 sover 38
 drar 38
 mener 38
-land 37
 fem 37
 drikke 37
 akkurat 37
@@ -2132,6 +2132,7 @@ Glem 5
 smør 5
 vennskap 5
 Norges 5
+Østerrike 5
 bestilte 5
 Sønnen 5
 vitenskap 5
@@ -2550,7 +2551,6 @@ sommerferien 4
 politikk 4
 renner 4
 kropp 4
-Østerrike 4
 pannen 4
 blyanten 4
 bad 4

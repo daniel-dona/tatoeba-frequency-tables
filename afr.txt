@@ -1,9 +1,9 @@
 nie 1247
-is 1045
+is 1046
 het 964
 Ek 951
 die 740
-'n 592
+'n 593
 Tom 439
 jy 432
 my 344
@@ -54,8 +54,8 @@ aan 72
 werk 72
 kom 71
 toe 69
+na 66
 hou 66
-na 65
 Het 64
 by 63
 se 62
@@ -89,8 +89,8 @@ dink 40
 Dis 40
 julle 40
 sê 40
+Daar 39
 hoe 38
-Daar 38
 boek 37
 help 36
 gee 36
@@ -154,13 +154,13 @@ seun 21
 vriend 21
 lewe 21
 koop 21
+groot 21
 melk 21
 regtig 21
 gemaak 21
 pa 20
 dag 20
 gister 20
-groot 20
 daarvan 20
 neem 20
 gehad 20
@@ -281,6 +281,7 @@ tussen 12
 gehoor 12
 reëls 12
 gebore 11
+vraag 11
 maand 11
 verloor 11
 besluit 11
@@ -306,7 +307,6 @@ sonder 11
 bekommerd 11
 ses 10
 naby 10
-vraag 10
 land 10
 hardloop 10
 vinnig 10
@@ -1057,6 +1057,7 @@ hoender 3
 speelgoed 3
 familie 3
 apteek 3
+petrol 3
 blaf 3
 Halloween 3
 handvol 3
@@ -1560,7 +1561,6 @@ strand 2
 verhuur 2
 besit 2
 verblyf 2
-petrol 2
 aansoek 2
 boontjies 2
 artikkel 2

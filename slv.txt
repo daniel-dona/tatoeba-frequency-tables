@@ -1,4 +1,4 @@
-je 1120
+je 1122
 Ali 235
 se 227
 sem 200
@@ -18,7 +18,7 @@ govoriš 87
 Govoriš 86
 Govorite 86
 To 85
-ni 84
+ni 85
 Kaj 82
 mi 75
 zelo 70
@@ -46,11 +46,11 @@ Kje 35
 Sem 35
 dan 34
 po 32
+ali 31
 Ona 31
 ga 31
 govorim 31
 Kdo 30
-ali 30
 Danes 30
 Zakaj 30
 s 29
@@ -134,6 +134,7 @@ boš 13
 tako 13
 brez 13
 naj 13
+nekaj 13
 tega 13
 všeč 13
 živali 13
@@ -145,7 +146,6 @@ ljudje 12
 imaš 12
 mora 12
 vas 12
-nekaj 12
 Bil 12
 malo 12
 Si 12
@@ -230,6 +230,7 @@ vodo 8
 učitelj 8
 Voda 8
 lep 8
+mogoče 8
 nizozemsko 8
 ujgursko 8
 prijateljica 8
@@ -238,6 +239,7 @@ hobi 8
 Rada 7
 pevka 7
 vam 7
+treba 7
 Ena 7
 ljubezen 7
 Oprostite 7
@@ -263,7 +265,6 @@ Se 7
 štiri 7
 država 7
 Imaš 7
-mogoče 7
 stavkov 7
 Učim 7
 Tatoeba 7
@@ -277,7 +278,6 @@ Dober 6
 list 6
 Da 6
 eno 6
-treba 6
 Všeč 6
 roke 6
 mizi 6
@@ -323,6 +323,7 @@ Tega 6
 Zdaj 6
 italijansko 6
 Slovenščina 6
+Bog 6
 Slovenija 6
 ukrajinsko 6
 madžarsko 6
@@ -342,6 +343,7 @@ modro 6
 nedelja 5
 sestra 5
 Otroci 5
+Kar 5
 ampak 5
 njega 5
 knjig 5
@@ -392,6 +394,7 @@ New 5
 naredi 5
 vroče 5
 sin 5
+vseh 5
 mene 5
 Boga 5
 sprehod 5
@@ -404,7 +407,6 @@ zob 5
 jutro 5
 hebrejsko 5
 hči 5
-Bog 5
 nova 5
 albansko 5
 estonsko 5
@@ -477,7 +479,6 @@ Končno 4
 petek 4
 hiša 4
 nov 4
-Kar 4
 ljubi 4
 Vzemi 4
 stavke 4
@@ -560,7 +561,6 @@ noč 4
 Ricardo 4
 Francoščina 4
 slovar 4
-vseh 4
 pes 4
 zdijo 4
 Najdi 4
@@ -831,6 +831,7 @@ imena 3
 Vsaka 3
 popraviti 3
 mačke 3
+drugega 3
 Tako 3
 četrtek 3
 jesti 3
@@ -895,6 +896,7 @@ zaspana 3
 nebo 3
 ljubezni 3
 greš 3
+skozi 3
 telesu 3
 Tajpej 3
 Poljske 3
@@ -1162,6 +1164,7 @@ navade 2
 prepričan 2
 teden 2
 najljubši 2
+bistvo 2
 prijatelja 2
 svetovni 2
 obiskat 2
@@ -1232,6 +1235,7 @@ njegove 2
 Živimo 2
 lepe 2
 prispel 2
+sebe 2
 prevod 2
 delo 2
 dokler 2
@@ -1331,7 +1335,6 @@ Psi 2
 Pogrešam 2
 Pohiti 2
 Večina 2
-drugega 2
 utrujeni 2
 tiste 2
 žal 2
@@ -1455,6 +1458,7 @@ poezija 2
 Prepovedano 2
 Pozor 2
 druga 2
+narava 2
 Zdravo 2
 stranišče 2
 tržnica 2
@@ -1718,6 +1722,7 @@ nesmrtna 2
 čudovito 2
 programsko 2
 Programsko 2
+pojmovati 2
 gospod 1
 Ogawa 1
 Francoz 1
@@ -2335,7 +2340,6 @@ Zemlji 1
 skupnega 1
 prednika 1
 Osebna 1
-bistvo 1
 demokracije 1
 pridružil 1
 križcem 1
@@ -2564,7 +2568,6 @@ moža 1
 skrivnosti 1
 šport 1
 Avstralijo 1
-sebe 1
 motim 1
 torto 1
 dodajo 1
@@ -3354,7 +3357,6 @@ stopnica 1
 informacija 1
 Prisluhniti 1
 Navada 1
-narava 1
 Bodi 1
 usodo 1
 radoveden 1
@@ -3417,7 +3419,6 @@ rdeča 1
 Rdeča 1
 Prehitro 1
 Prizadevajte 1
-skozi 1
 ozka 1
 njihovih 1
 sadovih 1
@@ -4747,3 +4748,4 @@ izgovori 1
 lonca 1
 para 1
 Slava 1
+bitij 1

@@ -1,12 +1,12 @@
 do 3384
 zou 1211
 di 1005
-no 908
+no 909
 i 825
 Tom 699
 ku 650
 ko 649
-o 602
+o 603
 id 479
 nu 450
 nopo 421
@@ -15,12 +15,12 @@ doid 407
 dii 372
 om 371
 isido 364
-dau 354
+dau 355
 nga 314
 po 236
 diti 235
 au 229
-zosido 198
+zosido 199
 zi 192
 naku 188
 mantad 185
@@ -54,8 +54,8 @@ diho 98
 nga' 98
 ih 95
 disido 92
+i' 89
 doiho 89
-i' 88
 doiti 86
 montok 82
 dosido 78
@@ -84,11 +84,11 @@ kokomoi 52
 insan 52
 dati 51
 aanangan 51
+tu' 51
 Koiho 50
 dagai 50
 nodii 50
 ti 50
-tu' 50
 Nunu 49
 moboos 49
 tanak 48
@@ -258,6 +258,7 @@ suat 17
 isai 17
 Ahansan 17
 ogumu 17
+tokito 17
 tootopot 17
 Ounsikou 17
 Kavasa' 17
@@ -269,7 +270,6 @@ mato 16
 dokutul 16
 Zi 16
 muhi 16
-tokito 16
 maza 16
 dimput 16
 Iisai 16
@@ -1537,6 +1537,7 @@ panambazangan 3
 Magapon 3
 Nakapaas 3
 Sumakit 3
+munsikou 3
 sasau 3
 ko'onduan 3
 kobohi 3
@@ -2291,7 +2292,6 @@ Modong-hodong 2
 Noboboson 2
 Mamaaha 2
 Naaha 2
-munsikou 2
 kumoduvo 2
 kabalakatan 2
 agaan 2
@@ -6801,3 +6801,4 @@ moingku 1
 tuminakad/minindakod 1
 numpod 1
 olotio' 1
+Midum-kidum 1

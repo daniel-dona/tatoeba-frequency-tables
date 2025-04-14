@@ -1,5 +1,5 @@
 ad 186895
-n 154166
+n 154165
 d 114858
 ara 92876
 ay 71472
@@ -1007,11 +1007,11 @@ leḥsab-nwent 352
 Teḥwajem 352
 Anect 351
 tameddit 351
-unẓar 351
 d-yenna 351
 yezga 351
 kecc 351
 asefru 351
+unẓar 350
 nesɛi 350
 niɣ 349
 tagiṭart 348
@@ -2301,7 +2301,6 @@ tamessuyt 151
 tisidelt 151
 igellilen 150
 tafsut 150
-Tafukt 150
 yefṛeḥ 150
 xeddmen 150
 xeddmeɣ 150
@@ -2323,6 +2322,7 @@ lḥedd 149
 teklizt 149
 d-yettban 149
 ttetten 149
+Tafukt 149
 d-taweḍ 149
 yessawel 149
 tlufa 149
@@ -9309,7 +9309,6 @@ tazeɣɣa-nni 30
 ifat 30
 umeɣrad 30
 tettafeḍ 30
-Abrid-nni 30
 Tfukem 30
 Tfukemt 30
 texxamt-nwent 30
@@ -9560,6 +9559,7 @@ tifranin 29
 tt-yaɣ 29
 iḍrisen 29
 ugennari-nni 29
+Abrid-nni 29
 Ixelleṣ 29
 ifassen-nsen 29
 yecleg-d 29

@@ -1,14 +1,14 @@
-Tomas 833
+Tomas 834
 No 605
 das 555
 no 486
-binom 484
+binom 485
 etosi 422
 in 327
-obik 283
+obik 284
 Maria 229
 dunön 197
-binon 182
+binon 184
 e 169
 Tom 162
 dö 157
@@ -18,11 +18,11 @@ is 144
 olik 140
 ko 137
 at 136
-Kisi 128
+Kisi 129
 vemo 120
 Vilob 109
 Binob 107
-ob 104
+ob 105
 oli 98
 yufön 98
 Nolob 97
@@ -31,14 +31,14 @@ gudik 93
 et 92
 omi 91
 ole 91
+ka 87
 vilom 87
-ka 86
 al 86
 El 83
 Tomase 81
 golön 78
 binob 77
-ol 76
+ol 77
 adelo 75
 keli 75
 Kim 75
@@ -58,8 +58,8 @@ vilol 61
 omis 61
 Labob 59
 nolob 59
+jönik 57
 okik 57
-jönik 56
 kanom 56
 Binol 56
 dat 56
@@ -80,8 +80,8 @@ obes 48
 domo 48
 valik 47
 tidel 47
+umo 46
 Hiel 45
-umo 45
 ome 45
 ädelo 44
 om 44
@@ -143,6 +143,7 @@ Boston 29
 it 29
 omes 29
 fat 28
+binons 28
 Fat 28
 gletik 28
 atosi 28
@@ -150,7 +151,6 @@ tikol 28
 Talop 28
 vobi 27
 Kat 27
-binons 27
 men 27
 nolol 27
 kömön 27
@@ -234,6 +234,7 @@ obinom 19
 gudikün 19
 vati 19
 velatiko 19
+nen 19
 Buk 18
 Man 18
 jul 18
@@ -246,7 +247,6 @@ hetom 18
 vilof 18
 lemön 18
 malädik 18
-nen 18
 lü 17
 bukis 17
 slipön 17
@@ -583,6 +583,7 @@ Kömolöd 6
 efidom 6
 tabi 6
 mutoms 6
+stupik 6
 Li-dledol 6
 Ägivob 6
 vomis 6
@@ -666,7 +667,6 @@ Jimatel 5
 binof-li 5
 nim 5
 älöfom 5
-stupik 5
 Li-kanobs 5
 zifa 5
 Binons 5
@@ -1085,6 +1085,7 @@ Logobs 3
 cöc 3
 Kanof 3
 nifi 3
+Mon 3
 "Kiöp 3
 gonön 3
 Obinom 3
@@ -1175,6 +1176,7 @@ ofen-li 3
 äbinom-li 3
 deutel 3
 ogolom 3
+dunolöv 3
 Viloms 3
 Esagoms 3
 kanitel 3
@@ -1402,6 +1404,7 @@ plitülik 2
 net 2
 juegi 2
 plak 2
+Lamerikänans 2
 suseitön 2
 valemik 2
 sis 2
@@ -1570,7 +1573,6 @@ Juks 2
 ävigo 2
 flukis 2
 dledob 2
-Mon 2
 pöfüdik 2
 Dunom 2
 stom 2
@@ -1808,7 +1810,6 @@ logol 2
 bödis 2
 Ofen-li 2
 Okömob 2
-dunolöv 2
 Vobolöd 2
 etifom 2
 dins 2
@@ -1915,6 +1916,7 @@ Püks 2
 ämutom 2
 cöci 2
 kukof 2
+nos 2
 äsükol 2
 sükob 2
 kukeli 2
@@ -2560,7 +2562,6 @@ nedöfik 1
 soalik 1
 Reinon 1
 Kvil 1
-Lamerikänans 1
 evilons 1
 tiki 1
 biomagodem 1
@@ -4605,7 +4606,6 @@ Spatobs 1
 li-vedoms 1
 sapikum 1
 pla 1
-nos 1
 Gonof 1
 Li-ekömol 1
 nentatiman 1
@@ -4940,3 +4940,5 @@ naziman 1
 netasogädiman 1
 Glori 1
 Diabe 1
+Pönop 1
+"of" 1
