@@ -10,7 +10,7 @@ za 212
 la 201
 cha 179
 sana 174
-Je 168
+Je 169
 kama 151
 wakati 147
 yake 141
@@ -28,8 +28,8 @@ hiyo 93
 kufanya 90
 tu 88
 watu 87
+wangu 87
 kutoka 86
-wangu 86
 hivyo 84
 alikuwa 83
 kazi 81
@@ -65,12 +65,12 @@ yetu 46
 ilikuwa 46
 kuna 45
 wako 45
+ana 45
 ambayo 45
 hadi 45
 hili 45
 nchi 44
 muda 44
-ana 44
 karibu 44
 njia 43
 vya 43
@@ -127,6 +127,7 @@ kwenda 29
 ukweli 29
 mzuri 29
 kabla 29
+tena 29
 nani 28
 nyumbani 28
 wao 28
@@ -134,7 +135,6 @@ hapo 28
 Japan 28
 nje 28
 tano 28
-tena 28
 hatari 28
 mambo 27
 mpya 27
@@ -226,6 +226,7 @@ mbele 20
 kula 20
 barua 19
 baba 19
+kesho 19
 watoto 19
 wawili 19
 Mtu 19
@@ -240,7 +241,6 @@ Marekani 19
 haya 19
 Alikuwa 19
 zao 18
-kesho 18
 zangu 18
 Siku 18
 Uingereza 18
@@ -281,6 +281,7 @@ kusoma 16
 jengo 16
 kamili 16
 Baada 16
+Mama 16
 London 16
 ndiye 16
 kuchukua 16
@@ -301,7 +302,6 @@ jioni 15
 nzima 15
 binti 15
 amani 15
-Mama 15
 nchini 15
 dhahabu 15
 zawadi 15
@@ -403,6 +403,8 @@ nyingine 12
 moyo 12
 kwako 12
 kuzaliwa 12
+lini 12
+kukutana 12
 Rais 12
 Mara 12
 risasi 12
@@ -431,8 +433,6 @@ kulia 11
 wazi 11
 Ujerumani 11
 Kifaransa 11
-lini 11
-kukutana 11
 kali 11
 miezi 11
 tabia 11
@@ -535,6 +535,7 @@ chokoleti 9
 Mbona 9
 kahawa 9
 kompyuta 9
+Tunaweza 9
 uhakika 9
 asili 9
 Urusi 9
@@ -598,7 +599,6 @@ mti 8
 Ninaweza 8
 bunduki 8
 adui 8
-Tunaweza 8
 ipo 8
 unajua 8
 mingi 8
@@ -1473,6 +1473,7 @@ anatumia 3
 hautoshi 3
 Nipe 3
 visiwa 3
+homa 3
 Vitabu 3
 Sawa 3
 mingapi 3
@@ -1571,6 +1572,7 @@ Basi 3
 Piga 3
 mamake 3
 kuvuka 3
+Ninahisi 3
 ofisini 3
 alipoteza 3
 urafiki 3
@@ -2058,7 +2060,6 @@ kirusi 2
 duniani 2
 kuonana 2
 Nipo 2
-homa 2
 viko 2
 Sielewi 2
 Sentensi 2
@@ -2177,7 +2178,6 @@ yupi 2
 nimeuza 2
 mishumaa 2
 Funga 2
-Ninahisi 2
 miwani 2
 Tuliamua 2
 unaamini 2
@@ -9285,3 +9285,5 @@ subira 1
 mkristo 1
 Unaenda 1
 mwema 1
+kiu 1
+unapatikana 1

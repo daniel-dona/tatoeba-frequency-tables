@@ -14,8 +14,8 @@ ar 461
 tu 444
 Tas 434
 man 422
+no 408
 nav 408
-no 407
 tas 382
 kā 364
 ko 346
@@ -29,7 +29,7 @@ tik 240
 Tu 237
 tā 236
 Mēs 225
-lai 212
+lai 213
 tev 209
 savu 197
 daudz 188
@@ -48,7 +48,7 @@ kaut 147
 pārāk 146
 Tomam 146
 Tā 129
-Kā 126
+Kā 127
 Viņi 126
 ne 125
 tevi 120
@@ -61,7 +61,7 @@ nevaru 107
 viņam 104
 labi 104
 jau 101
-mēs 100
+mēs 101
 neesmu 98
 arī 97
 Kas 94
@@ -69,9 +69,9 @@ teica 94
 Kāpēc 94
 vienmēr 90
 nekā 90
+sevi 88
 biju 88
 kad 87
-sevi 87
 mums 86
 Ja 85
 labāk 85
@@ -171,9 +171,9 @@ mājās 41
 lūdzu 41
 tagad 41
 joprojām 41
+tās 41
 grūti 40
 Toma 40
-tās 40
 jādara 40
 šī 39
 Mani 39
@@ -359,6 +359,7 @@ sieviete 19
 Beidz 19
 izmanto 19
 pāri 19
+varam 19
 uzmanību 19
 māja 18
 cilvēkus 18
@@ -386,7 +387,6 @@ Janni 18
 taču 18
 mēdzu 18
 Kaut 18
-varam 18
 dzīves 18
 Kurš 17
 Nekas 17
@@ -554,6 +554,7 @@ Jā 12
 kurā 12
 kļūda 12
 suni 12
+savai 12
 gadus 12
 spēle 12
 miegains 12
@@ -619,7 +620,6 @@ problēmu 11
 svarīgs 11
 angliski 11
 darba 11
-savai 11
 - 11
 izdarīja 11
 gaidīt 11
@@ -1966,6 +1966,7 @@ varen 4
 nozīmi 4
 laiki 4
 Parādiet 4
+apelsīnu 4
 dažādi 4
 sāls 4
 dvēsele 4
@@ -2693,9 +2694,9 @@ uzvesties 3
 laipni 3
 sapņo 3
 glezna 3
-apelsīnu 3
 pavisam 3
 atkarību 3
+garšu 3
 pastāvēt 3
 fiziskā 3
 Mēness 3
@@ -3991,7 +3992,6 @@ loģiski 2
 zinātne 2
 daudzpusīga 2
 būtība 2
-garšu 2
 Nevis 2
 Jods 2
 tauta 2
@@ -4344,6 +4344,7 @@ piekrišanu 2
 runātīgs 2
 redzesloka 2
 liecināt 2
+pievieno 2
 lidojumā 2
 Itāļi 2
 maltīti 2
@@ -4852,6 +4853,7 @@ Zupa 2
 neparasta 2
 Zupai 2
 karstai 2
+padarītu 2
 labdarības 2
 sanāca 2
 Runā 2
@@ -9184,7 +9186,6 @@ iecienītākajiem 1
 Ceptai 1
 liellopu 1
 gaļai 1
-pievieno 1
 Jorkšīras 1
 pudiņu 1
 nodzēstu 1
@@ -9997,4 +9998,3 @@ profesionāli 1
 fotogrāfi 1
 Sema 1
 Herisa 1
-ierodoties 1

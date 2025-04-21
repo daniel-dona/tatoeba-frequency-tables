@@ -1,8 +1,8 @@
 Ez 1219
 e 1043
-xwe 1035
+xwe 1036
+ji 1006
 min 1006
-ji 1005
 bi 939
 li 838
 Ew 818
@@ -11,7 +11,7 @@ Ew 818
 ye 645
 ku 632
 Tom 549
-Em 546
+Em 547
 me 526
 Tu 524
 te 502
@@ -84,8 +84,8 @@ Her 85
 nekir 85
 got 84
 a 82
+çawa 82
 dê 81
-çawa 81
 din 78
 Navê 75
 dixwazim 73
@@ -171,9 +171,9 @@ rast 38
 rastî 37
 mirov 36
 dema 36
+dikarin 36
 dikarî 35
 porê 35
-dikarin 35
 dide 35
 Samî 35
 pêk 35
@@ -442,6 +442,7 @@ zarok 13
 hêdî 13
 nekî 13
 Mirov 13
+biparêzin 13
 Çend 13
 herin 13
 jiyanê 13
@@ -477,7 +478,6 @@ hewl 12
 berfê 12
 jin 12
 birayên 12
-biparêzin 12
 dikeve 12
 Êdî 12
 Xwedê 12
@@ -9267,3 +9267,4 @@ Bajarê 1
 fitiq 1
 hertiştzan 1
 hertiştolog 1
+koronavîrûsê 1

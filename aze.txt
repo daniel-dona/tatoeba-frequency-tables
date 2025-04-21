@@ -1,7 +1,7 @@
 Mən 664
 O 456
 Tom 406
-Bu 356
+Bu 357
 var 252
 bir 220
 nə 181
@@ -73,13 +73,13 @@ onun 32
 edə 32
 alma 32
 hələ 31
+necə 31
 artıq 31
 da 31
 harada 30
 idim 30
 istəmirəm 30
 Hər 30
-necə 30
 Onu 30
 getmək 30
 dili 29
@@ -116,13 +116,13 @@ baş 22
 ölkədir 22
 Meri 22
 İndi 21
+belə 21
 etmək 21
 Heç 21
 deyildi 21
 başladı 21
 Mary 21
 nədir 20
-belə 20
 bütün 20
 istəyir 20
 Onların 20
@@ -133,6 +133,7 @@ il 19
 olmaq 19
 Bütün 19
 zəng 19
+kitabı 19
 olur 19
 bilmir 19
 çoxlu 19
@@ -145,7 +146,6 @@ Səni 18
 az 18
 getdim 18
 Ona 18
-kitabı 18
 etməyə 18
 qulaq 18
 saat 18
@@ -397,6 +397,7 @@ tennis 7
 adlanır 7
 bilərsiniz 7
 sarı 7
+bilərik 7
 həll 7
 idin 7
 verdim 7
@@ -464,6 +465,7 @@ Avstraliyaya 7
 Sizi 7
 xoşlayırsan 7
 Nyu-Yorkda 7
+uşaqlar 7
 kahı 7
 Tom-un 7
 Saat 6
@@ -476,7 +478,6 @@ altı 6
 səkkiz 6
 çörək 6
 Londonda 6
-bilərik 6
 Həyat 6
 yaşıl 6
 ağır 6
@@ -581,7 +582,6 @@ ana 6
 qorxmuram 6
 işləyirəm 6
 Duz 6
-uşaqlar 6
 ağacı 6
 barədə 6
 Qızımı 6
@@ -1772,6 +1772,7 @@ gümüş 2
 nəhayət 2
 istəmirsiniz 2
 qrupa 2
+oxuya 2
 hürdü 2
 üzür 2
 bina 2
@@ -2362,6 +2363,7 @@ pula 2
 saqqızını 2
 zooparka 2
 yerdən 2
+bilərlər 2
 ağacıdır 2
 əkdim 2
 həyətində 2
@@ -3883,7 +3885,6 @@ tələbədən 1
 oxuyub 1
 çətirlərimiz 1
 eynəksiz 1
-oxuya 1
 çemodanıdır 1
 otağının 1
 tavanını 1
@@ -6322,7 +6323,6 @@ ikili 1
 vətəndaşlığı 1
 tek 1
 sayılardır 1
-bilərlər 1
 sinfimizdə 1
 ağıllıdır 1
 Dəliləşdiyindən 1
@@ -7772,3 +7772,6 @@ fabrikləri 1
 hərşeyşünasdır 1
 Ukraynaya 1
 eşq 1
+Özümüzü 1
+koronavirusdan 1
+qoruya 1

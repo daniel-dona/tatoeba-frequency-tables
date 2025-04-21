@@ -1,6 +1,6 @@
 je 1122
 Ali 235
-se 227
+se 228
 sem 200
 v 200
 in 139
@@ -27,9 +27,9 @@ ki 62
 Jaz 60
 bi 58
 Govorim 53
+Kako 51
+lahko 51
 to 51
-Kako 50
-lahko 50
 me 49
 iz 49
 bo 47
@@ -198,6 +198,7 @@ mu 9
 Nič 9
 vsi 9
 le 9
+pred 9
 rekel 9
 pri 9
 oči 9
@@ -224,7 +225,6 @@ japonsko 8
 Življenje 8
 vprašanje 8
 Dobro 8
-pred 8
 vodo 8
 Živim 8
 učitelj 8
@@ -4749,3 +4749,5 @@ lonca 1
 para 1
 Slava 1
 bitij 1
+zaščitimo 1
+koronavirusom 1

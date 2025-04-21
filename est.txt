@@ -67,9 +67,9 @@ kunagi 50
 minna 48
 me 48
 Mulle 48
+Kuidas 45
 ütles 45
 olnud 44
-Kuidas 44
 tea 44
 isa 43
 tagasi 42
@@ -123,13 +123,13 @@ koos 30
 pealinn 30
 seal 30
 siis 29
+eest 29
 mitte 29
 mul 29
 nagu 29
 arvan 29
 minema 29
 meie 28
-eest 28
 Tere 28
 pärast 28
 nüüd 28
@@ -200,6 +200,7 @@ elan 19
 väsinud 19
 vana 19
 läbi 18
+end 18
 tööd 18
 kiiresti 18
 taga 18
@@ -216,7 +217,6 @@ räägib 18
 meid 17
 päev 17
 sai 17
-end 17
 tuli 17
 tõesti 17
 Kass 17
@@ -999,6 +999,7 @@ armastad 4
 vähe 4
 neist 4
 noorem 4
+kaitsta 4
 Huvitav 4
 tundub 4
 korras 4
@@ -1307,7 +1308,6 @@ ainus 3
 oodanud 3
 puhkes 3
 kakskümmend 3
-kaitsta 3
 jäänud 3
 hammustab 3
 küla 3
@@ -2010,6 +2010,7 @@ jõudsid 2
 kuidagi 2
 suhtes 2
 vaatan 2
+saaksime 2
 oligi 2
 Postkontor 2
 vannita 2
@@ -2242,6 +2243,7 @@ käin 2
 kasvas 2
 vanemaid 2
 peitis 2
+koroonaviiruse 2
 London 2
 Tokyo 2
 Kontorit 2
@@ -4071,7 +4073,6 @@ millega 1
 tegelesid 1
 käituti 1
 ebaõiglaselt 1
-saaksime 1
 Järsku 1
 järeldused 1
 Lülitasin 1
@@ -4925,7 +4926,6 @@ süü 1
 kapis 1
 Uuringus 1
 ilmnes 1
-koroonaviiruse 1
 tüsistus 1
 Tõin 1
 Juhan 1

@@ -1,5 +1,5 @@
 je 1763
-se 642
+se 643
 u 562
 sam 474
 da 423
@@ -16,7 +16,7 @@ za 170
 si 168
 što 168
 nije 165
-od 151
+od 152
 On 149
 To 129
 ti 126
@@ -47,9 +47,9 @@ sve 53
 dobro 52
 bih 51
 ići 51
+Kako 50
 Zašto 50
 Mary 50
-Kako 49
 tako 49
 može 49
 Želim 49
@@ -253,6 +253,7 @@ Neki 15
 svog 15
 Sada 15
 imao 15
+možemo 15
 kavu 15
 ujutro 15
 mnom 15
@@ -275,7 +276,6 @@ nalazi 14
 kojeg 14
 koja 14
 učinio 14
-možemo 14
 Još 14
 stvarno 14
 nekoliko 14
@@ -8469,3 +8469,5 @@ Vidiš 1
 grozno 1
 Slava 1
 Ukrajini 1
+zaštititi 1
+koronavirusa 1

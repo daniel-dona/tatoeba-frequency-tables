@@ -1,5 +1,5 @@
 Tha 281
-a 268
+a 269
 an 264
 mi 176
 e 135
@@ -60,10 +60,10 @@ Fraingis 18
 's 17
 trang 17
 mise 17
+sinn 17
 ach 16
 th' 16
 Cò 16
-sinn 16
 Nach 16
 dà 16
 toil 16
@@ -81,21 +81,21 @@ ort 14
 cho 14
 leabhar 14
 uisge 13
+dhuinn 13
 orm 13
 bi 13
+is 13
 B' 13
 bu 13
 sgìth 13
 an-dràsda 12
-dhuinn 12
+urrainn 12
 Càite 12
 tu 12
 ’S 12
 dè 12
-is 12
 "Am 12
 Bidh 11
-urrainn 11
 aige 11
 nas 11
 feum 11
@@ -195,12 +195,14 @@ a-rithist 6
 fada 6
 ud 6
 nam 6
+Ciamar 6
 cheannaich 6
 àbhaist 6
 chreid 6
 Fhraingis 6
 dùil 6
 leibh 6
+fhèin 6
 aghaidh 6
 ur 6
 a-bhòin-dè" 6
@@ -218,7 +220,6 @@ còmhla 5
 t-uisge 5
 bainne 5
 charaid 5
-Ciamar 5
 gràdh 5
 leann 5
 faod 5
@@ -231,7 +232,6 @@ gabh 5
 Fàilte 5
 mar 5
 chor 5
-fhèin 5
 Thòisich 5
 Thig 5
 ceist 5
@@ -261,6 +261,7 @@ leabhraichean 4
 bhòrd 4
 brèagha 4
 teth 4
+bhon 4
 thairis 4
 falt 4
 naidheachd 4
@@ -326,7 +327,6 @@ innte 3
 Alba 3
 fhathast 3
 t-sruth 3
-bhon 3
 tron 3
 faisg 3
 bhalach 3
@@ -1420,3 +1420,5 @@ theth 1
 tur 1
 Sgrìobhaidh 1
 bith-eòlas 1
+dhìon 1
+choròna-bhìoras 1

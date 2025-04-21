@@ -1,16 +1,16 @@
 la 1776
 de 1735
-a 1599
+a 1600
 que 1529
-el 1359
-és 1200
+el 1360
+és 1201
 no 941
 va 904
 un 901
 No 739
 en 712
-i 623
-una 612
+i 624
+una 613
 per 604
 El 581
 La 518
@@ -23,17 +23,17 @@ ha 392
 En 362
 es 347
 més 345
-del 314
+del 315
 molt 269
 Ell 253
 vaig 251
+com 225
 em 225
-com 224
 meu 215
 fer 208
 Ella 207
 està 205
-És 193
+És 194
 hi 190
 Els 188
 meva 186
@@ -105,8 +105,8 @@ tres 81
 tinc 79
 vida 79
 us 79
+Com 78
 als 78
-Com 77
 sense 77
 sap 76
 gran 76
@@ -118,9 +118,9 @@ parlar 74
 has 73
 dos 72
 massa 71
+ens 71
 Qui 71
 seus 70
-ens 70
 cotxe 70
 sempre 70
 perquè 69
@@ -371,6 +371,7 @@ estudiar 25
 fred 25
 manera 25
 quina 25
+podem 25
 molta 25
 llet 25
 tota 24
@@ -381,7 +382,6 @@ compte 24
 llum 24
 noia 24
 soc 24
-podem 24
 sis 24
 peix 24
 mateixa 24
@@ -395,6 +395,7 @@ tren 23
 classe 23
 menys 23
 llit 23
+durant 23
 sentit 23
 ve 23
 ulls 23
@@ -409,7 +410,6 @@ greu 22
 se'n 22
 diccionari 22
 hauria 22
-durant 22
 metge 22
 Tu 22
 telèfon 22
@@ -754,6 +754,7 @@ nena 11
 esperar 11
 arriba 11
 vostre 11
+mena 11
 seria 11
 malament 11
 novel·la 11
@@ -797,6 +798,7 @@ bella 11
 quelcom 11
 cos 11
 queer 11
+coronavirus 11
 notícia 10
 màquina 10
 causa 10
@@ -827,7 +829,6 @@ fes 10
 ràpidament 10
 platja 10
 flor 10
-mena 10
 espanyol 10
 passada 10
 govern 10
@@ -868,7 +869,6 @@ veiem 10
 Brasil 10
 suport 10
 ales 10
-coronavirus 10
 tuitar 10
 tuit 10
 ridícul 10
@@ -1131,6 +1131,7 @@ l'un 7
 d'aprendre 7
 veia 7
 volar 7
+consisteix 7
 segons 7
 caure 7
 humana 7
@@ -1281,7 +1282,6 @@ Sovint 6
 comú 6
 inventar 6
 punts 6
-consisteix 6
 desert 6
 Volia 6
 fruita 6
@@ -2050,6 +2050,7 @@ assegurar 4
 Rentaràs 4
 Rentareu 4
 L'esperança 4
+sexual 4
 mandra 4
 semblat 4
 marró 4
@@ -2569,6 +2570,7 @@ vé 3
 esperes 3
 trobava 3
 dono 3
+protegir 3
 gallines 3
 Hom 3
 vingué 3
@@ -3259,6 +3261,7 @@ Contra 2
 l'endemà 2
 conquereixen 2
 s'ofereixen 2
+preservatiu 2
 benvingut 2
 divertir 2
 pronuncia 2
@@ -3729,7 +3732,6 @@ intel·ligència 2
 regalat 2
 pura 2
 indi 2
-protegir 2
 torrada 2
 pareix 2
 ungles 2
@@ -3745,6 +3747,7 @@ regne 2
 pedra 2
 escollit 2
 Pensava 2
+considerada 2
 revelar 2
 tenien 2
 profund 2
@@ -4124,7 +4127,6 @@ Martina 2
 preferides 2
 croissants 2
 boníssims 2
-sexual 2
 recordatori 2
 anomenat 2
 mosca 2
@@ -5566,7 +5568,6 @@ s'ofega 1
 demanen 1
 pidolen 1
 confundir 1
-preservatiu 1
 mà— 1
 penis 1
 Vosté 1
@@ -7235,7 +7236,6 @@ objecte 1
 diversió 1
 objectes 1
 arribava 1
-considerada 1
 esborrat 1
 Ambdues 1
 ignorant 1

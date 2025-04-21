@@ -1,21 +1,21 @@
-nie 1247
-is 1046
-het 964
+nie 1249
+is 1049
+het 965
 Ek 951
 die 740
-'n 593
+'n 595
 Tom 439
 jy 432
 my 344
 te 306
 om 288
-Die 279
-van 277
+Die 280
+van 278
 jou 276
-dit 274
+dit 275
 vir 253
 in 248
-ek 224
+ek 225
 was 219
 Hy 209
 sal 194
@@ -30,7 +30,7 @@ wat 140
 sy 137
 met 135
 Sy 134
-moet 124
+moet 125
 en 123
 op 115
 baie 115
@@ -45,13 +45,13 @@ hy 91
 Wat 90
 dat 87
 weet 81
+as 75
 Hulle 74
-as 74
 Hierdie 74
 hulle 73
+werk 73
 Is 73
 aan 72
-werk 72
 kom 71
 toe 69
 na 66
@@ -60,7 +60,7 @@ Het 64
 by 63
 se 62
 maak 61
-word 57
+word 58
 praat 55
 Waar 54
 hier 53
@@ -108,9 +108,9 @@ goed 30
 As 30
 altyd 30
 af 30
+water 30
 of 29
 niks 29
-water 29
 vandag 29
 Moenie 29
 al 29
@@ -148,6 +148,7 @@ goeie 22
 begin 22
 beter 22
 seker 22
+gemaak 22
 kry 22
 kat 21
 seun 21
@@ -157,7 +158,6 @@ koop 21
 groot 21
 melk 21
 regtig 21
-gemaak 21
 pa 20
 dag 20
 gister 20
@@ -192,6 +192,7 @@ volgende 16
 oop 16
 ouers 16
 genoeg 16
+wanneer 16
 tot 16
 Laat 16
 ander 16
@@ -206,7 +207,6 @@ vrou 15
 wêreld 15
 U 15
 weg 15
-wanneer 15
 Niemand 15
 lees 15
 Weet 15
@@ -689,6 +689,7 @@ beskikbaar 4
 s'n 4
 Al 4
 foto 4
+brug 4
 voorbeeld 4
 Watse 4
 geroep 4
@@ -802,6 +803,7 @@ vermy 4
 teenwoordigheid 4
 dame 4
 toestemming 4
+smelt 4
 woud 4
 blare 4
 rond 4
@@ -844,7 +846,6 @@ Sy's 3
 geduur 3
 druk 3
 dorp 3
-brug 3
 ingang 3
 tans 3
 gedurende 3
@@ -886,6 +887,8 @@ geluk 3
 peer 3
 sop 3
 fabriek 3
+ore 3
+harder 3
 Volgens 3
 vergadering 3
 sitplek 3
@@ -1039,7 +1042,6 @@ gelieg 3
 vorentoe 3
 skrywer 3
 beteken 3
-smelt 3
 sag 3
 yskas 3
 sagter 3
@@ -1068,6 +1070,7 @@ Vertel 3
 gehospitaliseer 3
 Sien 3
 samesweringsteorieë 3
+Yster 3
 ag 2
 gewete 2
 meneer 2
@@ -1180,12 +1183,10 @@ huwelik 2
 kaarte 2
 nommer 2
 kamera 2
-ore 2
 ingaan 2
 polisieman 2
 uitgegee 2
 noem 2
-harder 2
 trui 2
 bui 2
 weier 2
@@ -1308,6 +1309,7 @@ aangedring 2
 nuuskierig 2
 geloop 2
 vele 2
+Oor 2
 naweek 2
 kleur 2
 suksesvol 2
@@ -2243,7 +2245,6 @@ ideale 1
 leksikograaf 1
 veranderinge 1
 aangebring 1
-Oor 1
 wasgoed 1
 wis 1
 lening 1
@@ -3623,3 +3624,10 @@ Nazi 1
 pruime 1
 pruim 1
 gekla 1
+Spinnekoppe 1
+metaal 1
+uurtjie 1
+goud 1
+Ys 1
+yster 1
+roes 1

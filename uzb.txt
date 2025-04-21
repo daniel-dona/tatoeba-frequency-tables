@@ -1,12 +1,12 @@
 Men 77
-Bu 70
+Bu 71
 U 66
 Tom 36
 bor 33
 bir 29
 edi 27
+bilan 26
 Mening 25
-bilan 25
 nima 24
 emas 23
 qayerda 23
@@ -15,7 +15,7 @@ bormi 22
 yaxshi 19
 Sen 18
 kerak 18
-ham 17
+ham 18
 Nima 16
 У 15
 mening 15
@@ -30,12 +30,14 @@ deb 12
 bo'lib 12
 Biz 11
 Siz 10
+kitobni 10
 va 10
 эмасман 10
 uni 10
+qanday 10
+Nega 10
 Ertaga 10
 Uning 9
-kitobni 9
 kim 9
 pul 9
 bu 9
@@ -45,8 +47,6 @@ yomon 9
 edim 9
 suv 9
 Bugun 9
-qanday 9
-Nega 9
 ishlayman 9
 бор 8
 бир 8
@@ -77,6 +77,8 @@ odam 6
 faqat 6
 emasmi 6
 soat 6
+mumkin 6
+men 6
 учун 5
 Менинг 5
 yashayman 5
@@ -96,9 +98,7 @@ turadi 5
 olib 5
 o'z 5
 Uni 5
-mumkin 5
 tarjima 5
-men 5
 bunchalik 5
 Ushbu 5
 yo‘q 5
@@ -175,6 +175,7 @@ Qayerga 3
 Mushuk 3
 uyim 3
 gapira 3
+oladi 3
 olmaydi 3
 ingliz 3
 unga 3
@@ -325,7 +326,6 @@ qo'shiq 2
 boshladi 2
 rahmat 2
 Kitoblaringizni 2
-oladi 2
 Chaqaloq 2
 kunda 2
 Ikki 2
@@ -528,6 +528,7 @@ maktabda 2
 yoshligida 2
 kosmonavt 2
 bo‘lishni 2
+qilishimiz 2
 Qaysi 2
 tillarda 2
 bo‘lsa 2
@@ -2343,7 +2344,6 @@ valyuta 1
 ishlatiladi 1
 Muammoni 1
 hal 1
-qilishimiz 1
 Do‘stlarimdan 1
 qarzdor 1
 yoqtirmayman 1
@@ -2489,3 +2489,9 @@ hujjat 1
 imzolanishi 1
 Ukrainaga 1
 shon-sharaf 1
+bolalar 1
+o‘qiy 1
+gaplashmayapsiz 1
+O‘zimizni 1
+koronavirusdan 1
+himoya 1

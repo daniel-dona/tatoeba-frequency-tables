@@ -1,10 +1,10 @@
 Tom 1169
 Men 885
 Ol 499
-bilen 443
+bilen 444
 Sen 319
-Bu 315
-üçin 308
+Bu 316
+üçin 309
 we 286
 bir 221
 näme 219
@@ -32,8 +32,8 @@ Toma 113
 gün 109
 Semi 109
 maňa 108
+meniň 103
 pikir 103
-meniň 102
 edip 102
 hem 98
 gerek 96
@@ -56,7 +56,7 @@ seniň 70
 Sami 70
 haçan 69
 şony 69
-Näme 67
+Näme 68
 boldy 67
 onuň 63
 etdi 61
@@ -65,7 +65,7 @@ meni 60
 etmek 59
 oglan 58
 gördüm 58
-nähili 56
+nähili 57
 Meniñ 56
 Tomy 56
 nirede 52
@@ -239,18 +239,19 @@ oña 19
 Mera 19
 gitjek 18
 bilmeýärin 18
+okap 18
 irden 18
 soňky 18
 ýer 18
 siz 18
 isleýär 18
 ertir 18
+kitaby 18
 olar 18
 iñ 18
 öñ 18
 gitmek 17
 aýdym 17
-okap 17
 owadan 17
 maslahat 17
 buny 17
@@ -259,7 +260,6 @@ etmelidigini 17
 Merini 17
 köplenç 17
 bilenok 17
-kitaby 17
 isledi 17
 Tomuñ 17
 islemeýärin 16
@@ -623,6 +623,7 @@ duşenbe 7
 haýyş 7
 kabul 7
 seredip 7
+bileris 7
 okamak 7
 bolsadym 7
 esasy 7
@@ -718,7 +719,6 @@ Nähili 6
 sizi 6
 tanaýaryn 6
 ederin 6
-bileris 6
 dosty 6
 3 6
 gyzyl 6
@@ -1007,6 +1007,7 @@ boluşy 5
 ýapdy 5
 suwa 5
 entek 5
+bilerler 5
 bilmeris 5
 bolýarlar 5
 başagaý 5
@@ -1262,7 +1263,6 @@ name 4
 mähirli 4
 kamera 4
 hayys 4
-bilerler 4
 otag 4
 hakyna 4
 Hemişe 4

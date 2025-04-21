@@ -1,8 +1,8 @@
 tidak 3329
 Tom 3251
-Aku 3158
+Aku 3159
 yang 3001
-di 2617
+di 2618
 itu 2021
 Dia 1893
 ini 1787
@@ -17,8 +17,8 @@ dan 974
 adalah 948
 ke 947
 untuk 864
-ada 842
-dia 784
+ada 843
+dia 785
 dari 764
 pergi 732
 ingin 704
@@ -26,7 +26,7 @@ Apa 701
 Kamu 677
 sudah 669
 tahu 662
-Apakah 655
+Apakah 656
 Mary 629
 Anda 613
 orang 591
@@ -60,7 +60,7 @@ telah 326
 melihat 319
 Jangan 310
 rumah 306
-mau 302
+mau 303
 Tidak 291
 datang 290
 Itu 289
@@ -71,7 +71,7 @@ Kita 280
 melakukan 278
 sebuah 268
 seperti 267
-masih 265
+masih 266
 saja 264
 menjadi 258
 baik 253
@@ -85,8 +85,8 @@ semua 237
 tidur 232
 hal 223
 waktu 222
+dua 221
 sekali 220
-dua 220
 buku 218
 berbicara 212
 baru 209
@@ -116,8 +116,8 @@ kota 163
 saat 163
 besar 162
 mobil 162
+sakit 162
 anak 162
-sakit 161
 atas 159
 lakukan 158
 membaca 156
@@ -335,12 +335,12 @@ berpikir 59
 padamu 59
 lima 58
 stasiun 58
+wanita 58
 sebentar 58
 mendapatkan 58
 Maaf 58
 terus 57
 guru 57
-wanita 57
 tetap 57
 hingga 57
 secara 57
@@ -362,6 +362,7 @@ Kemarin 54
 kehilangan 54
 terakhir 54
 toko 53
+lantai 53
 nanti 53
 memakan 53
 lihat 53
@@ -372,7 +373,6 @@ melihatnya 53
 pesawat 52
 bagi 52
 ruangan 52
-lantai 52
 ikan 52
 musik 52
 naik 52
@@ -775,6 +775,8 @@ kepadamu 23
 penjara 23
 coba 23
 matematika 23
+jus 23
+jeruk 23
 Pesawat 22
 tanah 22
 hangat 22
@@ -805,8 +807,6 @@ segalanya 22
 pikirkan 22
 kecewa 22
 Tiongkok 22
-jus 22
-jeruk 22
 pulau 21
 lewat 21
 2 21
@@ -5334,6 +5334,7 @@ dikendalikan 2
 Tionghoa 2
 nilainya 2
 Hafalkan 2
+jeruknya 2
 lingkaran 2
 Teori 2
 melampaui 2
@@ -5956,6 +5957,7 @@ makam 2
 Berdoalah 2
 seluas 2
 kosakata 2
+Toilet 2
 Gin 2
 harapkan 2
 Tinggallah 2
@@ -6085,6 +6087,7 @@ Berselancar 2
 tradisional 2
 apartemennya 2
 seruling 2
+Kupas 2
 Nanas 2
 penguasa 2
 atasan 2
@@ -8189,7 +8192,6 @@ resesi 1
 Kasus 1
 suap 1
 Tanaman 1
-jeruknya 1
 embun 1
 permukaannya 1
 imaginasiku 1
@@ -9905,7 +9907,6 @@ Membedakan 1
 Hidungmu 1
 Olah 1
 Kalajengking 1
-Toilet 1
 Ipar 1
 menertawai 1
 berziarah 1
@@ -9997,4 +9998,3 @@ contohnya 1
 Aturannya 1
 omelet 1
 numpang 1
-pake 1
