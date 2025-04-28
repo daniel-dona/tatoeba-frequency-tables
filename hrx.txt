@@ -3,7 +3,7 @@ Ich 342
 Tom 224
 en 217
 hod 183
-net 164
+net 165
 hon 149
 die 140
 de 139
@@ -12,7 +12,7 @@ De 126
 sin 110
 Die 103
 Das 99
-Sie 75
+Sie 77
 Meer 75
 in 74
 waar 65
@@ -52,7 +52,7 @@ deer 30
 mache 30
 was 29
 Wo 29
-Deer 28
+Deer 29
 Host-du 26
 nichs 26
 aarich 26
@@ -91,11 +91,11 @@ Hod-der 18
 odder 17
 Buch 17
 dass 17
+sich 17
 Is 17
 eich 16
 gud 16
 drei 16
-sich 16
 ab 16
 kaafe 16
 wo 16
@@ -178,8 +178,10 @@ geschribb 9
 bleive 9
 doch 9
 Geld 9
+hellfe 9
 brauche 9
 gester 9
+lieve 9
 Hod 9
 nommol 9
 scheen 9
@@ -202,7 +204,6 @@ nemmd 8
 unser 8
 hier 8
 komme 8
-lieve 8
 Hand 8
 kemfe 8
 Abakatte 8
@@ -281,7 +282,6 @@ Vaam-mer 6
 weh 6
 In 6
 nimmand 6
-hellfe 6
 sie 6
 gestorreb 6
 for 6
@@ -322,6 +322,7 @@ wäär 6
 fersughd 6
 hemmgang 6
 Lossd 6
+enanner 6
 Mittwoch 5
 gewaar 5
 is-es 5
@@ -344,6 +345,7 @@ ener 5
 So 5
 hod-der 5
 krieerd 5
+brauchd 5
 glaabd 5
 soll 5
 meim 5
@@ -357,6 +359,7 @@ lerne 5
 denke 5
 besughd 5
 Abaschur 5
+Kennd-der 5
 eerst 5
 dass-ich 5
 wees-ich 5
@@ -380,6 +383,7 @@ Lappis 5
 Bleibd 5
 nerrvees 5
 wo-ich 5
+All 5
 geblibb 5
 kald 5
 's 5
@@ -430,7 +434,6 @@ heesd 4
 beim 4
 sei 4
 Dank 4
-brauchd 4
 draan 4
 Feghel 4
 Dod 4
@@ -449,7 +452,6 @@ Sein 4
 gehob 4
 Ent 4
 Frucht 4
-Kennd-der 4
 beise 4
 Mol 4
 bis 4
@@ -478,7 +480,6 @@ sicher 4
 Jetz 4
 Hunger 4
 Schetzje 4
-All 4
 ferstann 4
 Follich 4
 seine 4
@@ -2095,3 +2096,7 @@ een-un-zwanzich 1
 Kilometer 1
 Polaarradius 1
 mannichmol 1
+Brider 1
+Nochbre 1
+erinnre 1
+aananner 1

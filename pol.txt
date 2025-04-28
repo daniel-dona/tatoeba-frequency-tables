@@ -1,15 +1,15 @@
 się 16747
 nie 14225
-jest 14073
+jest 14076
 w 12560
-Tom 11088
-na 10540
-Nie 9286
+Tom 11090
+na 10542
+Nie 9287
 to 8484
 że 7977
 do 7621
 z 7364
-To 4546
+To 4547
 i 4513
 Czy 4025
 mi 3652
@@ -19,9 +19,9 @@ ma 3092
 co 3007
 On 2919
 za 2808
-jak 2684
+jak 2685
 tego 2525
-po 2483
+po 2484
 Mary 2370
 są 2280
 W 2018
@@ -52,7 +52,7 @@ jego 1192
 mogę 1173
 tu 1142
 będzie 1137
-Ten 1134
+Ten 1135
 zrobić 1125
 czy 1097
 sobie 1095
@@ -60,7 +60,7 @@ cię 1055
 może 1046
 ze 1043
 przez 1042
-Jesteś 1004
+Jesteś 1005
 jestem 992
 by 957
 mu 954
@@ -235,10 +235,10 @@ długo 306
 nocy 306
 kto 305
 swoim 303
+francusku 303
 Był 302
 stało 302
 czego 302
-francusku 302
 razem 302
 Bardzo 301
 problem 301
@@ -248,7 +248,7 @@ Bostonie 299
 swojej 297
 Musimy 297
 cały 295
-moją 291
+moją 292
 bardziej 290
 A 289
 list 289
@@ -259,8 +259,8 @@ wiedzieć 285
 ta 284
 które 283
 Te 282
+ktoś 282
 wcześniej 281
-ktoś 281
 kupić 281
 mieszka 280
 Japonii 279
@@ -393,10 +393,10 @@ minut 195
 byli 195
 pociąg 194
 czasie 193
+film 193
 jedzenia 193
 kiedykolwiek 193
 mieście 192
-film 192
 przyszedł 192
 czym 192
 tyle 191
@@ -487,12 +487,12 @@ pływać 159
 ode 159
 Znam 159
 jechać 158
+dość 158
 10 158
 powinienem 158
 samochodu 157
 twojego 157
 pójść 157
-dość 156
 którą 156
 John 156
 którzy 156
@@ -712,11 +712,11 @@ syna 112
 każdy 112
 Nawet 112
 rodzice 112
+Tomasz 112
 pogoda 111
 głowy 111
 Coś 111
 ostatni 111
-Tomasz 111
 powiedziałeś 110
 kraj 110
 dzieckiem 110
@@ -957,6 +957,7 @@ Szkoda 85
 deszczu 85
 zadowolony 85
 palić 85
+pamiętam 85
 odwiedzić 85
 jaką 85
 Będziemy 85
@@ -964,7 +965,6 @@ Ciebie 85
 znów 84
 Byłeś 84
 problemu 84
-pamiętam 84
 matki 84
 jakie 84
 czasem 84
@@ -1530,6 +1530,7 @@ kościoła 53
 pojechał 53
 białe 53
 oboje 53
+wyglądał 53
 Layla 53
 krwi 52
 Wcale 52
@@ -1553,7 +1554,6 @@ siostrę 52
 nagrodę 52
 przynajmniej 52
 psem 52
-wyglądał 52
 Prawdopodobnie 52
 Tomie 52
 Przyjdź 51
@@ -1916,6 +1916,7 @@ poszli 41
 starsza 41
 Lubi 41
 zaproszenie 41
+żoną 41
 trzymać 41
 ziemię 41
 miła 41
@@ -1975,7 +1976,6 @@ patrzeć 40
 ptaki 40
 studia 40
 spóźnił 40
-żoną 40
 krzesło 40
 tymi 40
 zapomnieć 40
@@ -4895,6 +4895,7 @@ wspólnie 15
 samotna 15
 nauczyłeś 15
 Miejmy 15
+Rosja 15
 mogłam 15
 zasnął 15
 powinnaś 15
@@ -5202,7 +5203,6 @@ kłamią 14
 poduszkę 14
 Pisz 14
 pojęcie 14
-Rosja 14
 zamierzał 14
 Powinniście 14
 Zostałam 14
@@ -7761,6 +7761,7 @@ policjanci 9
 Boisz 9
 użytkowników 9
 Inni 9
+bezdomny 9
 rankiem 9
 Zmieniłem 9
 ugotował 9
@@ -8598,7 +8599,6 @@ wilki 8
 zgłosił 8
 operacji 8
 jutrzejsze 8
-bezdomny 8
 motocykl 8
 piłem 8
 płyta 8

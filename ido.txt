@@ -1,16 +1,16 @@
-esas 3084
+esas 3090
 Me 2430
 la 2300
-ne 1421
-Tom 1160
+ne 1422
+Tom 1163
 La 1075
 me 937
 tu 921
-Ka 796
-es 760
-havas 633
+Ka 797
+es 761
+havas 635
 en 626
-Il 492
+Il 493
 vu 462
 Ni 452
 ke 446
@@ -18,7 +18,7 @@ mea 414
 di 411
 a 410
 esis 398
-e 373
+e 371
 volas 365
 povas 322
 tre 311
@@ -27,20 +27,20 @@ por 284
 il 280
 Mea 277
 El 262
-to 245
+to 246
 plu 240
 kun 232
 savas 216
 de 214
 ni 208
 bona 208
-tua 198
+tua 199
 To 196
 vi 191
 sua 190
+Li 187
 kam 187
 Ilu 186
-Li 186
 quo 185
 prizas 178
 pri 174
@@ -61,13 +61,13 @@ Vu 129
 Elu 128
 granda 123
 Esas 122
-multa 121
+multa 119
 hike 118
 pensas 116
 vua 116
 Quon 114
+kato 111
 lo 110
-kato 110
 Ta 108
 tro 105
 pro 104
@@ -91,7 +91,7 @@ nun 92
 li 92
 lernas 92
 vidis 90
-Ca 89
+Ca 90
 Kad 88
 patro 87
 sempre 87
@@ -134,11 +134,11 @@ mikra 63
 al 62
 dicas 62
 nulo 61
+matro 61
 Voluntez 60
 volis 60
 lu 60
 facar 60
-matro 60
 amiko 58
 darfas 57
 da 57
@@ -154,9 +154,9 @@ nultempe 54
 Deo 54
 amiki 53
 irar 52
+Omna 52
 vidas 52
 ibe 52
-Omna 51
 fratino 51
 tri 51
 Kande 50
@@ -184,11 +184,11 @@ facis 45
 viro 44
 arivis 44
 Ilua 44
+importanta 44
 facas 44
 ilua 44
 drinkas 44
 Sami 44
-importanta 43
 o 43
 kati 42
 komprenas 42
@@ -227,10 +227,10 @@ alta 36
 Tua 36
 yunino 36
 co 36
+desfacila 35
 quan 35
 letro 35
 ante 35
-desfacila 34
 hiere 34
 problemo 34
 rapide 34
@@ -261,6 +261,7 @@ sola 31
 dicar 31
 nek 31
 Ido 31
+Co 31
 venos 30
 laborar 30
 iros 30
@@ -273,7 +274,6 @@ Nia 30
 mortis 30
 perdis 30
 matino 30
-Co 30
 Ziri 30
 agar 29
 komprar 29
@@ -421,7 +421,6 @@ Australia 19
 lente 19
 questionis 19
 heme 19
-mulieri 19
 uzas 19
 danjeroza 19
 familio 19
@@ -434,9 +433,10 @@ studiar 18
 plena 18
 omnu 18
 mustis 18
-Multa 18
 Hodie 18
+mulieri 18
 mentias 18
+ucelo 18
 forta 18
 telefonilo 18
 vartar 18
@@ -456,7 +456,6 @@ rivero 17
 nigra 17
 itere 17
 De 17
-ucelo 17
 Onu 17
 shui 17
 biblioteko 16
@@ -464,6 +463,7 @@ fenestro 16
 famoza 16
 Hike 16
 problemi 16
+Multa 16
 aden 16
 verajo 16
 manjar 16
@@ -538,6 +538,7 @@ E 14
 hari 14
 sub 14
 ridas 14
+fratini 14
 ponto 14
 natas 14
 varma 14
@@ -576,9 +577,9 @@ sequas 13
 Til 13
 audar 13
 filiuli 13
+ridis 13
 sentas 13
 ploras 13
-fratini 13
 oro 13
 dormis 13
 Es 13
@@ -616,7 +617,6 @@ Irez 12
 signifikas 12
 Francia 12
 jupo 12
-ridis 12
 trovos 12
 chanjis 12
 del 12
@@ -635,6 +635,7 @@ certe 12
 strado 12
 India 12
 mortigos 12
+unika 12
 avertar 12
 perfekta 12
 tanta 12
@@ -654,6 +655,7 @@ ovi 11
 sis 11
 arbori 11
 staciono 11
+poemo 11
 multo 11
 donas 11
 flugar 11
@@ -697,7 +699,6 @@ askoltas 11
 demokratio 11
 Kun 11
 forsan 11
-unika 11
 Israel 11
 geyo 11
 Layla 11
@@ -732,7 +733,6 @@ dineo 10
 insulo 10
 kordio 10
 ok 10
-poemo 10
 lavar 10
 oreli 10
 kuko 10
@@ -784,7 +784,6 @@ Olu 10
 Usani 10
 malodoras 10
 Rusia 10
-viri 10
 restar 10
 kerlo 10
 Hebrea 10
@@ -838,6 +837,7 @@ pleas 9
 poke 9
 ico 9
 frukto 9
+vundita 9
 peniso 9
 Ita 9
 Lernar 9
@@ -866,6 +866,7 @@ dansis 9
 quin 9
 vidos 9
 princino 9
+viri 9
 Liberigez 9
 gratitudoza 9
 dansas 9
@@ -882,7 +883,6 @@ frato 8
 Sioro 8
 kuras 8
 laboris 8
-saja 8
 vespere 8
 moderna 8
 sat 8
@@ -924,7 +924,6 @@ Brazilia 8
 probar 8
 vakanco 8
 antee 8
-vundita 8
 yunulo 8
 ciel-arko 8
 rizo 8
@@ -1131,6 +1130,7 @@ Hastez 6
 revuo 6
 sioro 6
 luno 6
+saja 6
 konkordas 6
 botelo 6
 anjelo 6
@@ -1811,6 +1811,7 @@ militarala 4
 kulpo 4
 genuo 4
 Aquon 4
+Ukraina 4
 naiva 4
 kliento 4
 jemelo 4
@@ -1822,6 +1823,7 @@ bordo 4
 acendis 4
 prizentis 4
 liberala 4
+jino 4
 giganto 4
 martelo 3
 semane 3
@@ -1916,6 +1918,7 @@ sincera 3
 l'afero 3
 imajo 3
 jornesko 3
+Futuez 3
 disipar 3
 adextere 3
 quala 3
@@ -2410,7 +2413,6 @@ dento 3
 Brosar 3
 kario 3
 habitos 3
-Ukraina 3
 medikamenti 3
 nekredeble 3
 embracis 3
@@ -2451,7 +2453,6 @@ esforco 3
 Jupitero 3
 tamburo 3
 reprezentas 3
-jino 3
 vermuto 3
 Juez 3
 l'Arabiana 3
@@ -2586,7 +2587,6 @@ banani 2
 datumi 2
 ne" 2
 kuki 2
-Futuez 2
 dejunar 2
 vidindaji 2
 retroirez 2
@@ -3153,6 +3153,7 @@ me" 2
 men 2
 sendormar 2
 ilun 2
+gaye 2
 graveso 2
 fakto 2
 filozofiala 2
@@ -5865,7 +5866,6 @@ nordo 1
 Arjentinia 1
 tradukinda 1
 ocidez 1
-gaye 1
 Kolonelo 1
 armeano 1
 (precipue 1
@@ -8179,8 +8179,6 @@ paroko 1
 biskuito 1
 bakas 1
 biskuiti 1
-sajuli 1
-sajini 1
 lamentis 1
 Zinko 1
 logis 1
@@ -8767,3 +8765,5 @@ opalo 1
 konservajo 1
 buxeto 1
 bidono 1
+Krimea 1
+negro 1

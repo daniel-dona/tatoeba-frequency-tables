@@ -1,6 +1,6 @@
 je 1122
 Ali 235
-se 228
+se 229
 sem 200
 v 200
 in 139
@@ -9,7 +9,7 @@ ne 127
 so 124
 da 121
 na 111
-Ne 91
+Ne 92
 mesto 91
 govorite 90
 si 88
@@ -84,9 +84,9 @@ ste 20
 od 20
 prosim 20
 Kdor 20
+Imam 20
 stane 20
 Ime 20
-Imam 19
 oče 18
 jo 18
 Nisem 18
@@ -198,6 +198,7 @@ mu 9
 Nič 9
 vsi 9
 le 9
+vprašanje 9
 pred 9
 rekel 9
 pri 9
@@ -223,7 +224,6 @@ vreme 8
 mojega 8
 japonsko 8
 Življenje 8
-vprašanje 8
 Dobro 8
 vodo 8
 Živim 8
@@ -4751,3 +4751,4 @@ Slava 1
 bitij 1
 zaščitimo 1
 koronavirusom 1
+spomnim 1

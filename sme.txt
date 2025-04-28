@@ -1,9 +1,9 @@
 Mun 34
-lea 26
-don 22
+lea 27
+don 23
 leat 16
 du 14
-Don 12
+Don 13
 Son 12
 lean 11
 Toma 11
@@ -27,6 +27,7 @@ Gii 4
 son 4
 gáfe 4
 eret 4
+dáppe 4
 lanja 4
 Leago 4
 Čále 4
@@ -44,7 +45,6 @@ ipmir 3
 máhte 3
 Mon 3
 Leatgo 3
-dáppe 3
 riŋgii 3
 jávkkai 3
 čájehan 3
@@ -86,6 +86,7 @@ veahki 2
 Mana 2
 oaidnit 2
 milkkiin 2
+Manne 2
 lei 2
 Sii 2
 jávkkaimet 2
@@ -96,6 +97,8 @@ birra 2
 čuođi 2
 Dat 2
 cealkka 2
+Dát 2
+fertet 2
 diehtit 2
 Galggan 2
 Ale 2
@@ -246,7 +249,6 @@ siđan 1
 poliisii 1
 politiijii 1
 buletiijai 1
-Manne 1
 gielistan 1
 jámii 1
 doppe 1
@@ -284,8 +286,6 @@ Galggango 1
 máhtán 1
 lohkat 1
 rádjái 1
-Dát 1
-fertet 1
 čorget 1
 juohke 1
 beaivvi 1
@@ -381,3 +381,12 @@ turisttaiguin 1
 bearaš 1
 fárrii 1
 Bådåddjui 1
+gullá 1
+Tomii 1
+Du 1
+ustit 1
+vástidit 1
+dáid 1
+gažaldagaide 1
+vuorddát 1
+olgun 1

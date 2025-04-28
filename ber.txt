@@ -1,16 +1,16 @@
 ad 186895
 n 154165
 d 114858
-ara 92877
+ara 92876
 ay 71472
 i 65482
 deg 59724
 Ur 54291
-ur 49391
+ur 49390
 Tom 42489
 asegzawal 39624
 ɣer 34217
-ɣef 33673
+ɣef 33674
 s 28673
 Ad 27917
 D 18745
@@ -181,7 +181,7 @@ Yamina 1890
 Faḍma 1879
 Fayza 1877
 Kaysa 1871
-maca 1867
+maca 1866
 Myasa 1863
 Tzemremt 1861
 Mekyusa 1860
@@ -200,7 +200,7 @@ Leqbayel 1815
 Dehbeyya 1814
 Llant 1792
 Xira 1792
-zmireɣ 1785
+zmireɣ 1784
 takeṛṛust 1770
 Anwa 1769
 tla 1769
@@ -1101,11 +1101,11 @@ tamsadurt 318
 Uɣen-d 318
 ɣreɣ 317
 Tesrid 317
+uɣrum 317
 asensu 316
 wenẓar 316
 Imsujji 316
 Tunes 316
-uɣrum 316
 Uɣent-d 316
 Ssuref-iyi 315
 aserwal 315
@@ -3514,7 +3514,6 @@ bac 110
 tettum 110
 yerra-d 110
 as-tinid 110
-Xseɣ 110
 umahil-a 110
 amaglay 110
 Ili-k 110
@@ -3540,6 +3539,7 @@ Deffir 109
 Asakal-nni 109
 Yurem 109
 zeddiɣ 109
+Xseɣ 109
 ssawlen 109
 Ttmahalen 109
 Yewwi-d 109
