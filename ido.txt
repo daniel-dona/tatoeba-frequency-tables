@@ -1037,6 +1037,7 @@ Ania 7
 bon 7
 Piotr 7
 Lech 7
+dek-e-du 7
 stacas 7
 montris 7
 horlojo 7
@@ -1179,7 +1180,6 @@ edifico 6
 dormeskis 6
 profunda 6
 blonda 6
-dek-e-du 6
 mariajis 6
 Felicja 6
 fakte 6
@@ -1529,6 +1529,7 @@ printempo 4
 leciono 4
 tranchas 4
 serchanta 4
+dek-e-quar 4
 komencez 4
 radio 4
 oportas 4
@@ -1841,7 +1842,6 @@ charmanta 3
 Brown 3
 Bill 3
 exkuzis 3
-dek-e-quar 3
 exter 3
 l'oficeyo 3
 Portez 3
@@ -1957,6 +1957,7 @@ okupas 3
 joyas 3
 havos 3
 Kate 3
+dek-e-tri 3
 mariajos 3
 Łazarz 3
 ca-instante 3
@@ -2378,6 +2379,7 @@ shako 3
 cigni 3
 Basa 3
 Marie 3
+duadek 3
 shuo 3
 parfumo 3
 Germani 3
@@ -2474,6 +2476,7 @@ membrin 2
 kruo 2
 harde 2
 jorne 2
+dek-e-un 2
 dejunetis 2
 dicanta 2
 askoltar 2
@@ -2628,6 +2631,7 @@ sun-levo 2
 Haltez 2
 Iran 2
 expozez 2
+dek-e-kin 2
 l'enireyo 2
 apertas 2
 politikisti 2
@@ -2642,7 +2646,6 @@ hezitis 2
 kunveno 2
 finigis 2
 Polonia 2
-dek-e-tri 2
 ne-frizanta 2
 belulo 2
 voyajis 2
@@ -3332,6 +3335,7 @@ socio 2
 oldeskas 2
 hundulo 2
 labora 2
+Dek 2
 koloroza 2
 fureto 2
 furtero" 2
@@ -3538,7 +3542,6 @@ klitorido 2
 kuzuli 2
 nepotulo 2
 An 2
-duadek 2
 arestesis 2
 Plombo 2
 para-pluvo 2
@@ -3616,6 +3619,7 @@ Dankego 2
 Sahara 2
 vasta 2
 nervi 2
+dek-e-ok 2
 celebras 2
 fromajon 2
 kolizionis 2
@@ -3826,7 +3830,6 @@ separas 1
 Guangdong 1
 Guangxi 1
 hungris 1
-dek-e-un 1
 balnita 1
 expresas 1
 nihiligis 1
@@ -4172,7 +4175,6 @@ Querigez 1
 inventero 1
 Haiti 1
 ped-voyo 1
-dek-e-kin 1
 obediar 1
 netolereble 1
 matida 1
@@ -6578,7 +6580,6 @@ L'universo 1
 trauris 1
 Kriegar 1
 Bonvenez 1
-Dek 1
 sunolumo 1
 "Vua 1
 "Tua 1
@@ -7587,7 +7588,6 @@ hund-yuno 1
 Ventego 1
 fasko 1
 divisoro 1
-dek-e-ok 1
 Koloniigisti 1
 enmigranti 1
 cirko 1
@@ -8767,3 +8767,6 @@ buxeto 1
 bidono 1
 Krimea 1
 negro 1
+dek-e-sis 1
+dek-e-sep 1
+dek-e-non 1

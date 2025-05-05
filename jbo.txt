@@ -1,9 +1,9 @@
 lo 12929
-mi 6284
+mi 6285
 cu 3546
 do 3381
-la 3057
-pu 2330
+la 3061
+pu 2334
 le 2311
 nu 2140
 se 1941
@@ -13,7 +13,7 @@ be 1355
 ko'a 1299
 ma 1238
 ka 1224
-ko 1131
+ko 1132
 ca 996
 tom 952
 xu 925
@@ -21,7 +21,7 @@ ra 823
 da 819
 fi 742
 klama 670
-ti 641
+ti 642
 poi 605
 ba 590
 du'u 578
@@ -46,13 +46,13 @@ me 303
 bu'u 298
 pinxe 296
 tavla 293
-mi'a 285
+mi'a 286
 ta 284
 no 279
+tam 273
 e'o 270
 pa 270
 e 269
-tam 269
 viska 268
 zdani 267
 jai 266
@@ -65,8 +65,8 @@ ka'e 244
 cukta 244
 fa 242
 za'u 242
+mi'o 232
 ri 232
-mi'o 231
 ei 231
 prami 226
 bangu 224
@@ -154,9 +154,9 @@ cilre 103
 drata 102
 zo 102
 joi 101
+ma'a 101
 gau 101
 co'u 101
-ma'a 100
 cadzu 100
 kansa 100
 ciska 99
@@ -945,6 +945,7 @@ ri'oi 13
 liste 12
 cribe 12
 fusra 12
+jbixa'u 12
 mrilu 12
 satci 12
 o'i 12
@@ -960,6 +961,7 @@ selkei 12
 clite 12
 my 12
 kalri 12
+smadi 12
 fi'i 12
 stagi 12
 pare 12
@@ -1015,7 +1017,6 @@ mulgau 11
 se'ixru 11
 budjo 11
 plana 11
-smadi 11
 pezli 11
 si'a 11
 xazdo 11
@@ -1186,7 +1187,6 @@ rindo 9
 vi'etnama 9
 lios 9
 ratcu 8
-jbixa'u 8
 dejni 8
 selpla 8
 maik 8
@@ -6962,3 +6962,4 @@ iubas 1
 skuxai 1
 mivmu'e 1
 torsipna 1
+tcaika 1

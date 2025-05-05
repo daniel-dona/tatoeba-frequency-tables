@@ -2,7 +2,7 @@ ya 1292
 na 1069
 wa 753
 kwa 695
-ni 622
+ni 624
 katika 241
 kwenye 227
 kuwa 214
@@ -20,8 +20,8 @@ Ni 110
 moja 107
 lakini 107
 yako 104
-kila 101
-kwamba 100
+kila 102
+kwamba 101
 hii 100
 zaidi 99
 hiyo 93
@@ -73,6 +73,7 @@ nchi 44
 muda 44
 karibu 44
 njia 43
+mara 43
 vya 43
 kupata 42
 kweli 42
@@ -80,7 +81,6 @@ Yeye 42
 nyumba 42
 huu 42
 huyo 42
-mara 41
 mahali 41
 kabisa 41
 ikiwa 41
@@ -98,9 +98,10 @@ Hakuna 37
 sehemu 37
 leo 36
 kidogo 36
+zote 36
 unaweza 36
 Wakati 36
-zote 35
+Mungu 35
 lazima 35
 bila 35
 sawa 34
@@ -108,7 +109,6 @@ yote 34
 wewe 34
 mmoja 34
 si 33
-Mungu 33
 wengi 33
 baada 33
 gani 32
@@ -132,6 +132,7 @@ nani 28
 nyumbani 28
 wao 28
 hapo 28
+vizuri 28
 Japan 28
 nje 28
 tano 28
@@ -141,7 +142,6 @@ mpya 27
 maji 27
 lake 27
 mtoto 27
-vizuri 27
 wetu 27
 mfalme 27
 aina 27
@@ -331,6 +331,8 @@ tisa 14
 utani 14
 msichana 14
 elfu 14
+Baba 14
+alisema 14
 iliyopita 14
 kuanza 14
 hufanya 14
@@ -369,8 +371,6 @@ mashua 13
 kampuni 13
 kura 13
 dola 13
-Baba 13
-alisema 13
 Mfalme 13
 ardhi 13
 polisi 13
@@ -514,6 +514,7 @@ hamsini 10
 kile 10
 Wamarekani 10
 kigeni 10
+Bado 10
 labda 10
 kadi 10
 maelezo 10
@@ -574,7 +575,6 @@ Inaonekana 9
 ladha 9
 dharura 9
 uko 9
-Bado 9
 huku 9
 kimya 9
 jukumu 9
@@ -682,6 +682,7 @@ pale 7
 hana 7
 Hamisi 7
 Jambo 7
+Tom 7
 kitendo 7
 deni 7
 Ninatoka 7
@@ -784,7 +785,6 @@ majani 6
 huwezi 6
 "Kwa 6
 maziwa 6
-Tom 6
 mdomo 6
 hasira 6
 benki 6
@@ -925,6 +925,7 @@ funguo 5
 Hujambo 5
 Anatoka 5
 mwimbaji 5
+Naenda 5
 jikoni 5
 pombe 5
 mwanafunzi 5
@@ -1071,6 +1072,7 @@ kondoo 5
 nina 5
 miti 5
 kisu 5
+mwaminifu 5
 kulingana 5
 kusaidia 5
 utu 5
@@ -1123,7 +1125,6 @@ saini 4
 jeraha 4
 jirani 4
 California 4
-Naenda 4
 uji 4
 Ulikuwa 4
 Mke 4
@@ -1363,7 +1364,6 @@ kisiasa 4
 yanaweza 4
 mifupa 4
 kuongeza 4
-mwaminifu 4
 Uhuru 4
 Mabibi 4
 suti 4
@@ -2711,6 +2711,7 @@ ustadi 2
 Nilipokuwa 2
 nikagundua 2
 niliiba 2
+kuomba 2
 utukufu 2
 House 2
 sijui 2
@@ -3101,6 +3102,7 @@ kuamulia 2
 Misiri 2
 wasio 2
 Israeli 2
+mwema 2
 wamejaliwa 1
 yapasa 1
 watendeane 1
@@ -5525,7 +5527,6 @@ Sam 1
 nikisali 1
 nipate 1
 hafanyi 1
-kuomba 1
 Onyo 1
 Kijana 1
 kumwaga 1
@@ -9284,6 +9285,7 @@ tupatie 1
 subira 1
 mkristo 1
 Unaenda 1
-mwema 1
 kiu 1
 unapatikana 1
+simfahamu 1
+hatakula 1

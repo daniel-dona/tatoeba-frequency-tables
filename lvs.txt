@@ -8,22 +8,22 @@ un 593
 Vai 572
 Viņš 561
 es 558
-bija 503
-par 465
+bija 504
+par 466
 ar 461
 tu 444
 Tas 434
 man 422
 no 408
 nav 408
-tas 382
+tas 383
 kā 364
-ko 346
-uz 320
+ko 347
+uz 321
 ļoti 317
 esmu 287
 mani 262
-Viņa 257
+Viņa 258
 kas 247
 tik 240
 Tu 237
@@ -44,9 +44,9 @@ viņš 160
 var 159
 patīk 154
 viņu 154
-kaut 147
+kaut 148
+Tomam 147
 pārāk 146
-Tomam 146
 Tā 129
 Kā 127
 Viņi 126
@@ -55,7 +55,7 @@ tevi 120
 tikai 120
 Marija 119
 darīt 118
-šo 111
+šo 112
 jums 110
 nevaru 107
 viņam 104
@@ -166,6 +166,7 @@ iet 42
 laikā 42
 laiks 42
 savas 42
+Toma 42
 savā 41
 mājās 41
 lūdzu 41
@@ -173,7 +174,6 @@ tagad 41
 joprojām 41
 tās 41
 grūti 40
-Toma 40
 jādara 40
 šī 39
 Mani 39
@@ -275,6 +275,7 @@ citiem 25
 tādu 25
 nebiju 25
 Paldies 24
+suns 24
 labu 24
 zināt 24
 zina 24
@@ -293,7 +294,6 @@ apnicis 23
 Ziri 23
 zemē 23
 Uz 22
-suns 22
 tēvs 22
 sauc 22
 dienas 22
@@ -392,6 +392,7 @@ Kurš 17
 Nekas 17
 dzimšanas 17
 acis 17
+vakar 17
 ūdens 17
 izdevās 17
 teikt 17
@@ -417,7 +418,6 @@ agrāk 17
 Esi 17
 gadu 16
 liela 16
-vakar 16
 mājas 16
 nevajag 16
 iespēja 16
@@ -437,6 +437,7 @@ vajadzīgs 16
 pietiekami 16
 sāk 16
 vērts 16
+pati 16
 Tam 16
 pateicīgs 16
 muļķis 16
@@ -466,7 +467,6 @@ nezināju 15
 mežā 15
 sāku 15
 dodu 15
-pati 15
 patiesībā 15
 tiem 15
 starp 15
@@ -520,6 +520,7 @@ pilnībā 13
 nepatika 13
 alkohola 13
 pašu 13
+mazāk 13
 dod 13
 Šajā 13
 nedomāju 13
@@ -574,7 +575,6 @@ savām 12
 garlaicīgi 12
 neesi 12
 Nē 12
-mazāk 12
 Tās 12
 Alkohols 12
 grāmatas 12
@@ -676,6 +676,7 @@ kurienes 10
 maksā 10
 alu 10
 Atvainojiet 10
+Vakar 10
 rīt 10
 nauda 10
 Vēl 10
@@ -771,7 +772,7 @@ iepazīties 9
 drīz 9
 Bija 9
 kādam 9
-Vakar 9
+nomira 9
 automašīnu 9
 vārdus 9
 kopš 9
@@ -864,7 +865,6 @@ bīstami 8
 uzticēties 8
 mierā 8
 runājat 8
-nomira 8
 vārdi 8
 Bērni 8
 dzīvnieki 8
@@ -1058,6 +1058,8 @@ līdzi 7
 vectēvs 7
 numuru 7
 kautrīgs 7
+aizgāja 7
+Bostonu 7
 gribētos 7
 dabas 7
 domāt 7
@@ -1221,9 +1223,7 @@ tīšām 6
 nedēļā 6
 pilna 6
 spējām 6
-aizgāja 6
 pamanīja 6
-Bostonu 6
 aizdomas 6
 teikumus 6
 būsim 6
@@ -1485,6 +1485,7 @@ ilgāk 5
 – 5
 vaļā 5
 nāve 5
+mūžībā 5
 drošības 5
 Alžīrijā 5
 prātīgi 5
@@ -1520,6 +1521,7 @@ gadi 5
 ballīti 5
 ietekmē 5
 atļauties 5
+jādodas 5
 spēs 5
 tādā 5
 traku 5
@@ -1878,7 +1880,6 @@ Mennads 4
 absolūti 4
 teicis 4
 "Tas 4
-mūžībā 4
 godu 4
 izglāba 4
 berberu 4
@@ -1900,6 +1901,7 @@ Vismaz 4
 tēmu 4
 ļauts 4
 nedomā 4
+uzbūvēja 4
 holandiešu 4
 labprāt 4
 iegūtu 4
@@ -1930,7 +1932,6 @@ lepojas 4
 iestājās 4
 izlemt 4
 turieni 4
-jādodas 4
 pārtraukums 4
 nogalē 4
 visticamāk 4
@@ -2564,7 +2565,6 @@ ietilpst 3
 Izvēlieties 3
 bankas 3
 ardievas 3
-uzbūvēja 3
 alā 3
 atšķirīga 3
 Vēlāk 3
@@ -2737,6 +2737,7 @@ līdzīgu 3
 patiess 3
 garīgais 3
 uguns 3
+nekļūst 3
 Elfi 3
 saikne 3
 elfi 3
@@ -2863,6 +2864,7 @@ vēro 3
 mācāmies 3
 darot 3
 vecmodīgs 3
+suņu 3
 bīstama 3
 kurli 3
 Ļoti 3
@@ -4094,7 +4096,6 @@ ticības 2
 Don 2
 uguni 2
 lūdz 2
-nekļūst 2
 stipra 2
 elfiem 2
 kompāniju 2
@@ -4352,7 +4353,6 @@ noveda 2
 pusei 2
 apsēja 2
 miežiem 2
-suņu 2
 suņiem 2
 burvis 2
 Abi 2

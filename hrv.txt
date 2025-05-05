@@ -1,12 +1,12 @@
-je 1765
+je 1766
 se 647
 u 562
 sam 474
 da 423
-li 402
+li 403
 na 338
 ne 288
-Tom 284
+Tom 285
 i 245
 su 225
 mi 216
@@ -445,6 +445,7 @@ kiša 9
 cijeli 9
 daleko 9
 ikad 9
+Ljudi 9
 vlak 9
 sina 9
 mog 9
@@ -497,7 +498,6 @@ veoma 8
 pod 8
 pa 8
 Hoću 8
-Ljudi 8
 osim 8
 živjeti 8
 otići 8
@@ -1700,6 +1700,7 @@ koristiti 3
 Nemoguće 3
 preporučiti 3
 pčele 3
+žele 3
 iznad 3
 šešir 3
 sviđam 3
@@ -2536,6 +2537,7 @@ Svakog 2
 pogledu 2
 dosadno 2
 dolaziš 2
+mir 2
 rijeke 2
 razlika 2
 značajna 2
@@ -2576,6 +2578,7 @@ večer 2
 prvom 2
 Posao 2
 poći 2
+korisni 2
 jugoistočnom 2
 hrvatskom 2
 Prijestolnica 2
@@ -2703,7 +2706,6 @@ igri 2
 pobjedio 2
 zahod 2
 znala 2
-žele 2
 biologiju 2
 članak 2
 izgorjela 2
@@ -5704,7 +5706,6 @@ Katilina 1
 zlorabiti 1
 strpljivost 1
 pati 1
-mir 1
 svrati 1
 Uzmite 1
 gospodo 1
@@ -5948,7 +5949,6 @@ ograničeno 1
 španjolskoga 1
 Grčki 1
 latinski 1
-korisni 1
 prijestolnica 1
 Republike 1
 "Hrvatska" 1
@@ -8481,3 +8481,6 @@ odgovoriti 1
 Bacio 1
 loptu 1
 čekaš 1
+idiot 1
+Laju 1
+vukovi 1

@@ -1,9 +1,9 @@
-es 3381
-Yo 2511
+es 3383
+Yo 2512
 un 1972
 li 1774
 Tom 1612
-ne 1492
+ne 1493
 Li 838
 in 815
 tu 799
@@ -11,15 +11,15 @@ have 761
 Esque 756
 Il 706
 ha 657
-esset 628
+esset 629
 que 586
 de 580
 Ella 505
 to 502
 quo 459
-va 451
+va 452
 me 439
-Noi 436
+Noi 437
 save 431
 it 429
 vole 414
@@ -33,8 +33,8 @@ tre 303
 a 301
 tui 291
 te 289
+bon 287
 ama 286
-bon 286
 posse 286
 su 283
 por 257
@@ -46,7 +46,7 @@ il 232
 quam 232
 deve 229
 far 222
-Mi 218
+Mi 220
 Ili 211
 del 204
 vu 201
@@ -64,7 +64,7 @@ Ti 140
 U 134
 pro 131
 bell 127
-esser 125
+esser 126
 savet 123
 fat 122
 le 120
@@ -110,9 +110,9 @@ manja 73
 Nequí 72
 conosse 70
 Sami 70
+solmen 69
 odia 69
 infantes 68
-solmen 68
 cat 67
 vell 66
 sur 64
@@ -402,6 +402,7 @@ scrir 18
 six 18
 leer 18
 Fórsan 18
+response 18
 spegul 18
 quar 18
 hodíe 18
@@ -421,7 +422,6 @@ audir 17
 poc 17
 visitat 17
 loc 17
-response 17
 vendit 17
 sole 17
 tache 17
@@ -537,6 +537,7 @@ papilion 13
 francés 13
 punctu 13
 States 12
+curt 12
 nud 12
 biblioteca 12
 Roma 12
@@ -545,6 +546,7 @@ durant 12
 escutat 12
 proxim 12
 time 12
+compra 12
 odiat 12
 medico 12
 restar 12
@@ -571,7 +573,6 @@ invitat 12
 ape 12
 orange 12
 ride 11
-curt 11
 princessa 11
 manca 11
 sestras 11
@@ -590,7 +591,6 @@ besat 11
 pigri 11
 dracon 11
 nive 11
-compra 11
 Interlingue 11
 sub 11
 restat 11
@@ -873,6 +873,7 @@ continua 7
 monte 7
 stat 7
 Hispania 7
+ebri 7
 trincage 7
 seriosi 7
 payat 7
@@ -979,7 +980,6 @@ errore 6
 lago 6
 habitat 6
 triant 6
-ebri 6
 Republica 6
 adversarios 6
 Kosovo 6
@@ -1076,6 +1076,7 @@ curret 5
 jovedí 5
 transformat 5
 octobre 5
+decidu 5
 bocca 5
 tegment 5
 comun 5
@@ -1247,7 +1248,6 @@ muséo 4
 saturdí 4
 fore 4
 junio 4
-decidu 4
 Aperte 4
 súper 4
 cusino 4
@@ -1353,6 +1353,7 @@ scope 4
 rose 4
 prison 4
 audi 4
+duant 4
 picat 4
 Taiwan 4
 chinesi 4
@@ -1369,6 +1370,7 @@ Senior 4
 solue 4
 pause 4
 dracones 4
+deciun 4
 simie 4
 novas 4
 Ules 4
@@ -1517,6 +1519,7 @@ serchar 3
 pesa 3
 intention 3
 confidet 3
+sentimentes 3
 politico 3
 modest 3
 plantat 3
@@ -1650,7 +1653,6 @@ fungos 3
 experientie 3
 Sercha 3
 portu 3
-duant 3
 region 3
 producte 3
 Apes 3
@@ -1673,7 +1675,6 @@ artist 3
 regarda 3
 surtit 3
 trans 3
-deciun 3
 triesim 3
 egoistic 3
 mettet 3
@@ -1698,6 +1699,7 @@ Trump 3
 Lor 3
 Cambodja 3
 Africa 3
+deciquar 3
 platil 3
 tricota 3
 Quelcvez 3
@@ -1791,6 +1793,7 @@ pisca 3
 Duesim 3
 clarmen 3
 30 3
+Deci 3
 Molly 3
 judéos 3
 mais 3
@@ -1988,7 +1991,6 @@ crayones 2
 duchar 2
 finalmen 2
 flicca 2
-sentimentes 2
 fox 2
 revar 2
 ho-véspere 2
@@ -2297,7 +2299,6 @@ dama 2
 frenat 2
 deci-un 2
 bires 2
-deciquar 2
 chapeles 2
 Cornwall 2
 labirinte 2
@@ -2379,6 +2380,7 @@ vers 2
 May 2
 sorte 2
 Vos 2
+mixtet 2
 qualitá 2
 eveniment 2
 tempore 2
@@ -2553,7 +2555,6 @@ roncat 2
 metodes 2
 avatar 2
 cage 2
-Deci 2
 scale 2
 col 2
 sclava 2
@@ -2687,6 +2688,9 @@ ve 2
 resister 2
 dolorosi 2
 "Muiriel" 2
+decisix 2
+deciott 2
+decinin 2
 garage 2
 errari 2
 plicar 2
@@ -4113,7 +4117,6 @@ Proque 1
 profita 1
 ocasion 1
 revúe 1
-mixtet 1
 contenete 1
 informar 1
 interesses 1
@@ -5492,11 +5495,8 @@ decepte 1
 pluparte 1
 atendat 1
 19 1
-decisix 1
-deciott 1
 18 1
 24 1
-decinin 1
 28 1
 80 1
 14 1
@@ -5845,3 +5845,9 @@ arab 1
 Spree 1
 Tobias 1
 cesser 1
+decitri 1
+deciquin 1
+decisett 1
+lli 1
+farmeros 1
+productes 1

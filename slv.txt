@@ -306,6 +306,7 @@ a 6
 ničesar 6
 Ima 6
 Me 6
+Ljudje 6
 miru 6
 tu 6
 piha 6
@@ -382,7 +383,6 @@ zame 5
 reči 5
 vedeti 5
 svoboda 5
-Ljudje 5
 delajo 5
 točno 5
 kje 5
@@ -681,6 +681,7 @@ Nasvidenje 3
 imela 3
 Zemlja 3
 Vojna 3
+mir 3
 Svoboda 3
 trenutno 3
 Svojemu 3
@@ -978,7 +979,6 @@ okcitanščina 2
 oni 2
 dobri 2
 meč 2
-mir 2
 nebotičnik 2
 Francija 2
 Evropi 2
@@ -4752,3 +4752,4 @@ bitij 1
 zaščitimo 1
 koronavirusom 1
 spomnim 1
+hočejo 1

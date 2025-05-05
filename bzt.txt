@@ -1,6 +1,6 @@
 es 163
 Eo 105
-yn 76
+yn 77
 rhen 69
 di 58
 Tomos 58
@@ -77,6 +77,7 @@ ffeirth 5
 ys 5
 grêdd 5
 gwirdd 5
+e 5
 Negyn 5
 ddewindad 5
 sew 5
@@ -111,6 +112,7 @@ fengib 4
 h-enifal 4
 Pab 4
 fi 4
+cathr 3
 rhys 3
 ddun 3
 ti 3
@@ -168,9 +170,10 @@ negyn 3
 parol 3
 sera 3
 few 3
+ghindig 3
 fryd 2
+dew 2
 trui 2
-cathr 2
 lle 2
 gwenir 2
 eidd 2
@@ -203,7 +206,6 @@ fasterig 2
 basterig 2
 pharlant 2
 Basterig 2
-e 2
 'armenar 2
 h-ôn 2
 segyr 2
@@ -275,7 +277,6 @@ yst-sa 2
 fas 2
 gomprênef 2
 mab 1
-dew 1
 cinc 1
 sei 1
 seth 1
@@ -714,3 +715,11 @@ gwigin 1
 gwer 1
 keistafan 1
 fefeiradur 1
+Deg 1
+yndig 1
+dewddig 1
+truiddig 1
+cathorddig 1
+kindig 1
+dewnoe 1
+gweint 1

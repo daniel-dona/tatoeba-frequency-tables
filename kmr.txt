@@ -1,22 +1,22 @@
-Ez 1219
-e 1043
-xwe 1036
+Ez 1220
+e 1049
+xwe 1038
+min 1007
 ji 1006
-min 1006
 bi 939
-li 838
-Ew 818
-ê 743
+li 845
+Ew 819
+ê 744
 û 665
-ye 645
-ku 632
-Tom 549
+ye 646
+ku 633
+Tom 550
 Em 547
 me 526
 Tu 524
 te 502
 de 470
-ne 408
+ne 410
 re 391
 Min 362
 Hûn 306
@@ -27,21 +27,21 @@ wê 264
 Ji 257
 em 250
 wî 244
+jî 244
 ez 244
-jî 243
 tu 237
 Ev 232
 bû 220
 dike 196
-ew 192
-ber 192
+ber 194
+ew 193
 bo 189
 heye 186
+Te 186
 vê 185
 ser 185
-Te 185
 dikim 184
-Wî 182
+Wî 183
 dikin 180
 in 179
 bikin 178
@@ -59,18 +59,18 @@ hene 140
 We 136
 im 129
 baş 127
-bikim 120
+bikim 121
 tê 118
 da 116
 we 116
 bawer 115
+lê 114
 be 113
-lê 113
 ba 112
 yê 111
 ya 110
 dest 110
-vir 103
+vir 104
 Bi 103
 hev 101
 ev 96
@@ -88,7 +88,7 @@ a 82
 dê 81
 din 78
 Navê 75
-dixwazim 73
+dixwazim 74
 av 72
 ava 71
 bilind 70
@@ -117,18 +117,18 @@ yên 56
 bar 56
 salî 56
 asê 56
+herî 56
 mala 56
 tenê 55
 du 55
 kirin 55
 vî 55
 avjenî 55
-herî 54
 behs 54
 divê 53
+dibin 53
 berhev 53
 bibe 52
-dibin 52
 baz 52
 kes 50
 hevalên 50
@@ -199,6 +199,7 @@ Bavê 30
 derê 30
 bidin 29
 were 29
+wir 29
 gelekî 29
 xwar 29
 çavên 29
@@ -209,7 +210,6 @@ dibistana 29
 aciz 29
 navê 28
 Kî 28
-wir 28
 biçim 28
 ti 28
 derbas 28
@@ -290,6 +290,7 @@ hevalê 20
 serdana 20
 pênc 20
 sor 20
+mirovan 20
 hebû 20
 xweşik 20
 xwest 20
@@ -322,7 +323,6 @@ mijûl 18
 Kurdî 18
 serbajarê 18
 Mala 18
-mirovan 18
 biçin 18
 carî 18
 kêfxweş 18
@@ -406,9 +406,11 @@ wenda 14
 hate 14
 dijîm 14
 salan 14
+guhdarî 14
 navdar 14
 dibêjim 14
 xurt 14
+Mirov 14
 bibîne 14
 birayê 14
 hatiye 14
@@ -435,13 +437,11 @@ hestiyên 14
 avêt 14
 nan 13
 saet 13
-guhdarî 13
 dereng 13
 bajarê 13
 zarok 13
 hêdî 13
 nekî 13
-Mirov 13
 biparêzin 13
 Çend 13
 herin 13
@@ -506,6 +506,7 @@ demeke 12
 ko 12
 hewa 12
 awayî 12
+dixe 12
 rizgar 12
 dan 11
 nêzî 11
@@ -548,7 +549,6 @@ xwarinê 11
 tiştên 11
 nebin 11
 nekevin 11
-dixe 11
 hebe 11
 nebe 11
 hestiyek 11
@@ -605,6 +605,7 @@ bigirin 10
 refa 10
 didim 10
 Heta 10
+belav 10
 Bakterî 10
 Tenê 10
 xwediyê 10
@@ -659,6 +660,7 @@ malbatê 9
 lawiran 9
 dar 9
 Nikarim 9
+Kûçik 9
 difikirim 9
 awayekî 9
 tevlî 9
@@ -669,7 +671,6 @@ Ger 9
 daran 9
 nabim 9
 qas 9
-belav 9
 pêşiya 9
 tîne 9
 mere 9
@@ -769,6 +770,7 @@ Alan 8
 nehat 8
 ketiye 8
 lawaz 8
+welêt 8
 pereyê 8
 nebir 8
 kurd 8
@@ -1060,7 +1062,6 @@ torê 6
 betlaneyê 6
 dibî 6
 dêya 6
-welêt 6
 îşev 6
 nade 6
 werî 6
@@ -1077,6 +1078,7 @@ nakevin 6
 nafikirim 6
 Awistralyayê 6
 dinyayê 6
+madenê 6
 telefona 5
 pêdivî 5
 bum 5
@@ -1176,7 +1178,6 @@ hênik 5
 Bejna 5
 Kesek 5
 kontrol 5
-Kûçik 5
 jêhatî 5
 xera 5
 welat 5
@@ -1235,6 +1236,7 @@ dengekî 5
 tevahî 5
 kuna 5
 tena 5
+nizanibû 5
 xaneyan 5
 beşek 5
 pirsê 5
@@ -1289,7 +1291,6 @@ dilek 5
 ewqas 5
 xeternak 5
 navçeyên 5
-madenê 5
 gotinê 4
 nizanî 4
 xwesh 4
@@ -1301,6 +1302,7 @@ serkeftin 4
 bajar 4
 bêjim 4
 pashê 4
+japonî 4
 chi 4
 temashe 4
 herkes 4
@@ -1523,7 +1525,6 @@ ditirse 4
 axaftinê 4
 acîl 4
 Rewşa 4
-nizanibû 4
 betilî 4
 nekarî 4
 gotina 4
@@ -1668,7 +1669,6 @@ Mike 3
 rind 3
 dirêjtir 3
 havînî 3
-japonî 3
 Bibe 3
 A 3
 belengaz 3
@@ -1785,6 +1785,7 @@ jiya 3
 nabînin 3
 xweştir 3
 hezdikim 3
+dost 3
 park 3
 kuşt 3
 gotiye 3
@@ -1877,6 +1878,7 @@ bişopînin 3
 telefonî 3
 lingên 3
 oda 3
+dixebitî 3
 pirsên 3
 pisîkê 3
 Leyla 3
@@ -1913,6 +1915,7 @@ ezmûnê 3
 canê 3
 heřim 3
 gîtara 3
+dilsoz 3
 bihêz 3
 beravê 3
 Xuya 3
@@ -2133,6 +2136,7 @@ careke 3
 Jixwe 3
 hundir 3
 zanîngeha 3
+derxist 3
 ketime 3
 ehmeqî 3
 Nexweşiya 3
@@ -2318,6 +2322,7 @@ bêdil 3
 Dil 3
 bizanim 3
 nemaye 3
+piyanoyê 3
 bilîzim 3
 Nasnameya 3
 televîzyonê 3
@@ -2336,6 +2341,7 @@ Polonyayê 3
 Neh 3
 Televîzyon 3
 girîngtirîn 3
+dostê 3
 dîwar 2
 bexche 2
 Dibare 2
@@ -2605,7 +2611,6 @@ dewletê 2
 nedan 2
 Dijminê 2
 kala 2
-dost 2
 lawa 2
 carna 2
 Mariya 2
@@ -2748,7 +2753,6 @@ Heya 2
 bibînî 2
 texsiyê 2
 binêrin 2
-dixebitî 2
 Binêre 2
 birevî 2
 marketê 2
@@ -3334,7 +3338,6 @@ vebûn 2
 Hêy 2
 Mem 2
 hest 2
-derxist 2
 Gulê 2
 pozê 2
 Pozê 2
@@ -3345,6 +3348,7 @@ Helebceyê 2
 nahêlim 2
 veqetim 2
 Werin 2
+muzîka 2
 Otobus 2
 otobus 2
 deqe 2
@@ -3441,6 +3445,7 @@ xilas 2
 dixwî 2
 zewaca 2
 qure 2
+ciwanan 2
 qetiyaye 2
 qurbana 2
 miriye 2
@@ -3559,7 +3564,6 @@ Lazim 2
 emîn 2
 Quran 2
 cardin 2
-piyanoyê 2
 Misilmanan 2
 nîvroyê 2
 Pisîkê 2
@@ -3666,6 +3670,8 @@ zêr 2
 heyînê 2
 kompîtura 2
 asîmanan 2
+dilsoztirîn 2
+seranserê 2
 numera 1
 enteresant 1
 gerdeniyê 1
@@ -5286,7 +5292,6 @@ lêxe 1
 dewata 1
 hare 1
 mêrekî 1
-dilsoz 1
 sondiqê 1
 peyvêd 1
 kenzî 1
@@ -7094,7 +7099,6 @@ Yûnûs 1
 dîşkaya 1
 haco 1
 stûnê 1
-muzîka 1
 Heqê 1
 bilêteke 1
 transferê 1
@@ -7749,7 +7753,6 @@ neqencbûna 1
 Xerabiya 1
 Şîretên 1
 beredayî 1
-ciwanan 1
 xulamtiyê 1
 wijdanê 1
 Dixwaze 1
@@ -9268,3 +9271,11 @@ fitiq 1
 hertiştzan 1
 hertiştolog 1
 koronavîrûsê 1
+raza 1
+sifir 1
+Pasaporta 1
+Protesto 1
+Protestoyên 1
+belavbûnê 1
+windakirina 1
+aqilê 1

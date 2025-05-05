@@ -49,6 +49,7 @@ Ogenda 2
 ennuma 2
 Oluzungu 2
 Lwaki 2
+okuyiga 2
 ali 2
 kumpi 2
 akuwe 2
@@ -142,16 +143,15 @@ abaana 1
 mufumbo 1
 emyaka 1
 emeka 1
-Kikulu 1
-Okuyiga 1
+kikulu 1
 Bayibuli 1
 Vidiyo 1
 empanvuko 1
 Ensi 1
-Yonna 1
-Ejja 1
-Kubaamu 1
-Emirembe 1
+yonna 1
+ejja 1
+kubaamu 1
+emirembe 1
 Mukama 1
 Ssekukkulu 1
 Ennungi 1
@@ -185,7 +185,6 @@ mweraliikirivu 1
 Ntidde 1
 mukkufu 1
 mumalirivu 1
-okuyiga 1
 Nkwetaaga 1
 Nkulowoozaako 1
 Sigenda 1

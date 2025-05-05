@@ -1,52 +1,52 @@
-de 6612
-să 6399
+de 6619
+să 6403
 Tom 5023
-a 4751
-este 4370
-în 3793
-nu 3565
-o 3083
+a 4760
+este 4373
+în 3799
+nu 3568
+o 3087
 că 2838
-la 2812
-Nu 2616
+la 2816
+Nu 2620
 pe 2207
-cu 2197
-un 2136
-și 1969
-mai 1956
-ce 1564
-fost 1457
-pentru 1377
+cu 2206
+un 2144
+și 1970
+mai 1957
+ce 1566
+fost 1459
+pentru 1384
 Am 1352
-se 1312
+se 1314
 sunt 1296
-din 1245
-asta 1232
-e 1073
-El 1062
+din 1246
+asta 1233
+e 1074
+El 1064
 am 1030
 care 1009
-lui 994
+lui 995
 Mary 948
-fi 945
+fi 946
 foarte 787
-mă 779
+mă 781
 va 760
-au 753
-s-a 749
+au 755
+s-a 750
 te 739
-A 724
-ca 704
+A 727
+ca 706
 are 687
 Ea 644
 meu 622
 spus 604
-mult 597
+mult 599
 mea 596
-ai 584
+ai 585
 De 583
-Sunt 581
-Este 550
+Sunt 582
+Este 552
 era 542
 Ce 540
 place 517
@@ -54,21 +54,21 @@ bine 498
 face 495
 el 489
 făcut 485
-pot 476
+pot 477
 aici 474
 ar 453
 Trebuie 442
 așa 433
 Ai 431
 când 429
-trebuie 419
+trebuie 420
 poate 409
-timp 405
+timp 406
 voi 403
 ei 397
 dar 396
 mine 395
-În 387
+În 388
 Ei 382
 Îmi 378
 ceva 372
@@ -78,7 +78,7 @@ trebui 341
 acest 339
 Eu 339
 Mă 339
-fac 336
+fac 337
 această 333
 ta 331
 dacă 327
@@ -89,16 +89,16 @@ mare 318
 ne 316
 despre 313
 ani 301
+E 301
 ea 301
-E 300
 prea 299
 fie 298
 Cred 297
 putea 291
 multe 283
 îi 282
+niciodată 278
 vrea 276
-niciodată 276
 O 272
 și-a 271
 Te 271
@@ -116,17 +116,17 @@ Cum 244
 Asta 244
 ești 242
 fără 241
+Dacă 238
 cum 238
 știu 237
-Dacă 236
-trei 233
+trei 234
 tot 232
 eu 232
 văzut 231
 zi 230
 nimic 229
 tău 229
-doar 227
+doar 229
 bun 226
 Să 224
 al 223
@@ -141,16 +141,16 @@ pare 215
 Unde 211
 spune 211
 cred 210
-toate 209
+toate 210
 încă 206
 Cine 206
 noi 205
 Acest 205
 dat 202
+faci 198
 avea 198
-faci 197
+cât 197
 Când 196
-cât 196
 oameni 196
 timpul 192
 lor 192
@@ -162,10 +162,10 @@ venit 187
 să-mi 185
 poți 185
 bună 184
-până 183
+până 184
 i-a 182
 Ar 181
-după 179
+după 180
 Voi 177
 îl 175
 dintre 175
@@ -176,7 +176,7 @@ Această 171
 M-am 167
 într-o 165
 cineva 165
-puțin 164
+puțin 165
 Sami 164
 rău 162
 Boston 158
@@ -191,7 +191,7 @@ putut 153
 toată 152
 cea 152
 Cât 152
-sa 150
+sa 149
 Nu-mi 149
 vor 147
 Pot 147
@@ -203,36 +203,36 @@ chiar 146
 să-i 145
 își 145
 mele 144
+s-au 144
 Tu 144
 său 142
+Se 142
 noastră 142
 deja 141
-s-au 141
 ieri 141
-Se 141
 singur 140
 fiu 140
 îți 137
 merge 137
 înainte 137
+prin 137
 astăzi 136
 Nimeni 136
 Chiar 136
-prin 136
 Maria 136
 vorbesc 135
 tu 135
 să-ți 135
 întotdeauna 134
+adevărat 133
 franceză 133
 lumea 132
-adevărat 131
+început 130
 luat 130
 pierdut 130
 Un 130
 limba 129
 mulți 129
-început 127
 cumpărat 126
 carte 126
 vrei 126
@@ -254,12 +254,12 @@ frumoasă 119
 sub 119
 niște 118
 casă 118
+viața 118
 uitat 117
-viața 117
 Cu 116
+ale 116
 merg 115
 Îți 115
-ale 115
 cine 115
 Acesta 115
 Aceasta 112
@@ -272,9 +272,9 @@ aproape 109
 trebuit 109
 mașina 108
 văd 108
+Din 108
 câteva 107
 Avem 107
-Din 107
 peste 106
 toți 106
 apă 106
@@ -292,11 +292,11 @@ totul 100
 plac 100
 Și 100
 nouă 99
+Pe 99
 departe 99
 Toți 99
 erau 98
 Pentru 98
-Pe 98
 spui 98
 engleză 97
 L-am 97
@@ -320,11 +320,11 @@ casa 93
 afară 93
 viață 93
 vreodată 93
+Au 92
 mers 92
 dus 92
 sale 91
 nicio 91
-Au 90
 vom 90
 lume 90
 mei 90
@@ -351,6 +351,7 @@ oraș 85
 pus 85
 putem 84
 Suntem 84
+ajuns 84
 Știi 84
 lucruri 84
 muncă 84
@@ -358,14 +359,13 @@ zece 83
 jos 83
 unui 83
 ora 83
-ajuns 83
 cerut 83
 cărți 82
 vine 82
+între 82
 crede 82
 una 81
 mergem 81
-între 81
 Dumnezeu 81
 tare 81
 Acum 81
@@ -398,6 +398,7 @@ aceea 75
 obicei 75
 împreună 75
 noaptea 75
+adevărul 75
 plăcea 74
 crezi 74
 Îl 74
@@ -406,7 +407,6 @@ avem 74
 problemă 74
 meargă 74
 - 74
-adevărul 74
 Vrei 74
 Mi-a 73
 devenit 73
@@ -416,27 +416,27 @@ curând 73
 cameră 72
 problema 72
 cinci 71
+important 71
 știi 71
 încredere 71
 înțeleg 71
 acel 71
 Îi 70
-important 70
+într-un 70
 camera 70
 începe 70
 partea 70
 născut 70
+mod 69
 numele 69
-într-un 69
+După 69
 zile 69
 cunosc 69
 ore 69
 franceza 69
-mod 68
 Era 68
 Mi-am 67
 grijă 67
-După 67
 Australia 67
 Tatăl 66
 unei 66
@@ -447,24 +447,25 @@ tatăl 66
 posibil 66
 eram 66
 către 66
+iar 65
 iubesc 65
+învățat 65
 vorbești 65
 Hai 65
 citit 64
 copil 64
 luna 64
-învățat 64
 părea 63
 trecută 63
 singură 63
 probleme 63
-iar 63
 Japonia 63
 locul 63
 Încă 63
 siguranță 63
 mergi 62
 scrisoare 62
+dreptate 62
 duce 62
 banii 62
 ajutor 62
@@ -473,7 +474,6 @@ copii 62
 vorbească 62
 spre 62
 plouă 61
-dreptate 61
 scrie 61
 minute 61
 s-o 61
@@ -587,7 +587,9 @@ Toată 49
 intrat 49
 tăi 49
 răspuns 49
+lua 49
 ușa 49
+primit 49
 complet 49
 căzut 48
 vedem 48
@@ -598,7 +600,6 @@ femeie 48
 lapte 48
 pat 48
 sunat 48
-primit 48
 pleca 47
 fratele 47
 Sunteți 47
@@ -611,6 +612,7 @@ ales 47
 familia 47
 fată 47
 cam 47
+greșit 47
 astfel 47
 spatele 47
 anul 46
@@ -618,10 +620,9 @@ des 46
 întrebare 46
 mi 46
 petrecut 46
-greșit 46
 câine 46
-lua 46
 aceeași 46
+plătit 46
 găsi 46
 Layla 46
 cărțile 45
@@ -635,7 +636,6 @@ importantă 45
 Crezi 45
 ajut 45
 sunteți 45
-plătit 45
 Nu-ți 45
 numai 44
 încât 44
@@ -653,6 +653,7 @@ Unii 44
 Vino 43
 vreme 43
 dimineață 43
+Copiii 43
 mulțumesc 43
 proiect 43
 cuvânt 43
@@ -662,7 +663,6 @@ uită 43
 doresc 43
 sosit 43
 Mariei 43
-Copiii 42
 stau 42
 Câți 42
 spună 42
@@ -694,6 +694,7 @@ dejun 40
 pui 40
 altceva 40
 prietenul 40
+înapoi 40
 joacă 40
 lucrurile 40
 sora 40
@@ -708,6 +709,7 @@ schimbat 40
 faceți 39
 ultima 39
 Astăzi 39
+nu-l 39
 prietenii 39
 dolari 39
 treizeci 39
@@ -715,12 +717,13 @@ cald 39
 uit 39
 ajutat 39
 deschis 39
-înapoi 39
 Vei 39
+ține 39
 pic 39
 veche 39
 câștiga 39
 autobuz 39
+vină 39
 fugit 39
 Aceste 39
 lucrează 38
@@ -732,11 +735,9 @@ adesea 38
 de-a 38
 te-ai 38
 mână 38
-ține 38
 scuze 38
 prins 38
 cer 38
-vină 38
 bogat 38
 Și-a 38
 așteaptă 38
@@ -744,7 +745,6 @@ crescut 38
 săturat 38
 băut 38
 doctor 38
-nu-l 37
 Mi-ar 37
 tuturor 37
 tip 37
@@ -754,7 +754,9 @@ Ieri 37
 fiul 37
 știam 37
 felul 37
+serios 37
 exact 37
+frumoase 37
 joc 37
 întârziat 37
 Tot 37
@@ -772,7 +774,6 @@ fereastră 36
 Câte 36
 soția 36
 buni 36
-frumoase 36
 locuiesc 36
 dorit 36
 plouat 36
@@ -786,7 +787,6 @@ autobuzul 35
 zăpadă 35
 muzică 35
 cunoscut 35
-serios 35
 simțit 35
 aveți 35
 lungă 35
@@ -794,6 +794,7 @@ ușă 35
 cadou 35
 supărat 35
 iubește 35
+trimis 34
 corect 34
 drum 34
 Franța 34
@@ -806,6 +807,7 @@ temele 34
 amândoi 34
 Dar 34
 acela 34
+încerca 34
 pace 34
 Cei 34
 dragoste 34
@@ -813,6 +815,7 @@ treabă 34
 și-au 34
 sta 34
 lucrez 34
+sus 34
 poartă 34
 pisică 34
 aștepta 34
@@ -822,7 +825,6 @@ amintesc 34
 mi-ai 34
 scăpat 34
 șapte 33
-trimis 33
 micul 33
 vechi 33
 pâine 33
@@ -835,13 +837,12 @@ cuvinte 33
 echipă 33
 trăi 33
 plajă 33
-încerca 33
 Ăsta 33
 pune 33
 biroul 33
 atent 33
 puteți 33
-sus 33
+rapid 33
 greșeli 33
 Iarna 33
 alte 33
@@ -863,10 +864,10 @@ gândit 32
 Brazilia 32
 sens 32
 trezit 32
-rapid 32
 deranjează 32
 întrebări 32
 înalt 32
+alții 32
 Vom 32
 Vorbești 31
 stai 31
@@ -880,6 +881,7 @@ compania 31
 Fata 31
 țara 31
 teamă 31
+pregătit 31
 ne-am 31
 obișnuit 31
 luăm 31
@@ -899,7 +901,6 @@ ciuda 31
 mie 31
 băiat 31
 dorea 31
-alții 31
 nu-mi 31
 bucătărie 31
 cumpere 31
@@ -921,12 +922,12 @@ Fără 30
 studiat 30
 învăța 30
 Ceea 30
+plină 30
 apoi 29
 interesantă 29
 aveam 29
 stătea 29
 Pisica 29
-pregătit 29
 citi 29
 aur 29
 lumina 29
@@ -938,7 +939,6 @@ mâinile 29
 n-am 29
 regulă 29
 plan 29
-plină 29
 obosită 29
 ieșit 29
 Aveți 29
@@ -966,6 +966,7 @@ douăzeci 28
 Întotdeauna 28
 Te-ai 28
 n-a 28
+Compania 28
 aprilie 28
 recunoscut 28
 zâmbit 28
@@ -1001,7 +1002,6 @@ bătrân 27
 drumul 27
 bicicleta 27
 situație 27
-Compania 27
 arătat 27
 S-ar 27
 ți-a 27
@@ -1015,6 +1015,7 @@ restaurant 26
 Sora 26
 studenți 26
 tocmai 26
+vieții 26
 trăit 26
 in 26
 hotel 26
@@ -1059,7 +1060,6 @@ Bine 25
 rochie 25
 plâng 25
 cafeaua 25
-vieții 25
 trăiește 25
 perfect 25
 stație 25
@@ -1069,8 +1069,8 @@ succes 25
 precum 25
 unii 25
 interesant 25
-vina 25
 întorc 25
+gară 25
 Urăsc 25
 mâna 25
 lași 25
@@ -1094,6 +1094,7 @@ contează 25
 Bărbatul 25
 lung 25
 prezent 25
+brusc 25
 scump 25
 aibă 25
 apărut 25
@@ -1109,8 +1110,8 @@ Da 24
 scurtă 24
 albă 24
 deveni 24
+vina 24
 fotbal 24
-gară 24
 caută 24
 fereastra 24
 imposibil 24
@@ -1137,7 +1138,6 @@ n-ar 24
 oamenilor 24
 dinți 24
 roșii 24
-brusc 24
 mașini 24
 Rusia 24
 trist 24
@@ -1238,6 +1238,7 @@ medic 21
 ceas 21
 te-am 21
 Tocmai 21
+Trenul 21
 piatră 21
 nervos 21
 Prefer 21
@@ -1276,6 +1277,7 @@ undeva 21
 schimba 21
 Algeria 21
 aveau 21
+energie 21
 japoneză 20
 orașului 20
 România 20
@@ -1293,7 +1295,6 @@ fiica 20
 Uneori 20
 bătut 20
 cealaltă 20
-Trenul 20
 înăuntru 20
 suficient 20
 data 20
@@ -1333,7 +1334,6 @@ vândut 20
 interesează 20
 opri 20
 Așa 20
-energie 20
 aștepți 20
 Ele 19
 Vorbiți 19
@@ -1417,6 +1417,7 @@ sărac 18
 continuă 18
 China 18
 puteam 18
+jucat 18
 impresionat 18
 furtună 18
 Engleza 18
@@ -1443,6 +1444,7 @@ joace 18
 depinde 18
 sănătatea 18
 Fie 18
+dreptul 18
 părut 18
 calea 18
 plimbare 18
@@ -1459,6 +1461,7 @@ continuare 18
 Locuiesc 18
 obține 18
 vrem 18
+deoarece 18
 liniște 18
 voie 18
 devină 18
@@ -1491,7 +1494,6 @@ soare 17
 Crăciun 17
 cutia 17
 subiect 17
-jucat 17
 haine 17
 10 17
 mâncăm 17
@@ -1501,6 +1503,7 @@ Soția 17
 mor 17
 familiei 17
 sănătate 17
+hârtie 17
 Deja 17
 întrebat-o 17
 studia 17
@@ -1531,7 +1534,6 @@ număr 17
 schimbă 17
 seamănă 17
 duminica 17
-dreptul 17
 Autobuzul 17
 primi 17
 New 17
@@ -1545,6 +1547,7 @@ ninge 17
 Iubesc 17
 speranță 17
 continuat 17
+luptă 17
 Uită-te 17
 Iată 17
 atins 17
@@ -1597,7 +1600,6 @@ sunetul 16
 par 16
 poză 16
 explicație 16
-hârtie 16
 războiului 16
 sănătos 16
 urăsc 16
@@ -1628,7 +1630,6 @@ Vorbesc 16
 portugheza 16
 Multe 16
 Pune 16
-luptă 16
 tort 16
 program 16
 poliție 16
@@ -1652,12 +1653,12 @@ Du-te 16
 Guvernul 16
 perete 16
 baza 16
-deoarece 16
 găsim 16
 Aștept 16
 jucăm 16
 octombrie 16
 slăbit 16
+suferit 16
 fraze 16
 Unele 16
 existat 16
@@ -1716,6 +1717,7 @@ decizia 15
 înceapă 15
 deschid 15
 corectă 15
+vinde 15
 viitorul 15
 yeni 15
 gândi 15
@@ -1758,12 +1760,12 @@ universitate 15
 voastre 15
 direct 15
 lungi 15
+pas 15
 Știți 15
 plecăm 15
 I-ai 15
 ouă 15
 folosești 15
-suferit 15
 format 15
 Pune-ți 15
 cunoștință 15
@@ -1793,6 +1795,7 @@ iubești 14
 frați 14
 urât 14
 America 14
+meci 14
 concert 14
 potrivit 14
 Echipa 14
@@ -1813,6 +1816,7 @@ de-al 14
 lumii 14
 vârful 14
 juca 14
+proiectul 14
 consideră 14
 furtunii 14
 stele 14
@@ -1821,7 +1825,6 @@ nebună 14
 schimb 14
 iasă 14
 zburat 14
-vinde 14
 i-au 14
 bucată 14
 distanță 14
@@ -1835,6 +1838,7 @@ ajungi 14
 Simt 14
 noul 14
 bei 14
+ridicol 14
 ascultat 14
 Sună 14
 calculatorul 14
@@ -1898,7 +1902,6 @@ zilei 13
 iulie 13
 bolnavă 13
 Avionul 13
-meci 13
 opresc 13
 televizorul 13
 muncească 13
@@ -1917,6 +1920,7 @@ minciună 13
 treaz 13
 Prețurile 13
 studieze 13
+urmează 13
 aparține 13
 fabrică 13
 serioasă 13
@@ -1940,7 +1944,6 @@ pereche 13
 piață 13
 Atunci 13
 pisica 13
-ridicol 13
 comportamentul 13
 Pleacă 13
 cămașă 13
@@ -1962,7 +1965,6 @@ Pantofii 13
 mărul 13
 construit 13
 Familia 13
-pas 13
 omorât 13
 unu 13
 afaceri 13
@@ -2012,7 +2014,6 @@ străin 12
 Drumul 12
 poezie 12
 lucrezi 12
-puţin 12
 păsările 12
 Acela 12
 Kyoto 12
@@ -2054,14 +2055,12 @@ Câinii 12
 apar 12
 intenționat 12
 mobil 12
-proiectul 12
 stins 12
 vineri 12
 deodată 12
 absolvit 12
 restul 12
 muncește 12
-urmează 12
 ușurință 12
 folosită 12
 produce 12
@@ -2095,6 +2094,7 @@ vând 12
 Ți-ai 12
 puterea 12
 euro 12
+stradă 12
 surpriză 12
 ascunde 12
 Spune 12
@@ -2123,6 +2123,7 @@ acoperiș 12
 plictisitoare 12
 cartofii 12
 noroi 12
+mingea 12
 membri 12
 ți-ai 12
 respect 12
@@ -2139,6 +2140,7 @@ femeia 12
 obișnuia 12
 datorită 12
 voce 12
+ușoară 12
 greutăți 12
 fă 12
 filmul 12
@@ -2158,6 +2160,7 @@ ridică 11
 maşina 11
 Fac 11
 creează 11
+puţin 11
 brânză 11
 abandonat 11
 conducă 11
@@ -2187,6 +2190,7 @@ plictisitor 11
 ceară 11
 gătesc 11
 sărut 11
+spune-mi 11
 germana 11
 Adevărul 11
 Nava 11
@@ -2208,6 +2212,7 @@ Nord 11
 deseori 11
 râde 11
 gras 11
+Soldații 11
 lase 11
 magazinul 11
 distractiv 11
@@ -2245,7 +2250,6 @@ politice 11
 Știm 11
 omului 11
 Ce-ai 11
-stradă 11
 oferta 11
 Războiul 11
 exista 11
@@ -2277,7 +2281,6 @@ timid 11
 datoria 11
 joci 11
 atac 11
-mingea 11
 Ți-e 11
 Văd 11
 medicamente 11
@@ -2301,7 +2304,6 @@ timbre 11
 Moartea 11
 căutat 11
 cheltuit 11
-ușoară 11
 calculator 11
 ajungă 11
 cite 11
@@ -2355,7 +2357,6 @@ problemele 10
 poze 10
 judeca 10
 sperie 10
-spune-mi 10
 spaniola 10
 periculoasă 10
 zborul 10
@@ -2374,7 +2375,6 @@ Problema 10
 Stați 10
 pescuit 10
 Ne-a 10
-Soldații 10
 citind 10
 Ține-te 10
 marți 10
@@ -2494,9 +2494,11 @@ repare 10
 optzeci 10
 zboară 10
 intru 10
+rezultate 10
 soarelui 10
 adăugat 10
 apare 10
+lupta 10
 Privește 10
 Scuze 10
 radioul 10
@@ -2728,7 +2730,6 @@ umbrelă 9
 lăsăm 9
 ochiul 9
 alergic 9
-rezultate 9
 rămână 9
 limbii 9
 treptat 9
@@ -2741,7 +2742,6 @@ confuz 9
 a-i 9
 constant 9
 lunea 9
-lupta 9
 avertizat 9
 Erai 9
 vinul 9
@@ -2811,6 +2811,7 @@ cheie 8
 celui 8
 grăbești 8
 mătușa 8
+lupte 8
 curajul 8
 mării 8
 auto 8
@@ -2931,6 +2932,7 @@ inspirație 8
 condamnat 8
 gătește 8
 Fumatul 8
+Atenție 8
 trezești 8
 sfat 8
 mâncați 8
@@ -3119,7 +3121,6 @@ căsătorie 7
 Visul 7
 viziteze 7
 Parisul 7
-lupte 7
 împrumute 7
 dureri 7
 asemănătoare 7
@@ -3199,6 +3200,7 @@ progrese 7
 implic 7
 criminal 7
 închise 7
+prețul 7
 amândouă 7
 limbilor 7
 confortabil 7
@@ -3248,6 +3250,7 @@ carnea 7
 Părul 7
 gri 7
 buștean 7
+vise 7
 scuzați 7
 Suedia 7
 Copacul 7
@@ -3277,7 +3280,6 @@ taxe 7
 tricoul 7
 suficiente 7
 lucrăm 7
-Atenție 7
 acestor 7
 vacanța 7
 oportunitate 7
@@ -3432,6 +3434,7 @@ schimbe 7
 Liftul 7
 Luați 7
 sărute 7
+comportă 7
 Discursul 7
 natura 7
 mișca 7
@@ -3459,6 +3462,7 @@ miros 7
 înșela 7
 coșmar 7
 personală 7
+absurd 7
 talentat 7
 Portugalia 7
 delicioasă 7
@@ -3496,6 +3500,7 @@ gât 6
 George 6
 meniul 6
 Datorită 6
+vieți 6
 normă 6
 copilului 6
 gătitul 6
@@ -3599,9 +3604,11 @@ americană 6
 cert 6
 informație 6
 aplicație 6
+acoperită 6
 cade 6
 numere 6
 n-aș 6
+cazul 6
 ridica 6
 cultura 6
 bunăstarea 6
@@ -3653,7 +3660,6 @@ supraviețui 6
 păstrăm 6
 șerpi 6
 vremuri 6
-prețul 6
 anumite 6
 fonduri 6
 copacii 6
@@ -3697,12 +3703,12 @@ Restaurantul 6
 iarba 6
 improbabil 6
 roata 6
-vise 6
 plăcute 6
 Hei 6
 alergi 6
 Educația 6
 Depinde 6
+online 6
 greutate 6
 veniți 6
 forte 6
@@ -3762,6 +3768,7 @@ dragă 6
 Veți 6
 folosite 6
 regele 6
+Clientul 6
 interiorul 6
 decembrie 6
 întreabă 6
@@ -3887,6 +3894,7 @@ religia 6
 slăbită 6
 caii 6
 proaspătă 6
+intens 6
 bucătar 6
 lăsați 6
 forță 6
@@ -3916,7 +3924,6 @@ petreacă 6
 groază 6
 poarte 6
 chema 6
-comportă 6
 sarcină 6
 Răspunde 6
 știre 6
@@ -3956,7 +3963,6 @@ ocupa 6
 îndrăzneala 6
 ispășitor 6
 descoperire 6
-absurd 6
 împins 6
 îngheață 6
 Marina 6
@@ -3999,6 +4005,8 @@ orele 5
 Curând 5
 rătăcit 5
 așteptați 5
+satisfăcut 5
+disponibilă 5
 potrivită 5
 contribui 5
 cuptor 5
@@ -4113,7 +4121,6 @@ ansamblu 5
 generație 5
 păpușă 5
 răsfățat 5
-acoperită 5
 deschideți 5
 tenisul 5
 Eşti 5
@@ -4124,7 +4131,6 @@ ramură 5
 social 5
 evenimentele 5
 ziare 5
-cazul 5
 greșești 5
 cinematograf 5
 presiune 5
@@ -4214,6 +4220,7 @@ barcă 5
 bunicului 5
 peisaj 5
 internațională 5
+cauzate 5
 drumurile 5
 Sperăm 5
 constă 5
@@ -4234,7 +4241,6 @@ fluture 5
 veșnicie 5
 n-au 5
 ideile 5
-online 5
 sperii 5
 hohote 5
 robot 5
@@ -4265,7 +4271,6 @@ Ploua 5
 documente 5
 Accidentul 5
 existau 5
-Clientul 5
 căutați 5
 Cuvântul 5
 Peștele 5
@@ -4291,6 +4296,7 @@ pijama 5
 primăvară 5
 scund 5
 plimbat 5
+Gata 5
 șoarece 5
 iubirii 5
 pumnii 5
@@ -4406,6 +4412,7 @@ Ia-o 5
 Tatălui 5
 Acele 5
 vândute 5
+Sportivii 5
 pălăria 5
 potrivesc 5
 generații 5
@@ -4579,7 +4586,6 @@ simțeam 5
 Spania 5
 dus-întors 5
 Franceza 5
-vieți 5
 soluții 5
 explodat 5
 Atmosfera 5
@@ -4670,9 +4676,7 @@ tuns 4
 plecând 4
 Petrecerea 4
 Străzile 4
-satisfăcut 4
 dăm 4
-disponibilă 4
 sigure 4
 măritată 4
 musulmană 4
@@ -4787,6 +4791,7 @@ fostul 4
 Destul 4
 imaginea 4
 literatura 4
+antrenat 4
 neglijență 4
 Găina 4
 cantitatea 4
@@ -4839,6 +4844,7 @@ valurile 4
 Între 4
 adresă 4
 7 4
+suma 4
 cuțitele 4
 ți-e 4
 pomul 4
@@ -4966,7 +4972,6 @@ circulație 4
 reci 4
 zeu 4
 Obama 4
-cauzate 4
 folosirea 4
 prind 4
 revin 4
@@ -5083,6 +5088,7 @@ homosexual 4
 prostie 4
 terminăm 4
 Doresc 4
+plecare 4
 Scrisul 4
 unchiului 4
 "Da 4
@@ -5091,7 +5097,6 @@ Vasile 4
 tocilar 4
 cot 4
 profită 4
-Gata 4
 Bran 4
 oficială 4
 dulci 4
@@ -5139,7 +5144,6 @@ limite 4
 defectele 4
 Dispari 4
 cântărește 4
-pana 4
 cană 4
 farfurie 4
 Comitetul 4
@@ -5256,7 +5260,6 @@ curaj 4
 îmbătat 4
 corupt 4
 creatorul 4
-Sportivii 4
 întruna 4
 azi-noapte 4
 biroului 4
@@ -5352,7 +5355,6 @@ repeți 4
 pozitiv 4
 discutăm 4
 similare 4
-intens 4
 șarpe 4
 pretențios 4
 sclavia 4
@@ -5390,6 +5392,7 @@ simț 4
 Evident 4
 Demonstrația 4
 temperatură 4
+coletul 4
 nevasta 4
 lift 4
 suspicios 4
@@ -5429,6 +5432,7 @@ calități 4
 abuzat 4
 depun 4
 Marele 4
+jongleze 4
 dețin 4
 pisicile 4
 vopsea 4
@@ -5450,6 +5454,7 @@ rezistență 4
 simbol 4
 document 4
 evidentă 4
+entuziasm 4
 nevinovată 4
 convenabil 4
 înșele 4
@@ -5466,6 +5471,7 @@ dezbrăcat 4
 modificarea 4
 iertat 4
 Dick 4
+distractivă 4
 anunțat 4
 îngust 4
 unghi 4
@@ -5486,6 +5492,7 @@ trenurilor 4
 ghid 4
 Regulile 4
 intenționezi 4
+plătită 4
 păreau 4
 motoarele 4
 discuția 4
@@ -5582,6 +5589,7 @@ Liniște 4
 Ține-mă 4
 iarbă 4
 scânteie 4
+efectuat 4
 gaze 4
 întoarcere 4
 sugerez 4
@@ -5652,6 +5660,7 @@ hoț 4
 castele 4
 subsol 4
 împiedică 4
+curte 4
 Deschideți 4
 Cutia 4
 stupidă 4
@@ -5673,6 +5682,7 @@ gramatică 4
 citea 4
 poșeta 4
 gravă 4
+livrat 4
 Responsabilitatea 4
 ușurat 4
 pasaj 4
@@ -5722,6 +5732,9 @@ Parfumul 4
 Atâta 4
 răpus 4
 dovedite 4
+momentele 4
+ramburs 4
+ciuperci 4
 Unu 3
 ființele 3
 libere 3
@@ -5916,7 +5929,6 @@ prim-ministru 3
 dezbatere 3
 sever 3
 furtunoasă 3
-antrenat 3
 paralele 3
 reduc 3
 modificări 3
@@ -5928,6 +5940,7 @@ totuna 3
 formală 3
 literatură 3
 înregistrări 3
+Curierul 3
 diplomatice 3
 repetat 3
 insistat 3
@@ -5980,7 +5993,6 @@ amabilă 3
 belea 3
 avocatul 3
 pornească 3
-suma 3
 vată 3
 Strada 3
 principale 3
@@ -6341,6 +6353,7 @@ sânii 3
 urca 3
 iubitului 3
 Fiindcă 3
+puști 3
 arătat-o 3
 existenței 3
 accidental 3
@@ -6355,7 +6368,6 @@ convenit 3
 ascultăm 3
 Bătrâna 3
 dificultățile 3
-plecare 3
 transportate 3
 confundat 3
 Drept 3
@@ -6383,6 +6395,7 @@ oase 3
 alcoolice 3
 german 3
 protejăm 3
+misterios 3
 hrănit 3
 încercând 3
 verifici 3
@@ -6414,6 +6427,7 @@ Așteptați 3
 ignor 3
 adună 3
 sosește 3
+pana 3
 haos 3
 căpitanul 3
 posibilități 3
@@ -6611,6 +6625,7 @@ permitem 3
 partid 3
 doborât 3
 record 3
+campionatul 3
 Colaborarea 3
 putred 3
 Acestui 3
@@ -6661,6 +6676,7 @@ creier 3
 poștale 3
 Atena 3
 scufundat 3
+adâncul 3
 culori 3
 primiți 3
 utilizatori 3
@@ -6880,7 +6896,6 @@ Persoana 3
 buzunarul 3
 flirtat 3
 posibilitate 3
-jongleze 3
 aplicația 3
 ierte 3
 glume 3
@@ -6909,7 +6924,6 @@ Trunchiul 3
 imposibilă 3
 procesul 3
 îndelung 3
-entuziasm 3
 Experiența 3
 pline 3
 Locuiește 3
@@ -6941,7 +6955,6 @@ arătați 3
 supraviețuitori 3
 Hobby-ul 3
 Harvard 3
-distractivă 3
 stâncă 3
 Chicago 3
 relativ 3
@@ -6964,9 +6977,9 @@ tau 3
 zise 3
 minuscule 3
 firea 3
-plătită 3
 regiuni 3
 Fluturele 3
+plata 3
 Pacientul 3
 Păstrează-ți 3
 Continui 3
@@ -6980,6 +6993,7 @@ transport 3
 fraier 3
 urmărit 3
 Scrie-ți 3
+cazi 3
 speria 3
 Căldura 3
 aplicare 3
@@ -7176,7 +7190,6 @@ compasiune 3
 adâncurile 3
 absurde 3
 software 3
-efectuat 3
 Lactee 3
 înfiorător 3
 personajul 3
@@ -7319,8 +7332,8 @@ Bucătăria 3
 scrieți 3
 Poștașul 3
 zodia 3
-curte 3
 regina 3
+l-aș 3
 capătă 3
 mierea 3
 înfometat 3
@@ -7352,13 +7365,13 @@ dealuri 3
 adorm 3
 norocoasă 3
 Uitați-vă 3
+consumat 3
 tratezi 3
 și-ar 3
 incontrolabilă 3
 dezbaterii 3
 dăunează 3
 culce 3
-livrat 3
 urmele 3
 anonim 3
 pute 3
@@ -7441,6 +7454,7 @@ banană 3
 copacului 3
 enervezi 3
 creativ 3
+înșeli 3
 Soarta 3
 Greciei 3
 colaboreze 3
@@ -7518,6 +7532,7 @@ jale 3
 Stabilitatea 3
 vânzările 3
 părțile 3
+corespunde 3
 conștiinței 3
 ani) 3
 elibera 3
@@ -7525,7 +7540,6 @@ nucleare 3
 predictibil 3
 traducă 3
 filodormă 3
-momentele 3
 extracție 3
 suav 3
 conjugală 3
@@ -7534,6 +7548,7 @@ abată 3
 sumbră 3
 pastelate 3
 pistă 3
+competiției 3
 tur 3
 tură 3
 alergătură 3
@@ -7591,6 +7606,7 @@ sprânceană 2
 însemna 2
 Matematicienii 2
 francezii: 2
+spontan 2
 găleată 2
 nisipul 2
 tone 2
@@ -7832,7 +7848,6 @@ zid 2
 combustibil 2
 matură 2
 niciuna 2
-Curierul 2
 Înțelege 2
 fizica 2
 Relațiile 2
@@ -8370,7 +8385,6 @@ stingă 2
 râurile 2
 venitul 2
 blestemat 2
-puști 2
 rezistenți 2
 naționalitatea 2
 visurilor 2
@@ -8445,7 +8459,6 @@ persoanelor 2
 bonul 2
 Hans 2
 continuăm 2
-misterios 2
 Exact 2
 comenteze 2
 spitalul 2
@@ -8743,6 +8756,7 @@ anotimpurile 2
 Aparatele 2
 Milioane 2
 datelor 2
+vrăjeala 2
 controleze 2
 pixuri 2
 foștii 2
@@ -8786,6 +8800,7 @@ Negocierile 2
 Testul 2
 strânse 2
 candidații 2
+natație 2
 plănuiesc 2
 învârte 2
 ținute 2
@@ -8827,7 +8842,6 @@ aplauzele 2
 Membrii 2
 născuți 2
 iluzii 2
-campionatul 2
 Optzeci 2
 cămile 2
 agale 2
@@ -8880,6 +8894,7 @@ cântaseră 2
 trupă 2
 Dictatorul 2
 principiilor 2
+concursul 2
 partidul 2
 utilizator 2
 portocalie 2
@@ -8937,7 +8952,6 @@ amorțit 2
 Nelson 2
 Mandela 2
 Cupa 2
-adâncul 2
 progresul 2
 Omenirea 2
 artificiale 2
@@ -9113,6 +9127,7 @@ documentul 2
 Opiniile 2
 abstractă 2
 englez 2
+Să-l 2
 decidă 2
 cotit 2
 frână 2
@@ -9176,7 +9191,6 @@ cititorului 2
 falși 2
 reprezentanți 2
 livrez 2
-coletul 2
 eseurile 2
 disperate 2
 remedii 2
@@ -9333,6 +9347,7 @@ mirat 2
 Condusul 2
 ebrietate 2
 investigăm 2
+peșterii 2
 principii 2
 impozit 2
 nevinovați 2
@@ -9500,7 +9515,6 @@ Sinteti 2
 atitudinii 2
 agrement 2
 rezistă 2
-plata 2
 Graba 2
 tortul 2
 fasolea 2
@@ -9553,7 +9567,6 @@ Urmează-ți 2
 Contez 2
 Scoate-ți 2
 uzați 2
-cazi 2
 trecem 2
 intensă 2
 Peștii 2
@@ -9609,6 +9622,7 @@ salvezi 2
 otrăvit-o 2
 ieșim 2
 YouTube 2
+distincție 2
 rațe 2
 natal 2
 cântecului 2
@@ -9741,6 +9755,7 @@ alternativa 2
 beneficia 2
 consecvent 2
 teoretice 2
+daunele 2
 fericirii 2
 determinant 2
 Funcția 2
@@ -9983,18 +9998,3 @@ ivește 2
 ivi 2
 ridicăm 2
 personalizate 2
-incluse 2
-simplul 2
-amestecul 2
-elevului 2
-lectorului 2
-Alexandru 2
-Greutățile 2
-mame 2
-hrăniți 2
-mișcătoare 2
-Acuzația 2
-argumente 2
-obțină 2
-profitul 2
-produselor 2
