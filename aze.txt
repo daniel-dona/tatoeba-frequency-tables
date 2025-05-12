@@ -1,6 +1,6 @@
 Mən 664
 O 456
-Tom 406
+Tom 407
 Bu 357
 var 252
 bir 220
@@ -89,16 +89,16 @@ səni 28
 kim 28
 olduğunu 28
 getdi 27
+gedir 27
 lazımdır 27
 elə 27
 həmişə 27
 indi 26
 Çox 26
 sevir 26
-gedir 26
+məktəbə 25
 sonra 25
 dedi 25
-məktəbə 24
 neçə 24
 niyə 24
 Bunu 24
@@ -377,6 +377,7 @@ Yaponiyada 8
 bizi 8
 biraz 8
 olunub 8
+eyni 8
 Şimali 8
 xoşu 8
 Afrikada 8
@@ -454,7 +455,6 @@ Qatar 7
 bacısı 7
 atam 7
 hansıdır 7
-eyni 7
 yaşayırsan 7
 dildə 7
 yedi 7
@@ -536,6 +536,7 @@ xoşlayır 6
 varlı 6
 Fransada 6
 Maşın 6
+tezliklə 6
 məktəbdə 6
 Bostona 6
 dedim 6
@@ -679,7 +680,6 @@ gecikir 5
 Artıq 5
 Bəzi 5
 bugün 5
-tezliklə 5
 görmürəm 5
 idilər 5
 işləmir 5
@@ -1286,7 +1286,6 @@ Təşəkkür 3
 güclüdür 3
 Mağaza 3
 Bağışla 3
-batır 3
 İsveçin 3
 İspaniyanın 3
 şərqində 3
@@ -2057,6 +2056,7 @@ doğulduğu 2
 Beləliklə 2
 doğulmusan 2
 etməliyik 2
+batır 2
 ilk 2
 oldum 2
 sağdır 2
@@ -2201,6 +2201,7 @@ edirik 2
 artığına 2
 layiqsən 2
 ölüb 2
+Meriylə 2
 kasıbdır 2
 aşağı 2
 əlimdən 2
@@ -5468,7 +5469,6 @@ başımıza 1
 işin 1
 başlamır 1
 saatdır 1
-Meriylə 1
 evlənmək 1
 Körpünü 1
 keçəndə 1
@@ -7773,9 +7773,6 @@ eşq 1
 Özümüzü 1
 koronavirusdan 1
 qoruya 1
-Ğabdelfäwaris 1
-Fäwaris 1
-— 1
-qaharman; 1
-osta 1
-caydaq 1
+Həyatımın 1
+şamı 1
+sönəcək 1

@@ -8,16 +8,16 @@ Is 334
 ar 244
 tú 219
 sé 213
-go 211
+go 212
 bhfuil 210
 An 208
 seo 193
 Ní 184
 agam 173
-Níl 165
+Níl 166
 liom 155
 i 132
-mo 128
+mo 129
 le 115
 na 105
 do 99
@@ -170,6 +170,7 @@ caint 13
 uair 13
 daoine 13
 rá 13
+againn 13
 Táimid 13
 focal 13
 bhur 13
@@ -184,7 +185,6 @@ chomh 12
 Conas 12
 álainn 12
 mó 12
-againn 12
 teanga 12
 réidh 12
 ndáiríre 12
@@ -456,6 +456,7 @@ greim 5
 fonn 5
 Nílimid 5
 mbeadh 5
+luath 5
 glúine 5
 Sami 5
 mbus 4
@@ -568,7 +569,6 @@ Amach 4
 Rith 4
 Chomh 4
 thaitin 4
-luath 4
 scoile 3
 Feicim 3
 chat 3
@@ -3052,3 +3052,7 @@ Glóir 1
 Úcráin 1
 chosaint 1
 choróinvíreas 1
+Pápa 1
+Múchfar 1
+coinneal 1
+shaoil 1

@@ -1,21 +1,21 @@
-er 4384
-Jeg 3627
-ikke 2481
+er 4385
+Jeg 3630
+ikke 2483
 å 2194
 i 2177
 en 2058
 du 1905
 har 1808
 det 1806
-Tom 1768
+Tom 1770
 på 1717
 til 1565
-jeg 1344
-og 1344
+og 1348
+jeg 1345
 Det 1177
 for 1069
 med 1067
-meg 1053
+meg 1055
 Han 1010
 av 990
 var 983
@@ -35,13 +35,13 @@ den 495
 min 468
 seg 444
 noe 379
-Hva 362
+Hva 363
 de 359
 hadde 340
+De 333
 må 333
-De 332
 være 328
-vi 326
+vi 327
 oss 321
 skal 317
 fra 311
@@ -58,14 +58,14 @@ kommer 269
 hva 268
 går 263
 din 260
-Er 259
+Er 260
 mye 252
 enn 250
 liker 247
 denne 239
 dag 234
 noen 232
-Mary 227
+Mary 228
 men 222
 hun 222
 Dette 221
@@ -80,7 +80,7 @@ mange 205
 bare 200
 tror 198
 ville 191
-alle 186
+alle 187
 trenger 185
 Har 184
 blir 184
@@ -92,12 +92,12 @@ bli 178
 gå 175
 når 174
 gjør 173
-Hvorfor 172
+Hvorfor 173
 dem 172
 vært 170
 Kan 170
 etter 169
-hans 160
+hans 161
 nå 157
 dere 156
 eller 150
@@ -130,7 +130,7 @@ Denne 121
 snakke 120
 hvor 120
 bor 120
-litt 118
+litt 119
 sier 118
 La 117
 mine 116
@@ -154,9 +154,9 @@ Hvordan 99
 ønske 97
 siden 95
 morgen 95
+ditt 95
 ingenting 95
 får 95
-ditt 94
 mot 93
 bedre 93
 Alle 91
@@ -209,15 +209,15 @@ rett 70
 spiser 69
 klar 69
 bilen 67
+mellom 67
 huset 67
 hennes 67
 boken 66
-mellom 66
 nesten 66
+visste 66
 synes 66
 Toms 66
 gi 65
-visste 65
 Min 65
 langt 64
 første 64
@@ -245,12 +245,12 @@ snakket 58
 venner 58
 ny 58
 livet 58
+trodde 58
 lenger 58
 sta 58
 like 57
 kjøpte 57
 sant 57
-trodde 57
 kjøpe 56
 vanskelig 56
 siste 56
@@ -267,6 +267,7 @@ ord 53
 Så 53
 hater 53
 grunn 53
+føler 53
 viktig 52
 fort 52
 dårlig 52
@@ -274,7 +275,6 @@ neste 52
 fortelle 52
 redd 51
 under 51
-føler 51
 Nå 51
 tatt 50
 Vil 50
@@ -290,6 +290,7 @@ hvorfor 49
 leve 49
 gjennom 49
 vite 48
+skjedde 48
 lese 47
 står 47
 bordet 47
@@ -298,7 +299,6 @@ ennå 47
 sent 47
 hatt 47
 dager 47
-skjedde 47
 liv 47
 beste 46
 begynte 46
@@ -358,6 +358,7 @@ kvinne 39
 bok 39
 Tyskland 39
 enda 39
+drar 39
 jobb 39
 finnes 39
 spiste 39
@@ -372,7 +373,6 @@ studere 38
 skje 38
 borte 38
 sover 38
-drar 38
 mener 38
 fem 37
 drikke 37
@@ -400,6 +400,7 @@ sted 34
 bruker 34
 hører 34
 Kom 34
+kaffe 33
 "Jeg 33
 vei 33
 spurte 33
@@ -410,7 +411,6 @@ håper 33
 skrev 32
 lever 32
 begynner 32
-kaffe 32
 deres 32
 toget 32
 prøver 32
@@ -483,6 +483,7 @@ først 28
 Gjør 28
 best 27
 middag 27
+syk 27
 time 27
 hørt 27
 problemet 27
@@ -495,7 +496,6 @@ spørsmålet 27
 interessant 26
 vente 26
 par 26
-syk 26
 svar 26
 høy 26
 senere 26
@@ -559,6 +559,7 @@ arbeid 23
 varmt 23
 læreren 23
 sønn 23
+egentlig 23
 tysk 23
 flink 23
 God 23
@@ -584,7 +585,6 @@ hodet 22
 personer 22
 låne 22
 pleide 22
-egentlig 22
 side 22
 dollar 22
 klare 22
@@ -803,6 +803,7 @@ høyere 15
 morgenen 15
 viser 15
 politiet 15
+varm 15
 åtte 15
 broren 15
 merke 15
@@ -856,7 +857,6 @@ ber 14
 Om 14
 skyld 14
 erfaring 14
-varm 14
 uken 14
 Amerika 14
 slå 14
@@ -1044,6 +1044,7 @@ raskere 11
 klasserommet 11
 spesielt 11
 hunder 11
+is 11
 treet 11
 sånn 11
 stadig 11
@@ -1063,6 +1064,7 @@ personen 11
 stolen 11
 Skipet 11
 forventer 11
+kald 11
 sko 11
 morges 11
 Vis 11
@@ -1138,7 +1140,6 @@ dyrt 10
 rør 10
 vinteren 10
 bøyde 10
-is 10
 paraplyen 10
 nødt 10
 uker 10
@@ -1160,7 +1161,6 @@ familien 10
 blomster 10
 svaret 10
 New 10
-kald 10
 ensom 10
 lengre 10
 gjelder 10
@@ -1547,6 +1547,7 @@ grad 7
 naturen 7
 oppvasken 7
 klatre 7
+flytter 7
 Yumi 7
 angrep 7
 teorien 7
@@ -1735,7 +1736,6 @@ Hyggelig 6
 søstrene 6
 trærne 6
 fylt 6
-flytter 6
 halvparten 6
 starte 6
 òg 6
@@ -2136,7 +2136,6 @@ Norges 5
 bestilte 5
 Sønnen 5
 vitenskap 5
-Jenta 5
 tale 5
 meninger 5
 glemmer 5
@@ -2553,6 +2552,7 @@ renner 4
 kropp 4
 pannen 4
 blyanten 4
+Jenta 4
 bad 4
 sovne 4
 Får 4
@@ -2952,6 +2952,7 @@ bite 3
 jakter 3
 mett 3
 lojalitet 3
+henter 3
 kinoen 3
 svake 3
 uhell 3
@@ -2974,6 +2975,7 @@ fersk 3
 gjentok 3
 Island 3
 ukjente 3
+morsmålet 3
 hardkokte 3
 internasjonal 3
 naboene 3
@@ -3895,7 +3897,6 @@ elefanter 2
 frivillig 2
 irriterte 2
 grei 2
-henter 2
 posten 2
 Lever 2
 kassetten 2
@@ -3946,7 +3947,6 @@ priser 2
 oppdagelser 2
 fordrive 2
 forekommer 2
-morsmålet 2
 innviklet 2
 blindvei 2
 Ro 2
@@ -4533,6 +4533,7 @@ sa: 2
 "Kom 2
 sinnemestringsproblem 2
 muntre 2
+argument 2
 skruppelløs 2
 ekorn 2
 kikket 2
@@ -4739,6 +4740,7 @@ forkjølt 2
 galning 2
 vonde 2
 hast 2
+finsk 2
 pasientene 2
 stakk 2
 turister 2
@@ -4796,6 +4798,7 @@ tilbake" 2
 været" 2
 er" 2
 stikke 2
+slem 2
 uventet 2
 tilbud 2
 smittet 2
@@ -7807,7 +7810,6 @@ begriper 1
 gjenspeilte 1
 reiseselskapet 1
 Ekte 1
-argument 1
 utnyttet 1
 skruppelløse 1
 grepet 1
@@ -8521,7 +8523,6 @@ tepausen 1
 bakerier 1
 "baker's 1
 dozen" 1
-finsk 1
 Mesteparten 1
 nyter 1
 studentlivet 1
@@ -8648,7 +8649,6 @@ sorterer 1
 bokmerkene 1
 går; 1
 bokbutikk 1
-slem 1
 fotoapparatet 1
 klagingen 1
 food 1

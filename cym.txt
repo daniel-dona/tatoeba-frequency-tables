@@ -1,14 +1,14 @@
 yn 559
 i 343
-Mae 288
-y 198
+Mae 289
+y 199
 Dw 188
 i'n 178
 Tom 166
 ddim 117
 o 116
 ei 97
-ar 87
+ar 88
 hoffi 81
 wedi 78
 hi 78
@@ -22,8 +22,8 @@ chi 65
 fy 64
 bod 62
 Wyt 57
+dy 52
 am 52
-dy 51
 Mary 48
 Roedd 48
 yw 47
@@ -113,11 +113,11 @@ heddiw 13
 dych 13
 ein 13
 byd 13
+Paid 13
 gath 13
 prynu 13
 gwisgo 13
 yng 12
-Paid 12
 na 12
 dweud 12
 astudio 12
@@ -165,6 +165,7 @@ coffi 9
 fe 9
 ffrind 9
 hen 9
+cysgu 9
 Peidiwch 9
 ferch 9
 sy'n 9
@@ -187,7 +188,6 @@ ydw 8
 'da 8
 ym 8
 glaw 8
-cysgu 8
 dal 8
 iaith 8
 byth 8
@@ -211,6 +211,7 @@ gloch 7
 Rwyt 7
 barod 7
 erioed 7
+chwaer 7
 parc 7
 lyfrau 7
 gadael 7
@@ -239,7 +240,6 @@ methu 6
 braf 6
 bryd 6
 ffôn 6
-chwaer 6
 gwylio 6
 Sul 6
 cariad 6
@@ -273,6 +273,7 @@ yno 6
 adeilad 6
 Ond 5
 Cafodd 5
+eistedd 5
 Gymraeg 5
 adref 5
 problem 5
@@ -297,6 +298,7 @@ bara 5
 ateb 5
 Hoffwn 5
 Ni 5
+ag 5
 cwrw 5
 'na 5
 Hwyl 5
@@ -327,7 +329,6 @@ Esgusodwch 4
 llawn 4
 gorau 4
 llygaid 4
-eistedd 4
 ennill 4
 teimlo'n 4
 digon 4
@@ -368,9 +369,9 @@ bwysig 4
 nofio 4
 Pan 4
 gyda'r 4
+honno 4
 ginio 4
 cinio 4
-ag 4
 bachgen 4
 deg 4
 cerddoriaeth 4
@@ -487,7 +488,6 @@ poeth 3
 'dw 3
 gofyn 3
 pam 3
-honno 3
 hŷn 3
 reis 3
 tu 3
@@ -976,6 +976,7 @@ Prynhawn 2
 Helô 2
 Blwyddyn 2
 Wnei 2
+gadair 2
 fwyaf 2
 ysgrifennu'r 2
 Meddyg 2
@@ -2534,7 +2535,6 @@ Guinness 1
 Gweithiwr 1
 siocled 1
 maen 1
-gadair 1
 wnes 1
 llefrith 1
 archfarchnad 1
@@ -2551,3 +2551,4 @@ gynnon 1
 Iseldireg 1
 moddion 1
 twpdra 1
+di'n 1

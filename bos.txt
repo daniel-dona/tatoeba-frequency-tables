@@ -1,5 +1,5 @@
 je 455
-se 171
+se 172
 sam 164
 u 161
 da 135
@@ -47,8 +47,8 @@ ali 17
 ima 17
 o 17
 ga 16
+će 16
 moj 15
-će 15
 još 15
 ovo 14
 sa 14
@@ -572,6 +572,7 @@ laju 2
 prijateljica 2
 Pušenje 2
 dijelu 2
+života 2
 Vidio 2
 tepih 2
 ručno 2
@@ -842,6 +843,7 @@ srodni 2
 zemlje 2
 pušiti 2
 Čovjek 2
+ugasiti 2
 svjetlo 2
 Bilo 2
 Govori 2
@@ -1204,7 +1206,6 @@ Hašimoto 1
 Pažnja 1
 Djeca 1
 našeg 1
-života 1
 uže 1
 ubodete 1
 krvarimo 1
@@ -2171,7 +2172,6 @@ fino 1
 stroj 1
 isključiti 1
 Hočeš 1
-ugasiti 1
 Banka 1
 nedjeljom 1
 Želiš 1
@@ -3187,3 +3187,6 @@ hrišćanstvu 1
 dominantno 1
 vjerovanje 1
 trojstvo 1
+Svijeća 1
+mog 1
+uskoro 1

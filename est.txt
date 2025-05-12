@@ -22,7 +22,7 @@ väga 131
 Mul 131
 kui 126
 Me 124
-pole 121
+pole 122
 oled 102
 mulle 99
 mind 90
@@ -37,7 +37,7 @@ palju 80
 Miks 76
 sulle 72
 tahan 72
-Minu 70
+Minu 71
 Tomi 70
 sind 69
 su 69
@@ -51,7 +51,7 @@ Kus 65
 veel 65
 Mida 64
 Mis 64
-Mu 61
+Mu 62
 Kes 60
 hea 59
 sinu 58
@@ -160,13 +160,13 @@ Sul 23
 õpetaja 23
 auto 23
 Koer 23
+Meil 23
 õppida 23
 ikka 22
 läks 22
 parem 22
 tee 22
 natuke 22
-Meil 22
 miks 22
 valmis 21
 teada 21
@@ -260,6 +260,7 @@ vend 15
 teab 15
 teeb 15
 teinud 15
+elu 15
 keele 15
 polnud 15
 lihtne 15
@@ -303,7 +304,6 @@ ostis 13
 teil 13
 puu 13
 kohvi 13
-elu 13
 korda 13
 õigus 13
 nägin 13
@@ -680,6 +680,7 @@ jälle 6
 tõtt 6
 Joon 6
 Hispaania 6
+varsti 6
 varakult 6
 lõpus 6
 Kuna 6
@@ -1062,7 +1063,6 @@ televiisorit 4
 valutab 4
 sild 4
 jalga 4
-varsti 4
 vigu 4
 võtnud 4
 ilmselt 4
@@ -2480,6 +2480,8 @@ prantsusekeelset 2
 luuletust 2
 Omaani 2
 uuendasin 2
+küünal 2
+kustub 2
 Sellises 1
 kärestikus 1
 mõtlematu 1
@@ -6741,3 +6743,4 @@ vabadusse 1
 Uuendasin 1
 Au 1
 Ukrainale 1
+paavsti 1

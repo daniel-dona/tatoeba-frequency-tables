@@ -1,15 +1,15 @@
 je 1766
-se 647
+se 648
 u 562
 sam 474
 da 423
-li 403
+li 405
 na 338
 ne 288
 Tom 285
 i 245
 su 225
-mi 216
+mi 218
 Ne 197
 to 191
 za 170
@@ -24,7 +24,7 @@ te 120
 me 117
 smo 110
 s 107
-će 101
+će 102
 Ja 99
 Ona 96
 Što 94
@@ -115,16 +115,16 @@ Ti 31
 taj 30
 doći 30
 nas 30
+reći 29
 radi 29
+Možeš 29
 mene 29
 ćeš 29
 Toma 29
-Možeš 28
 godine 28
 posao 28
 auto 27
 mogao 27
-reći 27
 ništa 27
 engleski 27
 Mislim 27
@@ -186,12 +186,14 @@ zove 20
 novac 20
 svojim 20
 vidio 20
+gdje 20
 Nemam 20
 problem 20
 Ima 20
 kad 20
 žena 19
 tri 19
+Možete 19
 govori 19
 kupio 19
 Jučer 19
@@ -201,10 +203,8 @@ god 19
 ovu 19
 zbog 19
 moje 18
-Možete 18
 Bio 18
 Taj 18
-gdje 18
 Želiš 18
 sati 18
 zar 17
@@ -252,6 +252,7 @@ ostati 15
 Kad 15
 Neki 15
 svog 15
+života 15
 Sada 15
 imao 15
 možemo 15
@@ -273,7 +274,6 @@ toliko 14
 lijepa 14
 Bez 14
 nalazi 14
-života 14
 kojeg 14
 koja 14
 učinio 14
@@ -393,6 +393,7 @@ Neću 10
 znaš 10
 spavati 10
 Nemoj 10
+mog 10
 dobra 10
 Netko 10
 Japanu 10
@@ -448,7 +449,6 @@ ikad 9
 Ljudi 9
 vlak 9
 sina 9
-mog 9
 zadaću 9
 umrijeti 9
 moju 9
@@ -701,6 +701,7 @@ poznaje 6
 sastanak 6
 Mnogi 6
 cvijeće 6
+uskoro 6
 star 6
 van 6
 voda 6
@@ -836,7 +837,6 @@ vijesti 5
 svoga 5
 ljudima 5
 onda 5
-uskoro 5
 tog 5
 ustajati 5
  5
@@ -872,6 +872,7 @@ otoka 5
 zube 5
 iskren 5
 redu 5
+ugasiti 5
 igrao 5
 šetnju 5
 gleda 5
@@ -1135,7 +1136,6 @@ ostaviti 4
 Engleski 4
 Velika 4
 dopušteno 4
-ugasiti 4
 nitko 4
 Pitaj 4
 briga 4
@@ -1196,6 +1196,7 @@ poljubiti 4
 Soba 4
 pol 4
 vidjela 4
+živiš 4
 izgubiti 4
 Znate 4
 Tomom 4
@@ -1690,7 +1691,6 @@ odjednom 3
 Nećeš 3
 čokoladi 3
 dovraga 3
-živiš 3
 miriše 3
 zovem 3
 Slušaj 3
@@ -2325,6 +2325,7 @@ postaju 2
 Prekasno 2
 čekom 2
 Dok 2
+Svijeća 2
 mome 2
 Pozvao 2
 fotoaparat 2
@@ -4847,7 +4848,6 @@ putničkim 1
 jaču 1
 slabije 1
 tjerala 1
-Svijeća 1
 ugasila 1
 posjećivao 1
 dovesti 1
@@ -8484,3 +8484,4 @@ loptu 1
 idiot 1
 Laju 1
 vukovi 1
+živite 1

@@ -1,4 +1,4 @@
-es 3383
+es 3385
 Yo 2512
 un 1972
 li 1774
@@ -8,7 +8,7 @@ Li 838
 in 815
 tu 799
 have 761
-Esque 756
+Esque 757
 Il 706
 ha 657
 esset 629
@@ -26,7 +26,7 @@ vole 414
 yo 412
 mi 409
 e 400
-Tu 377
+Tu 378
 It 335
 To 326
 tre 303
@@ -49,8 +49,8 @@ far 222
 Mi 220
 Ili 211
 del 204
-vu 201
-parla 182
+vu 202
+parla 183
 ti 176
 Quo 171
 ci 169
@@ -74,8 +74,8 @@ noi 114
 libre 113
 vor 112
 vermen 110
+Vu 109
 nos 109
-Vu 108
 max 108
 nu 108
 parlar 108
@@ -752,6 +752,7 @@ sponsa 8
 fals 8
 Ta 8
 Marie 8
+Ido 8
 decovrit 8
 heróe 8
 Italia 8
@@ -826,7 +827,6 @@ De 7
 subridet 7
 min 7
 unaltru 7
-Ido 7
 vestit 7
 sedet 7
 Finalmen 7
@@ -2737,6 +2737,7 @@ cranie 2
 majorité 2
 Mark 2
 corecter 2
+rud 2
 puelles 1
 Brian 1
 Rock 1

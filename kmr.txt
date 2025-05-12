@@ -1,18 +1,18 @@
 Ez 1220
 e 1049
 xwe 1038
-min 1007
+min 1008
 ji 1006
 bi 939
 li 845
 Ew 819
-ê 744
+ê 745
 û 665
 ye 646
 ku 633
-Tom 550
+Tom 551
 Em 547
-me 526
+me 527
 Tu 524
 te 502
 de 470
@@ -31,7 +31,7 @@ jî 244
 ez 244
 tu 237
 Ev 232
-bû 220
+bû 221
 dike 196
 ber 194
 ew 193
@@ -96,11 +96,11 @@ pê 70
 nekiriye 70
 Dema 68
 dikî 67
+tune 66
 alî 66
 dilê 66
 î 65
 bikî 65
-tune 65
 Ma 64
 mezin 62
 kar 60
@@ -268,6 +268,7 @@ tiştek 22
 Saet 22
 fêrî 22
 kesî 22
+çû 22
 berê 22
 Hemû 22
 dizane 21
@@ -278,7 +279,6 @@ dijîn 21
 pîroz 21
 birçî 21
 paytexta 21
-çû 21
 xwedî 21
 wiha 21
 rê 21
@@ -566,6 +566,7 @@ xwezayê 10
 telefonê 10
 Pisîk 10
 Deh 10
+Hevalê 10
 çiqas 10
 meh 10
 Erê 10
@@ -632,7 +633,6 @@ dawiyê 9
 Amedê 9
 nadim 9
 pirtûka 9
-Hevalê 9
 nêzîk 9
 lingê 9
 salê 9
@@ -9279,3 +9279,8 @@ Protestoyên 1
 belavbûnê 1
 windakirina 1
 aqilê 1
+zarokatiyê 1
+muzîkar 1
+Papayê 1
+Êlihê 1
+Çişenegez 1

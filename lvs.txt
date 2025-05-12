@@ -14,8 +14,8 @@ ar 461
 tu 444
 Tas 434
 man 422
+nav 409
 no 408
-nav 408
 tas 383
 kā 364
 ko 347
@@ -82,7 +82,7 @@ vairāk 83
 nepatīk 83
 nezinu 83
 Jūs 83
-Mums 82
+Mums 83
 vairs 82
 Šī 80
 nebija 80
@@ -361,6 +361,7 @@ izmanto 19
 pāri 19
 varam 19
 uzmanību 19
+dzīves 19
 māja 18
 cilvēkus 18
 agri 18
@@ -387,7 +388,6 @@ Janni 18
 taču 18
 mēdzu 18
 Kaut 18
-dzīves 18
 Kurš 17
 Nekas 17
 dzimšanas 17
@@ -660,6 +660,7 @@ Labi 11
 Domāju 11
 Esiet 11
 Būt 11
+Manas 11
 normāli 11
 nozīme 11
 Laikam 11
@@ -673,6 +674,7 @@ Labrīt 10
 interesanti 10
 negrib 10
 kurienes 10
+drīz 10
 maksā 10
 alu 10
 Atvainojiet 10
@@ -741,7 +743,6 @@ Katram 10
 Pie 10
 joda 10
 Ceru 10
-Manas 10
 uzmanīgs 10
 izmantot 10
 tāpēc 10
@@ -769,7 +770,6 @@ Protams 9
 apsēdās 9
 rīta 9
 iepazīties 9
-drīz 9
 Bija 9
 kādam 9
 nomira 9

@@ -1,7 +1,7 @@
 da 991
 ez 572
 dut 517
-Ez 408
+Ez 409
 bat 406
 du 395
 eta 350
@@ -40,8 +40,8 @@ urte 81
 ahal 79
 ere 76
 dute 76
+dugu 75
 ditu 75
-dugu 74
 nago 73
 nintzen 73
 ikusi 68
@@ -144,6 +144,7 @@ honetan 28
 Layla 28
 daukat 27
 Hark 27
+aita 27
 gure 27
 dauka 27
 Zuk 27
@@ -154,7 +155,6 @@ Sami 27
 zion 26
 ematen 26
 esaten 26
-aita 26
 joango 26
 Hura 25
 liburu 25
@@ -8572,3 +8572,4 @@ planetara 1
 Bankutik 1
 Urtarorik 1
 beroena 1
+santurik 1

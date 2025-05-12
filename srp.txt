@@ -5,13 +5,13 @@ je 6817
 се 3963
 Том 3574
 сам 3484
-se 3042
+se 3043
 sam 2508
 ли 2329
 u 2068
 Tom 2067
 у 1930
-li 1795
+li 1797
 то 1657
 Да 1515
 na 1485
@@ -22,7 +22,7 @@ to 1179
 ne 1154
 ми 1118
 и 1039
-mi 1025
+mi 1027
 Da 1023
 су 991
 si 987
@@ -49,7 +49,7 @@ On 594
 ti 535
 ти 532
 To 526
-će 524
+će 525
 шта 512
 смо 510
 bio 501
@@ -235,9 +235,9 @@ nas 131
 ili 131
 Svi 131
 Sve 130
+Možeš 130
 Oni 130
 урадим 130
-Možeš 129
 zbog 128
 toga 128
 video 127
@@ -272,11 +272,11 @@ Treba 118
 дан 114
 И 114
 Имам 114
+Ми 113
 видео 113
 ćeš 113
 колико 113
 дана 113
-Ми 112
 Mogu 112
 радим 112
 moje 111
@@ -316,6 +316,7 @@ s 101
 želim 100
 због 100
 Ako 99
+gde 99
 дуго 99
 Мој 98
 Bio 98
@@ -325,7 +326,6 @@ dok 98
 godine 97
 ide 97
 ona 97
-gde 97
 tvoj 97
 uradio 97
 ту 97
@@ -688,6 +688,7 @@ tim 48
 Немам 47
 Хајде 47
 sat 47
+mog 47
 moguće 47
 Reci 47
 знате 47
@@ -697,7 +698,6 @@ Reci 47
 lako 46
 vode 46
 idem 46
-mog 46
 svog 46
 piše 46
 kažeš 46
@@ -717,6 +717,7 @@ Trebalo 45
 pravu 45
 previše 45
 osoba 45
+života 45
 isto 45
 бисте 45
 нисмо 45
@@ -735,7 +736,6 @@ god 44
 budeš 44
 prijatelj 44
 minuta 44
-života 44
 moju 44
 došao 44
 тешко 44
@@ -800,6 +800,7 @@ razumem 40
 moram 40
 Dobro 40
 moraš 40
+Možete 40
 jedna 40
 misli 40
 воле 40
@@ -821,7 +822,6 @@ zajedno 39
 problema 39
 knjige 39
 pišem 39
-Možete 39
 dobra 39
 prijatelji 39
 uspeo 39
@@ -839,6 +839,7 @@ Ljudi 38
 Vas 38
 prema 38
 imamo 38
+uskoro 38
 између 38
 нико 38
 десет 38
@@ -859,7 +860,6 @@ oči 37
 Život 37
 pitao 37
 sad 37
-uskoro 37
 нећу 37
 дође 37
 За 37
@@ -1012,6 +1012,7 @@ videla 31
 kuću 31
 posla 31
 nekada 31
+reći 31
 бицикл 31
 zauzet 31
 брат 31
@@ -1078,7 +1079,6 @@ njih 29
 pas 29
 pričaš 29
 Engleski 29
-reći 29
 нисте 29
 Хтео 29
 учи 29
@@ -1517,6 +1517,7 @@ Tvoja 21
 kome 21
 pomaže 21
 jeziku 21
+živiš 21
 decu 21
 tebi 21
 čeka 21
@@ -1588,7 +1589,6 @@ Kakav 20
 lepa 20
 budemo 20
 jasno 20
-živiš 20
 dobijem 20
 hoćeš 20
 raditi 20
@@ -3525,6 +3525,7 @@ ubedi 9
 pronašla 9
 oštar 9
 vaša 9
+živite 9
 нећемо 9
 pomoglo 9
 Играо 9
@@ -3998,7 +3999,6 @@ napiše 8
 Džekson 8
 Pomalo 8
 delovao 8
-živite 8
 zauzete 8
 Čekam 8
 ученицима 8
@@ -5762,6 +5762,7 @@ Ovu 5
 одговорност 5
 Хирошими 5
 посетили 5
+немамо 5
 вољен 5
 спрат 5
 Наставник 5
@@ -7005,7 +7006,6 @@ Obećao 4
 баба 4
 Европи 4
 Случајно 4
-немамо 4
 сиромах 4
 зграде 4
 систем 4

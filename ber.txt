@@ -1,5 +1,5 @@
 ad 186895
-n 154165
+n 154164
 d 114858
 ara 92876
 ay 71472
@@ -10,7 +10,7 @@ ur 49390
 Tom 42489
 asegzawal 39624
 ɣer 34217
-ɣef 33674
+ɣef 33673
 s 28673
 Ad 27917
 D 18745
@@ -27,7 +27,7 @@ acu 11762
 ma 11370
 kan 11265
 win 11049
-yiwen 11024
+yiwen 11023
 Yella 10123
 kra 9242
 adlis 9126
@@ -83,7 +83,7 @@ tesri 3478
 a 3431
 mliḥ 3410
 ed 3373
-uɣerbaz 3345
+uɣerbaz 3343
 Bɣiɣ 3329
 srin 3300
 neɣ 3284
@@ -97,7 +97,7 @@ Mi 3139
 anda 3138
 nekk 3078
 yernu 3056
-Deg 3033
+Deg 3031
 tmaziɣt 2991
 Ɣef 2938
 ass 2924
@@ -1565,13 +1565,13 @@ isafaren 217
 tafunast 217
 wanda 217
 yuḍen 217
-tlelli 217
 tizewwa 217
 ɛni 217
 tṛuḥ 217
 Tḥemmlem 217
 Tuwi-d 217
 c 217
+tlelli 216
 terra 216
 tṛuḥeḍ 216
 adeg 216
@@ -4415,7 +4415,6 @@ tafṛansit-takuṛsikit 80
 taṭerkit-tazirit 80
 taεṛabt-tanubit 80
 ayweq 80
-Taqcict-nni 79
 tuttra-a 79
 wedlis 79
 Tamezwarut 79
@@ -4455,6 +4454,7 @@ tamaziɣt-taṭerkit 79
 talmanit-taṭalyanit 79
 Manis 79
 afenjal 78
+Taqcict-nni 78
 tettetteḍ 78
 beddleɣ 78
 ubaraz-nni 78
@@ -6453,7 +6453,6 @@ Google 48
 idrimen-a 48
 tuffirt 48
 "A 48
-Yelli-s 48
 ḥemmlen-t 48
 as-yehwan 48
 teɣri 48
@@ -6569,6 +6568,7 @@ tumliḥt 47
 Abrid-a 47
 tqellqeɣ 47
 Efk 47
+Yelli-s 47
 tucbiḥt 47
 fehmen 47
 Azekka-nni 47

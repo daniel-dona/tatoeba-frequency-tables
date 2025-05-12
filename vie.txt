@@ -18,7 +18,7 @@ làm 1699
 Anh 1676
 sẽ 1657
 anh 1583
-thể 1560
+thể 1559
 được 1545
 ở 1498
 này 1496
@@ -28,7 +28,7 @@ gì 1293
 đang 1280
 phải 1263
 với 1256
-đến 1230
+đến 1229
 biết 1131
 muốn 1056
 trong 1030
@@ -72,7 +72,7 @@ thì 571
 cả 565
 thế 564
 đây 561
-từ 550
+từ 549
 bao 527
 ngày 521
 sự 493
@@ -113,9 +113,9 @@ nhất 352
 nhưng 346
 lúc 346
 gặp 344
-tin 341
 mua 341
 sinh 340
+tin 339
 các 339
 tiền 334
 tới 333
@@ -239,8 +239,8 @@ quyết 169
 Những 168
 trọng 167
 nhiêu 166
-bảo 165
 mưa 164
+bảo 164
 trông 162
 tâm 161
 lẽ 160
@@ -328,8 +328,8 @@ lịch 125
 ô 124
 Điều 124
 chỗ 124
-thân 123
 hình 122
+thân 122
 nhỉ 122
 dù 122
 Mọi 121
@@ -427,17 +427,17 @@ nhạc 92
 giống 92
 sát 91
 muộn 91
-đáng 91
 hát 91
 cười 90
 thuyết 90
+đáng 90
 đặt 90
 điểm 90
 dụng 90
-cá 90
 dậy 89
 Ngày 89
 tài 89
+cá 89
 ngôi 89
 lạnh 88
 chân 88
@@ -460,11 +460,11 @@ du 84
 Vì 84
 quen 84
 ghét 83
-chọn 83
 chú 83
 nóng 83
 Sami 83
 cảnh 82
+chọn 82
 hạnh 82
 khóc 82
 chứ 82
@@ -518,13 +518,13 @@ mạnh 73
 mệt 73
 dối 73
 thất 73
-Việt 73
 Úc 73
 khăn 72
 thăm 72
 liên 72
 tử 72
 đình 72
+Việt 72
 yên 72
 quay 72
 cứu 72
@@ -576,13 +576,13 @@ rượu 65
 Hai 65
 tinh 64
 thị 64
-cấp 64
 Tớ 64
 chiến 63
 chiều 63
 suy 63
 trí 63
 lạ 63
+cấp 63
 duy 63
 sản 62
 quốc 62
@@ -638,7 +638,6 @@ phản 55
 ngon 55
 chuẩn 55
 trò 55
-Nam 55
 sở 55
 cực 55
 cổ 55
@@ -652,6 +651,7 @@ Tối 54
 tuyết 54
 họp 54
 giàu 54
+Nam 54
 giảm 54
 giữa 53
 tăng 53
@@ -711,15 +711,14 @@ núi 48
 ga 48
 cũ 48
 tiêu 48
-giao 48
 5 48
 phía 48
 đầy 48
 không" 47
 lầm 47
+giao 47
 yếu 47
 thuật 47
-hệ 47
 tương 47
 rảnh 47
 "Tôi 46
@@ -734,6 +733,7 @@ nhập 46
 Tiếng 46
 Mặc 46
 gây 46
+hệ 46
 Sự 45
 cờ 45
 triển 45
@@ -797,25 +797,23 @@ cáo 41
 đùa 41
 sàng 41
 nghị 41
-thống 41
 băng 41
 luật 41
 hiệu 41
 Cuốn 41
 hướng 41
-lựa 40
 Chỉ 40
 phủ 40
 lửa 40
 ngờ 40
 tiếc 40
-hưởng 40
 thúc 40
 thần 40
 Câu 40
 Trên 40
 chối 40
 làng 40
+thống 40
 danh 40
 xác 40
 ứng 40
@@ -825,6 +823,8 @@ giày 40
 mừng 39
 Từ 39
 sửa 39
+lựa 39
+hưởng 39
 nuôi 39
 điển 39
 rửa 39
@@ -916,7 +916,6 @@ váy 34
 máu 34
 Nước 34
 nghiêm 34
-chi 34
 chai 34
 Tokyo 34
 ca 34
@@ -925,22 +924,23 @@ ca 34
 ngắn 33
 tắm 33
 biến 33
-thiện 33
 vé 33
+chi 33
 khủng 33
 tim 33
 piano 33
-mật 33
 cưới 33
 gió 32
 Rất 32
 giấc 32
 bụng 32
 vỡ 32
+thiện 32
 nghi 32
 im 32
 Đáng 32
 trăm 32
+mật 32
 ràng 31
 kiện 31
 nhẫn 31
@@ -1016,7 +1016,6 @@ Lần 28
 trận 28
 rừng 28
 khắp 28
-thao 28
 sữa 28
 nghệ 28
 chuyên 28
@@ -1033,6 +1032,7 @@ vực 27
 Chào 27
 Lẽ 27
 đằng 27
+thao 27
 bò 27
 hỏa 27
 tổng 27
@@ -1044,7 +1044,6 @@ sa 27
 Trái 27
 hỏng 27
 dường 27
-vượt 27
 hào 27
 giấu 27
 ngược 26
@@ -1069,6 +1068,7 @@ mù 26
 dữ 26
 mùi 26
 ngựa 26
+vượt 26
 phá 26
 bật 26
 lát 26
@@ -1088,7 +1088,6 @@ bông 25
 nông 25
 chóng 25
 Sáng 25
-Hà 25
 mỏi 25
 lưng 25
 lệ 25
@@ -1119,8 +1118,8 @@ Nhìn 24
 cụ 24
 gấp 24
 quân 24
+Hà 24
 bãi 24
-diện 24
 cỏ 24
 Phòng 24
 tránh 24
@@ -1145,6 +1144,7 @@ Vui 23
 quản 23
 lẫn 23
 phạt 23
+diện 23
 thoảng 23
 tờ 23
 nghìn 23
@@ -1241,7 +1241,6 @@ sứ 20
 phàn 20
 - 20
 Thứ 20
-đa 20
 áp 20
 tấm 20
 vay 20
@@ -1265,6 +1264,7 @@ niệm 19
 London 19
 Và 19
 dựng 19
+đa 19
 tiện 19
 dám 19
 khoác 19
@@ -1272,7 +1272,6 @@ sốt 19
 Ấn 19
 Độ 19
 nền 19
-cung 19
 mắn 19
 nhiệt 19
 nắm 19
@@ -1329,6 +1328,7 @@ dao 18
 đỗ 18
 ngọn 18
 khắc 18
+cung 18
 thù 18
 Hắn 18
 Tin 18
@@ -1352,7 +1352,6 @@ dần 18
 mạch 18
 giành 18
 Chú 18
-trực 18
 Phần 17
 Cám 17
 vậy" 17
@@ -1395,6 +1394,7 @@ linh 17
 màn 17
 đem 17
 trôi 17
+trực 17
 Thầy 16
 ồn 16
 thèm 16
@@ -1566,7 +1566,6 @@ nút 13
 chua 13
 ngang 13
 ngắm 13
-Nội 13
 ngàn 13
 Y 13
 Tập 13
@@ -1592,7 +1591,6 @@ lưu 12
 tóm 12
 Bức 12
 tái 12
-dạng 12
 Osaka 12
 Lan 12
 "Cái 12
@@ -1603,7 +1601,6 @@ Luân 12
 xi 12
 tàng 12
 Mắt 12
-cậy 12
 Bất 12
 Dân 12
 trao 12
@@ -1632,6 +1629,7 @@ in 12
 voi 12
 Giữ 12
 kịch 12
+Nội 12
 Bữa 12
 tỏa 12
 lũ 12
@@ -1669,6 +1667,7 @@ gấu 11
 mảnh 11
 đâm 11
 York 11
+dạng 11
 chủng 11
 dũng 11
 lối 11
@@ -1680,6 +1679,7 @@ thụ 11
 ân 11
 vú 11
 đĩa 11
+cậy 11
 Tháng 11
 Ồ 11
 đền 11
@@ -1853,7 +1853,6 @@ hôi 9
 ủng 9
 nát 9
 họng 9
-tảng 9
 quảng 9
 chay 9
 đương 9
@@ -1868,7 +1867,6 @@ Thuốc 9
 lốp 9
 cứng 9
 thợ 9
-Thông 9
 ngón 9
 Bao 9
 suất 9
@@ -1958,6 +1956,7 @@ mọc 8
 nhã 8
 lúa 8
 nhạo 8
+tảng 8
 xách 8
 té 8
 soát 8
@@ -1984,6 +1983,7 @@ Muốn 8
 sofa 8
 video 8
 Mục 8
+Thông 8
 vứt 8
 Cháu 8
 khinh 8
@@ -2346,7 +2346,6 @@ Muộn 5
 trọn 5
 Vương 5
 chấn 5
-Cầu 5
 cháo 5
 hòm 5
 êm 5
@@ -2529,7 +2528,6 @@ hói 5
 hoạn 5
 email 5
 sụp 5
-Địa 5
 câm 5
 Thịt 5
 sừng 5
@@ -2564,11 +2562,11 @@ nhút 4
 lẩm 4
 bẩm 4
 mặn 4
+Cầu 4
 hẹp 4
 đòn 4
 ức 4
 tuân 4
-Giấy 4
 Tuy 4
 Báo 4
 khảo 4
@@ -2603,7 +2601,6 @@ tiêm 4
 vốn 4
 mâu 4
 thuẫn 4
-23 4
 Smith 4
 Naoko 4
 thượng 4
@@ -2656,7 +2653,6 @@ chiếm 4
 ỏi 4
 vượng 4
 vấp 4
-Nền 4
 Rạp 4
 ấy" 4
 xé 4
@@ -2703,7 +2699,6 @@ Hán 4
 thâm 4
 dơ 4
 u 4
-cược 4
 Marry 4
 nhằm 4
 điểu 4
@@ -2833,6 +2828,7 @@ Tiện 4
 trinh 4
 cấu 4
 phào 4
+Địa 4
 vẹt 4
 nào" 4
 "Người 4
@@ -2906,6 +2902,7 @@ kí 3
 Miễn 3
 tia 3
 nghẽn 3
+Giấy 3
 nín 3
 Trí 3
 Kabuki 3
@@ -2944,6 +2941,7 @@ rụng 3
 b 3
 c 3
 ngần 3
+23 3
 21 3
 lưới 3
 Lạ 3
@@ -2998,6 +2996,7 @@ mồ 3
 lác 3
 phổi 3
 1990 3
+Nền 3
 hời 3
 Quang 3
 La-tinh 3
@@ -3030,6 +3029,7 @@ còi 3
 90% 3
 gạt 3
 tẩy 3
+cược 3
 chải 3
 Sư 3
 khoáng 3
@@ -3251,7 +3251,6 @@ nhang 3
 mày" 3
 Fuchu 3
 "Thần 3
-tuyến 3
 Debbie 3
 hết" 3
 bowling 3
@@ -3923,6 +3922,7 @@ Otoyo 2
 Hakata 2
 Fukuoka 2
 Niigata 2
+tuyến 2
 "Để 2
 Satan 2
 Job 2
@@ -6529,23 +6529,6 @@ Getter 1
 Jaani 1
 Colombia 1
 Bogota 1
-Tylekeo 1
-casino 1
-slots 1
-Tận 1
-tiết: 1
-Website: 1
-https://tylekeotech/ 1
-Hotline: 1
-0333874562 1
-Email: 1
-contact@tylekeotech 1
-chỉ: 1
-Khúc 1
-Thừa 1
-Dụ 1
-#tylekeo 1
-#tylekeouytin 1
 Mậu 1
 Thuận 1
 bợm 1

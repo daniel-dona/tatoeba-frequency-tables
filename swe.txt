@@ -275,9 +275,9 @@ dog 129
 väg 128
 bilen 127
 mat 127
+Mitt 126
 skriva 126
 just 126
-Mitt 125
 På 125
 böcker 124
 fråga 124
@@ -328,11 +328,11 @@ läsa 107
 föräldrar 107
 gånger 107
 dricker 107
+snart 107
 Maria 107
 mamma 106
 emot 106
 jobbet 106
-snart 106
 nog 106
 nästa 105
 bror 105
@@ -1827,6 +1827,7 @@ gömma 15
 kusin 15
 Mennad 15
 dubbelt 14
+ljus 14
 visar 14
 tjejen 14
 vita 14
@@ -1933,7 +1934,6 @@ fyller 13
 önskan 13
 feber 13
 hinna 13
-ljus 13
 hästar 13
 Företaget 13
 Kvinnan 13
@@ -6423,6 +6423,7 @@ bred 3
 bondgård 3
 Luften 3
 tunnelbana 3
+livs 3
 Carlos 3
 annans 3
 samling 3
@@ -8573,7 +8574,6 @@ slug 2
 Tunnelbanan 2
 bakas 2
 ugn 2
-livs 2
 upplevelser 2
 tobak 2
 enäggstvillingar 2
