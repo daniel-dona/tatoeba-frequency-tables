@@ -1,22 +1,22 @@
-ad 186895
-n 154164
-d 114858
-ara 92876
+ad 186900
+n 154165
+d 114861
+ara 92878
 ay 71472
 i 65482
-deg 59724
-Ur 54291
+deg 59725
+Ur 54293
 ur 49390
 Tom 42489
 asegzawal 39624
-ɣer 34217
-ɣef 33673
+ɣer 34218
+ɣef 33674
 s 28673
-Ad 27917
+Ad 27919
 D 18745
 Maɣef 17780
 Ziri 17038
-yella 16796
+yella 16797
 seg 15016
 akken 13441
 Skura 13022
@@ -25,7 +25,7 @@ akk 12427
 aya 11863
 acu 11762
 ma 11370
-kan 11265
+kan 11266
 win 11049
 yiwen 11023
 Yella 10123
@@ -45,7 +45,7 @@ d-tseɣ 6603
 d-sɣen 6485
 la 6348
 am 6273
-Melmi 6223
+Melmi 6224
 ayen 5997
 yiwet 5841
 mi 5816
@@ -66,7 +66,7 @@ d-iseɣ 4669
 waya 4533
 yebɣa 4497
 Anda 4431
-lliɣ 4411
+lliɣ 4412
 d-nseɣ 4380
 Nuja 4353
 Ma 4294
@@ -75,12 +75,12 @@ d-sɣeɣ 4141
 d-naɣ 4072
 yelli 4027
 Ɛli 3961
-cwiṭ 3859
+cwiṭ 3860
 d-aɣeɣ 3729
 d-yaɣ 3710
 umahil 3551
 tesri 3478
-a 3431
+a 3432
 mliḥ 3410
 ed 3373
 uɣerbaz 3343
@@ -133,7 +133,7 @@ imir-a 2486
 niḍen 2468
 Yezmer 2453
 naɣ 2449
-zik 2429
+zik 2432
 Yidir 2417
 Ula 2401
 aɣilif 2390
@@ -244,7 +244,7 @@ d-uɣent 1454
 Tmurt 1453
 Ẓriɣ 1447
 Zemren 1447
-yiḍ 1445
+yiḍ 1446
 Taninna 1445
 wakud 1442
 uqbel 1441
@@ -293,7 +293,7 @@ yeqqel 1238
 werǧin 1236
 Ha-t-an 1221
 lan 1219
-Ṛuḥeɣ 1215
+Ṛuḥeɣ 1216
 umi 1212
 war 1206
 Mačči 1190
@@ -498,8 +498,8 @@ Ttxil-k 710
 tazewwut 708
 lḥeqq 705
 iliɣ 703
+yidrimen 701
 telliḍ 700
-yidrimen 700
 swaswa 697
 usensu 697
 Ta 692
@@ -596,13 +596,13 @@ Matta 590
 d-tuɣemt 587
 nnig 585
 Ɣileɣ 584
+Azekka 584
 ɣer-sen 584
 tuɣ-d 584
 wala 583
 teɣlust 582
 tezmer 582
 yemma 582
-Azekka 582
 John 580
 nella 580
 wayeḍ 580
@@ -1206,9 +1206,9 @@ temsalt-a 290
 srid 290
 iban 289
 yettxemmim 289
+ččeɣ 289
 tagelmust 289
 yeffer 288
-ččeɣ 288
 teqqimem 287
 amellal 286
 Abrid 286
@@ -1377,6 +1377,7 @@ daɣ 249
 tazwara 248
 Tesɣamt-d 248
 d-yaweḍ 247
+yeswa 247
 ddin 247
 drus 247
 terẓem 247
@@ -1386,7 +1387,6 @@ Leonid 247
 tiṭ 246
 itteg 246
 wannag 246
-yeswa 246
 Ɣer-i 246
 tečč 246
 useṭṭel 246
@@ -1504,11 +1504,11 @@ awezɣi 227
 tisura 227
 icebḥen 226
 tazmert 226
+tabrat 226
 Teẓriḍ 225
 twacult 225
 Rrus 225
 uslig 225
-tabrat 225
 berra 225
 aɣurbiz 225
 lawan 224
@@ -2348,6 +2348,7 @@ ubisbul 149
 afercic 149
 weltma 148
 maḍi 148
+ɣlayen 148
 taknart 148
 ḥafi 148
 warraw-is 148
@@ -2370,7 +2371,6 @@ yeḍḍes 147
 ssinen 147
 tmellalin 147
 yiɣeḍmen 147
-ɣlayen 147
 tabɣest 147
 d-yusi 147
 asegbar 147
@@ -3755,6 +3755,7 @@ anebdu 100
 rran 100
 nneḥ 100
 tettetted 100
+ṭṭseɣ 100
 teǧǧa 100
 Ansuf 100
 umahil-nnek 100
@@ -3777,7 +3778,6 @@ yettnadin 99
 baba-twen 99
 d-tusid 99
 timura 99
-ṭṭseɣ 99
 Yuli 99
 atinis 99
 tihuskayin 99
@@ -4033,6 +4033,7 @@ taxxamt-nni 90
 anamek 90
 ini-iyi-d 90
 texxamt-a 90
+Swiɣ 90
 yeqqur 90
 awraɣ 90
 yeẓẓel 90
@@ -4062,7 +4063,6 @@ Yiwunak 89
 acebbub 89
 d-ufiɣ 89
 yilsawen 89
-Swiɣ 89
 sslam 89
 ṛjuɣ 89
 mmteɣ 89
@@ -4158,6 +4158,7 @@ tafṛansit-tajulat 87
 yuklalen 86
 ssarameɣ 86
 diri-tt 86
+Uriɣ 86
 tankult-nni 86
 yeddren 86
 ttḥulfuɣ 86
@@ -4198,7 +4199,6 @@ Bill 85
 yeɛreq 85
 ttnaɣen 85
 taspenyulit 85
-Uriɣ 85
 aselway 85
 taẓuri 85
 taluft 85
@@ -5344,6 +5344,7 @@ Udsen 63
 taserbukṛuwatit-tamasidunit 63
 talbanit-tagrigit 63
 taspenyulit-taquechuat 63
+yeḥman 62
 tennis 62
 tawinest 62
 ssetta 62
@@ -5405,7 +5406,6 @@ taṭalyanit-tamalṭit 62
 tarusit-tajapunit 62
 tarusit-taspenyulit 62
 tafṛansit-tasangot 62
-yeḥman 61
 Ttḥadar 61
 sebɛa 61
 tḥebseḍ 61
@@ -5490,6 +5490,7 @@ Qerrbeɣ 60
 aman-nni 60
 wudi 60
 d-yekcem 60
+yeḥma 60
 tenna-iyi-d 60
 iyi-yeɛjib 60
 turiḍ 60
@@ -5563,7 +5564,6 @@ Mazal-iyi 59
 iyi-d-yenni 59
 tḍeffa 59
 iḍarren 59
-yeḥma 59
 wafriwen 59
 ssmaḥ 59
 Tdukli 59
@@ -6069,6 +6069,7 @@ d-tawid 53
 taduṭ 53
 aǧilewwas 53
 Ibedd 53
+umejjay 53
 Tewrirt 53
 tidak 53
 Yeɛweq 53
@@ -6149,7 +6150,6 @@ Yegull 52
 ihedder 52
 Iteddu 52
 Yukeḍ 52
-umejjay 52
 unsa 52
 ṭṭrad 52
 ukwas 52
@@ -9973,6 +9973,7 @@ Walmart 28
 apupkuṛn 28
 tnes 28
 tesneflemt 28
+ubrid-nnes 28
 yexdem-d 28
 Ṭṭfet 28
 tiṛumantiyin 28
@@ -9997,4 +9998,3 @@ duru 28
 ijerben 28
 kem-yifen 28
 Lḥeqq 28
-tikmamin 28

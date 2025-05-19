@@ -1,13 +1,13 @@
-k 1697
-is 1534
-t 1393
-n 1328
-Tom 782
-nait 763
+k 1702
+is 1536
+t 1397
+n 1329
+Tom 783
+nait 764
 Hai 569
 van 557
 binnen 493
-dat 432
+dat 434
 Ik 415
 ien 404
 het 384
@@ -24,8 +24,8 @@ de 274
 in 271
 joe 270
 noar 240
+aan 231
 veur 230
-aan 230
 was 229
 Wat 225
 heur 222
@@ -68,7 +68,7 @@ ons 104
 Woarom 101
 doun 100
 Wèl 99
-ie 98
+ie 99
 dit 97
 goan 91
 joen 91
@@ -76,10 +76,10 @@ zain 90
 bin 88
 Hol 87
 muide 87
+hest 85
 mor 85
-hest 84
+e 84
 hai 83
-e 83
 kovvie 83
 Hest 82
 bist 81
@@ -102,12 +102,12 @@ Maria 67
 Zien 67
 Joe 65
 Goa 65
-zel 64
+zel 65
 meer 63
 mörgen 63
 hail 62
+Wil 62
 nou 62
-Wil 61
 vandoag 61
 Houveul 59
 haar 59
@@ -152,11 +152,11 @@ woont 42
 gaauw 41
 Heur 41
 zee 41
+wait 41
 Dou 40
 loat 40
 worden 40
 òf 40
-wait 40
 neudeg 39
 mienent 38
 wel 37
@@ -174,6 +174,7 @@ woar 35
 bruier 35
 Zel 35
 weer 34
+waiten 34
 gong 34
 bouken 34
 kwam 34
@@ -182,8 +183,8 @@ wazzen 34
 Mary 34
 zit 34
 waarken 34
+proaten 33
 kiender 33
-waiten 33
 ogen 33
 zai 33
 laand 33
@@ -193,7 +194,6 @@ Elkenain 33
 guster 33
 wieder 33
 ais 33
-proaten 32
 voak 32
 nije 32
 Engels 32
@@ -275,6 +275,7 @@ traauwen 24
 leest 23
 gaf 23
 thoes 23
+auto 23
 kold 23
 geld 23
 leren 23
@@ -285,7 +286,6 @@ kadde 22
 best 22
 thee 22
 Zuik 22
-auto 22
 vroug 22
 zeggen 22
 most 22
@@ -351,6 +351,8 @@ leden 19
 perbaaiern 19
 verlet 19
 alles 19
+Mout 19
+Most 19
 roadio 19
 wachten 18
 leven 18
@@ -376,7 +378,6 @@ Wor 18
 vizzen 18
 mìnsen 18
 dood 18
-Most 18
 vekaanzie 17
 swemmen 17
 zingen 17
@@ -399,7 +400,6 @@ hangt 17
 net 17
 altied 17
 levent 17
-Mout 17
 handouk 17
 vertelde 17
 Ain 16
@@ -704,6 +704,7 @@ vlaais 9
 speult 9
 pa 9
 begunnen 9
+winnen 9
 negen 9
 begunde 9
 gelukkeg 9
@@ -720,6 +721,7 @@ dezain 9
 gappen 9
 regen 9
 kent 9
+Leuf 9
 vertellen 9
 tussen 9
 Verainde 9
@@ -769,10 +771,10 @@ haarst 8
 Vien 8
 antwoord 8
 kiek 8
+zelst 8
 laanger 8
 vong 8
 wonnen 8
-winnen 8
 Meschain 8
 vuilen 8
 drije 8
@@ -796,7 +798,6 @@ konden 8
 aarg 8
 Gruide 8
 Spoans 8
-Leuf 8
 poar 8
 edik 8
 stee 8
@@ -840,6 +841,7 @@ stoat 8
 stain 8
 Gounent 8
 zörgen 8
+gaaist 8
 vuilde 8
 zaik 8
 nijs 8
@@ -869,13 +871,13 @@ baange 7
 Grunnegs 7
 meziek 7
 at 7
-zelst 7
 pioano 7
 Hond 7
 zun 7
 raaizen 7
 meert 7
 appel 7
+laigen 7
 staarven 7
 bedoulen 7
 bleven 7
@@ -935,6 +937,7 @@ ooit 7
 zo'n 7
 sunt 7
 zeuns 7
+regent 7
 kirrel 7
 stim 7
 vogels 7
@@ -946,7 +949,6 @@ wizze 7
 munten 7
 Tatoeba 7
 votdoadelk 7
-gaaist 7
 hìn 7
 Zo 7
 schient 7
@@ -993,7 +995,6 @@ heugen 6
 zeuventien 6
 oktober 6
 keuken 6
-laigen 6
 pèn 6
 Wordt 6
 laifde 6
@@ -1066,7 +1067,6 @@ plietsie 6
 dingen 6
 moes 6
 Ruslaand 6
-regent 6
 zoveul 6
 kwastjed 6
 vaarver 6
@@ -1340,6 +1340,7 @@ staaist 5
 bestaait 5
 Lain 5
 Roadio 5
+dast 5
 blik 5
 studaaiern 5
 vertelden 5
@@ -1614,6 +1615,7 @@ pollood 4
 Aaigen 4
 Steur 4
 tiedens 4
+Mos 4
 Handouk 4
 handouken 4
 verschillende 4
@@ -1641,6 +1643,7 @@ koezen 4
 kat 4
 interesse 4
 parreplu 4
+Dinkst 4
 vertoaling 4
 deure 4
 Je 4
@@ -1649,6 +1652,7 @@ verwacht 4
 nust 4
 kerk 4
 tegenover 4
+dastoe 4
 doarveur 4
 toavend 3
 verstoan 3
@@ -2074,12 +2078,10 @@ vanmörgen 3
 bult 3
 pobben 3
 Steurde 3
-Mos 3
 aandern 3
 dokerg 3
 Mis 3
 wind 3
-dast 3
 kozen 3
 oma 3
 ongezond 3
@@ -2124,7 +2126,6 @@ kimme 3
 gerust 3
 kist 3
 drónken 3
-Dinkst 3
 derin 3
 kerakter 3
 wos 3
@@ -2721,6 +2722,7 @@ nuimde 2
 eulifanten 2
 Azioatische 2
 Pèn 2
+Idee 2
 drinkwotter 2
 Donald 2
 vroagtaiken 2
@@ -3269,6 +3271,7 @@ bom 2
 Amerikoanse 2
 begrepen 2
 bootje 2
+deurgoan 2
 flaauw 2
 genóg 2
 dinkst 2
@@ -3282,7 +3285,6 @@ störven 2
 Gainent 2
 wizzelkoers 2
 Iesder 2
-dastoe 2
 krigst 2
 woarin 2
 bieholden 2
@@ -4783,7 +4785,6 @@ Soavends 1
 scheurd 1
 toerist 1
 scheert 1
-Idee 1
 lasagne 1
 ovent 1
 snaachts 1
@@ -6974,7 +6975,6 @@ verloat 1
 veurdracht 1
 blaik 1
 aangst 1
-deurgoan 1
 benul 1
 appelsienensap 1
 zieden 1
@@ -7272,3 +7272,8 @@ verstaind 1
 vertoald 1
 verstainde 1
 uutdrukkens 1
+overleven 1
+Dinken 1
+zingst 1
+Wind 1
+roazen 1

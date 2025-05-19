@@ -7,14 +7,14 @@ du 5139
 en 5138
 på 4858
 det 4748
-i 4595
+i 4596
 har 4239
-Det 3884
+Det 3885
 Han 3409
 jag 3153
 mig 2721
 för 2701
-här 2662
+här 2663
 var 2607
 med 2457
 till 2376
@@ -28,7 +28,7 @@ dig 1890
 den 1837
 kan 1679
 Du 1602
-av 1601
+av 1602
 han 1263
 kommer 1256
 sig 1223
@@ -215,8 +215,8 @@ visste 175
 kaffe 174
 namn 174
 Skulle 172
-gjort 170
 håller 169
+gjort 169
 står 169
 språk 167
 Kom 166
@@ -806,6 +806,7 @@ dansa 41
 anledning 41
 förstod 41
 Fadil 41
+stranden 40
 Tokyo 40
 början 40
 stolt 40
@@ -823,7 +824,6 @@ talade 40
 sällan 40
 tittar 40
 Någon 40
-stranden 39
 cykel 39
 tagit 39
 eget 39
@@ -840,6 +840,7 @@ största 38
 födelsedag 38
 stal 38
 kopp 38
+Klockan 38
 nöjd 38
 stad 38
 snö 38
@@ -854,7 +855,6 @@ klara 38
 Går 38
 fängelse 37
 Polisen 37
-Klockan 37
 spanska 37
 trettio 37
 långa 37
@@ -876,6 +876,7 @@ stoppa 36
 Fick 36
 semester 35
 nej 35
+regnar 35
 fler 35
 allting 35
 skall 35
@@ -899,7 +900,7 @@ Snälla 35
 vattnet 35
 finska 35
 gråter 35
-regnar 34
+åtta 34
 kniv 34
 väntade 34
 buss 34
@@ -932,7 +933,6 @@ modersmål 34
 ändra 34
 Stanna 34
 annorlunda 34
-åtta 33
 sätta 33
 söndag 33
 veckor 33
@@ -2104,6 +2104,7 @@ beklagar 12
 alkohol 12
 grönt 12
 döv 12
+kvart 12
 risk 12
 Filmen 12
 sänka 12
@@ -2237,7 +2238,6 @@ jobbade 11
 fötterna 11
 ångrar 11
 föreslår 11
-kvart 11
 vete 11
 Fåglar 11
 vardagsrummet 11
@@ -3811,6 +3811,7 @@ såra 6
 lukten 6
 skolans 6
 smög 6
+görs 6
 vass 6
 vippen 6
 sångerska 6
@@ -4410,7 +4411,6 @@ avser 5
 grått 5
 historier 5
 avslutade 5
-görs 5
 odlar 5
 insisterade 5
 Framtiden 5

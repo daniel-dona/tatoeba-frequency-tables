@@ -2,12 +2,12 @@ est 10456
 et 4884
 in 4664
 Thomas 3655
-non 3606
+non 3607
 sunt 2294
 ad 1775
 mihi 1649
 / 1569
-esse 1466
+esse 1467
 sum 1398
 me 1356
 ut 1143
@@ -37,7 +37,7 @@ meus 575
 sed 556
 Hoc 537
 Cur 531
-id 489
+id 490
 Thōmās 478
 Et 466
 Hic 464
@@ -75,7 +75,7 @@ nunc 317
 opus 314
 ab 311
 Si 310
-tuum 308
+tuum 309
 si 305
 Nihil 304
 eo 304
@@ -905,6 +905,7 @@ possit 39
 intellego 39
 nova 39
 Tum 39
+debet 39
 Qua 39
 amare 39
 Novi 39
@@ -929,7 +930,6 @@ potui 38
 pulchrum 38
 hominibus 38
 silva 38
-debet 38
 Horologium 38
 vocor 38
 dominus 38
@@ -1434,6 +1434,7 @@ liberis 25
 ambulat 25
 vesperi 25
 Omnibus 25
+Patrem 25
 regina 25
 fluminis 25
 equi 25
@@ -1493,7 +1494,6 @@ Audi 24
 venisti 24
 videbatur 24
 audio 24
-Patrem 24
 diligenter 24
 solem 24
 calamum 24
@@ -4269,6 +4269,7 @@ lavabit 8
 nubilum 8
 nigrum 8
 antiquam 8
+videbam 8
 sedere 8
 frigidarium 8
 fumat 8
@@ -4784,7 +4785,6 @@ inimicus 7
 Pulchrum 7
 quartam 7
 Bibliotheca 7
-videbam 7
 geographicam 7
 publicorum 7
 legam 7

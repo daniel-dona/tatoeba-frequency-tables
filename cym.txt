@@ -1,4 +1,4 @@
-yn 559
+yn 560
 i 343
 Mae 289
 y 199
@@ -16,8 +16,8 @@ ti 78
 ti'n 70
 a 68
 yr 68
+Mae'r 67
 hi'n 67
-Mae'r 66
 chi 65
 fy 64
 bod 62
@@ -374,6 +374,7 @@ ginio 4
 cinio 4
 bachgen 4
 deg 4
+llaeth 4
 cerddoriaeth 4
 gi 4
 neb 4
@@ -493,7 +494,6 @@ reis 3
 tu 3
 gennyf 3
 llythyr 3
-llaeth 3
 coch 3
 fach 3
 Ai 3
@@ -530,6 +530,7 @@ wragedd 3
 ffyn 3
 Cath 3
 Eto 3
+boeth 3
 faint 3
 mab 3
 wahanol 3
@@ -787,7 +788,6 @@ chwerthin 2
 mhen 2
 cof 2
 arna' 2
-boeth 2
 Cadwch 2
 wrthyf 2
 gwallt 2

@@ -1,5 +1,5 @@
 la 1779
-de 1739
+de 1740
 a 1601
 que 1530
 el 1364
@@ -42,9 +42,9 @@ té 175
 seu 173
 Em 172
 són 164
+ser 164
 li 163
 seva 163
-ser 163
 tot 158
 què 154
 si 152
@@ -99,9 +99,9 @@ teva 85
 ella 84
 fet 83
 Tinc 83
+Això 82
+tres 82
 menjar 82
-Això 81
-tres 81
 vida 81
 tinc 79
 us 79
@@ -213,6 +213,7 @@ Sami 41
 Quina 40
 persona 40
 matí 40
+deu 40
 llegir 40
 pena 40
 demà 39
@@ -226,7 +227,6 @@ han 39
 música 39
 Ells 39
 d'un 39
-deu 39
 agrada 39
 també 39
 escriure 39
@@ -253,6 +253,7 @@ passat 36
 dona 36
 mica 36
 Ens 36
+difícil 35
 vist 35
 vegades 35
 francès 35
@@ -261,7 +262,6 @@ ets 35
 tenia 35
 bisexual 35
 fill 34
-difícil 34
 germà 34
 pots 34
 ni 34
@@ -272,6 +272,7 @@ dues 33
 Déu 33
 així 33
 primer 33
+Són 33
 problema 33
 vegada 33
 m'ha 33
@@ -279,7 +280,6 @@ sembla 32
 paraula 32
 poder 32
 Pots 32
-Són 32
 uns 32
 seves 32
 amics 31
@@ -611,8 +611,10 @@ fas 14
 Potser 14
 pau 14
 tal 14
+quarts 14
 filla 14
 costat 14
+vuit 14
 vostra 14
 any 14
 lliure 14
@@ -662,9 +664,7 @@ pensar 13
 mestre 13
 calor 13
 homes 13
-quarts 13
 car 13
-vuit 13
 veig 13
 càmera 13
 m'he 13
