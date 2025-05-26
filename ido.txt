@@ -1,4 +1,4 @@
-esas 3090
+esas 3093
 Me 2431
 la 2300
 ne 1422
@@ -22,7 +22,7 @@ e 371
 volas 365
 povas 322
 tre 311
-Tu 303
+Tu 304
 por 284
 il 280
 Mea 277
@@ -81,8 +81,8 @@ ca 100
 ankore 98
 quale 97
 per 96
+Quo 96
 mustas 96
-Quo 95
 linguo 94
 ta 93
 sur 93
@@ -110,7 +110,7 @@ Quale 80
 bone 80
 nova 78
 dum 78
-aquo 77
+aquo 78
 su 75
 vivo 74
 devas 74
@@ -150,8 +150,8 @@ laboras 56
 tempo 55
 tante 55
 elu 55
+Deo 55
 nultempe 54
-Deo 54
 amiki 53
 irar 52
 Omna 52
@@ -1115,6 +1115,7 @@ chanjas 7
 griza 7
 Skura 7
 Afrika 7
+falsa 7
 jeneroza 7
 violacis 7
 kulo-frapis 7
@@ -1265,7 +1266,6 @@ urso 6
 ruzoza 6
 musi 6
 yuno 6
-falsa 6
 parturis 6
 Drinkez 6
 Ludez 6
@@ -8771,3 +8771,4 @@ dek-e-sis 1
 dek-e-sep 1
 dek-e-non 1
 bugis 1
+porkacho 1

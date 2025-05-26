@@ -49,8 +49,8 @@ dein 32
 aam 32
 dich 32
 deer 30
+was 30
 mache 30
-was 29
 Wo 29
 Deer 29
 Waromm 27
@@ -276,6 +276,7 @@ Keen 6
 acht 6
 du 6
 Wenn-der 6
+Saa 6
 hogh 6
 aanhalle 6
 Vaam-mer 6
@@ -333,7 +334,6 @@ Kaffi 5
 gehn-ich 5
 wenn 5
 schwimme 5
-Saa 5
 mechte 5
 lang 5
 Brief 5
@@ -399,6 +399,7 @@ ehnder 5
 gelecheld 5
 Spass 5
 Nochber 5
+Knuwloch 5
 aangehall 5
 zurick 4
 Willst-du 4
@@ -501,7 +502,6 @@ streificher 4
 Blusong 4
 Ess 4
 dëleteere 4
-Knuwloch 4
 Meeghd-s 4
 meerst 4
 hon's 3
@@ -986,7 +986,6 @@ lamsamer 2
 gestann 2
 lechle 2
 Billioneer 2
-sechste 2
 Meeghd-der 2
 Reiche 2
 meerste 2
@@ -2036,10 +2035,11 @@ Fielst-du 1
 Mannle 1
 rausgehol 1
 Keller 1
-finnefte 1
+sechsde 1
+sechsd 1
+finnefde 1
 Stock 1
-Neinte 1
-Znuwloch 1
+Neinde 1
 riechst 1
 Meeghst-du 1
 Meeghde-mer 1
@@ -2113,3 +2113,4 @@ Ferspreche 1
 sollde 1
 Fespreche 1
 Reghle 1
+scheenes 1

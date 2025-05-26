@@ -1,4 +1,4 @@
-je 1122
+je 1124
 Ali 235
 se 230
 v 202
@@ -45,8 +45,8 @@ kot 36
 Kje 35
 Sem 35
 dan 34
+po 33
 ga 32
-po 32
 ali 31
 Ona 31
 govorim 31
@@ -1299,6 +1299,7 @@ recikliranju 2
 strehi 2
 Resno 2
 tvojo 2
+jedi 2
 Pusti 2
 meni 2
 Tomova 2
@@ -2746,7 +2747,6 @@ prdnil 1
 Sladoled 1
 izmed 1
 najslabših 1
-jedi 1
 zdravstvenega 1
 vidika 1
 poješ 1
@@ -4769,3 +4769,8 @@ varuje 1
 Nimamo 1
 Oznanjam 1
 veselje: 1
+Apetit 1
+želja 1
+Egipt 1
+darilo 1
+Nila 1

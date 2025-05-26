@@ -1,4 +1,4 @@
-je 1766
+je 1767
 se 648
 u 562
 sam 474
@@ -21,7 +21,7 @@ On 149
 To 129
 ti 126
 te 120
-me 117
+me 119
 smo 110
 s 107
 će 102
@@ -216,6 +216,7 @@ zna 17
 školu 17
 dovoljno 17
 želim 17
+jezik 17
 govoriti 17
 Na 17
 tebe 17
@@ -230,7 +231,6 @@ neće 16
 mora 16
 nikada 16
 bez 16
-jezik 16
 psa 16
 znati 16
 Bilo 16
@@ -573,6 +573,7 @@ djecu 7
 odgovor 7
 plakati 7
 umro 7
+Boli 7
 dobiti 7
 problema 7
 Većina 7
@@ -794,7 +795,6 @@ Rim 5
 Pada 5
 glavu 5
 ocu 5
-Boli 5
 čak 5
 naći 5
 rođen 5
@@ -1915,6 +1915,7 @@ je" 2
 naučim 2
 Biti 2
 mali 2
+dar 2
 politici 2
 društvo 2
 Koju 2
@@ -3409,7 +3410,6 @@ sudjelovao 1
 razgovoru 1
 drago 1
 primi 1
-dar 1
 činjenica 1
 zaboravljena 1
 Pobijedili 1
@@ -8485,3 +8485,6 @@ idiot 1
 Laju 1
 vukovi 1
 živite 1
+želudac 1
+Egipat 1
+Nila 1

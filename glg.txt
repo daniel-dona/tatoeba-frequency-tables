@@ -1,14 +1,14 @@
 a 1490
 que 1400
-de 1300
-o 1256
-é 949
+de 1301
+o 1257
+é 951
 non 686
-O 638
+O 639
 e 632
 un 628
 A 552
-unha 492
+unha 494
 Non 474
 do 400
 en 384
@@ -44,8 +44,8 @@ como 130
 ser 116
 hai 113
 casa 107
+pero 102
 todo 102
-pero 101
 facer 101
 foi 101
 moito 100
@@ -166,12 +166,12 @@ Como 40
 ata 39
 hora 39
 menos 39
+gran 39
 demasiado 38
 días 38
 irmán 38
 boa 38
 escola 38
-gran 38
 quero 37
 moitos 37
 estar 37
@@ -229,11 +229,11 @@ erro 29
 vivir 29
 sexa 29
 preto 29
+comer 29
 fillo 29
 palabras 29
 momento 28
 ninguén 28
-comer 28
 difícil 27
 Só 27
 cidade 27
@@ -288,6 +288,7 @@ traducir 23
 ceo 23
 guerra 23
 Canto 23
+María 23
 E 23
 morreu 22
 vello 22
@@ -300,7 +301,6 @@ alto 22
 cara 22
 di 22
 outro 22
-María 22
 Agora 22
 alguén 22
 Meu 22
@@ -840,6 +840,7 @@ aí 8
 única 8
 armas 8
 connosco 8
+desexo 8
 comete 8
 teña 8
 intelixencia 8
@@ -946,7 +947,6 @@ piano 7
 oración 7
 puiden 7
 oficina 7
-desexo 7
 aprende 7
 tirar 7
 sono 7
@@ -1117,6 +1117,7 @@ monte 6
 Deixou 6
 sufrir 6
 África 6
+escoita 6
 atopei 6
 luns 6
 política 6
@@ -1353,7 +1354,6 @@ Debería 5
 Síntoo 5
 verdadeiro 5
 teito 5
-escoita 5
 chinés 5
 mestra 5
 esquerda 5
@@ -2408,6 +2408,7 @@ conseguiu 3
 deches 3
 expertos 3
 medren 3
+mala 3
 amante 3
 esas 3
 "Que 3
@@ -2961,6 +2962,7 @@ sona 2
 ledo 2
 estiveses 2
 mantenta 2
+apetito 2
 décimo 2
 naceu 2
 lavala 2
@@ -3779,7 +3781,6 @@ expresións 2
 enfadados 2
 equilibrio 2
 negra 2
-mala 2
 cisne 2
 valiosa 2
 existencia 2
@@ -5401,7 +5402,6 @@ vestíbulo 1
 tiñamos 1
 agredilo 1
 Pecha 1
-apetito 1
 buscas 1
 capital 1
 Ucraína 1

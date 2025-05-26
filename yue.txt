@@ -4,14 +4,14 @@
 —— 470
  417
 — 371
-。 266
+。 267
 – 258
-同 212
+同 219
 Greg 189
 … 174
 Tom 138
-、 123
-% 107
+、 124
+% 109
 」 94
 1 84
 Michael 78
@@ -56,13 +56,13 @@ a 25
 : 24
 de 24
 100 23
+t 23
 Jessica 23
 Mary 22
 X 22
 嘅 22
 George 21
 根據 21
-t 21
 德 21
 L 21
 cafe 20
@@ -204,6 +204,7 @@ Khang 8
 UFO 8
 3D 8
 Weena 8
+Hz 8
 我去咗 8
 Nabhi 8
 Jason 8
@@ -211,6 +212,7 @@ Les 8
 Francis 8
 Jot 8
 Galaxy 8
+PVI 8
 Bob 7
 cha 7
 zugzwang 7
@@ -222,6 +224,7 @@ q 7
 Instagram 7
 Maya 7
 Kevin 7
+V 7
 由 7
 我喺 7
 「但係 7
@@ -231,13 +234,13 @@ DVD 7
 Luna 7
 14 7
 El 7
+& 7
 Salma 7
 40 7
 我見到 7
 18 7
 JRR 7
 Eva 7
-Hz 7
 GNU 7
 我有冰紅茶。 7
 ube 7
@@ -265,7 +268,6 @@ Pona 6
 Kabyle 6
 le 6
 Ken 6
-& 6
 同節點 6
 之間有連結（可以由節點 6
 行去節點 6
@@ -291,6 +293,7 @@ Crocs 6
 Rust 6
 Pulsar 6
 Fonzo 6
+%V 6
 Ed 5
 iPhone 5
 2020 5
@@ -331,7 +334,6 @@ N 5
 但係我會永遠同你講我哋面對嘅挑戰。 5
 » 5
 wwwlang-8com。 5
-V 5
 Alma 5
 你想翻譯嘅語言 5
 Sam 5
@@ -720,6 +722,7 @@ Lola 3
 we 3
 can。我哋可以做到。 3
 FigHunter 3
+BY-SA 3
 天空係藍色嘅。 3
 LL 3
 今日係2025年1月28號，喺呢度露露島。 3
@@ -737,6 +740,7 @@ gat 3
 我喺嗰度睇緊羅伯特 3
 菲律賓咖啡師 3
 Marian 3
+The 3
 unu 3
 du 3
 tri 3
@@ -822,6 +826,8 @@ Laila 3
 و 3
 بۆ 3
 له‌ 3
+ΔC 3
+nPVI_V 3
 CD 2
 party 2
 早晨。 2
@@ -1583,7 +1589,7 @@ lulz 2
 如果我哋喺所有嘢都好似你噉，噉我哋都想喺呢方面都好似你噉。 2
 報仇！ 2
 仲要報仇！ 2
-BY-SA 2
+CC 2
 Obi 2
 Wan 2
 大衛 2
@@ -1664,7 +1670,6 @@ Gattopardo 2
 Risa 2
 有售貨員 2
 ，佢係斯里蘭卡血統。 2
-The 2
 View 2
 我同中國人 2
 我飲冰紅茶 2
@@ -1955,6 +1960,9 @@ nani 2
 AWSTRALYA 2
 ANG 2
 MGA 2
+BonnTempo 2
+VarcoC 2
+rPVI_C 2
 唔知聽日天氣會點呢？ 1
 我想搬去鄉下住。 1
 你今日寫咗日記未呀？ 1
@@ -9990,11 +9998,3 @@ Mortal 1
 Coil 1
 嘅專輯《 1
 It'll 1
-End 1
-in 1
-Tears 1
-》入面。 1
-「而家揸慢少少，因為你要小心喺上面。 1
-唔好跟住過橋嘅路，而係向左轉，向漢諾威方向行。 1
-好容易錯過轉彎 1
-而佢已經過咗轉彎喇！」 1
