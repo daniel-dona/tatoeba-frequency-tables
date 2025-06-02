@@ -1,6 +1,6 @@
 lo 12929
 mi 6285
-cu 3546
+cu 3547
 do 3381
 la 3061
 pu 2334
@@ -72,7 +72,7 @@ prami 226
 bangu 224
 ba'o 221
 re 220
-gerku 211
+gerku 212
 je 209
 kakne 198
 mlatu 197
@@ -87,7 +87,7 @@ fo 182
 nitcu 180
 nanmu 180
 karce 178
-lo'e 171
+lo'e 172
 fe 169
 xabju 164
 zo'u 163
@@ -514,6 +514,7 @@ xanka 29
 fenki 29
 ja'a 29
 za 29
+xajmi 29
 krinu 29
 mapti 29
 malsi 29
@@ -523,7 +524,6 @@ tezu'e 28
 skina 28
 nupre 28
 pi'e 28
-xajmi 28
 lodu'u 28
 klaji 28
 grusi 28

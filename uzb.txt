@@ -1,5 +1,5 @@
 Men 77
-Bu 71
+Bu 72
 U 66
 Tom 36
 bor 33
@@ -77,6 +77,7 @@ odam 6
 faqat 6
 emasmi 6
 soat 6
+olib 6
 mumkin 6
 men 6
 учун 5
@@ -95,7 +96,6 @@ ikki 5
 Kecha 5
 bo'ladi 5
 turadi 5
-olib 5
 o'z 5
 Uni 5
 tarjima 5
@@ -459,6 +459,7 @@ iltimos 2
 sevaman 2
 berib 2
 Kitoblarni 2
+qiyin 2
 boshlayman 2
 yashaymiz 2
 Qizimni 2
@@ -539,6 +540,7 @@ xavfsiz 2
 bo'lasizlar 2
 Ertangi 2
 yig‘ilishga 2
+bo‘ladi 2
 to‘rt 2
 sinfda 2
 pulni 2
@@ -1654,7 +1656,6 @@ olingiz 1
 To'g'ri 1
 qilingiz 1
 Bog'da 1
-qiyin 1
 toping 1
 Shaharda 1
 Avtovokzal 1
@@ -2402,7 +2403,6 @@ yutdingizmi 1
 sohasida 1
 o‘yinga 1
 kelolmayman 1
-bo‘ladi 1
 o‘lgan 1
 o‘lmaganman 1
 Kimdir 1
@@ -2496,3 +2496,5 @@ O‘zimizni 1
 koronavirusdan 1
 himoya 1
 ko‘rishaylik 1
+dog‘ni 1
+tashlash 1

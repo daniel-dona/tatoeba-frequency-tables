@@ -1,6 +1,6 @@
 je 1124
 Ali 235
-se 230
+se 231
 v 202
 sem 200
 in 141
@@ -27,7 +27,7 @@ ki 63
 Jaz 60
 bi 58
 Govorim 53
-Kako 51
+Kako 52
 lahko 51
 to 51
 me 49
@@ -147,6 +147,7 @@ ljudje 12
 imaš 12
 življenje 12
 vas 12
+tukaj 12
 Bil 12
 malo 12
 Si 12
@@ -160,7 +161,6 @@ jaz 11
 Ti 11
 prav 11
 videl 11
-tukaj 11
 prijatelj 11
 A 11
 kitajsko 11
@@ -207,6 +207,7 @@ rekel 9
 pri 9
 oči 9
 pet 9
+Živim 9
 psa 9
 hvala 9
 brat 9
@@ -227,7 +228,6 @@ japonsko 8
 Življenje 8
 Dobro 8
 vodo 8
-Živim 8
 življenja 8
 učitelj 8
 Voda 8
@@ -238,6 +238,7 @@ ujgursko 8
 prijateljica 8
 barva 8
 hobi 8
+jezika 8
 Rada 7
 pevka 7
 treba 7
@@ -274,7 +275,6 @@ učiteljica 7
 tisoč 7
 obožujejo 7
 zasebna 7
-jezika 7
 napisal 7
 Dober 6
 list 6
@@ -341,6 +341,7 @@ beseda 6
 stara 6
 sreča 6
 modro 6
+človek 5
 nedelja 5
 sestra 5
 Otroci 5
@@ -468,7 +469,6 @@ boste 4
 naučiti 4
 more 4
 vdova 4
-človek 4
 moč 4
 Slovenska 4
 skrbi 4
@@ -1688,6 +1688,7 @@ govori 2
 Braziliji 2
 morja 2
 učenje 2
+tujega 2
 pomembno 2
 študij 2
 tujih 2
@@ -4295,7 +4296,6 @@ Brazilka 1
 zvezne 1
 države 1
 Ceará 1
-tujega 1
 bojite 1
 Primerjalni 1
 jezikovni 1
@@ -4774,3 +4774,4 @@ Apetit 1
 Egipt 1
 darilo 1
 Nila 1
+nauči 1

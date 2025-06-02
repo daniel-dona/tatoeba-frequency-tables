@@ -1,7 +1,7 @@
 Mun 34
 lea 27
 don 23
-leat 16
+leat 17
 du 14
 Don 13
 Son 12
@@ -54,6 +54,7 @@ Dii 3
 buoremus 3
 áhčči 3
 reivve 3
+ii 3
 lagamus 2
 heasta 2
 ádde 2
@@ -109,7 +110,6 @@ biila 2
 čállit 2
 Čálán 2
 Movt 2
-ii 2
 Sámegielat 1
 Eurohpá 1
 eamigielat 1
@@ -390,3 +390,5 @@ dáid 1
 gažaldagaide 1
 vuorddát 1
 olgun 1
+Mis 1
+poava 1

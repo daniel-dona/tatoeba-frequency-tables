@@ -1,14 +1,14 @@
-an 673
+an 677
 a 643
 Tá 629
 mé 402
-ag 395
+ag 398
 Is 334
 é 270
 ar 244
 tú 219
+go 215
 sé 213
-go 212
 bhfuil 210
 An 208
 seo 193
@@ -27,14 +27,14 @@ Bhí 91
 í 85
 Tom 84
 Tomás 83
-sa 78
-atá 78
+sa 79
+atá 79
 is 74
 leat 73
 sí 73
+Táim 71
 orm 70
 rud 69
-Táim 68
 féidir 68
 agat 65
 mhaith 65
@@ -43,8 +43,8 @@ agus 62
 Ba 60
 dul 55
 ann 55
-leis 53
-Cad 53
+leis 54
+Cad 54
 leabhar 52
 Cén 52
 siad 51
@@ -430,6 +430,7 @@ Fáilte 5
 fhaca 5
 Féach 5
 láthair 5
+tSín 5
 Labhraím 5
 abairt 5
 Tuigeann 5
@@ -533,7 +534,6 @@ ceol 4
 feoil 4
 chóir 4
 rís 4
-tSín 4
 fhoghlaim 4
 foclóir 4
 ticéad 4
@@ -756,6 +756,7 @@ Ghlaoigh 3
 Muiriel 3
 fíor 3
 Suí 3
+bpéinteáil 3
 Tosaíonn 2
 t-oideachas 2
 Nár 2
@@ -956,6 +957,7 @@ Mona 2
 uachtarán 2
 han-mhaith 2
 múineadh 2
+dona 2
 Sualainnis 2
 Tugann 2
 meas 2
@@ -1067,6 +1069,7 @@ sár-éasca 2
 blas 2
 labhart 2
 domsa" 2
+holc 2
 Níorbh 2
 rince 2
 tirim 2
@@ -1677,7 +1680,6 @@ ea" 1
 New 1
 York 1
 thost 1
-dona 1
 sí ina 1
 Léann 1
 chabhróidh 1
@@ -2010,7 +2012,6 @@ mínádúrtha 1
 t-aon 1
 anseo" 1
 coinníollacha 1
-holc 1
 báisteach 1
 gcogadh 1
 Tús 1
@@ -3056,3 +3057,6 @@ Pápa 1
 Múchfar 1
 coinneal 1
 shaoil 1
+Seasaim 1
+Téaváin 1
+hainnis 1

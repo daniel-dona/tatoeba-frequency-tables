@@ -3,7 +3,7 @@ Men 885
 Ol 499
 bilen 444
 Sen 319
-Bu 316
+Bu 317
 üçin 309
 we 286
 bir 221
@@ -91,8 +91,8 @@ bilemok 43
 nädip 43
 Bostona 43
 edýärin 42
+bolar 42
 etmäge 41
-bolar 41
 barmy 40
 seni 40
 Awstraliýada 40
@@ -206,6 +206,7 @@ däldigini 22
 etmegi 22
 Seniñ 22
 Meryñ 22
+kyn 21
 erbet 21
 agşam 21
 aýdýar 21
@@ -216,7 +217,6 @@ adamlar 21
 Maña 21
 size 20
 öýdemok 20
-kyn 20
 bizi 20
 dynç 20
 geçen 20
@@ -240,6 +240,7 @@ Mera 19
 gitjek 18
 bilmeýärin 18
 okap 18
+owadan 18
 irden 18
 soňky 18
 ýer 18
@@ -252,7 +253,6 @@ iñ 18
 öñ 18
 gitmek 17
 aýdym 17
-owadan 17
 maslahat 17
 buny 17
 etmelidigini 17
@@ -603,6 +603,7 @@ señ 8
 Laýlanyň 8
 tokaýa 8
 hemmesini 8
+Dünýä 8
 ýaz 7
 dünýäde 7
 ýaşaýarys 7
@@ -837,7 +838,6 @@ sözler 6
 atasy 6
 bolsañ 6
 riskleri 6
-Dünýä 6
 Dostum 6
 garry 5
 dil 5
@@ -1829,6 +1829,7 @@ isleýändigiňi 3
 mylakatly 3
 $10000 3
 Alžir 3
+owadandyr 3
 şöhle 3
 dostlaryma 3
 ahyry 3
@@ -3075,7 +3076,6 @@ bolmaga 2
 programma 2
 elimi 2
 ýoldaşynyň 2
-owadandyr 2
 hemişeki 2
 ýyldyz 2
 Hepdede 2

@@ -10,12 +10,12 @@ Tom 285
 i 245
 su 225
 mi 218
-Ne 197
+Ne 198
 to 191
 za 170
 si 168
 što 168
-nije 165
+nije 166
 od 154
 On 149
 To 129
@@ -49,8 +49,8 @@ Zašto 51
 bih 51
 ići 51
 Kako 50
+Ovo 50
 Mary 50
-Ovo 49
 tako 49
 može 49
 Želim 49
@@ -121,12 +121,12 @@ Možeš 29
 mene 29
 ćeš 29
 Toma 29
+engleski 28
 godine 28
 posao 28
 auto 27
 mogao 27
 ništa 27
-engleski 27
 Mislim 27
 vrata 26
 Molim 26
@@ -697,6 +697,7 @@ zajedno 6
 Sigurno 6
 moram 6
 žive 6
+rečenica 6
 John 6
 poznaje 6
 sastanak 6
@@ -822,7 +823,6 @@ Pokaži 5
 muškarac 5
 događa 5
 prošli 5
-rečenica 5
 smisla 5
 Radi 5
 Vidio 5
@@ -930,6 +930,7 @@ vaš 4
 promijeniti 4
 hoću 4
 omiljena 4
+govorim 4
 onoga 4
 Vaš 4
 kruha 4
@@ -1242,7 +1243,6 @@ kojem 3
 jedem 3
 marljivo 3
 pitanju 3
-govorim 3
 ustao 3
 jelo 3
 san 3

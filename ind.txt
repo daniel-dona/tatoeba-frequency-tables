@@ -1,8 +1,8 @@
 tidak 3355
-Tom 3288
-Aku 3178
+Tom 3289
+Aku 3180
 yang 3023
-di 2638
+di 2639
 itu 2049
 Dia 1905
 ini 1799
@@ -19,7 +19,7 @@ ke 952
 untuk 871
 ada 852
 dia 796
-dari 765
+dari 766
 pergi 734
 ingin 710
 Apa 707
@@ -48,7 +48,7 @@ pada 429
 banyak 416
 kau 392
 Mereka 392
-sini 381
+sini 382
 pernah 379
 mana 366
 lagi 365
@@ -70,21 +70,21 @@ bukan 285
 Di 283
 Kita 282
 seperti 271
+masih 269
 sebuah 269
-masih 268
 saja 267
 menjadi 260
 baik 258
 belajar 255
 memiliki 253
 Ada 250
+belum 245
 bahwa 245
-belum 244
 satu 242
 semua 240
 tidur 234
 hal 232
-dua 225
+dua 226
 waktu 223
 sekali 221
 buku 218
@@ -140,10 +140,10 @@ mulai 142
 merasa 141
 Jepang 141
 Prancis 141
+kepada 141
 uang 141
 lama 141
 membuat 141
-kepada 140
 lain 140
 terlihat 139
 depan 139
@@ -397,6 +397,7 @@ berbohong 50
 bicara 49
 pohon 49
 cantik 49
+bertanya 49
 mata 49
 seseorang 49
 tadi 49
@@ -406,7 +407,6 @@ Jerman 48
 bahagia 48
 biasanya 48
 berwarna 48
-bertanya 48
 ingat 48
 tertarik 47
 kesalahan 47
@@ -774,6 +774,7 @@ tertidur 23
 bangga 23
 Spanyol 23
 kepadamu 23
+basah 23
 penjara 23
 coba 23
 matematika 23
@@ -797,7 +798,6 @@ Serikat 22
 ruang 22
 permainan 22
 bumi 22
-basah 22
 pendek 22
 sore 22
 ketahui 22
@@ -1706,6 +1706,7 @@ kelihatan 9
 gajah 9
 meter 9
 berkumpul 9
+kilometer 9
 gugur 9
 sehingga 9
 Thailand 9
@@ -1872,7 +1873,6 @@ diketahui 8
 kalinya 8
 Maafkan 8
 sederhana 8
-kilometer 8
 memaafkan 8
 modern 8
 pena 8
@@ -2063,6 +2063,7 @@ bahaya 7
 hukuman 7
 meninggalkanmu 7
 bersemangat 7
+Mesir 7
 memahaminya 7
 lengan 7
 mengobrol 7
@@ -2318,7 +2319,6 @@ kredit 6
 mengejutkan 6
 Kapal 6
 supermarket 6
-Mesir 6
 terlebih 6
 mengetuk 6
 Kakakku 6
@@ -4515,6 +4515,7 @@ dihancurkan 3
 ember 3
 metode 3
 bangkai 3
+licin 3
 perlahan-lahan 3
 Bacalah 3
 natrium 3
@@ -4548,6 +4549,7 @@ bakpau 3
 Gunakan 3
 Washington 3
 Hiroshima 3
+Lantainya 3
 peraturannya 3
 menyerap 3
 terdalam 3
@@ -6275,7 +6277,6 @@ sejengkal 2
 Diberi 2
 Dikasih 2
 sehasta 2
-licin 2
 belaka 2
 burger 2
 pankreas 2
@@ -6540,6 +6541,7 @@ terlemahnya 2
 kardus 2
 menghentikannya 2
 Masjidnya 2
+Jaraknya 2
 27 2
 mangga 2
 bertelur 2
@@ -9996,5 +9998,3 @@ meninjau 1
 miliuner 1
 gunung-gunung 1
 mengirimkanmu 1
-Pintar 1
-Harga-harga 1

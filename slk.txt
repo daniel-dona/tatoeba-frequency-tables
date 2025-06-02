@@ -1,6 +1,6 @@
-je 4481
+je 4488
 sa 3146
-som 2501
+som 2503
 Tom 2255
 si 2111
 to 1821
@@ -8,9 +8,9 @@ na 1493
 že 1427
 v 1148
 a 1007
-Je 727
+Je 728
 mi 701
-sú 611
+sú 615
 by 576
 ste 557
 ako 539
@@ -18,7 +18,7 @@ ako 539
 do 508
 Čo 501
 To 490
-s 451
+s 452
 po 445
 nie 444
 o 442
@@ -29,12 +29,12 @@ Prečo 386
 z 375
 veľmi 373
 mesto 367
-Mám 360
+Mám 361
 sme 355
 mestom 321
+tu 316
 ti 314
 aby 314
-tu 311
 Ako 309
 ma 300
 Kde 288
@@ -42,15 +42,15 @@ Nie 282
 ťa 276
 ho 274
 bol 265
-rád 249
+rád 250
 za 249
 jej 236
 vás 228
 vám 213
 mu 210
 ísť 206
+V 197
 pre 196
-V 196
 hlavné 196
 Toma 193
 Chcem 192
@@ -63,12 +63,12 @@ Kto 174
 ju 173
 Myslím 170
 Koľko 170
+veľa 169
 už 169
-tam 166
+tam 168
 niečo 165
 urobiť 164
 povedal 163
-veľa 161
 hlavným 160
 Už 158
 Tomovi 155
@@ -79,8 +79,8 @@ Ja 153
 rada 153
 Ste 153
 bola 151
+Na 150
 vo 149
-Na 148
 ale 148
 Prosím 147
 ešte 144
@@ -91,15 +91,15 @@ deň 136
 Neviem 135
 nič 133
 dobre 131
-Dnes 126
+Dnes 127
 ja 125
 alebo 125
 kto 124
 Máš 122
 tom 122
 knihu 122
+Máte 121
 francúzsky 120
-Máte 120
 bolo 118
 Kedy 117
 ani 116
@@ -131,9 +131,9 @@ len 101
 Viem 101
 nikdy 100
 toto 100
+Sme 99
 prečo 99
 nás 98
-Sme 98
 Nemám 98
 Ona 96
 toho 96
@@ -146,12 +146,12 @@ viac 92
 Má 92
 svoje 91
 mám 91
+doma 91
 teraz 91
 teba 90
 Včera 89
 Moja 89
 povedať 89
-doma 89
 nám 89
 A 88
 Tento 88
@@ -178,9 +178,9 @@ stalo 76
 bez 76
 Ešte 76
 Vieš 76
+Máme 76
 anglicky 75
 Teraz 75
-Máme 75
 ten 74
 iba 74
 list 74
@@ -201,6 +201,7 @@ všetky 70
 ráno 70
 Ďakujem 70
 Boh 70
+Zajtra 70
 Ty 69
 kávu 69
 či 69
@@ -208,7 +209,6 @@ slovo 69
 ktorý 68
 Nič 68
 robiť 68
-Zajtra 68
 zo 67
 stále 67
 chce 67
@@ -284,23 +284,23 @@ oči 50
 vaše 50
 dosť 49
 spať 49
+svete 49
 medzi 49
 lepšie 49
+hudbu 49
 mačka 49
+Chcel 49
 príde 48
 Nechcem 48
 noc 48
 jesť 48
-hudbu 48
 Pozri 48
 vody 48
 Aj 47
 svojej 47
 neviem 47
 Mali 47
-svete 47
 brat 47
-Chcel 47
 Musíš 46
 tvoje 46
 Môžeš 46
@@ -309,6 +309,7 @@ poriadku 46
 všetci 45
 pomoc 45
 tejto 45
+Bolo 45
 Dúfam 45
 budem 45
 Dobre 45
@@ -317,6 +318,8 @@ Aká 44
 sama 44
 radi 44
 tomu 44
+krajina 44
+Tu 44
 každý 44
 nebol 44
 šiel 44
@@ -327,17 +330,14 @@ Hovorím 44
 chcete 44
 vidím 44
 jeden 43
-Bolo 43
 Keď 43
 znova 43
 pravda 43
-Tu 43
 chcel 42
 musí 42
 stojí 42
 šťastný 42
 prácu 42
-krajina 42
 Zem 42
 robí 42
 pondelok 42
@@ -387,11 +387,12 @@ Stále 38
 Nehovorím 38
 štyri 37
 ním 37
+Môžete 37
 píše 37
 problém 37
 muž 37
+zostať 37
 peňazí 37
-Môžete 36
 budeš 36
 vodu 36
 syn 36
@@ -402,7 +403,6 @@ krásna 36
 času 36
 Ľudia 36
 Musíte 36
-zostať 36
 znamená 36
 kedy 35
 nej 35
@@ -412,6 +412,7 @@ strom 35
 svojich 35
 on 35
 chlieb 35
+ryby 34
 Daj 34
 dobrá 34
 ktorá 34
@@ -431,7 +432,6 @@ Možno 34
 Videla 34
 päť 33
 desať 33
-ryby 33
 okolo 33
 izbe 33
 stôl 33
@@ -494,6 +494,7 @@ slovensky 31
 vlak 30
 slovník 30
 Zdá 30
+nami 30
 nevidel 30
 života 30
 Bostonu 30
@@ -506,7 +507,6 @@ niekoľko 29
 odišiel 29
 mala 29
 dieťa 29
-nami 29
 hore 29
 vaša 29
 kúpiť 29
@@ -577,6 +577,7 @@ Ten 26
 najlepšie 26
 Počul 26
 skôr 26
+Európe 26
 Veľa 26
 chorý 26
 nemohol 26
@@ -600,7 +601,6 @@ môjho 25
 lekár 25
 Urobila 25
 roky 25
-Európe 25
 otázku 25
 srdce 25
 priateľov 25
@@ -664,6 +664,7 @@ zviera 23
 budú 23
 myslíte 23
 My 23
+Oni 23
 celkom 23
 taká 23
 treba 23
@@ -693,7 +694,6 @@ jednu 22
 pije 22
 podľa 22
 Poviem 22
-Oni 22
 nikto 22
 utorok 22
 jedia 22
@@ -737,6 +737,7 @@ farba 21
 Často 21
 zmysel 21
 denník 21
+Chcela 21
 Zbožňujem 21
 Boha 20
 proti 20
@@ -752,6 +753,7 @@ pekne 20
 pero 20
 počuť 20
 tancovať 20
+biele 20
 Voda 20
 tá 20
 Niekto 20
@@ -821,7 +823,6 @@ Vďaka 19
 obľúbená 19
 sedí 19
 vedomý 19
-Chcela 19
 keby 18
 Jeden 18
 sedem 18
@@ -863,7 +864,6 @@ Náš 17
 denne 17
 obed 17
 Dala 17
-biele 17
 nemajú 17
 Mohli 17
 spokojný 17
@@ -883,6 +883,7 @@ Nemá 17
 pravdepodobne 17
 kôň 17
 Poď 17
+radšej 17
 Počula 17
 ktorej 17
 ťažký 17
@@ -936,7 +937,6 @@ láska 16
 čaká 16
 zeleninu 16
 stal 16
-radšej 16
 otázok 16
 Vlak 16
 bojí 16
@@ -1291,6 +1291,7 @@ Niet 11
 najbližšia 11
 Londýne 11
 asi 11
+zomrieť 11
 stará 11
 Niektorí 11
 myslí 11
@@ -1414,6 +1415,7 @@ kam 10
 nedeľu 10
 slnko 10
 stromom 10
+Ruže 10
 narodila 10
 kina 10
 potrebné 10
@@ -1571,7 +1573,6 @@ krajine 9
 pozostáva 9
 lepší 9
 myslia 9
-Ruže 9
 búrka 9
 Preto 9
 pomalšie 9
@@ -1580,6 +1581,7 @@ Zavolaj 9
 „To 9
 nenávidia 9
 posledný 9
+štátov 9
 koniec 9
 Učiteľ 9
 sľúbil 9
@@ -1808,6 +1810,7 @@ pozrel 8
 bicykel 8
 matku 8
 sviečku 8
+Ony 8
 ďalšie 8
 Tvoje 8
 Obloha 8
@@ -1965,6 +1968,7 @@ Sudánu 8
 delené 8
 pápež 8
 prezident 8
+komárov 8
 búrky 7
 národu 7
 stanice 7
@@ -1979,7 +1983,6 @@ piva 7
 svojim 7
 Tí 7
 dvaja 7
-zomrieť 7
 Poľska 7
 mäsa 7
 brať 7
@@ -2018,7 +2021,6 @@ jazera 7
 Kôň 7
 voláš 7
 nemôžeme 7
-štátov 7
 Pamätáte 7
 srdcom 7
 očiam 7
@@ -2066,7 +2068,6 @@ takže 7
 Otvoril 7
 obchod 7
 ukradol 7
-Ony 7
 smädná 7
 dôkaz 7
 Pamätám 7
@@ -2316,6 +2317,7 @@ lenivý 6
 Taliansku 6
 bratov 6
 meč 6
+Francúzsko 6
 Kristus 6
 hry 6
 mysli 6
@@ -2744,6 +2746,7 @@ Kvôli 5
 sprievodcom 5
 10 5
 konca 5
+krajín 5
 nakupovať 5
 úžasný 5
 Bohužiaľ 5
@@ -2758,7 +2761,6 @@ Počúvam 5
 Miluješ 5
 čistý 5
 Čítam 5
-Francúzsko 5
 nepočuje 5
 bábätko 5
 čiapku 5
@@ -2802,6 +2804,7 @@ bábiku 5
 výpoveď 5
 Umývam 5
 dôchodku 5
+zostanem 5
 sťažovať 5
 ohľadu 5
 sklamaní 5
@@ -3289,7 +3292,6 @@ nedokáže 4
 júna 4
 žiaden 4
 najkrajšia 4
-krajín 4
 Varšava 4
 krásnu 4
 blond 4
@@ -4461,7 +4463,6 @@ hlasno 3
 tamto 3
 tretina 3
 nesúhlasil 3
-zostanem 3
 ospravedlniť 3
 Pôjdeme 3
 Polovica 3
@@ -5000,6 +5001,7 @@ zostaneš 3
 trošku 3
 výborne 3
 rezerváciu 3
+Steny 3
 slovesa 3
 činnosť 3
 palube 3
@@ -6925,7 +6927,6 @@ prvej 2
 zajednané 2
 vyrobil 2
 Urobte 2
-Steny 2
 Usmiali 2
 Rodina 2
 základnou 2
@@ -7875,6 +7876,7 @@ vajec 2
 požiarnik 2
 hasič 2
 prekrásnu 2
+bieli 2
 trasú 2
 korytnačka 2
 najmladší 2
@@ -8849,6 +8851,8 @@ Egypt 2
 opakom 2
 Porušuješ 2
 naraz 2
+197 2
+katolícka 2
 Penis 1
 mužských 1
 pohlavných 1
@@ -9994,7 +9998,3 @@ Toma" 1
 zavolať" 1
 ľúbi 1
 Cestovať 1
-účel 1
-Žraloky 1
-nechytíme 1
-Zaparkoval 1

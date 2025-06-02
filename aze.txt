@@ -1,7 +1,7 @@
 Mən 664
 O 456
 Tom 407
-Bu 357
+Bu 360
 var 252
 bir 220
 nə 181
@@ -19,18 +19,18 @@ Onlar 95
 üçün 91
 yaxşı 81
 Onun 73
+mənə 72
 istəyirəm 71
 bu 70
-mənə 70
 Tomun 70
 Siz 69
 vaxt 66
 daha 63
 deyiləm 63
+yoxdur 59
 də 59
 onu 59
 edirəm 58
-yoxdur 57
 o 56
 mən 55
 gün 55
@@ -61,14 +61,14 @@ Nə 35
 ən 35
 sənə 35
 etdi 35
+yox 34
 kitab 34
 burada 34
 Toma 34
-yox 33
+Bizim 33
 bilmirəm 33
 kömək 33
 yaşayır 33
-Bizim 32
 onun 32
 edə 32
 alma 32
@@ -111,11 +111,11 @@ Niyə 23
 evə 23
 Tomu 23
 Sizin 22
+İndi 22
 danışa 22
 baş 22
 ölkədir 22
 Meri 22
-İndi 21
 belə 21
 etmək 21
 Heç 21
@@ -147,6 +147,7 @@ az 18
 getdim 18
 Ona 18
 etməyə 18
+gecə 18
 qulaq 18
 saat 18
 sizə 18
@@ -156,10 +157,11 @@ dörd 17
 gördüm 17
 böyükdür 17
 Yeni 17
-gecə 17
 danışır 17
+olacaq 17
 bilərsən 17
 başqa 17
+verdi 17
 dilini 17
 sən 17
 bilərəm 16
@@ -171,11 +173,9 @@ Sənə 16
 paytaxtı 16
 xoşbəxt 16
 istəmir 16
-olacaq 16
 olar 16
 ver 16
 Əgər 16
-verdi 16
 yerləşir 16
 çay 16
 səhər 15
@@ -282,6 +282,7 @@ beş 9
 oxumaq 9
 zəhləsi 9
 aldı 9
+çətin 9
 səninlə 9
 Çin 9
 düşünürəm 9
@@ -336,7 +337,6 @@ ehtiyac 8
 it 8
 soyuq 8
 tamamilə 8
-çətin 8
 deyildir 8
 Çay 8
 ehtiyacım 8
@@ -469,6 +469,7 @@ uşaqlar 7
 kahı 7
 Tom-un 7
 Saat 6
+vaxtı 6
 kitabdır 6
 içdim 6
 Bəli 6
@@ -589,7 +590,6 @@ Qızımı 6
 Hə 5
 Salam 5
 çin 5
-vaxtı 5
 doğulmuşam 5
 Amerika 5
 danışırsan 5
@@ -770,6 +770,8 @@ Azərbaycanda 4
 yaşadı 4
 biridir 4
 səbəb 4
+sual 4
+vermək 4
 İstədiyini 4
 pisdir 4
 qəhvə 4
@@ -1025,8 +1027,6 @@ sualıma 3
 şam 3
 gizli 3
 şeyin 3
-sual 3
-vermək 3
 qaldırdı 3
 işi 3
 bilmədi 3
@@ -1105,6 +1105,7 @@ sənsən 3
 saatlarla 3
 buradan 3
 yatıram 3
+Qar 3
 oyun 3
 apar 3
 getməlisən 3
@@ -1179,6 +1180,7 @@ Səncə 3
 oynayırdı 3
 ərə 3
 olmadan 3
+verib 3
 Ehtiyatlı 3
 öyrəndik 3
 gələni 3
@@ -1314,6 +1316,7 @@ xatırlayıram 3
 mənəm 3
 Kişi 3
 nəzərdə 3
+babam 3
 sürücülük 3
 vəsiqəsi 3
 dilim 3
@@ -1400,6 +1403,7 @@ almalısan 3
 Aşpaz 3
 tanıyıram 3
 qəşəngdir 3
+Papamız 3
 Sabahınız 2
 Qəzetim 2
 haqqındadır 2
@@ -1662,7 +1666,7 @@ Təəssüf 2
 İkinci 2
 əvvəlki 2
 gücü 2
-Qar 2
+yağırdı 2
 tort 2
 qardaş 2
 təşkil 2
@@ -1806,7 +1810,6 @@ yaşamıram 2
 gəlirsən 2
 Ördək 2
 çıxdı 2
-verib 2
 pişiyin 2
 qapıları 2
 "Sən 2
@@ -2079,6 +2082,7 @@ sözləri 2
 birbaşa 2
 gözləyin 2
 göndərdi 2
+məndədir 2
 bayırda 2
 zarafat 2
 yapon 2
@@ -2518,6 +2522,8 @@ xaricə 2
 Romanı 2
 sevdiyiniz 2
 sevdiyin 2
+növbəsi 2
+bıçağı 2
 xanımlar 1
 vә 1
 cәnablar 1
@@ -3492,7 +3498,6 @@ ağaclarının 1
 toxumlarından 1
 yetişdiyini 1
 bilmirdi 1
-yağırdı 1
 tüfənglərlə 1
 silahlandılar 1
 Annem 1
@@ -4935,7 +4940,6 @@ mərkəzində 1
 1950-ci 1
 3-də 1
 faylın 1
-məndədir 1
 uduzdular 1
 qaçmadılar 1
 layiqdirlər 1
@@ -5061,7 +5065,6 @@ Ortadakı 1
 olmaz 1
 Gecən 1
 donur 1
-babam 1
 Ümidimi 1
 şəklimdir 1
 May 1
@@ -7776,3 +7779,7 @@ qoruya 1
 Həyatımın 1
 şamı 1
 sönəcək 1
+ləkəni 1
+çıxarmaq 1
+Danışmaq 1
+kimindir 1

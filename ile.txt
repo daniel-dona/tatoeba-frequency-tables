@@ -1,10 +1,10 @@
-es 3395
+es 3399
 Yo 2513
 un 1973
 li 1778
 Tom 1615
 ne 1494
-Li 845
+Li 844
 in 815
 tu 799
 have 762
@@ -25,7 +25,7 @@ it 429
 vole 414
 yo 412
 mi 409
-e 400
+e 401
 Tu 378
 It 336
 To 327
@@ -302,6 +302,7 @@ bir 26
 malad 26
 telefonat 26
 si 25
+Deo 25
 sport 25
 fort 25
 trist 25
@@ -309,7 +310,6 @@ paroles 25
 scri 25
 pom 24
 hom 24
-Deo 24
 ambi 24
 furtet 24
 devet 24
@@ -720,6 +720,7 @@ alienat 9
 alquí 9
 mortar 9
 teorie 9
+Canes 9
 prender 9
 Monstra 9
 computator 9
@@ -861,7 +862,6 @@ pesant 7
 ott 7
 serchat 7
 questiones 7
-Canes 7
 diferent 7
 caseo 7
 complicat 7
@@ -927,6 +927,7 @@ sinushalter 6
 jalusi 6
 Europan 6
 gastes 6
+sagi 6
 Alice 6
 Occidental 6
 culpa 6
@@ -1044,6 +1045,7 @@ conditionat 6
 miscomprense 6
 Smith 5
 verne 5
+amusant 5
 serpente 5
 bellitá 5
 oculares 5
@@ -1058,7 +1060,6 @@ combatte 5
 ínter 5
 mordet 5
 vola 5
-sagi 5
 Tri 5
 sofa 5
 Kyoto 5
@@ -1191,6 +1192,7 @@ catello 5
 oreles 5
 form 5
 nam 5
+magic 5
 omno 5
 osses 5
 fabrica 5
@@ -1226,7 +1228,6 @@ stelle 4
 calore 4
 buró 4
 afabil 4
-amusant 4
 bonmen 4
 destructet 4
 Forsan 4
@@ -1402,7 +1403,6 @@ ancian 4
 intrar 4
 sala 4
 discusse 4
-magic 4
 merite 4
 misterie 4
 mente 4
@@ -1512,7 +1512,6 @@ tande 3
 experiment 3
 vigil 3
 universitá 3
-tigres 3
 torturat 3
 cap-dolore 3
 viagear 3
@@ -1975,6 +1974,7 @@ prates 2
 calsones 2
 calson 2
 vora 2
+tigres 2
 democratie 2
 jurnalistes 2
 desórdine 2
@@ -2731,11 +2731,13 @@ canadanes 2
 magie 2
 optiones 2
 electiones 2
+falsificat 2
 ínhabil 2
 ganses 2
 cerebre 2
 Glorie 2
 canicules 2
+Fungos 2
 renes 2
 cranie 2
 majorité 2
@@ -5644,7 +5646,6 @@ Marx 1
 marxist 1
 bel-filio 1
 Realitá 1
-falsificat 1
 enorm 1
 progresses 1
 camine 1
@@ -5761,7 +5762,6 @@ structura 1
 Roman 1
 imporant 1
 parent 1
-Fungos 1
 sete 1
 salva 1
 pensas 1
@@ -5856,4 +5856,5 @@ farmeros 1
 productes 1
 declarat 1
 Servicie 1
-feroci 1
+entes 1
+comic 1

@@ -1,4 +1,4 @@
-est 10461
+est 10462
 et 4884
 in 4665
 Thomas 3655
@@ -36,8 +36,8 @@ a 587
 meus 575
 sed 557
 Hoc 537
-Cur 531
-id 490
+Cur 532
+id 491
 Thōmās 478
 Et 466
 Hic 464
@@ -86,8 +86,8 @@ omnes 291
 Dominus 291
 annos 289
 Cum 288
+linguam 286
 ego 286
-linguam 285
 nobis 280
 Nonne 273
 quæ 265
@@ -243,10 +243,10 @@ qua 126
 tē 125
 aqua 124
 Feles 124
+Quomodo 124
 videtur 123
 homo 123
 nata 123
-Quomodo 123
 filii 123
 Lingua 122
 eram 122
@@ -340,11 +340,11 @@ ita 95
 posse 95
 Semper 95
 Potesne 95
+discere 95
 Nesciebam 95
 habes 94
 bona 94
 Illa 94
-discere 94
 filius 93
 mala 93
 Dei 93
@@ -1681,6 +1681,7 @@ fames 22
 deos 22
 ā 22
 possim 22
+grave 22
 eō 22
 agri 22
 cubitum 22
@@ -1772,7 +1773,6 @@ Davus 21
 "Quia 21
 rursus 21
 servis 21
-grave 21
 dea 21
 absque 21
 tela 21

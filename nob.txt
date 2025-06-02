@@ -5,7 +5,7 @@ ikke 2483
 i 2177
 en 2058
 du 1905
-har 1808
+har 1809
 det 1806
 Tom 1770
 på 1717
@@ -21,7 +21,7 @@ av 990
 var 983
 som 966
 at 886
-et 753
+et 754
 Hun 749
 Du 748
 deg 735
@@ -30,7 +30,7 @@ vil 646
 om 588
 så 582
 han 578
-Vi 558
+Vi 559
 den 495
 min 468
 seg 444
@@ -102,7 +102,7 @@ nå 157
 dere 156
 eller 150
 alt 149
-ingen 147
+ingen 148
 sa 146
 se 145
 Når 145
@@ -142,15 +142,15 @@ godt 109
 sine 109
 si 108
 gikk 106
-man 105
+man 106
 ved 103
 tok 103
 tid 102
 elsker 102
 penger 101
+Hvordan 100
 uten 99
 inn 99
-Hvordan 99
 ønske 97
 siden 95
 morgen 95
@@ -305,6 +305,7 @@ begynte 46
 På 46
 gått 46
 eneste 46
+lærer 45
 lett 45
 lang 45
 disse 45
@@ -314,7 +315,6 @@ tenker 45
 gir 45
 fortalte 45
 prøvde 44
-lærer 44
 fant 44
 rommet 44
 uke 44
@@ -1044,7 +1044,6 @@ raskere 11
 klasserommet 11
 spesielt 11
 hunder 11
-is 11
 treet 11
 sånn 11
 stadig 11
@@ -1140,6 +1139,7 @@ dyrt 10
 rør 10
 vinteren 10
 bøyde 10
+is 10
 paraplyen 10
 nødt 10
 uker 10
@@ -1852,6 +1852,7 @@ forskjellig 6
 omkring 6
 bursdag 6
 fall 6
+fremmedspråk 6
 nøklene 6
 "Nei 6
 vunnet 6
@@ -2157,7 +2158,6 @@ endrer 5
 målet 5
 sand 5
 konstant 5
-fremmedspråk 5
 ubehagelig 5
 meg" 5
 Fire 5
@@ -3719,6 +3719,7 @@ sulten» 2
 kjendis 2
 morro 2
 programvaren 2
+pave 2
 erobret 2
 smekk 2
 spasertur 2
@@ -4533,7 +4534,6 @@ sa: 2
 "Kom 2
 sinnemestringsproblem 2
 muntre 2
-argument 2
 skruppelløs 2
 ekorn 2
 kikket 2
@@ -5658,7 +5658,6 @@ kompilert 1
 lagarbeid 1
 Loddet 1
 Terningen 1
-pave 1
 Smak 1
 behag 1
 diskuteres 1
@@ -7810,6 +7809,7 @@ begriper 1
 gjenspeilte 1
 reiseselskapet 1
 Ekte 1
+argument 1
 utnyttet 1
 skruppelløse 1
 grepet 1
