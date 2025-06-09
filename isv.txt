@@ -1,8 +1,8 @@
 jest 175
 Ja 89
-ne 66
+ne 67
 jesm 51
-Tom 46
+Tom 47
 Ty 44
 To 33
 v 32
@@ -15,9 +15,9 @@ li 22
 s 19
 i 18
 Vy 17
+byl 17
 jesmo 16
 Ona 16
-byl 16
 Amerikanci 16
 Oni 11
 to 11
@@ -55,6 +55,7 @@ svoj 5
 tu 5
 Moj 5
 Trump 5
+egzistuje 5
 knigu 5
 a 5
 Moja 4
@@ -67,7 +68,6 @@ on 4
 "Ja 4
 ili 4
 ryž 4
-egzistuje 4
 napisala 4
 Elon 4
 Musk 4
@@ -542,6 +542,7 @@ Islam 1
 Jezik 1
 Hristijanstvo 1
 krasivo 1
+nenadežny 1
 duže 1
 hrapaju 1
 lož 1
@@ -1010,3 +1011,6 @@ Osvobodite 1
 Osvobodi 1
 bezrabotny 1
 bezrabotna 1
+Zavisnost 1
+od 1
+pornografije 1

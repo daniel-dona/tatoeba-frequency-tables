@@ -1,15 +1,15 @@
-ir 2627
-Es 1873
+ir 2630
+Es 1874
 Toms 805
-ka 782
+ka 783
 to 730
 Man 647
-un 595
+un 597
 Vai 579
 es 563
 Viņš 562
 bija 504
-par 466
+par 467
 ar 465
 tu 447
 Tas 434
@@ -40,7 +40,7 @@ jūs 168
 vai 167
 viņa 165
 esi 164
-viņš 161
+viņš 163
 var 159
 viņu 155
 patīk 154
@@ -76,10 +76,10 @@ mums 86
 Ja 85
 labāk 85
 jūtos 85
+vairāk 84
 šodien 84
 nepatīk 84
 visu 84
-vairāk 83
 nezinu 83
 Jūs 83
 Mums 83
@@ -101,12 +101,12 @@ diezgan 74
 Lūdzu 73
 Ir 73
 pats 73
+vēl 71
+jo 71
 Kur 70
-vēl 70
 gribu 70
 pie 70
 Tomu 70
-jo 70
 Cik 69
 vajag 69
 jūsu 68
@@ -157,8 +157,8 @@ būs 47
 Mana 46
 vari 46
 labs 46
+zinu 45
 cik 44
-zinu 44
 kādu 44
 dzīvo 43
 tagad 43
@@ -179,10 +179,10 @@ jādara 40
 Mani 39
 doties 39
 Ar 38
+slikti 38
 valodā 38
 mazliet 38
 dzīvot 37
-slikti 37
 runāt 37
 nevis 37
 kurš 37
@@ -412,6 +412,7 @@ nespēju 17
 To 17
 gribēju 17
 dzer 17
+traks 17
 sava 17
 pacietīgs 17
 agrāk 17
@@ -432,7 +433,6 @@ redzējis 16
 maku 16
 noticēt 16
 padara 16
-traks 16
 dodu 16
 tikko 16
 vajadzīgs 16
@@ -1268,6 +1268,7 @@ Plutons 6
 baterijas 6
 sen 6
 veselais 6
+kārtīgi 6
 šaubas 6
 jēga 6
 rūķi 6
@@ -1324,6 +1325,7 @@ spējas 6
 noniecināt 6
 domās 6
 Bailes 6
+spītīgs 6
 neguļu 6
 neveicas 6
 uzdziedāt 6
@@ -1558,7 +1560,6 @@ pateicu 5
 veselā 5
 saprāta 5
 Cilvēkam 5
-kārtīgi 5
 izskats 5
 tiesības 5
 salīdzinot 5
@@ -1653,7 +1654,6 @@ katrs 5
 pārspēj 5
 ēdams 5
 baidījos 5
-spītīgs 5
 saprātīgi 5
 bārdu 5
 metāls 5
@@ -2868,6 +2868,7 @@ nedarīs 3
 Ēdiens 3
 varēji 3
 vēro 3
+Itāļi 3
 mācāmies 3
 darot 3
 vecmodīgs 3
@@ -3445,6 +3446,7 @@ raksta 2
 stāstu 2
 Mūzika 2
 kaislība 2
+svarīgākas 2
 neizskaties 2
 ērzelis 2
 dzīvošu 2
@@ -4357,7 +4359,6 @@ redzesloka 2
 liecināt 2
 pievieno 2
 lidojumā 2
-Itāļi 2
 maltīti 2
 noveda 2
 pusei 2
@@ -5325,6 +5326,7 @@ kaitīgs 2
 Alkoholu 2
 šķidro 2
 drosmi 2
+dažkārt 2
 nomiru 2
 peldbaseinā 2
 tumsā 2
@@ -6128,7 +6130,6 @@ Parīze 1
 mazgāja 1
 traukus 1
 Sanāksme 1
-svarīgākas 1
 ķēve 1
 neatrisina 1
 tārps 1
@@ -9997,4 +9998,3 @@ Dabasmāte 1
 Dzīvoju 1
 skopums 1
 taupīgu 1
-vecākās 1

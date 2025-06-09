@@ -1,10 +1,10 @@
-est 10462
+est 10463
 et 4884
 in 4665
 Thomas 3655
 non 3607
-sunt 2294
-ad 1775
+sunt 2296
+ad 1776
 mihi 1649
 / 1569
 esse 1467
@@ -52,7 +52,7 @@ Thomae 428
 dixit 389
 per 386
 autem 385
-potest 382
+potest 383
 tua 380
 Num 380
 Deus 377
@@ -148,7 +148,7 @@ post 182
 an 182
 quem 181
 pro 180
-erit 179
+erit 180
 dedit 176
 homines 174
 Mihi 174
@@ -220,9 +220,9 @@ Visne 138
 sub 137
 Mater 136
 libenter 136
+mortuus 136
 ergo 135
 placent 135
-mortuus 135
 sua 135
 Thōman 135
 domi 134
@@ -246,9 +246,9 @@ Feles 124
 Quomodo 124
 videtur 123
 homo 123
+Lingua 123
 nata 123
 filii 123
-Lingua 122
 eram 122
 habent 121
 Domus 121
@@ -391,11 +391,11 @@ re 85
 Ut 85
 Nos 85
 una 85
+magnus 85
 emi 85
 Gallicam 85
 septem 84
 Librum 84
-magnus 84
 Ita 84
 Tempus 83
 noster 83
@@ -525,6 +525,7 @@ filia 66
 panem 66
 interest 66
 Anglicam 66
+iter 66
 Iulius 66
 manum 65
 Deo 65
@@ -539,7 +540,6 @@ Bene 65
 Illud 65
 bibere 65
 vel 65
-iter 65
 Sine 64
 puto 64
 Pueri 64
@@ -792,6 +792,7 @@ habitare 46
 laborat 46
 urbs 46
 foris 46
+tuae 46
 poculum 46
 accidit 46
 misit 46
@@ -811,7 +812,6 @@ oculis 45
 taberna 45
 fenestram 45
 scripsi 45
-tuae 45
 bis 45
 Pona 45
 vitae 44
@@ -1392,6 +1392,7 @@ aliquis 26
 altum 26
 placeat 26
 habitavit 26
+Mox 26
 loquere 26
 Mare 26
 oppido 26
@@ -1453,7 +1454,6 @@ Libum 25
 vobiscum 25
 Anno 25
 Quantum 25
-Mox 25
 secuit 25
 fregit 25
 Omne 25
@@ -2883,6 +2883,7 @@ Italice 12
 Iaponice 12
 Tata 12
 sequi 12
+ovum 12
 rubri 12
 nosocomium 12
 Sella 12
@@ -3142,7 +3143,6 @@ antea 11
 pecus 11
 septemdecim 11
 Viginti 11
-ovum 11
 Egesne 11
 vendit 11
 Panis 11
@@ -5058,6 +5058,7 @@ rubro 7
 movit 7
 vēnistī 7
 "Nos 7
+thesaurus 7
 cinematographica 7
 iucunda 7
 carissima 7
@@ -5089,6 +5090,7 @@ custodiunt 7
 Sentio 7
 tene 7
 faciemus 7
+longis 7
 scopulos 7
 Quoniam 7
 morbo 7
@@ -5425,6 +5427,7 @@ machinam 6
 commune 6
 Hominis 6
 Illo 6
+Filiae 6
 Cantare 6
 Cogitare 6
 frigidus 6
@@ -5764,7 +5767,6 @@ chiliogrammata 6
 lumen 6
 Intelligentior 6
 Lectus 6
-thesaurus 6
 adamas 6
 promissi 6
 gravissima 6
@@ -5821,7 +5823,6 @@ comitata 6
 comitatus 6
 nullas 6
 aliī 6
-longis 6
 meruit 6
 "Nihil 6
 refugit 6
@@ -6861,6 +6862,7 @@ misera 5
 Latrones 5
 aura 5
 collocuti 5
+servandus 5
 diemque 5
 secuti 5
 ventrem 5
@@ -7596,7 +7598,6 @@ violavit 4
 avo 4
 aedificatus 4
 Gaudium 4
-Filiae 4
 dabat 4
 interrogavi 4
 vindicavit 4
@@ -8288,7 +8289,6 @@ depulit 4
 transiit 4
 Vehementer 4
 Abierunt 4
-servandus 4
 bene" 4
 floret 4
 aperiri 4
@@ -9024,6 +9024,7 @@ actio 4
 docemus 4
 crustula 4
 student 4
+vestrae 4
 Octobri 4
 mendacem 4
 plateas 4
@@ -9997,4 +9998,3 @@ Utile 3
 accidunt 3
 Belli 3
 citharam 3
-maledicere 3

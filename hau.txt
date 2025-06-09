@@ -1,6 +1,6 @@
-da 10763
+da 10764
 a 4316
-ba 4278
+ba 4280
 ya 3848
 na 3799
 yi 2495
@@ -22,7 +22,7 @@ wani 942
 kuma 933
 ce 898
 Ya 870
-yana 843
+yana 845
 daga 832
 zai 813
 son 791
@@ -158,7 +158,7 @@ babban 193
 irin 192
 yayi 192
 sama 190
-Allah 188
+Allah 189
 hanyar 188
 aikin 186
 kowa 184
@@ -501,13 +501,13 @@ Bani 52
 dake 52
 kokarin 52
 zaman 51
+kuwa 51
 duba 51
 kaɗan 51
 shekarar 51
 Sai 51
 Kina 51
 kina 51
-kuwa 50
 yaushe 50
 cutar 50
 nemi 50
@@ -529,6 +529,7 @@ kayi 49
 sanyi 49
 Yaushe 49
 zuciya 49
+amince 49
 cire 49
 Nayi 49
 kasan 49
@@ -545,7 +546,6 @@ dalilin 48
 dauki 48
 nayi 48
 Bazan 48
-amince 48
 kafa 48
 rauni 48
 iri 48
@@ -1054,6 +1054,7 @@ wurare 21
 tsayi 21
 masana'antar 21
 wasannin 21
+saurari 21
 bawa 21
 wutar 21
 tsananin 21
@@ -1080,7 +1081,6 @@ kanmu 20
 jirgi 20
 itace 20
 hoto 20
-saurari 20
 siyar 20
 harbi 20
 godiya 20
@@ -2891,6 +2891,7 @@ karatuna 5
 Dakin 5
 kanana 5
 Kayi 5
+Tom 5
 jumla 5
 asuba 5
 kike 5
@@ -3337,13 +3338,13 @@ takobin 5
 mazaunin 5
 Masar 5
 ce" 5
+maganganun 5
 ubangiji 5
 Austarlia 5
 Suka 5
 cewa: 5
 gareni 4
 kanaso 4
-Tom 4
 siyasar 4
 kalau 4
 saƙon 4
@@ -4008,7 +4009,6 @@ wayewa 4
 Marie 4
 rarrafe 4
 cirar 4
-maganganun 4
 kamani 4
 batu 4
 dawo" 4
@@ -5010,6 +5010,7 @@ radar 3
 Kwai 3
 mafaka 3
 bacin 3
+dukan 3
 Lambobin 3
 Misira 3
 ziyarta 3
@@ -6818,7 +6819,6 @@ haka" 2
 sakanni 2
 zakuna 2
 shimfidar 2
-dukan 2
 tsiya 2
 karnin 2
 Mumunnan 2

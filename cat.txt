@@ -1,17 +1,17 @@
 la 1790
-de 1749
-a 1610
-que 1544
+de 1750
+a 1611
+que 1545
 el 1377
-és 1214
-no 945
+és 1215
+no 946
 va 912
-un 909
+un 911
 No 750
 en 720
 i 629
-una 622
-per 609
+una 623
+per 610
 El 587
 La 521
 Tom 490
@@ -35,7 +35,7 @@ Ella 210
 està 206
 És 202
 hi 191
-Els 190
+Els 191
 meva 187
 fa 185
 té 176
@@ -77,8 +77,8 @@ van 106
 anar 106
 Aquest 105
 Quan 102
+quan 101
 aquí 100
-quan 99
 pot 97
 tan 97
 o 96
@@ -103,11 +103,11 @@ Tinc 84
 menjar 84
 vida 83
 Això 82
+gran 82
 us 80
 Com 79
 sense 79
 als 79
-gran 79
 tinc 79
 sap 78
 cosa 76
@@ -143,8 +143,8 @@ Ho 65
 encara 65
 vas 64
 pel 64
+llengua 64
 millor 63
-llengua 63
 gos 62
 Li 61
 fins 61
@@ -175,8 +175,8 @@ bona 50
 Has 50
 Ets 49
 alguna 49
+arribar 48
 on 48
-arribar 47
 meus 47
 ningú 46
 mal 46
@@ -197,12 +197,12 @@ tard 44
 feina 43
 Encara 43
 començar 43
+s'ha 43
 estan 43
 Japó 43
 passar 42
 d'una 42
 Avui 42
-s'ha 42
 després 41
 Sóc 41
 avui 41
@@ -219,6 +219,7 @@ matí 40
 deu 40
 llegir 40
 pena 40
+perdre 40
 demà 39
 dies 39
 deixar 39
@@ -226,6 +227,7 @@ nom 39
 tenir 39
 prou 39
 han 39
+Una 39
 música 39
 Ells 39
 d'un 39
@@ -233,14 +235,12 @@ agrada 39
 també 39
 dit 39
 escriure 39
-perdre 39
 hem 38
 Al 38
 cop 38
 vols 38
 Tots 38
 M'agrada 38
-Una 38
 morir 38
 Tens 38
 fàcil 38
@@ -267,6 +267,7 @@ fill 34
 germà 34
 Déu 34
 primer 34
+Pots 34
 Són 34
 problema 34
 pots 34
@@ -281,7 +282,6 @@ m'ha 33
 por 32
 paraula 32
 poder 32
-Pots 32
 uns 32
 seves 32
 cal 32
@@ -340,6 +340,7 @@ favor 28
 teus 28
 d'anar 27
 saber 27
+sigui 27
 algú 27
 pares 27
 fora 27
@@ -350,7 +351,6 @@ fer-ho 27
 serà 27
 important 26
 ciutat 26
-sigui 26
 Ningú 26
 llengües 26
 estudiar 26
@@ -523,6 +523,7 @@ Sembla 17
 treball 17
 podria 17
 acabat 17
+fumar 17
 d'acord 17
 gens 17
 varen 17
@@ -569,7 +570,7 @@ volen 15
 raó 15
 d'ell 15
 nedar 15
-fumar 15
+viatjar 15
 Ahir 15
 interessant 15
 guitarra 15
@@ -600,7 +601,6 @@ Amèrica 14
 tarda 14
 Voldria 14
 vi 14
-viatjar 14
 surt 14
 Aquella 14
 París 14
@@ -739,6 +739,7 @@ L'esperanto 12
 trans 12
 Bon 11
 regal 11
+poden 11
 pensava 11
 deia 11
 s'han 11
@@ -809,7 +810,6 @@ coronavirus 11
 notícia 10
 màquina 10
 causa 10
-poden 10
 president 10
 famós 10
 l'examen 10
@@ -1150,6 +1150,7 @@ Xina 7
 edat 7
 Entre 7
 negoci 7
+siguis 7
 felicitat 7
 estrangera 7
 evitar 7
@@ -1301,7 +1302,6 @@ Haig 6
 entès 6
 quant 6
 l'aire 6
-siguis 6
 Roma 6
 posa 6
 especialment 6
@@ -1355,6 +1355,7 @@ quart 6
 l'hivern 6
 Creus 6
 març 6
+llargues 6
 verda 6
 d'ells 6
 d'arribar 6
@@ -1578,7 +1579,6 @@ preferit 5
 bandera 5
 porten 5
 proves 5
-llargues 5
 jugant 5
 club 5
 adreça 5
@@ -4225,6 +4225,7 @@ mosquit 2
 ficar 2
 exigent 2
 busca 2
+pipa 2
 L'abecedari 2
 comesos 2
 pujada 2
@@ -4350,6 +4351,7 @@ generar 2
 gra 2
 sorra 2
 contenen 2
+tresor 2
 somiar 2
 expressió 2
 florir 2
@@ -9359,7 +9361,6 @@ boles 1
 Passi-ho 1
 Passa-t'ho 1
 Passeu-vos-ho 1
-pipa 1
 m'escridassa 1
 hebreu 1
 despertar-se 1
@@ -9997,4 +9998,3 @@ sorprendre'm 1
 llimona 1
 t'esveris 1
 compensats 1
-Mentida 1

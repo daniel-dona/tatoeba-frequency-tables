@@ -4,7 +4,7 @@ kwa 3135
 wa 3050
 ni 2733
 kama 2136
-ku 1715
+ku 1714
 mu 1412
 sana 1411
 yake 1356
@@ -398,13 +398,13 @@ itakuwa 65
 biko 65
 kile 65
 kushangaza 65
-Tuna 65
 silaha 65
 kufa 65
 jamii 64
 mumoja 64
 zao 64
 bahari 64
+Tuna 64
 Nita 63
 inaonekana 63
 kwake 63
@@ -766,7 +766,6 @@ Kiingereza 34
 mudogo 34
 kikundi 34
 njema 34
-kuni 34
 maelezo 34
 hakika 34
 kuongeza 34
@@ -787,6 +786,7 @@ umri 33
 kuya 33
 Toka 33
 soma 33
+kuni 33
 polepole 33
 niya 33
 Minawaza 33
@@ -1691,7 +1691,6 @@ Shetani 15
 mifupa 15
 wata 15
 Minaona 15
-pima 14
 10 14
 mto 14
 munyama 14
@@ -1796,6 +1795,7 @@ Tunataka 14
 Marika 14
 piga 13
 kaa 13
+pima 13
 vumbi 13
 sijui 13
 Kawaida 13
@@ -2995,7 +2995,6 @@ k 8
 uvamizi 8
 ulitaka 8
 kudai 8
-sumbua 8
 special 8
 boite 8
 Vikosi 8
@@ -3391,6 +3390,7 @@ Wagiriki 7
 Nililota 7
 Muko 7
 uwazi 7
+sumbua 7
 Tunajua 7
 Hongrie 7
 nyinyi 7
@@ -7052,6 +7052,7 @@ Ningeenda 3
 kuangusha 3
 kulewa 3
 lewa 3
+kunisumbua 3
 Yepeke 3
 napigana 3
 buyana 3
@@ -9997,4 +9998,3 @@ WC 2
 Capone 2
 kuhusa 2
 mtafsiri 2
-Wanaishi 2

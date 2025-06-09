@@ -1,16 +1,16 @@
-es 3399
+es 3400
 Yo 2513
 un 1973
-li 1778
+li 1779
 Tom 1615
 ne 1494
-Li 844
-in 815
+Li 845
+in 816
 tu 799
 have 762
 Esque 758
-Il 706
-ha 658
+Il 707
+ha 660
 esset 631
 que 586
 de 580
@@ -26,7 +26,7 @@ vole 414
 yo 412
 mi 409
 e 401
-Tu 378
+Tu 379
 It 336
 To 327
 tre 303
@@ -47,14 +47,14 @@ il 232
 deve 230
 far 222
 Mi 221
-Ili 212
+Ili 213
 del 204
 vu 202
 parla 183
 ti 176
 Quo 171
 ci 169
-mult 165
+mult 167
 besona 158
 Pro 156
 ella 154
@@ -90,7 +90,7 @@ cité 98
 fa 97
 Maria 95
 dom 93
-habita 92
+habita 93
 se 91
 vive 88
 parlat 87
@@ -226,6 +226,7 @@ familie 37
 Hay 36
 desfacil 36
 bentost 35
+dormit 35
 timid 35
 canta 35
 robe 34
@@ -238,7 +239,6 @@ rubi 33
 veritá 33
 puellas 33
 manus 33
-dormit 33
 Omnes 33
 infante 32
 Hodie 32
@@ -479,6 +479,7 @@ mori 14
 pomes 14
 Ti-ci 14
 mentit 14
+micri 14
 trincat 14
 plen 14
 ca 14
@@ -506,7 +507,6 @@ questiona 13
 svimmar 13
 hiverne 13
 international 13
-micri 13
 arivar 13
 can 13
 tren 13
@@ -5858,3 +5858,5 @@ declarat 1
 Servicie 1
 entes 1
 comic 1
+céllar 1
+butones 1

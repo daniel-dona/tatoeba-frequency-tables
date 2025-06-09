@@ -1,11 +1,11 @@
-esas 3094
+esas 3095
 Me 2431
 la 2300
 ne 1422
 Tom 1163
 La 1075
 me 937
-tu 921
+tu 922
 Ka 797
 es 761
 havas 636
@@ -38,15 +38,15 @@ tua 200
 To 196
 vi 191
 sua 190
-Li 187
+Li 188
 kam 187
 Ilu 186
 quo 185
 prizas 178
 pri 174
-Ne 171
+Ne 172
+bela 162
 el 161
-bela 161
 ol 154
 parolas 149
 bezonas 142
@@ -206,9 +206,9 @@ infanti 40
 richa 40
 lojas 40
 automobilo 40
+existas 40
 elua 39
 okuli 39
-existas 39
 muliero 39
 felica 38
 libri 38
@@ -235,13 +235,13 @@ hiere 34
 problemo 34
 rapide 34
 homo 34
+facila 34
 anke 34
 pano 34
 lektar 33
 helpar 33
 inteligenta 33
 lernar 33
-facila 33
 ludas 33
 blanka 33
 filiulo 33
@@ -1299,6 +1299,7 @@ dicez 5
 aceptas 5
 Hokkaido 5
 atingis 5
+solvo 5
 kurajoza 5
 poka 5
 kurso 5
@@ -1499,6 +1500,7 @@ blinda 5
 Kanada 5
 violacesis 5
 batis 5
+Mennad 5
 jolia" 5
 acida 5
 nepolita 5
@@ -1542,7 +1544,6 @@ formo 4
 kantisto 4
 Koreana 4
 cinemo 4
-solvo 4
 urbi 4
 dankar 4
 ruptesis 4
@@ -1799,7 +1800,6 @@ skolano 4
 violea 4
 instruktistino 4
 vendis 4
-Mennad 4
 gremio 4
 kuzini 4
 Siria 4
@@ -8773,3 +8773,4 @@ dek-e-non 1
 bugis 1
 porkacho 1
 komika 1
+envidias 1

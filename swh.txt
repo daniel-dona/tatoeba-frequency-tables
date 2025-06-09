@@ -1,12 +1,12 @@
-ya 1292
+ya 1293
 na 1069
 wa 754
 kwa 695
 ni 624
 katika 241
 kwenye 227
-kuwa 214
-za 212
+kuwa 215
+za 213
 la 201
 cha 179
 sana 174
@@ -69,6 +69,7 @@ ana 45
 ambayo 45
 hadi 45
 hili 45
+kweli 44
 nchi 44
 muda 44
 karibu 44
@@ -76,7 +77,6 @@ njia 43
 mara 43
 vya 43
 kupata 42
-kweli 42
 Yeye 42
 nyumba 42
 huu 42
@@ -94,14 +94,14 @@ huko 38
 yao 38
 muhimu 38
 Ikiwa 38
+zote 37
 Hakuna 37
 sehemu 37
 leo 36
 kidogo 36
-zote 36
+Mungu 36
 unaweza 36
 Wakati 36
-Mungu 35
 lazima 35
 bila 35
 sawa 34
@@ -123,12 +123,12 @@ ambao 31
 mimi 30
 uhusiano 30
 jambo 30
+nani 29
 kwenda 29
 ukweli 29
 mzuri 29
 kabla 29
 tena 29
-nani 28
 nyumbani 28
 wao 28
 hapo 28
@@ -173,6 +173,7 @@ vitu 24
 sauti 24
 mwingine 24
 rangi 24
+Watu 23
 zake 23
 mrefu 23
 Millie 23
@@ -181,9 +182,9 @@ kulala 23
 naye 23
 joto 23
 duka 23
+wengine 23
 biashara 23
 pesa 23
-Watu 22
 Wewe 22
 lugha 22
 zamani 22
@@ -194,7 +195,6 @@ bahati 22
 ina 22
 maarufu 22
 hatua 22
-wengine 22
 ulimwengu 22
 hakuna 22
 fulani 22
@@ -476,6 +476,7 @@ anataka 10
 kuandika 10
 taa 10
 kutembea 10
+maneno 10
 barabarani 10
 nawe 10
 msaada 10
@@ -533,6 +534,7 @@ sentensi 9
 nne 9
 siri 9
 chokoleti 9
+Ninaweza 9
 Mbona 9
 kahawa 9
 kompyuta 9
@@ -541,7 +543,6 @@ uhakika 9
 asili 9
 Urusi 9
 Leo 9
-maneno 9
 huenda 9
 polepole 9
 timu 9
@@ -589,6 +590,7 @@ salama 8
 Watoto 8
 je" 8
 Paka 8
+Tom 8
 mkataba 8
 haina 8
 Brazil 8
@@ -596,7 +598,6 @@ anakula 8
 matunda 8
 kunywa 8
 mti 8
-Ninaweza 8
 bunduki 8
 adui 8
 ipo 8
@@ -682,7 +683,6 @@ pale 7
 hana 7
 Hamisi 7
 Jambo 7
-Tom 7
 kitendo 7
 deni 7
 Ninatoka 7
@@ -750,6 +750,7 @@ Wale 7
 kuharibu 7
 kikundi 7
 Kwenye 7
+dini 7
 mke 7
 chanzo 7
 kofia 7
@@ -859,6 +860,7 @@ umbali 6
 Kulingana 6
 ujao 6
 ngozi 6
+zinaweza 6
 saba 6
 Sauti 6
 Mjomba 6
@@ -1017,7 +1019,6 @@ mpenzi 5
 kando 5
 amekuwa 5
 mkopo 5
-zinaweza 5
 Samahani 5
 kikuu 5
 mlangoni 5
@@ -1042,7 +1043,6 @@ awali 5
 vyangu 5
 sura 5
 inayofuata 5
-dini 5
 uangalifu 5
 mikono 5
 haswa 5
@@ -1105,6 +1105,7 @@ Nimekuwa 5
 suala 5
 msanii 5
 "Ni 5
+Aina 5
 Walisema 5
 Nini 4
 Nimepata 4
@@ -1423,7 +1424,6 @@ mamilioni 4
 Yesu 4
 8:30 4
 watatu 4
-Aina 4
 hadhi 3
 hotelini 3
 kupeleka 3
@@ -3078,6 +3078,7 @@ Bahari 2
 sikufanya 2
 uzi 2
 "Chukua 2
+Ibada 2
 hapa" 2
 Kanali 2
 mwaloni 2
@@ -8642,7 +8643,6 @@ nanyi 1
 Thompson 1
 Usichanganyikiwe 1
 Utu 1
-Ibada 1
 spaghetti 1
 ikicheza 1
 unakuja 1
@@ -9291,3 +9291,12 @@ kiu 1
 unapatikana 1
 simfahamu 1
 hatakula 1
+Anakubali 1
+Zote 1
+Utamwamini 1
+Kweli 1
+zikifundisha 1
+kuipataje 1
+hasikilizi 1
+matupu 1
+hutengana 1

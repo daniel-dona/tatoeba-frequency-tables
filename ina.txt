@@ -1,6 +1,6 @@
 le 14811
 es 10737
-un 8770
+un 8771
 de 8202
 ha 5897
 Le 5624
@@ -11,7 +11,7 @@ que 4724
 e 3408
 del 3216
 a 3110
-tu 2860
+tu 2861
 Tom 2764
 Ille 2221
 me 2075
@@ -25,9 +25,9 @@ vos 1688
 pro 1574
 con 1504
 plus 1426
-ille 1390
+ille 1391
 pote 1216
-mi 1211
+mi 1212
 nos 1180
 esseva 1121
 multo 1077
@@ -42,7 +42,7 @@ Illa 899
 Esque 805
 grande 799
 Iste 787
-vole 779
+vole 781
 illo 712
 blau 700
 era 695
@@ -51,12 +51,12 @@ Que 676
 esser 663
 debe 662
 multe 658
-Mi 644
+Mi 645
 Isto 627
-Illes 602
+Illes 603
 qui 585
+son 580
 isto 579
-son 578
 Un 567
 super 566
 tempore 554
@@ -79,11 +79,11 @@ illa 455
 casa 454
 o 454
 parla 430
-ama 428
+ama 429
 mundo 426
 illes 423
 vita 422
-vostre 417
+vostre 418
 altere 413
 ma 412
 belle 412
@@ -100,7 +100,7 @@ Si 346
 sin 336
 Deo 331
 On 330
-anglese 327
+anglese 329
 aqua 323
 sol 314
 hic 313
@@ -113,8 +113,8 @@ diceva 287
 lor 285
 Maria 285
 la 284
+Es 280
 dice 280
-Es 279
 quando 279
 sempre 278
 mal 274
@@ -137,9 +137,9 @@ inter 238
 morte 237
 haber 235
 besonio 233
+parlar 233
 libro 232
 jam 231
-parlar 231
 durante 225
 cosas 225
 linguas 225
@@ -150,8 +150,8 @@ Como 218
 die 216
 francese 214
 favor 209
+ante 207
 bibe 207
-ante 206
 troppo 206
 patre 206
 Ego 203
@@ -170,12 +170,12 @@ moneta 193
 nunquam 192
 jammais 192
 vive 190
+Illas 190
 Tote 189
 Ubi 188
 ver 188
 deberea 187
-Illas 187
-infantes 183
+infantes 184
 tres 182
 importante 181
 the 181
@@ -205,7 +205,7 @@ nomine 156
 musica 156
 difficile 156
 poteva 155
-vermente 153
+vermente 154
 terra 153
 auto 152
 schola 152
@@ -370,13 +370,13 @@ Necuno 85
 ni 85
 justo 84
 verde 83
+soror 83
 lecto 83
 travalio 83
 apprende 83
 anima 83
 interlingua 82
 da 82
-soror 82
 mercato 82
 esperanto 82
 veniva 81
@@ -1123,6 +1123,7 @@ theatro 27
 umbra 27
 poesia 27
 stricte 27
+salata 27
 excellente 27
 placia 27
 occider 27
@@ -1171,7 +1172,6 @@ naso 26
 social 26
 religiones 26
 seculo 26
-salata 26
 passato 26
 poeta 26
 interior 26
@@ -1559,6 +1559,7 @@ sal 19
 eveniva 19
 Guerra 19
 possibilitate 19
+filias 19
 poemas 19
 automobile 19
 stava 19
@@ -1709,7 +1710,6 @@ patria 17
 odiava 17
 unquam 17
 concerne 17
-filias 17
 april 17
 furate 17
 sentimento 17
@@ -2848,6 +2848,7 @@ Vide 9
 adequate 9
 aciero 9
 pugno 9
+architecto 9
 pluviose 9
 paupere 9
 phantasmas 9
@@ -3129,7 +3130,6 @@ cursa 8
 agite 8
 parlante 8
 Sempre 8
-architecto 8
 radices 8
 Pardona 8
 angelo 8
@@ -3182,6 +3182,7 @@ olla 8
 picca 8
 attrappate 8
 Mamma 8
+Vermente 8
 gratis 8
 effundeva 8
 vicinos 8
@@ -3532,7 +3533,6 @@ sensibilitate 7
 mustarda 7
 terrestre 7
 actualmente 7
-Vermente 7
 cessate 7
 Kyoto 7
 empleate 7
@@ -3932,6 +3932,7 @@ satellite 6
 Plure 6
 secretario 6
 flottava 6
+Justo 6
 adolescentia 6
 coardo 6
 sapite 6
@@ -4511,7 +4512,6 @@ dimitteva 5
 accompaniate 5
 themas 5
 inevitabile 5
-Justo 5
 clausura 5
 joieles 5
 comenciara 5

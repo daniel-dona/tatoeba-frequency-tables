@@ -1,13 +1,13 @@
-je 1124
+je 1125
 Ali 235
 se 231
 v 202
 sem 200
 in 141
 Tom 132
-ne 127
+ne 128
 so 124
-da 121
+da 122
 na 111
 Ne 92
 mesto 91
@@ -23,12 +23,12 @@ Kaj 82
 mi 75
 zelo 70
 glavno 65
-ki 63
+ki 64
 Jaz 60
-bi 58
+bi 59
+lahko 54
 Govorim 53
 Kako 52
-lahko 51
 to 51
 me 49
 iz 49
@@ -45,8 +45,8 @@ kot 36
 Kje 35
 Sem 35
 dan 34
+ga 33
 po 33
-ga 32
 ali 31
 Ona 31
 govorim 31
@@ -128,6 +128,7 @@ Glavno 14
 svetu 13
 Moja 13
 Moj 13
+Ko 13
 tem 13
 vem 13
 mora 13
@@ -142,7 +143,6 @@ všeč 13
 težek 13
 zdaj 12
 Jutri 12
-Ko 12
 ljudje 12
 imaš 12
 življenje 12
@@ -158,6 +158,7 @@ Ni 11
 Mi 11
 nisem 11
 jaz 11
+ko 11
 Ti 11
 prav 11
 videl 11
@@ -169,7 +170,6 @@ mati 10
 ura 10
 Grem 10
 star 10
-ko 10
 ljudi 10
 Vsi 10
 Nikoli 10
@@ -366,6 +366,7 @@ vode 5
 čaj 5
 imel 5
 Po 5
+velik 5
 boli 5
 Vrata 5
 niso 5
@@ -509,7 +510,6 @@ barve 4
 igrati 4
 napisati 4
 bodo 4
-velik 4
 avtobus 4
 nove 4
 Tomu 4
@@ -657,6 +657,7 @@ pomembna 4
 Srce 4
 bije 4
 izvira 4
+Jezik 4
 dober 4
 celo 4
 draga 4
@@ -921,7 +922,7 @@ bitja 3
 Naša 3
 Srednje 3
 želvo 3
-Jezik 3
+zaklad 3
 živ 3
 vir 3
 Telo 3
@@ -1340,6 +1341,7 @@ Večina 2
 utrujeni 2
 tiste 2
 žal 2
+kadiš 2
 skrbela 2
 Vsem 2
 moti 2
@@ -1577,7 +1579,6 @@ Avokado 2
 Doma 2
 vsako 2
 bile 2
-zaklad 2
 meči 2
 avokado 2
 predvsem 2
@@ -1722,6 +1723,7 @@ Prevajanje 2
 užitkov 2
 novih 2
 Tu 2
+smeli 2
 kateri 2
 In 2
 vedo 2
@@ -1732,6 +1734,7 @@ programsko 2
 Programsko 2
 pojmovati 2
 papeža 2
+odrasteš 2
 gospod 1
 Ogawa 1
 Francoz 1
@@ -2911,7 +2914,6 @@ starejši 1
 Pravi 1
 Vsa 1
 kajenja 1
-kadiš 1
 diha 1
 nasprotnik 1
 sproščen 1
@@ -4566,7 +4568,6 @@ zapuščam 1
 dediščino: 1
 kompilacija 1
 raztresene 1
-smeli 1
 zlu 1
 vsakim 1
 zlom 1
@@ -4775,3 +4776,13 @@ Egipt 1
 darilo 1
 Nila 1
 nauči 1
+izgubiti 1
+pokadiš 1
+cigaro 1
+Pipo 1
+Spermiji 1
+prepotujejo 1
+velike 1
+razdalje 1
+dosežejo 1
+jajčece 1

@@ -4,11 +4,11 @@ du 93
 net 80
 Dir 79
 an 64
-e 55
+e 56
 dir 54
 Tom 53
 hunn 51
-huet 46
+huet 47
 Wéi 45
 sinn 44
 Wat 42
@@ -101,6 +101,7 @@ Wie 8
 Joer 8
 weess 8
 hëllefen 8
+Kaz 8
 komme 8
 brauch 7
 dem 7
@@ -113,7 +114,6 @@ Papp 7
 véier 7
 schwätze 7
 dech 7
-Kaz 7
 Numm 7
 frou 7
 Kazen 6
@@ -501,6 +501,8 @@ platt 2
 Zänndokter 2
 beim 2
 Eng 2
+Schwanz 2
+klenge 2
 Jong 2
 Yanni 2
 säit 2
@@ -997,14 +999,12 @@ Spruddel 1
 héieren 1
 zimmlech 1
 bekloen 1
-Schwanz 1
 bäisst 1
 Finanzberoder 1
 Téi 1
 naass 1
 gewonn 1
 benotzen 1
-klenge 1
 Koffi 1
 ausstoen 1
 Mamma 1
@@ -1369,3 +1369,4 @@ Chrëschten 1
 bauen 1
 Brécke 1
 Maueren 1
+Dës 1

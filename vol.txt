@@ -1,5 +1,5 @@
 Tomas 841
-No 610
+No 611
 das 558
 binom 491
 no 489
@@ -11,9 +11,9 @@ dunön 199
 binon 188
 e 169
 Tom 162
+Kikod 158
 obe 157
 dö 157
-Kikod 157
 is 147
 olik 142
 ko 138
@@ -44,8 +44,8 @@ keli 76
 Kim 75
 kisi 75
 binof 72
+vilob 71
 Binom 71
-vilob 70
 buki 68
 us 68
 kanob 68
@@ -238,6 +238,7 @@ velatiko 19
 nen 19
 Buk 18
 Man 18
+slipön 18
 jul 18
 vedön 18
 yunik 18
@@ -251,7 +252,6 @@ malädik 18
 I 18
 lü 17
 bukis 17
-slipön 17
 liegik 17
 Mutobs 17
 mot 17
@@ -1944,6 +1944,7 @@ Mud 2
 "Etos 2
 sufik 2
 otuvob 2
+slipol 2
 kanoböv 2
 Hicil 2
 Cifazif 2
@@ -4764,7 +4765,6 @@ domoi" 1
 ob" 1
 ätüvom 1
 Äsäkoms 1
-slipol 1
 dunols 1
 ilemol 1
 nedof 1
@@ -4995,3 +4995,4 @@ Li-sevob 1
 vilöl 1
 äisagof 1
 Ädledob 1
+Äsäkol 1
