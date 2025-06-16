@@ -1,5 +1,5 @@
 Tom 1169
-Men 885
+Men 886
 Ol 499
 bilen 444
 Sen 319
@@ -351,6 +351,7 @@ Leýlañ 13
 geljek 12
 gaýdyp 12
 aldym 12
+bolsun 12
 bolmaz 12
 gördi 12
 ýylda 12
@@ -386,7 +387,6 @@ nirä 11
 görmäge 11
 kişi 11
 öý 11
-bolsun 11
 hepdede 11
 başlaýar 11
 Mende 11
@@ -1054,6 +1054,7 @@ soňy 4
 Bolýar 4
 Hoş 4
 geldiňiz 4
+gutly 4
 kör 4
 gorkýaryn 4
 gorkýar 4
@@ -1354,7 +1355,6 @@ meň 3
 taksi 3
 geldiň 3
 ýagýar 3
-gutly 3
 işleýärdi 3
 Ejeň 3
 durmuş 3
@@ -1485,6 +1485,7 @@ daýym 3
 ýany 3
 Güýzde 3
 oglana 3
+günüň 3
 öýjükli 3
 tassyklap 3
 ýaryşy 3
@@ -2154,7 +2155,6 @@ goşmaça 2
 Söýgi 2
 soramady 2
 gitjegini 2
-günüň 2
 talap 2
 ulandy 2
 Masaru 2

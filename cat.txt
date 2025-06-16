@@ -1,7 +1,7 @@
 la 1790
 de 1750
 a 1611
-que 1545
+que 1546
 el 1377
 és 1215
 no 946
@@ -13,16 +13,16 @@ i 629
 una 623
 per 610
 El 587
-La 521
+La 522
 Tom 490
 les 459
 amb 432
 els 432
-al 423
+al 424
 ha 394
 En 366
 es 352
-més 350
+més 352
 del 317
 molt 272
 Ell 254
@@ -34,17 +34,17 @@ fer 213
 Ella 210
 està 206
 És 202
+Els 192
 hi 191
-Els 191
 meva 187
 fa 185
 té 176
 seu 176
 Em 174
+són 165
 ser 165
 li 164
 seva 164
-són 164
 tot 160
 què 154
 dir 152
@@ -430,6 +430,7 @@ nen 21
 ràpid 21
 frase 21
 prop 21
+qualsevol 21
 quatre 21
 fan 21
 pas 21
@@ -450,7 +451,6 @@ tothom 20
 gaire 20
 hores 20
 Quant 20
-qualsevol 20
 l'estació 20
 fills 20
 traduir 20
@@ -1714,6 +1714,7 @@ barri 4
 forta 4
 luxe 4
 malaltia 4
+discussió 4
 corda 4
 necessitem 4
 senyal 4
@@ -1913,6 +1914,7 @@ imaginar 4
 interès 4
 Molta 4
 autobús 4
+victòria 4
 l'existència 4
 estudiat 4
 paio 4
@@ -2182,7 +2184,6 @@ pais 3
 Betty 3
 gol 3
 Porto 3
-discussió 3
 venia 3
 formatge 3
 Quins 3
@@ -2434,7 +2435,6 @@ Tokyo 3
 repetir-ho 3
 immediatament 3
 descomptat 3
-victòria 3
 respirar 3
 decisió 3
 mana 3
@@ -2484,6 +2484,7 @@ Sabeu 3
 temple 3
 campanya 3
 gorra 3
+pertany 3
 taronges 3
 ruta 3
 premi 3
@@ -2572,6 +2573,7 @@ diverses 3
 sofà 3
 galàxia 3
 verdures 3
+crits 3
 l'edifici 3
 temperatures 3
 vaques 3
@@ -3341,6 +3343,7 @@ casaria 2
 13 2
 autèntic 2
 diversos 2
+forts 2
 tulipes 2
 reconèixer 2
 gentada 2
@@ -3505,7 +3508,6 @@ violí 2
 marxa 2
 candidat 2
 presidencial 2
-pertany 2
 Viuen 2
 surto 2
 molèstia 2
@@ -3724,7 +3726,6 @@ plogut 2
 crisi 2
 entrat 2
 regió 2
-crits 2
 jugava 2
 essencial 2
 mantenen 2
@@ -5776,7 +5777,6 @@ explosió 1
 refiar-me'n 1
 alguuna 1
 tornes 1
-forts 1
 conèixer-te 1
 aspirina 1
 tornessin 1

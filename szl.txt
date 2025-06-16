@@ -1,6 +1,6 @@
 je 123
-sie 89
-za 75
+sie 90
+za 76
 to 54
 niy 52
 Robi 51
@@ -29,12 +29,12 @@ tam 14
 Tyś 14
 niyma 13
 tego 12
+bez 12
+dōma 12
 bo 11
 Szczyrknij 11
-dōma 11
 ty 10
 w 10
-bez 10
 Toma 10
 Kaj 10
 z 9
@@ -98,6 +98,8 @@ dzisiej 5
 Pōdź 5
 zrobiōł 5
 robi 5
+tyn 5
+mobilniŏk 5
 Ô 5
 gibko 5
 Terŏz 5
@@ -167,6 +169,7 @@ trochã 3
 koło 3
 bōła 3
 nadziejã 3
+Mŏcie 3
 Wielgie 3
 ryby 3
 jedzōm 3
@@ -186,8 +189,6 @@ Kej 3
 zabiyg 3
 Czamu 3
 nim 3
-tyn 3
-mobilniŏk 3
 czasu 3
 chcōm 3
 problym 3
@@ -228,6 +229,7 @@ dupny 3
 Mama 3
 Godōw 3
 srogi 3
+ôkno 3
 Tak 3
 auto 2
 mieście 2
@@ -274,7 +276,6 @@ robić 2
 krzypi 2
 Przeca 2
 wiedzieć 2
-Mŏcie 2
 robiymy 2
 ônych 2
 małych 2
@@ -374,6 +375,7 @@ Kto 2
 szło 2
 kŏżdy 2
 przŏciel 2
+wiela 2
 jednyj 2
 dryn 2
 Chcã 2
@@ -385,6 +387,7 @@ rynkã 2
 Jednako 2
 Dużyj 2
 twoja 2
+zdŏwŏ 2
 Zicnij 2
 ôjciec 2
 stо̆wо̆sz 2
@@ -469,6 +472,8 @@ anōngu 2
 roboty 2
 chory 2
 Jadymy 2
+Za 2
+chwilã 2
 zajechoł 1
 tanksztela 1
 zatankować 1
@@ -944,7 +949,6 @@ członkōw 1
 jakiymu 1
 zoki 1
 geszynkã 1
-wiela 1
 Miŏł 1
 blazã 1
 rynce 1
@@ -1029,7 +1033,6 @@ biygōm 1
 siostra 1
 szwestra 1
 nōm 1
-zdŏwŏ 1
 być 1
 milionerem 1
 ważne 1
@@ -1304,7 +1307,6 @@ chałupa 1
 szranku 1
 luftnyć 1
 luftnōńć 1
-ôkno 1
 Idzie 1
 beztydziyń 1
 starsze 1
@@ -1530,3 +1532,8 @@ mamã 1
 rada 1
 Zrychtuj 1
 Ôstŏw 1
+wszyjskich 1
+Jemu 1
+troszkã 1
+wyciepnã 1
+wyciepiã 1

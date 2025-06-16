@@ -1,17 +1,17 @@
-är 11652
+är 11653
 Jag 11275
 att 7114
 Tom 7089
 inte 6928
 en 5141
 du 5140
-på 4858
+på 4859
 det 4750
 i 4596
 har 4240
 Det 3885
 Han 3409
-jag 3153
+jag 3154
 mig 2721
 för 2701
 här 2663
@@ -105,7 +105,7 @@ ta 378
 väldigt 377
 gjorde 377
 när 371
-två 365
+två 366
 En 361
 kunde 361
 Ni 357
@@ -131,9 +131,9 @@ verkligen 308
 tre 307
 mer 304
 får 303
-år 297
+år 298
+I 296
 Toms 296
-I 295
 barn 292
 allt 292
 fortfarande 291
@@ -200,7 +200,7 @@ heter 186
 dina 186
 tala 185
 gång 185
-under 183
+under 184
 Låt 182
 hatar 182
 sett 182
@@ -457,6 +457,7 @@ försöker 76
 stod 75
 hos 75
 dricka 75
+föll 75
 fyra 75
 sover 75
 frågade 75
@@ -469,7 +470,6 @@ roligt 74
 dålig 74
 Sluta 74
 minuter 74
-föll 74
 båda 74
 runt 73
 ätit 73
@@ -478,13 +478,13 @@ Gillar 73
 gärna 72
 kort 72
 sex 72
+natten 72
 tro 71
 brev 71
 Vilket 71
 vecka 71
 saknar 71
 tillräckligt 71
-natten 71
 lärare 70
 Så 70
 folk 70
@@ -863,6 +863,7 @@ exempel 36
 stället 36
 hör 36
 frågan 36
+ungefär 36
 kött 36
 goda 36
 vart 36
@@ -884,7 +885,6 @@ tåg 35
 exakt 35
 God 35
 Ursäkta 35
-ungefär 35
 glasögon 35
 Såg 35
 skämt 35
@@ -1731,6 +1731,7 @@ hissen 16
 ratten 15
 blomma 15
 annanstans 15
+vita 15
 sovit 15
 polis 15
 fiska 15
@@ -1830,7 +1831,6 @@ dubbelt 14
 ljus 14
 visar 14
 tjejen 14
-vita 14
 rättigheter 14
 nyheterna 14
 letade 14
@@ -2101,6 +2101,7 @@ middagen 12
 Egypten 12
 söner 12
 tjej 12
+jobbade 12
 beklagar 12
 alkohol 12
 grönt 12
@@ -2235,7 +2236,6 @@ faktum 11
 sanning 11
 föreställa 11
 vetat 11
-jobbade 11
 fötterna 11
 ångrar 11
 föreslår 11
@@ -3011,6 +3011,7 @@ Väntar 8
 Skandinavien 8
 tårtan 8
 bete 8
+Snön 8
 starkt 8
 grad 8
 hemlös 8
@@ -3314,7 +3315,6 @@ rökte 7
 förväntningar 7
 post 7
 soporna 7
-Snön 7
 Klä 7
 Därför 7
 bjuda 7
@@ -5686,6 +5686,7 @@ rätten 3
 medförde 3
 nödsituation 3
 meters 3
+Rosorna 3
 anlagd 3
 ikapp 3
 aspirin 3
@@ -7399,7 +7400,6 @@ slipade 2
 vägnar 2
 återvändo 2
 gångväg 2
-Rosorna 2
 bekvämaste 2
 tennismatcher 2
 konkurs 2

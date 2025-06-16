@@ -1,4 +1,4 @@
-ad 4234
+ad 4233
 Ṭum 2502
 d 2308
 n 2174
@@ -154,8 +154,8 @@ afad 72
 iniɣ 72
 sin 72
 hlli 72
-Yan 71
 gi-s 71
+Yan 70
 Mnck 70
 iḍgam 69
 izrin 68
@@ -276,20 +276,20 @@ snat 40
 Uṣṭṛalya 40
 tẓḍaṛt 39
 Ẓṛiɣ 39
-tɣawsiwin 39
 gigi 39
 Maf 39
 issnn 38
 bla 38
+tɣawsiwin 38
 anaw 38
 nttan 38
-tɣawsa 38
 Yak 38
 Ack 38
 yaws 37
 uṣmmiḍ 37
 umukris 37
 ijddign 37
+tɣawsa 37
 Iskr 37
 yaḍni 37
 knt 37
@@ -377,7 +377,6 @@ tfssi 29
 izdɣ 28
 tfugla 28
 nkkin 28
-urgaz 28
 agayyu 28
 nftu 28
 taggurt 28
@@ -392,6 +391,7 @@ dɣid 28
 idda 27
 mqqar 27
 izri 27
+urgaz 27
 iḥml 27
 tkkit 27
 Yaɣ 27
@@ -481,7 +481,6 @@ tiwisi 23
 ittbayyan 23
 Yiwi 22
 tra 22
-Yat 22
 sawaln 22
 waḥdu 22
 Arm 22
@@ -509,6 +508,7 @@ ackɣ 21
 rbbi 21
 Ɣayad 21
 af 21
+Yat 21
 ijṛu 21
 Dars 21
 tannayt 21
@@ -1308,7 +1308,6 @@ tamaẓunt 8
 ibidd 8
 zḍarɣ 8
 icwa 8
-Aɣaras 8
 naḥya 8
 iggan 8
 Kullu 8
@@ -1452,6 +1451,7 @@ ssnn 7
 yinlmadn 7
 Usiɣ 7
 itran 7
+Aɣaras 7
 ssmrasɣ 7
 Ddan 7
 Nttat 7
@@ -3766,7 +3766,6 @@ Ffuɣ 3
 Alln 3
 ubyanu 3
 Nurri 3
-Snat 3
 Mraw 3
 tɣzi 3
 Nuḍn 3
@@ -5930,6 +5929,7 @@ giwrnt 2
 talpidzat 2
 ismaqqal 2
 tfullust 2
+Snat 2
 tsɣm 2
 tsɣmt 2
 umknas 2
