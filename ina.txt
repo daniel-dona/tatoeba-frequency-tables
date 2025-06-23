@@ -1,5 +1,5 @@
-le 14811
-es 10737
+le 14812
+es 10738
 un 8771
 de 8202
 ha 5897
@@ -32,7 +32,7 @@ nos 1180
 esseva 1121
 multo 1077
 Nos 1066
-iste 1008
+iste 1009
 per 1007
 te 1001
 Tu 1000
@@ -67,7 +67,7 @@ tote 532
 bon 529
 Vos 525
 va 520
-Non 512
+Non 513
 In 502
 si 498
 lingua 497
@@ -131,8 +131,8 @@ catto 243
 personas 243
 nihil 242
 mangia 242
+nove 240
 persona 240
-nove 239
 inter 238
 morte 237
 haber 235
@@ -166,7 +166,7 @@ melior 198
 essera 197
 parve 196
 Qual 196
-moneta 193
+moneta 194
 nunquam 192
 jammais 192
 vive 190
@@ -206,8 +206,8 @@ musica 156
 difficile 156
 poteva 155
 vermente 154
+auto 153
 terra 153
-auto 152
 schola 152
 nocte 152
 voleva 152
@@ -598,6 +598,7 @@ pictoresc 52
 lacte 51
 auro 51
 haberea 51
+oblida 51
 vento 51
 mangiate 51
 solo 51
@@ -614,7 +615,6 @@ nave 51
 Terra 51
 Bon 50
 omnes 50
-oblida 50
 scribite 50
 joca 50
 situation 50
@@ -7860,6 +7860,7 @@ Troppo 3
 tigrate 3
 dogs 3
 vibe 3
+Cuje 3
 "wokeismo" 3
 killer 3
 Gallos 3
@@ -9997,4 +9998,3 @@ splendor 2
 bacas 2
 smalta 2
 diadema 2
-Liga 2

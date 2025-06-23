@@ -1,6 +1,6 @@
 không 5420
 tôi 5006
-Tôi 4945
+Tôi 4946
 có 4157
 là 4022
 đã 3894
@@ -13,8 +13,8 @@ ta 1842
 đó 1819
 Bạn 1774
 người 1717
+làm 1707
 đi 1706
-làm 1706
 Anh 1682
 sẽ 1664
 anh 1586
@@ -28,7 +28,7 @@ gì 1304
 đang 1294
 phải 1272
 với 1260
-đến 1236
+đến 1237
 biết 1143
 muốn 1059
 trong 1041
@@ -41,9 +41,9 @@ nào 873
 Cô 856
 để 844
 cái 821
+việc 800
 chúng 800
-việc 799
-giờ 786
+giờ 787
 thích 776
 về 773
 bị 770
@@ -56,7 +56,7 @@ lại 721
 điều 707
 Mary 700
 tiếng 695
-khi 687
+khi 689
 như 682
 ăn 681
 nhiều 680
@@ -64,7 +64,7 @@ mà 667
 nghĩ 650
 rồi 649
 con 632
-thấy 623
+thấy 624
 hơn 621
 nên 585
 nó 582
@@ -95,9 +95,9 @@ quá 435
 vậy 433
 Có 428
 nay 425
-thành 424
+thành 425
 ông 400
-công 396
+công 397
 năm 395
 ý 391
 trên 386
@@ -120,7 +120,7 @@ các 341
 tiền 334
 tới 333
 thứ 331
-nước 330
+nước 331
 bắt 325
 nghe 321
 hay 319
@@ -140,9 +140,9 @@ hỏi 284
 khác 284
 cách 283
 yêu 279
-sau 277
+sau 278
+câu 275
 Nó 275
-câu 274
 xem 271
 đều 270
 hãy 269
@@ -181,8 +181,8 @@ phòng 224
 gian 223
 đẹp 223
 hôm 223
+hàng 222
 Nhật 222
-hàng 221
 hiểu 221
 Hôm 220
 tìm 220
@@ -273,9 +273,9 @@ thêm 148
 nếu 147
 thức 146
 chó 146
+cuốn 146
 cố 145
 xin 145
-cuốn 145
 kỳ 145
 đau 144
 lý 143
@@ -463,6 +463,7 @@ Vì 84
 quen 84
 chọn 83
 hạnh 83
+Cho 83
 chứ 83
 phim 83
 mèo 83
@@ -470,7 +471,6 @@ phê 83
 chú 83
 nóng 83
 cảnh 82
-Cho 82
 bóng 82
 khóc 82
 sang 82
@@ -508,6 +508,7 @@ John 75
 nấu 75
 đỡ 75
 buồn 75
+mệt 74
 thiết 74
 giữ 74
 to 74
@@ -517,7 +518,6 @@ vợ 74
 tớ 74
 nhật 73
 mạnh 73
-mệt 73
 thất 73
 tử 73
 đình 73
@@ -834,6 +834,7 @@ rửa 39
 khoa 39
 chim 39
 bí 39
+Ba 39
 6 39
 điên 38
 la 38
@@ -854,7 +855,6 @@ vua 38
 hòa 38
 nặng 38
 ngoái 38
-Ba 38
 20 37
 vũ 37
 chồng 37
@@ -1156,6 +1156,7 @@ tờ 23
 nghìn 23
 béo 23
 xuân 23
+bờ 23
 răng 23
 trùng 23
 cấm 23
@@ -1177,7 +1178,6 @@ giám 22
 gợi 22
 khởi 22
 bát 22
-bờ 22
 tỏ 22
 gương 22
 kim 22
@@ -1300,6 +1300,7 @@ Mấy 19
 đào 19
 hạn 19
 thở 19
+trôi 19
 hiếm 19
 50 19
 giành 19
@@ -1356,7 +1357,6 @@ Học 18
 tụi 18
 dựa 18
 len 18
-trôi 18
 dần 18
 mạch 18
 Chú 18
@@ -1402,6 +1402,7 @@ Thầy 16
 thèm 16
 tí 16
 tán 16
+liền 16
 Quyển 16
 Lời 16
 ban 16
@@ -1441,7 +1442,6 @@ tám 15
 Đêm 15
 Này 15
 kì 15
-liền 15
 tươi 15
 mỳ 15
 thổi 15
@@ -1820,6 +1820,7 @@ ngũ 10
 "Vậy 10
 Dan 10
 cóc 10
+Sai 10
 lau 10
 "Anh 10
 Mennad 10
@@ -1912,7 +1913,6 @@ Giúp 9
 bỏng 9
 sói 9
 tôi" 9
-Sai 9
 Kabyle 9
 biếng 9
 nga 9

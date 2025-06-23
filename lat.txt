@@ -334,12 +334,12 @@ nocte 97
 bonus 96
 multa 96
 multum 96
+Semper 96
 Ioannes 96
 discere 96
 epistulam 95
 ita 95
 posse 95
-Semper 95
 Potesne 95
 Nesciebam 95
 habes 94
@@ -1824,6 +1824,7 @@ alas 20
 Bellum 20
 sero 20
 Habitasne 20
+cano 20
 Postquam 20
 Nocte 20
 edimus 20
@@ -1909,7 +1910,6 @@ lusit 19
 tunicam 19
 Affer 19
 ascendit 19
-cano 19
 sororis 19
 quaerit 19
 Prope 19

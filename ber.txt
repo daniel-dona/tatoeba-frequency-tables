@@ -1,5 +1,5 @@
 ad 186900
-n 154162
+n 154161
 d 114861
 ara 92879
 ay 71472
@@ -1047,9 +1047,9 @@ Yeḥwaj 338
 nezzeh 338
 ilin 337
 Ttxil-wen 337
-yidlisen 337
 Dayen 336
 abugaṭu 336
+yidlisen 336
 yudef 336
 nla 336
 tasiwant 335
@@ -4530,7 +4530,6 @@ tzerrew 77
 isunan-nni 77
 yeččuṛen 77
 yerḥem 77
-yixxamen 77
 Wakli 77
 umidi 77
 wul-ik 77
@@ -4585,6 +4584,7 @@ yalel 76
 ɛinani 76
 takerrust 76
 nteddu 76
+yixxamen 76
 udem-is 76
 d-yali 76
 sεan 76
@@ -5684,7 +5684,6 @@ yettxemmimen 57
 yejhed 57
 as-tenna 57
 yukren 57
-Mraw 57
 tleggit 57
 mechuṛ 57
 ini-as 57
@@ -5762,6 +5761,7 @@ d-tili 56
 lfayda 56
 leḥdaqa 56
 temmteḍ 56
+Mraw 56
 yesseqsa 56
 yesɛin 56
 lexber 56
@@ -7554,7 +7554,6 @@ taɛekkemt 40
 Ɛawneɣ 39
 ttajja 39
 Legrig 39
-Kuẓ 39
 tullisin 39
 anda-tt 39
 yisali-nni 39
@@ -7693,6 +7692,7 @@ ufeṛṛan-nni 39
 anamek-nnes 38
 iɛdawen 38
 tansa-nnes 38
+Kuẓ 38
 lxemsa 38
 Fehmeɣ 38
 tyemmat 38

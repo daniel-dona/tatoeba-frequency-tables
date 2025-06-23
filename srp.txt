@@ -5,7 +5,7 @@ je 6817
 се 3963
 Том 3574
 сам 3484
-se 3043
+se 3044
 sam 2508
 ли 2330
 u 2068
@@ -15,19 +15,19 @@ li 1797
 то 1657
 Да 1516
 na 1485
-i 1394
+i 1395
 на 1361
 не 1315
 to 1179
-ne 1154
+ne 1155
 ми 1118
 и 1039
-mi 1027
+mi 1028
 Da 1023
 су 991
 si 987
 za 893
-su 862
+su 863
 Ne 836
 sa 824
 Не 811
@@ -2016,6 +2016,7 @@ godinu 15
 razlika 15
 čaj 15
 porodica 15
+Ove 15
 izgledaš 15
 shvatio 15
 muzika 15
@@ -2150,7 +2151,6 @@ zavisi 14
 svako 14
 Jedva 14
 počela 14
-Ove 14
 slobodan 14
 more 14
 hvala 14
@@ -2722,6 +2722,7 @@ noge 11
 autobusom 11
 fin 11
 starih 11
+sviđaju 11
 otvorena 11
 spavanje 11
 zdravlje 11
@@ -2993,7 +2994,6 @@ dvadeset 10
 Potpuno 10
 lagao 10
 Plašim 10
-sviđaju 10
 poznajem 10
 rezultate 10
 kupovinu 10
@@ -5467,6 +5467,7 @@ prtljag 5
 novčanik 5
 pažljiv 5
 čaša 5
+hladne 5
 ispočetka 5
 Živeo 5
 CD 5
@@ -6563,7 +6564,6 @@ radujem 4
 različita 4
 doručka 4
 Videli 4
-hladne 4
 raspustu 4
 kovertu 4
 otvarajte 4
