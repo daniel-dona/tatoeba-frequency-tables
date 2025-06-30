@@ -1,13 +1,13 @@
-do 1008
+do 1010
 oku 616
 i 397
 Tom 377
 ku 334
 no 306
 di 295
-nopo 252
-nga 251
-id 242
+nopo 253
+nga 252
+id 243
 nu 217
 ko 190
 Au 186
@@ -58,7 +58,7 @@ montok 44
 Manu 44
 yahai 44
 Kada 42
-Poransis 41
+Poransis 42
 kio 40
 isio 40
 disido 39
@@ -202,6 +202,7 @@ tinan 12
 monikid 12
 mato 12
 tiinu 12
+doid 12
 oilaan 12
 Asaru 12
 ma 12
@@ -214,7 +215,6 @@ Hinonggo 11
 Miagal 11
 Obuli 11
 Alansan 11
-doid 11
 Ogumu 11
 Songkuro 11
 Milo 11
@@ -736,6 +736,7 @@ tolingo 3
 Sumonu 3
 Nokosodia 3
 watas 3
+kakadayan 3
 toguangon 3
 Adalaan 3
 Nokosunud 3
@@ -860,6 +861,7 @@ Okoro 3
 obuli 3
 yoho 3
 Mulong 3
+pialatan 3
 don 3
 binoros 3
 main 3
@@ -990,7 +992,6 @@ pogihum 2
 Agaras 2
 Tumalib 2
 Koligagaanan 2
-kakadayan 2
 Kobolingkangan 2
 Modosi 2
 Kopio 2
@@ -1269,7 +1270,6 @@ Siruba 2
 koidu 2
 sanganu 2
 minooi 2
-pialatan 2
 siakan 2
 walu 2
 10000 2
@@ -1345,6 +1345,7 @@ kihulu 2
 Minanganu 2
 taka 2
 Google 2
+poindoros 2
 Indonesia 2
 ginumu 2
 binasa 2
@@ -2983,7 +2984,6 @@ Sumaga 1
 sansangkir 1
 minomonsoi 1
 Translate 1
-poindoros 1
 Sontoun-toun 1
 Pulou 1
 Sebatik 1
@@ -3879,3 +3879,7 @@ tokud 1
 miiyo 1
 Maalan 1
 mononsoi 1
+Strasbourg 1
+poinsumpak 1
+Kosilahon 1
+Jerman 1

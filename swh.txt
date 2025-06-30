@@ -1,15 +1,15 @@
-ya 1294
-na 1069
-wa 754
-kwa 695
-ni 624
+ya 1296
+na 1071
+wa 755
+kwa 697
+ni 626
 katika 241
 kwenye 227
 kuwa 215
 za 213
 la 201
 cha 179
-sana 174
+sana 175
 Je 169
 kama 151
 wakati 147
@@ -24,10 +24,10 @@ kila 102
 kwamba 101
 hii 100
 zaidi 99
-hiyo 93
+hiyo 94
 kufanya 90
+watu 89
 tu 88
-watu 87
 wangu 87
 kutoka 86
 hivyo 84
@@ -55,9 +55,9 @@ Kuna 50
 nzuri 49
 sasa 49
 kuhusu 49
+nyingi 49
 ndani 48
-nyingi 48
-mbaya 47
+mbaya 48
 ili 47
 Nina 46
 Bwana 46
@@ -223,6 +223,7 @@ kuona 20
 barabara 20
 inaweza 20
 mbele 20
+Marekani 20
 kula 20
 barua 19
 baba 19
@@ -234,10 +235,10 @@ macho 19
 mbwa 19
 msimu 19
 baridi 19
+vita 19
 afya 19
 haraka 19
 kifo 19
-Marekani 19
 haya 19
 Alikuwa 19
 zao 18
@@ -246,11 +247,11 @@ Siku 18
 Uingereza 18
 chake 18
 Una 18
-vita 18
 bidhaa 18
 ngumu 18
 shida 18
 mdogo 18
+ndio 18
 ulikuwa 18
 karibuni 18
 damu 18
@@ -268,7 +269,6 @@ nafasi 17
 ngapi 17
 umri 17
 mwa 17
-ndio 17
 usalama 17
 nyuma 17
 roho 17
@@ -494,6 +494,7 @@ alama 10
 treni 10
 baiskeli 10
 ugonjwa 10
+urahisi 10
 kwangu 10
 kukaa 10
 umeme 10
@@ -558,7 +559,6 @@ akiwa 9
 hizo 9
 Bw 9
 keki 9
-urahisi 9
 kushiriki 9
 tamu 9
 sina 9
@@ -606,6 +606,7 @@ mingi 8
 Si 8
 New 8
 Niko 8
+Kusini 8
 machungwa 8
 halali 8
 Anapenda 8
@@ -699,7 +700,6 @@ nyasi 7
 Saa 7
 raha 7
 nane 7
-Kusini 7
 upi 7
 dada 7
 ujumbe 7
@@ -909,6 +909,7 @@ busu 6
 mwitu 6
 huanza 6
 fupi 6
+Hali 6
 kuendelea 6
 Huu 6
 Hivyo 6
@@ -995,6 +996,7 @@ wakiwa 5
 ndefu 5
 mashariki 5
 theluji 5
+Barabara 5
 kona 5
 Njia 5
 mwishoni 5
@@ -1084,7 +1086,6 @@ Wanajeshi 5
 kinyume 5
 pa 5
 silaha 5
-Hali 5
 Ndio 5
 kulevya 5
 wenyewe 5
@@ -1126,6 +1127,7 @@ saini 4
 jeraha 4
 jirani 4
 California 4
+China 4
 uji 4
 Ulikuwa 4
 Mke 4
@@ -1211,6 +1213,7 @@ hotuba 4
 kusonga 4
 uchaguzi 4
 Runinga 4
+mbovu 4
 husababisha 4
 densi 4
 wanapenda 4
@@ -1227,7 +1230,6 @@ kuzuia 4
 haikuwa 4
 kilomita 4
 hila 4
-Barabara 4
 utulivu 4
 Mji 4
 Mlima 4
@@ -1451,7 +1453,6 @@ mchawi 3
 Natoka 3
 Uswidi 3
 Mwanamume 3
-China 3
 Emily 3
 aliandika 3
 niletee 3
@@ -1580,7 +1581,6 @@ kuchagua 3
 Mlango 3
 umefungwa 3
 sampuli 3
-mbovu 3
 Mwishowe 3
 vyuo 3
 mitihani 3
@@ -1646,6 +1646,7 @@ takatifu 3
 bonyeza 3
 leseni 3
 alipokuwa 3
+mataifa 3
 ulinzi 3
 kibichi 3
 pendekezo 3
@@ -2323,7 +2324,6 @@ Hapana 2
 Ann 2
 yafuatayo 2
 walikwenda 2
-mataifa 2
 matatu 2
 soka 2
 kumwona 2
@@ -9300,3 +9300,11 @@ kuipataje 1
 hasikilizi 1
 matupu 1
 hutengana 1
+hazipitiki 1
+UN 1
+wanaotoa 1
+misaada 1
+wanashindwa 1
+kuwafikia 1
+Sudan 1
+wanaosababisha 1

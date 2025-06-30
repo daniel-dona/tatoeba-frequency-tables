@@ -68,7 +68,7 @@ super 336
 domum 328
 possum 327
 habeo 324
-sumus 321
+sumus 322
 ubi 319
 nos 317
 nunc 317
@@ -82,7 +82,7 @@ eo 304
 facere 302
 quae 301
 e 300
-omnes 291
+omnes 292
 Dominus 291
 annos 289
 Cum 288
@@ -384,12 +384,12 @@ scio 86
 Nomen 86
 numquam 86
 Marcus 86
+Nos 86
 feles 86
 Nolite 86
 ait: 86
 re 85
 Ut 85
-Nos 85
 una 85
 magnus 85
 emi 85
@@ -605,6 +605,7 @@ diebus 59
 cibum 59
 Suntne 59
 E 59
+animalia 59
 hebdomade 59
 munere 59
 habito 59
@@ -619,7 +620,6 @@ parentes 58
 bibo 58
 cubiculo 58
 procerus 58
-animalia 58
 populum 58
 nondum 58
 pars 57
@@ -1509,6 +1509,7 @@ ibat 24
 libro 24
 tribus 24
 fractum 24
+feminae 24
 Ante 24
 Uterque 24
 sedet 24
@@ -1581,7 +1582,6 @@ Loquerisne 23
 ludi 23
 potio 23
 Minus 23
-feminae 23
 Erat 23
 casus 23
 Avus 23

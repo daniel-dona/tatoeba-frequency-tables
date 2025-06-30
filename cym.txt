@@ -1,7 +1,7 @@
 yn 562
 i 343
 Mae 290
-y 199
+y 201
 Dw 188
 i'n 178
 Tom 168
@@ -24,13 +24,13 @@ bod 62
 Wyt 57
 dy 52
 am 52
+Roedd 50
 Mary 48
-Roedd 48
 yw 47
 ni 47
 mynd 46
 chi'n 45
-iawn 44
+iawn 45
 i'r 42
 siarad 38
 eisiau 38
@@ -263,6 +263,7 @@ Rydyn 6
 ti’n 6
 chi’n 6
 mor 6
+ben 6
 Dwi’n 6
 pan 6
 erbyn 6
@@ -276,6 +277,7 @@ Cafodd 5
 eistedd 5
 Gymraeg 5
 adref 5
+dros 5
 problem 5
 ddinas 5
 ddwy 5
@@ -312,7 +314,6 @@ O 5
 Lloegr 5
 dechrau 5
 Fe 5
-ben 5
 efo 5
 Efallai 5
 tocyn 5
@@ -332,7 +333,6 @@ llygaid 4
 ennill 4
 teimlo'n 4
 digon 4
-dros 4
 ddigon 4
 fab 4
 Roeddwn 4
@@ -371,6 +371,7 @@ Pan 4
 gyda'r 4
 honno 4
 ginio 4
+flasus 4
 cinio 4
 bachgen 4
 deg 4
@@ -711,7 +712,6 @@ tlodion 2
 'ngalw 2
 docyn 2
 afal 2
-flasus 2
 Gyda 2
 stryd 2
 ddechrau 2
@@ -982,6 +982,7 @@ ysgrifennu'r 2
 Meddyg 2
 cefnogi 2
 Abertawe 2
+cyrri’n 2
 Loegr 1
 gysgodd 1
 baban 1

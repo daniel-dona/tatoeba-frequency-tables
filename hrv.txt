@@ -22,7 +22,7 @@ ti 133
 To 129
 te 124
 me 122
-smo 112
+smo 114
 s 110
 će 106
 Ja 101
@@ -125,6 +125,7 @@ Možeš 29
 Toma 29
 ništa 28
 engleski 28
+Svi 28
 posao 28
 auto 27
 mogao 27
@@ -135,7 +136,6 @@ ovaj 26
 vrata 26
 po 26
 malo 26
-Svi 26
 vas 26
 dvije 26
 godina 26
@@ -3024,6 +3024,7 @@ popisu 2
 sveučilište 2
 supermarketu 2
 najbližem 2
+jednaki 2
 Tomojuki 1
 Ogura 1
 lutka 1

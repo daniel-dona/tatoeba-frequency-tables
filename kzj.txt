@@ -1,14 +1,14 @@
-do 3384
-zou 1211
+do 3387
+zou 1213
 di 1005
 no 909
-i 825
-Tom 699
+i 827
+Tom 701
 ku 650
 ko 649
 o 603
 id 479
-nu 450
+nu 451
 nopo 421
 Au 409
 doid 407
@@ -27,7 +27,7 @@ mantad 185
 diau 177
 Mary 172
 dogo 167
-Au' 166
+Au' 167
 kozo 165
 tuhun 160
 daa 160
@@ -42,12 +42,12 @@ mai 125
 ii 124
 nunu 124
 baino 123
-gia 122
+gia 123
 Aiso 120
 Kivaa 114
 ka 107
 tadau 106
-au' 103
+au' 104
 miampai 102
 ginavo 99
 diho 98
@@ -60,8 +60,8 @@ doiti 86
 montok 82
 dosido 78
 hamin 76
+ko' 75
 kio 74
-ko' 74
 koiho 64
 Onu 64
 toun 63
@@ -69,9 +69,9 @@ maan 63
 aiso 63
 buuk 61
 timpu 61
+dino 61
 Mimang 61
 nung 59
-dino 59
 mimang 57
 sondii 57
 kaanu 56
@@ -82,9 +82,9 @@ nodi 53
 ngaavi 53
 kokomoi 52
 insan 52
+tu' 52
 dati 51
 aanangan 51
-tu' 51
 Koiho 50
 dagai 50
 nodii 50
@@ -182,12 +182,12 @@ lahan 26
 nokoiho 25
 Perancis 25
 ngaavi' 25
+Miaga 25
 topiumanan 25
 Krismas 25
 Ingkuo 25
 Kavasa 25
 gambal 25
-Miaga 24
 tagal 24
 kadai 24
 kobohingkaangan 24
@@ -232,6 +232,7 @@ ahal 19
 ingkuo 19
 ngoopod 19
 tavasi 19
+noikot 19
 dot 19
 Mai 19
 kaanto 19
@@ -244,7 +245,6 @@ tinan 18
 mamain 18
 otumbazaan 18
 mokinongou 18
-noikot 18
 potuu 18
 koikot 18
 baas 18
@@ -281,6 +281,7 @@ umasam 15
 komozon 15
 nombo 15
 Itia 15
+koongoi 15
 mogisuusuvai 15
 kalaja 15
 voos 15
@@ -311,7 +312,6 @@ Siou 14
 Mongoi 14
 mambasa 14
 daat 14
-koongoi 14
 Tosoou 14
 minggu 14
 sabaagi 14
@@ -630,6 +630,7 @@ dii" 7
 titihion 7
 pongusapan 7
 touvi 7
+humansan 7
 filim 7
 kakamot 7
 zotiho 7
@@ -735,7 +736,6 @@ siibo 6
 votik 6
 susu 6
 nuhu 6
-humansan 6
 moginazakan 6
 angkang 6
 novel 6
@@ -1135,6 +1135,7 @@ humusob 4
 Koondom 4
 aiso' 4
 Rima 4
+Abazatan 4
 katantuan 3
 Jaam 3
 pio 3
@@ -1416,6 +1417,7 @@ nokopisoomo 3
 gumuhi 3
 ohidas 3
 giigina 3
+lidiu 3
 guuguhu 3
 oosizan 3
 tinumon 3
@@ -1596,7 +1598,6 @@ kosuvab 3
 kohousan 3
 Uminasam 3
 bohizan 3
-Abazatan 3
 tiso' 3
 doiti' 3
 tobulou 3
@@ -4011,7 +4012,6 @@ miniodu 1
 giniot 1
 Mongigit 1
 Poposohimbou 1
-lidiu 1
 mongondugo 1
 kopomodusaan 1
 kopomosizon 1
@@ -6807,3 +6807,7 @@ aa 1
 diiga 1
 baaddin 1
 17 1
+katanaan 1
+puadai 1
+Mimpuod 1
+kinuang 1

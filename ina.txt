@@ -1,13 +1,13 @@
 le 14812
-es 10738
-un 8771
-de 8202
+es 10739
+un 8770
+de 8199
 ha 5897
-Le 5624
-Io 5128
+Le 5623
+Io 5130
 in 5062
 non 4837
-que 4724
+que 4725
 e 3408
 del 3216
 a 3110
@@ -24,11 +24,11 @@ se 1705
 vos 1688
 pro 1574
 con 1504
-plus 1426
+plus 1425
 ille 1391
 pote 1216
-mi 1212
-nos 1180
+mi 1211
+nos 1181
 esseva 1121
 multo 1077
 Nos 1066
@@ -42,10 +42,10 @@ Illa 899
 Esque 805
 grande 799
 Iste 787
-vole 781
+vole 782
 illo 712
 blau 700
-era 695
+era 694
 habeva 685
 Que 676
 esser 663
@@ -64,7 +64,7 @@ Illo 539
 facer 537
 sape 535
 tote 532
-bon 529
+bon 528
 Vos 525
 va 520
 Non 513
@@ -82,7 +82,7 @@ parla 430
 ama 429
 mundo 426
 illes 423
-vita 422
+vita 421
 vostre 418
 altere 413
 ma 412
@@ -101,7 +101,7 @@ sin 336
 Deo 331
 On 330
 anglese 329
-aqua 323
+aqua 324
 sol 314
 hic 313
 An 309
@@ -147,7 +147,7 @@ Proque 225
 amor 219
 facite 218
 Como 218
-die 216
+die 215
 francese 214
 favor 209
 ante 207
@@ -169,9 +169,9 @@ Qual 196
 moneta 194
 nunquam 192
 jammais 192
+Tote 190
 vive 190
 Illas 190
-Tote 189
 Ubi 188
 ver 188
 deberea 187
@@ -319,7 +319,7 @@ deman 100
 deveni 99
 Toto 99
 Quante 99
-merda 98
+merda 97
 filio 96
 ibi 96
 momento 96
@@ -407,10 +407,10 @@ jardin 76
 Vole 76
 gusto 76
 perque 76
+libere 75
 passate 75
 Ecce 75
 cammino 75
-libere 74
 filia 74
 etate 74
 attention 74
@@ -498,6 +498,7 @@ insimul 62
 Vostre 62
 usate 62
 foras 61
+animales 61
 parlava 61
 re 61
 mathematica 61
@@ -508,7 +509,6 @@ amica 60
 strata 60
 differente 60
 placerea 60
-animales 60
 ipse 60
 international 59
 glacie 59
@@ -703,6 +703,7 @@ uso 45
 Ora 44
 Statos 44
 successo 44
+frigide 44
 nasceva 44
 parco 44
 Lor 44
@@ -713,7 +714,6 @@ magic 44
 qualcosa 43
 voluntate 43
 Da 43
-frigide 43
 postea 43
 cavallo 43
 memoria 43
@@ -895,7 +895,6 @@ varie 35
 gris 35
 mamma 35
 grammatica 35
-Trump 35
 natar 34
 functiona 34
 finalmente 34
@@ -917,6 +916,7 @@ integre 34
 nec 34
 projecto 34
 sanguine 34
+Trump 34
 comenciate 33
 sequente 33
 color 33
@@ -1277,7 +1277,6 @@ principio 24
 eterne 24
 amicas 24
 salvate 24
-Donald 24
 IALA 24
 construction 23
 arrivara 23
@@ -1319,7 +1318,6 @@ gambas 23
 petras 23
 carga 23
 fiction 23
-pecia 23
 medietate 23
 currente 23
 absolute 23
@@ -1327,6 +1325,7 @@ Totos 23
 nord 23
 nepto 23
 Joe 23
+Donald 23
 grammatic 23
 Algeria 23
 grisette 23
@@ -1374,6 +1373,7 @@ servi 22
 epocha 22
 Africa 22
 official 22
+pecia 22
 age 22
 urso 22
 filios 22
@@ -1437,7 +1437,6 @@ suffice 21
 ingeniero 21
 universal 21
 objecto 21
-septembre 21
 transverso 21
 depost 21
 fede 21
@@ -1501,6 +1500,7 @@ Esser 20
 balla 20
 Amor 20
 rosa 20
+septembre 20
 superior 20
 comparation 20
 solide 20
@@ -2456,6 +2456,7 @@ continuemente 11
 sonar 11
 salvo 11
 attraheva 11
+refusava 11
 permanente 11
 assistente 11
 fundamental 11
@@ -2628,7 +2629,6 @@ scholas 10
 habilitates 10
 hibernal 10
 electric 10
-refusava 10
 apportate 10
 Carl 10
 firma 10
@@ -4917,7 +4917,6 @@ agro 5
 sancto 5
 (de 5
 odiar 5
-11 5
 niva 5
 demandara 5
 Essente 5
@@ -5085,6 +5084,7 @@ saracenos 5
 volapük 5
 Hitler 5
 Sulla 5
+Palestina 5
 garantia 5
 guillotina 5
 moleste 5
@@ -5146,6 +5146,7 @@ Videva 5
 giraffa 5
 apoplexia 5
 Fugi 5
+mulieres 5
 callos 5
 Musulmanes 5
 water 5
@@ -5782,6 +5783,7 @@ Manco 4
 conviction 4
 honestemente 4
 gasose 4
+11 4
 institutiones 4
 disoccupate 4
 instincto 4
@@ -6067,7 +6069,6 @@ reptiles 4
 occasionalmente 4
 subtitulate 4
 duplate 4
-Palestina 4
 Tomo 4
 fumava 4
 antifascista 4
@@ -6161,7 +6162,6 @@ Nota: 4
 superlativo 4
 lithium 4
 autosufficiente 4
-mulieres 4
 votava 4
 Khathie 4
 vias 4

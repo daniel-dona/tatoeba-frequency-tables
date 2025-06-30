@@ -1,7 +1,7 @@
-jest 175
-Ja 89
+jest 174
+Ja 90
 ne 67
-jesm 51
+jesm 52
 Tom 47
 Ty 44
 To 33
@@ -23,7 +23,7 @@ Oni 11
 to 11
 ljubju 11
 Žitje 11
-Bog 9
+Bog 10
 ljubi 9
 ty 9
 Kde 8
@@ -54,7 +54,6 @@ jesti 5
 svoj 5
 tu 5
 Moj 5
-Trump 5
 egzistuje 5
 knigu 5
 a 5
@@ -67,6 +66,7 @@ kak 4
 on 4
 "Ja 4
 ili 4
+Trump 4
 ryž 4
 napisala 4
 Elon 4
@@ -509,8 +509,6 @@ kaprizny 1
 narcist 1
 lider 1
 kulta 1
-Donald 1
-govno 1
 selu 1
 hočes 1
 hočete 1

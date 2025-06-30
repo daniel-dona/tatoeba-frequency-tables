@@ -1,6 +1,6 @@
 isch 415
 I 295
-ned 215
+ned 216
 Tom 186
 i 185
 dr 157
@@ -19,7 +19,7 @@ dass 97
 send 85
 no 83
 mid 81
-zom 79
+zom 80
 des 77
 se 77
 so 77
@@ -134,25 +134,25 @@ hier 17
 nemme 17
 den 17
 daine 17
+weil 17
 Worom 17
 'S 17
 Leit 17
 bei 17
 ohne 16
-weil 16
+bis 16
 ganz 16
 ra 16
 hôsch 16
 môg 16
+Zeid 16
 hot 15
 gar 15
-bis 15
 muaß 15
 's 15
 meh 15
 kennd 15
 Siå 15
-Zeid 15
 Sia 14
 guat 14
 ibr 14
@@ -289,6 +289,7 @@ muåss 8
 duåd 8
 Land 8
 hät 8
+mrs 8
 Dô 8
 diä 8
 gäbå 8
@@ -337,7 +338,6 @@ Mô 7
 mä 7
 Där 7
 Menschä 7
-mrs 7
 Läbä 7
 Wäld 7
 ghedd 7
@@ -470,6 +470,7 @@ Ziel 5
 gegä 5
 sondrn 5
 Jedr 5
+ferdig 5
 bidde 5
 Fraindin 5
 gsähå 5
@@ -596,7 +597,6 @@ kôsch 4
 Koi 4
 Vrschdand 4
 Schweschdr 4
-ferdig 4
 Wiå 4
 Ärbed 4
 sain 4
@@ -643,6 +643,7 @@ bassiera 3
 soddat 3
 dain 3
 säh 3
+goht 3
 klois 3
 halt 3
 Stock 3
@@ -731,6 +732,7 @@ Auga 3
 Floisch 3
 Maga 3
 iber 3
+vrlora 3
 machsch 3
 wies 3
 gligglich 3
@@ -921,7 +923,6 @@ Ranza 2
 Gang 2
 schlofa 2
 Katz 2
-goht 2
 intressierd 2
 ganza 2
 Wies 2
@@ -1118,7 +1119,6 @@ ogfähr 2
 Käs 2
 frierd 2
 Roschdbroada 2
-vrlora 2
 stark 2
 Drei 2
 Sacha 2
@@ -5408,3 +5408,7 @@ Omwäg 1
 vrbessrad 1
 Ordskenndnis 1
 Sali 1
+D'maischte 1
+deswäga 1
+Schluss 1
+dengt 1
