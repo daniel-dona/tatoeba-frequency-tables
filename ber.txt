@@ -1,10 +1,10 @@
-ad 186900
-n 154161
-d 114861
+ad 186902
+n 154162
+d 114862
 ara 92879
 ay 71472
-i 65482
-deg 59725
+i 65483
+deg 59726
 Ur 54293
 ur 49390
 Tom 42489
@@ -99,7 +99,7 @@ nekk 3078
 yernu 3056
 Deg 3031
 tmaziɣt 2991
-Ɣef 2938
+Ɣef 2939
 ass 2924
 Tella 2922
 srint 2918
@@ -310,8 +310,8 @@ deg-s 1150
 imsujji 1130
 d-tesɣem 1128
 Ha-tt-an 1125
+tebɣiḍ 1123
 anect-a 1123
-tebɣiḍ 1122
 d-tuɣem 1118
 d-tesɣam 1115
 Nṛuḥ 1103
@@ -505,8 +505,8 @@ usensu 697
 Ta 692
 tikkal 692
 yiɣersiwen 692
+wacḥal 690
 kullec 689
-wacḥal 689
 iferki 689
 aydi 688
 d-yuɣ 687
@@ -1476,6 +1476,7 @@ wanag 231
 Yeqqel 231
 asurif 231
 tadlext 231
+d-aseɣ 230
 Kecc 230
 Teẓram 230
 tiɣenjayin 230
@@ -1483,7 +1484,6 @@ tamudrut 230
 taflest 230
 tneččit 230
 maɛna 230
-d-aseɣ 229
 Walaɣ 229
 ayis 229
 yaweḍ 229
@@ -4740,6 +4740,7 @@ wemkan 72
 tmeddurt-nnek 72
 d-ffɣeɣ 72
 arraz 72
+iɣes 72
 yessikel 72
 stufaɣ 72
 Yexdem 72
@@ -4790,7 +4791,6 @@ taεṛabt-taṣumalit 72
 lemmdeɣ 71
 tesɛu 71
 Weltma 71
-iɣes 71
 t-tgeḍ 71
 isem-nnek 71
 tigawt 71
@@ -7800,6 +7800,7 @@ ttaǧǧamt 38
 d-yetter 38
 d-nawi 38
 temri 38
+k-awiɣ 38
 kem-awiɣ 38
 umɣar 38
 yidinaṛen 38
@@ -7865,6 +7866,7 @@ tettazzal 37
 yergazen 37
 qqneɣ 37
 wesgunfu 37
+izen-nni 37
 tessers 37
 Anda-ten 37
 temsirin 37
@@ -7957,7 +7959,6 @@ ussu 37
 Tenwiḍ 37
 Wines 37
 adaf 37
-k-awiɣ 37
 Ifṛansiyen 37
 t-yifen 37
 tetten 37
@@ -8036,7 +8037,6 @@ yettekki 36
 nsew 36
 nessaweḍ 36
 Ṛjiɣ 36
-izen-nni 36
 aliktṛunan 36
 ibedden 36
 lmeɛna 36

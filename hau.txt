@@ -1,7 +1,7 @@
-da 10764
+da 10763
 a 4316
 ba 4280
-ya 3848
+ya 3852
 na 3799
 yi 2495
 ta 2474
@@ -23,7 +23,7 @@ kuma 933
 ce 898
 Ya 870
 yana 845
-daga 832
+daga 833
 zai 813
 son 791
 ku 789
@@ -50,9 +50,9 @@ lokacin 487
 cewa 485
 in 481
 so 475
+sa 467
 kai 465
 kyau 464
-sa 463
 tare 463
 Ta 462
 amma 447
@@ -118,7 +118,7 @@ wasan 243
 taɓa 240
 samu 239
 min 239
-Me 232
+Me 233
 tafi 229
 Mun 228
 komai 227
@@ -142,9 +142,9 @@ dan 209
 Muna 209
 cin 207
 rana 205
+saboda 205
 shiga 205
 gida 204
-saboda 204
 Dan 204
 ruwan 204
 mutum 198
@@ -244,12 +244,12 @@ matsayin 119
 gano 119
 ɗauki 119
 zaka 117
-yasa 117
 kuna 117
 ƙasar 117
 abubuwa 115
 wasa 115
 kansa 115
+yasa 114
 kira 114
 babu 114
 neman 114
@@ -430,7 +430,6 @@ saman 63
 kusan 63
 kanta 63
 bari 63
-sabida 63
 karfi 63
 baza 63
 sabon 62
@@ -439,6 +438,7 @@ Mu 62
 yaro 62
 amsa 62
 zasu 62
+sabida 62
 mutuwa 62
 babbar 61
 gan 61
@@ -648,7 +648,6 @@ tashin 40
 dari 40
 safe 40
 yamma 39
-Meyasa 39
 dukkanin 39
 sha'awar 39
 tsahon 39
@@ -666,6 +665,7 @@ daban 39
 Yau 38
 Abun 38
 Litinin 38
+Meyasa 38
 bin 38
 hari 38
 matan 38
@@ -695,13 +695,13 @@ gashi 36
 iso 36
 fushi 36
 ƙi 36
+dala 36
 ƙafa 35
 kunya 35
 Ingilishi 35
 Yin 35
 ayyukan 35
 kullum 35
-dala 35
 namiji 35
 daraja 35
 taimako 35
@@ -725,6 +725,7 @@ kashi 33
 Zamu 33
 dai-dai 33
 kungiyar 33
+Wane 33
 zaku 33
 ainihin 33
 nesa 33
@@ -742,7 +743,6 @@ ofishin 32
 kifi 32
 tashar 32
 Nan 32
-Wane 32
 jini 32
 maganar 32
 hakuri 32
@@ -1147,7 +1147,6 @@ aikinsa 19
 tambayoyi 19
 caca 19
 TV 19
-Wanne 19
 Italiya 19
 tarin 19
 zahiri 19
@@ -1197,6 +1196,7 @@ faci 18
 fure 18
 Abincin 18
 Amurkawa 18
+Wanne 18
 ƙananan 18
 lashe 18
 sauraron 18

@@ -1,23 +1,23 @@
-le 14812
+le 14815
 es 10739
 un 8770
-de 8199
-ha 5897
-Le 5623
-Io 5130
-in 5062
-non 4837
+de 8200
+ha 5901
+Le 5625
+Io 5131
+in 5063
+non 4838
 que 4725
 e 3408
 del 3216
 a 3110
 tu 2861
-Tom 2764
+Tom 2765
 Ille 2221
 me 2075
 io 1937
 Il 1805
-su 1734
+su 1738
 al 1712
 lo 1708
 se 1705
@@ -31,7 +31,7 @@ mi 1211
 nos 1181
 esseva 1121
 multo 1077
-Nos 1066
+Nos 1067
 iste 1009
 per 1007
 te 1001
@@ -40,7 +40,7 @@ como 987
 il 905
 Illa 899
 Esque 805
-grande 799
+grande 800
 Iste 787
 vole 782
 illo 712
@@ -57,7 +57,7 @@ Illes 603
 qui 585
 son 580
 isto 579
-Un 567
+Un 573
 super 566
 tempore 554
 Illo 539
@@ -69,7 +69,7 @@ Vos 525
 va 520
 Non 513
 In 502
-si 498
+si 499
 lingua 497
 on 489
 sur 483
@@ -78,17 +78,17 @@ place 460
 illa 455
 casa 454
 o 454
-parla 430
+parla 431
 ama 429
+vita 427
 mundo 426
 illes 423
-vita 421
 vostre 418
 altere 413
 ma 412
 belle 412
 solmente 395
-essite 377
+essite 379
 toto 374
 ben 372
 homine 366
@@ -106,7 +106,7 @@ sol 314
 hic 313
 An 309
 ancora 302
-A 295
+A 297
 dicer 291
 pensa 290
 diceva 287
@@ -127,7 +127,7 @@ apud 251
 Ha 250
 faceva 246
 — 246
-catto 243
+catto 245
 personas 243
 nihil 242
 mangia 242
@@ -154,9 +154,9 @@ ante 207
 bibe 207
 troppo 206
 patre 206
+can 204
 Ego 203
 amico 202
-can 202
 ubi 202
 usque 201
 Quando 201
@@ -167,13 +167,13 @@ essera 197
 parve 196
 Qual 196
 moneta 194
-nunquam 192
+nunquam 194
 jammais 192
 Tote 190
 vive 190
 Illas 190
+ver 189
 Ubi 188
-ver 188
 deberea 187
 infantes 184
 tres 182
@@ -217,7 +217,7 @@ tosto 149
 parola 148
 poterea 146
 alique 146
-les 144
+les 145
 ab 143
 vide 142
 problema 141
@@ -278,10 +278,10 @@ trovar 112
 mais 112
 hora 111
 sub 111
+odia 111
 libros 110
 esserea 110
 habita 110
-odia 110
 sapeva 109
 Nostre 109
 caffe 109
@@ -519,6 +519,7 @@ universo 59
 sonio 59
 simple 59
 visibile 59
+realitate 59
 aere 58
 manca 58
 immediatemente 58
@@ -528,12 +529,12 @@ Parla 58
 jocar 58
 pauco 58
 novo 58
-realitate 58
 traino 57
 time 57
 parentes 57
 Francia 57
 Omne 57
+catta 57
 sex 56
 somno 56
 commun 56
@@ -557,7 +558,6 @@ resta 55
 latino 55
 collina 55
 parlate 55
-catta 55
 prende 54
 alcuno 54
 arrivate 54
@@ -597,6 +597,7 @@ Esperanto 52
 pictoresc 52
 lacte 51
 auro 51
+Unite 51
 haberea 51
 oblida 51
 vento 51
@@ -628,7 +629,6 @@ unic 50
 populo 50
 vites 50
 floreria 50
-Unite 49
 accidente 49
 partir 49
 facto 49
@@ -640,6 +640,7 @@ aperte 49
 scopo 49
 antique 49
 muros 49
+las 49
 blauette 49
 dar 48
 pede 48
@@ -653,7 +654,6 @@ placer 48
 Brasil 48
 compra 48
 herba 48
-las 48
 moderne 47
 usar 47
 japonese 47
@@ -670,6 +670,7 @@ fenestra 47
 campo 47
 profunde 47
 calide 46
+Statos 46
 perder 46
 obscur 46
 fatigate 46
@@ -701,7 +702,6 @@ dubita 45
 natural 45
 uso 45
 Ora 44
-Statos 44
 successo 44
 frigide 44
 nasceva 44
@@ -850,6 +850,7 @@ visitava 36
 contar 36
 animal 36
 attende 36
+America 36
 studentes 36
 luce 36
 horologio 36
@@ -904,7 +905,6 @@ reguardar 34
 studiava 34
 Heri 34
 labora 34
-America 34
 tante 34
 equipa 34
 Prende 34
@@ -1146,6 +1146,7 @@ Veni 26
 serpente 26
 inutile 26
 pueros 26
+basso 26
 ecclesia 26
 trans 26
 terribile 26
@@ -1174,6 +1175,7 @@ religiones 26
 seculo 26
 passato 26
 poeta 26
+salvate 26
 interior 26
 Uno 26
 papa 26
@@ -1239,7 +1241,6 @@ milliones 24
 burla 24
 inferno 24
 dinar 24
-basso 24
 vestite 24
 obras 24
 dur 24
@@ -1276,7 +1277,6 @@ correcte 24
 principio 24
 eterne 24
 amicas 24
-salvate 24
 IALA 24
 construction 23
 arrivara 23
@@ -1363,6 +1363,7 @@ sonia 22
 vivente 22
 occidental 22
 jocator 22
+salvava 22
 respecto 22
 memora 22
 construer 22
@@ -1624,7 +1625,6 @@ effecto 18
 lection 18
 debile 18
 poc 18
-salvava 18
 precios 18
 vapor 18
 naturalmente 18
@@ -3247,6 +3247,7 @@ valle 8
 spatulas 8
 directemente 8
 durate 8
+tentate 8
 moveva 8
 correctemente 8
 piscator 8
@@ -3627,7 +3628,6 @@ terminava 7
 radios 7
 quiete 7
 maculate 7
-tentate 7
 herbas 7
 alphabeto 7
 precava 7
@@ -3985,6 +3985,7 @@ Conta 6
 jachetta 6
 partialmente 6
 obedir 6
+socialismo 6
 ronde 6
 lavate 6
 prevenir 6
@@ -4564,7 +4565,6 @@ irasce 5
 section 5
 humide 5
 telephonos 5
-socialismo 5
 conquirer 5
 Bill 5
 "gratias" 5
@@ -6096,6 +6096,7 @@ signa 4
 cavilia 4
 Ester 4
 irlandese 4
+SUA 4
 Laco 4
 Mashuu 4
 uyghur 4
@@ -7653,7 +7654,6 @@ judeogermano 3
 credera 3
 Madagascar 3
 Jammais 3
-SUA 3
 narcomano 3
 narcomana 3
 dormira 3
@@ -7729,6 +7729,7 @@ Taiwan 3
 cantoneses 3
 Ira 3
 Hamas 3
+Aboli 3
 Sonia 3
 sabe 3
 camouflage 3
@@ -9997,4 +9998,3 @@ allegrar 2
 splendor 2
 bacas 2
 smalta 2
-diadema 2

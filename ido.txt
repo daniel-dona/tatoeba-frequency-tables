@@ -1,10 +1,10 @@
 esas 3096
-Me 2432
-la 2299
-ne 1422
-Tom 1163
-La 1074
-me 937
+Me 2435
+la 2305
+ne 1423
+Tom 1164
+La 1075
+me 938
 tu 922
 Ka 797
 es 761
@@ -13,17 +13,17 @@ en 626
 Il 493
 vu 462
 Ni 454
-ke 446
-mea 413
+ke 449
+mea 414
 a 410
 di 410
 esis 397
 e 371
 volas 365
-povas 322
+povas 323
 tre 311
 Tu 304
-por 284
+por 285
 il 280
 Mea 277
 El 262
@@ -42,8 +42,8 @@ Li 188
 kam 187
 Ilu 186
 quo 185
-prizas 178
-pri 174
+prizas 179
+pri 175
 Ne 172
 bela 162
 el 161
@@ -70,7 +70,7 @@ kato 111
 lo 110
 Ta 108
 tro 105
-pro 104
+pro 105
 quon 104
 maxim 103
 hundo 103
@@ -83,16 +83,16 @@ quale 97
 per 96
 Quo 96
 mustas 96
+sur 95
 linguo 94
 ta 93
-sur 93
 ma 93
 nun 92
 li 92
 lernas 92
 vidis 90
 Ca 90
-sempre 88
+sempre 89
 Kad 88
 patro 87
 Ol 86
@@ -133,11 +133,11 @@ kande 63
 mikra 63
 al 62
 dicas 62
+lu 61
 nulo 61
 matro 61
 Voluntez 60
 volis 60
-lu 60
 facar 60
 amiko 58
 darfas 57
@@ -380,6 +380,7 @@ Franciana 22
 timas 21
 treno 21
 fumar 21
+povus 21
 esperas 21
 dormar 21
 Anke 21
@@ -396,7 +397,6 @@ fisho 21
 varmega 21
 pupeo 21
 karno 21
-povus 20
 komencis 20
 preske 20
 biro 20
@@ -609,7 +609,9 @@ arivos 12
 povos 12
 volus 12
 dicionario 12
+regretas 12
 Ma 12
+pluvo 12
 Du 12
 fumas 12
 apertita 12
@@ -649,10 +651,10 @@ mesajo 11
 reguli 11
 ludis 11
 denti 11
-regretas 11
 Esez 11
 ovi 11
 sis 11
+kordio 11
 arbori 11
 staciono 11
 poemo 11
@@ -663,7 +665,6 @@ vesti 11
 Tokyo 11
 internaciona 11
 horo 11
-pluvo 11
 stranjera 11
 sep 11
 nam 11
@@ -731,7 +732,6 @@ gitaro 10
 sporto 10
 dineo 10
 insulo 10
-kordio 10
 ok 10
 lavar 10
 oreli 10
@@ -1283,6 +1283,7 @@ seniora 5
 banko 5
 "No 5
 aferi 5
+pluvas 5
 vizitos 5
 duimo 5
 dorso 5
@@ -1524,7 +1525,6 @@ eniras 4
 mesaji 4
 grava 4
 onklo 4
-pluvas 4
 demandar 4
 paco 4
 printempo 4
@@ -1607,6 +1607,7 @@ tempon 4
 sucesos 4
 mariajo 4
 kushis 4
+sono 4
 kelkafoye 4
 proxime 4
 kunlaborar 4
@@ -1872,6 +1873,7 @@ lektinda 3
 relato 3
 libere 3
 librin 3
+surfaco 3
 Do 3
 aceptis 3
 5 3
@@ -1980,7 +1982,6 @@ Japoniano 3
 skribisto 3
 Facez 3
 yuneso 3
-sono 3
 sundie 3
 same 3
 vehas 3
@@ -2155,6 +2156,7 @@ Sendez 3
 juniora 3
 future 3
 mentiar 3
+esperis 3
 prezidanto 3
 komento 3
 qualeso 3
@@ -2383,6 +2385,7 @@ duadek 3
 shuo 3
 parfumo 3
 Germani 3
+ganar 3
 kontreajo 3
 muelisto 3
 transgenra 3
@@ -2519,7 +2522,6 @@ respiras 2
 foyi 2
 negis 2
 diskutar 2
-surfaco 2
 aeroplano 2
 flugis 2
 kambiar 2
@@ -2902,6 +2904,7 @@ rumori 2
 vicineyo 2
 peco 2
 mortinti 2
+kulieri 2
 konverseto 2
 telefonez 2
 misterioza 2
@@ -2998,7 +3001,6 @@ paketo 2
 ridos 2
 futbalar 2
 fero 2
-esperis 2
 icavespere 2
 l'uni 2
 Republiko 2
@@ -3454,6 +3456,7 @@ Yaro 2
 profitoza 2
 pregar 2
 rivereto 2
+lotrio 2
 Vendez 2
 Amoro 2
 hanino 2
@@ -3556,7 +3559,6 @@ hund-yuni 2
 perceptas 2
 pacema 2
 balnas 2
-ganar 2
 extraordinara 2
 Harry 2
 absurda 2
@@ -4909,7 +4911,6 @@ manjo-vergeti 1
 ne-civilizita 1
 voyajeri 1
 abordabas 1
-kulieri 1
 119 1
 atakesis 1
 enoyis 1
@@ -6986,7 +6987,6 @@ irgaloke 1
 trotado 1
 cielon 1
 prestez 1
-lotrio 1
 sparo 1
 prestita 1
 felo 1
@@ -8771,3 +8771,13 @@ bugis 1
 porkacho 1
 komika 1
 envidias 1
+katastrofo 1
+marala 1
+kalmigas 1
+desprizas 1
+pendar 1
+lanji 1
+lineo 1
+sikeskar 1
+L'instrumento 1
+glitas 1

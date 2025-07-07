@@ -4,7 +4,7 @@ e 133
 ki 121
 a 117
 I 86
-He 82
+He 81
 Tom 71
 ana 70
 au 60
@@ -12,8 +12,8 @@ koe 57
 ahau 50
 ia 48
 E 48
-Kāore 47
 ngā 47
+Kāore 46
 o 36
 he 33
 tēnei 30
@@ -643,8 +643,10 @@ rongoā 1
 whakarangatahi 1
 rewharewha 1
 hua 1
+"He 1
 kaputī 1
-māu 1
+māu" 1
+"Kāore" 1
 whakakapia 1
 kētia 1
 huaruatia 1

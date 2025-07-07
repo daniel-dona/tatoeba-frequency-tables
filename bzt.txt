@@ -1,5 +1,5 @@
 es 164
-Eo 105
+Eo 106
 yn 77
 rhen 69
 di 58
@@ -8,7 +8,7 @@ Ys 43
 Ill 41
 Sa 36
 llo 33
-su 29
+su 30
 lla 28
 ill 25
 sunt 25
@@ -723,3 +723,4 @@ cathorddig 1
 kindig 1
 dewnoe 1
 gweint 1
+Errur 1
