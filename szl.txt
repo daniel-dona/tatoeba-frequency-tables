@@ -1,5 +1,5 @@
-je 123
-sie 90
+je 125
+sie 91
 za 76
 to 54
 niy 52
@@ -10,7 +10,7 @@ Tom 43
 mie 36
 do 30
 żech 25
-sōm 23
+sōm 24
 po 22
 we 22
 Ôn 22
@@ -29,14 +29,15 @@ tam 14
 Tyś 14
 niyma 13
 tego 12
+w 12
 bez 12
 dōma 12
 bo 11
 Szczyrknij 11
 ty 10
-w 10
 Toma 10
 Kaj 10
+ku 10
 z 9
 tak 9
 go 9
@@ -45,7 +46,6 @@ ma 9
 mu 9
 Ty 9
 yno 9
-ku 9
 aż 9
 Je 8
 Mōj 8
@@ -91,6 +91,7 @@ zrobiyła 5
 gŏdŏ 5
 Fto 5
 abo 5
+tyj 5
 Co 5
 synek 5
 Po 5
@@ -146,7 +147,6 @@ dlŏ 3
 tych 3
 bydzie 3
 fater 3
-tyj 3
 jã 3
 wszyjsko 3
 bych 3
@@ -230,6 +230,7 @@ Mama 3
 Godōw 3
 srogi 3
 ôkno 3
+kwiŏty 3
 Tak 3
 auto 2
 mieście 2
@@ -325,6 +326,7 @@ niygo 2
 Śpi 2
 Hazŏk 2
 biegŏ 2
+Chyba 2
 ani 2
 jedna 2
 piyknŏ 2
@@ -459,7 +461,6 @@ poszoł 2
 Padŏ 2
 pōdã 2
 majōm 2
-kwiŏty 2
 czamu 2
 pniŏk 2
 Ciōng 2
@@ -474,6 +475,7 @@ chory 2
 Jadymy 2
 Za 2
 chwilã 2
+Bild 2
 zajechoł 1
 tanksztela 1
 zatankować 1
@@ -705,7 +707,6 @@ czym 1
 policyjõ 1
 ôgrōdzie 1
 ganiŏ 1
-Chyba 1
 Radszyj 1
 łże 1
 mōg 1
@@ -1537,3 +1538,10 @@ Jemu 1
 troszkã 1
 wyciepnã 1
 wyciepiã 1
+knidze 1
+ksiōnżce 1
+Dzieci 1
+naszego 1
+życiŏ 1
+wrōcã 1
+spaniu 1

@@ -1,6 +1,6 @@
 yn 562
 i 343
-Mae 290
+Mae 291
 y 201
 Dw 188
 i'n 178
@@ -13,11 +13,11 @@ hoffi 81
 wedi 78
 hi 78
 ti 78
-ti'n 70
+ti'n 71
 a 68
+hi'n 68
 yr 68
 Mae'r 67
-hi'n 67
 chi 65
 fy 64
 bod 62
@@ -26,12 +26,12 @@ dy 52
 am 52
 Roedd 50
 Mary 48
+mynd 48
 yw 47
 ni 47
-mynd 46
 chi'n 45
 iawn 45
-i'r 42
+i'r 44
 siarad 38
 eisiau 38
 byw 36
@@ -75,6 +75,7 @@ o'r 19
 gallu 19
 da 19
 fod 19
+ysgol 19
 mae 19
 Cymraeg 19
 cael 18
@@ -82,7 +83,6 @@ dda 18
 gweithio 18
 Oes 18
 chwarae 18
-ysgol 17
 Rhaid 17
 nhw'n 17
 dysgu 17
@@ -190,6 +190,7 @@ ym 8
 glaw 8
 dal 8
 iaith 8
+Rwyt 8
 byth 8
 Pa 8
 ac 8
@@ -208,7 +209,6 @@ car 7
 sydd 7
 Dyn 7
 gloch 7
-Rwyt 7
 barod 7
 erioed 7
 chwaer 7

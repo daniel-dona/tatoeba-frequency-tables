@@ -13,12 +13,12 @@ a 114
 mr 113
 å 109
 mir 108
+an 108
 – 108
-an 107
 dass 97
 send 86
 no 83
-mid 81
+mid 83
 zom 81
 des 77
 se 77
@@ -31,14 +31,14 @@ dees 67
 de 64
 Wenn 63
 wenn 63
+am 62
 sai 62
-am 60
 von 58
 was 58
-bloß 55
+bloß 56
 nô 54
+et 52
 koi 52
-et 51
 scho 50
 hod 50
 mi 49
@@ -50,8 +50,8 @@ als 45
 nix 45
 Dees 45
 Des 43
+uff 43
 Du 42
-uff 42
 wia 41
 ma 41
 die 41
@@ -68,9 +68,9 @@ kô 34
 Maria 33
 diå 33
 aber 32
+älle 32
 da 31
 wie 31
-älle 31
 di 30
 A 30
 älles 30
@@ -82,13 +82,13 @@ der 28
 ihr 28
 dir 28
 oifach 28
+Mr 28
 Gäld 28
 woiß 27
 dai 27
 mai 27
 dem 27
 heit 27
-Mr 27
 zu 27
 mit 26
 es 26
@@ -413,6 +413,7 @@ bleed 5
 S'isch 5
 liebr 5
 zrugg 5
+Bloß 5
 Manchmol 5
 Geduld 5
 Bild 5
@@ -513,7 +514,6 @@ Leba 4
 erschde 4
 „Noi 4
 noa 4
-Bloß 4
 koas 4
 reachd 4
 Gsichd 4
@@ -565,6 +565,7 @@ kaufå 4
 drenn 4
 gsaid 4
 hoff 4
+sondern 4
 neiå 4
 Baum 4
 Audo 4
@@ -766,7 +767,6 @@ Då 3
 gläså 3
 Tee 3
 Nåma 3
-sondern 3
 sähåd 3
 werdå 3
 Buåch 3
@@ -1048,6 +1048,7 @@ schnauf 2
 Meh 2
 Schuah 2
 duasch 2
+wissad 2
 gsagd 2
 Lesong 2
 Katza 2
@@ -2010,7 +2011,6 @@ worda“ 1
 öfters 1
 Rechde 1
 vorlesa 1
-wissad 1
 „Rechd 1
 Schweiga“ 1
 habed 1
@@ -5416,3 +5416,10 @@ oisdags 1
 kabudd 1
 zfaul 1
 zFuaß 1
+kemfd 1
+Schwärd 1
+auch 1
+Herza 1
+Dommkepf 1
+Froga 1
+Andword 1

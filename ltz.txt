@@ -1,5 +1,5 @@
 Ech 251
-ass 227
+ass 228
 du 93
 net 80
 Dir 79
@@ -17,7 +17,7 @@ Den 39
 si 38
 Mir 38
 et 36
-Et 34
+Et 35
 der 34
 Hutt 33
 de 31
@@ -28,9 +28,9 @@ dat 29
 gär 28
 Wou 28
 Si 27
+scho 26
 zu 25
 keng 25
-scho 25
 den 24
 mir 24
 mech 22
@@ -47,9 +47,9 @@ mat 17
 vill 17
 Meng 17
 gesinn 17
+Auer 17
 bass 16
 am 16
-Auer 16
 wunnen 15
 aus 15
 Du 15
@@ -159,6 +159,7 @@ Auto 5
 säi 5
 Dag 5
 sechs 5
+siwen 5
 zéng 5
 Wunnt 5
 Mäin 5
@@ -197,7 +198,6 @@ goen 4
 all 4
 mengem 4
 fënnef 4
-siwen 4
 vum 4
 Wuer 4
 Wouhi 4
@@ -1370,3 +1370,4 @@ bauen 1
 Brécke 1
 Maueren 1
 Dës 1
+moies 1

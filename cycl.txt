@@ -106,9 +106,8 @@ Robot) 1
 BritneySpears 1
 WHERE) 1
 (#$capitalCity 1
-(of 1
 #$France 1
-(#$Paris))) 1
+#$Paris) 1
 "Philip") 1
 "Tom") 1
 (relatives 1
