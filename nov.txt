@@ -3,7 +3,7 @@ Me 134
 li 83
 Li 78
 Tom 77
-non 68
+non 69
 Ob 59
 vu 54
 me 46
@@ -149,6 +149,7 @@ bel 4
 judes 4
 robes 4
 monde 4
+se 4
 venid 4
 rosikolori 4
 Disdi 4
@@ -224,7 +225,6 @@ kanta 3
 odiad 3
 red 3
 vilaje 3
-se 3
 lerna 3
 mentiad 3
 Boston 3
@@ -910,3 +910,5 @@ Nihil 1
 neutri 1
 vadad 1
 Erore 1
+Epstein 1
+tuad 1

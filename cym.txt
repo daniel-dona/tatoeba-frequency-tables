@@ -1,4 +1,4 @@
-yn 562
+yn 563
 i 343
 Mae 291
 y 201
@@ -14,10 +14,10 @@ wedi 78
 hi 78
 ti 78
 ti'n 71
+Mae'r 68
 a 68
 hi'n 68
 yr 68
-Mae'r 67
 chi 65
 fy 64
 bod 62
@@ -119,6 +119,7 @@ prynu 13
 gwisgo 13
 yng 12
 na 12
+fawr 12
 dweud 12
 astudio 12
 Rydw 12
@@ -135,7 +136,6 @@ ddoe 11
 fynd 11
 oedd 11
 Pam 11
-fawr 11
 gael 11
 os 11
 edrych 11
@@ -2555,3 +2555,4 @@ Iseldireg 1
 moddion 1
 twpdra 1
 di'n 1
+aderyn 1

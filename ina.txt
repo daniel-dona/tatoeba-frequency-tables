@@ -1,12 +1,12 @@
 le 14817
 es 10748
-un 8776
+un 8775
 de 8200
 ha 5901
 Le 5627
 Io 5132
 in 5063
-non 4841
+non 4839
 que 4725
 e 3408
 del 3217
@@ -20,7 +20,7 @@ Il 1805
 su 1738
 al 1712
 lo 1708
-se 1706
+se 1705
 vos 1688
 pro 1574
 con 1504
@@ -57,7 +57,7 @@ Illes 603
 qui 585
 son 580
 isto 579
-Un 574
+Un 573
 super 566
 tempore 554
 Illo 539
@@ -370,13 +370,13 @@ Necuno 85
 ni 85
 justo 84
 verde 83
-da 83
 soror 83
 lecto 83
 travalio 83
 apprende 83
 anima 83
 interlingua 82
+da 82
 mercato 82
 esperanto 82
 veniva 81
@@ -1076,7 +1076,6 @@ examine 28
 restaurante 28
 gaude 28
 sedeva 28
-serpente 28
 Germania 28
 anniversario 28
 amicitate 28
@@ -1144,6 +1143,7 @@ audientia 26
 vacue 26
 cinema 26
 Veni 26
+serpente 26
 inutile 26
 pueros 26
 basso 26
@@ -2683,7 +2683,6 @@ domina 10
 tela 10
 Philippinas 10
 saperea 10
-morde 10
 absurde 10
 pete 10
 medicina 10
@@ -2920,6 +2919,7 @@ legal 9
 Apprender 9
 marca 9
 proveni 9
+morde 9
 vulpe 9
 franceses 9
 pisca 9

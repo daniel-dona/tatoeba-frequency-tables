@@ -33,7 +33,7 @@ doe 216
 Heb 216
 zien 212
 gain 208
-dien 204
+dien 205
 Doe 203
 die 198
 hebben 196
@@ -177,6 +177,7 @@ woar 35
 proaten 34
 weer 34
 waiten 34
+ogen 34
 bouken 34
 kwam 34
 holdt 34
@@ -189,7 +190,6 @@ ais 34
 wuir 34
 kiender 33
 dag 33
-ogen 33
 zai 33
 laand 33
 Nederlaands 33
@@ -1220,6 +1220,7 @@ Latain 5
 kollegoas 5
 vaalt 5
 Begriepst 5
+Open 5
 eetst 5
 museum 5
 zong 5
@@ -1433,7 +1434,6 @@ tieden 4
 vloog 4
 swom 4
 Waarkst 4
-Open 4
 Astoe 4
 Speul 4
 kilo 4

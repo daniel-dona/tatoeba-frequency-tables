@@ -1,6 +1,6 @@
-nie 1251
+nie 1253
 is 1051
-het 969
+het 970
 Ek 954
 die 741
 'n 596
@@ -335,6 +335,7 @@ moeilik 10
 Ek's 10
 vol 10
 huil 10
+homself 10
 hare 10
 Voëls 10
 Haar 9
@@ -368,7 +369,6 @@ verlaat 9
 voorstel 9
 Wil 9
 onder 9
-homself 9
 seer 9
 verbaas 9
 verkoop 9
@@ -934,6 +934,7 @@ Waarvan 3
 getrou 3
 waarskynlik 3
 gesig 3
+doodgemaak 3
 ware 3
 hart 3
 werklik 3
@@ -1268,7 +1269,6 @@ ontsnap 2
 gebring 2
 gebreek 2
 toegelaat 2
-doodgemaak 2
 goedere 2
 hartseer 2
 hierso 2
@@ -3637,3 +3637,4 @@ kastaiings 1
 Medusa 1
 versteen 1
 pous 1
+Epstein 1

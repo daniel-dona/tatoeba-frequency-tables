@@ -9,7 +9,7 @@ kuwa 215
 za 213
 la 201
 cha 179
-sana 175
+sana 176
 Je 169
 kama 151
 wakati 147
@@ -51,8 +51,8 @@ miaka 55
 saa 53
 hapa 52
 hilo 51
+nzuri 50
 Kuna 50
-nzuri 49
 sasa 49
 kuhusu 49
 nyingi 49
@@ -75,10 +75,10 @@ muda 44
 karibu 44
 njia 43
 mara 43
+nyumba 43
 vya 43
 kupata 42
 Yeye 42
-nyumba 42
 huu 42
 huyo 42
 mahali 41
@@ -206,6 +206,7 @@ Hii 21
 Kila 21
 chochote 21
 kiasi 21
+kula 21
 maalum 21
 mwenyewe 20
 rafiki 20
@@ -224,7 +225,6 @@ barabara 20
 inaweza 20
 mbele 20
 Marekani 20
-kula 20
 barua 19
 baba 19
 kesho 19
@@ -385,6 +385,7 @@ maili 13
 tayari 13
 mapema 13
 Dani 13
+Kazi 12
 zako 12
 wanaume 12
 maana 12
@@ -421,7 +422,6 @@ vile 12
 hayo 12
 nusu 12
 haki 11
-Kazi 11
 wanyama 11
 mjinga 11
 tafadhali 11
@@ -700,6 +700,7 @@ nyasi 7
 Saa 7
 raha 7
 nane 7
+Napenda 7
 upi 7
 dada 7
 ujumbe 7
@@ -804,7 +805,6 @@ rasmi 6
 zina 6
 Huyu 6
 mkewe 6
-Napenda 6
 nami 6
 tupu 6
 dirisha 6
@@ -832,6 +832,7 @@ ununuzi 6
 dubu 6
 kuonekana 6
 iwe 6
+Niliona 6
 Bi 6
 namna 6
 idadi 6
@@ -977,7 +978,6 @@ vyumba 5
 Timu 5
 Mwalimu 5
 Sote 5
-Niliona 5
 mwangaza 5
 mali 5
 uchumi 5
@@ -9309,3 +9309,5 @@ kuwafikia 1
 Sudan 1
 wanaosababisha 1
 Siongei 1
+mananasi 1
+zinanichosha 1

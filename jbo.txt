@@ -1,18 +1,18 @@
-lo 12933
-mi 6286
-cu 3554
+lo 12936
+mi 6288
+cu 3556
 do 3383
-la 3062
-pu 2336
-le 2315
-nu 2141
+la 3063
+pu 2337
+le 2317
+nu 2142
 se 1941
 i 1902
 na 1640
 be 1355
-ko'a 1300
+ko'a 1301
 ma 1239
-ka 1224
+ka 1225
 ko 1133
 ca 996
 tom 952
@@ -132,7 +132,7 @@ cabdei 122
 doi 122
 vecnu 121
 makau 121
-mamta 119
+mamta 120
 lonu 118
 la'o 116
 du 114
@@ -172,9 +172,9 @@ prulamdei 95
 sai 95
 jdini 95
 sipna 93
+xebni 93
 pilno 92
 catra 92
-xebni 92
 jmive 91
 ne'i 91
 bo 91
@@ -887,6 +887,7 @@ ni'o 14
 cfipu 14
 xagmau 14
 sa'e 14
+tivni 14
 jgira 14
 fudbolo 14
 bai 14
@@ -935,7 +936,6 @@ prali 13
 le'o 13
 iptsa 13
 zeldei 13
-tivni 13
 gunta 13
 cenba 13
 to'o 13
@@ -1104,6 +1104,7 @@ jo 10
 anas 10
 xebro 10
 xadni 10
+klani 10
 skefi'a 10
 de'a 10
 nudle 10
@@ -1164,7 +1165,6 @@ ru 9
 spisa 9
 xelso 9
 broda 9
-klani 9
 capyju'i 9
 cumymu'efi'a 9
 friti 9
@@ -2982,6 +2982,7 @@ jursa 2
 paunai 2
 proga 2
 so'iva'e 2
+fartra 2
 sorprekarcytcana 2
 toms 2
 sipta'u 2
@@ -3023,6 +3024,7 @@ bablgam 2
 samcrtapioka 2
 tokyjukpa 2
 marnyva'u 2
+datnyvei 2
 bolz 2
 tcendol 2
 blopre 2
@@ -5414,7 +5416,6 @@ za'ureroi 1
 di'ainai 1
 zvacpe 1
 slilygau 1
-fartra 1
 termosygau 1
 selcuxna 1
 onkle 1
@@ -5583,7 +5584,6 @@ xlafri 1
 tarla 1
 elkotero 1
 labypre 1
-datnyvei 1
 xaloxalos 1
 jgitrbalalaika 1
 tolstois 1
@@ -6963,3 +6963,8 @@ skuxai 1
 mivmu'e 1
 torsipna 1
 tcaika 1
+dmitris 1
+simkarbi 1
+dalremnei 1
+tolvudypai 1
+nalmu'o 1

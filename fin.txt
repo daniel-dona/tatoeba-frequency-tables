@@ -114,7 +114,7 @@ kaksi 706
 kolme 700
 halua 700
 ennen 690
-koko 663
+koko 664
 sitten 661
 aikaa 659
 hänet 649
@@ -434,7 +434,7 @@ kissa 199
 lukea 199
 ainoa 198
 hieman 198
-maailman 197
+maailman 198
 auki 197
 Rakastan 197
 Tykkään 197
@@ -463,9 +463,9 @@ nukkumaan 188
 kylmä 188
 pidän 188
 väsynyt 187
+saattaa 187
 tyttö 187
 nuori 187
-saattaa 186
 käydä 184
 Sen 184
 Sain 183
@@ -715,6 +715,7 @@ todellakin 118
 uutta 118
 Siellä 118
 voittaa 118
+kestää 118
 auttamaan 118
 Aion 118
 Kissa 117
@@ -725,7 +726,6 @@ isä 117
 hotellissa 117
 lapsia 116
 henkilö 116
-kestää 116
 Eilen 116
 sekä 116
 pidät 115
@@ -3791,6 +3791,7 @@ vaimosi 22
 reikä 22
 opiskelemassa 22
 harkinnut 22
+saattavat 22
 kävelivät 22
 tyttöystäväni 22
 maksan 22
@@ -3963,7 +3964,6 @@ Olitteko 21
 Kysyn 21
 söpöjä 21
 uskomaan 21
-saattavat 21
 turvallinen 21
 arvoa 21
 potkaisi 21
@@ -6265,6 +6265,7 @@ asuntoa 12
 Tavataan 12
 pysäkki 12
 putoavat 12
+antiikin 12
 Ruotsissa 12
 jalasta 12
 salainen 12
@@ -6792,7 +6793,6 @@ putkeen 11
 bussissa 11
 Punainen 11
 naapurissa 11
-antiikin 11
 käteen 11
 saisin 11
 selällään 11
@@ -7215,6 +7215,7 @@ Iltaa 11
 ilmaisua 11
 naarmu 11
 alkuperä 11
+kuukausia 11
 aiotte 11
 takanani 11
 pärjäät 11
@@ -8655,9 +8656,9 @@ opetteli 9
 Hetki 9
 Jaakkola 9
 opettajaltasi 9
+Roomalaiset 9
 Ah 9
 nuoremman 9
-kuukausia 9
 pinta-ala 9
 Paksun 9
 oleta 9
@@ -9660,7 +9661,6 @@ Kenkäni 8
 kielelläsi 8
 Salli 8
 juossut 8
-Roomalaiset 8
 Itävalta 8
 toimivan 8
 parempaan 8

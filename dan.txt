@@ -1,16 +1,16 @@
-er 17820
-Jeg 11326
-at 9154
-Tom 8613
-en 8562
+er 17825
+Jeg 11332
+at 9157
+Tom 8614
+en 8563
 i 8482
-ikke 8092
-har 7634
+ikke 8094
+har 7639
 du 5449
-til 5179
-det 4920
-på 4898
-og 3897
+til 5180
+det 4921
+på 4901
+og 3899
 for 3861
 jeg 3692
 Han 3484
@@ -18,26 +18,26 @@ Det 3466
 var 3378
 med 3325
 af 3309
-et 3226
+et 3228
 mig 3177
 kan 2637
+den 2313
 der 2312
-den 2312
 Hun 2199
 dig 2016
-om 1950
+om 1951
 Vi 1910
-I 1892
+I 1894
 Mary 1850
-Du 1764
+Du 1767
 vil 1756
 han 1688
 som 1666
 så 1655
 min 1593
 ved 1482
+meget 1435
 De 1433
-meget 1431
 her 1265
 Hvor 1182
 de 1181
@@ -55,9 +55,9 @@ Min 956
 din 919
 dag 906
 fra 896
-vi 885
+vi 887
 skal 870
-ud 853
+ud 855
 os 842
 går 837
 lide 832
@@ -76,7 +76,7 @@ mange 664
 hende 661
 to 661
 år 644
-over 622
+over 624
 kommer 618
 denne 604
 Hvorfor 603
@@ -118,9 +118,9 @@ tager 428
 Hvem 425
 bor 423
 gå 422
+se 420
 ønsker 420
 alt 419
-se 415
 god 414
 penge 412
 ser 411
@@ -174,8 +174,8 @@ skulle 284
 hjem 284
 nok 280
 deres 280
+bog 278
 når 277
-bog 277
 børn 277
 ligger 276
 alene 275
@@ -198,12 +198,12 @@ Boston 257
 uden 256
 under 253
 nogle 253
+får 250
 spise 249
 købte 249
 Hans 248
 venner 247
 fik 247
-får 246
 lille 243
 hvis 241
 sige 241
@@ -215,9 +215,9 @@ købe 238
 stor 236
 bedre 235
 gjorde 232
+endnu 231
 navn 231
 sidste 231
-endnu 230
 ned 220
 lidt 220
 helt 219
@@ -318,10 +318,10 @@ gift 154
 gamle 153
 aften 153
 værelse 152
+ofte 151
 dagen 151
 hedder 151
 Her 150
-ofte 149
 læge 148
 født 148
 lave 147
@@ -340,13 +340,13 @@ seng 142
 jul 142
 bruger 142
 kæreste 142
+tit 141
 kører 141
 brød 141
+stod 140
 Tag 140
 pige 140
-tit 139
 døren 139
-stod 138
 hjælp 138
 engang 138
 drikke 138
@@ -486,6 +486,7 @@ syv 95
 regner 95
 ihjel 94
 skrev 94
+Skal 94
 par 94
 For 93
 hånd 93
@@ -496,7 +497,6 @@ ung 92
 menneske 92
 imod 92
 læser 92
-Skal 92
 vinduet 92
 dreng 92
 tredive 92
@@ -577,6 +577,7 @@ lade 78
 rigtig 77
 dør 77
 Undskyld 77
+læst 77
 bogen 77
 halv 77
 koldt 77
@@ -584,7 +585,6 @@ katten 76
 føler 76
 vejret 76
 briller 76
-læst 76
 kørte 76
 måned 75
 dårligt 75
@@ -712,6 +712,7 @@ drøm 60
 Glem 60
 Fortæl 60
 lod 60
+kiggede 60
 vred 60
 afsted 60
 hellere 59
@@ -732,7 +733,6 @@ forkert 58
 ønske 58
 træet 58
 leder 58
-kiggede 58
 morgenmad 57
 sikkert 57
 hjælper 57
@@ -752,6 +752,7 @@ hvilken 56
 sælge 56
 dårlig 56
 Se 56
+travlt 56
 tilgivet 56
 rigtigt 55
 Danmark 55
@@ -775,7 +776,6 @@ paraply 54
 dø 54
 bord 54
 tv 54
-travlt 54
 mobiltelefon 54
 stole 54
 vinde 54
@@ -875,6 +875,7 @@ ringer 47
 rigtige 47
 stedet 47
 små 47
+havet 47
 kærlighed 47
 højre 47
 hvert 47
@@ -908,7 +909,6 @@ tidlig 45
 passer 45
 lejlighed 45
 mangler 45
-havet 45
 Nej 45
 derovre 45
 tjener 45
@@ -1022,6 +1022,7 @@ regn 39
 giftede 39
 lykkedes 39
 svarede 39
+spansk 39
 bedstemor 39
 veninde 39
 egern 39
@@ -1040,11 +1041,11 @@ fods 38
 højt 38
 beder 38
 solen 38
-spansk 38
 snakke 38
 bede 38
 Sverige 38
 salt 38
+amerikanske 38
 Google 38
 tretten 38
 Børnene 38
@@ -1074,7 +1075,6 @@ besøger 37
 "Den 37
 Åbn 37
 siges 37
-amerikanske 37
 betalt 37
 grin 37
 idé 37
@@ -1195,6 +1195,7 @@ flaske 32
 maler 32
 røg 32
 danser 32
+Tal 32
 "Er 32
 frugt 32
 grøn 32
@@ -1234,7 +1235,6 @@ Vent 31
 nå 31
 sød 31
 skør 31
-Tal 31
 studere 31
 lovede 31
 Far 31
@@ -1253,6 +1253,7 @@ hul 31
 gøres 31
 brugte 31
 Ønsker 31
+begynde 31
 hotel 31
 Kvinden 31
 tænkte 31
@@ -1289,7 +1290,6 @@ biblioteket 30
 lægen 30
 højeste 30
 lykke 30
-begynde 30
 stiller 30
 gule 30
 femten 30
@@ -1597,6 +1597,7 @@ Trump 24
 stolen 23
 minder 23
 skak 23
+timen 23
 sand 23
 svømmede 23
 soldater 23
@@ -1641,7 +1642,6 @@ trak 23
 Mennad 23
 oppe 22
 Vand 22
-timen 22
 Spiser 22
 modtog 22
 varer 22
@@ -1732,6 +1732,7 @@ Væk 21
 e-mail 21
 taber 21
 klart 21
+starte 21
 byggede 21
 drømte 21
 glæde 21
@@ -1758,6 +1759,7 @@ kage 21
 søndagen 21
 papir 21
 Før 21
+Mennesket 21
 skilt 21
 dame 21
 Tyrkiet 21
@@ -1800,7 +1802,6 @@ særlig 20
 Brug 20
 Sidste 20
 Send 20
-starte 20
 Vask 20
 slik 20
 angreb 20
@@ -1894,7 +1895,6 @@ følelser 19
 julen 19
 tirsdag 19
 løsning 19
-Mennesket 19
 klaver 19
 rødvin 19
 opfører 19
@@ -2158,6 +2158,7 @@ vegetar 16
 politiker 16
 myrdede 16
 nyder 16
+dæk 16
 tvunget 16
 "Hvordan 16
 Køb 16
@@ -2278,7 +2279,6 @@ brudt 15
 celsius 15
 drømme 15
 altså 15
-dæk 15
 våd 15
 måder 15
 mærkeligt 15
@@ -2728,6 +2728,7 @@ Menneskene 12
 Godmorgen 12
 Elefanter 12
 forsøgt 12
+ørerne 12
 finger 12
 støvler 12
 iført 12
@@ -2928,7 +2929,6 @@ cool 11
 tusinde 11
 malkede 11
 fejltagelse 11
-ørerne 11
 restauranten 11
 Held 11
 offer 11
@@ -3174,6 +3174,7 @@ truet 10
 landede 10
 stirrer 10
 Moskva 10
+afslappet 10
 forhindre 10
 knus 10
 grine 10
@@ -3297,6 +3298,7 @@ ansatte 9
 tvinge 9
 foreslog 9
 Slå 9
+pattedyr 9
 sokker 9
 tres 9
 ejendom 9
@@ -3484,7 +3486,6 @@ virksomhed 9
 beskidte 9
 fattigdom 9
 Dér 9
-afslappet 9
 lommer 9
 spændende 9
 svigermor 9
@@ -3672,6 +3673,7 @@ Arbejder 8
 glædelig 8
 datoen 8
 detaljer 8
+kontinent 8
 nysgerrige 8
 beliggende 8
 femte 8
@@ -3811,6 +3813,7 @@ præst 8
 naturligt 8
 "Så 8
 kiwi 8
+undervisningen 8
 Kampen 8
 ombord 8
 fuldstændigt 8
@@ -3985,7 +3988,6 @@ fravær 7
 studenter 7
 frit 7
 Beijing 7
-pattedyr 7
 fjor 7
 nøje 7
 hårdere 7
@@ -4041,7 +4043,6 @@ vidunderligt 7
 silke 7
 25 7
 går" 7
-kontinent 7
 erstatte 7
 storke 7
 republik 7
@@ -4230,7 +4231,6 @@ brandmand 7
 sparker 7
 skræmte 7
 skiver 7
-undervisningen 7
 Ægte 7
 sjælden 7
 snavsede 7
@@ -9184,6 +9184,7 @@ stilleben 3
 lue 3
 spilde 3
 Chokoladekagen 3
+Passagererne 3
 Yannis 3
 Corona 3
 gerningsmand 3
@@ -9997,4 +9998,3 @@ nærme 2
 Sovjetrusland 2
 understregede 2
 utilgængelig 2
-Nordeuropa 2

@@ -1,5 +1,5 @@
 Aku 168
-ora 139
+ora 140
 Tom 118
 sing 70
 iku 51
@@ -29,9 +29,9 @@ bisa 22
 duwé 21
 Aja 19
 dhèwèké 19
+dudu 19
 durung 18
 wong 18
-dudu 18
 mangan 17
 weruh 17
 lagi 17
@@ -51,9 +51,9 @@ kéné 14
 Ora 14
 yèn 14
 gawé 14
+Dhéwéké 14
 Awak 13
 tau 13
-Dhéwéké 13
 Ana 12
 marang 12
 gelem 12
@@ -71,14 +71,14 @@ akèh 10
 Kowe 10
 Apa 10
 awak 10
+ngombé 10
+apik 9
 Panjenengan 9
 kula 9
 isih 9
 ngono 9
 teka 9
-ngombé 9
 kowe 8
-apik 8
 kucing 8
 boten 8
 tak 8
@@ -105,6 +105,7 @@ Sugeng 7
 asalé 7
 asu 7
 kono 6
+gedhé 6
 Kuwi 6
 awakmu 6
 nganggo 6
@@ -114,11 +115,12 @@ paling 6
 mèh 6
 waé 6
 mesthi 6
+pira 6
 tuku 6
 lungguh 6
+nanging 6
 abang 5
 jus 5
-gedhé 5
 saben 5
 panggon 5
 guru 5
@@ -139,12 +141,10 @@ tahu 5
 maca 5
 anyar 5
 dhèké 5
-pira 5
 Kabèh 5
 tindak 5
 dhateng 5
 ngendi 5
-nanging 5
 dhéwéké 5
 Basa 5
 Indhonésia 5
@@ -203,6 +203,7 @@ ng 4
 mau 3
 Piyambakipun 3
 gadhah 3
+Manuké 3
 werna 3
 pirang 3
 kok 3
@@ -270,6 +271,7 @@ sega 3
 wadon 3
 angèl 3
 dalan 3
+tèh 3
 tumbas 3
 nemu 3
 Anakku 3
@@ -285,7 +287,6 @@ isuk 2
 gula 2
 gendhis 2
 kagungan 2
-Manuké 2
 awang-awang 2
 wit 2
 enom 2
@@ -476,7 +477,6 @@ kon 2
 tutug 2
 matané 2
 Koréa 2
-tèh 2
 Ing 2
 dhéwé-dhéwé 2
 Ngapunten 2
@@ -528,6 +528,7 @@ mabur 2
 nyetir 2
 tah 2
 Tanganku 2
+regané 2
 Manganmu 2
 kangen 1
 kakus 1
@@ -1933,7 +1934,6 @@ peteng 1
 ꦧꦥꦏ꧀ꦏꦺꦗꦼꦤꦼꦁꦔꦺꦠꦺꦴꦩ꧀꧈ 1
 ꦲꦏꦸꦤꦁꦲꦺꦴꦩꦃꦲꦺꦠꦺꦴꦩ꧀꧈ 1
 ꦏꦺꦴꦮꦺꦲꦺꦴꦫꦮꦼꦫꦸꦃ꧉ 1
-regané 1
 ꦠꦺꦴꦩ꧀ꦲꦉꦥ꧀ꦮꦼꦫꦸꦃꦉꦒꦤꦺ꧉ 1
 Gajah 1
 kuping 1
@@ -2010,3 +2010,12 @@ kopiku 1
 ꦱꦥꦱꦶꦁꦔꦺꦴꦩ꧀ꦧꦺꦏꦺꦴꦥꦶꦏꦸ 1
 soklat 1
 ꦝꦺꦮꦺꦏ꧀ꦏꦺꦱꦼꦤꦼꦁꦱꦺꦴꦏ꧀ꦭꦠ꧀꧈ 1
+kancaku 1
+wongé 1
+ꦝꦺꦮꦺꦏ꧀ꦏꦺꦢꦸꦢꦸꦏꦚ꧀ꦕꦏꦸ꧈ 1
+ꦤꦔꦶꦁꦮꦺꦴꦁꦔꦺꦲꦥꦶꦏ꧀꧈ 1
+Apelé 1
+ꦲꦥꦼꦭ꧀ꦭꦺꦉꦒꦤꦺꦥꦶꦫ 1
+ꦩꦤꦸꦏ꧀ꦏꦺꦒꦼꦝꦺ꧉ 1
+Kucing 1
+ꦏꦸꦕꦶꦁꦲꦺꦴꦫꦔꦺꦴꦩ꧀ꦧꦺꦠꦺꦃ꧉ 1

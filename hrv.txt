@@ -1,4 +1,4 @@
-je 1802
+je 1804
 se 672
 u 586
 sam 488
@@ -15,7 +15,7 @@ to 198
 nije 176
 za 176
 što 173
-si 169
+si 170
 od 159
 On 150
 ti 133
@@ -47,8 +47,8 @@ još 55
 ali 53
 sve 53
 bih 53
+Kako 52
 dobro 52
-Kako 51
 iz 51
 ići 51
 Ovo 50
@@ -59,12 +59,12 @@ tako 49
 može 49
 Želim 49
 Imam 49
+dan 48
 vrijeme 48
 kao 48
 on 47
 svoj 47
 bila 47
-dan 46
 svoje 46
 jako 46
 nešto 46
@@ -100,13 +100,13 @@ Kada 35
 mnogo 35
 tvoj 34
 Mogu 34
+Danas 34
 Moja 33
 knjiga 33
 moja 33
 Volim 33
 rekao 33
 taj 32
-Danas 32
 kada 32
 nas 32
 godine 32
@@ -257,6 +257,7 @@ I 15
 prijatelji 15
 dva 15
 toliko 15
+lijepa 15
 ostati 15
 uopće 15
 Neki 15
@@ -285,7 +286,6 @@ Zar 14
 otišao 14
 neki 14
 sviđa 14
-lijepa 14
 Bez 14
 vode 14
 gradu 14
@@ -2885,6 +2885,7 @@ vježbam 2
 vježbati 2
 hodaš 2
 ukrasio 2
+slonova 2
 njihove 2
 prijaviti 2
 nogama 2
@@ -3039,6 +3040,7 @@ sveučilište 2
 supermarketu 2
 najbližem 2
 jednaki 2
+Svjetski 2
 Tomojuki 1
 Ogura 1
 lutka 1
@@ -7254,7 +7256,6 @@ ukinuti 1
 ropstvo 1
 duhovima 1
 Desetci 1
-slonova 1
 bjelokosti 1
 sjela 1
 kauč 1
@@ -8672,3 +8673,4 @@ nepropisana 1
 normalni 1
 armenski 1
 predstavnik 1
+zmija 1
