@@ -25,7 +25,7 @@ ne 1155
 mi 1028
 Da 1023
 су 991
-si 987
+si 988
 za 893
 su 863
 Ne 836
@@ -217,7 +217,7 @@ radi 141
 била 141
 Нико 140
 malo 140
-Gde 138
+Gde 139
 ni 138
 mu 137
 po 137
@@ -856,6 +856,7 @@ reči 38
 pomognem 37
 mogla 37
 svojim 37
+engleski 37
 oči 37
 Život 37
 pitao 37
@@ -878,7 +879,6 @@ hteo 36
 Ništa 36
 Znaš 36
 Hvala 36
-engleski 36
 ovog 36
 mislim 36
 моју 36
@@ -7736,6 +7736,7 @@ zakone 4
 њихово 4
 koristite 4
 ćošku 4
+naučila 4
 rok 4
 Posao 4
 Bože 4
@@ -9997,4 +9998,3 @@ Isus 3
 критикује 3
 уживате 3
 Кафа 3
-хладна 3

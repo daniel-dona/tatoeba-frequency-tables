@@ -1,46 +1,46 @@
-ad 4278
-Ṭum 2532
-d 2314
-n 2197
-ɣ 2064
-Ur 1687
-s 1578
-Is 1573
+ad 4280
+Ṭum 2535
+d 2316
+n 2200
+ɣ 2068
+Ur 1689
+s 1580
+Is 1574
 Ar 1479
 ur 1441
-ar 1240
+ar 1241
 is 1051
-rad 881
-tt 874
+rad 882
+tt 875
 t 864
 yan 851
-i 834
-kra 789
+i 835
+kra 790
 iyi 716
 nns 605
 Tom 584
-Rad 541
+Rad 544
 Mari 538
 yat 505
 f 498
 iga 473
 inn 465
-nnk 429
-inu 409
-akkʷ 393
+nnk 430
+inu 410
+akkʷ 394
 a 361
 Mary 359
 k 342
 sul 331
 bahra 320
-as 317
-ma 306
-Sami 299
+as 319
+ma 307
+Sami 300
 mayann 288
 ɣid 286
 mayad 249
 mad 246
-Mad 242
+Mad 243
 nit 241
 Ad 240
 Iga 235
@@ -48,7 +48,7 @@ Ma 230
 ɣinn 217
 Riɣ 216
 ak 215
-tgmmi 214
+tgmmi 215
 illa 209
 jju 208
 mas 208
@@ -57,7 +57,7 @@ yadlli 197
 tga 189
 lliɣ 184
 iy 184
-illan 177
+illan 179
 aɣ 175
 Ziri 173
 Mani 171
@@ -127,8 +127,8 @@ imikk 87
 Iqqan 87
 tlla 87
 ɣar 87
+kullu 87
 Iɣ 87
-kullu 86
 Inna 85
 giɣ 85
 tssnt 84
@@ -143,8 +143,8 @@ nnɣ 79
 Yanni 79
 ssinɣ 78
 iqqan 76
+Layla 76
 Kra 75
-Layla 75
 Managu 75
 Rima 75
 iniɣ 74
@@ -160,8 +160,8 @@ iẓḍaṛ 70
 Yan 70
 Mnck 70
 izrin 69
+nnun 68
 ɣilad 68
-nnun 67
 ẓṛɣ 66
 fllati 66
 dark 64
@@ -191,8 +191,8 @@ tnt 57
 nnsn 57
 ifulkin 56
 wass 56
+usggʷas 56
 yak 55
-usggʷas 55
 isawal 55
 Gan 55
 Ajj 54
@@ -251,6 +251,7 @@ diti 45
 kn 44
 Issn 44
 ula 44
+nnunt 44
 tskr 44
 kraygatt 44
 Cc 44
@@ -258,7 +259,6 @@ idrimn 44
 tllit 43
 imnsi 43
 iẓṛ 43
-nnunt 43
 kigan 43
 ssɣ 43
 skarɣ 42
@@ -366,6 +366,7 @@ yini 29
 amaynu 29
 maxx 29
 nttat 29
+Skura 29
 Ddu 29
 immut 29
 waydi 29
@@ -381,7 +382,6 @@ isqsitn 28
 agayyu 28
 nftu 28
 taggurt 28
-Skura 28
 ttiniɣ 28
 tftut 28
 zwar 28
@@ -436,6 +436,7 @@ imalass 25
 irwas 25
 tgi 25
 Su 25
+tifawt 25
 Nnan 25
 cttaɣ 25
 kʷn 25
@@ -447,7 +448,6 @@ maynna 24
 mnnaw 24
 mraw 24
 aɣaras 24
-tifawt 24
 dar-s 24
 baba 24
 tettiri 24
@@ -556,6 +556,7 @@ ufrux 20
 ijṛan 20
 Ɣayann 20
 nsawl 20
+yaɣn 20
 Tudrt 20
 ufgan 20
 maɣ 20
@@ -589,10 +590,10 @@ gigan 19
 Dan 19
 iɣʷẓan 19
 dɣ 19
-yaɣn 19
 yawi 19
 twja 19
 taflst 19
+iẓṛi 19
 kudnna 19
 Ula 19
 Tamaziɣt 19
@@ -613,6 +614,7 @@ tfruxt 18
 itahl 18
 Usṭralya 18
 Ibbi 18
+iggi 18
 dim 18
 iɣzzifn 18
 nsawal 18
@@ -627,7 +629,6 @@ irgazn 18
 ttsllaɣ 18
 wad 18
 gnɣ 18
-iẓṛi 18
 Issnti 18
 tramt 18
 darun 18
@@ -635,6 +636,7 @@ Aws 18
 kṣuḍɣ 18
 tsɣit 17
 bac 17
+tirmt 17
 tabrat 17
 kraygat 17
 Ifka 17
@@ -651,7 +653,6 @@ nnican 17
 issa 17
 yaẓn 17
 tḥanut 17
-iggi 17
 walli 17
 gr 17
 dɣya 17
@@ -731,6 +732,7 @@ Izdɣ 15
 kud 15
 afus 15
 ɣilli 15
+Yurm 15
 uslmad 15
 imil 15
 Icqqa 15
@@ -753,6 +755,7 @@ usira 15
 ɣayda 15
 wul 15
 iẓḍaṛn 15
+Ɣama 15
 Mra 15
 Iswa 15
 tflt 15
@@ -766,7 +769,6 @@ iṭṣ 15
 salaɣ 14
 Manag 14
 Da 14
-tirmt 14
 Amẓ 14
 ḥmlɣ 14
 g 14
@@ -791,6 +793,7 @@ Qql 14
 tmaziɣt 14
 uzmz 14
 tssn 14
+ttirin 14
 imun 14
 tɣamat 14
 Icca 14
@@ -805,7 +808,6 @@ tsmdt 14
 anaruz 14
 uhuy 14
 Imikk 14
-Ɣama 14
 ifttu 14
 imizi 14
 umddakkl 14
@@ -840,10 +842,8 @@ tamaynut 13
 imi 13
 Syafaɣ 13
 Itahl 13
-Yurm 13
 irxa 13
 Yut 13
-ttirin 13
 Akal 13
 iḥmil 13
 taft 13
@@ -912,6 +912,7 @@ yuf 12
 skarn 12
 Nẓṛa 12
 aytmatn 12
+Dzayr 12
 asafar 12
 Asi 12
 tmzgida 12
@@ -1067,7 +1068,6 @@ iskrkis 10
 illis 10
 unwal 10
 igḍaḍ 10
-Dzayr 10
 iwtta 10
 Nkkin 10
 nufi 10
@@ -1183,6 +1183,7 @@ Argaz 9
 yasi 9
 tam 9
 isaqsa 9
+gʷmas 9
 ftan 9
 Ustralya 9
 naf 9
@@ -1311,7 +1312,6 @@ kʷtiɣ 8
 tddr 8
 allaɣ 8
 nkk 8
-gʷmas 8
 Kʷtiɣ 8
 Iwa 8
 tamaẓunt 8
@@ -1874,6 +1874,7 @@ Paul 6
 tiguriwin 6
 Tbbi 6
 Taclḥit 6
+Tiws 6
 inɣan 6
 Nfta 6
 Ḥsu 6
@@ -2259,7 +2260,6 @@ Fkat 5
 tgn 5
 iɣus 5
 Tssurf 5
-Tiws 5
 yiwis 5
 Nxxl 5
 Ssudm 5
@@ -2349,6 +2349,7 @@ Tilelli 4
 izḍarn 4
 Kṭubr 4
 amgrad 4
+ingratsn 4
 ssaɛt 4
 tarzzift 4
 tiflut 4
@@ -2825,6 +2826,7 @@ ungraw 4
 ddaw 4
 Snimmrɣ 4
 Imccuṛḍa 4
+tagʷffa 4
 tadzayrit 4
 Izḍaṛ 4
 tɣuft 4
@@ -2926,7 +2928,6 @@ iswurri 3
 Anglizi 3
 Ssxdm 3
 tmmt 3
-ingratsn 3
 twal 3
 tazggʷaɣt 3
 taɣart 3
@@ -3083,6 +3084,8 @@ uccn 3
 Ittyawssan 3
 wahli 3
 iḥḍu 3
+tfrut 3
+tfrum 3
 Nɣat 3
 iysan-ann 3
 nafaẓn 3
@@ -3276,6 +3279,7 @@ ittamẓ 3
 Tzgzaw 3
 tnsruft 3
 wanẓa 3
+tifawin 3
 Tfssus 3
 tamyurt 3
 rgln 3
@@ -3838,7 +3842,6 @@ mlyun 3
 Tactalin 3
 trɣa 3
 Ssurfamt 3
-tagʷffa 3
 tmnaggart 3
 zrint 3
 Antonio 3
@@ -4267,8 +4270,6 @@ uslkim 2
 tdrru 2
 tamɣart-inu 2
 ugayyu-nnm 2
-tfrut 2
-tfrum 2
 Munat 2
 ingratun 2
 iḥrc 2
@@ -4630,7 +4631,6 @@ aɣal 2
 bnan 2
 Tḍfṛ 2
 Nugi 2
-tifawin 2
 Irggm 2
 ittɣawal 2
 Mmrn 2
@@ -5603,6 +5603,7 @@ tettzrak 2
 Tssfra 2
 Ahaluwin 2
 mwatɣ 2
+Izrk 2
 Nḍfṛ 2
 Ssumkɣ 2
 nkcm 2
@@ -5678,6 +5679,7 @@ Zznz 2
 ubkkaḍ 2
 Lmẓ 2
 Sɣat 2
+tfrumt 2
 Sfalki 2
 immir 2
 Afilm 2
@@ -6035,6 +6037,7 @@ tsmkil 2
 Afriwn 2
 sfawɣ 2
 tbicklit 2
+Tussq 2
 ifi 2
 issugrn 2
 ugu 2
@@ -6160,6 +6163,7 @@ usttal 2
 tawarayt 2
 usduy 2
 iggrgs 2
+ubiṭṛul 2
 Tḥmlt 1
 tmuddut 1
 Tjla-ak 1
@@ -9994,7 +9998,3 @@ Tẓjam 1
 Tusut 1
 Tlmdt 1
 Tlmdm 1
-Tlmdmt 1
-Ah 1
-mikṣuḍ 1
-Tuzzlt 1

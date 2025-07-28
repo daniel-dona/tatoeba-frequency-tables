@@ -1,7 +1,7 @@
-je 1804
+je 1805
 se 672
 u 586
-sam 488
+sam 489
 da 442
 li 411
 na 355
@@ -40,9 +40,9 @@ mogu 65
 Tko 64
 Jesi 63
 više 63
+Zašto 56
 Je 55
 Gdje 55
-Zašto 55
 još 55
 ali 53
 sve 53
@@ -82,10 +82,10 @@ U 42
 do 42
 svoju 41
 sa 41
+ovdje 41
 ovo 40
 nisam 40
-ovdje 40
-vremena 38
+vremena 39
 ja 38
 ili 38
 Moj 37
@@ -704,6 +704,7 @@ tjedna 6
 crkvu 6
 Magdalena 6
 Boston 6
+našeg 6
 sir 6
 kći 6
 mnoge 6
@@ -829,7 +830,6 @@ gospodin 5
 cvijet 5
 trgovini 5
 Lech 5
-našeg 5
 trebaš 5
 tvojoj 5
 voliš 5
@@ -1251,6 +1251,7 @@ Budite 4
 Rekla 4
 vjerojatno 4
 dušu 4
+bolest 4
 Sokrat 4
 pobijediti 4
 Hajde 4
@@ -1771,7 +1772,6 @@ plaže 3
 srodni 3
 Proveo 3
 podmititi 3
-bolest 3
 nepravdu 3
 Parizu 3
 ipak 3
@@ -8674,3 +8674,5 @@ normalni 1
 armenski 1
 predstavnik 1
 zmija 1
+Rasizam 1
+najopasnija 1

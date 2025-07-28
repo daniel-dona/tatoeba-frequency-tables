@@ -7,14 +7,14 @@ mvn 17
 Mary 15
 omēs 14
 cē 14
+Tom-ket 13
 Hvtvm 12
 omis 12
 tē 11
+Naken 11
 ca 11
-Tom-ket 11
 ǫs 11
 Estvmimvn 10
-Naken 10
 Nak 10
 okat 10
 Mv 10
@@ -36,6 +36,7 @@ Momen 7
 naket 7
 mv 7
 Este 7
+estomen 7
 o̜s 7
 nake 6
 ceyacv 6
@@ -44,7 +45,6 @@ Honvnwv 6
 cuko 6
 este 6
 mvt 6
-estomen 6
 oman 6
 owemvts 5
 Heyv 5
@@ -60,9 +60,11 @@ hompetv 4
 cehocefkvt 4
 tis 4
 liket 4
+on 4
 onkv 4
 vpoket 4
 Hoktēt 4
+owis 4
 ofvn 4
 komis 4
 Tom-ke 4
@@ -88,10 +90,8 @@ toknawv 3
 yopvn 3
 tvlkēs 3
 pohet 3
-on 3
 tayv 3
 hvtvm 3
-owis 3
 komet 3
 ayecket 3
 omeckv 3
@@ -141,6 +141,7 @@ cem 2
 makat 2
 omekot 2
 ē 2
+owēt 2
 ostat 2
 Hompetv 2
 cvhocefkvt 2
@@ -229,6 +230,7 @@ Estvmahēs 2
 omē 2
 kerrē 2
 ētvn 2
+Momof 2
 este-catvke 2
 Lekothof 2
 cvpuse 2
@@ -246,6 +248,7 @@ monkv̨ 2
 tę 2
 Stvn 2
 Elvwēt 2
+okeckv 2
 kêrreckv 2
 mēcin 1
 estomvtēt 1
@@ -335,7 +338,6 @@ onkat 1
 estvlket 1
 orev̨lkv 1
 etohkvlketv 1
-owēt 1
 tvcak 1
 orat 1
 hvse 1
@@ -1061,7 +1063,6 @@ Mimvt 1
 neskv-cuko 1
 tempusan 1
 cvhēcket 1
-Momof 1
 etenhayē 1
 oketvn 1
 ēkvnvn 1
@@ -1312,7 +1313,6 @@ esrvhet 1
 wikekvtēs 1
 Tayeko 1
 Nak-estowen 1
-okeckv 1
 Mowvcoks 1
 Vketēcvs 1
 Celusats 1
@@ -1361,3 +1361,18 @@ min 1
 vnlikvhanet 1
 Momecvkis 1
 estonhkos 1
+Arin 1
+cvheceko 1
+hayē 1
+art 1
+hēciyis 1
+Pofeknokhǫnkust 1
+wonwoket 1
+fērt 1
+owîs 1
+emonayiyîs 1
+Ē 1
+oket 1
+Orepvhaneckat 1
+vmonvyecken 1
+Hetuticvs 1

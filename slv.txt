@@ -1,8 +1,8 @@
 je 1148
 se 240
 Ali 238
-v 207
-sem 200
+v 209
+sem 201
 in 144
 ne 135
 Tom 132
@@ -41,8 +41,8 @@ ima 40
 moja 39
 bil 39
 jezik 39
+kot 38
 Kje 36
-kot 36
 Sem 35
 dan 34
 po 34
@@ -50,10 +50,10 @@ ga 33
 Kdo 32
 ali 32
 Ona 31
+Zakaj 31
 govorim 31
 Danes 30
 s 30
-Zakaj 30
 ti 29
 živi 29
 vse 29
@@ -76,16 +76,16 @@ svojo 23
 tvoj 23
 bom 23
 lepa 22
+veliko 22
 vedno 22
 Kdaj 22
 ste 21
 angleško 21
 Živijo 21
 od 21
-veliko 21
 Kdor 21
+Imam 21
 prosim 20
-Imam 20
 stane 20
 Ime 20
 jo 19
@@ -121,6 +121,7 @@ imam 14
 zdaj 14
 tem 14
 pa 14
+tukaj 14
 naj 14
 sta 14
 tri 14
@@ -139,7 +140,6 @@ vem 13
 mora 13
 boš 13
 brez 13
-tukaj 13
 nekaj 13
 všeč 13
 živali 13
@@ -379,6 +379,7 @@ iti 5
 Pes 5
 vode 5
 čaj 5
+igrati 5
 imel 5
 Po 5
 velik 5
@@ -403,6 +404,7 @@ svoboda 5
 delajo 5
 točno 5
 kje 5
+družino 5
 Nemčije 5
 sva 5
 New 5
@@ -515,7 +517,6 @@ Lačen 4
 čebele 4
 Vi 4
 barve 4
-igrati 4
 napisati 4
 bodo 4
 avtobus 4
@@ -550,7 +551,6 @@ leti 4
 tam 4
 pismo 4
 precej 4
-družino 4
 teče 4
 majhno 4
 hišo 4
@@ -1106,6 +1106,7 @@ Nehaj 2
 zmeraj 2
 čisto 2
 Glava 2
+kitaro 2
 Maria 2
 odprta 2
 pravi 2
@@ -1775,6 +1776,8 @@ papeža 2
 odrasteš 2
 oddaje 2
 nabiralnik 2
+Delam 2
+supermarketu 2
 gospod 1
 Ogawa 1
 Francoz 1
@@ -2125,7 +2128,6 @@ oženiti 1
 Čisto 1
 Njeno 1
 stanovanje 1
-kitaro 1
 končal 1
 Plačujemo 1
 visoko 1
@@ -4909,3 +4911,6 @@ plastični 1
 kiparji 1
 lastnih 1
 možganov 1
+blagajničarka 1
+Znate 1
+blagajničar 1

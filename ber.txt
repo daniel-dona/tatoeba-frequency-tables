@@ -1,18 +1,18 @@
-ad 186892
-n 154167
-d 114852
-ara 92867
+ad 186887
+n 154166
+d 114850
+ara 92865
 ay 71472
-i 65481
-deg 59726
-Ur 54279
+i 65480
+deg 59725
+Ur 54278
 ur 49385
 Tom 42486
 asegzawal 39624
-ɣer 34219
-ɣef 33675
+ɣer 34216
+ɣef 33673
 s 28671
-Ad 27918
+Ad 27917
 D 18742
 Maɣef 17780
 Ziri 17038
@@ -22,9 +22,9 @@ akken 13441
 Skura 13022
 Yanni 12743
 akk 12427
-aya 11863
+aya 11862
 acu 11762
-ma 11370
+ma 11368
 kan 11265
 win 11049
 yiwen 11023
@@ -48,7 +48,7 @@ am 6273
 Melmi 6224
 ayen 5991
 yiwet 5841
-mi 5817
+mi 5816
  5689
 tidet 5670
 Rima 5563
@@ -69,7 +69,7 @@ Anda 4431
 lliɣ 4412
 d-nseɣ 4380
 Nuja 4353
-Ma 4294
+Ma 4293
 llint 4287
 d-sɣeɣ 4141
 d-naɣ 4072
@@ -92,14 +92,14 @@ Ustṛalya 3249
 din 3178
 llan 3171
 Lliɣ 3166
-akka 3164
+akka 3163
 Mi 3139
 anda 3138
 nekk 3078
 yernu 3056
 Deg 3031
 tmaziɣt 2991
-Ɣef 2939
+Ɣef 2938
 ass 2923
 Tella 2922
 srint 2918
@@ -217,7 +217,7 @@ Wissen 1672
 yeqqim 1670
 ala 1653
 aydeg 1652
-deffir 1637
+deffir 1636
 Iṛuḥ 1630
 S 1621
 Tezmer 1617
@@ -310,8 +310,8 @@ deg-s 1150
 imsujji 1130
 d-tesɣem 1128
 Ha-tt-an 1125
-tebɣiḍ 1123
 anect-a 1123
+tebɣiḍ 1122
 d-tuɣem 1118
 d-tesɣam 1115
 Nṛuḥ 1103
@@ -497,7 +497,7 @@ tged 711
 Ttxil-k 710
 tazewwut 708
 lḥeqq 705
-iliɣ 703
+iliɣ 702
 yidrimen 701
 telliḍ 700
 swaswa 697
@@ -505,8 +505,8 @@ usensu 697
 Ta 692
 tikkal 692
 yiɣersiwen 692
-wacḥal 690
 kullec 689
+wacḥal 689
 iferki 689
 aydi 688
 d-yuɣ 687
@@ -1101,11 +1101,11 @@ tamsadurt 318
 Uɣen-d 318
 ɣreɣ 317
 Tesrid 317
-uɣrum 317
 asensu 316
 wenẓar 316
 Imsujji 316
 Tunes 316
+uɣrum 316
 Uɣent-d 316
 Ssuref-iyi 315
 aserwal 315
@@ -1126,13 +1126,13 @@ taḍuft 310
 akkin 310
 tesεa 310
 ibeddel 309
-lbaṭel 309
 Bgayet 309
 belli 309
 2:30 308
 Ttwaliɣ 308
 iɣer 308
 lqaɛa 308
+lbaṭel 308
 taɛrabt 308
 Asmi 307
 ssawalen 307
@@ -1476,7 +1476,6 @@ wanag 231
 Yeqqel 231
 asurif 231
 tadlext 231
-d-aseɣ 230
 Kecc 230
 Teẓram 230
 tiɣenjayin 230
@@ -1484,6 +1483,7 @@ tamudrut 230
 taflest 230
 tneččit 230
 maɛna 230
+d-aseɣ 229
 Walaɣ 229
 ayis 229
 yaweḍ 229
@@ -1727,13 +1727,13 @@ Awi-d 196
 Werεad 196
 « 196
 iteddu 196
-yennayer 196
 fell-aken 196
 wawalen 195
 yura 195
 udi 195
 yerfa 195
 amsegdal 195
+yennayer 195
 tmeddit 194
 yesṛuḥ 194
 tetteg 194
@@ -1813,13 +1813,13 @@ tallit 186
 Acu 186
 abanan 186
 ureɣ 186
-uɣaleɣ 186
 Mennun 186
 lḥebs 185
 isekla 185
 yella-d 185
 ilint 185
 tdabut-nni 185
+uɣaleɣ 185
 tudert-is 185
 yettmeslay 185
 taɣuri 184
@@ -1857,7 +1857,6 @@ tḥemmlem 180
 iḥulfa 180
 uxxam-nnes 180
 Paris 179
-gma 179
 almani 179
 tasarut 179
 iqbac 179
@@ -1870,6 +1869,7 @@ amenyaf 179
 tamiɣist 179
 Rio 179
 d-iwet 178
+gma 178
 yenna-iyi-d 178
 teɣzef 178
 Ḥbes 178
@@ -2114,7 +2114,6 @@ Nna 161
 inmettiyen 161
 Yeg 161
 Lorenzo 161
-rzuɣ 160
 tumḍint 160
 amikṛumdeswal 160
 teqqlemt 160
@@ -2126,6 +2125,7 @@ ttelugut 160
 ubyaṛ 160
 ttwaliɣ 159
 ilugan 159
+rzuɣ 159
 Jane 159
 tinqiḍin 159
 usalay 159
@@ -4740,7 +4740,6 @@ wemkan 72
 tmeddurt-nnek 72
 d-ffɣeɣ 72
 arraz 72
-iɣes 72
 yessikel 72
 stufaɣ 72
 Yexdem 72
@@ -4791,6 +4790,7 @@ taεṛabt-taṣumalit 72
 lemmdeɣ 71
 tesɛu 71
 Weltma 71
+iɣes 71
 t-tgeḍ 71
 isem-nnek 71
 tigawt 71
@@ -7064,7 +7064,6 @@ deffir-k 43
 irkasen-inu 43
 Jjmeɣ 43
 Nettu 43
-tkemmlem 43
 ken-iɛawen 43
 axxam-nwent 43
 tarumt 43
@@ -7202,6 +7201,7 @@ Tiɣawsiwin 42
 uḥdiq 42
 iyi-d-teɣrem 42
 awent-yehwan 42
+tkemmlem 42
 tettarum 42
 kent-iɛawen 42
 takeṛṛust-nnem 42
@@ -7800,7 +7800,6 @@ ttaǧǧamt 38
 d-yetter 38
 d-nawi 38
 temri 38
-k-awiɣ 38
 kem-awiɣ 38
 umɣar 38
 yidinaṛen 38
@@ -7864,9 +7863,7 @@ Tesliḍ 37
 umuḍin 37
 tettazzal 37
 yergazen 37
-qqneɣ 37
 wesgunfu 37
-izen-nni 37
 tessers 37
 Anda-ten 37
 temsirin 37
@@ -7940,7 +7937,6 @@ d-terred 37
 Ṭṭfeɣ 37
 tettimɣur 37
 tigargucin 37
-rrṣaṣ 37
 tiɣrifin 37
 deffir-wen 37
 yettaru-d 37
@@ -7958,6 +7954,7 @@ ussu 37
 Tenwiḍ 37
 Wines 37
 adaf 37
+k-awiɣ 37
 Ifṛansiyen 37
 t-yifen 37
 tetten 37
@@ -8032,9 +8029,11 @@ tiɣilt-nni 36
 Ɣer-iyi-d 36
 meɣɣret 36
 yettekki 36
+qqneɣ 36
 nsew 36
 nessaweḍ 36
 Ṛjiɣ 36
+izen-nni 36
 aliktṛunan 36
 ibedden 36
 lmeɛna 36
@@ -8137,6 +8136,7 @@ walim 36
 yermeɣ 36
 nawi 36
 yelzem 36
+rrṣaṣ 36
 Tefkamt 36
 ttɛebbin 36
 axxam-ik 36

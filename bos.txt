@@ -1,6 +1,6 @@
 je 455
 se 172
-sam 164
+sam 165
 u 161
 da 135
 li 110
@@ -90,6 +90,7 @@ ona 10
 mogao 10
 samo 10
 mu 10
+ovdje 10
 vrlo 10
 tu 10
 ljudi 10
@@ -105,7 +106,6 @@ zove 9
 on 9
 prema 9
 pismo 9
-ovdje 9
 tako 9
 tebe 9
 Nema 9
@@ -341,6 +341,7 @@ Vaš 4
 gospodin 4
 god 4
 dijete 4
+Zašto 4
 neki 4
 zauzet 4
 letjeti 4
@@ -487,7 +488,6 @@ jezero 3
 igrao 3
 sunce 3
 puta 3
-Zašto 3
 Imao 3
 Japan 3
 hranu 3
