@@ -1,4 +1,4 @@
-es 3430
+es 3432
 Yo 2524
 un 1992
 li 1814
@@ -19,7 +19,7 @@ to 505
 quo 462
 va 457
 me 442
-Noi 439
+Noi 440
 it 432
 save 431
 e 416
@@ -347,6 +347,7 @@ deci 22
 Yes 21
 sovente 21
 Ci 21
+Esperanto 21
 guerre 21
 clave 21
 quelc 21
@@ -358,7 +359,6 @@ problemas 21
 studiat 21
 Trinca 21
 dies 20
-Esperanto 20
 aprende 20
 provat 20
 jardin 20
@@ -989,6 +989,7 @@ errore 6
 habitat 6
 frisc 6
 triant 6
+terribil 6
 Republica 6
 adversarios 6
 Kosovo 6
@@ -1150,7 +1151,6 @@ impression 5
 demon 5
 vicinos 5
 perdir 5
-terribil 5
 unvez 5
 exactmen 5
 television 5
@@ -6040,3 +6040,4 @@ conferentie 1
 Potsdam 1
 suicidiat 1
 capitula 1
+elfes 1

@@ -1,6 +1,6 @@
 lo 12936
 mi 6288
-cu 3556
+cu 3557
 do 3383
 la 3063
 pu 2337
@@ -87,7 +87,7 @@ fo 182
 nitcu 180
 nanmu 180
 karce 178
-lo'e 172
+lo'e 173
 fe 169
 xabju 164
 zo'u 163
@@ -213,8 +213,8 @@ jetnu 80
 pe'u 79
 simsa 79
 bau 78
+tatpi 78
 nandu 77
-tatpi 77
 gugde 77
 drani 77
 djacu 76
@@ -1306,6 +1306,7 @@ klamu'o 7
 mirli 7
 abu 7
 betfu 7
+a'enai 7
 pabi 7
 jorne 7
 tolyli'a 7
@@ -1378,6 +1379,7 @@ flora 7
 VFD 7
 olkai 7
 Mi 7
+bropre 7
 ti'oi 7
 liryraixa'u 7
 lates 7
@@ -1414,7 +1416,6 @@ ibo 6
 rigni 6
 jinzi 6
 fulta 6
-a'enai 6
 ke'o 6
 mlana 6
 be'u 6
@@ -1512,7 +1513,6 @@ va'ei 6
 dibmle 6
 plika'e 6
 zilska 6
-bropre 6
 jbari 6
 cidjrbandungo 6
 cidjrfufu 6

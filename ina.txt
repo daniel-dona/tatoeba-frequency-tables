@@ -1,21 +1,21 @@
-le 14817
-es 10749
-un 8776
+le 14819
+es 10756
+un 8781
 de 8200
 ha 5901
 Le 5627
-Io 5132
+Io 5134
 in 5063
 non 4839
 que 4725
 e 3408
-del 3217
+del 3218
 a 3110
 tu 2861
-Tom 2765
+Tom 2767
 Ille 2221
 me 2075
-io 1937
+io 1938
 Il 1805
 su 1739
 al 1712
@@ -24,7 +24,7 @@ se 1705
 vos 1688
 pro 1574
 con 1504
-plus 1425
+plus 1426
 ille 1391
 pote 1216
 mi 1211
@@ -64,13 +64,13 @@ Illo 539
 facer 537
 sape 535
 tote 532
-bon 528
+bon 530
 Vos 525
 va 520
 Non 513
 In 503
+lingua 500
 si 499
-lingua 497
 on 489
 sur 483
 face 460
@@ -80,8 +80,8 @@ casa 454
 o 454
 parla 431
 ama 429
+mundo 427
 vita 427
-mundo 426
 illes 424
 vostre 418
 altere 413
@@ -113,8 +113,8 @@ diceva 287
 lor 285
 Maria 285
 la 284
+Es 281
 dice 281
-Es 280
 quando 279
 sempre 278
 mal 274
@@ -164,8 +164,8 @@ trova 201
 loco 200
 melior 198
 essera 197
+Qual 197
 parve 196
-Qual 196
 moneta 194
 nunquam 194
 jammais 192
@@ -206,12 +206,12 @@ musica 156
 difficile 156
 poteva 155
 vermente 154
+cognosce 153
 auto 153
 terra 153
 schola 152
 nocte 152
 voleva 152
-cognosce 151
 mangiar 149
 tosto 149
 parola 148
@@ -294,12 +294,12 @@ human 107
 plen 107
 lege 106
 vice 106
+vetule 106
 possibile 106
 quasi 106
 parte 106
 cerca 106
 blanc 105
-vetule 105
 nonne 105
 circa 104
 sembla 104
@@ -412,11 +412,11 @@ passate 75
 Ecce 75
 cammino 75
 filia 74
+medico 74
 etate 74
 attention 74
 simplemente 74
 forma 74
-medico 73
 capite 73
 guerra 73
 vitro 73
@@ -531,12 +531,12 @@ pauco 58
 novo 58
 traino 57
 time 57
+stupide 57
 parentes 57
 Francia 57
 Omne 57
 catta 57
 sex 56
-stupide 56
 somno 56
 commun 56
 secundo 56
@@ -558,6 +558,7 @@ resta 55
 latino 55
 collina 55
 parlate 55
+Esperanto 55
 prende 54
 alcuno 54
 arrivate 54
@@ -593,7 +594,6 @@ qualque 52
 stato 52
 bassino 52
 date 52
-Esperanto 52
 pictoresc 52
 lacte 51
 auro 51
@@ -902,6 +902,7 @@ functiona 34
 finalmente 34
 bira 34
 continua 34
+color 34
 reguardar 34
 studiava 34
 Heri 34
@@ -919,7 +920,6 @@ projecto 34
 sanguine 34
 comenciate 33
 sequente 33
-color 33
 cantar 33
 utile 33
 Paris 33
@@ -1016,6 +1016,7 @@ cerebro 30
 conta 30
 sexo 30
 experientia 30
+scripte 30
 final 30
 occurre 30
 contente 30
@@ -1056,7 +1057,6 @@ cambiate 29
 lasse 29
 occasion 29
 deserto 29
-scripte 29
 Ante 29
 debera 29
 representa 29
@@ -1116,7 +1116,9 @@ preparate 27
 retornar 27
 testa 27
 irate 27
+terribile 27
 italiano 27
+optime 27
 Cessa 27
 humanitate 27
 theatro 27
@@ -1149,13 +1151,11 @@ pueros 26
 basso 26
 ecclesia 26
 trans 26
-terribile 26
 contine 26
 valor 26
 hiberno 26
 pone 26
 gelato 26
-optime 26
 computator 26
 India 26
 medie 26
@@ -2090,6 +2090,7 @@ Excusa 13
 rumper 13
 instabile 13
 evolution 13
+europee 13
 Nove 13
 familias 13
 tasca 13
@@ -2097,6 +2098,7 @@ critava 13
 sonava 13
 apes 13
 affaires 13
+medica 13
 oncle 13
 election 13
 controlo 13
@@ -2242,7 +2244,6 @@ multitude 12
 tende 12
 appoio 12
 apte 12
-europee 12
 active 12
 metallo 12
 subito 12
@@ -2250,7 +2251,6 @@ sete 12
 absorbe 12
 Asia 12
 perfectemente 12
-medica 12
 identitate 12
 render 12
 clarmente 12
@@ -2380,6 +2380,7 @@ delicate 12
 certo 12
 Eva 12
 formicas 12
+communista 12
 credentia 12
 David 12
 fider 12
@@ -2482,6 +2483,7 @@ legiermente 11
 creatura 11
 experimentos 11
 objectivo 11
+Francese 11
 tonnas 11
 photos 11
 Jove 11
@@ -2556,7 +2558,6 @@ biscuites 11
 proprietate 11
 habilitate 11
 insectos 11
-communista 11
 Oscar 11
 basic 11
 Judaismo 11
@@ -2673,7 +2674,6 @@ intime 10
 promena 10
 frontiera 10
 veniente 10
-Francese 10
 inventate 10
 climate 10
 computatores 10
@@ -4376,6 +4376,7 @@ Holocausto 6
 job 6
 estufato 6
 televisor 6
+vexator 6
 koalas 6
 stupefaceva 6
 Ido 6
@@ -5103,7 +5104,6 @@ heavy 5
 metal 5
 moschea 5
 masculo 5
-vexator 5
 cocinamentos 5
 castania 5
 Pecunia 5
@@ -6177,6 +6177,7 @@ abhorribile 4
 vuvuzela 4
 patata 4
 haters 4
+Halloween 4
 cenava 4
 Christianos 4
 hot 4
@@ -7841,7 +7842,6 @@ stupido 3
 Sanguine 3
 tumultos 3
 alterate 3
-Halloween 3
 christianitate 3
 frambese 3
 tentas 3
@@ -9844,6 +9844,7 @@ imposite 2
 allegria 2
 islandese 2
 swahili 2
+simplice 2
 condemnation: 2
 repententia; 2
 servitrice 2
@@ -9997,4 +9998,3 @@ canta" 2
 12000 2
 concertos 2
 allegrar 2
-splendor 2

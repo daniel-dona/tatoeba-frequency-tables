@@ -16,7 +16,7 @@ mi 49
 si 44
 smo 44
 za 44
-od 38
+od 39
 to 37
 On 37
 ti 34
@@ -312,6 +312,7 @@ kroz 4
 znamo 4
 tri 4
 šest 4
+osam 4
 došao 4
 ananasa 4
 dobra 4
@@ -440,7 +441,6 @@ Vidjeli 3
 razgovarati 3
 njima 3
 dva 3
-osam 3
 plažu 3
 Požuri 3
 napisao 3
@@ -761,6 +761,7 @@ početak 2
 Antonio 2
 pobijediti 2
 utorak 2
+Počnimo 2
 Bob 2
 osim 2
 vjeruje 2
@@ -1797,7 +1798,6 @@ Sniježi 1
 Mršavim 1
 Probajmo 1
 Ćao 1
-Počnimo 1
 Zovu 1
 smijali 1
 loš 1
