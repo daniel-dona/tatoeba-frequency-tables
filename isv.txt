@@ -1,8 +1,8 @@
-jest 176
+jest 177
 Ja 95
 ne 68
 jesm 54
-Tom 49
+Tom 50
 Ty 44
 To 33
 v 32
@@ -146,6 +146,7 @@ arabsky 2
 Grečsky 2
 koristny 2
 znaješ 2
+lže 2
 fašist 2
 mrtvy 2
 pljunul 2
@@ -362,7 +363,6 @@ prosty 1
 Ukrajina 1
 prěvladnuti 1
 Zapad 1
-lže 1
 Pozdrav 1
 Jediny 1
 dobry 1
@@ -1094,3 +1094,5 @@ Abort 1
 pravo 1
 člověka 1
 strašno 1
+pedofil 1
+Vlada 1

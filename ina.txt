@@ -1,32 +1,32 @@
 le 14819
-es 10756
-un 8781
-de 8200
-ha 5901
-Le 5627
-Io 5134
-in 5063
-non 4839
+es 10758
+un 8782
+de 8202
+ha 5902
+Le 5629
+Io 5136
+in 5064
+non 4842
 que 4725
 e 3408
-del 3218
-a 3110
+del 3219
+a 3111
 tu 2861
-Tom 2767
+Tom 2769
 Ille 2221
-me 2075
-io 1938
+me 2077
+io 1939
 Il 1805
-su 1739
-al 1712
-lo 1708
+su 1738
+al 1713
+lo 1709
 se 1705
 vos 1688
 pro 1574
 con 1504
 plus 1426
 ille 1391
-pote 1216
+pote 1217
 mi 1211
 nos 1181
 esseva 1121
@@ -53,7 +53,7 @@ debe 662
 multe 658
 Mi 645
 Isto 630
-Illes 603
+Illes 604
 qui 585
 son 580
 isto 579
@@ -110,8 +110,8 @@ A 297
 dicer 291
 pensa 290
 diceva 287
+Maria 286
 lor 285
-Maria 285
 la 284
 Es 281
 dice 281
@@ -169,9 +169,9 @@ parve 196
 moneta 194
 nunquam 194
 jammais 192
+Illas 191
 Tote 190
 vive 190
-Illas 190
 ver 189
 Ubi 188
 deberea 187
@@ -277,11 +277,11 @@ forte 113
 trovar 112
 mais 112
 hora 111
+habita 111
 sub 111
 odia 111
 libros 110
 esserea 110
-habita 110
 sapeva 109
 Nostre 109
 caffe 109
@@ -369,10 +369,10 @@ usa 85
 Necuno 85
 ni 85
 justo 84
+travalio 84
 verde 83
 soror 83
 lecto 83
-travalio 83
 apprende 83
 anima 83
 interlingua 82
@@ -399,8 +399,8 @@ campania 79
 vino 78
 pauc 78
 demanda 78
+Perque 78
 iva 78
-Perque 77
 libere 76
 spirito 76
 sovente 76
@@ -532,6 +532,7 @@ novo 58
 traino 57
 time 57
 stupide 57
+football 57
 parentes 57
 Francia 57
 Omne 57
@@ -540,7 +541,6 @@ sex 56
 somno 56
 commun 56
 secundo 56
-football 56
 errores 56
 puero 56
 arabe 56
@@ -581,6 +581,7 @@ casas 53
 devenir 53
 brillante 53
 habite 53
+lacte 52
 necessari 52
 responsa 52
 frigido 52
@@ -595,7 +596,6 @@ stato 52
 bassino 52
 date 52
 pictoresc 52
-lacte 51
 auro 51
 Unite 51
 haberea 51
@@ -629,6 +629,7 @@ unic 50
 populo 50
 vites 50
 floreria 50
+dar 49
 accidente 49
 partir 49
 facto 49
@@ -642,7 +643,6 @@ antique 49
 muros 49
 las 49
 blauette 49
-dar 48
 pede 48
 Solmente 48
 interessante 48
@@ -788,6 +788,7 @@ torta 39
 insenia 39
 septe 39
 diabolo 39
+governamento 39
 differentia 39
 reguardava 39
 passava 39
@@ -813,7 +814,6 @@ Lassa 38
 dolor 38
 partiva 38
 autor 38
-governamento 38
 portugese 38
 necesse 38
 pecunia 38
@@ -841,6 +841,7 @@ menses 37
 sequer 37
 libertate 37
 Gratias 37
+ira 37
 circum 37
 obra 37
 gratiose 37
@@ -863,7 +864,6 @@ real 36
 exactemente 36
 centro 36
 arrivar 36
-ira 36
 sonios 36
 credeva 36
 coco 36
@@ -1083,6 +1083,7 @@ stellas 28
 vestimentos 28
 ganiava 28
 Totes 28
+Cessa 28
 partes 28
 roman 28
 texto 28
@@ -1119,7 +1120,6 @@ irate 27
 terribile 27
 italiano 27
 optime 27
-Cessa 27
 humanitate 27
 theatro 27
 umbra 27
@@ -1158,6 +1158,7 @@ pone 26
 gelato 26
 computator 26
 India 26
+aperir 26
 medie 26
 construite 26
 alco 26
@@ -1207,7 +1208,6 @@ Crede 25
 sperantia 25
 cappello 25
 Reguarda 25
-aperir 25
 tertie 25
 recipite 25
 placeva 25
@@ -1360,6 +1360,7 @@ claudite 22
 assatis 22
 avo 22
 mysterio 22
+menti 22
 sonia 22
 vivente 22
 occidental 22
@@ -1422,7 +1423,6 @@ locos 21
 rumpite 21
 peteva 21
 pensamento 21
-menti 21
 curiose 21
 Super 21
 scientific 21
@@ -1506,7 +1506,6 @@ superior 20
 comparation 20
 solide 20
 match 20
-base 20
 materia 20
 colpo 20
 gratuite 20
@@ -1579,7 +1578,9 @@ ferro 19
 animas 19
 litteratura 19
 acceptate 19
+club 19
 area 19
+base 19
 inamorate 19
 necessitate 19
 nomina 19
@@ -1644,7 +1645,6 @@ aperi 18
 multes 18
 discoperite 18
 vocal 18
-club 18
 idioma 18
 lontano 18
 lista 18
@@ -1668,6 +1668,7 @@ Wisit 18
 estranier 17
 apprecia 17
 incendio 17
+membro 17
 ganiate 17
 Felice 17
 York 17
@@ -1713,6 +1714,7 @@ concerne 17
 april 17
 furate 17
 sentimento 17
+armas 17
 potente 17
 reguardo 17
 interessate 17
@@ -1755,7 +1757,6 @@ banco 16
 convincer 16
 OK 16
 sortiva 16
-membro 16
 quotidian 16
 monstrar 16
 care 16
@@ -1806,7 +1807,6 @@ lectiones 16
 methodo 16
 minor 16
 Totevia 16
-armas 16
 singule 16
 cholera 16
 producto 16
@@ -4499,6 +4499,7 @@ prestava 5
 individual 5
 constantemente 5
 description 5
+refrigerator 5
 grandes 5
 parves 5
 adhere 5
@@ -5254,7 +5255,6 @@ adversitate 4
 meritate 4
 accompaniara 4
 coragiosemente 4
-refrigerator 4
 Demanda 4
 licentia 4
 hastava 4
@@ -6137,6 +6137,7 @@ actor 4
 Annuncios 4
 marmita 4
 cognate 4
+audira 4
 drag 4
 acos 4
 ronrona 4
@@ -8879,6 +8880,7 @@ Socrates 2
 samovar 2
 disbordate 2
 atlantic 2
+sanguina 2
 importunar 2
 undece 2
 duodece 2
@@ -9996,5 +9998,3 @@ indiscrete 2
 Julia" 2
 canta" 2
 12000 2
-concertos 2
-allegrar 2

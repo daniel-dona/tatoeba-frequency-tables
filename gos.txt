@@ -1,26 +1,26 @@
 k 1751
 is 1573
 t 1436
-n 1370
+n 1371
 Tom 794
 nait 791
 Hai 581
 van 577
 binnen 508
 dat 454
-Ik 420
+Ik 421
 ien 404
 het 393
 mie 388
 Wie 363
-te 360
-op 357
+te 361
+op 358
 mien 328
-mit 317
+mit 318
 Is 305
 Zai 301
-en 298
-de 288
+en 299
+de 289
 in 283
 joe 272
 noar 246
@@ -73,10 +73,10 @@ dit 99
 goan 95
 zain 95
 joen 92
+mor 90
 bin 90
 Hol 88
 hest 88
-mor 88
 hai 87
 muide 87
 e 87
@@ -88,7 +88,7 @@ kovvie 83
 Hest 83
 bie 82
 wil 82
-eten 80
+eten 81
 goud 80
 Kom 79
 Was 79
@@ -110,8 +110,8 @@ mörgen 64
 vandoag 62
 haar 62
 nou 62
+tou 61
 wordt 60
-tou 59
 Houveul 59
 old 58
 leutje 58
@@ -172,12 +172,14 @@ toal 37
 valen 36
 stad 36
 nkander 36
+proaten 35
 gong 35
 woar 35
 zol 35
-proaten 34
+zit 35
 weer 34
 waiten 34
+dag 34
 ogen 34
 bouken 34
 kwam 34
@@ -185,12 +187,10 @@ holdt 34
 Elkenain 34
 wazzen 34
 Mary 34
-zit 34
 waarken 34
 ais 34
 wuir 34
 kiender 33
-dag 33
 zai 33
 laand 33
 Nederlaands 33
@@ -219,6 +219,7 @@ Loaten 30
 gruin 30
 dast 30
 lezen 29
+Dien 29
 helpen 29
 koamer 29
 ligt 29
@@ -227,7 +228,6 @@ moaken 29
 noeit 29
 kòcht 28
 Nait 28
-Dien 28
 heuren 28
 Fraans 28
 goie 28
@@ -270,6 +270,7 @@ holden 24
 best 24
 auto 24
 most 24
+groot 24
 dou 24
 Mörgen 24
 leren 24
@@ -284,7 +285,6 @@ gaf 23
 thoes 23
 kold 23
 boeten 23
-groot 23
 loaten 23
 Boston 23
 din 23
@@ -379,6 +379,7 @@ wer 18
 da's 18
 slim 18
 zuiken 18
+Ken 18
 asjeblieft 18
 kinst 18
 blaauwe 18
@@ -397,7 +398,6 @@ wit 17
 verteld 17
 schoul 17
 zuster 17
-Ken 17
 heufdstad 17
 blaauw 17
 Joen 17
@@ -435,6 +435,7 @@ viskern 16
 haand 16
 schrieven 16
 mooi 16
+In 16
 Aine 15
 wast 15
 Hier 15
@@ -466,11 +467,12 @@ geeft 15
 woarhaid 15
 sturven 15
 schoun 15
-In 15
+beurt 15
 groag 15
 bad 15
 pien 14
 laid 14
+Joa 14
 boom 14
 liekt 14
 slaip 14
@@ -503,8 +505,6 @@ Hestoe 14
 leerd 14
 Wees 14
 dienent 14
-beurt 14
-Joa 13
 klaid 13
 kloar 13
 Wilstoe 13
@@ -570,6 +570,7 @@ veraandern 12
 zulf 12
 vergrèld 12
 aans 12
+gat 12
 zugt 12
 thuus 12
 we 12
@@ -630,7 +631,6 @@ speulen 11
 lòpt 11
 makkelk 11
 vlouer 11
-gat 11
 verdraiteg 11
 foto 11
 olle 11
@@ -812,6 +812,7 @@ datten 8
 dikke 8
 appelsienen 8
 dollar 8
+per 8
 gezwister 8
 Bus 8
 boven 8
@@ -879,6 +880,7 @@ steuren 8
 zaachter 8
 mist 8
 zukswat 8
+begon 8
 kwammen 7
 Grunnegs 7
 meziek 7
@@ -896,7 +898,6 @@ sangen 7
 Komst 7
 voar 7
 scholder 7
-per 7
 Holst 7
 Holden 7
 hong 7
@@ -992,7 +993,6 @@ baankje 7
 eerder 7
 kwoad 7
 twijdoezend 7
-begon 7
 vluiken 7
 teleur 7
 zuske 7
@@ -1655,6 +1655,7 @@ lucht 4
 ainegste 4
 Vertelde 4
 veurdailen 4
+euro 4
 verdrait 4
 Elke 4
 Vergat 4
@@ -2143,7 +2144,6 @@ mitwaarken 3
 gezicht 3
 moezen 3
 Instagram-account 3
-euro 3
 troan 3
 aanleggen 3
 heurt 3
@@ -2155,6 +2155,7 @@ luusterden 3
 dìn 3
 klaainkinder 3
 den 3
+huil 3
 komen 3
 verkocht 3
 zoas 3
@@ -2395,6 +2396,7 @@ boeteneerdse 2
 wezens 2
 Jezus 2
 mouken 2
+100 2
 aiwen 2
 klassieke 2
 koopst 2
@@ -2963,6 +2965,7 @@ Fraankriek 2
 Michael 2
 Jackson 2
 onzin 2
+verdain 2
 taandes 2
 mietern 2
 gooien 2
@@ -3188,7 +3191,6 @@ onderzuik 2
 onderzöcht 2
 verzoameld 2
 vindst 2
-huil 2
 rok 2
 riebewies 2
 doodmoakt 2
@@ -3794,7 +3796,6 @@ Kristus 1
 Middelaiwen 1
 renaissance 1
 sekonde 1
-100 1
 19de 1
 Sokrates 1
 Plato 1
@@ -5498,7 +5499,6 @@ fotografeer 1
 Keeze 1
 verteerboar 1
 lopend 1
-verdain 1
 €100 1
 Glaas 1
 ainvoldeg 1
@@ -7486,3 +7486,4 @@ Restaurants 1
 opend 1
 verkroop 1
 stroekerij 1
+waand 1

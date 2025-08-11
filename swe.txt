@@ -1,4 +1,4 @@
-är 11656
+är 11661
 Jag 11276
 att 7115
 Tom 7089
@@ -10,7 +10,7 @@ det 4750
 i 4596
 har 4240
 Det 3885
-Han 3410
+Han 3409
 jag 3155
 mig 2721
 för 2702
@@ -21,7 +21,7 @@ till 2376
 och 2337
 om 2257
 Hon 2079
-ett 1951
+ett 1952
 som 1903
 Vi 1891
 dig 1890
@@ -127,8 +127,8 @@ tog 314
 sitt 312
 ville 309
 igen 308
+tre 308
 verkligen 308
-tre 307
 mer 304
 får 303
 år 298
@@ -312,10 +312,10 @@ lätt 111
 fem 111
 klockan 111
 hålla 111
-hår 111
 Tycker 111
 vår 110
 vänta 110
+hår 110
 tack 110
 ens 110
 kväll 110
@@ -450,6 +450,7 @@ sätt 77
 plats 76
 nära 76
 arbete 76
+fyra 76
 berättade 76
 gått 76
 lycklig 76
@@ -458,7 +459,6 @@ stod 75
 hos 75
 dricka 75
 föll 75
-fyra 75
 sover 75
 frågade 75
 ute 75
@@ -754,6 +754,7 @@ trevlig 43
 ses 43
 telefon 43
 fungerar 43
+Klockan 43
 par 43
 ställa 43
 galen 43
@@ -841,7 +842,6 @@ största 38
 födelsedag 38
 stal 38
 kopp 38
-Klockan 38
 stad 38
 snö 38
 lägga 38
@@ -869,6 +869,7 @@ goda 36
 vart 36
 hjärta 36
 springa 36
+halv 36
 schack 36
 färdigt 36
 ljuger 36
@@ -877,6 +878,7 @@ stoppa 36
 Fick 36
 semester 35
 nej 35
+åtta 35
 regnar 35
 fler 35
 allting 35
@@ -900,7 +902,6 @@ Snälla 35
 vattnet 35
 finska 35
 gråter 35
-åtta 34
 kniv 34
 väntade 34
 buss 34
@@ -992,7 +993,6 @@ gäller 31
 gifte 31
 la 31
 hoppade 31
-halv 31
 berättar 31
 Hade 31
 Lämna 31
@@ -1074,6 +1074,7 @@ häst 28
 vikt 28
 brevet 28
 avskyr 28
+tolv 28
 smakar 28
 omöjligt 28
 skepp 28
@@ -1103,7 +1104,6 @@ fattig 27
 gilla 27
 fred 27
 främmande 27
-tolv 27
 bland 27
 ordbok 27
 flög 27
@@ -4408,7 +4408,6 @@ chaufför 5
 romaner 5
 Kvällen 5
 avser 5
-grått 5
 historier 5
 avslutade 5
 odlar 5
@@ -5239,6 +5238,7 @@ uppåt 4
 avseenden 4
 avskaffa 4
 avsked 4
+grått 4
 avslappnad 4
 föreläsningen 4
 Tidningen 4

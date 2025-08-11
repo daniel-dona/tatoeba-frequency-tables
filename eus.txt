@@ -1,5 +1,5 @@
-da 997
-ez 572
+da 1000
+ez 573
 dut 525
 Ez 412
 bat 406
@@ -53,9 +53,9 @@ egon 62
 egingo 62
 zer 61
 dela 61
+edo 61
 Zure 60
 bizi 60
-edo 60
 gehiago 59
 Non 59
 Hau 59
@@ -65,11 +65,11 @@ gustatzen 55
 inoiz 55
 Zein 54
 hemen 54
+baina 52
 uste 52
 daude 52
 maite 52
 mesedez 52
-baina 51
 gara 51
 Nik 51
 ona 50
@@ -92,12 +92,12 @@ zait 40
 zaitut 40
 gabe 39
 hiru 39
+Bera 39
  38
 ezazu 38
 bi 38
 zela 38
 beste 38
-Bera 38
 zaude 38
 den 38
 erosi 37
@@ -305,6 +305,7 @@ batera 13
 ginen 13
 gustoko 13
 bakarra 13
+berandu 13
 pertsona 13
 Eta 13
 zehar 13
@@ -330,7 +331,6 @@ aitak 12
 jotzen 12
 azken 12
 txikia 12
-berandu 12
 Lagundu 12
 duzue 12
 dakizu 12
@@ -355,6 +355,7 @@ Joan 11
 aldiz 11
 ikastea 11
 gainean 11
+itzuli 11
 egunero 11
 askoz 11
 zituzten 11
@@ -389,7 +390,6 @@ Denbora 10
 egitera 10
 Galdera 10
 luke 10
-itzuli 10
 Zurekin 10
 amak 10
 goiz 10
@@ -566,6 +566,7 @@ sentitu 7
 bueltatu 7
 galdetzen 7
 pasa 7
+hotz 7
 gelan 7
 dio 7
 ninduen 7
@@ -654,11 +655,11 @@ gaitezen 6
 zaitu 6
 Sartu 6
 erantzun 6
-hotz 6
 lehenengo 6
 erlojua 6
 erakutsi 6
 merezi 6
+itzuliko 6
 botatzen 6
 eskubide 6
 beharra 6
@@ -784,7 +785,6 @@ Bizikleta 5
 haren 5
 erretzen 5
 nator 5
-itzuliko 5
 kezkatu 5
 aske 5
 ezkutatu 5
@@ -855,6 +855,7 @@ zain 5
 eraso 5
 aurrera 5
 litzateke 5
+laster 5
 beteta 5
 erre 5
 horregatik 5
@@ -1076,7 +1077,6 @@ erretzeari 4
 kontu 4
 hutsik 4
 gelditzen 4
-laster 4
 bidea 4
 Goizean 4
 kultura 4
@@ -7208,6 +7208,8 @@ geroago 1
 Ikasteko 1
 normala 1
 Ikastea 1
+Logikoa 1
+egutea 1
 inteligentea 1
 Eskolako 1
 zuzendaria 1

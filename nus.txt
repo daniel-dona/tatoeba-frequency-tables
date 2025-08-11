@@ -6,7 +6,7 @@ cɛ 226
 ɛn 211
  199
 mi̱ 180
-kä 168
+kä 169
 ɣöö 157
 Ci̱ 149
 nɛy 132
@@ -47,9 +47,9 @@ rɛy 40
 nhɔk 39
 Ji̱n 38
 ŋäc 37
+mi̲ 37
 nɔmɔ 36
 nɛn 36
-mi̲ 36
 ŋa̱cä 36
 ruac 35
 te 34
@@ -67,10 +67,10 @@ mi 30
 min 29
 ci 29
 da̱ŋ 29
+thok 29
 /cɛ 28
 ram 28
 ŋu 28
-thok 28
 Kɛ 27
 la̱r 27
 Mëri̱ 27
@@ -97,12 +97,12 @@ ci̲ 22
 ji̱n 21
 lɔ̱ŋ 21
 mal 21
+ti 21
 wee 21
 jɔk 21
 Kɛn 21
 nhɔakä 21
 Mɛrɛ 21
-ti 20
 ŋuan 20
 Ci̲ 20
 lat 19
@@ -383,6 +383,7 @@ cɛɛ 6
 ji̠n 6
 Yi̱öw 6
 A 5
+maar 5
 Mal 5
 /Cɛ 5
 Nhial 5
@@ -455,7 +456,6 @@ ci̱ëk 5
 cää 5
 cuɔ̲ŋ 5
 Naath 4
-maar 4
 Go̱o̱r 4
 Diɛwä 4
 la̱tä 4
@@ -548,6 +548,7 @@ go̱rɛ 4
 Japaan 4
 ji̱o̱k 4
 puɔ̱nydɛ 4
+jaa 4
 lak 4
 buɔkni̱ 4
 muɔŋ 4
@@ -734,7 +735,6 @@ bäl 3
 ti̱n 3
 thia̱k 3
 cuu 3
-jaa 3
 gër 3
 ɣɔ̱ɔ̱k 3
 mi̱äm 3
@@ -800,6 +800,7 @@ ni̱ɛɛn 3
 ja̲l 3
 i̲di̲ 3
 ɛŋa 3
+ɛla̲t 3
 mary 3
 amäni̱ 3
 Cuɔ̱ŋɛ 3
@@ -1197,6 +1198,7 @@ Ci̱a 2
 wernyi̱n 2
 gaatkɛ 2
 jii 2
+tekä 2
 cär 2
 cuŋkä 2
 ji̱ökdɛ 2
@@ -1221,7 +1223,7 @@ wuɔ̲ɔ̲r 2
 ma̲th 2
 niän 2
 tɔm 2
-ɛla̲t 2
+gua̲a̲ 2
 ji̲n 2
 nɛyi̲ 2
 duëëlu 2
@@ -2938,7 +2940,6 @@ Tilɛbi̱tiɛnkä 1
 :30 1
 Geer 1
 thuɔ̱rbiɛl 1
-tekä 1
 la̱tji̱ 1
 nyin 1
 Rima 1
@@ -3145,15 +3146,22 @@ Kurthööny 1
 ria̲y 1
 cup 1
 wurɛ 1
+Nyaa 1
 gäyɛ 1
 lɔcda 1
 ɤää 1
+ca̲run 1
 ta̲yɛ 1
 niɛnɛ 1
 kuɛnɛ 1
+cuec 1
 thuɔ̲kdɛ 1
 juɔ̲c 1
+joc 1
+kɔ̲c 1
+lic 1
 yɔ̲tɛ 1
+tɔ̲wɛ 1
 jut 1
 däk 1
 däkdɔɔr 1
@@ -3186,12 +3194,16 @@ mäthni̲ 1
 kubri̲i̲ 1
 dɔlpin 1
 ɛley 1
+tët 1
+bumbum 1
 neni̲ 1
 mathɛ 1
 ca̲yä 1
 cie̲ni̲ 1
 gaakni̲ 1
 ɤɔ̲ɔ̲n 1
+ŋä̲ci̲ 1
+i̲thlöbak 1
 nɛɛ 1
 wäldiɔ̲k 1
 lɛ̈ŋ 1
@@ -3216,6 +3228,8 @@ luɔ̲th 1
 pa̲l 1
 ruëc 1
 ŋäciɛ 1
+nyuri̲ 1
+mi̲i̲ 1
 pälä 1
 miäm 1
 tiäk 1
@@ -3235,7 +3249,6 @@ thiecni̲ 1
 dun 1
 ɛjɔc 1
 ba̲a̲ 1
-gua̲a̲ 1
 jɔcɛ 1
 thilki̲ 1
 ti̲diaal 1
@@ -3335,6 +3348,9 @@ dï̲ 1
 thuɔ̲l 1
 guɔ̲ri̲ 1
 cii 1
+wïi̲ 1
+i̲di 1
+hëy 1
 rikädä 1
 Jëkä 1
 yieyni̱kä 1

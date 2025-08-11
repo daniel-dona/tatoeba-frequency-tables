@@ -21,12 +21,12 @@ eru 12
 fyri 12
 á 12
 var 12
+mær 12
 av 11
 Hvussu 11
 Vit 11
 teg 11
 Hvat 11
-mær 11
 Bilurin 11
 sum 10
 hevur 10
@@ -95,6 +95,7 @@ ov 4
 Luftpútufarið 4
 álli 4
 býr 4
+Tey 3
 nátt 3
 kanst 3
 Lívið 3
@@ -112,6 +113,7 @@ fer 3
 má 3
 enn 3
 men 3
+frá 3
 tit 3
 gomul 3
 tosa 3
@@ -130,7 +132,6 @@ Nær 3
 enskt 3
 geri 3
 drekka 3
-Tey 2
 eiga 2
 hvørt 2
 stórur 2
@@ -176,7 +177,6 @@ verði 2
 komi 2
 títt 2
 vit 2
-frá 2
 monnum 2
 misgerðir 2
 faðir 2
@@ -938,6 +938,8 @@ barnsburði 1
 løgin 1
 Lovar 1
 gloyma 1
+søgdu 1
+hundunum 1
 svaraði 1
 spurninginum 1
 barn 1

@@ -1,12 +1,12 @@
-es 3432
+es 3434
 Yo 2524
-un 1992
-li 1814
+un 1993
+li 1817
 Tom 1623
-ne 1504
+ne 1505
 Li 860
-in 829
-tu 801
+in 830
+tu 802
 have 767
 Esque 762
 Il 712
@@ -20,9 +20,9 @@ quo 462
 va 457
 me 442
 Noi 440
-it 432
+it 433
 save 431
-e 416
+e 417
 vole 415
 yo 414
 mi 411
@@ -73,7 +73,7 @@ la 115
 noi 114
 libre 113
 vor 112
-max 111
+max 112
 vermen 110
 ancor 109
 Vu 109
@@ -81,8 +81,8 @@ nos 109
 parlar 109
 tro 108
 nu 108
+grand 106
 Ples 105
-grand 105
 ja 105
 Quel 105
 puella 99
@@ -94,10 +94,10 @@ habita 93
 se 92
 Qui 88
 vive 88
+lingue 87
 parlat 87
 nov 84
 felici 84
-lingue 84
 Ne 83
 du 81
 qui 80
@@ -138,9 +138,9 @@ Lass 60
 ili 60
 vos 60
 die 59
+munde 59
 tri 59
 volet 59
-munde 58
 evenit 58
 dormi 58
 labora 58
@@ -362,6 +362,7 @@ dies 20
 aprende 20
 provat 20
 jardin 20
+usa 20
 ludet 20
 musica 20
 nigri 20
@@ -376,7 +377,6 @@ scola 19
 just 19
 telefon 19
 flores 19
-usa 19
 gemelles 19
 auxiliat 19
 famosi 19
@@ -611,6 +611,7 @@ rey 11
 vestimentes 11
 prim 11
 sett 11
+- 11
 capilles 11
 totmen 11
 raconta 11
@@ -661,7 +662,6 @@ ganiat 10
 monstrat 10
 cochemares 10
 functiona 10
-- 10
 frase 10
 sapates 10
 desde 10
@@ -881,6 +881,7 @@ monte 7
 stat 7
 Hispania 7
 ebri 7
+terribil 7
 trincage 7
 seriosi 7
 payat 7
@@ -989,7 +990,6 @@ errore 6
 habitat 6
 frisc 6
 triant 6
-terribil 6
 Republica 6
 adversarios 6
 Kosovo 6
@@ -1138,6 +1138,7 @@ studiante 5
 traduction 5
 signe 5
 hor 5
+altrimen 5
 horribil 5
 autor 5
 Esser 5
@@ -1304,10 +1305,10 @@ selectet 4
 tapisse 4
 alquande 4
 diarium 4
-altrimen 4
 scoleros 4
 consilie 4
 sentir 4
+Anglesi 4
 ci" 4
 risca 4
 Football 4
@@ -1565,7 +1566,6 @@ Pedro 3
 strada 3
 grandmatre 3
 dansero 3
-Anglesi 3
 potentie 3
 cantator 3
 club 3
@@ -1816,6 +1816,7 @@ mais 3
 ad 3
 questionat 3
 tractate 3
+convicter 3
 conosser 3
 casus 3
 Brossa 3
@@ -2412,6 +2413,7 @@ argument 2
 rational 2
 origine 2
 alternatives 2
+parlatores 2
 cent 2
 Per 2
 lettere 2
@@ -2605,7 +2607,6 @@ inclinat 2
 permission 2
 Prende 2
 causa 2
-convicter 2
 microscop 2
 motorcicle 2
 fini 2
@@ -4215,7 +4216,6 @@ exuberant 1
 quantité 1
 Queles 1
 significant 1
-parlatores 1
 sensibilisation 1
 instinctivmen 1
 liberar 1
@@ -6041,3 +6041,6 @@ Potsdam 1
 suicidiat 1
 capitula 1
 elfes 1
+inlada 1
+1390000000 1
+Chinés 1

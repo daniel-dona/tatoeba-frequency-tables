@@ -1,7 +1,7 @@
 es 226
 Me 134
 li 83
-Li 78
+Li 79
 Tom 77
 non 69
 Ob 59
@@ -227,6 +227,7 @@ red 3
 vilaje 3
 lerna 3
 mentiad 3
+mentia 3
 Boston 3
 boni 3
 kalsonete 3
@@ -340,7 +341,6 @@ Trump 2
 animal 2
 kata 2
 astonantim 2
-mentia 2
 monstre 2
 pire 2
 merita 2
@@ -912,3 +912,4 @@ Nihil 1
 neutri 1
 vadad 1
 Erore 1
+guvernamente 1
