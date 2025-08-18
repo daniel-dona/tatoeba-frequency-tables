@@ -1,4 +1,4 @@
-on 28941
+on 28942
 ei 10583
 Tom 9670
 Hän 8298
@@ -7,8 +7,8 @@ ja 6792
 Tomi 6361
 ole 6228
 oli 5654
-En 4879
-Minä 4471
+En 4880
+Minä 4472
 Se 3745
 hän 3542
 se 3378
@@ -90,7 +90,7 @@ juuri 846
 Hänen 839
 eivät 835
 tiedä 827
-Haluan 825
+Haluan 826
 Mikä 822
 tätä 820
 enää 818
@@ -124,7 +124,7 @@ tai 610
 Marin 608
 tuli 607
 vai 603
-kotiin 601
+kotiin 602
 ikinä 598
 tuo 597
 yksi 594
@@ -313,8 +313,8 @@ aikaan 279
 menee 279
 tarpeeksi 279
 Etkö 279
+haluan 279
 ongelma 278
-haluan 278
 kello 275
 eikä 275
 Hyvää 275
@@ -348,8 +348,8 @@ joku 251
 vuoden 250
 No 248
 maksaa 248
+yhden 247
 heidän 247
-yhden 246
 ruokaa 246
 kahvia 245
 Näin 244
@@ -374,7 +374,7 @@ odottaa 234
 koira 234
 Hei 234
 Sinulla 233
-vaikeaa 231
+vaikeaa 232
 käy 231
 päivää 230
 sinusta 230
@@ -421,8 +421,8 @@ Voi 205
 aikaisin 205
 Bostoniin 205
 elää 204
+auto 204
 vaikuttaa 203
-auto 203
 Minkä 203
 iso 202
 oikeasti 201
@@ -550,11 +550,11 @@ kuollut 157
 juo 157
 vasta 157
 Menen 157
+muista 156
 Oliko 156
 kieli 155
 näki 155
 teetä 154
-muista 154
 kiinnostunut 154
 monia 154
 ranskaksi 154
@@ -1299,6 +1299,7 @@ luki 65
 Ennen 65
 kolmekymmentä 65
 näyttävät 65
+kohti 65
 ruoka 65
 Vaikuttaa 65
 varsin 65
@@ -1327,7 +1328,6 @@ uskonut 64
 tuulella 64
 yritän 64
 vaatteita 64
-kohti 64
 pitkin 64
 joukko 64
 tehneet 64
@@ -1635,7 +1635,6 @@ toiseen 52
 pystynkö 52
 Sopiiko 51
 luultavasti 51
-kukat 51
 elävät 51
 seisoi 51
 kohta 51
@@ -1671,6 +1670,7 @@ Olisi 50
 pitämään 50
 paikan 50
 Muistan 50
+kukat 50
 odottamaan 50
 Puhu 50
 kulkee 50
@@ -2158,6 +2158,7 @@ tehtyä 39
 välinen 39
 autoon 39
 tähtiä 39
+henkeä 39
 lentokentälle 39
 oppilas 39
 rakastavat 39
@@ -2211,7 +2212,6 @@ keskenään 38
 kaunein 38
 luulee 38
 suuresti 38
-henkeä 38
 tukka 38
 ystävänsä 38
 paita 38
@@ -4580,6 +4580,7 @@ vakavissasi 18
 ollu 18
 Käänny 18
 ympäröivät 18
+Jättäkää 18
 ajatte 18
 samankokoisiin 18
 leikkaaminen 18
@@ -4611,6 +4612,7 @@ vasemmalle 17
 Menetin 17
 Kauan 17
 Täytyy 17
+Tilasin 17
 kadonnut 17
 Arvostan 17
 inhoaa 17
@@ -4816,7 +4818,6 @@ kolmella 17
 Moikka 17
 itsekseni 17
 Pysäytä 17
-Jättäkää 17
 Kesäkuussa 17
 työpäiväni 17
 virus 17
@@ -4848,7 +4849,6 @@ lapsista 16
 pääosin 16
 tulevaisuus 16
 Opiskele 16
-Tilasin 16
 pinta 16
 tilanteeseen 16
 huipulla 16
@@ -5129,6 +5129,7 @@ muuttua 15
 viimeistään 15
 selkeästi 15
 päälleni 15
+lounaaksi 15
 kiinnostuneita 15
 työstään 15
 Yritys 15
@@ -5441,7 +5442,6 @@ ohitse 14
 ideoita 14
 lihan 14
 leijona 14
-lounaaksi 14
 Harmi 14
 valtavasti 14
 paskaa 14
@@ -5860,6 +5860,7 @@ kiinnitti 13
 lämpötila 13
 harvinaista 13
 toimivat 13
+kolmea 13
 ilmasto 13
 lahjasta 13
 Uin 13
@@ -6287,7 +6288,6 @@ flunssaa 12
 läheinen 12
 kirsikkapuun 12
 ilme 12
-kolmea 12
 oudon 12
 laskenut 12
 vakavia 12
@@ -6975,6 +6975,7 @@ puiston 11
 pohti 11
 puhuit 11
 seinää 11
+Fysiikka 11
 hyvänä 11
 Aloita 11
 lintuja 11
@@ -7542,7 +7543,6 @@ romahti 10
 keltaisen 10
 lähtevät 10
 nokkela 10
-Fysiikka 10
 palkkansa 10
 päiväunet 10
 tuleen 10

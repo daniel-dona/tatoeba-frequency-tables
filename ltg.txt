@@ -10,8 +10,8 @@ Voi 19
 Jis 16
 Toms 15
 es 15
+beja 15
 par 14
-beja 14
 cīši 13
 tys 13
 tu 12
@@ -151,6 +151,7 @@ guoja 2
 kūpā 2
 sovys 2
 Kōpēc 2
+gryuši 2
 esi 2
 byutnis 2
 dzeivi 2
@@ -164,6 +165,7 @@ saceja 2
 tāvs 2
 nūteik 2
 cytu 2
+gulēt 2
 tuoļuok 2
 ni 2
 lobys 2
@@ -427,7 +429,6 @@ patīseibys 1
 serumu 1
 sapeics 1
 Nabyuti 1
-gryuši 1
 gryuteigs 1
 sajiutūšys 1
 jiuteigs 1
@@ -493,7 +494,6 @@ ne 1
 stuovūklis 1
 naatsakuopšu 1
 tyvuojīs 1
-gulēt 1
 dzierdēja 1
 mīļoj 1
 Tomu 1
@@ -1021,3 +1021,5 @@ ideja 1
 Dzie 1
 Agruok 1
 vieļuok 1
+Vakar 1
+naktī 1

@@ -1,5 +1,5 @@
-ang 34255
-sa 27501
+ang 34253
+sa 27499
 ng 26029
 na 16474
 po 13818
@@ -94,7 +94,7 @@ loob 589
 dapat 587
 walang 580
 Puwede 576
-Maraming 569
+Maraming 568
 kaming 553
 ibang 552
 kaysa 546
@@ -612,7 +612,6 @@ lobo 91
 Dumalaw 91
 ipaliwanag 90
 dahon 90
-dalampasigan 90
 laki 90
 higit 90
 lumabas 89
@@ -622,6 +621,7 @@ Leo 89
 inumin 88
 Sabihin 88
 Dahil 88
+dalampasigan 88
 sobrang 88
 tumulong 88
 madaling-araw 88
@@ -2168,7 +2168,6 @@ iskrin 25
 Jam 25
 Siguradong-sigurado 25
 Yami 25
-dikya 25
 Dati 24
 Nagpakasal 24
 payat 24
@@ -2341,6 +2340,7 @@ pag-atake 23
 de-gulong 23
 Haponesa 23
 Sinasamba 23
+dikya 23
 Gumaling 22
 pangkat 22
 pagsasalita 22
@@ -2776,7 +2776,6 @@ tubo 19
 gamugamo 19
 katapangan 19
 lambot 19
-naanod 19
 Nabaril 19
 hustong 19
 pluma 19
@@ -3107,6 +3106,7 @@ agwat 17
 Nagkalat 17
 seatbelt 17
 Diet 17
+naanod 17
 Napilitan 17
 pinagtutuunan 17
 binatang 17
@@ -3586,7 +3586,6 @@ kundol 14
 pagkatalo 14
 Paul 14
 nagtitiwala 14
-Maraming-maraming 14
 pumayag 14
 salawal 14
 bukal 14
@@ -3860,6 +3859,7 @@ nagawang 13
 kamote 13
 magkaibigan 13
 makapaniwala 13
+Maraming-maraming 13
 tsitsaron 13
 kasarian 13
 Nag-usap 13

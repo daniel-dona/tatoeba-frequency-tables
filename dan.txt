@@ -1,29 +1,29 @@
-er 17841
-Jeg 11344
-at 9163
-Tom 8620
+er 17848
+Jeg 11345
+at 9165
+Tom 8623
 en 8576
-i 8488
+i 8489
 ikke 8109
-har 7656
+har 7658
 du 5456
 til 5181
 det 4922
-på 4912
+på 4914
 og 3905
-for 3864
+for 3865
 jeg 3703
 Han 3486
 Det 3468
 var 3382
 med 3328
 af 3310
-et 3233
+et 3237
 mig 3177
 kan 2639
 den 2316
 der 2315
-Hun 2206
+Hun 2207
 dig 2016
 om 1953
 Vi 1913
@@ -32,15 +32,15 @@ Mary 1853
 Du 1767
 vil 1756
 han 1689
-som 1670
+som 1673
 så 1656
 min 1594
 ved 1482
 De 1438
 meget 1437
 her 1268
+Hvor 1184
 de 1182
-Hvor 1182
 Er 1162
 Hvad 1149
 blev 1091
@@ -72,7 +72,7 @@ men 728
 hvad 726
 alle 693
 ville 683
-mange 665
+mange 667
 to 662
 hende 661
 år 644
@@ -80,9 +80,9 @@ over 624
 kommer 618
 denne 605
 Hvorfor 604
-tog 598
+tog 599
 kunne 584
-Toms 580
+Toms 582
 man 574
 gøre 568
 aldrig 566
@@ -105,7 +105,7 @@ elsker 476
 gik 470
 bliver 459
 hund 459
-mine 449
+mine 452
 hans 448
 morgen 445
 dette 444
@@ -114,7 +114,7 @@ brug 438
 selv 438
 taler 434
 lige 431
-tager 429
+tager 430
 Hvem 425
 bor 424
 gå 422
@@ -209,10 +209,10 @@ hvis 242
 sige 241
 vand 241
 gammel 240
+købe 240
 Hvornår 239
 første 238
 stor 238
-købe 238
 endnu 237
 bedre 235
 gjorde 233
@@ -242,14 +242,14 @@ står 204
 fem 201
 barn 200
 længere 199
-bøger 196
+bøger 198
 Marys 194
 smuk 193
 døde 192
 På 191
+arbejder 189
 ti 189
 hinanden 189
-arbejder 188
 holde 188
 mod 188
 hen 188
@@ -352,9 +352,9 @@ engang 138
 drikke 138
 læse 137
 Vores 137
+spist 137
 hurtigt 136
 fire 136
-spist 136
 Din 135
 fuld 135
 sandheden 135
@@ -373,11 +373,11 @@ fundet 131
 Hendes 130
 hunde 130
 oktober 130
+mælk 129
 Hvilken 129
 kommet 129
 kop 128
 hørt 128
-mælk 127
 stort 126
 faldt 125
 øjne 125
@@ -421,6 +421,7 @@ let 110
 Så 110
 bruge 110
 sikker 109
+sko 109
 gode 109
 Frankrig 109
 seks 108
@@ -431,7 +432,6 @@ venlig 107
 datter 107
 foran 106
 fisk 106
-sko 106
 At 106
 svømme 106
 sådan 106
@@ -505,6 +505,7 @@ bag 92
 ringede 91
 skoven 91
 frem 90
+timer 90
 glemt 90
 film 90
 klar 90
@@ -515,7 +516,6 @@ givet 89
 glad 89
 Ziri 89
 ringe 88
-timer 88
 foretrækker 88
 telefon 88
 dræbt 88
@@ -742,6 +742,7 @@ boet 57
 først 57
 største 57
 værd 57
+Danmark 56
 fjernsyn 56
 Kina 56
 lukket 56
@@ -756,7 +757,6 @@ travlt 56
 består 56
 tilgivet 56
 rigtigt 55
-Danmark 55
 kl 55
 Hvilket 55
 lege 55
@@ -951,6 +951,7 @@ eget 43
 glæder 43
 Kender 43
 videre 43
+loftet 43
 plan 43
 øjnene 43
 Yanni 43
@@ -985,7 +986,6 @@ lader 41
 tør 41
 lov 41
 chance 41
-loftet 41
 alvorligt 41
 flyttede 41
 faktisk 40
@@ -1594,6 +1594,7 @@ ringet 24
 chef 24
 Amerikanere 24
 Trump 24
+oppe 23
 stolen 23
 minder 23
 skak 23
@@ -1641,7 +1642,6 @@ stak 23
 advokat 23
 trak 23
 Mennad 23
-oppe 22
 Vand 22
 Spiser 22
 badeværelset 22
@@ -1827,6 +1827,7 @@ løgn 20
 bruges 20
 æblerne 20
 dammen 20
+Husk 20
 dyrere 20
 stærke 20
 Smid 20
@@ -1902,7 +1903,6 @@ klaver 19
 rødvin 19
 opfører 19
 nederdel 19
-Husk 19
 Desværre 19
 beskytte 19
 artikel 19
@@ -3337,6 +3337,7 @@ nord 9
 midten 9
 Værsgo 9
 bogstav 9
+rejsen 9
 dufter 9
 drengen 9
 tidsfordriv 9
@@ -3564,6 +3565,7 @@ godnat 8
 passede 8
 nyttigt 8
 alverden 8
+Sørg 8
 høster 8
 selvfølgelig 8
 musiker 8
@@ -3930,7 +3932,6 @@ føles 7
 Anna 7
 nytte 7
 dækkede 7
-Sørg 7
 herre 7
 syn 7
 Washington 7
@@ -4030,7 +4031,6 @@ Vin 7
 daggry 7
 Charles 7
 dømt 7
-rejsen 7
 flyvemaskine 7
 syd 7
 katastrofe 7
@@ -5186,6 +5186,7 @@ grundlagde 5
 Kyiv 5
 opdagelse 5
 solskin 5
+identitetskort 5
 bagdel 5
 Helen 5
 bivirkninger 5
@@ -5731,6 +5732,7 @@ afviser 5
 forandring 5
 biskop 5
 forfra 5
+åd 5
 mikrobølgeovnen 5
 Arabiske 5
 udrikkeligt 5
@@ -5935,6 +5937,7 @@ aktivist 5
 veltalende 5
 Opløs 5
 bagepulveret 5
+Modersmålet 5
 chikanere 5
 chikane 5
 kendes 5
@@ -6811,7 +6814,6 @@ synke 4
 17 4
 CIA 4
 dugen 4
-åd 4
 skålen 4
 kyllinger 4
 kommoden 4
@@ -7418,7 +7420,6 @@ Beslutningen 3
 Everest 3
 fredselskende 3
 Luftkvaliteten 3
-identitetskort 3
 pløjer 3
 rindende 3
 lunger 3
@@ -8714,6 +8715,7 @@ Frida 3
 Kahlo 3
 kong 3
 støvsuget 3
+ædt 3
 riffel 3
 fluen 3
 tvillingebror 3
@@ -9289,6 +9291,7 @@ hunræv 3
 matros 3
 blink 3
 undersøge 3
+ID-kort 3
 Lider 3
 »militær 3
 specialoperation« 3
@@ -9995,6 +9998,3 @@ notere 2
 frygtet 2
 risikofrit 2
 Christian 2
-forbinder 2
-Panama 2
-urokser 2

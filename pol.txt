@@ -1,6 +1,6 @@
-się 16907
-nie 14400
-jest 14178
+się 16908
+nie 14401
+jest 14179
 w 12668
 Tom 11254
 na 10658
@@ -9,7 +9,7 @@ to 8609
 że 8093
 do 7721
 z 7440
-i 4588
+i 4589
 To 4586
 Czy 4053
 mi 3699
@@ -76,7 +76,7 @@ była 877
 Proszę 860
 Kiedy 856
 Mój 850
-Dlaczego 820
+Dlaczego 821
 powiedział 803
 Ta 800
 dobrze 797
@@ -89,7 +89,7 @@ kiedy 741
 więcej 736
 jesteś 729
 teraz 722
-Chcę 720
+Chcę 721
 iść 712
 Gdzie 710
 chce 704
@@ -577,10 +577,10 @@ noc 141
 Idź 141
 Dzieci 141
 rację 141
+człowiekiem 141
 nikogo 141
 dziesięć 141
 późno 140
-człowiekiem 140
 rower 140
 chwili 140
 godzinę 139
@@ -1022,6 +1022,7 @@ dziwne 79
 Wciąż 79
 pochodzi 79
 ubrania 79
+Zapomniałem 79
 Powinniśmy 79
 powrotem 79
 sprawę 79
@@ -1042,7 +1043,6 @@ autobusem 78
 trudno 78
 kocham 78
 koty 78
-Zapomniałem 78
 ulubiony 78
 łóżka 78
 nazwisko 77
@@ -1073,6 +1073,7 @@ psy 76
 powód 76
 panu 76
 Powinienem 76
+kobietą 76
 przychodzi 75
 Pociąg 75
 herbaty 75
@@ -1084,7 +1085,6 @@ bilet 75
 kobieta 75
 rodziny 75
 napisać 75
-kobietą 75
 restauracji 75
  75
 Czasami 74
@@ -1122,6 +1122,7 @@ domem 72
 wiedzą 72
 Musiałem 72
 obchodzi 72
+stać 72
 drzewo 72
 dumny 72
 Podoba 72
@@ -1136,7 +1137,6 @@ prawdy 71
 błędów 71
 nosi 71
 wakacje 71
-stać 71
 samemu 71
 muszą 71
 gry 71
@@ -1424,6 +1424,7 @@ jedynym 57
 prowadzi 57
 lesie 57
 Chodź 57
+piękną 57
 Samochód 57
 Powiedziała 57
 sklep 57
@@ -1447,7 +1448,6 @@ biura 56
 przekonać 56
 powinna 56
 przykład 56
-piękną 56
 kupiła 56
 zostawić 56
 godzinie 56
@@ -1673,6 +1673,7 @@ czarny 48
 gdybym 48
 znieść 48
 okazji 48
+wybrać 48
 podobny 48
 dwadzieścia 48
 tygodnie 48
@@ -1714,7 +1715,6 @@ muzeum 47
 wiatr 47
 pociągiem 47
 studentem 47
-wybrać 47
 matką 47
 chłopców 47
 pogody 47
@@ -2563,6 +2563,7 @@ Pojechałem 30
 takiej 30
 wypił 30
 przekonany 30
+radości 30
 swych 30
 nartach 30
 nauce 30
@@ -2638,7 +2639,6 @@ wyglądają 29
 całego 29
 Pojechał 29
 gorączkę 29
-radości 29
 narzeka 29
 przeszkadzać 29
 bał 29
@@ -4647,6 +4647,7 @@ północ 16
 ciężarówkę 16
 zaczynać 16
 Opowiem 16
+bogatym 16
 dowód 16
 wsparcie 16
 Komu 16
@@ -4907,7 +4908,6 @@ uczyła 15
 zdaniu 15
 Grecja 15
 Mówił 15
-bogatym 15
 basen 15
 pokryte 15
 gorsze 15
@@ -5752,6 +5752,7 @@ symbolem 12
 dorośli 12
 zepsuta 12
 położyłeś 12
+młodą 12
 zamówił 12
 następne 12
 pojechali 12
@@ -6175,7 +6176,6 @@ Burza 11
 róż 11
 zakochał 11
 bić 11
-młodą 11
 unikać 11
 zegarku 11
 współczucia 11
@@ -6530,6 +6530,7 @@ internetu 11
 tatuaż 11
 myślałeś 11
 laptopa 11
+hasła 11
 Państwa 11
 sposoby 11
 zjada 11
@@ -7120,7 +7121,6 @@ zwrot 10
 Uczysz 10
 wyspą 10
 strój 10
-hasła 10
 zapominam 10
 zapomniałam 10
 snem 10

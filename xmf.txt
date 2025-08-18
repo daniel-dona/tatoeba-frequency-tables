@@ -1,10 +1,10 @@
-Ma 260
-re 149
+Ma 263
+re 153
 Tom 60
-Si 52
+Si 53
 Toms 42
 Tkva 37
-do 35
+do 36
 ma 34
 te 33
 Tena 30
@@ -16,9 +16,9 @@ tena 25
 Tina 25
 oǩo 24
 Tomi 23
+vorek 22
 taki 21
 Tis 21
-vorek 21
 Chkimi 20
 reno 20
 skani 19
@@ -71,6 +71,7 @@ glaxa 8
 ç̌ita 8
 Ko 8
 voreki 8
+Amdǧa 8
 Tomk 8
 tomi 8
 ვორექ 7
@@ -83,7 +84,6 @@ mus 7
 Xolo 7
 vordi 7
 tzaneri 7
-Amdǧa 7
 miǧu 7
 rina 6
 borjis 6
@@ -94,6 +94,7 @@ Skani 6
 tku 6
 teshi 6
 ǩitxiri 6
+da 6
 Mardi 6
 Ena 6
 Muç̌o 6
@@ -120,7 +121,7 @@ meurku 5
 mara 5
 ardzas 5
 Oxori 5
-da 5
+tzanas 5
 Sumi 5
 ardzashe 5
 Tinepi 5
@@ -135,11 +136,13 @@ oko 5
 mitini 5
 tişi 5
 miɣorsu 5
+vamoǩo 5
 osuri 5
 Çkimi 5
 midartƨ 5
 dzalami 5
 nina 5
+miɔors 5
 ǩaṫu 5
 meris 5
 ǩata 5
@@ -147,6 +150,7 @@ uǧƨ 5
 fara 4
 vareno 4
 tineps 4
+tashi 4
 dolari 4
 muç̌ot 4
 Moǩo 4
@@ -163,7 +167,6 @@ mapu 4
 Migaxvamant 4
 Namu 4
 ǧvini 4
-tzanas 4
 pranguli 4
 Sami 4
 reto 4
@@ -182,7 +185,6 @@ axal 4
 vamiçkƨ 4
 uudes 4
 çkaras 4
-vamoǩo 4
 rek 4
 mangaro 4
 p̌eulepi 4
@@ -199,11 +201,12 @@ kiana 4
 ტომიქ 3
 ჩქიმ 3
 მოკო 3
+chkim 3
+djima 3
 muzhamsƨt 3
 Tkvan 3
 sakvars 3
 Yanni 3
-tashi 3
 rdasin 3
 Musho 3
 sum 3
@@ -239,7 +242,9 @@ kianas 3
 resṫorani 3
 Diachkimi 3
 Djgiro 3
+boshi 3
 chxuru 3
+xamu 3
 mudgareni 3
 oxorants 3
 amnaxanṫi 3
@@ -269,6 +274,7 @@ zhiri 3
 miçkƨ 3
 vorekƨ 3
 Sode 3
+ragadanko 3
 aǧani 3
 Meu 3
 ɣuça 3
@@ -289,7 +295,6 @@ tunti 3
 tkvani 3
 gurapa 3
 Muşeni 3
-miɔors 3
 ɣ'udes 3
 muşi 3
 Tzq'ari 3
@@ -328,8 +333,6 @@ mours 2
 tu 2
 Dia 2
 uǧu 2
-chkim 2
-djima 2
 Mitinʒ 2
 brel 2
 djoǧorepi 2
@@ -371,7 +374,6 @@ ish 2
 mofrti 2
 qore 2
 ambe 2
-ʒanas 2
 goluapiri 2
 chkimo 2
 kidiç̌q'u 2
@@ -428,11 +430,10 @@ Var 2
 Muzƨma 2
 tiki 2
 getxu 2
+vorde 2
 taşi 2
 vapshu 2
-boshi 2
 giniǧu 2
-xamu 2
 titzǩuma 2
 iuapu 2
 sǩantzǩuma 2
@@ -517,7 +518,6 @@ Kosxap̌i 2
 antziani 2
 goǩodu 2
 shunko 2
-ragadanko 2
 Rina 2
 Maǧazia 2
 sheilebunano 2
@@ -565,7 +565,6 @@ rekƨn 2
 mik 2
 banani 2
 Vamoǩo 2
-ɣidiri 2
 anʒi 2
 Ardza 2
 სო 2
@@ -623,6 +622,7 @@ tetsali 2
 mi 2
 tsxenepi 2
 Ameriǩari 2
+Kƨmort 2
 tesi 2
 kobdziri 2
 Ǩaṫu 2
@@ -642,6 +642,7 @@ gazetis 2
 idioṫi 2
 uuorsu 2
 xodji 2
+varena 2
 epas 2
 p̌roblemepi 2
 uǧudƨ 2
@@ -656,12 +657,15 @@ Mik 2
 Resṫorants 2
 djveshi 2
 ǩirbi 2
+giǧuno 2
 Chkim 2
 Briuselsha 2
 Vari 2
+ɔunso 2
 moǯonʒ 2
 che 2
 Mortzontso 2
+tarnoǧa 2
 ართი 1
 სუმი 1
 ოთხი 1
@@ -974,6 +978,7 @@ ak 1
 funt 1
 meidinu 1
 ulir 1
+ʒanas 1
 Darʒmunebul 1
 koret 1
 koren 1
@@ -1262,7 +1267,6 @@ migu 1
 Sordu 1
 dachxiriki 1
 gorchkindu 1
-vorde 1
 gerǩoçi 1
 muvagvarent 1
 vamichkƨ 1
@@ -2093,7 +2097,8 @@ geerǩvƨ 1
 Ǩontserṫikƨ 1
 Giçhq'olidet 1
 Rula 1
-noxişi 1
+noxishi 1
+ɔidiri 1
 Çƨlata 1
 vedirtƨ 1
 gavagindzari 1
@@ -2612,7 +2617,6 @@ Brilianṫi 1
 Kodzirunk 1
 bordjgi 1
 Sǩantzǩuma 1
-Kƨmort 1
 çkimda 1
 gumiçamu 1
 ortudƨ 1
@@ -2737,6 +2741,7 @@ burgundian 1
 mutuns 1
 vamaç̌u 1
 uparet 1
+ɣidiri 1
 onaxval 1
 vamçinens 1
 gioora 1
@@ -2915,7 +2920,6 @@ gioxunali 1
 ndǧaku 1
 kodoskidu 1
 meunts 1
-varena 1
 maxindjepi 1
 leilas 1
 oǩona 1
@@ -3081,7 +3085,6 @@ bǧurutu 1
 ragadanʒ 1
 akʒenṫit 1
 ადამიერი 1
-giǧuno 1
 Saberdzneti 1
 Prangonaşe 1
 Boşik 1
@@ -3108,7 +3111,6 @@ Hei 1
 melani 1
 ʒiraskuas 1
 Ṫoms 1
-ɔunso 1
 Vamurko 1
 veɔuapu 1
 maǧazias 1
@@ -3253,3 +3255,29 @@ atak 1
 chiat 1
 Etina 1
 chili 1
+Etinas 1
+maɔale 1
+Etinep 1
+shkƨrenulep 1
+rɔunʒo 1
+varda 1
+Prangul 1
+kobal 1
+gemuan 1
+kiblaɔapat 1
+ṫenis 1
+Brisbens 1
+voxorank 1
+Etik 1
+lagosishe 1
+mortƨ 1
+Advoǩaṫi 1
+ɔude 1
+obishxa 1
+Rchkipi 1
+ninepi 1
+Esṫonuro 1
+Vilnius 1
+liṫvash 1
+Tbilisi 1
+sakortuosh 1

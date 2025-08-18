@@ -1,10 +1,10 @@
-je 1148
+je 1149
 se 240
 Ali 238
 v 209
 sem 201
-in 144
-ne 135
+in 145
+ne 136
 Tom 132
 da 128
 so 126
@@ -23,8 +23,8 @@ Kaj 84
 mi 77
 zelo 70
 ki 69
+bi 65
 glavno 65
-bi 64
 Jaz 62
 lahko 54
 Govorim 53
@@ -49,8 +49,8 @@ po 34
 ga 33
 Kdo 32
 ali 32
+Zakaj 32
 Ona 31
-Zakaj 31
 govorim 31
 Danes 30
 s 30
@@ -74,8 +74,8 @@ Ta 24
 Marija 24
 svojo 23
 tvoj 23
+lepa 23
 bom 23
-lepa 22
 veliko 22
 vedno 22
 Kdaj 22
@@ -171,6 +171,7 @@ tudi 11
 A 11
 kitajsko 11
 povedal 10
+ženska 10
 ura 10
 Grem 10
 star 10
@@ -186,7 +187,6 @@ jezikov 10
 danes 10
 slovensko 10
 svoj 9
-ženska 9
 domov 9
 bolj 9
 prišel 9
@@ -805,6 +805,7 @@ radi 3
 Angleščina 3
 Res 3
 poljub 3
+mlada 3
 Imamo 3
 zlata 3
 poti 3
@@ -1209,7 +1210,6 @@ obe 2
 lici 2
 ladja 2
 potrebuje 2
-mlada 2
 O 2
 preživel 2
 Perzijščina 2
@@ -1666,6 +1666,7 @@ tekočina 2
 Zaupaj 2
 Zaupajte 2
 novega 2
+bogata 2
 idejo 2
 sonca 2
 komentarja 2
@@ -3926,7 +3927,6 @@ Stena 1
 držav 1
 morje 1
 Fascinira 1
-bogata 1
 sončnice 1
 vijolice 1
 šmarnice 1
@@ -4915,3 +4915,6 @@ blagajničarka 1
 Znate 1
 blagajničar 1
 cenejšega 1
+izbrali 1
+veselja 1
+Erica 1
