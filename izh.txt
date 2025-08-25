@@ -1,5 +1,5 @@
 ono 140
-Miä 67
+Miä 68
 Foma 56
 koti 50
 Miun 47
@@ -154,6 +154,7 @@ synnynpäivä 3
 zveerit 3
 soittaa 3
 telefonnaa 3
+elän 3
 Vennäen 3
 päälinna 3
 teijen 3
@@ -229,6 +230,7 @@ Joulu 2
 flakku 2
 koin 2
 vanhemmat 2
+kois 2
 miks 2
 duumaa 2
 vois 2
@@ -257,7 +259,6 @@ punain 2
 jos 2
 vihmaa 2
 eikä 2
-elän 2
 elläät 2
 Moskovast 2
 tuli 2
@@ -508,7 +509,6 @@ ossit 1
 omenapuu 1
 saaduus 1
 duumajaat 1
-kois 1
 paha 1
 veeraita 1
 keeliloja 1
@@ -804,3 +804,4 @@ nähä 1
 tähti 1
 töölle 1
 mööhää 1
+suurees 1

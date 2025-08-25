@@ -2,7 +2,7 @@ er 17848
 Jeg 11345
 at 9165
 Tom 8623
-en 8576
+en 8578
 i 8489
 ikke 8109
 har 7658
@@ -12,7 +12,7 @@ det 4922
 på 4914
 og 3905
 for 3865
-jeg 3703
+jeg 3704
 Han 3486
 Det 3468
 var 3382
@@ -27,14 +27,14 @@ Hun 2207
 dig 2016
 om 1953
 Vi 1913
-I 1894
+I 1895
 Mary 1853
 Du 1767
 vil 1756
 han 1689
-som 1673
+som 1674
 så 1656
-min 1594
+min 1595
 ved 1482
 De 1438
 meget 1437
@@ -50,20 +50,20 @@ ham 1070
 Har 1033
 Der 989
 være 981
-havde 976
+havde 977
 Min 956
-din 919
+din 920
 dag 906
 fra 897
 vi 888
 skal 871
 ud 855
 os 842
-går 839
+går 840
 lide 833
 op 821
+have 801
 Den 801
-have 800
 noget 799
 hun 786
 end 771
@@ -97,9 +97,9 @@ dem 511
 ingen 508
 efter 492
 mit 490
+bil 486
 tror 485
 Dette 485
-bil 485
 Lad 477
 elsker 476
 gik 470
@@ -139,7 +139,7 @@ blive 369
 dit 369
 hus 369
 fransk 365
-far 362
+far 363
 set 362
 mor 360
 sit 356
@@ -200,9 +200,9 @@ under 254
 nogle 253
 spise 250
 får 250
+Hans 249
 fik 249
 købte 249
-Hans 248
 venner 247
 lille 243
 hvis 242
@@ -587,10 +587,10 @@ katten 76
 føler 76
 vejret 76
 briller 76
+Gid 76
 måned 75
 dårligt 75
 Ikke 75
-Gid 75
 rig 74
 Mor 74
 Europa 74
@@ -614,12 +614,12 @@ søvn 71
 problemer 71
 forbi 71
 Tak 71
+måtte 71
 køber 71
 glemte 71
 gennem 70
 udenfor 70
 mistede 70
-måtte 70
 heste 70
 slags 70
 sang 70
@@ -928,6 +928,7 @@ inde 44
 savner 44
 forskellige 44
 grønne 44
+videre 44
 biler 43
 tidspunkt 43
 mørkt 43
@@ -950,7 +951,6 @@ tænkt 43
 eget 43
 glæder 43
 Kender 43
-videre 43
 loftet 43
 plan 43
 øjnene 43
@@ -1135,6 +1135,7 @@ procent 34
 biografen 34
 tolv 34
 betalte 34
+Livet 34
 modersmål 34
 leger 34
 ilden 34
@@ -1155,7 +1156,6 @@ hjulpet 34
 smukkeste 33
 aftensmad 33
 regningen 33
-Livet 33
 Toget 33
 telefonnummer 33
 Tager 33
@@ -1231,6 +1231,7 @@ Spis 32
 slår 32
 lukkede 32
 restaurant 32
+vokser 32
 Vent 31
 nå 31
 sød 31
@@ -1264,7 +1265,6 @@ stoppe 31
 planer 31
 mur 31
 smed 31
-vokser 31
 ja 31
 Kig 31
 lastbil 31
@@ -2774,6 +2774,7 @@ sinde 12
 ædelgraner 12
 Fadil 12
 gløgg 12
+ged 12
 kabylske 12
 røræg 12
 Koranen 12
@@ -2978,7 +2979,6 @@ Ha' 11
 Fruen 11
 strikket 11
 Køleskabet 11
-ged 11
 bagefter 11
 plæneklipper 11
 Ester 11
@@ -3295,6 +3295,7 @@ negle 9
 gade 9
 fersk 9
 Lucy 9
+tomater 9
 Fjenden 9
 ansatte 9
 tvinge 9
@@ -3612,7 +3613,6 @@ Krig 8
 kristne 8
 morder 8
 bevidstløs 8
-tomater 8
 savnede 8
 single 8
 begravede 8

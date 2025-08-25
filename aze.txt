@@ -1,5 +1,5 @@
-Tom 886
-Mən 860
+Tom 887
+Mən 861
 O 615
 Bu 587
 var 384
@@ -38,17 +38,17 @@ Bir 98
 edin 97
 yoxdur 96
 o 95
+mən 92
 Mənə 92
 edə 91
-mən 89
 kimi 87
 ən 85
 hər 80
 etdi 79
 da 78
 Nə 77
+deyiləm 75
 Onu 74
-deyiləm 74
 böyük 73
 davam 73
 iki 72
@@ -62,9 +62,9 @@ et 67
 il 66
 bilirəm 66
 edir 64
+sənin 63
 Sənin 61
 artıq 61
-sənin 60
 bilmirəm 58
 kömək 58
 Zəhmət 58
@@ -124,13 +124,13 @@ Bizim 39
 kitab 39
 bilər 39
 paytaxtıdır 39
+sizin 39
 idim 38
 bütün 38
 ol 38
 Bütün 38
 yaşayır 38
 Xahiş 38
-sizin 38
 Əliyev 38
 bilir 37
 sən 37
@@ -222,6 +222,7 @@ Yeni 24
 bax 24
 çoxlu 24
 sadəcə 24
+su 24
 eləyin 24
 səhər 23
 geri 23
@@ -230,7 +231,6 @@ verir 23
 danışır 23
 gəlib 23
 xoş 23
-su 23
 Kim 23
 əlavə 23
 ilin 22
@@ -461,6 +461,7 @@ at 12
 tezliklə 12
 deyə 12
 kişi 12
+soyuqdur 12
 Bazar 12
 edirsən 12
 istədiyini 12
@@ -519,7 +520,6 @@ gələn 11
 gözəldir 11
 dost 11
 Maşın 11
-soyuqdur 11
 ay 11
 açdı 11
 etmədi 11
@@ -773,6 +773,7 @@ tərəf 8
 çıxdı 8
 istəyirlər 8
 biraz 8
+Yox 8
 atam 8
 düşdüm 8
 Avropada 8
@@ -994,6 +995,7 @@ tarixi 6
 qoy 6
 vaxtım 6
 Macarıstanda 6
+iyirmi 6
 Emili 6
 Londonda 6
 Bill 6
@@ -1076,7 +1078,6 @@ etdik 6
 Yaponiyadan 6
 danışmağa 6
 fəxr 6
-Yox 6
 xarici 6
 gəlmək 6
 Əminəm 6
@@ -1208,7 +1209,6 @@ On 5
 Anam 5
 Fransaya 5
 yeddi 5
-iyirmi 5
 Anan 5
 əmim 5
 yaşıldır 5
@@ -1437,6 +1437,7 @@ olduqca 5
 ifa 5
 Düşünmürəm 5
 Ay 5
+vardır 5
 Мән 5
 zamanda 5
 Yanni 5
@@ -1542,6 +1543,7 @@ gözləyir 4
 çaxır 4
 qızdır 4
 otağı 4
+doqquz 4
 evdədir 4
 anam 4
 musiqini 4
@@ -1660,6 +1662,7 @@ Yunanıstan 4
 vermir 4
 gələndə 4
 balacadır 4
+atanam 4
 eşitdim 4
 oxu 4
 ad 4
@@ -1867,6 +1870,7 @@ Fikir 4
 düşündüm 4
 içəri 4
 Spagetti 4
+Türk 4
 olmaqla 4
 xalqına 4
 bəzi 4
@@ -1882,7 +1886,6 @@ dördüncü 4
 güvənirəm 4
 türk 4
 çünki 4
-vardır 4
 дејиләм 4
 Şəhərin 4
 dövründə 4
@@ -2049,7 +2052,6 @@ dükanı 3
 siçan 3
 təmizləyir 3
 gələcəksən 3
-doqquz 3
 Mahnı 3
 altındadır 3
 hovuzda 3
@@ -2568,7 +2570,6 @@ doğrudur 3
 yeyə 3
 Problemin 3
 gözlədik 3
-Türk 3
 salamlarımı 3
 küçədə 3
 əminəm 3
@@ -6182,7 +6183,6 @@ braziliyalıyam 1
 makedon 1
 tələbəyəm 1
 Lyuk 1
-atanam 1
 axmağam 1
 Hələlik 1
 düzünü 1

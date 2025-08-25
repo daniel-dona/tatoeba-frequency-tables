@@ -1,5 +1,5 @@
 jest 177
-Ja 95
+Ja 96
 ne 68
 jesm 54
 Tom 50
@@ -231,6 +231,7 @@ skazal 2
 "magyar" 2
 Francija 2
 drug 2
+jabloko 2
 viděl 2
 kota 2
 viděla 2
@@ -259,6 +260,7 @@ velosiped 2
 novy 2
 pijany 2
 pijana 2
+jem 2
 krasna" 2
 omal 2
 spisu 2
@@ -767,7 +769,6 @@ nauky 1
 větky 1
 togože 1
 drěva 1
-jabloko 1
 banan 1
 pljunula 1
 ryba 1
@@ -945,7 +946,6 @@ izměniti 1
 Japonija 1
 parlamentarne 1
 monarhije 1
-jem 1
 supy 1
 Mlatok 1
 srp 1

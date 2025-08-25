@@ -1,38 +1,38 @@
-je 1149
-se 240
+je 1152
+se 243
 Ali 238
 v 209
 sem 201
-in 145
-ne 136
+in 146
+ne 137
 Tom 132
 da 128
-so 126
+so 128
 na 113
 Ne 95
 mesto 91
 To 90
 za 90
+ni 90
 govorite 90
 si 89
-ni 89
 govoriš 87
 Govoriš 86
 Govorite 86
 Kaj 84
 mi 77
 zelo 70
-ki 69
+ki 70
 bi 65
 glavno 65
 Jaz 62
 lahko 54
+to 53
 Govorim 53
 Kako 52
-to 52
+bo 52
 me 51
-bo 49
-iz 49
+iz 50
 Koliko 48
 moj 45
 ime 45
@@ -40,8 +40,8 @@ z 41
 ima 40
 moja 39
 bil 39
+kot 39
 jezik 39
-kot 38
 Kje 36
 Sem 35
 dan 34
@@ -54,30 +54,30 @@ Ona 31
 govorim 31
 Danes 30
 s 30
+V 29
 ti 29
 živi 29
 vse 29
 Je 28
-V 28
+te 28
+kaj 28
 bila 28
-kaj 27
+več 28
 On 27
 že 27
 ta 27
-več 27
 še 26
 Mary 26
-te 25
+Ta 25
 bilo 25
 Moje 24
-Ta 24
 Marija 24
 svojo 23
 tvoj 23
 lepa 23
+vedno 23
 bom 23
 veliko 22
-vedno 22
 Kdaj 22
 ste 21
 angleško 21
@@ -95,6 +95,7 @@ oče 18
 knjigo 18
 Nisem 18
 Zelo 18
+če 17
 Lahko 17
 nikoli 17
 kar 17
@@ -107,7 +108,6 @@ reče 17
 Ura 17
 o 16
 Prosim 16
-če 16
 Na 16
 Nimam 16
 biti 16
@@ -151,6 +151,7 @@ jaz 12
 ko 12
 življenje 12
 Ti 12
+Nikoli 12
 vas 12
 Bil 12
 morem 12
@@ -162,8 +163,8 @@ mati 11
 časa 11
 Mi 11
 nisem 11
+star 11
 ljudi 11
-Nikoli 11
 prav 11
 videl 11
 prijatelj 11
@@ -174,11 +175,12 @@ povedal 10
 ženska 10
 ura 10
 Grem 10
-star 10
+Če 10
 kako 10
 Vsi 10
 Mislim 10
 denarja 10
+Nič 10
 vsi 10
 le 10
 najboljši 10
@@ -191,7 +193,6 @@ domov 9
 bolj 9
 prišel 9
 med 9
-Če 9
 pesem 9
 ob 9
 let 9
@@ -200,7 +201,6 @@ Nočem 9
 sobi 9
 bomo 9
 mu 9
-Nič 9
 mojega 9
 Življenje 9
 vprašanje 9
@@ -300,6 +300,7 @@ rekla 6
 ampak 6
 gre 6
 dal 6
+videti 6
 gledati 6
 ljubim 6
 mama 6
@@ -325,6 +326,7 @@ leto 6
 človeško 6
 ptica 6
 sama 6
+sin 6
 vseh 6
 rojstni 6
 nas 6
@@ -368,7 +370,6 @@ moral 5
 pomagal 5
 prevesti 5
 skrivnost 5
-videti 5
 srcem 5
 deset 5
 tvoja 5
@@ -410,7 +411,6 @@ sva 5
 New 5
 naredi 5
 vroče 5
-sin 5
 mene 5
 Boga 5
 sprehod 5
@@ -418,6 +418,7 @@ zaspan 5
 otok 5
 mleko 5
 zob 5
+novo 5
 jutro 5
 hebrejsko 5
 hči 5
@@ -489,6 +490,7 @@ Slovenska 4
 skrbi 4
 Potrebujem 4
 vrata 4
+očetu 4
 Končno 4
 petek 4
 hiša 4
@@ -512,6 +514,7 @@ tej 4
 doma 4
 trinajst 4
 pod 4
+Prišel 4
 Mačke 4
 Lačen 4
 čebele 4
@@ -598,7 +601,6 @@ pošlje 4
 naredila 4
 vašega 4
 Mariboru 4
-novo 4
 Pred 4
 novice 4
 denar 4
@@ -653,6 +655,7 @@ mrzla 4
 napake 4
 Tisti 4
 bere 4
+trenutek 4
 Italije 4
 Francije 4
 postaja 4
@@ -700,7 +703,6 @@ mir 3
 Svoboda 3
 trenutno 3
 Svojemu 3
-očetu 3
 Slovnica 3
 on 3
 jeziki 3
@@ -725,7 +727,6 @@ Litva 3
 Nikogar 3
 prihaja 3
 delati 3
-Prišel 3
 24 3
 igra 3
 preprosto 3
@@ -830,6 +831,7 @@ dogaja 3
 poljubil 3
 telefon 3
 težavah 3
+zver 3
 Poišči 3
 Pojdimo 3
 park 3
@@ -898,7 +900,6 @@ Pozdravljen 3
 Budimpešta 3
 Zrak 3
 Eden 3
-trenutek 3
 zapleteno 3
 zadovoljen 3
 Lačna 3
@@ -938,6 +939,7 @@ Možgani 3
 Naša 3
 Srednje 3
 želvo 3
+bile 3
 zaklad 3
 živ 3
 vir 3
@@ -962,6 +964,7 @@ katerega 3
 počutim 3
 inteligenca 3
 morda 3
+skoraj 3
 prevodov 3
 planetu 3
 naučil 3
@@ -969,6 +972,7 @@ zla 3
 besednih 3
 zvez 3
 Pekel 3
+poslal 3
 Marina 3
 Znaš 2
 Ujgur 2
@@ -1116,6 +1120,7 @@ toplo 2
 podobna 2
 mami 2
 začetek 2
+veš 2
 Upam 2
 deževalo 2
 reci 2
@@ -1140,6 +1145,7 @@ rezervacijo 2
 časopis 2
 vedel 2
 nalogo 2
+svojemu 2
 zapustil 2
 preveč 2
 povem 2
@@ -1216,6 +1222,7 @@ Perzijščina 2
 Teheranu 2
 k 2
 kura 2
+glave 2
 fanta 2
 večji 2
 mačk 2
@@ -1611,7 +1618,6 @@ Avokado 2
 Doma 2
 staro 2
 vsako 2
-bile 2
 meči 2
 avokado 2
 predvsem 2
@@ -1658,6 +1664,7 @@ bolje 2
 Hebrejščina 2
 semitski 2
 metra 2
+kruh 2
 stranko 2
 Gost 2
 zvezd 2
@@ -1702,6 +1709,8 @@ portugalščina 2
 revije 2
 Slišal 2
 Kakšna 2
+prišlo 2
+sanje 2
 Te 2
 kmalu 2
 Star 2
@@ -1733,7 +1742,6 @@ pomembno 2
 tujih 2
 istega 2
 Stroj 2
-skoraj 2
 vrsta 2
 jezike 2
 energije 2
@@ -1752,7 +1760,6 @@ verzov 2
 Včasih 2
 sliši 2
 posnetek 2
-poslal 2
 pesmi 2
 beseda: 2
 Toki 2
@@ -1775,6 +1782,7 @@ programsko 2
 Programsko 2
 pojmovati 2
 papeža 2
+nauči 2
 odrasteš 2
 oddaje 2
 nabiralnik 2
@@ -2141,7 +2149,6 @@ dobe 1
 planiraš 1
 Ravno 1
 pravem 1
-veš 1
 zaprejo 1
 odprejo 1
 plačal 1
@@ -2185,7 +2192,6 @@ Gospod 1
 Jackson 1
 nekako 1
 slovničnih 1
-svojemu 1
 sinu 1
 Deževalo 1
 Vohal 1
@@ -2443,7 +2449,6 @@ Vrt 1
 spada 1
 hiši 1
 Naokoli 1
-glave 1
 Jazbec 1
 ugriznil 1
 Kovanec 1
@@ -2704,7 +2709,6 @@ Preprosto 1
 Tuji 1
 zanimivi 1
 zmoreš 1
-zver 1
 prazno 1
 Los 1
 Angeles 1
@@ -3908,7 +3912,6 @@ sobo: 1
 delamo« 1
 Jedli 1
 maslo 1
-kruh 1
 ter 1
 »Kako 1
 ostrižem« 1
@@ -4093,7 +4096,6 @@ cena 1
 Štej 1
 trideset 1
 Štirideset 1
-prišlo 1
 Pritožila 1
 nizko 1
 plačo 1
@@ -4124,7 +4126,6 @@ Zakleni 1
 Solze 1
 napolnile 1
 Stisni 1
-sanje 1
 mokra 1
 kocke 1
 ledu 1
@@ -4779,7 +4780,6 @@ Apetit 1
 Egipt 1
 darilo 1
 Nila 1
-nauči 1
 izgubiti 1
 pokadiš 1
 cigaro 1
@@ -4918,3 +4918,14 @@ cenejšega 1
 izbrali 1
 veselja 1
 Erica 1
+končale 1
+politiki 1
+pobegneš 1
+ujela; 1
+ostaneš 1
+pojedla 1
+Smej 1
+skrajno 1
+nespoštljiva 1
+sporočila 1
+resnice 1

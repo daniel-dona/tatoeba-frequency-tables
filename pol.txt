@@ -1,33 +1,33 @@
-się 16908
-nie 14401
-jest 14179
+się 16911
+nie 14402
+jest 14181
 w 12668
-Tom 11254
+Tom 11257
 na 10658
 Nie 9389
-to 8609
-że 8093
+to 8610
+że 8094
 do 7721
 z 7440
-i 4589
+i 4590
 To 4586
 Czy 4053
 mi 3699
 o 3546
 mnie 3505
-ma 3118
+ma 3119
 co 3037
 On 2928
 za 2837
-jak 2720
+jak 2721
 tego 2566
 po 2508
 Mary 2423
 są 2306
 tym 2037
-W 2030
+W 2031
 bardzo 2030
-był 1834
+był 1835
 od 1825
 tak 1810
 Ona 1741
@@ -37,7 +37,7 @@ już 1595
 ci 1510
 dla 1483
 ale 1473
-Co 1441
+Co 1443
 Toma 1409
 domu 1361
 Mam 1314
@@ -56,7 +56,7 @@ będzie 1144
 Ten 1139
 czy 1115
 sobie 1105
-cię 1071
+cię 1072
 może 1052
 ze 1050
 przez 1048
@@ -77,7 +77,7 @@ Proszę 860
 Kiedy 856
 Mój 850
 Dlaczego 821
-powiedział 803
+powiedział 804
 Ta 800
 dobrze 797
 dużo 787
@@ -86,7 +86,7 @@ nic 773
 Na 761
 wszystko 754
 kiedy 741
-więcej 736
+więcej 737
 jesteś 729
 teraz 722
 Chcę 721
@@ -94,10 +94,10 @@ iść 712
 Gdzie 710
 chce 704
 ją 703
-zawsze 702
+zawsze 703
 a 702
 nas 691
-mówi 687
+mówi 688
 tę 681
 nigdy 676
 ciebie 666
@@ -126,14 +126,14 @@ bez 561
 chcesz 560
 swoje 558
 Po 554
+Jeśli 552
 samochód 552
-Jeśli 551
 dziś 541
 przed 539
 tutaj 537
 Muszę 533
 nam 526
-czas 519
+czas 520
 masz 517
 powiedzieć 511
 Wszyscy 510
@@ -182,8 +182,8 @@ rzeczy 393
 je 393
 szkoły 392
 często 388
+który 386
 gdy 386
-który 385
 pomóc 384
 siebie 382
 - 382
@@ -211,7 +211,7 @@ też 350
 temu 349
 kilka 347
 rano 346
-jeśli 345
+jeśli 346
 mojej 343
 zobaczyć 339
 stanie 336
@@ -274,9 +274,9 @@ Bostonu 277
 jako 276
 właśnie 276
 razy 276
+wygląda 275
 nad 275
 taki 275
-wygląda 274
 Jesteśmy 274
 książki 273
 ludzie 273
@@ -319,10 +319,10 @@ wody 242
 Powinieneś 242
 Naprawdę 241
 angielskiego 240
+prawie 237
 muszę 236
 sposób 236
 miejsce 236
-prawie 236
 psa 235
 zdanie 235
 końcu 233
@@ -344,11 +344,11 @@ twoim 222
 były 220
 Właśnie 219
 porozmawiać 219
+Nic 218
 myśli 218
 zna 218
 Teraz 218
 znaleźć 218
-Nic 217
 tych 216
 grać 216
 świecie 215
@@ -365,12 +365,12 @@ Ktoś 211
 dwie 210
 przyjdzie 210
 imię 210
+Maria 209
 rozumiem 208
 przyjaciół 208
 chodzi 207
 godziny 207
 Będę 207
-Maria 207
 wciąż 206
 widziałem 206
 jeden 205
@@ -531,6 +531,7 @@ wtedy 150
 wiedziałem 150
 kraju 150
 dwóch 149
+powiedziała 149
 chory 149
 szczęśliwy 149
 nowego 149
@@ -538,7 +539,6 @@ ręce 148
 naszej 148
 wyjść 148
 oni 148
-powiedziała 147
 stąd 147
 lub 147
 miejscu 147
@@ -551,13 +551,13 @@ zwykle 145
 twoją 145
 chciałem 145
 podczas 145
+dobrym 145
 Jaka 144
 zostało 144
 temat 144
 ponad 144
 całkiem 144
 którego 144
-dobrym 144
 wziąć 144
 Przez 143
 błąd 143
@@ -650,11 +650,11 @@ Gdybym 126
 Nasz 125
 śnieg 125
 praca 125
+nowe 125
 Myślisz 125
 pić 125
 innego 125
 zdjęcie 124
-nowe 124
 łatwo 124
 Uwielbiam 124
 dlatego 123
@@ -1098,6 +1098,7 @@ strasznie 74
 Woda 74
 wrócić 74
 jednego 74
+chleb 74
 potem 74
 gazetę 73
 20 73
@@ -1111,7 +1112,6 @@ okna 73
 Ich 73
 długi 73
 stół 73
-chleb 73
 myślałem 72
 Niestety 72
 wychodzić 72
@@ -1121,6 +1121,7 @@ powinno 72
 domem 72
 wiedzą 72
 Musiałem 72
+prawdy 72
 obchodzi 72
 stać 72
 drzewo 72
@@ -1133,7 +1134,6 @@ pewny 72
 zakupy 71
 prawdą 71
 szpitala 71
-prawdy 71
 błędów 71
 nosi 71
 wakacje 71
@@ -1255,6 +1255,7 @@ Oboje 65
 jednej 65
 spacer 65
 powiedzieli 65
+myślał 65
 wolne 64
 Francji 64
 siedzi 64
@@ -1273,7 +1274,6 @@ samochodzie 64
 zacząć 64
 czymś 64
 chciałby 64
-myślał 64
 sprawa 63
 idę 63
 nowej 63
@@ -1391,6 +1391,7 @@ wątpliwości 58
 poczekać 58
 Według 58
 czeka 58
+sen 58
 ciemno 58
 spotkaniu 58
 Zgubiłem 58
@@ -1413,7 +1414,6 @@ takich 57
 szczęśliwa 57
 Miło 57
 widzi 57
-sen 57
 granicą 57
 kwiatów 57
 butelkę 57
@@ -1480,6 +1480,7 @@ Ciągle 55
 zamiast 55
 śniegu 55
 daj 55
+skończył 55
 podróżować 55
 ktokolwiek 55
 znał 55
@@ -1504,7 +1505,6 @@ sport 54
 gotować 54
 miesiące 54
 pięciu 54
-skończył 54
 statek 54
 wyjaśnić 54
 duża 54
@@ -2653,6 +2653,7 @@ spokojnie 29
 jasno 29
 Wyszedł 29
 ożenić 29
+płynnie 29
 Zakładam 29
 Obie 29
 radia 29
@@ -2731,7 +2732,6 @@ Hiszpanii 28
 dworze 28
 wolniej 28
 wierzą 28
-płynnie 28
 poznałem 28
 przeprosić 28
 poprzez 28
@@ -2955,6 +2955,7 @@ roweru 26
 prawdziwa 26
 ostrożnie 26
 znaczków 26
+mężem 26
 szczyt 26
 wyjątkowo 26
 Firma 26
@@ -2984,6 +2985,7 @@ drinka 26
 wybrany 26
 słowami 26
 żółty 26
+językami 26
 formularz 26
 według 26
 "Czy 26
@@ -3062,7 +3064,6 @@ aktorką 25
 spóźnić 25
 brudna 25
 Studenci 25
-mężem 25
 cierpliwość 25
 dziwnego 25
 lekarstwa 25
@@ -3091,7 +3092,6 @@ sytuację 25
 przyjemność 25
 doszło 25
 Całe 25
-językami 25
 kartę 25
 przerwy 25
 dziurę 25
@@ -3206,6 +3206,7 @@ zamknięty 24
 rzeczywiście 24
 wytrzymać 24
 przyzwyczajony 24
+oczywiście 24
 małżeństwem 24
 grasz 24
 Zagrajmy 24
@@ -3282,6 +3283,7 @@ naszymi 23
 samobójstwo 23
 Śmierć 23
 ptaka 23
+zostaniesz 23
 spojrzeć 23
 pasują 23
 naprawy 23
@@ -3322,7 +3324,6 @@ rozmowy 23
 pogodę 23
 odwagi 23
 lepsza 23
-oczywiście 23
 pamiętasz 23
 śmierdzi 23
 czytał 23
@@ -3414,7 +3415,6 @@ niebezpieczeństwie 22
 Słyszę 22
 zobaczymy 22
 zaprosić 22
-zostaniesz 22
 wieś 22
 najgorsze 22
 klientów 22
@@ -4737,6 +4737,7 @@ poetą 15
 cieplej 15
 rozwoju 15
 otrzymać 15
+polityce 15
 tendencję 15
 fabryce 15
 choćby 15
@@ -5022,7 +5023,6 @@ dziura 14
 Czytanie 14
 adwokatem 14
 słuch 14
-polityce 14
 japońskiej 14
 Grupa 14
 poszły 14
@@ -5944,6 +5944,7 @@ zdrowo 12
 zadowolonego 12
 wesele 12
 wybaczyć 12
+mężatką 12
 bądźcie 12
 niższy 12
 Pracujesz 12
@@ -6436,7 +6437,6 @@ sądu 11
 Piękny 11
 zamieszkać 11
 dziewczynką 11
-mężatką 11
 Chodzi 11
 Singapurze 11
 policzek 11
@@ -7121,6 +7121,7 @@ zwrot 10
 Uczysz 10
 wyspą 10
 strój 10
+iż 10
 zapominam 10
 zapomniałam 10
 snem 10
@@ -7821,7 +7822,6 @@ Błogosławieni 9
 spędzam 9
 lubicie 9
 jasny 9
-iż 9
 próbują 9
 spaceru 9
 mieszkałeś 9
@@ -8589,6 +8589,7 @@ mordercą 8
 opuścili 8
 Wilk 8
 pomysłu 8
+ucz 8
 mniejsza 8
 Sport 8
 Potrzebują 8
@@ -9044,6 +9045,7 @@ podwyżki 7
 łamać 7
 operacja 7
 trzymała 7
+trzema 7
 Zaśpiewaj 7
 milczy 7
 Otworzył 7
@@ -9530,7 +9532,6 @@ narciarskie 7
 płatności 7
 dzisiejsza 7
 brzmieć 7
-ucz 7
 krzycz 7
 złamać 7
 kodu 7
@@ -9713,6 +9714,7 @@ wyszłam 7
 serem 7
 lokalnej 7
 Pobrali 7
+Nadszedł 7
 uwolnić 7
 rosyjskiego 7
 Robiłam 7
@@ -9996,5 +9998,3 @@ wazonu 6
 zabicia 6
 kupujemy 6
 tuziny 6
-opór 6
-społeczne 6

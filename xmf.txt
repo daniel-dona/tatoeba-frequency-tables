@@ -1,7 +1,7 @@
-Ma 263
+Ma 264
 re 153
 Tom 60
-Si 53
+Si 54
 Toms 42
 Tkva 37
 do 36
@@ -13,17 +13,17 @@ vare 29
 si 27
 moǩo 25
 tena 25
-Tina 25
 oǩo 24
+Tina 24
 Tomi 23
 vorek 22
 taki 21
 Tis 21
 Chkimi 20
 reno 20
+Chki 19
 skani 19
 Te 19
-Chki 18
 chkimi 18
 tom 17
 rdu 17
@@ -33,10 +33,10 @@ tina 17
 tis 16
 vore 15
 So 15
+Tomik 15
 ragadi 15
 რე 14
 Çki 14
-Tomik 14
 dǧas 14
 მა 13
 djgiri 13
@@ -51,8 +51,8 @@ ula 12
 rena 12
 Ase 11
 ɣudes 11
+xvale 11
 bordji 11
-xvale 10
 Tiki 10
 toms 10
 arto 10
@@ -66,13 +66,13 @@ so 9
 reki 9
 Djgiri 9
 para 9
+Tomk 9
 djoǧori 8
 glaxa 8
 ç̌ita 8
 Ko 8
 voreki 8
 Amdǧa 8
-Tomk 8
 tomi 8
 ვორექ 7
 skvami 7
@@ -103,6 +103,7 @@ amdǧa 6
 dudi 6
 Ç̌umani 6
 ren 6
+midartƨ 6
 reko 6
 თენა 5
 ჩქი 5
@@ -139,7 +140,6 @@ miɣorsu 5
 vamoǩo 5
 osuri 5
 Çkimi 5
-midartƨ 5
 dzalami 5
 nina 5
 miɔors 5
@@ -167,6 +167,7 @@ mapu 4
 Migaxvamant 4
 Namu 4
 ǧvini 4
+teki 4
 pranguli 4
 Sami 4
 reto 4
@@ -182,6 +183,7 @@ miçku 4
 rdƨ 4
 uǩuli 4
 axal 4
+vorekƨ 4
 vamiçkƨ 4
 uudes 4
 çkaras 4
@@ -206,6 +208,7 @@ djima 3
 muzhamsƨt 3
 Tkvan 3
 sakvars 3
+ip̌it 3
 Yanni 3
 rdasin 3
 Musho 3
@@ -235,7 +238,6 @@ gvalo 3
 Mus 3
 tzq'ari 3
 Tik 3
-teki 3
 xuti 3
 uǩaxle 3
 kianas 3
@@ -272,7 +274,6 @@ Tzq'inaro 3
 Ina 3
 zhiri 3
 miçkƨ 3
-vorekƨ 3
 Sode 3
 ragadanko 3
 aǧani 3
@@ -343,7 +344,6 @@ vamushens 2
 vamiors 2
 noǧas 2
 Art 2
-ip̌it 2
 mushens 2
 skvam 2
 muzhams 2
@@ -420,7 +420,6 @@ Asho 2
 gursheni 2
 moǩodƨ 2
 Tkvani 2
-brindjis 2
 bǧoli 2
 Atena 2
 umosi 2
@@ -606,6 +605,7 @@ Tişi 2
 mosaç̌iru 2
 vausxunu 2
 Muşi 2
+Etina 2
 miɔorsu 2
 doxturi 2
 ip̌ik 2
@@ -664,6 +664,7 @@ Vari 2
 ɔunso 2
 moǯonʒ 2
 che 2
+geshu 2
 Mortzontso 2
 tarnoǧa 2
 ართი 1
@@ -1209,6 +1210,7 @@ rie 1
 miyazawa 1
 Ondjuasho 1
 doireǩƨ 1
+brindjis 1
 koç̌ǩƨmnano 1
 vamoinṫeresƨ 1
 maɣvilari 1
@@ -2947,7 +2949,7 @@ Vamichk 1
 soureshe 1
 Gamorsxa 1
 vamosaç̌iruna 1
-lima 1
+lƨma 1
 Uɔors 1
 ʒimuash 1
 mapudes 1
@@ -3027,6 +3029,7 @@ Kirsiano 1
 mirdƨ 1
 vaiǧolamƨna 1
 bç̌ǩumu 1
+orƨzas 1
 ç̌ǩomuns 1
 tsxeni 1
 Vegiatsiganat 1
@@ -3145,7 +3148,6 @@ voǩitxuk 1
 Meri 1
 Gegshichini 1
 Motmena 1
-geshu 1
 migexvarebuku 1
 Zuǧas 1
 ǩoǩiepi 1
@@ -3253,7 +3255,6 @@ atena 1
 atak 1
 Ǩunṫa 1
 chiat 1
-Etina 1
 chili 1
 Etinas 1
 maɔale 1
@@ -3281,3 +3282,12 @@ Vilnius 1
 liṫvash 1
 Tbilisi 1
 sakortuosh 1
+gichku 1
+mushen 1
+sumish 1
+gverdis 1
+Etinepi 1
+vauǩinana 1
+tutumʒ 1
+sp̌orṫsmen 1
+Shurume 1

@@ -1,5 +1,5 @@
 je 455
-se 172
+se 173
 sam 165
 u 161
 da 135
@@ -8,7 +8,7 @@ na 105
 Tom 88
 su 68
 ne 62
-i 58
+i 59
 Ne 57
 nije 52
 Ja 49
@@ -913,6 +913,7 @@ Jeste 2
 doručkovali 2
 prozor 2
 nje 2
+uči 2
 jednu 2
 njegovoj 2
 pokazati 2
@@ -2734,7 +2735,6 @@ davno 1
 Vrata 1
 otvaraju 1
 duže 1
-uči 1
 svirati 1
 glasovir 1
 Nestalo 1
@@ -3189,3 +3189,4 @@ trojstvo 1
 Svijeća 1
 mog 1
 uskoro 1
+Smiješi 1

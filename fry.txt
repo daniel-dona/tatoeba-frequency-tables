@@ -7,7 +7,7 @@ it 65
 fan 64
 net 56
 út 39
-en 36
+en 37
 It 33
 dat 33
 De 32
@@ -204,6 +204,7 @@ Grins 3
 Grinslânsk 3
 freed 3
 auto 3
+lear 3
 Oaljefanten 3
 ite 3
 Har 3
@@ -338,7 +339,6 @@ Feriene 2
 wurk 2
 moderne 2
 grutste 2
-lear 2
 neamd 2
 Kanada 2
 Berlyn 2
@@ -1318,3 +1318,4 @@ sinnepanielen 1
 koene 1
 brûkt 1
 Sipels 1
+Glimkje 1

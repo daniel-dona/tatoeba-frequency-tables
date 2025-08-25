@@ -1,6 +1,6 @@
-esas 3174
-Me 2508
-la 2353
+esas 3176
+Me 2509
+la 2354
 ne 1442
 Tom 1173
 La 1118
@@ -12,7 +12,7 @@ havas 653
 en 642
 Il 498
 vu 481
-Ni 458
+Ni 459
 ke 457
 mea 426
 a 417
@@ -81,9 +81,9 @@ Quo 103
 maxim 103
 omna 102
 ankore 102
+Ca 98
 sur 97
 mustas 97
-Ca 97
 per 96
 ma 95
 nun 94
@@ -181,9 +181,9 @@ o 47
 Bona 46
 viro 46
 lua 46
+facis 46
 ulo 45
 Ilua 45
-facis 45
 drinkas 45
 arivis 44
 importanta 44
@@ -901,6 +901,7 @@ vespere 8
 moderna 8
 sat 8
 utila 8
+l'amoro 8
 rare 8
 New 8
 York 8
@@ -1002,7 +1003,6 @@ salvis 7
 l'aquo 7
 deskovris 7
 explikar 7
-l'amoro 7
 ti 7
 Jim 7
 serchis 7
@@ -1550,6 +1550,7 @@ serchanta 4
 dek-e-quar 4
 komencez 4
 radio 4
+neposibla 4
 oportas 4
 mankas 4
 igas 4
@@ -1833,6 +1834,7 @@ beladamo 4
 parlamentala 4
 militarala 4
 kulpo 4
+traduko 4
 L'ucelo 4
 genuo 4
 Pano 4
@@ -1876,7 +1878,6 @@ toalo 3
 pensi 3
 reparar 3
 sequar 3
-neposibla 3
 riskar 3
 l'unesma 3
 questionez 3
@@ -2429,7 +2430,6 @@ viktimo 3
 solaneo 3
 impero 3
 luni 3
-traduko 3
 naturala 3
 prudenta 3
 falkono 3
@@ -8843,3 +8843,4 @@ charjita 1
 infinita 1
 Europano 1
 elfi 1
+tamburisto 1

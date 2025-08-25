@@ -1,9 +1,9 @@
-on 28942
+on 28944
 ei 10583
 Tom 9670
-Hän 8298
+Hän 8299
 että 6803
-ja 6792
+ja 6793
 Tomi 6361
 ole 6228
 oli 5654
@@ -12,7 +12,7 @@ Minä 4472
 Se 3745
 hän 3542
 se 3378
-kuin 3292
+kuin 3293
 Olen 2969
 ovat 2882
 sinä 2866
@@ -55,7 +55,7 @@ siitä 1341
 olet 1336
 sinua 1307
 Mari 1253
-olisi 1250
+olisi 1251
 Sinun 1236
 Me 1224
 täytyy 1196
@@ -67,8 +67,8 @@ pitää 1130
 kaikki 1122
 vielä 1097
 Oletko 1092
-tämän 1080
-Miksi 1074
+tämän 1081
+Miksi 1075
 Tomilla 1061
 mennä 1059
 aina 1059
@@ -77,7 +77,7 @@ sinulle 1037
 Jos 1036
 häntä 1034
 Sinä 1026
-jos 1020
+jos 1021
 jo 971
 Ei 967
 pitäisi 961
@@ -98,8 +98,8 @@ jotain 815
 sinulla 810
 puhua 795
 On 794
+te 788
 tietää 787
-te 787
 liian 777
 Tomia 757
 Tomille 744
@@ -118,7 +118,7 @@ koko 668
 sitten 661
 aikaa 659
 hänet 649
-hänelle 636
+hänelle 637
 meni 628
 tai 610
 Marin 608
@@ -197,8 +197,8 @@ jotka 406
 tästä 404
 tänä 398
 Olemme 398
+Anna 398
 myös 397
-Anna 397
 jonka 396
 vuonna 395
 kertoa 393
@@ -390,12 +390,12 @@ voisi 223
 lisää 223
 otti 222
 aikaisemmin 221
+voit 220
 tekemään 220
 Tomista 220
 lähti 219
 ketään 219
 poika 219
-voit 219
 teitä 219
 liikaa 218
 uusi 218
@@ -425,11 +425,11 @@ auto 204
 vaikuttaa 203
 Minkä 203
 iso 202
+anteeksi 201
 oikeasti 201
 teet 200
 myöhässä 200
 tällä 200
-anteeksi 200
 kissa 199
 lukea 199
 ainoa 198
@@ -552,7 +552,7 @@ vasta 157
 Menen 157
 muista 156
 Oliko 156
-kieli 155
+kieli 156
 näki 155
 teetä 154
 kiinnostunut 154
@@ -872,6 +872,7 @@ näe 99
 mukana 99
 vaikutti 99
 Näyttää 99
+lauseen 99
 huolta 98
 hetki 98
 silmät 98
@@ -881,7 +882,6 @@ viimeinen 98
 kävellä 98
 Tatoeba 98
 Viime 98
-lauseen 98
 olekin 98
 katsomaan 98
 pystynyt 98
@@ -3836,6 +3836,7 @@ pyörää 21
 Sanoiko 21
 virhettä 21
 kaikkiaan 21
+englanti 21
 lukemisen 21
 loistaa 21
 lapsesi 21
@@ -4004,7 +4005,6 @@ Tahdotko 20
 lukiossa 20
 kaloja 20
 puolestasi 20
-englanti 20
 petti 20
 Vie 20
 hiljaista 20
@@ -5286,6 +5286,7 @@ matkalaukkusi 15
 siten 15
 mereen 15
 miesten 15
+syytön 15
 seuraavaan 15
 yksityiskohtaisesti 15
 avainta 15
@@ -5619,7 +5620,6 @@ avustasi 14
 avaimensa 14
 luokallaan 14
 muihin 14
-syytön 14
 löytäminen 14
 ketä 14
 alastomana 14
@@ -6286,6 +6286,7 @@ Nuoret 12
 Oppilaat 12
 flunssaa 12
 läheinen 12
+Metsässä 12
 kirsikkapuun 12
 ilme 12
 oudon 12
@@ -6812,7 +6813,6 @@ taksilla 11
 elän 11
 uransa 11
 historiaa 11
-Metsässä 11
 Ajoin 11
 Koulumme 11
 Kulta 11
@@ -8885,6 +8885,7 @@ yritämme 8
 yksityiskohtia 8
 petä 8
 matkustajaa 8
+opi 8
 silmälasini 8
 vuokra 8
 Dinosaurukset 8
@@ -9087,6 +9088,7 @@ matkustaminen 8
 Linnunrata 8
 hymyilivät 8
 hiljaisuus 8
+vaikeampi 8
 tuhoutui 8
 mukavaksi 8
 Näissä 8
@@ -9716,6 +9718,7 @@ käsittää 8
 Juoskaa 8
 tuunata 8
 älyttömän 8
+Ymmärrättekö 8
 poro 8
 selvinnyt 8
 hehkua 8
@@ -9982,7 +9985,6 @@ tarkkaa 7
 kunniaa 7
 miellyttävää 7
 julistaa 7
-opi 7
 villieläimiä 7
 kirjoihin 7
 puhelimella 7
@@ -9996,5 +9998,3 @@ tuhoa 7
 saadaan 7
 vessaa 7
 passisi 7
-Maanjäristys 7
-Näytin 7

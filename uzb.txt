@@ -2,7 +2,7 @@ Men 77
 Bu 72
 U 66
 Tom 36
-bor 33
+bor 34
 bir 29
 edi 27
 bilan 26
@@ -185,6 +185,7 @@ qizil 3
 Hayirli 3
 Денгизда 3
 бормоқчи 3
+yigirma 3
 o'lasan 3
 Yordam 3
 xohlaysan 3
@@ -344,7 +345,6 @@ tong 2
 ёқади 2
 чиқмоқчи 2
 Yoshim 2
-yigirma 2
 o'pdi 2
 yeysan 2
 O'rmonda 2
@@ -2498,3 +2498,7 @@ himoya 1
 ko‘rishaylik 1
 dog‘ni 1
 tashlash 1
+Turk 1
+alifbosida 1
+toʻqqizta 1
+harf 1

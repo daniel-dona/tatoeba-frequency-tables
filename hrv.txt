@@ -1,5 +1,5 @@
 je 1808
-se 674
+se 675
 u 587
 sam 489
 da 444
@@ -7,7 +7,7 @@ li 411
 na 355
 ne 308
 Tom 287
-i 257
+i 258
 mi 233
 su 228
 Ne 201
@@ -1155,6 +1155,7 @@ učio 4
 primjer 4
 mojoj 4
 vozi 4
+uči 4
 poslao 4
 Učinio 4
 dečka 4
@@ -1559,7 +1560,6 @@ Zemlje 3
 probudio 3
 slušati 3
 zarađuje 3
-uči 3
 Vlada 3
 Po 3
 rijetko 3
@@ -8683,3 +8683,4 @@ Marije 1
 promjer 1
 Jelda 1
 Lažeš 1
+Smješkaj 1

@@ -1,19 +1,19 @@
-le 14819
-es 10760
-un 8783
+le 14825
+es 10766
+un 8787
 de 8202
 ha 5902
-Le 5629
-Io 5136
-in 5065
+Le 5630
+Io 5138
+in 5067
 non 4842
 que 4725
 e 3408
 del 3219
 a 3111
-tu 2861
+tu 2862
 Tom 2770
-Ille 2221
+Ille 2222
 me 2077
 io 1939
 Il 1805
@@ -21,12 +21,12 @@ su 1738
 al 1713
 lo 1709
 se 1705
-vos 1688
+vos 1689
 pro 1574
 con 1504
 plus 1426
 ille 1391
-pote 1217
+pote 1218
 mi 1211
 nos 1181
 esseva 1121
@@ -36,7 +36,7 @@ iste 1009
 per 1007
 te 1001
 Tu 1000
-como 987
+como 989
 il 905
 Illa 899
 Esque 805
@@ -51,7 +51,7 @@ Que 676
 esser 664
 debe 662
 multe 658
-Mi 645
+Mi 646
 Isto 630
 Illes 604
 qui 585
@@ -67,7 +67,7 @@ tote 532
 bon 530
 Vos 525
 va 520
-Non 513
+Non 514
 In 503
 lingua 500
 si 499
@@ -78,12 +78,12 @@ place 460
 illa 455
 casa 454
 o 454
-parla 431
+parla 432
 ama 429
+vita 428
 mundo 427
-vita 427
 illes 424
-vostre 418
+vostre 419
 altere 413
 ma 412
 belle 412
@@ -179,9 +179,9 @@ infantes 184
 tres 182
 the 182
 importante 181
+ora 181
 matre 181
 parolas 181
-ora 180
 alicun 176
 fin 175
 cata 174
@@ -204,10 +204,10 @@ citate 157
 nomine 156
 musica 156
 difficile 156
+auto 155
 poteva 155
 vermente 154
 cognosce 153
-auto 153
 terra 153
 schola 152
 nocte 152
@@ -316,10 +316,10 @@ sed 101
 Pote 101
 urbe 101
 deman 100
+merda 100
 deveni 99
 Toto 99
 Quante 99
-merda 97
 filio 96
 ibi 96
 momento 96
@@ -368,10 +368,10 @@ quatro 85
 usa 85
 Necuno 85
 ni 85
+soror 84
 justo 84
 travalio 84
 verde 83
-soror 83
 lecto 83
 apprende 83
 anima 83
@@ -495,6 +495,7 @@ secunde 62
 volerea 62
 typo 62
 insimul 62
+placerea 62
 Vostre 62
 usate 62
 foras 61
@@ -508,7 +509,6 @@ capillos 60
 amica 60
 strata 60
 differente 60
-placerea 60
 ipse 60
 international 59
 glacie 59
@@ -532,6 +532,7 @@ novo 58
 traino 57
 time 57
 stupide 57
+Me 57
 football 57
 parentes 57
 Francia 57
@@ -550,7 +551,6 @@ error 55
 pluvia 55
 reguarda 55
 latere 55
-Me 55
 certe 55
 inseniante 55
 audir 55
@@ -670,6 +670,7 @@ fenestra 47
 campo 47
 profunde 47
 calide 46
+Ora 46
 Statos 46
 perder 46
 obscur 46
@@ -701,7 +702,6 @@ minutas 45
 dubita 45
 natural 45
 uso 45
-Ora 44
 successo 44
 frigide 44
 nasceva 44
@@ -853,6 +853,7 @@ visitara 36
 poneva 36
 visitava 36
 contar 36
+pomos 36
 attende 36
 America 36
 studentes 36
@@ -877,7 +878,6 @@ false 35
 facerea 35
 Europa 35
 canta 35
-pomos 35
 suppa 35
 viveva 35
 cadite 35
@@ -973,6 +973,7 @@ novas 31
 car 31
 patiente 31
 costume 31
+sortir 31
 tracta 31
 China 31
 No 31
@@ -999,7 +1000,6 @@ totalmente 30
 cognoscer 30
 – 30
 cessava 30
-sortir 30
 rhythmo 30
 corbe 30
 retardo 30
@@ -1019,6 +1019,7 @@ experientia 30
 scripte 30
 final 30
 occurre 30
+alimento 30
 contente 30
 meditar 30
 nahuatl 30
@@ -1060,7 +1061,6 @@ deserto 29
 Ante 29
 debera 29
 representa 29
-alimento 29
 totos 29
 evenite 29
 etc 29
@@ -1136,6 +1136,7 @@ Alcuno 26
 maestro 26
 mesura 26
 aspecto 26
+tue 26
 importantia 26
 ganiar 26
 mitte 26
@@ -1190,7 +1191,6 @@ Poterea 25
 region 25
 cultura 25
 theoria 25
-tue 25
 preoccupa 25
 plorar 25
 ovos 25
@@ -1277,6 +1277,7 @@ correcte 24
 principio 24
 eterne 24
 amicas 24
+Totos 24
 IALA 24
 construction 23
 arrivara 23
@@ -1321,7 +1322,6 @@ fiction 23
 medietate 23
 currente 23
 absolute 23
-Totos 23
 nord 23
 nepto 23
 Joe 23
@@ -1705,6 +1705,7 @@ collinas 17
 temperatura 17
 recerca 17
 elephantes 17
+deliciose 17
 argento 17
 canto 17
 cessar 17
@@ -1793,7 +1794,6 @@ vicinitate 16
 nederlandese 16
 detalios 16
 nova 16
-deliciose 16
 responsabilitate 16
 Chile 16
 autos 16
@@ -3224,6 +3224,7 @@ pasta 8
 postmoderne 8
 attendite 8
 Moscova 8
+mangiara 8
 Apprende 8
 imaginari 8
 Turchia 8
@@ -3595,7 +3596,6 @@ trovarea 7
 conferentia 7
 ananas 7
 astronomia 7
-mangiara 7
 gravide 7
 27 7
 disveloppate 7
