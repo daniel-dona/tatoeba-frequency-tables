@@ -1,28 +1,28 @@
-esas 3176
-Me 2509
-la 2354
+esas 3181
+Me 2510
+la 2355
 ne 1442
-Tom 1173
-La 1118
+Tom 1176
+La 1119
 me 957
-tu 947
-Ka 816
+tu 948
+Ka 819
 es 761
 havas 653
-en 642
+en 643
 Il 498
-vu 481
+vu 482
+ke 460
 Ni 459
-ke 457
 mea 426
-a 417
-di 412
+a 418
+di 413
 esis 401
 volas 374
 e 373
 povas 328
 tre 313
-Tu 309
+Tu 310
 por 291
 il 281
 Mea 280
@@ -32,9 +32,9 @@ plu 241
 kun 233
 savas 228
 de 217
+ni 209
 bona 209
-ni 208
-vi 206
+vi 207
 tua 201
 To 199
 Li 193
@@ -57,12 +57,12 @@ Qua 141
 Ube 139
 Pro 137
 Mary 135
-Vu 132
+Vu 133
 granda 131
 Elu 129
 Esas 128
 multa 124
-pensas 119
+pensas 122
 kato 119
 hike 118
 vua 116
@@ -77,9 +77,9 @@ pro 105
 quon 105
 du 105
 ca 104
+omna 103
 Quo 103
 maxim 103
-omna 102
 ankore 102
 Ca 98
 sur 97
@@ -116,7 +116,7 @@ homi 76
 su 75
 devas 74
 vivo 73
-dil 72
+dil 73
 nomesas 71
 sen 70
 un 70
@@ -151,9 +151,9 @@ tempo 57
 Nulu 56
 nultempe 56
 ye 56
+Deo 56
 Omna 55
 tante 55
-Deo 55
 amiki 54
 habitas 54
 tri 54
@@ -161,9 +161,9 @@ irar 53
 vidas 53
 ibe 53
 kafeo 52
+Vi 51
 Kande 51
 fratino 51
-Vi 50
 morge 50
 laboro 50
 En 50
@@ -372,6 +372,7 @@ irga 22
 omni 22
 tra 22
 Lo 22
+Anke 22
 semano 22
 flori 22
 irgo 22
@@ -386,7 +387,6 @@ fumar 21
 povus 21
 esperas 21
 dormar 21
-Anke 21
 ipsa 21
 trovar 21
 enorma 21
@@ -421,6 +421,7 @@ audis 19
 voyo 19
 donis 19
 hotelo 19
+donas 19
 chefo 19
 Angla 19
 Nun 19
@@ -434,7 +435,6 @@ kloki 18
 stupida 18
 studiar 18
 plena 18
-donas 18
 omnu 18
 mustis 18
 manjar 18
@@ -563,6 +563,7 @@ helpas 14
 apud 14
 koloro 14
 Plu 14
+floro 14
 religio 14
 obliviis 14
 Hundi 14
@@ -604,7 +605,6 @@ komprenis 13
 facos 13
 buxo 13
 mentiis 13
-floro 13
 sango 13
 Judaismo 13
 ociema 13
@@ -869,6 +869,7 @@ furtis 9
 pladi 9
 ploris 9
 amo 9
+espero 9
 Hispana 9
 Sen 9
 jaluza 9
@@ -965,7 +966,6 @@ male 8
 simii 8
 pasas 8
 depos 8
-espero 8
 frukti 8
 fore 8
 miniona 8
@@ -1033,6 +1033,7 @@ nombro 7
 promenis 7
 Nur 7
 populara 7
+homaro 7
 serchar 7
 kombatar 7
 Oportas 7
@@ -1185,11 +1186,11 @@ eroro 6
 duktas 6
 Jane 6
 arto 6
+augmentas 6
 cesos 6
 klefo 6
 chanco 6
 kredar 6
-homaro 6
 frati 6
 edifico 6
 profunda 6
@@ -1243,6 +1244,7 @@ dop 6
 stelo 6
 Sizez 6
 regardez 6
+manjebla 6
 tradukuro 6
 mama 6
 prenis 6
@@ -1310,6 +1312,7 @@ divenas 5
 aganta 5
 nervoza 5
 vane 5
+savo 5
 dicez 5
 aceptas 5
 Hokkaido 5
@@ -1346,7 +1349,6 @@ apene 5
 Muziko 5
 konocata 5
 lore 5
-augmentas 5
 Nova 5
 kamizo 5
 Finlandana 5
@@ -1450,7 +1452,6 @@ Karl 5
 meritas 5
 oblivios 5
 amata 5
-manjebla 5
 ringo 5
 lenta 5
 Ulo 5
@@ -1476,7 +1477,9 @@ montras 5
 homini 5
 dejuno 5
 donacis 5
+momento 5
 estas 5
+L'amoro 5
 Nord-Korea 5
 injenioro 5
 serioza 5
@@ -1555,7 +1558,6 @@ oportas 4
 mankas 4
 igas 4
 L'aquo 4
-savo 4
 nebulo 4
 departar 4
 formo 4
@@ -1778,10 +1780,8 @@ fragi 4
 latrino 4
 truo 4
 cesas 4
-momento 4
 esabis 4
 Tomo 4
-L'amoro 4
 nepoto 4
 pafos 4
 patri 4
@@ -1848,6 +1848,7 @@ mielo 4
 armi 4
 Frapez 4
 Unionesez 4
+aroganta 4
 bordo 4
 acendis 4
 komfortigas 4
@@ -2499,6 +2500,7 @@ sidili 3
 libron 3
 komforto 3
 kalzi 3
+halucinas 3
 acidente 2
 egalesas 2
 mortonta 2
@@ -8387,7 +8389,6 @@ Homini 1
 importus 1
 Turismo 1
 terorismo 1
-aroganta 1
 individuo 1
 neemployeso 1
 Firefox 1
@@ -8844,3 +8845,6 @@ infinita 1
 Europano 1
 elfi 1
 tamburisto 1
+ebriesas 1
+radiko 1
+leondento 1

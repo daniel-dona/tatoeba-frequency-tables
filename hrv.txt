@@ -1,4 +1,4 @@
-je 1808
+je 1809
 se 675
 u 587
 sam 489
@@ -132,6 +132,7 @@ auto 27
 mogao 27
 Molim 27
 danas 27
+život 27
 ovaj 26
 vrata 26
 po 26
@@ -140,7 +141,6 @@ vas 26
 dvije 26
 godina 26
 pomoći 26
-život 26
 učiniti 26
 Dobro 25
 joj 25
@@ -8684,3 +8684,4 @@ promjer 1
 Jelda 1
 Lažeš 1
 Smješkaj 1
+Svjetlost 1

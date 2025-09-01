@@ -1,10 +1,10 @@
-es 3435
-Yo 2524
-un 1993
-li 1817
+es 3438
+Yo 2525
+un 1994
+li 1818
 Tom 1623
 ne 1505
-Li 860
+Li 861
 in 830
 tu 802
 have 767
@@ -13,7 +13,7 @@ Il 712
 ha 666
 esset 636
 que 593
-de 588
+de 590
 Ella 509
 to 505
 quo 462
@@ -40,7 +40,7 @@ su 284
 por 264
 Mary 257
 pri 253
-con 245
+con 246
 plu 237
 il 233
 quam 233
@@ -91,7 +91,7 @@ cité 98
 fa 97
 dom 93
 habita 93
-se 92
+se 93
 Qui 88
 vive 88
 lingue 87
@@ -255,6 +255,7 @@ amica 30
 question 30
 audit 30
 obliviat 30
+chascun 30
 labor 30
 genitores 30
 devenit 30
@@ -268,7 +269,6 @@ lingues 29
 maritat 29
 espera 29
 mortat 29
-chascun 29
 denov 29
 sembla 29
 Germania 28
@@ -293,6 +293,7 @@ bebé 26
 ante 26
 cantar 26
 blu 26
+Deo 26
 Si 26
 propri 26
 self 26
@@ -306,7 +307,6 @@ malad 26
 telefonat 26
 pom 25
 hom 25
-Deo 25
 sport 25
 trist 25
 paroles 25
@@ -579,6 +579,7 @@ etá 12
 Da 12
 invitat 12
 devenir 12
+Anc 12
 ape 12
 orange 12
 ride 11
@@ -630,7 +631,6 @@ auxilia 11
 tal 11
 poema 11
 chance 11
-Anc 11
 forest 11
 logia 11
 yes 11
@@ -745,6 +745,7 @@ nederlandesi 9
 responder 9
 Anna 9
 diábol 9
+moment 9
 Layla 9
 crescet 9
 Ziri 9
@@ -798,6 +799,7 @@ inamorat 8
 Europa 8
 Israel 8
 lago 8
+ebri 8
 besonar 8
 cor 8
 hockey 8
@@ -807,7 +809,6 @@ hospitale 8
 historie 8
 quelcvez 8
 apes 8
-moment 8
 cultelle 8
 árbores 8
 partir 8
@@ -880,7 +881,6 @@ continua 7
 monte 7
 stat 7
 Hispania 7
-ebri 7
 terribil 7
 trincage 7
 seriosi 7
@@ -1042,6 +1042,7 @@ circa 6
 pluvie 6
 form 6
 tip 6
+homanité 6
 movement 6
 pizza 6
 avigila 6
@@ -1207,7 +1208,6 @@ magic 5
 omno 5
 osses 5
 fabrica 5
-homanité 5
 país 5
 quasi 5
 ye 5
@@ -1739,6 +1739,7 @@ palace 3
 quocunc 3
 adjunter 3
 Pensa 3
+radica 3
 Mayas 3
 impressionat 3
 aferes 3
@@ -2377,13 +2378,13 @@ Sarah 2
 imita 2
 Ex 2
 lampe 2
+augmenta 2
 absorpte 2
 combatter 2
 difficil 2
 testament 2
 maga 2
 obtener 2
-radica 2
 dissipar 2
 preciosi 2
 proque 2
@@ -4050,7 +4051,6 @@ Aladdin 1
 precisimen 1
 ínleibilmen 1
 drogue 1
-augmenta 1
 pression 1
 RIP 1
 (requiescat 1
@@ -6045,3 +6045,7 @@ inlada 1
 1390000000 1
 Chinés 1
 Luke 1
+partú 1
+saventie 1
+leontodon 1
+manjabil 1

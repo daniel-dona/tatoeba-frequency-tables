@@ -1,7 +1,7 @@
 is 436
-Ich 379
+Ich 380
 Tom 256
-en 233
+en 234
 hod 205
 net 176
 hon 168
@@ -80,13 +80,13 @@ där 21
 im 20
 dud 20
 nore 20
+Haus 20
 aus 20
 Mari 20
 dass 19
 Loss 19
 sich 19
 Wer 19
-Haus 19
 gesaad 19
 Hod-der 19
 misse 18
@@ -186,6 +186,7 @@ hellfe 10
 Mary 10
 musst 10
 gess 10
+alt 10
 Franzeesisch 10
 sihd 10
 Lieb 9
@@ -209,7 +210,6 @@ Brod 9
 Bang 9
 wohne 9
 waarte 9
-alt 9
 alleen 9
 Loch 9
 hinnich 9
@@ -2273,3 +2273,4 @@ abgebb 1
 fergewe 1
 produziere 1
 Sauerstuft 1
+bewohne 1

@@ -1,4 +1,4 @@
-i 30
+i 31
 Mi 28
 bilong 27
 long 27
@@ -8,7 +8,7 @@ no 16
 yu 13
 gat 12
 Yu 11
-em 9
+em 10
 save 8
 Ol 6
 Nem 5
@@ -43,6 +43,7 @@ Inglis 2
 harim 2
 planti 2
 nidim 2
+Dispela 2
 ia 2
 Hamas 2
 skul 2
@@ -90,7 +91,6 @@ polis 1
 Holim 1
 Raskol 1
 halivim 1
-Dispela 1
 imegensi 1
 inap 1
 painim 1
@@ -184,3 +184,5 @@ Bai 1
 ritim 1
 buk 1
 sista 1
+pisin 1
+bikpela 1

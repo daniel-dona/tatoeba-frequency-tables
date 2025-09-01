@@ -3,14 +3,14 @@ re 153
 Tom 60
 Si 54
 Toms 42
-Tkva 37
+Tkva 38
 do 36
 ma 34
 te 33
 Tena 30
 vare 29
- 27
 si 27
+ 26
 moǩo 25
 tena 25
 oǩo 24
@@ -126,6 +126,7 @@ tzanas 5
 Sumi 5
 ardzashe 5
 Tinepi 5
+reto 5
 mitin 5
 Taki 5
 Maxolo 5
@@ -170,7 +171,6 @@ Namu 4
 teki 4
 pranguli 4
 Sami 4
-reto 4
 bordjis 4
 Mushi 4
 antzi 4
@@ -1807,7 +1807,7 @@ asṫrologia 1
 Gimily 1
 çais 1
 Kortulo 1
-Kudamjeri 1
+Kudamdjeri 1
 mupshenk 1
 leksiǩoni 1
 çkinʒǩuma 1
@@ -2413,7 +2413,7 @@ dumoguru 1
 gilauuna 1
 şkirenuli 1
 Film 1
-diç̌qapu 1
+diç̌ɣapu 1
 moxvaraşe 1
 Muşo 1
 Migetzonebu 1
@@ -3291,3 +3291,7 @@ vauǩinana 1
 tutumʒ 1
 sp̌orṫsmen 1
 Shurume 1
+Ç̌iç̌e 1
+turkep 1
+Kurkentzi 1
+vamoxudju 1

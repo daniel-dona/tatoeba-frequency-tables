@@ -1,5 +1,5 @@
 ono 140
-Miä 68
+Miä 71
 Foma 56
 koti 50
 Miun 47
@@ -12,14 +12,14 @@ siä 18
 kirjoja 15
 Kokko 15
 siun 14
+en 14
 Miul 14
-en 13
+miä 12
 miun 12
 suvvaan 12
 hiiren 12
 oo 12
 kirja 11
-miä 11
 tätä 11
 laulua 11
 Lue 11
@@ -30,7 +30,7 @@ Maaria 9
 liki 9
 hyvä 9
 Höö 9
-peeni 9
+peen 9
 oikiin 9
 Joo 9
 telefona 9
@@ -128,6 +128,7 @@ laulaa 3
 kalastaa 3
 Kala 3
 söön 3
+näin 3
 hiirtä 3
 jooksi 3
 hyväst 3
@@ -195,7 +196,6 @@ laulun 2
 laululoja 2
 lentäät 2
 sööt 2
-näin 2
 keittää 2
 Sakkeli 2
 otti 2
@@ -264,6 +264,7 @@ Moskovast 2
 tuli 2
 Salpaa 2
 mööp 2
+läkkää 2
 viroks 2
 Viro 2
 rinnaal 2
@@ -676,7 +677,6 @@ enemp 1
 frantsialaisia 1
 muu 1
 Ossa 1
-läkkää 1
 Virost 1
 Virroa 1
 kutsutaa 1
@@ -805,3 +805,11 @@ tähti 1
 töölle 1
 mööhää 1
 suurees 1
+pyysin 1
+havven 1
+Zooparkaas 1
+suuren 1
+slonan 1
+ižoraks 1
+issutan 1
+mancikkoja 1

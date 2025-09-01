@@ -1,4 +1,4 @@
-yn 563
+yn 564
 i 343
 Mae 291
 y 201
@@ -7,7 +7,7 @@ i'n 178
 Tom 168
 ddim 117
 o 116
-ei 97
+ei 98
 ar 88
 hoffi 81
 wedi 78
@@ -71,12 +71,12 @@ o'n 21
 rhaid 21
 yfed 21
 mae'r 20
+mae 20
 o'r 19
 gallu 19
 da 19
 fod 19
 ysgol 19
-mae 19
 Cymraeg 19
 cael 18
 dda 18
@@ -498,6 +498,7 @@ llythyr 3
 coch 3
 fach 3
 Ai 3
+Ar 3
 Croeso 3
 pwy 3
 dawnsio 3
@@ -559,6 +560,7 @@ nodir 3
 modd 3
 agor 3
 ddwyn 3
+24 3
 awr 3
 tocynnau 3
 fyddwch 3
@@ -728,7 +730,6 @@ trio 2
 pysgod 2
 codi 2
 phoeni 2
-Ar 2
 Dydd 2
 drwy 2
 bywyd 2
@@ -875,7 +876,6 @@ Ynni 2
 Rydych 2
 cyfrifoldeb 2
 Rhybudd 2
-24 2
 bag 2
 dilys 2
 gorsaf 2
@@ -2556,3 +2556,7 @@ moddion 1
 twpdra 1
 di'n 1
 aderyn 1
+Awst 1
+Wcráin 1
+dathlu 1
+hannibyniaeth 1

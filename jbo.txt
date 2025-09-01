@@ -1,8 +1,8 @@
 lo 12936
 mi 6288
-cu 3557
+cu 3559
 do 3383
-la 3063
+la 3065
 pu 2337
 le 2317
 nu 2142
@@ -32,7 +32,7 @@ nelci 493
 tu'a 440
 li 440
 loi 438
-zvati 435
+zvati 436
 mutce 418
 ku 414
 djuno 404
@@ -332,13 +332,13 @@ cirko 51
 kabri 50
 la'a 50
 bilma 50
+xrula 50
 a'o 50
 stuzi 50
 je'a 50
 jungau 50
 glare 49
 cortu 49
-xrula 49
 vitke 49
 kanla 49
 ty 49
@@ -890,6 +890,7 @@ sa'e 14
 tivni 14
 jgira 14
 fudbolo 14
+cev 14
 bai 14
 ri'ornimre 14
 ne'a 13
@@ -989,7 +990,6 @@ nobli 12
 esporte 12
 dai 12
 uo 12
-cev 12
 xunai 12
 mango 12
 varnila 12
@@ -1792,6 +1792,7 @@ lozu'o 4
 loza'i 4
 cipnrkorvu 4
 su'a 4
+fe'eroroi 4
 islant 4
 nurxru 4
 cipnrlaru 4
@@ -2082,7 +2083,6 @@ bemro 3
 kiotos 3
 japyvla 3
 amerik 3
-fe'eroroi 3
 gugde'isu 3
 pikci 3
 serti 3

@@ -1,15 +1,15 @@
-je 1152
-se 243
+je 1159
+se 245
 Ali 238
 v 209
 sem 201
-in 146
-ne 137
+in 152
+ne 139
 Tom 132
+so 129
 da 128
-so 128
 na 113
-Ne 95
+Ne 96
 mesto 91
 To 90
 za 90
@@ -21,17 +21,17 @@ Govoriš 86
 Govorite 86
 Kaj 84
 mi 77
+ki 71
 zelo 70
-ki 70
 bi 65
 glavno 65
 Jaz 62
 lahko 54
 to 53
 Govorim 53
+me 52
 Kako 52
 bo 52
-me 51
 iz 50
 Koliko 48
 moj 45
@@ -45,16 +45,16 @@ jezik 39
 Kje 36
 Sem 35
 dan 34
+ga 34
 po 34
-ga 33
 Kdo 32
 ali 32
 Zakaj 32
 Ona 31
 govorim 31
+V 30
 Danes 30
 s 30
-V 29
 ti 29
 živi 29
 vse 29
@@ -63,15 +63,16 @@ te 28
 kaj 28
 bila 28
 več 28
+Ta 27
+še 27
 On 27
 že 27
 ta 27
-še 26
 Mary 26
-Ta 25
 bilo 25
 Moje 24
 Marija 24
+od 23
 svojo 23
 tvoj 23
 lepa 23
@@ -82,7 +83,6 @@ Kdaj 22
 ste 21
 angleško 21
 Živijo 21
-od 21
 Kdor 21
 Imam 21
 prosim 20
@@ -95,6 +95,7 @@ oče 18
 knjigo 18
 Nisem 18
 Zelo 18
+o 17
 če 17
 Lahko 17
 nikoli 17
@@ -106,7 +107,6 @@ jih 17
 Vse 17
 reče 17
 Ura 17
-o 16
 Prosim 16
 Na 16
 Nimam 16
@@ -121,6 +121,8 @@ imam 14
 zdaj 14
 tem 14
 pa 14
+mora 14
+brez 14
 tukaj 14
 naj 14
 sta 14
@@ -137,9 +139,7 @@ Moja 13
 Moj 13
 Ko 13
 vem 13
-mora 13
 boš 13
-brez 13
 nekaj 13
 všeč 13
 živali 13
@@ -175,6 +175,7 @@ povedal 10
 ženska 10
 ura 10
 Grem 10
+bolj 10
 Če 10
 kako 10
 Vsi 10
@@ -190,7 +191,6 @@ danes 10
 slovensko 10
 svoj 9
 domov 9
-bolj 9
 prišel 9
 med 9
 pesem 9
@@ -227,10 +227,12 @@ včeraj 8
 Hočem 8
 avto 8
 zgodilo 8
+nič 8
 Rad 8
 naredil 8
 hoče 8
 vreme 8
+svet 8
 japonsko 8
 Dobro 8
 vodo 8
@@ -261,12 +263,10 @@ drugi 7
 šolo 7
 govorijo 7
 kralj 7
-nič 7
 Kakšno 7
 utrujen 7
 Za 7
 razumem 7
-svet 7
 rusko 7
 čas 7
 svojega 7
@@ -293,6 +293,7 @@ Dober 6
 list 6
 Da 6
 eno 6
+more 6
 roke 6
 mizi 6
 šla 6
@@ -354,7 +355,6 @@ stara 6
 sreča 6
 modro 6
 žival 6
-more 5
 človek 5
 nedelja 5
 sestra 5
@@ -413,6 +413,7 @@ naredi 5
 vroče 5
 mene 5
 Boga 5
+najbolj 5
 sprehod 5
 zaspan 5
 otok 5
@@ -434,6 +435,7 @@ finsko 5
 malteško 5
 grško 5
 češko 5
+dva 5
 srbsko 5
 makedonsko 5
 hrvaško 5
@@ -464,6 +466,7 @@ Stranka 5
 organ 5
 pot 5
 največji 5
+celo 5
 draga 5
 Nebo 5
 stvar 5
@@ -502,6 +505,7 @@ službo 4
 konec 4
 Oče 4
 umrl 4
+toliko 4
 Bilo 4
 fant 4
 reko 4
@@ -553,6 +557,7 @@ vprašanja 4
 leti 4
 tam 4
 pismo 4
+Toliko 4
 precej 4
 teče 4
 majhno 4
@@ -577,7 +582,6 @@ najboljše 4
 zdijo 4
 Najdi 4
 moreš 4
-najbolj 4
 drži 4
 kratko 4
 srečo 4
@@ -613,7 +617,6 @@ avtomobil 4
 stran 4
 svahili 4
 romunsko 4
-dva 4
 bolgarsko 4
 norveško 4
 islandsko 4
@@ -660,6 +663,7 @@ Italije 4
 Francije 4
 postaja 4
 Slovenka 4
+greš 4
 človeka 4
 Šrilanka 4
 otoška 4
@@ -676,9 +680,9 @@ bije 4
 izvira 4
 Jezik 4
 dober 4
-celo 4
 slovenščina 4
 Brez 4
+vojna 4
 Ljubezen 4
 vendar 4
 stavka 4
@@ -718,7 +722,6 @@ uro 3
 postati 3
 zdravnik 3
 izgubil 3
-toliko 3
 Tokio 3
 London 3
 Anglije 3
@@ -732,6 +735,7 @@ igra 3
 preprosto 3
 glasbo 3
 Banane 3
+grem 3
 Moram 3
 Vreme 3
 prepovedano 3
@@ -786,6 +790,7 @@ pojedel 3
 Boš 3
 uporabo 3
 vsem 3
+popolnoma 3
 bodi 3
 niti 3
 kjer 3
@@ -800,7 +805,6 @@ skupini 3
 S 3
 ure 3
 prišla 3
-Toliko 3
 tebe 3
 radi 3
 Angleščina 3
@@ -914,7 +918,6 @@ volja 3
 zaspana 3
 nebo 3
 ljubezni 3
-greš 3
 skozi 3
 telesu 3
 Tajpej 3
@@ -924,6 +927,7 @@ Svet 3
 Imejte 3
 uporabite 3
 čredne 3
+najvišja 3
 čredna 3
 plazilci 3
 Sloveniji 3
@@ -965,6 +969,7 @@ počutim 3
 inteligenca 3
 morda 3
 skoraj 3
+vrsta 3
 prevodov 3
 planetu 3
 naučil 3
@@ -1041,6 +1046,7 @@ skuhati 2
 večerjo 2
 vrnil 2
 razloga 2
+ker 2
 zaliti 2
 rože 2
 Deset 2
@@ -1090,7 +1096,6 @@ rumene 2
 Vidim 2
 problema 2
 Običajno 2
-grem 2
 peš 2
 sončno 2
 številka 2
@@ -1171,10 +1176,10 @@ bolan 2
 jabolka 2
 rezultate 2
 esperanta 2
+narodov 2
 Virus 2
 mnogo 2
 Afriki 2
-popolnoma 2
 Švica 2
 vredna 2
 Poznam 2
@@ -1322,6 +1327,7 @@ pustite 2
 odvisnik 2
 Večerja 2
 milu 2
+sodišča 2
 Streha 2
 otroke 2
 Postajaš 2
@@ -1381,6 +1387,7 @@ moti 2
 mar 2
 vzame 2
 Mongolije 2
+vrste 2
 sovražnica 2
 boljši 2
 Kakšen 2
@@ -1421,6 +1428,7 @@ otroka 2
 poje 2
 posodo 2
 Dobrodošli 2
+nasilje 2
 takšno 2
 kave 2
 pravice 2
@@ -1567,6 +1575,7 @@ Kote 2
 Kišinjev 2
 Moldavije 2
 prepozno 2
+Konfucij 2
 Jezus 2
 zapleten 2
 oceanu 2
@@ -1582,9 +1591,9 @@ glasba 2
 razum 2
 um 2
 enakost 2
+primer 2
 Žirafe 2
 Žirafa 2
-najvišja 2
 Krokodili 2
 Pajki 2
 zanimive 2
@@ -1678,6 +1687,7 @@ idejo 2
 sonca 2
 komentarja 2
 Morje 2
+zelen 2
 zdravnica 2
 prva 2
 kopljejo 2
@@ -1720,7 +1730,6 @@ kozarca 2
 Močno 2
 vzorec 2
 modra 2
-vojna 2
 čudovite 2
 Najstarejša 2
 mine 2
@@ -1734,6 +1743,7 @@ umetna 2
 ljubil 2
 govori 2
 Braziliji 2
+Človeštvo 2
 morja 2
 učenje 2
 tujega 2
@@ -1742,7 +1752,6 @@ pomembno 2
 tujih 2
 istega 2
 Stroj 2
-vrsta 2
 jezike 2
 energije 2
 stavkih 2
@@ -1758,6 +1767,7 @@ nebesa 2
 vtisi 2
 verzov 2
 Včasih 2
+Človeška 2
 sliši 2
 posnetek 2
 pesmi 2
@@ -1788,6 +1798,8 @@ oddaje 2
 nabiralnik 2
 Delam 2
 supermarketu 2
+politiki 2
+tod 2
 gospod 1
 Ogawa 1
 Francoz 1
@@ -1958,7 +1970,6 @@ Sanj 1
 nobenih 1
 sester 1
 Izgubila 1
-ker 1
 pomagala 1
 finančno 1
 minilo 1
@@ -2303,7 +2314,6 @@ mednarodne 1
 intelektualne 1
 izmenjave 1
 zbliževanje 1
-narodov 1
 sveta; 1
 morju 1
 otoki 1
@@ -2756,7 +2766,6 @@ dovoli 1
 obtičali 1
 lasje 1
 Odvedli 1
-sodišča 1
 sladko 1
 popravljena 1
 neznosen 1
@@ -2981,7 +2990,6 @@ prednik 1
 konjenik 1
 kumarico 1
 veselim 1
-vrste 1
 Pogrej 1
 topel 1
 buden 1
@@ -3151,7 +3159,6 @@ Piše 1
 članek 1
 šolski 1
 naučili 1
-nasilje 1
 Vest 1
 pêče 1
 Naš 1
@@ -3567,7 +3574,6 @@ Tajvan 1
 Mona 1
 Lisa 1
 Marika 1
-Konfucij 1
 kraljica 1
 Elizabeta 1
 Abraham 1
@@ -3604,7 +3610,6 @@ konceptov 1
 slepe 1
 "Svoboda 1
 bratstvo" 1
-primer 1
 tristranskega 1
 gesla 1
 Krave 1
@@ -3947,7 +3952,6 @@ len 1
 Trava 1
 Ponosna 1
 Brokoli 1
-zelen 1
 lisice 1
 pozimi 1
 preživijo 1
@@ -4282,7 +4286,6 @@ Napredek 1
 dosegla 1
 učenju 1
 spektakularen 1
-Človeštvo 1
 ogromna 1
 razveja 1
 številne 1
@@ -4494,7 +4497,6 @@ pomena 1
 fraze 1
 izraza 1
 trdo 1
-Človeška 1
 rešila 1
 vendarle 1
 pojavila 1
@@ -4919,7 +4921,6 @@ izbrali 1
 veselja 1
 Erica 1
 končale 1
-politiki 1
 pobegneš 1
 ujela; 1
 ostaneš 1
@@ -4929,3 +4930,54 @@ skrajno 1
 nespoštljiva 1
 sporočila 1
 resnice 1
+Temna 1
+nočna 1
+terorizira 1
+ponorelo 1
+neodgovoren 1
+neskesan 1
+plenilec 1
+planeta 1
+vzdržuje 1
+Pravo 1
+upošteva 1
+Despotizem 1
+absurdna 1
+arogantnost 1
+kaznujeta 1
+tuja 1
+gnusna 1
+meja 1
+Predniška 1
+načela 1
+vrednote 1
+zaničene 1
+trivializirane 1
+Neprvičnost 1
+cveti 1
+prevladuje 1
+vlada 1
+korupcija 1
+nihče 1
+spraviti 1
+tehnološkega 1
+napredka 1
+duhovne 1
+evolucije 1
+človeštva 1
+Tempelj 1
+rdeč 1
+posameznik 1
+postal 1
+predmet 1
+študije 1
+spremembi 1
+evolucijskega 1
+razvoja 1
+človeške 1
+Zanimiv 1
+rekel: 1
+Preden 1
+maščevat 1
+izkoplji 1
+groba 1
