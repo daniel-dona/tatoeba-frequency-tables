@@ -1,9 +1,9 @@
-esas 3181
-Me 2510
+esas 3185
+Me 2513
 la 2355
 ne 1442
 Tom 1176
-La 1119
+La 1120
 me 957
 tu 948
 Ka 819
@@ -29,10 +29,10 @@ Mea 280
 El 270
 to 251
 plu 241
-kun 233
+kun 234
 savas 228
 de 217
-ni 209
+ni 210
 bona 209
 vi 207
 tua 201
@@ -49,7 +49,7 @@ el 167
 bela 165
 ol 156
 parolas 153
-qua 149
+qua 150
 libro 143
 amas 142
 bezonas 142
@@ -86,10 +86,10 @@ sur 97
 mustas 97
 per 96
 ma 95
+manjas 95
 nun 94
 linguo 94
 ta 94
-manjas 94
 li 93
 vidis 92
 lernas 92
@@ -105,8 +105,8 @@ odias 85
 vere 85
 Maria 85
 ad 83
+Quale 82
 nia 81
-Quale 81
 bone 81
 dum 80
 aquo 80
@@ -148,10 +148,10 @@ konocas 59
 esos 58
 elu 58
 tempo 57
+Deo 57
 Nulu 56
 nultempe 56
 ye 56
-Deo 56
 Omna 55
 tante 55
 amiki 54
@@ -242,6 +242,7 @@ facila 35
 ante 35
 pano 35
 yari 34
+standas 34
 pomo 34
 longa 34
 ludas 34
@@ -249,7 +250,6 @@ hundi 33
 lektar 33
 helpar 33
 inteligenta 33
-standas 33
 lernar 33
 blanka 33
 filiulo 33
@@ -486,6 +486,7 @@ instruktisto 16
 pregas 16
 filmo 16
 longe 16
+regardas 16
 questiono 16
 larja 16
 opiniono 16
@@ -517,7 +518,6 @@ ridas 15
 drinkis 15
 ponto 15
 Ulu 15
-regardas 15
 rizo 15
 onu 15
 vakua 15
@@ -913,6 +913,7 @@ cirkume 8
 romano 8
 enirar 8
 venonta 8
+funcionas 8
 vartis 8
 amar 8
 animalo 8
@@ -1015,7 +1016,6 @@ donacajo 7
 acidento 7
 kultelo 7
 adminime 7
-funcionas 7
 vekigis 7
 diferas 7
 konsistas 7
@@ -1277,6 +1277,7 @@ flatuar 6
 Aljeria 6
 lentigini 6
 sucias 6
+magio 6
 fakti 6
 urso 6
 ruzoza 6
@@ -1481,6 +1482,7 @@ momento 5
 estas 5
 L'amoro 5
 Nord-Korea 5
+mondumo 5
 injenioro 5
 serioza 5
 pluv-arko 5
@@ -1498,7 +1500,6 @@ kuzulo 5
 Porki 5
 Yidisha 5
 nevino 5
-magio 5
 piro 5
 venenoza 5
 pagas 5
@@ -1785,7 +1786,6 @@ Tomo 4
 nepoto 4
 pafos 4
 patri 4
-mondumo 4
 pektilo 4
 policisti 4
 sinagogo 4
@@ -2379,6 +2379,7 @@ kerno 3
 Plubonesas 3
 medicino 3
 ridar 3
+piri 3
 perdas 3
 Satano 3
 nani 3
@@ -3499,7 +3500,6 @@ Amoro 2
 hanino 2
 mutono 2
 kushar 2
-piri 2
 sunoza 2
 mustez 2
 sklavo 2
@@ -3646,6 +3646,7 @@ kaptas 2
 gazelo 2
 helpolinguo 2
 memoro 2
+l'ucelo 2
 ermino 2
 kuzi 2
 ronkas 2
@@ -3754,6 +3755,7 @@ traktis 2
 Abandonez 2
 desglata 2
 ruda 2
+Cienco 2
 fingar 2
 Expekti 2
 parporto 2
@@ -7560,7 +7562,6 @@ kolektajo 1
 traduki 1
 mamiferi 1
 l'araneo 1
-l'ucelo 1
 bufali 1
 bufalo 1
 L'iraco 1
@@ -8266,7 +8267,6 @@ brutale 1
 filiali 1
 Folii 1
 branchi 1
-Cienco 1
 faki 1
 filialestro 1
 Simple 1
@@ -8848,3 +8848,5 @@ tamburisto 1
 ebriesas 1
 radiko 1
 leondento 1
+militisto 1
+militero 1

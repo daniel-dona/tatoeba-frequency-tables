@@ -1,12 +1,12 @@
 Tom 894
-Mən 862
-O 618
+Mən 863
+O 619
 Bu 587
 var 384
 bir 372
 və 350
 ki 300
-çox 279
+çox 281
 nə 248
 Onlar 234
 idi 221
@@ -101,9 +101,9 @@ az 46
 səni 46
 bilmir 46
 sənə 46
+Məni 45
 Niyə 45
 haradadır 44
-Məni 44
 nifrət 44
 burada 44
 ildə 44
@@ -276,6 +276,7 @@ yerləşir 19
 Ərəb 19
 fikir 19
 yardım 19
+pis 19
 kimin 19
 minimal 19
 haqqı 19
@@ -289,7 +290,6 @@ hardadır 18
 olsun 18
 adam 18
 uzun 18
-pis 18
 Avropa 18
 birinci 18
 buna 18
@@ -1824,6 +1824,7 @@ pox 4
 2 4
 hündürsən 4
 oxuyun 4
+Ürəyim 4
 içmək 4
 görüşürəm 4
 Üzr 4
@@ -2170,6 +2171,7 @@ yağa 3
 Gələ 3
 gəlsin 3
 Razı 3
+bulanır 3
 pulsuz 3
 nəzakətlidir 3
 Banka 3
@@ -2459,7 +2461,6 @@ adamlar 3
 etməkdən 3
 düyməni 3
 qalmayıb 3
-Ürəyim 3
 Başım 3
 Burnum 3
 sil 3
@@ -3149,7 +3150,6 @@ Kişilər 2
 cox 2
 qocadır 2
 qalacaqsan 2
-bulanır 2
 çalıram 2
 Yanğına 2
 tibb 2
@@ -4546,6 +4546,7 @@ Fondunun 2
 Əliyevanın 2
 2008-ci 2
 simasına 2
+tutub 2
 25-də 2
 Python-dan 2
 Piton 2
@@ -5174,6 +5175,7 @@ imperiya 2
 imperator 2
 Çin-yapon 2
 boşalıram 2
+üzrəyəm 2
 Gülümsə 2
 gələcəksiz 2
 Barselonaya 2
@@ -5204,6 +5206,7 @@ gördük 2
 zəhəri 2
 tədricən 2
 formalaşır 2
+səbəbindən 2
 fantastik 2
 inanılmaz 2
 Basqın 2
@@ -9995,6 +9998,3 @@ tapşırıqlar 1
 veriblər 1
 Tərəflər 1
 etimad 1
-quruculuğu 1
-tədbirlərini 1
-etdirmək 1

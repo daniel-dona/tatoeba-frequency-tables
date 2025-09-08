@@ -1,14 +1,14 @@
-k 1754
+k 1755
 is 1579
 t 1448
-n 1387
+n 1388
 Tom 796
 nait 793
 van 582
-Hai 581
+Hai 582
 binnen 508
 dat 456
-Ik 427
+Ik 428
 ien 404
 het 396
 mie 392
@@ -22,13 +22,13 @@ Zai 301
 en 299
 de 292
 in 284
-joe 272
+joe 275
 noar 246
+veur 244
 aan 244
-veur 243
 was 242
+Wat 232
 heur 232
-Wat 231
 doe 219
 Heb 218
 zien 213
@@ -36,13 +36,13 @@ gain 209
 dien 205
 die 203
 Doe 203
-hebben 201
+hebben 202
 Mien 197
 wat 192
 Ze 184
 as 183
+Bin 182
 Dat 182
-Bin 181
 der 168
 hom 160
 Hou 148
@@ -72,7 +72,7 @@ Wèl 101
 dit 99
 goan 95
 zain 95
-joen 92
+joen 93
 hest 90
 mor 90
 bin 90
@@ -83,8 +83,8 @@ e 87
 ze 87
 bist 86
 zo 86
+bouk 84
 eten 83
-bouk 83
 bie 83
 kovvie 83
 Hest 83
@@ -119,12 +119,12 @@ leutje 58
 vroagen 57
 Bist 57
 wotter 56
+bliede 56
 deur 56
+twij 55
 of 55
 kommen 55
-bliede 55
 drij 55
-twij 54
 geern 53
 Sami 52
 toavel 52
@@ -137,8 +137,8 @@ waark 49
 vraauw 48
 vroag 48
 aine 47
+Dij 47
 hou 47
-Dij 46
 Kinst 45
 hister 45
 ain 44
@@ -213,12 +213,12 @@ Nederlaand 31
 zie 31
 Duuts 31
 Kinnen 31
+lezen 30
 holt 30
 allain 30
 Loaten 30
 gruin 30
 dast 30
-lezen 29
 Dien 29
 helpen 29
 staait 29
@@ -316,6 +316,7 @@ wilst 21
 lu 21
 sikkom 21
 toch 21
+bruiers 21
 Vandoag 21
 revier 21
 drinkt 21
@@ -332,7 +333,6 @@ blieven 20
 vief 20
 stoet 20
 haren 20
-bruiers 20
 Veul 20
 woarom 20
 noa 20
@@ -707,6 +707,7 @@ zienent 10
 idee 10
 bèrre 10
 zeker 10
+zègd 10
 sukker 9
 komst 9
 vlaais 9
@@ -785,7 +786,6 @@ Dìnk 9
 steur 9
 laind 9
 zunnebril 9
-zègd 9
 baange 8
 haarst 8
 Vien 8
@@ -943,6 +943,7 @@ vónden 7
 groder 7
 joagen 7
 telefoon 7
+dik 7
 ains 7
 Waark 7
 gold 7
@@ -1082,7 +1083,6 @@ zaacht 6
 kaant 6
 zolt 6
 aksìnt 6
-dik 6
 aask 6
 baank 6
 steern 6
@@ -1351,6 +1351,7 @@ stoule 5
 Vlinder 5
 Schoulapper 5
 Ast 5
+zuik 5
 ingenieur 5
 vanoavend 5
 regelmoateg 5
@@ -1624,7 +1625,6 @@ gustern 4
 Opende 4
 geheurzoamde 4
 klòpt 4
-zuik 4
 daiven 4
 kok 4
 onderzuikt 4
@@ -1664,6 +1664,7 @@ verdrait 4
 Elke 4
 Vergat 4
 mìns 4
+heurt 4
 vluik 4
 roupt 4
 vrije 4
@@ -2153,7 +2154,6 @@ moezen 3
 Instagram-account 3
 troan 3
 aanleggen 3
-heurt 3
 leuk 3
 waaineg 3
 ropt 3
@@ -3374,6 +3374,7 @@ wós 2
 Iesder 2
 krigst 2
 woarin 2
+doarvan 2
 bieholden 2
 slachten 2
 twijmoal 2
@@ -7275,7 +7276,6 @@ veurnoamste 1
 Bult 1
 konkluzies 1
 doaruut 1
-doarvan 1
 dernoast 1
 zaten 1
 Duurde 1
@@ -7522,3 +7522,4 @@ Fraizen 1
 wemelt 1
 ongedaaierte 1
 òfstanden 1
+wichtjes 1

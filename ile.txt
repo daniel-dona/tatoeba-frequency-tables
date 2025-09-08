@@ -1,10 +1,10 @@
-es 3438
-Yo 2525
-un 1994
+es 3441
+Yo 2527
+un 1996
 li 1818
 Tom 1623
 ne 1505
-Li 861
+Li 862
 in 830
 tu 802
 have 767
@@ -20,7 +20,7 @@ quo 462
 va 457
 me 442
 Noi 440
-it 433
+it 435
 save 431
 e 417
 vole 415
@@ -65,8 +65,8 @@ U 134
 pro 134
 esser 128
 bell 128
+fat 125
 savet 124
-fat 123
 le 121
 pensa 119
 la 115
@@ -113,10 +113,10 @@ conosse 70
 Sami 70
 odia 69
 infantes 68
+Un 68
 cat 67
 vell 66
 al 66
-Un 65
 quel 65
 sur 64
 matre 63
@@ -126,6 +126,7 @@ cane 63
 ma 63
 ear 63
 omnicos 62
+munde 61
 vide 61
 fatigat 61
 hodie 61
@@ -138,7 +139,6 @@ Lass 60
 ili 60
 vos 60
 die 59
-munde 59
 tri 59
 volet 59
 evenit 58
@@ -201,10 +201,10 @@ per 42
 veni 42
 ocules 42
 vider 42
+possibil 42
 land 41
 manjat 41
 alquó 41
-possibil 41
 mal 41
 lettre 40
 homes 40
@@ -225,8 +225,8 @@ Francia 37
 desfacil 37
 sol 37
 familie 37
+altri 37
 Hay 36
-altri 36
 bentost 35
 dormit 35
 timid 35
@@ -1384,6 +1384,7 @@ Catalonia 4
 látere 4
 Senior 4
 solue 4
+regarda 4
 pause 4
 dracones 4
 deciun 4
@@ -1687,7 +1688,6 @@ aportat 3
 levul 3
 incontra 3
 artist 3
-regarda 3
 surtit 3
 trans 3
 derivat 3
@@ -2152,6 +2152,7 @@ evolution 2
 Bill 2
 comentarie 2
 europan 2
+guerrero 2
 áquil 2
 menaciat 2
 scolero 2
@@ -2318,6 +2319,7 @@ gania 2
 west 2
 Google 2
 Vamos 2
+guerrera 2
 dama 2
 frenat 2
 deci-un 2
@@ -2480,6 +2482,7 @@ currente 2
 masse 2
 armat 2
 traducte 2
+mago 2
 Surprisantmen 2
 rision 2
 aproxima 2
@@ -3338,7 +3341,6 @@ desconsentit 1
 Vaduz 1
 Principatu 1
 Central 1
-guerrero 1
 polonesi 1
 concert 1
 ajornat 1
@@ -3848,7 +3850,6 @@ persekutisto 1
 Chrome 1
 Mozilla 1
 Firefox 1
-guerrera 1
 bebés 1
 orgolliosi 1
 memorie 1
@@ -4486,7 +4487,6 @@ central 1
 pedir 1
 Arivante 1
 pane-bules 1
-mago 1
 scaf 1
 angul 1
 tranchar 1
@@ -6049,3 +6049,4 @@ partú 1
 saventie 1
 leontodon 1
 manjabil 1
+sorciero 1
