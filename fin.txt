@@ -1,4 +1,4 @@
-on 29069
+on 29070
 ei 10623
 Tom 9724
 Hän 8333
@@ -6,7 +6,7 @@ että 6810
 ja 6806
 Tomi 6366
 ole 6251
-oli 5679
+oli 5680
 En 4901
 Minä 4473
 Se 3767
@@ -870,6 +870,7 @@ Ranskan 100
 kunnes 100
 mukana 100
 Paljonko 100
+silmät 99
 näe 99
 vaikutti 99
 Näyttää 99
@@ -878,7 +879,6 @@ katsomaan 99
 huolta 98
 hetki 98
 elämää 98
-silmät 98
 ongelman 98
 viimeinen 98
 kävellä 98
@@ -933,6 +933,7 @@ oot 93
 nimeni 93
 suurin 93
 Haluaisitko 93
+Marilla 93
 tien 92
 lähtee 92
 kova 92
@@ -942,7 +943,6 @@ pakko 92
 kerta 92
 kaupungin 92
 varovainen 92
-Marilla 92
 vuosi 91
 kielen 91
 mukava 91
@@ -3259,6 +3259,7 @@ aluksi 25
 bussin 25
 myötä 25
 äänellä 25
+18 25
 kirjoitetaan 25
 Linnut 25
 sattunut 25
@@ -3389,7 +3390,6 @@ täyttä 24
 otin 24
 miljoona 24
 puolestaan 24
-18 24
 joessa 24
 Eurooppaan 24
 kenkiä 24
@@ -4034,6 +4034,7 @@ Ranskaan 20
 Ensin 20
 punastui 20
 rakennuksen 20
+siniset 20
 Kipu 20
 valmista 20
 kissat 20
@@ -4213,7 +4214,6 @@ sairautensa 19
 saksan 19
 lukeminen 19
 kylpyhuoneessa 19
-siniset 19
 metsän 19
 join 19
 erilaista 19
@@ -4417,6 +4417,7 @@ Onnea 18
 kirjoita 18
 ”Kiitos” 18
 Alan 18
+Kauan 18
 pyykit 18
 idean 18
 Auton 18
@@ -4622,7 +4623,6 @@ Sataa 17
 Tulipalon 17
 vasemmalle 17
 Menetin 17
-Kauan 17
 Kuuntelen 17
 Täytyy 17
 Tilasin 17
@@ -5897,6 +5897,7 @@ vessa 13
 WC 13
 Meistä 13
 osoitteesi 13
+kuningatar 13
 nouse 13
 myöhästyy 13
 Kone 13
@@ -6333,7 +6334,6 @@ puolin 12
 pysäytti 12
 kahdentoista 12
 tilaisuutta 12
-kuningatar 12
 renkaan 12
 kurja 12
 Osa 12
@@ -9997,4 +9997,4 @@ nukkuvaa 7
 Todellisuus 7
 antamasta 7
 onnettomuuksia 7
-murtautua 7
+eläköön 7

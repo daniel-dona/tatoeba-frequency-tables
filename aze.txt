@@ -7,7 +7,7 @@ bir 372
 və 350
 ki 300
 çox 281
-nə 248
+nə 249
 Onlar 234
 idi 221
 Biz 219
@@ -759,6 +759,7 @@ nəfər 8
 edildi 8
 yerləşən 8
 xəstədir 8
+altında 8
 keçirilən 8
 Vaxt 8
 görməmişəm 8
@@ -888,7 +889,6 @@ Atam 7
 yağır 7
 Rusiya 7
 balası 7
-altında 7
 oxudu 7
 gülümsədi 7
 kağız 7
@@ -1620,6 +1620,7 @@ diş 4
 bildiyini 4
 nəyə 4
 yaşamağa 4
+gör 4
 asır 4
 Riyaziyyatı 4
 qırdı 4
@@ -2148,7 +2149,6 @@ düşündüyünü 3
 xoşladığını 3
 qorxduğunu 3
 geyindim 3
-gör 3
 gətirəcəm 3
 turizm 3
 musiqiyə 3
@@ -2486,6 +2486,7 @@ saymağa 3
 gül 3
 ayaqqabı 3
 istehsalı 3
+Bax 3
 əsir 3
 quru 3
 nümunə 3
@@ -3854,7 +3855,6 @@ yerdəsiniz 2
 Pandalar 2
 Parisə 2
 Yarpaq 2
-Bax 2
 dördyarpaqlı 2
 lülqənbərdir 2
 lülqənbər 2
@@ -4126,6 +4126,7 @@ həyatı 2
 istidir 2
 hissəsində 2
 yatdığını 2
+divanın 2
 çatdıq 2
 armud 2
 uşaqların 2
@@ -9210,7 +9211,6 @@ qalmaram 1
 axtardığını 1
 bildinmi 1
 İtirilmiş 1
-divanın 1
 İstədiyimiz 1
 Duşana 1
 danışqandır 1

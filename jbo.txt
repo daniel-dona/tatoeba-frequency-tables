@@ -1,10 +1,10 @@
-lo 12936
+lo 12937
 mi 6288
-cu 3559
+cu 3563
 do 3383
-la 3065
+la 3066
 pu 2337
-le 2317
+le 2320
 nu 2142
 se 1941
 i 1902
@@ -12,7 +12,7 @@ na 1640
 be 1355
 ko'a 1301
 ma 1239
-ka 1225
+ka 1226
 ko 1133
 ca 996
 tom 952
@@ -49,7 +49,7 @@ tavla 293
 mi'a 287
 ta 284
 no 279
-tam 273
+tam 274
 e'o 270
 pa 270
 e 269
@@ -68,7 +68,7 @@ za'u 242
 mi'o 232
 ri 232
 ei 231
-prami 227
+prami 228
 bangu 224
 ba'o 221
 re 220
@@ -199,13 +199,13 @@ traji 84
 titnanba 84
 dukse 83
 nixli 83
+sanga 83
 speni 83
 pe'i 83
 zarci 83
 maris 83
 gasnu 82
 to'e 81
-sanga 81
 carvi 81
 zo'e 81
 bilga 80
@@ -260,6 +260,7 @@ morji 66
 limna 65
 ta'i 65
 ponjo 65
+cevni 65
 tcati 65
 finti 65
 slabu 64
@@ -268,7 +269,6 @@ kelci 64
 dy 64
 ai 64
 di'u 63
-cevni 63
 co'i 62
 valsi 62
 klaku 61
@@ -519,6 +519,7 @@ krinu 29
 mapti 29
 malsi 29
 kurji 28
+misno 28
 ti'e 28
 tezu'e 28
 skina 28
@@ -530,7 +531,6 @@ grusi 28
 ckape 27
 so'e 27
 cisma 27
-misno 27
 ze'u 27
 tcana 27
 pano 27
@@ -2479,6 +2479,7 @@ bangrklingo 2
 lacev 2
 bajli'a 2
 tolckape 2
+nuncenba 2
 ja'aru'e 2
 uicai 2
 ceikspir 2
@@ -3677,7 +3678,6 @@ laakikos 1
 laiokon 1
 dracydi'u 1
 mivyxadni 1
-nuncenba 1
 keskla 1
 nalpli 1
 nalseltcu 1
@@ -6968,3 +6968,4 @@ simkarbi 1
 dalremnei 1
 tolvudypai 1
 nalmu'o 1
+nungalfi 1

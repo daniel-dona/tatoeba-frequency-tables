@@ -1,8 +1,8 @@
-jest 179
+jest 180
 Ja 98
 ne 68
 jesm 56
-Tom 50
+Tom 51
 Ty 44
 To 33
 v 32
@@ -19,7 +19,7 @@ Ona 19
 jesmo 18
 byl 17
 Amerikanci 16
-Bog 12
+Bog 13
 ljubju 12
 Oni 11
 to 11
@@ -132,6 +132,7 @@ pijana 3
 Dobry 2
 govori 2
 tvoje 2
+ubil 2
 svoju 2
 Pekar 2
 ptak 2
@@ -311,7 +312,6 @@ Ustupi 1
 smrdiš 1
 smrdite 1
 hodili 1
-ubil 1
 kralja 1
 Avtomobil 1
 probuje 1
@@ -1103,3 +1103,5 @@ narastaje 1
 každym 1
 momentom 1
 gledaje 1
+policijnika 1
+Izměna 1

@@ -19,9 +19,9 @@ Tomi 23
 vorek 22
 taki 21
 Tis 21
+Chki 20
 Chkimi 20
 reno 20
-Chki 19
 skani 19
 Te 19
 chkimi 18
@@ -47,11 +47,11 @@ iro 12
 meri 12
 mutuni 12
 mu 12
+xvale 12
 ula 12
 rena 12
 Ase 11
 ɣudes 11
-xvale 11
 bordji 11
 Tiki 10
 toms 10
@@ -91,6 +91,7 @@ Kishilebeno 6
 Ate 6
 djgiro 6
 Skani 6
+voret 6
 tku 6
 teshi 6
 ǩitxiri 6
@@ -160,7 +161,6 @@ oxori 4
 didi 4
 iuuapu 4
 ninasha 4
-voret 4
 tinepsha 4
 oǩodƨ 4
 Tinepk 4
@@ -225,6 +225,7 @@ muzma 3
 çhiçhe 3
 kot 3
 tishi 3
+Xvale 3
 saxe 3
 sakvarua 3
 peri 3
@@ -291,6 +292,7 @@ isṫoria 3
 Arti 3
 Ardzas 3
 ṫabaǩi 3
+Ardza 3
 ameriǩari 3
 tunti 3
 tkvani 3
@@ -298,6 +300,7 @@ gurapa 3
 Muşeni 3
 ɣ'udes 3
 muşi 3
+Etina 3
 Tzq'ari 3
 ameriǩashe 3
 bdziri 3
@@ -391,7 +394,6 @@ kore 2
 moǩona 2
 umsho 2
 Amnaxanṫi 2
-Xvale 2
 dorulapa 2
 supta 2
 guate 2
@@ -565,7 +567,6 @@ mik 2
 banani 2
 Vamoǩo 2
 anʒi 2
-Ardza 2
 სო 2
 Ṫomik 2
 doç̌arƨ 2
@@ -605,7 +606,6 @@ Tişi 2
 mosaç̌iru 2
 vausxunu 2
 Muşi 2
-Etina 2
 miɔorsu 2
 doxturi 2
 ip̌ik 2
@@ -659,6 +659,7 @@ Resṫorants 2
 djveshi 2
 ǩirbi 2
 giǧuno 2
+dzǧabis 2
 Chkim 2
 Briuselsha 2
 Vari 2
@@ -1878,7 +1879,7 @@ Diaçkims 1
 uɣorc 1
 muziǩa 1
 Boşi 1
-morʒonso 1
+morǯonso 1
 çxomi 1
 ç̌vendu 1
 Riskent 1
@@ -3092,7 +3093,6 @@ Saberdzneti 1
 Prangonaşe 1
 Boşik 1
 açukƨ 1
-dzǧabis 1
 p̌euli 1
 Ǩuç̌is 1
 Uudes 1
@@ -3297,3 +3297,9 @@ Kurkentzi 1
 vamoxudju 1
 iç̌uu 1
 kortxink 1
+brisbenʒ 1
+oxoranʒ 1
+vadjogu 1
+komolǩochi 1
+Dixas 1
+geblurdu 1

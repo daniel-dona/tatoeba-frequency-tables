@@ -1,14 +1,14 @@
 Tomas 842
 No 612
 das 558
-binom 492
+binom 495
 no 489
 etosi 426
 in 331
 obik 292
 Maria 232
 dunön 199
-binon 189
+binon 190
 e 169
 Tom 162
 dö 158
@@ -43,20 +43,20 @@ ol 77
 keli 77
 Kim 75
 kisi 75
-binof 72
+binof 74
 vilob 71
 Binom 71
 kanob 69
+valikosi 69
 buki 68
 us 68
 pükön 68
 Tikob 67
-valikosi 67
 etos 64
 binoms 63
 vilol 61
 omis 61
-Labob 59
+Labob 60
 nolob 59
 jönik 58
 kanom 57
@@ -182,6 +182,7 @@ Logob 24
 ofik 24
 u 24
 Kanob 24
+God 24
 ya 24
 Spikol-li 24
 Li-tikol 24
@@ -197,8 +198,8 @@ smalik 22
 fa 22
 svimön 22
 sapik 22
-God 22
 miti 22
+famik 22
 velatik 22
 Mutol 21
 penön 21
@@ -245,7 +246,6 @@ yunik 18
 ut 18
 badik 18
 gudikumo 18
-famik 18
 hetom 18
 vilof 18
 lemön 18
@@ -847,6 +847,7 @@ deno 4
 jiel 4
 Hitos 4
 düps 4
+Binob-li 4
 klödön 4
 Litaliyän 4
 äfögetol 4
@@ -1054,7 +1055,6 @@ Yapän 3
 läl 3
 sam 3
 votik 3
-Binob-li 3
 Ols 3
 mutols 3
 selidöp 3
@@ -1192,6 +1192,7 @@ kanitel 3
 tikolöd 3
 flentel 3
 elemom 3
+bisarik 3
 gepükön 3
 vilobs 3
 neito 3
@@ -1199,6 +1200,7 @@ elautom 3
 neki 3
 Ävobof 3
 nevamik 3
+Hetol 3
 Evedos 3
 Li-binols 3
 cenom 3
@@ -1836,7 +1838,6 @@ Sperantapükan 2
 Spun 2
 gebolöd 2
 kimik 2
-bisarik 2
 fops 2
 okanol 2
 hetol 2
@@ -1860,7 +1861,6 @@ Li-etuvol 2
 lautom 2
 kanön 2
 Ätosi 2
-Hetol 2
 gebol 2
 Eitos 2
 pesagom 2
@@ -1957,6 +1957,8 @@ onsi 2
 Elon 2
 Musk 2
 motoravabi 2
+Kanitan 2
+Cein 2
 lanan 1
 Faemob 1
 Faemol-li 1
@@ -5000,3 +5002,7 @@ vilöl 1
 Reiganef 1
 lugon 1
 valöpo 1
+Hikanitan 1
+Jikanitan 1
+bäseti 1
+Hetols 1
