@@ -2,7 +2,7 @@ is 59
 on 50
 Ic 46
 and 45
-biþ 31
+biþ 32
 ne 27
 Se 25
 to 24
@@ -17,14 +17,14 @@ God 17
 Iċ 16
 Mīn 15
 þu 14
+Hē 14
 his 13
 swa 13
-Hē 13
+Hēo 13
 þone 12
 ic 12
 of 12
 Ič 12
-Hēo 12
 he 10
 ƿæs 10
 cyning 10
@@ -33,14 +33,15 @@ mid 9
 He 9
 hæbbe 9
 þǣm 9
+catt 8
 Þæt 8
 æppel 8
 eart 8
 eft 7
 min 7
+wæs 7
 hē 7
 hund 7
-catt 7
 ac 7
 eom 7
 hlāf 7
@@ -63,7 +64,6 @@ wille 6
 hit 5
 heofonum 5
 geseah 5
-wæs 5
 Hƿæt 5
 hæfþ 5
 þā 5
@@ -88,6 +88,7 @@ dēad 4
 līfe 4
 æt 4
 hæfde 4
+gōd 4
 monaþ 4
 þīn 4
 sēo 4
@@ -225,7 +226,6 @@ dæᵹ 2
 grēat 2
 leornere 2
 bēode 2
-gōd 2
 Man 2
 forma 2
 Ēastermōnaþ 2
@@ -277,6 +277,7 @@ twā 2
 Wæter 2
 drincst 2
 ᵹif 2
+catte 2
 gesund 2
 Hū 2
 Ēalā 2
@@ -791,7 +792,6 @@ ealu" 1
 "Ne 1
 ƿin" 1
 si 1
-catte 1
 wunast 1
 And 1
 forþ 1
@@ -1137,3 +1137,5 @@ hwǣr 1
 wunian 1
 blostma 1
 ǣġhwǣr 1
+Weorold 1
+scol 1

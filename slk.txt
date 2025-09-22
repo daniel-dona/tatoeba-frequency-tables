@@ -1,72 +1,72 @@
-je 4805
-sa 3242
-som 2605
-Tom 2354
+je 4825
+sa 3248
+som 2607
+Tom 2358
 si 2166
-to 1875
-na 1555
+to 1886
+na 1556
 že 1446
-v 1217
-a 1038
-Je 772
-mi 731
-sú 657
+v 1219
+a 1042
+Je 775
+mi 732
+sú 660
 by 585
+ako 567
 ste 567
-ako 564
-čo 554
-To 530
-Čo 528
-do 520
+čo 556
+To 532
+Čo 530
+do 523
 po 501
 nie 490
-má 473
+má 474
+Som 464
 s 463
-Som 463
-o 446
+o 448
 Mária 415
-Prečo 394
-veľmi 391
-z 390
+Prečo 398
+z 392
+veľmi 392
 Mám 371
 mesto 370
-sme 364
+sme 365
 ti 328
 aby 323
 mestom 323
-tu 320
+tu 321
 Ako 320
 Nie 310
-Kde 301
+Kde 302
 ma 300
 ťa 282
-bol 276
+bol 278
 ho 275
 rád 261
-za 257
+za 258
 jej 237
 vás 237
 vám 218
 mu 211
 Si 211
 ísť 208
+pre 205
 V 205
-pre 204
 Chcem 203
-Toma 197
+Toma 198
 hlavné 196
 Toto 195
 byť 193
+Kto 186
 ich 185
-Kto 184
 tak 183
+už 178
 Koľko 178
-už 177
 ju 175
 veľa 174
+všetko 174
 tam 172
 niečo 172
-všetko 172
 Myslím 171
 urobiť 166
 povedal 164
@@ -83,17 +83,17 @@ vo 154
 Hlavným 154
 od 153
 ale 153
+ešte 151
 Prosím 150
 Dnes 150
-ešte 149
 deň 144
 bude 141
 jeho 140
-dobre 139
+dobre 140
 Neviem 138
 Máš 135
 nič 135
-alebo 134
+alebo 135
 ja 131
 Máte 131
 kto 127
@@ -102,11 +102,11 @@ bolo 124
 francúzsky 123
 tom 122
 pravdu 120
+keď 120
 Môj 119
 domov 119
 Kedy 119
 aj 119
-keď 118
 čas 118
 môj 118
 ani 117
@@ -122,15 +122,15 @@ tri 111
 mňa 109
 Nikdy 109
 meno 109
-Sme 107
+Sme 108
 dnes 106
 sám 106
 zajtra 105
 Ak 104
+toto 104
 kde 104
 Viem 104
 hovorí 102
-toto 102
 toho 102
 pomôcť 101
 nikdy 101
@@ -138,8 +138,8 @@ Nemám 101
 nás 100
 Ona 99
 prečo 99
+doma 98
 majú 97
-doma 97
 tvoj 96
 svoje 96
 Všetko 96
@@ -156,10 +156,10 @@ Moja 92
 prosím 92
 teraz 92
 hovoriť 90
+Aký 90
 nám 90
+Vieš 90
 povedať 89
-Aký 89
-Vieš 89
 A 88
 mal 88
 Sú 87
@@ -173,12 +173,12 @@ bez 82
 tvoja 81
 urobil 81
 máš 80
+Každý 80
 Povedz 80
 Musím 80
 stalo 80
-Každý 79
+Viete 80
 Hovoríte 79
-Viete 79
 ty 78
 anglicky 78
 ten 78
@@ -195,29 +195,29 @@ rokov 74
 než 74
 Nič 74
 list 74
+slovo 74
+vie 73
 Ďakujem 73
 kávu 73
 či 73
 dlho 72
-vie 72
 túto 72
 knihy 72
-slovo 72
+Zajtra 72
 Nikto 71
 moje 71
 Ty 71
 ktoré 71
 ráno 71
 Boh 71
-Zajtra 71
 však 71
 všetky 70
 zo 69
+ktorý 69
 žije 69
 Milujem 69
 stále 69
 robiť 69
-ktorý 68
 Rád 68
 mať 68
 odpoveď 68
@@ -236,9 +236,9 @@ kniha 64
 Mal 64
 Videl 63
 Povedal 63
+dobré 62
 pri 61
 vedieť 61
-dobré 61
 Moje 61
 tým 61
 ľudia 60
@@ -251,9 +251,9 @@ otec 59
 videl 59
 jesť 59
 Potrebujem 58
+vždy 58
+človek 58
 volá 57
-vždy 57
-človek 57
 vidieť 57
 Naozaj 57
 život 56
@@ -272,6 +272,7 @@ zvieratá 54
 tento 53
 istý 53
 O 53
+spať 53
 ľudí 53
 medzi 53
 tebou 52
@@ -279,9 +280,11 @@ kým 52
 nevie 52
 dosť 52
 lepšie 52
+Bolo 51
 svojho 51
 Musíme 51
 Myslel 51
+trochu 51
 nemá 51
 kúpil 51
 hudbu 51
@@ -290,12 +293,9 @@ vody 51
 Aj 50
 všetci 50
 svete 50
-trochu 50
 oči 50
 vaše 50
-Bolo 49
 príde 49
-spať 49
 Tu 49
 Chcel 49
 znova 48
@@ -313,6 +313,7 @@ krajina 47
 Áno 47
 brat 47
 chcel 46
+Aká 46
 tvoje 46
 sama 46
 radi 46
@@ -324,7 +325,6 @@ Zem 46
 myslíš 46
 povedala 46
 Hovorím 46
-Aká 45
 pomoc 45
 tejto 45
 žena 45
@@ -352,6 +352,7 @@ môžem 43
 rady 43
 Povedzte 43
 pod 42
+veľký 42
 mohol 42
 také 42
 pondelok 42
@@ -362,11 +363,13 @@ Jej 41
 seba 41
 Prepáčte 41
 mlieko 41
-veľký 41
 nápad 41
 ňu 41
 tieto 41
+znamená 41
+veľké 41
 dva 40
+nové 40
 Učím 40
 muž 40
 všetkých 40
@@ -374,7 +377,6 @@ Chceš 40
 jablko 40
 moju 40
 Kam 40
-veľké 40
 ovocie 40
 prišiel 39
 štyri 39
@@ -390,15 +392,14 @@ Idem 39
 času 39
 Ľudia 39
 týždeň 39
+miesto 39
 zaneprázdnený 39
 Budem 39
 peňazí 39
-znamená 39
 niekto 38
 krásna 38
 patrí 38
 sem 38
-miesto 38
 Musíte 38
 Stále 38
 Nehovorím 38
@@ -408,17 +409,16 @@ budeš 37
 narodeniny 37
 rýchlo 37
 rok 37
+on 37
 tomto 37
 zostať 37
-nové 36
+prvý 37
 ktorá 36
 často 36
-on 36
 Buď 36
 mne 36
 viem 36
 chlieb 36
-prvý 36
 Videla 36
 ryby 35
 kedy 35
@@ -431,6 +431,7 @@ svojich 35
 Povedala 35
 môžeš 35
 mäso 35
+nemôže 35
 názor 35
 Daj 34
 celý 34
@@ -460,7 +461,8 @@ stôl 33
 Z 33
 táto 33
 správne 33
-nemôže 33
+mlieka 33
+vyzerá 33
 ňou 33
 plávať 33
 číslo 33
@@ -468,6 +470,7 @@ tiež 33
 páči 33
 otázka 33
 auto 32
+Veľmi 32
 neskoro 32
 hodiny 32
 človeka 32
@@ -483,7 +486,6 @@ hore 32
 Myslíš 32
 šťastie 32
 Vitajte 32
-mlieka 32
 Bostone 32
 spolu 32
 zviera 32
@@ -495,7 +497,6 @@ noci 32
 išiel 31
 viacej 31
 našej 31
-Veľmi 31
 až 31
 jedno 31
 dievča 31
@@ -504,7 +505,6 @@ nový 31
 Prišiel 31
 mali 31
 pracovať 31
-vyzerá 31
 nich 31
 Tieto 31
 španielsky 31
@@ -532,10 +532,12 @@ tie 29
 raz 29
 dal 29
 niekoľko 29
+neskôr 29
 odišiel 29
 krásne 29
 priateľ 29
 hodín 29
+záhrade 29
 dieťa 29
 srdce 29
 kúpiť 29
@@ -544,6 +546,7 @@ dôležité 29
 Páči 29
 koberec 29
 mesiac 29
+vety 29
 sebou 29
 našiel 29
 otázky 29
@@ -552,13 +555,12 @@ jedlo 29
 Poznám 28
 ktorú 28
 prísť 28
-neskôr 28
+unavený 28
 pracuje 28
 Ten 28
 topánky 28
 Dal 28
 leží 28
-záhrade 28
 svet 28
 Vidím 28
 Veľa 28
@@ -577,7 +579,6 @@ vôbec 27
 minút 27
 dcéra 27
 brata 27
-unavený 27
 Zabudol 27
 najlepšie 27
 Tá 27
@@ -601,6 +602,7 @@ Slovensku 27
 Určite 26
 späť 26
 Pes 26
+Voda 26
 Počul 26
 planéta 26
 roky 26
@@ -625,7 +627,7 @@ u 25
 nejaké 25
 vina 25
 môjho 25
-Voda 25
+učí 25
 veľká 25
 lekár 25
 Slnko 25
@@ -634,7 +636,6 @@ priateľov 25
 Poznáš 25
 zavolať 25
 pozná 25
-vety 25
 myslíte 25
 kvety 25
 celkom 25
@@ -653,6 +654,7 @@ hovoria 24
 poľsky 24
 Žijem 24
 študent 24
+nemôžem 24
 pršať 24
 raňajky 24
 ktorí 24
@@ -675,7 +677,6 @@ viete 24
 učiť 23
 musím 23
 mojej 23
-učí 23
 Nerozumiem 23
 izbu 23
 svojom 23
@@ -688,6 +689,7 @@ meste 23
 možné 23
 podľa 23
 dáždnik 23
+Človek 23
 budú 23
 Oni 23
 taká 23
@@ -702,6 +704,7 @@ Zdravím 23
 sebe 22
 osem 22
 ruku 22
+žiadne 22
 zvyčajne 22
 chuť 22
 dvoch 22
@@ -711,7 +714,6 @@ Choď 22
 posteli 22
 Otec 22
 Tomáš 22
-nemôžem 22
 mrkvu 22
 jednu 22
 slová 22
@@ -757,9 +759,9 @@ obľúbený 21
 pripravený 21
 Kniha 21
 potom 21
-Človek 21
 jazykov 21
 napísal 21
+ľúto 21
 naša 21
 ku 21
 farba 21
@@ -775,7 +777,6 @@ Dobrý 20
 zmrzlinu 20
 postele 20
 presne 20
-žiadne 20
 pekne 20
 Slovensko 20
 pero 20
@@ -798,7 +799,6 @@ kúpila 20
 nechceš 20
 tretej 20
 kľúče 20
-ľúto 20
 myš 20
 Poď 20
 mojím 20
@@ -808,6 +808,7 @@ hrdá 20
 narodil 20
 hmyz 20
 videla 20
+jar 20
 povedz 20
 Myslela 20
 hodinky 19
@@ -820,6 +821,7 @@ Bude 19
 Bolí 19
 Ruska 19
 minulý 19
+zlé 19
 otvoriť 19
 červené 19
 nemocnici 19
@@ -863,6 +865,7 @@ víno 18
 zem 18
 budeme 18
 prídem 18
+malý 18
 Pracujem 18
 Dlho 18
 Žena 18
@@ -872,6 +875,7 @@ priateľka 18
 celú 18
 dnu 18
 robil 18
+uši 18
 mladší 18
 domáce 18
 kvetov 18
@@ -888,6 +892,7 @@ koho 18
 najväčším 18
 ukrajinsky 18
 vlastne 18
+vtáky 18
 Slovenčina 18
 pekný 17
 Pre 17
@@ -908,7 +913,6 @@ No 17
 bohatá 17
 Vie 17
 starý 17
-malý 17
 drahé 17
 Pijem 17
 vlakom 17
@@ -916,7 +920,6 @@ aký 17
 horúca 17
 Nemá 17
 pravdepodobne 17
-uši 17
 láska 17
 kôň 17
 radšej 17
@@ -933,7 +936,6 @@ urobila 17
 navštíviť 17
 všetkým 17
 večierok 17
-jar 17
 šla 17
 Láska 17
 Tomova 17
@@ -1003,6 +1005,7 @@ biely 15
 Zvyčajne 15
 preč 15
 dome 15
+rieke 15
 počujem 15
 ďakujem 15
 nebolo 15
@@ -1010,12 +1013,14 @@ Vyzeráš 15
 Dievča 15
 dostal 15
 modré 15
+Svet 15
 Môžeme 15
 zdravie 15
 prekvapený 15
 kostola 15
 sny 15
 vysoký 15
+celé 15
 Odkiaľ 15
 vieš 15
 chyba 15
@@ -1029,6 +1034,7 @@ hlúpy 15
 šťastní 15
 svetlo 15
 Napísal 15
+stratil 15
 Majú 15
 nepovedala 15
 Hovoria 15
@@ -1056,7 +1062,6 @@ sloveso 15
 Dáš 15
 dcéru 15
 Dneska 15
-vtáky 15
 Ahoj 14
 okrem 14
 navzájom 14
@@ -1068,7 +1073,6 @@ starší 14
 chorá 14
 dní 14
 kúpili 14
-rieke 14
 nemožné 14
 chcú 14
 jedna 14
@@ -1081,11 +1085,11 @@ chvíľu 14
 lese 14
 Zavolám 14
 stromy 14
+unavená 14
 pozrieť 14
 vrátil 14
 Jedia 14
 Ich 14
-celé 14
 Dom 14
 čínsky 14
 Francúzsku 14
@@ -1114,7 +1118,7 @@ Nevidím 14
 modrá 14
 autobusom 14
 počúvam 14
-stratil 14
+zomrel 14
 domom 14
 nehovoril 14
 Kúpila 14
@@ -1143,6 +1147,7 @@ Chceme 14
 plus 14
 streda 14
 zrelé 14
+pláva 14
 lásku 14
 slovesá 14
 pripravená 14
@@ -1174,12 +1179,10 @@ sestru 13
 Tokiu 13
 Za 13
 čokoládu 13
-unavená 13
 nevinný 13
 malá 13
 správna 13
 čoskoro 13
-zlé 13
 sladké 13
 prídeš 13
 zabudol 13
@@ -1192,7 +1195,6 @@ kvitnú 13
 skutočne 13
 sľub 13
 tohto 13
-zomrel 13
 lekárka 13
 Skús 13
 Pravdepodobne 13
@@ -1202,6 +1204,7 @@ pieseň 13
 odtiaľ 13
 Čím 13
 zobudiť 13
+sveta 13
 Mesiac 13
 San 13
 pravidlá 13
@@ -1220,15 +1223,17 @@ prekrásna 13
 Kiež 13
 Dáte 13
 „Čo 13
+jeseň 13
 zelená 13
 Brazílie 13
 rovná 13
+ruže 13
 Vezmi 13
 šach 13
 trávu 13
+leto 13
 sobota 13
 obrázok 13
-pláva 13
 priezvisko 13
 pohľad 13
 smiať 13
@@ -1237,6 +1242,7 @@ Stratila 13
 slovenský 13
 dlhšie 12
 Niet 12
+stanica 12
 Londýne 12
 dvadsať 12
 rodiny 12
@@ -1247,6 +1253,7 @@ mohla 12
 stanicu 12
 preto 12
 dievčatá 12
+Jedna 12
 vodou 12
 ukázať 12
 ideš 12
@@ -1285,6 +1292,7 @@ rozhodnutie 12
 obaja 12
 Počkaj 12
 týždni 12
+vták 12
 takú 12
 chýba 12
 spôsob 12
@@ -1302,7 +1310,6 @@ jedol 12
 Celý 12
 nos 12
 ľahké 12
-sveta 12
 milujú 12
 knižnice 12
 veriť 12
@@ -1320,11 +1327,9 @@ Tomove 12
 Pozor 12
 slabé 12
 česky 12
-jeseň 12
 – 12
 hrad 12
 nádherné 12
-ruže 12
 syna 12
 preklad 12
 zelenina 12
@@ -1345,8 +1350,8 @@ bengálsky 12
 korčuľovať 12
 maďarsky 12
 ostať 11
+smrti 11
 najbližšia 11
-stanica 11
 asi 11
 zomrieť 11
 musíš 11
@@ -1368,7 +1373,6 @@ Dobré 11
 urobili 11
 chlapec 11
 nepočul 11
-Svet 11
 Marse 11
 Prišli 11
 potrebujete 11
@@ -1385,6 +1389,7 @@ byt 11
 Nebuďte 11
 New 11
 nešiel 11
+plné 11
 dni 11
 množstvo 11
 Potrebuješ 11
@@ -1402,6 +1407,7 @@ málo 11
 plynule 11
 Jeme 11
 Súhlasím 11
+druh 11
 teplotu 11
 nerozumie 11
 nová 11
@@ -1460,6 +1466,7 @@ pracujem 11
 kosť 11
 najlepším 11
 vraví 11
+rastlina 11
 cicavce 11
 pravé 11
 šesť 10
@@ -1483,6 +1490,7 @@ uvidím 10
 nedeľu 10
 slnko 10
 klobúk 10
+jazyka 10
 Podľa 10
 lepší 10
 stromom 10
@@ -1508,7 +1516,6 @@ Nemecku 10
 poschodí 10
 kráľ 10
 smutný 10
-plné 10
 Choďte 10
 vydatá 10
 jasné 10
@@ -1520,7 +1527,6 @@ opatrný 10
 dôvodu 10
 angličtiny 10
 bicykel 10
-vták 10
 Tvoje 10
 Paríž 10
 plná 10
@@ -1531,7 +1537,6 @@ dávajú 10
 dáva 10
 lekárom 10
 sneh 10
-druh 10
 Ideme 10
 práce 10
 odtiaľto 10
@@ -1543,6 +1548,7 @@ cieľ 10
 hlavou 10
 stretol 10
 áno 10
+zrak 10
 existuje 10
 šport 10
 Dám 10
@@ -1584,7 +1590,6 @@ Stalo 10
 takto 10
 vzal 10
 šťastné 10
-leto 10
 hladní 10
 Pamätáš 10
 more 10
@@ -1616,11 +1621,9 @@ Nevedela 10
 mužstve 10
 Podarilo 10
 studené 10
-rastlina 10
 draka 10
 Bobor 10
 rovní 9
-smrti 9
 Japonsko 9
 matke 9
 chodím 9
@@ -1634,7 +1637,6 @@ myšlienky 9
 trvať 9
 povolenie 9
 stretnúť 9
-jazyka 9
 krajine 9
 pozostáva 9
 Išiel 9
@@ -1711,8 +1713,8 @@ pozornosť 9
 Stretol 9
 nohu 9
 tých 9
+neboli 9
 cesta 9
-zrak 9
 svojimi 9
 rokmi 9
 dôležitý 9
@@ -1768,6 +1770,7 @@ potrebujem 9
 Čie 9
 voľno 9
 prvýkrát 9
+nerobí 9
 no 9
 vedela 9
 dostala 9
@@ -1827,6 +1830,7 @@ našich 8
 patria 8
 Poľsko 8
 tehotná 8
+zabil 8
 zdravý 8
 skúšku 8
 choď 8
@@ -1839,6 +1843,7 @@ tajomstvo 8
 stolom 8
 požiadal 8
 krátke 8
+vtáka 8
 cíti 8
 malo 8
 „Na 8
@@ -1878,6 +1883,7 @@ nájdem 8
 Načo 8
 určite 8
 pozrel 8
+Jar 8
 plán 8
 sviečku 8
 ukradol 8
@@ -1914,7 +1920,6 @@ jenov 8
 Netuším 8
 hlavy 8
 ktorých 8
-neboli 8
 jednej 8
 nestačí 8
 zjesť 8
@@ -1940,9 +1945,11 @@ zabudla 8
 kamene 8
 Miluje 8
 rozprávajú 8
+trpezlivosť 8
 zatiaľ 8
 Nikoho 8
 Nepotrebujem 8
+Zatiaľ 8
 vysávač 8
 Zatvor 8
 nedá 8
@@ -1968,6 +1975,7 @@ Vráť 8
 anjel 8
 les 8
 Nevidel 8
+ostrý 8
 prázdna 8
 slovanské 8
 Bulharska 8
@@ -1983,6 +1991,7 @@ budúcnosť 8
 Piješ 8
 neprišiel 8
 nevieš 8
+Jazero 8
 budova 8
 Nemohla 8
 zostala 8
@@ -1992,6 +2001,7 @@ islandsky 8
 Islandu 8
 Ceny 8
 povedzte 8
+básnik 8
 robíte 8
 tabuľu 8
 Každé 8
@@ -2031,6 +2041,7 @@ Káva 8
 „Nie“ 8
 líši 8
 1 8
+ryba 8
 robote 8
 Naí 8
 Dillí 8
@@ -2113,7 +2124,6 @@ slzy 7
 Robím 7
 zozname 7
 Jablko 7
-vtáka 7
 dedina 7
 klamať 7
 obchode 7
@@ -2152,7 +2162,6 @@ rebríka 7
 miesta 7
 takže 7
 Otvoril 7
-Jar 7
 obchod 7
 mori 7
 dovolené 7
@@ -2225,7 +2234,6 @@ náboženstvo 7
 každého 7
 Akej 7
 svojím 7
-trpezlivosť 7
 parku 7
 pizzu 7
 Potrebujete 7
@@ -2261,7 +2269,6 @@ niekým 7
 Váš 7
 lyžicu 7
 Umy 7
-ostrý 7
 pohovku 7
 Zaujíma 7
 pätnásť 7
@@ -2274,6 +2281,7 @@ Jedzte 7
 päťdesiat 7
 peňaženku 7
 skáče 7
+Pridajte 7
 taška 7
 bulharsky 7
 Vstal 7
@@ -2282,7 +2290,6 @@ Vyhral 7
 čisté 7
 krabici 7
 Pijú 7
-Jazero 7
 rokoch 7
 hľadal 7
 silná 7
@@ -2291,7 +2298,6 @@ hruška 7
 Odišla 7
 Veríte 7
 chlapca 7
-básnik 7
 ony 7
 výborné 7
 vynikajúce 7
@@ -2351,7 +2357,6 @@ arašidy 7
 cvičiť 7
 zakázané 7
 švédsky 7
-ryba 7
 Ježiš 7
 živá 7
 pavúky 7
@@ -2364,6 +2369,7 @@ Ukrajiny 7
 ležia 7
 Maďarska 7
 slovenská 7
+Thajska 7
 UFO 7
 kaz 7
 chodníkoch 7
@@ -2399,13 +2405,12 @@ macedónsky 6
 nežije 6
 vyžaduje 6
 zmeniť 6
+škola 6
 mnohých 6
 Nemali 6
 dcéry 6
-Jedna 6
 zdá 6
 úžasný 6
-zabil 6
 ľúbim 6
 veda 6
 ceruzka 6
@@ -2461,6 +2466,7 @@ vecí 6
 slobodná 6
 sila 6
 Teším 6
+morské 6
 Nemusíte 6
 Lebo 6
 povieš 6
@@ -2486,6 +2492,7 @@ chlapcov 6
 roztomilé 6
 krabica 6
 dokážu 6
+mimo 6
 Cena 6
 snežiť 6
 milý 6
@@ -2578,7 +2585,6 @@ Prší 6
 Psi 6
 Napíš 6
 zložil 6
-Zatiaľ 6
 večera 6
 zbraň 6
 hlboké 6
@@ -2656,6 +2662,7 @@ skvelé 6
 zaľúbený 6
 výber 6
 Berlíne 6
+znamenie 6
 zvuk 6
 páčilo 6
 nejestvuje 6
@@ -2813,6 +2820,7 @@ tréner 6
 plecom 6
 sprava 6
 obézny 6
+lastovička 6
 Bojím 5
 nebudem 5
 národ 5
@@ -2849,7 +2857,6 @@ Litvy 5
 Anglicka 5
 vedie 5
 Ukrajine 5
-škola 5
 Kvôli 5
 sprievodcom 5
 10 5
@@ -2869,6 +2876,7 @@ Sofia 5
 dušu 5
 Počúvam 5
 Miluješ 5
+Vietor 5
 Čítam 5
 bábätko 5
 čiapku 5
@@ -2907,7 +2915,6 @@ hodina 5
 Spravil 5
 drobné 5
 beží 5
-morské 5
 vystúpil 5
 bábiku 5
 Číne 5
@@ -2934,7 +2941,6 @@ dokáže 5
 boja 5
 nejedol 5
 musíte 5
-mimo 5
 doteraz 5
 Pomôžem 5
 navštívim 5
@@ -3044,6 +3050,7 @@ Zas 5
 nemocnica 5
 Mexika 5
 romány 5
+Nepoznáš 5
 skončil 5
 statočný 5
 očakáva 5
@@ -3203,6 +3210,7 @@ nenájdete 5
 nenájdeš 5
 46 5
 dôležitá 5
+unavení 5
 Dvakrát 5
 záhradník 5
 dedko 5
@@ -3219,6 +3227,7 @@ lietadlo 5
 oviec 5
 spánku 5
 dnuka 5
+Pridaj 5
 škôlky 5
 Nerozumela 5
 Nerozumel 5
@@ -3291,6 +3300,7 @@ veľryba 5
 Slovenka 5
 mužov 5
 inteligentné 5
+strašiak 5
 románsky 5
 Myši 5
 radosti 5
@@ -3310,6 +3320,7 @@ Bern 5
 Lanky 5
 pasce 5
 2 5
+Kivi 5
 lesná 5
 arabsky 5
 vážna 5
@@ -3348,7 +3359,6 @@ Addis 5
 Abeba 5
 Guiney 5
 Malawi 5
-Thajska 5
 odvážna 5
 Panama 5
 Kuvajt 5
@@ -3455,7 +3465,6 @@ strechy 4
 ovláda 4
 Ľutujem 4
 dievčaťa 4
-Vietor 4
 vstávam 4
 plno 4
 žien 4
@@ -3651,6 +3660,7 @@ hral 4
 nehovor 4
 väčšinou 4
 čakám 4
+komentáre 4
 Polícia 4
 netrpezlivý 4
 situácii 4
@@ -3704,6 +3714,7 @@ títo 4
 písací 4
 Prečítal 4
 varíš 4
+teplá 4
 Nebojím 4
 pôvodu 4
 Zmeškal 4
@@ -3719,7 +3730,6 @@ Asi 4
 silnú 4
 Bývame 4
 skvele 4
-Nepoznáš 4
 Opatrne 4
 snažiť 4
 Väčšinu 4
@@ -3751,6 +3761,7 @@ Jediné 4
 „Kto 4
 bojím 4
 chvost 4
+opica 4
 „Ďakujem 4
 „Nemáš 4
 ja“ 4
@@ -3798,7 +3809,6 @@ vlastnej 4
 šesťdesiat 4
 Nechceli 4
 odolať 4
-Pridajte 4
 Naučím 4
 odmietnuť 4
 ničím 4
@@ -3815,6 +3825,7 @@ slovanský 4
 Spýtajte 4
 vošiel 4
 spôsobiť 4
+večierku 4
 Bál 4
 Necítim 4
 Musia 4
@@ -3990,11 +4001,12 @@ nepriateľom 4
 Pila 4
 Hľadala 4
 švihadlo 4
+ruskej 4
 varím 4
 Obraz 4
-unavení 4
 týždňa 4
 Mama 4
+Stretli 4
 kuchárka 4
 kríky 4
 sestrou 4
@@ -4088,6 +4100,7 @@ spýtajte 4
 hrozný 4
 kopu 4
 dievčence 4
+Pštrosy 4
 neklame 4
 dnuká 4
 hrnček 4
@@ -4155,7 +4168,6 @@ nedozvie 4
 duša 4
 pochádzam 4
 Delfíny 4
-strašiak 4
 zapadá 4
 húb 4
 východnej 4
@@ -4185,7 +4197,7 @@ nejdete 4
 150 4
 kráľov 4
 sľuby 4
-Kivi 4
+nelietavý 4
 „Povedz 4
 Cédrové 4
 oceánu 4
@@ -4194,10 +4206,12 @@ kg 4
 perí 4
 falafel 4
 Pohár 4
+hlavná 4
 čias 4
 zmena 4
 ilúzia 4
 Modlite 4
+rýb 4
 Rumunska 4
 Rím 4
 odvážny 4
@@ -4629,6 +4643,7 @@ nesúhlasil 3
 ospravedlniť 3
 Pôjdeme 3
 Polovica 3
+prináša 3
 umelé 3
 Bežal 3
 štáty 3
@@ -4751,6 +4766,7 @@ oblohy 3
 nočné 3
 zvládnuť 3
 kupuje 3
+Nepoznáte 3
 poznali 3
 dediny 3
 projektu 3
@@ -4900,6 +4916,7 @@ poslúchať 3
 hrdinom 3
 Bojíš 3
 schudnúť 3
+novej 3
 postaral 3
 akého 3
 polícia 3
@@ -4907,7 +4924,6 @@ sedieť 3
 Tancoval 3
 treťom 3
 lož 3
-teplá 3
 zaspal 3
 žiarlivý 3
 zmenilo 3
@@ -4958,7 +4974,6 @@ malinký 3
 králik 3
 nespal 3
 marci 3
-opica 3
 utiekla 3
 zvieratko 3
 narodení 3
@@ -5043,7 +5058,6 @@ Jablká 3
 Porodila 3
 Cesta 3
 nepotrebujem 3
-večierku 3
 buďte 3
 spoločnosť 3
 chýbať 3
@@ -5105,6 +5119,7 @@ slivka 3
 Predvčerom 3
 ujo 3
 snov 3
+postarám 3
 pravdou 3
 vysokým 3
 Odpustila 3
@@ -5146,7 +5161,6 @@ vyzeral 3
 zúčastniť 3
 Pochybujem 3
 náhoda 3
-znamenie 3
 čelo 3
 Hrozienka 3
 rozumie 3
@@ -5233,7 +5247,6 @@ spôsoby 3
 pravdivý 3
 sestier 3
 sladká 3
-nerobí 3
 sporáku 3
 pravde 3
 Nedáva 3
@@ -5371,12 +5384,10 @@ ch 3
 w 3
 y 3
 ž 3
-ruskej 3
 ruža 3
 nakrivo 3
 hovorte 3
 bratranec 3
-Stretli 3
 nenávidí 3
 polovicu 3
 myslela 3
@@ -5513,6 +5524,7 @@ Cibuľa 3
 ráz 3
 obsahujú 3
 nešťastná 3
+Drevo 3
 významný 3
 Nádherný 3
 nebezpečenstva 3
@@ -5545,7 +5557,6 @@ mladšieho 3
 pôjdete 3
 Rozpráva 3
 hrozne 3
-Pštrosy 3
 peniazoch 3
 Vyrástol 3
 Vyrástla 3
@@ -5656,9 +5667,11 @@ Venuša 3
 Ryba 3
 prichádzajú 3
 vrie 3
+Tučniaky 3
 Veľryby 3
 Česko 3
 usmiali 3
+sláva 3
 Vrany 3
 nachádzame 3
 hovorí: 3
@@ -5735,12 +5748,12 @@ klamárka 3
 francúzsky“ 3
 iskierka 3
 semitský 3
+morský 3
 zmyslov 3
 arašidové 3
 trpieť 3
 15 3
 hlavnú 3
-hlavná 3
 super 3
 Jesť 3
 mlčala 3
@@ -5750,7 +5763,6 @@ vzniká 3
 zverolekárka 3
 pradie 3
 dobre“ 3
-rýb 3
 úžasnú 3
 Bukurešť 3
 nechutí 3
@@ -5921,6 +5933,8 @@ Hliník 3
 Zlato 3
 Meď 3
 Zinok 3
+nelietavé 3
+Puškina 3
 japonské 2
 dôstojnosti 2
 jednať 2
@@ -6223,7 +6237,6 @@ nespia 2
 podlahu 2
 kritizovať 2
 každé 2
-prináša 2
 niečom 2
 Aspartam 2
 umelý 2
@@ -6286,6 +6299,7 @@ Jorge 2
 Nenašiel 2
 vrecku 2
 neodpovedá 2
+bystré 2
 nepravdepodobné 2
 Cvičil 2
 BBC 2
@@ -6427,7 +6441,6 @@ neplatí 2
 kamarátom 2
 službu 2
 takýto 2
-Nepoznáte 2
 rôznych 2
 Och 2
 členov 2
@@ -6532,7 +6545,6 @@ topánok 2
 pravidelne 2
 Cukor 2
 deaktivovať 2
-komentáre 2
 blogu 2
 gitara 2
 húsenice 2
@@ -6674,7 +6686,6 @@ Museli 2
 vyzerajú 2
 Dochádza 2
 púšti 2
-novej 2
 cestovanie 2
 potuchy 2
 páni 2
@@ -7029,7 +7040,6 @@ budúca 2
 kríženec 2
 omáčky 2
 vietor 2
-postarám 2
 divné 2
 rodné 2
 nosia 2
@@ -7284,6 +7294,7 @@ Európania 2
 Mýlil 2
 Mýlili 2
 holub 2
+Pláva 2
 kaviareň 2
 ceruziek 2
 Zase 2
@@ -7464,6 +7475,7 @@ tried 2
 odvodené 2
 mena 2
 tla 2
+pridané 2
 Muchy 2
 Poliaci 2
 dedinke 2
@@ -7629,7 +7641,6 @@ pondelky 2
 stredy 2
 skutočnosťou 2
 Čeština 2
-Pridaj 2
 lekárnička 2
 lekárničke 2
 lúke 2
@@ -7855,7 +7866,6 @@ obličkové 2
 chybná 2
 siedmou 2
 položila 2
-Drevo 2
 vládu 2
 šialená 2
 7 2
@@ -7933,6 +7943,7 @@ doláre 2
 zašlo 2
 Tomovom 2
 pohrebe 2
+Trikrát 2
 žehná 2
 niektorých 2
 slabí 2
@@ -8234,6 +8245,7 @@ páli 2
 divný 2
 začiatočník 2
 Pokračuj 2
+Trpezlivosť 2
 chápem 2
 polovica 2
 sily 2
@@ -8306,7 +8318,6 @@ Skúsil 2
 Afrika 2
 Dokážeme 2
 Gramatika 2
-Tučniaky 2
 Leopardy 2
 Turek 2
 Turkyňa 2
@@ -8320,7 +8331,6 @@ Nepohli 2
 Nepili 2
 Uspel 2
 uspel 2
-sláva 2
 Lastovičky 2
 kvákajú 2
 najvyššia 2
@@ -8554,7 +8564,6 @@ Zákazník 2
 znepokojený 2
 bylinožravce 2
 šajnu 2
-nelietavý 2
 Výbuch 2
 dedinčanov 2
 láskalo 2
@@ -8573,7 +8582,6 @@ Rumunčina 2
 semitské 2
 indoeurópskych 2
 Dugong 2
-morský 2
 Indickom 2
 Obsahuje 2
 Ďakujeme 2
@@ -8613,6 +8621,7 @@ srsť 2
 pochybností 2
 prospešná 2
 Snežilo 2
+jedinečný 2
 Nestačí 2
 živým 2
 čarodejníčka 2
@@ -8925,6 +8934,7 @@ Arábii 2
 počúvali 2
 zápis 2
 ruská 2
+ruský 2
 poďla 2
 šéfovia 2
 Semienka 2
@@ -8935,6 +8945,7 @@ srdcu 2
 vrelému 2
 púčok 2
 tys' 2
+ruského 2
 besný 2
 spáchanom 2
 opatrné 2
@@ -8962,6 +8973,7 @@ Judaizmus 2
 odvodzujú 2
 Židia 2
 Samochvála 2
+Pštros 2
 Viktor 2
 Orbán 2
 tuky 2
@@ -9190,6 +9202,7 @@ pravdu“ 2
 indonézsky 2
 prostaty 2
 väzením 2
+Puškin 2
 Penis 1
 mužských 1
 pohlavných 1
@@ -9985,16 +9998,3 @@ impéria 1
 Tovar 1
 nepoškodený 1
 otestoval 1
-Bicykel 1
-zhrdzavie 1
-necháš 1
-Skontroluj 1
-vrecká 1
-Plánoval 1
-námorných 1
-Nehanbí 1
-vykonané 1
-dňami 1
-rasistické 1
-predĺžiť 1
-pobyt 1

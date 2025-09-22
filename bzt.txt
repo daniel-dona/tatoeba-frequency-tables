@@ -1,12 +1,12 @@
-es 189
+es 190
 Eo 119
-yn 92
+yn 95
 rhen 86
 di 71
 Tomos 66
-Ys 47
-Ill 44
-Sa 41
+Ys 48
+Ill 45
+Sa 42
 llo 40
 su 36
 ill 35
@@ -19,13 +19,13 @@ Ty 21
 Nw 18
 mew 17
 a 16
+er 16
 Nu 15
 ci 15
 Ke 14
-er 14
+gath 13
 gws 13
 eo 13
-gath 12
 in 12
 af 12
 di'll 12
@@ -63,6 +63,7 @@ cu 7
 Gion 6
 gw 6
 gran 6
+cath 6
 mhod 6
 thud 6
 Ô-g 6
@@ -81,7 +82,6 @@ nwstr 6
 cuseg 6
 efig 6
 dew 5
-cath 5
 nôn 5
 gwol 5
 chath 5
@@ -122,6 +122,7 @@ mulltisaf 4
 si 4
 for 4
 maled 4
+munn 4
 fengib 4
 ty 4
 h-enifal 4
@@ -172,7 +173,7 @@ Ddew 3
 alltr 3
 mar 3
 pobl 3
-munn 3
+fon 3
 mheg 3
 mengib 3
 abit 3
@@ -245,7 +246,6 @@ berson 2
 phab 2
 llein 2
 ros 2
-fon 2
 manugaf 2
 inelleith 2
 ddragun 2
@@ -277,6 +277,7 @@ Mullt 2
 h-es 2
 ystad 2
 uddirant 2
+bon 2
 ffrencig 2
 chosin 2
 cosin 2
@@ -636,7 +637,6 @@ la 1
 Gheis 1
 aydaf 1
 politig 1
-bon 1
 pesc 1
 gredd 1
 cadd 1
@@ -851,3 +851,4 @@ afaf 1
 ganhar 1
 Keimfent 1
 edith 1
+yscol 1

@@ -1,8 +1,8 @@
-Tom 20
+Tom 22
 Ndi 17
 ku 15
 ki 14
-Njagala 13
+Njagala 14
 mu 9
 mmeka 8
 wa 7
@@ -52,6 +52,7 @@ Sirina 3
 Nnina 3
 mangu 3
 Ndowooza 3
+Leero 3
 nga 3
 Emirimu 3
 Enkuba 3
@@ -62,6 +63,7 @@ ayagala 3
 kunywa 3
 Obudde 3
 lyo 2
+musawo 2
 Gyebale 2
 mulimu 2
 ddwaaliro 2
@@ -122,7 +124,6 @@ Weebaka 2
 mumpi 2
 Omukazi 2
 Abayizi 2
-Leero 2
 Yalidde 2
 emmere 2
 wooli 2
@@ -136,6 +137,7 @@ Bambi 2
 Tugende 2
 caayi 2
 kaawa 2
+balaza 2
 Teri 1
 atukiridde 1
 Tukyabanga 1
@@ -144,7 +146,6 @@ byaffe 1
 bingi 1
 Saagala 1
 ggw'ani 1
-musawo 1
 muyimbi 1
 okikola 1
 Ssebo 1
@@ -562,7 +563,6 @@ Mwattu 1
 ggalawo 1
 oluggi 1
 Siiba 1
-kazooba 1
 ekitabo 1
 Nsoma 1
 amawulire 1
@@ -570,3 +570,8 @@ Nnasomye 1
 olugero 1
 baana 1
 Ssente 1
+muvuzi 1
+w'ennyonyi 1
+w'amannyo 1
+kuyiga 1
+oluzungu 1

@@ -1,7 +1,7 @@
-es 232
+es 234
 Me 134
+Li 84
 li 83
-Li 83
 Tom 77
 non 69
 Ob 60
@@ -11,16 +11,16 @@ a 43
 did 42
 have 42
 in 41
-La 38
+La 39
 men 37
 manja 34
-Lo 32
+Lo 33
 filia 30
 vada 27
 e 25
 vun 24
 Nus 24
-esed 23
+esed 24
 voli 22
 de 21
 jupe 21
@@ -31,8 +31,8 @@ Dona 17
 nus 17
 ke 14
 tre 14
+bon 13
 Les 13
-bon 12
 vus 12
 Qualim 12
 ha 12
@@ -53,6 +53,7 @@ sen 8
 vivar 8
 Quum 8
 parla 8
+kate 8
 mesaje 8
 Maria 8
 jupes 8
@@ -64,7 +65,6 @@ vud 7
 un 7
 la 7
 deve 7
-kate 7
 beli 7
 puera 7
 grandi 7
@@ -925,3 +925,6 @@ kantiste 1
 kantisto 1
 kantista 1
 stranji 1
+munde 1
+skole 1
+revolutionaro 1

@@ -1,39 +1,39 @@
-esas 3193
-Me 2517
+esas 3197
+Me 2518
 la 2357
 ne 1447
 Tom 1182
-La 1125
+La 1126
 me 958
 tu 949
 Ka 819
 es 761
 havas 653
 en 644
-Il 499
+Il 502
 vu 483
-ke 460
+ke 461
 Ni 459
 mea 426
 a 419
 di 414
-esis 401
+esis 404
 e 374
 volas 374
 povas 328
 tre 313
 Tu 311
 por 291
-il 281
+il 282
 Mea 280
-El 270
+El 271
 to 252
 plu 241
 kun 234
 savas 228
 de 218
+bona 212
 ni 210
-bona 210
 vi 208
 tua 201
 To 199
@@ -63,7 +63,7 @@ Elu 129
 Esas 128
 multa 124
 pensas 122
-kato 119
+kato 121
 hike 118
 vua 116
 Quon 115
@@ -123,8 +123,8 @@ omno 71
 sen 70
 ed 70
 nur 69
+mondo 69
 Ica 68
-mondo 68
 esar 67
 al 66
 mikra 65
@@ -242,6 +242,7 @@ facila 35
 ante 35
 pano 35
 yari 34
+blua 34
 standas 34
 pomo 34
 longa 34
@@ -256,7 +257,6 @@ filiulo 33
 malada 33
 trovis 32
 venis 32
-blua 32
 sola 32
 tota 32
 altra 32
@@ -267,6 +267,7 @@ dicar 31
 tala 31
 nek 31
 Ido 31
+mortis 31
 perdis 31
 venos 30
 laborar 30
@@ -279,7 +280,6 @@ kolda 30
 Nia 30
 fishi 30
 Franca 30
-mortis 30
 matino 30
 Boston 30
 Ziri 30
@@ -309,6 +309,7 @@ kin 27
 gardeno 27
 naskis 27
 lektas 27
+skolo 27
 persono 26
 tam 26
 vetero 26
@@ -318,7 +319,6 @@ kaptis 26
 inter 26
 puerulo 26
 aspektas 26
-skolo 26
 olu 25
 pueri 25
 evas 25
@@ -513,6 +513,7 @@ vintro 15
 kurar 15
 unesma 15
 lumo 15
+hari 15
 Chinia 15
 Germania 15
 ridas 15
@@ -528,6 +529,7 @@ Omno 15
 mortinta 15
 India 15
 uzar 14
+Lua 14
 Hiere 14
 Semblas 14
 nivo 14
@@ -545,7 +547,6 @@ chapelo 14
 parko 14
 Germana 14
 E 14
-hari 14
 sub 14
 fratini 14
 natas 14
@@ -609,7 +610,6 @@ mentiis 13
 sango 13
 Judaismo 13
 ociema 13
-Lua 12
 Cesez 12
 kloko 12
 vespero 12
@@ -693,6 +693,7 @@ vizitis 11
 kune 11
 kredis 11
 natis 11
+hararo 11
 Amba 11
 Manjez 11
 gravida 11
@@ -768,7 +769,6 @@ Amerika 10
 pluvos 10
 Ye 10
 Un 10
-hararo 10
 Italiana 10
 historio 10
 robo 10
@@ -1623,6 +1623,7 @@ vesto 4
 retrovenar 4
 fotografuri 4
 spaco 4
+joyas 4
 interes-esas 4
 Poloniana 4
 Estoniana 4
@@ -1987,7 +1988,6 @@ glacio 3
 l'infanti 3
 lageto 3
 okupas 3
-joyas 3
 havos 3
 Kate 3
 hezitis 3
@@ -2399,6 +2399,7 @@ skureli 3
 kurioza 3
 vero 3
 ludi 3
+malo 3
 ca-vespere 3
 Toki 3
 Pona 3
@@ -3561,7 +3562,6 @@ Fantastika 2
 egoisto 2
 vespertilii 2
 vestaro 2
-malo 2
 manji 2
 vesper-manjanta 2
 adube 2
@@ -8859,3 +8859,4 @@ salarii 1
 engajar 1
 prevaloros 1
 Ohio 1
+revolucionero 1

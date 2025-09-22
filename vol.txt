@@ -8,7 +8,7 @@ in 331
 obik 292
 Maria 232
 dunön 199
-binon 190
+binon 191
 e 169
 Tom 162
 dö 158
@@ -27,8 +27,8 @@ oli 100
 Nolob 99
 yufön 98
 obi 95
+gudik 95
 et 94
-gudik 93
 omi 92
 ole 92
 ka 88
@@ -210,6 +210,7 @@ Li-vilol 21
 stenüdik 21
 Änolob 21
 utosi 21
+jul 20
 ela 20
 kafi 20
 katis 20
@@ -227,7 +228,6 @@ i 19
 Labom 19
 spikön 19
 Linglänapüki 19
-jul 19
 kati 19
 fidom 19
 Li-binol 19
@@ -386,6 +386,7 @@ jokolada 11
 kanoms 11
 Gololöd 11
 esagof 11
+kat 10
 vietik 10
 lifön 10
 lul 10
@@ -393,6 +394,7 @@ lul 10
 Kats 10
 logob 10
 Men 10
+Äbinom 10
 Pul 10
 libik 10
 Kanol 10
@@ -403,6 +405,7 @@ Bostoni 10
 cemi 10
 som 10
 flenis 10
+Vol 10
 kikis 10
 kukön 10
 kiki 10
@@ -429,12 +432,10 @@ Labol 9
 labol 9
 vifik 9
 jisoni 9
-Äbinom 9
 juli 9
 Cem 9
 tim 9
 blodi 9
-Vol 9
 Ogolob 9
 fikuliko 9
 äsagol 9
@@ -452,7 +453,6 @@ mutol 9
 Li-älogol 9
 ekömom 9
 Nifos 8
-kat 8
 ven 8
 Neai 8
 cifazif 8
@@ -1218,6 +1218,7 @@ elemobs 3
 ovilom 3
 legletik 3
 lömibos 3
+Äbinof 3
 ple 3
 Oyufob 3
 kludo 3
@@ -1900,7 +1901,6 @@ Dunoböv 2
 Lilädobs 2
 Li-elemol 2
 li-mutobs 2
-Äbinof 2
 Is 2
 püka 2
 sanels 2

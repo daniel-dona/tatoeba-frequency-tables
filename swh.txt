@@ -3,7 +3,7 @@ na 1071
 wa 755
 kwa 698
 ni 626
-katika 241
+katika 242
 kwenye 227
 kuwa 215
 za 213
@@ -14,7 +14,7 @@ Je 169
 kama 151
 wakati 147
 yake 141
-yangu 129
+yangu 130
 mtu 128
 Ni 110
 moja 107
@@ -32,7 +32,7 @@ wangu 87
 kutoka 86
 hivyo 84
 alikuwa 83
-kazi 81
+kazi 82
 wake 79
 Kwa 76
 au 74
@@ -114,9 +114,9 @@ baada 33
 gani 32
 mbili 32
 hata 32
+shule 32
 huo 32
 habari 31
-shule 31
 maisha 31
 hali 31
 ambao 31
@@ -302,10 +302,12 @@ jioni 15
 nzima 15
 binti 15
 amani 15
+Baba 15
 nchini 15
 dhahabu 15
 zawadi 15
 mbali 15
+hufanya 15
 Siwezi 15
 pekee 15
 mpira 15
@@ -332,11 +334,9 @@ wiki 14
 utani 14
 msichana 14
 elfu 14
-Baba 14
 alisema 14
 iliyopita 14
 kuanza 14
-hufanya 14
 eneo 14
 yenye 14
 binadamu 14

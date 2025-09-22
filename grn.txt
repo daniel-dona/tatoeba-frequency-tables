@@ -2,7 +2,7 @@ Che 241
 Tom 236
 che 222
 piko 206
-peteĩ 196
+peteĩ 197
 ha 194
 hína 156
 ha'e 145
@@ -23,7 +23,7 @@ oĩ 52
 ára 49
 voi 48
 va'erã 48
-umi 45
+umi 47
 hikuái 42
 ndéve 41
 táva 41
@@ -38,8 +38,8 @@ porã 32
 upéva 32
 Oĩ 31
 Mary 31
+jey 30
 jagua 29
-jey 29
 akue 29
 katu 29
 he'i 27
@@ -86,9 +86,11 @@ mba'épa 17
 marandu'asãihára 17
 ñande 16
 mbo'ehao 16
+térã 16
 óga 16
 iporã 16
 ore 16
+opurahéi 16
 chupekuéra 16
 Tom-pe 16
 Okañy 16
@@ -96,10 +98,8 @@ javete 16
 yvy 15
 rejapo 15
 ndaikatúi 15
-térã 15
 Mávapa 15
 reko 15
-opurahéi 15
 Upe 15
 Mba'ére 15
 hũ 15
@@ -181,6 +181,7 @@ kuña 9
 Mboy 9
 py'aguapy 9
 porãite 9
+ysyry 9
 gotyo 9
 mombyry 9
 Mba'érepa 9
@@ -209,7 +210,6 @@ tembi'u 8
 oikuaa 8
 tapicha 8
 Máva 8
-ysyry 8
 Ahecha 8
 yvágape 8
 aravópe 8
@@ -229,6 +229,7 @@ Araka'eve 8
 hasẽ 8
 Nda'uséi 8
 he'íkuri 8
+ipy 8
 aha 8
 la 7
 Yvy 7
@@ -259,6 +260,7 @@ Jareko 7
 yvyrata 7
 ohasámava 7
 imorotĩ 7
+ahecha 7
 ijapopyre 7
 akytã'ai 7
 ivai 7
@@ -268,7 +270,6 @@ oguývo 7
 mo'ã 7
 ao 7
 tymbachu'i 7
-ipy 7
 apytimby 7
 upekuévo 7
 ipytã 6
@@ -310,7 +311,6 @@ Mitãnguéra 6
 pyharevekue 6
 Ko'ẽrõ 6
 hetaite 6
-ahecha 6
 mba'asy 6
 tee 6
 Ajoguákuri 6
@@ -1131,6 +1131,7 @@ Ahayhu 2
 jára 2
 Oky 2
 repáy 2
+ojohéi 2
 Sái 2
 rejogua 2
 ipyahu 2
@@ -2577,7 +2578,6 @@ omimbiva'ekue 1
 aju 1
 osẽma 1
 Añani 1
-ojohéi 1
 isái 1
 ipuku 1
 Elísa 1
@@ -4893,3 +4893,13 @@ vecino 1
 Chegusta 1
 ita’anga 1
 oguerovia 1
+Hetave 1
+itakua 1
+iñypytũva 1
+pypukúgui 1
+mitãkuña’i 1
+Kole 1
+Oëlmoe-gua 1
+nandi 1
+ype 1
+mbeguekatu 1

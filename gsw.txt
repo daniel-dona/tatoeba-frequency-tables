@@ -17,14 +17,14 @@ du 16
 Er 15
 Es 14
 es 14
+en 14
 i 13
 vo 13
 Buech 13
-en 13
 nit 12
 han 12
+bisch 12
 mi 11
-bisch 11
 D 11
 Da 11
 d 10
@@ -35,6 +35,7 @@ ich 10
 em 10
 e 9
 da 9
+Du 9
 z 9
 mer 9
 go 9
@@ -43,12 +44,12 @@ gsi 9
 das 8
 Mir 8
 Was 8
-Du 8
 der 8
 a 8
 Der 8
 En 7
 guet 7
+so 7
 wo 7
 er 7
 und 7
@@ -56,7 +57,6 @@ no 7
 dä 7
 in 6
 gaats 6
-so 6
 Dä 6
 im 6
 am 6
@@ -1039,3 +1039,4 @@ ghocket 1
 Chomm 1
 gönd 1
 Kino 1
+Dubel 1

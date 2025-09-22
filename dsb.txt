@@ -1,8 +1,8 @@
 jo 491
 Tom 96
 se 95
-w 73
-Wóna 72
+w 74
+Wóna 73
 To 71
 Som 70
 a 65
@@ -24,13 +24,13 @@ som 28
 co 27
 tak 25
 wjelgin 24
+mě 23
 toś 23
 była 23
-mě 22
 Toś 22
 Marija 22
+wjele 21
 knigły 21
-wjele 20
 Sy 20
 mój 20
 do 20
@@ -119,6 +119,7 @@ wóni 8
 wy 8
 Kócka 7
 spi 7
+Jěm 7
 Mě 7
 źo 7
 nic 7
@@ -151,7 +152,6 @@ rědna 7
 gramujo 7
 Źinsa 6
 kócku 6
-Jěm 6
 Pótrjebujom 6
 by 6
 jabłuko 6
@@ -222,6 +222,7 @@ tebje 5
 Smej 5
 wěźeś 5
 žywjenja 5
+cyta 5
 telewiziju 5
 Powědaśo 5
 stolica 5
@@ -230,6 +231,7 @@ Barlinju 5
 Emily 5
 carny 5
 basnikaŕ 5
+knigłow 4
 bliźe 4
 móje 4
 Jogo 4
@@ -299,7 +301,6 @@ Nichten 4
 abo 4
 stało 4
 chórobna 4
-cyta 4
 Ptaški 4
 groniś 4
 źowka 4
@@ -334,7 +335,6 @@ Słowo 4
 woknje 4
 póstola 4
 zymy 3
-knigłow 3
 blido 3
 casa 3
 śpě 3
@@ -454,6 +454,7 @@ cynili 3
 źowki 3
 głodne 3
 Cora 3
+Wuknjom 3
 pak 3
 alfabet 3
 pismikow: 3
@@ -813,7 +814,6 @@ wognjowy 2
 wobornik 2
 Dobru 2
 kšuški 2
-Wuknjom 2
 śoty 2
 wěcow 2
 gronił 2
@@ -839,8 +839,10 @@ kupański 2
 woblak 2
 Kóšula 2
 kóšula 2
+Ryba 2
 žołta 2
 dobra 2
+malsnje 2
 Alice 2
 Nalěśe 2
 mjod 2
@@ -855,6 +857,7 @@ Cerkwja 2
 wałtoru 2
 dłymoki 2
 Jazor 2
+jazorje 2
 Muzika 2
 Cart 2
 tampony 2
@@ -2293,7 +2296,6 @@ tunja 1
 Cerwjena 1
 nowa 1
 zecyk 1
-Ryba 1
 Dawid 1
 Kralowka 1
 měła 1
@@ -2309,7 +2311,6 @@ pódzajtšo 1
 pódwjacor 1
 šula 1
 wuběrna 1
-malsnje 1
 wuknu 1
 naša 1
 stat 1
@@ -2388,7 +2389,6 @@ Pśezwitśe 1
 srjody 1
 srjoda 1
 mały 1
-jazorje 1
 plěł 1
 Gat 1
 Wiźiš 1
@@ -2545,3 +2545,6 @@ njewótwisna 1
 Głowne 1
 Helsinki 1
 Łoź 1
+plějo 1
+Pomagaj 1
+rejtowaś 1
