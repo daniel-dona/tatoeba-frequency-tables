@@ -1,13 +1,13 @@
-Tom 894
+Tom 895
 Mən 863
 O 619
 Bu 587
-var 384
+var 386
 bir 372
 və 350
-ki 300
-çox 281
-nə 249
+ki 301
+çox 285
+nə 251
 Onlar 234
 idi 221
 Biz 219
@@ -43,8 +43,8 @@ Mənə 92
 edə 91
 kimi 87
 ən 85
+da 81
 hər 80
-da 80
 etdi 79
 Nə 77
 deyiləm 76
@@ -66,12 +66,12 @@ sənin 63
 Sənin 61
 artıq 61
 kömək 59
+Toma 59
 etmək 58
 bilmirəm 58
 Zəhmət 58
-Toma 58
+Meri 58
 kim 57
-Meri 57
 baş 57
 onun 56
 məni 56
@@ -145,15 +145,16 @@ istəmirəm 35
 Onların 35
 Prezidenti 35
 harada 34
+nədir 34
 yaşayıram 34
 alma 34
 danışa 34
 yerə 34
 isə 33
+Sənə 33
 deyildi 33
 yeni 33
 qulaq 33
-nədir 32
 məktəbə 32
 olmaq 32
 olan 32
@@ -164,7 +165,6 @@ sevir 31
 Məncə 31
 Dünən 31
 oldu 31
-Sənə 31
 qəbul 31
 sizə 31
 Əgər 31
@@ -224,6 +224,7 @@ bax 24
 çoxlu 24
 sadəcə 24
 su 24
+Sizə 24
 eləyin 24
 səhər 23
 geri 23
@@ -243,7 +244,6 @@ olar 22
 olur 22
 Ən 22
 arasında 22
-Sizə 22
 Əliyevin 22
 on 21
 dörd 21
@@ -268,6 +268,7 @@ yenidən 20
 əmək 20
 İsa 20
 Sadəcə 19
+deyir 19
 həqiqəti 19
 maşın 19
 demək 19
@@ -284,7 +285,6 @@ deyillər 19
 çətindir 18
 həll 18
 adı 18
-deyir 18
 maşını 18
 hardadır 18
 olsun 18
@@ -2037,6 +2037,8 @@ Tövbə 4
 Sorğu-sual 4
 Kapitulyasiya 4
 dəyməz 4
+uzanıb 4
+dəxli 4
 Sabahınız 3
 sirr 3
 çiçəkdir 3
@@ -2542,6 +2544,7 @@ saxlamaq 3
 ümid 3
 vaxtda 3
 dərs 3
+Dilin 3
 vurğuladı 3
 Ali 3
 Demək 3
@@ -2823,6 +2826,7 @@ biznes 3
 Özünüz 3
 Qalib 3
 ağrıdır 3
+doğurdan 3
 Öncə 3
 Şalvarınızı 3
 Şalvarını 3
@@ -4792,7 +4796,6 @@ dart 2
 düzəldin 2
 məəttəl 2
 qalıblar 2
-doğurdan 2
 ağıllıdır 2
 azdılar 2
 Sabit 2
@@ -8385,7 +8388,6 @@ açmağa 1
 qoydun 1
 bacardığın 1
 dinlərə 1
-Dilin 1
 mənşəyi 1
 nəzəriyyələr 1
 dərmanı 1
@@ -9996,5 +9998,3 @@ liderlər 1
 komissiyalarına 1
 tapşırıqlar 1
 veriblər 1
-Tərəflər 1
-etimad 1

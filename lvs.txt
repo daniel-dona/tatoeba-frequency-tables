@@ -1,5 +1,5 @@
-ir 2908
-Es 2083
+ir 2909
+Es 2084
 Toms 870
 ka 840
 to 809
@@ -45,8 +45,8 @@ var 174
 viņu 171
 patīk 167
 kaut 167
+Tomam 162
 pārāk 161
-Tomam 161
 ne 146
 Kā 145
 Tā 145
@@ -746,6 +746,7 @@ kokos 11
 bailēm 11
 Labrīt 10
 interesanti 10
+nopirku 10
 trīsdesmit 10
 Protams 10
 kurienes 10
@@ -840,7 +841,6 @@ apskaužu 10
 Sveiki 9
 citam 9
 nopirka 9
-nopirku 9
 bojā 9
 bīstami 9
 garš 9
@@ -5891,6 +5891,7 @@ taisīt 2
 Skaiti 2
 ievaidējās 2
 daiļrunīga 2
+kaķēns 2
 Džon 1
 Maiks 1
 Nensija 1
@@ -9997,4 +9998,3 @@ pastāvīga 1
 augšienes 1
 laupījumu 1
 porno 1
-ārdurvis 1

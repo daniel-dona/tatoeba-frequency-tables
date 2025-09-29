@@ -1,11 +1,11 @@
 Ech 252
-ass 228
+ass 229
 du 93
 net 81
-Dir 79
+Dir 80
 an 64
 e 57
-dir 54
+dir 55
 Tom 53
 hunn 51
 huet 48
@@ -14,11 +14,11 @@ sinn 44
 Wat 42
 eng 39
 Den 39
+Et 38
 si 38
 Mir 38
 et 36
-Et 36
-der 34
+der 35
 Hutt 33
 de 31
 hu 29
@@ -29,10 +29,10 @@ gär 28
 Wou 28
 Si 27
 scho 26
+mir 26
 zu 25
 keng 25
 den 24
-mir 24
 mech 22
 Hues 22
 Dat 21
@@ -50,12 +50,12 @@ Meng 17
 gesinn 17
 Auer 17
 bass 16
+sidd 16
 am 16
 kann 16
 wunnen 15
 aus 15
 Du 15
-sidd 15
 Hie 15
 kee 15
 Lëtzebuerg 14
@@ -74,10 +74,12 @@ vu 12
 Lëtzebuergesch 12
 oder 12
 Mäi 11
+Iech 11
+geet 10
 Fra 10
+gutt 10
 wéi 10
 Bass 10
-Iech 10
 haut 10
 schaffen 10
 dass 10
@@ -90,8 +92,6 @@ Ass 9
 Sidd 9
 Är 9
 Kanner 9
-geet 8
-gutt 8
 mäi 8
 Stad 8
 al 8
@@ -102,6 +102,7 @@ Joer 8
 weess 8
 hëllefen 8
 Kaz 8
+Numm 8
 komme 8
 brauch 7
 dem 7
@@ -115,7 +116,6 @@ Papp 7
 véier 7
 schwätze 7
 dech 7
-Numm 7
 frou 7
 ëmmer 6
 liesen 6
@@ -128,6 +128,7 @@ muer 6
 bei 6
 eppes 6
 wunnt 6
+Mäin 6
 Recht 6
 iech 6
 Franséisch 6
@@ -135,6 +136,7 @@ Kënnt 6
 Äre 6
 Kaffi 6
 ka 6
+An 6
 hoffen 6
 kënnt 6
 Kann 6
@@ -162,11 +164,9 @@ sechs 5
 siwen 5
 zéng 5
 Wunnt 5
-Mäin 5
 ee 5
 Belsch 5
 do 5
-An 5
 däi 5
 kënne 5
 Zäit 5
@@ -232,6 +232,7 @@ erausfannen 4
 iwwerhaapt 4
 Park 4
 gewielt 4
+A 4
 schwätzt 4
 wunne 4
 bestuet 4
@@ -489,7 +490,6 @@ braucht 2
 Apdikt 2
 matbréngen 2
 D'Maria 2
-A 2
 waarm 2
 drénken 2
 Eltere 2
@@ -532,6 +532,7 @@ schmaacht 2
 immens 2
 vir 2
 hat 2
+bäi 2
 Gréng 1
 Idien 1
 ouni 1
@@ -1378,3 +1379,6 @@ Bläistëfter 1
 Krichsverbriecher 1
 "respektable 1
 Partner" 1
+Helden 1
+Rei 1
+Gabriel 1

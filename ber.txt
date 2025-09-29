@@ -1,12 +1,12 @@
 ad 186945
-n 154190
+n 154189
 d 114923
-ara 92901
+ara 92900
 ay 71472
-i 65513
+i 65512
 deg 59743
-Ur 54295
-ur 49405
+Ur 54294
+ur 49404
 Tom 42493
 asegzawal 39624
 ɣer 34231
@@ -48,7 +48,7 @@ am 6275
 Melmi 6225
 ayen 5993
 yiwet 5841
-mi 5818
+mi 5817
  5688
 tidet 5671
 Rima 5563
@@ -108,7 +108,7 @@ Silya 2887
 La 2881
 medden 2866
 amek 2864
-tura 2862
+tura 2859
 wayen 2831
 yeɣs 2784
 imi 2770
@@ -274,7 +274,7 @@ Werǧin 1342
 yedda 1339
 Mazal 1331
 dduɣ 1324
-idrimen 1320
+idrimen 1319
 fell-i 1312
 yimsujji 1310
 Tedda 1306
@@ -355,7 +355,7 @@ ufus 998
 iṛuḥ 990
 tebɣi 989
 anect 986
-mraw 983
+mraw 982
 Tellam 978
 liɣ 978
 ta 977
@@ -420,8 +420,8 @@ Atan 857
 anwa 856
 Tanemmirt 851
 Maci 851
-Tura 851
 yexdem 850
+Tura 850
 nettaɣ-d 849
 Tesɛa 848
 amaynu 843
@@ -456,8 +456,8 @@ tafat 795
 tufiḍ 795
 uẓawan 789
 tɣawla 788
+tɣawsiwin 787
 wussan 786
-tɣawsiwin 786
 tɣawsa 779
 Sriɣ 779
 igerrzen 775
@@ -786,7 +786,7 @@ tmerwin 459
 Ihi 459
 akamyun 455
 ilem 455
-xedmeɣ 453
+xedmeɣ 454
 Meqqran 453
 Lwennas 453
 tetteddu 452
@@ -929,10 +929,10 @@ nebɣi 389
 tesɛid 389
 Geldun 389
 Salem 388
-semmus 387
 wusu 387
 Ɣer 387
 Karim 387
+semmus 386
 iman-ik 386
 d-yetteddun 384
 tamawt 383
@@ -4036,6 +4036,7 @@ ini-iyi-d 90
 texxamt-a 90
 Swiɣ 90
 awraɣ 90
+mmteɣ 90
 yeẓẓel 90
 asafar 90
 ini 90
@@ -4066,7 +4067,6 @@ d-ufiɣ 89
 yilsawen 89
 sslam 89
 ṛjuɣ 89
-mmteɣ 89
 qebleɣ 89
 inebgawen 89
 Yekkat 89
@@ -4179,7 +4179,6 @@ ternum 86
 twaɣit 86
 Ugint 86
 tilawt 86
-Ṭum 86
 Awi 86
 yigḍaḍ 86
 ldint 86
@@ -4331,6 +4330,7 @@ ttnadint 82
 teddred 82
 Qqimemt 82
 yeffiɣ 82
+Ṭum 82
 tuɣalemt 82
 teččam 82
 simira 82
@@ -9169,7 +9169,6 @@ tmellilt 31
 tettarmemt 31
 uṣeddar 31
 8:00 31
-ɛeddant 31
 tɛeddim 31
 tẓallit 31
 iwalan 31
@@ -9407,6 +9406,7 @@ arraw-iw 30
 teǧǧemt 30
 tettarmem 30
 amahil-nsent 30
+ɛeddant 30
 ttemsudanen 30
 tsegnatin 30
 tukḍem 30

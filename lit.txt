@@ -1,5 +1,5 @@
 Aš 21278
-Tomas 11395
+Tomas 11401
 yra 9646
 kad 8777
 tu 7759
@@ -9,8 +9,8 @@ aš 6142
 į 4944
 ir 4707
 tai 4633
-Ji 4563
-Tu 4359
+Ji 4564
+Tu 4361
 su 4183
 Mes 4041
 savo 3922
@@ -19,7 +19,7 @@ Tai 3692
 man 3524
 jūs 3315
 iš 3237
-labai 3128
+labai 3132
 jis 3051
 Jie 2605
 mano 2605
@@ -29,7 +29,7 @@ kaip 2249
 ne 2243
 Jūs 2202
 tau 2182
-turi 2053
+turi 2055
 tą 1942
 taip 1932
 čia 1864
@@ -90,7 +90,7 @@ padaryti 837
 daugiau 824
 gerai 822
 mūsų 803
-esi 794
+esi 796
 tavęs 792
 Jo 777
 pat 773
@@ -113,7 +113,7 @@ Kiek 688
 Prašau 687
 negaliu 686
 šito 662
-tikrai 658
+tikrai 660
 dieną 641
 bus 635
 po 625
@@ -141,7 +141,7 @@ kartą 518
 namo 516
 juo 516
 mus 513
-Jos 511
+Jos 512
 nežinau 510
 buvau 509
 gyvena 508
@@ -174,8 +174,8 @@ pas 424
 Mums 424
 mėgsta 422
 darbą 417
+atrodo 416
 Kai 415
-atrodo 415
 greitai 415
 neturi 413
 tėvas 411
@@ -3036,6 +3036,7 @@ apsvarstyti 23
 pasisekimo 23
 mandagus 23
 ''Aš 23
+išvaizda 23
 džiaugsmo 23
 padėtį 23
 vandenyje 23
@@ -3150,7 +3151,6 @@ susirinkimą 22
 mėgina 22
 rūkas 22
 sumą 22
-išvaizda 22
 rezultatas 22
 gatvė 22
 traukia 22
@@ -4308,6 +4308,7 @@ akmuo 15
 dalies 15
 teisūs 15
 Vokietijos 15
+kačiuką 15
 naudos 15
 žodyne 15
 Žinai 15
@@ -4556,7 +4557,6 @@ tariant 14
 kažkuo 14
 neateina 14
 gaisras 14
-kačiuką 14
 atnešei 14
 miško 14
 neteisinga 14
@@ -7898,6 +7898,7 @@ tęstis 7
 saldumynus 7
 buvusi 7
 jauną 7
+ligota 7
 stipresni 7
 užtemimas 7
 juokauti 7
@@ -8928,7 +8929,6 @@ nesusipratimas 6
 Likimas 6
 kęsti 6
 pritari 6
-ligota 6
 šansai 6
 draudimą 6
 tėra 6

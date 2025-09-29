@@ -1,20 +1,20 @@
-es 3446
-Yo 2527
+es 3452
+Yo 2529
 un 2000
 li 1818
 Tom 1623
 ne 1505
 Li 866
-in 830
+in 833
 tu 802
 have 767
 Esque 762
-Il 713
+Il 714
 ha 666
 esset 637
 que 593
-de 590
-Ella 510
+de 591
+Ella 511
 to 505
 quo 462
 va 457
@@ -23,11 +23,11 @@ Noi 440
 it 435
 save 431
 e 417
-vole 415
+vole 416
 yo 415
 mi 411
 Tu 380
-It 337
+It 340
 To 331
 a 304
 tre 303
@@ -99,7 +99,7 @@ parlat 87
 nov 84
 felici 84
 Ne 83
-du 81
+du 82
 qui 80
 Qualmen 80
 annus 80
@@ -164,9 +164,9 @@ patre 54
 yun 54
 In 54
 sestra 53
+aqua 53
 francesi 53
 auxiliar 52
-aqua 52
 scrit 52
 ver 52
 fémina 51
@@ -194,6 +194,7 @@ filia 43
 important 43
 Quant 43
 venir 43
+possibil 43
 trinca 43
 standa 42
 long 42
@@ -201,7 +202,6 @@ per 42
 veni 42
 ocules 42
 vider 42
-possibil 42
 land 41
 manjat 41
 alquó 41
@@ -254,10 +254,12 @@ púer 30
 amica 30
 question 30
 audit 30
+lingues 30
 obliviat 30
 chascun 30
 labor 30
 genitores 30
+Australia 30
 devenit 30
 frigid 29
 morit 29
@@ -265,7 +267,6 @@ amat 29
 lacte 29
 Chascun 29
 trovar 29
-lingues 29
 maritat 29
 espera 29
 mortat 29
@@ -287,7 +288,6 @@ anglesi 27
 idé 27
 libres 27
 hat 27
-Australia 27
 lentmen 27
 bebé 26
 ante 26
@@ -348,6 +348,7 @@ Yes 21
 sovente 21
 Ci 21
 Esperanto 21
+aprende 21
 guerre 21
 clave 21
 quelc 21
@@ -360,7 +361,6 @@ problemas 21
 studiat 21
 Trinca 21
 dies 20
-aprende 20
 scola 20
 provat 20
 jardin 20
@@ -1532,6 +1532,7 @@ vigil 3
 universitá 3
 torturat 3
 cap-dolore 3
+Pace 3
 viagear 3
 Pane 3
 gantes 3
@@ -2001,7 +2002,6 @@ desórdine 2
 nett 2
 aboya 2
 München 2
-Pace 2
 instructe 2
 1960 2
 frument 2
@@ -2414,6 +2414,7 @@ fact 2
 beson 2
 argument 2
 rational 2
+star 2
 origine 2
 alternatives 2
 parlatores 2
@@ -2788,6 +2789,7 @@ littere 2
 norm) 2
 images 2
 Epstein 2
+vapor 2
 puelles 1
 Brian 1
 Rock 1
@@ -4203,7 +4205,6 @@ avantages 1
 apportar 1
 índubitabil 1
 apprendet 1
-star 1
 extra 1
 defini 1
 normes 1

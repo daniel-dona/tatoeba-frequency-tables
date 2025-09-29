@@ -6,16 +6,16 @@ di 2676
 itu 2069
 Dia 1920
 ini 1821
-Saya 1574
+Saya 1575
 kamu 1445
 akan 1342
 saya 1141
 dengan 1129
 bisa 1091
-aku 1090
+aku 1091
 dan 997
 adalah 964
-ke 963
+ke 964
 untuk 875
 ada 862
 dia 809
@@ -23,10 +23,10 @@ dari 770
 pergi 740
 ingin 722
 Apa 715
-Kamu 695
+Kamu 696
 sudah 691
 tahu 683
-Apakah 677
+Apakah 678
 Mary 644
 Anda 620
 orang 608
@@ -42,7 +42,7 @@ sedang 490
 Kami 475
 makan 471
 punya 461
-Ini 446
+Ini 447
 hari 441
 pada 431
 banyak 417
@@ -60,7 +60,7 @@ telah 329
 melihat 324
 Jangan 316
 rumah 313
-mau 309
+mau 310
 Tidak 301
 datang 296
 melakukan 292
@@ -87,7 +87,7 @@ hal 237
 dua 228
 sekali 225
 waktu 225
-buku 222
+buku 223
 baru 215
 berbicara 214
 juga 213
@@ -208,16 +208,16 @@ kata 98
 diri 98
 paling 97
 Sudah 97
+bersama 97
 sedikit 96
 boleh 96
 cara 96
 mendengar 96
 Hari 96
+hujan 96
 berhenti 96
 keluar 96
-bersama 96
 cepat 95
-hujan 95
 kucing 95
 musim 94
 cukup 94
@@ -239,9 +239,9 @@ senang 87
 negara 87
 tiba 87
 Kapan 87
+Sekarang 87
 membantu 86
 menggunakan 86
-Sekarang 86
 dingin 85
 tersebut 85
 hampir 84
@@ -477,6 +477,7 @@ membuatku 40
 tolong 39
 menolak 39
 Kucing 39
+masa 39
 menjual 39
 tanggal 39
 empat 39
@@ -488,7 +489,7 @@ gunung 39
 Tokyo 38
 minta 38
 manusia 38
-masa 38
+Nama 38
 bukanlah 38
 buah 38
 benci 38
@@ -500,7 +501,6 @@ Mau 37
 para 37
 saling 37
 biasa 37
-Nama 37
 kaya 37
 maaf 37
 dilakukan 37
@@ -570,6 +570,7 @@ satu-satunya 33
 aneh 33
 mengenakan 33
 mempelajari 33
+polisi 33
 memutuskan 32
 membayar 32
 akhir 32
@@ -588,7 +589,6 @@ paham 32
 roti 32
 ekor 32
 gila 32
-polisi 32
 berdua 32
 mirip 31
 berikan 31
@@ -680,6 +680,7 @@ membosankan 27
 mencuci 27
 20 27
 mengajar 27
+tau 27
 Pernahkah 27
 Yanni 27
 gadis 26
@@ -704,7 +705,6 @@ rencana 26
 meminjam 26
 Italia 26
 sukai 26
-tau 26
 terluka 25
 kabar 25
 Tak 25
@@ -980,6 +980,7 @@ Salah 17
 Bukan 17
 selain 17
 Tapi 17
+Jack 17
 menyebabkan 17
 ibumu 17
 lampu 17
@@ -1024,7 +1025,6 @@ pajak 16
 Bob 16
 sungguh 16
 Jumat 16
-Jack 16
 diriku 16
 Cinta 16
 gula 16
@@ -1195,6 +1195,7 @@ selanjutnya 14
 Bahkan 14
 semi 14
 Musim 14
+pacarku 14
 meskipun 14
 memberitahukan 14
 lanjut 14
@@ -1266,7 +1267,6 @@ maupun 13
 temannya 13
 bersenang-senang 13
 tukang 13
-pacarku 13
 membiarkan 13
 benda 13
 ternyata 13
@@ -1288,6 +1288,7 @@ Cukai 13
 gitu 13
 sapi 13
 Turki 13
+Aljazair 13
 tombol 13
 terkena 12
 sempit 12
@@ -1380,9 +1381,9 @@ lelucon 12
 hebat 12
 astronomi 12
 ngantuk 12
+pasar 12
 Ikan 12
 Jackson 12
-Aljazair 12
 pacarnya 11
 surga 11
 seberang 11
@@ -1497,7 +1498,6 @@ kulit 11
 Buka 11
 kacang 11
 berjam-jam 11
-pasar 11
 Istri 11
 pisang 11
 masjid 11
@@ -1783,6 +1783,7 @@ Universitas 9
 tinggalkan 9
 muka 9
 pingsan 9
+ga 9
 membuang-buang 9
 Andai 9
 listrik 9
@@ -1948,7 +1949,6 @@ tergesa-gesa 8
 asli 8
 Bangunan 8
 lu 8
-ga 8
 ayo 8
 Latin 8
 melepas 8
@@ -2079,6 +2079,7 @@ sahabat 7
 kerumah 7
 memenuhi 7
 bahaya 7
+Panggil 7
 hukuman 7
 meninggalkanmu 7
 bersemangat 7
@@ -2296,6 +2297,7 @@ perbuatan 6
 renang 6
 Aneh 6
 Burung-burung 6
+Ah 6
 Kali 6
 laki-lakimu 6
 Kue 6
@@ -2329,7 +2331,6 @@ lusa 6
 ketemu 6
 Cepatlah 6
 sepedaku 6
-Panggil 6
 sewa 6
 sinar 6
 kebetulan 6
@@ -2594,7 +2595,6 @@ Kesehatan 5
 Lisa 5
 perhatian 5
 kapanpun 5
-Ah 5
 Vas 5
 pecah 5
 dipegang 5
@@ -6045,7 +6045,6 @@ lama-lama 2
 soalnya 2
 METRO 2
 Menhad 2
-Algeria 2
 Statistik 2
 prediksi 2
 Butik 2
@@ -6604,6 +6603,7 @@ seniman 2
 Supaya 2
 Kecap 2
 wajahmu 2
+mah 2
 Slovak 2
 Lituavi 2
 pembaruan 2

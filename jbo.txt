@@ -1,6 +1,6 @@
-lo 12937
+lo 12938
 mi 6288
-cu 3564
+cu 3565
 do 3383
 la 3066
 pu 2337
@@ -12,7 +12,7 @@ na 1640
 be 1355
 ko'a 1303
 ma 1239
-ka 1226
+ka 1227
 ko 1133
 ca 996
 tom 952
@@ -34,7 +34,7 @@ li 440
 loi 438
 zvati 436
 mutce 418
-ku 414
+ku 415
 djuno 404
 cusku 394
 prenu 376
@@ -400,12 +400,12 @@ ju'o 41
 flipo 41
 smaji 40
 farlu 40
+cumki 40
 pu'o 40
 lebna 40
 zenba 40
 retsku 40
 cu'i 40
-cumki 39
 ti'u 39
 snime 39
 junla 39
@@ -744,6 +744,7 @@ vlacku 18
 djon 18
 tilju 18
 culno 18
+panpi 18
 spita 18
 krixa 18
 bakni 18
@@ -776,7 +777,6 @@ tordu 17
 ru'i 17
 dotco 17
 mitre 17
-panpi 17
 ni'a 17
 uinai 17
 iu 17

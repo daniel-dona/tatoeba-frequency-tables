@@ -1,5 +1,5 @@
-es 234
-Me 134
+es 235
+Me 135
 Li 84
 li 83
 Tom 77
@@ -21,8 +21,8 @@ e 25
 vun 24
 Nus 24
 esed 24
+de 22
 voli 22
-de 21
 jupe 21
 Vu 20
 ama 20
@@ -82,12 +82,14 @@ les 6
 tu 6
 tri 6
 morid 6
+du 6
 dikte 6
 Vus 6
 fema 6
 dona 6
 tum 6
 disi 6
+Lum 6
 porta 6
 femas 6
 Femas 6
@@ -99,7 +101,6 @@ haver 5
 vusen 5
 Lan 5
 del 5
-du 5
 Vun 5
 tempe 5
 ve 5
@@ -111,7 +112,6 @@ vida 5
 audi 5
 Sami 5
 labora 5
-Lum 5
 portad 5
 pueras 5
 longi 5
@@ -150,6 +150,7 @@ judes 4
 robes 4
 monde 4
 se 4
+lerna 4
 venid 4
 rosikolori 4
 Disdi 4
@@ -225,7 +226,6 @@ kanta 3
 odiad 3
 red 3
 vilaje 3
-lerna 3
 mentiad 3
 mentia 3
 Boston 3
@@ -327,6 +327,7 @@ nulum 2
 pekunie 2
 exemple 2
 montes 2
+aque 2
 mali 2
 flage 2
 nigri 2
@@ -629,7 +630,6 @@ infanto 1
 perda 1
 nos 1
 proba 1
-aque 1
 gusta 1
 Nosen 1
 Lucy 1
@@ -928,3 +928,5 @@ stranji 1
 munde 1
 skole 1
 revolutionaro 1
+lingues 1
+vapore 1

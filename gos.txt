@@ -1,21 +1,21 @@
 k 1776
-is 1609
-t 1489
-n 1426
+is 1610
+t 1490
+n 1428
 nait 819
 Tom 806
 Hai 597
 van 594
 binnen 517
-dat 475
-Ik 450
+dat 476
+Ik 451
 ien 404
 het 403
-mie 399
+mie 400
 te 373
 Wie 371
 op 370
-mien 340
+mien 341
 mit 333
 Is 318
 en 309
@@ -85,9 +85,9 @@ Hol 88
 hai 88
 muide 88
 goud 86
+wil 86
 Hest 86
 eten 85
-wil 85
 bouk 84
 kovvie 84
 Was 83
@@ -332,6 +332,7 @@ drinkt 21
 Welk 21
 ollu 21
 stoan 21
+levent 21
 lèst 21
 Moi 20
 leven 20
@@ -347,7 +348,6 @@ Ien 20
 stoer 20
 verlet 20
 vannijs 20
-levent 20
 alles 20
 wachten 19
 schier 19
@@ -397,6 +397,7 @@ vizzen 18
 wichtje 18
 mìnsen 18
 net 18
+mooi 18
 In 18
 handdouk 18
 vaaier 17
@@ -419,7 +420,6 @@ hangt 17
 haand 17
 altied 17
 Loat 17
-mooi 17
 vertelde 17
 zat 16
 Ain 16
@@ -476,6 +476,7 @@ pizza 15
 traauwd 15
 ja 15
 geeft 15
+woordenbouk 15
 woarhaid 15
 sturven 15
 beurt 15
@@ -513,7 +514,6 @@ speulen 14
 dochter 14
 Hestoe 14
 leerd 14
-woordenbouk 14
 Wees 14
 dienent 14
 doen 13
@@ -626,6 +626,7 @@ Docht 11
 zotterdag 11
 Guster 11
 mos 11
+verhoal 11
 omdeel 11
 fiets 11
 joenent 11
@@ -640,6 +641,7 @@ lòpt 11
 makkelk 11
 vlouer 11
 verdraiteg 11
+bloots 11
 foto 11
 stellen 11
 vermoord 11
@@ -689,7 +691,6 @@ licht 10
 Begriep 10
 Wichter 10
 Mot 10
-verhoal 10
 kom 10
 keerzen 10
 verkòllen 10
@@ -711,7 +712,6 @@ Magst 10
 paark 10
 vonden 10
 Hoop 10
-bloots 10
 waitenschop 10
 Vergeet 10
 swien 10
@@ -889,6 +889,7 @@ kwoad 8
 vuil 8
 kwiet 8
 Paas 8
+terug 8
 schrift 8
 schuldeg 8
 meugelkhaid 8
@@ -1015,7 +1016,6 @@ plan 7
 schoule 7
 veurzichteg 7
 gewoon 7
-terug 7
 vlinder 7
 schoulapper 7
 lasteg 7
@@ -1093,6 +1093,7 @@ Graikenlaand 6
 welke 6
 woensdag 6
 Skotlaand 6
+Vertel 6
 kriegen 6
 groaden 6
 Botter 6
@@ -1264,7 +1265,6 @@ börger 5
 nee 5
 Tot 5
 Svitzerlaand 5
-Vertel 5
 drift 5
 Vinst 5
 zólst 5
@@ -1392,6 +1392,7 @@ oor 5
 online 5
 spinoazie 5
 stoulen 5
+Dinkst 5
 derin 5
 opstoan 5
 houst 5
@@ -1467,6 +1468,7 @@ gevoarelk 4
 Amsterdam 4
 zette 4
 even 4
+dreum 4
 leggen 4
 tieden 4
 swom 4
@@ -1709,7 +1711,6 @@ koezen 4
 kat 4
 interesse 4
 parreplu 4
-Dinkst 4
 vertoaling 4
 deure 4
 wos 4
@@ -1819,7 +1820,6 @@ Helsinki 3
 moanden 3
 kontinent 3
 Schreef 3
-dreum 3
 atten 3
 bunzelachteg 3
 fluusterde 3
