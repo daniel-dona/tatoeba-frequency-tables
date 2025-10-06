@@ -1,21 +1,21 @@
-ang 34275
-sa 27516
-ng 26041
-na 16489
+ang 34277
+sa 27520
+ng 26042
+na 16491
 po 13818
-ko 12379
-mga 12021
+ko 12380
+mga 12023
 Tom 9469
-si 8829
+si 8830
 ako 8220
 ni 6198
-mo 6122
+mo 6124
 Hindi 5977
 at 5447
-ba 5197
-niya 4756
+ba 5199
+niya 4757
 ay 4661
-ito 4574
+ito 4575
 siya 4497
 May 3978
 nang 3714
@@ -25,16 +25,16 @@ hindi 3011
 akong 2853
 isang 2840
 may 2743
-kong 2541
+kong 2542
 ninyo 2520
 para 2458
-kung 2404
+kung 2405
 Sa 2223
 iyon 2113
 iyan 2067
 pa 1956
 pong 1787
-lang 1755
+lang 1756
 Gusto 1553
 kayo 1550
 kanyang 1454
@@ -58,7 +58,7 @@ Huwag 999
 bang 995
 mong 994
 gusto 992
-gawin 989
+gawin 990
 tao 968
 Alam 940
 araw 905
@@ -81,7 +81,7 @@ nasa 642
 bata 637
 kayong 634
 'nyo 633
-kanya 629
+kanya 631
 aking 624
 iyo 618
 kang 618
@@ -92,7 +92,7 @@ buhay 599
 yaong 592
 loob 589
 dapat 587
-walang 580
+walang 581
 Puwede 576
 Maraming 570
 kaming 553
@@ -100,9 +100,9 @@ ibang 552
 kaysa 546
 tungkol 545
 taong 540
+kaya 539
 umaga 539
 Sabi 539
-kaya 538
 Nasa 526
 itong 523
 wala 515
@@ -111,7 +111,7 @@ tingin 510
 Sino 503
 roon 502
 pumunta 500
-parang 492
+parang 493
 anak 486
 lamang 486
 Dapat 482
@@ -149,7 +149,7 @@ talaga 401
 bago 400
 Mayroon 399
 dalawang 399
-ilang 398
+ilang 399
 trabaho 397
 kumain 395
 puwedeng 391
@@ -224,7 +224,7 @@ baka 268
 ginawa 266
 mundo 264
 kastilyo 263
-pusa 258
+pusa 259
 Sinabi 258
 lugar 256
 asawa 255
@@ -242,7 +242,7 @@ ginagawa 244
 Mga 242
 pamilya 240
 Tomas 240
-bakit 238
+bakit 239
 pagkatapos 237
 berdeng 237
 lalaking 236
@@ -601,11 +601,11 @@ Nagsimula 93
 kama 93
 galit 93
 sanggol 92
+Mayroong 92
 pangungusap 92
 awto 92
 umiinom 92
 ina 92
-Mayroong 91
 laban 91
 madaling 91
 dalampasigan 91
@@ -1820,6 +1820,7 @@ kinuha 30
 pansit 30
 estatwa 30
 Lola 30
+tumakas 30
 nakikitang 30
 ninuno 30
 George 30
@@ -1887,7 +1888,6 @@ alipin 29
 Kristiyano 29
 natutuwa 29
 pag-isipan 29
-tumakas 29
 itik 29
 2017 29
 ika-22 29
@@ -2023,6 +2023,7 @@ bakasyon 26
 tungkulin 26
 Tinulungan 26
 nagtrabaho 26
+makuha 26
 Inabot 26
 uwak 26
 Nakasuot 26
@@ -2096,7 +2097,6 @@ matandaan 25
 Siguro 25
 nagnakaw 25
 nobela 25
-makuha 25
 hininga 25
 binasa 25
 kasiyahan 25
@@ -2141,6 +2141,7 @@ pagkakaibigan 25
 mang-aawit 25
 nagbabantay 25
 isara 25
+kakailanganin 25
 gaya 25
 naghintay 25
 nawawala 25
@@ -2217,7 +2218,6 @@ patakaran 24
 Madilim 24
 sangkot 24
 muling 24
-kakailanganin 24
 Nakatanggap 24
 nag-aalala 24
 totoong 24
@@ -3707,6 +3707,7 @@ Lalabas 13
 kabisera 13
 gagamitin 13
 Halatang 13
+dokumento 13
 paligsahan 13
 alituntunin 13
 Sinira 13
@@ -3971,7 +3972,6 @@ pag-alis 12
 'yung 12
 silid-aklatan 12
 magkita 12
-dokumento 12
 nasusunog 12
 Narito 12
 iyak 12
@@ -4039,6 +4039,7 @@ bakterya 12
 Esperanto: 12
 Nilalagyan 12
 Responsibilidad 12
+Yumi 12
 dula 12
 pangangailangan 12
 loro 12
@@ -4314,7 +4315,6 @@ motibasyon 11
 magkapatid 11
 walo 11
 humindi 11
-Yumi 11
 matatas 11
 pinanggalingan 11
 Bumoto 11
@@ -4366,6 +4366,7 @@ Nakinig 11
 Pangit 11
 magbukas 11
 libingan 11
+pasok 11
 titik 11
 nakakahanap 11
 Santa 11
@@ -4419,6 +4420,7 @@ Namasyal 11
 tibok 11
 malulutas 11
 tumutubo 11
+pagtatapos 11
 Diyan 11
 Paabot 11
 lalangoy 11
@@ -4677,7 +4679,6 @@ platong 10
 Naputol 10
 hanapbuhay 10
 ikakasal 10
-pasok 10
 itatanong 10
 sirko 10
 Kotse 10
@@ -4734,7 +4735,6 @@ Nakatakas 10
 dalubtala 10
 talento 10
 inasahan 10
-pagtatapos 10
 Bagsak 10
 nagtayo 10
 magbabayad 10
@@ -6179,6 +6179,7 @@ tinedyer 7
 pag-iyak 7
 mayamang 7
 kamayan 7
+ha 7
 katulong 7
 Nagkakamali 7
 baryo 7
@@ -6310,6 +6311,7 @@ kinayod 7
 nakikinabang 7
 Aprikano 7
 Protestante 7
+"Alam 7
 utoy" 7
 Arnie 7
 "Bakit" 7
@@ -6850,7 +6852,6 @@ patpat 6
 dosenang 6
 nabasag 6
 Hilaw 6
-ha 6
 hiya 6
 Marika 6
 Lawa 6
@@ -7005,7 +7006,6 @@ babala 6
 labahan 6
 Papakainin 6
 estado 6
-"Alam 6
 e" 6
 mentang 6
 edipisyong 6
@@ -7097,6 +7097,7 @@ antena 6
 magkasya 6
 kosmos 6
 Budismong 6
+ngayon" 6
 Ainu 6
 Srivijaya 6
 Kanadyanong 6
@@ -8207,7 +8208,6 @@ ateista 5
 nagseselos 5
 koridor 5
 Viktor 5
-ngayon" 5
 ideya-ideya 5
 pag-aayos 5
 12 5
@@ -9487,6 +9487,7 @@ tsimpanse 4
 Anim 4
 pisara 4
 Ipinadala 4
+hihilingin 4
 de-kuryente 4
 pampainit 4
 libro" 4
@@ -9997,4 +9998,3 @@ L'Empire 4
 romain 4
 Grimal 4
 singkit 4
-Lumalanghap 4

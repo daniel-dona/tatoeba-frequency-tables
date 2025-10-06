@@ -1,8 +1,8 @@
 Tomas 842
 No 612
-das 558
+das 559
 binom 495
-no 489
+no 492
 etosi 426
 in 331
 obik 292
@@ -16,17 +16,17 @@ Kikod 158
 obe 157
 is 147
 olik 142
+at 141
 ko 138
-at 138
 Kisi 132
 vemo 121
 Vilob 110
+obi 108
 Binob 107
 ob 105
-oli 100
+oli 103
 Nolob 99
 yufön 98
-obi 95
 gudik 95
 et 94
 omi 92
@@ -181,18 +181,19 @@ penedi 24
 Logob 24
 ofik 24
 u 24
+oni 24
+Cil 24
 Kanob 24
 God 24
 ya 24
 Spikol-li 24
+Ätikob 24
 Li-tikol 24
 su 23
-oni 23
 Mens 23
 flens 23
 mens 23
 kim 23
-Ätikob 23
 Spikols-li 23
 smalik 22
 fa 22
@@ -253,6 +254,7 @@ malädik 18
 I 18
 lü 17
 bukis 17
+Kikodo 17
 liegik 17
 Mutobs 17
 mot 17
@@ -260,7 +262,6 @@ mot 17
 oms 17
 lödom 17
 so 16
-Kikodo 16
 Kis 16
 bür 16
 Labof 16
@@ -280,7 +281,6 @@ isi 16
 binobs 16
 Te 16
 binon-li 15
-Cil 15
 dogis 15
 labof 15
 cem 15
@@ -289,6 +289,7 @@ jimatel 15
 kanof 15
 Li-löfol 15
 gudikum 15
+el 15
 Sevob 15
 fati 15
 nedol 15
@@ -311,7 +312,6 @@ Om 14
 vom 14
 Nelijapüki 14
 Binon 14
-el 14
 nedobs 14
 labobs 14
 kanobs 14
@@ -464,6 +464,7 @@ del 8
 mon 8
 löfoms 8
 liomödotik 8
+olis 8
 dabinon 8
 tidan 8
 Vom 8
@@ -545,6 +546,7 @@ voms 7
 dub 7
 vobob 7
 esavom 7
+Mary 7
 labon 7
 yufom 7
 sükön 7
@@ -609,9 +611,9 @@ vola 6
 änedom 6
 Lif 6
 Lödom 6
-Mary 6
 Plidol-li 6
 gebön 6
+tidans 6
 fol 6
 senöfik 6
 senälöfik 6
@@ -652,7 +654,6 @@ mel 5
 neflenis 5
 alik 5
 Söl 5
-olis 5
 Adelo 5
 ati 5
 seti 5
@@ -669,6 +670,7 @@ binof-li 5
 nim 5
 älöfom 5
 Li-kanobs 5
+palis 5
 zifa 5
 Binons 5
 nonik 5
@@ -1066,7 +1068,6 @@ vin 3
 Svedänapüki 3
 Epenom 3
 Deutän 3
-tidans 3
 dü 3
 olsik 3
 tifan 3
@@ -1099,6 +1100,7 @@ pöki 3
 Li-obinol 3
 Vat 3
 nemödiko 3
+labof-li 3
 ovedom 3
 lödoms 3
 London 3
@@ -1366,7 +1368,6 @@ obika 2
 fata 2
 deili 2
 Veg 2
-palis 2
 älabof 2
 kalodik 2
 kilid 2
@@ -1440,6 +1441,7 @@ jiblods 2
 Gonolöd 2
 oyufoms 2
 pükobs 2
+Obinoms 2
 änedol 2
 läna 2
 en 2
@@ -1513,6 +1515,7 @@ Jevods 2
 set 2
 Äsevob 2
 Grikän 2
+labom-li 2
 visitön 2
 topon-li 2
 panemon 2
@@ -1597,7 +1600,6 @@ stom 2
 neleitik 2
 teldili 2
 Älömibos 2
-labof-li 2
 badikumo 2
 dledon 2
 adas 2
@@ -1636,6 +1638,7 @@ otuvol 2
 Hetom 2
 blode 2
 flena 2
+labon-li 2
 pökön 2
 äsagoms 2
 lani 2
@@ -1959,6 +1962,9 @@ Musk 2
 motoravabi 2
 Kanitan 2
 Cein 2
+neodom 2
+neodof 2
+neodon 2
 lanan 1
 Faemob 1
 Faemol-li 1
@@ -2682,7 +2688,6 @@ Binön 1
 delidiko 1
 Kön 1
 silefik 1
-Obinoms 1
 govom 1
 Gepük 1
 blibom 1
@@ -2889,7 +2894,6 @@ topon 1
 Kipladio 1
 golol-li 1
 Lifayelis 1
-labom-li 1
 Ägivol 1
 evilom 1
 Ästebedob 1
@@ -3340,7 +3344,6 @@ nefis 1
 gemis 1
 Pükis 1
 Jveizän 1
-labon-li 1
 Buman 1
 domas 1
 nesevädik 1
@@ -5006,3 +5009,20 @@ Hikanitan 1
 Jikanitan 1
 bäseti 1
 Hetols 1
+Äflapoms 1
+Äflapofs 1
+Äflapons 1
+Ävikodoms 1
+Evikodoms 1
+Ävikodofs 1
+Evikodofs 1
+Ävikodons 1
+Evikodons 1
+Äflapon 1
+Ävikodom 1
+Ävikodon 1
+Evikodon 1
+äbludof 1
+Obinons 1
+Obinofs 1
+iglömom 1

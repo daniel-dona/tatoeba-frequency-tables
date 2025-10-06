@@ -80,7 +80,7 @@ mwisho 281
 yetu 276
 hapa 267
 ao 264
-ana 263
+ana 262
 ili 261
 gani 260
 nguvu 259
@@ -152,9 +152,9 @@ haraka 145
 jana 144
 furaha 143
 vya 143
+unaweza 142
 ingine 142
 inaweza 142
-unaweza 141
 yoyote 141
 huko 141
 dunia 140
@@ -653,7 +653,6 @@ Paris 39
 bidii 39
 jibu 39
 Napenda 39
-ishi 39
 kikuu 39
 Leo 39
 giza 39
@@ -669,6 +668,7 @@ fursa 39
 ji 38
 mashua 38
 karata 38
+ishi 38
 fika 38
 maumivu 38
 kelele 38
@@ -1939,7 +1939,6 @@ utaenda 12
 nyesha 12
 munamo 12
 runinga 12
-Chicago 12
 madaraka 12
 hayo 12
 ukiwa 12
@@ -2081,6 +2080,7 @@ musimu 11
 Unasema 11
 nakala 11
 kabila 11
+Chicago 11
 aliacha 11
 Kichina 11
 mwambia 11
@@ -2718,7 +2718,6 @@ ndjo 8
 mvulana 8
 Mwana 8
 ngoya 8
-Carol 8
 glace 8
 kuonja 8
 Jeff 8
@@ -3033,6 +3032,7 @@ afanye 7
 Hum 7
 Robert 7
 porini 7
+Carol 7
 alishindwa 7
 Roger 7
 NI 7
@@ -5491,7 +5491,6 @@ kuwe 4
 ni: 4
 Vala 4
 Mademoiselle 4
-Ji 4
 utaniambia 4
 logique 4
 Unaniona 4
@@ -7012,6 +7011,7 @@ wingi 3
 inasaidiaka 3
 aliuzisha 3
 kutenganisha 3
+Ji 3
 nyota; 3
 tuendelee 3
 tia 3

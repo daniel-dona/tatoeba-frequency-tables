@@ -1,5 +1,5 @@
-Ech 252
-ass 229
+Ech 254
+ass 231
 du 93
 net 81
 Dir 80
@@ -36,8 +36,8 @@ den 24
 mech 22
 Hues 22
 Dat 21
+Hien 20
 a 20
-Hien 19
 hei 19
 De 19
 vun 19
@@ -101,6 +101,7 @@ Wie 8
 Joer 8
 weess 8
 hëllefen 8
+schwätze 8
 Kaz 8
 Numm 8
 komme 8
@@ -114,7 +115,6 @@ hien 7
 um 7
 Papp 7
 véier 7
-schwätze 7
 dech 7
 frou 7
 ëmmer 6
@@ -165,6 +165,7 @@ siwen 5
 zéng 5
 Wunnt 5
 ee 5
+verstinn 5
 Belsch 5
 do 5
 däi 5
@@ -205,7 +206,6 @@ gitt 4
 fiert 4
 kommt 4
 neit 4
-verstinn 4
 Froen 4
 d'Gare 4
 Englesch 4
@@ -533,6 +533,7 @@ immens 2
 vir 2
 hat 2
 bäi 2
+polnesch 2
 Gréng 1
 Idien 1
 ouni 1
@@ -1382,3 +1383,5 @@ Partner" 1
 Helden 1
 Rei 1
 Gabriel 1
+Polnesch 1
+D'Anna 1

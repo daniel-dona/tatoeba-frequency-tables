@@ -1,6 +1,6 @@
-ir 2909
+ir 2910
 Es 2084
-Toms 870
+Toms 871
 ka 840
 to 809
 Man 763
@@ -8,18 +8,18 @@ un 664
 Vai 642
 Viņš 624
 es 620
-bija 553
-ar 514
+bija 554
+ar 515
 par 513
 tu 491
 Tas 488
-man 468
+man 469
 nav 466
 no 452
 tas 405
 kā 394
 ko 383
-ļoti 351
+ļoti 352
 uz 348
 esmu 316
 mani 290
@@ -28,12 +28,12 @@ kas 271
 tik 266
 Tu 259
 tā 256
-Mēs 247
+Mēs 249
 lai 239
 tev 225
 savu 211
 daudz 205
-būt 198
+būt 199
 Esmu 198
 vai 196
 bet 190
@@ -41,7 +41,7 @@ jūs 186
 viņš 182
 viņa 179
 esi 178
-var 174
+var 176
 viņu 171
 patīk 167
 kaut 167
@@ -63,9 +63,9 @@ nevaru 115
 Kāpēc 115
 viņam 114
 jau 111
+labi 110
 mēs 108
 Kas 108
-labi 108
 biju 107
 arī 104
 šodien 99
@@ -91,9 +91,9 @@ būtu 87
 Jūs 87
 Ir 86
 Šis 86
+Tomu 86
 cilvēki 85
 Tev 85
-Tomu 85
 diezgan 84
 Lūdzu 83
 nebija 83
@@ -159,9 +159,9 @@ cilvēku 50
 cilvēkiem 50
 negribu 49
 Toma 49
+labs 48
 cik 47
 būs 47
-labs 47
 dzīvo 47
 tagad 47
 doties 47
@@ -224,6 +224,7 @@ diena 33
 Kāda 33
 redzēt 33
 manis 33
+Mūsu 33
 kāpēc 33
 sāka 33
 varat 33
@@ -234,7 +235,6 @@ mūs 32
 tavu 32
 ilgi 32
 Dzīve 32
-Mūsu 32
 taisnība 32
 jābūt 32
 pārliecināts 32
@@ -271,6 +271,7 @@ grib 28
 nebiju 28
 Visi 27
 izskatās 27
+draugs 27
 tava 27
 Par 27
 vaina 27
@@ -280,7 +281,6 @@ garšo 27
 No 26
 visiem 26
 zināt 26
-draugs 26
 kādreiz 26
 pietiekami 26
 Uz 25
@@ -382,6 +382,7 @@ sāp 20
 reizēm 20
 strādāt 19
 spēj 19
+bijām 19
 agri 19
 jautājums 19
 droši 19
@@ -429,7 +430,6 @@ Esi 18
 Kurš 17
 gadu 17
 liela 17
-bijām 17
 vakar 17
 izdevās 17
 Zeme 17
@@ -483,6 +483,7 @@ pateicīgs 16
 nopietni 16
 muļķis 16
 Tom 15
+draugi 15
 Tie 15
 kļūdu 15
 negribēju 15
@@ -558,7 +559,6 @@ mainīt 14
 šīs 13
 nozīmē 13
 Viņu 13
-draugi 13
 kļūda 13
 alu 13
 dziesmu 13
@@ -1318,6 +1318,7 @@ spēlēties 6
 naktī 6
 abi 6
 noslēpums 6
+sarežģīta 6
 cilvēkam 6
 attieksme 6
 plūst 6
@@ -1578,7 +1579,6 @@ acīm 5
 lasa 5
 Piens 5
 uzbruka 5
-sarežģīta 5
 vārdiem 5
 parādīja 5
 aiziet 5
@@ -1744,6 +1744,7 @@ zūd 5
 būtības 5
 katra 5
 rīcību 5
+reiz 5
 dabiski 5
 gaidījis 5
 Žirafes 5
@@ -2088,6 +2089,7 @@ beidzies 4
 rūpīgi 4
 atbilst 4
 kokiem 4
+beigusies 4
 garu 4
 pārliecināta 4
 Ūdensvīrs 4
@@ -2261,7 +2263,6 @@ japāņu 4
 grūtības 4
 jautāt 4
 mēģināšu 4
-reiz 4
 Kaķi 4
 pamanīju 4
 gūt 4
@@ -2318,6 +2319,7 @@ pievienotu 4
 nomākta 4
 klausīt 4
 nepatīkami 4
+draudzību 4
 svaigu 4
 gaisu 4
 ķermenī 4
@@ -2575,6 +2577,7 @@ kabatā 3
 Lietus 3
 augsni 3
 persona 3
+draudzība 3
 Šonakt 3
 pakļauties 3
 drosmīgs 3
@@ -2806,7 +2809,6 @@ otrā 3
 gatavot 3
 riekstu 3
 parādīt 3
-beigusies 3
 zīmes 3
 Strēlnieks 3
 pārtraukt 3
@@ -3230,7 +3232,6 @@ prātīgs 3
 uzdod 3
 vainu 3
 pirmajā 3
-draudzību 3
 Čehijas 3
 Daudziem 3
 risku 3
@@ -3709,7 +3710,6 @@ dušā 2
 nepatikšanās 2
 pieļāvusi 2
 šaurā 2
-draudzība 2
 atnesu 2
 spriest 2
 pagāja 2

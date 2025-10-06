@@ -4,7 +4,7 @@ Tom 60
 Si 54
 Toms 44
 Tkva 38
-do 36
+do 37
 ma 34
 te 33
 Tena 30
@@ -28,9 +28,9 @@ chkimi 18
 tom 17
 rdu 17
 xolo 17
-Mu 17
 tina 17
 tis 16
+Mu 16
 vore 15
 So 15
 Tomik 15
@@ -39,23 +39,23 @@ ragadi 15
 Çki 14
 dǧas 14
 მა 13
+Ase 13
+mu 13
 djgiri 13
 djoxo 13
 çkimi 13
 breli 13
 iro 12
-Ase 12
 meri 12
 mutuni 12
-mu 12
 xvale 12
 ula 12
 rena 12
+toms 11
 ɣudes 11
 bordji 11
 tak 10
 Tiki 10
-toms 10
 arto 10
 arti 10
 tes 10
@@ -239,8 +239,6 @@ Xvale 3
 saxe 3
 sakvarua 3
 Glaxa 3
-Tom's 3
-Vamichku 3
 Re 3
 Ushkuri 3
 Chkini 3
@@ -313,6 +311,7 @@ Tzq'ari 3
 ameriǩashe 3
 bdziri 3
 va 3
+lazi 3
 ǩope 3
 muşeni 3
 noǧasha 3
@@ -404,8 +403,10 @@ dorulapa 2
 supta 2
 guate 2
 tkvis 2
+Tom's 2
 Chxuru 2
 Vore 2
+vamichku 2
 mutunsha 2
 goǩonano 2
 Michku 2
@@ -475,6 +476,7 @@ miku 2
 brelts 2
 Ç̌ita 2
 vortuku 2
+Vamichku 2
 sovre 2
 skolasha 2
 prangulo 2
@@ -627,7 +629,6 @@ mardi 2
 tetsali 2
 mi 2
 tsxenepi 2
-lazi 2
 Ameriǩari 2
 Kƨmort 2
 tesi 2
@@ -659,6 +660,7 @@ gerepi 2
 vavorek 2
 chkimǯǩƨma 2
 Rtxiink 2
+Tak 2
 bç̌ǩumu 2
 shuro 2
 aloba 2
@@ -1103,7 +1105,7 @@ Ingars 1
 Skanǯǩuma 1
 Arto 1
 Bedinery 1
-Duragadue 1
+duragadue 1
 Kortuli 1
 gichkƨno 1
 vagashkurnas 1
@@ -2654,7 +2656,6 @@ osurkƨ 1
 doptxilant 1
 ginoç̌q'vidito 1
 gorgiduni 1
-vamichku 1
 musƨ 1
 pirkenkƨ 1
 ǩopes 1
@@ -2982,7 +2983,6 @@ Didebuan 1
 ogurapu 1
 dzirito 1
 p̌arǩis 1
-Tak 1
 ichiebuno 1
 muzƨmas 1
 garzena 1
@@ -3331,3 +3331,7 @@ Sumish 1
 Otxish 1
 Bruosh 1
 Eti 1
+megreli 1
+xen 1
+shegilebu 1
+midarte 1

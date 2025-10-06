@@ -1,5 +1,5 @@
 ya 1296
-na 1071
+na 1072
 wa 755
 kwa 698
 ni 626
@@ -95,11 +95,11 @@ yao 38
 muhimu 38
 Ikiwa 38
 zote 37
+Mungu 37
 Hakuna 37
 sehemu 37
 leo 36
 kidogo 36
-Mungu 36
 unaweza 36
 Wakati 36
 lazima 35
@@ -132,14 +132,15 @@ tena 29
 nyumbani 28
 wao 28
 hapo 28
+maji 28
 vizuri 28
 Japan 28
 nje 28
 tano 28
+kula 28
 hatari 28
 mambo 27
 mpya 27
-maji 27
 lake 27
 mtoto 27
 wetu 27
@@ -206,7 +207,6 @@ Hii 21
 Kila 21
 chochote 21
 kiasi 21
-kula 21
 maalum 21
 mwenyewe 20
 rafiki 20
@@ -258,6 +258,7 @@ karibuni 18
 damu 18
 wote 17
 Sina 17
+Nataka 17
 kusema 17
 huyu 17
 wanafunzi 17
@@ -274,12 +275,12 @@ nyuma 17
 roho 17
 Hiyo 16
 mchezo 16
-Nataka 16
 chumba 16
 mwili 16
 kusoma 16
 jengo 16
 kamili 16
+Napenda 16
 Baada 16
 Mama 16
 London 16
@@ -395,6 +396,7 @@ Ulaya 12
 Australia 12
 mkate 12
 anapenda 12
+samaki 12
 ajabu 12
 mashine 12
 Ana 12
@@ -425,8 +427,8 @@ haki 11
 wanyama 11
 mjinga 11
 tafadhali 11
+kunywa 11
 muziki 11
-samaki 11
 sigara 11
 dunia 11
 kulia 11
@@ -476,6 +478,7 @@ anataka 10
 kuandika 10
 taa 10
 kutembea 10
+kahawa 10
 maneno 10
 barabarani 10
 nawe 10
@@ -538,7 +541,6 @@ siri 9
 chokoleti 9
 Ninaweza 9
 Mbona 9
-kahawa 9
 kompyuta 9
 Tunaweza 9
 uhakika 9
@@ -573,6 +575,7 @@ Kanisa 9
 vidole 9
 mitano 9
 Inaonekana 9
+nyama 9
 ladha 9
 dharura 9
 uko 9
@@ -596,7 +599,6 @@ haina 8
 Brazil 8
 anakula 8
 matunda 8
-kunywa 8
 mti 8
 bunduki 8
 adui 8
@@ -643,6 +645,7 @@ isipokuwa 8
 kasi 8
 faida 8
 mawili 8
+barafu 8
 jiji 8
 gazeti 8
 Mwaka 8
@@ -651,7 +654,6 @@ mazingira 8
 mawazo 8
 Italia 8
 alianza 8
-nyama 8
 glasi 8
 milele 8
 kitufe 8
@@ -700,7 +702,6 @@ nyasi 7
 Saa 7
 raha 7
 nane 7
-Napenda 7
 upi 7
 dada 7
 ujumbe 7
@@ -733,7 +734,6 @@ mpango 7
 hakuweza 7
 ubongo 7
 ukumbi 7
-barafu 7
 Jeshi 7
 mamlaka 7
 jeshi 7
@@ -790,6 +790,7 @@ maziwa 6
 Unafanya 6
 mdomo 6
 hasira 6
+Naenda 6
 benki 6
 Mwanamke 6
 kanisani 6
@@ -930,13 +931,14 @@ funguo 5
 Hujambo 5
 Anatoka 5
 mwimbaji 5
-Naenda 5
 jikoni 5
 pombe 5
 mwanafunzi 5
+chai 5
 mazuri 5
 bluu 5
 Ninajua 5
+tufaha 5
 bahari 5
 Mary 5
 meno 5
@@ -1132,11 +1134,9 @@ uji 4
 Ulikuwa 4
 Mke 4
 Gari 4
-chai 4
 mweusi 4
 Tuko 4
 kingine 4
-tufaha 4
 Nilipata 4
 akaunti 4
 hatumii 4
@@ -9311,3 +9311,5 @@ wanaosababisha 1
 Siongei 1
 mananasi 1
 zinanichosha 1
+pea 1
+maharage 1
