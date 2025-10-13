@@ -1,18 +1,18 @@
-on 29103
+on 29105
 ei 10635
 Tom 9724
 Hän 8335
+ja 6814
 että 6813
-ja 6811
 Tomi 6380
 ole 6261
 oli 5688
 En 4912
 Minä 4473
-Se 3775
+Se 3776
 hän 3553
 se 3385
-kuin 3322
+kuin 3323
 Olen 2988
 ovat 2900
 sinä 2873
@@ -27,7 +27,7 @@ kun 2098
 en 2096
 Onko 2035
 sitä 1995
-voi 1994
+voi 1995
 minun 1917
 mutta 1838
 paljon 1824
@@ -332,7 +332,7 @@ puhu 269
 tähän 269
 tarvitse 269
 teidän 268
-yhdessä 264
+yhdessä 265
 kirjaa 259
 Älkää 259
 sä 258
@@ -489,8 +489,8 @@ lainkaan 179
 mahdollista 179
 mennyt 179
 nimi 178
+helppoa 176
 sun 176
-helppoa 175
 paras 175
 unohda 175
 etten 175
@@ -771,6 +771,7 @@ pitävät 111
 kuusi 111
 väärässä 111
 myöhään 111
+yhteen 111
 Mies 111
 rikki 111
 vanhempi 111
@@ -779,7 +780,6 @@ ikkunan 110
 dollaria 110
 milloinkaan 110
 takana 110
-yhteen 110
 lähes 110
 Montako 110
 eniten 110
@@ -974,6 +974,7 @@ juhliin 89
 Poliisi 89
 tyytyväinen 89
 kipeä 89
+tulevat 89
 pari 89
 päättänyt 89
 aio 89
@@ -982,7 +983,6 @@ opiskelee 88
 sairas 88
 lääkäri 88
 Soita 88
-tulevat 88
 työn 88
 yön 88
 viettää 88
@@ -1720,6 +1720,7 @@ jatkoi 49
 kolmelta 49
 tuollaista 49
 Tervetuloa 49
+aiheuttaa 49
 nopea 49
 kaksikymmentä 49
 suuntaan 49
@@ -1763,7 +1764,6 @@ Olisinpa 48
 Luin 48
 tarvitaan 48
 oikeus 48
-aiheuttaa 48
 kannattaa 48
 ujo 48
 kysynyt 48
@@ -2961,6 +2961,7 @@ pahalla 28
 hirveästi 28
 Odotin 28
 terveisiä 28
+kädessä 28
 mahdollisimman 28
 5 28
 lopuksi 28
@@ -3011,6 +3012,7 @@ lahjakas 27
 kahvin 27
 sanoen 27
 kirjastoon 27
+seurata 27
 lääkäriin 27
 huomattavasti 27
 katsoin 27
@@ -3067,7 +3069,6 @@ Japania 27
 työpaikkaa 27
 "En 27
 huoneensa 27
-kädessä 27
 13 27
 tahdon 27
 Join 27
@@ -3119,7 +3120,6 @@ Hae 26
 maanjäristys 26
 tulta 26
 isot 26
-seurata 26
 junassa 26
 kuolemasta 26
 neiti 26
@@ -3380,6 +3380,7 @@ ihmeessä 24
 useammin 24
 kahdeksalta 24
 selvä 24
+käsi 24
 silta 24
 Menemme 24
 kieltää 24
@@ -3513,7 +3514,6 @@ siivota 23
 runoilija 23
 valkoisen 23
 veistä 23
-käsi 23
 ongelmasta 23
 koetta 23
 pyörän 23
@@ -4670,6 +4670,7 @@ ennemminkin 17
 näkynyt 17
 monista 17
 väristä 17
+Sairaus 17
 amerikkalaiset 17
 suklaata 17
 määräsi 17
@@ -5538,7 +5539,6 @@ vartalo 14
 Päivä 14
 sekoita 14
 Nuorena 14
-Sairaus 14
 samalta 14
 Rouva 14
 sääntö 14
@@ -5951,6 +5951,7 @@ erehtynyt 13
 Maija 13
 talvella 13
 vallassa 13
+kuuluvat 13
 välit 13
 huolehdi 13
 jätetty 13
@@ -6406,7 +6407,6 @@ hallituksen 12
 ambulanssin 12
 Saavuin 12
 kauaa 12
-kuuluvat 12
 tunteitaan 12
 ostaisin 12
 aavistus 12
@@ -8066,6 +8066,7 @@ juttuni 9
 hiiriä 9
 hyönteisiä 9
 huulet 9
+kulkevat 9
 sellaisessa 9
 irtisanottiin 9
 mielin 9
@@ -8619,6 +8620,7 @@ jyrkästi 9
 huomanneet 9
 rento 9
 pikkutarkka 9
+kärsimystä 9
 Etsitkö 9
 vegaanista 9
 Seuraavana 9
@@ -8679,6 +8681,7 @@ johan 9
 Kylä 9
 laiskoja 9
 pyrin 9
+teko 9
 Elän 9
 olisitte 9
 kuuluisi 9
@@ -8891,7 +8894,6 @@ Tunnet 8
 kutsuu 8
 merkittävä 8
 Vieraan 8
-kulkevat 8
 niinkin 8
 Lyön 8
 Moskova 8
@@ -9601,7 +9603,6 @@ tärkeintä 8
 ruoki 8
 korjaan 8
 verhot 8
-kärsimystä 8
 salaatin 8
 taannoin 8
 onnekkaita 8
@@ -9681,7 +9682,6 @@ sietämään 8
 liitutaululle 8
 aikataulun 8
 vankila 8
-teko 8
 eno 8
 lapsenlapsi 8
 Poliisin 8

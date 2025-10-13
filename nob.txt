@@ -1,18 +1,18 @@
-er 4402
+er 4403
 Jeg 3637
 ikke 2492
-å 2198
+å 2199
 i 2178
 en 2062
 du 1907
 det 1810
 har 1810
 Tom 1771
-på 1722
+på 1723
 til 1569
 og 1350
 jeg 1348
-Det 1182
+Det 1183
 for 1075
 med 1067
 meg 1059
@@ -45,7 +45,7 @@ vi 327
 oss 321
 skal 317
 fra 311
-veldig 308
+veldig 309
 dette 301
 ut 301
 ble 298
@@ -242,6 +242,7 @@ venner 59
 ga 59
 fransk 59
 forstår 58
+vanskelig 58
 kjøpte 58
 snakket 58
 ny 58
@@ -250,7 +251,6 @@ trodde 58
 lenger 58
 sta 58
 like 57
-vanskelig 57
 sant 57
 kjøpe 56
 ferdig 56
@@ -351,6 +351,7 @@ høre 40
 jo 40
 jobbe 39
 problem 39
+spille 39
 bruke 39
 våre 39
 annet 39
@@ -363,7 +364,6 @@ drar 39
 jobb 39
 finnes 39
 spiste 39
-spille 38
 klokken 38
 land 38
 person 38
@@ -5188,6 +5188,8 @@ båter 2
 overtak 2
 talt 2
 fordomsfri 2
+Vivaldis 2
+saksofon 2
 prosjekt 2
 fordret 2
 paret 2
@@ -9996,5 +9998,3 @@ sprellemann 1
 smelt 1
 tjukka 1
 sikler 1
-Høst 1
-årstidene 1

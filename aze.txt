@@ -1,13 +1,13 @@
 Tom 895
 Mən 863
-O 619
-Bu 587
+O 622
+Bu 588
 var 386
 bir 372
-və 350
+və 351
 ki 301
 çox 285
-nə 251
+nə 253
 Onlar 234
 idi 221
 Biz 219
@@ -21,10 +21,10 @@ ilə 147
 mənim 134
 Mənim 132
 mənə 128
-Tomun 125
+Tomun 126
 edirəm 123
-yaxşı 122
-daha 119
+yaxşı 123
+daha 120
 Siz 115
 vaxt 115
 Onun 112
@@ -43,9 +43,9 @@ Mənə 92
 edə 91
 kimi 87
 ən 85
-da 81
+da 82
 hər 80
-etdi 79
+etdi 80
 Nə 77
 deyiləm 76
 Onu 74
@@ -65,17 +65,17 @@ edir 64
 sənin 63
 Sənin 61
 artıq 61
-kömək 59
+kömək 60
+bilmirəm 59
 Toma 59
 etmək 58
-bilmirəm 58
 Zəhmət 58
 Meri 58
 kim 57
 baş 57
+öz 56
 onun 56
 məni 56
-öz 55
 istifadə 55
 sevirəm 54
 hələ 54
@@ -102,6 +102,7 @@ səni 46
 bilmir 46
 sənə 46
 Məni 45
+niyə 45
 Niyə 45
 haradadır 44
 nifrət 44
@@ -113,14 +114,13 @@ dilini 43
 daxil 43
 olduğunu 43
 ver 43
-niyə 42
 bilərəm 41
 Ona 41
 zəng 41
+Bizim 40
 neçə 40
 getmək 40
 Yaponiya 40
-Bizim 39
 kitab 39
 bilər 39
 paytaxtıdır 39
@@ -129,11 +129,11 @@ idim 38
 bütün 38
 ol 38
 Bütün 38
+bilir 38
 yaşayır 38
 Xahiş 38
 Əliyev 38
 indi 37
-bilir 37
 sən 37
 Sizin 36
 belə 36
@@ -166,10 +166,10 @@ Məncə 31
 Dünən 31
 oldu 31
 qəbul 31
+etməyə 31
 sizə 31
 Əgər 31
 gedirəm 30
-etməyə 30
 lazımdır 30
 tərk 30
 siz 30
@@ -190,12 +190,12 @@ ya 27
 bilirsən 27
 istərdim 27
 kitabı 27
+istəyir 27
 Merinin 27
 sizi 27
 ölkədir 27
 Hələ 26
 kəs 26
-istəyir 26
 Burda 26
 Yaponiyaya 26
 saat 26
@@ -209,6 +209,7 @@ Səni 25
 pul 25
 gördüm 25
 Gəlin 25
+verir 25
 böyükdür 25
 Sabah 25
 məndən 25
@@ -218,7 +219,6 @@ hansı 25
 cavab 24
 edəcəm 24
 bizim 24
-verir 24
 Yeni 24
 bax 24
 çoxlu 24
@@ -240,6 +240,7 @@ getdim 22
 yeyir 22
 Burada 22
 insan 22
+burda 22
 olar 22
 olur 22
 Ən 22
@@ -249,7 +250,6 @@ on 21
 dörd 21
 Hansı 21
 barədə 21
-burda 21
 qədərdir 21
 etdilər 21
 Mary 21
@@ -272,6 +272,7 @@ deyir 19
 həqiqəti 19
 maşın 19
 demək 19
+uzun 19
 de 19
 yerləşir 19
 Ərəb 19
@@ -289,7 +290,6 @@ maşını 18
 hardadır 18
 olsun 18
 adam 18
-uzun 18
 Avropa 18
 birinci 18
 buna 18
@@ -333,6 +333,7 @@ eyni 16
 əl 16
 Fransız 16
 qan 16
+Dövlət 16
 Birinci 16
 ehtiyat 16
 Alma 15
@@ -365,7 +366,6 @@ ondan 15
 Ermənistan 15
 yenə 15
 tez 15
-Dövlət 15
 yalnız 15
 şəhərində 15
 Heydər 15
@@ -421,6 +421,7 @@ güclü 13
 İngilis 13
 Milli 13
 qapını 13
+edirsən 13
 Merini 13
 dərhal 13
 hara 13
@@ -464,7 +465,6 @@ deyə 12
 kişi 12
 soyuqdur 12
 Bazar 12
-edirsən 12
 istədiyini 12
 Bunun 12
 hamı 12
@@ -818,6 +818,7 @@ edilmiş 8
 başlayın 8
 nəticəsində 8
 dayandırın 8
+Təşkilatının 8
 uyğun 8
 soyqırımı 8
 yığışdırmaqdan 8
@@ -982,10 +983,10 @@ sədri 7
 Qeyd 7
 Başlayın 7
 dövlətimizin 7
-Təşkilatının 7
 getməyin 7
 Bunlara 7
 Bura 7
+Həqiqəti 7
 Yəqin 7
 qal 7
 Olar 7
@@ -1153,6 +1154,7 @@ Qızımı 6
 eləməyə 6
 gedən 6
 göstər 6
+olduqca 6
 uğurlu 6
 oxumağı 6
 Sonra 6
@@ -1160,6 +1162,7 @@ icra 6
 etməkdə 6
 toxunma 6
 göndərə 6
+lakin 6
 eləməyin 6
 olunmuş 6
 qısa 6
@@ -1306,6 +1309,7 @@ bugün 5
 görmürəm 5
 Səndə 5
 hədiyyə 5
+başlayıb 5
 deyilmi 5
 tapmaq 5
 Qışda 5
@@ -1434,9 +1438,9 @@ möhtəşəm 5
 xoşlamıram 5
 Çində 5
 üzmək 5
+Türk 5
 təbrik 5
 borc 5
-olduqca 5
 ifa 5
 Düşünmürəm 5
 Ay 5
@@ -1452,7 +1456,6 @@ almalısan 5
 Qonaq 5
 etməklə 5
 öncə 5
-lakin 5
 geniş 5
 Uzaqda 5
 müəyyən 5
@@ -1486,6 +1489,7 @@ başçısı 5
 “Azərbaycan 5
 Mehriban 5
 2004-cü 5
+Şurasının 5
 fevralın 5
 uğurla 5
 edərək 5
@@ -1509,7 +1513,6 @@ Təxmin 5
 Yadda 5
 olduğunuz 5
 cəsarət 5
-Həqiqəti 5
 park 5
 qayıdın 5
 içki 5
@@ -1645,6 +1648,7 @@ evimin 4
 edəcəksən 4
 deyirsən 4
 buradan 4
+başı 4
 uşağı 4
 zənn 4
 yatıram 4
@@ -1674,7 +1678,6 @@ bilmirdik 4
 vaxtlar 4
 İstərdim 4
 sona 4
-başlayıb 4
 boş 4
 gördünüz 4
 qar 4
@@ -1759,6 +1762,7 @@ olmaqdan 4
 Ukraynada 4
 1991-ci 4
 saçları 4
+qorxmur 4
 respublika 4
 İndoneziyada 4
 gətirdi 4
@@ -1874,7 +1878,6 @@ Fikir 4
 düşündüm 4
 içəri 4
 Spagetti 4
-Türk 4
 olmaqla 4
 xalqına 4
 bəzi 4
@@ -1947,11 +1950,11 @@ razılaşdı 4
 Hökuməti 4
 Əməkdaşlıq 4
 Xankəndi 4
+Zirvə 4
 işğaldan 4
 Əliyeva 4
 məqsədi 4
 seçilmişdir 4
-Şurasının 4
 üzvü 4
 sədrinin 4
 edilmişdir 4
@@ -1994,6 +1997,7 @@ hissəyə 4
 yerləşdirməyə 4
 Bir-biri 4
 ayrılmağı 4
+edirsiz 4
 tapmayacaq 4
 Özün 4
 Etiraf 4
@@ -2170,6 +2174,7 @@ an 3
 Parisdə 3
 ehtiyacımız 3
 yağa 3
+şanslıdır 3
 Gələ 3
 gəlsin 3
 Razı 3
@@ -2183,7 +2188,6 @@ zövq 3
 evinin 3
 sənsən 3
 saatlarla 3
-başı 3
 uzundu 3
 buz 3
 şərəfinə 3
@@ -2298,6 +2302,8 @@ solğun 3
 yadından 3
 olsaydım 3
 şahmat 3
+işləmək 3
+yata 3
 oturun 3
 saatım 3
 bilən 3
@@ -2357,7 +2363,6 @@ Sovet 3
 demişəm 3
 tünd 3
 qəhvəyi 3
-qorxmur 3
 sevirlər 3
 mülayim 3
 oldular 3
@@ -2434,6 +2439,7 @@ tapmalıyıq 3
 maraqlanıram 3
 onlar 3
 görüşəcəyik 3
+qorxursan 3
 müəllimə 3
 buradayam 3
 gözləyirdim 3
@@ -2543,6 +2549,7 @@ sonlarını 3
 saxlamaq 3
 ümid 3
 vaxtda 3
+Güclü 3
 dərs 3
 Dilin 3
 vurğuladı 3
@@ -2592,6 +2599,7 @@ iradəsi 3
 ümumiyyətlə 3
 ayaqqabılarını 3
 edərkən 3
+nəzarət 3
 Bostonu 3
 bilərdi 3
 Mennad 3
@@ -2645,6 +2653,7 @@ etiraf 3
 almışam 3
 malikdir 3
 satmaq 3
+təkbaşına 3
 sualtı 3
 çempionatının 3
 soruşun 3
@@ -2691,6 +2700,7 @@ anadan 3
 ixtisası 3
 diplomu 3
 çalışıb 3
+inkişafına 3
 magistr 3
 rəhbərlik 3
 2018-ci 3
@@ -2708,7 +2718,6 @@ Mümkün 3
 dayanın 3
 vermiş 3
 Hərtərəfli 3
-Zirvə 3
 səviyyədə 3
 təqdir 3
 bildirildi 3
@@ -2819,11 +2828,11 @@ getdiyini 3
 görərdim 3
 üzəcəm 3
 buraxın 3
-edirsiz 3
 Səhvlərini 3
 Səhvlərinizi 3
 biznes 3
 Özünüz 3
+imkan 3
 Qalib 3
 ağrıdır 3
 doğurdan 3
@@ -2908,6 +2917,7 @@ Daş 3
 izolyasiya 3
 içirsiz 3
 çörəyi 3
+qaçıb 3
 sözlük 3
 Türkmənistan 3
 Məsləhətinin 3
@@ -3151,7 +3161,6 @@ gücsüz 2
 İstilik 2
 riyaziyyat 2
 Kişilər 2
-şanslıdır 2
 cox 2
 qocadır 2
 qalacaqsan 2
@@ -3426,9 +3435,7 @@ inana 2
 bahalı 2
 bacımı 2
 qapısı 2
-işləmək 2
 qalmadın 2
-yata 2
 Sankt 2
 Peterburqda 2
 müqaviləni 2
@@ -3698,7 +3705,6 @@ uşaqlarına 2
 İnəklər 2
 başladım 2
 danışdım 2
-qorxursan 2
 rüşvət 2
 məlum 2
 uddu 2
@@ -3947,7 +3953,6 @@ cür 2
 bilərsənmi 2
 sədr 2
 yağışı 2
-Güclü 2
 etdiyimiz 2
 Qəza 2
 qəzet 2
@@ -4081,7 +4086,6 @@ qəzetdə 2
 siyahıya 2
 mərtəbəyə 2
 çatdım 2
-nəzarət 2
 arzusu 2
 gerçək 2
 Sonuncu 2
@@ -4288,6 +4292,7 @@ tarixində 2
 normallaşma 2
 gündəliyinin 2
 səmərəli 2
+liderlər 2
 danışıqları 2
 Nəhyana 2
 Paşinyanla 2
@@ -4348,7 +4353,6 @@ martın 2
 1996-cı 2
 fərqlənmə 2
 İnkişaf 2
-inkişafına 2
 Ştatlarının 2
 siyasəti 2
 ilədək 2
@@ -4788,7 +4792,6 @@ təsdiqlədi 2
 nəticə 2
 həşərat 2
 bacarıqsızam 2
-imkan 2
 Uçuş 2
 neçədi 2
 lentə 2
@@ -5184,7 +5187,6 @@ Gülümsə 2
 gələcəksiz 2
 Barselonaya 2
 Oğlum 2
-qaçıb 2
 etdiz 2
 Tez-tez 2
 dadlıdır 2
@@ -5253,6 +5255,9 @@ davranışları 2
 halında 2
 istədik 2
 çıxaq 2
+Qaranlıqda 2
+deməkdən 2
+İstixana 2
 vә 1
 cәnablar 1
 Sizә 1
@@ -9847,7 +9852,6 @@ Payızı 1
 Şəxsiyyət 1
 vəsiqəniz 1
 bilməliydim 1
-təkbaşına 1
 İşimdən 1
 yayınlanda 1
 zolağındadır 1
@@ -9993,8 +9997,4 @@ təsdiqlənib 1
 Sərhədin 1
 nailiyyətləri 1
 dəyərləndirən 1
-liderlər 1
 əməli 1
-komissiyalarına 1
-tapşırıqlar 1
-veriblər 1

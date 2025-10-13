@@ -1,9 +1,9 @@
-es 261
+es 262
 Me 136
 Tom 90
 li 85
 Li 85
-non 75
+non 76
 Ob 61
 vu 54
 me 47
@@ -39,6 +39,7 @@ ha 12
 odia 12
 Mary 12
 pome 11
+Tum 11
 Lu 10
 le 10
 lu 10
@@ -46,7 +47,6 @@ Manja 10
 pove 10
 kun 10
 Men 10
-Tum 10
 filias 10
 manjad 9
 kate 9
@@ -955,3 +955,4 @@ komplexi 1
 eskapa 1
 prisone 1
 abortad 1
+musee 1

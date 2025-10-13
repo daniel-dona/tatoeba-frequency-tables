@@ -2,13 +2,13 @@ Tomas 842
 No 612
 das 559
 binom 495
-no 492
+no 493
 etosi 426
 in 331
 obik 292
 Maria 232
 dunön 199
-binon 191
+binon 192
 e 169
 Tom 162
 dö 158
@@ -58,7 +58,7 @@ vilol 61
 omis 61
 Labob 60
 nolob 59
-jönik 58
+jönik 59
 kanom 57
 okik 57
 dat 57
@@ -106,10 +106,10 @@ Binof 39
 Binos 39
 mödik 39
 kel 39
+Etos 39
 o 38
 ävilom 38
 yufi 38
-Etos 38
 sagön 37
 Nek 37
 Ya 37
@@ -289,6 +289,7 @@ jimatel 15
 kanof 15
 Li-löfol 15
 gudikum 15
+Binon 15
 el 15
 Sevob 15
 fati 15
@@ -311,7 +312,6 @@ Li-labol 14
 Om 14
 vom 14
 Nelijapüki 14
-Binon 14
 nedobs 14
 labobs 14
 kanobs 14
@@ -588,6 +588,7 @@ efidom 6
 Jimatel 6
 tabi 6
 mutoms 6
+nim 6
 stupik 6
 Li-dledol 6
 Ägivob 6
@@ -667,7 +668,6 @@ Ido 5
 gonom 5
 vifikumo 5
 binof-li 5
-nim 5
 älöfom 5
 Li-kanobs 5
 palis 5
@@ -5026,3 +5026,4 @@ Evikodon 1
 Obinons 1
 Obinofs 1
 iglömom 1
+mused 1
