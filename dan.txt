@@ -1,14 +1,14 @@
-er 17851
-Jeg 11349
+er 17852
+Jeg 11352
 at 9167
 Tom 8628
-en 8584
+en 8587
 i 8490
 ikke 8114
-har 7661
+har 7664
 du 5458
 til 5182
-det 4924
+det 4925
 på 4917
 og 3906
 for 3866
@@ -86,7 +86,7 @@ Toms 582
 man 575
 gøre 568
 aldrig 566
-eller 556
+eller 557
 En 554
 tre 544
 Kan 527
@@ -235,7 +235,7 @@ nye 208
 vidste 208
 drikker 208
 lærer 208
-ven 206
+ven 207
 liv 206
 Ingen 205
 står 204
@@ -336,11 +336,11 @@ uge 144
 hår 144
 Mange 143
 bordet 143
+kæreste 143
 stod 142
 seng 142
 jul 142
 bruger 142
-kæreste 142
 tit 141
 kører 141
 Tag 141
@@ -596,6 +596,7 @@ Mor 74
 Europa 74
 tænke 74
 kød 74
+"Det 74
 sket 74
 tidligere 73
 musik 73
@@ -604,7 +605,6 @@ nyt 73
 tro 73
 bedstefar 73
 fleste 73
-"Det 73
 ur 72
 livet 72
 åbnede 72
@@ -1005,6 +1005,7 @@ tyk 40
 stadigvæk 40
 hat 40
 åbner 40
+veninde 40
 hjerte 40
 ældste 40
 Jackson 40
@@ -1025,7 +1026,6 @@ lykkedes 39
 svarede 39
 spansk 39
 bedstemor 39
-veninde 39
 egern 39
 eftermiddag 39
 sende 39
@@ -1155,6 +1155,7 @@ studerende 34
 hjulpet 34
 smukkeste 33
 aftensmad 33
+"Er 33
 regningen 33
 Toget 33
 telefonnummer 33
@@ -1197,7 +1198,6 @@ maler 32
 røg 32
 danser 32
 Tal 32
-"Er 32
 frugt 32
 grøn 32
 Spørg 32
@@ -2764,6 +2764,7 @@ elektricitet 12
 Holland 12
 narre 12
 prinsesse 12
+hebræisk 12
 giftige 12
 skubbede 12
 håndtaske 12
@@ -2968,7 +2969,6 @@ stikken 11
 Mand 11
 fornærmet 11
 skuffe 11
-hebræisk 11
 vrøvl 11
 Johns 11
 rum 11

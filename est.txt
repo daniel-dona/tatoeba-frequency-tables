@@ -130,11 +130,11 @@ eest 29
 nagu 29
 arvan 29
 minema 29
+ka 28
 Tere 28
 pärast 28
 nüüd 28
 homme 28
-ka 27
 läheb 27
 tegema 27
 enam 27
@@ -199,6 +199,7 @@ Ei 19
 kiiresti 19
 Täna 19
 elan 19
+saada 19
 väsinud 19
 vana 19
 end 18
@@ -206,7 +207,6 @@ tööd 18
 taga 18
 koera 18
 oleme 18
-saada 18
 raske 18
 selles 18
 kus 18
@@ -220,7 +220,6 @@ sai 17
 tuli 17
 tõesti 17
 Kass 17
-Need 17
 enda 17
 minust 17
 Siin 17
@@ -235,6 +234,7 @@ saanud 16
 õde 16
 just 16
 jaoks 16
+Need 16
 viis 16
 väike 16
 lähen 16
@@ -419,6 +419,7 @@ päeva 9
 rikas 9
 tööle 9
 lähedal 9
+heaks 9
 nägid 9
 elame 9
 piima 9
@@ -472,7 +473,6 @@ kena 8
 magada 8
 parim 8
 türgi 8
-heaks 8
 kardan 8
 armastab 8
 kõrval 8
@@ -554,6 +554,7 @@ naist 7
 Tee 7
 viga 7
 Oleme 7
+Tahan 7
 muusikat 7
 Seda 7
 hakkas 7
@@ -623,7 +624,6 @@ Elu 6
 süda 6
 võtmed 6
 joob 6
-Tahan 6
 pärit 6
 arst 6
 sinine 6
@@ -848,7 +848,6 @@ vara 5
 viskas 5
 vene 5
 sündis 5
-koerad 5
 karu 5
 räägivad 5
 portugali 5
@@ -1078,6 +1077,7 @@ mõnda 4
 jaapani 4
 Türgi 4
 Ukraina 4
+koerad 4
 kestab 4
 Milliseid 4
 külastada 4
@@ -6770,3 +6770,4 @@ Hah 1
 tõestab 1
 kellad 1
 nõrk 1
+kunstnikuks 1

@@ -1,6 +1,6 @@
 Ez 1222
 e 1049
-xwe 1038
+xwe 1039
 min 1008
 ji 1006
 bi 939
@@ -1157,6 +1157,7 @@ boyax 5
 Çiqas 5
 havîn 5
 maç 5
+Xêra 5
 hewşê 5
 vebû 5
 Gundê 5
@@ -1180,6 +1181,7 @@ Kesek 5
 kontrol 5
 jêhatî 5
 xera 5
+hevokên 5
 welat 5
 gavan 5
 vexwin 5
@@ -1409,7 +1411,6 @@ guh 4
 belaş 4
 xew 4
 rewşê 4
-Xêra 4
 ta 4
 kirîn 4
 rabûm 4
@@ -1434,7 +1435,6 @@ dinivîsim 4
 bêaqil 4
 tenduristiya 4
 xema 4
-hevokên 4
 sereke 4
 kombersê 4
 perwerdeyê 4
@@ -2442,6 +2442,7 @@ Chima 2
 agir 2
 Peter 2
 Va 2
+sade 2
 ye: 2
 biya 2
 nêza 2
@@ -3380,6 +3381,7 @@ Bayekî 2
 hezîranê 2
 diyar 2
 Hayê 2
+çêke 2
 xerabtir 2
 pîne 2
 Odeya 2
@@ -4103,7 +4105,6 @@ chêke 1
 Makîna 1
 shushtinê 1
 sira 1
-sade 1
 Mn 1
 hich 1
 kat 1
@@ -7257,7 +7258,6 @@ efendî 1
 ferman 1
 Çûn 1
 veger 1
-çêke 1
 didirû 1
 Goreyên 1
 Lawik 1

@@ -1,12 +1,12 @@
 teu 149
-Tom 128
-Aing 122
+Tom 129
+Aing 124
 aing 82
 di 78
 ka 75
-nu 62
+nu 63
 inya 59
-manéh 53
+manéh 54
 Inya 53
 ieu 52
 téh 43
@@ -16,7 +16,7 @@ geus 40
 boga 37
 ngomong 34
 nyaho 31
-éta 29
+éta 30
 pakeun 27
 pisan 26
 ku 25
@@ -24,7 +24,7 @@ ngalakukeun 25
 Manéh 24
 Mary 24
 kudu 24
-urang 21
+urang 22
 aya 21
 pikeun 20
 bisa 20
@@ -34,8 +34,8 @@ naon 18
 basa 18
 dina 18
 kungsi 18
+resep 18
 hayang 17
-resep 17
 teh 16
 Urang 16
 keur 15
@@ -120,6 +120,7 @@ sakola 5
 ngadéngé 5
 Kumaha 5
 kahirupan 5
+kénéh 5
 ngarasa 5
 siga 5
 Meri 5
@@ -132,6 +133,7 @@ tapi 5
 hésé 5
 manggih 5
 mobil 5
+gering 5
 kumaha 5
 Rima 5
 leumpang 5
@@ -160,7 +162,6 @@ sarua 4
 gawé 4
 pati 4
 anjing 4
-kénéh 4
 dilakukeun 4
 poé 4
 ningali 4
@@ -171,7 +172,6 @@ waé 4
 kabéh 4
 ngaran 4
 meureun 4
-gering 4
 nyoba 4
 cekap 4
 majar 4
@@ -390,6 +390,7 @@ ngala 2
 perpustakaan 2
 nyieun 2
 nyimpen 2
+harep 2
 kampus 2
 mikirkeun 2
 engké 2
@@ -407,6 +408,7 @@ dihayang 2
 pantes 2
 tabuh 2
 2:30 2
+tulis 2
 bareng 2
 krédit 2
 bumi 2
@@ -416,6 +418,7 @@ nanya 2
 fasih 2
 prancis 2
 Istri 2
+baru 2
 harga 2
 puguh 2
 Prancis" 2
@@ -983,7 +986,6 @@ kaéléhan 1
 dikawisesakeun 1
 Batréna 1
 jangjina 1
-harep 1
 Kalimah 1
 jumlah 1
 suku 1
@@ -1071,7 +1073,6 @@ baskét 1
 SMA 1
 gawéan 1
 payu 1
-tulis 1
 imaginatif 1
 kaos 1
 dipiceun 1
@@ -1143,7 +1144,6 @@ Neuleuna 1
 Prancis 1
 kalawan 1
 math 1
-baru 1
 Nteu 1
 Jagisuk 1
 Reureuh 1
@@ -1559,3 +1559,7 @@ kali 1
 ngingetkeun 1
 skrup 1
 obéng 1
+puding 1
+manggah 1
+aluy 1
+lagu 1

@@ -1,5 +1,5 @@
 Ma 269
-re 164
+re 165
 Tom 60
 Si 54
 Toms 44
@@ -30,9 +30,9 @@ rdu 17
 xolo 17
 tina 17
 tis 16
+So 16
 Mu 16
 vore 15
-So 15
 Tomik 15
 ragadi 15
 რე 14
@@ -67,6 +67,7 @@ reki 9
 Djgiri 9
 ç̌ita 9
 para 9
+tzaneri 9
 Amdǧa 9
 Tomk 9
 gverdi 9
@@ -74,7 +75,7 @@ djoǧori 8
 glaxa 8
 Ko 8
 voreki 8
-tzaneri 8
+miǧu 8
 tomi 8
 ვორექ 7
 skvami 7
@@ -85,7 +86,6 @@ tolepi 7
 mus 7
 Xolo 7
 vordi 7
-miǧu 7
 ren 7
 rina 6
 borjis 6
@@ -152,6 +152,7 @@ nina 5
 miɔors 5
 meris 5
 ǩata 5
+uɔors 5
 uǧƨ 5
 fara 4
 vareno 4
@@ -164,6 +165,7 @@ mashƨna 4
 oxori 4
 didi 4
 iuuapu 4
+Muzma 4
 ninasha 4
 tinepsha 4
 oǩodƨ 4
@@ -203,7 +205,6 @@ Musheni 4
 iri 4
 sumi 4
 Bordji 4
-uɔors 4
 kiana 4
 დრო 3
 ტომიქ 3
@@ -227,7 +228,6 @@ ti 3
 Tineps 3
 sheulebƨ 3
 Anʒi 3
-Muzma 3
 jgiri 3
 chki 3
 muzma 3
@@ -313,6 +313,7 @@ bdziri 3
 va 3
 lazi 3
 ǩope 3
+goǩono 3
 muşeni 3
 noǧasha 3
 Chkim 3
@@ -641,7 +642,7 @@ Koutzi 2
 tudo 2
 Inepi 2
 uǩve 2
-goǩono 2
+ǧuma 2
 xibaşe 2
 kuduragadue 2
 komondji 2
@@ -650,6 +651,7 @@ Muma 2
 gazetis 2
 idioṫi 2
 uuorsu 2
+rdi 2
 xodji 2
 varena 2
 Mudgareni 2
@@ -678,6 +680,7 @@ moǯonʒ 2
 che 2
 geshu 2
 Mortzontso 2
+chili 2
 tarnoǧa 2
 vauɔors 2
 ართი 1
@@ -2744,7 +2747,6 @@ Gverdi 1
 artşa 1
 şepxvaduku 1
 burgundian 1
-ǧuma 1
 mutuns 1
 vamaç̌u 1
 uparet 1
@@ -2912,7 +2914,6 @@ vomoǩodu 1
 Teureşe 1
 vadirtuni 1
 Bolos 1
-rdi 1
 nandiditzǩuma 1
 Birǩuls 1
 kimeǩidi 1
@@ -3254,7 +3255,6 @@ atena 1
 atak 1
 Ǩunṫa 1
 chiat 1
-chili 1
 Etinas 1
 maɔale 1
 Etinep 1
@@ -3335,3 +3335,11 @@ megreli 1
 xen 1
 shegilebu 1
 midarte 1
+tkvan 1
+P̌ols 1
+shoǩolad 1
+Bzha 1
+Rʒxƨni 1
+porcha 1
+Kobalʒ 1
+bç̌ǩumunkƨ 1
