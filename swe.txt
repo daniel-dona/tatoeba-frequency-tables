@@ -1,4 +1,4 @@
-är 11667
+är 11668
 Jag 11277
 att 7116
 Tom 7089
@@ -8,7 +8,7 @@ du 5140
 på 4859
 det 4751
 i 4596
-har 4241
+har 4242
 Det 3887
 Han 3409
 jag 3156
@@ -23,7 +23,7 @@ om 2257
 Hon 2079
 ett 1953
 som 1903
-Vi 1892
+Vi 1893
 dig 1890
 den 1837
 kan 1681
@@ -87,7 +87,7 @@ blev 441
 finns 441
 dag 428
 eller 426
-alla 422
+alla 423
 gick 420
 gör 419
 lite 418
@@ -169,9 +169,9 @@ säger 222
 själv 218
 Ingen 217
 morgon 215
+Vilken 215
 inget 215
 redan 215
-Vilken 214
 mot 214
 detta 212
 Detta 211
@@ -1002,6 +1002,7 @@ kalla 30
 Solen 30
 vit 30
 flygplatsen 30
+färg 30
 havet 30
 känt 30
 visa 30
@@ -1028,7 +1029,6 @@ blod 30
 hatade 30
 handlar 29
 barnet 29
-färg 29
 Deras 29
 besökte 29
 glömma 29
@@ -4099,6 +4099,7 @@ tvätten 5
 södra 5
 2 5
 sinom 5
+molnen 5
 Egentligen 5
 storasyster 5
 paj 5
@@ -4783,7 +4784,6 @@ park 4
 1 4
 Aldrig 4
 kontrollen 4
-molnen 4
 räkningen 4
 frusit 4
 klubb 4

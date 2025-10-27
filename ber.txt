@@ -1,5 +1,5 @@
-ad 186945
-n 154190
+ad 186949
+n 154191
 d 114923
 ara 92900
 ay 71472
@@ -7,9 +7,9 @@ i 65512
 deg 59744
 Ur 54294
 ur 49404
-Tom 42493
+Tom 42496
 asegzawal 39624
-ɣer 34231
+ɣer 34233
 ɣef 33685
 s 28678
 Ad 27930
@@ -175,7 +175,7 @@ Lidya 1909
 Layla 1909
 awal 1906
 Tzemrem 1906
-Boston 1903
+Boston 1904
 lḥal 1897
 Yamina 1890
 Faḍma 1879
@@ -352,7 +352,7 @@ amzun 1008
 yenna-d 1003
 ufus 998
 Ṛebbi 996
-iṛuḥ 990
+iṛuḥ 991
 tebɣi 989
 anect 986
 mraw 982
@@ -427,9 +427,9 @@ Tesɛa 848
 amaynu 843
 tayri 843
 Iban 842
+Nettat 842
 gar 842
 tewwurt 842
-Nettat 841
 Lemmer 841
 tnarit 841
 mazal 836
@@ -835,13 +835,13 @@ yessin 431
 asawen 430
 Mehdi 430
 Yemsal 430
+Nitni 429
 azewwaɣ 429
 amahil-nni 429
 Teɣs 429
 ddukkli 429
 tedda 428
 wayenni 427
-Nitni 426
 ayɣef 425
 Attan 425
 ssuq 425
@@ -1015,6 +1015,7 @@ unẓar 350
 nesɛi 350
 niɣ 349
 tagiṭart 348
+yelmed 348
 yeɣra 348
 Tebɣam 348
 Teḥwajemt 348
@@ -1022,7 +1023,6 @@ teqqimed 348
 yimdanen 348
 Yeqqim 347
 imeddukal 347
-yelmed 347
 teqqimeḍ 347
 Mass 346
 zzheṛ 346
@@ -1034,12 +1034,12 @@ tamrint 344
 wurfan 344
 tesɛiḍ 343
 Ḥemmlen 343
+ssineɣ 342
 Werjin 342
 Ɣer-neɣ 342
 mebla 342
 tacirḍart 342
 isett 342
-ssineɣ 341
 Atni 339
 Teɣsed 339
 wakk 338
@@ -1170,13 +1170,13 @@ Ini-as 298
 nitni 298
 aseklu 298
 tra 298
+mani 298
 Maṣer 297
 ddan 297
 yeɣli 297
 wunuɣen 297
 tasɣunt 297
 asga 297
-mani 297
 Nitenti 297
 Yettban-d 296
 tegrest 296
@@ -1738,6 +1738,7 @@ tmeddit 194
 yesṛuḥ 194
 amenzu 194
 tetteg 194
+qqaren 194
 ɣur-neɣ 194
 ufrag 194
 nessiwel 193
@@ -1745,7 +1746,6 @@ ssawaleɣ 193
 yelsa 193
 tuttra 193
 ayaziḍ 193
-qqaren 193
 ɣer-m 193
 tḥemmled 193
 tacirqecwalt 193
@@ -4285,6 +4285,7 @@ leɛtab 83
 fessuset 83
 seg-sent 83
 Teẓra 83
+Taddart 83
 tettnadimt 83
 twacult-is 83
 amahil-nwen 83
@@ -4320,7 +4321,6 @@ yesgunfu 82
 "Amek 82
 tiṭṭawin-nnem 82
 taqendurt-nni 82
-Taddart 82
 tyita 82
 yufi 82
 tessinemt 82
@@ -6319,6 +6319,7 @@ teččur 50
 asmel 50
 tarwa 50
 tsekkurt 50
+wer 50
 iṣeggmen 50
 yiẓra 50
 ccama 50
@@ -6416,7 +6417,6 @@ tannayt 49
 tili-s 49
 imi-s 49
 yifassen-iw 49
-wer 49
 tasertant 49
 Teččiḍ 49
 iεerreḍ 49
@@ -6722,6 +6722,7 @@ Xedmen 46
 imenza 46
 ɣers 46
 tnejjmed 46
+yexs 46
 yettalel 46
 tallemt 46
 uḍan 46
@@ -7082,7 +7083,6 @@ Ffɣen 43
 tessawlem 43
 ḥed 43
 ɣ 43
-yexs 43
 neǧǧ 43
 awent-iniɣ 43
 d-ffɣen 43

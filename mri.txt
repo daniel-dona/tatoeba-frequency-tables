@@ -4,7 +4,7 @@ e 136
 ki 131
 a 129
 I 103
-He 95
+He 96
 Tom 78
 ana 73
 au 64
@@ -111,6 +111,7 @@ Kotahi 5
 ēnei 5
 aroha 5
 pēhea 5
+tāu 5
 tonu 5
 runga 5
 Nā 5
@@ -135,7 +136,6 @@ ao 4
 pukapuka 4
 rāua/rātou 4
 uru 4
-tāu 4
 tūturu 4
 whakamōhio 4
 moe 4
@@ -231,6 +231,7 @@ tamāhine 2
 Na 2
 katia 2
 rakuraku 2
+iti 2
 wera 2
 whakapaua 2
 wheketere 2
@@ -360,7 +361,6 @@ whakatangitangihia 1
 akōtiana 1
 tūngou 1
 waewae 1
-iti 1
 pokanga 1
 Caesarian 1
 marama 1
@@ -794,3 +794,4 @@ tomo 1
 Paraihetia 1
 weriweri 1
 tapahi 1
+māra 1

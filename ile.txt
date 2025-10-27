@@ -1,10 +1,10 @@
-es 3484
+es 3485
 Yo 2547
-un 2022
+un 2023
 li 1828
 Tom 1650
 ne 1518
-Li 869
+Li 870
 in 841
 tu 802
 have 769
@@ -45,7 +45,7 @@ plu 237
 il 235
 quam 235
 deve 230
-Mi 224
+Mi 225
 far 222
 del 217
 Ili 217
@@ -141,11 +141,11 @@ tri 60
 Lass 60
 die 59
 volet 59
+Su 59
 evenit 58
 dormi 58
 labora 58
 saver 58
-Su 58
 tam 58
 dentes 58
 dir 57
@@ -171,10 +171,10 @@ francesi 53
 auxiliar 52
 ver 52
 crede 52
+nómine 51
 anc 51
 studia 51
 filio 50
-nómine 50
 porta 49
 qualmen 48
 deman 48
@@ -238,10 +238,10 @@ dormir 34
 rubi 34
 veritá 34
 puellas 34
+manus 34
 comprar 34
 Hodie 33
 posset 33
-manus 33
 hay 33
 auxilie 33
 Omnes 33
@@ -367,6 +367,7 @@ scola 20
 provat 20
 jardin 20
 usa 20
+gemelles 20
 ludet 20
 mort 20
 musica 20
@@ -382,7 +383,6 @@ har 19
 just 19
 telefon 19
 flores 19
-gemelles 19
 auxiliat 19
 comprendet 19
 pret 19
@@ -447,6 +447,7 @@ morir 16
 parc 16
 carne 16
 comensar 16
+cantat 16
 té 16
 inter 16
 viver 16
@@ -473,7 +474,6 @@ situat 15
 vez 15
 coses 15
 viage 15
-cantat 15
 queles 15
 clar 15
 vacui 15
@@ -1310,6 +1310,7 @@ libertá 4
 fantasie 4
 promesset 4
 Anglia 4
+Robert 4
 selectet 4
 tapisse 4
 diarium 4
@@ -1461,6 +1462,7 @@ telefona 4
 hare 4
 fusil 4
 lettre-bux 4
+sandwich 4
 Curre 4
 responsabilmen 4
 bananes 4
@@ -1558,7 +1560,6 @@ cita 3
 gratuit 3
 glass 3
 discusset 3
-Robert 3
 Dan 3
 Jim 3
 partes 3
@@ -1857,7 +1858,6 @@ nivear 3
 Millie 3
 web-situ 3
 ponie 3
-sandwich 3
 vacantie 3
 urgent 3
 Foy 3
@@ -2271,6 +2271,7 @@ colega 2
 gruppe 2
 The 2
 hesitat 2
+tremet 2
 coclare 2
 ariva 2
 Toki 2
@@ -3632,7 +3633,6 @@ Ulan 1
 Bator 1
 scolera 1
 Cure 1
-tremet 1
 prudent 1
 conspiration 1
 punta 1
@@ -6090,3 +6090,4 @@ vitamines 1
 levulist 1
 cats 1
 rubie 1
+Vends-lui 1

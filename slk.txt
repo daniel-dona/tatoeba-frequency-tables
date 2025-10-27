@@ -1,14 +1,14 @@
-je 4907
+je 4909
 sa 3284
 som 2627
 Tom 2371
 si 2172
-to 1903
+to 1904
 na 1579
 že 1452
 v 1228
 a 1067
-Je 783
+Je 784
 mi 740
 sú 670
 by 588
@@ -169,10 +169,10 @@ dobrý 86
 boli 86
 Hovoríš 85
 Všetci 84
+Každý 84
 bez 84
 ty 83
 dvere 83
-Každý 82
 čaj 82
 Máme 82
 tvoja 81
@@ -274,6 +274,7 @@ Vždy 54
 tento 53
 istý 53
 O 53
+svojho 53
 nevie 53
 spať 53
 medzi 53
@@ -286,7 +287,6 @@ oči 52
 mačka 52
 každý 52
 Bolo 51
-svojho 51
 Musíme 51
 Myslel 51
 noc 51
@@ -2192,6 +2192,7 @@ plávanie 7
 smädná 7
 dôkaz 7
 Pamätám 7
+šťastia 7
 predať 7
 zadarmo 7
 hluk 7
@@ -2976,7 +2977,6 @@ dobrí 5
 Večera 5
 Boston 5
 dokážeš 5
-šťastia 5
 známy 5
 Kanaďanka 5
 nechceme 5
@@ -4210,6 +4210,7 @@ pochádzam 4
 Delfíny 4
 zapadá 4
 húb 4
+jedlá 4
 východnej 4
 Stromy 4
 Ovládate 4
@@ -5389,6 +5390,7 @@ mladosti 3
 pridaním 3
 rezancov 3
 podrobnosti 3
+výborná 3
 B 3
 pracovali 3
 Kjóta 3
@@ -5746,7 +5748,6 @@ konope 3
 podhubia 3
 plodnice 3
 zobudený 3
-jedlá 3
 teritoriálne 3
 haf 3
 portugalčina 3
@@ -5940,6 +5941,7 @@ Slovenský 3
 Karpaty 3
 energia 3
 školský 3
+huba 3
 nepoznáme 3
 nezbierame 3
 šváb 3
@@ -7456,7 +7458,6 @@ varu 2
 cibule 2
 ponáhľali 2
 Fazuľa 2
-výborná 2
 žuvačku 2
 samohláska 2
 samohlásku 2
@@ -9115,7 +9116,6 @@ nevládzem 2
 Dohodnuté 2
 materialista 2
 bobule 2
-huba 2
 Huby 2
 Iraklio 2
 ostrova 2

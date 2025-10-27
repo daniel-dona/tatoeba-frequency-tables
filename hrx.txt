@@ -1,4 +1,4 @@
-is 436
+is 437
 Ich 384
 Tom 263
 en 234
@@ -10,7 +10,7 @@ de 156
 das 154
 die 148
 sin 125
-Die 115
+Die 116
 Das 106
 Sie 95
 Meer 93
@@ -18,7 +18,7 @@ Er 82
 gern 77
 in 77
 waar 71
-se 65
+se 66
 Was 63
 sein 61
 Du 59
@@ -121,6 +121,7 @@ bleive 14
 heit 14
 alles 14
 gebb 14
+sihn 14
 bist-du 14
 Aanfenger 14
 host 14
@@ -132,7 +133,6 @@ Naame 13
 schlofe 13
 host-du 13
 immer 13
-sihn 13
 Esperanto 13
 fum 13
 enem 13
@@ -380,6 +380,7 @@ Welt 5
 schwäer 5
 ener 5
 hod-der 5
+beim 5
 krieerd 5
 glaabd 5
 soll 5
@@ -419,6 +420,7 @@ Bleibd 5
 nerrvees 5
 Hunger 5
 Schetzje 5
+mim 5
 geblibb 5
 's 5
 Schlof 5
@@ -467,7 +469,6 @@ guder 4
 muss-ich 4
 Sei 4
 heesd 4
-beim 4
 sei 4
 Dank 4
 umgebrung 4
@@ -516,7 +517,6 @@ wast-du 4
 lenger 4
 sicher 4
 Jetz 4
-mim 4
 singe 4
 drinkd 4
 was-ich 4
@@ -823,6 +823,7 @@ Hoer 2
 falld 2
 Trepp 2
 abgewe 2
+Mensch 2
 kisse 2
 däde 2
 eb 2
@@ -1334,7 +1335,6 @@ unne 1
 Dokumente 1
 Dokument 1
 Holshaus 1
-Mensch 1
 Rand 1
 jimandem 1
 Kann-es 1
@@ -2286,3 +2286,7 @@ Erfollich 1
 Zukunneftspleen 1
 Blutdkrebs 1
 Dorst 1
+Aaizell 1
+blose 1
+Au 1
+kaum 1
