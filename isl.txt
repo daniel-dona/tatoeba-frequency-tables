@@ -1,22 +1,22 @@
 að 3837
-er 3160
+er 3158
 Ég 2325
-í 2078
+í 2077
 á 1682
-ekki 1654
+ekki 1653
 ég 876
-Það 868
+Það 867
 Hann 797
 til 771
 og 738
 það 702
 við 684
 Hún 678
-Þú 653
-var 643
-hann 637
+Þú 654
+var 642
+hann 636
 sem 609
-þú 582
+þú 581
 með 522
 Við 520
 fyrir 509
@@ -42,12 +42,12 @@ gera 214
 mjög 211
 eftir 205
 eins 190
-hans 183
 verður 183
+hans 182
 út 181
 ert 181
 hún 180
-minn 179
+minn 178
 okkar 173
 John 171
 hef 164
@@ -60,8 +60,8 @@ frá 148
 sér 142
 aftur 142
 Ekki 141
-Mér 136
 vel 135
+Mér 135
 sé 133
 getur 130
 Ertu 130
@@ -110,9 +110,9 @@ henni 86
 alltaf 86
 yfir 85
 læra 85
+Mig 85
 koma 84
 taka 84
-Mig 84
 ef 83
 Hvar 83
 erum 83
@@ -226,7 +226,6 @@ höfum 42
 sama 42
 þeirra 41
 sagt 41
-gott 41
 einu 41
 hjálpa 41
 drekka 41
@@ -237,6 +236,7 @@ gamall 40
 komið 40
 hefðir 40
 Hvaða 40
+gott 40
 ætla 40
 gæti 40
 halda 40
@@ -260,7 +260,6 @@ fimm 37
 lítur 37
 satt 37
 búa 37
-kvöld 37
 Allir 37
 alla 36
 talar 36
@@ -268,6 +267,7 @@ bað 36
 mátt 36
 þínum 36
 án 36
+kvöld 36
 eina 35
 viku 35
 leið 35
@@ -321,10 +321,10 @@ eldri 32
 erfitt 32
 þeir 32
 ykkar 32
-átti 31
 móti 31
 vilja 31
 daga 31
+átti 30
 fram 30
 lagi 30
 skilja 30
@@ -646,7 +646,6 @@ séu 16
 nýjan 16
 þykir 16
 yngri 16
-þrjá 16
 sjálfan 16
 bækurnar 16
 læknir 16
@@ -693,6 +692,7 @@ Mundirðu 15
 stórt 15
 nokkurntíma 15
 heitt 15
+þrjá 15
 mynd 15
 undrunar 15
 blóm 14
@@ -1200,7 +1200,6 @@ frænda 8
 skóna 8
 besti 8
 tré 8
-syni 8
 frægur 8
 ákvað 8
 löngu 8
@@ -1344,6 +1343,7 @@ hlýtt 7
 kynna 7
 yrði 7
 vopn 7
+syni 7
 þætti 7
 stjörnur 7
 hundur 7
@@ -1457,7 +1457,6 @@ boðið 6
 glæpur 6
 hálf 6
 skiptið 6
-Móðir 6
 bakið 6
 Lestu 6
 grín 6
@@ -1687,6 +1686,7 @@ braust 5
 ís 5
 feitur 5
 klósettið 5
+Móðir 5
 beðið 5
 flogið 5
 ljóst 5
@@ -2132,7 +2132,6 @@ einfaldlega 4
 erlendis 4
 Joe 4
 ferðina 4
-sólina 4
 setjast 4
 farir 4
 Börn 4
@@ -2663,6 +2662,7 @@ austur 3
 lyf 3
 bekk 3
 Andlit 3
+sólina 3
 hatar 3
 búast 3
 einhverri 3
@@ -3247,7 +3247,6 @@ sendu 3
 sjálfri 3
 dáið 3
 tilbreytingar 3
-veður 3
 þýðing 3
 brjáluð 3
 Útskýring 3
@@ -4522,7 +4521,6 @@ aðstæðum 2
 Hagsmunir 2
 stangast 2
 svefni 2
-smár 2
 endast 2
 Samstillum 2
 úrin 2
@@ -4819,6 +4817,7 @@ reyktir 2
 bjartsýnn 2
 samþykkir 2
 viðurkenni 2
+veður 2
 ljósmyndir 2
 ljósmyndun 2
 máltíð 2
@@ -7314,8 +7313,6 @@ reyktu 1
 sunnudagur 1
 Mæðradagurinn 1
 Ákaflega 1
-hverra 1
-yngstur 1
 neðanjarðarlest 1
 Kazan 1
 Frakki 1
@@ -8354,6 +8351,7 @@ höfuðstöðvar 1
 skólahúsið 1
 hræsin 1
 alheimar 1
+smár 1
 samtals 1
 Sigur 1
 Matarbirgðirnar 1
@@ -9998,3 +9996,5 @@ mal 1
 fjarstæðukenndasta 1
 Francesca 1
 íturvaxnari 1
+fyrirsæturnar 1
+umboðsskrifstofunni 1

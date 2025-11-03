@@ -1,4 +1,4 @@
-on 29119
+on 29121
 ei 10637
 Tom 9735
 Hän 8337
@@ -13,7 +13,7 @@ Se 3777
 hän 3554
 se 3385
 kuin 3325
-Olen 2990
+Olen 2991
 ovat 2901
 sinä 2873
 sen 2724
@@ -597,8 +597,8 @@ helposti 147
 kysyi 147
 yrittää 146
 aiemmin 146
+onnellinen 146
 tuntia 145
-onnellinen 145
 talo 144
 Katso 144
 talon 143
@@ -942,6 +942,7 @@ jolla 92
 sanoit 92
 pakko 92
 kerta 92
+Odotan 92
 varovainen 92
 olo 91
 vuosi 91
@@ -953,7 +954,6 @@ kirjoittanut 91
 ostanut 91
 hyvät 91
 minuutin 91
-Odotan 91
 punainen 91
 koulusta 90
 talossa 90
@@ -1923,6 +1923,7 @@ lääke 44
 juotavaa 44
 kolmeen 44
 sisälle 44
+innolla 44
 ymmärrän 44
 noudattaa 44
 aamupalaa 44
@@ -1969,7 +1970,6 @@ Teillä 43
 Ettekö 43
 sisältää 43
 sanon 43
-innolla 43
 espanjaa 43
 noita 43
 Vanha 43
@@ -3411,6 +3411,7 @@ suhteellisen 24
 oppilaat 24
 vihaavat 24
 tunnissa 24
+kana 24
 pitempi 24
 syttyi 24
 Isoäitini 24
@@ -3554,7 +3555,6 @@ talvena 23
 purskahti 23
 veitsen 23
 historian 23
-kana 23
 maksetaan 23
 leffaan 23
 Kaiken 23
@@ -3852,6 +3852,7 @@ pyörää 21
 Sanoiko 21
 virhettä 21
 kaikkiaan 21
+puolestasi 21
 englanti 21
 lukemisen 21
 loistaa 21
@@ -4023,7 +4024,6 @@ kirjoitin 20
 Tahdotko 20
 lukiossa 20
 kaloja 20
-puolestasi 20
 petti 20
 Vie 20
 hiljaista 20
@@ -5291,6 +5291,7 @@ nautti 15
 määrin 15
 nauttia 15
 kaverini 15
+orja 15
 epäkohtelias 15
 vertoja 15
 päinvastoin 15
@@ -5618,7 +5619,6 @@ parhaiten 14
 Paras 14
 autoaan 14
 sattua 14
-orja 14
 vaiheessa 14
 joutua 14
 koettaa 14

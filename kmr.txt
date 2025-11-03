@@ -567,6 +567,7 @@ Kîjan 10
 tije 10
 bila 10
 tevahiya 10
+spas 10
 xwezayê 10
 telefonê 10
 Pisîk 10
@@ -574,7 +575,6 @@ Deh 10
 çiqas 10
 meh 10
 Erê 10
-Na 10
 Ya 10
 cîhanê 10
 neh 10
@@ -626,6 +626,7 @@ dixwin 9
 nîn 9
 werim 9
 mi 9
+Spas 9
 kirina 9
 diaxivin 9
 xwarina 9
@@ -639,6 +640,7 @@ pirtûka 9
 nêzîk 9
 lingê 9
 salê 9
+Na 9
 şîr 9
 Niha 9
 dora 9
@@ -701,7 +703,6 @@ demjimêr 8
 pey 8
 derve 8
 Tiştên 8
-spas 8
 bira 8
 ziman 8
 Newroz 8
@@ -941,7 +942,6 @@ sêv 6
 Jin 6
 dewlemend 6
 bigerim 6
-Spas 6
 Mi 6
 digirî 6
 John 6
@@ -1354,7 +1354,6 @@ dimire 4
 Bav 4
 yekşem 4
 Belê 4
-Sipas 4
 şîrîn 4
 Emily 4
 sisê 4
@@ -1738,7 +1737,6 @@ Swêd 3
 tariyê 3
 rojnameya 3
 Hêk 3
-sipas 3
 Rastî 3
 tal 3
 Mihemed 3
@@ -2492,7 +2490,7 @@ sêwî 2
 qirika 2
 nemirim 2
 Rojbaş 2
-Selam 2
+Aştî 2
 duşem 2
 sêşem 2
 çarşem 2
@@ -4269,6 +4267,7 @@ Rojname 1
 rojnameyekê 1
 naxebitim 1
 jiyîm 1
+Selam 1
 Êvarbaş 1
 Selamun 1
 aleykum 1
@@ -4344,7 +4343,7 @@ yî" 1
 me" 1
 "Kaisha" 1
 "Eşq" 1
-"Sipas" 1
+"Spas" 1
 "Pisîk" 1
 Bob 1
 kompûterek 1
@@ -5262,6 +5261,7 @@ perçak 1
 şewitî 1
 mamostakî 1
 nasdikim 1
+Sipas 1
 bernamê 1
 kînga 1
 řakir 1
@@ -9309,7 +9309,6 @@ zimannasekî 1
 kalbûna 1
 baznede 1
 Birano 1
-Aştî 1
 çêbike 1
 fetiq 1
 (xwe) 1
