@@ -1,17 +1,17 @@
-da 10763
+da 10764
 a 4317
-ba 4280
+ba 4281
 ya 3852
 na 3799
-yi 2495
+yi 2496
 ta 2474
-ne 2309
-ka 1824
+ne 2313
+ka 1825
 iya 1393
 mai 1305
-Na 1225
+Na 1226
 cikin 1218
-Ina 1212
+Ina 1213
 shi 1096
 za 1067
 wannan 1060
@@ -27,7 +27,7 @@ daga 833
 zai 813
 son 791
 ku 789
-yin 761
+yin 762
 ko 749
 ke 715
 sun 694
@@ -49,7 +49,7 @@ A 508
 lokacin 487
 cewa 485
 in 481
-so 475
+so 474
 sa 467
 kai 465
 kyau 464
@@ -59,7 +59,7 @@ amma 447
 kamata 441
 wanda 437
 kamar 423
-san 420
+san 421
 yadda 420
 yawa 415
 abin 413
@@ -119,7 +119,7 @@ taɓa 240
 samu 239
 min 239
 Me 233
-tafi 229
+tafi 230
 Mun 228
 komai 227
 ita 225
@@ -191,7 +191,7 @@ faɗa 156
 kafin 154
 Tana 154
 dai 154
-kake 152
+kake 153
 Kai 151
 gaskiya 151
 kusa 148
@@ -206,8 +206,8 @@ daya 143
 sani 143
 yanke 140
 fatan 139
-Kuna 138
 mana 138
+Kuna 137
 nasara 137
 Amurka 136
 bada 134
@@ -282,15 +282,14 @@ Bari 99
 shirya 99
 kara 98
 mutumin 98
-kuke 98
 mutu 98
 shekara 98
 muku 98
 Lokacin 97
 bacci 97
+kuke 97
 rubuta 97
 karanta 96
-Menene 96
 tilasta 96
 Yanzu 95
 fita 95
@@ -304,6 +303,7 @@ can 94
 dace 94
 dariya 94
 tabbatar 94
+Menene 94
 Japan 93
 Har 91
 gani 91
@@ -317,10 +317,10 @@ yaya 90
 shan 90
 rasa 89
 Kar 89
+baka 89
 bukatar 88
 kasar 88
 sau 88
-baka 88
 bayyana 88
 wane 88
 dama 87
@@ -345,7 +345,7 @@ buga 82
 tsawon 82
 sake 82
 gama 81
-Kana 80
+Kana 81
 shugaban 80
 daina 80
 dawo 79
@@ -533,6 +533,7 @@ amince 49
 cire 49
 Nayi 49
 kasan 49
+zamu 49
 muhimmanci 49
 gaji 49
 Mista 49
@@ -550,7 +551,6 @@ kafa 48
 rauni 48
 iri 48
 sanin 48
-zamu 48
 waya 48
 buɗe 48
 duniyar 48
@@ -724,6 +724,7 @@ mani 34
 kashi 33
 Zamu 33
 dai-dai 33
+Mene 33
 kungiyar 33
 Wane 33
 zaku 33
@@ -779,7 +780,6 @@ maida 31
 ƙwallon 30
 kwanta 30
 taimakon 30
-Mene 30
 zamani 30
 Shugaban 30
 hadu 30
@@ -875,7 +875,6 @@ huɗu 27
 malamin 27
 shaida 27
 abada 27
-Nasan 27
 same 27
 Australia 27
 bamu 26
@@ -912,6 +911,7 @@ Haka 26
 haƙuri 26
 dauka 26
 cikakken 26
+Nasan 26
 "Ina 26
 fahimta 26
 tsufa 26
@@ -931,6 +931,7 @@ Tabbas 25
 rami 25
 United 25
 yawancin 25
+babba 25
 minti 25
 nufi 25
 fashe 25
@@ -957,7 +958,6 @@ arziki 24
 kankara 24
 tebur 24
 doka 24
-babba 24
 kudu 24
 sojojin 24
 yankin 24
@@ -1038,7 +1038,6 @@ karfin 22
 Nawa 22
 tambayi 22
 biyan 22
-baku 22
 abokai 22
 wayar 22
 ɓoye 22
@@ -1065,6 +1064,7 @@ Kudu 21
 daidaita 21
 mataki 21
 tsari 21
+baku 21
 Faɗa 21
 " 21
 shara 21
@@ -4158,7 +4158,6 @@ latin 3
 haihuwata 3
 falon 3
 Ashe 3
-Inada 3
 Jafanawa 3
 kwamfutoci 3
 Afghanistan 3
@@ -5247,6 +5246,7 @@ Jeremy 2
 kyawu 2
 Alal 2
 bazu 2
+Inada 2
 Diane 2
 'yar'uwar 2
 janyewa 2

@@ -3,8 +3,8 @@ Eo 139
 yn 105
 rhen 99
 di 83
-Tomos 75
-Ys 58
+Tomos 77
+Ys 59
 ill 57
 Sa 56
 Ill 51
@@ -15,10 +15,10 @@ Lla 34
 yst 34
 Llo 29
 sunt 29
+er 27
 Nw 27
 Ty 25
-er 25
-ci 21
+ci 23
 mew 20
 Ke 19
 af 19
@@ -39,6 +39,7 @@ padr 10
 Dew 10
 Mair 10
 can 10
+sew 10
 nw 10
 Yn 9
 puf 9
@@ -52,7 +53,6 @@ wol 9
 ply 9
 gas 9
 sab 9
-sew 9
 cu 9
 fi 9
 gran 8
@@ -90,6 +90,7 @@ mefeiran 6
 sa 6
 Ffrencig 6
 wer 6
+ffeil 6
 nwstr 6
 Pab 6
 ffager 6
@@ -115,7 +116,6 @@ Yst 5
 lic 5
 ddewindad 5
 Gwstr 5
-ffeil 5
 Gwa 5
 coffi 5
 trui 4
@@ -172,6 +172,7 @@ pharol 3
 bif 3
 ngwol 3
 Es-ys 3
+sul 3
 anc 3
 Calfath 3
 Calf 3
@@ -258,7 +259,6 @@ fasterig 2
 basterig 2
 pharlant 2
 Basterig 2
-sul 2
 ffradr 2
 'armenar 2
 h-ôn 2
@@ -1004,3 +1004,5 @@ gwiw 1
 widder 1
 Gwen 1
 Gwenith 1
+ystaf 1
+mascul 1

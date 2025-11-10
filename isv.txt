@@ -1,12 +1,12 @@
 jest 242
-Ja 154
-ne 122
-Tom 79
+Ja 159
+ne 124
+Tom 80
 Ty 71
-jesm 67
+jesm 71
 v 61
-se 55
-On 50
+se 56
+On 52
 To 50
 sut 43
 Vy 41
@@ -29,10 +29,10 @@ byla 16
 Toma 16
 Amerikanci 16
 Bog 14
+mnogo 14
+Čemu 14
 ja 14
-mnogo 13
 ljubju 13
-Čemu 13
 ješče 13
 Kde 12
 bude 12
@@ -43,11 +43,11 @@ vse 11
 Žitje 11
 včera 10
 V 10
+budu 10
 a 10
 kak 9
 ili 9
 knigu 9
-budu 9
 mně 9
 jezyk 8
 ljubil 8
@@ -75,6 +75,7 @@ už 6
 hočeš 6
 može 6
 svoj 6
+moj 6
 Moj 6
 hočete 6
 svoje 6
@@ -91,11 +92,11 @@ byti 5
 on 5
 ju 5
 než 5
-moj 5
 egzistuje 5
 Kot 5
 Ako 5
 dnes 5
+drug 5
 Avstraliji 5
 jedino 5
 Tome 5
@@ -122,6 +123,7 @@ napravdu 4
 Toj 4
 napisala 4
 napisal 4
+moja 4
 ljubet 4
 samo 4
 Elon 4
@@ -132,7 +134,6 @@ Vse 4
 kraj 4
 katka 4
 nazyvaje 4
-drug 4
 jemu 4
 komnatě 4
 novy 4
@@ -140,6 +141,7 @@ mogu 4
 tebe 4
 Svět 4
 hotěl 4
+družka 4
 nikogda 4
 po 4
 školu 4
@@ -181,13 +183,13 @@ tom 3
 gitaru 3
 kako 3
 hoču 3
-moja 3
 silno 3
 "Kto 3
 Egiptu 3
 životiny 3
 umirati 3
 muziku 3
+izgledaje 3
 brat 3
 Vsi 3
 govoriti 3
@@ -207,7 +209,7 @@ tri 3
 by 3
 prošu 3
 oni 3
-družka 3
+prosto 3
 znati 3
 Mir 3
 išču 3
@@ -395,6 +397,7 @@ znači 2
 Kaku 2
 rybu 2
 kto 2
+skoro 2
 prositi 2
 sprašati 2
 studentu 2
@@ -835,7 +838,6 @@ Svoboda 1
 rabstvo 1
 Neznanje 1
 sila 1
-izgledaje 1
 plyve 1
 krjakaje 1
 věrojetno 1
@@ -1157,7 +1159,6 @@ Kašljajte 1
 Zatelefonujte 1
 Zatelefonuj 1
 one 1
-prosto 1
 trg 1
 priložil 1
 ruku 1
@@ -1221,7 +1222,6 @@ rozovo 1
 borju 1
 pravdy 1
 Igra 1
-skoro 1
 načinati 1
 pomidor 1
 zeleny 1
@@ -1597,3 +1597,11 @@ pěvati 1
 nastupnom 1
 tydnju 1
 čitati 1
+oral 1
+vračati 1
+gněvna 1
+razočarovana 1
+gněvny 1
+razočarovany 1
+gluha 1
+gluhy 1

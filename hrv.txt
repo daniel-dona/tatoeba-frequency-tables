@@ -110,12 +110,12 @@ taj 32
 kada 32
 nas 32
 godine 32
+nema 32
 Mislim 32
 Nije 32
 tu 31
 mene 31
 vidjeti 31
-nema 31
 Ti 31
 doći 30
 ćeš 30
@@ -1793,6 +1793,7 @@ hajde 3
 smeta 3
 Za 3
 planet 3
+Sloboda 3
 Dupini 3
 plivači 3
 latvijski 3
@@ -3003,7 +3004,6 @@ točka 2
 Samarkandu 2
 Jao 2
 poginuti 2
-Sloboda 2
 insekti 2
 kukci 2
 toaletnog 2
@@ -8685,3 +8685,4 @@ Jelda 1
 Lažeš 1
 Smješkaj 1
 Svjetlost 1
+cijenu 1

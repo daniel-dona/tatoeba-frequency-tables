@@ -372,12 +372,12 @@ imao 85
 каже 84
 dovoljno 84
 sutra 84
+nema 84
 око 84
 Престани 84
 Добро 83
 nekoliko 83
 problem 83
-nema 83
 један 83
 Био 83
 puno 82
@@ -451,6 +451,7 @@ mora 69
 говори 69
 Још 69
 Бостону 69
+нема 68
 mnom 68
 volim 68
 knjigu 68
@@ -461,7 +462,6 @@ tvoje 68
 десило 68
 урадиш 68
 Moramo 68
-нема 67
 кад 67
 taj 67
 zar 67
@@ -2389,6 +2389,7 @@ Prošle 13
 Писаћу 13
 старији 13
 рачунар 13
+цену 13
 глава 13
 проблема 13
 Мало 13
@@ -2584,7 +2585,6 @@ slučaju 12
 парку 12
 Каква 12
 напорно 12
-цену 12
 Тренутно 12
 Које 12
 радили 12
@@ -2898,6 +2898,7 @@ postigli 11
 strašno 11
 situacija 11
 upoznao 11
+cenu 11
 kraj 11
 krenemo 11
 tih 11
@@ -3170,7 +3171,6 @@ drugom 10
 sport 10
 prestanem 10
 poslednjih 10
-cenu 10
 Uskoro 10
 kažemo 10
 Veliki 10

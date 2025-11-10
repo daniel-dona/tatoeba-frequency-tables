@@ -7,7 +7,7 @@ Ziri 84
 Ma 80
 d 79
 Wer 73
-wer 69
+wer 70
 Yanni 69
 di 65
 ḏ 59
@@ -18,8 +18,8 @@ min 36
 ɣer 36
 aṭṭas 32
 Ur 31
+ca 30
 Mary 30
-ca 29
 a 29
 x 28
 Nettat 28
@@ -27,11 +27,11 @@ Manis 28
 Necc 27
 ayi 26
 ur 26
+deg 26
 aman 25
 Qa 25
+Ttuɣa 25
 Wi 24
-Ttuɣa 24
-deg 23
 ṯexseḏ 23
 s 22
 cek 22
@@ -39,6 +39,7 @@ cek 22
 am 21
 inu 21
 Netta 21
+din 21
 aɣrum 21
 Ṭanja 21
 Ad 20
@@ -48,25 +49,24 @@ War 19
 ac 19
 nni 19
 war 18
-din 18
 cem 18
 Tum 18
 ɣer-s 18
 manaya 18
 cwayt 17
 ssineɣ 17
+marra 17
 taddart 17
 qa 17
 teggurd 17
 ttuɣa 17
 ɣar 16
 mani 16
-marra 16
 ijj 16
+ila 16
 Maɣer 16
 manaynni 16
 Ssneɣ 15
-ila 15
 yexs 15
 ci 15
 da 14
@@ -110,6 +110,7 @@ Sami 10
 ijjen 10
 yetxs 10
 ṯ 10
+Marra 10
 Ṯexẓar 10
 t 9
 Cek 9
@@ -121,7 +122,6 @@ ay 9
 dd 9
 yeggur 9
 dd-tewwuyd 9
-Marra 9
 arzuɣ 8
 Cekk 8
 niɣ 8
@@ -221,6 +221,7 @@ Necnin 5
 llan 5
 Kennint 5
 Iwa 5
+Qqim 5
 yili 5
 wi 5
 qqaren 5
@@ -305,6 +306,7 @@ Ssiwer 4
 aneɣ 4
 Ɣari 4
 ṯarẓm 4
+Baba 4
 d-amcum 4
 Bilal 4
 uɣarbaz 4
@@ -380,7 +382,6 @@ Netnin 3
 Ttzemmered 3
 tabrat-a 3
 taggʷurt 3
-Qqim 3
 akid-s 3
 qqaren-yi 3
 wadjiɣ 3
@@ -504,6 +505,7 @@ timaziɣin 3
 d-memmi-s 3
 d-yelli-s 3
 d-yeǧi-s 3
+Kniw 3
 zaysen 3
 Dek 3
 Arzuɣ 2
@@ -708,6 +710,7 @@ imddukkař-nec 2
 yetar 2
 Yexs 2
 Sizdiy 2
+Axxam 2
 Zemmreɣ 2
 taspanyut 2
 ṯzemmareḏ 2
@@ -739,7 +742,6 @@ Yesgaɛd 2
 imaḥḍren 2
 Yejja 2
 taggurt 2
-Baba 2
 tin 2
 tamzgida 2
 yerẓ 2
@@ -765,6 +767,7 @@ nhar-a 2
 Sitimeɣ 2
 d-ak 2
 tetteɣ 2
+aḍlis 2
 Qa-ṯ 2
 izmmar 2
 Mayk 2
@@ -989,6 +992,8 @@ teddreɣ 2
 Ttuɣ 2
 ṯeggeḏ 2
 Mayemli 2
+Qqimem 2
+Qqimemt 2
 iḥman 1
 Araḥed 1
 kkaren 1
@@ -1718,7 +1723,6 @@ amecri 1
 iɛwen 1
 yedwar 1
 taglinzit 1
-Axxam 1
 tmanyat 1
 Kur 1
 d-abrid-nnes 1
@@ -1963,7 +1967,6 @@ kullci 1
 yemma 1
 tudert-inu 1
 ssrusa 1
-aḍlis 1
 misa 1
 uxxam-nes 1
 Cra 1
@@ -2934,7 +2937,6 @@ netadder 1
 ṯezddeɣ 1
 ṯetadder 1
 itedder 1
-Kniw 1
 ṯetaddrem 1
 Knimti 1
 ṯetaddremt 1
@@ -2986,3 +2988,15 @@ tikli-nni 1
 ukras 1
 wesɣun 1
 ucras 1
+d-imeslmaden 1
+d-imesɣran 1
+kid-neɣ 1
+nuwtta 1
+nuḥel 1
+d-imeslmed 1
+iqari 1
+lextu 1
+yetwazdeɣ 1
+umkan-nnec 1
+umkan-nwem 1
+umkan-nwemt 1

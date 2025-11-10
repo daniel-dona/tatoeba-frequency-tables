@@ -21,7 +21,7 @@ keelt 134
 väga 133
 Mul 131
 kui 129
-Me 125
+Me 126
 pole 123
 oled 102
 mulle 99
@@ -378,6 +378,7 @@ ujuda 10
 loomad 10
 maailma 10
 tahaksin 10
+elame 10
 teist 10
 haige 10
 Nüüd 10
@@ -421,7 +422,6 @@ tööle 9
 lähedal 9
 heaks 9
 nägid 9
-elame 9
 piima 9
 hõivatud 9
 ütleb 9
@@ -6771,3 +6771,4 @@ tõestab 1
 kellad 1
 nõrk 1
 kunstnikuks 1
+Sahhalinil 1

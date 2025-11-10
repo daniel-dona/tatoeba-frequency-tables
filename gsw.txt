@@ -1,4 +1,4 @@
-isch 115
+isch 116
 Ich 40
 Tom 38
 I 34
@@ -108,6 +108,7 @@ gang 4
 über 4
 gha 4
 sie 4
+Ihr 4
 is 3
 nümme 3
 Guete 3
@@ -158,7 +159,6 @@ zimli 3
 chönd 3
 händ 3
 vill 3
-Ihr 3
 Ech 3
 Grüezi 2
 Gueten 2
@@ -218,6 +218,7 @@ aber 2
 wett 2
 sis 2
 Geld 2
+Maa 2
 Büro 2
 Belgie 2
 ufem 2
@@ -480,7 +481,6 @@ noned 1
 aacho 1
 schwimme 1
 Jede 1
-Maa 1
 gester 1
 Gras 1
 glege 1
@@ -1039,3 +1039,4 @@ Chomm 1
 gönd 1
 Kino 1
 Dubel 1
+Zürcher 1

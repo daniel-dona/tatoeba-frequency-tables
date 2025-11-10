@@ -9,7 +9,7 @@ ole 6262
 oli 5691
 En 4922
 Minä 4479
-Se 3777
+Se 3778
 hän 3554
 se 3385
 kuin 3325
@@ -119,7 +119,7 @@ sitten 663
 aikaa 662
 hänet 654
 hänelle 637
-meni 635
+meni 636
 tai 614
 tuli 612
 Marin 609
@@ -317,8 +317,8 @@ Etkö 279
 ongelma 278
 kello 277
 kirja 276
+Hyvää 276
 eikä 275
-Hyvää 275
 edes 275
 Kiitos 275
 eikö 275
@@ -2329,6 +2329,7 @@ munia 36
 tunti 36
 aamiaisen 36
 ympäriinsä 36
+johdosta 36
 nimen 36
 astronomiasta 36
 tupakoinnin 36
@@ -2379,7 +2380,6 @@ kellon 35
 veden 35
 suuria 35
 Bill 35
-johdosta 35
 säästää 35
 mahdollisuutta 35
 jättänyt 35
@@ -3534,6 +3534,7 @@ silmällä 23
 kauas 23
 seuraavalla 23
 Käytän 23
+väärään 23
 seurassa 23
 vuotaa 23
 menette 23
@@ -3698,7 +3699,6 @@ Elämme 22
 ylpeitä 22
 Lintu 22
 seuraavan 22
-väärään 22
 2 22
 olikaan 22
 Siis 22
