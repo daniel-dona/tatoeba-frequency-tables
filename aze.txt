@@ -5,11 +5,11 @@ Bu 597
 var 394
 bir 385
 və 360
-ki 308
+ki 310
 çox 289
 nə 258
 Onlar 239
-üçün 225
+üçün 226
 idi 222
 Biz 219
 deyil 200
@@ -28,9 +28,9 @@ daha 122
 vaxt 117
 Siz 115
 Onun 115
+istəyirəm 113
 elə 112
 bunu 112
-istəyirəm 111
 gün 109
 Azərbaycan 107
 onu 106
@@ -49,7 +49,7 @@ hər 82
 Nə 81
 etdi 81
 Onu 78
-deyiləm 77
+deyiləm 78
 iki 73
 böyük 73
 davam 73
@@ -65,9 +65,9 @@ sənin 64
 edir 64
 etmək 64
 artıq 63
+bilmirəm 62
 Sənin 61
 onun 61
-bilmirəm 61
 niyə 60
 kömək 60
 Niyə 60
@@ -76,11 +76,11 @@ Meri 59
 kim 58
 Zəhmət 58
 baş 58
+istifadə 57
 hələ 56
 öz 56
 məni 56
 sonra 56
-istifadə 56
 Hər 55
 sevirəm 54
 üç 54
@@ -153,12 +153,12 @@ yaşayıram 34
 alma 34
 yeni 34
 yerə 34
+Dünən 33
 olmaq 33
 Sənə 33
 deyildi 33
 qulaq 33
 məktəbə 32
-Dünən 32
 qəbul 32
 sizə 32
 verdi 32
@@ -199,6 +199,7 @@ kitabı 27
 istəyir 27
 Merinin 27
 Burda 27
+dünən 27
 ölkədir 27
 verin 27
 Birləşmiş 26
@@ -209,7 +210,6 @@ verir 26
 Yaponiyaya 26
 saat 26
 şeyi 26
-dünən 26
 biri 26
 Tomla 26
 bizə 26
@@ -295,6 +295,7 @@ hardadır 18
 adam 18
 ingilis 18
 yalan 18
+gələ 18
 Avropa 18
 birinci 18
 buna 18
@@ -333,7 +334,6 @@ zaman 16
 Üç 16
 Onlara 16
 olduğu 16
-gələ 16
 bizi 16
 etməli 16
 olunub 16
@@ -360,6 +360,7 @@ həyat 15
 oğlu 15
 Hava 15
 yerdə 15
+bilmədim 15
 Kimsə 15
 verdiyini 15
 Get 15
@@ -385,7 +386,6 @@ tanış 14
 əsas 14
 tərcümə 14
 gətir 14
-bilmədim 14
 güclü 14
 uşaq 14
 İngilis 14
@@ -410,6 +410,7 @@ bilərsiz 14
 söz 13
 Böyük 13
 son 13
+Kitab 13
 orada 13
 Cavab 13
 yaşamaq 13
@@ -467,6 +468,7 @@ dedim 12
 necədir 12
 təhsil 12
 Bakı 12
+etməyi 12
 vurdu 12
 kifayət 12
 at 12
@@ -505,7 +507,6 @@ naziri 12
 Asta 12
 dünyada 11
 Salam 11
-Kitab 11
 gəlmişsiniz 11
 danışırsan 11
 Bəli 11
@@ -520,7 +521,6 @@ səndən 11
 kiçik 11
 Çin 11
 aşiq 11
-etməyi 11
 hava 11
 verə 11
 dil 11
@@ -533,6 +533,7 @@ Maşın 11
 açdı 11
 etməyin 11
 Bilirəm 11
+üzr 11
 mənimdir 11
 Hamısı 11
 olma 11
@@ -606,7 +607,6 @@ gördü 10
 birlikdə 10
 Lütfən 10
 tanıyırsan 10
-üzr 10
 Keçən 10
 Yenidən 10
 kimdir 10
@@ -891,6 +891,7 @@ Elə 7
 Həmişə 7
 Məndən 7
 avtobus 7
+ac 7
 şirin 7
 vurma 7
 axmaq 7
@@ -1059,7 +1060,6 @@ olundu 6
 Kitabı 6
 gedə 6
 ciddi 6
-ac 6
 baxma 6
 bilərəmmi 6
 yəqin 6
@@ -1075,6 +1075,7 @@ oğlan 6
 olduğumuzu 6
 düşünmürəm 6
 maraqlıdır 6
+Təəssüf 6
 təşkil 6
 maska 6
 Dənizdə 6
@@ -1308,7 +1309,6 @@ avtomobil 5
 Körpə 5
 mi 5
 buradan 5
-Təəssüf 5
 Kaş 5
 oyun 5
 Həqiqətən 5
@@ -1437,6 +1437,7 @@ demə 5
 axır 5
 qanayır 5
 sizdən 5
+Üzr 5
 təhlükəsiz 5
 qardaşı 5
 ye 5
@@ -1850,7 +1851,6 @@ oxuyun 4
 Ürəyim 4
 içmək 4
 görüşürəm 4
-Üzr 4
 qusdu 4
 mənbəyidir 4
 xoşbəxtlik 4
@@ -2504,6 +2504,7 @@ adamlar 3
 etməkdən 3
 düyməni 3
 qalmayıb 3
+Hal-hazırda 3
 Başım 3
 Burnum 3
 sil 3
@@ -3835,7 +3836,6 @@ Ailə 2
 əzab 2
 qurtardı 2
 mahnının 2
-Hal-hazırda 2
 arzum 2
 səsinə 2
 dinləyin 2
@@ -4216,6 +4216,7 @@ qoxusu 2
 əsəri 2
 çalışıb-vuruşmuşam 2
 əldən 2
+bilmədiyim 2
 Haralarda 2
 Məktəbin 2
 boğuldum 2
@@ -4977,6 +4978,7 @@ sağol 2
 Təkərə 2
 vurun 2
 Kenin 2
+rəngdədir 2
 Silahını 2
 ehtiyacınız 2
 seç 2
@@ -9366,7 +9368,6 @@ həyatımdan 1
 çıxmasını 1
 deyəcəklərime 1
 Kompüteri 1
-bilmədiyim 1
 edibsən 1
 almalıydım 1
 Yemək 1
@@ -9997,4 +9998,3 @@ Sofer 1
 ənənəvi 1
 katibidir 1
 Maykl 1
-Lindanı 1

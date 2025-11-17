@@ -2,7 +2,7 @@ Tomas 842
 No 615
 das 559
 no 503
-binom 495
+binom 496
 etosi 428
 in 331
 obik 294
@@ -10,7 +10,7 @@ Maria 232
 binon 201
 dunön 199
 e 169
-Tom 165
+Tom 166
 dö 160
 obe 159
 Kikod 158
@@ -21,7 +21,7 @@ ko 138
 Kisi 132
 vemo 125
 Vilob 110
-Binob 108
+Binob 109
 obi 108
 ob 107
 oli 103
@@ -31,8 +31,8 @@ et 95
 gudik 95
 omi 92
 ole 92
+El 91
 ka 90
-El 90
 vilom 88
 al 86
 Tomase 81
@@ -244,6 +244,7 @@ Man 18
 slipön 18
 vedön 18
 yunik 18
+mot 18
 ut 18
 badik 18
 gudikumo 18
@@ -258,7 +259,6 @@ Kikodo 17
 Kis 17
 liegik 17
 Mutobs 17
-mot 17
 Ävilob 17
 oms 17
 lödom 17
@@ -5110,3 +5110,4 @@ Libanän 1
 Jirusänan 1
 Hirusänan 1
 peblütom 1
+nenyudan 1

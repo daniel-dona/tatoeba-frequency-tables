@@ -1,4 +1,4 @@
-Tha 281
+Tha 283
 a 269
 an 264
 mi 176
@@ -24,8 +24,8 @@ aig 46
 seo 45
 sin 42
 Cha 42
+a’ 41
 agam 39
-a’ 39
 robh 39
 leam 37
 A 37
@@ -121,6 +121,7 @@ gaol 9
 fearg 9
 leughadh 9
 fuireach 9
+falbh 9
 cinnteach 9
 cò 9
 fhios 9
@@ -146,11 +147,11 @@ sa 8
 aon 8
 Thòmais 8
 ceart 8
+às 8
 iongnadh 8
 ithe 7
 m' 7
 h-uile 7
-falbh 7
 cù 7
 fon 7
 bhi 7
@@ -165,7 +166,6 @@ as 7
 Rinn 7
 aca 7
 rinn 7
-às 7
 coma 7
 Ailis 7
 dhol 7
@@ -187,6 +187,7 @@ no 6
 mhòr 6
 ise 6
 ùr 6
+falt 6
 bhaile 6
 achadh 6
 litir 6
@@ -263,7 +264,6 @@ brèagha 4
 teth 4
 bhon 4
 thairis 4
-falt 4
 naidheachd 4
 mhadainn 4
 fuar 4
@@ -1422,3 +1422,4 @@ Sgrìobhaidh 1
 bith-eòlas 1
 dhìon 1
 choròna-bhìoras 1
+aiste 1

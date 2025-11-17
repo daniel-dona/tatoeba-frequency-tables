@@ -1,7 +1,7 @@
 is 437
 Ich 384
 Tom 263
-en 234
+en 235
 hod 210
 net 178
 hon 171
@@ -26,17 +26,17 @@ meer 58
 wees 56
 un 55
 es 55
+Es 55
 Gott 54
-Es 53
 aan 49
 do 46
 wie 46
 Mein 45
 mich 45
+keen 44
 mit 44
 noch 43
 fer 43
-keen 43
 mein 42
 aach 42
 will 41
@@ -55,8 +55,8 @@ was 32
 mache 32
 Wo 31
 Waromm 30
+muss 30
 Deer 30
-muss 29
 noh 29
 nichs 28
 dem 28
@@ -290,6 +290,7 @@ degeghe 7
 Komm 7
 wusst 7
 wäär 7
+gebbd 7
 Celular 7
 mach-ich 7
 Spass 7
@@ -353,7 +354,6 @@ All 6
 kalt 6
 Danke 6
 finne 6
-gebbd 6
 fersughd 6
 hemmgang 6
 gelecheld 6
@@ -543,6 +543,7 @@ streificher 4
 Blusong 4
 Woerheed 4
 Ess 4
+gewe 4
 dëleteere 4
 was-er 4
 Meeghd-s 4
@@ -709,7 +710,6 @@ Bleib 3
 Follichd 3
 brennd 3
 dass-es 3
-gewe 3
 hinne 3
 Hof 3
 Kenndst-du 3
@@ -940,6 +940,7 @@ gehol 2
 geschickd 2
 Seel 2
 gewesch 2
+defor 2
 zweumol 2
 werst-du 2
 wiehd 2
@@ -1075,6 +1076,8 @@ ennre 2
 frohd 2
 bekomm 2
 Fiever 2
+logisch 2
+Erkleerung 2
 nunnergeschmiss 1
 zieh-ich 1
 schlofd 1
@@ -1740,7 +1743,6 @@ Studente 1
 geschnidd 1
 selldst 1
 Lied 1
-defor 1
 England 1
 Spinn 1
 Netz 1

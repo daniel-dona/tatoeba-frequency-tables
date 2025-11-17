@@ -1,9 +1,9 @@
-jest 242
-Ja 159
+jest 243
+Ja 160
 ne 124
 Tom 80
+jesm 72
 Ty 71
-jesm 71
 v 61
 se 56
 On 52
@@ -14,7 +14,7 @@ My 36
 jesi 36
 Ona 35
 i 34
-je 31
+je 32
 s 26
 ty 26
 byl 23
@@ -189,6 +189,7 @@ Egiptu 3
 životiny 3
 umirati 3
 muziku 3
+životina 3
 izgledaje 3
 brat 3
 Vsi 3
@@ -330,7 +331,6 @@ prěměnil 2
 nema 2
 vody 2
 velika 2
-životina 2
 Vojna 2
 mir 2
 skazal 2
@@ -1605,3 +1605,7 @@ gněvny 1
 razočarovany 1
 gluha 1
 gluhy 1
+mati 1
+Palestina 1
+važna 1
+Jež 1

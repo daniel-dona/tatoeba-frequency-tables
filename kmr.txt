@@ -1,5 +1,5 @@
 Ez 1229
-e 1054
+e 1055
 xwe 1046
 min 1019
 ji 1017
@@ -444,6 +444,7 @@ zarok 13
 hêdî 13
 nekî 13
 biparêzin 13
+Êdî 13
 Çend 13
 herin 13
 jiyanê 13
@@ -479,7 +480,6 @@ berfê 12
 jin 12
 birayên 12
 dikeve 12
-Êdî 12
 Xwedê 12
 cih 12
 civakê 12
@@ -624,6 +624,7 @@ kesk 9
 pirsî 9
 dixwin 9
 nîn 9
+bes 9
 werim 9
 mi 9
 Spas 9
@@ -691,7 +692,6 @@ birî 9
 dibare 8
 bimînin 8
 masê 8
-bes 8
 zêrîn 8
 yan 8
 hêsan 8
@@ -3385,6 +3385,7 @@ kafeyê 2
 nabihîzim 2
 sobeyê 2
 Pêlava 2
+Bifire 2
 bêhawe 2
 Bayekî 2
 hezîranê 2
@@ -7236,7 +7237,6 @@ Qoseriyan 1
 milet 1
 qerisî 1
 Veke 1
-Bifire 1
 Bijimêre 1
 Nereve 1
 Xetere 1
@@ -9324,3 +9324,4 @@ Bibûrin 1
 nuwaz 1
 qenciyekê 1
 esasan 1
+Bifirin 1

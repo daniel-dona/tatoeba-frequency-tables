@@ -1,7 +1,7 @@
 Tom 132
 ad 128
 n 126
-i 100
+i 101
 Mani 91
 Ziri 84
 Ma 80
@@ -9,7 +9,7 @@ d 79
 Wer 73
 wer 70
 Yanni 69
-di 65
+di 67
 ḏ 59
 ar 52
 Min 46
@@ -32,6 +32,7 @@ aman 25
 Qa 25
 Ttuɣa 25
 Wi 24
+Ad 23
 ṯexseḏ 23
 s 22
 cek 22
@@ -42,7 +43,6 @@ Netta 21
 din 21
 aɣrum 21
 Ṭanja 21
-Ad 20
 ma 20
 aḏ 20
 War 19
@@ -146,6 +146,7 @@ isu 7
 nnes 7
 xef 7
 man 7
+gi 7
 amensi 7
 Yih 7
 Waxxa 7
@@ -171,7 +172,6 @@ Tuɣa 6
 issen 6
 qama 6
 ixes 6
-gi 6
 wass 6
 yelli 6
 Kenniw 6
@@ -180,6 +180,7 @@ iraḥ 6
 ɣef-i 6
 Ṯezmmreḏ 6
 ɣar-i 6
+mamec 6
 yessen 6
 Man 6
 tidet 6
@@ -284,7 +285,6 @@ Mliḥ 4
 Bedd 4
 drus 4
 qa-ṯ 4
-mamec 4
 ṯinniḏ 4
 S-tidet 4
 ijen 4
@@ -452,6 +452,7 @@ yedwel 3
 iẓar 3
 yetarji 3
 reṯnayen 3
+I 3
 retnayen 3
 imeddukkal 3
 bab 3
@@ -508,6 +509,7 @@ d-yeǧi-s 3
 Kniw 3
 zaysen 3
 Dek 3
+Yulyu 3
 Arzuɣ 2
 wami 2
 tecceɣ 2
@@ -994,6 +996,9 @@ Ttuɣ 2
 Mayemli 2
 Qqimem 2
 Qqimemt 2
+Hi 2
+mism 2
+dd-aseɣ 2
 iḥman 1
 Araḥed 1
 kkaren 1
@@ -2082,7 +2087,6 @@ Idwuc 1
 As 1
 Asem 1
 Asemt 1
-I 1
 Araḥ-d 1
 Araḥm-d 1
 Araḥmt-d 1
@@ -3000,3 +3004,5 @@ yetwazdeɣ 1
 umkan-nnec 1
 umkan-nwem 1
 umkan-nwemt 1
+mux 1
+aseɣ 1

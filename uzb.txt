@@ -7,11 +7,11 @@ bir 29
 bilan 27
 edi 27
 Mening 25
+uchun 24
 nima 24
 emas 24
 qayerda 23
 bormi 23
-uchun 22
 yaxshi 19
 kerak 19
 Sen 18
@@ -62,6 +62,7 @@ yerda 7
 yashaydi 7
 Qancha 7
 Kim 7
+Kecha 7
 Ular 7
 qachon 7
 qaysi 7
@@ -95,7 +96,6 @@ Har 5
 hamma 5
 Yana 5
 ikki 5
-Kecha 5
 bo'ladi 5
 turadi 5
 o'z 5
@@ -145,6 +145,7 @@ berdi 4
 qushlarimni 4
 barcha 4
 Eshikni 4
+uzr 4
 tilda 4
 Meni 4
 yil 4
@@ -482,7 +483,6 @@ qilaman 2
 Boshqa 2
 nimadir 2
 rejang 2
-uzr 2
 Soat 2
 gaplasha 2
 xursand 2
@@ -522,9 +522,11 @@ tomonda 2
 o'ldirding 2
 hayvonlar 2
 ko‘p 2
+Ijtimoiy 2
 Germaniyaga 2
 harakat 2
 savolingizga 2
+foydalanishni 2
 qo‘rqadi 2
 Tilingizni 2
 ko‘zlarini 2
@@ -557,6 +559,7 @@ Bolamni 2
 uzoq 2
 mol-mulkini 2
 tushunmaydi 2
+so‘rayman 2
 barbod 1
 kutaman 1
 Барча 1
@@ -2199,7 +2202,6 @@ Ziri 1
 berber 1
 nutq 1
 so‘zladi 1
-Ijtimoiy 1
 tarmoqlar 1
 vaqtingizni 1
 yo‘qotadi 1
@@ -2245,7 +2247,6 @@ antigigiyenik 1
 bo‘lganidan 1
 jamoat 1
 hojatxonalaridan 1
-foydalanishni 1
 rad 1
 etaman 1
 Qilgan 1
@@ -2519,3 +2520,8 @@ gaplashmas 1
 Matematikadan 1
 xohlaysizmi 1
 ochmoqchi 1
+kelolmaganim 1
+kela 1
+olmaganim 1
+tarmoqlardan 1
+to‘xtatdim 1
