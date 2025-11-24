@@ -1,5 +1,5 @@
-te 324
-i 254
+te 325
+i 257
 e 136
 ki 131
 a 129
@@ -11,9 +11,9 @@ au 64
 koe 60
 ngā 58
 ia 57
-ahau 52
+ahau 53
 E 51
-Kāore 46
+Kāore 47
 o 38
 he 36
 tēnei 32
@@ -83,6 +83,7 @@ wahine 7
 tamariki 7
 ōku 7
 kite 7
+wai 7
 ōna 7
 Me 7
 taku 7
@@ -91,9 +92,9 @@ rata 7
 pīkau 7
 ngeru 6
 hia 6
-wai 6
 kī 6
 kāore 6
+Nā 6
 waea 6
 paingia 6
 hea 6
@@ -114,7 +115,6 @@ pēhea 5
 tāu 5
 tonu 5
 runga 5
-Nā 5
 tau 5
 tōna 5
 pō 5
@@ -795,3 +795,6 @@ Paraihetia 1
 weriweri 1
 tapahi 1
 māra 1
+pātai 1
+pakaru 1
+pātara 1

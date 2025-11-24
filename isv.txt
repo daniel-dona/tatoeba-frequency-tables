@@ -1,11 +1,11 @@
 jest 243
-Ja 160
+Ja 161
 ne 124
 Tom 80
 jesm 72
 Ty 71
 v 61
-se 56
+se 57
 On 52
 To 50
 sut 43
@@ -346,6 +346,7 @@ viděla 2
 kotku 2
 mojego 2
 uči 2
+uču 2
 spi 2
 živemo 2
 umrl 2
@@ -921,7 +922,6 @@ otca 1
 Angliji 1
 objasnil 1
 nomad 1
-uču 1
 bibliotekar 1
 bibliotekarka 1
 krasno 1
@@ -1609,3 +1609,4 @@ mati 1
 Palestina 1
 važna 1
 Jež 1
+tatarsky 1

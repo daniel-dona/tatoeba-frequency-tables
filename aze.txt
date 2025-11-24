@@ -1,6 +1,6 @@
 Tom 909
 Mən 869
-O 632
+O 634
 Bu 597
 var 394
 bir 385
@@ -17,7 +17,7 @@ də 190
 heç 187
 bu 179
 Sən 161
-ilə 151
+ilə 152
 mənim 136
 Mənim 134
 Tomun 130
@@ -181,6 +181,7 @@ ya 29
 bilirsən 29
 dilində 29
 evə 29
+su 29
 olun 29
 Gəl 28
 böyükdür 28
@@ -190,7 +191,6 @@ başqa 28
 Daha 28
 sizi 28
 gəldi 28
-su 28
 edib 28
 Səni 27
 istərdim 27
@@ -455,10 +455,12 @@ bilirsiz 13
 gətirin 13
 Nəsə 13
 Yalan 13
+Salam 12
 Harada 12
 tapa 12
 Avstraliyada 12
 oxumaq 12
+soyuq 12
 İt 12
 siqaret 12
 həkim 12
@@ -506,13 +508,11 @@ elədi 12
 naziri 12
 Asta 12
 dünyada 11
-Salam 11
 gəlmişsiniz 11
 danışırsan 11
 Bəli 11
 altı 11
 zəhləsi 11
-soyuq 11
 etmir 11
 öyrənmək 11
 nəsə 11
@@ -661,6 +661,7 @@ qaçdı 9
 digər 9
 açın 9
 isti 9
+şadam 9
 Hara 9
 aç 9
 Ana 9
@@ -675,6 +676,7 @@ təyin 9
 hərəkət 9
 alın 9
 çəkdi 9
+gəldim 9
 qoydu 9
 yedim 9
 xahiş 9
@@ -747,7 +749,6 @@ yazdı 8
 sərbəst 8
 İspaniyada 8
 sizinlə 8
-şadam 8
 ağıllı 8
 Mənimlə 8
 dünya 8
@@ -770,7 +771,6 @@ Necə 8
 Orda 8
 açıqdır 8
 gedirsən 8
-gəldim 8
 etmirəm 8
 görüşü 8
 nəfər 8
@@ -959,6 +959,7 @@ qaldı 7
 onlara 7
 həyatını 7
 Özümü 7
+Bağışlayın 7
 qəribə 7
 Məktəb 7
 problem 7
@@ -1048,6 +1049,7 @@ Polis 6
 müəllim 6
 Səninlə 6
 şəhərdir 6
+saçını 6
 olanda 6
 yatdım 6
 tanıyır 6
@@ -1274,7 +1276,6 @@ Uşaq 5
 Müəllim 5
 itim 5
 Gecə 5
-saçını 5
 kor 5
 Braziliyada 5
 futbol 5
@@ -1285,6 +1286,7 @@ ve 5
 Haradan 5
 edirsiniz 5
 etdiyiniz 5
+Adım 5
 varlıdır 5
 İtaliyaya 5
 Evdə 5
@@ -1310,6 +1312,7 @@ Körpə 5
 mi 5
 buradan 5
 Kaş 5
+əsəbidir 5
 oyun 5
 Həqiqətən 5
 Quşlar 5
@@ -1413,7 +1416,6 @@ dəyişib 5
 dilinə 5
 zarafat 5
 Hətta 5
-Bağışlayın 5
 Mariya 5
 otağında 5
 Geri 5
@@ -1637,7 +1639,6 @@ gözəlsiniz 4
 ünvanı 4
 Əsla 4
 deməyin 4
-Adım 4
 diş 4
 bildiyini 4
 nəyə 4
@@ -1676,7 +1677,6 @@ Sen 4
 olmayın 4
 Qar 4
 kənarda 4
-əsəbidir 4
 gözləyirəm 4
 apar 4
 bank 4
@@ -3825,6 +3825,7 @@ tapacaq 2
 qorxutdu 2
 uzaqdır 2
 itirdim 2
+yudu 2
 yuyurlar 2
 panda 2
 məsuliyyətli 2
@@ -7724,7 +7725,6 @@ Yunanlar 1
 bədəni 1
 ciddiyəm 1
 üzünü 1
-yudu 1
 xoşumuz 1
 göydür 1
 Timi 1

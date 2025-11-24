@@ -1,4 +1,4 @@
-je 1809
+je 1810
 se 675
 u 587
 sam 489
@@ -12,7 +12,7 @@ mi 233
 su 228
 Ne 201
 to 198
-nije 176
+nije 177
 za 176
 što 173
 si 170
@@ -29,7 +29,7 @@ Ja 103
 bi 102
 Ona 97
 Što 96
-ću 91
+ću 92
 bio 85
 o 78
 biti 74
@@ -213,6 +213,7 @@ tebe 18
 Taj 18
 koje 18
 ih 18
+Ova 18
 Želiš 18
 stvari 18
 sati 18
@@ -232,7 +233,6 @@ govoriti 17
 ona 17
 Na 17
 otac 17
-Ova 17
 put 17
 riječ 17
 deset 16
@@ -389,6 +389,7 @@ odmah 11
 kuće 11
 točno 11
 napravila 11
+mačka 10
 Njegov 10
 jeziku 10
 Imate 10
@@ -443,7 +444,6 @@ vodu 10
 jednog 10
 rođendan 10
 ikada 10
-mačka 9
 pas 9
 oni 9
 Oprostite 9
@@ -1027,6 +1027,7 @@ sestre 4
 smije 4
 ostali 4
 zemlju 4
+naša 4
 budeš 4
 mojim 4
 shvatio 4
@@ -1372,7 +1373,6 @@ naučim 3
 društvo 3
 igram 3
 snage 3
-naša 3
 mnogim 3
 ukusno 3
 sport 3
@@ -1418,6 +1418,7 @@ napustiti 3
 zrakoplovom 3
 trebati 3
 planine 3
+sretnom 3
 metara 3
 pričaš 3
 trudna 3
@@ -2029,7 +2030,6 @@ Rijeka 2
 teče 2
 Pariz 2
 Učiniti 2
-sretnom 2
 granice 2
 proputovati 2
 morem 2
@@ -2837,6 +2837,7 @@ dolje 2
 pio 2
 uživa 2
 pažljivi 2
+Učinit 2
 sjesti 2
 jedanput 2
 Sunca 2
@@ -6893,7 +6894,6 @@ Nastavit 1
 surađivati 1
 Napravit 1
 napravimo 1
-Učinit 1
 pokrivača 1
 kupi 1
 vuvuzelu 1

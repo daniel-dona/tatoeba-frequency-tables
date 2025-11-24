@@ -2,20 +2,20 @@ es 218
 Eo 141
 yn 106
 rhen 99
-di 83
+di 84
 Tomos 77
 Ys 60
 Sa 59
 ill 57
 Ill 51
 llo 48
-lla 45
+lla 46
 su 41
 Lla 35
 yst 35
 Llo 29
 sunt 29
-Nw 28
+Nw 29
 er 27
 Ty 25
 ci 23
@@ -32,7 +32,7 @@ gws 14
 di'll 14
 i 14
 llifr 13
-sun 11
+sun 12
 mi 11
 Gw 11
 padr 10
@@ -273,6 +273,7 @@ nîr 2
 chalent 2
 edif 2
 Gwan 2
+fyseg 2
 châr 2
 ystuil 2
 Af-ty 2
@@ -381,6 +382,7 @@ Awstralia 2
 carchern 2
 sent 2
 desir 2
+asculltan 2
 kemin 2
 alch 2
 "K'lwg 2
@@ -504,7 +506,6 @@ Mefeirath 1
 Mefeir 1
 Ysta'gw 1
 Yst-ty 1
-fyseg 1
 fefeir 1
 cantaf 1
 ddansaf 1
@@ -904,7 +905,6 @@ yscaffad 1
 git 1
 mydad 1
 yscalad 1
-asculltan 1
 maistr 1
 gwidef 1
 dithiwneir 1

@@ -7,7 +7,7 @@ ko 12380
 mga 12023
 Tom 9469
 si 8830
-ako 8220
+ako 8222
 ni 6198
 mo 6124
 Hindi 5977
@@ -17,7 +17,7 @@ niya 4757
 ay 4661
 ito 4575
 siya 4497
-May 3978
+May 3979
 nang 3714
 Ang 3639
 ka 3570
@@ -67,14 +67,14 @@ niyang 865
 dahil 855
 mula 837
 mas 819
-o 797
+o 796
 rin 780
 Bakit 748
 pero 736
 noong 719
 Mas 700
 Walang 681
-rito 670
+rito 671
 naman 661
 babae 650
 nasa 642
@@ -100,7 +100,7 @@ ibang 552
 kaysa 546
 tungkol 545
 taong 540
-kaya 539
+kaya 540
 umaga 539
 Sabi 539
 Nasa 526
@@ -435,7 +435,6 @@ Australia 127
 Binigyan 127
 maayos 127
 araw-araw 126
-de 126
 malamig 126
 mukha 126
 muli 126
@@ -443,6 +442,7 @@ ref 126
 ganda 126
 Maganda 126
 sapat 125
+de 125
 piraso 125
 sahig 125
 iniisip 124
@@ -2693,6 +2693,7 @@ Dalawa 19
 buntot 19
 Ipinaliwanag 19
 Punong-puno 19
+maiintindihan 19
 Nagiging 19
 Nakikinig 19
 Inaasahan 19
@@ -2834,7 +2835,6 @@ magpaalam 18
 Tatawag 18
 relihiyoso 18
 Bundok 18
-maiintindihan 18
 labis 18
 karaniwang 18
 kasalukuyan 18
@@ -4571,7 +4571,6 @@ Simula 10
 tinik 10
 abot 10
 konti 10
-e 10
 Mahuhuli 10
 mag-aalaga 10
 ibibigay 10
@@ -5000,6 +4999,7 @@ mani 9
 duhat 9
 mag-away 9
 pintong 9
+e 9
 Tunay 9
 kalungkutan 9
 nakakaintindi 9
@@ -9461,6 +9461,7 @@ Nilamon 4
 telenobela 4
 Dismayado 4
 kumpiyansa 4
+Nangangati 4
 Komunismo 4
 Pinaghihinalaan 4
 Nanunuluyan 4
@@ -9997,4 +9998,3 @@ Kapalaran 4
 L'Empire 4
 romain 4
 Grimal 4
-singkit 4

@@ -1,12 +1,12 @@
-er 17855
+er 17856
 Jeg 11360
 at 9171
-Tom 8633
-en 8597
+Tom 8636
+en 8598
 i 8497
 ikke 8119
 har 7670
-du 5458
+du 5460
 til 5184
 det 4926
 på 4922
@@ -18,7 +18,7 @@ Det 3470
 var 3383
 med 3330
 af 3316
-et 3237
+et 3239
 mig 3179
 kan 2642
 der 2320
@@ -41,16 +41,16 @@ meget 1438
 her 1268
 Hvor 1184
 de 1183
-Er 1162
+Er 1164
 Hvad 1149
 blev 1092
 sig 1086
-sin 1081
+sin 1082
 ham 1070
 Har 1033
 Der 991
+havde 982
 være 981
-havde 980
 Min 956
 din 920
 dag 908
@@ -95,7 +95,7 @@ sagde 524
 kun 517
 ingen 511
 dem 511
-efter 492
+efter 493
 mit 490
 bil 487
 tror 485
@@ -168,8 +168,8 @@ gerne 300
 stadig 300
 sprog 296
 kender 289
+også 287
 tilbage 287
-også 285
 skulle 284
 hjem 284
 bog 283
@@ -511,13 +511,13 @@ film 90
 klar 90
 lyst 90
 rejse 89
+telefon 89
 haven 89
 givet 89
 glad 89
 Ziri 89
 ringe 88
 foretrækker 88
-telefon 88
 dræbt 88
 smukke 88
 talte 88
@@ -720,6 +720,7 @@ vred 60
 afsted 60
 hellere 59
 ske 59
+leder 59
 måske 59
 Solen 59
 "Hvad 59
@@ -732,7 +733,6 @@ danse 58
 forkert 58
 ønske 58
 træet 58
-leder 58
 morgenmad 57
 sikkert 57
 hjælper 57
@@ -3301,6 +3301,7 @@ Lucy 9
 tomater 9
 Fjenden 9
 ansatte 9
+single 9
 tvinge 9
 foreslog 9
 Slå 9
@@ -3619,7 +3620,6 @@ kristne 8
 morder 8
 bevidstløs 8
 savnede 8
-single 8
 begravede 8
 jordskælvet 8
 havets 8
@@ -4883,6 +4883,7 @@ bød 6
 afgørende 6
 positiv 6
 Byens 6
+alibi 6
 fortørnet 6
 hare 6
 skildpadde 6
@@ -4938,6 +4939,7 @@ fortæl 6
 mistanke 6
 bogstaveligt 6
 moms 6
+vandtæt 6
 svære 6
 forbyde 6
 hyre 6
@@ -5745,7 +5747,6 @@ værktøjskasse 5
 uorden 5
 ondskabsfuld 5
 momsen 5
-vandtæt 5
 downloade 5
 heldige 5
 Træneren 5
@@ -6738,7 +6739,6 @@ negativ 4
 Omkring 4
 synligt 4
 drinks 4
-alibi 4
 mørkets 4
 frembrud 4
 overgav 4
@@ -8605,6 +8605,7 @@ meningsløse 3
 symaskine 3
 grænsekontrol 3
 "Tom" 3
+skudsikkert 3
 Majestæt 3
 vikariere 3
 udvalgt 3
@@ -9997,4 +9998,3 @@ krimi 2
 Agatha 2
 Christie 2
 styrtregne 2
-harmoni 2

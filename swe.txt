@@ -7,9 +7,9 @@ en 5143
 du 5140
 på 4859
 det 4752
-i 4596
+i 4597
 har 4242
-Det 3888
+Det 3889
 Han 3411
 jag 3156
 mig 2721
@@ -88,7 +88,7 @@ finns 441
 dag 428
 eller 426
 alla 423
-gick 420
+gick 421
 gör 419
 lite 418
 mitt 416
@@ -1431,6 +1431,7 @@ högsta 20
 träffas 20
 fattar 20
 Rummet 20
+Fortsätt 20
 värre 20
 ställe 20
 nervös 20
@@ -1500,7 +1501,6 @@ Hallå 19
 godis 19
 dåliga 19
 korrekt 19
-Fortsätt 19
 döden 19
 sekund 19
 lyssnade 19
@@ -4183,6 +4183,7 @@ Regnet 5
 flaskor 5
 avtog 5
 inre 5
+Översätt 5
 kikade 5
 led 5
 Alltså 5
@@ -4910,7 +4911,6 @@ saltet 4
 mödan 4
 Wikipedia 4
 Sådant 4
-Översätt 4
 Datorn 4
 Tekniken 4
 blixt 4
@@ -9353,6 +9353,7 @@ vägde 2
 stycket 2
 Barcelona 2
 näststörsta 2
+Blås 2
 Kiel 2
 spänd 2
 70 2
@@ -9997,4 +9998,3 @@ Förolämpa 2
 terapi 2
 Terapi 2
 förhåller 2
-nämnt 2

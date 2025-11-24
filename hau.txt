@@ -6,7 +6,7 @@ na 3799
 yi 2496
 ta 2474
 ne 2313
-ka 1825
+ka 1826
 iya 1393
 mai 1305
 Na 1226
@@ -49,7 +49,7 @@ A 508
 lokacin 487
 cewa 485
 in 481
-so 474
+so 475
 sa 467
 kai 465
 kyau 464
@@ -96,8 +96,8 @@ mutane 301
 ban 295
 ma 293
 ganin 291
+fi 287
 wajen 286
-fi 286
 duk 284
 biyu 282
 akan 279
@@ -225,11 +225,11 @@ abinci 125
 tunani 125
 kayan 125
 zauna 124
+Wani 123
 kuɗi 123
 kowane 123
 fiye 122
 girma 122
-Wani 122
 ɗin 122
 masa 122
 launin 122
@@ -363,6 +363,7 @@ Don 76
 mutanen 76
 laifi 76
 musu 76
+motar 76
 cika 76
 dakin 75
 gabata 75
@@ -370,7 +371,6 @@ manta 75
 Mai 75
 Ana 75
 Gaskiya 75
-motar 75
 daɗin 73
 tun 73
 Wasu 73
@@ -763,6 +763,7 @@ Wanene 32
 yar 31
 buƙata 31
 waƙa 31
+littafi 31
 sanar 31
 hatsari 31
 daban-daban 31
@@ -783,7 +784,6 @@ taimakon 30
 zamani 30
 Shugaban 30
 hadu 30
-littafi 30
 Turai 30
 dutse 30
 kiyaye 30
@@ -1904,7 +1904,6 @@ manya 10
 kauri 10
 komo 10
 yafe 10
-motan 10
 nasu 10
 wakiltar 10
 harba 10
@@ -2063,6 +2062,7 @@ miyan 9
 kwankwasa 9
 guji 9
 umurce 9
+motan 9
 janyo 9
 ƙarancin 9
 jima'i 9

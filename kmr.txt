@@ -1,29 +1,29 @@
-Ez 1229
+Ez 1230
 e 1055
 xwe 1046
-min 1019
+min 1020
 ji 1017
 bi 942
 li 850
 Ew 821
-ê 746
+ê 747
 û 668
 ye 649
 ku 638
 Tom 553
-Em 550
+Em 551
 me 531
 Tu 528
 te 508
 de 473
 ne 412
 re 394
-Min 363
+Min 364
 Hûn 307
 di 306
 kir 300
 çi 283
-wê 265
+wê 266
 Ji 261
 em 251
 ez 249
@@ -37,8 +37,8 @@ dike 196
 ber 195
 bo 192
 heye 188
+vê 187
 Te 187
-vê 186
 ser 186
 dikim 186
 Wî 185
@@ -59,7 +59,7 @@ her 141
 We 136
 im 130
 baş 127
-bikim 121
+bikim 122
 tê 118
 da 116
 we 116
@@ -226,6 +226,7 @@ dixwazin 26
 bîst 26
 karê 26
 kurdî 26
+şikand 26
 wisa 25
 dil 25
 Ne 25
@@ -236,7 +237,6 @@ zimanê 25
 avê 25
 dibêje 25
 temaşe 25
-şikand 25
 kê 25
  24
 bibînim 24
@@ -309,6 +309,7 @@ ciwan 19
 nabe 19
 biçin 19
 biçûk 19
+kêfxweş 19
 jêr 19
 Lê 19
 tev 19
@@ -327,7 +328,6 @@ Kurdî 18
 serbajarê 18
 Mala 18
 carî 18
-kêfxweş 18
 baran 18
 pêş 18
 nava 18
@@ -388,6 +388,7 @@ Birayê 15
 nikare 15
 kû 15
 Sê 15
+dizanin 15
 kincên 15
 cem 15
 çê 15
@@ -404,6 +405,7 @@ gotin 15
 vekirî 15
 nakî 15
 hestî 15
+Kê 15
 Bostonê 15
 wenda 14
 hate 14
@@ -423,7 +425,6 @@ xemgîn 14
 şîn 14
 an 14
 berda 14
-dizanin 14
 bigire 14
 Xwendekar 14
 çûm 14
@@ -432,7 +433,6 @@ zêdetir 14
 bidî 14
 erdê 14
 biaxivim 14
-Kê 14
 nedin 14
 hestiyên 14
 avêt 14
@@ -1938,6 +1938,7 @@ ewran 3
 Dar 3
 3 3
 dagirin 3
+şûşe 3
 Piştre 3
 binasin 3
 Tim 3
@@ -2129,6 +2130,7 @@ Wext 3
 vegere 3
 soz 3
 haydar 3
+jixwe 3
 Hatina 3
 mizgeftê 3
 fedî 3
@@ -2339,6 +2341,7 @@ televîzyonê 3
 qehweya 3
 Malbateke 3
 pêdivîya 3
+naxebite 3
 keçeke 3
 qestî 3
 Mary'ê 3
@@ -2463,6 +2466,7 @@ Sûriyeyê 2
 xwîşk 2
 komputera 2
 Xewna 2
+Komputera 2
 Pênûsa 2
 Duçerxeya 2
 Wana 2
@@ -2909,7 +2913,6 @@ lênûsên 2
 çûk 2
 firiyan 2
 9 2
-şûşe 2
 Mizgînê 2
 Dengên 2
 Rojbûna 2
@@ -3317,7 +3320,6 @@ bûma 2
 bimeşim 2
 Dîsa 2
 bernede 2
-jixwe 2
 edaletê 2
 xulamê 2
 Bêyî 2
@@ -3619,7 +3621,6 @@ difikirî 2
 qehreman 2
 bimirin 2
 nenêre 2
-naxebite 2
 vegerin 2
 sparîş 2
 evînê 2
@@ -4203,7 +4204,6 @@ kevirî 1
 deryayan 1
 girav 1
 çêjdar 1
-Komputera 1
 roni 1
 ezi 1
 hundûr 1
@@ -9325,3 +9325,4 @@ nuwaz 1
 qenciyekê 1
 esasan 1
 Bifirin 1
+nepirsî 1
