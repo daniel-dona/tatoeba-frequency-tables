@@ -1,10 +1,10 @@
-Ez 1230
+Ez 1232
 e 1055
 xwe 1046
 min 1020
 ji 1017
-bi 942
-li 850
+bi 943
+li 851
 Ew 821
 ê 747
 û 668
@@ -26,9 +26,9 @@ kir 300
 wê 266
 Ji 261
 em 251
-ez 249
+ez 250
 wî 246
-jî 245
+jî 246
 tu 239
 Ev 232
 bû 221
@@ -57,7 +57,7 @@ Li 145
 hene 141
 her 141
 We 136
-im 130
+im 131
 baş 127
 bikim 122
 tê 118
@@ -337,6 +337,7 @@ ra 18
 Bila 18
 wek 17
 kengî 17
+xist 17
 hêvî 17
 demê 17
 here 17
@@ -356,7 +357,6 @@ tînin 17
 řa 17
 Serê 17
 nîne 16
-xist 16
 hey 16
 nikarin 16
 bim 16
@@ -530,6 +530,7 @@ Gelo 11
 bînin 11
 alîkariyê 11
 Hevalê 11
+Erê 11
 goşt 11
 hevala 11
 reng 11
@@ -574,7 +575,6 @@ Pisîk 10
 Deh 10
 çiqas 10
 meh 10
-Erê 10
 Ya 10
 cîhanê 10
 neh 10
@@ -684,6 +684,7 @@ mere 9
 Zikê 9
 bixwe 9
 naxwaze 9
+kurd 9
 nebî 9
 berdaye 9
 nebihîst 9
@@ -712,6 +713,7 @@ derewan 8
 Meryem 8
 kûçik 8
 şêst 8
+Sami 8
 bona 8
 zimanekî 8
 Ziman 8
@@ -778,7 +780,6 @@ lawaz 8
 welêt 8
 pereyê 8
 nebir 8
-kurd 8
 aniye 8
 nebersivandiye 8
 xistiye 8
@@ -813,7 +814,6 @@ Silav 7
 azadiya 7
 razî 7
 can 7
-Sami 7
 zewicî 7
 Pênc 7
 bişo 7
@@ -1719,6 +1719,7 @@ kamerên 3
 navên 3
 mirim 3
 vêga 3
+Dixwazim 3
 nerîna 3
 mafê 3
 Evan 3
@@ -1979,6 +1980,7 @@ guherîn 3
 henekan 3
 dersa 3
 şa 3
+Dan 3
 pirsgirêkek 3
 mirinê 3
 heyvê 3
@@ -2084,6 +2086,7 @@ xemgîniyê 3
 xêza 3
 berevajî 3
 lîstikê 3
+saetê 3
 xêz 3
 milên 3
 Dayê 3
@@ -2457,7 +2460,6 @@ Va 2
 ye: 2
 biya 2
 nêza 2
-Dixwazim 2
 De 2
 Dereng 2
 trafîk 2
@@ -2895,6 +2897,7 @@ Neçe 2
 Xeman 2
 Koma 2
 bihêztir 2
+Biryar 2
 bijîşkî 2
 Hêdî 2
 Alîkarîya 2
@@ -3021,7 +3024,6 @@ wateya 2
 hember 2
 dîrokê 2
 xem 2
-Dan 2
 nihêrî 2
 berdan 2
 Îtalî 2
@@ -3216,7 +3218,6 @@ bizîvirînin 2
 lingekî 2
 pêlikan 2
 bigihêje 2
-saetê 2
 beşa 2
 derdikeve 2
 astengiyan 2
@@ -5363,7 +5364,6 @@ neçarî 1
 Dijmin 1
 piřê 1
 teqand 1
-Biryar 1
 pera 1
 dolarekê 1
 řekê 1
@@ -9326,3 +9326,13 @@ qenciyekê 1
 esasan 1
 Bifirin 1
 nepirsî 1
+Dizîn 1
+Tifîn 1
+Wergerandî 1
+Wergerandin 1
+Domandin 1
+Bimkanî 1
+ereba 1
+160 1
+mile 1
+Xwêlekê 1

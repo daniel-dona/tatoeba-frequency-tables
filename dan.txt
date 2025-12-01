@@ -18,7 +18,7 @@ Det 3470
 var 3383
 med 3330
 af 3316
-et 3239
+et 3240
 mig 3179
 kan 2642
 der 2320
@@ -3301,7 +3301,6 @@ Lucy 9
 tomater 9
 Fjenden 9
 ansatte 9
-single 9
 tvinge 9
 foreslog 9
 Slå 9
@@ -3620,6 +3619,7 @@ kristne 8
 morder 8
 bevidstløs 8
 savnede 8
+single 8
 begravede 8
 jordskælvet 8
 havets 8
@@ -4479,6 +4479,7 @@ lavere 6
 hende: 6
 bleg 6
 fotografere 6
+ugift 6
 forretningsrejse 6
 sværere 6
 baseball 6
@@ -5128,7 +5129,6 @@ barberet 5
 sørgede 5
 kopi 5
 vejrudsigten 5
-ugift 5
 politistationen 5
 fældet 5
 besvaret 5
@@ -5307,6 +5307,7 @@ spinaten 5
 fiskehale 5
 blyanten 5
 junglen 5
+luftkastel 5
 ikke; 5
 Aldrig 5
 "ja" 5
@@ -7072,7 +7073,6 @@ altanen 4
 Tøm 4
 trappelift 4
 Ned 4
-luftkastel 4
 Ak 4
 lungerne 4
 græsslåmaskine 4
@@ -9960,7 +9960,6 @@ lørdagen 2
 Udarbejdelse 2
 rådighed 2
 Tårer 2
-luftkasteller 2
 haster 2
 nægte 2
 nytteløst 2
@@ -9998,3 +9997,4 @@ krimi 2
 Agatha 2
 Christie 2
 styrtregne 2
+harmoni 2

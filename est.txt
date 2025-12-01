@@ -167,22 +167,22 @@ valmis 22
 läks 22
 naine 22
 parem 22
+olete 22
 üles 22
 tee 22
 natuke 22
+Te 22
 miks 22
 teada 21
 Keegi 21
 teine 21
 lapsed 21
 Millal 21
-olete 21
 raamatu 21
 aastat 21
 mina 21
 üks 21
 sinuga 21
-Te 21
 alati 20
 ilma 20
 tuleb 20
@@ -241,6 +241,7 @@ lähen 16
 kinni 16
 õhtul 16
 temaga 16
+teab 16
 öelda 16
 vastu 16
 saab 16
@@ -261,7 +262,6 @@ kõige 15
 arvad 15
 kuidas 15
 vend 15
-teab 15
 teeb 15
 teinud 15
 elu 15
@@ -611,6 +611,7 @@ toas 6
 järgmisel 6
 väärt 6
 Mees 6
+maailm 6
 ju 6
 Tundub 6
 Kuu 6
@@ -725,7 +726,6 @@ ostsid 5
 kleit 5
 keelest 5
 rase 5
-maailm 5
 hääl 5
 jalgratas 5
 sadas 5
@@ -1109,6 +1109,7 @@ inimestele 3
 kellel 3
 üksinda 3
 metsa 3
+Kogu 3
 mütsi 3
 jutt 3
 võimalus 3
@@ -1544,7 +1545,6 @@ iganes 2
 kiita 2
 nõudis 2
 haigus 2
-Kogu 2
 lükkas 2
 kestis 2
 tegelevad 2
@@ -1948,6 +1948,7 @@ Tänud 2
 sülearvuti 2
 Koerad 2
 valged 2
+tõde 2
 hobisid 2
 arvatud 2
 Tomilt 2
@@ -3778,7 +3779,6 @@ Vein 1
 klaasis 1
 Skopjest 1
 Kahju 1
-tõde 1
 Nägid 1
 päikesetõusu 1
 kodutöid 1
@@ -6776,3 +6776,4 @@ Loomad 1
 purpurne 1
 Salasõna 1
 jahu 1
+kangelased 1

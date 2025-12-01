@@ -1,6 +1,6 @@
-nie 1374
+nie 1375
 is 1135
-het 1094
+het 1095
 Ek 1022
 die 799
 'n 641
@@ -21,12 +21,12 @@ Hy 235
 sal 214
 Ons 203
 gaan 188
-Dit 174
+Dit 175
 Jy 169
 wil 168
 wat 156
+ons 153
 kan 152
-ons 152
 sy 151
 met 146
 Sy 145
@@ -120,10 +120,10 @@ tyd 30
 geld 30
 soos 30
 waar 29
+geen 29
 vandag 29
 Moenie 29
 voel 29
-geen 28
 gesien 28
 glo 28
 slaap 28
@@ -1354,7 +1354,6 @@ hoog 2
 kuns 2
 eenvoudige 2
 talent 2
-on 2
 bedek 2
 verlof 2
 kelner 2
@@ -1464,6 +1463,7 @@ hemel 2
 Natuurlik 2
 euros 2
 gunstelling 2
+betekenis 2
 a 2
 moeilike 2
 slim 2
@@ -2749,7 +2749,6 @@ haarkleur 1
 Klavierspeel 1
 tydverdryf 1
 voorgestel 1
-betekenis 1
 Wys 1
 vergiftig 1
 hiermee 1
@@ -3353,6 +3352,7 @@ Regtig 1
 vogtige 1
 Junie 1
 vaste 1
+on 1
 geveg 1
 byna 1
 dikwels 1
