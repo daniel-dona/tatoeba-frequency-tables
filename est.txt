@@ -1,6 +1,6 @@
 on 1544
 Ma 932
-ei 742
+ei 743
 Tom 623
 Kas 448
 sa 438
@@ -21,7 +21,7 @@ keelt 134
 väga 133
 Mul 131
 kui 129
-Me 126
+Me 127
 pole 124
 oled 102
 mulle 99
@@ -68,8 +68,8 @@ minna 48
 me 48
 Mulle 48
 ütles 48
+tea 46
 Kuidas 45
-tea 45
 olnud 44
 isa 43
 tagasi 42
@@ -186,6 +186,7 @@ sinuga 21
 alati 20
 ilma 20
 tuleb 20
+praegu 20
 meeldivad 20
 minuga 20
 pea 20
@@ -194,22 +195,21 @@ tahtnud 20
 Toomas 20
 läbi 19
 raamatut 19
-praegu 19
 Ei 19
 kiiresti 19
 Täna 19
 elan 19
+oleme 19
 saada 19
 väsinud 19
 vana 19
+kus 19
 end 18
 tööd 18
 taga 18
 koera 18
-oleme 18
 raske 18
 selles 18
-kus 18
 elada 18
 iga 18
 Tomiga 18
@@ -614,6 +614,7 @@ Mees 6
 maailm 6
 ju 6
 Tundub 6
+ega 6
 Kuu 6
 räägite 6
 Kuigi 6
@@ -735,7 +736,6 @@ toit 5
 tehtud 5
 tuled 5
 kasutada 5
-ega 5
 lemmik 5
 Nende 5
 jõe 5

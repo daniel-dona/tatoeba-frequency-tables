@@ -1,5 +1,5 @@
-ast 1165
-As 997
+ast 1167
+As 998
 ni 860
 en 620
 as 386
@@ -7,15 +7,15 @@ tū 372
 Tāns 365
 turri 361
 si 361
-kāi 344
+kāi 345
 stan 285
-wīrst 273
+wīrst 274
 Tōms 265
 Tenā 246
-Sta 240
+Sta 241
 bēi 214
 per 207
-be 203
+be 204
 mi 176
 tāns 174
 ezze 167
@@ -30,7 +30,7 @@ min 124
 mazzi 118
 na 117
 Mes 117
-sta 114
+sta 116
 adder 108
 paggan 101
 Tenēi 99
@@ -51,7 +51,7 @@ Ast 76
 Majs 76
 tīt 72
 Ka 70
-assei 68
+assei 69
 majjan 67
 bilāi 66
 segītun 65
@@ -64,7 +64,7 @@ Asma 59
 stwi 59
 mīli 59
 būtwei 59
-ti 57
+ti 58
 Mazzi 57
 Majā 56
 mīri 55
@@ -115,11 +115,11 @@ dīgi 35
 dīlin 34
 Kāigi 34
 biskin 34
+Tōmu 34
 majs 33
 ēn 33
 kas 33
 pa 33
-Tōmu 33
 segīwuns 32
 grazzu 32
 Kelli 32
@@ -220,6 +220,7 @@ deznimai 18
 kwēi 18
 ainaseīlingi 18
 īst 18
+Tu 18
 wīda 17
 sawaītin 17
 kadāi 17
@@ -228,7 +229,6 @@ brāti 17
 kawīdai 17
 eraīnan 17
 prēipaus 17
-Tu 17
 lāiskans 16
 lāiskas 16
 tennans 16
@@ -243,6 +243,7 @@ Sunnis 16
 migītwei 16
 dīlatwei 15
 Eraīns 15
+grāudu 15
 wīlai 15
 emmens 15
 Niainunts 15
@@ -260,7 +261,6 @@ majjans 14
 stēisan 14
 stubban 14
 bilā 14
-grāudu 14
 gimma 14
 nikwēigi 14
 pawīstis 14
@@ -334,6 +334,7 @@ bītai 11
 dergēi 11
 kawīdans 11
 Kawīdan 11
+Jā 11
 welsipēdan 11
 kawīds 11
 kwaitēi 11
@@ -360,7 +361,6 @@ skaitāwuns 10
 Padīnga 10
 laztan 10
 Stwi 10
-Jā 10
 jātwei 10
 bilīwusi 10
 subban 10
@@ -443,6 +443,7 @@ sīran 8
 ankstāi 8
 ankstāinan 8
 dīlawuns 8
+tikrōman 8
 Malnīkai 8
 Bilāi 8
 mergā 8
@@ -474,6 +475,7 @@ jāwuns 8
 perēitwei 8
 sendrāugi 8
 prasīwuns 8
+stans 8
 prancōziskan 8
 Mazīlai 8
 bilīwusis 8
@@ -505,7 +507,6 @@ skaitāwusi 7
 daddan 7
 gennan 7
 pāusan 7
-tikrōman 7
 dukka 7
 kwēitins 7
 gaīlin 7
@@ -541,7 +542,6 @@ kurpins 7
 būwusi 7
 plūtwei 7
 waīdusi 7
-stans 7
 keppun 7
 pagalban 7
 segītan 7
@@ -692,6 +692,7 @@ aulamtan 6
 pēilin 6
 Tenēisan 6
 niainunts 6
+Marījai 6
 trīsdesimt 6
 dāwuns 5
 gērbsenis 5
@@ -827,10 +828,11 @@ nadīlin 5
 lakciōnins 5
 izšandau 5
 mūisisku 5
-Marījai 5
+stawīdiskai 5
 etwinūis 5
 izpallus 5
 Sta'st 5
+pagalbuns 5
 Kwei 5
 stubba 4
 praēit 4
@@ -987,6 +989,7 @@ Kawīdai 4
 klassei 4
 Saūli 4
 plans 4
+dāntins 4
 kawīdsei 4
 alkuhōlin 4
 kelli 4
@@ -1036,14 +1039,12 @@ ebtikkuns 4
 ainuntkawīdans 4
 buwinnuns 4
 lazinnuns 4
-stawīdiskai 4
 klimātan 4
 nērwitan 4
 liktins 4
 Tokiō 4
 winnan 4
 swāimans 4
-pagalbuns 4
 īr 4
 waīstin 4
 treppin 4
@@ -1321,7 +1322,6 @@ etbudda 3
 Amērikai 3
 gūbimai 3
 prusnan 3
-dāntins 3
 kunsteniks 3
 Šās 3
 Šisse 3
@@ -1650,6 +1650,7 @@ Ken 2
 bijjais 2
 wārgingi 2
 peisātan 2
+enkappusi 2
 prēipalin 2
 wērti 2
 nusā 2
@@ -1740,6 +1741,7 @@ stāgan 2
 mēnti 2
 Kareusnā 2
 Autō 2
+Aumūjais 2
 appuns 2
 akceptītun 2
 etwartīnsnan 2
@@ -2422,6 +2424,7 @@ padrūktintun 2
 pakkan 2
 Tenessei 2
 padīngusis 2
+abzōlutai 2
 perejīngiskwai 2
 Algērija 2
 wēisis 2
@@ -2984,7 +2987,6 @@ USA 1
 Jakki 1
 mērgai 1
 ebwinūja 1
-enkappusi 1
 ripīntin 1
 patinnusis 1
 ministerei 1
@@ -3374,7 +3376,6 @@ glūpas 1
 niskīstan 1
 dūmas 1
 walnāi 1
-Aumūjais 1
 sakkins 1
 gaūlai 1
 prāizun 1
@@ -6018,7 +6019,6 @@ lagālin 1
 eurōpiskan 1
 wurbuwijjai 1
 abzōluta 1
-abzōlutai 1
 absurdan 1
 grīkans 1
 Preikalsisnā 1
@@ -6558,3 +6558,6 @@ kāmstuns 1
 Yamadan 1
 hōtelu 1
 "Sakura" 1
+frāzinlaiskas 1
+kōmunikautwei 1
+preipallus 1

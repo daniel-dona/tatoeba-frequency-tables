@@ -87,8 +87,8 @@ nekir 85
 a 82
 dê 82
 din 78
+dixwazim 75
 Navê 75
-dixwazim 74
 av 72
 ava 71
 nekiriye 71
@@ -172,12 +172,12 @@ mirov 37
 rastî 37
 dema 36
 dikarin 36
+Samî 36
 dixwazî 35
 dikarî 35
 porê 35
 amade 35
 dide 35
-Samî 35
 pêk 35
 bibim 34
 sê 34
@@ -465,6 +465,7 @@ dev 13
 nekim 13
 digere 13
 Bawer 12
+dan 12
 girtî 12
 bêje 12
 muzîkê 12
@@ -510,7 +511,6 @@ awayî 12
 dixe 12
 rizgar 12
 dayîk 11
-dan 11
 nêzî 11
 bixwin 11
 der 11
@@ -713,7 +713,6 @@ derewan 8
 Meryem 8
 kûçik 8
 şêst 8
-Sami 8
 bona 8
 zimanekî 8
 Ziman 8
@@ -814,6 +813,7 @@ Silav 7
 azadiya 7
 razî 7
 can 7
+Sami 7
 zewicî 7
 Pênc 7
 bişo 7
@@ -1719,7 +1719,6 @@ kamerên 3
 navên 3
 mirim 3
 vêga 3
-Dixwazim 3
 nerîna 3
 mafê 3
 Evan 3
@@ -1980,7 +1979,6 @@ guherîn 3
 henekan 3
 dersa 3
 şa 3
-Dan 3
 pirsgirêkek 3
 mirinê 3
 heyvê 3
@@ -2460,6 +2458,7 @@ Va 2
 ye: 2
 biya 2
 nêza 2
+Dixwazim 2
 De 2
 Dereng 2
 trafîk 2
@@ -3024,6 +3023,7 @@ wateya 2
 hember 2
 dîrokê 2
 xem 2
+Dan 2
 nihêrî 2
 berdan 2
 Îtalî 2
@@ -9335,4 +9335,4 @@ Bimkanî 1
 ereba 1
 160 1
 mile 1
-Xwêlekê 1
+xwêlekê 1

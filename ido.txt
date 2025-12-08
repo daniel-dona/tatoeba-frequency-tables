@@ -1,8 +1,8 @@
-esas 3363
-Me 2614
+esas 3364
+Me 2615
 la 2464
-ne 1516
-Tom 1252
+ne 1518
+Tom 1253
 La 1164
 me 1006
 tu 986
@@ -12,11 +12,11 @@ havas 675
 en 668
 Il 521
 vu 511
-Ni 476
+Ni 477
 ke 470
 di 442
-a 440
-mea 439
+a 441
+mea 440
 esis 425
 volas 400
 e 394
@@ -201,13 +201,13 @@ vidar 43
 On 43
 che 43
 automobilo 43
+hodie 43
 quan 42
 vivas 42
 problemo 42
 okuli 42
 ante 42
 venas 42
-hodie 42
 elua 41
 iris 41
 infanti 41
@@ -218,6 +218,7 @@ richa 40
 lojas 40
 puerino 40
 anke 40
+co 40
 felica 39
 hiere 39
 rapide 39
@@ -227,7 +228,6 @@ til 39
 spozino 39
 dio 39
 mala 39
-co 39
 iras 38
 libri 38
 ludas 38
@@ -251,10 +251,10 @@ venis 35
 yari 35
 blua 35
 sola 35
+ek 35
 altra 35
 facila 35
 helpar 34
-ek 34
 longa 34
 malada 34
 hundi 33
@@ -506,6 +506,7 @@ questiono 16
 larja 16
 del 16
 opiniono 16
+ocidis 16
 havar 16
 Omnu 16
 portis 16
@@ -544,7 +545,6 @@ preferas 15
 onu 15
 Saluto 15
 okupata 15
-ocidis 15
 vakua 15
 povra 15
 apud 15
@@ -914,6 +914,7 @@ Liberigez 9
 gratitudoza 9
 Nederlando 9
 advokato 9
+Iesu 9
 flava 9
 batelo 9
 basa 9
@@ -998,6 +999,7 @@ simii 8
 yes 8
 pasas 8
 depos 8
+reala 8
 frukti 8
 fore 8
 somero 8
@@ -1020,7 +1022,6 @@ stato 8
 mushi 8
 fola 8
 ili 8
-Iesu 8
 ociera 8
 griza 8
 milionero 8
@@ -1111,7 +1112,6 @@ obtenis 7
 spirito 7
 sentis 7
 ekirar 7
-reala 7
 duesma 7
 suficas 7
 dicernar 7
@@ -1250,6 +1250,7 @@ similesas 6
 precipue 6
 kreskas 6
 Hispaniana 6
+facez 6
 Quankam 6
 falis 6
 prenar 6
@@ -1437,7 +1438,6 @@ marchar 5
 ruptita 5
 memorar 5
 onklino 5
-facez 5
 esquado 5
 fakturo 5
 Amerikana 5
@@ -9125,3 +9125,7 @@ alkemiisto 1
 danso 1
 papero 1
 baleto 1
+telefonas 1
+amikulo 1
+Harkivo 1
+Demoni 1

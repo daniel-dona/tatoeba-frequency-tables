@@ -1,10 +1,10 @@
-lo 12942
-mi 6291
-cu 3565
+lo 12943
+mi 6293
+cu 3568
 do 3384
-la 3068
+la 3073
 pu 2338
-le 2323
+le 2324
 nu 2142
 se 1942
 i 1902
@@ -15,14 +15,14 @@ ma 1239
 ka 1227
 ko 1133
 ca 996
-tom 953
+tom 956
 xu 926
 ra 823
 da 819
 fi 742
 klama 670
 ti 642
-poi 606
+poi 607
 ba 591
 du'u 578
 ro 527
@@ -39,11 +39,11 @@ djuno 404
 cusku 394
 prenu 376
 vi 364
-ca'o 359
+ca'o 360
 te 358
 pe 328
 me 303
-bu'u 298
+bu'u 300
 pinxe 296
 tavla 293
 mi'a 287
@@ -89,11 +89,11 @@ nanmu 180
 karce 178
 lo'e 173
 fe 169
-xabju 164
+xabju 165
 zo'u 163
 verba 160
 cliva 158
-pendo 153
+pendo 155
 kau 152
 fetsi 152
 cmene 150
@@ -229,9 +229,9 @@ tcadu 73
 tsani 73
 lenku 72
 mikce 71
+tricu 71
 zbasu 71
 xo 70
-tricu 70
 pensi 70
 va'o 70
 nenri 70
@@ -239,6 +239,7 @@ zoi 70
 gugdepuxe 70
 stali 69
 nicte 69
+bajra 69
 fai 69
 bavlamdei 69
 za'o 69
@@ -251,7 +252,6 @@ xekri 68
 binxo 68
 ly 67
 vajni 67
-bajra 67
 cidja 67
 sei 66
 krici 66
@@ -373,6 +373,7 @@ pixra 44
 bersa 44
 pu'i 44
 fi'o 43
+cinmo 43
 clani 43
 spaji 43
 zifre 43
@@ -380,7 +381,6 @@ xagji 43
 sisku 43
 ku'o 43
 terve'u 42
-cinmo 42
 jdice 42
 je'u 42
 bisli 42
@@ -709,6 +709,7 @@ jbera 19
 mapku 19
 bacru 19
 ditcu 19
+damva'u 19
 ckana 19
 vimcu 19
 masti 19
@@ -736,7 +737,6 @@ mergu'e 18
 ca'a 18
 ken 18
 bradi 18
-damva'u 18
 dakfu 18
 cilmo 18
 ponbau 18
@@ -802,6 +802,7 @@ fadni 16
 minra 16
 steci 16
 ta'o 16
+ricfoi 16
 vasru 16
 prije 16
 mleca 16
@@ -836,7 +837,6 @@ loldi 15
 pemci 15
 bende 15
 penbi 15
-ricfoi 15
 kucli 15
 nazbi 15
 matne 15
@@ -878,6 +878,7 @@ ckusro 14
 cladu 14
 jbobau 14
 bitmu 14
+makfa 14
 jugbau 14
 critu 14
 tu'i 14
@@ -922,7 +923,6 @@ kosta 13
 su'u 13
 senpi 13
 le'i 13
-makfa 13
 midju 13
 pau 13
 rusko 13
@@ -1036,6 +1036,7 @@ klina 11
 tersla 11
 pamei 11
 xalbebna 11
+foldi 11
 vasxu 11
 sampu 11
 di'a 11
@@ -1093,7 +1094,6 @@ ralju 10
 moklu 10
 jerna 10
 zmanei 10
-foldi 10
 jikca 10
 jupku'a 10
 mokau 10
@@ -2342,6 +2342,7 @@ kosmycau 3
 datpre 3
 uanji 3
 uenzi 3
+fonjo'e 3
 fau'u 3
 bufalos 3
 ti'erna 3
@@ -3131,7 +3132,6 @@ ba'orzu'e 2
 kimis 2
 gunli'a 2
 lau'u 2
-fonjo'e 2
 stigau 2
 cagna 2
 jefyfa'o 2
@@ -6975,3 +6975,7 @@ kunkevrutni 1
 kelci'e 1
 zuksmi 1
 nundamba 1
+xarkiv 1
+putin 1
+jamvlile 1
+zerzu'e 1

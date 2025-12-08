@@ -1,11 +1,11 @@
 nie 1375
-is 1135
+is 1136
 het 1095
 Ek 1022
 die 799
 'n 641
 Tom 491
-jy 457
+jy 458
 my 366
 te 348
 om 321
@@ -21,7 +21,7 @@ Hy 235
 sal 214
 Ons 203
 gaan 188
-Dit 175
+Dit 176
 Jy 169
 wil 168
 wat 156
@@ -38,7 +38,7 @@ doen 119
 wees 119
 haar 118
 hierdie 114
-oor 108
+oor 109
 hy 107
 dat 103
 hom 99
@@ -60,7 +60,7 @@ na 73
 Het 70
 maak 68
 by 67
-word 61
+word 62
 hier 58
 so 58
 praat 58
@@ -247,6 +247,7 @@ Waarom 14
 mooi 14
 Praat 14
 Engels 14
+taal 14
 wie 14
 paar 14
 wyn 14
@@ -260,7 +261,6 @@ dalk 14
 gehoor 14
 behoort 13
 graag 13
-taal 13
 dans 13
 klein 13
 vertrou 13
@@ -271,6 +271,7 @@ almal 13
 dog 13
 tee 13
 lieg 13
+In 13
 Gaan 13
 onder 13
 verander 13
@@ -290,9 +291,9 @@ leer 12
 ryk 12
 blou 12
 terugkom 12
+mal 12
 gevoel 12
 n 12
-In 12
 huil 12
 tussen 12
 reëls 12
@@ -314,7 +315,6 @@ loop 11
 slegs 11
 plan 11
 Was 11
-mal 11
 gegee 11
 moeilik 11
 vol 11
@@ -328,6 +328,7 @@ Haar 10
 vinnig 10
 oud 10
 see 10
+droom 10
 Hoeveel 10
 Goeie 10
 Op 10
@@ -367,7 +368,6 @@ hard 9
 bank 9
 siek 9
 wit 9
-droom 9
 môre 9
 plek 9
 Frans 9
@@ -411,6 +411,7 @@ stel 8
 raak 8
 Ja 8
 uur 8
+watter 8
 blomme 8
 daaraan 8
 spel 8
@@ -460,7 +461,6 @@ sneeu 7
 gekry 7
 Om 7
 fiets 7
-watter 7
 aandete 7
 pad 7
 Ekskuus 7
@@ -569,6 +569,7 @@ lessenaar 6
 hele 6
 wakker 6
 dié 6
+vertaal 6
 sokkies 6
 val 6
 boom 6
@@ -657,7 +658,6 @@ Rook 5
 gras 5
 myself 5
 daarmee 5
-vertaal 5
 stoel 5
 mes 5
 vanaf 5
@@ -856,6 +856,7 @@ blare 4
 rond 4
 dringend 4
 boks 4
+piesangs 4
 skaduwee 4
 aandag 4
 vorm 4
@@ -1106,7 +1107,6 @@ verdieping 3
 krag 3
 gesels 3
 kaggel 3
-piesangs 3
 vyande 3
 voordele 3
 vernietig 3
@@ -3868,3 +3868,4 @@ ontken 1
 gekak 1
 opgevou 1
 sovêr 1
+Ape 1
