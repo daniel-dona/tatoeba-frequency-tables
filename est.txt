@@ -21,7 +21,7 @@ keelt 134
 väga 133
 Mul 131
 kui 129
-Me 127
+Me 128
 pole 124
 oled 102
 mulle 99
@@ -464,6 +464,7 @@ riik 8
 kümme 8
 mäleta 8
 Kelle 8
+peame 8
 naise 8
 Maja 8
 peaksid 8
@@ -538,7 +539,6 @@ neli 7
 kaheksa 7
 üheksa 7
 söönud 7
-peame 7
 laulja 7
 Talle 7
 edasi 7
@@ -576,6 +576,7 @@ jään 7
 käinud 7
 nädalas 7
 näeb 7
+leiba 7
 kuhu 7
 Päike 7
 poeg 7
@@ -660,7 +661,6 @@ võime 6
 laulu 6
 väljas 6
 annan 6
-leiba 6
 Suur 6
 püüdis 6
 peaksime 6
@@ -6777,3 +6777,4 @@ purpurne 1
 Salasõna 1
 jahu 1
 kangelased 1
+ostma 1

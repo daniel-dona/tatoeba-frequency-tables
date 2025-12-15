@@ -4,9 +4,9 @@ o 117
 mi 106
 Tom 105
 Ma 101
-de 92
+de 94
+xo 87
 to 86
-xo 86
 ma 85
 a 76
 Tı 74
@@ -23,10 +23,10 @@ zaf 46
 Mı 43
 mı 43
 û 43
+ez 42
 Ti 42
 O 41
 yê 41
-ez 40
 rê 40
 kerd 35
 bê 35
@@ -47,11 +47,11 @@ né 19
 qısey 19
 Eza 19
 kenê 19
+Ewro 19
 xu 18
 Tomi 18
 tı 18
-Ewro 18
-seba 17
+seba 18
 é 16
 ay 16
 Ey 16
@@ -139,6 +139,7 @@ keyeyê 8
 eşkena 8
 her 8
 nas 8
+şîya 8
 Aye 8
 Keyeyê 8
 ké 7
@@ -164,7 +165,6 @@ kotî 7
 nîyo 7
 Înan 7
 rind 7
-şîya 7
 yew 7
 kitabê 7
 bike 7
@@ -185,6 +185,7 @@ zanê 6
 Tomdo 6
 na 6
 serre 6
+sey 6
 ciwîyenê 6
 bibî 6
 nêkena 6
@@ -225,7 +226,6 @@ par 5
 kerê 5
 Keye 5
 destê 5
-sey 5
 şamîya 5
 Nêşena 5
 vînî 5
@@ -320,6 +320,7 @@ sereyê 4
 Yew 4
 Kurdê 4
 goşt 4
+Roja 4
 şina 4
 Samiyî 4
 kurdkî 4
@@ -461,7 +462,6 @@ Telefonê 3
 labelê 3
 Rojhelatê 3
 çunke 3
-Roja 3
 aver 3
 Seba 3
 yan 3
@@ -472,6 +472,7 @@ perwerde 3
 vet" 3
 kamcîn 3
 dare 3
+Vizêrî 3
 dejeno 3
 şiro 3
 jê 3
@@ -771,6 +772,7 @@ vejîya 2
 Başûr 2
 şîrin 2
 biaqil 2
+Çewlîg 2
 Çiqas 2
 sist 2
 spor 2
@@ -812,10 +814,10 @@ Va; 2
 Agirî 2
 roje 2
 jîr 2
+varan 2
 sêşeme 2
 dêsê 2
 xerîta 2
-Vizêrî 2
 şikîya 2
 nêeşkayêne 2
 bîye 2
@@ -2124,7 +2126,6 @@ Nêzana 1
 vajo 1
 paytextê 1
 zazayan 1
-Çewlîg 1
 qîm 1
 nêkerde 1
 Kargoyê 1
@@ -2377,7 +2378,6 @@ rengine(beyraqa 1
 Kurdîstanî) 1
 Agêre 1
 halînê 1
-varan 1
 varanê 1
 newês 1
 hewran 1
@@ -2854,3 +2854,11 @@ tersayê 1
 Desembirî 1
 2025 1
 qedîyena 1
+vara 1
+îmtîhan 1
+muşahid 1
+xebitîyaya 1
+îne 1
+goşdarîkerdişê 1
+mamostayê 1
+Amed 1

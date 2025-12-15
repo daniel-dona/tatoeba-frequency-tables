@@ -2,7 +2,7 @@ je 1235
 se 284
 v 242
 Ali 241
-sem 211
+sem 213
 in 193
 ne 159
 da 142
@@ -581,6 +581,7 @@ moški 4
 družine 4
 sonce 4
 vrag 4
+nalogo 4
 napak 4
 bili 4
 Tudi 4
@@ -947,6 +948,7 @@ tvojemu 3
 odgovor 3
 Otrok 3
 Vesolje 3
+domačo 3
 škatle 3
 mirno 3
 francoščino 3
@@ -1191,6 +1193,7 @@ zmeraj 2
 čisto 2
 Glava 2
 kitaro 2
+končal 2
 Maria 2
 odprta 2
 pravi 2
@@ -1221,7 +1224,6 @@ vs’ak 2
 zgodi 2
 rezervacijo 2
 časopis 2
-nalogo 2
 zapustil 2
 preveč 2
 povem 2
@@ -1941,6 +1943,7 @@ razlog 2
 umetno 2
 inteligenco 2
 dobrega 2
+Pravkar 2
 gospod 1
 Ogawa 1
 Francoz 1
@@ -2278,7 +2281,6 @@ oženiti 1
 Čisto 1
 Njeno 1
 stanovanje 1
-končal 1
 Plačujemo 1
 visoko 1
 najemnino 1
@@ -3143,7 +3145,6 @@ ponedeljkih 1
 postane 1
 snežak 1
 večerji 1
-domačo 1
 prvi 1
 uganil 1
 Uničila 1
@@ -5470,3 +5471,4 @@ prevoda 1
 natančnost 1
 najlepši 1
 interlingvi 1
+končala 1

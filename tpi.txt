@@ -1,9 +1,9 @@
-i 34
+i 35
 Mi 28
-bilong 27
+bilong 28
 long 27
+stap 19
 mi 19
-stap 18
 no 16
 gat 14
 yu 13
@@ -189,3 +189,6 @@ pisin 1
 bikpela 1
 blak 1
 waitpela 1
+Erdoğan 1
+Presiden 1
+Teki 1

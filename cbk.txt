@@ -1,8 +1,8 @@
-yo 805
+yo 807
 de 562
-tu 544
+tu 545
 el 514
-Ya 491
+Ya 492
 ya 479
 na 473
 Tom 453
@@ -13,7 +13,7 @@ Ta 218
 No 180
 un 179
 cunel 171
-quiere 167
+quiere 169
 Tiene 161
 cosa 139
 maga 138
@@ -27,7 +27,7 @@ Necesita 103
 puede 101
 tuyo 101
 kamé 92
-Quiere 89
+Quiere 91
 suyo 88
 quien 84
 andá 80
@@ -869,6 +869,8 @@ pati 3
 man-cuento 3
 Maka-risas 3
 vinta 3
+kanon 3
+tostao 3
 decidi 2
 hijo 2
 pensamiento 2
@@ -2453,3 +2455,4 @@ luchahan 1
 adobo 1
 maka-risas 1
 esquina 1
+almorza 1

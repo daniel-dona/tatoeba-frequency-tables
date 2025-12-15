@@ -1,5 +1,5 @@
 yn 564
-i 343
+i 344
 Mae 291
 y 201
 Dw 188
@@ -25,10 +25,10 @@ Wyt 57
 dy 52
 am 52
 Roedd 50
+ni 48
 Mary 48
 mynd 48
 yw 47
-ni 47
 chi'n 45
 iawn 45
 i'r 44
@@ -83,7 +83,7 @@ dda 18
 gweithio 18
 Oes 18
 chwarae 18
-Rhaid 17
+Rhaid 18
 nhw'n 17
 dysgu 17
 Sami 17
@@ -154,6 +154,7 @@ Dydw 10
 eto 10
 yna 10
 bwyd 10
+brynu 10
 gweld 10
 yfory 10
 Maen 10
@@ -173,7 +174,6 @@ iddo 9
 waith 9
 cartref 9
 swydd 9
-brynu 9
 dŵr 9
 plant 9
 nawr 9
@@ -250,6 +250,7 @@ weld 6
 gyfer 6
 fwy 6
 Os 6
+bara 6
 Un 6
 oer 6
 tŷ 6
@@ -296,7 +297,6 @@ berson 5
 Dwyt 5
 hydref 5
 canu 5
-bara 5
 ateb 5
 Hoffwn 5
 Ni 5
