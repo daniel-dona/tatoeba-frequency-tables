@@ -1,7 +1,7 @@
-är 11674
+är 11673
 Jag 11279
 att 7116
-Tom 7091
+Tom 7092
 inte 6931
 en 5144
 du 5140
@@ -18,7 +18,7 @@ här 2664
 var 2610
 med 2458
 till 2376
-och 2338
+och 2337
 om 2258
 Hon 2082
 ett 1953
@@ -31,7 +31,7 @@ Du 1604
 av 1604
 han 1263
 kommer 1256
-sig 1224
+sig 1225
 så 1195
 Vad 1160
 vill 1124
@@ -222,9 +222,9 @@ språk 168
 Kom 166
 bättre 165
 sade 165
-nästan 165
 pratar 164
 svårt 164
+nästan 164
 helt 163
 tar 162
 hjälp 161
@@ -295,10 +295,10 @@ varför 120
 gamla 119
 väl 119
 vatten 118
-lång 118
 ont 118
 tänker 117
 hittade 117
+lång 117
 stanna 116
 lika 115
 spela 115
@@ -395,9 +395,9 @@ tillsammans 90
 Denna 88
 sjuk 88
 tidigt 88
-Sverige 88
 åker 88
 bästa 87
+Sverige 87
 samma 87
 ger 87
 Ett 86
@@ -415,7 +415,6 @@ hörde 84
 enda 83
 varandra 83
 sent 83
-mellan 83
 ung 82
 bordet 82
 mor 82
@@ -423,6 +422,7 @@ annan 82
 lade 82
 familj 82
 Håll 82
+mellan 82
 Marys 82
 fort 81
 läser 81
@@ -1354,7 +1354,6 @@ tjugo 21
 använde 21
 vinner 21
 lat 21
-kilometer 21
 ringt 21
 kontakt 21
 kastade 21
@@ -1407,12 +1406,12 @@ omedelbart 20
 skjuta 20
 Kanada 20
 rörde 20
+kilometer 20
 närvarande 20
 Visst 20
 Köpte 20
 kropp 20
 Norge 20
-Danmark 20
 unga 20
 känslor 20
 vaknade 20
@@ -1475,6 +1474,7 @@ minst 19
 prova 19
 helgen 19
 frukt 19
+Danmark 19
 världens 19
 språket 19
 besök 19
@@ -3170,7 +3170,6 @@ gemensamt 7
 dödar 7
 föremål 7
 skiljer 7
-Bron 7
 ökar 7
 grym 7
 energi 7
@@ -3403,7 +3402,6 @@ Invånarna 7
 arbetsintervjun 7
 smaka 7
 tangentbordet 7
-50 7
 träffats 7
 talang 7
 knä 7
@@ -3544,6 +3542,7 @@ jämnt 6
 mådde 6
 förvåning 6
 tallrik 6
+Bron 6
 öar 6
 hebreiska 6
 förstör 6
@@ -3878,6 +3877,7 @@ använt 6
 jättemycket 6
 vansinne 6
 välkommen 6
+50 6
 fånig 6
 suttit 6
 snubblade 6
@@ -7187,6 +7187,7 @@ Gapa 3
 mjölka 3
 vidrig 3
 omfamning 3
+snöt 3
 knivarna 3
 smula 3
 oss" 3
@@ -9997,4 +9998,3 @@ engelsman 2
 Förolämpa 2
 terapi 2
 Terapi 2
-förhåller 2

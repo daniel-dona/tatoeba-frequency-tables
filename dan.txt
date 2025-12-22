@@ -1,26 +1,26 @@
 er 17866
-Jeg 11368
+Jeg 11371
 at 9175
 Tom 8636
-en 8598
-i 8506
+en 8602
+i 8510
 ikke 8120
-har 7672
+har 7673
 du 5461
-til 5184
+til 5185
 det 4928
 på 4924
-og 3907
+og 3908
 for 3870
 jeg 3711
-Han 3487
+Han 3489
 Det 3471
 var 3384
 med 3333
 af 3317
-et 3240
+et 3241
 mig 3179
-kan 2643
+kan 2644
 der 2324
 den 2321
 Hun 2208
@@ -30,10 +30,10 @@ Vi 1914
 I 1897
 Mary 1853
 Du 1768
-vil 1759
+vil 1762
 han 1696
 som 1674
-så 1657
+så 1658
 min 1595
 ved 1485
 De 1439
@@ -54,20 +54,20 @@ havde 982
 Min 956
 din 920
 dag 908
-fra 899
+fra 898
 vi 889
 skal 874
 ud 856
 os 843
 går 841
-lide 834
+lide 835
 op 823
 have 802
 noget 802
 Den 802
 hun 786
 end 771
-godt 765
+godt 766
 men 732
 hvad 726
 alle 695
@@ -75,10 +75,10 @@ ville 683
 mange 670
 to 662
 hende 661
-år 644
+år 648
 over 626
 kommer 618
-denne 605
+denne 608
 Hvorfor 604
 tog 600
 kunne 584
@@ -95,7 +95,7 @@ sagde 524
 kun 517
 dem 511
 ingen 510
-efter 493
+efter 494
 mit 490
 bil 487
 tror 485
@@ -140,7 +140,7 @@ hus 371
 blive 369
 fransk 365
 far 363
-set 362
+set 363
 mor 360
 ind 356
 sit 356
@@ -161,10 +161,10 @@ spiser 315
 dine 306
 siden 305
 hendes 304
+gerne 303
 kaffe 302
 Hvis 302
 bange 301
-gerne 300
 stadig 300
 sprog 296
 kender 289
@@ -204,16 +204,16 @@ får 250
 Hans 249
 købte 249
 venner 247
+Hvornår 243
+købe 243
 lille 243
 hvis 242
 første 241
 sige 241
 vand 241
 gammel 240
-købe 240
+stor 240
 endnu 239
-Hvornår 239
-stor 238
 bedre 235
 gjorde 233
 navn 231
@@ -507,6 +507,7 @@ skoven 91
 frem 90
 timer 90
 glemt 90
+begynder 90
 film 90
 klar 90
 lyst 90
@@ -526,7 +527,7 @@ Nogle 88
 satte 88
 sker 88
 egen 87
-begynder 86
+Sikke 87
 "Hvor 86
 sengen 86
 venligst 85
@@ -536,7 +537,6 @@ huske 85
 rundt 85
 hvid 84
 ude 84
-Sikke 84
 jo 84
 skriver 84
 helst 84
@@ -1876,6 +1876,7 @@ viser 19
 hurtig 19
 feber 19
 spejlet 19
+stede 19
 aviser 19
 overraskelse 19
 hundred 19
@@ -1948,7 +1949,6 @@ rede 18
 bjørn 18
 beviser 18
 kigge 18
-stede 18
 kirken 18
 flytter 18
 etage 18
@@ -2355,6 +2355,7 @@ Fugle 14
 mig" 14
 Elsker 14
 skifter 14
+sweater 14
 held 14
 forblev 14
 via 14
@@ -2505,7 +2506,6 @@ Holder 13
 cigaretter 13
 Husker 13
 sur 13
-sweater 13
 Forstår 13
 såre 13
 nærmer 13
@@ -2703,6 +2703,7 @@ kvart 12
 alting 12
 sange 12
 skønt 12
+røvhul 12
 vover 12
 Grækenland 12
 Tyven 12
@@ -2882,7 +2883,6 @@ krydse 11
 almindelig 11
 rasende 11
 hoppede 11
-røvhul 11
 yderligere 11
 vegne 11
 græsset 11
@@ -4056,6 +4056,7 @@ silke 7
 går" 7
 erstatte 7
 storke 7
+pullover 7
 republik 7
 ottende 7
 tiende 7
@@ -4144,6 +4145,7 @@ gravet 7
 tegnet 7
 kridt 7
 overens 7
+skiderik 7
 kaniner 7
 artikler 7
 pommes 7
@@ -4579,7 +4581,6 @@ Broen 6
 længes 6
 dagene 6
 buschauffør 6
-pullover 6
 adskiller 6
 niende 6
 forbindelser 6
@@ -4686,7 +4687,6 @@ sandet 6
 Estland 6
 forlanger 6
 influenza 6
-skiderik 6
 hanen 6
 grynter 6
 miaver 6
@@ -4906,6 +4906,7 @@ skærm 6
 føre 6
 forud 6
 attraktive 6
+violette 6
 Gaderne 6
 vægge 6
 Restauranten 6
@@ -5522,6 +5523,7 @@ bande 5
 kursus 5
 brutalt 5
 trick 5
+Smil 5
 fabrikken 5
 Virkeligheden 5
 billetter 5
@@ -5546,6 +5548,7 @@ tordenvejr 5
 uvejr 5
 afslørede 5
 skolens 5
+slyngel 5
 sulter 5
 resurser 5
 Milano 5
@@ -6518,6 +6521,7 @@ datteren 4
 bluffer 4
 delvist 4
 forrådte 4
+lær 4
 læder 4
 asteroide 4
 lammet 4
@@ -6544,7 +6548,6 @@ tallene 4
 oprindelse 4
 tofu 4
 tricks 4
-Smil 4
 huskede 4
 kattekilling 4
 Køerne 4
@@ -6584,7 +6587,6 @@ nytter 4
 praksis 4
 tilstedeværelse 4
 Lidt 4
-slyngel 4
 lægemiddel 4
 tallerkener 4
 menneskes 4
@@ -6767,7 +6769,6 @@ torteret 4
 uregelmæssige 4
 adamsæble 4
 lopper 4
-tilstede 4
 schweiziske 4
 nyligt 4
 husets 4
@@ -7963,7 +7964,6 @@ Doktor 3
 Pluto 3
 Forældrene 3
 kanden 3
-lær 3
 helligdag 3
 elregningen 3
 Handel 3
@@ -8411,7 +8411,6 @@ teenagere 3
 traditionel 3
 lasagne 3
 opholdt 3
-violette 3
 Alting 3
 tisser 3
 dividere 3
@@ -8942,6 +8941,7 @@ smaskforelsket 3
 supermassivt 3
 miner 3
 lærerne 3
+tilstede 3
 nogens 3
 Stockholm 3
 iberiske 3
@@ -9142,6 +9142,7 @@ bayrer 3
 Bayern 3
 køle 3
 Janet 3
+kaninkød 3
 udkanten 3
 kurder 3
 ringeklokken 3
@@ -9997,4 +9998,3 @@ Aftale" 2
 Biblens 2
 døden" 2
 krimi 2
-Agatha 2
