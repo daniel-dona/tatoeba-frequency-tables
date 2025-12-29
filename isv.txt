@@ -1,4 +1,4 @@
-jest 243
+jest 244
 Ja 161
 ne 124
 Tom 80
@@ -12,7 +12,7 @@ sut 44
 Vy 41
 My 38
 jesi 36
-Ona 35
+Ona 36
 i 34
 je 32
 s 26
@@ -307,6 +307,7 @@ lider 2
 krasiva 2
 poema 2
 byvaje 2
+mama 2
 softver 2
 prodal 2
 piše 2
@@ -344,6 +345,7 @@ prěměnil 2
 nema 2
 vody 2
 velika 2
+naša 2
 Vojna 2
 mir 2
 skazal 2
@@ -695,7 +697,6 @@ selu 1
 hočes 1
 kult 1
 Normalnost 1
-mama 1
 svobodny 1
 bezplatny 1
 klozet 1
@@ -921,7 +922,6 @@ praktična 1
 kelner 1
 glupa 1
 neonacist 1
-naša 1
 kraljeva 1
 vojně 1
 herojev 1

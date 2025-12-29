@@ -1,4 +1,4 @@
-on 29403
+on 29408
 ei 10767
 Tom 9899
 Hän 8445
@@ -7,12 +7,12 @@ että 6889
 Tomi 6384
 ole 6346
 oli 5749
-En 4967
+En 4968
 Minä 4480
 Se 3807
 hän 3602
 se 3429
-kuin 3374
+kuin 3375
 Olen 3017
 ovat 2947
 sinä 2880
@@ -29,7 +29,7 @@ Onko 2050
 voi 2021
 sitä 2019
 minun 1935
-mutta 1851
+mutta 1852
 paljon 1848
 Mitä 1828
 ollut 1825
@@ -63,13 +63,13 @@ tämä 1183
 hyvä 1170
 ranskaa 1167
 pitää 1152
-täällä 1146
+täällä 1147
 kaikki 1143
-vielä 1121
+vielä 1122
 Oletko 1116
 Miksi 1094
 tämän 1092
-aina 1075
+aina 1076
 Tomilla 1073
 mennä 1070
 häntä 1059
@@ -89,11 +89,11 @@ juuri 860
 Miten 855
 Hänen 851
 eivät 848
-Haluan 844
-Mikä 841
+Haluan 845
+Mikä 842
 tiedä 840
 enää 835
-tätä 828
+tätä 829
 jotain 825
 sinulla 819
 On 805
@@ -108,14 +108,14 @@ saa 748
 sanoi 742
 Missä 736
 Kaikki 735
-kolme 726
+kolme 727
 Olet 723
 tänään 722
 kaksi 719
 halua 712
 ennen 696
 koko 677
-aikaa 675
+aikaa 676
 sitten 673
 hänet 661
 hänelle 653
@@ -127,7 +127,7 @@ kotiin 613
 vai 610
 Marin 609
 Hänellä 605
-yksi 603
+yksi 604
 tuo 600
 tässä 573
 eilen 573
@@ -195,7 +195,7 @@ Tässä 412
 jotka 410
 tosi 408
 tästä 407
-Olemme 405
+Olemme 406
 Anna 405
 tänä 404
 myös 402
@@ -249,8 +249,8 @@ Milloin 345
 ajan 345
 mieltä 345
 tykkää 345
+Mistä 342
 täysin 341
-Mistä 341
 kuinka 340
 mukaan 340
 pian 337
@@ -272,7 +272,7 @@ hyvää 321
 mikä 321
 halusi 317
 ottaa 316
-Haluatko 315
+Haluatko 316
 meille 315
 saada 315
 suuri 314
@@ -304,8 +304,8 @@ sinne 292
 erittäin 290
 alkaa 290
 kukaan 290
+antaa 290
 hänestä 289
-antaa 289
 pitkään 287
 Mihin 286
 emme 285
@@ -334,8 +334,8 @@ Marille 271
 tähän 270
 yhdessä 269
 olette 265
+kirjaa 264
 Älkää 264
-kirjaa 263
 sä 259
 uudestaan 258
 kiitos 258
@@ -370,9 +370,9 @@ soittaa 240
 käynyt 240
 kovasti 238
 Nämä 238
+päivää 237
 vaikeaa 236
 odottaa 236
-päivää 236
 Sinulla 236
 koira 234
 Voitko 234
@@ -962,6 +962,7 @@ tyytyväinen 91
 kirjoittanut 91
 tulevat 91
 työn 91
+pari 91
 Jumala 91
 punainen 91
 koulusta 90
@@ -971,7 +972,6 @@ tapana 90
 käytetään 90
 Kaksi 90
 sinulta 90
-pari 90
 yön 90
 Käyn 90
 muu 90
@@ -1804,8 +1804,10 @@ kilometrin 48
 Sun 48
 Tuomaksen 48
 aloitti 47
+Suomen 47
 Vanhempani 47
 hymyili 47
+Onneksi 47
 vastuussa 47
 todellakaan 47
 heillä 47
@@ -1837,14 +1839,12 @@ Monelta 47
 näkemään 47
 tytär 47
 Jonin 47
-Suomen 46
 joista 46
 Kumpi 46
 yhtäkkiä 46
 numero 46
 pidempi 46
 syömässä 46
-Onneksi 46
 käyttävät 46
 tarvinnut 46
 tilaa 46
@@ -2241,6 +2241,7 @@ ystävänsä 38
 Kerron 38
 ilmaista 38
 kirjastossa 38
+asu 38
 talosta 38
 ääneen 38
 Maa 38
@@ -2295,7 +2296,6 @@ kunnioittaa 37
 vaimoni 37
 kaikessa 37
 bussi 37
-asu 37
 leikata 37
 suolan 37
 Facebookissa 37
@@ -2987,6 +2987,7 @@ terveisiä 28
 kädessä 28
 mahdollisimman 28
 5 28
+kielessä 28
 lopuksi 28
 kykene 28
 Sinua 28
@@ -3106,7 +3107,6 @@ Aloin 27
 13 27
 tahdon 27
 Join 27
-kielessä 27
 loppunut 27
 sujuu 27
 keskustella 27
@@ -3360,6 +3360,7 @@ lopultakin 25
 päivällistä 25
 itsestäsi 25
 Käykö 25
+äänen 25
 itsemurhan 25
 ilmainen 25
 oppimaan 25
@@ -3500,7 +3501,6 @@ rauhallisena 24
 pelasti 24
 paeta 24
 sujui 24
-äänen 24
 kummallinen 24
 juhlat 24
 lasillisen 24
@@ -7424,6 +7424,7 @@ siskoja 10
 nurkassa 10
 siirtämään 10
 ensimmäisestä 10
+avioeron 10
 Panetko 10
 pahaksesi 10
 pese 10
@@ -7484,6 +7485,7 @@ luopui 10
 Rakastuin 10
 pelkkiä 10
 Suomesta 10
+Helsingissä 10
 joudun 10
 sammui 10
 Kanadan 10
@@ -7543,6 +7545,7 @@ putosivat 10
 kalju 10
 peräti 10
 koulutuksen 10
+painottaa 10
 ovesta 10
 Naapurin 10
 pelasin 10
@@ -8084,9 +8087,9 @@ valtavat 9
 Työnnä 9
 käymässä 9
 yhteiskunnan 9
+sijaa 9
 saapuneet 9
 yliopistosta 9
-avioeron 9
 kykyjä 9
 Pahastutko 9
 sanoista 9
@@ -8149,7 +8152,6 @@ rakastavansa 9
 ensimmäisellä 9
 toiveensa 9
 jaksanut 9
-Helsingissä 9
 vanhemmaksi 9
 hedelmää 9
 yksityiskohtia 9
@@ -8219,7 +8221,6 @@ tapansa 9
 Sateen 9
 Afrikka 9
 opiskellakseen 9
-painottaa 9
 Lyhyesti 9
 luettua 9
 katu 9
@@ -8915,7 +8916,6 @@ kotitehtävät 8
 tuhosivat 8
 kärsivällisyys 8
 auringonlasku 8
-sijaa 8
 Isälläni 8
 tavoitteita 8
 lääketieteen 8
@@ -9505,6 +9505,7 @@ tietokoneita 8
 tuttuja 8
 toimintaa 8
 pelto 8
+ensimmäisessä 8
 laukkunsa 8
 pudonnut 8
 jatkoivat 8
@@ -9997,4 +9998,3 @@ Katsotaan 7
 takkia 7
 eihän 7
 tekosyitä 7
-kolikkoa 7

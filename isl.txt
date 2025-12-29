@@ -1,9 +1,9 @@
 að 3837
 er 3158
-Ég 2325
-í 2077
+Ég 2326
+í 2078
 á 1682
-ekki 1653
+ekki 1654
 ég 876
 Það 867
 Hann 797
@@ -613,6 +613,7 @@ tilbúinn 17
 Veistu 17
 fylgja 17
 tvær 17
+bý 17
 töluðum 17
 Hr 17
 undan 16
@@ -652,7 +653,6 @@ læknir 16
 Og 16
 mjólk 16
 Kötturinn 16
-bý 16
 deyja 16
 fleiri 16
 ákaflega 16
@@ -4796,6 +4796,7 @@ verkefnisins 2
 eftirrétt 2
 sunnan 2
 minnið 2
+Helsinki 2
 Tsúbasa 2
 Svölur 2
 Örlögin 2
@@ -9481,7 +9482,6 @@ verkamenn 1
 samstöðu 1
 verkamanna 1
 tapaðan 1
-Helsinki 1
 bröndurunum 1
 Segulbandstækið 1
 Taylor 1

@@ -2,10 +2,10 @@ Tom 1013
 Mən 894
 O 732
 Bu 682
-bir 441
-var 439
+bir 442
+var 440
 və 427
-ki 381
+ki 382
 çox 324
 nə 298
 Onlar 251
@@ -50,16 +50,16 @@ hər 93
 Onu 92
 qədər 92
 Meri 89
+Nə 86
 edir 86
-Nə 85
 danışmaq 83
 dəfə 83
 bilirəm 83
 gəlir 82
 böyük 82
 deyiləm 82
+bilmirəm 79
 Bunu 78
-bilmirəm 78
 davam 78
 etmək 76
 il 75
@@ -83,9 +83,9 @@ hələ 63
 Sənin 63
 öz 62
 Heç 62
+sonra 61
 ildə 61
 məni 60
-sonra 60
 Zəhmət 60
 Yaponiya 60
 Hər 59
@@ -136,10 +136,10 @@ kitab 43
 daxil 43
 onunla 43
 sizin 43
+nədir 42
 Məncə 42
 Ona 42
 getmək 42
-nədir 41
 Sənə 41
 danışa 41
 yaşayır 41
@@ -195,6 +195,7 @@ Daha 31
 saat 31
 gəldi 31
 ölkədir 31
+su 31
 gördüm 30
 başladı 30
 başqa 30
@@ -214,7 +215,6 @@ dünən 29
 biri 29
 sadəcə 29
 arasında 29
-su 29
 hansı 29
 olun 29
 Səni 28
@@ -286,6 +286,7 @@ pis 22
 Birinci 22
 iş 21
 deyir 21
+olsun 21
 yalan 21
 qədərdir 21
 Mary 21
@@ -304,7 +305,6 @@ almaq 20
 çətin 20
 etdiyini 20
 hardadır 20
-olsun 20
 həqiqəti 20
 istədiyini 20
 zaman 20
@@ -323,6 +323,7 @@ tez 20
 İsa 20
 Linux 20
 həll 19
+ehtiyacım 19
 tərəfindən 19
 həyat 19
 maşını 19
@@ -336,10 +337,10 @@ haqqı 19
 Düşünürəm 19
 deyillər 19
 Heydər 19
+İki 18
 çətindir 18
 yeməyi 18
 bilərik 18
-ehtiyacım 18
 təşəkkür 18
 vurdu 18
 paytaxtı 18
@@ -359,7 +360,6 @@ Fransız 18
 doğru 18
 bilərsiz 18
 yüklədi 18
-İki 17
 asan 17
 Həyat 17
 tanış 17
@@ -458,6 +458,7 @@ sürətli 14
 tələb 14
 idin 14
 Çay 14
+səndən 14
 təhsil 14
 Çin 14
 Bakı 14
@@ -504,7 +505,6 @@ lüğət 13
 İt 13
 həkim 13
 yeyirəm 13
-səndən 13
 danış 13
 səninlə 13
 jurnalistdir 13
@@ -1501,6 +1501,7 @@ Körpə 5
 mi 5
 deyirsən 5
 buradan 5
+başı 5
 zənn 5
 İkinci 5
 olmayın 5
@@ -1584,6 +1585,7 @@ qəhvəyi 5
 Budur 5
 Əlvida 5
 şeyin 5
+içdi 5
 6 5
 deməkdir 5
 işləyə 5
@@ -1861,6 +1863,7 @@ nəyə 4
 yaşamağa 4
 vaxtında 4
 Riyaziyyatı 4
+maşına 4
 qırdı 4
 əlində 4
 barmağını 4
@@ -1878,7 +1881,6 @@ dollar 4
 evimin 4
 edəcəksən 4
 olduğum 4
-başı 4
 uşağı 4
 yatıram 4
 Sen 4
@@ -1894,6 +1896,7 @@ olması 4
 Yunanıstan 4
 qoyma 4
 vermir 4
+xatırlaya 4
 verməyəcək 4
 qaldır 4
 balacadır 4
@@ -2002,7 +2005,6 @@ bayrağı 4
 gətirdi 4
 Yaponiyanı 4
 tutur 4
-içdi 4
 "Niyə" 4
 Tokioda 4
 bilmirlər 4
@@ -2487,7 +2489,6 @@ tapdın 3
 turizm 3
 musiqiyə 3
 yeddidə 3
-maşına 3
 taxdı 3
 həqiqət 3
 inanır 3
@@ -2556,7 +2557,6 @@ qorxurlar 3
 yəhudi 3
 Uşaqlarınız 3
 xoşbəxtdir 3
-xatırlaya 3
 istəsən 3
 suala 3
 gələr 3
@@ -2671,6 +2671,7 @@ Belçikada 3
 Almalar 3
 yeyirik 3
 ağacları 3
+banan 3
 lüğətdən 3
 12 3
 1992-ci 3
@@ -2818,6 +2819,7 @@ mənbəyi 3
 haqda 3
 etibarlı 3
 İşi 3
+içmir 3
 qanadları 3
 İsrailin 3
 yu 3
@@ -3566,6 +3568,7 @@ cox 2
 qocadır 2
 qalacaqsan 2
 çalıram 2
+Gözüm 2
 Yanğına 2
 tibb 2
 Minlərlə 2
@@ -3878,7 +3881,6 @@ böyükdürlər 2
 yığıram 2
 almadır 2
 dadlı 2
-banan 2
 lüğətidir 2
 lüğətimdir 2
 lüğətim 2
@@ -3911,6 +3913,7 @@ ili 2
 İtə 2
 itə 2
 tikə 2
+canı 2
 pişiyimdir 2
 üçüncü 2
 Kosovonun 2
@@ -3991,6 +3994,7 @@ yazıçıdır 2
 oynadım 2
 Əlcəzairdə 2
 birbaşa 2
+Meymun 2
 haqlıdır 2
 layiqdirlər 2
 bayırda 2
@@ -4212,7 +4216,6 @@ təcrübədir 2
 qələbə 2
 Qazax 2
 içirsiniz 2
-içmir 2
 qulaqlarını 2
 Quşların 2
 Şadam 2
@@ -6490,7 +6493,6 @@ Kofeyə 1
 Təbiəti 1
 borcluyam 1
 skripka 1
-Gözüm 1
 qamaşdı 1
 Xaricə 1
 Gərginəm 1
@@ -7466,7 +7468,6 @@ siçovulları 1
 qutuları 1
 Pişiyə 1
 xoşları 1
-canı 1
 pişiyiniz 1
 Rumıniya 1
 Rumıniyadanam 1
@@ -7734,7 +7735,6 @@ yaponca 1
 uşaqlarının 1
 qalmır 1
 istədiyindən 1
-Meymun 1
 dırmaşdı 1
 nərdivandan 1
 yemirsən 1

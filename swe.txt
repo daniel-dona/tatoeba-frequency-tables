@@ -1,18 +1,18 @@
-är 11673
-Jag 11279
+är 11674
+Jag 11280
 att 7116
 Tom 7092
-inte 6931
-en 5144
-du 5140
-på 4859
+inte 6933
+en 5145
+du 5141
+på 4861
 det 4752
-i 4599
+i 4601
 har 4242
-Det 3889
-Han 3411
+Det 3890
+Han 3414
 jag 3156
-mig 2721
+mig 2722
 för 2702
 här 2664
 var 2610
@@ -23,7 +23,7 @@ om 2258
 Hon 2082
 ett 1953
 som 1903
-Vi 1894
+Vi 1895
 dig 1891
 den 1837
 kan 1681
@@ -38,13 +38,13 @@ vill 1124
 De 1107
 ni 1101
 min 980
-mycket 977
+mycket 978
 skulle 976
-Hur 956
+Hur 957
 Mary 946
 vi 900
 göra 884
-Är 864
+Är 865
 ska 857
 måste 821
 honom 816
@@ -94,7 +94,7 @@ lite 418
 mitt 416
 något 415
 tror 408
-många 398
+många 399
 ingen 394
 ser 392
 fick 390
@@ -142,7 +142,7 @@ Sami 289
 känner 286
 hjälpa 284
 bil 282
-bor 277
+bor 278
 ditt 276
 tid 275
 franska 275
@@ -189,7 +189,7 @@ Ziri 196
 skolan 195
 Vill 193
 hennes 192
-hund 191
+hund 192
 engelska 191
 Ge 190
 hemma 189
@@ -215,10 +215,10 @@ visste 175
 kaffe 174
 namn 174
 Skulle 172
+språk 169
 håller 169
 gjort 169
 står 169
-språk 168
 Kom 166
 bättre 165
 sade 165
@@ -579,6 +579,7 @@ frukost 58
 läste 58
 dags 58
 vårt 58
+dödade 58
 stund 58
 era 58
 lärde 58
@@ -592,7 +593,6 @@ hungrig 57
 sluta 57
 grund 57
 mjölk 57
-dödade 57
 sjunga 56
 lita 56
 fisk 56
@@ -723,6 +723,7 @@ hämtar 46
 börja 46
 klarar 45
 kvinnor 45
+dum 45
 låna 45
 känna 45
 Ät 45
@@ -736,7 +737,6 @@ läkare 44
 lägenhet 44
 slå 44
 klart 44
-dum 44
 närheten 44
 Och 44
 chans 44
@@ -1140,6 +1140,7 @@ gitarr 26
 hittar 26
 Två 26
 vanligt 26
+talas 26
 undan 26
 skrek 26
 läxor 26
@@ -1178,7 +1179,6 @@ sådant 25
 huvudstaden 25
 äpplet 25
 lag 25
-talas 25
 sjöng 25
 tidningen 25
 massa 25
@@ -1330,6 +1330,7 @@ Tänk 22
 sten 22
 sist 22
 färdiga 22
+klarade 22
 pizza 22
 ön 22
 brinner 21
@@ -1367,6 +1368,7 @@ betalade 21
 nycklar 21
 Få 21
 egna 21
+misslyckades 21
 allihopa 21
 förlorat 21
 magen 21
@@ -1382,7 +1384,6 @@ närmaste 21
 ja 21
 förtjänar 21
 mera 21
-klarade 21
 minsta 21
 fördomar 21
 Visa 20
@@ -1416,7 +1417,6 @@ unga 20
 känslor 20
 vaknade 20
 både 20
-misslyckades 20
 esperanto 20
 missade 20
 märkte 20
@@ -1534,6 +1534,7 @@ lösning 18
 golf 18
 Jack 18
 ledig 18
+Helsingfors 18
 fisken 18
 regn 18
 Rom 18
@@ -1581,7 +1582,6 @@ grönsaker 17
 Kyoto 17
 intelligent 17
 åkt 17
-Helsingfors 17
 förkyld 17
 ögat 17
 Först 17
@@ -2383,6 +2383,7 @@ själ 10
 Ärligt 10
 parkera 10
 Smith 10
+examen 10
 va 10
 handla 10
 Sedan 10
@@ -2688,6 +2689,7 @@ Schweiz 9
 hals 9
 tråkig 9
 trivs 9
+spenderade 9
 Skicka 9
 Just 9
 salt 9
@@ -2816,7 +2818,6 @@ klagade 8
 frånvaro 8
 Nederländerna 8
 bitar 8
-examen 8
 kakan 8
 Le 8
 flagga 8
@@ -2948,7 +2949,6 @@ sparar 8
 stulit 8
 resultatet 8
 Telefonen 8
-spenderade 8
 dödat 8
 kanin 8
 tillgång 8
@@ -3856,6 +3856,7 @@ augusti 6
 normal 6
 lånar 6
 korrekta 6
+julklappar 6
 hårdare 6
 Behåll 6
 mardröm 6
@@ -4443,7 +4444,6 @@ dolde 5
 e-postadress 5
 chokladkaka 5
 juldagen 5
-julklappar 5
 växa 5
 livlig 5
 träffad 5
@@ -5102,6 +5102,7 @@ gräla 4
 o 4
 muren 4
 Lisa 4
+Malta 4
 armé 4
 osynligt 4
 Skyll 4
@@ -5656,6 +5657,7 @@ lemmar 4
 olyckligt 4
 standard 4
 specifikt 4
+feminist 4
 Alger 4
 Felix 4
 Antonio 4
@@ -6305,7 +6307,6 @@ Också 3
 pluggat 3
 assistans 3
 Byggdes 3
-Malta 3
 medium 3
 lugnet 3
 tår 3
@@ -7373,7 +7374,6 @@ Tvätten 3
 fyrtiofyra 3
 / 3
 termerna 3
-feminist 3
 Fjodor 3
 Boris 3
 Etiopien 3

@@ -1,8 +1,8 @@
 er 108
-Eg 94
+Eg 95
+í 56
 at 55
-í 55
-ikki 50
+ikki 51
 tú 33
 Tom 33
 Hann 25
@@ -142,6 +142,7 @@ rætt 2
 úr 2
 Góða 2
 Tatoeba 2
+búgvi 2
 best 2
 nú 2
 siga 2
@@ -322,7 +323,6 @@ Mike 1
 býrt 1
 tú" 1
 "Eg 1
-búgvi 1
 Tokyo" 1
 bøssi 1
 bestur 1
@@ -963,3 +963,4 @@ persónsleitari 1
 glaður 1
 Eydnurikt 1
 nýggjár 1
+Helsinki 1
