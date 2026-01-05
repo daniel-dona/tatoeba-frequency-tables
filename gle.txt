@@ -1,7 +1,7 @@
 an 680
 a 650
 Tá 632
-mé 405
+mé 406
 ag 401
 Is 335
 é 271
@@ -14,10 +14,10 @@ An 211
 seo 194
 Ní 184
 agam 173
-Níl 166
+Níl 167
 liom 155
-i 132
-mo 131
+i 136
+mo 133
 le 117
 na 107
 do 99
@@ -95,13 +95,13 @@ tá 22
 san 22
 déanamh 22
 thú 22
+chónaí 22
 leor 22
 mór 22
 gur 22
 ná 21
 faoi 21
 cailín 21
-chónaí 20
 nua 20
 Ná 19
 dtí 19
@@ -361,6 +361,7 @@ staidéar 6
 rothar 6
 deas 6
 beag 6
+Nílim 6
 Ceapaim 6
 eolas 6
 chuig 6
@@ -441,7 +442,6 @@ sheoladh 5
 rua 5
 Itheann 5
 fhadhb 5
-Nílim 5
 beorach 5
 solas 5
 dtoil 5
@@ -1260,6 +1260,7 @@ scuadcharr 2
 tSeoirsia 2
 Abcáis 2
 tagaigí 2
+Heilsincí 2
 críochfort 1
 dhúisigh 1
 Glanaimid 1

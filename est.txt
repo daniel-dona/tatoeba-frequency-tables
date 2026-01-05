@@ -1,8 +1,8 @@
-on 1547
+on 1550
 Ma 936
 ei 746
 Tom 623
-Kas 448
+Kas 449
 sa 438
 Ta 354
 et 349
@@ -166,9 +166,11 @@ Meil 23
 Te 23
 õppida 23
 ikka 22
+alati 22
 läks 22
 parem 22
 olete 22
+aastat 22
 üles 22
 tee 22
 natuke 22
@@ -179,11 +181,9 @@ teine 21
 lapsed 21
 Millal 21
 raamatu 21
-aastat 21
 mina 21
 üks 21
 sinuga 21
-alati 20
 ilma 20
 tuleb 20
 praegu 20
@@ -288,6 +288,7 @@ kohvi 14
 vanem 14
 juhtus 14
 õigus 14
+keeles 14
 vett 14
 töötab 14
 ennast 14
@@ -306,6 +307,7 @@ teadnud 13
 kedagi 13
 kõike 13
 ees 13
+Head 13
 ostis 13
 teil 13
 puu 13
@@ -323,7 +325,6 @@ pool 12
 üksi 12
 külm 12
 kohe 12
-Head 12
 uue 12
 Isa 12
 all 12
@@ -331,7 +332,6 @@ On 12
 lahti 12
 teen 12
 meile 12
-keeles 12
 kooli 12
 Kuhu 12
 lihtsalt 12
@@ -410,6 +410,7 @@ poolt 9
 noor 9
 olevat 9
 meeldis 9
+uut 9
 Jah 9
 raamatuid 9
 silmad 9
@@ -454,7 +455,6 @@ Su 8
 aasta 8
 Ema 8
 igal 8
-uut 8
 saksa 8
 tunne 8
 kala 8
@@ -558,6 +558,7 @@ Oleme 7
 Tahan 7
 muusikat 7
 Seda 7
+sinine 7
 hakkas 7
 Maria 7
 kirjutab 7
@@ -606,6 +607,7 @@ ootab 6
 sõna 6
 Arst 6
 laul 6
+Eesti 6
 läinud 6
 punane 6
 toas 6
@@ -629,7 +631,6 @@ võtmed 6
 joob 6
 pärit 6
 arst 6
-sinine 6
 igav 6
 vähem 6
 lõunat 6
@@ -711,7 +712,6 @@ sõitis 5
 nalja 5
 kümne 5
 ööd 5
-Eesti 5
 selga 5
 lähed 5
 said 5
@@ -814,6 +814,7 @@ esperanto 5
 ümber 5
 paar 5
 vajab 5
+peaaegu 5
 Parem 5
 tõttu 5
 proovida 5
@@ -878,6 +879,7 @@ Laual 4
 loom 4
 suu 4
 Nagu 4
+vesi 4
 kiiremini 4
 hobused 4
 otsast 4
@@ -973,6 +975,7 @@ veidi 4
 tappa 4
 ühte 4
 Naised 4
+esimesel 4
 lahke 4
 kuu 4
 viia 4
@@ -1015,7 +1018,6 @@ arvates 4
 hädas 4
 maailmas 4
 lõi 4
-peaaegu 4
 suudan 4
 soovib 4
 terve 4
@@ -1128,7 +1130,6 @@ Tuleb 3
 Sain 3
 Pea 3
 tähendab 3
-vesi 3
 kohutav 3
 pidid 3
 püüda 3
@@ -1181,6 +1182,7 @@ olemas 3
 kolmkümmend 3
 kõlab 3
 pühapäev 3
+Tatoeba 3
 Raamat 3
 laual 3
 jäätist 3
@@ -1524,6 +1526,7 @@ Aias 3
 romaani 3
 leidis 3
 Joškar-Olas 3
+Soome 3
 Istanbuli 3
 silmast 3
 tarkvara 3
@@ -1689,7 +1692,6 @@ seisuga 2
 aednik 2
 igavesti 2
 Kõige 2
-Tatoeba 2
 ajutiselt 2
 sügavalt 2
 otsustasin 2
@@ -1861,7 +1863,6 @@ parima 2
 jaanuaris 2
 eksami 2
 jalutamas 2
-esimesel 2
 tavalised 2
 sadanud 2
 palve 2
@@ -2470,7 +2471,6 @@ veinid 2
 Thbilisi 2
 Gruusia 2
 lemmikjook 2
-Soome 2
 Madrid 2
 Gröönimaa 2
 Nuuk 2
@@ -2504,6 +2504,8 @@ uuendasin 2
 küünal 2
 kustub 2
 Kaasanis 2
+rõhk 2
+silbil 2
 Sellises 1
 kärestikus 1
 mõtlematu 1

@@ -1,5 +1,5 @@
-Men 78
-Bu 72
+Men 79
+Bu 73
 U 69
 Tom 36
 bor 35
@@ -26,12 +26,13 @@ yo'q 14
 emasman 14
 juda 13
 Menga 12
+kitobni 12
 deb 12
 bo'lib 12
 Biz 11
 Siz 10
-kitobni 10
 va 10
+bu 10
 эмасман 10
 uni 10
 edim 10
@@ -41,7 +42,6 @@ Ertaga 10
 Uning 9
 kim 9
 pul 9
-bu 9
 kitob 9
 Tomning 9
 yomon 9
@@ -76,6 +76,7 @@ boraman 6
 qancha 6
 odam 6
 faqat 6
+sotib 6
 emasmi 6
 soat 6
 olib 6
@@ -128,7 +129,6 @@ xohlaysiz 4
 qilish 4
 tilini 4
 uning 4
-sotib 4
 televizor 4
 ko'rmayapti 4
 yoqadi 4
@@ -139,6 +139,7 @@ O'tgan 4
 ajraldi 4
 - 4
 Qiz 4
+olmayman 4
 uch 4
 oz 4
 berdi 4
@@ -215,7 +216,6 @@ og'riyapti 3
 qaror 3
 yer 3
 ketdi 3
-olmayman 3
 aylanadi 3
 aylandi 3
 doim 3
@@ -500,6 +500,7 @@ o'ylaysanmi 2
 sen 2
 maylimi 2
 nechida 2
+olishga 2
 poyezd 2
 tana 2
 6 2
@@ -1953,7 +1954,6 @@ Rojdestvo 1
 sovg'asiga 1
 nonni 1
 yesam 1
-olishga 1
 borsam 1
 turgandingmi 1
 beraymi 1
@@ -2525,3 +2525,5 @@ kela 1
 olmaganim 1
 tarmoqlardan 1
 to‘xtatdim 1
+pulim 1
+yetmaydi 1

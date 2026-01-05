@@ -3,7 +3,7 @@ se 680
 u 594
 sam 495
 da 450
-li 417
+li 418
 na 356
 ne 310
 Tom 300
@@ -16,7 +16,7 @@ nije 180
 za 177
 što 173
 si 171
-od 162
+od 163
 On 155
 ti 135
 To 133
@@ -97,13 +97,13 @@ ju 36
 rekao 36
 tvoj 35
 Moja 35
+Mogu 35
 znam 35
 Kada 35
 Danas 35
 živi 35
 mnogo 35
 Volim 34
-Mogu 34
 knjiga 33
 moja 33
 kada 33
@@ -147,6 +147,7 @@ joj 25
 treba 25
 već 25
 molim 25
+Nemam 25
 jedan 25
 želiš 25
 kad 25
@@ -176,7 +177,6 @@ dijete 22
 tome 22
 jednu 22
 Ovaj 22
-Nemam 22
 dok 22
 Mi 21
 ako 21
@@ -350,6 +350,7 @@ djece 12
 išao 12
 jezika 12
 sat 12
+novca 12
 svaki 12
 oko 12
 smrti 12
@@ -429,7 +430,6 @@ Vrlo 10
 gladan 10
 bude 10
 kroz 10
-novca 10
 hranu 10
 škole 10
 htio 10
@@ -458,6 +458,7 @@ pet 9
 zdravlje 9
 Otišao 9
 uzeti 9
+imati 9
 stići 9
 omiljeni 9
 Evo 9
@@ -503,7 +504,6 @@ tenis 9
 rekla 9
 životinje 8
 neću 8
-imati 8
 istina 8
 bolestan 8
 poput 8
@@ -698,6 +698,7 @@ Nismo 6
 kosu 6
 izgubio 6
 najbolji 6
+čašu 6
 rade 6
 putovati 6
 Mogao 6
@@ -820,7 +821,6 @@ plavu 5
 reci 5
 njegovom 5
 Govori 5
-čašu 5
 opet 5
 hoćeš 5
 sigurno 5
@@ -906,6 +906,7 @@ Tokiju 5
 stvar 5
 zemlji 5
 vratio 5
+dosta 5
 otoka 5
 iskren 5
 redu 5
@@ -1172,7 +1173,6 @@ poslao 4
 desert 4
 Učinio 4
 dečka 4
-dosta 4
 dvaput 4
 vlakom 4
 gospodina 4
@@ -2988,6 +2988,7 @@ jedeš 2
 tamu 2
 kreveta 2
 Izvolite 2
+soka 2
 Vjetar 2
 zainteresiranim 2
 inače 2
@@ -3026,6 +3027,7 @@ točka 2
 Samarkandu 2
 Jao 2
 poginuti 2
+para 2
 insekti 2
 kukci 2
 toaletnog 2
@@ -7883,7 +7885,6 @@ Pažnja 1
 Šah 1
 mat 1
 takvim 1
-soka 1
 zaboravit 1
 držala 1
 dupina 1
@@ -8253,7 +8254,6 @@ lati 1
 Krpelji 1
 paučnjaci 1
 Škorpioni 1
-para 1
 nogu 1
 temeljna 1
 temeljno 1
@@ -8722,3 +8722,4 @@ brazilianska 1
 šešira 1
 Planine 1
 Pomoć 1
+naranče 1

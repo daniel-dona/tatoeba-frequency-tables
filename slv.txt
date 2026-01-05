@@ -1,5 +1,5 @@
 je 1235
-se 284
+se 285
 v 242
 Ali 241
 sem 213
@@ -27,8 +27,8 @@ zelo 72
 glavno 65
 lahko 64
 Jaz 63
+bo 63
 to 63
-bo 62
 me 56
 Kako 53
 Govorim 53
@@ -42,9 +42,9 @@ ime 45
 bil 43
 moja 42
 jezik 42
+Kje 37
 ga 37
 Zakaj 37
-Kje 36
 ali 36
 kaj 36
 Sem 36
@@ -131,6 +131,7 @@ tem 16
 francosko 16
 tukaj 16
 Ni 15
+boš 15
 naj 15
 Ljubim 15
 tega 15
@@ -140,8 +141,8 @@ Moja 14
 bolj 14
 ljudje 14
 nisem 14
+ko 14
 mora 14
-boš 14
 tri 14
 morem 14
 malo 14
@@ -153,7 +154,6 @@ Glavno 14
 Če 13
 star 13
 jaz 13
-ko 13
 Ti 13
 le 13
 težek 13
@@ -194,6 +194,7 @@ Mislim 10
 denarja 10
 mu 10
 Nič 10
+svet 10
 Življenje 10
 čas 10
 najboljši 10
@@ -219,7 +220,6 @@ zgodilo 9
 Rad 9
 hoče 9
 razumem 9
-svet 9
 mojega 9
 svojega 9
 vprašanje 9
@@ -5472,3 +5472,4 @@ natančnost 1
 najlepši 1
 interlingvi 1
 končala 1
+sesul 1

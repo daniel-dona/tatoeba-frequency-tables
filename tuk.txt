@@ -1,15 +1,15 @@
 Tom 1169
-Men 891
+Men 892
 Ol 503
 bilen 446
 Sen 322
-Bu 317
+Bu 321
 üçin 310
 we 286
 bir 223
 näme 220
 gowy 206
-bu 196
+bu 198
 ol 193
 däl 192
 hiç 192
@@ -48,7 +48,7 @@ Mary 87
 dälmi 85
 sen 83
 şeýle 80
-ýok 77
+ýok 78
 seniň 74
 bolup 74
 şu 71
@@ -70,6 +70,7 @@ Meniñ 56
 Tomy 56
 nirede 52
 kim 52
+satyn 52
 näçe 49
 Seniň 48
 isleýärin 48
@@ -79,13 +80,12 @@ adam 47
 üç 47
 geldi 47
 bilýärin 47
-satyn 46
 aýtdylar 46
 hemme 46
 işi 46
 oňa 45
+bilemok 45
 maña 45
-bilemok 44
 saňa 44
 zady 44
 nädip 43
@@ -113,12 +113,12 @@ biziň 36
 Eger 36
 etdim 36
 umyt 36
+alyp 36
 siziň 35
 Ony 35
 rugsat 35
 bilmedi 35
 ýöne 35
-alyp 35
 her 34
 başga 34
 Tomyň 34
@@ -145,6 +145,7 @@ Awstraliýa 30
 biler 30
 ýyl 30
 ýeke 30
+pul 30
 bäri 29
 iş 29
 bol 29
@@ -152,7 +153,6 @@ kitap 29
 öň 29
 indi 29
 özi 29
-pul 29
 biri 29
 Haýyş 29
 emma 28
@@ -187,6 +187,7 @@ sag 24
 bilýär 24
 bärde 24
 öýde 24
+kitaby 24
 öýe 23
 düýn 23
 Maňa 23
@@ -215,6 +216,7 @@ Bostonda 21
 ähli 21
 adamlar 21
 Maña 21
+ýeterlik 20
 size 20
 öýdemok 20
 bizi 20
@@ -228,7 +230,6 @@ Meni 20
 mundan 20
 meñ 20
 özüniñ 20
-ýeterlik 19
 Her 19
 soň 19
 bolmaly 19
@@ -247,7 +248,6 @@ soňky 18
 ýer 18
 siz 18
 isleýär 18
-kitaby 18
 olar 18
 iñ 18
 öñ 18
@@ -357,6 +357,7 @@ gördi 12
 ýylda 12
 maşyn 12
 dowam 12
+Mende 12
 Saňa 12
 üns 12
 olaryň 12
@@ -390,7 +391,6 @@ kişi 11
 öý 11
 hepdede 11
 başlaýar 11
-Mende 11
 hökman 11
 ýene-de 11
 aýtmak 11
@@ -398,6 +398,7 @@ Laýla 11
 bolaryn 11
 Iň 11
 geçdi 11
+bilersiňmi 11
 juda 11
 Maryny 11
 zadyň 11
@@ -439,13 +440,13 @@ Howa 10
 wagtynda 10
 Olara 10
 doglan 10
-bilersiňmi 10
 dilinde 10
 ýadaw 10
 bermeli 10
 bilerdi 10
 Tomdan 10
 boljakdygyny 10
+almaga 10
 Bize 10
 gyzy 10
 bilmeýär 10
@@ -564,6 +565,7 @@ aslynda 8
 birinji 8
 sarp 8
 öňünde 8
+pulum 8
 gürrüň 8
 gyza 8
 özbaşdak 8
@@ -659,6 +661,7 @@ ynanýaryn 7
 Suw 7
 gelýärmi 7
 aýdýarlar 7
+maşyny 7
 bilýändigini 7
 Daşary 7
 başaryp 7
@@ -752,7 +755,6 @@ o 6
 işden 6
 Saminyň 6
 Jon 6
-almaga 6
 ýokdugyny 6
 gördüňmi 6
 syýahat 6
@@ -770,7 +772,6 @@ telefon 6
 gun 6
 günleri 6
 etmelidigimi 6
-maşyny 6
 gelýändigini 6
 ýerinde 6
 doguldy 6
@@ -912,7 +913,6 @@ entäk 5
 bilip 5
 sorap 5
 hemmesine 5
-pulum 5
 görmedi 5
 el 5
 duýýaryn 5
@@ -1461,6 +1461,7 @@ bolmadyk 3
 görende 3
 durdy 3
 2:30-da 3
+ýetenok 3
 şerap 3
 zadyňyz 3
 ýaşly 3
@@ -2092,7 +2093,6 @@ dükanyna 2
 keç 2
 ýerinden 2
 ýerlikli 2
-ýetenok 2
 Durmuş 2
 serhoş 2
 etmegine 2
