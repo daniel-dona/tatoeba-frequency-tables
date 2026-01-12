@@ -6,7 +6,7 @@ da 759
 eo 698
 bara 698
 ket 620
-an 582
+an 583
 eus 496
 zo 457
 o 414
@@ -196,6 +196,7 @@ arc'hant 31
 kozh 31
 reiñ 31
 Debret 31
+ec'h 31
 gwin 31
 Gwelloc'h 31
 bremañ 30
@@ -203,7 +204,6 @@ labour 30
 atav 30
 d'ober 30
 unan 30
-ec'h 30
 gaout 30
 Chom 29
 Komz 29
@@ -273,6 +273,7 @@ n'eus 22
 Butuniñ 22
 se 21
 paouez 21
+Penaos 21
 debriñ 21
 Ret 21
 petra 21
@@ -291,7 +292,6 @@ Ul 20
 hiziv 20
 galleg 20
 redek 20
-Penaos 20
 bep 20
 goude 20
 ivez 20
@@ -1745,6 +1745,7 @@ heul 3
 gwirionez 3
 Ac'hanta 3
 daouarn 3
+istor 3
 wir 3
 i 3
 plac'hig 3
@@ -2021,6 +2022,7 @@ pennad-skrid 2
 Connemara 2
 Soñjet 2
 fardet 2
+echuo 2
 goulennoù 2
 diriaou 2
 cheñch 2
@@ -2465,7 +2467,6 @@ droch 2
 alkool 2
 Tennet 2
 Vreizh-Izel 2
-istor 2
 'barzh 2
 mabig 2
 jamez 2
@@ -3276,7 +3277,6 @@ beleg 1
 Euredet 1
 Máire 1
 Peggy 1
-echuo 1
 dedennus-kenañ 1
 c'hoarvezo 1
 delienn 1

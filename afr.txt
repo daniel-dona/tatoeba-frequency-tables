@@ -394,7 +394,6 @@ verlaat 9
 voorstel 9
 rekenaar 9
 iemand 9
-dae 9
 rooi 9
 vuil 9
 leeg 9
@@ -431,6 +430,7 @@ biblioteek 8
 musiek 8
 versigtig 8
 saak 8
+dae 8
 moontlik 8
 geweet 8
 spandeer 8
@@ -3063,7 +3063,7 @@ heuwel 1
 Pasgedrukte 1
 aangename 1
 geseënde 1
-Kersfees 1
+Kersfeesdae 1
 slinks 1
 verwarmer 1
 verskriklike 1

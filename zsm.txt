@@ -1,16 +1,16 @@
 Saya 1441
-saya 1320
+saya 1321
 yang 1178
 Tom 1161
 tidak 1133
 di 747
-awak 717
-itu 641
+awak 718
+itu 642
 ini 598
 akan 579
 untuk 570
 Dia 545
-dan 426
+dan 427
 dia 424
 dengan 418
 ke 373
@@ -21,10 +21,10 @@ pergi 275
 boleh 264
 dalam 255
 tahu 245
-Awak 232
+Awak 233
 kita 226
 apa 221
-adalah 213
+adalah 214
 ada 203
 mahu 201
 hari 197
@@ -33,7 +33,7 @@ kepada 185
 sedang 183
 pada 178
 kamu 176
-Adakah 175
+Adakah 176
 dari 163
 lebih 161
 perlu 160
@@ -48,7 +48,7 @@ bahasa 140
 mempunyai 135
 kami 125
 sangat 125
-pernah 124
+pernah 125
 daripada 123
 tak 118
 suka 116
@@ -88,8 +88,8 @@ buku 79
 berada 78
 buat 78
 masih 77
+malam 73
 melakukan 72
-malam 72
 tinggal 71
 membuat 71
 Ini 70
@@ -147,6 +147,7 @@ Bahasa 46
 tiga 46
 tiada 46
 kerja 46
+siapa 45
 jam 45
 tempat 45
 bermain 45
@@ -154,7 +155,6 @@ Mengapa 45
 mendengar 45
 sedemikian 45
 Inggeris 44
-siapa 44
 jika 44
 esok 44
 mesti 44
@@ -306,6 +306,7 @@ memandu 24
 bas 24
 membawa 24
 Siapa 24
+minum 24
 tanpa 24
 pintu 24
 kalau 24
@@ -323,7 +324,6 @@ percaya 23
 jatuh 23
 dengannya 23
 depan 23
-minum 23
 tadi 23
 bandar 23
 jangan 23
@@ -632,6 +632,7 @@ seluruh 11
 Lebih 11
 enam 11
 "Apa 11
+Kereta 11
 kampung 11
 main 11
 halaman 11
@@ -650,6 +651,7 @@ Kantonis 11
 sedar 11
 Buku 10
 syarikat 10
+Cina 10
 sempat 10
 dekat 10
 Terima 10
@@ -673,7 +675,6 @@ hasil 10
 Beritahu 10
 sungguh 10
 hospital 10
-Kereta 10
 perniagaan 10
 ibunya 10
 kesihatan 10
@@ -716,7 +717,6 @@ Inilah 9
 beri 9
 nasihat 9
 kasut 9
-Cina 9
 ekor 9
 menghadiri 9
 digunakan 9
@@ -760,6 +760,7 @@ membuatkan 9
 membelikan 9
 berusaha 9
 menyanyi 9
+menipu 9
 ujian 9
 Sudikah 9
 baharu 9
@@ -849,7 +850,6 @@ hujung 8
 Oktober 8
 menyukainya 8
 menjual 8
-menipu 8
 lahir 8
 kiri 8
 kisah 8
@@ -939,6 +939,7 @@ mengucapkan 7
 kekal 7
 tanah 7
 Ramai 7
+Tahun 7
 terbesar 7
 meluangkan 7
 padi 7
@@ -1249,7 +1250,6 @@ Semuanya 5
 sebulan 5
 azan 5
 berlangsung 5
-Tahun 5
 tentera 5
 berani 5
 pasukan 5
@@ -1633,6 +1633,7 @@ menyedihkan 4
 انيمي 4
 بندا 4
 belujur 4
+Baru 4
 bertanyakan 4
 mengesyaki 4
 berbicara 4
@@ -2861,6 +2862,7 @@ bilangan 2
 pseudomyopia 2
 semak 2
 belukar 2
+Makan 2
 Statistik 2
 Filem 2
 Lagipun 2
@@ -3240,7 +3242,6 @@ Toki 2
 Pona 2
 Tarzan 2
 jauhkah 2
-Baru 2
 pucuk 2
 membantunya 2
 Syaitan 2
@@ -5022,7 +5023,6 @@ swasta 1
 meregangkan 1
 timah 1
 Ujian 1
-Makan 1
 Ceritakan 1
 Pegang 1
 talinya 1
@@ -7678,3 +7678,6 @@ alah 1
 Sewaktu 1
 kegemarannya 1
 mengajukan 1
+merayakan 1
+31 1
+Disember 1

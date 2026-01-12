@@ -1,6 +1,6 @@
 Tom 1013
 Mən 894
-O 732
+O 733
 Bu 682
 bir 442
 var 440
@@ -36,7 +36,7 @@ onu 115
 edə 111
 o 111
 Bir 110
-Azərbaycan 109
+Azərbaycan 110
 yoxdur 104
 Mənə 104
 edin 102
@@ -44,7 +44,7 @@ edin 102
 mən 101
 kimi 100
 etdi 100
-da 96
+da 97
 haqqında 93
 hər 93
 Onu 92
@@ -61,8 +61,8 @@ deyiləm 82
 bilmirəm 79
 Bunu 78
 davam 78
+il 76
 etmək 76
-il 75
 baş 75
 iki 74
 artıq 73
@@ -77,8 +77,8 @@ niyə 67
 kömək 67
 istifadə 67
 ona 66
+onun 65
 Toma 65
-onun 64
 hələ 63
 Sənin 63
 öz 62
@@ -196,11 +196,11 @@ saat 31
 gəldi 31
 ölkədir 31
 su 31
+edib 31
 gördüm 30
 başladı 30
 başqa 30
 sizi 30
-edib 30
 Prezident 30
 danışmalıyam 30
 ola 29
@@ -437,6 +437,7 @@ istədi 15
 Get 15
 bura 15
 Allah 15
+işləyir 15
 etibar 15
 Buna 15
 Ermənistan 15
@@ -481,7 +482,6 @@ lazım 14
 Su 14
 Bizi 14
 keçən 14
-işləyir 14
 düşünürsən 14
 etmə 14
 yaxın 14
@@ -784,6 +784,7 @@ yedim 9
 xəstədir 9
 gündə 9
 müdafiə 9
+keçirilən 9
 həkimdir 9
 narahat 9
 qırmızıdır 9
@@ -883,7 +884,6 @@ yerləşən 8
 yağır 8
 Rusiya 8
 qədim 8
-keçirilən 8
 xoşlayır 8
 Vaxt 8
 Bilmirəm 8
@@ -1157,6 +1157,7 @@ dövlətimizin 7
 azad 7
 adına 7
 Dünya 7
+verən 7
 Tək 7
 getməyin 7
 Bunlara 7
@@ -1204,6 +1205,7 @@ xoşbəxtəm 6
 həbs 6
 saçını 6
 yatdım 6
+futbol 6
 maşınım 6
 tanıyır 6
 baxır 6
@@ -1255,6 +1257,7 @@ fərqli 6
 bacım 6
 Əlbəttə 6
 aid 6
+milli 6
 Yaponiyadan 6
 gedəcək 6
 alıram 6
@@ -1463,7 +1466,6 @@ Birlikdə 5
 sözü 5
 kor 5
 Braziliyada 5
-futbol 5
 deyildir 5
 çevrildi 5
 ve 5
@@ -1535,7 +1537,6 @@ razıyam 5
 eşidə 5
 yaşaya 5
 ağıllıdırlar 5
-milli 5
 fincan 5
 dəvət 5
 dur 5
@@ -1641,6 +1642,7 @@ rus 5
 mövcud 5
 almağa 5
 Qara 5
+Kimin 5
 dini 5
 vecimə 5
 yadda 5
@@ -1717,7 +1719,6 @@ edərək 5
 Boş 5
 təşəbbüsü 5
 Yekaterinburq 5
-verən 5
 Çölə 5
 yoxdu 5
 getməmişdən 5
@@ -1983,6 +1984,7 @@ oğurladı 4
 xarab 4
 lüğətdir 4
 lüğəti 4
+1992-ci 4
 Albaniya 4
 zəngindir 4
 bazası 4
@@ -2111,7 +2113,6 @@ Restoran 4
 restoranı 4
 göstərin 4
 Pul 4
-Kimin 4
 gətirir 4
 Qafqaz 4
 Moskvaya 4
@@ -2674,7 +2675,6 @@ ağacları 3
 banan 3
 lüğətdən 3
 12 3
-1992-ci 3
 Albaniyada 3
 Yunanıstanda 3
 İraq 3
@@ -3961,6 +3961,7 @@ bilək 2
 atlar 2
 heyvandırlar 2
 dayanan 2
+Çörəyi 2
 müəllimən 2
 Vayt 2
 Hindistana 2
@@ -4739,6 +4740,7 @@ genişmiqyaslı 2
 qüvvələrinin 2
 məqsədilə 2
 2023-cü 2
+sentyabrın 2
 19-da 2
 cəmi 2
 23 2
@@ -5736,6 +5738,7 @@ stul 2
 problemim 2
 xiyar" 2
 Ukraynadakı 2
+17-də 2
 yığ 2
 Əli 2
 Boston 2
@@ -7624,7 +7627,6 @@ Körpüdə 1
 ziyarətə 1
 gəlmirsən 1
 myouldadı 1
-Çörəyi 1
 anamın 1
 boyük 1
 fermaları 1
@@ -9996,5 +9998,3 @@ Kelt 1
 musiqisinə 1
 vurmayıb 1
 dənizin 1
-dibində 1
-tapılıb 1

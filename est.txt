@@ -1,4 +1,4 @@
-on 1550
+on 1563
 Ma 936
 ei 746
 Tom 623
@@ -82,8 +82,8 @@ aga 40
 tema 40
 täna 40
 ilus 40
+Tema 39
 nad 39
-Tema 38
 hästi 38
 raha 38
 kaks 38
@@ -168,6 +168,7 @@ Te 23
 ikka 22
 alati 22
 läks 22
+teine 22
 parem 22
 olete 22
 aastat 22
@@ -177,7 +178,6 @@ natuke 22
 miks 22
 teada 21
 Keegi 21
-teine 21
 lapsed 21
 Millal 21
 raamatu 21
@@ -250,6 +250,7 @@ kogu 16
 aidata 16
 õpin 16
 sinna 16
+kuu 16
 kaua 16
 peab 15
 kord 15
@@ -325,6 +326,7 @@ pool 12
 üksi 12
 külm 12
 kohe 12
+esimene 12
 uue 12
 Isa 12
 all 12
@@ -343,7 +345,7 @@ enne 12
 meil 12
 usu 12
 Räägi 12
-esimene 11
+Aasta 12
 kirja 11
 Selle 11
 Selles 11
@@ -782,6 +784,7 @@ anna 5
 tark 5
 pere 5
 hiljaks 5
+kolmas 5
 Neil 5
 Teil 5
 kuud 5
@@ -977,7 +980,6 @@ tappa 4
 Naised 4
 esimesel 4
 lahke 4
-kuu 4
 viia 4
 keelde 4
 austab 4
@@ -985,7 +987,6 @@ tütart 4
 jääd 4
 tulevad 4
 purjus 4
-kolmas 4
 usub 4
 kannab 4
 silma 4
@@ -2330,6 +2331,7 @@ araabia 2
 Rääkisin 2
 ladina 2
 raamatutest 2
+viies 2
 Belgias 2
 Taani 2
 Oslo 2
@@ -2361,6 +2363,7 @@ kõigi 2
 teiega 2
 Ateenas 2
 kauaks 2
+oktoober 2
 noorelt 2
 saite 2
 mõistad 2
@@ -2455,6 +2458,7 @@ restoranikett 2
 ravimi 2
 aitasid 2
 korteri 2
+seitsmes 2
 Saan 2
 otsustasite 2
 otsustasid 2
@@ -5302,7 +5306,6 @@ kõvemini 1
 telefoniga 1
 Mehhikos 1
 Meile 1
-viies 1
 vietnami 1
 kartsin 1
 vaiksemalt 1
@@ -5451,7 +5454,6 @@ jääte" 1
 pühapäevani" 1
 varemeid 1
 kuulan 1
-oktoober 1
 Sügis 1
 oktoobris 1
 novembris 1
@@ -6278,7 +6280,6 @@ jalamassaaži 1
 kantrimuusikat 1
 Fukuisse 1
 suuruselt 1
-seitsmes 1
 läheksin 1
 õpetajal 1
 sõbrapäevaks 1
@@ -6783,3 +6784,22 @@ kangelased 1
 ostma 1
 elate 1
 Helsingis 1
+turul 1
+jaanuar 1
+veebruar 1
+märts 1
+neljas 1
+aprill 1
+mai 1
+kuues 1
+juuni 1
+juuli 1
+kaheksas 1
+august 1
+üheksas 1
+september 1
+kümnes 1
+üheteistkümnes 1
+november 1
+kaheteistkümnes 1
+detsember 1
