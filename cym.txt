@@ -9,7 +9,7 @@ ddim 118
 o 116
 ei 98
 ar 88
-hoffi 82
+hoffi 83
 ti 79
 wedi 78
 hi 78
@@ -37,7 +37,7 @@ siarad 38
 byw 36
 â 36
 newydd 34
-Ble 32
+Ble 33
 gyda 32
 Beth 30
 gwybod 29
@@ -51,10 +51,10 @@ meddwl 27
 fi 26
 gen 26
 di 25
+bwyta 25
 Mae'n 25
 ydy 24
 yma 24
-bwyta 24
 gwneud 24
 hynny 24
 dod 23
@@ -66,12 +66,12 @@ ond 23
 o'n 22
 wneud 22
 mae 22
+mae'r 21
 llyfr 21
 Dych 21
 dw 21
 rhaid 21
 yfed 21
-mae'r 20
 Oes 20
 dysgu 20
 o'r 19
@@ -201,6 +201,7 @@ dydd 8
 adre 8
 hwyr 8
 bwrdd 8
+bara 8
 Layla 8
 hun 8
 Mae’n 8
@@ -219,7 +220,6 @@ teledu 7
 drws 7
 at 7
 Dim 7
-bara 7
 wythnos 7
 hyd 7
 Dwi'n 7
@@ -342,6 +342,7 @@ ddyn 4
 cig 4
 unig 4
 es 4
+Rwy'n 4
 rŵan 4
 trên 4
 gennych 4
@@ -452,7 +453,6 @@ gyflym 3
 er 3
 mwyn 3
 frawd 3
-Rwy'n 3
 cyrraedd 3
 bore 3
 Armenia 3

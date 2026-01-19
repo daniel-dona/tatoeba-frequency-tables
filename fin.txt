@@ -1,12 +1,12 @@
-on 29415
-ei 10768
-Tom 9903
+on 29417
+ei 10771
+Tom 9905
 Hän 8447
 ja 6899
-että 6891
+että 6892
 Tomi 6384
-ole 6346
-oli 5749
+ole 6349
+oli 5751
 En 4970
 Minä 4481
 Se 3807
@@ -14,8 +14,8 @@ hän 3602
 se 3429
 kuin 3377
 Olen 3017
-ovat 2947
-sinä 2880
+ovat 2948
+sinä 2881
 sen 2759
 niin 2695
 Tämä 2422
@@ -28,20 +28,20 @@ en 2103
 Onko 2050
 voi 2022
 sitä 2019
-minun 1935
+minun 1936
 mutta 1852
 paljon 1848
 Mitä 1828
 ollut 1825
-vain 1792
+vain 1793
 minua 1744
 He 1693
 minä 1686
-olla 1684
-Minulla 1652
+olla 1685
+Minulla 1653
 koskaan 1650
 sinun 1577
-Älä 1563
+Älä 1564
 olen 1539
 hyvin 1533
 Minun 1532
@@ -59,8 +59,8 @@ Mari 1262
 Sinun 1242
 Me 1235
 täytyy 1203
-tämä 1183
-hyvä 1170
+tämä 1185
+hyvä 1171
 ranskaa 1167
 pitää 1152
 täällä 1147
@@ -74,12 +74,12 @@ Tomilla 1073
 mennä 1070
 häntä 1059
 sinulle 1053
-Kuinka 1052
+Kuinka 1053
 Jos 1043
 jos 1034
 Sinä 1026
-jo 983
-Ei 978
+jo 984
+Ei 979
 pitäisi 968
 vähän 953
 Tuo 942
@@ -87,7 +87,7 @@ tulee 931
 et 892
 juuri 861
 Miten 855
-Hänen 851
+Hänen 852
 eivät 848
 Mikä 845
 Haluan 845
@@ -114,8 +114,8 @@ tänään 722
 kaksi 719
 halua 712
 ennen 696
+aikaa 678
 koko 677
-aikaa 676
 sitten 673
 hänet 661
 hänelle 653
@@ -128,7 +128,7 @@ vai 610
 Marin 610
 Hänellä 605
 yksi 604
-tuo 600
+tuo 601
 tässä 573
 eilen 573
 he 572
@@ -145,8 +145,8 @@ minut 540
 ihan 537
 Et 535
 mies 533
+Meidän 532
 pois 532
-Meidän 531
 huomenna 527
 noin 526
 viime 521
@@ -160,14 +160,14 @@ vaan 509
 meidän 506
 Mä 499
 jälkeen 498
-tuota 492
+tuota 493
 siihen 492
-koska 486
+koska 488
 yhtä 484
 päivä 482
+minulla 482
 ne 481
 näyttää 480
-minulla 480
 olivat 478
 haluaa 477
 me 473
@@ -180,14 +180,14 @@ auttaa 460
 siellä 458
 Minusta 453
 varma 444
+olemme 443
 Ne 442
-olemme 442
 ilman 440
 haluat 438
 nähnyt 434
 Tuomas 429
 Olin 428
-syödä 426
+syödä 427
 Pidän 419
 monta 418
 teki 414
@@ -217,12 +217,12 @@ tänne 379
 tule 379
 tehnyt 378
 tekee 373
+oikein 373
 Anteeksi 372
-oikein 372
 voinut 369
 itse 369
 sai 369
-kaiken 367
+kaiken 368
 vanha 366
 puhuu 364
 kerran 362
@@ -233,7 +233,7 @@ sanoa 360
 tapahtui 360
 kaunis 360
 töitä 358
-Meillä 356
+Meillä 357
 yli 354
 kirjan 353
 pitänyt 352
@@ -261,20 +261,20 @@ näin 333
 kovin 331
 Voinko 330
 totta 329
-syö 328
+syö 329
+Luulen 328
 Sami 328
-Luulen 327
 tullut 327
 lähteä 325
 – 325
 Te 323
 hyvää 321
 mikä 321
+saada 317
 halusi 317
 ottaa 316
 Haluatko 316
 meille 315
-saada 315
 suuri 314
 Tiedätkö 313
 jotakin 311
@@ -311,8 +311,8 @@ Mihin 286
 emme 285
 aikaan 283
 menee 283
+tarpeeksi 282
 ongelma 281
-tarpeeksi 280
 Etkö 280
 haluan 280
 edes 280
@@ -333,9 +333,9 @@ teidän 271
 Marille 271
 tähän 270
 yhdessä 269
+Älkää 265
 olette 265
 kirjaa 264
-Älkää 264
 sä 259
 uudestaan 258
 kiitos 258
@@ -394,10 +394,10 @@ otti 224
 tekemään 224
 aikaisemmin 223
 uusi 223
+voit 223
 oikeassa 223
 Tomista 223
 liikaa 222
-voit 222
 ketään 221
 päälle 220
 poika 220
@@ -424,9 +424,9 @@ aikaisin 207
 teet 206
 vaikuttaa 206
 auto 206
-elää 205
+maailman 205
 ainoa 204
-maailman 204
+elää 204
 oikeasti 204
 iso 203
 myöhässä 203
@@ -650,8 +650,9 @@ tarkoittaa 134
 ympäri 133
 välillä 133
 Osaatko 133
+ohi 132
 asiaa 132
-ohi 131
+lunta 131
 ongelmia 131
 kiire 131
 Ihmiset 131
@@ -660,7 +661,6 @@ opettaja 131
 Tunnen 131
 mielestäni 131
 muutaman 131
-lunta 130
 sanotaan 130
 ystäväni 130
 vuoksi 130
@@ -819,6 +819,7 @@ ajatus 108
 isänsä 107
 irti 107
 ystävä 107
+valmiiksi 107
 enkä 107
 ihmistä 107
 jotta 107
@@ -837,7 +838,6 @@ Pysy 106
 matkalla 105
 maa 105
 heidät 105
-valmiiksi 105
 Vihaan 105
 kunnossa 105
 kuussa 105
@@ -883,6 +883,7 @@ elämää 99
 hitaasti 99
 Näyttää 99
 katsomaan 99
+harvoin 99
 televisiota 98
 hetki 98
 eli 98
@@ -894,7 +895,6 @@ Tatoeba 98
 sana 98
 unta 98
 pystynyt 98
-harvoin 98
 hyvän 97
 nousi 97
 koulun 97
@@ -1194,6 +1194,7 @@ luota 72
 varmaankin 72
 virheen 72
 oman 72
+varaa 72
 pääsi 72
 Ottakaa 72
 neuvoa 72
@@ -1206,7 +1207,6 @@ kääntää 71
 todennäköisesti 71
 Näetkö 71
 selvää 71
-varaa 71
 syystä 71
 mihinkään 71
 jäljellä 71
@@ -1257,6 +1257,7 @@ mielelläni 68
 Tokiossa 68
 New 68
 humalassa 68
+Mielestäni 68
 toi 68
 sietää 68
 saan 68
@@ -1277,7 +1278,6 @@ kysymys 67
 maailmassa 67
 Nähdään 67
 Japani 67
-Mielestäni 67
 ota 67
 kylässä 67
 pelaa 67
@@ -1540,6 +1540,7 @@ Ziri 56
 sanat 55
 laulaja 55
 kätensä 55
+äsken 55
 tulivat 55
 kakkua 55
 kautta 55
@@ -1554,6 +1555,7 @@ Aika 55
 Vauva 55
 opiskelija 55
 pianoa 55
+autonsa 55
 jeniä 55
 ”Mitä 55
 ottaen 55
@@ -1567,7 +1569,6 @@ sairaalassa 55
 seksiä 55
 mulle 55
 Hänestä 54
-äsken 54
 velkaa 54
 viiden 54
 juhlissa 54
@@ -1583,7 +1584,6 @@ kiirettä 54
 junaan 54
 kuudelta 54
 ihana 54
-autonsa 54
 nauraa 54
 sattumalta 54
 siskoni 54
@@ -2209,6 +2209,7 @@ kokonaan 39
 poliisi 39
 todellinen 39
 Lapsena 39
+kaikesta 39
 myönsi 39
 runsaasti 39
 loppuu 39
@@ -2253,7 +2254,6 @@ läsnä 38
 Synnyin 38
 poikaystävä 38
 matkan 38
-kaikesta 38
 kiinnostava 38
 kävelee 38
 seisoo 38
@@ -2281,7 +2281,6 @@ Totta 37
 veden 37
 Kuu 37
 pitkälle 37
-kädestä 37
 mahdollisuutta 37
 ystävällisesti 37
 tupakoinnin 37
@@ -2343,6 +2342,7 @@ aamiaisen 36
 ympäriinsä 36
 johdosta 36
 nimen 36
+kädestä 36
 astronomiasta 36
 kuukausi 36
 Pese 36
@@ -2448,6 +2448,7 @@ maalla 34
 television 34
 poltti 34
 sillan 34
+Saksan 34
 Maailma 34
 viimeisen 34
 heittää 34
@@ -2508,6 +2509,7 @@ kaatui 34
 tavoin 34
 avulla 34
 soita 34
+lensi 34
 Koulu 34
 luokse 34
 sika 34
@@ -2534,7 +2536,6 @@ pelkkää 34
 Epäilen 34
 Tehkää 34
 varttia 34
-Saksan 33
 makasi 33
 Miltä 33
 seuraavaksi 33
@@ -2548,6 +2549,7 @@ opiskelen 33
 Yhdysvaltojen 33
 Tahdon 33
 karkuun 33
+taloni 33
 Jane 33
 Menetkö 33
 suomen 33
@@ -2577,7 +2579,6 @@ tilanteen 33
 haittaa 33
 sokea 33
 olut 33
-lensi 33
 ovet 33
 poikani 33
 suolaa 33
@@ -2629,7 +2630,6 @@ melkoisen 32
 onkaan 32
 haisee 32
 Poikani 32
-taloni 32
 virtaa 32
 Siksi 32
 Huomenta 32
@@ -2725,6 +2725,7 @@ mukaisesti 31
 Saatan 31
 näet 31
 terveydelle 31
+alta 31
 käynnissä 31
 jalkaan 31
 epäonnistui 31
@@ -2808,7 +2809,6 @@ myi 30
 kynä 30
 päättyi 30
 valehtelee 30
-alta 30
 sanoi: 30
 sytytti 30
 saksaksi 30
@@ -2952,6 +2952,7 @@ vihreä 28
 Kymmenen 28
 Arvaa 28
 puhuminen 28
+luo 28
 katua 28
 Kauanko 28
 ynnä 28
@@ -3064,7 +3065,6 @@ isoisäni 27
 Maito 27
 vanhempiensa 27
 luet 27
-luo 27
 mennään 27
 Japanista 27
 pommiin 27
@@ -3832,6 +3832,7 @@ ranskalaista 22
 vessassa 22
 silmälasit 22
 maksanut 22
+Katson 22
 nauttii 22
 tuonnemmaksi 22
 Saksaan 22
@@ -4004,7 +4005,6 @@ Tekeekö 21
 korjaamaan 21
 autoasi 21
 koskee 21
-Katson 21
 ajattele 21
 parhaani 21
 viimeisestä 21
@@ -4710,6 +4710,7 @@ tulipalo 17
 Ihmisen 17
 ennemminkin 17
 näkynyt 17
+Lunta 17
 monista 17
 väristä 17
 Sairaus 17
@@ -4974,7 +4975,6 @@ tulisit 16
 tuntematon 16
 vilustunut 16
 kertaakaan 16
-Lunta 16
 silmää 16
 kymmenestä 16
 paikalleen 16
@@ -5219,7 +5219,6 @@ hölynpölyä 15
 tyttöystävää 15
 japaniksi 15
 Auttaisitko 15
-hammas 15
 lentokone 15
 kuiva 15
 kylvää 15
@@ -5535,6 +5534,7 @@ kahdessa 14
 Joko 14
 seuraavat 14
 kynttilän 14
+hammas 14
 pianon 14
 Nauti 14
 koneen 14
@@ -5766,6 +5766,7 @@ omituista 14
 seuraan 14
 odotin 14
 Etsimme 14
+niissä 14
 kauppaa 14
 USA:ssa 14
 Tulevaisuus 14
@@ -6173,7 +6174,6 @@ Istun 13
 Norjaan 13
 lyhyen 13
 Jalkani 13
-niissä 13
 herännyt 13
 Johannes 13
 dokumentin 13
@@ -6181,6 +6181,7 @@ ilmiselvästi 13
 menemättä 13
 lapsuudesta 13
 muistoja 13
+raportti 13
 hommaa 13
 onnellisin 13
 vihaiseksi 13
@@ -6316,7 +6317,6 @@ jokeen 12
 kyyneliä 12
 sanomalehden 12
 näkökulmasta 12
-suuhun 12
 kutsu 12
 puvun 12
 tarjoillaan 12
@@ -6512,6 +6512,7 @@ videon 12
 tyhmäksi 12
 Pidämme 12
 Viimeinen 12
+ostaneet 12
 nollan 12
 matkalaukkuni 12
 vaatteensa 12
@@ -6806,6 +6807,7 @@ nenän 11
 vastasit 11
 Varkaat 11
 kirjaston 11
+suuhun 11
 Heidät 11
 selkänsä 11
 ärsytti 11
@@ -7024,7 +7026,6 @@ vastusta 11
 haukkui 11
 juomisesta 11
 a 11
-ostaneet 11
 tekstin 11
 ilo 11
 normaali 11
@@ -7207,7 +7208,6 @@ numeroita 11
 kolikon 11
 osaisi 11
 maapallo 11
-raportti 11
 treffit 11
 Tuosta 11
 hajuaisti 11
@@ -7320,6 +7320,7 @@ Vaka 11
 Australiaa 11
 laittamassa 11
 90 11
+tiesimme 11
 äänesi 11
 kateissa 11
 Iltaa 11
@@ -7957,7 +7958,6 @@ ymmärtäväni 10
 meksikolaisesta 10
 ruohoa 10
 läppärin 10
-tiesimme 10
 tuntemani 10
 Karhut 10
 ”Anna 10

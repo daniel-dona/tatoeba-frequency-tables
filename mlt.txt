@@ -2,8 +2,8 @@ Ziri 326
 jrid 95
 Rima 56
 kien 39
-dejjem 37
-jista' 36
+dejjem 38
+jista' 37
 lil 24
 ma 20
 dan 20
@@ -39,6 +39,7 @@ Huwa 8
 tiegħek 8
 snienu 8
 Enrico 8
+meta 7
 qed 7
 hu 7
 dak 7
@@ -47,7 +48,6 @@ joqgħod 7
 ikun 7
 Għaliex 6
 għandi 6
-meta 6
 Fejn 6
 aktar 6
 jaf 6
@@ -57,6 +57,7 @@ jilbes 6
 jaħsel 6
 jistax 6
 Din 6
+biss 5
 issa 5
 ħafna 5
 hawn 5
@@ -76,7 +77,6 @@ jiżfen 5
 jċempel 5
 kappell 5
 tas-suf 5
-biss 4
 it-tajjeb 4
 M'iniex 4
 Jiena 4
@@ -89,6 +89,7 @@ bżonn 4
 Is-surmast 4
 kollha 4
 daħal 4
+wara 4
 ftit 4
 jixrob 4
 kompla 4
@@ -126,12 +127,13 @@ zokkor 3
 hi 3
 qatt 3
 reġa’ 3
-wara 3
 fil-kamra 3
 jgħin 3
+qabel 3
 ta 3
 dwar 3
 tħobb 3
+mhux 3
 jkanta 3
 jgħum 3
 jiġri 3
@@ -146,9 +148,12 @@ isir 3
 Huma 3
 xtrajt 3
 il-lukanda 3
+jidher 3
 Bħalissa 2
 Kull 2
 wasal 2
+jew 2
+f'nofs 2
 Kemm 2
 grazzi 2
 Narak 2
@@ -168,6 +173,7 @@ Il-kont 2
 l-belt 2
 kapitali 2
 Tista' 2
+Dan 2
 faċli 2
 ħaj 2
 Mary 2
@@ -222,7 +228,6 @@ l-Amerika 2
 wieġeb 2
 jsajjar 2
 malajr 2
-qabel 2
 Għid 2
 l-Ziri 2
 ħabbat 2
@@ -237,7 +242,6 @@ jħalli 2
 in-nies 2
 jimpressjona 2
 tipprova 2
-mhux 2
 jiekol 2
 jimxi 2
 Stefan 2
@@ -258,6 +262,7 @@ pizza 2
 b'xejn 2
 tajjeb 2
 kafè 2
+għaliex 2
 fih 2
 il-kitarra 2
 xi 2
@@ -279,9 +284,14 @@ nilgħaq 2
 widna 2
 kont 2
 il-bank 2
+iżda 2
 BC 2
 lingwi 2
 mis-siġra 2
+Merkurju 2
+mid-Dinja 2
+eżatt 2
+ix-xemx 2
 il-lista 1
 l-ilsna 1
 tinkludix 1
@@ -306,7 +316,6 @@ tal-kċina 1
 Jekk 1
 tħossok 1
 miġugħ 1
-jew 1
 mdejjaq 1
 tiddejjaqx 1
 tkellimni 1
@@ -320,7 +329,6 @@ tat-tieni 1
 gwerra 1
 dinjija 1
 is-sabar 1
-f'nofs 1
 il-baħar 1
 id-dagħjsa 1
 bil-qasba 1
@@ -415,7 +423,6 @@ fl-elezzjoni 1
 almenu 1
 tgħid 1
 "grazzi" 1
-Dan 1
 ix-xogħol 1
 vera 1
 Ħriġt 1
@@ -884,7 +891,6 @@ waħda 1
 jolqot 1
 jarahom 1
 jibqa' 1
-għaliex 1
 jevita 1
 ħalib 1
 żieda 1
@@ -1068,7 +1074,6 @@ is-setgħa 1
 lanqas 1
 ix-xewqa 1
 ħakma 1
-iżda 1
 permezz 1
 applikazzjoni 1
 kajmana 1
@@ -1150,3 +1155,8 @@ Diġà 1
 ktibt 1
 tliet 1
 ittri 1
+tlugħ 1
+nżul 1
+il-lejl 1
+ħdejn 1
+ix-Xemx 1

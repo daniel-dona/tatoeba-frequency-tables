@@ -1,4 +1,4 @@
-się 17313
+się 17314
 nie 14715
 jest 14447
 w 12993
@@ -6,7 +6,7 @@ Tom 11440
 na 10886
 Nie 9556
 to 8836
-że 8244
+że 8245
 do 7865
 z 7567
 i 4724
@@ -56,7 +56,7 @@ będzie 1160
 Ten 1156
 sobie 1134
 czy 1129
-cię 1100
+cię 1101
 ze 1073
 może 1069
 przez 1064
@@ -100,7 +100,7 @@ mówi 711
 nas 707
 nigdy 697
 tę 691
-lat 676
+lat 678
 ciebie 671
 Kto 668
 Chciałbym 666
@@ -220,8 +220,8 @@ mógł 339
 prostu 339
 stanie 337
 te 333
+bo 333
 mną 333
-bo 332
 Już 332
 byłem 331
 Ja 331
@@ -329,9 +329,9 @@ musisz 238
 zdanie 238
 Od 237
 końcu 236
+Przepraszam 235
 zajęty 235
 twoim 235
-Przepraszam 234
 pierwszy 234
 dziecko 234
 szkole 232
@@ -361,9 +361,9 @@ pani 219
 żebyś 217
 pomoc 216
 dwie 216
+Dziś 216
 sobą 216
 Maria 216
-Dziś 215
 przyjdzie 215
 przyjaciół 215
 jeden 215
@@ -875,6 +875,7 @@ starszy 95
 Czas 95
 samym 95
 nimi 95
+trzydzieści 95
 samego 94
 świata 94
 drogi 94
@@ -882,7 +883,6 @@ drogę 94
 pisze 94
 Kim 94
 Spotkałem 94
-trzydzieści 94
 potrzebuję 94
 umarł 94
 Policja 93
@@ -2793,6 +2793,7 @@ czarną 28
 latać 28
 sensie 28
 Jedna 28
+Niedługo 28
 doczekać 28
 łazience 28
 spotkania 28
@@ -2908,7 +2909,6 @@ Usiądź 27
 szczyt 27
 Pochodzę 27
 burzy 27
-Niedługo 27
 Skończyłem 27
 pomysły 27
 torba 27
@@ -3333,6 +3333,7 @@ model 23
 kontakt 23
 odwagę 23
 soboty 23
+skończę 23
 naszymi 23
 samobójstwo 23
 Śmierć 23
@@ -3609,7 +3610,6 @@ poradził 21
 Dziadek 21
 Nazywam 21
 zamek 21
-skończę 21
 Indiach 21
 Poszła 21
 Planuję 21
@@ -3796,6 +3796,7 @@ krótki 20
 członkiem 20
 znalazła 20
 meczu 20
+pięćdziesiąt 20
 przygotowania 20
 Piłka 20
 kwestia 20
@@ -3966,7 +3967,6 @@ pomyślał 19
 Mieszkamy 19
 tamto 19
 myślenia 19
-pięćdziesiąt 19
 Wyjdź 19
 Sklep 19
 czyni 19
@@ -8467,6 +8467,7 @@ David 8
 zgubiła 8
 alfabetu 8
 elektryczne 8
+większej 8
 znaków 8
 dokoła 8
 niewinność 8
@@ -9312,7 +9313,6 @@ Wysyłam 7
 Lot 7
 Jakość 7
 zwiedzać 7
-większej 7
 nauczycielka 7
 programie 7
 biedni 7

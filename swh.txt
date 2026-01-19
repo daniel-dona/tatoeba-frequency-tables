@@ -34,10 +34,10 @@ hivyo 84
 kazi 83
 alikuwa 83
 wake 79
-Kwa 76
+Kwa 77
 au 74
 kati 72
-nini 69
+nini 70
 sababu 69
 kitu 66
 kubwa 66
@@ -170,6 +170,7 @@ jinsi 24
 wapi 24
 mengi 24
 tatu 24
+naye 24
 vitu 24
 sauti 24
 mwingine 24
@@ -181,7 +182,6 @@ Millie 23
 moto 23
 kulala 23
 Asante 23
-naye 23
 joto 23
 duka 23
 wengine 23
@@ -819,6 +819,7 @@ nakala 6
 kusafisha 6
 masikio 6
 viwili 6
+Nafasi 6
 mzima 6
 kupunguza 6
 mwanadamu 6
@@ -964,7 +965,6 @@ aibu 5
 Julai 5
 yen 5
 nyimbo 5
-Nafasi 5
 tuna 5
 maalumu 5
 makosa 5
@@ -9313,3 +9313,5 @@ mananasi 1
 zinanichosha 1
 pea 1
 maharage 1
+unabishana 1
+iliisha 1

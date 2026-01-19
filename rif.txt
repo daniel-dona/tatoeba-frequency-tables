@@ -4,12 +4,12 @@ n 126
 i 101
 Mani 91
 Ziri 84
+d 81
 Ma 80
-d 79
 Wer 73
 wer 70
+di 69
 Yanni 69
-di 67
 ḏ 59
 ar 52
 Min 46
@@ -79,6 +79,7 @@ Xseɣ 14
 Mayemmi 13
  13
 ɛad 13
+Neccin 13
 nican 13
 d-ijjen 13
 xseɣ 13
@@ -96,7 +97,6 @@ aked 12
 Neččin 12
 nnem 11
 Mamec 11
-Neccin 11
 d-ayi 11
 netta 11
 tisnt 11
@@ -213,6 +213,7 @@ nwem 5
 nniɣ 5
 necc 5
 timeǧařin 5
+qaɛ 5
 lliɣ 5
 axxam 5
 xmi 5
@@ -245,6 +246,7 @@ akiḏneɣ 5
 yellan 5
 kul 5
 ufiɣar 5
+iḥnjiren 5
 dfar 5
 weɣrum 5
 tilifun-nes 5
@@ -371,7 +373,6 @@ Ass-a 3
 ṭṭabřa 3
 Taspanyut 3
 řbidu 3
-qaɛ 3
 zic 3
 nɛawen 3
 tellid 3
@@ -386,6 +387,7 @@ akid-s 3
 qqaren-yi 3
 wadjiɣ 3
 niḍen 3
+yecnan 3
 d-abaḥ 3
 Wdma-yi 3
 ṯenniḏ 3
@@ -435,7 +437,6 @@ Texseɣ 3
 akḏ 3
 Qqen 3
 Qqaɛ 3
-iḥnjiren 3
 amcic 3
 d-acmlal 3
 neqqim 3
@@ -748,6 +749,7 @@ tin 2
 tamzgida 2
 yerẓ 2
 uḥanjir 2
+tinmel 2
 Karam 2
 yeǧan 2
 tmallalt 2
@@ -1365,7 +1367,6 @@ siweřɣ 1
 s-taspanyut 1
 yeskki 1
 Anudm 1
-yecnan 1
 Timansiwin 1
 Iḍs 1
 Sitimɣ 1
@@ -1865,7 +1866,6 @@ Aɣanim 1
 Lqlem 1
 uɣrbaz 1
 lmdrasa 1
-tinmel 1
 Iṛuḥ 1
 Yecna 1
 d-win 1
@@ -3006,3 +3006,4 @@ umkan-nwem 1
 umkan-nwemt 1
 mux 1
 aseɣ 1
+tneɣrit 1

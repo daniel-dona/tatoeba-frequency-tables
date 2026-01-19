@@ -1,23 +1,23 @@
-es 11468
-ia 8895
-la 8096
-un 5820
+es 11470
+ia 8896
+la 8099
+un 5822
 de 5491
-Me 4887
-Tom 3719
-no 3708
-a 3114
+Me 4888
+Tom 3720
+no 3709
+a 3116
 ла 2963
 ес 2882
-La 2823
+La 2825
 en 2514
-tu 2314
+tu 2315
 me 2303
 иа 2266
 ave 2017
 де 1970
 ce 1839
-El 1790
+El 1791
 e 1719
 Esce 1652
 ун 1415
@@ -70,7 +70,7 @@ Los 513
 alga 509
 parla 503
 ке 483
-vos 480
+vos 481
 Том 469
 vade 457
 los 457
@@ -82,7 +82,7 @@ vide 412
 Еске 409
 ел 395
 Un 391
-vive 387
+vive 388
 плу 383
 Ел 383
 еста 379
@@ -119,8 +119,8 @@ lingua 273
 кон 271
 veni 265
 jua 263
+Perce 259
 padre 258
-Perce 257
 gato 252
 cada 246
 labora 245
@@ -128,9 +128,9 @@ En 245
 pare 243
 otra 243
 воле 241
+crede 232
 нос 232
 cosas 231
-crede 230
 aprende 227
 ancora 227
 A 226
@@ -186,8 +186,8 @@ conose 167
 aveni 167
 tro 167
 peti 167
+trova 166
 usa 166
-trova 165
 om 165
 favore 164
 дебе 164
@@ -213,7 +213,7 @@ fem 147
 do 146
 xace 145
 tal 144
-tra 142
+tra 143
 Меа 142
 dona 141
 куандо 140
@@ -242,10 +242,10 @@ prima 128
 Ун 124
 ves 123
 cualce 123
+Dio 123
 Cuanto 122
 Куал 122
 cade 121
-Dio 121
 odia 120
 vea 119
 nom 118
@@ -255,8 +255,8 @@ Mary 118
 cambia 117
 ма 117
 problem 116
+site 116
 nada 116
-site 115
 loca 115
 cor 113
 oia 113
@@ -364,12 +364,12 @@ flores 77
 апренде 77
 recorda 76
 ier 76
+umana 76
 familia 76
 testa 76
 коменса 76
 oblida 75
 perce 75
-umana 75
 sol 75
 sposa 75
 семпре 75
@@ -403,6 +403,7 @@ doman 69
 encontra 69
 мусика 69
 Tatoeba 68
+pomas 68
 lasa 68
 move 68
 cara 68
@@ -412,7 +413,6 @@ An 68
 ensenior 68
 iudi 68
 pasada 67
-pomas 67
 note 67
 пос 67
 De 66
@@ -455,11 +455,11 @@ besa 62
 Вос 62
 Toki 62
 fria 61
+rio 61
 capeles 61
 rompe 61
 коносе 61
 Pona 61
-rio 60
 sirca 60
 coreta 60
 desira 60
@@ -854,6 +854,7 @@ Sin 31
 governa 31
 sufri 31
 final 31
+mediciste 31
 abrida 31
 azul 31
 privata 31
@@ -875,7 +876,6 @@ famosa 30
 asconde 30
 estate 30
 mera 30
-mediciste 30
 кар 30
 амис 30
 папилио 30
@@ -1097,6 +1097,7 @@ resente 23
 Italia 23
 presidente 23
 dotor 23
+clave 23
 sangue 23
 pede 23
 sede 23
@@ -1131,7 +1132,6 @@ tredes 22
 fluente 22
 donada 22
 junta 22
-clave 22
 salon 22
 Par 22
 sinistra 22
@@ -1324,6 +1324,7 @@ serebro 19
 asusta 19
 mobilas 19
 proteje 19
+conta 19
 inverno 19
 vacua 19
 esplode 19
@@ -1393,7 +1394,6 @@ nove 18
 esije 18
 reconose 18
 complicada 18
-conta 18
 retro 18
 enemis 18
 limpa 18
@@ -1485,6 +1485,7 @@ xicas 17
 teoria 17
 cristian 17
 colo 17
+interede 17
 ses 17
 Veni 17
 presa 17
@@ -1559,7 +1560,6 @@ cluida 16
 diminui 16
 locas 16
 amira 16
-interede 16
 tensa 16
 talo 16
 empresta 16
@@ -1809,6 +1809,7 @@ zelosa 13
 acompania 13
 Olimpial 13
 camera 13
+flue 13
 matada 13
 Acua 13
 corte 13
@@ -1949,7 +1950,6 @@ forni 12
 reali 12
 autono 12
 imajes 12
-flue 12
 depende 12
 metres 12
 morinte 12
@@ -2855,6 +2855,7 @@ potiosa 8
 Tradui 8
 Ieruxalim 8
 Omes 8
+Eleje 8
 пеонес 8
 caturada 8
 Karl 8
@@ -3166,7 +3167,6 @@ Cambia 7
 juetas 7
 secular 7
 Limpi 7
-Eleje 7
 klingon 7
 Шаке 7
 bispos 7

@@ -1,5 +1,5 @@
-nga 585
-ha 427
+nga 586
+ha 428
 Tom 304
 iton 277
 an 260
@@ -8,7 +8,7 @@ hin 239
 ko 231
 ako 212
 na 195
-ka 183
+ka 185
 han 155
 hiya 137
 mga 134
@@ -30,7 +30,7 @@ akon 73
 diri 70
 Dírì 70
 gud 69
-pa 65
+pa 66
 ak 62
 hit 61
 ngan 59
@@ -113,13 +113,13 @@ akun 14
 may-ada 14
 Kinahánglan 13
 usá 13
+Boston 13
 Hain 13
 unta 13
 Amo 13
 Áno 13
 buwas 12
 kalugaringon 12
-Boston 12
 bag-o 12
 Puydi 12
 kinabuhi 12
@@ -145,6 +145,7 @@ hin-o 10
 inin 10
 problema 10
 ayam 10
+ádlaw 9
 itón 9
 Kay-anó 9
 hiní 9
@@ -167,7 +168,6 @@ pára 9
 damo 9
 Baga'n 9
 misay 8
-ádlaw 8
 Kakan-o 8
 syudad 8
 kamí 8
@@ -221,6 +221,7 @@ puyde 6
 hadto 6
 kwarta 6
 surat 6
+Pirá 6
 anó 6
 lalaki 6
 nagsurat 6
@@ -261,7 +262,6 @@ semana 5
 Bagá 5
 Usá 5
 iyo 5
-Pirá 5
 taxi 5
 gihap 5
 nárúyag 5
@@ -317,6 +317,7 @@ Dako 4
 mayda 4
 Oo 4
 kagab-i 4
+bisikleta 4
 Japan 4
 Hapón 4
 kundi 4
@@ -412,6 +413,7 @@ Máydà 3
 idô 3
 himoa 3
 tuló 3
+pitó 3
 Alas 3
 Adto 3
 didâ 3
@@ -430,6 +432,7 @@ diksyunaryo 3
 im 3
 masabtan 3
 higdaan 3
+Iní 3
 angay 3
 malakat 3
 didto 3
@@ -595,7 +598,6 @@ Mahúsay 2
 Mostar 2
 mahúsay 2
 túig 2
-bisikleta 2
 Ginhímò 2
 awto 2
 Kanugon 2
@@ -613,7 +615,6 @@ Kalayo 2
 ádà 2
 limonada 2
 limá 2
-pitó 2
 waló 2
 napúlò 2
 tinmáwag 2
@@ -1111,6 +1112,7 @@ lengwahe 2
 mag-Tagalog 2
 Tagalog 2
 kinakaon 2
+ákon 2
 kasilyas 1
 Nakabasa 1
 Gutom 1
@@ -1169,7 +1171,7 @@ Nagkítà 1
 matámbok 1
 Laurie 1
 Mahínay 1
-Mahulos 1
+Mahulós 1
 táklap 1
 mahihímo 1
 paghúpoy 1
@@ -1332,7 +1334,6 @@ Pamatì 1
 pagtápod 1
 naruruyagan 1
 Igpapakítà 1
-Iní 1
 inmúlpot 1
 ginkakadtoan 1
 Loróng 1
@@ -3532,3 +3533,8 @@ Talagsa 1
 Magmamakuri 1
 ginlalamba 1
 Naiimuran 1
+Napúlò 1
+kag 1
+Dyesisyete 1
+Káwat 1
+Padayon 1

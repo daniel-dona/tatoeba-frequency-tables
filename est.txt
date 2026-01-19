@@ -1,6 +1,6 @@
 on 1563
-Ma 936
-ei 746
+Ma 937
+ei 747
 Tom 623
 Kas 449
 sa 438
@@ -68,7 +68,7 @@ Mulle 49
 minna 48
 me 48
 ütles 48
-tea 46
+tea 47
 Kuidas 45
 olnud 44
 isa 43
@@ -370,6 +370,7 @@ halb 10
 läksin 10
 jäi 10
 kuus 10
+uut 10
 juurde 10
 varem 10
 pikk 10
@@ -410,9 +411,9 @@ hispaania 10
 Ziri 10
 poolt 9
 noor 9
+Sina 9
 olevat 9
 meeldis 9
-uut 9
 Jah 9
 raamatuid 9
 silmad 9
@@ -447,7 +448,6 @@ nime 9
 rääkima 9
 elavad 9
 täiesti 8
-Sina 8
 armas 8
 tunnen 8
 kuulnud 8
@@ -578,6 +578,7 @@ arvab 7
 jään 7
 käinud 7
 nädalas 7
+laulu 7
 näeb 7
 leiba 7
 kuhu 7
@@ -661,7 +662,6 @@ last 6
 peavad 6
 saabus 6
 võime 6
-laulu 6
 väljas 6
 annan 6
 Suur 6
@@ -2363,6 +2363,7 @@ kõigi 2
 teiega 2
 Ateenas 2
 kauaks 2
+kuulan 2
 oktoober 2
 noorelt 2
 saite 2
@@ -5453,7 +5454,6 @@ jääte" 1
 "Kuni 1
 pühapäevani" 1
 varemeid 1
-kuulan 1
 Sügis 1
 oktoobris 1
 novembris 1
@@ -6803,3 +6803,4 @@ kümnes 1
 november 1
 kaheteistkümnes 1
 detsember 1
+Björk’i 1
