@@ -1,6 +1,6 @@
 Tom 1013
 Mən 894
-O 733
+O 734
 Bu 682
 bir 442
 var 440
@@ -25,7 +25,7 @@ bunu 146
 mənim 144
 yaxşı 143
 edirəm 141
-mənə 140
+mənə 141
 Mənim 136
 vaxt 132
 Onun 129
@@ -53,9 +53,9 @@ Meri 89
 Nə 86
 edir 86
 danışmaq 83
+gəlir 83
 dəfə 83
 bilirəm 83
-gəlir 82
 böyük 82
 deyiləm 82
 bilmirəm 79
@@ -553,6 +553,7 @@ etmir 12
 Qız 12
 kiçik 12
 necədir 12
+məktub 12
 görmək 12
 etməyi 12
 kifayət 12
@@ -599,6 +600,7 @@ Saat 11
 gəlmişsiniz 11
 danışırsan 11
 ingiliscə 11
+işə 11
 it 11
 öyrənmək 11
 getdik 11
@@ -663,7 +665,6 @@ Hə 10
 Amerika 10
 içində 10
 ehtiyac 10
-işə 10
 tennis 10
 Ev 10
 idarə 10
@@ -672,7 +673,6 @@ oxuyur 10
 olacam 10
 dildir 10
 dilidir 10
-məktub 10
 ağ 10
 Uşaqlar 10
 vermək 10
@@ -853,6 +853,7 @@ Siqaret 8
 Qəhvə 8
 gedirdim 8
 yazdı 8
+sarı 8
 süd 8
 İspaniyada 8
 ağıllı 8
@@ -997,7 +998,6 @@ qorxuram 7
 Azərbaycanda 7
 Bakıda 7
 bilmədi 7
-sarı 7
 qəhvə 7
 danışacam 7
 Bəzən 7
@@ -1610,6 +1610,7 @@ nəzərdə 5
 nadir 5
 hallarda 5
 gözləyəcək 5
+yazıram 5
 edim 5
 3 5
 anası 5
@@ -1646,6 +1647,7 @@ Kimin 5
 dini 5
 vecimə 5
 yadda 5
+insanları 5
 Yuxarı 5
 Təbriklər 5
 anlaya 5
@@ -1734,6 +1736,7 @@ kompüterim 5
 əsaslı 5
 çək 5
 Təxmin 5
+Müqavimət 5
 Yadda 5
 olduğunuz 5
 cəsarət 5
@@ -2048,7 +2051,6 @@ Deyəsən 4
 dilim 4
 Tamamilə 4
 hə 4
-yazıram 4
 Hamının 4
 vaxtdır 4
 şərab 4
@@ -2126,7 +2128,6 @@ cür 4
 gələcəyini 4
 tezdən 4
 dərs 4
-insanları 4
 olmazsa 4
 ildir 4
 Demək 4
@@ -2278,7 +2279,6 @@ bilmərsən 4
 şəxsiyyətini 4
 iqtisadi 4
 çəkin 4
-Müqavimət 4
 Təzədən 4
 Gözəl 4
 çıxart 4
@@ -3815,6 +3815,7 @@ qoşul 2
 indiyə 2
 tanıdığım 2
 öskürdü 2
+yazdın 2
 unutmusunuz 2
 mənimçün 2
 bahalı 2
@@ -4325,6 +4326,7 @@ tələbələri 2
 İti 2
 Saqqız 2
 saqqızını 2
+Anana 2
 pulumu 2
 bədbəxtlik 2
 regionunda 2
@@ -5166,6 +5168,7 @@ hakimiyyət 2
 ruhu 2
 istiqamətləndirir 2
 Hamımız 2
+böhran 2
 bədbəxt 2
 Həyatı 2
 olmasın 2
@@ -7181,7 +7184,6 @@ səhvlərindən 1
 agahdır 1
 etməzdim 1
 gündəliyinə 1
-yazdın 1
 mahnın 1
 çemodanın 1
 yorulmuşdum 1
@@ -8782,7 +8784,6 @@ Saqqızı 1
 saqqız 1
 çeynəyir 1
 öpdüm 1
-Anana 1
 anasan 1
 uduzdu 1
 dərsinə 1
@@ -9997,4 +9998,3 @@ desert 1
 Kelt 1
 musiqisinə 1
 vurmayıb 1
-dənizin 1

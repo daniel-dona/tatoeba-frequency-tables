@@ -1,7 +1,7 @@
-ir 83
-Es 41
+ir 84
+Es 42
+Maņ 25
 ka 25
-Maņ 24
 Tys 22
 i 20
 nav 20
@@ -26,6 +26,7 @@ iz 8
 Kai 7
 byut 7
 itū 6
+dīna 6
 sevi 6
 kas 6
 dareit 6
@@ -34,15 +35,15 @@ Jei 6
 tikai 6
 tuo 5
 asu 5
+napateik 5
 pats 5
-dīna 5
 tev 5
 koč 5
 Mes 5
 jūs 5
 vaira 5
+kod 5
 vēļ 4
-napateik 4
 dzeivuot 4
 irā 4
 Jam 4
@@ -55,7 +56,6 @@ dūmoju 4
 īt 4
 jū 4
 tik 4
-kod 4
 jam 4
 navar 4
 cukra 4
@@ -108,6 +108,7 @@ nakai 3
 vajadzātu 3
 vīnkuorši 3
 ruodejuos 3
+dzimšonys 3
 tīši 2
 saļdiejums 2
 Tovs 2
@@ -126,6 +127,7 @@ gauži 2
 tautu 2
 nalaimi 2
 tī 2
+Muna 2
 na 2
 asam 2
 čai 2
@@ -202,6 +204,7 @@ tai 2
 Tī 2
 kab 2
 volūdys 2
+redzēt 2
 sovom 2
 Šudiņ 2
 vaļsts 2
@@ -224,7 +227,6 @@ Nā 2
 Obejom 2
 pusem 2
 gaideju 2
-dzimšonys 2
 mēreibai 2
 reits 2
 Reigā 2
@@ -352,7 +354,6 @@ pīzoguse 1
 nasagiva 1
 ībāgu 1
 aleņā 1
-Muna 1
 mīļuokuo 1
 dzeršona 1
 zaļa 1
@@ -750,7 +751,6 @@ frazis 1
 jo 1
 gaida 1
 uzmaneigi 1
-redzēt 1
 ticeibom 1
 nyknys 1
 pamete 1
@@ -1023,3 +1023,14 @@ Agruok 1
 vieļuok 1
 Vakar 1
 naktī 1
+divdesmit 1
+ūtrajā 1
+janvarī 1
+nikaidā 1
+veidā 1
+nūkaut 1
+nivīnu 1
+dzeivinīku 1
+nacīšu 1
+dzeivinīki 1
+cīš 1

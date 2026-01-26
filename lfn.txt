@@ -1,11 +1,11 @@
-es 11470
+es 11476
 ia 8896
 la 8099
-un 5822
+un 5824
 de 5491
-Me 4888
-Tom 3720
-no 3709
+Me 4889
+Tom 3721
+no 3710
 a 3116
 ла 2963
 ес 2882
@@ -16,7 +16,7 @@ me 2303
 иа 2266
 ave 2017
 де 1970
-ce 1839
+ce 1840
 El 1791
 e 1719
 Esce 1652
@@ -27,7 +27,7 @@ el 1259
 lo 1130
 pote 1110
 per 1107
-sua 1100
+sua 1101
 plu 1093
 multe 1068
 Nos 1022
@@ -38,13 +38,13 @@ esta 961
 но 952
 ен 934
 cual 930
-Tu 917
+Tu 918
 Esta 881
 vole 866
 con 814
 Lo 782
 fa 773
-nos 718
+nos 719
 tua 713
 ме 709
 ту 674
@@ -57,8 +57,8 @@ Mea 590
 аве 583
 On 581
 casa 562
-bon 553
-come 552
+bon 554
+come 553
 sur 551
 par 542
 acel 540
@@ -109,8 +109,8 @@ sola 305
 asi 300
 ma 292
 bela 288
-persones 283
-person 281
+persones 284
+person 282
 vera 278
 tan 277
 Нос 276
@@ -171,7 +171,7 @@ scrive 180
 pos 179
 Sua 178
 demanda 177
-Ta 174
+Ta 175
 mesma 174
 он 173
 виве 173
@@ -247,8 +247,8 @@ Cuanto 122
 Куал 122
 cade 121
 odia 120
+nom 119
 vea 119
-nom 118
 matina 118
 poma 118
 Mary 118
@@ -328,10 +328,10 @@ blanca 88
 ariva 87
 forte 87
 car 86
+alta 86
 ora 86
 – 86
 difisil 86
-alta 85
 esce 85
 su 85
 via 84
@@ -532,6 +532,7 @@ velia 52
 susede 52
 tera 52
 plora 52
+spesial 52
 carne 52
 merita 52
 gida 52
@@ -540,7 +541,6 @@ pico 52
 косас 52
 тенис 52
 usada 51
-spesial 51
 Ance 51
 crese 51
 сите 51
@@ -705,6 +705,7 @@ espaniol 38
 distante 38
 letera 38
 intelijentia 38
+Persones 38
 лонга 38
 туa 38
 рапида 38
@@ -715,6 +716,7 @@ Regarda 38
 omes 37
 envia 37
 direto 37
+Dise 37
 preparada 37
 dansa 37
 eleje 37
@@ -728,7 +730,6 @@ fema 37
 falsa 37
 oposor 37
 estrema 37
-Persones 37
 просима 37
 Комо 37
 паис 37
@@ -736,7 +737,6 @@ Persones 37
 сол 37
 Пона 37
 longo 36
-Dise 36
 senta 36
 reposa 36
 simil 36
@@ -1024,6 +1024,7 @@ studiantes 25
 ponte 25
 bal 25
 surie 25
+furor 25
 stato 25
 spasio 25
 selebra 25
@@ -1061,7 +1062,6 @@ oro 24
 nas 24
 dudes 24
 boca 24
-furor 24
 nara 24
 usual 24
 eglesa 24
@@ -3819,6 +3819,7 @@ estendeda 5
 vesti 5
 altas 5
 basas 5
+biolojial 5
 sentimetres 5
 statos 5
 comparada 5
@@ -4155,6 +4156,7 @@ romanian 5
 berber 5
 arami 5
 diferes 5
+nonmortal 5
 sesosa 5
 motif 5
 Lubnan 5
@@ -4452,7 +4454,6 @@ joiosa 4
 simboles 4
 anial 4
 Senta 4
-biolojial 4
 interatante 4
 perfora 4
 Nasional 4
@@ -4925,7 +4926,6 @@ imperaliste 4
 vespas 4
 nurida 4
 Atina 4
-nonmortal 4
 converti 4
 Epstein 4
 аутос 4
@@ -5034,6 +5034,7 @@ soma 4
 Xico 4
 jacon 4
 nonagu 4
+Cristianisme 4
 Capitalisme 4
 Gales 4
 recambiable 4
@@ -6274,7 +6275,6 @@ sabe" 3
 Aborta 3
 Aranias 3
 basto 3
-Cristianisme 3
 Versa 3
 Trauma 3
 Continua 3
@@ -8534,6 +8534,7 @@ Amazona 2
 muco 2
 estragrande 2
 mendicor 2
+Omaros 2
 gravita 2
 disipa 2
 cometas 2
@@ -9997,4 +9998,3 @@ Anjina 1
 nonsufisinte 1
 Zolojia 1
 Antilope 1
-remasticante 1

@@ -1,4 +1,4 @@
-on 29417
+on 29418
 ei 10771
 Tom 9905
 Hän 8447
@@ -6,12 +6,12 @@ ja 6899
 että 6892
 Tomi 6384
 ole 6349
-oli 5751
-En 4970
+oli 5752
+En 4971
 Minä 4481
 Se 3807
 hän 3602
-se 3429
+se 3430
 kuin 3377
 Olen 3017
 ovat 2948
@@ -34,7 +34,7 @@ paljon 1848
 Mitä 1828
 ollut 1825
 vain 1793
-minua 1744
+minua 1745
 He 1693
 minä 1686
 olla 1685
@@ -47,7 +47,7 @@ hyvin 1533
 Minun 1532
 todella 1473
 tehdä 1468
-kanssa 1400
+kanssa 1401
 joka 1394
 nyt 1393
 mitään 1385
@@ -65,7 +65,7 @@ ranskaa 1167
 pitää 1152
 täällä 1147
 kaikki 1143
-vielä 1122
+vielä 1123
 Oletko 1116
 Miksi 1096
 tämän 1092
@@ -118,7 +118,7 @@ aikaa 678
 koko 677
 sitten 673
 hänet 661
-hänelle 653
+hänelle 654
 meni 642
 tuli 618
 tai 617
@@ -138,7 +138,7 @@ enemmän 563
 Kuka 561
 tulla 561
 rahaa 558
-usein 543
+usein 544
 Tommi 541
 olevan 540
 minut 540
@@ -284,8 +284,8 @@ ihmiset 311
 takia 310
 nähdä 310
 kyllä 310
+kotona 309
 ymmärrä 308
-kotona 308
 naimisiin 304
 miksi 302
 kauan 302
@@ -312,8 +312,8 @@ emme 285
 aikaan 283
 menee 283
 tarpeeksi 282
+Etkö 281
 ongelma 281
-Etkö 280
 haluan 280
 edes 280
 kirja 278
@@ -388,7 +388,7 @@ iltana 229
 voisi 229
 vastaan 229
 Eikö 228
-teitä 225
+teitä 226
 lähti 224
 otti 224
 tekemään 224
@@ -472,10 +472,10 @@ käydä 185
 Sen 185
 Tulen 185
 sanonut 185
+Isäni 184
 Sain 184
 lähellä 184
 kanssaan 184
-Isäni 183
 lukenut 183
 lainata 183
 Onpa 183
@@ -633,10 +633,10 @@ mihin 138
 häneltä 137
 pelkää 137
 tärkeää 137
+Mutta 137
 vieläkin 137
 aikana 137
 mikään 137
-Mutta 136
 teille 136
 osa 136
 vastata 136
@@ -1083,6 +1083,7 @@ lounasta 80
 olimme 80
 aiot 80
 huoneeseen 80
+odottanut 80
 tuntenut 80
 seitsemältä 80
 loppui 80
@@ -1099,7 +1100,6 @@ naisen 79
 virheitä 79
 haluaisin 79
 Huomenna 79
-odottanut 79
 hullu 79
 kuitenkin 79
 kesken 79
@@ -1716,6 +1716,7 @@ lumen 50
 paikassa 50
 uskoo 50
 fiksu 50
+onkin 50
 levätä 50
 tekevän 50
 missään 50
@@ -1754,7 +1755,6 @@ kadulla 49
 oletko 49
 tunnettu 49
 1 49
-onkin 49
 pienen 49
 nukkumassa 49
 kanadalainen 49
@@ -1850,6 +1850,7 @@ syömässä 46
 käyttävät 46
 tarvinnut 46
 tilaa 46
+ravintolassa 46
 kuningas 46
 osaan 46
 pystyt 46
@@ -1894,7 +1895,6 @@ kuuntele 45
 elämän 45
 itsesi 45
 Kirjoita 45
-ravintolassa 45
 japanilainen 45
 kasvanut 45
 ajat 45
@@ -3605,6 +3605,7 @@ kylvyssä 23
 kävit 23
 Kissani 23
 ankara 23
+riittävän 23
 kaikkiin 23
 yöksi 23
 ajattelet 23
@@ -3763,7 +3764,6 @@ Tokio 22
 tutulta 22
 rahoja 22
 500 22
-riittävän 22
 väittää 22
 ajatuksen 22
 käyneet 22
@@ -3877,6 +3877,7 @@ paistaa 21
 varmaa 21
 Taloni 21
 junan 21
+töiden 21
 3 21
 perustuu 21
 Pesen 21
@@ -4045,7 +4046,6 @@ jätin 20
 kokous 20
 opiskele 20
 Alan 20
-töiden 20
 mahtavaa 20
 Luulenpa 20
 Vedä 20
@@ -4189,6 +4189,7 @@ autoani 20
 yrität 20
 oliko 20
 naapureita 20
+matala 20
 Juo 20
 päähänsä 20
 kelloa 20
@@ -4206,6 +4207,7 @@ linnassa 20
 vesimelonia 20
 tytöistä 20
 syvään 20
+auttaisi 20
 synnyin 20
 dollarin 20
 maksavat 20
@@ -4390,7 +4392,6 @@ Käytä 19
 elokuvia 19
 Tietokoneeni 19
 puhumassa 19
-matala 19
 juhlia 19
 huoneeseeni 19
 Yleisö 19
@@ -4405,7 +4406,6 @@ kysyn 19
 ärsyttävää 19
 nimessä 19
 maha 19
-auttaisi 19
 peruttiin 19
 jotkut 19
 sumun 19
@@ -5690,6 +5690,7 @@ voileipää 14
 kielillä 14
 puhumasta 14
 avustasi 14
+näkeväni 14
 avaimensa 14
 Nukun 14
 luokallaan 14
@@ -6059,7 +6060,6 @@ kukassa 13
 hallitus 13
 käyt 13
 Tarina 13
-näkeväni 13
 siivoamaan 13
 monien 13
 palkinnon 13
@@ -8915,6 +8915,7 @@ työntekijät 8
 vahvaa 8
 väsytä 8
 kotitehtävät 8
+järjetöntä 8
 tuhosivat 8
 kärsivällisyys 8
 auringonlasku 8
@@ -9997,4 +9998,3 @@ Mayuko 7
 unelmansa 7
 tunnilta 7
 Katsotaan 7
-takkia 7

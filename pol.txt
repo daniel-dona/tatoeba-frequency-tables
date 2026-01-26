@@ -1,12 +1,12 @@
-się 17314
+się 17316
 nie 14715
-jest 14447
+jest 14449
 w 12993
 Tom 11440
 na 10886
-Nie 9556
-to 8836
-że 8245
+Nie 9558
+to 8838
+że 8247
 do 7865
 z 7567
 i 4724
@@ -17,13 +17,13 @@ o 3616
 mnie 3586
 ma 3183
 co 3111
-On 2982
+On 2983
 za 2920
 jak 2811
 tego 2619
-po 2558
+po 2559
 Mary 2455
-są 2342
+są 2344
 tym 2087
 W 2072
 bardzo 2051
@@ -56,7 +56,7 @@ będzie 1160
 Ten 1156
 sobie 1134
 czy 1129
-cię 1101
+cię 1103
 ze 1073
 może 1069
 przez 1064
@@ -219,7 +219,7 @@ zobaczyć 343
 mógł 339
 prostu 339
 stanie 337
-te 333
+te 335
 bo 333
 mną 333
 Już 332
@@ -271,10 +271,10 @@ właśnie 286
 angielsku 284
 nad 283
 Japonii 282
+ludzie 281
 niej 280
 razy 280
 taki 280
-ludzie 280
 jako 279
 wygląda 279
 O 278
@@ -330,10 +330,10 @@ zdanie 238
 Od 237
 końcu 236
 Przepraszam 235
+dziecko 235
 zajęty 235
 twoim 235
 pierwszy 234
-dziecko 234
 szkole 232
 tygodniu 231
 twoja 230
@@ -490,11 +490,11 @@ kawy 162
 niczego 162
 dokładnie 162
 którą 162
+Ludzie 162
 którym 162
 powinienem 162
 Kocham 161
 dość 161
-Ludzie 161
 kocha 160
 jechać 160
 John 160
@@ -1321,6 +1321,7 @@ Uczę 62
 Ostatnio 62
 palenie 62
 matematyki 62
+Mówię 62
 niczym 62
 cokolwiek 62
 córki 62
@@ -1345,7 +1346,6 @@ Sam 61
 nauki 61
 głośno 61
 Europie 61
-Mówię 61
 liście 61
 piwa 61
 następny 61
@@ -1521,6 +1521,7 @@ cenę 54
 plany 54
 Dlatego 54
 decyzję 54
+owoce 54
 pracował 54
 zmienia 54
 sport 54
@@ -1622,7 +1623,6 @@ kłamie 51
 samej 51
 ochoty 51
 piosenki 51
-owoce 51
 tys 51
 trudny 51
 niebezpieczne 51
@@ -1902,6 +1902,7 @@ piosenka 43
 względu 43
 miastem 43
 zwierzę 43
+spodziewałem 43
 ładnie 43
 głową 43
 Tamten 43
@@ -1934,7 +1935,6 @@ kazał 42
 Patrz 42
 uczę 42
 kobiet 42
-spodziewałem 42
 swojemu 42
 ulubione 42
 zamknąć 42
@@ -1981,6 +1981,7 @@ tymi 41
 trzymać 41
 winny 41
 miła 41
+Kobieta 41
 zapomnieć 41
 darmo 41
 Żałuję 41
@@ -2034,7 +2035,6 @@ filmy 40
 ptaki 40
 Język 40
 krzesło 40
-Kobieta 40
 pomiędzy 40
 Wojna 40
 Smith 40
@@ -2888,6 +2888,7 @@ ciekawe 27
 dentysty 27
 wyobrazić 27
 wiersz 27
+zdrowe 27
 torby 27
 Szukałem 27
 chorobę 27
@@ -2989,7 +2990,6 @@ duszy 26
 pił 26
 zacząłem 26
 Wielkiej 26
-zdrowe 26
 zupę 26
 zabawne 26
 Ptak 26
@@ -4224,6 +4224,7 @@ mówili 18
 Chcecie 18
 zauważyłem 18
 ekspertem 18
+zobaczę 18
 wieje 18
 prawej 18
 poprawnie 18
@@ -4451,6 +4452,7 @@ bogatym 17
 dają 17
 piechotę 17
 przepis 17
+polsku 17
 Ej 17
 nauczyłeś 17
 pokera 17
@@ -4705,7 +4707,6 @@ samochodowym 16
 krzyknął 16
 Najbardziej 16
 pozwala 16
-zobaczę 16
 pamiętał 16
 okres 16
 wydarzyć 16
@@ -4724,7 +4725,6 @@ ciężarówkę 16
 zaczynać 16
 opowiedzieć 16
 Opowiem 16
-polsku 16
 dowód 16
 wsparcie 16
 zadaniem 16
@@ -5789,6 +5789,7 @@ wpływem 12
 radzić 12
 odkrycie 12
 Rzym 12
+Anna 12
 popularne 12
 teorii 12
 piątą 12
@@ -6220,7 +6221,6 @@ Umieram 11
 słoneczne 11
 wstajesz 11
 żywią 11
-Anna 11
 Dostała 11
 przegrał 11
 Przyszło 11
@@ -6656,6 +6656,7 @@ Próbowałam 11
 równa 11
 słyszałam 11
 zapominam 11
+spodziewałam 11
 ludzka 11
 snem 11
 Biegnij 11
@@ -6733,6 +6734,7 @@ Odpowiedział 10
 blado 10
 twardo 10
 złodziej 10
+Jabłka 10
 podstaw 10
 kopie 10
 Bałem 10
@@ -7234,7 +7236,6 @@ zwrot 10
 Uczysz 10
 strój 10
 iż 10
-spodziewałam 10
 Ukrainy 10
 zapomniałam 10
 B 10
@@ -7290,6 +7291,7 @@ nieprzyjaciela 9
 przejazd 9
 zgodę 9
 łacinie 9
+owocami 9
 bieżąco 9
 wróg 9
 Hiszpania 9
@@ -8064,7 +8066,6 @@ skrzyżowaniu 8
 Pracowała 8
 wyjdę 8
 Anglia 8
-owocami 8
 dzielnicy 8
 planowi 8
 Gorąco 8
@@ -8119,7 +8120,6 @@ Najlepszym 8
 Fred 8
 Pracownicy 8
 pokażę 8
-Jabłka 8
 aniołem 8
 poznała 8
 chwilach 8
@@ -8671,6 +8671,7 @@ spowodować 8
 złożył 8
 społeczeństwie 8
 guzik 8
+Polką 8
 lepszej 8
 skrzynkę 8
 rachunki 8
@@ -9588,7 +9589,6 @@ spojrzeli 7
 świadoma 7
 Ukradł 7
 odkryłem 7
-Polką 7
 porady 7
 niesprawiedliwe 7
 krzywdę 7

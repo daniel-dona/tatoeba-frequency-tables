@@ -1,4 +1,4 @@
-on 1563
+on 1565
 Ma 937
 ei 747
 Tom 623
@@ -35,8 +35,8 @@ minu 85
 palju 81
 Kui 80
 Miks 78
+Minu 73
 sulle 72
-Minu 72
 tahan 72
 Tomi 71
 sind 70
@@ -1460,6 +1460,7 @@ hilja 3
 Maal 3
 ujub 3
 Jää 3
+sünnipäev 3
 osas 3
 Jaapanisse 3
 vaatab 3
@@ -1528,6 +1529,7 @@ romaani 3
 leidis 3
 Joškar-Olas 3
 Soome 3
+Gröönimaa 3
 Istanbuli 3
 silmast 3
 tarkvara 3
@@ -1810,6 +1812,7 @@ kõrgust 2
 iirlane 2
 Uus 2
 Liidu 2
+liige 2
 Linn 2
 Lehed 2
 langeb 2
@@ -2215,7 +2218,6 @@ kangelane 2
 voodi 2
 vihmavari 2
 alkoholi 2
-sünnipäev 2
 Ameerikas 2
 korterisse 2
 kirjutuslaua 2
@@ -2477,7 +2479,6 @@ Thbilisi 2
 Gruusia 2
 lemmikjook 2
 Madrid 2
-Gröönimaa 2
 Nuuk 2
 Ilm 2
 Jumal 2
@@ -3393,7 +3394,6 @@ hiinlane 1
 džungli 1
 hotell 1
 klassiruumis 1
-liige 1
 Venemaa 1
 blokeerisid 1
 sured 1
@@ -6804,3 +6804,6 @@ november 1
 kaheteistkümnes 1
 detsember 1
 Björk’i 1
+kahekümnendal 1
+oktoobril 1
+NATO 1

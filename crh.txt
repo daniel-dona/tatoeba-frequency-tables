@@ -58,6 +58,7 @@ ediler 5
 başladı 5
 kibi 5
 Gece 5
+onıñ 5
 vaqıt 5
 razı 5
 yerde 4
@@ -83,7 +84,6 @@ Camuslar 4
 meni 4
 da 4
 qaranlıqta 4
-onıñ 4
 o 4
 Lütfen 4
 ерлерде 3
@@ -270,8 +270,6 @@ Suv 2
 barmı 2
 Yanlarına 2
 degilim 2
-futbol 2
-oynadım 2
 söz 2
 yağmur 2
 Qızımnı 2
@@ -315,6 +313,7 @@ adamlar 2
 yoqtır 2
 yapıp 2
 yoqmı 2
+doğğan 2
 yaşındadır 2
 yaptım 2
 olarğa 2
@@ -331,7 +330,6 @@ namuslı 2
 berli 2
 körmey 2
 sizge 2
-Dün 2
 we 2
 padişanıñ 1
 oğlu 1
@@ -1009,6 +1007,8 @@ Ellerinde 1
 seslerini 1
 eşitip 1
 babamnen 1
+futbol 1
+oynadım 1
 resim 1
 çıza 1
 Uçucı 1
@@ -1337,7 +1337,6 @@ ikâyedir 1
 Qırım 1
 tarihını 1
 ögrenmek 1
-doğğan 1
 kup 1
 altın 1
 beririm 1
@@ -1525,6 +1524,7 @@ yürekke 1
 kirgen 1
 qaplan 1
 kire 1
+Dün 1
 aşağanıñıznı 1
 hatırlamağa 1
 tırışıñız 1
@@ -1589,3 +1589,11 @@ Panorama 1
 serbestligi 1
 örümçekten 1
 qorqa 1
+Anası 1
+kününde 1
+vefat 1
+etti 1
+Kredit 1
+kartasınen 1
+töley 1
+bilemmi 1

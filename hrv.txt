@@ -1,4 +1,4 @@
-je 1844
+je 1845
 se 683
 u 596
 sam 501
@@ -15,7 +15,7 @@ to 200
 nije 181
 za 177
 što 176
-si 172
+si 173
 od 165
 On 156
 ti 136
@@ -71,13 +71,13 @@ bila 47
 vrlo 47
 moj 46
 nešto 46
+bilo 45
 ljudi 45
 Koliko 45
+ovdje 45
 Nisam 44
-bilo 44
 koji 44
 samo 44
-ovdje 43
 a 42
 U 42
 do 42
@@ -115,8 +115,8 @@ mene 32
 godine 32
 nema 32
 Mislim 32
+Ti 32
 Nije 32
-Ti 31
 ćeš 31
 ništa 30
 radi 30
@@ -180,11 +180,12 @@ Bio 22
 tome 22
 vidio 22
 jednu 22
+Znam 22
 želi 22
 Ovaj 22
 Mi 21
 Uvijek 21
-Znam 21
+gdje 21
 ćemo 21
 Imaš 21
 zbog 21
@@ -194,7 +195,6 @@ novac 20
 svojim 20
 govori 20
 jezik 20
-gdje 20
 došao 20
 trebao 20
 problem 20
@@ -8737,3 +8737,4 @@ slomiti 1
 kuhao 1
 pizza 1
 sigurni 1
+Si 1

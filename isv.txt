@@ -1,6 +1,6 @@
-jest 244
+jest 245
 Ja 161
-ne 124
+ne 125
 Tom 80
 jesm 72
 Ty 71
@@ -8,7 +8,7 @@ v 61
 se 57
 On 52
 To 50
-sut 44
+sut 45
 Vy 41
 My 38
 jesi 36
@@ -173,6 +173,7 @@ jedl 3
 znajete 3
 dobry 3
 mrtvy 3
+Ljudi 3
 nenavidžu 3
 igrati 3
 ono 3
@@ -259,7 +260,6 @@ znaješ 2
 lže 2
 fašist 2
 pljunul 2
-Ljudi 2
 Kuki 2
 restorany 2
 esperanto 2
@@ -313,6 +313,7 @@ prodal 2
 piše 2
 ničego 2
 Budizm 2
+Hristijanstvo 2
 Izraelju 2
 shematične 2
 plany 2
@@ -351,6 +352,7 @@ mir 2
 skazal 2
 "magyar" 2
 jemo 2
+specialno 2
 vsekde 2
 Francija 2
 jabloko 2
@@ -457,6 +459,7 @@ russka 2
 russky 2
 pěnezy 2
 igraje 2
+ljudi 2
 okeana 2
 psu 2
 kost 2
@@ -714,7 +717,6 @@ judaizm 1
 Judaizm 1
 Islam 1
 Jezik 1
-Hristijanstvo 1
 krasivo 1
 nenadežny 1
 duže 1
@@ -886,7 +888,6 @@ jabloka 1
 obyčne 1
 Kitaju 1
 dobro 1
-specialno 1
 rědko 1
 težko 1
 muzika 1
@@ -1505,7 +1506,6 @@ věč 1
 poslědoval 1
 slědil 1
 Děti 1
-ljudi 1
 črveněl 1
 živete 1
 živeš 1

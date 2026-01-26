@@ -41,7 +41,7 @@ gerek 96
 Siz 94
 wagt 94
 barada 93
-köp 88
+köp 89
 gaty 88
 Mary 87
 örän 85
@@ -58,7 +58,7 @@ haçan 69
 şony 69
 Näme 68
 boldy 67
-onuň 64
+onuň 65
 etdi 61
 gyz 60
 meni 60
@@ -72,11 +72,11 @@ nirede 52
 kim 52
 satyn 52
 näçe 49
+adam 48
 Seniň 48
 isleýärin 48
 gezek 48
 seniñ 48
-adam 47
 üç 47
 geldi 47
 bilýärin 47
@@ -196,13 +196,13 @@ gidip 23
 bolan 23
 Fransuzça 23
 howa 23
+bardy 23
 täze 23
 däldir 23
 gije 23
 sagat 22
 çenli 22
 bolmak 22
-bardy 22
 däldigini 22
 etmegi 22
 Seniñ 22
@@ -313,6 +313,7 @@ bolandygyny 14
 Eger-de 14
 gelmeli 14
 mekdepde 14
+çykdy 14
 eder 14
 özleriniň 14
 gitmäge 14
@@ -330,7 +331,6 @@ gyzykly 13
 berýärin 13
 nahar 13
 Biziň 13
-çykdy 13
 adatça 13
 täzeden 13
 jaň 13
@@ -395,6 +395,7 @@ hökman 11
 ýene-de 11
 aýtmak 11
 Laýla 11
+doglan 11
 bolaryn 11
 Iň 11
 geçdi 11
@@ -422,6 +423,7 @@ kimi 11
 hatda 11
 minut 11
 Biziñ 11
+hat 11
 bilýäñmi 11
 etjekdigini 11
 görünýärdi 10
@@ -439,7 +441,6 @@ taýýar 10
 Howa 10
 wagtynda 10
 Olara 10
-doglan 10
 dilinde 10
 ýadaw 10
 bermeli 10
@@ -530,7 +531,6 @@ biziñ 9
 soraglary 9
 kofe 9
 doly 9
-hat 9
 diñe 9
 soñ 9
 howply 9
@@ -552,6 +552,7 @@ gelmek 8
 ýagyş 8
 ajaýyp 8
 ady 8
+aradan 8
 bilelikde 8
 bilerin 8
 etme 8
@@ -637,7 +638,6 @@ esasy 7
 ýokdy 7
 işiň 7
 yssy 7
-aradan 7
 ýazyp 7
 ýakyn 7
 Jona 7
@@ -3370,6 +3370,7 @@ tapmagyma 2
 kosmonawt 2
 Salat 2
 Angliýada 2
+Otagda 2
 ýazypdyr 2
 goýberdiň 2
 Garaýşym 2
@@ -9997,4 +9998,3 @@ döwletiniñ 1
 San 1
 Juan 1
 söýmeýän 1
-barmyka 1

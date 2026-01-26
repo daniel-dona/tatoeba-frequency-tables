@@ -2,7 +2,7 @@ je 455
 se 173
 sam 165
 u 161
-da 135
+da 137
 li 110
 na 105
 Tom 88
@@ -187,6 +187,7 @@ mene 6
 vidjeti 6
 Nikad 6
 Millie 6
+jede 6
 svoju 6
 Sutra 6
 mnom 6
@@ -224,7 +225,7 @@ psa 5
 Možemo 5
 Marija 5
 Ovaj 5
-jede 5
+Volim 5
 koji 5
 nam 5
 Nije 5
@@ -287,7 +288,6 @@ imam 4
 gradu 4
 čovjeka 4
 ćete 4
-Volim 4
 imaju 4
 Vas 4
 Znam 4
@@ -587,6 +587,7 @@ piti 2
 pošti 2
 zgrada 2
 Nikada 2
+Lav 2
 glavni 2
 Emily 2
 Engleskinja 2
@@ -918,10 +919,12 @@ jednu 2
 njegovoj 2
 pokazati 2
 Ali 2
+čitam 2
 onda 2
 tada 2
 Iz 2
 Drago 2
+Učim 2
 sigurna 2
 Naravno 2
 pola 2
@@ -1254,7 +1257,6 @@ izgrađena 1
 Mama 1
 Zvao 1
 spavam 1
-Lav 1
 kralj 1
 džungle 1
 Tirana 1
@@ -2821,7 +2823,6 @@ najbolji 1
 komplicirani 1
 organizmi 1
 poznato 1
-čitam 1
 neovisan 1
 Nebo 1
 vedro 1
@@ -2853,7 +2854,6 @@ Osjećam 1
 najjeftinija 1
 jeftinija 1
 Brkić 1
-Učim 1
 dosta 1
 slabo 1
 Doviđenja 1
@@ -3190,3 +3190,6 @@ Svijeća 1
 mog 1
 uskoro 1
 Smiješi 1
+meso 1
+pjevam 1
+pjesme 1
