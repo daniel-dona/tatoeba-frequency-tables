@@ -1,23 +1,23 @@
 jest 245
 Ja 161
 ne 125
-Tom 80
+Tom 81
+Ty 72
 jesm 72
-Ty 71
 v 61
 se 57
-On 52
+On 53
 To 50
 sut 45
 Vy 41
-My 38
-jesi 36
+My 39
+jesi 37
 Ona 36
 i 34
-je 33
+je 34
 s 26
 ty 26
-jesmo 24
+jesmo 25
 byl 23
 to 22
 li 22
@@ -112,6 +112,7 @@ Tome 5
 tobě 5
 јесм 5
 ničto 4
+ubil 4
 Sami 4
 žena 4
 mnoju 4
@@ -161,7 +162,6 @@ govori 3
 Pes 3
 tvoje 3
 naočila 3
-ubil 3
 hočemo 3
 silny 3
 hristijan 3
@@ -326,6 +326,7 @@ pročital 2
 ohranjaje 2
 ohranjajemo 2
 Němec 2
+Kralj 2
 znaje 2
 Zemja 2
 žirafy 2
@@ -368,6 +369,7 @@ spi 2
 živemo 2
 umrl 2
 Skaži 2
+jej 2
 jedut 2
 tvoja 2
 kniga 2
@@ -574,6 +576,7 @@ vojevnik 1
 ukrašali 1
 (prazdničnu) 1
 jelu 1
+lesbijka 1
 hot 1
 razuměješ 1
 čim 1
@@ -763,7 +766,6 @@ zabavny 1
 osobliva 1
 osoblivy 1
 osoblivi 1
-Kralj 1
 prihodi 1
 štučna 1
 rastut 1
@@ -959,7 +961,6 @@ zasmějal 1
 uměje 1
 hebrejsky 1
 Mudak 1
-jej 1
 Bud 1
 laskavy 1
 diskdžokejka 1
@@ -1695,3 +1696,9 @@ umorjeni 1
 Putin 1
 vojenny 1
 zločinec 1
+zvězdny 1
+prah 1
+psa 1
+glupec 1
+prěžil 1
+vojnu 1

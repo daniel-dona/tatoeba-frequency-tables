@@ -1,6 +1,6 @@
 isch 415
 I 295
-ned 216
+ned 215
 Tom 186
 i 185
 dr 157
@@ -193,7 +193,6 @@ Der 12
 drei 12
 erschd 12
 sähr 12
-Die 12
 saim 12
 niå 12
 mach 11
@@ -214,6 +213,7 @@ Zeit 11
 Moa 11
 Haus 11
 håd 11
+Die 11
 saine 11
 mô 11
 beschde 10
@@ -1082,7 +1082,6 @@ Aug 2
 „An 2
 Kaschda 2
 gugg 2
-ist 2
 Gedanka 2
 Kocha 2
 solla 2
@@ -2144,6 +2143,7 @@ nommoal 1
 gligg 1
 „Veronika 1
 Lenz 1
+ist 1
 da“ 1
 lesa“ 1
 „Glaub 1
@@ -5159,8 +5159,6 @@ Wescheglammrå 1
 wohnd 1
 vrschdåd 1
 d'Fisch 1
-Kieberi 1
-deppat 1
 Eggå 1
 abrondå 1
 hiåded 1

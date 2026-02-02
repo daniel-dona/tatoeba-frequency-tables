@@ -1,5 +1,5 @@
-är 11677
-Jag 11280
+är 11678
+Jag 11281
 att 7116
 Tom 7092
 inte 6933
@@ -11,17 +11,17 @@ i 4601
 har 4242
 Det 3893
 Han 3414
-jag 3156
+jag 3157
 mig 2722
 för 2702
 här 2664
 var 2610
-med 2458
-till 2376
+med 2459
+till 2377
 och 2337
 om 2258
 Hon 2082
-ett 1954
+ett 1955
 som 1903
 Vi 1895
 dig 1891
@@ -37,7 +37,7 @@ Vad 1160
 vill 1124
 De 1107
 ni 1101
-min 980
+min 981
 mycket 978
 skulle 976
 Hur 957
@@ -61,7 +61,7 @@ din 690
 de 688
 tycker 643
 vet 634
-Kan 624
+Kan 625
 oss 623
 än 619
 behöver 605
@@ -326,11 +326,11 @@ problem 108
 illa 107
 läsa 107
 föräldrar 107
+mamma 107
 gånger 107
 dricker 107
 snart 107
 Maria 107
-mamma 106
 emot 106
 jobbet 106
 nog 106
@@ -476,11 +476,11 @@ runt 73
 land 73
 Gillar 73
 gärna 72
+brev 72
 kort 72
 sex 72
 natten 72
 tro 71
-brev 71
 Vilket 71
 vecka 71
 saknar 71
@@ -538,13 +538,13 @@ dotter 63
 tvungen 63
 be 63
 stannade 62
+skriver 62
 sanningen 62
 mår 61
 Glöm 61
 enkelt 61
 djur 61
 bäst 61
-skriver 61
 dåligt 61
 kul 61
 jobbar 61
@@ -593,6 +593,7 @@ hungrig 57
 sluta 57
 grund 57
 mjölk 57
+betala 57
 sjunga 56
 lita 56
 fisk 56
@@ -602,7 +603,6 @@ köra 56
 Tror 56
 Se 56
 leva 56
-betala 56
 hundar 56
 Försök 56
 kör 56
@@ -1417,6 +1417,7 @@ unga 20
 känslor 20
 vaknade 20
 både 20
+Båda 20
 esperanto 20
 missade 20
 märkte 20
@@ -1488,7 +1489,6 @@ Eftersom 19
 Några 19
 öronen 19
 regler 19
-Båda 19
 per 19
 högre 19
 Tiden 19
@@ -2756,6 +2756,7 @@ gäster 9
 jackan 9
 frysa 9
 nöjda 9
+kreditkort 9
 behandlar 9
 våld 9
 nere 9
@@ -3043,7 +3044,6 @@ enbart 8
 utföra 8
 låste 8
 golv 8
-kreditkort 8
 vinet 8
 hyran 8
 ovanför 8
@@ -3389,6 +3389,7 @@ koreansk 7
 lurad 7
 blogg 7
 matte 7
+korrekta 7
 klä 7
 offer 7
 biter 7
@@ -3856,7 +3857,6 @@ födde 6
 augusti 6
 normal 6
 lånar 6
-korrekta 6
 julklappar 6
 hårdare 6
 Behåll 6

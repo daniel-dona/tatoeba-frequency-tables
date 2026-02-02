@@ -18,7 +18,7 @@ Mery 180
 Meri 177
 aýtdy 172
 öz 171
-bar 161
+bar 162
 Tomuň 157
 men 150
 Biz 141
@@ -26,7 +26,7 @@ diýip 136
 ýaly 133
 Olar 125
 zat 123
-Meniň 120
+Meniň 121
 muny 118
 Toma 113
 gün 109
@@ -80,11 +80,11 @@ seniñ 48
 üç 47
 geldi 47
 bilýärin 47
+bilemok 46
 aýtdylar 46
 hemme 46
 işi 46
 oňa 45
-bilemok 45
 maña 45
 saňa 44
 zady 44
@@ -130,10 +130,10 @@ Hemme 33
 biraz 33
 bize 33
 Sämi 33
+uly 33
 onuñ 33
 diňe 32
 gelýär 32
-uly 32
 hakykatdanam 32
 dilini 31
 jogap 31
@@ -332,6 +332,7 @@ berýärin 13
 nahar 13
 Biziň 13
 adatça 13
+Indi 13
 täzeden 13
 jaň 13
 almak 13
@@ -361,7 +362,6 @@ Mende 12
 Saňa 12
 üns 12
 olaryň 12
-Indi 12
 geler 12
 ondan 12
 hakda 12
@@ -413,6 +413,7 @@ mümkin 11
 dur 11
 etdiler 11
 wagty 11
+halamok 11
 borçly 11
 edenok 11
 zadym 11
@@ -425,6 +426,7 @@ minut 11
 Biziñ 11
 hat 11
 bilýäñmi 11
+kime 11
 etjekdigini 11
 görünýärdi 10
 gitjekmi 10
@@ -454,7 +456,6 @@ bilmeýär 10
 aýdyň 10
 görmedim 10
 getirip 10
-halamok 10
 Köp 10
 etmegini 10
 aýdan 10
@@ -476,7 +477,6 @@ sapar 10
 öýi 10
 Meriniñ 10
 ýalñyş 10
-kime 10
 däldi 10
 elmydama 10
 daşary 10
@@ -847,6 +847,7 @@ atasy 6
 bolsañ 6
 riskleri 6
 Dostum 6
+Kitap 5
 garry 5
 dil 5
 Hawa 5
@@ -1049,7 +1050,6 @@ Meň 5
 ýyldyzlar 4
 görýärsiňmi 4
 kitabym 4
-Kitap 4
 At 4
 meýletinçi 4
 düşünmedi 4
@@ -1806,6 +1806,7 @@ Nahili 3
 beriñ 3
 edýärdim 3
 Bugün 3
+okamagy 3
 Birnäçe 3
 wagtlarda 3
 gülüp 3
@@ -3004,7 +3005,6 @@ gyzyma 2
 azrak 2
 Maryýy 2
 özimi 2
-okamagy 2
 gowydygyny 2
 ýumuşak 2
 daşynda 2
@@ -3346,6 +3346,7 @@ möjek 2
 gap-gaçlary 2
 üçindir 2
 Germaniýa 2
+maşynym 2
 ulananok 2
 soragyňyza 2
 okapdym 2
@@ -9997,4 +9998,3 @@ Riko 1
 döwletiniñ 1
 San 1
 Juan 1
-söýmeýän 1

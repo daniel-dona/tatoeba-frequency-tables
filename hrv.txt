@@ -2,7 +2,7 @@ je 1845
 se 683
 u 596
 sam 501
-da 455
+da 458
 li 419
 na 356
 ne 310
@@ -17,7 +17,7 @@ za 177
 što 176
 si 173
 od 165
-On 156
+On 157
 ti 136
 To 133
 te 125
@@ -32,7 +32,7 @@ Ona 101
 ću 94
 bio 85
 o 79
-ga 77
+ga 78
 biti 74
 ima 69
 nego 66
@@ -45,12 +45,12 @@ Zašto 57
 još 56
 Je 55
 sve 54
+Želim 54
 bih 54
 Kako 53
 ali 53
 dobro 53
 Imam 53
-Želim 52
 Mary 52
 kako 51
 iz 51
@@ -126,12 +126,12 @@ Toma 30
 reći 29
 vrata 29
 engleski 29
+Svi 29
 Možeš 29
 posao 29
 učiniti 29
 auto 28
 mogao 28
-Svi 28
 ovaj 27
 Molim 27
 dvije 27
@@ -194,6 +194,7 @@ tri 20
 novac 20
 svojim 20
 govori 20
+zna 20
 jezik 20
 došao 20
 trebao 20
@@ -202,7 +203,6 @@ Ima 20
 zar 19
 žena 19
 Možete 19
-zna 19
 kupio 19
 Jučer 19
 Taj 19
@@ -316,6 +316,7 @@ Nikada 13
 dugo 13
 majka 13
 poslije 13
+jesti 13
 manje 13
 minuta 13
 pismo 13
@@ -345,7 +346,6 @@ misliš 12
 koju 12
 naučiti 12
 sobi 12
-jesti 12
 misli 12
 bolje 12
 učitelj 12
@@ -618,6 +618,7 @@ svjetlo 7
 Boston 7
 Zbog 7
 zemlje 7
+voliš 7
 Tvoj 7
 svijeta 7
 djeca 7
@@ -721,7 +722,6 @@ sir 6
 kći 6
 mnoge 6
 stolu 6
-voliš 6
 Tvoja 6
 Vam 6
 Trebaš 6
@@ -1258,6 +1258,7 @@ glup 4
 koristiti 4
 Pusti 4
 toalet 4
+žele 4
 šešir 4
 Itoh 4
 velikim 4
@@ -1761,7 +1762,6 @@ Nemoguće 3
 preporučiti 3
 pčele 3
 čeka 3
-žele 3
 iznad 3
 sviđam 3
 uspjeh 3
@@ -2624,6 +2624,7 @@ postaviti 2
 vlastitu 2
 šeta 2
 pjesme 2
+razumiješ 2
 Mala 2
 Katarina 2
 učiteljem 2
@@ -5916,7 +5917,6 @@ knjigama 1
 ošamućen 1
 Vrtilo 1
 privodi 1
-razumiješ 1
 širok 1
 spremno 1
 Amerikanci 1
@@ -8738,3 +8738,4 @@ kuhao 1
 pizza 1
 sigurni 1
 Si 1
+umreš 1

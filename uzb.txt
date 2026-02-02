@@ -1,12 +1,12 @@
 Men 79
 Bu 73
 U 69
-bor 36
+bor 37
 Tom 36
 bir 29
 edi 28
 bilan 27
-Mening 25
+Mening 26
 uchun 24
 nima 24
 emas 24
@@ -92,6 +92,7 @@ sening 5
 ko'p 5
 go'zal 5
 ustida 5
+katta 5
 kecha 5
 Har 5
 hamma 5
@@ -113,7 +114,6 @@ Hech 4
 билан 4
 haqida 4
 sovuq 4
-katta 4
 it 4
 Lori 4
 maktabga 4
@@ -400,6 +400,7 @@ Ashxobodga 2
 kelding 2
 kel 2
 Bahor 2
+mashinam 2
 borish 2
 yozmoqchiman 2
 bizning 2
@@ -411,6 +412,7 @@ yoqtirmaydi 2
 qiladi 2
 yuqori 2
 bo'lsa 2
+Kitob 2
 lekin 2
 kishi 2
 bo'lmaydi 2
@@ -433,6 +435,7 @@ aytaman 2
 ayta 2
 ko'proq 2
 Keyingi 2
+kimga 2
 ovozini 2
 aniq 2
 aql 2
@@ -490,6 +493,7 @@ xursand 2
 o'ylayman 2
 qila 2
 uxlasangchi 2
+Endi 2
 kimniki 2
 qilyapsan 2
 tilidan 2
@@ -525,6 +529,7 @@ o'ldirding 2
 hayvonlar 2
 Ijtimoiy 2
 Germaniyaga 2
+o‘qishni 2
 harakat 2
 savolingizga 2
 foydalanishni 2
@@ -538,6 +543,7 @@ yoshligida 2
 kosmonavt 2
 bo‘lishni 2
 qilishimiz 2
+yoqtirmayman 2
 Xonada 2
 Qaysi 2
 tillarda 2
@@ -1269,7 +1275,6 @@ Qayerdan 1
 Qish 1
 Buyerga 1
 mushugingiz 1
-mashinam 1
 pishloq 1
 Leannening 1
 ko'k 1
@@ -1340,7 +1345,6 @@ mutlaqo 1
 haqsiz 1
 Rahmatchoy 1
 demayman 1
-Kitob 1
 sovg'a 1
 bajardingiz 1
 oldimda 1
@@ -1486,7 +1490,6 @@ haeti 1
 ayniqsa 1
 Ra'noga 1
 aloqasidan 1
-kimga 1
 og'iz 1
 ochmas 1
 Kattalar 1
@@ -1890,7 +1893,6 @@ aslida 1
 otangku 1
 to'g'rimi 1
 turish 1
-Endi 1
 velosiped 1
 o'qiyapsan 1
 mehribonsan 1
@@ -2213,7 +2215,6 @@ borasiz 1
 ikkita 1
 banan 1
 yemaydilar 1
-o‘qishni 1
 o‘qituvchisi 1
 Televizorning 1
 pasaytira 1
@@ -2351,7 +2352,6 @@ Muammoni 1
 hal 1
 Do‘stlarimdan 1
 qarzdor 1
-yoqtirmayman 1
 kalitlarim 1
 Musiqa 1
 tinglashni 1
@@ -2538,3 +2538,5 @@ tug‘ilgan 1
 kunida 1
 vafot 1
 etdi 1
+ishonishni 1
+bilmayman 1

@@ -1,10 +1,10 @@
 lo 12943
 mi 6293
-cu 3568
+cu 3569
 do 3384
 la 3073
 pu 2338
-le 2324
+le 2325
 nu 2142
 se 1942
 i 1902
@@ -235,6 +235,7 @@ xo 70
 pensi 70
 va'o 70
 nenri 70
+bebna 70
 zoi 70
 gugdepuxe 70
 stali 69
@@ -244,7 +245,6 @@ fai 69
 bavlamdei 69
 za'o 69
 coi 69
-bebna 69
 glibau 68
 po 68
 ny 68
@@ -638,6 +638,7 @@ gi'i 22
 saske 22
 daspo 22
 tokios 22
+nolraitru 22
 cai 22
 gi'a 22
 pi 22
@@ -658,7 +659,6 @@ mintu 21
 cpana 21
 ba'a 21
 ganse 21
-nolraitru 21
 jdika 21
 jmina 21
 xusra 21

@@ -8,9 +8,9 @@ na 6
 Elen 5
 síla 5
 Mára 5
+I 5
 : 5
 Á 4
-I 4
 A 4
 ëa 4
 ámen 4
@@ -38,6 +38,7 @@ Nenwë 2
 taurë 2
 tulë 2
 Lassë 2
+aran 2
 tirë 2
 lúmenn' 2
 Alasse 2
@@ -150,7 +151,6 @@ sinomë 1
 lantëa 1
 Lassi 1
 lantear 1
-aran 1
 túla 1
 Neri 1
 lelyear 1
@@ -364,3 +364,4 @@ maita 1
 Rainë 1
 cárima 1
 amil 1
+aut 1

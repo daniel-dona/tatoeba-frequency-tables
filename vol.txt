@@ -2,7 +2,7 @@ Tomas 842
 No 615
 das 559
 no 503
-binom 497
+binom 498
 etosi 428
 in 331
 obik 294
@@ -887,6 +887,7 @@ Tikolöd 4
 Flol 4
 gema 4
 Daut 4
+Reg 4
 dunob 4
 menes 4
 Elemob 4
@@ -1133,7 +1134,6 @@ cila 3
 zian 3
 ziana 3
 zioma 3
-Reg 3
 delis 3
 älabob 3
 Sanel 3
@@ -5113,3 +5113,4 @@ peblütom 1
 nenyudan 1
 lalkiman 1
 Bumob 1
+fopan 1

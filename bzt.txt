@@ -1,13 +1,13 @@
-es 218
+es 219
 Eo 141
-yn 106
+yn 107
 rhen 99
 di 84
 Tomos 77
 Ys 60
 Sa 59
 ill 57
-Ill 51
+Ill 52
 llo 48
 lla 46
 su 41
@@ -167,6 +167,7 @@ pod 3
 ddef 3
 te 3
 ffreidd 3
+rhui 3
 No 3
 gwenin 3
 pharol 3
@@ -240,7 +241,6 @@ lle 2
 bod 2
 gwenir 2
 lladrun 2
-rhui 2
 wolent 2
 lassad 2
 Yamada 2
@@ -1020,3 +1020,4 @@ Gwener 1
 Sabad 1
 Uddig 1
 Uddigeth 1
+ffol 1
