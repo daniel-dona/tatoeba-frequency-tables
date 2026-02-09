@@ -1,4 +1,4 @@
-je 1845
+je 1846
 se 683
 u 596
 sam 501
@@ -93,6 +93,7 @@ tamo 38
 mu 38
 ja 38
 rekao 38
+Kada 36
 puno 36
 ju 36
 tvoj 35
@@ -100,7 +101,6 @@ Moja 35
 Volim 35
 Mogu 35
 znam 35
-Kada 35
 Danas 35
 živi 35
 mnogo 35
@@ -289,6 +289,7 @@ svijetu 14
 Hoćeš 14
 Zar 14
 neki 14
+učiti 14
 rano 14
 Bez 14
 vode 14
@@ -309,7 +310,6 @@ jednom 13
 imaju 13
 kod 13
 tvoju 13
-učiti 13
 čini 13
 sobu 13
 Nikada 13
@@ -1056,6 +1056,7 @@ Odlično 4
 olovku 4
 2 4
 vrijedi 4
+počeo 4
 Išli 4
 svake 4
 sva 4
@@ -1405,7 +1406,6 @@ Engleskoj 3
 mjeseci 3
 suncu 3
 Stari 3
-počeo 3
 Odbila 3
 Poljske 3
 trinaest 3
@@ -3053,6 +3053,7 @@ EU 2
 24 2
 službena 2
 danski 2
+grčki 2
 hrvatski 2
 fascinira 2
 „Tko 2
@@ -8338,7 +8339,6 @@ bugarski 1
 češki 1
 estonski 1
 finski 1
-grčki 1
 nizozemski 1
 litavski 1
 mađarski 1

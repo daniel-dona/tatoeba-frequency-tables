@@ -1,17 +1,17 @@
 ir 84
-Es 42
+Es 43
 Maņ 25
 ka 25
 Tys 22
+Voi 20
 i 20
 nav 20
 tū 19
-Voi 19
 Jis 16
 Toms 15
+par 15
 es 15
 beja 15
-par 14
 cīši 13
 tys 13
 tu 12
@@ -55,6 +55,7 @@ bez 4
 dūmoju 4
 īt 4
 jū 4
+jis 4
 tik 4
 jam 4
 navar 4
@@ -82,7 +83,6 @@ Tomam 3
 olu 3
 nūtyka 3
 cylvāki 3
-jis 3
 Cylvāki 3
 vysu 3
 vuordu 3
@@ -101,6 +101,7 @@ Dzeive 3
 jiutu 3
 lobuok 3
 byutu 3
+varātu 3
 cylvākim 3
 Tei 3
 Kū 3
@@ -199,7 +200,6 @@ naudu 2
 naudys 2
 eistyn 2
 Izavielej 2
-varātu 2
 tai 2
 Tī 2
 kab 2
@@ -223,6 +223,7 @@ Juos 2
 sirdsapziņa 2
 dūma 2
 vītni 2
+lai 2
 Nā 2
 Obejom 2
 pusem 2
@@ -231,6 +232,7 @@ mēreibai 2
 reits 2
 Reigā 2
 baltu 2
+politiku 2
 zīds 1
 skaists 1
 padareji 1
@@ -870,7 +872,6 @@ tod 1
 tryukums 1
 elektreibys 1
 nūmuokts 1
-lai 1
 dareitu 1
 Na 1
 vysys 1
@@ -1034,3 +1035,10 @@ dzeivinīku 1
 nacīšu 1
 dzeivinīki 1
 cīš 1
+kaids 1
+saceit 1
+itam 1
+lītuotuojam 1
+puorstuoj 1
+raksteit 1
+īneistu 1

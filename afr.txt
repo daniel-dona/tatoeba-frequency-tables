@@ -1,11 +1,11 @@
 nie 1394
 is 1161
 het 1110
-Ek 1032
+Ek 1033
 die 810
 'n 651
 Tom 496
-jy 466
+jy 467
 my 370
 te 355
 om 328
@@ -193,6 +193,7 @@ man 18
 lekker 18
 Laat 18
 lees 18
+saam 18
 lyk 18
 verstaan 18
 kos 18
@@ -206,7 +207,6 @@ wanneer 17
 tot 17
 gevra 17
 ontmoet 17
-saam 17
 oop 16
 hulp 16
 ou 16
@@ -380,7 +380,6 @@ hand 9
 sing 9
 eie 9
 wens 9
-oggend 9
 spel 9
 Mag 9
 reis 9
@@ -415,6 +414,7 @@ raak 8
 Ja 8
 uur 8
 watter 8
+oggend 8
 daaraan 8
 Maar 8
 Vir 8
@@ -604,6 +604,7 @@ stad 5
 oom 5
 omdat 5
 honde 5
+Parys 5
 Frankryk 5
 Ken 5
 broers 5
@@ -612,6 +613,7 @@ soveel 5
 gekyk 5
 meeste 5
 gereed 5
+hoop 5
 totdat 5
 Wag 5
 geskenke 5
@@ -707,7 +709,6 @@ Duitsland 4
 Glo 4
 bekend 4
 gedrag 4
-Parys 4
 perd 4
 So 4
 gesink 4
@@ -718,7 +719,6 @@ sleutel 4
 eindig 4
 China 4
 daarin 4
-hoop 4
 binnekort 4
 gebly 4
 hande 4
@@ -845,6 +845,7 @@ stout 4
 nader 4
 voortgaan 4
 Vind 4
+stem 4
 moeite 4
 Mans 4
 verras 4
@@ -917,7 +918,6 @@ tevrede 3
 Dink 3
 Engelse 3
 Amerika 3
-more 3
 gesing 3
 nie" 3
 verduidelik 3
@@ -1091,7 +1091,6 @@ geduldig 3
 makeer 3
 appels 3
 swyg 3
-stem 3
 Kies 3
 dus 3
 skoonma 3
@@ -1206,6 +1205,7 @@ skat 2
 Bill 2
 gery 2
 Italiaans 2
+more 2
 konsert 2
 aangebied 2
 Probeer 2
@@ -3382,7 +3382,6 @@ rebelle 1
 afgesny 1
 pakket 1
 ontslaan 1
-Parrys 1
 vloei 1
 Seine 1
 Boeke 1
@@ -3697,6 +3696,7 @@ leier 1
 speletjie 1
 interresant 1
 zone 1
+môre-oggend 1
 gesnap 1
 bêl 1
 ooreenkoms 1

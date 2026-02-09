@@ -1,9 +1,9 @@
-la 2053
+la 2055
 de 2011
-a 1780
+a 1781
 que 1751
 el 1561
-és 1423
+és 1424
 no 1067
 un 1024
 va 983
@@ -12,17 +12,17 @@ No 823
 en 810
 una 729
 per 696
-El 667
+El 668
 La 603
 les 534
 els 501
 Tom 492
 amb 484
 al 484
-més 454
+més 455
 ha 445
 es 396
-del 377
+del 378
 En 376
 molt 296
 vaig 282
@@ -55,8 +55,8 @@ A 152
 cap 144
 res 141
 aquest 139
+temps 139
 dels 138
-temps 138
 Per 137
 aquesta 134
 ell 134
@@ -95,8 +95,8 @@ mi 98
 sense 95
 Jo 95
 teva 95
+Estic 94
 gran 94
-Estic 93
 als 93
 Mary 92
 tu 92
@@ -117,10 +117,10 @@ sempre 83
 tinc 83
 món 83
 jo 83
+Un 82
 sobre 82
 Qui 82
 ens 81
-Un 81
 seus 80
 mare 79
 Aquesta 79
@@ -170,9 +170,9 @@ llibres 55
 diners 55
 bon 55
 sóc 55
+racisme 55
 tots 54
 d'un 54
-racisme 54
 mal 53
 s'ha 53
 porta 52
@@ -318,6 +318,7 @@ gat 33
 Tatoeba 33
 Ha 32
 tenim 32
+ciutat 32
 nostres 32
 Ningú 32
 Hem 32
@@ -335,12 +336,12 @@ bo 32
 mentre 32
 Fins 31
 important 31
-ciutat 31
 nosaltres 31
 hauria 31
 vam 31
 manera 31
 home 31
+nostre 31
 favor 31
 anat 31
 carta 31
@@ -352,7 +353,6 @@ pares 30
 jove 30
 l'home 30
 ulls 30
-nostre 30
 molta 30
 aviat 30
 Soc 30
@@ -495,6 +495,7 @@ Aquell 20
 situació 20
 pau 20
 set 20
+fort 20
 cansat 20
 malalt 20
 negre 20
@@ -520,7 +521,6 @@ aquests 19
 saben 19
 quarts 19
 flors 19
-fort 19
 Saps 19
 heu 19
 rei 19
@@ -529,7 +529,6 @@ Us 19
 mar 19
 cos 19
 entendre 18
-te 18
 agafar 18
 fos 18
 Tenim 18
@@ -577,6 +576,7 @@ policia 17
 gràcies 16
 cert 16
 noves 16
+te 16
 taula 16
 cas 16
 França 16
@@ -1579,6 +1579,7 @@ Smith 5
 Na 5
 cartera 5
 marca 5
+malaltia 5
 necessitem 5
 bolígraf 5
 compres 5
@@ -1897,7 +1898,6 @@ fe 4
 parlis 4
 barri 4
 luxe 4
-malaltia 4
 discussió 4
 corda 4
 senyal 4
@@ -2725,6 +2725,7 @@ hauràs 3
 prohibida 3
 l'aula 3
 Porta'm 3
+l'església 3
 contrasenya 3
 homosexual 3
 passes 3
@@ -2926,7 +2927,6 @@ Fas 3
 l'horitzó 3
 l'ull 3
 producte 3
-is 3
 ull 3
 mitjans 3
 complicat 3
@@ -3829,7 +3829,6 @@ sidra 2
 gasolina 2
 guanyes 2
 farina 2
-l'església 2
 d'endevinar 2
 teniu 2
 vides 2
@@ -4255,6 +4254,7 @@ gel 2
 context 2
 Depèn 2
 Ricardo 2
+is 2
 l'ou 2
 Ull 2
 Volen 2
@@ -4765,6 +4765,7 @@ rares 2
 cares 2
 l'encisadora 2
 convertint 2
+perillosa 2
 trobadors 2
 Occitània 2
 concebre 2
@@ -8255,14 +8256,6 @@ estiguessis 1
 Mathias 1
 n'Helene 1
 passis 1
-Men 1
-nooit 1
-oud 1
-om 1
-slechte 1
-gewoonten 1
-af 1
-leren 1
 Training 1
 geen 1
 het 1
@@ -9998,3 +9991,10 @@ entrepans 1
 enamorada 1
 aquari 1
 Assistiràs 1
+sabré 1
+castanys 1
+l'alçada 1
+Prova-ho 1
+mascareta 1
+transport 1
+Avanceu 1

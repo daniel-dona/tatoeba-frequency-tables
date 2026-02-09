@@ -4,7 +4,7 @@ ei 747
 Tom 623
 Kas 454
 sa 438
-Ta 355
+Ta 356
 et 349
 See 282
 ma 225
@@ -266,6 +266,7 @@ vend 15
 teeb 15
 teinud 15
 elu 15
+töötab 15
 keele 15
 polnud 15
 lihtne 15
@@ -292,7 +293,6 @@ juhtus 14
 õigus 14
 keeles 14
 vett 14
-töötab 14
 ennast 14
 emakeel 14
 Mari 14
@@ -1437,6 +1437,7 @@ majja 3
 Mõnikord 3
 Jackson 3
 Häid 3
+lennujaamas 3
 tõsine 3
 mängime 3
 võimaluse 3
@@ -2160,7 +2161,6 @@ hoolikalt 2
 sügav 2
 kiirem 2
 nutta 2
-lennujaamas 2
 olukord 2
 pojaga 2
 Oma 2

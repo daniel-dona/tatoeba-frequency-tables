@@ -29,12 +29,12 @@ skani 19
 dǧas 19
 tom 18
 breli 18
+tina 18
 tis 17
 So 17
 rdu 17
 Tomik 17
 Mu 17
-tina 17
 ragadi 16
 vore 15
 mu 15
@@ -45,22 +45,22 @@ Ase 14
 mushi 14
 მა 13
 meri 13
+mutuni 13
 djgiri 13
 djoxo 13
 çkimi 13
 rdƨ 13
 iro 12
-mutuni 12
 toms 12
 xvale 12
 bordji 12
 arto 12
 tes 12
 rena 12
+tak 11
 ɣudes 11
 Tomk 11
 va 11
-tak 10
 michku 10
 Tiki 10
 tzaneri 10
@@ -105,6 +105,7 @@ Xolo 7
 ren 7
 dzalami 7
 reko 7
+Etina 7
 muç̌o 6
 borjis 6
 Kishilebeno 6
@@ -144,6 +145,7 @@ kianas 5
 ardzashe 5
 Tinepi 5
 reto 5
+bordjis 5
 mitin 5
 Taki 5
 antzi 5
@@ -165,13 +167,14 @@ mangaro 5
 goǩo 5
 Musheni 5
 ǩata 5
-Etina 5
 uɔors 5
 fara 4
 vareno 4
 noǧas 4
+Art 4
 tineps 4
 tashi 4
+mortu 4
 muç̌ot 4
 mashƨna 4
 oxori 4
@@ -190,7 +193,6 @@ Namu 4
 teki 4
 xuti 4
 Sami 4
-bordjis 4
 boshi 4
 xamu 4
 Mushi 4
@@ -233,7 +235,6 @@ chkim 3
 djima 3
 muzhamsƨt 3
 Tkvan 3
-Art 3
 sakvars 3
 ip̌it 3
 Yanni 3
@@ -242,8 +243,8 @@ Musho 3
 sum 3
 mut 3
 amarde 3
-mortu 3
 namƨda 3
+Muzhams 3
 ti 3
 Tineps 3
 sheulebƨ 3
@@ -335,6 +336,7 @@ lazi 3
 kobdziri 3
 maǩaturi 3
 Ǩaṫu 3
+ǩopes 3
 tudo 3
 ǩope 3
 goǩono 3
@@ -397,7 +399,6 @@ ginirtƨ 2
 doǧuru 2
 komuchi 2
 Tek 2
-Muzhams 2
 iç̌q'ans 2
 martalo 2
 osuro 2
@@ -522,6 +523,7 @@ Ziri 2
 meurko 2
 ip̌iku 2
 Tiku 2
+dirtu 2
 ortu 2
 Gvalo 2
 vauorsu 2
@@ -533,6 +535,7 @@ dghas 2
 gomordzgua 2
 çxoure 2
 vardƨ 2
+tek 2
 universiṫeṫish 2
 teşe 2
 moko 2
@@ -675,7 +678,6 @@ vaoope 2
 Geç̌opi 2
 tzanashi 2
 ǧuru 2
-ǩopes 2
 chxou 2
 Tishi 2
 Koutzi 2
@@ -746,6 +748,7 @@ Uliri 2
 Zirish 2
 ngarasƨn 2
 ptkue 2
+dǧasƨ 2
 ართი 1
 სუმი 1
 ოთხი 1
@@ -1547,7 +1550,6 @@ djimas 1
 vortzqeku 1
 Kimexvadu 1
 apudu 1
-dirtu 1
 ureǩunko 1
 P̌olitsiasha 1
 varduo 1
@@ -1693,7 +1695,6 @@ veguaxvile 1
 livers 1
 Chxomefi 1
 guasuftavy 1
-tek 1
 midgareni 1
 Tqva 1
 qesheilebunano 1
@@ -3506,7 +3507,6 @@ elachamak 1
 vammexvarƨ 1
 Irpels 1
 inaç̌arans 1
-dǧasƨ 1
 giç̌q'oliduasƨn 1
 xandens 1
 pkiminat 1
@@ -3519,3 +3519,8 @@ veshemilebu 1
 Shuro 1
 mis 1
 uragadukuni 1
+dirtuno 1
+iap̌oniasha 1
+iriato 1
+mangar 1
+shuns 1

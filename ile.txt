@@ -1,20 +1,20 @@
-es 3545
+es 3550
 Yo 2584
-un 2060
-li 1877
-Tom 1671
-ne 1534
-Li 897
+un 2063
+li 1878
+Tom 1672
+ne 1538
+Li 898
 in 857
-tu 809
-have 781
-Esque 780
-Il 726
+tu 811
+have 784
+Esque 782
+Il 730
 ha 696
-esset 650
+esset 652
 de 615
 que 600
-Ella 518
+Ella 520
 to 506
 quo 467
 va 465
@@ -24,16 +24,16 @@ it 442
 save 435
 vole 425
 mi 424
-e 421
+e 422
 yo 416
 Tu 392
 It 348
-To 345
+To 346
 a 316
 tre 314
-tui 297
-posse 296
-te 295
+tui 298
+posse 297
+te 296
 bon 291
 su 291
 ama 290
@@ -45,9 +45,9 @@ plu 239
 il 238
 deve 237
 quam 236
-Mi 228
+Mi 229
+del 223
 far 223
-del 222
 Ili 218
 vu 207
 ti 187
@@ -55,19 +55,19 @@ parla 187
 Quo 174
 ci 171
 mult 170
+besona 162
 Pro 162
-besona 161
 ella 159
+Ti 147
 videt 146
-Ti 146
 dit 146
 bell 134
 U 134
 pro 134
 esser 133
 fat 125
+le 124
 savet 124
-le 123
 pensa 120
 Vu 117
 noi 116
@@ -92,23 +92,23 @@ dom 100
 habita 98
 se 98
 fa 97
-Qui 94
+Qui 95
 vive 89
-lingue 88
+lingue 89
 parlat 88
 nov 86
 felici 85
 Ne 85
+du 84
 nequande 84
-du 83
 Qualmen 82
 qui 80
 annus 80
 manja 77
 sempre 76
 lude 75
+solmen 75
 Nequí 73
-solmen 73
 cat 72
 Un 72
 conosse 70
@@ -121,11 +121,11 @@ amico 66
 omnicos 65
 matre 65
 sur 65
+ma 65
 quel 65
 munde 64
 hem 64
 cane 64
-ma 64
 ear 64
 problema 63
 dormi 62
@@ -157,6 +157,7 @@ fémina 56
 football 56
 comprat 56
 nequó 56
+sestra 55
 témpor 55
 mann 55
 mem 55
@@ -165,11 +166,10 @@ In 55
 on 55
 havet 55
 yun 54
-sestra 53
+auxiliar 53
 nómine 53
 aqua 53
 francesi 53
-auxiliar 52
 ver 52
 crede 52
 anc 51
@@ -180,13 +180,13 @@ porta 50
 qualmen 49
 moné 49
 deman 48
+fratre 48
 Quande 48
 di 48
 trovat 48
 litt 47
 important 47
 tot 47
-fratre 47
 perdit 46
 veritá 46
 o 46
@@ -197,6 +197,7 @@ standa 43
 long 43
 filia 43
 per 43
+veni 43
 Quant 43
 venir 43
 ocules 43
@@ -204,7 +205,6 @@ On 43
 vider 43
 possibil 43
 land 42
-veni 42
 lettre 41
 manjat 41
 alquó 41
@@ -258,6 +258,7 @@ mortat 31
 chascun 31
 denov 31
 labor 31
+genitores 31
 devenit 31
 Germania 30
 púer 30
@@ -266,7 +267,6 @@ fort 30
 audit 30
 espera 30
 facil 30
-genitores 30
 Australia 30
 sercha 29
 frigid 29
@@ -275,6 +275,7 @@ amat 29
 lacte 29
 Chascun 29
 trovar 29
+Tui 29
 maritat 29
 comensat 29
 dat 29
@@ -283,7 +284,6 @@ cordie 28
 anglesi 28
 passat 28
 idé 28
-Tui 28
 aprender 28
 libres 28
 rich 28
@@ -309,6 +309,7 @@ tard 26
 sam 26
 telefonat 26
 sport 25
+furtet 25
 blanc 25
 trist 25
 eat 25
@@ -318,7 +319,6 @@ parol 25
 laborar 24
 ambi 24
 amore 24
-furtet 24
 devet 24
 til 24
 Manja 24
@@ -550,6 +550,7 @@ ride 12
 States 12
 nud 12
 manca 12
+sestras 12
 biblioteca 12
 soledí 12
 comensa 12
@@ -597,7 +598,6 @@ forest 12
 ape 12
 orange 12
 princessa 11
-sestras 11
 Interlingua 11
 chapel 11
 normal 11
@@ -629,6 +629,7 @@ finir 11
 Svissia 11
 Di 11
 cadet 11
+fratres 11
 voce 11
 somnie 11
 presc 11
@@ -683,7 +684,6 @@ revenit 10
 adresse 10
 matrin 10
 diarium 10
-fratres 10
 cultiva 10
 flor 10
 avan 10
@@ -708,6 +708,7 @@ Libano 10
 consiste 9
 perdi 9
 Deman 9
+custosi 9
 oncle 9
 escuta 9
 probabilmen 9
@@ -761,7 +762,6 @@ crescet 9
 passport 9
 Cessa 9
 provar 8
-custosi 8
 árbor 8
 memora 8
 honest 8
@@ -775,6 +775,7 @@ sedet 8
 decovrit 8
 heróe 8
 Finalmen 8
+anim 8
 Italia 8
 Emily 8
 amicas 8
@@ -853,7 +854,6 @@ unaltru 7
 Occidental 7
 vestit 7
 deliciosi 7
-anim 7
 rider 7
 obliviar 7
 apert 7
@@ -1269,6 +1269,7 @@ Forsan 4
 changea 4
 possibilitás 4
 sac 4
+Jean 4
 viagea 4
 Osaka 4
 nudmen 4
@@ -1511,7 +1512,6 @@ Estonia 3
 tenebre 3
 gente 3
 Avies 3
-Jean 3
 publicat 3
 villages 3
 Mario 3
@@ -1664,6 +1664,7 @@ scolero 3
 soldates 3
 soldate 3
 hiat 3
+insules 3
 deos 3
 irlandesi 3
 fluentmen 3
@@ -1837,6 +1838,7 @@ capter 3
 crímine 3
 valley 3
 pir 3
+respira 3
 nube 3
 monstru 3
 ínfelici 3
@@ -1916,6 +1918,7 @@ juntion 3
 sauna 3
 partú 3
 betul 3
+recitul 3
 Puelles 2
 pretti 2
 50 2
@@ -2205,7 +2208,6 @@ calendare 2
 pip 2
 direction 2
 Seque 2
-insules 2
  2
 Pua 2
 geografic 2
@@ -2527,6 +2529,7 @@ fertil 2
 currente 2
 masse 2
 armat 2
+litteratura 2
 traducte 2
 mago 2
 Surprisantmen 2
@@ -2580,6 +2583,7 @@ vade 2
 ne" 2
 caut 2
 festa 2
+Alqui 2
 pruva 2
 textu 2
 manjant 2
@@ -2816,6 +2820,7 @@ cerebre 2
 Glorie 2
 canicules 2
 Fungos 2
+salva 2
 tacet 2
 renes 2
 Island 2
@@ -4514,7 +4519,6 @@ veste 1
 verd 1
 amemora 1
 original 1
-litteratura 1
 apartamentes 1
 vestiment 1
 plena 1
@@ -4712,7 +4716,6 @@ termometre" 1
 "It 1
 sempre" 1
 "No 1
-Alqui 1
 sucia 1
 Lu 1
 mensualmen 1
@@ -4834,7 +4837,6 @@ tecnical 1
 ducha 1
 remplazza 1
 convenit 1
-respira 1
 gast 1
 sómmite 1
 Jackie 1
@@ -5801,7 +5803,6 @@ Roman 1
 imporant 1
 parent 1
 sete 1
-salva 1
 pensas 1
 pantalones 1
 putor 1
@@ -6138,3 +6139,6 @@ dorse-sac 1
 stulton 1
 folio 1
 sisme 1
+Cypria 1
+Malta 1
+recitules 1

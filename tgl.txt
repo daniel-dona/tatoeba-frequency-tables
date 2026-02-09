@@ -10,7 +10,7 @@ si 8859
 ako 8253
 ni 6245
 mo 6141
-Hindi 6017
+Hindi 6018
 at 5462
 ba 5218
 niya 4780
@@ -20,7 +20,7 @@ siya 4521
 May 3990
 nang 3716
 Ang 3644
-ka 3586
+ka 3588
 hindi 3022
 akong 2858
 isang 2841
@@ -36,7 +36,7 @@ pa 1959
 pong 1787
 lang 1767
 Gusto 1557
-kayo 1550
+kayo 1553
 Mary 1475
 namin 1457
 kanyang 1454
@@ -94,11 +94,11 @@ dapat 588
 walang 582
 Puwede 581
 Maraming 571
+niyo 555
 kaming 554
 ibang 554
 Sabi 549
 kaysa 549
-niyo 545
 tungkol 545
 kaya 544
 taong 543
@@ -190,7 +190,6 @@ pangalan 326
 kuwarto 326
 kanilang 322
 bukas 321
-'nyo 318
 Anong 315
 habang 313
 makita 312
@@ -198,6 +197,7 @@ tabi 310
 buwan 310
 mesa 309
 pagkain 308
+'nyo 308
 saan 307
 doon 303
 buhok 302
@@ -3340,6 +3340,7 @@ Umiiyak 15
 luto 15
 Nagsisisi 15
 ika-19 15
+Nawawala 15
 sobra 15
 beranda 15
 karapatang 15
@@ -3525,7 +3526,6 @@ nayong 14
 Marumi 14
 nagulat 14
 industriya 14
-Nawawala 14
 Sarado 14
 kastilyong 14
 Sumama 14
@@ -5077,7 +5077,6 @@ lamok 9
 bumibisita 9
 papeles 9
 tanyag 9
-HIndi 9
 Rusya 9
 nasunog 9
 atbp 9
@@ -5584,6 +5583,7 @@ salapi 8
 Mahabang 8
 katinuan 8
 takdang 8
+HIndi 8
 matulungan 8
 Wag 8
 Nilalamig 8
