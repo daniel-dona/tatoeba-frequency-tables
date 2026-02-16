@@ -1,5 +1,5 @@
-Ik 3220
-is 3219
+Ik 3221
+is 3220
 dat 2796
 en 2521
 de 2485
@@ -9,14 +9,14 @@ hett 1611
 He 1479
 in 1456
 De 1406
-to 1328
-Dat 1281
+to 1329
+Dat 1282
 heff 1260
 ik 1236
 Se 1163
 ’n 1073
 mi 1061
-un 884
+un 885
 von 845
 mit 780
 as 772
@@ -26,7 +26,7 @@ em 657
 an 653
 na 641
 mien 621
-Tom 614
+Tom 615
 sünd 610
 wat 548
 weer 532
@@ -66,14 +66,14 @@ ji 255
 uns 255
 wi 255
 al 253
-twee 251
+twee 253
 nix 247
 mehr 247
 ’e 245
 Johr 242
 Wo 236
-Book 232
-geern 230
+Book 233
+geern 231
 good 230
 gahn 226
 weet 226
@@ -102,15 +102,15 @@ Wenn 169
 temlich 164
 lang 164
 disse 162
+dree 161
 gifft 161
-dree 160
 all 155
 In 155
 eten 155
 Ria 155
 Lüüd 154
 wull 154
-dit 152
+dit 153
 Hund 151
 nu 150
 snackt 149
@@ -244,6 +244,7 @@ wahnt 61
 köpen 61
 dör 61
 sütt 61
+lesen 61
 köst 61
 Kind 61
 doch 61
@@ -252,7 +253,6 @@ Uns 61
 Ogen 61
 Frankriek 60
 Goorn 60
-lesen 60
 Wullt 60
 Melk 60
 Ji 58
@@ -278,10 +278,10 @@ ahn 55
 jemehr 55
 tohuus 55
 eet 55
+Stünnen 55
 groten 55
 All 54
 lever 54
-Stünnen 54
 Tee 54
 Beer 54
 drinken 53
@@ -298,6 +298,7 @@ veer 51
 kenn 51
 vergeten 51
 jung 51
+buten 50
 geev 50
 leed 50
 Fisch 50
@@ -306,7 +307,6 @@ Boom 50
 Dollar 50
 vergangen 50
 Finster 50
-buten 49
 Peerd 49
 doodbleven 49
 lett 49
@@ -888,6 +888,7 @@ Taxi 15
 roop 15
 bedankt 15
 Fröhstück 15
+duurt 15
 plietsch 15
 länger 15
 Tähn 15
@@ -933,7 +934,6 @@ Bargen 14
 Vergeet 14
 langs 14
 Kiekschapp 14
-duurt 14
 Poor 14
 fraagt 14
 Platz 14
@@ -1112,6 +1112,7 @@ Slaap 11
 Freid 11
 Mielen 11
 richtig 11
+Schriev 11
 verlaten 11
 morgens 11
 Bookstaven 11
@@ -1192,7 +1193,6 @@ Warrt 10
 stellen 10
 Hitt 10
 Pizza 10
-Schriev 10
 freten 10
 beed 10
 Fall 10
@@ -4770,6 +4770,7 @@ na’n 2
 Avendäten 2
 lihrt 2
 Schach 2
+hebb 2
 drie 2
 Froog 2
 verstohn 2
@@ -9997,4 +9998,3 @@ Unglöövlich 1
 di“ 1
 wäd 1
 tüderig 1
-löst 1

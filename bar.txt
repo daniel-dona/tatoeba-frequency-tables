@@ -1,9 +1,9 @@
 i 42
-is 35
+is 37
 Da 34
 I 34
 ma 32
-a 30
+a 31
 net 27
 da 22
 Thomas 22
@@ -24,6 +24,7 @@ scho 10
 und 10
 amoi 9
 eh 8
+dass 7
 tuan 7
 uns 7
 in 7
@@ -34,7 +35,6 @@ Mir 7
 zum 7
 Gö 6
 - 6
-dass 6
 koa 6
 auf 6
 no 6
@@ -47,6 +47,7 @@ host 5
 Ihr 5
 bin 5
 nia 5
+jo 5
 die 5
 es 5
 Glei 5
@@ -67,7 +68,6 @@ de 4
 Es 4
 imma 4
 san 4
-jo 4
 'n 4
 nix 4
 mi 4
@@ -101,6 +101,7 @@ gib 3
 drei 3
 um 3
 fümfe 3
+'s 3
 braan 3
 Minga 3
 konn 3
@@ -124,6 +125,7 @@ Schau 2
 Tamma 2
 Hau 2
 waun 2
+aus 2
 Do 2
 Boarisch 2
 ob's 2
@@ -296,7 +298,6 @@ frisch 1
 Auf 1
 kummt 1
 hams 1
-aus 1
 Schui 1
 aussigschmissn 1
 derfst 1
@@ -649,7 +650,6 @@ besdn 1
 fahrm 1
 los 1
 Wer 1
-'s 1
 Haxl 1
 gstölt 1
 Deine 1
@@ -814,3 +814,7 @@ lange 1
 Ois 1
 Firma 1
 g'suffa 1
+Hiatzt 1
+glaubst 1
+vielleicht 1
+Na 1

@@ -1,7 +1,7 @@
 es 3550
-Yo 2584
+Yo 2585
 un 2063
-li 1878
+li 1879
 Tom 1672
 ne 1538
 Li 898
@@ -17,10 +17,10 @@ que 600
 Ella 520
 to 506
 quo 467
-va 465
+va 466
 Noi 459
 me 450
-it 442
+it 443
 save 435
 vole 425
 mi 424
@@ -108,7 +108,7 @@ manja 77
 sempre 76
 lude 75
 solmen 75
-Nequí 73
+Nequí 74
 cat 72
 Un 72
 conosse 70
@@ -145,8 +145,8 @@ evenit 60
 Lass 60
 volet 60
 labora 60
+saver 59
 dir 59
-saver 58
 tam 58
 dentes 58
 comprende 57
@@ -250,6 +250,7 @@ Omnes 33
 calid 32
 amica 32
 lingues 32
+labor 32
 pane 31
 Bon 31
 alt 31
@@ -257,7 +258,6 @@ question 31
 mortat 31
 chascun 31
 denov 31
-labor 31
 genitores 31
 devenit 31
 Germania 30
@@ -6142,3 +6142,4 @@ sisme 1
 Cypria 1
 Malta 1
 recitules 1
+besonia 1

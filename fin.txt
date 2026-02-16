@@ -1,4 +1,4 @@
-on 29421
+on 29423
 ei 10771
 Tom 9905
 Hän 8447
@@ -6,7 +6,7 @@ ja 6899
 että 6893
 Tomi 6385
 ole 6350
-oli 5752
+oli 5753
 En 4971
 Minä 4484
 Se 3807
@@ -68,7 +68,7 @@ kaikki 1143
 vielä 1123
 Oletko 1116
 Miksi 1096
-tämän 1092
+tämän 1093
 aina 1077
 Tomilla 1073
 mennä 1070
@@ -258,8 +258,8 @@ nopeasti 336
 englantia 336
 Tänään 335
 näin 333
+Voinko 331
 kovin 331
-Voinko 330
 totta 329
 syö 329
 Sami 329
@@ -798,13 +798,13 @@ puhun 110
 ylpeä 110
 tykkään 110
 päin 109
+aamuna 109
 hetkellä 109
 Halusin 109
 Joku 109
 vihaa 108
 tyhjä 108
 täytyi 108
-aamuna 108
 kaikille 108
 ehkä 108
 pahoillani 108
@@ -845,6 +845,7 @@ jäi 104
 nukkuu 104
 huoneessa 104
 kesti 104
+Tänä 104
 luottaa 104
 menivät 104
 sanoivat 104
@@ -854,7 +855,6 @@ Tuomon 104
 saapui 103
 Hänet 103
 pyytää 103
-Tänä 103
 tennistä 103
 Paljonko 103
 kuulostaa 103
@@ -862,6 +862,7 @@ musta 102
 juoda 102
 tapa 102
 näe 102
+lauseen 102
 välittömästi 102
 Tommin 102
 parasta 101
@@ -870,7 +871,6 @@ silmät 101
 mahdotonta 101
 kunnes 101
 pysyä 101
-lauseen 101
 heistä 101
 John 100
 viimeinen 100
@@ -904,6 +904,7 @@ Unohdin 97
 tarvitsen 97
 maan 96
 näytä 96
+Jokainen 96
 nimensä 96
 kirjoitti 96
 asian 96
@@ -912,7 +913,6 @@ suurin 96
 tekisi 96
 aamu 96
 ainoastaan 96
-Jokainen 95
 tuossa 95
 Tyttö 95
 ensin 95
@@ -920,6 +920,7 @@ plus 95
 kerta 95
 sopii 94
 joita 94
+kova 94
 Japanin 94
 Jotkut 94
 Kello 94
@@ -933,7 +934,6 @@ totuuden 93
 lähtee 93
 löysi 93
 uimaan 93
-kova 93
 Herra 93
 elokuvan 93
 jolla 93
@@ -1204,6 +1204,7 @@ suoraan 71
 Suomessa 71
 voidaan 71
 ensimmäistä 71
+ääni 71
 todennäköisesti 71
 Näetkö 71
 selvää 71
@@ -1219,7 +1220,6 @@ avasi 71
 rehellinen 70
 tietä 70
 Heillä 70
-ääni 70
 jonkin 70
 asuvat 70
 valtavan 70
@@ -1292,6 +1292,7 @@ Bostonista 67
 Annan 66
 pääse 66
 Millä 66
+tärkeä 66
 löi 66
 pelata 66
 Joka 66
@@ -1316,7 +1317,6 @@ Nainen 65
 syy 65
 söin 65
 Koko 65
-tärkeä 65
 sanot 65
 maanantaina 65
 bussilla 65
@@ -1838,6 +1838,7 @@ tytöt 47
 Kolme 47
 nukkunut 47
 kukka 47
+poistaa 47
 Monelta 47
 näkemään 47
 tytär 47
@@ -1883,7 +1884,6 @@ tavallinen 46
 hiukan 46
 ranskasta 46
 tähtitieteestä 46
-poistaa 46
 erään 46
 saaneet 46
 tulit 46
@@ -2410,6 +2410,7 @@ tietokonetta 35
 työhön 35
 olkaa 35
 työpaikan 35
+Satoi 35
 väliin 35
 ruma 35
 hinta 35
@@ -2480,7 +2481,6 @@ Saksa 34
 sanakirjan 34
 herätä 34
 oloni 34
-Satoi 34
 suomalainen 34
 Yhtäkkiä 34
 saavuttavat 34

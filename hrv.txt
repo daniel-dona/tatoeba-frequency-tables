@@ -1,14 +1,14 @@
-je 1846
+je 1850
 se 683
 u 596
-sam 501
-da 458
-li 419
+sam 502
+da 460
+li 420
 na 356
+Tom 310
 ne 310
-Tom 308
 i 262
-mi 234
+mi 235
 su 233
 Ne 202
 to 200
@@ -40,7 +40,7 @@ mogu 65
 Tko 64
 Jesi 64
 više 63
-Gdje 57
+Gdje 58
 Zašto 57
 još 56
 Je 55
@@ -51,7 +51,7 @@ Kako 53
 ali 53
 dobro 53
 Imam 53
-Mary 52
+Mary 53
 kako 51
 iz 51
 ići 51
@@ -95,6 +95,7 @@ ja 38
 rekao 38
 Kada 36
 puno 36
+živi 36
 ju 36
 tvoj 35
 Moja 35
@@ -102,7 +103,6 @@ Volim 35
 Mogu 35
 znam 35
 Danas 35
-živi 35
 mnogo 35
 knjiga 33
 moja 33
@@ -117,10 +117,10 @@ nema 32
 Mislim 32
 Ti 32
 Nije 32
+doći 31
 ćeš 31
 ništa 30
 radi 30
-doći 30
 možeš 30
 Toma 30
 reći 29
@@ -268,6 +268,7 @@ Moraš 15
 Nitko 15
 toliko 15
 lijepa 15
+rano 15
 ostati 15
 uopće 15
 Neki 15
@@ -290,7 +291,6 @@ Hoćeš 14
 Zar 14
 neki 14
 učiti 14
-rano 14
 Bez 14
 vode 14
 gradu 14
@@ -366,6 +366,7 @@ Njegova 11
 prijatelj 11
 sedam 11
 lijepo 11
+Imate 11
 Jako 11
 New 11
 Svatko 11
@@ -400,7 +401,6 @@ Njegov 10
 jeziku 10
 Oprostite 10
 Znaš 10
-Imate 10
 obitelj 10
 film 10
 Otišao 10
@@ -452,6 +452,7 @@ vodu 10
 jednog 10
 rođendan 10
 ikada 10
+rekla 10
 pas 9
 oni 9
 prema 9
@@ -504,7 +505,6 @@ moraš 9
 Mnogo 9
 znaju 9
 tenis 9
-rekla 9
 životinje 8
 neću 8
 istina 8
@@ -642,6 +642,7 @@ kraju 7
 Voliš 7
 Sutra 7
 nedjeljom 7
+novine 7
 stalno 7
 piše 7
 ubila 7
@@ -755,7 +756,6 @@ televiziju 6
 Naš 6
 pokazao 6
 spava 6
-novine 6
 Nazovi 6
 mati 6
 Napravio 6
@@ -925,6 +925,7 @@ popodne 5
 slobodno 5
 no 5
 znanost 5
+Pokušaj 5
 Postoji 5
 Dječak 5
 Bogu 5
@@ -1202,7 +1203,6 @@ pospan 4
 nužno 4
 dođeš 4
 vrati 4
-Pokušaj 4
 plava 4
 stoji 4
 bolnici 4
@@ -1221,6 +1221,7 @@ razmišljao 4
 pozvao 4
 Srbije 4
 par 4
+muž 4
 Koga 4
 zaključka 4
 smatra 4
@@ -1625,6 +1626,7 @@ Juha 3
 ujaka 3
 Sally 3
 Sjedni 3
+mačku 3
 kasnije 3
 odgovorio 3
 želio 3
@@ -1683,7 +1685,6 @@ trenutak 3
 istog 3
 Nestalo 3
 ljubazan 3
-muž 3
 nazvao 3
 ponavlja 3
 jedne 3
@@ -2373,7 +2374,6 @@ zbiti 2
 završilo 2
 džepu 2
 zovu 2
-mačku 2
 učini 2
 nemoj 2
 budućnost 2
@@ -3071,6 +3071,7 @@ idiot 2
 nade 2
 bend 2
 njenom 2
+ruske 2
 sličan 2
 uspjeli 2
 svidjela 2
@@ -8519,7 +8520,6 @@ složiti 1
 Latvijac 1
 Latviji 1
 sramiti 1
-ruske 1
 manjine 1
 20% 1
 stanovništva 1
@@ -8739,3 +8739,8 @@ pizza 1
 sigurni 1
 Si 1
 umreš 1
+njen 1
+Imaju 1
+narančastu 1
+prestar 1
+konobar 1

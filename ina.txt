@@ -1,23 +1,23 @@
-le 15562
-es 11420
-un 9284
-de 8590
-ha 6322
-Le 5884
+le 15565
+es 11424
+un 9286
+de 8591
+ha 6324
+Le 5885
 Io 5461
-in 5334
-non 5194
-que 5077
-e 3582
-del 3354
+in 5335
+non 5195
+que 5079
+e 3585
+del 3356
 a 3281
-tu 3015
-Tom 2958
+tu 3017
+Tom 2959
 Ille 2351
 me 2202
-io 2098
+io 2099
 Il 1877
-lo 1827
+lo 1828
 vos 1824
 al 1819
 su 1818
@@ -28,23 +28,23 @@ plus 1519
 ille 1491
 pote 1314
 mi 1312
-nos 1258
+nos 1259
 esseva 1138
 Nos 1129
-multo 1121
+multo 1122
 iste 1081
+Tu 1067
 per 1066
-Tu 1066
 te 1050
 como 1043
 Illa 967
 il 945
 Esque 856
 vole 831
-grande 827
+grande 828
 Iste 811
 illo 788
-era 753
+era 754
 habeva 720
 esser 712
 Que 708
@@ -73,13 +73,13 @@ lingua 529
 si 524
 on 508
 illa 503
-face 495
+face 496
 casa 491
 sur 486
 place 482
 o 480
+illes 458
 parla 457
-illes 457
 mundo 448
 belle 441
 ama 439
@@ -103,7 +103,7 @@ On 344
 anglese 338
 hic 335
 aqua 333
-ancora 330
+ancora 331
 A 325
 sol 323
 An 318
@@ -123,13 +123,13 @@ sempre 284
 crede 284
 nihil 277
 Ha 276
-Qui 270
+Qui 271
 nove 269
 annos 267
 personas 256
 libro 254
+faceva 254
 persona 254
-faceva 253
 morte 253
 apud 253
 catto 252
@@ -151,8 +151,8 @@ Quando 226
 patre 222
 moneta 220
 can 220
+ubi 220
 francese 219
-ubi 219
 troppo 218
 ante 217
 favor 216
@@ -164,8 +164,8 @@ Qual 211
 melior 209
 loco 209
 usque 208
+parve 205
 trova 205
-parve 204
 jammais 204
 essera 203
 Ego 203
@@ -235,8 +235,8 @@ ir 140
 illac 140
 facile 140
 alte 140
+poco 140
 femina 139
-poco 139
 perque 139
 Ariel 139
 omne 138
@@ -252,10 +252,10 @@ proprie 135
 illos 135
 videva 134
 nunc 134
+mais 134
 apprender 133
 anno 133
 castello 133
-mais 133
 Boston 132
 etiam 130
 Sami 130
@@ -351,9 +351,9 @@ sia 94
 Hodie 94
 pensava 94
 barca 94
+historia 93
 debeva 93
 tal 93
-historia 92
 luna 92
 idea 92
 apprende 92
@@ -420,8 +420,8 @@ medico 77
 etate 77
 guerra 77
 attention 77
+estranie 77
 littera 76
-estranie 76
 Post 76
 gusto 76
 dies 75
@@ -543,6 +543,7 @@ puero 60
 prende 59
 dormi 59
 aere 59
+manca 59
 glacie 59
 commun 59
 secundo 59
@@ -557,7 +558,6 @@ Omne 59
 habite 59
 visibile 59
 venite 58
-manca 58
 pan 58
 latere 58
 costa 58
@@ -599,13 +599,13 @@ scribeva 55
 pomo 55
 voce 55
 canes 54
+Ora 54
 partir 54
 finite 54
 brillante 54
 perde 54
 compra 54
 necessari 53
-Ora 53
 clar 53
 devenir 53
 responsa 53
@@ -745,6 +745,7 @@ cento 43
 direction 43
 amava 43
 octo 43
+structura 43
 merita 43
 considera 43
 ris 43
@@ -763,12 +764,12 @@ village 42
 laco 42
 marito 42
 audiva 42
-structura 42
 differentia 42
 occideva 42
 porcellanic 42
 equal 41
 bibliotheca 41
+classe 41
 – 41
 ligno 41
 sole 41
@@ -777,6 +778,7 @@ pomos 41
 preste 41
 torta 41
 dulce 41
+insenia 41
 jorno 41
 reguardava 41
 lacrimas 41
@@ -797,7 +799,6 @@ functiona 40
 retro 40
 station 40
 audi 40
-classe 40
 ubique 40
 lassa 40
 realmente 40
@@ -807,7 +808,6 @@ animal 40
 distantia 40
 empleo 40
 autor 40
-insenia 40
 equipa 40
 travalia 40
 horologio 40
@@ -933,6 +933,7 @@ No 35
 labora 35
 partita 35
 sufficiente 35
+produce 35
 attender 35
 fructo 35
 simile 35
@@ -950,7 +951,6 @@ expression 34
 legeva 34
 entrar 34
 pedes 34
-produce 34
 fenestras 34
 placeva 34
 ascolta 34
@@ -1011,6 +1011,7 @@ considerate 32
 nude 32
 societate 32
 apparato 32
+sexo 32
 fortia 32
 excellente 32
 lasse 32
@@ -1043,7 +1044,6 @@ cultello 31
 cambiate 31
 Assi 31
 conta 31
-sexo 31
 fuma 31
 evenite 31
 Svedia 31
@@ -1225,6 +1225,7 @@ petra 26
 attendeva 26
 alco 26
 nomines 26
+vivente 26
 solution 26
 abandonate 26
 naso 26
@@ -1272,7 +1273,6 @@ cresce 25
 amar 25
 advocato 25
 vade 25
-vivente 25
 hospital 25
 trovara 25
 stella 25
@@ -1622,6 +1622,7 @@ cessar 19
 nascite 19
 possibilitate 19
 lection 19
+debile 19
 poemas 19
 precios 19
 armas 19
@@ -1696,7 +1697,6 @@ sedia 18
 exiva 18
 effecto 18
 - 18
-debile 18
 furate 18
 poc 18
 sentimento 18
@@ -1818,6 +1818,7 @@ New 17
 latin 17
 religiose 17
 vincer 17
+"Que 17
 turco 17
 futue 17
 verdette 17
@@ -1846,6 +1847,7 @@ jentaculo 16
 incontrar 16
 conducta 16
 concerto 16
+numerose 16
 sud 16
 autumno 16
 mentir 16
@@ -1927,7 +1929,6 @@ fider 16
 certemente 16
 native 16
 nos" 16
-"Que 16
 Canes 16
 Blaulandia 16
 calve 16
@@ -1965,7 +1966,6 @@ usava 15
 impedir 15
 decider 15
 sensibile 15
-numerose 15
 include 15
 instante 15
 avantia 15
@@ -2155,6 +2155,7 @@ characteristicas 14
 dose 14
 Esther 14
 elementos 14
+virga 14
 canadian 14
 massive 14
 cacava 14
@@ -2315,7 +2316,6 @@ David 13
 christian 13
 Realitate 13
 fascista 13
-virga 13
 pronunciation 13
 turc 13
 Layla 13
@@ -2638,6 +2638,7 @@ vision 11
 individuos 11
 phenomeno 11
 victoria 11
+consume 11
 rapiditate 11
 enoiate 11
 versos 11
@@ -2709,6 +2710,7 @@ ideal 10
 nonsenso 10
 Presta 10
 emotiones 10
+"Si 10
 ignorantia 10
 precisemente 10
 maxime 10
@@ -2839,7 +2841,6 @@ terras 10
 adjectivo 10
 calma 10
 legumines 10
-consume 10
 monstrate 10
 penose 10
 nepta 10
@@ -2954,7 +2955,6 @@ invitation 9
 metro 9
 determina 9
 disappunctate 9
-"Si 9
 disagradabile 9
 rana 9
 fer 9
@@ -3504,6 +3504,7 @@ observate 8
 mares 8
 estranieros 8
 mortos 8
+agricultores 8
 meliora 8
 polite 8
 comparative 8
@@ -3920,7 +3921,6 @@ differentias 7
 inspira 7
 maestra 7
 constructiones 7
-agricultores 7
 recompensa 7
 sophisticate 7
 ventre 7
@@ -3977,6 +3977,7 @@ incostose 7
 W 7
 canino 7
 junkie 7
+"Illo 7
 nudista 7
 bipolar 7
 televisor 7
@@ -4541,7 +4542,6 @@ palestinos 6
 palestine 6
 dracon 6
 Bush 6
-"Illo 6
 toalia 6
 Catalonia 6
 "No" 6
@@ -6990,6 +6990,7 @@ manifestar 3
 extravagante 3
 symbolos 3
 hesita 3
+relativemente 3
 immobiliari 3
 potential 3
 inexorabile 3
@@ -7511,6 +7512,7 @@ interpretes 3
 accelerate 3
 ren 3
 Teddy 3
+proprietarios 3
 recommendation 3
 Nigel 3
 Floyd 3
@@ -7814,6 +7816,7 @@ generosemente 3
 Blair 3
 Spectroscopia 3
 Molecular 3
+Stato 3
 Ohio 3
 abonatos 3
 specialistas 3
@@ -8470,6 +8473,7 @@ Gravitate 2
 Human 2
 rata 2
 dispende 2
+Ric 2
 immigrantes 2
 altissime 2
 prevaleva 2
@@ -8918,7 +8922,6 @@ perturbar 2
 continue 2
 (non 2
 Hollywood 2
-relativemente 2
 devisas 2
 orientate 2
 approvisiona 2
@@ -9915,7 +9918,6 @@ Andrew 2
 incastrate 2
 Zachary 2
 decisive 2
-proprietarios 2
 Gwyneth 2
 factor 2
 evalutate 2
@@ -9996,5 +9998,3 @@ infernal 2
 Othello 2
 neonate 2
 teneressa 2
-suffrera 2
-Sparnia 2

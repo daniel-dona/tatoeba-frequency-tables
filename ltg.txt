@@ -3,15 +3,15 @@ Es 43
 Maņ 25
 ka 25
 Tys 22
+tū 20
 Voi 20
 i 20
 nav 20
-tū 19
-Jis 16
-Toms 15
-par 15
+Jis 17
+Toms 16
+par 16
+beja 16
 es 15
-beja 15
 cīši 13
 tys 13
 tu 12
@@ -23,13 +23,13 @@ mani 9
 kū 9
 ruodīs 9
 iz 8
+dareit 7
 Kai 7
 byut 7
 itū 6
 dīna 6
 sevi 6
 kas 6
-dareit 6
 voi 6
 Jei 6
 tikai 6
@@ -42,6 +42,7 @@ koč 5
 Mes 5
 jūs 5
 vaira 5
+Cylvāki 5
 kod 5
 vēļ 4
 dzeivuot 4
@@ -59,6 +60,7 @@ jis 4
 tik 4
 jam 4
 navar 4
+daudz 4
 cukra 4
 vysod 4
 Itys 3
@@ -81,10 +83,11 @@ laimeigs 3
 Kod 3
 Tomam 3
 olu 3
+dzeivoj 3
 nūtyka 3
 cylvāki 3
-Cylvāki 3
 vysu 3
+dzeivi 3
 vuordu 3
 palyka 3
 Marija 3
@@ -95,7 +98,6 @@ Tev 3
 piec 3
 godu 3
 Kas 3
-daudz 3
 puoruok 3
 Dzeive 3
 jiutu 3
@@ -144,7 +146,6 @@ grybu 2
 byus 2
 Toma 2
 uz 2
-dzeivoj 2
 gryuts 2
 ticēt 2
 vyss 2
@@ -157,7 +158,6 @@ Kōpēc 2
 gryuši 2
 esi 2
 byutnis 2
-dzeivi 2
 mes 2
 var 2
 volūdu 2
@@ -233,6 +233,7 @@ reits 2
 Reigā 2
 baltu 2
 politiku 2
+beistās 2
 zīds 1
 skaists 1
 padareji 1
@@ -1042,3 +1043,7 @@ lītuotuojam 1
 puorstuoj 1
 raksteit 1
 īneistu 1
+smītīs 1
+nūslāgtu 1
+attureigs 1
+Nastruodoj 1

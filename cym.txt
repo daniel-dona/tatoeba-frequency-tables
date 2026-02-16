@@ -160,6 +160,7 @@ yfory 10
 Maen 10
 wrth 10
 nad 10
+hon 10
 bydd 10
 Pryd 10
 coffi 9
@@ -181,7 +182,6 @@ nawr 9
 Bydd 9
 lle 9
 mwynhau 9
-hon 9
 garddio 9
 Nadolig 9
 ble 8
@@ -287,6 +287,7 @@ ysgrifennu 5
 rhif 5
 allan 5
 ddau 5
+Rwy'n 5
 saith 5
 gwaith 5
 i'w 5
@@ -319,6 +320,7 @@ Fe 5
 efo 5
 Efallai 5
 tocyn 5
+hoffi'r 5
 gwin 5
 Dan 5
 colli 5
@@ -342,7 +344,6 @@ ddyn 4
 cig 4
 unig 4
 es 4
-Rwy'n 4
 rŵan 4
 trên 4
 gennych 4
@@ -411,7 +412,6 @@ Arhoswch 4
 trwy 4
 sy' 4
 prifddinas 4
-hoffi'r 4
 fydd 4
 Yma 4
 Dylech 4
@@ -470,6 +470,7 @@ cathod 3
 Ydy'r 3
 swyddfa 3
 hawdd 3
+wlad 3
 â'r 3
 newid 3
 blino 3
@@ -676,7 +677,6 @@ fwyta 2
 amlwg 2
 Be' 2
 Gadewch 2
-wlad 2
 eitha 2
 Gall 2
 frawddeg 2

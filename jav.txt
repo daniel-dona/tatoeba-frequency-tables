@@ -1,21 +1,21 @@
-Aku 187
+Aku 188
 ora 148
 Tom 127
-sing 74
+sing 75
 iku 54
 Kowé 53
-iki 51
+iki 52
 aku 50
 ing 49
 nang 46
 Dhèwèké 42
-karo 39
+karo 40
 ana 34
 kowé 33
 basa 32
+seneng 30
 apa 29
 dhéwé 29
-seneng 29
 wis 27
 kuwi 27
 kudu 26
@@ -67,6 +67,7 @@ Mèri 12
 punika 11
 isih 11
 turu 11
+tuku 11
 awak 11
 ngomong 10
 wonten 10
@@ -77,12 +78,12 @@ teka 10
 akèh 10
 Kowe 10
 nyambut 10
-tuku 10
 ngombé 10
 apik 9
 Panjenengan 9
 kucing 9
 Wingi 9
+Sapa 9
 ning 9
 omah 9
 loro 9
@@ -92,7 +93,6 @@ kowe 8
 boten 8
 tak 8
 telu 8
-Sapa 8
 Inggris 8
 kutha 8
 dhokter 8
@@ -150,6 +150,7 @@ Boston 5
 taun 5
 saiki 5
 rabi 5
+larang 5
 dhuwur 5
 mlaku 5
 tahu 5
@@ -199,8 +200,8 @@ numpak 4
 bis 4
 krungu 4
 bener 4
+kerep 4
 kapan 4
-larang 4
 Wong 4
 kakèhan 4
 Sampéyan 4
@@ -251,7 +252,6 @@ cendhéla 3
 nggo 3
 tekan 3
 turuné 3
-kerep 3
 butuh 3
 liyané 3
 Awakdhéwé 3
@@ -293,6 +293,7 @@ pèlem 3
 asuné 3
 iling 3
 prajané 3
+sugih 3
 sega 3
 wadon 3
 bocah 3
@@ -306,6 +307,7 @@ Sepuré 3
 sakit 3
 ngguyu 3
 adhem 3
+pasa 3
 Dhuwité 3
 tah 3
 Tanganku 3
@@ -481,7 +483,6 @@ kulina 2
 Takona 2
 bapakku 2
 bapak 2
-sugih 2
 kancané 2
 Buku 2
 omahé 2
@@ -539,7 +540,6 @@ wes 2
 opo 2
 bojoku 2
 lancar 2
-pasa 2
 Turki 2
 Lawangé 2
 bal-balan 2
@@ -557,9 +557,12 @@ timbang 2
 nyetir 2
 dakjarna 2
 kèwan 2
+negara 2
 cilik 2
 regané 2
 Gajah 2
+Kanca-kancaku 2
+Bojoku 2
 Manganmu 2
 dha 2
 Kucing 2
@@ -1892,7 +1895,6 @@ Jaran 1
 ꦲꦏꦸꦲꦺꦴꦫꦠꦲꦸꦠꦸꦏꦸꦒꦸꦭ꧉ 1
 Taliné 1
 ꦠꦭꦶꦤꦺꦤꦁꦲꦼꦤ꧀ꦢꦶ 1
-negara 1
 gendérané 1
 ꦱꦧꦼꦤ꧀ꦤꦒꦫꦢꦸꦮꦺꦒꦼꦤ꧀ꦢꦺꦫꦤꦺꦝꦺꦮꦺꦝꦺꦮꦺ꧉ 1
 panggoné 1
@@ -1968,12 +1970,10 @@ manca 1
 Omahku 1
 ꦲꦺꦴꦩꦃꦏꦸꦲꦤꦲꦶꦁꦏꦺꦤꦺ꧉ 1
 ꦲꦏꦸꦩꦕꦧꦸꦏꦸꦲꦶꦏꦶꦤꦁꦩꦺꦴꦤ꧀ꦠꦺꦴꦂꦩꦧꦸꦂ꧉ 1
-Kanca-kancaku 1
 percaya 1
 ꦏꦚ꧀ꦕꦏꦚ꧀ꦕꦏꦸꦲꦺꦴꦫꦥꦽꦕꦪꦏꦫꦺꦴꦲꦏꦸ꧉ 1
 paturoné 1
 ꦲꦮꦏ꧀ꦝꦺꦮꦺꦮꦺꦴꦁꦥꦥꦠ꧀ꦤꦔꦶꦁꦥꦠꦸꦫꦺꦴꦤ꧀ꦤꦺꦩꦸꦁꦠꦼꦭꦸ꧉ 1
-Bojoku 1
 ꦧꦺꦴꦗꦺꦴꦏꦸꦪꦲꦺꦴꦫꦮꦼꦫꦸꦃ꧉ 1
 ꦲꦏꦸꦭꦸꦔꦩꦼꦚꦁꦥꦫꦶꦱ꧀꧈ 1
 ꦲꦏꦸꦔꦺꦴꦩ꧀ꦧꦺꦠꦺꦃ꧉ 1
@@ -2234,3 +2234,8 @@ bausastraku 1
 ꦢꦸꦫꦸꦁꦩꦔꦤ꧀ꦏꦮꦶꦠ꧀ꦩꦲꦸꦲꦶꦱꦸꦏ꧀꧈ 1
 ꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦥꦸꦤ꧀ꦢꦶꦥꦼꦏꦼꦤꦶꦥꦸꦤ꧀ 1
 ꦤꦺꦁꦲꦼꦤ꧀ꦢꦶꦥꦱꦫꦺ 1
+ꦲꦏꦸꦱꦼꦤꦼꦁꦏꦫꦺꦴꦤꦒꦫꦲꦶꦏꦶ꧉ 1
+klambi 1
+ꦧꦺꦴꦗꦺꦴꦏꦸꦏꦼꦉꦥ꧀ꦠꦸꦏꦸꦏ꧀ꦭꦩ꧀ꦧꦶꦭꦫꦁ꧉ 1
+ꦱꦥꦱꦶꦁꦥꦱ 1
+ꦏꦚ꧀ꦕꦏꦚ꧀ꦕꦏꦸꦱꦸꦒꦶꦃ꧉ 1

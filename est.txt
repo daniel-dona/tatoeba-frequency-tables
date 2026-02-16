@@ -10,9 +10,9 @@ See 282
 ma 225
 seda 214
 oma 206
-see 192
+see 193
 oli 172
-ja 158
+ja 159
 ta 154
 ole 150
 Sa 144
@@ -41,10 +41,10 @@ tahan 72
 Tomi 71
 sind 70
 su 69
+meeldib 69
 kõik 68
 siin 68
 mida 68
-meeldib 68
 Mary 67
 nii 66
 Kus 66
@@ -63,7 +63,7 @@ välja 52
 saa 52
 te 52
 Palun 51
-Mulle 50
+Mulle 51
 kunagi 50
 minna 48
 me 48
@@ -416,6 +416,7 @@ olevat 9
 meeldis 9
 Jah 9
 raamatuid 9
+riik 9
 silmad 9
 magama 9
 mängib 9
@@ -462,7 +463,6 @@ tunne 8
 kala 8
 uus 8
 surma 8
-riik 8
 kümme 8
 mäleta 8
 Kelle 8
@@ -1130,6 +1130,7 @@ Minge 3
 kahe 3
 Tuul 3
 teete 3
+kahekümne 3
 arvamus 3
 Igal 3
 Tuleb 3
@@ -1494,6 +1495,7 @@ arsti 3
 itaalia 3
 ostan 3
 sees 3
+koosneb 3
 Helistan 3
 hauguvad 3
 Kreeka 3
@@ -1560,6 +1562,7 @@ millal 2
 iganes 2
 kiita 2
 nõudis 2
+kirjutatakse 2
 haigus 2
 lükkas 2
 kestis 2
@@ -1586,7 +1589,6 @@ lõpetame 2
 Rannas 2
 andesta 2
 mõtlema 2
-kahekümne 2
 kraadi 2
 mägedes 2
 muretse 2
@@ -2290,6 +2292,7 @@ jalamil 2
 tempel 2
 burgerit 2
 Raamatukogu 2
+vasakule 2
 Hiinas 2
 allkorrusel 2
 Õpetaja 2
@@ -2319,7 +2322,8 @@ häiris 2
 võivad 2
 tunnevad 2
 Vene 2
-koosneb 2
+tähestik 2
+tähest 2
 hingata 2
 India 2
 valeta 2
@@ -2672,7 +2676,6 @@ udus 1
 teelt 1
 pojal 1
 tervis 1
-kirjutatakse 1
 mõelge 1
 andke 1
 otsusest 1
@@ -5048,7 +5051,6 @@ Kirjutuslaual 1
 sõnaraamat 1
 McDonaldsis 1
 Teekann 1
-vasakule 1
 korterit 1
 sõbraga 1
 keldrist 1
@@ -5217,10 +5219,8 @@ kolin 1
 Zürichisse 1
 nõud 1
 kraanikaussi 1
-tähestik 1
 33 1
 kirillitsa 1
-tähest 1
 hariduseta 1
 hotelli 1
 valus 1
@@ -6818,3 +6818,6 @@ poolde 1
 masti 1
 kaubanduskeskus 1
 naasis 1
+Araabia 1
+paremalt 1
+kaheksast 1
