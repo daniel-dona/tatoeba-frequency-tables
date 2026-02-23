@@ -1,19 +1,19 @@
 är 11679
 Jag 11281
-att 7117
+att 7118
 Tom 7092
 inte 6934
 en 5147
 du 5142
-på 4862
+på 4863
 det 4752
 i 4601
-har 4242
+har 4243
 Det 3893
 Han 3414
 jag 3157
 mig 2723
-för 2702
+för 2703
 här 2665
 var 2610
 med 2460
@@ -28,7 +28,7 @@ dig 1891
 den 1838
 kan 1681
 Du 1606
-av 1605
+av 1604
 han 1263
 kommer 1256
 sig 1225
@@ -66,7 +66,7 @@ oss 623
 än 619
 behöver 605
 upp 604
-hon 601
+hon 602
 bara 599
 sin 589
 henne 576
@@ -80,7 +80,7 @@ gå 520
 er 516
 från 513
 aldrig 501
-någon 482
+någon 484
 gillar 463
 åt 460
 blev 441
@@ -106,8 +106,8 @@ väldigt 377
 gjorde 377
 när 372
 två 368
+En 362
 kunde 362
-En 361
 Ni 357
 Vem 355
 efter 354
@@ -165,7 +165,7 @@ hela 237
 hem 237
 några 230
 säga 228
-säger 222
+säger 223
 själv 218
 Ingen 217
 redan 217
@@ -354,12 +354,12 @@ Allt 99
 Tack 98
 son 98
 vägen 98
+Mina 98
 fru 98
 katt 98
 hit 98
 Pratar 97
 träffa 97
-Mina 97
 te 97
 fått 97
 händer 97
@@ -394,9 +394,9 @@ tillsammans 90
 öl 89
 Denna 88
 sjuk 88
+bästa 88
 tidigt 88
 åker 88
-bästa 87
 Sverige 87
 samma 87
 ger 87
@@ -445,12 +445,12 @@ gången 78
 lever 78
 världen 78
 höra 78
+fyra 77
 träffade 77
 sätt 77
 plats 76
 nära 76
 arbete 76
-fyra 76
 berättade 76
 gått 76
 lycklig 76
@@ -926,6 +926,7 @@ piano 34
 förlora 34
 före 34
 ändå 34
+översätta 34
 överens 34
 vänlig 34
 Livet 34
@@ -950,7 +951,6 @@ Följ 33
 utom 33
 hemlighet 33
 plan 33
-översätta 33
 inför 33
 tycka 33
 byta 33
@@ -1073,6 +1073,7 @@ USA 28
 häst 28
 vikt 28
 brevet 28
+fred 28
 avskyr 28
 tolv 28
 smakar 28
@@ -1102,7 +1103,6 @@ svaret 27
 Hej 27
 fattig 27
 gilla 27
-fred 27
 främmande 27
 bland 27
 ordbok 27
@@ -1180,6 +1180,7 @@ huvudstaden 25
 äpplet 25
 lag 25
 sjöng 25
+tusen 25
 tidningen 25
 massa 25
 gömde 25
@@ -1223,7 +1224,6 @@ sparken 24
 planet 24
 annars 24
 Då 24
-tusen 24
 skillnaden 24
 Hjälp 24
 tjock 24
@@ -1564,6 +1564,7 @@ tidning 18
 drar 18
 trötta 18
 skit 18
+kompis 18
 armarna 18
 Tyckte 18
 självmord 18
@@ -1623,7 +1624,6 @@ rösta 17
 uppmärksamhet 17
 bjöd 17
 Bra 17
-kompis 17
 lycka 17
 dumma 17
 kille 17
@@ -2969,7 +2969,6 @@ risken 8
 rapport 8
 gränser 8
 pennor 8
-hej 8
 Musik 8
 möjlighet 8
 husdjur 8
@@ -3263,6 +3262,7 @@ tjuv 7
 lätta 7
 inomhus 7
 begagnad 7
+hej 7
 panik 7
 kraft 7
 händelse 7
@@ -7163,7 +7163,6 @@ Kaptenen 3
 hundarna 3
 därefter 3
 utför 3
-frid 3
 piller 3
 glögg 3
 rekord 3
@@ -7801,7 +7800,6 @@ utgångar 2
 Bättre 2
 vassa 2
 seden 2
-översättas 2
 operor 2
 nådig 2
 epileptiker 2
@@ -9998,3 +9996,5 @@ engelsman 2
 Förolämpa 2
 terapi 2
 Terapi 2
+förhåller 2
+nämnt 2

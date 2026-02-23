@@ -3,7 +3,7 @@ Bu 73
 U 69
 bor 37
 Tom 36
-bir 29
+bir 30
 edi 28
 bilan 27
 Mening 26
@@ -14,8 +14,8 @@ qayerda 23
 bormi 23
 yaxshi 19
 kerak 19
+ham 19
 Sen 18
-ham 18
 Nima 16
 У 15
 mening 15
@@ -35,6 +35,7 @@ va 10
 bu 10
 эмасман 10
 uni 10
+yomon 10
 edim 10
 qanday 10
 Nega 10
@@ -44,7 +45,6 @@ kim 9
 pul 9
 kitob 9
 Tomning 9
-yomon 9
 suv 9
 Bugun 9
 ishlayman 9
@@ -96,6 +96,7 @@ katta 5
 kecha 5
 Har 5
 hamma 5
+Qachon 5
 Yana 5
 ikki 5
 bo'ladi 5
@@ -104,6 +105,7 @@ turadi 5
 o'z 5
 tarjima 5
 bunchalik 5
+Meni 5
 Ushbu 5
 yo‘q 5
 Улар 4
@@ -122,7 +124,6 @@ qildi 4
 Menda 4
 o'qish 4
 Ingliz 4
-Qachon 4
 ҳақиқатни 4
 билмоқчи 4
 Suv 4
@@ -148,7 +149,6 @@ barcha 4
 Eshikni 4
 uzr 4
 tilda 4
-Meni 4
 yil 4
 Pul 4
 go'shti 4
@@ -183,6 +183,7 @@ gapira 3
 oladi 3
 olmaydi 3
 ingliz 3
+Ikki 3
 unga 3
 musiqa 3
 qizil 3
@@ -251,6 +252,7 @@ o‘zbek 3
 xohlamayman 3
 tilga 3
 qilingan 3
+chet 3
 Sensiz 2
 hayot 2
 одамлар 2
@@ -313,6 +315,7 @@ Yomg'ir 2
 doktor 2
 bergan 2
 Chet 2
+elda 2
 yapon 2
 do'stim 2
 Go'sht 2
@@ -332,7 +335,6 @@ rahmat 2
 Kitoblaringizni 2
 Chaqaloq 2
 kunda 2
-Ikki 2
 Alloh 2
 to'g'ri 2
 Mushuklar 2
@@ -341,6 +343,7 @@ tilida 2
 gullari 2
 Bilmayman 2
 tong 2
+kun 2
 Мактабга 2
 ороллар 2
 Менга 2
@@ -373,6 +376,7 @@ pivo 2
 ichmayman 2
 hozir 2
 uy 2
+universitetda 2
 ishlashini 2
 bilmoqchiman 2
 chiqdi 2
@@ -561,7 +565,6 @@ pulni 2
 yuborolmayman 2
 tugatishim 2
 yig‘lashadi 2
-chet 2
 elga 2
 Bolamni 2
 uzoq 2
@@ -569,6 +572,8 @@ mol-mulkini 2
 tushunmaydi 2
 so‘rayman 2
 xat 2
+otga 2
+qamchi 2
 barbod 1
 kutaman 1
 Барча 1
@@ -861,7 +866,6 @@ Salom 1
 xar 1
 yozishga 1
 vada 1
-elda 1
 do'stlarim 1
 Chanqamadingizmi 1
 Qotibqobsanku 1
@@ -1070,7 +1074,6 @@ bering 1
 o'qiysan 1
 Tushunmayman 1
 kech 1
-kun 1
 emasmiding 1
 Хайрли 1
 кун 1
@@ -1193,7 +1196,6 @@ yozmayapti 1
 yemayapti 1
 vazifalarimni 1
 bajaryapman 1
-universitetda 1
 o'qituvchiman 1
 bilmoqchi 1
 Televizor 1
@@ -2540,3 +2542,17 @@ vafot 1
 etdi 1
 ishonishni 1
 bilmayman 1
+uxlolmadim 1
+Ikkala 1
+qizim 1
+o‘qiydi 1
+Qizim 1
+o‘qiyapti 1
+sevmaysanmi 1
+kelasan-ku 1
+Xayrli 1
+tun 1
+Deyarli 1
+peshin 1
+Yaxshi 1
+ming 1

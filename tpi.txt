@@ -1,4 +1,4 @@
-i 54
+i 55
 bilong 44
 long 36
 Mi 34
@@ -12,11 +12,12 @@ Yu 11
 save 9
 Em 9
 Ol 8
+bin 7
 Tom 6
 kaikai 6
 moa 6
-bin 6
 Nem 5
+wanpela 5
 laik 5
 pusi 5
 go 5
@@ -25,7 +26,6 @@ dia 5
 Tok 4
 tok 4
 bai 4
-wanpela 4
 ol 4
 haus 4
 dok 4
@@ -76,6 +76,7 @@ daun 2
 Wanem 2
 wokim 2
 manmeri 2
+buk 2
 Mipela 2
 yutupela 2
 yutripela 2
@@ -192,7 +193,6 @@ tasol 1
 ken 1
 Bai 1
 ritim 1
-buk 1
 sista 1
 pisin 1
 bikpela 1
@@ -221,3 +221,5 @@ Mama 1
 mani 1
 soka 1
 kikbal 1
+Boi 1
+baim 1

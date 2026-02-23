@@ -3,14 +3,14 @@ Mən 897
 O 736
 Bu 685
 bir 445
-var 441
+var 442
 və 427
-ki 385
-çox 324
+ki 386
+çox 326
 nə 298
 Onlar 251
 üçün 250
-idi 244
+idi 245
 də 235
 Biz 225
 deyil 219
@@ -42,8 +42,8 @@ Mənə 104
 ən 102
 edin 102
 mən 101
+etdi 101
 kimi 100
-etdi 100
 da 98
 haqqında 93
 hər 93
@@ -185,6 +185,7 @@ verin 33
 istəyirsən 32
 gedirəm 32
 siz 32
+edib 32
 həftə 31
 ya 31
 bilirsən 31
@@ -196,7 +197,6 @@ saat 31
 gəldi 31
 ölkədir 31
 su 31
-edib 31
 gördüm 30
 başladı 30
 başqa 30
@@ -589,6 +589,7 @@ yaşayırsan 12
 bunun 12
 düşdü 12
 müddət 12
+iştirak 12
 səsini 12
 mahnı 12
 Sakit 12
@@ -644,7 +645,6 @@ dənə 11
 İtaliya 11
 adını 11
 dövlət 11
-iştirak 11
 İcazə 11
 Sizi 11
 Rəqs 11
@@ -1014,6 +1014,7 @@ Uilyam 7
 təmizdir 7
 danışırsız 7
 olanda 7
+yatdım 7
 maşınım 7
 müqəddəs 7
 etməlisən 7
@@ -1110,6 +1111,7 @@ Otaq 7
 keçirilib 7
 əla 7
 Tomdur 7
+dərin 7
 təklikdə 7
 olmayıb 7
 Narahat 7
@@ -1206,7 +1208,6 @@ boşdur 6
 xoşbəxtəm 6
 həbs 6
 saçını 6
-yatdım 6
 futbol 6
 tanıyır 6
 baxır 6
@@ -1219,6 +1220,7 @@ danışan 6
 baxma 6
 Təslim 6
 məktəb 6
+çoxu 6
 döndü 6
 qürur 6
 oğlan 6
@@ -1316,7 +1318,6 @@ bir-iki 6
 mağazada 6
 şüşə 6
 Əslində 6
-dərin 6
 Tərcümə 6
 çalış 6
 ilham 6
@@ -1498,7 +1499,6 @@ yat 5
 orda 5
 məhv 5
 evləndi 5
-çoxu 5
 əyləncəli 5
 evinə 5
 qaldıq 5
@@ -1807,6 +1807,7 @@ evdədir 4
 anam 4
 musiqini 4
 ağacın 4
+Ceyn 4
 kiçikdir 4
 suyu 4
 çimərliyə 4
@@ -1980,6 +1981,7 @@ Macarıstan 4
 Kanada 4
 tapşırığımı 4
 unutmuşam 4
+hazırlanır 4
 etməmişəm 4
 Mərkəzi 4
 Asiyada 4
@@ -2398,7 +2400,6 @@ gələcəksən 3
 altındadır 3
 hovuzda 3
 Ağ 3
-Ceyn 3
 Evin 3
 Ağac 3
 dəyiləm 3
@@ -2665,7 +2666,6 @@ danışmır 3
 mesaj 3
 problemdir 3
 problemin 3
-hazırlanır 3
 Dünyanın 3
 İsaya 3
 vətəndaşıdır 3
@@ -3151,6 +3151,7 @@ ayında 3
 çata 3
 Qolumu 3
 iqtisadiyyatı 3
+iddia 3
 bilməzsiz 3
 konsertdə 3
 təxmin 3
@@ -5058,7 +5059,6 @@ etdiklərim 2
 qabyuyan 2
 sənədi 2
 Yaponiyadakı 2
-iddia 2
 adi 2
 verməzdilər 2
 qiymətləndirirəm 2
@@ -5264,6 +5264,7 @@ sənindi 2
 sizindi 2
 bilməli 2
 istəmirlər 2
+əsəbi 2
 Şikayət 2
 sırada 2
 növbədə 2
@@ -9997,4 +9998,3 @@ fəsli 1
 qızıdır 1
 şansım 1
 sikkə 1
-kənarında 1

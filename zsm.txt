@@ -1,11 +1,11 @@
 Saya 1447
 saya 1326
-yang 1182
-Tom 1164
-tidak 1135
-di 749
+yang 1184
+Tom 1165
+tidak 1136
+di 750
 awak 719
-itu 645
+itu 646
 ini 600
 akan 580
 untuk 571
@@ -18,14 +18,14 @@ anda 342
 Mary 314
 telah 306
 pergi 277
-boleh 264
+boleh 265
 dalam 256
 tahu 245
 Awak 233
 kita 227
 apa 221
 adalah 214
-ada 206
+ada 207
 mahu 204
 hari 197
 orang 189
@@ -43,7 +43,7 @@ lagi 152
 rumah 152
 seorang 149
 bahawa 147
-mereka 144
+mereka 145
 bahasa 140
 mempunyai 135
 sangat 126
@@ -64,8 +64,8 @@ baik 101
 banyak 101
 seperti 100
 berkata 99
+Apa 98
 Kita 98
-Apa 97
 bercakap 94
 datang 94
 ialah 93
@@ -83,9 +83,9 @@ satu 82
 mana 82
 Jangan 82
 nak 82
-sama 79
+sama 80
+berada 79
 buku 79
-berada 78
 buat 78
 masih 77
 malam 73
@@ -94,9 +94,9 @@ melakukan 72
 tinggal 71
 Ini 70
 pun 69
+lain 68
 tahun 68
 beliau 68
-lain 67
 Anda 67
 sebuah 66
 berbuat 66
@@ -112,16 +112,16 @@ pasti 60
 lelaki 59
 atas 59
 diri 59
+sendiri 58
 sekolah 57
 dua 57
 sesuatu 57
-sendiri 57
 mungkin 57
 hanya 57
+apa-apa 56
 setiap 56
+ia 56
 Ia 56
-apa-apa 55
-ia 55
 juga 55
 bersama 54
 masalah 53
@@ -144,16 +144,17 @@ kerja 48
 Apakah 47
 tiga 47
 membeli 47
+tiada 47
 Sami 47
 Bahasa 46
-tiada 46
+tempat 46
 pukul 45
 siapa 45
 jam 45
 jika 45
-tempat 45
 bermain 45
 Mengapa 45
+atau 45
 mendengar 45
 sedemikian 45
 Inggeris 44
@@ -168,7 +169,6 @@ kau 43
 Semua 42
 berjalan 42
 apabila 42
-atau 42
 Jika 42
 mencari 42
 تيدق 42
@@ -231,6 +231,7 @@ lalu 32
 mudah 32
 Beliau 32
 Kadazan 32
+negara 31
 Boleh 31
 menunggu 31
 harus 31
@@ -239,7 +240,6 @@ surat 31
 ibu 31
 John 31
 hati 30
-negara 30
 berhenti 30
 anak 30
 panas 30
@@ -265,6 +265,7 @@ kelmarin 28
 berjaya 27
 secara 27
 patut 27
+seseorang 27
 doktor 27
 sentiasa 27
 balik 27
@@ -278,7 +279,6 @@ takut 26
 ikan 26
 mendapat 26
 kawan 26
-seseorang 26
 memiliki 26
 Sudah 26
 Hari 26
@@ -433,6 +433,7 @@ petang 17
 biasa 17
 mata 17
 gambar 17
+dibuat 17
 gemar 17
 sebelah 17
 cuma 17
@@ -449,11 +450,11 @@ Terdapat 16
 basikal 16
 berdiri 16
 kuat 16
+bawah 16
 meletakkan 16
 maaf 16
 kurang 16
 menyukai 16
-dibuat 16
 memberikan 16
 Walaupun 16
 sukar 16
@@ -477,7 +478,6 @@ muzik 15
 Amerika 15
 kapal 15
 khabar 15
-bawah 15
 lapar 15
 awal 15
 lewat 15
@@ -511,6 +511,7 @@ melawat 14
 menghantar 14
 mengajar 14
 semula 14
+pula 14
 ayam 14
 bunga 14
 sebiji 14
@@ -543,7 +544,6 @@ beg 13
 Encik 13
 membina 13
 membuka 13
-pula 13
 biasanya 13
 tolong 13
 bapanya 13
@@ -1110,6 +1110,7 @@ turut 6
 bir 6
 Kelmarin 6
 Tidakkah 6
+kuasa 6
 peguam 6
 janji 6
 sempadan 6
@@ -1240,6 +1241,7 @@ gereja 5
 Engkau 5
 masalahnya 5
 Melanie 5
+perbezaan 5
 sampah 5
 berjalan-jalan 5
 terlebih 5
@@ -1280,7 +1282,6 @@ ketiga 5
 memotong 5
 menyanyikan 5
 mengharapkan 5
-kuasa 5
 puisi 5
 kasihan 5
 sepertinya 5
@@ -1381,6 +1382,7 @@ masin 4
 keluarganya 4
 melukis 4
 Kedai 4
+kecewa 4
 padang 4
 30 4
 lelakinya 4
@@ -1469,7 +1471,6 @@ sebut 4
 Buat 4
 Betulkah 4
 mari 4
-perbezaan 4
 Tunggu 4
 Mata 4
 kakak 4
@@ -1542,6 +1543,7 @@ sehelai 4
 tulang 4
 pemahaman 4
 Belajar 4
+politik 4
 rezeki 4
 jahat 4
 kemungkinan 4
@@ -1682,7 +1684,6 @@ terjemahan 3
 jelita 3
 Yang 3
 tutup 3
-kecewa 3
 Semakin 3
 penipuan 3
 euro 3
@@ -1775,6 +1776,7 @@ sensitif 3
 Minum 3
 melancarkan 3
 pasaran 3
+antarabangsa 3
 khemah 3
 terbuka 3
 mainan 3
@@ -1950,7 +1952,6 @@ kurus 3
 jenaka 3
 ekonomi 3
 berkongsi 3
-politik 3
 bolehkah 3
 suci 3
 do 3
@@ -2181,6 +2182,7 @@ peta 3
 سام 3
 of 3
 anime 3
+bidang 3
 بلوجور 3
 Lawan 3
 bergaduh 3
@@ -2404,7 +2406,6 @@ mengekalkan 2
 Kebanyakan 2
 membolehkan 2
 bersaing 2
-antarabangsa 2
 hentian 2
 Ahmad 2
 Sambil 2
@@ -2638,6 +2639,7 @@ subjek 2
 mengantuk 2
 Kampung 2
 nanas 2
+berdasarkan 2
 fizikal 2
 acara 2
 neneknya 2
@@ -3218,7 +3220,6 @@ Giliran 2
 مانيس 2
 موڠكين 2
 نيسبه 2
-bidang 2
 4:3 2
 برهنتي 2
 لاون 2
@@ -3249,6 +3250,7 @@ pemercik 2
 menyamarkan 2
 berarak 2
 hidangan 2
+wilayah 2
 Polis 2
 Toki 2
 Pona 2
@@ -3310,6 +3312,7 @@ tegas 2
 pergi" 2
 sepatah 2
 Ukraine 2
+merdeka 2
 tarik 2
 membangunkan 2
 semut 2
@@ -4328,7 +4331,6 @@ insaf 1
 Insan 1
 sifatnya 1
 menilai 1
-berdasarkan 1
 paras 1
 Latihan 1
 memanah 1
@@ -6672,7 +6674,6 @@ berkali-kali 1
 rindu 1
 Serangga 1
 lazat 1
-wilayah 1
 pangkuannya 1
 pelepasannya 1
 bersekedudukan 1
@@ -7156,7 +7157,6 @@ mengisytiharkan 1
 kemerdekaan 1
 rasmi 1
 mengiktiraf 1
-merdeka 1
 Hmm 1
 gred 1
 penggal 1
@@ -7707,3 +7707,10 @@ sakti 1
 Namaku 1
 memotivasikan 1
 umpan 1
+mimpikan 1
+Tambahan 1
+status 1
+amanah 1
+berkerajaan 1
+batasan 1
+kedaulatan 1

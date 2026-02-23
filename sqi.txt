@@ -1,9 +1,9 @@
 të 901
 e 588
 në 387
-është 336
-i 278
-një 269
+është 337
+i 279
+një 270
 nuk 251
 Nuk 234
 Tomi 219
@@ -40,8 +40,8 @@ Po 47
 këtë 41
 di 41
 ti 41
+Është 41
 këtu 40
-Është 40
 atë 39
 duhet 38
 ne 37
@@ -60,12 +60,12 @@ gjuhë 32
 Pse 32
 dua 31
 ajo 31
-Kjo 30
+Kjo 31
 kurrë 30
 ç'farë 30
 Mos 29
+ime 29
 pëlqen 29
-ime 28
 mua 28
 shtëpi 27
 kishte 27
@@ -159,12 +159,12 @@ duket 13
 bësh 13
 shkollë 13
 nëse 13
+libër 13
 shkojnë 13
 vështirë 12
 bën 12
 aq 12
 së 12
-libër 12
 Boston 12
 çdo 12
 t'i 12
@@ -175,6 +175,7 @@ fëmijë 11
 jesh 11
 shum 11
 pse 11
+ri 11
 punë 11
 nesër 11
 Askush 11
@@ -194,7 +195,6 @@ kisha 10
 Për 10
 gjithçka 10
 tim 10
-ri 10
 kafe 10
 kaq 10
 bëri 10
@@ -4167,3 +4167,4 @@ tregoj 1
 planet 1
 flemë 1
 donzhuane 1
+fletorja 1

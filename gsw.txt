@@ -2,8 +2,8 @@ isch 116
 Ich 40
 Tom 38
 I 34
+nöd 28
 De 28
-nöd 26
 S 25
 het 23
 Sie 22
@@ -22,10 +22,10 @@ i 13
 vo 13
 Buech 13
 nit 12
+mir 12
 han 12
 bisch 12
 mi 11
-mir 11
 D 11
 Da 11
 d 10
@@ -33,8 +33,10 @@ da 10
 Wiä 10
 bi 10
 em 10
+das 9
 e 9
 Mir 9
+Was 9
 ich 9
 Du 9
 z 9
@@ -42,8 +44,6 @@ mer 9
 go 9
 di 9
 gsi 9
-das 8
-Was 8
 der 8
 a 8
 Der 8
@@ -87,6 +87,7 @@ immer 5
 was 5
 oder 4
 Bitte 4
+au 4
 dini 4
 Bisch 4
 Chönd 4
@@ -108,6 +109,7 @@ gang 4
 über 4
 gha 4
 sie 4
+händ 4
 Ihr 4
 is 3
 nümme 3
@@ -121,7 +123,6 @@ Mi 3
 name 3
 mitenand 3
 Vo 3
-au 3
 häissisch 3
 zum 3
 Chan 3
@@ -157,7 +158,6 @@ vor 3
 mache 3
 zimli 3
 chönd 3
-händ 3
 vill 3
 Ech 3
 Grüezi 2
@@ -1040,3 +1040,4 @@ Dubel 1
 Zürcher 1
 ga 1
 blibäd 1
+bruchsch 1

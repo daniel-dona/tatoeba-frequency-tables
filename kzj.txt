@@ -1,9 +1,9 @@
 do 3398
 zou 1219
-di 1009
+di 1010
 no 910
-i 831
-Tom 702
+i 832
+Tom 703
 ku 653
 ko 651
 o 609
@@ -49,8 +49,8 @@ ka 108
 tadau 106
 au' 106
 miampai 102
-diho 99
-ginavo 99
+diho 100
+ginavo 100
 nga' 99
 ih 95
 disido 92
@@ -62,8 +62,8 @@ dosido 79
 hamin 76
 ko' 75
 kio 74
+Onu 65
 koiho 64
-Onu 64
 toun 63
 maan 63
 aiso 63
@@ -530,6 +530,7 @@ toniini 8
 kobohingkangan 8
 tokuudi 8
 tuni 8
+Oluo 8
 kalatas 8
 hinimput 8
 ginazo 8
@@ -587,7 +588,6 @@ diaho' 7
 manuk 7
 kohigaganan 7
 koluang 7
-Oluo 7
 ounsikou 7
 tana 7
 taka 7
@@ -1104,6 +1104,7 @@ nadadi 4
 monginduuk 4
 Noubas 4
 songinan 4
+nipizan 4
 saasabap 4
 mimpodu 4
 nokokodou 4
@@ -1497,7 +1498,6 @@ kulita/botilam 3
 sinuatan 3
 zaa 3
 mamalati 3
-nipizan 3
 dimpoton 3
 notinagas 3
 kabalai 3

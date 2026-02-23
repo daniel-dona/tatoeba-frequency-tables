@@ -4,9 +4,9 @@ a 14
 go 13
 e 10
 ya 10
-le 9
+le 10
+Ke 9
 ka 8
-Ke 8
 ba 7
 ke 6
 mo 5
@@ -23,6 +23,7 @@ leboga 2
 kwa 2
 Setswana 2
 gago 2
+na 2
 Go 2
 dira 2
 eng 2
@@ -66,7 +67,6 @@ ithutile 1
 kae 1
 kopa 1
 thuso 1
-na 1
 tsala 1
 buang 1
 nthusa 1
@@ -158,3 +158,6 @@ Nna 1
 letsatsi 1
 monate 1
 wetsho 1
+dikatse 1
+tse 1
+pedi 1

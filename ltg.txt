@@ -1,12 +1,12 @@
-ir 84
+ir 85
 Es 43
 Maņ 25
 ka 25
-Tys 22
+Tys 23
+nav 21
 tū 20
 Voi 20
 i 20
-nav 20
 Jis 17
 Toms 16
 par 16
@@ -92,6 +92,7 @@ vuordu 3
 palyka 3
 Marija 3
 Nivīns 3
+bet 3
 nabeja 3
 tūs 3
 Tev 3
@@ -103,6 +104,7 @@ Dzeive 3
 jiutu 3
 lobuok 3
 byutu 3
+eistyn 3
 varātu 3
 cylvākim 3
 Tei 3
@@ -163,7 +165,6 @@ var 2
 volūdu 2
 narunoj 2
 juos 2
-bet 2
 saceja 2
 tāvs 2
 nūteik 2
@@ -198,7 +199,6 @@ juobyut 2
 Man 2
 naudu 2
 naudys 2
-eistyn 2
 Izavielej 2
 tai 2
 Tī 2
@@ -1047,3 +1047,7 @@ smītīs 1
 nūslāgtu 1
 attureigs 1
 Nastruodoj 1
+Pruots 1
+vacumā 1
+golvā 1
+absurdi 1
