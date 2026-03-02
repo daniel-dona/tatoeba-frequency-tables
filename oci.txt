@@ -1,14 +1,14 @@
 de 4641
- 3734
+ 3736
 pas 3248
-es 2987
-a 2757
-la 2699
+es 2990
+a 2759
+la 2702
 un 2179
 lo 2027
 que 1705
 Tom 1485
-Lo 1404
+Lo 1405
 una 1373
 Es 1345
 La 1000
@@ -24,13 +24,13 @@ Ai 565
 Me 493
 dins 471
 mai 468
-plan 436
+plan 437
 Los 424
 al 412
 èra 388
 amb 379
-A 377
-mon 361
+A 378
+mon 367
 çò 360
 Tòm 310
 me 309
@@ -73,9 +73,9 @@ qu'ei 170
 bon 167
 cap 167
 sa 165
+Mon 161
 Siá 160
 pòt 159
-Mon 158
 qué 156
 aquesta 156
 anar 155
@@ -150,6 +150,7 @@ vila 91
 cafè 91
 tornar 90
 tres 90
+amic 89
 vòl 89
 vau 87
 Avètz 86
@@ -162,7 +163,6 @@ can 84
 libre 83
 Pòdi 83
 oras 82
-amic 82
 vertadièrament 82
 mes 82
 Sabes 82
@@ -223,9 +223,9 @@ tanben 65
 totes 65
 foguèt 65
 vist 64
+Vaquí 64
 qu'a 64
 mètge 63
-Vaquí 63
 serà 63
 lor 63
 crompar 63
@@ -476,6 +476,7 @@ Ara 32
 » 32
 cossí 32
 novèl 32
+dich 32
 Cal 32
 mair 31
 Com 31
@@ -490,7 +491,6 @@ pendent 31
 copat 31
 França 31
 nòu 31
-dich 31
 tos 31
 Dieu 31
 chuc 31
@@ -603,8 +603,10 @@ botiga 25
 seguretat 25
 aprés 25
 retard 25
+amiga 25
 idèa 25
 l'aiga 25
+malaut 25
 sopa 25
 tanta 25
 començat 25
@@ -634,7 +636,6 @@ l'an 24
 sortir 24
 Me'n 24
 vòus 24
-malaut 24
 era 24
 sentissi 24
 color 24
@@ -659,8 +660,8 @@ present 23
 soa 23
 cas 23
 bons 23
+restaurant 23
 Qu'a 23
-amiga 23
 navèth 23
 drin 23
 pastís 23
@@ -692,7 +693,6 @@ natura 22
 tornat 22
 portar 22
 d'aver 22
-restaurant 22
 cans 22
 clau 22
 diferéncia 22
@@ -1056,6 +1056,7 @@ malautiá 15
 formatge 15
 vacas 15
 baga 15
+Mercé 15
 dret 14
 nat 14
 cent 14
@@ -1216,7 +1217,6 @@ alara 13
 pescajons 13
 pitre 13
 remandat 13
-Mercé 13
 fenomèn 13
 dessús 12
 léger 12
@@ -1368,6 +1368,7 @@ equipa 11
 sang 11
 naut 11
 relòtge 11
+Plan 11
 petar 11
 Le 11
 govèrn 11
@@ -1481,7 +1482,6 @@ fièr 10
 volèm 10
 soleta 10
 barrada 10
-Plan 10
 experiéncia 10
 Bordèu 10
 mons 10
@@ -1610,6 +1610,7 @@ castèl 9
 Adishatz 9
 trenta 9
 impossible 9
+Bonjorn 9
 Serà 9
 pacient 9
 soma 9
@@ -1724,6 +1725,7 @@ atèu 9
 ausèl 9
 cardiac 9
 ministre 9
+cantonada 9
 tarta 9
 lactòsa 9
 carrèra 8
@@ -1750,6 +1752,7 @@ aimable 8
 mancar 8
 docha 8
 neta 8
+malauta 8
 dissabte 8
 petat 8
 cantan 8
@@ -1793,7 +1796,6 @@ discotèca 8
 occitana 8
 american 8
 paciéncia 8
-Bonjorn 8
 politica 8
 pagat 8
 caminar 8
@@ -1964,7 +1966,6 @@ aperat 7
 dusau 7
 tribalhar 7
 Ne'm 7
-malauta 7
 l'entorn 7
 roman 7
 joens 7
@@ -2558,7 +2559,6 @@ umid 6
 L'odor 6
 matinada 6
 molhèr 6
-cantonada 6
 creacion 6
 sanglot 6
 canhós 6
@@ -4541,6 +4541,7 @@ rasonable 3
 mètges 3
 orientala 3
 Demòras 3
+Felicitacions 3
 Impossible 3
 escala 3
 volriá 3
@@ -6425,7 +6426,6 @@ pregària 2
 Venèm 2
 pas" 2
 timbres 2
-Felicitacions 2
 d'espèr 2
 normalament 2
 qu'èretz 2

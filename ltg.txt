@@ -1,4 +1,4 @@
-ir 85
+ir 86
 Es 43
 Maņ 25
 ka 25
@@ -7,8 +7,8 @@ nav 21
 tū 20
 Voi 20
 i 20
+Toms 17
 Jis 17
-Toms 16
 par 16
 beja 16
 es 15
@@ -232,6 +232,7 @@ mēreibai 2
 reits 2
 Reigā 2
 baltu 2
+dzeivinīku 2
 politiku 2
 beistās 2
 zīds 1
@@ -1032,7 +1033,6 @@ nikaidā 1
 veidā 1
 nūkaut 1
 nivīnu 1
-dzeivinīku 1
 nacīšu 1
 dzeivinīki 1
 cīš 1
@@ -1051,3 +1051,4 @@ Pruots 1
 vacumā 1
 golvā 1
 absurdi 1
+draugs 1

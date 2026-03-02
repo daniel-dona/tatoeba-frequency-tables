@@ -1,4 +1,4 @@
-on 1572
+on 1576
 Ma 943
 ei 751
 Tom 623
@@ -56,10 +56,10 @@ Kes 60
 sinu 59
 hea 59
 sul 56
+välja 54
 mis 53
 ema 53
 teha 53
-välja 52
 saa 52
 te 52
 Palun 51
@@ -315,6 +315,7 @@ ostis 13
 puu 13
 korda 13
 piisavalt 13
+sisse 13
 nägin 13
 võib 13
 saad 13
@@ -358,7 +359,6 @@ elame 11
 vihkan 11
 probleem 11
 haige 11
-sisse 11
 uuesti 11
 Tule 11
 Bostonisse 11
@@ -2529,6 +2529,12 @@ kaardil 2
 Saatsin 2
 emale 2
 looda 2
+Laadoga 2
+täielikult 2
+jäätunud 2
+Castle 2
+Logi 2
+Logige 2
 Sellises 1
 kärestikus 1
 mõtlematu 1
@@ -6827,3 +6833,10 @@ eestlasi 1
 tehnoloogias 1
 õli 1
 vedelikud 1
+järv 1
+Windsor 1
+loss 1
+Dover 1
+linnus 1
+Registreeru 1
+Registreeruge 1

@@ -1,6 +1,6 @@
 ang 34556
-sa 27632
-ng 26154
+sa 27633
+ng 26156
 na 16597
 po 13857
 ko 12479
@@ -14,12 +14,12 @@ Hindi 6019
 at 5462
 ba 5245
 niya 4800
-ay 4671
+ay 4672
 ito 4595
 siya 4528
 May 3998
 nang 3718
-Ang 3648
+Ang 3649
 ka 3600
 hindi 3024
 akong 2865
@@ -27,7 +27,7 @@ isang 2844
 may 2753
 kong 2549
 ninyo 2549
-para 2467
+para 2468
 kung 2422
 Sa 2224
 iyon 2127
@@ -516,12 +516,12 @@ mangyayari 107
 pula 107
 Masyadong 106
 diyan 106
+bundok 106
 likod 106
 Nestor 106
 pamangkin 106
 ginagamit 105
 At 105
-bundok 105
 laman 105
 Pebrero 105
 mahilig 105
@@ -1444,6 +1444,7 @@ lapis 38
 pagbabasa 38
 akala 38
 luma 38
+pinya 38
 aalis 38
 kalimutan 38
 Nagbebenta 38
@@ -1469,7 +1470,6 @@ petsa 37
 Binili 37
 bituin 37
 sandata 37
-pinya 37
 Maaga 37
 kamatis 37
 Buksan 37
@@ -2317,6 +2317,7 @@ pakainin 23
 abo 23
 pusang 23
 Julia 23
+angkop 23
 sibuyas 23
 butil 23
 nagmamay-ari 23
@@ -2401,7 +2402,6 @@ ninakaw 22
 mesang 22
 bigat 22
 bakla 22
-angkop 22
 matutong 22
 malupit 22
 pinakamalaking 22

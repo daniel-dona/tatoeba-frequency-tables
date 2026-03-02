@@ -23,7 +23,7 @@ kena 128
 tau 127
 ada 119
 boleh 119
-orang 112
+orang 113
 apa 111
 ke 108
 rasa 98
@@ -70,8 +70,8 @@ beli 35
 tolong 35
 pulak 34
 dengar 33
+lain 33
 dulu 32
-lain 32
 Apa 31
 duit 31
 mana 31
@@ -217,6 +217,7 @@ pinjam 10
 بوات 10
 کاو 10
 kecik 10
+awak 9
 kata 9
 langsung 9
 diri 9
@@ -241,7 +242,6 @@ Korang 9
 paham 9
 muka 9
 bayar 9
-awak 8
 cuma 8
 cepat 8
 belum 8
@@ -647,6 +647,7 @@ soalan 3
 wayang 3
 panjang 3
 kesian 3
+Apasal 3
 hujan 3
 mesej 3
 Kesian 3
@@ -919,7 +920,6 @@ umur 2
 Dua-dua 2
 Jalan 2
 Ingatkan 2
-Apasal 2
 Kena 2
 Pakcik 2
 dara 2
@@ -2374,3 +2374,6 @@ Mike 1
 اداله 1
 منچيڤتاکن 1
 ماءينکرف‌ت‏ 1
+simpankan 1
+rahsia 1
+ek 1
