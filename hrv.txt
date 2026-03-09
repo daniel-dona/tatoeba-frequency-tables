@@ -1,12 +1,12 @@
-je 1860
+je 1863
 se 695
-u 618
-sam 504
+u 619
+sam 506
 da 464
-li 421
+li 423
 na 362
 ne 314
-Tom 310
+Tom 313
 i 269
 mi 240
 su 237
@@ -20,15 +20,15 @@ od 166
 On 157
 ti 138
 To 133
-te 128
+te 130
 me 124
-smo 117
+smo 119
 s 113
 će 112
 Ja 104
 Ona 103
+Što 102
 bi 102
-Što 100
 ću 94
 bio 86
 o 81
@@ -42,7 +42,7 @@ Tko 64
 Jesi 64
 Gdje 59
 Zašto 57
-još 56
+još 57
 Je 55
 sve 55
 Želim 54
@@ -75,10 +75,10 @@ bilo 46
 ovdje 46
 samo 46
 a 45
+Nisam 45
 ljudi 45
 Koliko 45
 koji 45
-Nisam 44
 ovo 42
 nisam 42
 U 42
@@ -90,8 +90,8 @@ ili 40
 Moj 39
 vremena 39
 tamo 39
+mu 39
 Da 38
-mu 38
 ja 38
 rekao 38
 znam 36
@@ -110,6 +110,7 @@ moja 33
 kada 33
 vidjeti 33
 taj 32
+ništa 32
 nas 32
 tu 32
 mene 32
@@ -117,7 +118,6 @@ godine 32
 Mislim 32
 Ti 32
 Nije 32
-ništa 31
 doći 31
 ćeš 31
 radi 30
@@ -160,6 +160,7 @@ dobar 24
 čovjek 24
 sutra 24
 bili 24
+sada 24
 Ta 23
 tko 23
 kući 23
@@ -170,7 +171,7 @@ Koji 23
 nam 23
 jer 23
 voli 23
-sada 23
+vidio 23
 jednu 23
 ćemo 23
 dok 23
@@ -180,31 +181,30 @@ ste 22
 dijete 22
 Bio 22
 tome 22
-vidio 22
 gdje 22
 Znam 22
 želi 22
 Ovaj 22
 Mi 21
 tri 21
+novac 21
 svojim 21
 Uvijek 21
 Imaš 21
 problem 21
 zbog 21
 zove 20
-novac 20
 govori 20
 zna 20
 kupio 20
 jezik 20
+Jučer 20
 došao 20
 trebao 20
 Ima 20
 zar 19
 žena 19
 Možete 19
-Jučer 19
 Taj 19
 Sve 19
 ih 19
@@ -236,6 +236,7 @@ dovoljno 17
 znati 17
 francuski 17
 ona 17
+knjige 17
 otac 17
 put 17
 riječ 17
@@ -251,7 +252,6 @@ sviđa 16
 psa 16
 Bilo 16
 Kad 16
-knjige 16
 toga 16
 svog 16
 nalazi 16
@@ -390,6 +390,7 @@ Moramo 11
 imaš 11
 Kao 11
 vam 11
+Nisi 11
 dati 11
 preko 11
 prvi 11
@@ -417,6 +418,7 @@ rječnik 10
 Koja 10
 njemački 10
 Čovjek 10
+bolestan 10
 glazbu 10
 Dao 10
 vole 10
@@ -434,7 +436,6 @@ pitati 10
 sretan 10
 Vrlo 10
 gladan 10
-Nisi 10
 novi 10
 kroz 10
 između 10
@@ -514,7 +515,6 @@ tenis 9
 neću 8
 istina 8
 posjetiti 8
-bolestan 8
 poput 8
 ljeta 8
 pričati 8
@@ -634,6 +634,7 @@ moram 7
 trebali 7
 rečenica 7
 Dobio 7
+Vidio 7
 sastanak 7
 Puno 7
 zabavu 7
@@ -740,7 +741,6 @@ upravo 6
 događa 6
 Sigurno 6
 John 6
-Vidio 6
 poznaje 6
 svemu 6
 daje 6
@@ -901,6 +901,7 @@ zaustaviti 5
 razredu 5
 Odmah 5
 Reći 5
+Vidjeli 5
 pokazati 5
 kraja 5
 jela 5
@@ -967,6 +968,7 @@ spremna 5
 Kakva 5
 pjesma 5
 dokaz 5
+otvorio 5
 odlučio 5
 pištolj 5
 cijelo 5
@@ -1004,6 +1006,7 @@ prilično 4
 tijekom 4
 muškarca 4
 pomogne 4
+pomogao 4
 drugim 4
 ruku 4
 prošlo 4
@@ -1155,7 +1158,6 @@ nikoga 4
 odjeću 4
 trenutno 4
 uvjeriti 4
-Vidjeli 4
 potrošio 4
 psi 4
 Učitelj 4
@@ -1275,7 +1277,6 @@ toalet 4
 šešir 4
 Itoh 4
 velikim 4
-otvorio 4
 dogodi 4
 Novac 4
 smijemo 4
@@ -1290,6 +1291,7 @@ Sokrat 4
 kruh 4
 ispred 4
 pobijediti 4
+grožđe 4
 Hajde 4
 Bože 4
 sranje 4
@@ -1335,7 +1337,6 @@ bolnicu 3
 knjizi 3
 kiše 3
 Meni 3
-pomogao 3
 Lako 3
 prekrasan 3
 pronašao 3
@@ -1454,6 +1455,7 @@ pričaš 3
 trudna 3
 smiješno 3
 kasno 3
+drugu 3
 kameru 3
 igrajući 3
 jednako 3
@@ -1822,7 +1824,7 @@ poslala 3
 lagao 3
 neku 3
 Venera 3
-grožđe 3
+jedeš 3
 Izvolite 3
 glupa 3
 zelena 3
@@ -1984,6 +1986,7 @@ SAD-a 2
 prednost 2
 onom 2
 Otvori 2
+bocu 2
 povrće 2
 Ljubav 2
 organa 2
@@ -2078,7 +2081,6 @@ siv 2
 počni 2
 traje 2
 Kanadi 2
-drugu 2
 provodiš 2
 djecom 2
 sporije 2
@@ -2126,6 +2128,7 @@ objašnjenje 2
 uspio 2
 program 2
 troši 2
+zvona 2
 učenike 2
 šalica 2
 diskriminacije 2
@@ -2667,6 +2670,7 @@ kojemu 2
 Metafore 2
 ručak 2
 svu 2
+ranije 2
 prekrasne 2
 večer 2
 prvom 2
@@ -2743,6 +2747,7 @@ tih 2
 Doktor 2
 stao 2
 zamijenio 2
+med 2
 dah 2
 Šta 2
 početak 2
@@ -3021,10 +3026,10 @@ sjeo 2
 Rimu 2
 umorna 2
 Isus 2
+Čuli 2
 oslijepi 2
 madež 2
 nebo 2
-jedeš 2
 tamu 2
 kreveta 2
 soka 2
@@ -3517,7 +3522,6 @@ Manga 1
 Piece" 1
 popularna 1
 Maleziji 1
-bocu 1
 Popravi 1
 natjerati 1
 obučena 1
@@ -3949,7 +3953,6 @@ naslonjaču 1
 Ozbiljno 1
 pričaj 1
 crkvena 1
-zvona 1
 učionicu 1
 izbačen 1
 Kucao 1
@@ -6012,7 +6015,6 @@ Probudila 1
 guraj 1
 Planiram 1
 diljem 1
-ranije 1
 razbio 1
 pretili 1
 napravim 1
@@ -6302,7 +6304,6 @@ prostora 1
 zastrašuje 1
 Putovanje 1
 Sat 1
-med 1
 zaslađivač 1
 Naoko 1
 bijeloj 1
@@ -7776,7 +7777,6 @@ zid 1
 smatram 1
 nauči 1
 pretrpjeti 1
-Čuli 1
 prepatili 1
 ga; 1
 presudite 1
@@ -8837,3 +8837,11 @@ Kazahstanu 1
 predivnom 1
 onih 1
 naudili 1
+piješ 1
+crkve 1
+Posudio 1
+Tegucigalpi 1
+Čitaj 1
+Jedu 1
+medvjedi 1
+Jede 1

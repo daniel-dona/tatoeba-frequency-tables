@@ -1,10 +1,10 @@
 lo 12943
 mi 6293
-cu 3569
-do 3384
+cu 3570
+do 3385
 la 3073
 pu 2338
-le 2325
+le 2326
 nu 2142
 se 1942
 i 1902
@@ -138,10 +138,10 @@ la'o 116
 du 114
 denpa 113
 ckafi 113
+barda 112
 ponse 112
 jimpe 112
 roi 112
-barda 111
 co'e 111
 e'u 111
 va 108
@@ -1626,6 +1626,7 @@ itku'ile 5
 verclibau 5
 si'u 5
 xarju 5
+pinji 5
 bastn 5
 kalsa 5
 karbi 5
@@ -1851,7 +1852,6 @@ vi'ecpe 4
 dunku 4
 cecmu 4
 u'a 4
-pinji 4
 cmala'u 4
 ki'otre 4
 jelgau 4

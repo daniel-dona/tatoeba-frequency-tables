@@ -1,16 +1,16 @@
-ang 34556
+ang 34557
 sa 27633
 ng 26156
 na 16597
 po 13857
-ko 12479
+ko 12480
 mga 12080
-Tom 9546
+Tom 9547
 si 8880
 ako 8263
-ni 6252
+ni 6253
 mo 6172
-Hindi 6019
+Hindi 6020
 at 5462
 ba 5245
 niya 4800
@@ -190,7 +190,7 @@ pangalan 326
 kuwarto 326
 kanilang 322
 bukas 321
-Anong 317
+Anong 318
 habang 313
 makita 312
 tabi 310
@@ -349,11 +349,11 @@ kusina 164
 yelo 164
 isip 163
 magulang 163
+mansanas 162
 nangyari 162
 malapit 162
 ayaw 162
 Esperanto 162
-mansanas 161
 ulo 161
 Masyado 159
 paborito 159
@@ -661,6 +661,7 @@ apat 84
 pintuan 84
 Hunyo 83
 telebisyon 83
+kinakain 83
 kompyuter 83
 naniniwala 83
 bato 83
@@ -671,7 +672,6 @@ baboy 83
 manatili 83
 eskwela 83
 barko 82
-kinakain 82
 sagot 82
 Handa 82
 Enero 82
@@ -3991,6 +3991,7 @@ miyembro 12
 maligo 12
 gumalaw 12
 pagpupulong 12
+sinusulat 12
 mahuli 12
 Umiyak 12
 ilusyon 12
@@ -4285,7 +4286,6 @@ Magkaibigan 11
 TV 11
 ipagpatuloy 11
 Pinanganak 11
-sinusulat 11
 makitang 11
 umaandar 11
 dyus 11
