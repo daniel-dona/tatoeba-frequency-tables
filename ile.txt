@@ -1,26 +1,26 @@
-es 3588
-Yo 2601
-un 2087
+es 3590
+Yo 2605
+un 2089
 li 1891
 Tom 1686
 ne 1553
 Li 909
 in 863
-tu 812
+tu 813
 have 792
 Esque 792
 Il 738
-ha 705
+ha 707
 esset 655
-de 616
-que 603
+de 617
+que 604
 Ella 523
 to 510
 va 471
 quo 469
 Noi 464
 me 453
-it 445
+it 446
 save 437
 vole 430
 mi 425
@@ -152,11 +152,11 @@ comprende 58
 scrit 58
 tam 58
 dentes 58
+fémina 57
+comprat 57
 patre 57
-fémina 56
+mann 57
 football 56
-comprat 56
-mann 56
 nequó 56
 havet 56
 sestra 55
@@ -259,6 +259,7 @@ Bon 31
 Deo 31
 alt 31
 question 31
+espera 31
 chascun 31
 denov 31
 Germania 30
@@ -267,7 +268,6 @@ fort 30
 amat 30
 audit 30
 maritat 30
-espera 30
 facil 30
 Australia 30
 sercha 29
@@ -376,6 +376,7 @@ jardin 20
 flores 20
 usa 20
 gemelles 20
+comprendet 20
 pret 20
 ludet 20
 quin 20
@@ -392,7 +393,6 @@ har 19
 just 19
 telefon 19
 stult 19
-comprendet 19
 vacca 19
 poc 19
 dangerosi 19
@@ -830,6 +830,7 @@ Turcia 8
 capitano 8
 prison 8
 apes 8
+oves 8
 Sin 8
 cultelle 8
 árbores 8
@@ -913,7 +914,6 @@ diferentie 7
 modern 7
 consolar 7
 folli 7
-oves 7
 elefant 7
 mill 7
 statu 7
@@ -1251,6 +1251,7 @@ footballero 5
 3 5
 lent 5
 folies 5
+Iran 5
 subvestiment 5
 amícos 5
 comendat 5
@@ -1469,7 +1470,6 @@ sputat 4
 genio 4
 barbe 4
 fructes 4
-Iran 4
 ataccat 4
 Guerre 4
 combattet 4
@@ -2090,6 +2090,7 @@ Andrei 2
 Tre 2
 ll 2
 acompania 2
+Francesi 2
 William 2
 ínjust 2
 medicina 2
@@ -2301,6 +2302,7 @@ habil 2
 seductet 2
 rar 2
 Sagiesse 2
+Aprende 2
 ínpotent 2
 director 2
 colega 2
@@ -3180,7 +3182,6 @@ ructat 1
 Hongkong 1
 Cruelitá 1
 patientes 1
-Francesi 1
 Sir 1
 babillar 1
 frauda 1
@@ -3651,7 +3652,6 @@ assistenta 1
 Burj 1
 Khalifa 1
 gratta-ciel 1
-Aprende 1
 mobil-telefon 1
 lasset 1
 doce 1

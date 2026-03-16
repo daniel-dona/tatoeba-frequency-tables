@@ -1,48 +1,48 @@
-de 4644
+de 4645
  3736
-pas 3248
+pas 3251
 es 2990
 a 2759
 la 2703
-un 2180
+un 2182
 lo 2028
 que 1705
-Tom 1485
+Tom 1486
 Lo 1405
 una 1373
 Es 1345
-La 1001
+La 1002
 e 909
-son 857
-en 753
+son 861
+en 756
 las 740
 per 723
 Soi 671
-los 598
+los 605
 se 584
-Ai 565
-Me 493
+Ai 567
+Me 494
 dins 471
 mai 468
 plan 437
 Los 424
 al 412
 èra 389
-amb 379
+amb 380
 A 378
 mon 367
 çò 360
+me 312
 Tòm 310
-me 309
 del 303
-Siás 293
+Siás 294
 I 284
-aquò 278
+aquò 279
 tot 255
 Aqueste 253
 coma 250
-aqueste 248
-temps 240
+aqueste 249
+temps 241
 far 239
 Las 238
 As 234
@@ -51,9 +51,9 @@ Vòli 230
 Que 228
 te 227
 Te 226
+sus 221
 cal 219
 De 215
-sus 212
 au 209
 Maria 209
 soi 207
@@ -78,15 +78,15 @@ Siá 160
 pòt 159
 qué 156
 aquesta 156
+fa 155
 anar 155
-fa 154
 tu 153
 i 152
 monde 152
 totjorn 152
 jorn 151
-mas 149
-còp 148
+mas 151
+còp 149
 èsser 148
 sembla 144
 mès 143
@@ -96,11 +96,11 @@ parlar 138
 Èi 136
 Aquesta 135
 veitura 134
+ieu 133
 res 132
 Sèm 131
-d'un 129
-ieu 129
-pauc 126
+d'un 130
+pauc 127
 Sabi 126
 tròp 124
 vida 122
@@ -111,9 +111,9 @@ Vos 117
 ua 117
 tan 116
 quicòm 116
+trabalh 116
 encara 115
 qui 114
-trabalh 114
 lenga 113
 Ne 112
 cau 112
@@ -139,12 +139,12 @@ Quin 100
 Nos 99
 mei 98
 nos 98
+ne 97
 Perqué 97
 pro 96
 pòdi 96
-ne 95
 hèr 94
-Tot 92
+Tot 93
 dens 92
 vila 91
 cafè 91
@@ -209,6 +209,7 @@ men 69
 ben 69
 Quala 69
 dos 69
+totes 69
 li 68
 melhor 68
 pel 68
@@ -220,7 +221,6 @@ dire 66
 matin 65
 gat 65
 tanben 65
-totes 65
 foguèt 65
 vist 64
 Vaquí 64
@@ -335,6 +335,7 @@ letra 44
 sia 43
 dit 43
 hè 43
+uèlhs 43
 ende 43
 Quand 43
 caud 42
@@ -359,6 +360,7 @@ biais 41
 moment 41
 ni 41
 lach 41
+el 40
 urós 40
 mans 40
 jòc 40
@@ -366,6 +368,7 @@ Era 40
 m'a 40
 : 40
 entà 40
+ser 40
 vengut 40
 quitament 40
 cosina 40
@@ -378,7 +381,6 @@ gaireben 39
 fin 39
 mens 39
 mar 39
-ser 39
 crompat 39
 èran 39
 aital 39
@@ -397,7 +399,6 @@ bicicleta 37
 Espèri 37
 hens 37
 d'argent 37
-el 36
 grand 36
 pr'amor 36
 pichon 36
@@ -408,7 +409,6 @@ part 36
 quina 36
 vas 36
 trobat 36
-uèlhs 36
 fòrt 36
 Ven 36
 manjat 36
@@ -556,6 +556,7 @@ d'estar 27
 negre 27
 duas 27
 plen 27
+seguretat 27
 d'aquí 27
 gròs 27
 enveja 27
@@ -600,7 +601,6 @@ cantar 25
 diccionari 25
 Ei 25
 botiga 25
-seguretat 25
 aprés 25
 retard 25
 amiga 25
@@ -616,6 +616,7 @@ santat 25
 preferit 25
 Parli 25
 vegetarian 25
+nosautres 25
 ela 25
 voliá 25
 Barcelona 25
@@ -646,11 +647,11 @@ l'amor 24
 après 24
 començar 24
 regularament 24
+Demòra 24
 carrièra 24
 Sap 24
 jardin 24
 sortida 24
-nosautres 24
 reünion 24
 Va 23
 tostemps 23
@@ -669,7 +670,6 @@ aquestes 23
 simplament 23
 concèrt 23
 aquestas 23
-Demòra 23
 plànher 23
 èri 23
 Quora 23
@@ -776,6 +776,7 @@ passèt 20
 dificil 20
 Detèsti 20
 poiriá 20
+Totes 20
 panièr 20
 vòstras 19
 Pas 19
@@ -850,6 +851,7 @@ teatre 18
 beutat 18
 Vai 18
 situacion 18
+arma 18
 fotbòl 18
 plena 18
 public 18
@@ -922,7 +924,6 @@ copèt 17
 Totòm 17
 esperar 17
 val 17
-Totes 17
 moriguèt 17
 mantèl 17
 simple 17
@@ -1085,7 +1086,6 @@ memòria 14
 botelha 14
 pagar 14
 brave 14
-arma 14
 disi 14
 Escriu 14
 nombre 14
@@ -1215,6 +1215,7 @@ conten 13
 pèrdre 13
 alara 13
 pescajons 13
+suls 13
 pitre 13
 remandat 13
 fenomèn 13
@@ -1284,6 +1285,7 @@ Pensa 12
 sent 12
 sadol 12
 dobèrta 12
+cambièt 12
 Daissa-me 12
 fòl 12
 arbre 12
@@ -1497,7 +1499,6 @@ femnas 10
 Farai 10
 prenguèt 10
 aiman 10
-cambièt 10
 Arribèt 10
 Sès 10
 sal 10
@@ -1529,7 +1530,6 @@ tristesa 10
 gòt 10
 Faguèt 10
 pijama 10
-suls 10
 Sai 10
 Encara 10
 gàbia 10
@@ -2665,6 +2665,7 @@ cauçuras 5
 apartament 5
 Hens 5
 mangi 5
+sentir 5
 Milan 5
 paradís 5
 jornau 5
@@ -3200,7 +3201,6 @@ gràcia 4
 longs 4
 taus 4
 Comenci 4
-sentir 4
 finau 4
 maridadas 4
 velocitat 4
@@ -3691,6 +3691,7 @@ rendètz-vos 4
 elasticitat 4
 Esitetz 4
 càmbian 4
+planhi 4
 sògra 4
 crudèla 4
 sorrastra 4
@@ -5187,6 +5188,7 @@ Començatz 3
 estabosit 3
 geinat 3
 quiqueta 3
+metèo 3
 mandèri 3
 Minecraft 3
 Nasquèt 3
@@ -5478,6 +5480,7 @@ ressopet 3
 prigond 3
 turca 3
 farcit 3
+ecrans 3
 escapar 2
 ruca 2
 quantas 2
@@ -6890,6 +6893,7 @@ desgost 2
 desgosta 2
 fastiga 2
 desgostant 2
+fastigós 2
 endolentit 2
 macat 2
 fornisson 2
@@ -7013,6 +7017,7 @@ petrolièra 2
 Deuriam 2
 sovenir 2
 T'assassinarai 2
+Demòres 2
 octòbre 2
 Nesquik 2
 prescripcion 2
@@ -7069,7 +7074,6 @@ Trepegetz 2
 Esites 2
 Trantalhes 2
 Trantalhetz 2
-planhi 2
 melhorament 2
 sògre 2
 nebodas 2
@@ -7740,7 +7744,6 @@ T'arrèstes 2
 mèg 2
 reculhís 2
 ipotèsi 2
-metèo 2
 collaborat 2
 vegada 2
 Qu'en 2
@@ -7831,6 +7834,7 @@ S'agissiá 2
 d'oliva 2
 dreitièr 2
 occidentala 2
+blocat 2
 benigne 2
 renovat 2
 abonament 2
@@ -9994,7 +9998,3 @@ demorèi 1
 Muisha'm 1
 Qu'ensenha 1
 cramada 1
-camins 1
-aparat 1
-plap 1
-bistèc 1

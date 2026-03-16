@@ -8,7 +8,7 @@ nuk 251
 Nuk 234
 Tomi 219
 do 179
-me 178
+me 177
 për 170
 që 165
 më 165
@@ -196,7 +196,6 @@ Për 10
 gjithçka 10
 tim 10
 kafe 10
-kaq 10
 bëri 10
 Je 10
 gjuha 10
@@ -221,6 +220,7 @@ madhe 9
 fortë 9
 as 9
 frëngjisht 9
+kaq 9
 Edhe 9
 Meri 9
 shqiptare 9
@@ -252,7 +252,6 @@ kush 8
 Gëzuar 7
 lirë 7
 anglisht 7
-Mirë 7
 shoh 7
 Jemi 7
 na 7
@@ -290,6 +289,7 @@ madh 7
 t'ju 7
 ndërtojmë 7
 flisni 6
+Mirë 6
 bëjmë 6
 ate 6
 dashur 6
@@ -1726,8 +1726,6 @@ Ndërtesa 1
 zuri 1
 pamjen 1
 mbaroi 1
-/ 1
-boll 1
 mbarojmë 1
 mësimin 1
 paguajë 1

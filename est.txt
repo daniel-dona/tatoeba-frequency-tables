@@ -1,4 +1,4 @@
-on 1577
+on 1578
 Ma 943
 ei 751
 Tom 623
@@ -119,11 +119,11 @@ aega 31
 koos 31
 suur 31
 räägin 31
+pealinn 31
 meie 30
 mitte 30
 armastan 30
 mul 30
-pealinn 30
 seal 30
 ka 29
 siis 29
@@ -6842,3 +6842,5 @@ Registreeru 1
 Registreeruge 1
 Kivi 1
 kõva 1
+Šveitsi 1
+Bern 1

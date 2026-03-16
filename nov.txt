@@ -1,5 +1,5 @@
-es 335
-Me 168
+es 337
+Me 170
 Li 114
 li 112
 Tom 104
@@ -61,6 +61,7 @@ pove 10
 manjad 10
 filias 10
 Vus 9
+fema 9
 Disi 9
 lage 9
 kate 9
@@ -73,7 +74,6 @@ sen 8
 vivar 8
 Quum 8
 parla 8
-fema 8
 mesaje 8
 vida 8
 labora 8
@@ -134,6 +134,7 @@ Las 5
 Lan 5
 tempe 5
 Lon 5
+fransum 5
 ve 5
 mus 5
 ganad 5
@@ -145,6 +146,7 @@ plu 5
 viva 5
 prisa 5
 Sami 5
+lerna 5
 portad 5
 longi 5
 fishes 5
@@ -168,11 +170,11 @@ inteligenti 4
 an 4
 horlojete 4
 Los 4
-fransum 4
 Le 4
 amad 4
 Let 4
 sal 4
+Non 4
 dar 4
 verim 4
 Australia 4
@@ -183,8 +185,8 @@ judes 4
 robes 4
 monde 4
 se 4
-lerna 4
 venid 4
+anglum 4
 rosikolori 4
 sempre 4
 felisi 4
@@ -232,7 +234,6 @@ furtad 3
 patro 3
 dormi 3
 Tatoeba 3
-Non 3
 brulad 3
 gana 3
 vivo 3
@@ -374,6 +375,7 @@ Hitler 2
 John 2
 Leon 2
 Trump 2
+viro 2
 animal 2
 kata 2
 astonantim 2
@@ -381,7 +383,6 @@ monstre 2
 pire 2
 merita 2
 koses 2
-anglum 2
 danjere 2
 Pueras 2
 Novial 2
@@ -443,6 +444,7 @@ vagine 2
 kukumbre 2
 plea 2
 piano 2
+Lerna 2
 sanktifika 1
 veni; 1
 dukte 1
@@ -724,7 +726,6 @@ fugad 1
 kapitaliste 1
 fres 1
 voise 1
-viro 1
 Usa 1
 Spanum 1
 simil 1

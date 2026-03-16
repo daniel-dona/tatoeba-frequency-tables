@@ -1,15 +1,15 @@
 isch 81
-'n 43
+'n 47
+sint 42
 Tom 39
-sint 37
-Éu 27
+Éu 32
 ün 27
 non 25
 Téu 15
+el 13
 dal 11
 Noi 11
 El 11
-el 9
 ars 9
 üna 9
 es 8
@@ -30,6 +30,7 @@ O 5
 volt 5
 Me 5
 Txüfs 5
+Aprendetz 5
 Va 4
 els 4
 Non 4
@@ -44,6 +45,7 @@ i 4
 Áistra 4
 översteir 4
 uranxha 4
+Françal 4
 interpret 4
 là 3
 las 3
@@ -63,6 +65,8 @@ da 3
 apa 3
 eda 3
 mundeu 3
+cióvec 3
+fru 3
 lor 2
 Azul 2
 Üc 2
@@ -126,7 +130,6 @@ paþoloxhal 2
 Livera 2
 Filastì 2
 Isch-tu 2
-Françal 2
 Anglesc 2
 L'apal 2
 roxh 2
@@ -151,9 +154,7 @@ vampir 2
 cióvec-lupul 2
 capitalistà 2
 Sint-éu 2
-cióvec 2
 éu 2
-fru 2
 schovan 2
 sofistà 2
 imperialistà 2
@@ -485,3 +486,9 @@ neschençă 1
 poderità 1
 tourismeu 1
 terorismeu 1
+femnă 1
+vür 1
+non-binar 1
+l'Anglească 1
+Máxhar 1
+Taloçait 1

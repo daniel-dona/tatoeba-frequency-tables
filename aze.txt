@@ -1,7 +1,7 @@
 Tom 1017
 Mən 899
 O 748
-Bu 687
+Bu 688
 bir 446
 var 444
 və 427
@@ -37,7 +37,7 @@ o 112
 edə 111
 Bir 110
 Azərbaycan 110
-yoxdur 104
+yoxdur 105
 Mənə 104
 etdi 104
 ən 102
@@ -48,7 +48,7 @@ da 98
 hər 94
 haqqında 93
 Onu 93
-qədər 92
+qədər 93
 edir 90
 Meri 89
 Nə 87
@@ -603,6 +603,7 @@ Saat 11
 gəlmişsiniz 11
 danışırsan 11
 ingiliscə 11
+ehtiyac 11
 işə 11
 it 11
 öyrənmək 11
@@ -623,6 +624,7 @@ Mənlə 11
 açdı 11
 günü 11
 mənimlə 11
+İnsanlar 11
 mənimdir 11
 Hamısı 11
 olma 11
@@ -667,7 +669,6 @@ Silahı 11
 Hə 10
 Amerika 10
 içində 10
-ehtiyac 10
 tennis 10
 Ev 10
 idarə 10
@@ -681,6 +682,7 @@ Uşaqlar 10
 vermək 10
 dildə 10
 sərbəst 10
+sizinlə 10
 Tomdan 10
 aç 10
 qız 10
@@ -694,7 +696,6 @@ birlikdə 10
 Lütfən 10
 Elə 10
 tanıyırsan 10
-İnsanlar 10
 hərəkət 10
 Bugün 10
 Yenidən 10
@@ -764,7 +765,6 @@ səbəb 9
 əlini 9
 açın 9
 isti 9
-sizinlə 9
 şadam 9
 Hara 9
 Ana 9
@@ -1918,6 +1918,7 @@ qaldır 4
 balacadır 4
 atanam 4
 eşitdim 4
+danışmağı 4
 kifayətdir 4
 oxu 4
 paltarı 4
@@ -2016,6 +2017,7 @@ Ukraynada 4
 tünd 4
 saçları 4
 qorxmur 4
+sevirlər 4
 respublika 4
 İndoneziyada 4
 bayrağı 4
@@ -2579,7 +2581,6 @@ gəlmiş 3
 kameranı 3
 Ötən 3
 diqqətlə 3
-danışmağı 3
 öyrədir 3
 dönün 3
 başım 3
@@ -2710,7 +2711,6 @@ istərdin 3
 Sovet 3
 qaz 3
 demişəm 3
-sevirlər 3
 aiddir 3
 mülayim 3
 oldular 3

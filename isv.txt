@@ -1,11 +1,11 @@
 jest 245
-Ja 161
+Ja 166
 ne 125
 Tom 81
+jesm 77
 Ty 72
-jesm 72
+se 63
 v 61
-se 57
 On 53
 To 50
 sut 45
@@ -77,6 +77,7 @@ Moja 6
 kot 6
 Či 6
 osoba 6
+žena 6
 už 6
 hočeš 6
 može 6
@@ -114,7 +115,6 @@ tobě 5
 ničto 4
 ubil 4
 Sami 4
-žena 4
 mnoju 4
 budete 4
 Tokipona 4
@@ -184,6 +184,7 @@ sjedl 3
 sjedla 3
 za 3
 togo 3
+francuzsky 3
 kompjuter 3
 Koran 3
 ptice 3
@@ -218,6 +219,7 @@ jem 3
 kupil 3
 dva 3
 tri 3
+od 3
 by 3
 prošu 3
 oni 3
@@ -239,6 +241,8 @@ vas 3
 planeta 3
 Ты 3
 Он 3
+Uči 3
+Učite 3
 Dobry 2
 denj 2
 hodili 2
@@ -397,8 +401,8 @@ limon 2
 Kaži 2
 potrěbujemo 2
 svoboda 2
+muž 2
 Palestinu 2
-od 2
 izgledajete 2
 zabyla 2
 vaflju 2
@@ -482,6 +486,8 @@ prěčiti 2
 stranna 2
 nam 2
 јеси 2
+madjarsky 2
+ujgursky 2
 Добродошли 1
 Dobrodošli 1
 Vitaj 1
@@ -637,7 +643,6 @@ zeleno 1
 projdti 1
 běglo 1
 govorju 1
-francuzsky 1
 ljudij 1
 naroda 1
 upotrěbjaju 1
@@ -1114,7 +1119,6 @@ podzirlivo 1
 pomylil 1
 pomylili 1
 pomylila 1
-muž 1
 Deset 1
 jedinnadset 1
 dvanadset 1
@@ -1710,3 +1714,6 @@ cifry 1
 slon 1
 Turizm 1
 terorizm 1
+nebinarny 1
+nebinarna 1
+Irana 1

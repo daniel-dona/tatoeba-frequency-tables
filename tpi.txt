@@ -1,4 +1,4 @@
-i 55
+i 56
 bilong 44
 long 36
 Mi 35
@@ -12,8 +12,8 @@ Yu 11
 save 9
 Em 9
 Ol 8
-bin 7
-Tom 6
+bin 8
+Tom 7
 kaikai 6
 pusi 6
 moa 6
@@ -28,6 +28,7 @@ tok 4
 bai 4
 ol 4
 haus 4
+taim 4
 dok 4
 pinis 4
 mama 4
@@ -47,7 +48,6 @@ tupela 3
 na 3
 pikinini 3
 tebol 3
-taim 3
 traim 3
 laikim 3
 Husat 2
@@ -63,6 +63,7 @@ Japan 2
 meri 2
 dokta 2
 Pukpuk 2
+marit 2
 pukpuk 2
 papa 2
 wok 2
@@ -139,7 +140,6 @@ wilwil 1
 banana 1
 Papa 1
 Meri 1
-marit 1
 sappela 1
 tit 1
 man 1
@@ -223,3 +223,4 @@ soka 1
 kikbal 1
 Boi 1
 baim 1
+sevenpela 1

@@ -1,10 +1,10 @@
-lo 12943
+lo 12944
 mi 6293
 cu 3570
 do 3385
 la 3073
 pu 2338
-le 2326
+le 2330
 nu 2142
 se 1942
 i 1902
@@ -13,7 +13,7 @@ be 1355
 ko'a 1303
 ma 1239
 ka 1227
-ko 1133
+ko 1138
 ca 996
 tom 956
 xu 926
@@ -68,8 +68,8 @@ za'u 242
 ri 233
 mi'o 232
 ei 231
+bangu 228
 prami 228
-bangu 224
 ba'o 221
 re 220
 gerku 212
@@ -146,11 +146,11 @@ co'e 111
 e'u 111
 va 108
 da'i 108
+cilre 108
 cnino 107
 ctuca 106
 po'o 106
 ci 103
-cilre 103
 drata 102
 zo 102
 joi 101
@@ -3272,6 +3272,7 @@ turdida 2
 jbifavpre 2
 ko'u 2
 tozbartu 2
+berbero 2
 braiyn 1
 larxra 1
 xelvetiko 1
@@ -6979,3 +6980,6 @@ xarkiv 1
 putin 1
 jamvlile 1
 zerzu'e 1
+fasbau 1
+magdaro 1
+uigru 1

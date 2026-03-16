@@ -1,19 +1,19 @@
-esas 3472
-Me 2677
-la 2524
+esas 3479
+Me 2688
+la 2530
 ne 1574
 Tom 1293
 La 1203
 me 1031
-tu 1018
-Ka 882
+tu 1019
+Ka 883
 es 762
-havas 694
+havas 695
 en 690
 Il 537
-vu 531
+vu 532
 Ni 499
-ke 486
+ke 487
 a 463
 mea 456
 di 453
@@ -32,7 +32,7 @@ vi 254
 plu 251
 kun 244
 savas 241
-de 236
+de 238
 ni 224
 bona 220
 To 213
@@ -42,11 +42,11 @@ quo 210
 sua 202
 Ilu 200
 kam 200
-prizas 196
+prizas 197
 pri 196
-Ne 192
+Ne 194
 el 182
-ol 178
+ol 179
 bela 176
 qua 173
 parolas 161
@@ -55,7 +55,7 @@ Vu 158
 Pro 158
 libro 152
 bezonas 152
-amas 148
+amas 149
 Ube 144
 Mary 143
 granda 139
@@ -131,8 +131,8 @@ sen 72
 darfas 71
 amiko 71
 mondo 71
+kompris 70
 Ica 69
-kompris 69
 matro 69
 kande 68
 mikra 68
@@ -177,6 +177,7 @@ ja 52
 urbo 52
 ilua 51
 facis 51
+muliero 51
 morge 50
 facas 50
 Sami 50
@@ -186,22 +187,21 @@ Ilua 49
 ube 49
 lua 49
 automobilo 49
-muliero 49
 kom 48
+viro 48
 vera 48
 drinkas 48
-viro 47
+kati 47
 manjis 47
 co 47
 Bona 46
 importanta 46
 havis 46
-kati 45
+komprenas 45
 quan 45
 vidar 45
 chambro 45
 hodie 45
-komprenas 44
 elua 44
 arivis 44
 On 44
@@ -282,6 +282,7 @@ lektis 32
 Nia 32
 kavalo 32
 Ido 32
+Franca 32
 mortis 32
 mediko 32
 perdis 32
@@ -292,7 +293,6 @@ tote 31
 povis 31
 nek 31
 kolda 31
-Franca 31
 via 31
 Ziri 31
 qui 30
@@ -375,6 +375,7 @@ fisho 24
 Yen 24
 Omni 24
 fumar 23
+esperas 23
 omni 23
 libera 23
 tra 23
@@ -388,9 +389,9 @@ mortigis 23
 Onu 23
 jus 23
 supo 23
+Franciana 23
 Rima 23
 irga 22
-esperas 22
 preske 22
 Lo 22
 donis 22
@@ -401,7 +402,6 @@ muziko 22
 venar 22
 olda 22
 stranja 22
-Franciana 22
 skribar 21
 respondo 21
 ipsa 21
@@ -433,6 +433,7 @@ pomi 19
 certa 19
 posibla 19
 studiar 19
+l'Angla 19
 hotelo 19
 donas 19
 chefo 19
@@ -506,7 +507,6 @@ tanta 17
 pluse 16
 biciklo 16
 fenestro 16
-l'Angla 16
 dii 16
 vintro 16
 mortar 16
@@ -568,6 +568,7 @@ apud 15
 koloro 15
 floro 15
 religio 15
+Kati 15
 uzar 14
 Lua 14
 Semblas 14
@@ -596,13 +597,13 @@ konocis 14
 amikino 14
 bezonis 14
 sucesis 14
+komprenis 14
 komprenar 14
 Plu 14
 A 14
 sango 14
 mortigos 14
 Hundi 14
-Kati 14
 Dum 13
 jorno 13
 "Ka 13
@@ -640,7 +641,6 @@ helpis 13
 recevis 13
 propra 13
 omnadie 13
-komprenis 13
 buxo 13
 trista 13
 mentiis 13
@@ -659,6 +659,7 @@ regretas 12
 ula 12
 sporto 12
 Esez 12
+ovi 12
 kordio 12
 ok 12
 kantis 12
@@ -712,7 +713,6 @@ reguli 11
 do 11
 ludis 11
 denti 11
-ovi 11
 sis 11
 spozo 11
 staciono 11
@@ -720,6 +720,7 @@ funcionas 11
 poemo 11
 multo 11
 flugar 11
+oreli 11
 vesti 11
 Tokyo 11
 pezoza 11
@@ -791,7 +792,6 @@ vilajo 10
 temo 10
 dineo 10
 insulo 10
-oreli 10
 kuko 10
 singla 10
 krayono 10
@@ -834,6 +834,7 @@ Sen 10
 rezidas 10
 faliis 10
 jaluza 10
+Hungariana 10
 sucesas 10
 kansono 10
 perdita 10
@@ -842,12 +843,14 @@ avulo 10
 Usani 10
 malodoras 10
 yuro 10
+l'Angliana 10
 kerlo 10
 Hebrea 10
 amis 10
 kisis 10
 sango-preso 10
 saltar 10
+Lernez 10
 piktisto 10
 habila 9
 London 9
@@ -916,7 +919,6 @@ intencas 9
 deo 9
 vartas 9
 restas 9
-Hungariana 9
 odiis 9
 dansis 9
 komento 9
@@ -1031,7 +1033,6 @@ Pekunio 8
 chasas 8
 yuri 8
 Angliana 8
-l'Angliana 8
 diktatoreso 8
 miaulas 8
 rejino 8
@@ -1554,11 +1555,13 @@ universitato 5
 Tomo 5
 estas 5
 L'amoro 5
+homino 5
 alkoholo 5
 Nord-Korea 5
 Altra 5
 mondumo 5
 injenioro 5
+homulo 5
 herbo 5
 pluv-arko 5
 Restez 5
@@ -1706,6 +1709,7 @@ laboristi 4
 vesto 4
 diskurso 4
 retrovenar 4
+Iran 4
 fotografuri 4
 spaco 4
 joyas 4
@@ -1911,7 +1915,6 @@ sinagogo 4
 flatuis 4
 koro 4
 Komencez 4
-homulo 4
 enigmato 4
 minus 4
 Egiptia 4
@@ -2046,6 +2049,7 @@ poezio 3
 kustumas 3
 kontinue 3
 komputeri 3
+lernez 3
 afable 3
 chasero 3
 repozis 3
@@ -2429,7 +2433,6 @@ korbo 3
 quanto 3
 afecionas 3
 pluboneskos 3
-homino 3
 posiblesas 3
 yusteso 3
 multi 3
@@ -2821,7 +2824,6 @@ flotacanta 2
 Pepperberg 2
 sun-levo 2
 Haltez 2
-Iran 2
 expozez 2
 dek-e-kin 2
 l'enireyo 2
@@ -3877,7 +3879,6 @@ mujas 2
 Vespertilii 2
 miskomprenis 2
 Budismo 2
-Lernez 2
 hundyuno 2
 Palestinano 2
 prosperez 2
@@ -4014,6 +4015,7 @@ ekimosi 2
 alfabeto 2
 nextasemane 2
 signolingui 2
+nebinara 2
 kandidatesis 2
 nekorekta 2
 sure 2
@@ -4032,6 +4034,7 @@ ruptos 2
 sanigas 2
 materialismo 2
 impresita 2
+negra 2
 Klabaster 1
 Gizmo 1
 Atomal 1
@@ -4199,7 +4202,6 @@ legendo 1
 cirkulas 1
 unionita 1
 karto 1
-lernez 1
 L'automobili 1
 l'asistantaro 1
 Emendez 1
@@ -9163,7 +9165,6 @@ kordeto 1
 Notez 1
 singulara 1
 plurala 1
-nebinara 1
 Juste 1
 brocho 1
 ofico 1
@@ -9313,3 +9314,7 @@ pretexto 1
 finesis 1
 sekundi 1
 cafoye 1
+piloza 1
+Hungara 1
+Berberiana 1
+Berbera 1
