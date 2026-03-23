@@ -11,8 +11,8 @@ To 50
 sut 45
 Vy 41
 My 39
+je 39
 jesi 37
-je 37
 Ona 36
 i 34
 s 26
@@ -36,9 +36,9 @@ mnogo 14
 Čemu 14
 ja 14
 је 14
+Kde 13
 ljubju 13
 ješče 13
-Kde 12
 bude 12
 ljubi 11
 mene 11
@@ -103,6 +103,7 @@ on 5
 ju 5
 než 5
 egzistuje 5
+moja 5
 Kot 5
 Ako 5
 dnes 5
@@ -134,7 +135,6 @@ napravdu 4
 Toj 4
 napisala 4
 napisal 4
-moja 4
 ljubet 4
 samo 4
 Elon 4
@@ -400,8 +400,10 @@ spisu 2
 limon 2
 Kaži 2
 potrěbujemo 2
+Politika 2
 svoboda 2
 muž 2
+voda 2
 Palestinu 2
 izgledajete 2
 zabyla 2
@@ -1104,7 +1106,6 @@ prostila 1
 probudi 1
 mužski 1
 mužske 1
-Politika 1
 razdražnjaje 1
 ustupil 1
 Supa 1
@@ -1137,7 +1138,6 @@ sedm 1
 osm 1
 devet 1
 desety 1
-voda 1
 Osvobodite 1
 Osvobodi 1
 bezrabotny 1
@@ -1717,3 +1717,4 @@ terorizm 1
 nebinarny 1
 nebinarna 1
 Irana 1
+dvuliceva 1

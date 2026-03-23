@@ -1,6 +1,6 @@
-on 1578
-Ma 943
-ei 751
+on 1579
+Ma 945
+ei 754
 Tom 623
 Kas 454
 sa 438
@@ -12,7 +12,7 @@ seda 214
 oma 206
 see 193
 oli 172
-ja 160
+ja 161
 ta 154
 ole 150
 Sa 144
@@ -65,10 +65,10 @@ te 52
 Palun 51
 Mulle 51
 kunagi 50
+tea 49
 minna 48
 me 48
 ütles 48
-tea 47
 Kuidas 45
 olnud 44
 isa 43
@@ -89,10 +89,10 @@ hästi 38
 kaks 38
 maja 38
 prantsuse 38
+koer 38
 Kõik 37
 kes 37
 tahab 37
-koer 37
 vaja 36
 koju 35
 kas 35
@@ -135,16 +135,16 @@ Tere 28
 pärast 28
 nüüd 28
 homme 28
+enam 28
 läheb 27
 teed 27
 tegema 27
-enam 27
 kolm 27
 rohkem 27
 elab 27
+Mina 27
 sõber 27
 ainult 26
-Mina 26
 tahad 26
 juba 25
 peale 25
@@ -155,6 +155,7 @@ olid 24
 kodus 24
 tead 24
 siia 24
+Meil 24
 valmis 23
 naine 23
 tegi 23
@@ -162,7 +163,6 @@ Sul 23
 õpetaja 23
 auto 23
 Koer 23
-Meil 23
 Te 23
 õppida 23
 ikka 22
@@ -207,6 +207,7 @@ kus 19
 Tomiga 19
 end 18
 tööd 18
+Kass 18
 taga 18
 koera 18
 raske 18
@@ -219,7 +220,6 @@ päev 17
 sai 17
 tuli 17
 tõesti 17
-Kass 17
 enda 17
 minust 17
 Siin 17
@@ -249,6 +249,7 @@ saab 16
 kogu 16
 aidata 16
 õpin 16
+kass 16
 sinna 16
 kuu 16
 kaua 16
@@ -270,7 +271,6 @@ töötab 15
 keele 15
 polnud 15
 lihtne 15
-kass 15
 sina 15
 näinud 15
 oskab 15
@@ -492,6 +492,7 @@ Oled 8
 sõpru 8
 mille 8
 õlut 8
+magab 8
 näljane 8
 magas 8
 kassi 8
@@ -571,7 +572,6 @@ maasikaid 7
 saaksin 7
 linn 7
 autot 7
-magab 7
 mängida 7
 tagant 7
 arvab 7
@@ -1090,6 +1090,7 @@ koerad 4
 kestab 4
 Milliseid 4
 külastada 4
+ela 4
 tuju 4
 Tegin 4
 Maryl 4
@@ -1511,7 +1512,6 @@ Austraalias 3
 elektrik 3
 lõikas 3
 Isegi 3
-ela 3
 Keda 3
 ütled 3
 ärkas 3
@@ -1674,6 +1674,7 @@ sõidab 2
 kõiki 2
 koputas 2
 uksele 2
+Hobused 2
 Maa 2
 kõrgeim 2
 krediitkaardiga 2
@@ -2518,6 +2519,7 @@ seisavad 2
 politseinikud 2
 prantsusekeelset 2
 luuletust 2
+jooksevad 2
 Omaani 2
 uuendasin 2
 küünal 2
@@ -3014,7 +3016,6 @@ kuulas 1
 säravate 1
 silmadega 1
 taimetoitlane 1
-Hobused 1
 looduslik 1
 kaaslane 1
 mägi 1
@@ -6720,7 +6721,6 @@ säilib 1
 fookuses 1
 tantsupartner 1
 sugulased 1
-jooksevad 1
 Gabriel 1
 missiooni 1
 DVD 1
@@ -6844,3 +6844,4 @@ Kivi 1
 kõva 1
 Šveitsi 1
 Bern 1
+Riias 1

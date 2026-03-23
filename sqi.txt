@@ -1,9 +1,9 @@
 të 901
 e 588
-në 387
-është 337
-i 279
-një 270
+në 388
+është 338
+i 280
+një 271
 nuk 251
 Nuk 234
 Tomi 219
@@ -22,8 +22,8 @@ po 82
 ka 80
 u 76
 jam 76
+Ajo 67
 mund 66
-Ajo 66
 kam 65
 janë 65
 Do 64
@@ -44,9 +44,9 @@ ti 41
 këtu 40
 atë 39
 duhet 38
-ne 37
 Jam 37
 Kam 36
+ne 36
 si 35
 apo 35
 tij 35
@@ -59,8 +59,8 @@ shkon 32
 gjuhë 32
 Pse 32
 dua 31
-ajo 31
 Kjo 31
+ajo 30
 kurrë 30
 ç'farë 30
 Mos 29
@@ -128,11 +128,11 @@ Ku 17
 vërtetë 17
 shkojmë 17
 dy 16
-nje 16
 Sa 16
 ndërtosh 16
 kjo 15
 eshte 15
+nje 15
 Ke 15
 ku 15
 ty 15
@@ -349,6 +349,7 @@ Di 5
 Ma 5
 përgjigje 5
 vitin 5
+prindërit 5
 nënën 5
 ato 5
 midis 5
@@ -371,6 +372,7 @@ Le 5
 ushqim 5
 këto 5
 libri 5
+Shqipërisë 5
 cilën 5
 miqtë 5
 mbrëmje 5
@@ -420,6 +422,7 @@ tetë 5
 Shoku 5
 ndërtojë 5
 tua" 5
+Mirëmëngjes 4
 Faleminderit 4
 a 4
 Shkojmë 4
@@ -528,11 +531,8 @@ Shko 4
 anglishten 4
 Tom-in 4
 Jeni 4
-prindërit 4
-Shqipërisë 4
 Shumë 3
 Zoti 3
-Mirëmëngjes 3
 ditëlindjen 3
 njerëzit 3
 ngjyrë 3
@@ -630,6 +630,7 @@ vajza 3
 sëmurë 3
 vëlla 3
 njëzet 3
+bardhë 3
 plotë 3
 Vëllai 3
 kuqe 3
@@ -797,7 +798,7 @@ film 2
 mollët 2
 provoi 2
 Franca 2
-prinderit 2
+lejojnë 2
 Babai 2
 motra 2
 vone 2
@@ -923,7 +924,6 @@ notoj 2
 spiun 2
 anëtar 2
 vras 2
-bardhë 2
 televizor 2
 ideja 2
 katër 2
@@ -1088,6 +1088,7 @@ shkove 2
 atij 2
 kë 2
 mbyt 2
+Libri 2
 ndryshuar 2
 trego 2
 Jetoj 2
@@ -1438,7 +1439,6 @@ katrore 1
 Evropën 1
 Perëndimore 1
 ekskurzion 1
-lejojne 1
 Pashkët 1
 Krishti 1
 ngjall 1
@@ -1506,6 +1506,7 @@ mjaftueshe 1
 mjaftueshme 1
 shoket 1
 klases 1
+prinderit 1
 puthe 1
 Puthja 1
 embel 1
@@ -1765,7 +1766,6 @@ tryezë" 1
 Luani 1
 xhunglës 1
 mjaft 1
-Shqipërise 1
 shkokan 1
 syze 1
 ngul 1
@@ -2477,7 +2477,6 @@ Danub 1
 Skllevërit 1
 konsideroheshin 1
 pronë 1
-Libri 1
 macen 1
 fillojmë 1
 2:30 1
@@ -2825,7 +2824,6 @@ nevojshme 1
 vetem 1
 vleren 1
 shendetit 1
-Miremengjes 1
 trafik 1
 Rt 1
 19 1
@@ -4075,7 +4073,6 @@ Burrit 1
 Fëmijëve 1
 Burrat 1
 shqiptarë 1
-lejojnë 1
 kujdeset 1
 Mish 1
 Hallall 1

@@ -1,5 +1,5 @@
 es 221
-Eo 144
+Eo 145
 yn 109
 rhen 100
 di 84
@@ -8,7 +8,7 @@ Ys 60
 Sa 59
 ill 57
 Ill 53
-llo 49
+llo 50
 lla 47
 su 43
 Lla 35
@@ -20,8 +20,8 @@ er 27
 Ty 25
 ci 23
 mew 22
+af 20
 Ke 19
-af 19
 a 18
 gath 18
 in 17
@@ -37,6 +37,7 @@ sun 12
 Mair 11
 can 11
 Gw 11
+chath 10
 ffuin 10
 Saesonig 10
 padr 10
@@ -48,7 +49,6 @@ Yn 9
 puf 9
 llw 9
 cath 9
-chath 9
 Perch 9
 math 9
 ed 9
@@ -140,6 +140,7 @@ cach 4
 afur 4
 sul 4
 gan 4
+nîr 4
 e-dd 4
 Bon 4
 noeth 4
@@ -187,7 +188,6 @@ blant 3
 digas 3
 ddigas 3
 diawl 3
-nîr 3
 Pod-eo 3
 sidder 3
 cunheg 3

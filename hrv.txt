@@ -1,11 +1,11 @@
-je 1872
+je 1873
 se 697
-u 625
+u 626
 sam 510
-da 471
+da 472
 li 427
 na 363
-Tom 320
+Tom 321
 ne 315
 i 270
 mi 243
@@ -86,17 +86,17 @@ do 42
 sa 42
 svoju 41
 živi 41
+rekao 41
+vremena 40
 ja 40
 ili 40
-rekao 40
 Moj 39
-vremena 39
 tamo 39
 mu 39
 Da 38
+puno 37
 znam 36
 Kada 36
-puno 36
 ju 36
 tvoj 35
 Moja 35
@@ -108,11 +108,11 @@ nema 34
 knjiga 33
 moja 33
 kada 33
+tu 33
 vidjeti 33
 taj 32
 ništa 32
 nas 32
-tu 32
 mene 32
 godine 32
 Mislim 32
@@ -136,6 +136,7 @@ po 28
 dvije 28
 danas 28
 ovaj 27
+knjigu 27
 Molim 27
 Ako 27
 pomoći 27
@@ -143,7 +144,6 @@ pomoći 27
 želiš 27
 Dobro 26
 malo 26
-knjigu 26
 vas 26
 treba 26
 molim 26
@@ -151,6 +151,7 @@ godina 26
 Nemam 26
 joj 25
 Oni 25
+nam 25
 grad 25
 dana 25
 već 25
@@ -158,7 +159,6 @@ jedan 25
 kad 25
 dobar 24
 čovjek 24
-nam 24
 sutra 24
 bili 24
 sada 24
@@ -322,6 +322,7 @@ dugo 13
 poslije 13
 manje 13
 misli 13
+učitelj 13
 minuta 13
 pismo 13
 jezika 13
@@ -357,7 +358,6 @@ koju 12
 naučiti 12
 sobi 12
 bolje 12
-učitelj 12
 blizu 12
 djece 12
 bude 12
@@ -400,6 +400,7 @@ pravu 11
 Izgleda 11
 Život 11
 netko 11
+Trebamo 11
 školi 11
 Bila 11
 Nikad 11
@@ -442,7 +443,6 @@ između 10
 hranu 10
 škole 10
 htio 10
-Trebamo 10
 jedno 10
 žive 10
 Italiji 10
@@ -648,6 +648,7 @@ kraju 7
 voda 7
 Voliš 7
 sata 7
+Naš 7
 Sutra 7
 nedjeljom 7
 novine 7
@@ -757,7 +758,6 @@ van 6
 njom 6
 zub 6
 televiziju 6
-Naš 6
 pokazao 6
 spava 6
 brini 6
@@ -814,6 +814,7 @@ sami 5
 kojem 5
 poslati 5
 prijedlog 5
+nazvati 5
 koristi 5
 mjeseca 5
 zaista 5
@@ -1004,7 +1005,6 @@ strašno 4
 svatko 4
 najviše 4
 Ljeto 4
-nazvati 4
 Čini 4
 vodi 4
 prilično 4
@@ -1164,6 +1164,7 @@ odjeću 4
 trenutno 4
 mlijeko 4
 uvjeriti 4
+vrtu 4
 potrošio 4
 psi 4
 Učitelj 4
@@ -1221,6 +1222,7 @@ nužno 4
 dođeš 4
 vrati 4
 plava 4
+provodi 4
 stoji 4
 bolnici 4
 Poznajem 4
@@ -1556,7 +1558,6 @@ velik 3
 Obožavam 3
 idi 3
 lakše 3
-vrtu 3
 Božić 3
 Degas 3
 godišnje 3
@@ -1664,7 +1665,6 @@ uspjeti 3
 objasniti 3
 naočale 3
 umoran 3
-provodi 3
 Rat 3
 posjetio 3
 Ivan 3
@@ -3132,6 +3132,7 @@ jednaki 2
 osnovnoj 2
 Litvi 2
 Svjetski 2
+policiju 2
 pojela 2
 Žele 2
 Švedskoj 2
@@ -8700,7 +8701,6 @@ proba 1
 sviježe 1
 prometna 1
 zauzeto 1
-policiju 1
 uživaju 1
 hrvastkih 1
 cé 1
@@ -8865,3 +8865,4 @@ Limuni 1
 žuti 1
 mrtvo 1
 mladića 1
+pročitamo 1

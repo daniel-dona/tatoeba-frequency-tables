@@ -1,4 +1,4 @@
-esas 3479
+esas 3480
 Me 2688
 la 2530
 ne 1574
@@ -21,7 +21,7 @@ esis 442
 e 407
 volas 407
 povas 368
-Tu 344
+Tu 345
 tre 329
 por 323
 il 302
@@ -45,7 +45,7 @@ kam 200
 prizas 197
 pri 196
 Ne 194
-el 182
+el 184
 ol 179
 bela 176
 qua 173
@@ -121,10 +121,10 @@ omno 78
 ed 77
 al 76
 vivo 76
+Vi 75
 esar 75
 nomesas 75
 nur 74
-Vi 74
 facar 73
 nomo 73
 sen 72
@@ -409,6 +409,7 @@ trovar 21
 pensis 21
 loko 21
 Forsan 21
+yunini 21
 spozulo 21
 varmega 21
 pupeo 21
@@ -422,7 +423,6 @@ voyo 20
 famoza 20
 questionis 20
 heme 20
-yunini 20
 uzas 20
 De 20
 danjeroza 20
@@ -498,6 +498,7 @@ min 17
 opiniono 17
 ocidis 17
 portis 17
+Eli 17
 facos 17
 muso 17
 populo 17
@@ -521,7 +522,6 @@ larja 16
 Saluto 16
 havar 16
 Omnu 16
-Eli 16
 helpas 16
 rejo 16
 Omno 16
@@ -935,6 +935,7 @@ advokato 9
 Iesu 9
 flava 9
 batelo 9
+violacis 9
 basa 9
 koshmari 9
 plado 9
@@ -1181,7 +1182,6 @@ Skura 7
 Afrika 7
 spegulo 7
 jeneroza 7
-violacis 7
 kulo-frapis 7
 Kambodja 7
 Rusiana 7

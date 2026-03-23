@@ -6,23 +6,23 @@ inte 6934
 en 5148
 du 5143
 på 4863
-det 4753
+det 4754
 i 4601
 har 4243
-Det 3895
+Det 3896
 Han 3415
 jag 3157
 mig 2725
 för 2704
 här 2665
-var 2610
+var 2612
 med 2460
 till 2377
 och 2340
 om 2258
 Hon 2082
 ett 1955
-som 1906
+som 1907
 Vi 1895
 dig 1891
 den 1838
@@ -106,7 +106,7 @@ väldigt 377
 gjorde 377
 när 372
 två 368
-En 362
+En 363
 kunde 362
 Ni 357
 Vem 355
@@ -379,17 +379,17 @@ Hennes 93
 långt 93
 glad 93
 del 93
+igår 92
 borta 92
 ihåg 92
 kvar 92
-igår 91
 genom 91
 snabbt 91
+slog 91
 tyckte 90
 rummet 90
 alls 90
 liten 90
-slog 90
 tillsammans 90
 öl 89
 Denna 88
@@ -769,6 +769,7 @@ Barnen 43
 Men 42
 passar 42
 tänkte 42
+sönder 42
 dör 42
 körde 42
 sju 42
@@ -791,7 +792,6 @@ historia 41
 reda 41
 litet 41
 mest 41
-sönder 41
 laga 41
 katten 41
 veckan 41
@@ -856,6 +856,7 @@ Går 38
 fängelse 37
 Polisen 37
 spanska 37
+kött 37
 trettio 37
 långa 37
 val 37
@@ -865,7 +866,6 @@ stället 36
 hör 36
 frågan 36
 ungefär 36
-kött 36
 goda 36
 vart 36
 hjärta 36
@@ -1020,6 +1020,7 @@ pojken 30
 kvällen 30
 morfar 30
 arabiska 30
+lyckades 30
 sköt 30
 stan 30
 gratis 30
@@ -1051,7 +1052,6 @@ röra 29
 munnen 29
 flesta 29
 länder 29
-lyckades 29
 slutar 29
 riktig 29
 förbi 29
@@ -1455,6 +1455,7 @@ stänger 20
 Berlin 20
 Minns 19
 mål 19
+Jack 19
 ryggen 19
 trots 19
 studerade 19
@@ -1532,7 +1533,6 @@ bott 18
 kontor 18
 lösning 18
 golf 18
-Jack 18
 ledig 18
 Helsingfors 18
 fisken 18
@@ -1552,6 +1552,7 @@ dom 18
 åren 18
 frös 18
 lättare 18
+väger 18
 målade 18
 sång 18
 gravid 18
@@ -1682,7 +1683,6 @@ Barn 16
 väntat 16
 troligen 16
 otroligt 16
-väger 16
 fots 16
 våningen 16
 Av 16
@@ -1966,6 +1966,7 @@ fan 13
 bryta 13
 plugga 13
 röstade 13
+fönster 13
 snön 13
 äpplena 13
 grottan 13
@@ -2098,7 +2099,6 @@ duschen 12
 drömde 12
 vars 12
 radio 12
-fönster 12
 duger 12
 middagen 12
 Egypten 12
@@ -3757,6 +3757,7 @@ skyller 6
 längden 6
 loppet 6
 okänd 6
+Experimentet 6
 tomma 6
 uppföra 6
 lager 6
@@ -4001,6 +4002,7 @@ missförstånd 5
 oavsett 5
 ämnet 5
 handling 5
+köttet 5
 rasande 5
 Anna 5
 japan 5
@@ -4676,7 +4678,6 @@ pilot 4
 gentleman 4
 Isen 4
 kamrat 4
-köttet 4
 homosexuell 4
 befolkningen 4
 nationerna 4
@@ -5110,7 +5111,6 @@ Skyll 4
 sikt 4
 dörrarna 4
 rikaste 4
-Experimentet 4
 bäcken 4
 klimatet 4
 tabletter 4
@@ -6350,6 +6350,7 @@ säkerligen 3
 Erfarenheten 3
 Stoppa 3
 strålade 3
+framgångsrikt 3
 stjärnorna 3
 Syrien 3
 benägen 3
@@ -7282,6 +7283,7 @@ tramsigt 3
 vassare 3
 Säg: 3
 Astronomi 3
+slaktare 3
 vaccinationsbevis 3
 bottenvåningen 3
 fjortonårige 3
@@ -8409,7 +8411,6 @@ alarmerande 2
 nittio 2
 alibi 2
 Därefter 2
-framgångsrikt 2
 roligare 2
 Kosta 2
 anklagade 2
@@ -9997,4 +9998,3 @@ ryss 2
 engelsman 2
 Förolämpa 2
 terapi 2
-Terapi 2
