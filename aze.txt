@@ -1,17 +1,17 @@
-Tom 1017
-Mən 899
+Tom 1018
+Mən 902
 O 748
-Bu 688
-bir 446
+Bu 689
+bir 448
 var 444
 və 427
-ki 386
+ki 387
 çox 327
 nə 300
 Onlar 254
 üçün 250
 idi 248
-də 239
+də 240
 Biz 225
 deyil 220
 bu 214
@@ -21,7 +21,7 @@ Sən 167
 Tomun 160
 daha 159
 istəyirəm 147
-bunu 146
+bunu 147
 mənim 144
 yaxşı 144
 edirəm 143
@@ -56,7 +56,7 @@ gəlir 85
 danışmaq 84
 dəfə 84
 böyük 84
-bilirəm 83
+bilirəm 84
 deyiləm 82
 bilmirəm 80
 Bunu 78
@@ -101,10 +101,10 @@ olduğunu 55
 başa 55
 getdi 53
 neçə 52
+sənə 52
 Sami 52
 az 51
 bilər 51
-sənə 51
 həmişə 51
 bilərəm 50
 Bütün 50
@@ -599,6 +599,7 @@ tam 12
 Python 12
 naziri 12
 mənlə 12
+Hə 11
 Saat 11
 gəlmişsiniz 11
 danışırsan 11
@@ -666,7 +667,6 @@ yüksək 11
 olmuşdur 11
 üzrə 11
 Silahı 11
-Hə 10
 Amerika 10
 içində 10
 tennis 10
@@ -1126,6 +1126,7 @@ gül 7
 azı 7
 göz 7
 kahı 7
+dayandıra 7
 Bundan 7
 kofe 7
 barəsində 7
@@ -1187,6 +1188,7 @@ iyirmi 6
 Emili 6
 Londonda 6
 Bill 6
+hazıram 6
 gedirik 6
 adətən 6
 eşidirəm 6
@@ -1335,7 +1337,6 @@ Keyt 6
 oxşayır 6
 qardaşı 6
 ye 6
-dayandıra 6
 Yupiter 6
 qaldım 6
 müzakirə 6
@@ -1446,7 +1447,6 @@ yaşıldır 5
 itirdi 5
 bilərsinizmi 5
 sarıdır 5
-hazıram 5
 stol 5
 öyrəndim 5
 özü 5
@@ -1637,6 +1637,7 @@ deyilik 5
 ağzını 5
 hamıdan 5
 danışaram 5
+dəhşətli 5
 etməkdən 5
 sonunda 5
 xanım 5
@@ -2083,7 +2084,6 @@ tanımıram 4
 pox 4
 Tələs 4
 2 4
-dəhşətli 4
 hündürsən 4
 sinif 4
 oxuyun 4
@@ -2934,6 +2934,7 @@ Mary'nin 3
 fərqinə 3
 Gəlib 3
 danışmaqdan 3
+bilməzdi 3
 bəs 3
 Təhsil 3
 yerdən 3
@@ -3723,6 +3724,7 @@ hamam 2
 yaxşılaşacaq 2
 Lift 2
 hazırlaşır 2
+fikirdir 2
 sərxoş 2
 Ananız 2
 yazdığı 2
@@ -4478,7 +4480,6 @@ bilim 2
 gəlirlər 2
 dedikləri 2
 dolu 2
-bilməzdi 2
 edər 2
 davranan 2
 biləcəyi 2
@@ -6367,7 +6368,6 @@ Nəyin 1
 olacağinı 1
 Nəticələri 1
 atmamalısan 1
-Həbir 1
 səninle 1
 polislə 1
 əlaqəyə 1
@@ -6914,7 +6914,6 @@ oyatdım 1
 yadınızdadır 1
 Yara 1
 incidir 1
-fikirdir 1
 "Yer" 1
 optimistsiniz 1
 optimistsən 1
@@ -9998,3 +9997,4 @@ bilirsinizsə 1
 öyrədin 1
 Tərli 1
 tərəfdaşı 1
+hamilə 1

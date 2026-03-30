@@ -1,17 +1,17 @@
 er 17942
-Jeg 11411
-at 9197
+Jeg 11412
+at 9198
 Tom 8655
 en 8627
 i 8537
 ikke 8157
-har 7696
+har 7697
 du 5477
 til 5203
-det 4944
-på 4940
+det 4945
+på 4941
 og 3917
-for 3888
+for 3889
 jeg 3731
 Han 3498
 Det 3485
@@ -21,7 +21,7 @@ af 3326
 et 3258
 mig 3190
 kan 2650
-den 2332
+den 2333
 der 2327
 Hun 2218
 dig 2024
@@ -29,7 +29,7 @@ om 1958
 Vi 1922
 I 1904
 Mary 1860
-Du 1778
+Du 1779
 vil 1767
 han 1704
 som 1677
@@ -38,7 +38,7 @@ min 1605
 ved 1489
 De 1444
 meget 1441
-her 1273
+her 1274
 de 1187
 Hvor 1187
 Er 1165
@@ -55,7 +55,7 @@ Min 958
 din 922
 dag 908
 fra 898
-vi 889
+vi 891
 skal 874
 ud 859
 os 846
@@ -84,7 +84,7 @@ Hvorfor 604
 kunne 584
 Toms 582
 man 575
-gøre 568
+gøre 569
 aldrig 566
 eller 562
 En 555
@@ -98,8 +98,8 @@ ingen 514
 bil 494
 efter 494
 mit 490
+tror 487
 Dette 487
-tror 486
 Lad 480
 elsker 477
 gik 470
@@ -109,7 +109,7 @@ mine 459
 hans 448
 morgen 445
 dette 445
-brug 443
+brug 444
 taler 442
 selv 440
 Denne 438
@@ -133,7 +133,7 @@ hvor 392
 mere 390
 hele 387
 få 375
-tid 373
+tid 374
 kom 373
 dit 372
 hus 372
@@ -199,8 +199,8 @@ før 257
 under 254
 nogle 254
 fik 253
+får 252
 spise 251
-får 251
 Hans 249
 købte 249
 venner 247
@@ -247,11 +247,11 @@ Marys 195
 smuk 193
 døde 192
 På 191
+hinanden 190
 arbejder 189
 mod 189
 troede 189
 ti 189
-hinanden 189
 holde 188
 hen 188
 land 186
@@ -276,11 +276,11 @@ bad 173
 Algeriet 172
 andre 171
 synes 170
-Ved 169
+Ved 170
+Vær 169
 klokken 169
 burde 169
 hader 168
-Vær 167
 grund 167
 lavet 166
 dyr 166
@@ -393,9 +393,9 @@ katte 123
 kvinder 122
 spiller 122
 minutter 121
+måde 121
 store 120
 familie 120
-måde 120
 ting 119
 død 119
 koster 119
@@ -2674,6 +2674,7 @@ Fodbold 12
 Guld 12
 Godnat 12
 flygtede 12
+mareridt 12
 klarer 12
 nytår 12
 elevator 12
@@ -2843,7 +2844,6 @@ Kate 11
 gerning 11
 40 11
 nøjagtig 11
-mareridt 11
 Mike 11
 låner 11
 klatrede 11
@@ -3267,6 +3267,7 @@ Dengang 9
 Takket 9
 hun" 9
 gentage 9
+sparer 9
 årstid 9
 Stig 9
 kager 9
@@ -3587,7 +3588,6 @@ råbe 8
 drukne 8
 styre 8
 Computeren 8
-sparer 8
 bladene 8
 hjemmeopgave 8
 bålet 8

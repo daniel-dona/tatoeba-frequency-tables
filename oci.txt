@@ -1,18 +1,18 @@
-de 4645
+de 4647
  3736
 pas 3251
-es 2990
+es 2991
 a 2759
-la 2703
+la 2705
 un 2182
-lo 2028
+lo 2029
 que 1705
 Tom 1486
 Lo 1405
 una 1373
 Es 1345
-La 1002
-e 909
+La 1003
+e 910
 son 861
 en 756
 las 740
@@ -56,8 +56,8 @@ cal 219
 De 215
 au 209
 Maria 209
+ma 208
 soi 207
-ma 207
 fòrça 203
 Son 203
 deu 203
@@ -293,6 +293,7 @@ amics 50
 agut 50
 Aimi 50
 gran 50
+entre 50
 plaça 50
 Aqueth 50
 mos 50
@@ -302,7 +303,6 @@ mal 50
 siá 50
 arribat 49
 pair 49
-entre 49
 Aquera 49
 piscina 48
 tard 47
@@ -679,6 +679,7 @@ libres 23
 vòstres 23
 manja 23
 prèp 23
+meteissa 23
 jove 23
 riu 22
 arriba 22
@@ -706,7 +707,6 @@ dempuèi 22
 Pensavi 22
 Coneissi 22
 gai 22
-meteissa 22
 Vòl 22
 afar 22
 Siatz 22
@@ -782,6 +782,7 @@ vòstras 19
 Pas 19
 òmi 19
 talent 19
+Ta 19
 filh 19
 aquiu 19
 liure 19
@@ -828,7 +829,6 @@ mantun 19
 l'òme 19
 vòt 19
 fam 19
-Ta 18
 president 18
 shens 18
 Òc 18
@@ -1431,6 +1431,7 @@ maridada 10
 luenh 10
 conegut 10
 tamben 10
+consciéncia 10
 chinés 10
 desolat 10
 cèu 10
@@ -1562,7 +1563,6 @@ dolor 9
 linha 9
 N'a 9
 astre 9
-consciéncia 9
 m'agradan 9
 moneda 9
 n'i 9
@@ -1775,6 +1775,7 @@ plau 8
 espatlas 8
 tau 8
 aja 8
+teoria 8
 pòble 8
 cosinar 8
 ras 8
@@ -2294,7 +2295,6 @@ juri 6
 uas 6
 partits 6
 hruta 6
-teoria 6
 absent 6
 qu'estoc 6
 ris 6
@@ -3406,6 +3406,7 @@ paraplojas 4
 Nòrd 4
 frairs 4
 determinar 4
+l'experiéncia 4
 internèt 4
 antica 4
 òc 4
@@ -3606,6 +3607,7 @@ escota 4
 preparada 4
 creèt 4
 depend 4
+comunicacion 4
 mèrda 4
 gent 4
 fisar 4
@@ -3734,6 +3736,7 @@ rondinaira 4
 desavenent 4
 desconvenent 4
 prince 4
+d'informacions 4
 florir 4
 atmosfèra 4
 preferissi 4
@@ -4402,7 +4405,6 @@ L'idèa 3
 L'a 3
 sii 3
 l'economia 3
-l'experiéncia 3
 comence 3
 dotz 3
 fabrica 3
@@ -4774,7 +4776,6 @@ legissiá 3
 l'agach 3
 Poiriá 3
 aisina 3
-comunicacion 3
 venètz 3
 Capiti 3
 pudisson 3
@@ -4953,7 +4954,6 @@ vulgarament 3
 ferroviària 3
 lèstas 3
 medicament 3
-d'informacions 3
 Paguèri 3
 Cala 3
 maleducats 3
@@ -7279,6 +7279,7 @@ tint 2
 moret 2
 fola 2
 plori 2
+ridicula 2
 alassat 2
 prometèt 2
 diriá 2
@@ -8651,6 +8652,7 @@ calcular 2
 farça 2
 D'esbodenaments 2
 blocavan 2
+congruéncia 2
 tornarèi 1
 Cridèc 1
 "ajuda" 1
@@ -9996,5 +9998,3 @@ deveré 1
 claverat 1
 demorèi 1
 Muisha'm 1
-Qu'ensenha 1
-cramada 1

@@ -1,13 +1,13 @@
-Tom 24
+Tom 25
+ku 18
 Ndi 18
 Njagala 18
-ku 17
 ki 14
-mu 10
+mu 11
+wa 10
 mmeka 8
 ajja 8
 wano 7
-wa 7
 Olina 7
 kulya 7
 nnyo 7
@@ -16,10 +16,12 @@ bulungi 6
 Olya 6
 buli 5
 lunaku 5
+eri 5
 Ekyo 5
 ddi 5
 Mpulira 5
 wange 5
+ali 5
 yange 5
 kujja 5
 kugenda 4
@@ -29,7 +31,7 @@ Weebale 4
 enkya 4
 Oluzungu 4
 Oli 4
-ali 4
+Ennyumba 4
 mulwadde 4
 ejjo 4
 ssaawa 4
@@ -51,10 +53,10 @@ Nze 3
 okulya 3
 Nkwagaliza 3
 ye 3
-Ennyumba 3
 mulungi 3
 gitya 3
 Sirina 3
+wansi 3
 Nnina 3
 mangu 3
 Bo 3
@@ -82,7 +84,6 @@ ddwaaliro 2
 omulimu 2
 Genda 2
 mpola 2
-eri 2
 Ogenda 2
 Enjala 2
 Lwaki 2
@@ -113,7 +114,6 @@ emiyembe 2
 obuyambi 2
 nawe 2
 kino 2
-wansi 2
 Taata 2
 Neetaga 2
 Wangi 2
@@ -139,6 +139,7 @@ emmere 2
 wooli 2
 leero 2
 bukyali 2
+Ali 2
 mugagga 2
 alina 2
 kati 2
@@ -154,6 +155,8 @@ bantu 2
 Nsenya 2
 amannyo 2
 gange 2
+ludda 2
+mmeeza 2
 Teri 1
 atukiridde 1
 Tukyabanga 1
@@ -475,7 +478,6 @@ otulo 1
 Njakukulaba 1
 makya 1
 Yafunye 1
-Ali 1
 mubeera 1
 nnungi 1
 Waliwo 1
@@ -605,3 +607,9 @@ kibiina 1
 ntono 1
 balungi 1
 kutambula 1
+Omusomewa 1
+maaso 1
+g'ennyumba 1
+ya 1
+Kappa 1
+Embwa 1

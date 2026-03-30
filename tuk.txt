@@ -1,12 +1,12 @@
 Tom 1169
-Men 897
+Men 898
 Ol 507
-bilen 447
+bilen 448
 Sen 323
-Bu 322
-üçin 311
+Bu 323
+üçin 312
 we 286
-bir 223
+bir 224
 näme 221
 gowy 206
 bu 198
@@ -24,7 +24,7 @@ men 151
 Biz 141
 diýip 136
 ýaly 133
-Olar 125
+Olar 127
 zat 123
 Meniň 121
 muny 118
@@ -35,7 +35,7 @@ Semi 109
 meniň 104
 pikir 103
 edip 102
-hem 98
+hem 99
 gerek 96
 ýerde 95
 Siz 94
@@ -94,7 +94,7 @@ Bostona 43
 edýärin 42
 bolar 42
 etmäge 41
-seni 40
+seni 41
 Awstraliýada 40
 Onuň 39
 pikirimçe 39
@@ -127,12 +127,12 @@ Tomyň 34
 meniñ 34
 gitdi 33
 Hemme 33
+diňe 33
 biraz 33
 bize 33
 Sämi 33
 uly 33
 onuñ 33
-diňe 32
 gelýär 32
 hakykatdanam 32
 dilini 31
@@ -258,6 +258,7 @@ maslahat 17
 buny 17
 etmelidigini 17
 ýa-da 17
+Şol 17
 berip 17
 Merini 17
 köplenç 17
@@ -273,7 +274,6 @@ nireden 16
 indiki 16
 beren 16
 menden 16
-Şol 16
 özüne 16
 haýsy 16
 alada 16
@@ -351,6 +351,7 @@ Geçen 13
 olary 13
 Fransuz 13
 Leýlañ 13
+ak 12
 geljek 12
 gaýdyp 12
 aldym 12
@@ -385,7 +386,6 @@ düşünip 12
 Semiñ 12
 daşary 12
 gidýärin 11
-ak 11
 bilýärdim 11
 nirä 11
 görmäge 11
@@ -447,6 +447,7 @@ wagtynda 10
 Olara 10
 dilinde 10
 ýadaw 10
+heniz 10
 bermeli 10
 bilerdi 10
 Tomdan 10
@@ -465,6 +466,7 @@ arzuw 10
 şonuň 10
 boş 10
 ulanyp 10
+dili 10
 bilmedim 10
 eşitdim 10
 ýalan 10
@@ -496,7 +498,6 @@ etdiň 9
 bilenokdy 9
 bilerin 9
 bolmady 9
-heniz 9
 bolardy 9
 sebäpli 9
 galdy 9
@@ -523,7 +524,6 @@ goýup 9
 öýüni 9
 bilmeýändigini 9
 galmak 9
-dili 9
 bilýärdi 9
 öýdýärin 9
 ýitirdi 9
@@ -715,6 +715,7 @@ soradym 7
 Saña 7
 islemeýen 7
 möhüm 7
+sözler 7
 ýazdy 7
 Merinyň 7
 bolsam 7
@@ -791,6 +792,7 @@ däldim 6
 ýanyna 6
 Jonyň 6
 işini 6
+Belki-de 6
 otyrdy 6
 Kimdir 6
 işlerini 6
@@ -846,7 +848,6 @@ gowurak 6
 zatlaryny 6
 şeker 6
 kimdir 6
-sözler 6
 atasy 6
 bolsañ 6
 riskleri 6
@@ -958,7 +959,6 @@ edýäris 5
 meşhur 5
 ulagy 5
 azajyk 5
-Belki-de 5
 sebäpden 5
 özlerini 5
 telewizor 5
@@ -1053,6 +1053,7 @@ galdym 5
 köwüş 5
 okamana 5
 Meň 5
+tapawutlandyrmak 5
 ýeriňde 5
 ýyldyzlar 4
 görýärsiňmi 4
@@ -1266,9 +1267,11 @@ dilinden 4
 durup 4
 Adamyñ 4
 ünsümi 4
+hassahana 4
 halaýarlar 4
 duýdurdy 4
 sabyrly 4
+nemes 4
 Şenbe 4
 ýatmak 4
 açary 4
@@ -1338,7 +1341,6 @@ zadymy 4
 otyrdym 4
 başararyn 4
 oñ 4
-tapawutlandyrmak 4
 millet 4
 ýurda 4
 Merynyñ 4
@@ -1585,6 +1587,7 @@ edipdim 3
 Meridan 3
 berdiň 3
 ýapyldy 3
+pensiýa 3
 binanyň 3
 dälsiň 3
 goşmak 3
@@ -1701,13 +1704,11 @@ gelerin 3
 diýdiler 3
 gyş 3
 iýýär 3
-hassahana 3
 kompýuteri 3
 galdyryp 3
 altyn 3
 ýumdy 3
 öñünde 3
-nemes 3
 okuwy 3
 oturmak 3
 bolamok 3
@@ -1740,6 +1741,7 @@ açmaga 3
 telewizora 3
 ýetirdi 3
 email 3
+äkidip 3
 menzilinde 3
 etmezligi 3
 Awstraliýadaky 3
@@ -1822,6 +1824,7 @@ kitaphanada 3
 Maryýi 3
 barmagyny 3
 Eýýäm 3
+ýeke-täk 3
 arz 3
 durýar 3
 garaşýaryn 3
@@ -1835,6 +1838,7 @@ duşuşyga 3
 Mugallym 3
 geljekdigini 3
 gazandy 3
+mynasyp 3
 hormatyny 3
 kimdir-biri 3
 islär 3
@@ -1876,6 +1880,7 @@ alýar 3
 etdiñ 3
 eşitdi 3
 islemeýär 3
+mugallymy 3
 gitmezdim 3
 eger-de 3
 nirde 3
@@ -1916,6 +1921,7 @@ Gelmegiňi 3
 garaşýardym 3
 gelmegiňe 3
 ýaşaýa 3
+dördünji 3
 gol 3
 benzin 3
 şokolad 3
@@ -2349,8 +2355,8 @@ gitmediň 2
 şübheleýärin 2
 eşitdiňmi 2
 ynanmaýar 2
+zerurdyr 2
 sorajak 2
-pensiýa 2
 wagtyňy 2
 islegli 2
 täsiri 2
@@ -2799,7 +2805,6 @@ bejerdi 2
 göz-gulak 2
 tizräk 2
 ýazmandygym 2
-äkidip 2
 barýandygyny 2
 isleýändigine 2
 etmegim 2
@@ -2868,6 +2873,7 @@ odun 2
 alajagözen 2
 daşyndan 2
 kakamyň 2
+öýlerine 2
 Jondan 2
 heläk 2
 wajypdy 2
@@ -3043,7 +3049,6 @@ zadyňy 2
 adamdyr 2
 getirmek 2
 Belkäm 2
-ýeke-täk 2
 hyzmat 2
 ýyllar 2
 ruçka 2
@@ -3067,7 +3072,6 @@ seýilgäh 2
 etmedigine 2
 ylalaşyp 2
 üstümden 2
-mynasyp 2
 gaçandyr 2
 saçlary 2
 Aşak 2
@@ -3192,7 +3196,6 @@ pişikleri 2
 otagyndady 2
 dilden 2
 bilsedim 2
-mugallymy 2
 anyk 2
 ýakynlaşýar 2
 oglanlar 2
@@ -3372,7 +3375,6 @@ uýamy 2
 Afina 2
 Şäher 2
 Penşembe 2
-dördünji 2
 galdyk 2
 Gapylaryň 2
 ýapykdygyna 2
@@ -4725,7 +4727,6 @@ baradadyr 1
 Ertire 1
 ýerleşdirilenmi 1
 meýilleşdirilenmi 1
-zerurdyr 1
 galaryn 1
 deregine 1
 etmeligine 1
@@ -6811,7 +6812,6 @@ tanyşmadym 1
 tanyşlarynyñ 1
 hemmesiniñ 1
 gidendiklerini 1
-öýlerine 1
 goýbermegini 1
 goýbermedi 1
 bolandyklaryna 1

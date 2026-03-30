@@ -1,4 +1,4 @@
-ya 1296
+ya 1297
 na 1072
 wa 755
 kwa 698
@@ -34,17 +34,17 @@ hivyo 84
 kazi 83
 alikuwa 83
 wake 79
-Kwa 77
+Kwa 78
 au 74
 kati 72
-nini 70
+nini 71
 sababu 69
 kitu 66
 kubwa 66
 kuliko 63
 juu 63
 sio 60
-chini 59
+chini 60
 Amerika 58
 siku 56
 miaka 55
@@ -159,6 +159,7 @@ mwisho 26
 tofauti 26
 bado 26
 pia 25
+wapi 25
 Unaweza 25
 Tafadhali 25
 langu 25
@@ -167,7 +168,6 @@ sita 25
 kwanza 25
 hiki 24
 jinsi 24
-wapi 24
 mengi 24
 tatu 24
 naye 24
@@ -297,6 +297,7 @@ mwalimu 15
 changu 15
 mlango 15
 wasiwasi 15
+yuko 15
 lilikuwa 15
 kelele 15
 jioni 15
@@ -364,7 +365,6 @@ Ndege 13
 hakika 13
 vitabu 13
 anaweza 13
-yuko 13
 yule 13
  13
 mwezi 13
@@ -424,6 +424,7 @@ vile 12
 hayo 12
 nusu 12
 haki 11
+Mbwa 11
 wanyama 11
 mjinga 11
 tafadhali 11
@@ -467,7 +468,6 @@ Sidhani 11
 Linda 11
 nia 10
 Mvulana 10
-Mbwa 10
 bwana 10
 popote 10
 vibaya 10
@@ -697,6 +697,7 @@ vingi 7
 nyeupe 7
 Kijapani 7
 kushoto 7
+meza 7
 Umoja 7
 nyasi 7
 Saa 7
@@ -800,7 +801,6 @@ kipya 6
 Sisi 6
 kahawia 6
 Ninapenda 6
-meza 6
 mchezaji 6
 miji 6
 rasmi 6
@@ -833,6 +833,7 @@ wafanyakazi 6
 mahitaji 6
 ununuzi 6
 dubu 6
+Mwalimu 6
 kuonekana 6
 iwe 6
 Niliona 6
@@ -979,7 +980,6 @@ vyema 5
 Moto 5
 vyumba 5
 Timu 5
-Mwalimu 5
 Sote 5
 mwangaza 5
 mali 5
@@ -9315,3 +9315,5 @@ pea 1
 maharage 1
 unabishana 1
 iliisha 1
+ujifunze 1
+Biblia 1
