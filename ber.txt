@@ -1,6 +1,6 @@
 ad 186952
 n 154194
-d 114924
+d 114926
 ara 92901
 ay 71472
 i 65511
@@ -683,7 +683,7 @@ tliẓri 523
 yesla 523
 tgem 523
 tafukt 522
-iman-nsen 521
+iman-nsen 522
 ssaɣen-d 521
 teɣsem 521
 Sliman 520
@@ -1088,9 +1088,9 @@ Yuɣal 322
 wul-is 322
 tdabut 321
 yimensi 321
+iman-nsent 321
 Yuɣ-d 321
 idlisen 320
-iman-nsent 320
 d-yuɣal 320
 tilid 320
 yuli 320
@@ -8251,6 +8251,7 @@ afus-nnek 35
 Tuḍen 35
 iniɣ 35
 as-ssutreɣ 35
+Ttarran 35
 temdint-nneɣ 35
 daxel-is 35
 tecciḍ 35
@@ -8456,7 +8457,6 @@ ttekkiɣ 34
 imɣan 34
 teṛmisin 34
 tankult-a 34
-Ttarran 34
 tadyant 34
 tessutreḍ 34
 aṛabul-nni 34

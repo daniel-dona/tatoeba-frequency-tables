@@ -1,4 +1,4 @@
-je 455
+je 457
 se 173
 sam 165
 u 161
@@ -16,7 +16,7 @@ mi 49
 si 44
 smo 44
 za 44
-od 39
+od 40
 to 37
 On 37
 ti 34
@@ -194,6 +194,7 @@ mnom 6
 kod 6
 kuću 6
 koja 6
+pet 6
 idemo 6
 Sviđa 6
 po 6
@@ -234,7 +235,6 @@ moju 5
 imao 5
 francuski 5
 tome 5
-pet 5
 sedam 5
 Niko 5
 sok 5
@@ -939,6 +939,7 @@ pije 2
 odakle 2
 plemena 2
 čaj 2
+Boja 2
 jači 2
 tačan 2
 inozemstvu 2
@@ -3124,7 +3125,6 @@ Suze 1
 duše 1
 paralelno 1
 parkiram 1
-Boja 1
 pretamna 1
 garaži 1
 osjetio 1
@@ -3193,3 +3193,6 @@ Smiješi 1
 meso 1
 pjevam 1
 pjesme 1
+Svijet 1
+veći 1
+crvena 1

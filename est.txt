@@ -1,12 +1,12 @@
-on 1579
-Ma 945
+on 1582
+Ma 946
 ei 754
 Tom 623
 Kas 454
 sa 438
 Ta 357
 et 349
-See 282
+See 283
 ma 227
 seda 214
 oma 206
@@ -16,7 +16,7 @@ ja 161
 ta 154
 ole 150
 Sa 144
-olen 141
+olen 142
 keelt 135
 väga 134
 Mul 132
@@ -38,10 +38,10 @@ Miks 78
 Minu 73
 sulle 72
 tahan 72
-Tomi 71
+Tomi 72
 sind 70
+meeldib 70
 su 69
-meeldib 69
 kõik 68
 siin 68
 mida 68
@@ -52,8 +52,8 @@ veel 65
 Mida 64
 Mis 64
 Mu 64
+sinu 60
 Kes 60
-sinu 59
 hea 59
 sul 56
 välja 54
@@ -107,11 +107,11 @@ räägi 34
 keegi 34
 olla 34
 aru 33
+teie 33
 sellest 33
+Tal 33
 liiga 33
 Olen 33
-teie 32
-Tal 32
 või 32
 keel 32
 räägid 32
@@ -209,6 +209,7 @@ end 18
 tööd 18
 Kass 18
 taga 18
+Need 18
 koera 18
 raske 18
 selles 18
@@ -235,7 +236,6 @@ saanud 16
 õde 16
 just 16
 jaoks 16
-Need 16
 viis 16
 väike 16
 lähen 16
@@ -537,6 +537,7 @@ tule 7
 öö 7
 sõi 7
 näed 7
+toas 7
 vaba 7
 näe 7
 neli 7
@@ -614,7 +615,6 @@ laul 6
 Eesti 6
 läinud 6
 punane 6
-toas 6
 järgmisel 6
 väärt 6
 Mees 6
@@ -927,6 +927,7 @@ aitäh 4
 hommikul 4
 isal 4
 venda 4
+pliiats 4
 teeme 4
 lõbus 4
 Emily 4
@@ -974,6 +975,7 @@ muusika 4
 soe 4
 temast 4
 suurt 4
+raamatud 4
 maitsev 4
 Loodan 4
 Vesi 4
@@ -981,6 +983,7 @@ mitu 4
 veidi 4
 tappa 4
 ühte 4
+laulda 4
 Naised 4
 esimesel 4
 lahke 4
@@ -1201,7 +1204,6 @@ jaama 3
 Grammatika 3
 härra 3
 rong 3
-pliiats 3
 sõja 3
 lugu 3
 rääkisin 3
@@ -1277,7 +1279,6 @@ teeksin 3
 võlgu 3
 endast 3
 kuulaksid 3
-laulda 3
 silmapilgul 3
 suures 3
 paistis 3
@@ -1857,7 +1858,6 @@ Oh 2
 Londonist 2
 maal 2
 kuulutasid 2
-raamatud 2
 tänaval 2
 politsei 2
 vahetasid 2

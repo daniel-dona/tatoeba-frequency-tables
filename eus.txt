@@ -1,13 +1,13 @@
-da 1000
+da 1001
 ez 573
-dut 525
+dut 528
 Ez 412
-bat 407
+bat 408
 du 395
 eta 350
 zuen 283
 egin 277
-naiz 274
+naiz 275
 zen 264
 dago 233
 Tom 229
@@ -33,7 +33,7 @@ baino 109
 zure 104
 joan 102
 asko 92
-ditut 91
+ditut 92
 al 88
 oso 82
 urte 81
@@ -44,7 +44,7 @@ dugu 75
 ditu 75
 nintzen 75
 nago 74
-ikusi 69
+ikusi 70
 Zenbat 65
 Mary 65
 izango 64
@@ -65,10 +65,10 @@ gustatzen 55
 inoiz 55
 Zein 54
 hemen 54
+maite 53
 baina 52
 uste 52
 daude 52
-maite 52
 mesedez 52
 gara 51
 Nik 51
@@ -172,6 +172,7 @@ beti 23
 egun 23
 ikusten 23
 bihar 23
+Gure 23
 gustuko 23
 gaude 23
 Tomen 23
@@ -180,7 +181,6 @@ zaizu 22
 zuten 22
 joaten 22
 aurkitu 22
-Gure 22
 zerbait 22
 egongo 22
 Tom-ek 22
@@ -233,6 +233,7 @@ moduz 17
 gero 17
 etxera 17
 ibili 17
+Atzo 17
 Orain 17
 sentitzen 17
 bezain 17
@@ -251,7 +252,6 @@ berria 16
 txarra 16
 lagun 16
 batzuk 16
-Atzo 16
 eskolara 16
 dirua 16
 baduzu 16
@@ -410,6 +410,7 @@ berak 10
 Gabon 10
 irakaslea 10
 amaitu 10
+Ikusi 10
 Asko 10
 direla 10
 irabazi 10
@@ -464,7 +465,6 @@ naiteke 9
 Maite 9
 herrialde 9
 bila 9
-Ikusi 9
 ikusiko 9
 ideia 9
 gorroto 9
@@ -580,6 +580,7 @@ diat 7
 esaldi 7
 bihurtu 7
 gutxiago 7
+Katu 7
 niretzat 7
 hurrengo 7
 euskara 7
@@ -669,7 +670,6 @@ badago 6
 dezakegu 6
 eduki 6
 bisitatu 6
-Katu 6
 Utz 6
 baldin 6
 hotza 6
@@ -2659,6 +2659,7 @@ justu 2
 garbituko 2
 gordailua 2
 Kanadarra 2
+Ikusten 2
 gehitu 2
 Horretaz 2
 konbentzituta 2
@@ -2906,6 +2907,7 @@ Vegasen 2
 negutegi 2
 entrenatzaile 2
 graziaz 2
+Pasahitza 2
 suaren 2
 Zirik 2
 Olentzerorengan 2
@@ -6600,7 +6602,6 @@ aplikaziorik 1
 inportatzen 1
 Ino 1
 giltzadia 1
-Ikusten 1
 dituzu: 1
 São 1
 Paulo 1
@@ -8431,7 +8432,6 @@ Xake-mate 1
 Korri 1
 Basa 1
 Bitxia 1
-Pasahitza 1
 Parte 1
 nazka 1
 Tira 1
@@ -8589,3 +8589,11 @@ osteguna 1
 ostirala 1
 larunbata 1
 igandea 1
+Dut 1
+Duzu 1
+Duzue 1
+Du 1
+Dugu 1
+Dute 1
+«pasahitza» 1
+katuak 1

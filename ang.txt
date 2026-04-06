@@ -1,4 +1,4 @@
-is 60
+is 61
 on 50
 Ic 46
 and 45
@@ -33,9 +33,9 @@ mid 9
 He 9
 hæbbe 9
 þǣm 9
+Þæt 9
 eom 9
 catt 8
-Þæt 8
 æppel 8
 eart 8
 eft 7
@@ -294,6 +294,7 @@ wāt 2
 wunaþ 2
 geþēode 2
 Fuglas 2
+flēogaþ 2
 fuglas 2
 fugol 2
 Fȳr 2
@@ -919,7 +920,6 @@ Stānrocc 1
 carte 1
 sċēara 1
 galaþ 1
-flēogaþ 1
 Þā 1
 sungon 1
 Fēd 1
@@ -1144,3 +1144,6 @@ unwita 1
 wær 1
 Leorniaþ 1
 Leorna 1
+leafnessword 1
+"leafnessword" 1
+Flēogan 1

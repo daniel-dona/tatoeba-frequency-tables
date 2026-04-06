@@ -1,11 +1,11 @@
-Che 243
-Tom 236
+Che 244
+Tom 237
 che 222
 piko 206
 peteĩ 197
 ha 194
-hína 156
-ha'e 147
+hína 157
+ha'e 149
 Ha'e 130
 nde 125
 pe 115
@@ -43,11 +43,11 @@ jagua 29
 akue 29
 katu 29
 he'i 27
+Ani 27
 Pe 27
 Mba'e 26
 Upéva 25
 upe 25
-Ani 25
 Ikatu 25
 Ore 25
 guive 25
@@ -80,11 +80,11 @@ araka'eve 18
 chehegui 18
 rupi 17
 mokõi 17
+ñande 17
 ajépa 17
 Ñande 17
 mba'épa 17
 marandu'asãihára 17
-ñande 16
 mbo'ehao 16
 térã 16
 óga 16
@@ -133,6 +133,7 @@ omano 12
 tetã 12
 y 12
 oreko 12
+mbarakaja 12
 mborayhu 12
 jepe 12
 mymba 12
@@ -143,7 +144,6 @@ Sami 12
 aína 11
 hovy 11
 mba'yrumýi 11
-mbarakaja 11
 Moõpa 11
 ndaipóri 11
 va'ekue 11
@@ -347,6 +347,7 @@ Chemandu'a 5
 John 5
 Karai 5
 Boston-pe 5
+reho 5
 rei 5
 renda 5
 Hapõme 5
@@ -454,7 +455,6 @@ Aguyje 4
 pohanohára 4
 reipota 4
 Mitã 4
-reho 4
 yvotykuéra 4
 mitã'i 4
 aguata 4
@@ -543,6 +543,7 @@ mamópa 4
 Tymbachu'ikuéra 4
 Areko 4
 okẽ 4
+peho 4
 korapýpe 4
 Maymáva 4
 yvotyja 4
@@ -699,6 +700,7 @@ jety 3
 ojogua 3
 sa 3
 saro'y 3
+Ahayhu 3
 añónte 3
 reimo'ã 3
 ajogua 3
@@ -766,7 +768,6 @@ Aikotevẽ 3
 ajahu 3
 ijyvatekue 3
 Jerovia 3
-peho 3
 peĩ 3
 ohóta 3
 apoha 3
@@ -993,6 +994,7 @@ Jahecha 2
 Ñu 2
 Heẽ 2
 rera 2
+Aguata 2
 amano 2
 oñangarekota 2
 resairũ 2
@@ -1127,7 +1129,6 @@ mbeguehápe 2
 ñeha'ã 2
 ajapókuri 2
 jari'íre 2
-Ahayhu 2
 jára 2
 Oky 2
 repáy 2
@@ -1320,6 +1321,7 @@ iñatĩa 2
 cheatĩa 2
 Apytu'úkuri 2
 ña'ẽmbe 2
+ipochy 2
 ijehegui 2
 remoĩmbáma 2
 nendive 2
@@ -1328,6 +1330,7 @@ ha'éta 2
 téle 2
 omomba'eguasu 2
 Alápe 2
+Akyhyje 2
 yvyguy 2
 ine 2
 Ituja 2
@@ -1422,6 +1425,7 @@ Eheja 2
 kotýgui 2
 apytu'ũ 2
 oñeme'ẽ 2
+Avy'a 2
 poikuaa 2
 rupa 2
 tupa 2
@@ -1483,6 +1487,7 @@ iñemonguerarã 2
 oñeme'ẽva 2
 yvyjygue 2
 chekane'õ 2
+Chekane'õ 2
 re'õngueryru 2
 andureko 2
 resa'ỹijo 2
@@ -2115,7 +2120,6 @@ hapõñe'ẽme 1
 aipuru 1
 E'a 1
 hekope'ỹveva 1
-Aguata 1
 isarambipáma 1
 1939-pe 1
 aravope 1
@@ -3270,7 +3274,6 @@ Parks-pe 1
 kamba 1
 Montgomery 1
 ipirĩmba 1
-ipochy 1
 rembiasakue 1
 kuarahysẽ 1
 roikokuaa 1
@@ -3313,7 +3316,6 @@ ipyhymbyrékuri 1
 tata 1
 ituicha 1
 oparupi 1
-Akyhyje 1
 Alágui 1
 Musulmãnguéra 1
 Ndaijaiguéi 1
@@ -4076,7 +4078,6 @@ imitãrusu 1
 Kambója 1
 Iñirũnguéra 1
 Aĩmbáma 1
-Avy'a 1
 haguere 1
 Tekoayhu 1
 Okyhyjeite 1
@@ -4741,7 +4742,6 @@ yvyjyguekuéra 1
 yvyjyguéicha 1
 yvyjyguégui 1
 Akaru 1
-Chekane'õ 1
 Ohóma 1
 ipohyieterei 1
 Oipe'ávo 1
@@ -4903,3 +4903,10 @@ Oëlmoe-gua 1
 nandi 1
 ype 1
 mbeguekatu 1
+Ñe'ẽñemi 1
+"ñe'ẽñemi" 1
+mbarakajakuéra 1
+Chekaigue 1
+Ndavy'ái 1
+Ndachepochýi 1
+Rekarúmapa 1

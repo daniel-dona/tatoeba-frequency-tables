@@ -89,7 +89,7 @@ smo 22
 ste 21
 angleško 21
 Živijo 21
-o 20
+o 21
 prosim 20
 Na 20
 do 20
@@ -381,6 +381,7 @@ pot 6
 sreča 6
 modro 6
 bolje 6
+stavek 6
 inteligenca 6
 en 5
 nedelja 5
@@ -516,7 +517,6 @@ Katera 5
 vojna 5
 Ljubezen 5
 vendar 5
-stavek 5
 govori 5
 Anglež 4
 teh 4
@@ -713,6 +713,7 @@ Francije 4
 postaja 4
 Slovenka 4
 nebo 4
+ljubezni 4
 greš 4
 skozi 4
 človeka 4
@@ -860,6 +861,7 @@ narodov 3
 vsem 3
 popolnoma 3
 niti 3
+Trenutno 3
 kaže 3
 blizu 3
 soba 3
@@ -992,7 +994,6 @@ Angležinja 3
 Kjer 3
 volja 3
 zaspana 3
-ljubezni 3
 Tajpej 3
 Poljske 3
 Šrilanke 3
@@ -1263,7 +1264,6 @@ Poskušam 2
 vsaj 2
 punco 2
 prostor 2
-Trenutno 2
 kozarec 2
 Tvoj 2
 Učitelj 2
@@ -5473,3 +5473,4 @@ najlepši 1
 interlingvi 1
 končala 1
 sesul 1
+pišem 1

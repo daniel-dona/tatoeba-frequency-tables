@@ -2,7 +2,7 @@ ne 104
 an 63
 wa 63
 ruwe 59
-ta 47
+ta 48
 ka 36
 Tom 30
 yan 29
@@ -11,8 +11,8 @@ pirka 28
 kusu 27
 somo 26
 tanpe 22
+tan 21
 as 21
-tan 20
 siri 19
 kanpisos 19
 iteki 18
@@ -23,12 +23,12 @@ apto 15
 kor 15
 tane 14
 un 14
+or 14
+itak 14
 toan 13
 na 13
-or 13
 rusuy 13
 aynu 13
-itak 13
 hani 12
 hemanta 11
 sekor 11
@@ -39,13 +39,13 @@ teta 11
 toanpe 10
 ku-ne 10
 kur 10
+oka 10
 rera 10
 a 10
 k-an 9
 en-kore 9
 eaykap 9
 yakka 9
-oka 9
 isam 9
 ek 9
 anakne 9
@@ -151,6 +151,7 @@ kotan 3
 earkinne 3
 cikoykip 3
 p 3
+cinumkekanpi 3
 tunasno 3
 nisa 3
 kunneywa 3
@@ -198,7 +199,6 @@ mata 2
 maciya 2
 iyotta 2
 moyo 2
-cinumkekanpi 2
 inanpe 2
 hene 2
 monrayke 2
@@ -580,3 +580,7 @@ k=erampewtek 1
 pan 1
 hok 1
 ku-suke 1
+1234 1
+so 1
+esperanto 1
+ku-yayhonokka 1

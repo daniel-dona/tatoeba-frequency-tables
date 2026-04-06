@@ -1,11 +1,11 @@
 es 337
-Me 170
+Me 171
 Li 114
 li 112
 Tom 104
 non 82
 Ob 62
-La 57
+La 58
 in 56
 vu 55
 me 50
@@ -13,7 +13,7 @@ did 49
 have 48
 Lo 44
 a 43
-men 40
+men 41
 Nus 40
 manja 35
 esed 33
@@ -24,7 +24,7 @@ filia 30
 vada 27
 vun 25
 voli 23
-ama 21
+ama 22
 jupe 21
 Men 20
 lo 18
@@ -177,6 +177,7 @@ sal 4
 Non 4
 dar 4
 verim 4
+moneye 4
 Australia 4
 quum 4
 bel 4
@@ -240,7 +241,6 @@ vivo 3
 nokte 3
 libre 3
 resivad 3
-moneye 3
 filio 3
 rapidim 3
 redi 3
@@ -343,6 +343,7 @@ italum 2
 usa 2
 ja 2
 fad 2
+nun 2
 questione 2
 promise 2
 standa 2
@@ -598,7 +599,6 @@ XXX 1
 Popule 1
 folies 1
 suke 1
-nun 1
 Responda 1
 questiones 1
 kukes 1
@@ -1036,3 +1036,5 @@ pluve 1
 Elza 1
 ploreskad 1
 imbesil 1
+prendad 1
+kates 1

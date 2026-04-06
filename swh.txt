@@ -1,9 +1,9 @@
 ya 1297
 na 1072
-wa 755
+wa 756
 kwa 698
-ni 626
-katika 242
+ni 629
+katika 243
 kwenye 227
 kuwa 215
 za 213
@@ -16,7 +16,7 @@ wakati 147
 yake 141
 yangu 130
 mtu 128
-Ni 110
+Ni 111
 moja 107
 lakini 107
 yako 104
@@ -28,7 +28,7 @@ hiyo 94
 kufanya 90
 watu 89
 tu 88
-wangu 87
+wangu 88
 kutoka 86
 hivyo 84
 kazi 83
@@ -48,7 +48,7 @@ chini 60
 Amerika 58
 siku 56
 miaka 55
-saa 53
+saa 54
 hapa 52
 hilo 51
 nzuri 50
@@ -64,13 +64,13 @@ Bwana 46
 yetu 46
 ilikuwa 46
 kuna 45
+nchi 45
 wako 45
 ana 45
 ambayo 45
 hadi 45
 hili 45
 kweli 44
-nchi 44
 muda 44
 karibu 44
 njia 43
@@ -88,8 +88,8 @@ bora 41
 kawaida 41
 usiku 40
 mkubwa 40
+Mimi 39
 nguvu 39
-Mimi 38
 huko 38
 yao 38
 muhimu 38
@@ -102,13 +102,13 @@ leo 36
 kidogo 36
 unaweza 36
 Wakati 36
+gani 35
 lazima 35
 bila 35
 sawa 34
 yote 34
 wewe 34
 mmoja 34
-gani 33
 si 33
 wengi 33
 baada 33
@@ -141,6 +141,7 @@ kula 28
 hatari 28
 mambo 27
 mpya 27
+mwanamke 27
 lake 27
 mtoto 27
 wetu 27
@@ -151,22 +152,21 @@ yoyote 26
 hivi 26
 chakula 26
 yeye 26
-mwanamke 26
+wapi 26
 simu 26
 ndege 26
 Katika 26
 mwisho 26
 tofauti 26
 bado 26
+hiki 25
 pia 25
-wapi 25
 Unaweza 25
 Tafadhali 25
 langu 25
 kumi 25
 sita 25
 kwanza 25
-hiki 24
 jinsi 24
 mengi 24
 tatu 24
@@ -182,6 +182,7 @@ Millie 23
 moto 23
 kulala 23
 Asante 23
+Kiingereza 23
 joto 23
 duka 23
 wengine 23
@@ -193,7 +194,6 @@ zamani 22
 mwaka 22
 kadhaa 22
 bahati 22
-Kiingereza 22
 ina 22
 maarufu 22
 hatua 22
@@ -202,6 +202,7 @@ hakuna 22
 fulani 22
 yeyote 22
 gari 21
+kitabu 21
 jina 21
 Hii 21
 Kila 21
@@ -210,7 +211,6 @@ kiasi 21
 maalum 21
 mwenyewe 20
 rafiki 20
-kitabu 20
 Kama 20
 mwenye 20
 kuishi 20
@@ -245,6 +245,7 @@ zao 18
 zangu 18
 Siku 18
 Uingereza 18
+Nataka 18
 chake 18
 jana 18
 Una 18
@@ -258,7 +259,6 @@ karibuni 18
 damu 18
 wote 17
 Sina 17
-Nataka 17
 kusema 17
 huyu 17
 wanafunzi 17
@@ -274,6 +274,7 @@ usalama 17
 nyuma 17
 roho 17
 Hiyo 16
+mwalimu 16
 mchezo 16
 chumba 16
 mwili 16
@@ -293,7 +294,6 @@ huwa 16
 baadaye 16
 akili 15
 wana 15
-mwalimu 15
 changu 15
 mlango 15
 wasiwasi 15
@@ -342,6 +342,7 @@ kuanza 14
 eneo 14
 yenye 14
 binadamu 14
+tayari 14
 ghafla 14
 Malkia 14
 kuchekesha 14
@@ -350,6 +351,7 @@ mfumo 14
 kuweka 14
 Alisema 14
 sivyo 14
+nusu 14
 Habari 13
 kijani 13
 nguo 13
@@ -383,7 +385,7 @@ basi 13
 sheria 13
 mkono 13
 maili 13
-tayari 13
+kununua 13
 mapema 13
 Dani 13
 Kazi 12
@@ -397,6 +399,7 @@ Australia 12
 mkate 12
 anapenda 12
 samaki 12
+dunia 12
 ajabu 12
 mashine 12
 Ana 12
@@ -418,20 +421,18 @@ mfano 12
 walikuwa 12
 Meli 12
 Polisi 12
-kununua 12
 shimo 12
 vile 12
 hayo 12
-nusu 12
 haki 11
 Mbwa 11
 wanyama 11
 mjinga 11
 tafadhali 11
+bei 11
 kunywa 11
 muziki 11
 sigara 11
-dunia 11
 kulia 11
 wazi 11
 Ujerumani 11
@@ -471,8 +472,8 @@ Mvulana 10
 bwana 10
 popote 10
 vibaya 10
-bei 10
 lako 10
+Tom 10
 mayai 10
 anataka 10
 kuandika 10
@@ -591,9 +592,10 @@ wala 9
 wanadamu 9
 salama 8
 Watoto 8
+Nani 8
+hana 8
 je" 8
 Paka 8
-Tom 8
 mkataba 8
 haina 8
 Brazil 8
@@ -607,6 +609,7 @@ unajua 8
 mingi 8
 Si 8
 New 8
+Saa 8
 Niko 8
 Kusini 8
 machungwa 8
@@ -679,11 +682,9 @@ Sehemu 8
 wazo 8
 Farasi 7
 Msichana 7
-Nani 7
 wanawake 7
 siwezi 7
 pale 7
-hana 7
 Hamisi 7
 Jambo 7
 kitendo 7
@@ -700,7 +701,6 @@ kushoto 7
 meza 7
 Umoja 7
 nyasi 7
-Saa 7
 raha 7
 nane 7
 upi 7
@@ -729,6 +729,7 @@ mkuu 7
 uwe 7
 kuanguka 7
 mnyama 7
+kuja 7
 mavazi 7
 nyekundu 7
 mpango 7
@@ -795,6 +796,7 @@ Naenda 6
 benki 6
 Mwanamke 6
 kanisani 6
+mwanafunzi 6
 mweupe 6
 mtihani 6
 kipya 6
@@ -804,6 +806,7 @@ Ninapenda 6
 mchezaji 6
 miji 6
 rasmi 6
+Mary 6
 zina 6
 Huyu 6
 mkewe 6
@@ -827,6 +830,7 @@ makini 6
 kunaweza 6
 matibabu 6
 mshtuko 6
+wivu 6
 mjomba 6
 mgonjwa 6
 wafanyakazi 6
@@ -839,7 +843,6 @@ iwe 6
 Niliona 6
 Bi 6
 namna 6
-kuja 6
 idadi 6
 Kulikuwa 6
 runinga 6
@@ -935,20 +938,20 @@ Anatoka 5
 mwimbaji 5
 jikoni 5
 pombe 5
-mwanafunzi 5
+Mke 5
 chai 5
 mazuri 5
 bluu 5
 Ninajua 5
 tufaha 5
 bahari 5
-Mary 5
 meno 5
 magumu 5
 wanaishi 5
 York 5
 mjini 5
 mwana 5
+Uko 5
 Kijerumani 5
 kiko 5
 kwanini 5
@@ -974,7 +977,6 @@ kushughulikia 5
 karatasi 5
 majira 5
 Askari 5
-wivu 5
 asilimia 5
 vyema 5
 Moto 5
@@ -1132,7 +1134,6 @@ California 4
 China 4
 uji 4
 Ulikuwa 4
-Mke 4
 Gari 4
 mweusi 4
 Tuko 4
@@ -1482,7 +1483,7 @@ mingapi 3
 Maji 3
 Kaa 3
 nifike 3
-Uko 3
+Unaishi 3
 "Ndio 3
 kuuliza 3
 Unatoka 3
@@ -2077,7 +2078,6 @@ Nuno 2
 Kireno 2
 Ureno 2
 yako" 2
-Unaishi 2
 sawa" 2
 niko 2
 "Ninaishi 2
@@ -9317,3 +9317,7 @@ unabishana 1
 iliisha 1
 ujifunze 1
 Biblia 1
+imepita 1
+Nilisubiri 1
+alichelewa 1
+ataokoa 1

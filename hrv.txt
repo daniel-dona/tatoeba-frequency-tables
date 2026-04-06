@@ -1,19 +1,19 @@
 je 1876
 se 697
 u 629
-sam 510
-da 473
+sam 511
+da 474
 li 428
 na 363
-Tom 322
+Tom 323
 ne 315
 i 271
 mi 243
-su 238
+su 239
 to 205
 Ne 205
 nije 187
-za 182
+za 183
 što 179
 si 175
 od 166
@@ -71,20 +71,20 @@ on 47
 moj 47
 a 47
 svoje 47
+bilo 47
 jako 47
 samo 47
 Nisam 46
-bilo 46
 Koliko 46
 ovdje 46
 ljudi 45
 koji 45
+sa 43
 ovo 42
 nisam 42
 U 42
 svoju 42
 do 42
-sa 42
 živi 41
 rekao 41
 vremena 40
@@ -95,12 +95,12 @@ tamo 39
 mu 39
 Da 38
 puno 37
+Moja 36
 Volim 36
 znam 36
 Kada 36
 ju 36
 tvoj 35
-Moja 35
 Mogu 35
 Danas 35
 mnogo 35
@@ -110,6 +110,7 @@ moja 33
 kada 33
 tu 33
 vidjeti 33
+Nije 33
 taj 32
 ništa 32
 nas 32
@@ -117,7 +118,6 @@ mene 32
 godine 32
 Mislim 32
 Ti 32
-Nije 32
 doći 31
 ćeš 31
 posao 31
@@ -218,6 +218,7 @@ moje 18
 svojoj 18
 volim 18
 mora 18
+često 18
 dovoljno 18
 govoriti 18
 Na 18
@@ -230,7 +231,6 @@ prijatelji 17
 ime 17
 Nitko 17
 bez 17
-često 17
 Sviđa 17
 otišao 17
 Nema 17
@@ -262,6 +262,7 @@ učinio 16
 kavu 16
 stvarno 16
 svi 16
+mnom 16
 previše 16
 kuću 16
 Svaki 16
@@ -279,6 +280,7 @@ ostati 15
 uopće 15
 Neki 15
 gradu 15
+majka 15
 života 15
 tebi 15
 koja 15
@@ -286,7 +288,6 @@ imao 15
 možemo 15
 riječi 15
 ujutro 15
-mnom 15
 najbolje 15
 znao 15
 jednom 14
@@ -298,7 +299,7 @@ tvoju 14
 učiti 14
 Bez 14
 vode 14
-majka 14
+Htio 14
 kojeg 14
 kuća 14
 jesti 14
@@ -319,7 +320,6 @@ sobu 13
 Nikada 13
 pa 13
 dugo 13
-Htio 13
 poslije 13
 manje 13
 misli 13
@@ -516,6 +516,7 @@ tenis 9
 neću 8
 istina 8
 posjetiti 8
+cipele 8
 poput 8
 ljeta 8
 pričati 8
@@ -532,6 +533,7 @@ Imao 8
 Reci 8
 Uskoro 8
 Došao 8
+pjeva 8
 telefon 8
 dobiti 8
 Većina 8
@@ -594,7 +596,6 @@ nemaju 7
 Daj 7
 Zato 7
 spreman 7
-cipele 7
 mišljenje 7
 strani 7
 mača 7
@@ -611,7 +612,6 @@ odgovor 7
 plakati 7
 umro 7
 Boli 7
-pjeva 7
 problema 7
 čak 7
 nogomet 7
@@ -676,6 +676,7 @@ svom 7
 vjerovati 7
 roditelji 7
 vidi 7
+Djeca 7
 dvoje 7
 računalo 7
 znamo 7
@@ -786,7 +787,6 @@ niti 6
 pjesmu 6
 rečenice 6
 trebamo 6
-Djeca 6
 Hrvatska 6
 Europe 6
 obaviti 6
@@ -1167,6 +1167,7 @@ odjeću 4
 trenutno 4
 uvjeriti 4
 vrtu 4
+Božić 4
 potrošio 4
 psi 4
 Učitelj 4
@@ -1560,7 +1561,6 @@ velik 3
 Obožavam 3
 idi 3
 lakše 3
-Božić 3
 Degas 3
 godišnje 3
 proveo 3
@@ -1706,6 +1706,7 @@ istog 3
 Nestalo 3
 ljubazan 3
 Zagrebu 3
+vjetrovito 3
 dali 3
 nazvao 3
 ponavlja 3
@@ -2556,6 +2557,7 @@ ekipe 2
 Nojevi 2
 lete 2
 Konačno 2
+dobila 2
 samnom 2
 rijeku 2
 Sreća 2
@@ -2579,7 +2581,6 @@ toplo 2
 mogućnosti 2
 Poslije 2
 uključiti 2
-vjetrovito 2
 sunčano 2
 pulover 2
 Trenutno 2
@@ -2818,6 +2819,7 @@ pobjedio 2
 zahod 2
 znala 2
 biologiju 2
+kuha 2
 članak 2
 izgorjela 2
 Izvukao 2
@@ -5436,7 +5438,6 @@ razdvajaju 1
 dijelove 1
 spajaju 1
 Iznenada 1
-dobila 1
 nacijepao 1
 štednjak 1
 Intenzivno 1
@@ -6592,7 +6593,6 @@ sirov 1
 sanjari 1
 Vjenčali 1
 tajnosti 1
-kuha 1
 Rasisti 1
 ispraviti 1
 Cijela 1

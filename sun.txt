@@ -16,7 +16,7 @@ geus 40
 boga 37
 ngomong 35
 nyaho 31
-éta 30
+éta 31
 pakeun 27
 pisan 26
 ngalakukeun 26
@@ -60,12 +60,12 @@ buku 10
 eureun 10
 nalika 10
 angkat 10
+yén 10
 ayeuna 10
 eta 9
 taun 9
 poe 9
 leuwi 9
-yén 9
 Yanni 9
 peuting 8
 Teu 8
@@ -116,6 +116,7 @@ hujan 5
 Bisa 5
 nanaon 5
 Dimana 5
+tibatan 5
 diuk 5
 sakola 5
 ngadéngé 5
@@ -160,7 +161,6 @@ kaluar 4
 sabaraha 4
 nyaéta 4
 rohangan 4
-tibatan 4
 sarua 4
 gawé 4
 manéhna 4
@@ -186,6 +186,7 @@ jelma 4
 salawas 4
 tilu 3
 Gero 3
+korsi 3
 nempo 3
 Jelema 3
 Manehna 3
@@ -226,6 +227,7 @@ bangku 3
 bener 3
 béwarakeun 3
 jieun 3
+leuwih 3
 murid 3
 silih 3
 balik 3
@@ -276,7 +278,6 @@ salapan 2
 Henteu 2
 Natal 2
 pulisi 2
-korsi 2
 nepi 2
 kuring 2
 Kamari 2
@@ -335,7 +336,6 @@ kalepatan 2
 miskin 2
 tanpa 2
 ngaruksak 2
-leuwih 2
 latihan 2
 papakéan 2
 badut 2
@@ -1625,3 +1625,7 @@ bangkrut 1
 ᮔᮇᮔ᮪ 1
 ᮓᮩᮄ 1
 ᮇᮙᮧᮀᮊᮩᮔ᮪ 1
+Kuring 1
+perhatikeun 1
+méja 1
+stabil 1

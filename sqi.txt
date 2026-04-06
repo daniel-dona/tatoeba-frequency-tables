@@ -1,9 +1,9 @@
-të 901
+të 902
 e 588
 në 388
-është 338
+është 339
 i 280
-një 271
+një 272
 nuk 251
 Nuk 234
 Tomi 219
@@ -12,21 +12,21 @@ me 177
 për 170
 që 165
 më 165
-Unë 133
+Unë 134
+shumë 120
 se 119
-shumë 119
 te 106
 ta 88
 dhe 85
 po 82
 ka 80
+jam 77
 u 76
-jam 76
 Ajo 67
 mund 66
 kam 65
+Do 65
 janë 65
-Do 64
 Ai 62
 E 60
 nga 58
@@ -106,6 +106,7 @@ bërë 20
 jeni 20
 nevojë 20
 kur 20
+jetë 20
 Duhet 20
 Tom 20
 sot 20
@@ -114,7 +115,6 @@ bëj 20
 ndonjë 20
 Ne 19
 keni 19
-jetë 19
 bukur 19
 ende 19
  18
@@ -131,7 +131,6 @@ dy 16
 Sa 16
 ndërtosh 16
 kjo 15
-eshte 15
 nje 15
 Ke 15
 ku 15
@@ -145,6 +144,7 @@ keq 14
 Kur 14
 herë 14
 sepse 14
+eshte 14
 per 14
 kohë 14
 gjithmonë 14
@@ -163,6 +163,7 @@ libër 13
 shkojnë 13
 vështirë 12
 bën 12
+nesër 12
 aq 12
 së 12
 Boston 12
@@ -177,7 +178,6 @@ shum 11
 pse 11
 ri 11
 punë 11
-nesër 11
 Askush 11
 Në 11
 jem 11
@@ -187,7 +187,6 @@ pëlqejnë 11
 Mua 11
 duan 11
 Ç'farë 11
-shume 10
 Une 10
 juaj 10
 pas 10
@@ -204,6 +203,7 @@ them 10
 njeri 10
 Gratë 10
 Ka 9
+shume 9
 çfarë 9
 mia 9
 Keni 9
@@ -321,6 +321,7 @@ mi 6
 martuar 6
 ndihmoj 6
 Millie 6
+ftohtë 6
 thjeshtë 6
 makinë 6
 thotë 6
@@ -384,7 +385,6 @@ asaj 5
 Greqi 5
 vërtetën 5
 sy 5
-ftohtë 5
 Angli 5
 bukë 5
 lartë 5
@@ -501,6 +501,7 @@ spanjisht 4
 Frëngjishtja 4
 njeh 4
 bë 4
+peshk 4
 pjesë 4
 dëshironte 4
 vajzë 4
@@ -679,7 +680,6 @@ Anglishtja 3
 gjermanike 3
 pëlqeu 3
 treguar 3
-peshk 3
 dëshirë 3
 Bashkuara 3
 Ato 3
