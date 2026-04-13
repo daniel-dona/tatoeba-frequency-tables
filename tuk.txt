@@ -6,7 +6,7 @@ Sen 323
 Bu 323
 üçin 312
 we 286
-bir 224
+bir 225
 näme 221
 gowy 206
 bu 198
@@ -18,14 +18,14 @@ Mery 180
 Meri 177
 aýtdy 172
 öz 171
-bar 163
+bar 164
 Tomuň 157
 men 151
 Biz 141
 diýip 136
 ýaly 133
 Olar 127
-zat 123
+zat 124
 Meniň 121
 muny 118
 Toma 113
@@ -69,7 +69,7 @@ nähili 57
 Meniñ 56
 Tomy 56
 nirede 53
-kim 52
+kim 53
 satyn 52
 Seniň 49
 näçe 49
@@ -214,6 +214,7 @@ agşam 21
 aýdýar 21
 Leýla 21
 Bostonda 21
+on 21
 ähli 21
 Meni 21
 adamlar 21
@@ -225,7 +226,6 @@ bizi 20
 dynç 20
 geçen 20
 birnäçe 20
-on 20
 zatlar 20
 ertir 20
 mundan 20
@@ -332,6 +332,7 @@ gyzykly 13
 berýärin 13
 nahar 13
 Biziň 13
+Saňa 13
 adatça 13
 Indi 13
 täzeden 13
@@ -362,7 +363,6 @@ gördi 12
 maşyn 12
 dowam 12
 Mende 12
-Saňa 12
 üns 12
 olaryň 12
 geler 12
@@ -612,6 +612,7 @@ zadyñ 8
 señ 8
 Laýlanyň 8
 tokaýa 8
+möhüm 8
 hemmesini 8
 Dünýä 8
 ýaz 7
@@ -714,7 +715,6 @@ olaryñ 7
 soradym 7
 Saña 7
 islemeýen 7
-möhüm 7
 sözler 7
 ýazdy 7
 Merinyň 7
@@ -1081,6 +1081,7 @@ Salam 4
 Seresap 4
 kakam 4
 türkmen 4
+ýedi 4
 öýdýän 4
 Bizde 4
 edenini 4
@@ -1389,7 +1390,6 @@ bilmeýäris 3
 gülkünç 3
 diñlemegi 3
 a 3
-ýedi 3
 işim 3
 köýnek 3
 sözleri 3
@@ -2448,6 +2448,7 @@ dolandy 2
 duruzyp 2
 Umyt 2
 diňle 2
+Kakamyň 2
 ýitirdim 2
 beriň 2
 şagyzyny 2
@@ -5130,7 +5131,6 @@ Laylaa 1
 ýüregiňi 1
 ölüp 1
 ylalaşmady 1
-Kakamyň 1
 sagadyny 1
 syrdyň 1
 öwündi 1

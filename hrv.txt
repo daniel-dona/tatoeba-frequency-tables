@@ -1,20 +1,20 @@
-je 1876
+je 1878
 se 697
-u 629
+u 631
 sam 511
 da 474
 li 428
 na 363
-Tom 323
+Tom 324
 ne 315
 i 271
 mi 243
 su 239
+Ne 206
 to 205
-Ne 205
 nije 187
 za 183
-što 179
+što 180
 si 175
 od 166
 On 157
@@ -37,8 +37,8 @@ biti 74
 ima 71
 više 66
 nego 66
+Tko 65
 mogu 65
-Tko 64
 Jesi 64
 Gdje 59
 još 59
@@ -94,10 +94,10 @@ Moj 39
 tamo 39
 mu 39
 Da 38
+znam 37
 puno 37
 Moja 36
 Volim 36
-znam 36
 Kada 36
 ju 36
 tvoj 35
@@ -135,13 +135,13 @@ mogao 28
 po 28
 dvije 28
 danas 28
+želiš 28
 ovaj 27
 knjigu 27
 Molim 27
 Ako 27
 pomoći 27
 život 27
-želiš 27
 Dobro 26
 malo 26
 vas 26
@@ -747,6 +747,7 @@ upravo 6
 događa 6
 Sigurno 6
 John 6
+čuti 6
 poznaje 6
 svemu 6
 daje 6
@@ -878,7 +879,6 @@ prošli 5
 našoj 5
 smisla 5
 Radi 5
-čuti 5
 sljedeći 5
 pošten 5
 trči 5
@@ -955,6 +955,7 @@ Tomova 5
 jedini 5
 Dali 5
 Ove 5
+Koga 5
 njegovu 5
 Mislio 5
 naših 5
@@ -1245,7 +1246,6 @@ pozvao 4
 Srbije 4
 par 4
 muž 4
-Koga 4
 zaključka 4
 smatra 4
 čim 4
@@ -1396,6 +1396,7 @@ jaja 3
 Vozač 3
 roditeljima 3
 cijelim 3
+svijetom 3
 slučaj 3
 glava 3
 crno 3
@@ -1828,6 +1829,7 @@ Zvučiš 3
 leteći 3
 naviknuti 3
 dokaza 3
+vlada 3
 riskira 3
 poslala 3
 lagao 3
@@ -1984,7 +1986,6 @@ kuhati 2
 časopis 2
 putovi 2
 trebam 2
-svijetom 2
 Zaboravio 2
 Zamolio 2
 otvori 2
@@ -2497,6 +2498,7 @@ organskih 2
 Zajedno 2
 promjeniti 2
 izgubile 2
+Lozinka 2
 sumnjiva 2
 bitku 2
 Sretni 2
@@ -3014,7 +3016,6 @@ djelo 2
 Iako 2
 pismu 2
 peče 2
-vlada 2
 Onaj 2
 psima 2
 laktove 2
@@ -3141,6 +3142,8 @@ autu 2
 Žele 2
 Švedskoj 2
 Portugalu 2
+Uživajte 2
+obroku 2
 Tomojuki 1
 Ogura 1
 lutka 1
@@ -5293,7 +5296,6 @@ navedenom 1
 slušaš 1
 dvadesetgodišnjakinja 1
 Zaporka 1
-Lozinka 1
 Pasvord 1
 Istinitost 1
 obavijesti 1
@@ -8869,3 +8871,5 @@ pročitamo 1
 plaćaš 1
 vrtlaru 1
 Dodala 1
+poljubio 1
+"lozinka" 1

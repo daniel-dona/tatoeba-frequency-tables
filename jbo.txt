@@ -1,16 +1,16 @@
 lo 12955
 mi 6305
-cu 3573
-do 3386
+cu 3574
+do 3388
 la 3080
-le 2340
-pu 2339
+le 2341
+pu 2340
 nu 2142
 se 1943
 i 1904
 na 1645
 be 1355
-ko'a 1307
+ko'a 1308
 ma 1239
 ka 1231
 ko 1139
@@ -109,7 +109,7 @@ na'e 145
 mi'ai 145
 patfu 143
 jukpa 143
-gunka 139
+gunka 141
 jinvi 139
 vo'a 138
 simlu 138
@@ -136,9 +136,9 @@ makau 121
 lonu 118
 la'o 116
 du 114
+barda 113
 denpa 113
 ckafi 113
-barda 112
 ponse 112
 jimpe 112
 roi 112
@@ -383,6 +383,7 @@ ku'o 43
 terve'u 42
 jdice 42
 je'u 42
+ju'o 42
 bisli 42
 blanu 42
 birti 42
@@ -397,7 +398,6 @@ pacna 41
 crino 41
 re'u 41
 lebna 41
-ju'o 41
 flipo 41
 smaji 40
 farlu 40
@@ -430,6 +430,7 @@ rirxe 37
 lacri 37
 mulno 37
 cikre 37
+danlu 37
 dansu 37
 xatra 37
 solri 37
@@ -444,7 +445,6 @@ nonkansa 36
 tcika 36
 ladru 36
 spofu 36
-danlu 36
 spuda 35
 zerle'a 35
 skicu 35
@@ -3105,6 +3105,7 @@ kliki 2
 ju'oinai 2
 fizbu 2
 ue'ipei 2
+ji'isre 2
 nau'u 2
 smoka 2
 nukni 2
@@ -5990,7 +5991,6 @@ ju'acu'i 1
 uei'e 1
 ko'au 1
 smudu'a 1
-ji'isre 1
 cicna 1
 ju'oi 1
 mo'ica'u 1

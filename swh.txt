@@ -1,4 +1,4 @@
-ya 1297
+ya 1298
 na 1072
 wa 756
 kwa 698
@@ -430,6 +430,7 @@ wanyama 11
 mjinga 11
 tafadhali 11
 bei 11
+Tom 11
 kunywa 11
 muziki 11
 sigara 11
@@ -473,7 +474,6 @@ bwana 10
 popote 10
 vibaya 10
 lako 10
-Tom 10
 mayai 10
 anataka 10
 kuandika 10
@@ -2817,6 +2817,7 @@ atarudi 2
 kutenda 2
 mangapi 2
 Ninaanza 2
+kukaanga 2
 Ondoka 2
 mnene 2
 Potter 2
@@ -6115,7 +6116,6 @@ akatokea 1
 akapakia 1
 bagi 1
 unakofanya 1
-kukaanga 1
 kuliwa 1
 vitamu 1
 Usijipumbaze 1
@@ -9321,3 +9321,5 @@ imepita 1
 Nilisubiri 1
 alichelewa 1
 ataokoa 1
+anapika 1
+koko 1

@@ -17,10 +17,10 @@ seneng 30
 apa 29
 dhéwé 29
 Iki 27
+duwé 27
 wis 27
 kuwi 27
 kudu 26
-duwé 26
 lunga 26
 menyang 24
 isa 24
@@ -55,9 +55,9 @@ kéné 14
 Ora 14
 yèn 14
 gelem 14
+Dhéwéké 14
 ya 13
 tau 13
-Dhéwéké 13
 dadi 13
 marang 12
 Iku 12
@@ -88,6 +88,7 @@ ning 9
 omah 9
 loro 9
 lali 9
+asu 9
 jenengé 9
 kowe 8
 boten 8
@@ -99,7 +100,6 @@ Punika 8
 kutha 8
 dhokter 8
 Sugeng 8
-asu 8
 abang 7
 kono 7
 gedhé 7
@@ -113,6 +113,8 @@ pira 7
 lungguh 7
 Prancis 7
 asalé 7
+Piyambakipun 6
+gadhah 6
 apel 6
 Kuwi 6
 awakmu 6
@@ -132,8 +134,6 @@ banget 6
 péngin 6
 jam 6
 panjenengan 5
-Piyambakipun 5
-gadhah 5
 werna 5
 pinten 5
 jus 5
@@ -574,6 +574,7 @@ wungu 2
 lawang 2
 Coroné 2
 Rotiné 2
+segawon 2
 kangen 1
 kakus 1
 artiné 1
@@ -2136,7 +2137,6 @@ murah 1
 mirah 1
 ꦲꦶꦏꦸꦭꦸꦮꦶꦃꦩꦸꦫꦃ 1
 ꦥꦸꦤꦶꦏꦭꦁꦏꦸꦁꦩꦶꦫꦃ 1
-segawon 1
 cemeng 1
 ꦲꦏꦸꦱꦶꦱꦤ꧀ꦢꦸꦮꦺꦲꦱꦸꦲꦶꦉꦁ꧉ 1
 ꦏꦸꦭꦲꦶꦔ꧀ꦒꦶꦃꦲꦸꦒꦶꦒꦝꦃꦱꦼꦒꦮꦺꦴꦤ꧀ꦕꦼꦩꦼꦁ꧉ 1
@@ -2272,3 +2272,5 @@ kita 1
 mejane 1
 stabil 1
 kursine 1
+ꦝꦺꦮꦺꦏꦺꦢꦸꦮꦺꦲꦱꦸ꧉ 1
+ꦥꦶꦪꦩ꧀ꦧꦏꦶꦥꦸꦤ꧀ꦒꦝꦃꦱꦼꦒꦮꦺꦴꦤ꧀꧈ 1

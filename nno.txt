@@ -1,24 +1,24 @@
-er 2844
-Eg 2249
-Tom 1655
+er 2851
+Eg 2250
+Tom 1656
 ikkje 1115
-å 1045
+å 1047
 det 958
 i 930
 du 881
-på 866
+på 867
 har 764
-ein 733
-Det 726
-til 712
-Han 630
+ein 734
+Det 730
+til 713
+Han 631
 meg 527
 var 497
 eg 496
 han 428
 med 413
 at 411
-Ho 403
+Ho 404
 deg 380
 og 370
 eit 359
@@ -34,10 +34,10 @@ fransk 249
 ei 246
 seg 243
 om 224
-likar 218
+likar 220
 Kor 214
-Kva 207
-Mary 191
+Kva 208
+Mary 192
 vil 181
 dei 178
 vart 178
@@ -51,7 +51,7 @@ hadde 165
 veldig 162
 så 161
 ha 151
-Dette 145
+Dette 147
 treng 143
 elskar 143
 her 141
@@ -90,8 +90,8 @@ snakka 90
 skulle 89
 vi 88
 berre 87
+sa 86
 kva 86
-sa 85
 trur 85
 over 85
 mitt 84
@@ -183,6 +183,7 @@ lenger 42
 di 42
 Hellas 42
 alltid 41
+dine 41
 når 41
 høfleg 41
 vert 40
@@ -191,7 +192,6 @@ ingen 40
 feil 40
 Korfor 40
 tilbake 39
-dine 39
 vore 39
 seier 38
 folk 38
@@ -238,6 +238,7 @@ fortalde 32
 livet 31
 enno 31
 langt 31
+bøker 31
 Sola 31
 skjedde 31
 allereie 31
@@ -251,7 +252,6 @@ trudde 30
 slutta 30
 døydde 29
 ting 29
-bøker 29
 land 29
 veke 29
 bra 29
@@ -296,6 +296,7 @@ lag 25
 vår 25
 nesten 25
 vatn 25
+rommet 25
 Alt 25
 Så 25
 sikker 25
@@ -312,7 +313,6 @@ skreiv 24
 mot 24
 kameraet 24
 lesa 24
-rommet 24
 frakk 24
 lista 24
 Katten 23
@@ -362,6 +362,7 @@ time 20
 Nei 20
 Veit 20
 Algerie 20
+dykkar 20
 forstår 20
 Var 20
 brillene 20
@@ -413,10 +414,8 @@ plass 18
 blitt 18
 sel 18
 drakk 18
-øl 18
 høgt 18
 briller 18
-dykkar 18
 takk 18
 paraplyen 18
 Minecraft 18
@@ -441,6 +440,7 @@ tjukk 17
 banka 17
 mogleg 17
 Sei 17
+øl 17
 Vegen 17
 koma 17
 sint 17
@@ -594,6 +594,7 @@ lett 13
 slik 13
 harpe 13
 gjennom 13
+bøkene 13
 Bli 13
 butikken 13
 eingong 13
@@ -692,12 +693,12 @@ saknar 11
 sova 11
 Vent 11
 skuldrene 11
-bøkene 11
 fugl 11
 tom 11
 brann 11
 oppe 11
 treffa 11
+syngja 11
 gøymde 11
 sette 11
 par 11
@@ -836,7 +837,6 @@ galen 9
 høyrt 9
 forbi 9
 lurar 9
-syngja 9
 honning 9
 fint 9
 gresk 9
@@ -1545,6 +1545,7 @@ Både 4
 vinter 4
 familie 4
 auge 4
+olje 4
 India 4
 Brasil 4
 klede 4
@@ -1879,7 +1880,6 @@ ansikt 3
 beit 3
 talde 3
 firma 3
-olje 3
 importerer 3
 Rådet 3
 trener 3
@@ -2281,6 +2281,7 @@ eksplosiv 3
 eksplosjonen 3
 badar 3
 bokstaveleg 3
+blyanten 3
 reddar 3
 orgel 3
 Laurie 3
@@ -2349,6 +2350,7 @@ Mexicogolfen 3
 Ok 3
 Opn 3
 lovar 3
+blyant 3
 nøtter 3
 Fordi 3
 usle 3
@@ -3263,7 +3265,6 @@ verst 2
 personar 2
 blunda 2
 rauk 2
-blyanten 2
 kua 2
 skåla 2
 bollen 2
@@ -3506,7 +3507,6 @@ Alltid 2
 kritisert 2
 nyta 2
 snublar 2
-blyant 2
 utelukka 2
 Tullprat 2
 produsert 2

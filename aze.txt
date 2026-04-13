@@ -1,15 +1,15 @@
 Tom 1018
 Mən 902
 O 748
-Bu 689
-bir 448
+Bu 691
+bir 450
 var 444
-və 427
+və 428
 ki 387
 çox 327
 nə 300
 Onlar 254
-üçün 250
+üçün 252
 idi 248
 də 240
 Biz 225
@@ -49,7 +49,7 @@ hər 94
 Onu 94
 haqqında 93
 qədər 93
-edir 90
+edir 91
 Meri 89
 Nə 87
 gəlir 85
@@ -65,8 +65,8 @@ il 76
 etmək 76
 baş 76
 iki 74
+şey 74
 artıq 73
-şey 72
 olmasa 71
 dedi 71
 Niyə 69
@@ -90,8 +90,8 @@ Hər 60
 Zəhmət 60
 Yaponiya 60
 yox 59
+kim 59
 necə 58
-kim 58
 sevirəm 57
 Tomu 57
 dili 56
@@ -135,13 +135,13 @@ sizin 44
 olub 44
 kitab 43
 daxil 43
+Sənə 43
 onunla 43
 nədir 42
 Məncə 42
 Ona 42
 getmək 42
 tərk 42
-Sənə 41
 danışa 41
 yaşayır 41
 deyildi 41
@@ -248,6 +248,7 @@ bilmərəm 26
 Gələn 26
 Kim 26
 geri 25
+danışır 25
 burda 25
 olar 25
 onlarla 25
@@ -255,7 +256,6 @@ on 24
 Hansı 24
 bilərsiniz 24
 insan 24
-danışır 24
 maşın 24
 Bilirəm 24
 bax 24
@@ -280,16 +280,17 @@ dörd 22
 yeyir 22
 xoşum 22
 adı 22
+olsun 22
 adam 22
 demək 22
+yalan 22
 de 22
 etdim 22
 pis 22
 Birinci 22
 iş 21
+tərəfindən 21
 deyir 21
-olsun 21
-yalan 21
 qədərdir 21
 Mary 21
 gəldim 21
@@ -313,6 +314,7 @@ həqiqəti 20
 istədiyini 20
 zaman 20
 uzun 20
+aldım 20
 Ərəb 20
 sabah 20
 fikir 20
@@ -326,13 +328,11 @@ tez 20
 Linux 20
 həll 19
 ehtiyacım 19
-tərəfindən 19
 həyat 19
 gətir 19
 xoşbəxt 19
 harda 19
 Evə 19
-aldım 19
 yerləşir 19
 istəmir 19
 minimal 19
@@ -340,6 +340,7 @@ haqqı 19
 Düşünürəm 19
 deyillər 19
 Heydər 19
+Sİ 19
 İki 18
 çətindir 18
 yeməyi 18
@@ -452,7 +453,6 @@ yalnız 15
 növbəti 15
 məlumat 15
 bilirsiz 15
-Sİ 15
 son 14
 telefon 14
 Pişik 14
@@ -608,6 +608,7 @@ ehtiyac 11
 işə 11
 it 11
 öyrənmək 11
+idarə 11
 getdik 11
 biridir 11
 maraqlı 11
@@ -651,6 +652,7 @@ dənə 11
 adını 11
 dövlət 11
 İcazə 11
+vacib 11
 Sizi 11
 Rəqs 11
 nahar 11
@@ -671,7 +673,6 @@ Amerika 10
 içində 10
 tennis 10
 Ev 10
-idarə 10
 məşhur 10
 oxuyur 10
 olacam 10
@@ -722,6 +723,7 @@ tapdı 10
 etmiş 10
 Almaniya 10
 ikinci 10
+ət 10
 Avstraliyaya 10
 əsl 10
 Hardan 10
@@ -806,14 +808,12 @@ olmamışam 9
 müharibəsi 9
 Kataloniyanın 9
 qalın 9
-ət 9
 xoşu 9
 gəlin 9
 Cənab 9
 yeri 9
 köhnə 9
 olunur 9
-vacib 9
 onlara 9
 Bağışlayın 9
 götür 9
@@ -957,6 +957,7 @@ Yanni 8
 dövründə 8
 etmişdir 8
 etməkdə 8
+Verilənlər 8
 qoyub 8
 qısa 8
 faiz 8
@@ -1141,7 +1142,6 @@ Mennad 7
 olduğun 7
 malik 7
 Tez 7
-Verilənlər 7
 istəyirdim 7
 öncə 7
 lakin 7
@@ -2072,6 +2072,7 @@ vaxtdır 4
 vur 4
 görmüşük 4
 Aydındır 4
+yaradılıb 4
 suyun 4
 şifrəni 4
 Tualet 4
@@ -2339,6 +2340,7 @@ baxdılar 4
 fərqlidir 4
 III 4
 Qlobal 4
+intellekt 4
 media 4
 Ətrafa 4
 nəzər 4
@@ -3258,7 +3260,6 @@ xəyal 3
 Şuşa 3
 Media 3
 Süni 3
-intellekt 3
 Forum 3
 sevgilisinin 3
 soruş 3
@@ -3973,6 +3974,7 @@ səkkizinci 2
 yarımadasının 2
 nüvə 2
 istəyirsənsə 2
+Nuş 2
 itin 2
 ayağını 2
 Aman 2
@@ -4123,7 +4125,6 @@ uddu 2
 aşiqəm 2
 altındakı 2
 içmirəm 2
-yaradılıb 2
 Anna 2
 İnana 2
 adımı 2
@@ -5910,6 +5911,7 @@ bilməmişəm 2
 danışmalı 2
 qorxan 2
 sürüm 2
+süni 2
 Aİ-nın 2
 Aİ-nı 2
 Monteneqro 2
@@ -5938,6 +5940,7 @@ Dipə 2
 məktəblilərə 2
 satırdı 2
 Məhəmməddir 2
+əhəmiyyətlidir 2
 vә 1
 cәnablar 1
 Sizә 1
@@ -7601,7 +7604,6 @@ verməyəcəyini 1
 Pedofiliya 1
 cinayətdir 1
 haqlısan 1
-Nuş 1
 atamla 1
 gedərdim 1
 basmaz 1
@@ -9996,5 +9998,3 @@ yolunu 1
 bilirsinizsə 1
 öyrədin 1
 Tərli 1
-tərəfdaşı 1
-hamilə 1

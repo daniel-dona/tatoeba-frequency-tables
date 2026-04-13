@@ -1,4 +1,4 @@
-Tom 33
+Tom 35
 Ndi 20
 Njagala 20
 ku 19
@@ -56,6 +56,7 @@ Kino 3
 Nze 3
 okulya 3
 Nkwagaliza 3
+mwetegefu 3
 ye 3
 mulungi 3
 gitya 3
@@ -70,6 +71,7 @@ Bo 3
 ewedde 3
 kya 3
 Nja 3
+Osobola 3
 Ndowooza 3
 mukaaga 3
 Leero 3
@@ -116,7 +118,6 @@ wo 2
 yani 2
 Abaana 2
 bano 2
-mwetegefu 2
 amaaso 2
 maddugavu 2
 kusoma 2
@@ -137,7 +138,6 @@ ekiro 2
 ebibala 2
 omupiira 2
 ensi 2
-Osobola 2
 nti 2
 biki 2
 Weebaka 2
@@ -498,7 +498,6 @@ okunyamba 1
 kusaaga 1
 Kigezeeko 1
 guleepu 1
-mwetegese 1
 Olimba 1
 ky'olowooza 1
 Tukyuuse 1
@@ -657,3 +656,8 @@ Obera 1
 nsi 1
 Ani 1
 anaatereeza 1
+okufumba 1
+yeetegesse 1
+afumba 1
+enkoko 1
+ensike 1

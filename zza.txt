@@ -1,7 +1,7 @@
 Ez 232
 ra 150
 o 122
-mi 115
+mi 116
 Tom 105
 Ma 101
 de 97
@@ -10,8 +10,8 @@ ma 88
 to 86
 a 77
 Tı 74
-bi 69
-ke 65
+bi 71
+ke 66
 ey 63
 yo 61
 do 60
@@ -40,7 +40,7 @@ A 26
 ney 26
 Mi 26
 Mary 25
-Ewro 23
+Ewro 24
 bé 22
 wazena 21
 di 20
@@ -74,6 +74,7 @@ Na 14
 pîyê 14
 Nameyê 13
 bîya 13
+min 13
 biya 12
 Ezo 12
 bıkeré 12
@@ -84,7 +85,6 @@ Edo 12
 Sami 12
 ti 12
 aye 12
-min 12
 qisey 12
 şima 11
 şıra 11
@@ -120,6 +120,7 @@ Tomî 9
 ci 9
 kamca 9
 tîya 9
+yew 9
 dest 8
 yena 8
 meşt 8
@@ -134,6 +135,7 @@ bêro 8
 na 8
 bena 8
 da 8
+sey 8
 Madê 8
 serrî 8
 Pîyê 8
@@ -143,7 +145,6 @@ her 8
 nas 8
 rind 8
 şîya 8
-yew 8
 Aye 8
 Keyeyê 8
 ké 7
@@ -164,7 +165,6 @@ germ 7
 çend 7
 şırê 7
 Şıma 7
-sey 7
 kotî 7
 nîyo 7
 nêkena 7
@@ -312,6 +312,7 @@ nêzana 4
 şewe 4
 Ziwanê 4
 meke 4
+Deynê 4
 şino 4
 Wexto 4
 Çira 4
@@ -335,6 +336,7 @@ Samiyî 4
 kurdkî 4
 Dîyarbekir 4
 Vizêrî 4
+dejeno 4
 Ella 4
 hem 4
 cıwiyena 4
@@ -392,6 +394,7 @@ ray 3
 biyaro 3
 ımbazê 3
 sero 3
+resa 3
 vana 3
 manê 3
 uca 3
@@ -402,6 +405,7 @@ terseno 3
 wenê 3
 dergo 3
 vinê 3
+şeş 3
 bîn 3
 pîya 3
 kewt 3
@@ -438,7 +442,6 @@ Mîyanê 3
 Nika 3
 şimeno 3
 Yanni 3
-Deynê 3
 çinayê 3
 domanê 3
 bîyî 3
@@ -490,10 +493,10 @@ vet" 3
 kamcîn 3
 dare 3
 varan 3
-dejeno 3
 şiro 3
 jê 3
 serra 3
+mîlyarî 3
 Maria 2
 karé 2
 qedina 2
@@ -613,7 +616,6 @@ gırweyeno 2
 huway 2
 ımbazba 2
 roşê 2
-resa 2
 vecê 2
 vındı 2
 fek 2
@@ -638,7 +640,6 @@ kı 2
 tım 2
 Wa 2
 durî 2
-şeş 2
 bıresê 2
 para 2
 Goş 2
@@ -713,6 +714,7 @@ vîrê 2
 eşkenî 2
 Sereyê 2
 bixebitnî 2
+hewte 2
 bipawî 2
 maneno 2
 key 2
@@ -862,11 +864,11 @@ Ehmed 2
 pereyê 2
 Destê 2
 bikera 2
+mîyaneyê 2
 Estanbol 2
 ameya 2
 2025 2
 qedîyena 2
-mîlyarî 2
 bierşawî 2
 deyn 2
 biwazî 2
@@ -1818,7 +1820,6 @@ destan 1
 bixebitnîme 1
 besenêkena 1
 yewna 1
-hewte 1
 yenîme 1
 têlewe 1
 deqeyî 1
@@ -2838,7 +2839,6 @@ xalcinîya 1
 Darî 1
 çimeyê 1
 oksîjenî 1
-mîyaneyê 1
 Eynî 1
 Mamosteyî 1
 bingeyê 1

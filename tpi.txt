@@ -1,14 +1,14 @@
-i 56
+i 57
 bilong 44
-long 36
+long 37
 Mi 35
 mi 26
+stap 20
 no 20
 gat 20
-stap 19
 yu 16
-em 12
-Yu 11
+em 13
+Yu 12
 save 9
 Em 9
 Ol 8
@@ -26,6 +26,7 @@ dia 5
 Tok 4
 tok 4
 bai 4
+Dispela 4
 ol 4
 haus 4
 taim 4
@@ -42,7 +43,6 @@ samting 3
 Pisin 3
 toktok 3
 we 3
-Dispela 3
 Pusi 3
 tupela 3
 na 3
@@ -224,3 +224,6 @@ kikbal 1
 Boi 1
 baim 1
 sevenpela 1
+solwara 1
+Pasifik 1
+Saina 1

@@ -1,10 +1,10 @@
 të 902
-e 588
+e 589
 në 388
-është 339
+është 342
 i 280
 një 272
-nuk 251
+nuk 253
 Nuk 234
 Tomi 219
 do 179
@@ -12,7 +12,7 @@ me 177
 për 170
 që 165
 më 165
-Unë 134
+Unë 135
 shumë 120
 se 119
 te 106
@@ -20,7 +20,7 @@ ta 88
 dhe 85
 po 82
 ka 80
-jam 77
+jam 78
 u 76
 Ajo 67
 mund 66
@@ -28,8 +28,8 @@ kam 65
 Do 65
 janë 65
 Ai 62
-E 60
-nga 58
+E 61
+nga 59
 mirë 55
 ishte 55
 Më 51
@@ -47,9 +47,9 @@ duhet 38
 Jam 37
 Kam 36
 ne 36
+tij 36
 si 35
 apo 35
-tij 35
 Ju 33
 jo 33
 lutem 33
@@ -241,6 +241,7 @@ jemi 8
 mos 8
 Kemi 8
 thashë 8
+yt 8
 U 8
 frikë 8
 gati 8
@@ -265,7 +266,6 @@ sajë 7
 Jo 7
 mbi 7
 vend 7
-yt 7
 vetmja 7
 "Ku 7
 zgjuar 7
@@ -427,6 +427,7 @@ Faleminderit 4
 a 4
 Shkojmë 4
 harro 4
+babai 4
 emri 4
 emrin 4
 pastaj 4
@@ -519,6 +520,7 @@ Re 4
 banka 4
 Mbretërinë 4
 Bashkuar 4
+dashura 4
 Tha 4
 Finlandë 4
 Brazil 4
@@ -548,7 +550,6 @@ vërtet 3
 merret 3
 filluar 3
 tavolinë 3
-babai 3
 mungon 3
 tend 3
 shkronja 3
@@ -742,7 +743,6 @@ topin 3
 t'ja 3
 vetes 3
 Kili 3
-dashura 3
 dikush 3
 mish 3
 tjera 3
@@ -981,6 +981,7 @@ italiane 2
 ngrënë 2
 burra 2
 shpirtin 2
+Hëna 2
 ndërsa 2
 ngrihej 2
 pëlqente 2
@@ -2076,7 +2077,6 @@ takua 1
 fshatit 1
 Muzika 1
 gotë 1
-Hëna 1
 dritë 1
 gjithandej 1
 solle 1
@@ -4163,3 +4163,7 @@ planet 1
 flemë 1
 donzhuane 1
 fletorja 1
+Lusi 1
+Amerika 1
+yll 1
+rumune 1
