@@ -8,9 +8,9 @@ pu 2340
 nu 2142
 se 1943
 i 1904
-na 1645
+na 1646
 be 1355
-ko'a 1308
+ko'a 1309
 ma 1239
 ka 1231
 ko 1139
@@ -37,7 +37,7 @@ mutce 418
 ku 417
 djuno 405
 cusku 394
-prenu 378
+prenu 379
 vi 364
 ca'o 360
 te 358
@@ -6991,3 +6991,4 @@ kuran 1
 islam 1
 selkra 1
 surias 1
+micra'a 1

@@ -10,7 +10,7 @@ kau 255
 yang 249
 ni 241
 dah 235
-kat 215
+kat 216
 benda 194
 cakap 180
 Mary 156
@@ -58,8 +58,8 @@ tengok 41
 dalam 41
 datang 40
 pernah 40
+sini 40
 ingat 39
-sini 39
 bagi 38
 baru 37
 Tak 36
@@ -171,6 +171,7 @@ Jangan 13
 hal 13
 sebelum 12
 harap 12
+lah 12
 nanti 12
 Sami 12
 pompuan 12
@@ -189,7 +190,6 @@ mahal 12
 Yang 12
 saya 11
 dok 11
-lah 11
 buku 11
 John 11
 seronok 11
@@ -264,6 +264,7 @@ last 8
 malas 8
 Tapi 8
 tegur 8
+Saya 7
 siapkan 7
 siapa 7
 tahu 7
@@ -300,7 +301,6 @@ jap 7
 gak 7
 kaya 7
 Sampai 7
-Saya 6
 turun 6
 percaya 6
 silap 6
@@ -2377,3 +2377,5 @@ Mike 1
 simpankan 1
 rahsia 1
 ek 1
+santai 1
+wei 1

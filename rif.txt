@@ -1,9 +1,9 @@
 d 327
 ad 294
 di 211
-Tom 209
+Tom 210
 n 208
-Ziri 196
+Ziri 197
 i 173
 Ma 152
 Mani 148
@@ -48,8 +48,8 @@ tameccit 38
 a 35
 ayi 34
 am 33
+ɣer-s 33
 x 32
-ɣer-s 32
 tamaziɣt 32
 Ur 31
 aman 29
@@ -66,20 +66,20 @@ Neccin 26
 yelli 25
 sa 25
 xseɣ 25
+ttuɣa 25
 cem 24
 manaya 24
-ttuɣa 24
 Rima 24
 Mamek 23
 Walu 23
 Man 23
 ṯexseḏ 23
+Ssneɣ 22
 s 22
 kid-i 22
 aɣrum 22
 aysum 22
 zeg 21
-Ssneɣ 21
 inu 21
 ɛad 21
 nican 21
@@ -316,6 +316,7 @@ ixes 6
 Necnin 6
 Bedd 6
 Yallah 6
+wi 6
 qqaren 6
 Ṯezmmreḏ 6
 ɣar-i 6
@@ -381,7 +382,6 @@ maci 5
 tellim 5
 Kennint 5
 Iwa 5
-wi 5
 awyeɣ 5
 Iruḥ 5
 Ṯessenḏ-yi 5
@@ -497,6 +497,7 @@ maccina 4
 ijen 4
 ujenna 4
 akeḏ 4
+ked 4
 c 4
 yewwuy 4
 d-ac-dd 4
@@ -687,7 +688,6 @@ neggur 3
 řexxtu 3
 truḥd 3
 awarenni 3
-ked 3
 zemmren 3
 Ami 3
 tezdeɣ 3
@@ -1376,6 +1376,7 @@ d-weltma-s 2
 d-wecma-s 2
 d-wečma-s 2
 izmar 2
+issiwel 2
 Ggiɣ 2
 Ttuɣ 2
 ṯeggeḏ 2
@@ -3472,7 +3473,6 @@ Knimti 1
 biyya 1
 tteffaḥ 1
 ɣileɣ 1
-issiwel 1
 ṯefransist 1
 ṯedja 1
 ṯiri 1
@@ -4749,3 +4749,4 @@ ameslmed 1
 Tebda 1
 tsɣuyyu 1
 tɣimit 1
+taxedmit 1

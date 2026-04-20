@@ -1,5 +1,5 @@
 nie 1401
-is 1167
+is 1168
 het 1111
 Ek 1036
 die 812
@@ -9,7 +9,7 @@ jy 469
 my 371
 te 355
 om 328
-dit 313
+dit 314
 van 306
 jou 303
 Die 301
@@ -117,10 +117,10 @@ al 32
 gesien 31
 As 31
 niks 31
+soos 31
 tyd 30
 vandag 30
 geld 30
-soos 30
 waar 29
 geen 29
 Moenie 29
@@ -374,6 +374,7 @@ siek 9
 wit 9
 môre 9
 plek 9
+Alles 9
 Frans 9
 dokter 9
 swem 9
@@ -409,7 +410,6 @@ onderwyser 8
 rook 8
 Julle 8
 moeg 8
-Alles 8
 Mnr 8
 stel 8
 raak 8
@@ -3917,3 +3917,4 @@ wagwoord 1
 "wagwoord" 1
 Rewolusie 1
 Vlieë 1
+hoort 1

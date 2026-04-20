@@ -1,11 +1,11 @@
 Ez 232
 ra 150
 o 122
-mi 116
+mi 118
 Tom 105
 Ma 101
 de 97
-xo 94
+xo 95
 ma 88
 to 86
 a 77
@@ -23,9 +23,9 @@ ez 47
 zaf 47
 hes 46
 rê 45
+yê 44
 Mı 43
 mı 43
-yê 43
 Ti 42
 O 41
 kerd 35
@@ -40,7 +40,7 @@ A 26
 ney 26
 Mi 26
 Mary 25
-Ewro 24
+Ewro 25
 bé 22
 wazena 21
 di 20
@@ -317,6 +317,7 @@ Deynê 4
 Wexto 4
 Çira 4
 der 4
+heqê 4
 telefonê 4
 embaz 4
 hetkarîya 4
@@ -446,7 +447,6 @@ Yanni 3
 domanê 3
 bîyî 3
 nêeşkena 3
-heqê 3
 nefret 3
 bibo 3
 şimite 3
@@ -2937,3 +2937,8 @@ Rewna 1
 dapîre 1
 bapîrê 1
 nêdîyo 1
+meaşa 1
+rawisîyê 1
+yanî 1
+mengane 1
+girewt 1

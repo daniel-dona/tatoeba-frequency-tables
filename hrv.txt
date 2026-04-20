@@ -1,11 +1,11 @@
-je 1878
+je 1881
 se 697
 u 631
 sam 511
 da 474
 li 428
 na 363
-Tom 324
+Tom 325
 ne 315
 i 271
 mi 243
@@ -40,7 +40,7 @@ nego 66
 Tko 65
 mogu 65
 Jesi 64
-Gdje 59
+Gdje 60
 još 59
 Zašto 57
 Je 56
@@ -50,9 +50,9 @@ bih 55
 Kako 54
 ali 54
 Želim 54
+dobro 54
 Imam 54
 kako 53
-dobro 53
 iz 52
 ići 52
 Ovo 50
@@ -169,6 +169,7 @@ raditi 23
 jučer 23
 ako 23
 Koji 23
+Bio 23
 jer 23
 voli 23
 vidio 23
@@ -180,7 +181,6 @@ Moram 23
 tvoje 22
 ste 22
 dijete 22
-Bio 22
 zna 22
 tome 22
 gdje 22
@@ -201,6 +201,7 @@ kupio 20
 jezik 20
 Jučer 20
 došao 20
+ovu 20
 Ima 20
 zar 19
 žena 19
@@ -212,7 +213,6 @@ Sve 19
 ih 19
 Želiš 19
 god 19
-ovu 19
 sati 19
 moje 18
 svojoj 18
@@ -303,6 +303,7 @@ Htio 14
 kojeg 14
 kuća 14
 jesti 14
+učitelj 14
 nekoliko 14
 Trebao 14
 svaki 14
@@ -323,7 +324,6 @@ dugo 13
 poslije 13
 manje 13
 misli 13
-učitelj 13
 minuta 13
 pismo 13
 jezika 13
@@ -390,6 +390,7 @@ Nemoj 11
 Japanu 11
 čitati 11
 Moramo 11
+Vrlo 11
 imaš 11
 Kao 11
 vam 11
@@ -435,7 +436,6 @@ Netko 10
 plivati 10
 pitati 10
 sretan 10
-Vrlo 10
 gladan 10
 novi 10
 kroz 10
@@ -761,6 +761,7 @@ tog 6
 van 6
 njom 6
 zub 6
+gitaru 6
 televiziju 6
 pokazao 6
 spava 6
@@ -838,6 +839,7 @@ plavu 5
 reci 5
 njegovom 5
 Govori 5
+bogat 5
 opet 5
 hoćeš 5
 sigurno 5
@@ -904,7 +906,6 @@ ključ 5
 noći 5
 pogled 5
 trebalo 5
-gitaru 5
 zaustaviti 5
 razredu 5
 Odmah 5
@@ -1046,7 +1047,6 @@ subotu 4
 Uzmi 4
 osobu 4
 odeš 4
-bogat 4
 siromašan 4
 Vratio 4
 letjeti 4
@@ -1507,6 +1507,7 @@ boje 3
 držati 3
 dijetu 3
 završen 3
+tortu 3
 muža 3
 zrakoplov 3
 kupim 3
@@ -1764,6 +1765,7 @@ ponoviti 3
 Do 3
 Činjenica 3
 Mariji 3
+klavir 3
 komentar 3
 Francuski 3
 odabrati 3
@@ -2182,7 +2184,6 @@ iznenađena 2
 smijali 2
 grješke 2
 esej 2
-tortu 2
 banane 2
 Novi 2
 leti 2
@@ -2498,6 +2499,7 @@ organskih 2
 Zajedno 2
 promjeniti 2
 izgubile 2
+Probajmo 2
 Lozinka 2
 sumnjiva 2
 bitku 2
@@ -2730,7 +2732,6 @@ vrh 2
 prevladati 2
 Smiri 2
 Tatoebi 2
-klavir 2
 komadiću 2
 šezdeset 2
 činiš 2
@@ -5286,7 +5287,6 @@ izgubljene 1
 Razgovarali 1
 razgovarali 1
 Pokušajmo 1
-Probajmo 1
 18-sti 1
 lipanj 1
 dozvolite 1
@@ -8873,3 +8873,5 @@ vrtlaru 1
 Dodala 1
 poljubio 1
 "lozinka" 1
+svirao 1
+sviraju 1

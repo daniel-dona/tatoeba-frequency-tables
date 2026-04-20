@@ -1,4 +1,4 @@
-do 1019
+do 1020
 oku 621
 i 400
 Tom 377
@@ -13,10 +13,10 @@ ko 191
 Au 186
 ko' 178
 om 156
-dau 153
+dau 154
 dilo 133
 po 131
-o 114
+o 115
 Milo' 113
 daa 113
 doho 113
@@ -67,8 +67,8 @@ amu 39
 Amu 38
 diri 38
 maya 37
+Orohian 37
 diolo 37
-Orohian 36
 nangku 35
 ngawi 35
 disio 35
@@ -126,6 +126,7 @@ korikot 19
 Apatut 19
 moti 19
 dit 18
+ngaran 18
 mangan 18
 Maan 18
 ndo 18
@@ -139,7 +140,6 @@ noh 18
 soira 17
 Mada 17
 jaam 17
-ngaran 17
 Honggo 17
 toinsanan 17
 gisom 17
@@ -220,6 +220,7 @@ Alansan 11
 Songkuro 11
 Milo 11
 piipiro 11
+diyolo 11
 tontok 11
 sumandak 11
 Sami 11
@@ -243,7 +244,6 @@ John 10
 kasasari 10
 mamanau 10
 Kokito 10
-diyolo 10
 kalas 10
 kobolingkangan 10
 Koilo 10
@@ -3938,3 +3938,9 @@ Sainah 1
 pongodula 1
 kabantaan 1
 ngaie 1
+Notobuk 1
+tayol 1
+kulita' 1
+iyolo' 1
+mogisisinding 1
+Miirad 1

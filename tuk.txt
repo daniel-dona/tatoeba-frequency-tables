@@ -18,7 +18,7 @@ Mery 180
 Meri 177
 aýtdy 172
 öz 171
-bar 164
+bar 165
 Tomuň 157
 men 151
 Biz 141
@@ -103,13 +103,13 @@ berdi 38
 Meriniň 38
 bolsa 38
 ýere 37
+biziň 37
 kän 37
 Muny 37
 özüniň 37
 Tomyñ 37
 häzir 36
 Bir 36
-biziň 36
 Eger 36
 etdim 36
 umyt 36
@@ -124,6 +124,7 @@ her 34
 başga 34
 Şu 34
 Tomyň 34
+uly 34
 meniñ 34
 gitdi 33
 Hemme 33
@@ -131,7 +132,6 @@ diňe 33
 biraz 33
 bize 33
 Sämi 33
-uly 33
 onuñ 33
 gelýär 32
 hakykatdanam 32
@@ -851,6 +851,7 @@ kimdir 6
 atasy 6
 bolsañ 6
 riskleri 6
+Meň 6
 Dostum 6
 Kitap 5
 garry 5
@@ -1052,7 +1053,6 @@ arassa 5
 galdym 5
 köwüş 5
 okamana 5
-Meň 5
 tapawutlandyrmak 5
 ýeriňde 5
 ýyldyzlar 4
@@ -1915,6 +1915,7 @@ aýtmadyñ 3
 Gyzymy 3
 köçede 3
 banan 3
+maşynym 3
 gadagandyr 3
 gelmegiňi 3
 Gelmegiňi 3
@@ -3360,7 +3361,6 @@ gap-gaçlary 2
 üçindir 2
 Germaniýa 2
 oýnaýar 2
-maşynym 2
 ulananok 2
 soragyňyza 2
 okapdym 2
@@ -3386,6 +3386,7 @@ kosmonawt 2
 Salat 2
 Angliýada 2
 Otagda 2
+Haýwanlar 2
 ýazypdyr 2
 goýberdiň 2
 Garaýşym 2
@@ -9997,4 +9998,3 @@ goýdy: 1
 jandarlaryñ 1
 enesidi 1
 yzarlanýandyklaryna 1
-bermändirler 1

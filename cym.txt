@@ -4,7 +4,7 @@ Mae 291
 y 201
 Dw 195
 i'n 182
-Tom 169
+Tom 170
 ddim 121
 o 116
 ei 98
@@ -25,8 +25,8 @@ Wyt 57
 dy 55
 am 52
 Roedd 50
+ni 49
 mynd 49
-ni 48
 Mary 48
 yw 47
 i'r 45
@@ -51,9 +51,9 @@ mi 27
 meddwl 27
 fi 26
 gen 26
+ydy 25
 bwyta 25
 Mae'n 25
-ydy 24
 yma 24
 gwneud 24
 hynny 24
@@ -283,6 +283,7 @@ Gymraeg 5
 adref 5
 dros 5
 problem 5
+fab 5
 ddwy 5
 ysgrifennu 5
 rhif 5
@@ -338,7 +339,6 @@ ennill 4
 teimlo'n 4
 digon 4
 ddigon 4
-fab 4
 Roeddwn 4
 ddyn 4
 cig 4
@@ -486,6 +486,7 @@ brifysgol 3
 eleni 3
 banc 3
 ddysgu 3
+Ein 3
 nefoedd 3
 ddaear 3
 inni 3
@@ -705,7 +706,6 @@ fathau 2
 frechdanau 2
 nid 2
 agosaf 2
-Ein 2
 Tad 2
 sancteiddier 2
 maddau 2
@@ -2561,3 +2561,4 @@ hannibyniaeth 1
 gynnoch 1
 Saesnes 1
 Cymraes 1
+trydydd 1
