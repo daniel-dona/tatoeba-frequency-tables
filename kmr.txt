@@ -1,10 +1,10 @@
-Ez 1250
+Ez 1251
 e 1060
 xwe 1050
-min 1028
+min 1029
 ji 1027
-bi 951
-li 858
+bi 952
+li 859
 Ew 824
 ê 748
 û 672
@@ -12,11 +12,11 @@ ye 652
 ku 649
 Tom 557
 Em 552
-me 535
+me 536
 Tu 530
 te 510
 de 475
-ne 418
+ne 419
 re 397
 Min 366
 di 309
@@ -78,7 +78,7 @@ Divê 95
 got 92
 kiriye 92
 dibistanê 92
-ve 88
+ve 89
 xweş 88
 malê 87
 çawa 87
@@ -111,9 +111,9 @@ bavê 60
 nas 60
 bûn 59
 Mary 58
+dibe 58
 bêriya 58
 yên 57
-dibe 57
 herî 57
 tenê 56
 bar 56
@@ -131,11 +131,11 @@ berhev 53
 bibe 52
 dikarim 52
 baz 52
+hevalên 51
 kes 50
-hevalên 50
+nakim 50
 bûm 50
 yî 49
-nakim 49
 bide 48
 dibim 48
 nekin 48
@@ -186,10 +186,10 @@ niha 34
 serê 34
 Çima 34
 bûye 33
+tiştekî 33
 mamoste 32
 Çi 32
 caran 32
-tiştekî 32
 pirr 31
 alîkariya 31
 jiyana 31
@@ -204,6 +204,7 @@ gelekî 30
 qet 30
 tim 30
 bidin 29
+Kî 29
 were 29
 xwar 29
 çavên 29
@@ -212,7 +213,6 @@ dibistana 29
 aciz 29
 nikarim 28
 navê 28
-Kî 28
 didin 28
 biçim 28
 derbas 28
@@ -243,6 +243,7 @@ kê 25
 nizanim 24
 dîsa 24
 xuya 24
+fêm 24
 nayê 24
 sar 24
 malbata 24
@@ -254,7 +255,6 @@ neda 24
 destên 23
 Hin 23
 benda 23
-fêm 23
 Porê 23
 reş 23
 diêşe 23
@@ -271,6 +271,7 @@ fêrî 22
 kesî 22
 çû 22
 berê 22
+rê 22
 Hemû 22
 gorî 22
 dizane 21
@@ -287,7 +288,6 @@ paytexta 21
 mirovan 21
 xwedî 21
 wiha 21
-rê 21
 dûr 20
 u 20
 serdana 20
@@ -300,6 +300,7 @@ laşê 20
 nedaye 20
 ên 19
 heman 19
+êdî 19
 demê 19
 mal 19
 destê 19
@@ -325,7 +326,6 @@ derî 18
 xist 18
 bibînin 18
 sal 18
-êdî 18
 bibî 18
 dem 18
 mijûl 18
@@ -536,6 +536,7 @@ bînin 11
 alîkariyê 11
 Hevalê 11
 Erê 11
+cîhanê 11
 goşt 11
 hevala 11
 reng 11
@@ -576,7 +577,6 @@ Deh 10
 çiqas 10
 meh 10
 Ya 10
-cîhanê 10
 neh 10
 deh 10
 hebûn 10
@@ -685,6 +685,7 @@ viya 9
 pêşiya 9
 tîne 9
 mere 9
+welêt 9
 Zikê 9
 bixwe 9
 naxwaze 9
@@ -782,7 +783,6 @@ Alan 8
 nehat 8
 ketiye 8
 lawaz 8
-welêt 8
 pereyê 8
 nebir 8
 aniye 8
@@ -1234,6 +1234,7 @@ Wey 5
 bixwaze 5
 qehweyî 5
 rex 5
+derveyî 5
 dilîst 5
 xwezayî 5
 çiya 5
@@ -1489,6 +1490,7 @@ Ewana 4
 digerin 4
 ditirsim 4
 Fransî 4
+Keça 4
 genim 4
 qezayê 4
 bimeşe 4
@@ -1502,7 +1504,6 @@ diranên 4
 belê 4
 çiyê 4
 xênî 4
-derveyî 4
 giştî 4
 hirmî 4
 çêkirine 4
@@ -1795,6 +1796,7 @@ Dîlanên 3
 matmayî 3
 daxwaza 3
 bêhn 3
+dixwîne 3
 biçûya 3
 jiya 3
 nabînin 3
@@ -1916,7 +1918,6 @@ duhu 3
 Balafira 3
 saetekê 3
 firoşgehê 3
-Keça 3
 biha 3
 naçim 3
 veda 3
@@ -2624,7 +2625,6 @@ kişandin 2
 hembêz 2
 raketinê 2
 pengûenan 2
-dixwîne 2
 apê 2
 rakevim 2
 Bibore 2
@@ -9450,3 +9450,4 @@ Bibeze 1
 Fantastîk 1
 Balkêş 1
 Enteresan 1
+Heywan 1

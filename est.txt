@@ -3,7 +3,7 @@ Ma 946
 ei 754
 Tom 623
 Kas 454
-sa 438
+sa 439
 Ta 357
 et 349
 See 283
@@ -47,21 +47,21 @@ siin 68
 mida 68
 Mary 67
 nii 66
+Mis 66
 Kus 66
 veel 65
+Mu 65
 Mida 64
-Mis 64
-Mu 64
+Kes 61
 sinu 60
-Kes 60
 hea 59
 sul 56
 välja 54
 mis 53
 ema 53
 teha 53
+te 53
 saa 52
-te 52
 Palun 51
 Mulle 51
 kunagi 50
@@ -111,10 +111,10 @@ teie 33
 sellest 33
 Tal 33
 liiga 33
+räägid 33
 Olen 33
 või 32
 keel 32
-räägid 32
 aega 31
 koos 31
 suur 31
@@ -274,6 +274,7 @@ lihtne 15
 sina 15
 näinud 15
 oskab 15
+välismaal 15
 Võta 15
 kohta 14
 Meie 14
@@ -301,7 +302,6 @@ sest 14
 olema 14
 näha 14
 isegi 14
-välismaal 14
 tal 14
 surnud 14
 kindel 14
@@ -333,6 +333,7 @@ kirja 12
 uue 12
 Isa 12
 all 12
+maailma 12
 On 12
 lahti 12
 teen 12
@@ -353,7 +354,6 @@ sellega 11
 Selle 11
 Selles 11
 head 11
-maailma 11
 Ärge 11
 elame 11
 vihkan 11
@@ -556,6 +556,7 @@ viimane 7
 hiljem 7
 maksab 7
 aeg 7
+räägite 7
 naist 7
 Tee 7
 viga 7
@@ -623,7 +624,6 @@ ju 6
 Tundub 6
 ega 6
 Kuu 6
-räägite 6
 Kuigi 6
 Las 6
 leia 6
@@ -1160,6 +1160,7 @@ poisid 3
 onu 3
 kivi 3
 Kaks 3
+tütar 3
 töötad 3
 panna 3
 lähme 3
@@ -1371,6 +1372,7 @@ kahte 3
 kahju 3
 unine 3
 tore 3
+filmist 3
 Ehk 3
 Käin 3
 väljub 3
@@ -1462,6 +1464,7 @@ katusel 3
 tööta 3
 3 3
 elas 3
+õpib 3
 Toas 3
 hilja 3
 Maal 3
@@ -1601,6 +1604,7 @@ Praegu 2
 pakk 2
 paberit 2
 Eestis 2
+valitseb 2
 looma 2
 loomu 2
 teiste 2
@@ -1651,7 +1655,6 @@ pikka 2
 linna 2
 üliõpilane 2
 ostab 2
-tütar 2
 Kasahstanis 2
 akna 2
 Ega 2
@@ -2213,7 +2216,6 @@ hakkad 2
 julgustavalt 2
 põlema 2
 jalg 2
-õpib 2
 Väga 2
 meeldiv 2
 juukseid 2
@@ -2794,7 +2796,6 @@ tantsulõvi 1
 Mägede 1
 tippudel 1
 sõbralt 1
-valitseb 1
 mandrilise 1
 merelise 1
 kliima 1
@@ -4057,7 +4058,6 @@ Alatasa 1
 unustan 1
 nimed 1
 Peetri 1
-filmist 1
 stseen 1
 voodil 1
 tundsid 1

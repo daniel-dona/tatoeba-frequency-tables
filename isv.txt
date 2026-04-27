@@ -5,7 +5,7 @@ Tom 95
 jesm 85
 Ty 81
 se 68
-v 65
+v 66
 je 63
 On 62
 To 55
@@ -61,6 +61,7 @@ mně 9
 dom 8
 ljubil 8
 moj 8
+Moj 8
 krasivy 8
 svoje 8
 idti 8
@@ -77,7 +78,6 @@ nas 7
 može 7
 iz 7
 jesti 7
-Moj 7
 hočete 7
 Marija 7
 my 7
@@ -276,8 +276,10 @@ nam 3
 Uči 3
 Učite 3
 znam 3
+syn 3
 brata 3
 blizneca 3
+izuča 3
 Dobry 2
 hodili 2
 kralja 2
@@ -539,7 +541,6 @@ portal 2
 parolu 2
 ako 2
 izměnjati 2
-syn 2
 pomagati 2
 Sirije 2
 govorim 2
@@ -573,7 +574,6 @@ kazati 2
 sdělala 2
 sdělal 2
 pomaranču 2
-izuča 2
 botaniku 2
 kde 2
 možem 2
@@ -1918,3 +1918,4 @@ modrym 1
 pokryvom 1
 znaš 1
 znate 1
+čudžině 1

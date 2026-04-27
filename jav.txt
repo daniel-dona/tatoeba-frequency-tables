@@ -16,11 +16,11 @@ basa 33
 seneng 30
 apa 29
 dhéwé 29
+kudu 27
 Iki 27
 duwé 27
 wis 27
 kuwi 27
-kudu 26
 lunga 26
 menyang 24
 isa 24
@@ -36,10 +36,10 @@ dhèwèké 20
 Kula 20
 mangan 19
 weruh 18
+lagi 18
 saka 18
 sinau 18
 Ana 17
-lagi 17
 gawé 17
 buku 17
 manèh 16
@@ -83,6 +83,7 @@ apik 9
 Panjenengan 9
 kucing 9
 Wingi 9
+kanggo 9
 Sapa 9
 ning 9
 omah 9
@@ -93,7 +94,6 @@ jenengé 9
 kowe 8
 boten 8
 tak 8
-kanggo 8
 telu 8
 Inggris 8
 Punika 8
@@ -108,6 +108,7 @@ pa 7
 dolanan 7
 ngentèni 7
 apa-apa 7
+mesthi 7
 mung 7
 pira 7
 lungguh 7
@@ -118,6 +119,7 @@ gadhah 6
 apel 6
 Kuwi 6
 awakmu 6
+kanca 6
 nganggo 6
 ireng 6
 lara 6
@@ -125,7 +127,6 @@ bengi 6
 paling 6
 mèh 6
 waé 6
-mesthi 6
 maca 6
 Dhèké 6
 Kabèh 6
@@ -141,7 +142,6 @@ padha 5
 saben 5
 panggon 5
 guru 5
-kanca 5
 roti 5
 saged 5
 minggu 5
@@ -223,6 +223,7 @@ kaping 4
 Ayo 4
 Jam 4
 blas 4
+dalan 4
 teles 4
 Ruslan 4
 biru 4
@@ -259,12 +260,14 @@ nggo 3
 tekan 3
 turuné 3
 butuh 3
+nalika 3
 liyané 3
 Awakdhéwé 3
 sesuk 3
 malah 3
 nulis 3
 urip 3
+tanggal 3
 wingi 3
 Jakarta 3
 siji 3
@@ -303,7 +306,6 @@ sega 3
 wadon 3
 bocah 3
 angèl 3
-dalan 3
 tèh 3
 jaba 3
 Anakku 3
@@ -391,7 +393,6 @@ iwak 2
 yaiku 2
 piye 2
 puluh 2
-nalika 2
 dhisik 2
 kesèd 2
 Kapan 2
@@ -403,8 +404,8 @@ kaé 2
 musik 2
 wartané 2
 klèru 2
-tanggal 2
 sithik 2
+duwe 2
 Hokkaido 2
 sampun 2
 daktuku 2
@@ -461,12 +462,14 @@ Kedutaan 2
 Landa 2
 takonana 2
 meneng 2
+akeh 2
 enak 2
 Bojoné 2
 panganan 2
 daging 2
 kaos 2
 kètokané 2
+jujur 2
 Isih 2
 mikir 2
 tansah 2
@@ -493,6 +496,7 @@ layangmu 2
 ngelak 2
 endhog 2
 pati 2
+nyebrang 2
 jeruk 2
 wajikan 2
 miring 2
@@ -575,6 +579,7 @@ lawang 2
 Coroné 2
 Rotiné 2
 segawon 2
+kita 2
 kangen 1
 kakus 1
 artiné 1
@@ -897,7 +902,6 @@ sopan 1
 Jarene 1
 reti 1
 sida 1
-duwe 1
 kirik 1
 anakke 1
 lapangan 1
@@ -1145,7 +1149,6 @@ kepira 1
 wae 1
 putra 1
 Malah 1
-akeh 1
 uwong 1
 ketularan 1
 ngrasake 1
@@ -1191,7 +1194,6 @@ mèter 1
 satus 1
 sèntimèter 1
 ꦱꦏ꧀ꦩꦺꦠꦼꦫꦶꦏꦸꦱꦠꦸꦱ꧀ꦱꦺꦤ꧀ꦠꦶꦩꦺꦠꦼꦂ꧉ 1
-jujur 1
 ꦝꦺꦮꦺꦏꦺꦏꦺꦠꦺꦴꦏꦤꦺꦗꦸꦗꦸꦂ꧉ 1
 mariné 1
 ꦄꦮꦏ꧀ꦝꦺꦮꦺꦭꦸꦔꦌꦔ꧀ꦒꦭ꧀ꦩꦫꦶꦤꦺꦈꦢꦤ꧀꧈ 1
@@ -1305,7 +1307,6 @@ sayang 1
 ꦠꦺꦴꦩ꧀ꦱꦼꦤꦼꦁꦔꦿꦸꦔꦺꦴꦏ꧀ꦏꦏꦺꦩꦸꦱꦶꦏ꧀ꦏ꧀ꦭꦱꦶꦏ꧀꧈ 1
 Bal 1
 ngglindhing 1
-nyebrang 1
 ꦧꦭ꧀ꦲꦶꦏꦸꦲꦁꦒ꧀ꦭꦶꦤ꧀ꦝꦶꦁꦚꦼꦧꦿꦁꦢꦭꦤ꧀꧈ 1
 nerangaké 1
 sakabèhé 1
@@ -2268,9 +2269,15 @@ Banyuku 1
 ꦲꦶꦏꦶꦢꦸꦢꦸꦲꦶꦮꦏ꧀꧈ 1
 watu 1
 antarane 1
-kita 1
 mejane 1
 stabil 1
 kursine 1
 ꦝꦺꦮꦺꦏꦺꦢꦸꦮꦺꦲꦱꦸ꧉ 1
 ꦥꦶꦪꦩ꧀ꦧꦏꦶꦥꦸꦤ꧀ꦒꦝꦃꦱꦼꦒꦮꦺꦴꦤ꧀꧈ 1
+Dheweke 1
+nemtokake 1
+pesta 1
+mantenane 1
+Yen 1
+Kita 1
+ati-ati 1

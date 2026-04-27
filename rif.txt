@@ -1,5 +1,5 @@
-d 327
-ad 294
+d 328
+ad 295
 di 211
 Tom 210
 n 208
@@ -9,7 +9,7 @@ Ma 152
 Mani 148
 ar 141
 war 128
-Necc 116
+Necc 117
 Min 108
 War 105
 zi 100
@@ -20,7 +20,7 @@ taddart 84
 ɣer 79
 Ttuɣa 78
 Maɣer 77
-Wer 73
+Wer 74
 wer 70
 aṭṭas 66
 din 63
@@ -47,7 +47,7 @@ aked 38
 tameccit 38
 a 35
 ayi 34
-am 33
+am 34
 ɣer-s 33
 x 32
 tamaziɣt 32
@@ -63,9 +63,9 @@ yella 27
 mliḥ 27
 ur 26
 Neccin 26
+xseɣ 26
 yelli 25
 sa 25
-xseɣ 25
 ttuɣa 25
 cem 24
 manaya 24
@@ -74,12 +74,12 @@ Mamek 23
 Walu 23
 Man 23
 ṯexseḏ 23
+zeg 22
 Ssneɣ 22
 s 22
 kid-i 22
 aɣrum 22
 aysum 22
-zeg 21
 inu 21
 ɛad 21
 nican 21
@@ -112,6 +112,7 @@ yeqqim 18
 uɣerbaz 18
 ssneɣ 17
 waman 17
+qaɛ 17
 manaynni 17
 teggurd 17
 texsed 17
@@ -121,7 +122,6 @@ cay 17
 Cemm 16
 mani 16
 ijj 16
-qaɛ 16
 dihi 16
 Wa 15
 niɣ 15
@@ -162,6 +162,7 @@ Neččin 12
 Layla 12
 musika 12
 Newweḍ 12
+k 12
 tennid 12
 nnem 11
 Mamec 11
@@ -181,7 +182,6 @@ rxeḏmeṯ 11
 iḍennaṭ 11
 tcamma 11
 Ṯeqqel 11
-k 11
 imeslem 11
 deɣya 10
 Iccat 10
@@ -336,6 +336,7 @@ iřa 6
 ukal 6
 Di 6
 Iwdan 6
+ẓreɣ 6
 Neṯnin 6
 kanada 6
 maɣer 6
@@ -430,7 +431,6 @@ neccin 5
 Lɛar-nnec 5
 nneɣ 5
 Maṛṛa 5
-ẓreɣ 5
 nnec 5
 Mermi 5
 awal 5
@@ -657,6 +657,7 @@ tabrat-a 3
 taggʷurt 3
 yeẓra 3
 Timensiwin 3
+adlis-a 3
 qqaren-yi 3
 tutlayin 3
 wadjiɣ 3
@@ -1002,7 +1003,6 @@ Ffeɣ 2
 Ah 2
 Seɣ 2
 Ẓall 2
-adlis-a 2
 uca-neɣ 2
 ccɣel 2
 aẓṛu 2
@@ -1443,6 +1443,7 @@ yewwa 2
 yenewwa 2
 yeɣla 2
 Cciɣ 2
+yizem 2
 ⵏⵛⵛ 2
 ⴷ 2
 Ffeɣm 2
@@ -1515,6 +1516,7 @@ aqafuḥ 2
 Acwaf 2
 tmeṭṭut-a 2
 abaḥ 2
+intirnit 2
 Zedɣeɣ 2
 Bumerdas 2
 Tezdeɣ 2
@@ -3743,7 +3745,6 @@ uysum-a 1
 waqneny 1
 uwtul 1
 uyarẓiẓ 1
-yizem 1
 Izem 1
 itwasenɛen 1
 Tett 1
@@ -4051,7 +4052,6 @@ timsirin 1
 s-tamaziɣt 1
 Tilifun 1
 yeqqem 1
-intirnit 1
 Ṭaɣerdayt 1
 Masnsen 1
 Xencla 1
@@ -4750,3 +4750,7 @@ Tebda 1
 tsɣuyyu 1
 tɣimit 1
 taxedmit 1
+Sḥufeɣ-dd 1
+alilli 1
+ujḍiḍ 1
+izher 1

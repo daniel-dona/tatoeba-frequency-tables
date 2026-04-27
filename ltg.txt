@@ -1,12 +1,12 @@
-ir 103
-Es 53
+ir 105
+Es 54
 ka 30
+nav 27
 tū 26
 Maņ 26
+Tys 26
 i 25
-Tys 25
-nav 24
-Voi 22
+Voi 24
 Jis 22
 par 20
 Toms 19
@@ -22,23 +22,23 @@ ar 12
 dareit 11
 sovu 11
 mani 9
+voi 9
 ruodīs 9
 iz 9
 byut 9
+maņ 8
 kas 8
 vaira 8
-voi 8
 Kai 8
 tikai 8
 asu 7
-maņ 7
+tev 7
 sevi 7
 Jei 7
 Cylvāki 7
 napateik 6
 itū 6
 dīna 6
-tev 6
 Mes 6
 jūs 6
 mes 6
@@ -56,6 +56,7 @@ kod 5
 saceja 5
 jī 5
 daudz 5
+Tei 5
 lai 5
 volūda 5
 vēļ 4
@@ -80,7 +81,6 @@ cukra 4
 lobuok 4
 varātu 4
 vysod 4
-Tei 4
 nakai 4
 nasaprūt 4
 Itys 3
@@ -93,6 +93,7 @@ Jai 3
 Lobs 3
 mōte 3
 raud 3
+loba 3
 tevi 3
 tei 3
 na 3
@@ -126,6 +127,7 @@ jiutu 3
 vajag 3
 naudys 3
 eistyn 3
+tai 3
 cylvākim 3
 muzyka 3
 tam 3
@@ -149,7 +151,6 @@ māmeņa 2
 raud’i 2
 meita 2
 Ar 2
-loba 2
 jau 2
 gauži 2
 tautu 2
@@ -190,6 +191,7 @@ gulēt 2
 Tomu 2
 tuoļuok 2
 Naļaun 2
+tova 2
 ni 2
 lobys 2
 Daudzi 2
@@ -219,7 +221,6 @@ Man 2
 naudu 2
 Izavielej 2
 gribēja 2
-tai 2
 Myusu 2
 Tī 2
 klusums 2
@@ -247,6 +248,7 @@ dūma 2
 vītni 2
 Obejom 2
 pusem 2
+pi 2
 gaideju 2
 mēreibai 2
 ari 2
@@ -255,6 +257,7 @@ Reigā 2
 saprast 2
 baltu 2
 nadzeivoju 2
+laiku 2
 vīgli 2
 myusu 2
 Vakar 2
@@ -263,9 +266,11 @@ politiku 2
 beistās 2
 attīceibys 2
 kompanejā 2
+Tom 2
 stuosts 2
 te 2
 — 2
+laidīroksts 2
 zīds 1
 skaists 1
 padareji 1
@@ -553,7 +558,6 @@ nuokušajai 1
 atpyutys 1
 stacejai 1
 saturēt 1
-tova 1
 poteņciala 1
 Sveicynu 1
 taidu 1
@@ -913,7 +917,6 @@ volūduos 1
 Zemis 1
 kompromisā 1
 tikt 1
-pi 1
 kompromisa 1
 pījēmu 1
 pošsaprūtamu 1
@@ -993,7 +996,6 @@ Aś 1
 layku 1
 gaisynōju 1
 izškeidu 1
-laiku 1
 Vysi 1
 muojuom 1
 uzjam 1
@@ -1142,7 +1144,6 @@ tīseibys 1
 zynuot 1
 klausomīs 1
 žāļ 1
-Tom 1
 natycams 1
 prīcojūs 1
 svešzemnīks 1
@@ -1174,3 +1175,13 @@ juoizmontoj 1
 sova 1
 boguoteiba 1
 aizraujūšs 1
+nūskaņuojuma 1
+vaine 1
+pīsakuopu 1
+guņs 1
+bedris 1
+vairs 1
+pīmāruojams 1
+jiusim 1
+Dūd 1
+padūmuot 1

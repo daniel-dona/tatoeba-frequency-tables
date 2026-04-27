@@ -1,6 +1,6 @@
 je 1881
 se 697
-u 631
+u 632
 sam 511
 da 474
 li 428
@@ -449,6 +449,7 @@ Italiji 10
 teško 10
 ovom 10
 volio 10
+idem 10
 dao 10
 Već 10
 Hvala 10
@@ -503,7 +504,6 @@ jedna 9
 zašto 9
 savjet 9
 svih 9
-idem 9
 pije 9
 pitao 9
 čuo 9
@@ -1469,6 +1469,7 @@ drugu 3
 kameru 3
 igrajući 3
 jednako 3
+knjižnicu 3
 svemir 3
 neka 3
 pakao 3
@@ -2101,7 +2102,6 @@ sustiže 2
 slobodu 2
 vatra 2
 prestala 2
-knjižnicu 2
 konačno 2
 Njezine 2
 stvori 2
@@ -2742,6 +2742,7 @@ predvidjeti 2
 Tu 2
 izjavu 2
 onoliko 2
+Nedjeljom 2
 brže 2
 Beba 2
 rođena 2
@@ -6270,7 +6271,6 @@ glasina 1
 tiče 1
 protivim 1
 tvojem 1
-Nedjeljom 1
 Učini 1
 hodati 1
 trokut 1

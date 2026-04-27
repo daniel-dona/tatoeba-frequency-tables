@@ -1,19 +1,19 @@
-is 437
-Ich 384
+is 438
+Ich 385
 Tom 263
 en 235
 hod 210
 net 178
-hon 171
+hon 172
 De 159
 de 156
 das 154
 die 148
-sin 125
-Die 116
-Das 106
+sin 126
+Die 117
+Das 107
 Sie 95
-Meer 93
+Meer 95
 Er 82
 gern 77
 in 77
@@ -23,14 +23,14 @@ Was 63
 sein 61
 Du 59
 meer 58
+un 56
 wees 56
-un 55
 es 55
 Es 55
 Gott 54
 aan 49
+wie 47
 do 46
-wie 46
 Mein 45
 mich 45
 keen 44
@@ -41,7 +41,7 @@ mein 42
 aach 42
 will 41
 uff 40
-zu 39
+zu 40
 dein 37
 Do 36
 fun 35
@@ -198,6 +198,7 @@ Fer 9
 geschribb 9
 Wennst-du 9
 doch 9
+Marie 9
 unser 9
 hier 9
 brauche 9
@@ -207,6 +208,7 @@ Hod 9
 komm 9
 kemfe 9
 scheen 9
+waare 9
 ohne 9
 Brod 9
 Bang 9
@@ -227,7 +229,6 @@ leve 8
 drinke 8
 Geschenke 8
 nemmd 8
-Marie 8
 seid-der 8
 komme 8
 Hand 8
@@ -267,7 +268,6 @@ wer 7
 fersughe 7
 Ovend 7
 sprechd 7
-waare 7
 Boston 7
 Eppel 7
 genau 7
@@ -560,6 +560,7 @@ Kerrich 3
 sauer 3
 fressd 3
 Had-der 3
+annre 3
 Bett 3
 Joher 3
 Englisch 3
@@ -715,6 +716,7 @@ Hof 3
 Kenndst-du 3
 Billioneer 3
 Odder 3
+Reiche 3
 Seckel 3
 Onnibus 3
 brille 3
@@ -722,6 +724,7 @@ Wud 3
 Kapitalismus 3
 Gud 3
 dorrichsetze 3
+annerster 3
 Kamiong 2
 Milje 2
 Rees 2
@@ -794,6 +797,7 @@ geweckd 2
 uffgewachd 2
 scheene 2
 Foghel 2
+friher 2
 genugh 2
 Schluss 2
 Kampf 2
@@ -1025,6 +1029,7 @@ annres 2
 ausem 2
 hod's 2
 ernst 2
+Planze 2
 fort 2
 Essd 2
 hassd 2
@@ -1044,7 +1049,6 @@ draus 2
 gestann 2
 lechle 2
 Meeghd-der 2
-Reiche 2
 meerste 2
 blude 2
 schelle 2
@@ -1100,7 +1104,6 @@ provokantisches 1
 levende 1
 Ratte 1
 Gude 1
-annre 1
 Seit 1
 Daal 1
 weuch 1
@@ -1261,7 +1264,6 @@ uffgewach 1
 geland 1
 wechgefloh 1
 halleb 1
-friher 1
 Kempf 1
 Freiheet 1
 Doktre 1
@@ -1983,7 +1985,6 @@ Fersugh 1
 Lauter 1
 Herter 1
 ferschlofd 1
-Planze 1
 wachse 1
 Stei 1
 Steid 1
@@ -2292,3 +2293,8 @@ Aaizell 1
 blose 1
 Au 1
 kaum 1
+Informazione 1
+Zeide 1
+Pilse 1
+geheere 1
+unnerschittliche 1

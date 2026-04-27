@@ -4,8 +4,8 @@ das 566
 no 504
 binom 501
 etosi 430
-in 333
-obik 304
+in 334
+obik 306
 Maria 232
 binon 212
 dunön 200
@@ -314,6 +314,7 @@ Li-labol 14
 Om 14
 vom 14
 Binoms 14
+Son 14
 Nelijapüki 14
 buk 14
 nedobs 14
@@ -335,7 +336,6 @@ bodi 13
 oma 13
 Nem 13
 püki 13
-Son 13
 kanon 13
 ot 13
 dlinön 13
@@ -926,6 +926,7 @@ balidna 4
 Löfoms 4
 nefikuliko 4
 solat 4
+studom 4
 spelom 4
 etuvoms 4
 Efögetob 4
@@ -1260,6 +1261,7 @@ oke 3
 Nosi 3
 pal 3
 kuni 3
+Hicil 3
 Bakan 3
 sufiko 3
 krig 3
@@ -1318,6 +1320,7 @@ jutom 2
 kvisinof 2
 cile 2
 zians 2
+foginän 2
 päbumon 2
 pöfik 2
 lemot 2
@@ -1788,7 +1791,6 @@ Golom 2
 Ätuvom 2
 ogolobs 2
 älemof 2
-studom 2
 äkanitom 2
 Velatiko 2
 Dlinobs 2
@@ -1985,7 +1987,6 @@ sufik 2
 otuvob 2
 slipol 2
 kanoböv 2
-Hicil 2
 Cifazif 2
 grobik 2
 neplütik 2
@@ -2161,7 +2162,6 @@ Loboy 1
 duti 1
 tidanas 1
 Jigudikan 1
-foginän 1
 foginänio 1
 tem 1
 Äspikof 1
@@ -5257,3 +5257,4 @@ Sumolös 1
 Sumolsös 1
 Sumolsöd 1
 Studof 1
+foginäno 1

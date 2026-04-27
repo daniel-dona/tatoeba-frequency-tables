@@ -1,4 +1,4 @@
-da 1001
+da 1002
 ez 573
 dut 528
 Ez 412
@@ -238,6 +238,7 @@ Orain 17
 sentitzen 17
 bezain 17
 dezakezu 17
+Nor 17
 zenuke 17
 ama 17
 bai 17
@@ -255,7 +256,6 @@ batzuk 16
 eskolara 16
 dirua 16
 baduzu 16
-Nor 16
 gogoko 16
 jan 16
 irakurtzen 15
@@ -1600,6 +1600,7 @@ hobeak 3
 asteko 3
 eguzkia 3
 mutil-laguna 3
+Jainkoa 3
 zeruan 3
 helburu 3
 Gutun 3
@@ -2425,7 +2426,6 @@ Alemania 2
 lotara 2
 Hoa 2
 Banoa 2
-Jainkoa 2
 jaitsi 2
 aspaldi 2
 janzten 2

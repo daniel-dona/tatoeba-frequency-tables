@@ -5,7 +5,7 @@ li 1915
 Tom 1704
 ne 1580
 Li 931
-in 877
+in 878
 tu 824
 Esque 819
 have 797
@@ -45,7 +45,7 @@ il 250
 deve 243
 plu 241
 quam 240
-Mi 236
+Mi 237
 del 229
 far 227
 Ili 222
@@ -169,9 +169,9 @@ témpor 55
 mem 55
 In 55
 aqua 54
-studia 53
+studia 54
+filio 53
 francesi 53
-filio 52
 moné 52
 porta 52
 ver 52
@@ -6251,3 +6251,4 @@ diskurse 1
 locar 1
 posir 1
 plazzar 1
+extrania 1
