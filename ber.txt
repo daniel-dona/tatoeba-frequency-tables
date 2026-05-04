@@ -1,4 +1,4 @@
-ad 186952
+ad 186955
 n 154194
 d 114926
 ara 92901
@@ -49,7 +49,7 @@ Melmi 6225
 ayen 5993
 yiwet 5841
 mi 5817
- 5688
+ 5693
 tidet 5671
 Rima 5563
 Zzayer 5302
@@ -153,7 +153,7 @@ kečč 2213
 usawal 2207
 Aql-aɣ 2190
 tmara 2188
-Tzemreḍ 2184
+Tzemreḍ 2187
 kemm 2179
 bɣan 2154
 tis 2131
@@ -221,7 +221,7 @@ deffir 1636
 Iṛuḥ 1630
 S 1621
 Tezmer 1617
-Aya 1590
+Aya 1591
 wid 1589
 yerna 1588
 nettat 1580
@@ -928,12 +928,12 @@ Awer 389
 nebɣi 389
 tesɛid 389
 Geldun 389
+Ɣer 388
 Salem 388
 wusu 387
-Ɣer 387
+iman-ik 387
 Karim 387
 semmus 386
-iman-ik 386
 d-yetteddun 384
 tamawt 383
 uselkim 383
@@ -3300,6 +3300,7 @@ achihuahua 118
 aqelluj 118
 tsenfekka 118
 tjavanit 118
+yugar 117
 usaḍuf 117
 amaḍal 117
 Yezga 117
@@ -3335,7 +3336,6 @@ yisnulfuyen 117
 tasersut 117
 tyorubat 117
 twut 117
-yugar 116
 takeṛṛust-inu 116
 Aydi-nni 116
 argaz-nni 116
@@ -6649,6 +6649,7 @@ Tettnadim 47
 ɣur-kent 47
 tnegmit 47
 tiẓriyin 47
+Fren 46
 tkurt 46
 nerbeḥ 46
 yettmettat 46
@@ -6762,7 +6763,6 @@ ulukkez 46
 Taknarit 46
 Tini 46
 asnesgan 46
-Fren 45
 temɣart 45
 Tameṭṭut-nni 45
 uɣalad-nni 45
@@ -8074,6 +8074,7 @@ argaz-inu 36
 d-yessutren 36
 ufan-d 36
 Yeɛya 36
+ⴰⴷ 36
 rsen 36
 Tameddit 36
 yettwamelken 36
@@ -9997,4 +9998,3 @@ asigmi 28
 urbal 28
 samraw 28
 ufus-im 28
-duru 28

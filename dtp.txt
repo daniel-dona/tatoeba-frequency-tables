@@ -1,10 +1,10 @@
-do 1026
+do 1028
 oku 621
-i 402
+i 403
 Tom 377
 ku 334
 no 314
-di 297
+di 298
 nopo 258
 nga 254
 id 247
@@ -15,14 +15,14 @@ ko' 178
 om 156
 dau 154
 dilo 133
-po 131
+po 132
 o 117
 Milo' 113
 daa 113
 doho 113
 tokou 108
+ilo 106
 tu 103
-ilo 103
 mantad 100
 boros 94
 dot 90
@@ -57,9 +57,9 @@ Nokuro 45
 montok 44
 Manu 44
 yahai 44
+isio 44
 Kada 43
 Poransis 42
-isio 42
 kio 40
 disido 39
 toun 39
@@ -87,9 +87,9 @@ haro 30
 kaka 29
 hilo 29
 ginawo 29
+tanak 29
 okon 28
 mangakan 28
-tanak 28
 iti 27
 pogun 27
 milo 27
@@ -163,6 +163,7 @@ suai 15
 Ingaa 15
 tintod 15
 matu 15
+muli 14
 wagu 14
 tiso 14
 Iri 14
@@ -179,7 +180,7 @@ toruol 14
 Poingkuro 14
 bilik 14
 Andasan 13
-muli 13
+rasuk 13
 koposion 13
 Kanou 13
 Otopot 13
@@ -194,7 +195,6 @@ Sina 13
 timpu 13
 dinondo 13
 gambar 12
-rasuk 12
 Miagal 12
 dongkosuabon 12
 hiri'd 12
@@ -211,6 +211,7 @@ ma 12
 tulan 12
 pomogunan 12
 Nokoilo 12
+sumandak 12
 orohian 11
 Siou 11
 Olumis 11
@@ -218,12 +219,13 @@ Noilaan 11
 Hinonggo 11
 Obuli 11
 Alansan 11
+John 11
+mamanau 11
 Songkuro 11
 Milo 11
 piipiro 11
 diyolo 11
 tontok 11
-sumandak 11
 Sami 11
 noilaan 10
 Ingkuro 10
@@ -240,9 +242,7 @@ araat 10
 songkuro 10
 tungau 10
 isai 10
-John 10
 kasasari 10
-mamanau 10
 Kokito 10
 kalas 10
 kobolingkangan 10
@@ -297,6 +297,7 @@ Ohoi 8
 Agayo 8
 iso 8
 nodii 8
+manuk 8
 Oi 8
 tusak 8
 Kinorohingan 8
@@ -336,7 +337,6 @@ gulu 7
 Atangkangau 7
 Araat 7
 mogihum 7
-manuk 7
 Mulau 7
 biir 7
 moginum 7
@@ -576,6 +576,7 @@ kopiruba 4
 lisih 4
 Yau 4
 nokoilo' 4
+Kadazan 4
 Natagak 4
 doiti 4
 sumakai 4
@@ -706,6 +707,7 @@ hatus 3
 rumamit 3
 Kinosusuon 3
 kataadan 3
+dogo 3
 minsingilo' 3
 Poimpanau 3
 Ka 3
@@ -719,7 +721,6 @@ Pogidu 3
 koruhang 3
 tobuk 3
 Tanak 3
-Kadazan 3
 Mirikau 3
 tiwanon 3
 Sumiliu 3
@@ -951,7 +952,6 @@ Omulok 2
 rumuba 2
 aramai 2
 Kinoiyonon 2
-dogo 2
 mala' 2
 Ounsikou 2
 ralan 2
@@ -1430,6 +1430,7 @@ Kinoringan 2
 tambabaya 2
 ranahon 2
 Dudar 2
+ngaie 2
 Ruputan 1
 kinoutusan 1
 mosik 1
@@ -3937,7 +3938,6 @@ Linoou 1
 Sainah 1
 pongodula 1
 kabantaan 1
-ngaie 1
 Notobuk 1
 tayol 1
 kulita' 1
@@ -3958,3 +3958,10 @@ sinamayan 1
 Gompusas 1
 Debra 1
 moginum-ginum 1
+Monondila 1
+Potondila 1
+Ginusa 1
+Mimparau 1
+Poimbilang 1
+Ronald 1
+Poinrasuk 1

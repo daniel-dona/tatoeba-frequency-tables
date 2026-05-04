@@ -1,15 +1,15 @@
-Tom 1018
+Tom 1020
 Mən 902
 O 748
-Bu 691
-bir 450
+Bu 693
+bir 454
 var 444
 və 428
 ki 387
-çox 327
+çox 330
 nə 300
 Onlar 254
-üçün 252
+üçün 253
 idi 248
 də 240
 Biz 225
@@ -17,7 +17,7 @@ deyil 220
 bu 214
 heç 210
 ilə 175
-Sən 167
+Sən 168
 Tomun 160
 daha 159
 istəyirəm 147
@@ -29,8 +29,8 @@ mənə 141
 Mənim 138
 vaxt 133
 Onun 133
-gün 123
-Siz 120
+gün 124
+Siz 121
 elə 120
 onu 116
 o 112
@@ -61,22 +61,22 @@ deyiləm 82
 bilmirəm 80
 Bunu 78
 davam 78
+şey 77
 il 76
 etmək 76
 baş 76
 iki 74
-şey 74
 artıq 73
 olmasa 71
 dedi 71
 Niyə 69
 et 69
 sənin 68
+niyə 68
 görə 68
-niyə 67
+onun 67
 kömək 67
 istifadə 67
-onun 66
 ona 66
 hələ 65
 Toma 65
@@ -84,9 +84,9 @@ Sənin 63
 öz 62
 Heç 62
 ildə 62
+Hər 61
 məni 61
 sonra 61
-Hər 60
 Zəhmət 60
 Yaponiya 60
 yox 59
@@ -123,6 +123,7 @@ indi 46
 Onunla 46
 idim 45
 haradadır 45
+Sənə 45
 yeni 45
 olan 45
 İndi 44
@@ -135,7 +136,6 @@ sizin 44
 olub 44
 kitab 43
 daxil 43
-Sənə 43
 onunla 43
 nədir 42
 Məncə 42
@@ -167,6 +167,7 @@ harada 36
 olmaq 36
 sizə 36
 bizə 36
+gözəl 35
 məktəbə 35
 Əgər 35
 amma 35
@@ -179,7 +180,6 @@ gecə 34
 qulaq 34
 Onlarla 34
 yerə 34
-gözəl 33
 Hələ 33
 verin 33
 istəyirsən 32
@@ -232,10 +232,10 @@ Yaponiyaya 28
 Tomla 28
 yenidən 28
 yardım 28
+Sizə 28
 səhər 27
 Yaxşı 27
 Burda 27
-Sizə 27
 qalib 27
 Birləşmiş 26
 Sadəcə 26
@@ -404,6 +404,7 @@ güclü 16
 evdə 16
 Merini 16
 verdiyini 16
+bura 16
 Onlara 16
 məşğul 16
 Yaponiyanın 16
@@ -439,7 +440,6 @@ etməyin 15
 Bunun 15
 istədi 15
 Get 15
-bura 15
 Allah 15
 işləyir 15
 etibar 15
@@ -585,6 +585,7 @@ vermə 12
 oxuya 12
 xoşuna 12
 təxminən 12
+şəhəridir 12
 işləmək 12
 yaşayırsan 12
 bunun 12
@@ -643,7 +644,6 @@ gedib 11
 get 11
 deyin 11
 məsləhət 11
-şəhəridir 11
 bizimlə 11
 danışırlar 11
 Fransa 11
@@ -1110,6 +1110,7 @@ alman 7
 həyatını 7
 Özümü 7
 ölkə 7
+yatır 7
 mənəm 7
 gözləri 7
 Otaq 7
@@ -1311,7 +1312,6 @@ gözlərini 6
 Tibb 6
 Mariya 6
 Bob 6
-yatır 6
 ana 6
 qorxmuram 6
 ediblər 6
@@ -1451,6 +1451,7 @@ stol 5
 öyrəndim 5
 özü 5
 Pis 5
+içirsən 5
 demədi 5
 burdadır 5
 oxudum 5
@@ -1733,6 +1734,7 @@ uğurla 5
 edərək 5
 Boş 5
 təşəbbüsü 5
+önəmli 5
 Yekaterinburq 5
 Çölə 5
 yoxdu 5
@@ -1831,7 +1833,6 @@ etdin 4
 haqqınızda 4
 köməyə 4
 Oxumağı 4
-içirsən 4
 Alman 4
 bitirən 4
 Oldu 4
@@ -2267,7 +2268,6 @@ Pakistanın 4
 dayan 4
 ölkəmizin 4
 sovet 4
-önəmli 4
 xəyanət 4
 məruz 4
 bəyənirəm 4
@@ -2367,6 +2367,7 @@ Tövbə 4
 Sorğu-sual 4
 Kapitulyasiya 4
 — 4
+içirsiz 4
 ədalətlidir 4
 uzanıb 4
 dəxli 4
@@ -2393,6 +2394,7 @@ Avroviziya 4
 öyrənməsi 4
 dizaynerdir 4
 məscidə 4
+göstərəcəm 4
 Sabahınız 3
 sirr 3
 çiçəkdir 3
@@ -2623,6 +2625,7 @@ BMW 3
 oynayırdı 3
 sərhəd 3
 Ağlama 3
+gəlirsən 3
 başladılar 3
 qapıları 3
 öyrəndik 3
@@ -3201,6 +3204,7 @@ axını 3
 Həyatda 3
 olandır 3
 oturur 3
+Hamımız 3
 həyatın 3
 görüşə 3
 başlayan 3
@@ -3300,7 +3304,6 @@ And 3
 izolyasiya 3
 Çin-yapon 3
 xarabdır 3
-içirsiz 3
 çörəyi 3
 qaçıb 3
 sözlük 3
@@ -3759,7 +3762,6 @@ müəllimimiz 2
 İdman 2
 tanımır 2
 yaşamıram 2
-gəlirsən 2
 Ördək 2
 atasıdır 2
 pişiyin 2
@@ -3803,6 +3805,7 @@ hamiləyəm 2
 ağlamaq 2
 müəllimdən 2
 İspaniyanı 2
+İngiltərə 2
 qonşudurlar 2
 İngiltərədən 2
 mülayimdir 2
@@ -5186,7 +5189,6 @@ dünyanı 2
 hakimiyyət 2
 ruhu 2
 istiqamətləndirir 2
-Hamımız 2
 böhran 2
 bədbəxt 2
 Həyatı 2
@@ -5263,6 +5265,7 @@ Velosipediniz 2
 minin 2
 baha 2
 Gör 2
+Telefonum 2
 müdriklik 2
 Fincanımı 2
 Alət 2
@@ -5682,6 +5685,7 @@ yaranlar 2
 taxmışdılar 2
 yardıma 2
 gətirilib 2
+əvvəlcədən 2
 qalmış 2
 arvadını 2
 işgüzar 2
@@ -5941,6 +5945,7 @@ məktəblilərə 2
 satırdı 2
 Məhəmməddir 2
 əhəmiyyətlidir 2
+əməliyyatdır 2
 vә 1
 cәnablar 1
 Sizә 1
@@ -7122,7 +7127,6 @@ Cəbəllüttariq 1
 boğazı 1
 ayırır 1
 Şotlandiyadasan 1
-İngiltərə 1
 Şotlandiyanı 1
 xatırlatdı 1
 suyuna 1
@@ -9994,7 +9998,3 @@ filmini 1
 kiminləsə 1
 görüşdüyünü 1
 öyrənməyin 1
-yolunu 1
-bilirsinizsə 1
-öyrədin 1
-Tərli 1

@@ -1,9 +1,9 @@
-Tom 35
+Tom 39
 Ndi 20
 Njagala 20
 ku 19
 ki 17
-mu 13
+mu 14
 wa 12
 mmeka 9
 nnyo 9
@@ -39,7 +39,9 @@ Ennyumba 4
 musomesa 4
 mulwadde 4
 ejjo 4
+ebibala 4
 ssaawa 4
+leero 4
 Ngenda 4
 obudde 4
 ssomero 3
@@ -80,7 +82,6 @@ Emirimu 3
 Enkuba 3
 egenda 3
 kutonnya 3
-leero 3
 ayagala 3
 okukulaba 3
 kunywa 3
@@ -111,6 +112,7 @@ Jack 2
 poliisi 2
 Mbadde 2
 Nkusubwa 2
+Sigenda 2
 mmere 2
 Gwe 2
 Ye 2
@@ -121,6 +123,7 @@ bano 2
 amaaso 2
 maddugavu 2
 kusoma 2
+ebitabo 2
 emiyembe 2
 obuyambi 2
 nawe 2
@@ -135,7 +138,6 @@ ekiteteyi 2
 empya 2
 yagenda 2
 ekiro 2
-ebibala 2
 omupiira 2
 ensi 2
 nti 2
@@ -147,6 +149,7 @@ Abayizi 2
 Yalidde 2
 emmere 2
 wooli 2
+amazzi 2
 bukyali 2
 Ali 2
 mugagga 2
@@ -168,6 +171,7 @@ gange 2
 ludda 2
 mmeeza 2
 Essaawa 2
+kibuga 2
 Teri 1
 atukiridde 1
 Tukyabanga 1
@@ -249,7 +253,6 @@ mukkufu 1
 mumalirivu 1
 Nkwetaaga 1
 Nkulowoozaako 1
-Sigenda 1
 kulekerera 1
 Nneetegese 1
 Wegendereze 1
@@ -288,7 +291,6 @@ muserikale 1
 Alina 1
 okakasa 1
 talimba 1
-ebitabo 1
 abeera 1
 mwesigwa 1
 ekizibu 1
@@ -459,7 +461,6 @@ Ekitabu 1
 kisuffu 1
 Ekinyonyi 1
 kinywa 1
-amazzi 1
 Amadiini 1
 gonna 1
 gasanyusa 1
@@ -631,7 +632,6 @@ kulaba 1
 Mbeeko 1
 kye 1
 nkubuza 1
-kibuga 1
 Nina 1
 baganda 1
 bange 1
@@ -661,3 +661,12 @@ yeetegesse 1
 afumba 1
 enkoko 1
 ensike 1
+anywa 1
+alya 1
+ennyama 1
+asoma 1
+Sikola 1
+atunda 1
+Temutunda 1
+Tetusoma 1
+Olungereza 1

@@ -1,6 +1,6 @@
-i 24
+i 26
+I 12
 Im 11
-I 11
 Iarwain 8
 Gi 4
 lîn 4
@@ -25,6 +25,7 @@ ammen 3
 min 3
 barf 3
 gallon 3
+im 3
 Eru 3
 Mas 3
 in 2
@@ -59,7 +60,6 @@ aes 2
 Lasto 2
 raug 2
 Te 2
-im 2
 ithron 2
 Me 2
 Tom 2
@@ -300,3 +300,13 @@ aran 1
 fôf 1
 dî 1
 dîr 1
+Ú 1
+adareg 1
+hîm 1
+raud 1
+U-iston 1
+neth 1
+hen 1
+Hû 1
+nathant 1
+cuilent 1

@@ -1,5 +1,5 @@
 ya 1298
-na 1072
+na 1073
 wa 756
 kwa 698
 ni 629
@@ -22,7 +22,7 @@ lakini 107
 yako 104
 kila 102
 kwamba 101
-hii 100
+hii 101
 zaidi 99
 hiyo 94
 kufanya 90
@@ -47,7 +47,7 @@ sio 60
 chini 60
 Amerika 58
 siku 56
-miaka 55
+miaka 56
 saa 54
 hapa 52
 hilo 51
@@ -172,6 +172,7 @@ mengi 24
 tatu 24
 naye 24
 vitu 24
+Kiingereza 24
 sauti 24
 mwingine 24
 rangi 24
@@ -182,7 +183,6 @@ Millie 23
 moto 23
 kulala 23
 Asante 23
-Kiingereza 23
 joto 23
 duka 23
 wengine 23
@@ -249,6 +249,7 @@ Nataka 18
 chake 18
 jana 18
 Una 18
+picha 18
 bidhaa 18
 ngumu 18
 shida 18
@@ -265,7 +266,6 @@ wanafunzi 17
 farasi 17
 upande 17
 kusafiri 17
-picha 17
 nafasi 17
 ngapi 17
 umri 17
@@ -366,6 +366,7 @@ paka 13
 Ndege 13
 hakika 13
 vitabu 13
+Ana 13
 anaweza 13
 yule 13
  13
@@ -402,7 +403,6 @@ samaki 12
 dunia 12
 ajabu 12
 mashine 12
-Ana 12
 sukari 12
 Rafiki 12
 nyingine 12
@@ -808,6 +808,7 @@ miji 6
 rasmi 6
 Mary 6
 zina 6
+mjini 6
 Huyu 6
 mkewe 6
 nami 6
@@ -949,7 +950,6 @@ meno 5
 magumu 5
 wanaishi 5
 York 5
-mjini 5
 mwana 5
 Uko 5
 Kijerumani 5
@@ -1102,6 +1102,7 @@ video 5
 angeweza 5
 sarafu 5
 chungu 5
+imani 5
 kufurahisha 5
 nadhani 5
 kuchoma 5
@@ -1276,6 +1277,7 @@ Mwanaume 4
 kiume 4
 Anne 4
 jijini 4
+alipokuwa 4
 Asia 4
 kamba 4
 Jengo 4
@@ -1405,7 +1407,6 @@ chumvi 4
 mengine 4
 waridi 4
 uvumilivu 4
-imani 4
 iliyokuwa 4
 kosa 4
 inasema 4
@@ -1647,7 +1648,6 @@ ng'ombe 3
 takatifu 3
 bonyeza 3
 leseni 3
-alipokuwa 3
 mataifa 3
 ulinzi 3
 kibichi 3
@@ -6645,7 +6645,6 @@ sugu 1
 mtumwa 1
 naelekea 1
 aliponiona 1
-Anaimani 1
 Asidi 1
 Alinijua 1
 Utalijadili 1
@@ -9323,3 +9322,10 @@ alichelewa 1
 ataokoa 1
 anapika 1
 koko 1
+Desconecta 1
+el 1
+enchufe 1
+Alichora 1
+23 1
+Sitaenda 1
+Hatusomi 1

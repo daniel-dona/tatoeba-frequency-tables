@@ -3,12 +3,12 @@ e 1060
 xwe 1050
 min 1029
 ji 1027
-bi 952
+bi 953
 li 859
 Ew 824
 ê 748
 û 672
-ye 652
+ye 653
 ku 649
 Tom 557
 Em 552
@@ -34,7 +34,7 @@ Ev 233
 bû 221
 dike 198
 ew 198
-ber 196
+ber 197
 bo 193
 vê 190
 heye 189
@@ -78,7 +78,7 @@ Divê 95
 got 92
 kiriye 92
 dibistanê 92
-ve 89
+ve 90
 xweş 88
 malê 87
 çawa 87
@@ -238,6 +238,7 @@ zimanê 25
 avê 25
 dibêje 25
 temaşe 25
+diçin 25
 kê 25
  24
 nizanim 24
@@ -250,7 +251,6 @@ malbata 24
 cuda 24
 germ 24
 sibê 24
-diçin 24
 neda 24
 destên 23
 Hin 23
@@ -260,6 +260,8 @@ reş 23
 diêşe 23
 dixwaze 23
 tiştî 23
+rê 23
+Hemû 23
 yekê 23
 dijî 22
 na 22
@@ -271,8 +273,6 @@ fêrî 22
 kesî 22
 çû 22
 berê 22
-rê 22
-Hemû 22
 gorî 22
 dizane 21
 hinek 21
@@ -619,6 +619,7 @@ Heke 10
 erebeya 10
 nadin 10
 borand 10
+şikestî 10
 girî 9
 sibe 9
 kesk 9
@@ -694,7 +695,6 @@ nebî 9
 berdaye 9
 nebihîst 9
 birî 9
-şikestî 9
 dibare 8
 masê 8
 zêrîn 8
@@ -3575,6 +3575,7 @@ yekîtiyê 2
 kirêya 2
 diwîtîne 2
 wateyê 2
+Romayê 2
 yextiyar 2
 bizane 2
 geriyam 2
@@ -8274,7 +8275,6 @@ Kew 1
 patronê 1
 biqewirîne 1
 derxistin 1
-Romayê 1
 Hevjîna 1
 perdeyên 1
 pencereyê 1
@@ -9451,3 +9451,4 @@ Fantastîk 1
 Balkêş 1
 Enteresan 1
 Heywan 1
+Rêçik 1

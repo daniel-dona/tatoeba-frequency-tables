@@ -1,5 +1,5 @@
 on 29486
-ei 10802
+ei 10803
 Tom 9924
 Hän 8486
 ja 6910
@@ -149,7 +149,7 @@ mies 534
 pois 532
 huomenna 527
 noin 527
-viime 522
+viime 523
 pidä 521
 Kun 516
 Mary 516
@@ -612,10 +612,10 @@ Voin 144
 Siinä 144
 lapset 144
 talon 143
+puoli 143
 Tee 143
 olevansa 143
 ulkona 143
-puoli 142
 Ehkä 142
 löytää 142
 kiireinen 142
@@ -961,6 +961,7 @@ vuosi 91
 juhliin 91
 menet 91
 mukava 91
+Kaksi 91
 kirjoittanut 91
 tulevat 91
 työn 91
@@ -972,7 +973,6 @@ välitä 90
 talossa 90
 tapana 90
 käytetään 90
-Kaksi 90
 sinulta 90
 yön 90
 Käyn 90
@@ -1642,6 +1642,7 @@ Juuri 52
 mielellään 52
 Suurin 52
 Syö 52
+viikonloppuna 52
 jalkapalloa 52
 tarkkaan 52
 auta 52
@@ -1675,7 +1676,6 @@ pitkät 51
 tapasin 51
 Pitäisikö 51
 tarkalleen 51
-viikonloppuna 51
 kunnolla 51
 itki 51
 Tuota 51
@@ -2234,6 +2234,7 @@ Kysyin 38
 tyttöä 38
 Jim 38
 pieniä 38
+Kuu 38
 kokoukseen 38
 mahdollisuutta 38
 toisin 38
@@ -2284,7 +2285,6 @@ idiootti 37
 Totta 37
 huomiota 37
 veden 37
-Kuu 37
 pitkälle 37
 tupakoinnin 37
 onnekas 37
@@ -2823,6 +2823,7 @@ toiminut 30
 illallisen 30
 suljettu 30
 Ostan 30
+kuuta 30
 vika 30
 Tatoeba: 30
 vialla 30
@@ -2903,7 +2904,6 @@ vietti 29
 toisesta 29
 ihme 29
 veteen 29
-kuuta 29
 lattialle 29
 pienessä 29
 kertomaan 29
@@ -4160,6 +4160,7 @@ itsellesi 20
 Sattuuko 20
 koiransa 20
 Puhukaa 20
+pidettiin 20
 toimistossa 20
 suuttuu 20
 Minäkään 20
@@ -4365,7 +4366,6 @@ vedä 19
 tosissaan 19
 eilisen 19
 Lisa 19
-pidettiin 19
 avoin 19
 palan 19
 ongelmasi 19
@@ -7288,6 +7288,7 @@ ansa 11
 oltiin 11
 luun 11
 kerrottu 11
+vähäsen 11
 luottamuksellista 11
 heikoin 11
 kaksikymmentäneljä 11
@@ -7900,7 +7901,6 @@ naposteltavaa 10
 kehtaat 10
 selästä 10
 Vatsani 10
-vähäsen 10
 ootte 10
 ruokki 10
 hämmentyneeltä 10
@@ -8164,7 +8164,6 @@ Rikkaat 9
 pyöräilemään 9
 työskentelemään 9
 Sotilaat 9
-Kasvoin 9
 nähty 9
 rakastavansa 9
 ensimmäisellä 9
@@ -8340,7 +8339,6 @@ bileisiin 9
 pukee 9
 lelun 9
 sellaisesta 9
-hiiri 9
 lentämistä 9
 karata 9
 moneen 9
@@ -9003,6 +9001,7 @@ suuni 8
 puutu 8
 varustettu 8
 puhtaaksi 8
+Kasvoin 8
 unkarilainen 8
 tikapuut 8
 karkkia 8
@@ -9229,6 +9228,7 @@ ripusti 8
 pianolla 8
 lepää 8
 vastauksia 8
+torilla 8
 tietokoneella 8
 kiusattiin 8
 maalin 8
@@ -9271,6 +9271,7 @@ hyvinkin 8
 Monia 8
 vanhalla 8
 muutamaa 8
+hiiri 8
 vuorten 8
 taa 8
 keskipäivä 8
@@ -9997,4 +9998,3 @@ puhelimemme 8
 vahvistaneet 8
 viimeisistä 8
 jääkaappisi 8
-graffiteja 8

@@ -1,4 +1,4 @@
-je 1881
+je 1883
 se 697
 u 632
 sam 511
@@ -19,7 +19,7 @@ si 175
 od 166
 On 157
 ti 139
-To 133
+To 134
 te 130
 me 125
 smo 120
@@ -322,6 +322,7 @@ Nikada 13
 pa 13
 dugo 13
 poslije 13
+koju 13
 manje 13
 misli 13
 minuta 13
@@ -355,7 +356,6 @@ ispit 12
 otići 12
 misliš 12
 sestra 12
-koju 12
 naučiti 12
 sobi 12
 bolje 12
@@ -508,6 +508,7 @@ pije 9
 pitao 9
 čuo 9
 moraš 9
+naslikao 9
 Mnogo 9
 znaju 9
 Trebam 9
@@ -567,7 +568,6 @@ noć 8
 voziti 8
 Bostonu 8
 Jeste 8
-naslikao 8
 Stvarno 8
 riješiti 8
 sad 8
@@ -1538,6 +1538,7 @@ ljeto 3
 sjećam 3
 Naša 3
 putovanje 3
+slika 3
 Dala 3
 informacije 3
 Htjela 3
@@ -2216,7 +2217,6 @@ postojati 2
 tražiti 2
 druga 2
 šefa 2
-slika 2
 obožava 2
 košarku 2
 ostale 2
