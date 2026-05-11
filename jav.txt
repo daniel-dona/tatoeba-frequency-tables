@@ -1,14 +1,14 @@
 Aku 190
-ora 148
+ora 149
 Tom 128
 sing 75
 iku 55
 Kowé 53
 iki 52
+ing 51
 aku 51
-ing 50
 nang 47
-Dhèwèké 42
+Dhèwèké 43
 karo 40
 ana 34
 kowé 33
@@ -16,11 +16,11 @@ basa 33
 seneng 30
 apa 29
 dhéwé 29
+kuwi 28
 kudu 27
 Iki 27
 duwé 27
 wis 27
-kuwi 27
 lunga 27
 menyang 24
 isa 24
@@ -29,8 +29,8 @@ dudu 24
 bisa 23
 bakal 22
 endi 22
+Aja 21
 durung 20
-Aja 20
 wong 20
 dhèwèké 20
 Kula 20
@@ -150,6 +150,7 @@ kopi 5
 pundi 5
 Boston 5
 taun 5
+kerep 5
 saiki 5
 rabi 5
 larang 5
@@ -204,7 +205,6 @@ numpak 4
 bis 4
 krungu 4
 bener 4
-kerep 4
 kapan 4
 Wong 4
 kakèhan 4
@@ -550,6 +550,7 @@ Lawangé 2
 bal-balan 2
 Muhammad 2
 Kemis 2
+amarga 2
 Bocah-bocahé 2
 miber 2
 bojomu 2
@@ -579,6 +580,7 @@ lawang 2
 Coroné 2
 Rotiné 2
 segawon 2
+tetep 2
 kita 2
 kangen 1
 kakus 1
@@ -1737,7 +1739,6 @@ bir 1
 ꦱꦧꦼꦤ꧀ꦢꦶꦤꦏꦼꦩꦶꦱ꧀ ꦲꦮꦏ꧀ꦝꦺꦮꦺꦔꦺꦴꦩ꧀ꦧꦺꦧꦶꦂ꧉ 1
 Sepur 1
 ꦱꦼꦥꦸꦂꦲꦶꦏꦶꦲꦺꦴꦫꦩꦤ꧀ꦝꦼꦒ꧀ꦲꦶꦁꦏꦺꦤꦺ꧉ 1
-amarga 1
 ꦲꦏꦸꦩꦔꦤ꧀ꦲꦩꦂꦒꦲꦏꦸꦭꦸꦮꦺ꧉ 1
 mahasiswa 1
 Biologi 1
@@ -2222,7 +2223,6 @@ nilpun 1
 ꦏꦺꦴꦮꦺꦱꦺꦱꦸꦏ꧀ꦏꦸꦢꦸꦤꦶꦭ꧀ꦥꦸꦤ꧀ꦠꦺꦴꦩ꧀꧈ 1
 ꦲꦶꦏꦶꦧꦥꦏ꧀ꦏꦸ꧉ 1
 Seneng 1
-tetep 1
 kolakoni 1
 ꦱꦼꦤꦼꦁꦫꦱꦼꦤꦼꦁ꧈ 1
 ꦠꦼꦠꦼꦥ꧀ꦏꦸꦢꦸꦏꦺꦴꦭꦏꦺꦴꦤꦶ꧉ 1
@@ -2282,3 +2282,9 @@ Yen 1
 Kita 1
 ati-ati 1
 ꦠꦺꦴꦩ꧀ꦭꦸꦔꦩꦤꦺꦃ꧉ 1
+ngacungake 1
+piso 1
+ngarepku 1
+pindhah 1
+panggonan 1
+gaweyané 1

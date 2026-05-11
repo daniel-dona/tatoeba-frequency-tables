@@ -1,4 +1,4 @@
-ir 107
+ir 108
 Es 54
 ka 30
 nav 28
@@ -8,7 +8,7 @@ Voi 26
 Tys 26
 i 25
 Jis 22
-Toms 20
+Toms 21
 par 20
 es 18
 kū 18
@@ -52,6 +52,7 @@ dūmoju 5
 Tomam 5
 jū 5
 cylvāki 5
+tik 5
 kod 5
 saceja 5
 jī 5
@@ -59,6 +60,7 @@ daudz 5
 Tei 5
 lai 5
 volūda 5
+Tu 4
 vēļ 4
 dzeivuot 4
 irā 4
@@ -72,7 +74,6 @@ bez 4
 īt 4
 dzeivoj 4
 jis 4
-tik 4
 vysu 4
 bet 4
 cytu 4
@@ -84,7 +85,6 @@ vysod 4
 nakai 4
 nasaprūt 4
 Itys 3
-Tu 3
 as 3
 nazynu 3
 lobs 3
@@ -1195,3 +1195,8 @@ naizbāgamys 1
 Patīseiba 1
 popularitatis 1
 konkurss 1
+Deļ 1
+kuo 1
+naideigs 1
+naesi 1
+vysvarons 1

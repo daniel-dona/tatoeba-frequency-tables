@@ -1,6 +1,6 @@
 je 1883
 se 697
-u 632
+u 633
 sam 511
 da 474
 li 428
@@ -21,7 +21,7 @@ On 157
 ti 139
 To 134
 te 130
-me 125
+me 126
 smo 120
 s 116
 će 112
@@ -118,11 +118,11 @@ mene 32
 godine 32
 Mislim 32
 Ti 32
+radi 31
 doći 31
 ćeš 31
 posao 31
 učiniti 31
-radi 30
 možeš 30
 Toma 30
 auto 29
@@ -224,6 +224,7 @@ govoriti 18
 Na 18
 tebe 18
 koje 18
+otac 18
 Ova 18
 stvari 18
 ono 18
@@ -239,7 +240,6 @@ Nema 17
 znati 17
 ona 17
 knjige 17
-otac 17
 Još 17
 put 17
 riječ 17
@@ -803,6 +803,7 @@ Tomom 6
 naučio 6
 Fadil 6
 zoveš 5
+Njezin 5
 vi 5
 Mačka 5
 jest 5
@@ -987,7 +988,6 @@ paket 5
 plavo 5
 sok 5
 student 4
-Njezin 4
 Njezina 4
 znanstvenik 4
 Sva 4
@@ -2427,6 +2427,7 @@ Pozvao 2
 fotoaparat 2
 Hrana 2
 odjeće 2
+banci 2
 šutjeti 2
 Paula 2
 Iskreno 2
@@ -5005,7 +5006,6 @@ probavlja 1
 Princeza 1
 neopisive 1
 ljepote 1
-banci 1
 Svakom 1
 učeniku 1
 postavljeno 1
@@ -8875,3 +8875,4 @@ poljubio 1
 "lozinka" 1
 svirao 1
 sviraju 1
+Poljubila 1

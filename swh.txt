@@ -12,7 +12,7 @@ cha 179
 sana 176
 Je 169
 kama 151
-wakati 147
+wakati 148
 yake 141
 yangu 130
 mtu 128
@@ -210,6 +210,7 @@ chochote 21
 kiasi 21
 maalum 21
 mwenyewe 20
+watoto 20
 rafiki 20
 Kama 20
 mwenye 20
@@ -229,7 +230,6 @@ Marekani 20
 barua 19
 baba 19
 kesho 19
-watoto 19
 wawili 19
 Mtu 19
 macho 19
@@ -242,6 +242,7 @@ kifo 19
 haya 19
 Alikuwa 19
 zao 18
+Sina 18
 zangu 18
 Siku 18
 Uingereza 18
@@ -259,7 +260,6 @@ ulikuwa 18
 karibuni 18
 damu 18
 wote 17
-Sina 17
 kusema 17
 huyu 17
 wanafunzi 17
@@ -395,6 +395,7 @@ wanaume 12
 maana 12
 "La 12
 marafiki 12
+Tom 12
 Ulaya 12
 Australia 12
 mkate 12
@@ -430,7 +431,6 @@ wanyama 11
 mjinga 11
 tafadhali 11
 bei 11
-Tom 11
 kunywa 11
 muziki 11
 sigara 11
@@ -502,6 +502,7 @@ baiskeli 10
 ugonjwa 10
 urahisi 10
 kwangu 10
+sina 10
 kukaa 10
 umeme 10
 chupa 10
@@ -518,6 +519,7 @@ Huko 10
 ambalo 10
 thamani 10
 makubwa 10
+nyama 10
 hamsini 10
 kile 10
 Wamarekani 10
@@ -536,6 +538,7 @@ mpaka 9
 Sitaki 9
 Naweza 9
 Afadhali 9
+anakula 9
 daktari 9
 sentensi 9
 nne 9
@@ -564,7 +567,6 @@ Bw 9
 keki 9
 kushiriki 9
 tamu 9
-sina 9
 mnamo 9
 ile 9
 maendeleo 9
@@ -576,7 +578,6 @@ Kanisa 9
 vidole 9
 mitano 9
 Inaonekana 9
-nyama 9
 ladha 9
 dharura 9
 uko 9
@@ -599,7 +600,6 @@ Paka 8
 mkataba 8
 haina 8
 Brazil 8
-anakula 8
 matunda 8
 mti 8
 bunduki 8
@@ -2517,6 +2517,7 @@ kujitoa 2
 kuumia 2
 Aliondoka 2
 North 2
+Pole 2
 alijifunza 2
 Walikuwa 2
 kukusanya 2
@@ -4743,7 +4744,6 @@ Alijenga 1
 mahosipitali 1
 alisaidia 1
 Alivunja 1
-Pole 1
 kukuwa 1
 Mifuko 1
 ilikaguliwa 1

@@ -1,4 +1,4 @@
-teu 152
+teu 153
 Tom 130
 Aing 124
 aing 82
@@ -71,15 +71,16 @@ peuting 8
 Teu 8
 meunang 8
 sareng 8
+Manéhna 8
 ancik 8
 maca 8
 ogé 8
 hiji 8
 diri 8
 daék 8
+tetep 8
 Aya 7
 Anjeun 7
-Manéhna 7
 mimiti 7
 Lamun 7
 lain 7
@@ -88,7 +89,6 @@ Layla 7
 tuluy 7
 sorangan 7
 maranéhna 7
-tetep 7
 hal 7
 Wilujeng 6
 Naon 6
@@ -113,6 +113,8 @@ dua 5
 lima 5
 mah 5
 hujan 5
+cicing 5
+tempat 5
 Bisa 5
 nanaon 5
 Dimana 5
@@ -148,14 +150,12 @@ percaya 4
 panto 4
 jalan 4
 salah 4
-cicing 4
 usum 4
 lalaki 4
 ᮒᮩ 4
 cai 4
 ngan 4
 kolot 4
-tempat 4
 yakin 4
 kaluar 4
 sabaraha 4
@@ -166,6 +166,7 @@ gawé 4
 manéhna 4
 pati 4
 anjing 4
+sok 4
 dilakukeun 4
 poé 4
 ningali 4
@@ -214,7 +215,6 @@ neangan 3
 we 3
 lian 3
 ucing 3
-sok 3
 matematika 3
 awak 3
 dayeuh 3
@@ -239,6 +239,7 @@ matak 3
 kalimah 3
 puhun 3
 leungeun 3
+sabab 3
 dijieun 3
 asup 3
 meuli 3
@@ -363,7 +364,6 @@ payung 2
 juru 2
 mana 2
 ngomongna 2
-sabab 2
 sigana 2
 digital 2
 studio 2
@@ -1629,3 +1629,5 @@ Kuring 1
 perhatikeun 1
 méja 1
 stabil 1
+pindah 1
+pagawéanana 1

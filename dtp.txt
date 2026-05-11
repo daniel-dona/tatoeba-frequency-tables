@@ -7,7 +7,7 @@ no 314
 di 298
 nopo 258
 nga 254
-id 247
+id 248
 nu 225
 ko 191
 Au 186
@@ -17,11 +17,11 @@ dau 154
 dilo 133
 po 132
 o 117
+doho 114
 Milo' 113
 daa 113
-doho 113
 tokou 108
-ilo 106
+ilo 108
 tu 103
 mantad 100
 boros 94
@@ -39,9 +39,9 @@ iyau 65
 baino 64
 diti 61
 lo 60
+kumaa 58
 diya 57
 nunu 57
-kumaa 57
 tadau 54
 ti 53
 nodi 52
@@ -829,6 +829,7 @@ Dan 3
 kayu 3
 mamatai 3
 linaid 3
+pamain 3
 pisasawaan 3
 maso' 3
 tupis 3
@@ -846,6 +847,7 @@ Kolihis 3
 koonom 3
 sumongkuro 3
 mogot 3
+galas 3
 Sigog 3
 Pantangon 3
 pinorikot 3
@@ -915,6 +917,7 @@ kasagaan 3
 gakod 3
 ngaii 3
 dialo 3
+ngaie 3
 Osopung 2
 kotigog 2
 honggo 2
@@ -1161,7 +1164,6 @@ Mogihum 2
 sasambayang 2
 Eropah 2
 Smith 2
-pamain 2
 buku 2
 dan 2
 yang 2
@@ -1216,7 +1218,6 @@ sukulat 2
 numbur 2
 sandad 2
 kopoposion 2
-galas 2
 pinuhobo 2
 kapatai 2
 Kumoinsan 2
@@ -1366,6 +1367,7 @@ Norolihan 2
 Kiroliu 2
 nakaanu 2
 rolihon 2
+ropuhan 2
 Dusun 2
 komoiboros 2
 monginduruk 2
@@ -1409,6 +1411,7 @@ tanga 2
 ihumo 2
 sumikul 2
 Mimbosiling 2
+hid 2
 doribal 2
 kinoligaganan 2
 oku'd 2
@@ -1430,7 +1433,6 @@ Kinoringan 2
 tambabaya 2
 ranahon 2
 Dudar 2
-ngaie 2
 Ruputan 1
 kinoutusan 1
 mosik 1
@@ -3093,7 +3095,6 @@ iyoo 1
 peensikul 1
 Monginum 1
 duaig 1
-ropuhan 1
 Duom 1
 mitorungak 1
 toh 1
@@ -3657,7 +3658,6 @@ Gantayo 1
 sili 1
 kasasaie 1
 Momisulap 1
-hid 1
 Minongolos 1
 hilod 1
 sinikulan 1
@@ -3965,3 +3965,7 @@ Mimparau 1
 Poimbilang 1
 Ronald 1
 Poinrasuk 1
+Kada' 1
+paus 1
+toguango 1
+Poundoliho 1
