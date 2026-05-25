@@ -43,11 +43,11 @@ bil 43
 moja 42
 jezik 42
 Kje 37
+Sem 37
 ga 37
 Zakaj 37
 ali 36
 kaj 36
-Sem 36
 še 35
 po 35
 dan 34
@@ -90,6 +90,7 @@ ste 21
 angleško 21
 Živijo 21
 o 21
+Nisem 21
 prosim 20
 Na 20
 oče 20
@@ -101,7 +102,6 @@ Ime 20
 biti 19
 knjigo 19
 kar 19
-Nisem 19
 vem 19
 Zelo 19
 življenje 19
@@ -238,6 +238,7 @@ hvala 9
 pomemben 9
 srce 9
 Dober 8
+pevka 8
 vam 8
 kavo 8
 Želim 8
@@ -268,7 +269,6 @@ hobi 8
 jezika 8
 napisal 8
 Rada 7
-pevka 7
 eno 7
 more 7
 Všeč 7
@@ -315,6 +315,7 @@ Svet 7
 obožujejo 7
 celo 7
 zasebna 7
+inteligenca 7
 skoraj 7
 list 6
 Da 6
@@ -382,7 +383,6 @@ sreča 6
 modro 6
 bolje 6
 stavek 6
-inteligenca 6
 en 5
 nedelja 5
 sestra 5
@@ -1011,6 +1011,7 @@ globok 3
 nadzorom 3
 velika 3
 bitja 3
+pevec 3
 Možgani 3
 Naša 3
 Srednje 3
@@ -1040,6 +1041,7 @@ Kakšna 3
 dvigniti 3
 katerega 3
 počutim 3
+umetna 3
 Braziliji 3
 učenje 3
 morda 3
@@ -1689,7 +1691,6 @@ inženir 2
 jedo 2
 vemo 2
 napaka 2
-pevec 2
 Taščica 2
 razen 2
 detektiv 2
@@ -1835,7 +1836,6 @@ dosegel 2
 nekdo 2
 manj 2
 mlad 2
-umetna 2
 učenju 2
 ljubil 2
 Človeštvo 2

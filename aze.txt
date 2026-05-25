@@ -7,7 +7,7 @@ var 449
 və 431
 ki 391
 çox 331
-nə 303
+nə 304
 Onlar 256
 üçün 254
 idi 249
@@ -15,7 +15,7 @@ də 241
 Biz 226
 deyil 221
 bu 217
-heç 212
+heç 213
 ilə 176
 Sən 171
 daha 163
@@ -33,15 +33,15 @@ gün 125
 Siz 121
 elə 121
 onu 117
-o 113
+o 115
 Bir 111
 edə 111
 Azərbaycan 110
 yoxdur 106
+mən 105
 Mənə 104
 etdi 104
 ən 103
-mən 103
 kimi 102
 edin 102
 da 99
@@ -81,12 +81,12 @@ ona 66
 hələ 65
 Toma 65
 Sənin 63
+məni 63
 Heç 63
 Hər 62
 öz 62
 sonra 62
 ildə 62
-məni 61
 Zəhmət 60
 Yaponiya 60
 yox 59
@@ -1250,6 +1250,7 @@ bəzən 6
 qalmaq 6
 Fransada 6
 adım 6
+etmişəm 6
 Film 6
 səbəbi 6
 oyunu 6
@@ -1321,6 +1322,7 @@ gözlərini 6
 Tibb 6
 Mariya 6
 Bob 6
+Deyəsən 6
 ana 6
 qorxmuram 6
 ediblər 6
@@ -1545,7 +1547,6 @@ bilmirdim 5
 söndür 5
 deməmişəm 5
 sevirik 5
-etmişəm 5
 xəstə 5
 ad 5
 xəstəxanaya 5
@@ -2071,7 +2072,6 @@ babam 4
 Əsl 4
 qızlar 4
 Yerə 4
-Deyəsən 4
 dilim 4
 Tamamilə 4
 hə 4
@@ -2806,6 +2806,7 @@ Dağ 3
 tapmalıyıq 3
 görüşəcəyik 3
 qorxursan 3
+sevmir 3
 müəllimə 3
 buradayam 3
 peyğəmbər 3
@@ -3098,6 +3099,7 @@ heyrətamizdir 3
 oğurlanıb 3
 Mübadilə 3
 Mümkün 3
+Görəsən 3
 dayanın 3
 vermiş 3
 Hərtərəfli 3
@@ -4615,6 +4617,7 @@ Yemək 2
 Haralarda 2
 Məktəbin 2
 boğuldum 2
+haradayam 2
 Qızı 2
 Qızlarla 2
 əmizdirirəm 2
@@ -8050,7 +8053,6 @@ Filmin 1
 hissəsindən 1
 hədiyyəm 1
 Adın 1
-sevmir 1
 Yanğının 1
 əleyhinəyəm 1
 həssasdır 1
@@ -9854,7 +9856,6 @@ gelmisən 1
 Oğlanlar 1
 Az 1
 oturmalıyam 1
-haradayam 1
 getmisən 1
 yumma 1
 Qəzəbləndim 1
@@ -9997,4 +9998,3 @@ sadiqdir 1
 rahatdır 1
 yazarkən 1
 Tomyəqin 1
-buraya 1

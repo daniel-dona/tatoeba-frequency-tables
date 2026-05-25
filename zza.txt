@@ -1,7 +1,7 @@
 Ez 232
 ra 150
 o 122
-mi 119
+mi 120
 Tom 105
 Ma 101
 de 98
@@ -33,12 +33,12 @@ bê 35
 u 33
 dı 32
 ê 30
+Ewro 30
 To 29
 No 29
 va 28
 A 26
 ney 26
-Ewro 26
 Mi 26
 Mary 25
 bé 22
@@ -62,10 +62,10 @@ ser 16
 se 16
 keye 16
 zî 16
+esto 15
 estê 15
 keno 15
 Şima 15
-esto 14
 teber 14
 Na 14
 şena 14
@@ -103,6 +103,7 @@ ziwanê 11
 şi 10
 dé 10
 tiyad 10
+weş 10
 maya 10
 E 10
 Ganî 10
@@ -111,7 +112,6 @@ ina 9
 viri 9
 derg 9
 bo 9
-weş 9
 bêrê 9
 Nê 9
 dê 9
@@ -134,6 +134,7 @@ bı 8
 Maya 8
 bêro 8
 na 8
+pêro 8
 bena 8
 da 8
 sey 8
@@ -161,7 +162,6 @@ qet 7
 nan 7
 Ay 7
 zana 7
-pêro 7
 germ 7
 çend 7
 şırê 7
@@ -302,6 +302,7 @@ rakewa 4
 hewna 4
 bol 4
 cı 4
+pîya 4
 bîyo 4
 nêweş 4
 nêşena 4
@@ -345,6 +346,7 @@ Ella 4
 cıwiyena 4
 Amed 4
 mîlyonî 4
+torge 4
 Qandi 3
 me 3
 niyé 3
@@ -402,6 +404,7 @@ vana 3
 manê 3
 uca 3
 "Ez 3
+deynê 3
 Çi 3
 Bê 3
 terseno 3
@@ -410,7 +413,6 @@ dergo 3
 vinê 3
 şeş 3
 bîn 3
-pîya 3
 kewt 3
 kerdî 3
 berz 3
@@ -444,6 +446,7 @@ tay 3
 Mîyanê 3
 şimeno 3
 Yanni 3
+varena 3
 çinayê 3
 domanê 3
 bîyî 3
@@ -496,11 +499,11 @@ vet" 3
 kamcîn 3
 dare 3
 şiro 3
+mîlyar 3
 jê 3
 serra 3
 mîlyarî 3
 jî 3
-torge 3
 Maria 2
 karé 2
 qedina 2
@@ -628,7 +631,6 @@ zi 2
 raşto 2
 nêweşo 2
 mısna 2
-deynê 2
 Kami 2
 qelav 2
 weşo 2
@@ -708,7 +710,6 @@ Teber 2
 Vengê 2
 dana 2
 Zimistanî 2
-varena 2
 Ferq 2
 kehenî 2
 heq 2
@@ -855,7 +856,6 @@ tersa 2
 qisaya 2
 şîme 2
 hewa 2
-mîlyar 2
 Miletê 2
 kolaya 2
 xora 2
@@ -872,6 +872,7 @@ Estanbol 2
 ameya 2
 2025 2
 qedîyena 2
+vara 2
 bierşawî 2
 deyn 2
 biwazî 2
@@ -882,6 +883,7 @@ mamoste 2
 Ercan 2
 çaye 2
 unîversîte 2
+varê 2
 zıwandê 1
 Şanê 1
 Payra 1
@@ -2869,7 +2871,6 @@ tersayîme 1
 tersayê 1
 2ê 1
 Desembirî 1
-vara 1
 îmtîhan 1
 muşahid 1
 xebitîyaya 1
@@ -2945,8 +2946,11 @@ yanî 1
 mengane 1
 girewt 1
 bivaro 1
-varê 1
 Tarîxê 1
 24042026 1
 Hewê 1
 rehmet 1
+600 1
+varanêdo 1
+vewrêda 1
+weşe 1

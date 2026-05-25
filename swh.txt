@@ -1,15 +1,15 @@
-ya 1298
+ya 1299
 na 1073
 wa 756
 kwa 698
-ni 629
+ni 630
 katika 243
 kwenye 227
 kuwa 215
 za 213
 la 201
 cha 179
-sana 176
+sana 177
 Je 169
 kama 151
 wakati 148
@@ -36,8 +36,8 @@ alikuwa 83
 wake 79
 Kwa 78
 au 74
+nini 72
 kati 72
-nini 71
 sababu 69
 kitu 66
 kubwa 66
@@ -46,7 +46,7 @@ juu 63
 sio 60
 chini 60
 Amerika 58
-siku 56
+siku 57
 miaka 56
 saa 54
 hapa 52
@@ -409,6 +409,7 @@ Rafiki 12
 nyingine 12
 moyo 12
 kwako 12
+Kifaransa 12
 kuzaliwa 12
 lini 12
 kukutana 12
@@ -437,7 +438,6 @@ sigara 11
 kulia 11
 wazi 11
 Ujerumani 11
-Kifaransa 11
 kali 11
 miezi 11
 tabia 11
@@ -1012,6 +1012,7 @@ lango 5
 heshima 5
 elimu 5
 jimbo 5
+Krismasi 5
 mahusiano 5
 kwani 5
 tamaa 5
@@ -1248,7 +1249,6 @@ alitoa 4
 msaidizi 4
 radhi 4
 Kituo 4
-Krismasi 4
 Tokyo 4
 kutegemea 4
 nasibu 4
@@ -9329,3 +9329,5 @@ Alichora 1
 23 1
 Sitaenda 1
 Hatusomi 1
+kigumu 1
+Utakula 1

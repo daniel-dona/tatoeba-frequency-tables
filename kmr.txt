@@ -1,4 +1,4 @@
-Ez 1251
+Ez 1252
 e 1060
 xwe 1050
 min 1029
@@ -6,7 +6,7 @@ ji 1027
 bi 953
 li 859
 Ew 824
-ê 748
+ê 749
 û 672
 ye 653
 ku 649
@@ -174,12 +174,12 @@ rastî 37
 dema 36
 Samî 36
 dixwazî 35
+bibim 35
 dikarî 35
 porê 35
 amade 35
 dide 35
 pêk 35
-bibim 34
 sê 34
 kîjan 34
 niha 34
@@ -1337,6 +1337,7 @@ bed 4
 teqez 4
 birastî 4
 Ku 4
+serokê 4
 xwariye 4
 kêr 4
 qedand 4
@@ -1706,7 +1707,6 @@ belkî 3
 dayê 3
 Pardon 3
 rojname 3
-serokê 3
 Hindik 3
 divî 3
 xuyanî 3
@@ -3721,6 +3721,7 @@ asîmanan 2
 elektronîk 2
 dilsoztirîn 2
 seranserê 2
+aştiyê 2
 xu 2
 miz 2
 guyê 2
@@ -9292,7 +9293,6 @@ bijîşkê 1
 Kurdim 1
 Rojbaş، 1
 başim 1
-aştiyê 1
 westiyan 1
 cengê 1
 Yoga 1

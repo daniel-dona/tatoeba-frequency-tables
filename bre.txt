@@ -1,5 +1,5 @@
 a 2634
-ar 1145
+ar 1146
 e 962
  850
 da 759
@@ -8,7 +8,7 @@ bara 698
 ket 620
 an 583
 eus 496
-zo 457
+zo 458
 o 414
 ur 335
 Ar 328
@@ -33,7 +33,7 @@ Ne 183
 un 175
 Bara 173
 Ma 160
-An 158
+An 159
 oa 157
 war 155
 ho 141
@@ -42,7 +42,7 @@ Ha 137
 kafe 125
 emañ 124
 'ta 124
-er 117
+er 116
 he 116
 prenet 116
 vara 114
@@ -116,11 +116,11 @@ evel 49
 botoù 49
 eur 48
 Yann 48
+dour 47
 Gant 47
 Doue 47
 para 47
 oc'h 46
-dour 46
 Emañ 46
 bara-mañ 46
 kavet 45
@@ -130,13 +130,13 @@ mar-plij 45
 Pelec'h 44
 c'hoazh 44
 Pa 44
-En 43
 ti 43
 bezañ 43
 ouzh 43
 raen 43
 ganti 43
 rit 42
+En 42
 all 42
 deoc'h 42
 hep 42
@@ -294,7 +294,6 @@ galleg 20
 redek 20
 bep 20
 goude 20
-ivez 20
 vezañ 20
 klevet 20
 emaint 20
@@ -307,6 +306,7 @@ marv 19
 tri 19
 sikour 19
 skol 19
+ivez 19
 gwellañ 19
 prenañ 19
 Kaoc'h 19
@@ -1278,7 +1278,6 @@ koll 4
 mad 4
 nul 4
 plijadur 4
-dor 4
 loa 4
 c'hog 4
 Arru 4
@@ -1624,6 +1623,7 @@ truilhenn 3
 c'harzh 3
 Dibaot 3
 teilh 3
+dor 3
 welout 3
 kac'hat 3
 prad 3

@@ -1,6 +1,6 @@
 da 10772
 a 4317
-ba 4281
+ba 4282
 ya 3857
 na 3800
 yi 2498
@@ -16,9 +16,9 @@ shi 1096
 za 1067
 wannan 1060
 mu 981
-su 957
+su 958
+Ba 944
 wani 944
-Ba 943
 kuma 933
 ce 898
 Ya 870
@@ -473,6 +473,7 @@ Yi 56
 haɗu 56
 ƙarfi 56
 kadan 55
+sayar 55
 sauran 55
 kar 55
 Kin 55
@@ -485,7 +486,6 @@ sabuwar 54
 Abin 54
 kamfanin 54
 bashi 54
-sayar 54
 aikata 54
 kwana 53
 mota 53
@@ -1951,6 +1951,7 @@ haƙa 9
 almara 9
 kamun 9
 fadin 9
+itatuwa 9
 halittu 9
 Tare 9
 shagalin 9
@@ -2135,7 +2136,6 @@ Daidai 8
 dalibai 8
 Dukanmu 8
 gabar 8
-itatuwa 8
 Elizabeth 8
 kishi 8
 ladabi 8
@@ -4002,6 +4002,7 @@ Jesus 4
 kyawawa 4
 Tuni 4
 Rita 4
+ƴaƴan 4
 Kwanaki 4
 "Kada 4
 wayewa 4
@@ -5003,7 +5004,6 @@ Kanar 3
 yaso 3
 Wayar 3
 kyamarar 3
-ƴaƴan 3
 Fiye 3
 radar 3
 Kwai 3

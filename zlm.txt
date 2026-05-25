@@ -28,7 +28,7 @@ apa 111
 ke 108
 rasa 98
 macam 92
-lagi 88
+lagi 89
 Dia 86
 takde 74
 kita 70
@@ -165,6 +165,7 @@ sana 13
 Diorang 13
 baca 13
 Tolong 13
+jangan 13
 tahun 13
 Jangan 13
 اکو 13
@@ -178,7 +179,6 @@ pompuan 12
 sorang 12
 Mana 12
 camtu 12
-jangan 12
 Benda 12
 minum 12
 pikir 12
@@ -462,6 +462,7 @@ pintu 4
 lupa 4
 happy 4
 pinggan 4
+bercakap 4
 kacau 4
 terima 4
 hisap 4
@@ -594,7 +595,6 @@ movie 3
 layan 3
 gaduh 3
 kotor 3
-bercakap 3
 jauh 3
 puluh 3
 angkat 3
@@ -2379,3 +2379,5 @@ rahsia 1
 ek 1
 santai 1
 wei 1
+Ba 1
+Cukuplah 1

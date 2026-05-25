@@ -1,16 +1,16 @@
-on 1582
-Ma 946
+on 1586
+Ma 949
 ei 754
 Tom 623
-Kas 454
-sa 439
+Kas 455
+sa 441
 Ta 357
 et 349
-See 283
+See 284
 ma 227
 seda 214
 oma 206
-see 193
+see 194
 oli 172
 ja 161
 ta 154
@@ -27,20 +27,21 @@ oled 102
 mulle 99
 mu 93
 midagi 91
+Nad 91
 mind 90
 selle 90
-Nad 89
 ära 86
 minu 85
 palju 81
 Kui 80
 Miks 78
 Minu 73
+Tomi 73
 sulle 72
 tahan 72
-Tomi 72
 sind 70
 meeldib 70
+Kus 69
 su 69
 kõik 68
 siin 68
@@ -48,19 +49,18 @@ mida 68
 Mary 67
 nii 66
 Mis 66
-Kus 66
 veel 65
 Mu 65
 Mida 64
-Kes 61
+Kes 62
 sinu 60
 hea 59
 sul 56
 välja 54
+te 54
 mis 53
 ema 53
 teha 53
-te 53
 saa 52
 Palun 51
 Mulle 51
@@ -72,12 +72,12 @@ me 48
 Kuidas 45
 olnud 44
 isa 43
+raha 42
 tagasi 42
 Tomile 42
 pean 42
 Tomil 42
 talle 41
-raha 41
 aga 40
 Ära 40
 tema 40
@@ -101,13 +101,13 @@ inglise 35
 tean 35
 rääkida 35
 taha 34
+teie 34
 üle 34
 eile 34
 räägi 34
 keegi 34
 olla 34
 aru 33
-teie 33
 sellest 33
 Tal 33
 liiga 33
@@ -159,6 +159,7 @@ Meil 24
 valmis 23
 naine 23
 tegi 23
+olete 23
 Sul 23
 õpetaja 23
 auto 23
@@ -170,7 +171,6 @@ alati 22
 läks 22
 teine 22
 parem 22
-olete 22
 raamatu 22
 aastat 22
 üles 22
@@ -211,6 +211,7 @@ Kass 18
 taga 18
 Need 18
 koera 18
+asub 18
 raske 18
 selles 18
 elada 18
@@ -224,7 +225,6 @@ tõesti 17
 enda 17
 minust 17
 Siin 17
-asub 17
 peaks 17
 pead 17
 suri 17
@@ -250,6 +250,7 @@ kogu 16
 aidata 16
 õpin 16
 kass 16
+sina 16
 sinna 16
 kuu 16
 kaua 16
@@ -271,7 +272,6 @@ töötab 15
 keele 15
 polnud 15
 lihtne 15
-sina 15
 näinud 15
 oskab 15
 välismaal 15
@@ -313,6 +313,7 @@ ees 13
 Head 13
 ostis 13
 puu 13
+all 13
 korda 13
 piisavalt 13
 sisse 13
@@ -332,7 +333,6 @@ esimene 12
 kirja 12
 uue 12
 Isa 12
-all 12
 maailma 12
 On 12
 lahti 12
@@ -359,6 +359,7 @@ elame 11
 vihkan 11
 probleem 11
 haige 11
+huvitav 11
 uuesti 11
 Tule 11
 Bostonisse 11
@@ -379,6 +380,7 @@ uut 10
 juurde 10
 varem 10
 pikk 10
+päeva 10
 osta 10
 poleks 10
 käib 10
@@ -404,7 +406,6 @@ veini 10
 juua 10
 sööb 10
 võin 10
-huvitav 10
 eesti 10
 Bostonis 10
 pidanud 10
@@ -417,6 +418,7 @@ olevat 9
 meeldis 9
 Jah 9
 raamatuid 9
+kala 9
 riik 9
 silmad 9
 magama 9
@@ -424,7 +426,6 @@ mängib 9
 Ameerika 9
 John 9
 vihane 9
-päeva 9
 rikas 9
 tööle 9
 lähedal 9
@@ -452,6 +453,7 @@ elavad 9
 täiesti 8
 armas 8
 tunnen 8
+tulen 8
 kuulnud 8
 võtta 8
 Su 8
@@ -460,7 +462,6 @@ Ema 8
 igal 8
 saksa 8
 tunne 8
-kala 8
 uus 8
 surma 8
 kümme 8
@@ -527,7 +528,6 @@ umbes 7
 küll 7
 Jaapanis 7
 endale 7
-tulen 7
 aias 7
 töö 7
 Oli 7
@@ -618,6 +618,7 @@ läinud 6
 punane 6
 järgmisel 6
 väärt 6
+seitse 6
 Mees 6
 maailm 6
 ju 6
@@ -726,7 +727,6 @@ ellu 5
 järgmine 5
 kuul 5
 Üks 5
-seitse 5
 ostsid 5
 kleit 5
 keelest 5
@@ -784,6 +784,7 @@ anna 5
 tark 5
 pere 5
 hiljaks 5
+tulevad 5
 kolmas 5
 Neil 5
 Teil 5
@@ -860,6 +861,7 @@ räägivad 5
 portugali 5
 Aafrikas 5
 Kreekas 5
+Keda 5
 Tõenäoliselt 5
 mööda 4
 tuul 4
@@ -992,7 +994,6 @@ keelde 4
 austab 4
 tütart 4
 jääd 4
-tulevad 4
 purjus 4
 usub 4
 kannab 4
@@ -1076,12 +1077,14 @@ tugevam 4
 kasutab 4
 soovid 4
 silmas 4
+ujub 4
 oodata 4
 ehitas 4
 televiisorit 4
 sild 4
 jalga 4
 vigu 4
+järves 4
 võtnud 4
 ilmselt 4
 leidsin 4
@@ -1253,6 +1256,7 @@ kuulab 3
 voodis 3
 tüdruksõber 3
 külalisi 3
+vee 3
 kirjutan 3
 häbelik 3
 ilmselgelt 3
@@ -1468,7 +1472,7 @@ elas 3
 Toas 3
 hilja 3
 Maal 3
-ujub 3
+vihmavari 3
 Jää 3
 sünnipäev 3
 osas 3
@@ -1482,7 +1486,6 @@ pudelit 3
 Mõlemad 3
 puidust 3
 tänava 3
-järves 3
 juuksed 3
 Tokyos 3
 prillid 3
@@ -1506,6 +1509,7 @@ hauguvad 3
 Kreeka 3
 karusid 3
 karud 3
+Tulen 3
 norra 3
 soome 3
 Taani 3
@@ -1516,7 +1520,7 @@ Austraalias 3
 elektrik 3
 lõikas 3
 Isegi 3
-Keda 3
+ootad 3
 ütled 3
 ärkas 3
 minuta 3
@@ -1814,7 +1818,6 @@ verd 2
 hoone 2
 jood 2
 haiglas 2
-vee 2
 laula 2
 kingitus 2
 austan 2
@@ -2229,7 +2232,6 @@ austavad 2
 populaarne 2
 kangelane 2
 voodi 2
-vihmavari 2
 alkoholi 2
 Ameerikas 2
 korterisse 2
@@ -2316,6 +2318,7 @@ vabariik 2
 Minul 2
 püüdnud 2
 laste 2
+kuuled 2
 õppisime 2
 Tallinn 2
 hotellis 2
@@ -2340,7 +2343,6 @@ Türgis 2
 unistus 2
 Jahimees 2
 ronida 2
-Tulen 2
 Rääkige 2
 Pariisis 2
 araabia 2
@@ -2500,6 +2502,7 @@ Ilm 2
 Jumal 2
 esmaspäev 2
 Žanna 2
+laulsin 2
 Küprosele 2
 oligarhide 2
 tõlgitud 2
@@ -5177,7 +5180,6 @@ inglanna 1
 Milliel 1
 roosavereline 1
 köita 1
-kuuled 1
 kaota 1
 talenti 1
 roose 1
@@ -5389,7 +5391,6 @@ põhimõteteta 1
 Abiellume 1
 ameeriklane 1
 Ameerikast 1
-ootad 1
 väljavalitu 1
 armastame 1
 vältida 1
@@ -6467,7 +6468,6 @@ Ajalugu 1
 kordub 1
 Muusika 1
 vaarika 1
-laulsin 1
 ajakirja 1
 pealkirjades 1
 lõpeb 1
@@ -6847,3 +6847,7 @@ Bern 1
 Riias 1
 Jakutskis 1
 Unutma 1
+Nädalas 1
+ujun 1
+Elav 1
+ujusid 1

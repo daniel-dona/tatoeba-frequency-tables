@@ -1,16 +1,16 @@
-er 2851
-Eg 2250
-Tom 1656
-ikkje 1115
+er 2856
+Eg 2253
+Tom 1658
+ikkje 1116
 å 1047
-det 958
-i 930
+det 959
+i 935
 du 881
 på 867
 har 764
 ein 734
-Det 730
-til 713
+Det 732
+til 714
 Han 631
 meg 527
 var 497
@@ -21,7 +21,7 @@ at 411
 Ho 404
 deg 380
 og 370
-eit 359
+eit 360
 for 347
 av 324
 Vi 323
@@ -31,11 +31,11 @@ kan 264
 Dei 250
 Er 249
 fransk 249
-ei 246
+ei 247
 seg 243
 om 224
 likar 220
-Kor 214
+Kor 218
 Kva 208
 Mary 192
 vil 181
@@ -70,13 +70,13 @@ mykje 118
 dag 117
 går 116
 opp 115
-sin 114
+sin 115
 gå 112
 denne 109
 din 107
 Har 103
 aldri 99
-bur 98
+bur 99
 Boston 98
 snakkar 97
 so 97
@@ -117,8 +117,8 @@ Sami 70
 alt 69
 høg 68
 I 65
+Den 65
 Me 64
-Den 64
 nokon 64
 alle 63
 laga 62
@@ -153,10 +153,10 @@ tid 51
 norsk 51
 sjå 50
 sitt 50
+Ein 49
 språk 49
 vondt 49
 sidan 48
-Ein 48
 læra 48
 ditt 48
 si 48
@@ -172,12 +172,12 @@ då 45
 få 45
 måtte 45
 framleis 44
+ligg 44
 dokker 44
 vegen 43
 stor 43
 frakken 43
 god 43
-ligg 43
 vanskeleg 42
 lenger 42
 di 42
@@ -213,6 +213,7 @@ sjølv 35
 drikk 35
 verta 35
 Sjå 34
+under 34
 snill 34
 att 34
 sant 34
@@ -227,7 +228,6 @@ visste 33
 ganske 33
 Ver 33
 Gøym 33
-under 32
 kjenner 32
 rett 32
 Gjev 32
@@ -248,12 +248,12 @@ ofte 30
 åt 30
 me 30
 dagen 30
+veke 30
 trudde 30
 slutta 30
 døydde 29
 ting 29
 land 29
-veke 29
 bra 29
 begynte 29
 lenge 29
@@ -283,6 +283,7 @@ kjøpa 27
 elska 26
 mann 26
 får 26
+vatn 26
 Desse 26
 brev 26
 klar 26
@@ -295,7 +296,6 @@ kor 25
 lag 25
 vår 25
 nesten 25
-vatn 25
 rommet 25
 Alt 25
 Så 25
@@ -338,6 +338,7 @@ gjev 22
 Jupiter 22
 nye 22
 Europa 22
+paraply 22
 opera 22
 søv 21
 liv 21
@@ -347,11 +348,11 @@ jo 21
 heiter 21
 fem 21
 Skal 21
-paraply 21
 brevet 21
 fødd 21
 brua 21
 regna 21
+dykkar 21
 No 20
 åleine 20
 stort 20
@@ -362,7 +363,6 @@ time 20
 Nei 20
 Veit 20
 Algerie 20
-dykkar 20
 forstår 20
 Var 20
 brillene 20
@@ -394,6 +394,7 @@ Gå 19
 ringde 19
 dit 19
 kake 19
+paraplyen 19
 sola 19
 kamera 19
 korleis 18
@@ -417,7 +418,6 @@ drakk 18
 høgt 18
 briller 18
 takk 18
-paraplyen 18
 Minecraft 18
 lese 17
 Far 17
@@ -434,6 +434,7 @@ skjer 17
 tidleg 17
 neste 17
 musikk 17
+pengane 17
 håpar 17
 viktig 17
 tjukk 17
@@ -465,7 +466,6 @@ Gjer 16
 ti 16
 hatt 16
 éin 16
-pengane 16
 liste 16
 flytande 16
 Snakkar 16
@@ -633,6 +633,7 @@ fjellet 12
 hand 12
 sanninga 12
 tenkte 12
+dagar 12
 hjelp 12
 tretti 12
 piano 12
@@ -682,6 +683,7 @@ beste 11
 jente 11
 bestemt 11
 sprang 11
+sju 11
 Trur 11
 omsett 11
 kanskje 11
@@ -743,7 +745,6 @@ faktisk 10
 møta 10
 ynskja 10
 høyrer 10
-dagar 10
 seks 10
 gode 10
 Skund 10
@@ -754,6 +755,7 @@ born 10
 hugsar 10
 Drikk 10
 høgre 10
+sym 10
 dyrt 10
 skriva 10
 leita 10
@@ -821,7 +823,6 @@ måte 9
 halv 9
 irriterande 9
 hjelper 9
-sju 9
 arbeider 9
 begge 9
 by 9
@@ -889,6 +890,7 @@ stad 8
 teken 8
 stein 8
 Jenta 8
+vatnet 8
 møtte 8
 gata 8
 anna 8
@@ -1037,6 +1039,7 @@ hjå 7
 jordskjelv 7
 særleg 7
 klarer 7
+fisk 7
 reisa 7
 dame 7
 luktar 7
@@ -1135,6 +1138,7 @@ flaug 6
 tennis 6
 halda 6
 set 6
+levande 6
 noka 6
 liknar 6
 kvinne 6
@@ -1160,13 +1164,11 @@ Foreldra 6
 Del 6
 vaska 6
 bekymra 6
-sym 6
 foten 6
 lettare 6
 slikt 6
 fyrst 6
 skoa 6
-fisk 6
 kniv 6
 fortald 6
 arbeid 6
@@ -1287,7 +1289,6 @@ Ken 5
 Kast 5
 innom 5
 komen 5
-vatnet 5
 kome 5
 Frå 5
 Toget 5
@@ -1323,6 +1324,7 @@ helga 5
 hoppa 5
 ambassaden 5
 Min 5
+veka 5
 TV 5
 lyg 5
 Jeg 5
@@ -1507,7 +1509,6 @@ da 4
 live 4
 Begge 4
 fare 4
-levande 4
 månaden 4
 sånn 4
 kunna 4
@@ -1563,7 +1564,6 @@ barnet 4
 Må 4
 klikka 4
 døy 4
-veka 4
 Gi 4
 Bussen 4
 øyer 4
@@ -3444,6 +3444,7 @@ jamvel 2
 snøgt 2
 morosam 2
 gåver 2
+fisken 2
 vekte 2
 fersk 2
 halvt 2
@@ -6781,7 +6782,6 @@ Pennen 1
 omsetjing 1
 idiom 1
 etla 1
-fisken 1
 overskodeleg 1
 framtid 1
 prisar 1
@@ -7191,3 +7191,4 @@ Steinen 1
 Stein 1
 Ladogasjøen 1
 tilfrosen 1
+Helsinki 1
