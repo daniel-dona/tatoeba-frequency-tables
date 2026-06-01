@@ -1,10 +1,10 @@
-Aku 190
+Aku 191
 ora 149
 Tom 128
 sing 75
 iku 55
+iki 53
 Kowé 53
-iki 52
 aku 52
 ing 51
 nang 47
@@ -14,11 +14,11 @@ ana 34
 kowé 33
 basa 33
 apa 32
+dhéwé 30
 kuwi 30
 seneng 30
-dhéwé 29
+lunga 29
 Iki 28
-lunga 28
 kudu 27
 duwé 27
 wis 27
@@ -43,14 +43,14 @@ sinau 18
 manèh 17
 gawé 17
 buku 17
+kaya 16
 ta 16
 kabèh 16
 luwih 15
+Awak 15
 lan 15
 dina 15
-kaya 15
 nèng 15
-Awak 14
 kéné 14
 Ora 14
 yèn 14
@@ -239,6 +239,7 @@ putih 4
 Manuké 3
 wit 3
 pirang 3
+rasané 3
 éntuk 3
 2000 3
 nglakoni 3
@@ -343,7 +344,6 @@ limunipun 2
 dipunanggé 2
 sanes 2
 Bapaké 2
-rasané 2
 wegah 2
 wedharaké 2
 tiyang 2
@@ -470,6 +470,7 @@ enak 2
 Bojoné 2
 panganan 2
 daging 2
+misanan 2
 kaos 2
 kètokané 2
 jujur 2
@@ -524,6 +525,7 @@ menang 2
 sinahu 2
 dakkandhani 2
 baé 2
+mrono 2
 Genéya 2
 Riga 2
 Lètlan 2
@@ -1175,7 +1177,6 @@ Cina 1
 ꦄꦏ꧀ꦮꦺꦴꦫꦠꦲꦸꦩꦔꦤ꧀ꦥꦔꦤꦤ꧀ꦕꦶꦤ꧉ 1
 ꦄꦏꦸꦩꦔꦤ꧀ꦢꦒꦶꦁꦩꦺꦃꦱꦧꦼꦤ꧀ꦢꦶꦤ꧉ 1
 ꦝꦺꦮꦺꦏꦺꦏꦼꦱꦺꦢ꧀꧈ 1
-misanan 1
 ꦲꦏꦸꦢꦸꦮꦺꦩꦶꦱꦤꦤ꧀ꦭꦺꦴꦫꦺꦴ꧉ 1
 dakcoba 1
 ꦮꦶꦱ꧀ꦢꦏ꧀ꦕꦺꦴꦧ꧉ 1
@@ -1493,7 +1494,6 @@ nonton 1
 ꦲꦤꦏ꧀ꦏꦸꦧꦏꦭ꧀ꦢꦢꦶꦒꦸꦫꦸ꧉ 1
 ꦄꦪꦺꦴꦔꦼꦤ꧀ꦠꦺꦤꦶꦲꦶꦁꦗꦧꦧꦲꦺ꧉ 1
 ꦝꦺꦮꦺꦏꦺꦧꦏꦭ꧀ꦏꦸꦢꦸꦠꦸꦏꦸꦲꦶꦏꦸꦏꦧꦺꦃ꧉ 1
-mrono 1
 ꦲꦏꦸꦧ꧀ꦭꦱ꧀ꦲꦺꦴꦫꦒꦼꦊꦩ꧀ꦩꦿꦺꦴꦤꦺꦴ꧉ 1
 Jancuk 1
 ꦗꦚ꧀ꦕꦸꦏ꧀ꦏꦧꦺꦃ 1
@@ -2307,3 +2307,9 @@ omongane 1
 Lho 1
 mlakune 1
 pincang 1
+ꦲꦮꦏ꧀ꦝꦺꦮꦺꦩꦶꦱꦤꦤ꧀꧈ 1
+diolèhi 1
+ꦲꦏꦸꦢꦶꦲꦺꦴꦭꦺꦃꦲꦶꦭꦸꦔꦩꦿꦺꦴꦤꦺꦴ꧉ 1
+Semangka 1
+bawang 1
+ꦱꦼꦩꦁꦏꦲꦶꦏꦶꦫꦱꦤꦺꦏꦪꦧꦮꦁ꧉ 1

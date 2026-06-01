@@ -1,12 +1,12 @@
-on 1586
-Ma 949
+on 1587
+Ma 950
 ei 754
 Tom 623
 Kas 455
 sa 441
 Ta 357
-et 349
-See 284
+et 350
+See 285
 ma 227
 seda 214
 oma 206
@@ -41,9 +41,9 @@ sulle 72
 tahan 72
 sind 70
 meeldib 70
+kõik 69
 Kus 69
 su 69
-kõik 68
 siin 68
 mida 68
 Mary 67
@@ -56,7 +56,7 @@ Kes 62
 sinu 60
 hea 59
 sul 56
-välja 54
+välja 55
 te 54
 mis 53
 ema 53
@@ -96,6 +96,7 @@ tahab 37
 vaja 36
 koju 35
 kas 35
+olla 35
 teda 35
 inglise 35
 tean 35
@@ -106,7 +107,6 @@ teie 34
 eile 34
 räägi 34
 keegi 34
-olla 34
 aru 33
 sellest 33
 Tal 33
@@ -170,6 +170,7 @@ ikka 22
 alati 22
 läks 22
 teine 22
+lapsed 22
 parem 22
 raamatu 22
 aastat 22
@@ -180,15 +181,15 @@ natuke 22
 miks 22
 teada 21
 Keegi 21
-lapsed 21
+praegu 21
 Millal 21
 mina 21
 üks 21
 sinuga 21
 ilma 20
 tuleb 20
-praegu 20
 meeldivad 20
+Täna 20
 minuga 20
 oleme 20
 pea 20
@@ -198,7 +199,6 @@ läbi 19
 raamatut 19
 Ei 19
 kiiresti 19
-Täna 19
 elan 19
 saada 19
 väsinud 19
@@ -227,6 +227,7 @@ minust 17
 Siin 17
 peaks 17
 pead 17
+kuu 17
 suri 17
 Kell 17
 inimesed 16
@@ -252,7 +253,6 @@ aidata 16
 kass 16
 sina 16
 sinna 16
-kuu 16
 kaua 16
 peab 15
 kord 15
@@ -268,6 +268,7 @@ vend 15
 teeb 15
 teinud 15
 elu 15
+vett 15
 töötab 15
 keele 15
 polnud 15
@@ -293,7 +294,6 @@ vanem 14
 juhtus 14
 õigus 14
 keeles 14
-vett 14
 ennast 14
 emakeel 14
 Mari 14
@@ -308,6 +308,7 @@ kindel 14
 kaasa 13
 teadnud 13
 kedagi 13
+külm 13
 kõike 13
 ees 13
 Head 13
@@ -315,6 +316,7 @@ ostis 13
 puu 13
 all 13
 korda 13
+Kuhu 13
 piisavalt 13
 sisse 13
 nägin 13
@@ -327,7 +329,6 @@ pani 12
 Pole 12
 pool 12
 üksi 12
-külm 12
 kohe 12
 esimene 12
 kirja 12
@@ -339,7 +340,6 @@ lahti 12
 teen 12
 meile 12
 kooli 12
-Kuhu 12
 lihtsalt 12
 rääkinud 12
 õppima 12
@@ -571,12 +571,15 @@ kirjutab 7
 abi 7
 vabandust 7
 maasikaid 7
+poiss 7
 saaksin 7
+peal 7
 linn 7
 autot 7
 mängida 7
 tagant 7
 arvab 7
+nägi 7
 öelnud 7
 jään 7
 käinud 7
@@ -599,6 +602,7 @@ huvitatud 7
 tõsi 7
 küsis 7
 koht 7
+üsna 7
 Hei 7
 aastal 7
 kardina 7
@@ -646,19 +650,17 @@ ajal 6
 kiire 6
 saaks 6
 kuid 6
-poiss 6
+eriti 6
 ootama 6
 Mõned 6
 küsimus 6
 ütle 6
 ütlema 6
 must 6
-peal 6
 tulid 6
 oskad 6
 võimalik 6
 laenata 6
-nägi 6
 kirjutada 6
 abielus 6
 last 6
@@ -690,7 +692,6 @@ otsa 6
 Ole 6
 teeskles 6
 saame 6
-üsna 6
 tõusma 6
 poodi 6
 jälle 6
@@ -762,7 +763,6 @@ elus 5
 Lähme 5
 helistan 5
 kohtuda 5
-eriti 5
 Lapsed 5
 õppinud 5
 kaamera 5
@@ -978,6 +978,7 @@ soe 4
 temast 4
 suurt 4
 raamatud 4
+käes 4
 maitsev 4
 Loodan 4
 Vesi 4
@@ -1055,6 +1056,7 @@ omad 4
 võtab 4
 pikem 4
 võiksid 4
+jõi 4
 aitab 4
 puue 4
 Bostonist 4
@@ -1279,7 +1281,6 @@ Brasiilias 3
 lai 3
 Ah 3
 sattus 3
-käes 3
 teeksin 3
 võlgu 3
 endast 3
@@ -1414,7 +1415,6 @@ minule 3
 eales 3
 õnnelikud 3
 vait 3
-jõi 3
 tennist 3
 Maryga 3
 nõu 3
@@ -2137,6 +2137,7 @@ vastata 2
 appi 2
 autos 2
 hoida 2
+võiks 2
 olukorras 2
 sünnipäevaks 2
 sport 2
@@ -2232,6 +2233,7 @@ austavad 2
 populaarne 2
 kangelane 2
 voodi 2
+pruun 2
 alkoholi 2
 Ameerikas 2
 korterisse 2
@@ -4428,7 +4430,6 @@ Leidsin 1
 sõnad 1
 kopeeri-kleebi 1
 õnnestu 1
-võiks 1
 tasub 1
 teinegi 1
 jutuks 1
@@ -4820,7 +4821,6 @@ Mängib 1
 Tennist 1
 Mary'ga 1
 kolmteist 1
-pruun 1
 Katel 1
 õpetajaks 1
 liikmeks 1
@@ -6851,3 +6851,9 @@ Nädalas 1
 ujun 1
 Elav 1
 ujusid 1
+Lora 1
+jooksid 1
+päikse 1
+sätendav 1
+emajõgi 1
+ennustan 1

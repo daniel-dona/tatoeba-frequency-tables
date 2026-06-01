@@ -1,19 +1,19 @@
-on 29489
-ei 10803
-Tom 9924
+on 29494
+ei 10804
+Tom 9925
 Hän 8487
 ja 6913
 että 6907
 Tomi 6404
-ole 6368
+ole 6369
 oli 5776
 En 4984
 Minä 4487
-Se 3814
+Se 3818
 hän 3611
 se 3435
 kuin 3384
-Olen 3027
+Olen 3029
 ovat 2957
 sinä 2884
 sen 2767
@@ -32,7 +32,7 @@ minun 1941
 mutta 1855
 paljon 1852
 Mitä 1830
-ollut 1826
+ollut 1827
 vain 1799
 minua 1751
 He 1703
@@ -95,7 +95,7 @@ tiedä 841
 enää 838
 tätä 830
 jotain 829
-sinulla 822
+sinulla 823
 On 806
 puhua 802
 tietää 797
@@ -114,8 +114,8 @@ tänään 726
 kaksi 721
 halua 712
 ennen 699
+koko 679
 aikaa 679
-koko 678
 sitten 677
 hänet 663
 hänelle 654
@@ -129,7 +129,7 @@ Marin 610
 Hänellä 605
 yksi 604
 tuo 601
-tässä 575
+tässä 576
 eilen 574
 he 573
 ettei 571
@@ -175,7 +175,7 @@ me 474
 tuon 473
 sinut 471
 miten 468
-aivan 464
+aivan 465
 auttaa 460
 siellä 458
 Minusta 453
@@ -193,8 +193,8 @@ monta 419
 Tässä 417
 teki 415
 tästä 412
+tosi 411
 jotka 410
-tosi 409
 tänä 407
 Olemme 406
 Anna 405
@@ -203,7 +203,7 @@ myös 402
 jonka 401
 vuonna 400
 Tiedän 398
-Tuomo 395
+Tuomo 396
 yksin 394
 kertoa 394
 Nyt 393
@@ -268,8 +268,8 @@ tullut 328
 lähteä 326
 – 325
 Te 323
+mikä 322
 hyvää 321
-mikä 321
 halusi 319
 saada 317
 ottaa 316
@@ -481,11 +481,11 @@ lainata 183
 Onpa 183
 jossa 183
 mistä 183
+Ota 183
 läpi 182
 ajaa 182
 mahdollista 182
 mennyt 182
-Ota 182
 kuuluu 181
 paras 180
 lainkaan 180
@@ -726,13 +726,13 @@ isä 119
 kuuma 119
 sekä 119
 lapsia 118
+henkilö 118
 rahat 118
 kestää 118
 Marya 118
 pidät 117
 koiran 117
 minuuttia 117
-henkilö 117
 asua 117
 ovi 117
 hotellissa 117
@@ -741,11 +741,11 @@ päätti 116
 palaa 116
 Lapset 116
 Eilen 116
+asiassa 116
 nälkä 115
 häneen 115
 laittoi 115
 oikea 115
-asiassa 115
 teen 115
 myöhään 114
 minuun 114
@@ -765,6 +765,7 @@ pitävät 113
 väärässä 113
 edessä 113
 jätti 113
+viikon 113
 kaikkea 113
 Mies 113
 ihmisten 113
@@ -778,7 +779,6 @@ kuusi 112
 luulet 112
 voisin 112
 yhteen 112
-viikon 112
 eniten 112
 rikki 112
 vanhempi 112
@@ -831,6 +831,7 @@ Ovatko 107
 jopa 107
 äiti 106
 matkalla 106
+maa 106
 Heidän 106
 luottaa 106
 joitakin 106
@@ -838,7 +839,6 @@ Vihaan 106
 äitini 106
 tuosta 106
 Pysy 106
-maa 105
 huoneessa 105
 heidät 105
 menivät 105
@@ -1036,6 +1036,7 @@ käymään 85
 Ajattelin 85
 koiraa 84
 veljeni 84
+kallis 84
 Mikset 84
 kotoisin 84
 kiinnosta 84
@@ -1043,7 +1044,6 @@ työskentelee 83
 kohtaan 83
 ymmärtänyt 83
 juttu 83
-kallis 83
 selittää 83
 tavannut 83
 kahdeksan 83
@@ -1189,6 +1189,7 @@ virheen 73
 vauva 73
 pääsi 73
 naiset 73
+Ottakaa 73
 vakavasti 73
 puhunut 73
 korkea 72
@@ -1200,7 +1201,6 @@ oman 72
 varaa 72
 mihinkään 72
 jäljellä 72
-Ottakaa 72
 neuvoa 72
 luulin 72
 suoraan 71
@@ -1231,6 +1231,7 @@ Ketkä 70
 talonsa 69
 kuukautta 69
 pääsen 69
+Valitettavasti 69
 kertoo 69
 sunnuntaisin 69
 Osaan 69
@@ -1250,7 +1251,6 @@ Mää 69
 heitti 68
 yötä 68
 paikalle 68
-Valitettavasti 68
 englannin 68
 vaivaa 68
 sota 68
@@ -1811,6 +1811,7 @@ Suomen 47
 Vanhempani 47
 pidempi 47
 hymyili 47
+syömässä 47
 vastuussa 47
 todellakaan 47
 heillä 47
@@ -1854,7 +1855,6 @@ Kumpi 46
 yhtäkkiä 46
 numero 46
 elämän 46
-syömässä 46
 käyttävät 46
 tarvinnut 46
 tilaa 46
@@ -4832,6 +4832,7 @@ puolelle 17
 lauseessa 17
 liikkuu 17
 paska 17
+pettymys 17
 helpolta 17
 papin 17
 helvetti 17
@@ -5724,7 +5725,6 @@ tietysti 14
 ovat” 14
 ”Ne 14
 viimeiset 14
-pettymys 14
 vuosiin 14
 Ollaan 14
 lukittu 14
@@ -6271,6 +6271,7 @@ söimme 13
 viel 13
 9 13
 sieni 13
+kinkkua 13
 tylsistynyt 13
 ratkaiseminen 13
 osuu 13
@@ -8003,7 +8004,6 @@ Eläimet 10
 valkoisella 10
 Tieteilijät 10
 kuunnelkaa 10
-kinkkua 10
 kansa 10
 julisti 10
 parran 10

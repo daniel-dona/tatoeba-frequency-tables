@@ -4,7 +4,7 @@ n 235
 di 226
 Tom 220
 Ziri 216
-i 189
+i 191
 Ma 161
 ar 151
 Mani 149
@@ -18,7 +18,7 @@ zi 103
 Wer 98
 Ad 93
 Maɣer 91
-wer 89
+wer 90
 Yanni 88
 taddart 86
 Ttuɣa 86
@@ -26,14 +26,14 @@ da 78
 aṭṭas 71
 din 67
 Man 65
+Wi 64
 min 63
-Wi 62
  61
 deg 61
 ḏ 59
 ɣa 55
 Mary 53
-qa 52
+qa 53
 as 50
 Nettat 48
 ked 48
@@ -62,10 +62,10 @@ manaya 34
 mliḥ 32
 Ur 31
 ijjen 31
+aman 30
 walu 30
 Mamek 30
 abrid 30
-aman 29
 marra 28
 xseɣ 28
 Cekk 27
@@ -110,6 +110,7 @@ tinmel 20
 ac 19
 sɣeɣ 19
 ssneɣ 19
+cay 19
 As-d 19
 cwayt 18
 Cek 18
@@ -118,7 +119,6 @@ Tum 18
 ass-a 18
 tutlayt 18
 manaynni 18
-cay 18
 uɣerbaz 18
 Cemm 17
 mani 17
@@ -135,6 +135,7 @@ ijj 16
 xef 16
 lux 16
 qa-t 16
+dd 16
 Ɣer-i 16
 dihi 16
 Qa-yi 16
@@ -152,7 +153,6 @@ tidet 14
 azirar 14
 ula 14
 izdeɣ 14
-dd 14
 waha 14
 ḏi 14
 Ttexseɣ 14
@@ -223,7 +223,6 @@ bla 10
 ṯ 10
 tiwecca 10
 ḥuma 10
-Tḥakiɣ 10
 maɣer 10
 Ṯexẓar 10
 Ggureɣ 10
@@ -289,6 +288,7 @@ Ijjen 8
 iḍlisen 8
 teɛna 8
 qqar 8
+Tḥakiɣ 8
 Qa-t 8
 Ttuɣa-tt 8
 yeṭṭes 8
@@ -888,6 +888,7 @@ Yedwel-d 3
 yedwel-d 3
 Nekkes 3
 wargaz 3
+tameddit-a 3
 qqariɣ 3
 yersa 3
 tuddayt 3
@@ -911,6 +912,7 @@ yeḍfer 3
 Da 3
 inasiwen 3
 Ɣer-sen 3
+Tteḥakiɣ 3
 Yefreẓ 3
 wawal-nnec 3
 wawal-nnek 3
@@ -1333,6 +1335,7 @@ ccin 2
 imesgnaf 2
 swařen 2
 yečča 2
+Yeswa 2
 Yesnena 2
 lmedeɣ 2
 ramḍan 2
@@ -1512,7 +1515,6 @@ imeggura 2
 jdid 2
 yeḥma 2
 aɛcci-ya 2
-tameddit-a 2
 yekkmel 2
 irẓu 2
 yewḍa 2
@@ -1834,6 +1836,7 @@ Laɣa-yi-d 2
 seqsiɣ-t 2
 tteḥwijin 2
 tennis 2
+Ann 2
 iḥman 1
 Araḥed 1
 kkaren 1
@@ -3036,7 +3039,6 @@ siwlen 1
 Ṛuḥen 1
 Wḍen-dd 1
 Xxcen-dd 1
-Yeswa 1
 yeswa 1
 ariḥt 1
 ṯeṣnen 1
@@ -5094,3 +5096,6 @@ tezwam 1
 tezwamt 1
 zwan 1
 zwant 1
+isunan 1
+ilaɣen 1
+tezmmred 1

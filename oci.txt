@@ -1,36 +1,36 @@
 de 4682
- 3738
+ 3740
 pas 3264
-es 3007
-a 2780
+es 3009
+a 2781
 la 2722
-un 2190
+un 2192
 lo 2049
 que 1714
-Tom 1487
+Tom 1489
 Lo 1410
-una 1377
-Es 1348
-La 1008
-e 917
+una 1378
+Es 1356
+La 1009
+e 918
 son 868
 en 757
 las 741
 per 729
-Soi 672
+Soi 673
 los 609
 se 586
-Ai 572
+Ai 573
 Me 496
 mai 478
 dins 477
 plan 438
 Los 425
-al 412
-èra 390
+al 413
+èra 391
 amb 385
 A 382
-mon 370
+mon 371
 çò 362
 me 314
 Tòm 310
@@ -61,8 +61,8 @@ soi 207
 fòrça 206
 Son 203
 deu 203
+ton 199
 o 197
-ton 197
 vos 194
 Èra 188
 Un 187
@@ -82,9 +82,9 @@ anar 156
 aquesta 156
 i 155
 monde 154
+mas 154
 totjorn 154
 tu 153
-mas 153
 jorn 151
 còp 151
 èsser 148
@@ -113,7 +113,7 @@ tan 116
 quicòm 116
 encara 116
 trabalh 116
-qui 114
+qui 115
 lenga 113
 Ne 112
 cau 112
@@ -157,14 +157,14 @@ Avètz 86
 ja 86
 qu'es 85
 passat 85
+Pòdi 85
 estat 84
 Vau 84
 can 84
 mes 84
-Pòdi 84
 oras 83
+vertadièrament 83
 libre 83
-vertadièrament 82
 Sabes 82
 uèi 82
 Ma 81
@@ -179,10 +179,10 @@ ans 77
 manjar 77
 Pensi 76
 causa 76
+còr 76
 E 76
 fach 76
 siás 76
-còr 75
 francés 75
 d'una 75
 Nadal 75
@@ -256,16 +256,16 @@ Qui 57
 diguèt 57
 als 57
 Ès 56
+Sa 56
 demorar 56
 parla 56
 Boston 56
 mestièr 56
 ostal 56
-Sa 55
+aver 55
 vertat 55
 degun 55
 sos 55
-aver 54
 causas 54
 estar 54
 polit 54
@@ -315,6 +315,7 @@ anglés 47
 On 47
 Per 46
 viatge 46
+content 46
 segur 45
 deus 45
 totas 45
@@ -322,7 +323,6 @@ qu'un 45
 vièlh 45
 lengas 45
 mot 45
-content 45
 pòdes 45
 telefòn 45
 Quita 45
@@ -441,6 +441,7 @@ demòra 34
 vacanças 34
 persona 34
 aicí 34
+Ara 34
 venguèt 34
 Aquò's 34
 pus 34
@@ -453,8 +454,8 @@ viu 33
 important 33
 Lor 33
 Podètz 33
+nòstre 33
 França 33
-Ara 33
 tas 33
 Pr'amor 32
 aquela 32
@@ -472,7 +473,6 @@ totis 32
 suu 32
 lei 32
 ràdio 32
-nòstre 32
 « 32
 » 32
 cossí 32
@@ -851,6 +851,7 @@ partit 18
 aquera 18
 quau 18
 aisit 18
+contenta 18
 Que's 18
 prètz 18
 japonés 18
@@ -895,7 +896,6 @@ quauqu'un 17
 gats 17
 aiga 17
 vertadièr 17
-contenta 17
 mauaisit 17
 d'aquò 17
 bèstia 17
@@ -1046,6 +1046,7 @@ farà 15
 comencèt 15
 Viu 15
 aguèt 15
+Prenètz 15
 dimars 15
 fau 15
 Vòstre 15
@@ -1126,7 +1127,6 @@ manhac 14
 Compreni 14
 d'amics 14
 rainal 14
-Prenètz 14
 Sos 14
 anèt 14
 pèl 14
@@ -1407,6 +1407,7 @@ Aviá 11
 dijòus 11
 diable 11
 preferida 11
+còs 11
 coneis 11
 tornèt 11
 ambulància 11
@@ -1492,6 +1493,7 @@ barrada 10
 blava 10
 experiéncia 10
 Bordèu 10
+Utiliza 10
 mons 10
 donadas 10
 compren 10
@@ -1521,7 +1523,6 @@ dobrir 10
 Crompèri 10
 dimècres 10
 dobèrt 10
-còs 10
 manjan 10
 Desiri 10
 anuèch 10
@@ -1630,7 +1631,6 @@ d'art 9
 vei 9
 contracte 9
 milhor 9
-Utiliza 9
 pont 9
 paure 9
 l'ajuda 9
@@ -1751,6 +1751,7 @@ escriu 8
 escur 8
 Creses 8
 panaire 8
+bèl 8
 leit 8
 verda 8
 aimable 8
@@ -1910,6 +1911,7 @@ miègjorn 8
 tasta 8
 desir 8
 tecnologia 8
+masca 8
 cartas 8
 l'espèra 8
 contrariat 8
@@ -1965,7 +1967,6 @@ punt 7
 setmanas 7
 Dison 7
 esfòrç 7
-bèl 7
 demorat 7
 colhonat 7
 victòria 7
@@ -2175,7 +2176,6 @@ mólzer 7
 lait 7
 topin 7
 coa 7
-masca 7
 distribuidor 7
 sarra 7
 ceremonia 7
@@ -2273,6 +2273,7 @@ beròia 6
 òrb 6
 vilas 6
 dromit 6
+paradís 6
 estón 6
 tranquille 6
 hartèra 6
@@ -2565,6 +2566,7 @@ ràbia 6
 òrt 6
 tòrt 6
 arrestar 6
+lunetas 6
 fais 6
 toalhon 6
 umid 6
@@ -2678,7 +2680,6 @@ Hens 5
 mangi 5
 sentir 5
 Milan 5
-paradís 5
 jornau 5
 Tèrra 5
 èras 5
@@ -3087,7 +3088,6 @@ Trobèri 5
 fasètz 5
 dubitatiu 5
 vaissèla 5
-lunetas 5
 Rai 5
 despertar 5
 disparicion 5
@@ -3368,6 +3368,7 @@ autors 4
 gojats 4
 m'aimas 4
 aire 4
+sabèm 4
 l'aire 4
 instrument 4
 interpretar 4
@@ -4321,7 +4322,6 @@ boicòt 3
 comprat 3
 vaquí 3
 amigueta 3
-sabèm 3
 viatjaire 3
 quadre 3
 representa 3
@@ -5200,6 +5200,7 @@ contunh 3
 Començatz 3
 estabosit 3
 geinat 3
+Seguís 3
 quiqueta 3
 metèo 3
 mandèri 3
@@ -5414,6 +5415,7 @@ fruches 3
 chocolatièr 3
 mornorosa 3
 poderosa 3
+satisfach 3
 avaria 3
 empachèt 3
 L'artista 3
@@ -5432,6 +5434,7 @@ regnava 3
 d'escampa 3
 ploraire 3
 serralh 3
+desconegut 3
 cabina 3
 telefonica 3
 visibla 3
@@ -7226,6 +7229,7 @@ decep 2
 decebes 2
 decepiatz 2
 L'orsin 2
+pegosa 2
 rugós 2
 Legisson 2
 document 2
@@ -7587,6 +7591,7 @@ planheretz 2
 narcissica 2
 individús 2
 esplechar 2
+encantat 2
 fantauma 2
 Crebèt 2
 d'escrivans 2
@@ -7760,7 +7765,6 @@ trantalhar 2
 Aireja 2
 Ventila 2
 susprendre 2
-Seguís 2
 Sèc 2
 T'arrèstes 2
 mèg 2
@@ -8314,7 +8318,7 @@ cortesa 2
 creatiu 2
 creativa 2
 respectuós 2
-satisfach 2
+satisfacha 2
 d'uèi 2
 provesir 2
 obsession 2
@@ -8356,6 +8360,7 @@ combustibles 2
 baissant 2
 finançament 2
 rejovenissiá 2
+vodka 2
 antibacteriana 2
 apren 2
 Donald 2
@@ -8372,7 +8377,6 @@ arroïnar 2
 província 2
 legista 2
 provincial 2
-desconegut 2
 atirats 2
 nervositat 2
 perdre 2
@@ -8645,6 +8649,7 @@ oitanta 2
 concisa 2
 dau 2
 ideala 2
+Cerqui 2
 sublim 2
 cristal 2
 siái 2
@@ -8697,6 +8702,9 @@ Conquerir 2
 regir 2
 peuna 2
 L'exportacion 2
+eroïc 2
+instint 2
+instintivament 2
 tornarèi 1
 Cridèc 1
 "ajuda" 1
@@ -9990,11 +9998,3 @@ sucrada 1
 lavada 1
 lèda 1
 poirit 1
-samarit 1
-aulor 1
-hastia 1
-vertadiera 1
-polòi 1
-moriscón 1
-qu'aulorejan 1
-currí 1

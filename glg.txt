@@ -1,12 +1,12 @@
-a 1842
-que 1708
-o 1596
-de 1583
-é 1203
+a 1843
+que 1709
+o 1597
+de 1584
+é 1204
 e 903
 non 831
 O 789
-un 768
+un 769
 A 689
 unha 609
 Non 572
@@ -16,11 +16,11 @@ máis 429
 da 428
 os 424
 para 354
-no 337
-as 333
-meu 307
+no 338
+as 334
+meu 308
 se 303
-ao 301
+ao 302
 por 286
 está 270
 na 266
@@ -28,7 +28,7 @@ Os 250
 son 249
 miña 245
 á 244
-súa 230
+súa 231
 Tom 224
 seu 220
 El 203
@@ -52,10 +52,10 @@ casa 117
 As 117
 Se 116
 foi 116
-facer 114
+facer 115
 pola 112
+teu 111
 Por 111
-teu 110
 sen 107
 seus 106
 tempo 105
@@ -74,7 +74,7 @@ sempre 89
 tan 89
 aquí 89
 só 88
-amor 86
+amor 87
 esta 85
 polo 85
 te 85
@@ -103,16 +103,16 @@ favor 73
 Este 73
 aos 73
 pai 71
+Estou 70
 dous 69
 Cando 69
-Estou 69
+nunca 69
 inglés 68
 Un 68
 vez 68
-nunca 68
+corazón 68
 Esta 67
 mesmo 67
-corazón 67
 están 66
 agora 65
 traballo 64
@@ -123,10 +123,10 @@ porque 63
 frases 63
 algo 62
 ver 62
+quen 62
 Quen 61
 coa 61
-quen 61
-Son 59
+Son 60
 pouco 59
 sobre 58
 vai 58
@@ -169,11 +169,11 @@ dicir 47
 menos 47
 gran 47
 ata 46
+verdade 46
 nun 46
 súas 46
 sei 46
 demasiado 45
-verdade 45
 nin 45
 Tatoeba 45
 hora 44
@@ -255,6 +255,7 @@ Cal 31
 outra 31
 dixo 31
 preto 31
+Agora 31
 vou 30
 cos 30
 nas 30
@@ -265,7 +266,6 @@ neste 30
 outro 30
 comer 30
 grande 30
-Agora 30
 pra 30
 Isto 29
 vello 29
@@ -360,6 +360,7 @@ nova 23
 Ese 23
 Aínda 23
 será 23
+miñas 22
 deste 22
 Cada 22
 café 22
@@ -381,7 +382,6 @@ pasado 22
 forma 22
 mesma 22
 idiomas 22
-miñas 21
 desta 21
 certo 21
 Na 21
@@ -404,6 +404,7 @@ branco 20
 Parece 20
 fin 20
 uns 20
+podería 20
 pasou 20
 algún 20
 Foi 20
@@ -427,7 +428,6 @@ vir 19
 leva 19
 río 19
 choiva 19
-podería 19
 negro 19
 quería 19
 filla 19
@@ -571,6 +571,7 @@ cuarto 14
 vexo 14
 pasar 14
 escoitar 14
+mil 14
 película 14
 rosa 14
 fermoso 14
@@ -603,7 +604,6 @@ Con 13
 quedou 13
 Estamos 13
 deixou 13
-mil 13
 intelixencia 13
 amada 13
 nadar 12
@@ -643,6 +643,7 @@ primavera 12
 Vexo 12
 lado 12
 inverno 12
+estraño 12
 dicionario 12
 tódalas 12
 século 12
@@ -699,7 +700,6 @@ Case 11
 favorita 11
 pensar 11
 Cantos 11
-estraño 11
 axiña 11
 felicidade 11
 Dáme 11
@@ -842,6 +842,7 @@ Estados 9
 puido 9
 queren 9
 banco 9
+lentes 9
 flor 9
 Nada 9
 penso 9
@@ -947,7 +948,6 @@ poema 8
 deus 8
 varios 8
 esperar 8
-lentes 8
 dese 8
 cheo 8
 profundo 8
@@ -1181,6 +1181,7 @@ Pona 7
 bosques 7
 oh 7
 latina 7
+Mesmo 7
 Eneas 7
 útil 7
 fugaz 7
@@ -1348,6 +1349,7 @@ envexa 6
 chinés 6
 tolo 6
 luns 6
+buscando 6
 decembro 6
 sabedoría 6
 necesitas 6
@@ -1370,7 +1372,6 @@ tolos 6
 pensamentos 6
 emoción 6
 millóns 6
-Mesmo 6
 entra 6
 corazóns 6
 Troia 6
@@ -1605,7 +1606,6 @@ entrar 5
 capacidade 5
 portuguesa 5
 esquerda 5
-buscando 5
 adoitan 5
 pon 5
 lentamente 5
@@ -1639,6 +1639,7 @@ tellado 5
 tradutor 5
 rematou 5
 fermosos 5
+poemas 5
 sombras 5
 simple 5
 montañas 5
@@ -2050,7 +2051,7 @@ augas 4
 Ves 4
 gustan 4
 recursos 4
-poemas 4
+xustiza 4
 extinción 4
 Entramos 4
 verso 4
@@ -2104,6 +2105,7 @@ occitano 4
 estranxeira 4
 escribín 4
 lobos 4
+paraíso 4
 Natureza 4
 Amor 4
 aprendín 4
@@ -2601,10 +2603,12 @@ sagrado 3
 pediulle 3
 cita 3
 debido 3
+sabemos 3
 luces 3
 prender 3
 dixera 3
 pingas 3
+Toma 3
 suicidouse 3
 orellas 3
 topar 3
@@ -2731,6 +2735,7 @@ Seguro 3
 temperaturas 3
 fuga 3
 adultos 3
+máscara 3
 mazás 3
 escritas 3
 araña 3
@@ -2750,7 +2755,6 @@ conflito 3
 desgrazas 3
 barrio 3
 tribunais 3
-xustiza 3
 ameaza 3
 francesa 3
 caras 3
@@ -2775,6 +2779,7 @@ esquece 3
 marchaches 3
 noutro 3
 comezo 3
+Caeu 3
 pequenas 3
 suave 3
 noutros 3
@@ -2878,7 +2883,6 @@ querido 3
 xogou 3
 naturais 3
 Cinco 3
-paraíso 3
 autores 3
 aparece 3
 edición 3
@@ -3776,11 +3780,9 @@ saba 2
 Debo 2
 xogamos 2
 arxila 2
-sabemos 2
 prendeu 2
 Milleiros 2
 sonche 2
-Toma 2
 pano 2
 pingar 2
 sucias 2
@@ -4095,7 +4097,6 @@ iluminada 2
 quita 2
 medias 2
 afunde 2
-máscara 2
 Volveremos 2
 Rosa 2
 xeonllo 2
@@ -4210,7 +4211,6 @@ sinfonía 2
 Levaba 2
 raios 2
 perigosos 2
-Caeu 2
 vestidos 2
 penuxe 2
 morena 2

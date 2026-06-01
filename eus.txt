@@ -6,7 +6,7 @@ Ez 414
 du 395
 eta 353
 zuen 283
-naiz 282
+naiz 283
 egin 277
 zen 267
 dago 236
@@ -16,12 +16,12 @@ Tomek 216
 duzu 212
 egiten 204
 behar 170
-dira 168
+dira 169
 izan 165
 hori 148
 Nire 147
 nuen 142
-ari 140
+ari 141
 hau 132
 esan 129
 bere 128
@@ -38,10 +38,10 @@ al 90
 oso 83
 urte 81
 ahal 79
+ere 78
 dute 78
-ere 77
+nago 77
 dugu 76
-nago 75
 ditu 75
 nintzen 75
 ikusi 70
@@ -85,9 +85,9 @@ Gaur 44
 Laylak 44
 lan 43
 dituzu 42
+ikasten 42
 egitea 41
 eman 41
-ikasten 41
 zait 40
 zaitut 40
 gabe 39
@@ -197,6 +197,7 @@ Liburu 21
 didazu 20
 ordu 20
 ikasi 20
+oraindik 20
 etxean 20
 Ondo 20
 entzun 20
@@ -207,7 +208,6 @@ Beti 19
 zu 19
 dezaket 19
 nik 19
-oraindik 19
 neska 19
 heldu 19
 ala 19
@@ -228,6 +228,7 @@ niri 18
 Pertsona 18
 egia 18
 nola 18
+Oraindik 18
 ederra 18
 zuri 17
 moduz 17
@@ -244,7 +245,6 @@ zenuke 17
 bai 17
 Badakit 17
 esango 17
-Oraindik 17
 ahaztu 16
 autoa 16
 dabil 16
@@ -1319,6 +1319,7 @@ aitarekin 3
 gogor 3
 laranja 3
 txuria 3
+Gaztelania 3
 Ingelera 3
 hortzak 3
 garbitzera 3
@@ -1688,6 +1689,7 @@ geldituko 3
 droga 3
 garrantzitsu 3
 erregea 3
+saiatzen 3
 Mary-ri 3
 mugikorra 3
 litzaizuke 3
@@ -1914,7 +1916,6 @@ Txinatarra 2
 estaltzen 2
 zitzaigun 2
 maitea 2
-Gaztelania 2
 apur 2
 Gogoan 2
 zenuena 2
@@ -2652,7 +2653,6 @@ Japonieraz 2
 Zenbait 2
 lanbidea 2
 ergela 2
-saiatzen 2
 iezaiozue 2
 banku 2
 arimik" 2
@@ -2930,6 +2930,7 @@ haut 2
 Supermerkatu 2
 kutxazain 2
 artifiziala 2
+paranoiko 2
 Telefonoz 1
 jatorrizkoarekin 1
 borobila 1
@@ -8638,3 +8639,6 @@ Kontserbadoreak 1
 Bizilagunak 1
 Adimen 1
 Heriotza 1
+Hiriaren 1
+defendatzaileak 1
+Hala 1

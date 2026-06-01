@@ -1,6 +1,6 @@
 Men 79
 Bu 73
-U 71
+U 72
 bor 38
 Tom 36
 bir 32
@@ -13,9 +13,9 @@ nima 24
 emas 24
 qayerda 23
 ham 21
+kerak 20
 yaxshi 19
 Sen 19
-kerak 19
 Nima 17
 Мен 15
 У 15
@@ -24,9 +24,9 @@ hech 15
 yo'q 14
 Бу 14
 emasman 14
+Menga 13
+Biz 13
 juda 13
-Menga 12
-Biz 12
 kitobni 12
 deb 12
 bo'lib 12
@@ -66,8 +66,10 @@ Qancha 7
 Kim 7
 Kecha 7
 Ular 7
+sotib 7
 qachon 7
 olib 7
+mumkin 7
 men 7
 ko‘raman 7
 менинг 6
@@ -79,12 +81,10 @@ boraman 6
 odam 6
 hamma 6
 faqat 6
-sotib 6
 emasmi 6
 turadi 6
 soat 6
 Uni 6
-mumkin 6
 учун 5
 Менинг 5
 yashayman 5
@@ -97,6 +97,7 @@ ustida 5
 katta 5
 kecha 5
 Har 5
+qildi 5
 Ingliz 5
 Qachon 5
 Yana 5
@@ -122,7 +123,6 @@ it 4
 Lori 4
 maktabga 4
 baland 4
-qildi 4
 Menda 4
 o'qish 4
 ҳақиқатни 4
@@ -138,6 +138,7 @@ buni 4
 keldi 4
 Iltimos 4
 O'tgan 4
+qaror 4
 ajraldi 4
 - 4
 Qiz 4
@@ -218,7 +219,6 @@ kelmayman 3
 hafta 3
 erta 3
 og'riyapti 3
-qaror 3
 yer 3
 ketdi 3
 aylanadi 3
@@ -2586,3 +2586,8 @@ boshqaradi 1
 koʻrsataman 1
 gaplashiladi 1
 Kitobimni 1
+muzlatgich 1
+olishimiz 1
+Amerikaga 1
+borishga 1
+soʻzlashgich 1

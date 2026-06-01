@@ -1,17 +1,17 @@
 ir 3867
-Es 2894
+Es 2896
 Toms 1269
-ka 1191
+ka 1192
 to 1151
 Man 1052
-Vai 1011
+Vai 1012
 es 896
 un 843
 Viņš 805
-tu 742
+tu 743
 bija 716
 par 712
-man 692
+man 693
 ar 683
 nav 682
 Tas 659
@@ -19,17 +19,17 @@ no 635
 tas 564
 ko 543
 kā 521
-uz 459
+uz 460
 ļoti 444
 esmu 435
 tā 405
-mani 397
+mani 398
 tik 381
 Tu 372
 Viņa 358
 kas 358
-lai 338
-Mēs 328
+lai 339
+Mēs 329
 tev 326
 daudz 287
 vai 284
@@ -37,13 +37,13 @@ savu 278
 Tomam 264
 būt 263
 bet 255
-viņš 253
+viņš 254
 viņa 252
 jūs 247
 Esmu 242
 var 240
 esi 237
-patīk 227
+patīk 228
 pārāk 227
 viņu 224
 Tā 222
@@ -58,13 +58,13 @@ tevi 198
 jau 196
 nepatīk 189
 darīt 183
-nevaru 168
+nevaru 169
 jums 163
 Marija 161
-viņam 159
+viņam 160
 Kas 158
 šo 157
-biju 151
+biju 152
 labi 145
 mēs 144
 vairs 142
@@ -95,7 +95,7 @@ Ja 119
 vēl 119
 pats 119
 vairāk 118
-vajag 117
+vajag 118
 labāk 116
 nebija 116
 neko 115
@@ -198,11 +198,11 @@ kāpēc 52
 kurš 52
 Jums 51
 labs 51
+atkal 51
 tavu 50
 Cilvēki 50
 vajadzēja 50
 domā 50
-atkal 50
 vispār 49
 ātri 49
 citu 48
@@ -266,6 +266,7 @@ apnicis 39
 laika 38
 kopā 38
 tiek 38
+Ne 38
 Kāds 38
 pirms 38
 neesi 38
@@ -275,7 +276,6 @@ slinks 38
 darbu 37
 trīs 37
 draugs 37
-Ne 37
 galā 37
 skaista 36
 vārdu 36
@@ -289,8 +289,10 @@ tavs 34
 šis 34
 citiem 34
 kļūst 34
+viņus 34
 gulēt 33
 jutos 33
+visiem 33
 vēlas 33
 Dzīve 33
 dzīvoju 33
@@ -298,12 +300,10 @@ kļuva 33
 valodas 33
 šajā 33
 sapnis 33
-viņus 33
 Labi 33
 Uz 32
 tie 32
 labu 32
-visiem 32
 atrodas 32
 ēd 32
 kuru 32
@@ -697,6 +697,7 @@ teicu 15
 nejūtos 15
 ik 15
 nedēļas 15
+beidz 15
 rada 15
 svarīgi 15
 smieklīgi 15
@@ -753,7 +754,6 @@ baidās 14
 zemes 14
 reti 14
 Brazīlijā 14
-beidz 14
 vīlies 14
 pasaules 14
 patiesi 14
@@ -806,6 +806,7 @@ gribat 13
 Cilvēkiem 13
 alkohola 13
 palika 13
+Pasaki 13
 atradu 13
 palīdzētu 13
 kuras 13
@@ -863,6 +864,7 @@ durvīm 12
 latviešu 12
 "Es 12
 zivis 12
+mašīnu 12
 lielu 12
 krāsā 12
 Nāc 12
@@ -872,7 +874,6 @@ istabā 12
 plāns 12
 Šo 12
 nespēja 12
-Pasaki 12
 kādā 12
 pilsētas 12
 Daži 12
@@ -928,7 +929,6 @@ minūtes 11
 atbildēt 11
 lietus 11
 dators 11
-mašīnu 11
 interesanta 11
 gaismas 11
 blakus 11
@@ -1372,6 +1372,7 @@ uztraucos 8
 zemu 8
 situācija 8
 gaidīts 8
+blenzt 8
 Kamēr 8
 sliktā 8
 gatava 8
@@ -1396,6 +1397,7 @@ pasaki 8
 tulkot 8
 nepacietīgs 8
 garlaicīga 8
+izlikties 8
 nekādīgi 8
 atturīgs 8
 līdzīgi 7
@@ -1551,7 +1553,6 @@ sapnī 7
 garšīga 7
 ātrs 7
 īpašs 7
-blenzt 7
 panākumus 7
 Patiesībā 7
 redzēja 7
@@ -1586,7 +1587,6 @@ augsne 7
 apnikusi 7
 velna 7
 lamāties 7
-izlikties 7
 Neuztraucies 7
 neprotu 7
 tūkstoš 7
@@ -3208,6 +3208,7 @@ spoži 3
 Dieva 3
 rokā 3
 izvairās 3
+izvēlējāmies 3
 Govis 3
 septiņas 3
 pabeidza 3
@@ -4505,7 +4506,6 @@ atradām 2
 Vecāki 2
 atbilde 2
 advokātu 2
-izvēlējāmies 2
 ārste 2
 siers 2
 Gaiss 2
@@ -6502,6 +6502,7 @@ nomācoši 2
 skaitās 2
 romantiska 2
 nočakarējos 2
+gaidi 2
 nepāra 2
 skaitļi 2
 tiešraidi 2
@@ -6566,6 +6567,7 @@ vīrieša 2
 aizskarts 2
 izjust 2
 zosis 2
+maršrutu 2
 turēt 2
 nepatīkams 2
 neķītra 2
@@ -9996,5 +9998,3 @@ neprotat 1
 rindām 1
 prominenti 1
 buržuāziskie 1
-filozofi 1
-teozofisko 1
