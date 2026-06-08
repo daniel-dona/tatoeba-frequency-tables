@@ -1,12 +1,12 @@
-a 1843
-que 1709
-o 1597
+a 1845
+que 1710
+o 1596
 de 1584
 é 1204
-e 903
-non 831
+e 904
+non 832
 O 789
-un 769
+un 770
 A 689
 unha 609
 Non 572
@@ -14,19 +14,19 @@ do 503
 en 486
 máis 429
 da 428
-os 424
+os 426
 para 354
 no 338
-as 334
-meu 308
+as 335
+meu 307
 se 303
 ao 302
-por 286
+por 287
 está 270
 na 266
-Os 250
-son 249
-miña 245
+son 251
+Os 251
+miña 246
 á 244
 súa 231
 Tom 224
@@ -39,13 +39,13 @@ me 176
 moi 175
 Ela 172
 dos 169
-como 158
+como 159
 Que 155
 pero 145
 hai 143
 ser 138
 todo 135
-vida 128
+vida 129
 ou 126
 moito 120
 casa 117
@@ -54,8 +54,8 @@ Se 116
 foi 116
 facer 115
 pola 112
+Por 112
 teu 111
-Por 111
 sen 107
 seus 106
 tempo 105
@@ -68,11 +68,11 @@ túa 95
 el 92
 era 92
 día 90
+aquí 90
 mundo 90
 mañá 89
 sempre 89
 tan 89
-aquí 89
 só 88
 amor 87
 esta 85
@@ -90,16 +90,16 @@ Eu 78
 podo 78
 ela 77
 este 77
+xa 77
 estaba 76
-xa 76
 lle 75
 mellor 75
 nos 74
 coma 74
+favor 74
 min 74
 nai 73
 teño 73
-favor 73
 Este 73
 aos 73
 pai 71
@@ -110,9 +110,9 @@ nunca 69
 inglés 68
 Un 68
 vez 68
-corazón 68
 Esta 67
 mesmo 67
+corazón 67
 están 66
 agora 65
 traballo 64
@@ -126,7 +126,7 @@ ver 62
 quen 62
 Quen 61
 coa 61
-Son 60
+Son 59
 pouco 59
 sobre 58
 vai 58
@@ -247,6 +247,7 @@ Gustaríame 32
 ceo 32
 aprender 32
 dez 31
+cos 31
 Tes 31
 facelo 31
 sabe 31
@@ -257,7 +258,6 @@ dixo 31
 preto 31
 Agora 31
 vou 30
-cos 30
 nas 30
 fala 30
 música 30
@@ -324,6 +324,7 @@ Meu 25
 alí 25
 escribir 25
 tanto 25
+humana 25
 galego 25
 case 25
 fixo 24
@@ -350,7 +351,6 @@ número 24
 dar 24
 pais 24
 soño 24
-humana 24
 camiño 24
 rei 24
 si 23
@@ -421,6 +421,7 @@ vostede 19
 Xapón 19
 xeito 19
 traballar 19
+man 19
 vive 19
 propia 19
 es 19
@@ -442,7 +443,6 @@ tipo 18
 seis 18
 Es 18
 fose 18
-man 18
 debería 18
 contigo 18
 idade 18
@@ -597,6 +597,7 @@ pan 13
 crer 13
 demais 13
 xusto 13
+estraño 13
 espírito 13
 chave 13
 rapaza 13
@@ -643,7 +644,6 @@ primavera 12
 Vexo 12
 lado 12
 inverno 12
-estraño 12
 dicionario 12
 tódalas 12
 século 12
@@ -775,6 +775,7 @@ poeta 10
 marchou 10
 duro 10
 cambiar 10
+precisa 10
 del 10
 vin 10
 nena 10
@@ -864,7 +865,6 @@ gañou 9
 pensa 9
 poidas 9
 malo 9
-precisa 9
 obra 9
 entón 9
 branca 9
@@ -1008,6 +1008,7 @@ mel 8
 estea 8
 guerras 8
 quizais 8
+bosques 8
 pomba 8
 compañeiros 8
 alegría 8
@@ -1134,6 +1135,7 @@ desa 7
 pel 7
 queda 7
 Quizais 7
+suposto 7
 comprender 7
 cociñando 7
 cantar 7
@@ -1178,7 +1180,6 @@ Artificial 7
 x 7
 Toki 7
 Pona 7
-bosques 7
 oh 7
 latina 7
 Mesmo 7
@@ -1321,7 +1322,6 @@ ovo 6
 entrou 6
 exemplo 6
 cantas 6
-suposto 6
 agás 6
 chegue 6
 pediu 6
@@ -1886,6 +1886,7 @@ benvida 4
 rede 4
 Mundial 4
 conseguir 4
+Colle 4
 durmido 4
 paraugas 4
 naceu 4
@@ -2045,6 +2046,7 @@ líquido 4
 Oín 4
 físico 4
 medra 4
+ríos 4
 enxeñeira 4
 amencer 4
 augas 4
@@ -2101,6 +2103,7 @@ brilla 4
 aprendiches 4
 Marte 4
 instrumento 4
+sentirse 4
 occitano 4
 estranxeira 4
 escribín 4
@@ -2412,7 +2415,6 @@ loitou 3
 gaiola 3
 Cóntame 3
 presentes 3
-Colle 3
 paredes 3
 hebreo 3
 carallo 3
@@ -2608,7 +2610,6 @@ luces 3
 prender 3
 dixera 3
 pingas 3
-Toma 3
 suicidouse 3
 orellas 3
 topar 3
@@ -2744,7 +2745,6 @@ océano 3
 saída 3
 buscan 3
 caixeira 3
-ríos 3
 escribirse 3
 tea 3
 lámpada 3
@@ -2877,7 +2877,6 @@ banda 3
 estupidez 3
 barro 3
 maneiras 3
-sentirse 3
 pecado 3
 querido 3
 xogou 3
@@ -3655,6 +3654,7 @@ Rematei 2
 Pódese 2
 cantan 2
 Haiche 2
+lagos 2
 impresiona 2
 mercou 2
 queimar 2
@@ -3783,6 +3783,7 @@ arxila 2
 prendeu 2
 Milleiros 2
 sonche 2
+Toma 2
 pano 2
 pingar 2
 sucias 2
@@ -6750,7 +6751,6 @@ Hogano 1
 viaxo 1
 vieiro 1
 carreiro 1
-lagos 1
 traballares 1
 prefiriría 1
 Déixao 1

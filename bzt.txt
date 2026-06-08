@@ -1,14 +1,14 @@
-es 298
+es 301
 Eo 213
-yn 170
+yn 171
 rhen 152
-di 116
-Tomos 104
-ill 97
+di 117
+Tomos 105
+ill 98
 lla 89
 Ys 85
+Ill 80
 Sa 79
-Ill 78
 llo 69
 Lla 62
 su 58
@@ -22,7 +22,7 @@ er 37
 Llo 33
 Ty 32
 ci 30
-in 29
+in 30
 mi 26
 Ke 23
 tew 22
@@ -36,12 +36,12 @@ gath 19
 Gw 19
 llw 17
 gws 17
-af 17
 sun 17
 sew 17
 cu 17
 Nu 16
 llifr 16
+af 16
 lw 16
 di'll 16
 e 16
@@ -56,6 +56,7 @@ ffuin 13
 Dew 13
 wer 13
 pab 13
+ai 12
 chath 12
 gi 12
 llâ 12
@@ -64,7 +65,6 @@ sab 12
 ffeil 12
 ty 12
 cath 11
-ai 11
 math 11
 ag 11
 ben 11
@@ -93,12 +93,14 @@ morth 9
 nwstr 9
 ffager 9
 h-es 9
+car 9
 cos 9
 es-ys 9
 ke 9
 werdad 9
 dew 8
 mhod 8
+nôn 8
 sa 8
 Ffrencig 8
 lic 8
@@ -106,14 +108,12 @@ mal 8
 K'lwg 8
 lesbian 8
 h-ugell 8
-car 8
 cuseg 8
 few 8
 efig 8
 gwegl 8
 bod 7
 ti 7
-nôn 7
 agur 7
 h-yddew 7
 twy 7
@@ -243,7 +243,6 @@ am 4
 ddorrf; 4
 sencast 4
 ffelicitaf 4
-cathr 3
 ddun 3
 eidd 3
 pod 3
@@ -313,6 +312,7 @@ llag 3
 masculiuith 3
 nghoenosc 3
 Cookie 3
+muin 3
 inheir 3
 ystant 3
 phuf 3
@@ -362,6 +362,7 @@ yddew 3
 Der 3
 'walurun 3
 fryd 2
+cathr 2
 lle 2
 gwenir 2
 lladrun 2
@@ -452,7 +453,6 @@ Pona 2
 almenig 2
 iogar 2
 eisistent 2
-muin 2
 Esser 2
 fedissif 2
 widd 2
@@ -667,6 +667,7 @@ senh 1
 tosen 1
 comprar 1
 canhan 1
+chathr 1
 sur 1
 gweglisaf 1
 ffef 1
@@ -1379,3 +1380,7 @@ Yscrifeth 1
 sabeth 1
 Yscrif 1
 bonisaf 1
+carn 1
+borch 1
+proifed 1
+islam 1

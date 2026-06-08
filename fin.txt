@@ -28,7 +28,7 @@ en 2105
 Onko 2058
 voi 2026
 sitä 2024
-minun 1941
+minun 1942
 mutta 1855
 paljon 1852
 Mitä 1830
@@ -198,8 +198,8 @@ jotka 410
 tänä 407
 Olemme 406
 Anna 405
+myös 403
 Maria 403
-myös 402
 jonka 401
 vuonna 400
 Tiedän 398
@@ -220,8 +220,8 @@ oikein 374
 tekee 373
 Anteeksi 373
 sai 372
+itse 370
 voinut 369
-itse 369
 kaiken 369
 vanha 366
 puhuu 364
@@ -734,6 +734,7 @@ pidät 117
 koiran 117
 minuuttia 117
 asua 117
+asiassa 117
 ovi 117
 hotellissa 117
 tekemistä 116
@@ -741,7 +742,6 @@ päätti 116
 palaa 116
 Lapset 116
 Eilen 116
-asiassa 116
 nälkä 115
 häneen 115
 laittoi 115
@@ -1143,6 +1143,7 @@ kuule 76
 luulen 76
 Ethän 76
 Syön 76
+itseni 76
 kivaa 76
 jutella 76
 Sä 76
@@ -1172,7 +1173,6 @@ Sano 74
 saat 74
 vaihtaa 74
 matka 74
-itseni 74
 Myös 74
 Tiesin 74
 leikkiä 74
@@ -2359,6 +2359,7 @@ kirjoitettu 36
 yhdellä 36
 tajunnut 36
 sellaisen 36
+Tunsin 36
 pahasti 36
 Keitä 36
 meren 36
@@ -2499,7 +2500,6 @@ vaihtoehtoa 34
 leikkii 34
 täyttää 34
 varastettiin 34
-Tunsin 34
 15 34
 arvata 34
 tosiaankin 34
@@ -2518,6 +2518,7 @@ perillä 34
 avulla 34
 soita 34
 lensi 34
+poikani 34
 Koulu 34
 luokse 34
 sika 34
@@ -2586,7 +2587,6 @@ haittaa 33
 sokea 33
 olut 33
 ovet 33
-poikani 33
 suolaa 33
 pitävän 33
 tarkka 33
@@ -9812,6 +9812,7 @@ Seksi 8
 Mis 8
 käsittänyt 8
 kattoa 8
+Sinäkin 8
 kans 8
 opetan 8
 elokuvat 8
@@ -9997,4 +9998,3 @@ rakennussuunnitelmat 8
 piirikunnan 8
 puhelimemme 8
 vahvistaneet 8
-viimeisistä 8

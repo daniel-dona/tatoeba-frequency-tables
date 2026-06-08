@@ -1,4 +1,4 @@
-je 1887
+je 1888
 se 697
 u 633
 sam 512
@@ -9,14 +9,14 @@ Tom 327
 ne 316
 i 272
 mi 244
-su 240
+su 241
 Ne 207
 to 205
 nije 187
 za 184
 što 180
-si 175
-od 166
+si 177
+od 167
 On 157
 ti 140
 To 134
@@ -37,10 +37,10 @@ biti 74
 ima 72
 Tko 66
 više 66
+Gdje 66
 nego 66
 mogu 65
 Jesi 64
-Gdje 61
 još 59
 Zašto 57
 Je 56
@@ -152,16 +152,17 @@ Nemam 26
 joj 25
 Oni 25
 nam 25
+bili 25
 grad 25
+sada 25
 dana 25
 već 25
 jedan 25
 kad 25
 dobar 24
 čovjek 24
+ste 24
 sutra 24
-bili 24
-sada 24
 Ta 23
 tko 23
 kući 23
@@ -179,7 +180,6 @@ Znam 23
 dok 23
 Moram 23
 tvoje 22
-ste 22
 dijete 22
 zna 22
 tome 22
@@ -411,7 +411,9 @@ točno 11
 doma 11
 napravila 11
 jeziku 10
+oni 10
 Oprostite 10
+pet 10
 Znaš 10
 obitelj 10
 film 10
@@ -446,6 +448,7 @@ hranu 10
 htio 10
 jedno 10
 žive 10
+jedna 10
 Italiji 10
 teško 10
 ovom 10
@@ -462,10 +465,8 @@ rođendan 10
 ikada 10
 rekla 10
 pas 9
-oni 9
 prema 9
 četiri 9
-pet 9
 zdravlje 9
 uzeti 9
 imati 9
@@ -501,7 +502,6 @@ pomoć 9
 lijep 9
 igrati 9
 živio 9
-jedna 9
 zašto 9
 savjet 9
 svih 9
@@ -930,6 +930,7 @@ vratio 5
 dosta 5
 otoka 5
 lako 5
+Idemo 5
 jabuka 5
 iskren 5
 ugasiti 5
@@ -1208,7 +1209,6 @@ dečka 4
 dvaput 4
 vlakom 4
 gospodina 4
-Idemo 4
 ribe 4
 mogla 4
 njezinom 4
@@ -8883,3 +8883,7 @@ zvijezde 1
 medom 1
 Franjo 1
 bušilicu 1
+Budizam 1
+velikih 1
+svjetskih 1
+religija 1

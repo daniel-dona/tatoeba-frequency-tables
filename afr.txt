@@ -1,15 +1,15 @@
-nie 1414
-is 1207
+nie 1416
+is 1210
 het 1123
 Ek 1049
 die 827
-'n 669
-Tom 505
+'n 671
+Tom 506
 jy 470
 my 373
-te 356
-om 329
-dit 316
+te 357
+om 330
+dit 318
 van 313
 Die 309
 jou 305
@@ -26,7 +26,7 @@ wil 172
 Jy 169
 wat 161
 ons 159
-kan 155
+kan 156
 sy 154
 met 151
 baie 148
@@ -42,8 +42,8 @@ dat 111
 oor 110
 hy 109
 Wat 101
+My 100
 hom 100
-My 99
 weet 95
 Hulle 93
 hulle 90
@@ -54,8 +54,8 @@ aan 80
 as 79
 werk 78
 hou 77
+Is 77
 kom 76
-Is 76
 na 73
 maak 70
 Het 69
@@ -94,7 +94,7 @@ terug 44
 alles 43
 hê 42
 Dis 41
-goed 40
+goed 41
 help 40
 Sami 40
 gee 39
@@ -187,6 +187,7 @@ broer 19
 man 19
 wêreld 19
 meisie 19
+genoeg 19
 saam 19
 lyk 19
 moes 19
@@ -195,7 +196,6 @@ reg 19
 Moet 19
 volgende 18
 lekker 18
-genoeg 18
 Laat 18
 lees 18
 kos 18
@@ -209,6 +209,7 @@ wanneer 17
 tot 17
 gevra 17
 ontmoet 17
+naam 16
 oop 16
 hulp 16
 ou 16
@@ -224,7 +225,6 @@ Weet 16
 maklik 16
 Hou 16
 agter 15
-naam 15
 geleer 15
 Japan 15
 alleen 15
@@ -331,6 +331,7 @@ homself 11
 geword 11
 bekommerd 11
 verkoop 11
+Baie 10
 vinnig 10
 oud 10
 see 10
@@ -340,6 +341,7 @@ Goeie 10
 Op 10
 dogter 10
 skryf 10
+Frans 10
 vanaand 10
 televisie 10
 laaste 10
@@ -369,14 +371,12 @@ verbaas 10
 Voëls 10
 hard 9
 eksamen 9
-Baie 9
 bank 9
 siek 9
 wit 9
 môre 9
 plek 9
 Alles 9
-Frans 9
 dokter 9
 swem 9
 hand 9
@@ -3970,3 +3970,7 @@ seeskuim 1
 Jood 1
 Nietemin 1
 Moslem 1
+gedig 1
+beoordeel 1
+wespe 1
+bestuiwers 1
