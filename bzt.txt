@@ -61,6 +61,7 @@ chath 12
 gi 12
 llâ 12
 gas 12
+Mair 12
 sab 12
 ffeil 12
 ty 12
@@ -70,7 +71,6 @@ ag 11
 ben 11
 padr 11
 ys 11
-Mair 11
 wid 11
 Yst 11
 gran 10
@@ -87,7 +87,6 @@ fi 10
 puf 9
 Tom 9
 mai 9
-Fair 9
 ffeirth 9
 morth 9
 nwstr 9
@@ -101,6 +100,7 @@ werdad 9
 dew 8
 mhod 8
 nôn 8
+Fair 8
 sa 8
 Ffrencig 8
 lic 8
@@ -112,6 +112,7 @@ cuseg 8
 few 8
 efig 8
 gwegl 8
+Gion 7
 bod 7
 ti 7
 agur 7
@@ -131,7 +132,6 @@ a'll 7
 anghor 7
 Angh 7
 trui 6
-Gion 6
 ddef 6
 gwol 6
 No 6
@@ -1254,7 +1254,6 @@ profath 1
 oncyl 1
 nônarent 1
 'efell 1
-'ion 1
 Alys 1
 Rhump 1
 Rhumpeth 1

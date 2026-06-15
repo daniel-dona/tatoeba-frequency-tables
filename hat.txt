@@ -1,15 +1,15 @@
-Mwen 30
-se 22
+Mwen 31
+se 24
 ou 20
-pa 19
+pa 20
 te 16
-yon 14
+yon 16
+Tom 14
 Ki 13
 a 13
 ye 12
 mwen 12
-Tom 12
-renmen 10
+renmen 11
 an 10
 li 10
 ki 9
@@ -18,13 +18,13 @@ nan 8
 sa 8
 yo 7
 Bon 6
+Ou 6
 nou 6
 di 6
 fè 6
 w 6
 kote 6
  6
-Ou 5
 Kijan 5
 angle 5
 maten 5
@@ -35,6 +35,7 @@ kreyòl 4
 M 4
 Li 4
 manje 4
+la 4
 ayisyen 4
 Bonjou 3
 konprann 3
@@ -51,7 +52,6 @@ bezwen 3
 pè 3
 sanble 3
 ak 3
-la 3
 Kiyès 3
 soti 3
 pèp 3
@@ -278,3 +278,7 @@ avè 1
 l 1
 Machin 1
 piti 1
+ranmasè 1
+fatra 1
+sab 1
+vòlè 1

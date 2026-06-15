@@ -1,36 +1,36 @@
-de 4687
+de 4692
  3740
-pas 3264
-es 3009
-a 2785
-la 2724
-un 2195
-lo 2049
+pas 3272
+es 3015
+a 2789
+la 2728
+un 2201
+lo 2054
 que 1715
 Tom 1490
 Lo 1410
-una 1378
-Es 1356
-La 1009
-e 919
+una 1379
+Es 1357
+La 1011
+e 923
 son 869
-en 757
+en 758
 las 741
 per 729
 Soi 674
-los 609
-se 587
+los 610
+se 588
 Ai 573
-Me 496
+Me 497
+dins 478
 mai 478
-dins 477
 plan 439
-Los 426
+Los 428
 al 413
 èra 391
-amb 385
+amb 386
 A 382
-mon 370
+mon 371
 çò 362
 me 314
 Tòm 310
@@ -40,7 +40,7 @@ I 284
 aquò 281
 Aqueste 257
 tot 256
-coma 252
+coma 254
 aqueste 249
 temps 244
 Las 242
@@ -63,19 +63,19 @@ Son 203
 deu 203
 ton 199
 o 197
-vos 194
+vos 195
 Èra 188
 Un 187
-aquí 182
+aquí 183
 Aquò 181
 veire 180
-cap 170
+cap 171
 qu'ei 170
 bon 169
-sa 166
+sa 167
 Mon 162
+pòt 160
 Siá 160
-pòt 159
 fa 156
 qué 156
 anar 156
@@ -87,7 +87,7 @@ totjorn 154
 tu 153
 jorn 151
 còp 151
-èsser 148
+èsser 150
 sembla 144
 mès 143
 Ont 140
@@ -107,19 +107,19 @@ tròp 124
 Qual 120
 non 119
 dels 119
+quicòm 117
 Vos 117
 ua 117
 tan 116
-quicòm 116
 encara 116
 trabalh 116
 qui 115
 lenga 113
+jamai 113
 Ne 112
 cau 112
 cada 112
 bona 112
-jamai 112
 M'agrada 111
 Èri 108
 ara 107
@@ -128,8 +128,8 @@ ta 106
 va 105
 sap 105
 O 105
+an 104
 Mary 104
-an 103
 ei 102
 deman 101
 besonh 101
@@ -171,20 +171,20 @@ Ma 81
 hèit 81
 l'ostal 81
 quan 80
+còps 80
 plai 80
 Avèm 80
-còps 79
 Cresi 78
+causa 77
+còr 77
 ans 77
 manjar 77
+fach 77
 Pensi 76
-causa 76
 E 76
-fach 76
+d'una 76
 siás 76
-còr 75
 francés 75
-d'una 75
 Nadal 75
 pòrta 74
 vòli 74
@@ -202,9 +202,9 @@ problèma 72
 d'aiga 71
 Fa 71
 Quina 71
+dos 71
 vòstre 71
 as 70
-dos 70
 ai 70
 men 69
 li 69
@@ -223,36 +223,36 @@ tanben 66
 ont 66
 foguèt 66
 gat 65
+qu'a 65
 vist 64
 Vaquí 64
+lor 64
 crompar 64
-qu'a 64
 país 64
+Degun 63
 mètge 63
-lor 63
 venir 63
-Degun 62
 dab 62
+frasas 62
 En 61
 hèra 61
 vòstra 61
 agrada 61
-frasas 61
 als 61
 pan 60
 tota 60
+legir 60
 Qué 60
 ditz 59
 rason 59
 Qu'èi 59
-legir 59
 quand 59
 nom 58
 Mercés 58
 paur 58
+mòrt 58
 dròlle 58
 sovent 57
-mòrt 57
 Qui 57
 diguèt 57
 Ès 56
@@ -276,16 +276,16 @@ l'escòla 53
 Quan 53
 d'aqueste 53
 viure 53
+ven 53
 Pòdes 53
 Tomàs 53
 abans 52
 qu'èra 52
-ven 52
+òme 52
 maire 52
 aviá 52
 paire 51
 ajudar 51
-òme 51
 An 51
 M'agradan 51
 dròlles 50
@@ -355,6 +355,7 @@ ièr 42
 pels 42
 Marie 42
 cat 42
+el 41
 pres 41
 fòto 41
 biais 41
@@ -362,7 +363,6 @@ moment 41
 ser 41
 ni 41
 lach 41
-el 40
 urós 40
 mans 40
 jòc 40
@@ -412,6 +412,7 @@ díser 36
 manca 36
 part 36
 vas 36
+aima 36
 mond 36
 fòrt 36
 Ven 36
@@ -425,13 +426,13 @@ television 35
 personas 35
 vòls 35
 Qu'am 35
-aima 35
 ací 35
 cara 35
 anat 35
 sul 35
 beure 35
 pizza 35
+pus 35
 nòstra 35
 mea 34
 blanc 34
@@ -440,12 +441,13 @@ contra 34
 demòra 34
 vacanças 34
 persona 34
+Podètz 34
 aicí 34
 Ara 34
 venguèt 34
 Aquò's 34
-pus 34
 Yanni 34
+Dieu 34
 Vòls 34
 El 34
 polida 33
@@ -453,7 +455,6 @@ cinc 33
 viu 33
 important 33
 Lor 33
-Podètz 33
 nòstre 33
 França 33
 tas 33
@@ -494,7 +495,6 @@ lum 31
 nòu 31
 fan 31
 tos 31
-Dieu 31
 chuc 31
 mamà 31
 peu 30
@@ -562,6 +562,7 @@ d'aquí 27
 gròs 27
 enveja 27
 nenet 27
+rei 27
 novèla 27
 volètz 27
 granda 27
@@ -586,8 +587,8 @@ montanha 26
 l'ostau 26
 patz 26
 nèu 26
-rei 26
 podètz 26
+l'amor 26
 Mas 26
 sòrre 26
 Ieu 26
@@ -611,7 +612,6 @@ malaut 25
 sopa 25
 tanta 25
 començat 25
-l'amor 25
 fumar 25
 demandat 25
 començar 25
@@ -620,6 +620,7 @@ preferit 25
 Parli 25
 Sap 25
 vegetarian 25
+sortida 25
 nosautres 25
 ela 25
 voliá 25
@@ -642,6 +643,7 @@ Me'n 24
 vòus 24
 era 24
 sentissi 24
+Cada 24
 color 24
 aquestes 24
 vista 24
@@ -652,9 +654,9 @@ regularament 24
 Demòra 24
 carrièra 24
 jardin 24
-sortida 24
 reünion 24
 meteissa 24
+riu 23
 Va 23
 tostemps 23
 sola 23
@@ -683,7 +685,6 @@ vòstres 23
 manja 23
 prèp 23
 jove 23
-riu 22
 arriba 22
 qu'una 22
 qu'as 22
@@ -700,7 +701,6 @@ clau 22
 diferéncia 22
 importanta 22
 amor 22
-Cada 22
 Parlas 22
 cançon 22
 parents 22
@@ -742,6 +742,7 @@ fenèstra 21
 anniversari 21
 mètro 21
 N'ai 21
+meteis 21
 Amb 21
 teu 21
 fins 21
@@ -770,6 +771,7 @@ qu'èi 20
 escòla 20
 Mamà 20
 crompas 20
+beutat 20
 sopar 20
 Podèm 20
 pertot 20
@@ -798,6 +800,7 @@ N'èi 19
 arren 19
 sons 19
 tòca 19
+flor 19
 banh 19
 caleré 19
 tons 19
@@ -807,7 +810,6 @@ pena 19
 estudiar 19
 solucion 19
 mercat 19
-beutat 19
 demandi 19
 París 19
 estudiants 19
@@ -824,7 +826,6 @@ catalan 19
 deuriá 19
 daissat 19
 metre 19
-meteis 19
 Anam 19
 Aquel 19
 Fau 19
@@ -846,7 +847,6 @@ glèisa 18
 pè 18
 ad 18
 eth 18
-flor 18
 viatjar 18
 partit 18
 aquera 18
@@ -873,6 +873,7 @@ jornalista 18
 Tu 18
 Veni 18
 rapidament 18
+umans 18
 quatre 18
 gaire 18
 Arrèsta 18
@@ -907,6 +908,7 @@ dinc 17
 sèm 17
 cadièra 17
 classa 17
+Dempuèi 17
 pès 17
 partida 17
 iogort 17
@@ -918,7 +920,6 @@ levat 17
 supermercat 17
 Deu 17
 pòdon 17
-umans 17
 vidèo 17
 donèt 17
 bièrra 17
@@ -969,7 +970,6 @@ dançar 16
 vam 16
 societat 16
 còsta 16
-Dempuèi 16
 netejar 16
 dimenjada 16
 exactament 16
@@ -1190,6 +1190,7 @@ demandèt 13
 pichona 13
 esfòrces 13
 Pendent 13
+uman 13
 paginas 13
 cèrt 13
 presentar 13
@@ -1216,6 +1217,7 @@ autre 13
 enfant 13
 nòstres 13
 Nòstra 13
+imatge 13
 bacterias 13
 fax 13
 conten 13
@@ -1285,7 +1287,6 @@ legit 12
 M'estimi 12
 boca 12
 tuat 12
-uman 12
 revirar 12
 paraulas 12
 argent 12
@@ -1315,7 +1316,6 @@ drech 12
 sòrt 12
 respondre 12
 afars 12
-imatge 12
 tombar 12
 vivon 12
 abelhas 12
@@ -1494,6 +1494,7 @@ blava 10
 experiéncia 10
 Bordèu 10
 Utiliza 10
+paure 10
 mons 10
 donadas 10
 compren 10
@@ -1529,6 +1530,7 @@ anuèch 10
 plaja 10
 site 10
 Pèire 10
+realitat 10
 endrech 10
 fals 10
 Quitatz 10
@@ -1632,7 +1634,6 @@ vei 9
 contracte 9
 milhor 9
 pont 9
-paure 9
 l'ajuda 9
 cosins 9
 diferent 9
@@ -1687,6 +1688,7 @@ d'en 9
 esquiròls 9
 trapar 9
 l'estadi 9
+dintrar 9
 vegèt 9
 tornamai 9
 Voliái 9
@@ -1695,7 +1697,6 @@ calor 9
 figas 9
 meravilhosa 9
 Tos 9
-realitat 9
 borrassa 9
 fatigada 9
 aucèl 9
@@ -1730,6 +1731,7 @@ cardiac 9
 ministre 9
 cantonada 9
 tarta 9
+èssers 9
 lactòsa 9
 carrèra 8
 bandat 8
@@ -1825,6 +1827,7 @@ sortit 8
 pausar 8
 ataca 8
 acceptat 8
+basa 8
 L'avion 8
 tala 8
 sòl 8
@@ -1840,6 +1843,7 @@ tap 8
 significa 8
 lums 8
 Atencion 8
+crei 8
 lentament 8
 Ajuda-me 8
 virada 8
@@ -1880,7 +1884,6 @@ electric 8
 fòc 8
 omosexual 8
 caval 8
-dintrar 8
 jornals 8
 legís 8
 objectiu 8
@@ -1905,7 +1908,9 @@ dificila 8
 magnifica 8
 tebesa 8
 proposicion 8
+cavals 8
 adicta 8
+semblan 8
 l'alh 8
 moments 8
 miègjorn 8
@@ -2061,7 +2066,6 @@ glaç 7
 convidat 7
 periòde 7
 recebut 7
-basa 7
 armat 7
 d'ajudar 7
 escaladar 7
@@ -2078,7 +2082,6 @@ pensavi 7
 allergic 7
 braces 7
 crèma 7
-crei 7
 mòrta 7
 Legissi 7
 cambiament 7
@@ -2162,9 +2165,7 @@ calorias 7
 magnific 7
 fàstic 7
 pollèn 7
-cavals 7
 dusca 7
-semblan 7
 tombat 7
 febrièr 7
 se's 7
@@ -2211,7 +2212,6 @@ percutit 7
 traduccions 7
 pasmens 7
 Tan 7
-èssers 7
 d'escalièr 7
 merças 7
 sentiments 7
@@ -2467,6 +2467,7 @@ Comencèt 6
 comunautat 6
 l'imatge 6
 l'ascensor 6
+pròpria 6
 Plòu 6
 Segur 6
 normal 6
@@ -2941,7 +2942,6 @@ discussion 5
 oficial 5
 vendrai 5
 Crompatz 5
-pròpria 5
 Gràcias 5
 grèu 5
 Avián 5
@@ -2979,7 +2979,6 @@ esperat 5
 menat 5
 L'istòria 5
 Anaïs 5
-Canta 5
 Aima 5
 Devètz 5
 còpa 5
@@ -3628,6 +3627,7 @@ preocupa 4
 l'embalatge 4
 contar 4
 maridèt 4
+Canta 4
 Emplena 4
 sèrva 4
 banhadoira 4
@@ -3757,6 +3757,7 @@ escuèlhs 4
 lanhar 4
 destriar 4
 resultat 4
+accion 4
 caramèl 4
 efièch 4
 intuitiu 4
@@ -3879,6 +3880,7 @@ d'òmes 4
 cambeta 4
 juridica 4
 fanga 4
+dieus 4
 desapareguèt 4
 prevenir 4
 taïnar 4
@@ -4489,6 +4491,7 @@ Nadi 3
 illusion 3
 Vernaut 3
 Junior 3
+absolut 3
 Aurèi 3
 d'aquelas 3
 avisar 3
@@ -4573,6 +4576,7 @@ sès 3
 ordinari 3
 lenta 3
 metal 3
+l'existéncia 3
 l'arma 3
 sentiái 3
 prononciacion 3
@@ -4600,6 +4604,7 @@ freja 3
 dobriguèt 3
 d'interès 3
 transpòrt 3
+creat 3
 Conta 3
 anullat 3
 lofat 3
@@ -4682,6 +4687,7 @@ unic 3
 s'apelava 3
 liquid 3
 Jonas 3
+parlava 3
 netegèt 3
 pela 3
 l'estanh 3
@@ -4973,7 +4979,6 @@ despièch 3
 comercials 3
 destinacion 3
 decépias 3
-accion 3
 rugosa 3
 jornalisme 3
 Sophie 3
@@ -5166,6 +5171,7 @@ albin 3
 raras 3
 Tiratz 3
 crema 3
+Jèsus 3
 Dintrèt 3
 sancionat 3
 despietadosa 3
@@ -5181,7 +5187,6 @@ gorda 3
 claras 3
 merluça 3
 Aqueles 3
-dieus 3
 tradicion 3
 parabòla 3
 inquièt 3
@@ -5232,6 +5237,7 @@ agradabla 3
 embelís 3
 abelís 3
 infantila 3
+Pasmens 3
 Lorenzo 3
 Vejatz 3
 Assajatz 3
@@ -5307,6 +5313,7 @@ marrits 3
 subjontiu 3
 Comencèri 3
 malur 3
+interessantas 3
 l'expression 3
 ingrat 3
 desesperats 3
@@ -5477,6 +5484,7 @@ palhas 3
 vanilha 3
 drindrin 3
 unenca 3
+L'Univèrs 3
 d'autras 3
 galaxias 3
 obsolet 3
@@ -5501,6 +5509,8 @@ mestrejar 3
 ressopet 3
 prigond 3
 turca 3
+siás" 3
+"Soi 3
 farcit 3
 ecrans 3
 coan 3
@@ -5918,6 +5928,7 @@ estagi 2
 Bíblia 2
 traductor 2
 detalh 2
+d'informacion 2
 Tanlèu 2
 exercicis 2
 fisics 2
@@ -6332,7 +6343,6 @@ euros 2
 rendi 2
 talhar 2
 fotografic 2
-absolut 2
 Lors 2
 atentius 2
 t'ausir 2
@@ -6475,7 +6485,6 @@ abandonèron 2
 cridèt 2
 allergia 2
 crama 2
-l'existéncia 2
 Cambièt 2
 locala 2
 blocats 2
@@ -6505,7 +6514,6 @@ l'educacion 2
 fisava 2
 Flavio 2
 municipal 2
-creat 2
 escolan 2
 lofèt 2
 recaptar 2
@@ -6645,7 +6653,6 @@ reservacion 2
 motivat 2
 recomandar 2
 acid 2
-parlava 2
 fonts 2
 Agachan 2
 imatges 2
@@ -7586,6 +7593,7 @@ veniás 2
 retarda 2
 abús 2
 L'abús 2
+demest 2
 connectèt 2
 perdent 2
 planheretz 2
@@ -7696,7 +7704,6 @@ afrontat 2
 reportatge 2
 levant 2
 fòlas 2
-Jèsus 2
 debatut 2
 sancions 2
 pietadós 2
@@ -7733,6 +7740,7 @@ digerir 2
 Sèt 2
 rars 2
 restauracion 2
+raiats 2
 particular 2
 bracejar 2
 gesticular 2
@@ -7819,7 +7827,6 @@ Martin 2
 L'arcolan 2
 collòqui 2
 concentrat 2
-Pasmens 2
 estalviava 2
 mainatjava 2
 angulars 2
@@ -8029,13 +8036,14 @@ Aurai 2
 escòlas 2
 milions 2
 vèrs 2
+simulacion 2
 d'impressions 2
 ment 2
 mentalas 2
-interessantas 2
 venon 2
 tèxtes 2
 nòble 2
+valoriza 2
 d'estomac 2
 transpòrta 2
 L'ensenhament 2
@@ -8457,6 +8465,7 @@ L'intelligéncia 2
 estapa 2
 maitas 2
 represas 2
+qu'existís 2
 l'Univèrs 2
 rarissim 2
 controvertida 2
@@ -8577,7 +8586,6 @@ vilans 2
 enganar 2
 mesprendre 2
 minusculas 2
-L'Univèrs 2
 evolucion 2
 escombrarias 2
 ostals 2
@@ -8656,6 +8664,7 @@ Cerqui 2
 sublim 2
 cristal 2
 siái 2
+"Ont 2
 maset 2
 colcar 2
 regard 2
@@ -8674,6 +8683,7 @@ Albèrt 2
 patibulària 2
 beisèri 2
 pietat 2
+"Qué 2
 aquò" 2
 cremariá 2
 laitariá 2
@@ -8684,7 +8694,6 @@ davancièrs 2
 palhasson 2
 independéncia 2
 "D'ont 2
-siás" 2
 Brasil" 2
 "Quant 2
 as" 2
@@ -8709,6 +8718,7 @@ eroïc 2
 instint 2
 instintivament 2
 estrangièr 2
+efècte 2
 tornarèi 1
 Cridèc 1
 "ajuda" 1
@@ -9941,7 +9951,6 @@ suc 1
 aset 1
 hà's 1
 L'optimisme 1
-d'informacion 1
 Vòs 1
 s'amusan 1
 terrenh 1
@@ -9989,12 +9998,3 @@ Shizuoka 1
 Qu'atenguerèi 1
 llo 1
 Poderés 1
-maridèn 1
-postau 1
-arrivat 1
-comedias 1
-Hitomi 1
-caminaire 1
-confortablament 1
-Qu'anguén 1
-Tottori 1

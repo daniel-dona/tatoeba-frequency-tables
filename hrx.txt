@@ -1,9 +1,9 @@
-is 438
+is 439
 Ich 385
 Tom 263
 en 235
 hod 210
-net 178
+net 179
 hon 172
 De 159
 de 156
@@ -110,16 +110,16 @@ saan 16
 kaafe 16
 mol 16
 Hund 15
+kommd 15
+alles 15
 dart 15
 Hallebnacht 15
 Äerd 15
 eer 15
 Karre 14
 Bist-du 14
-kommd 14
 bleive 14
 heit 14
-alles 14
 gebb 14
 sihn 14
 bist-du 14
@@ -725,6 +725,7 @@ Kapitalismus 3
 Gud 3
 dorrichsetze 3
 annerster 3
+Macht 2
 Kamiong 2
 Milje 2
 Rees 2
@@ -1082,6 +1083,7 @@ bekomm 2
 Fiever 2
 logisch 2
 Erkleerung 2
+Reichdum 2
 nunnergeschmiss 1
 zieh-ich 1
 schlofd 1
@@ -1097,7 +1099,6 @@ Ax 1
 gehold 1
 gehuust 1
 Koraasch 1
-Macht 1
 Kriegh 1
 Hinkel 1
 provokantisches 1
@@ -2298,3 +2299,4 @@ Zeide 1
 Pilse 1
 geheere 1
 unnerschittliche 1
+Mit 1

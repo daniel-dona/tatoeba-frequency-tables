@@ -9,7 +9,7 @@ Ew 824
 ê 749
 û 672
 ye 653
-ku 649
+ku 650
 Tom 557
 Em 552
 me 536
@@ -28,7 +28,7 @@ Ji 264
 ez 253
 em 251
 wî 249
-jî 248
+jî 249
 tu 240
 Ev 233
 bû 221
@@ -54,8 +54,8 @@ wan 155
 bike 152
 Wan 151
 Li 146
+her 143
 hene 142
-her 142
 We 136
 im 131
 baş 129
@@ -109,9 +109,9 @@ kar 61
 kî 60
 bavê 60
 nas 60
+dibe 59
 bûn 59
 Mary 58
-dibe 58
 bêriya 58
 yên 57
 herî 57
@@ -296,6 +296,7 @@ ciwan 20
 hebû 20
 xweşik 20
 xwest 20
+diçe 20
 laşê 20
 nedaye 20
 ên 19
@@ -317,7 +318,6 @@ nava 19
 Lê 19
 tev 19
 derdora 19
-diçe 19
 ra 19
 pêwîst 19
 wek 18
@@ -1479,6 +1479,7 @@ pirtûkxaneyê 4
 girtîgehê 4
 mêrê 4
 hatina 4
+Rewş 4
 misilman 4
 nivîskar 4
 nebûme 4
@@ -1900,7 +1901,6 @@ pirsên 3
 pisîkê 3
 Leyla 3
 çêkir 3
-Rewş 3
 Xwê 3
 siba 3
 hov 3
@@ -9452,3 +9452,4 @@ Balkêş 1
 Enteresan 1
 Heywan 1
 Rêçik 1
+xirabtir 1

@@ -1,4 +1,4 @@
-on 1587
+on 1588
 Ma 950
 ei 754
 Tom 623
@@ -6,7 +6,7 @@ Kas 455
 sa 441
 Ta 357
 et 350
-See 285
+See 286
 ma 227
 seda 214
 oma 206
@@ -339,6 +339,7 @@ On 12
 lahti 12
 teen 12
 meile 12
+probleem 12
 kooli 12
 lihtsalt 12
 rääkinud 12
@@ -357,7 +358,6 @@ head 11
 Ärge 11
 elame 11
 vihkan 11
-probleem 11
 haige 11
 huvitav 11
 uuesti 11
@@ -862,6 +862,7 @@ portugali 5
 Aafrikas 5
 Kreekas 5
 Keda 5
+endiselt 5
 Tõenäoliselt 5
 mööda 4
 tuul 4
@@ -912,6 +913,7 @@ lõpetas 4
 seisis 4
 Buss 4
 Peale 4
+olemas 4
 lauset 4
 — 4
 maa 4
@@ -1102,7 +1104,6 @@ ela 4
 tuju 4
 Tegin 4
 Maryl 4
-endiselt 4
 küsi 4
 Alžeeria 4
 Gröönimaa 4
@@ -1196,7 +1197,6 @@ näeme 3
 istub 3
 Ilma 3
 kodust 3
-olemas 3
 kolmkümmend 3
 kõlab 3
 pühapäev 3

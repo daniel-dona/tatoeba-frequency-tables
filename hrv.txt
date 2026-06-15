@@ -1,9 +1,9 @@
-je 1888
+je 1889
 se 697
 u 633
-sam 512
+sam 513
 da 474
-li 428
+li 431
 na 364
 Tom 327
 ne 316
@@ -17,21 +17,21 @@ za 184
 što 180
 si 177
 od 167
-On 157
+On 158
 ti 140
 To 134
 te 130
 me 126
 smo 120
-s 117
+s 118
 će 112
 Ja 105
+Što 103
 Ona 103
-Što 102
 bi 102
 ću 94
 bio 87
-o 82
+o 85
 ga 78
 biti 74
 ima 72
@@ -41,20 +41,20 @@ Gdje 66
 nego 66
 mogu 65
 Jesi 64
+sve 59
 još 59
 Zašto 57
 Je 56
 bih 56
 Mary 56
-sve 55
 Kako 54
 ali 54
 Želim 54
 dobro 54
 Imam 54
 kako 53
+ići 53
 iz 52
-ići 52
 Ovo 50
 dan 50
 može 50
@@ -63,19 +63,19 @@ prije 50
 tako 49
 vrijeme 49
 kao 49
+vrlo 49
+on 48
 svoj 48
 bila 48
-vrlo 48
 nešto 48
 samo 48
-on 47
 moj 47
 a 47
 svoje 47
 bilo 47
 jako 47
+Koliko 47
 Nisam 46
-Koliko 46
 ovdje 46
 ljudi 45
 koji 45
@@ -94,17 +94,17 @@ ili 40
 tamo 39
 mu 39
 Da 38
+Moja 37
 znam 37
 puno 37
-Moja 36
 Volim 36
+Mogu 36
 Kada 36
 Danas 36
 ju 36
 tvoj 35
-Mogu 35
+nema 35
 mnogo 35
-nema 34
 knjiga 33
 moja 33
 kada 33
@@ -145,6 +145,7 @@ pomoći 27
 život 27
 Dobro 26
 malo 26
+zna 26
 vas 26
 treba 26
 godina 26
@@ -181,11 +182,11 @@ dok 23
 Moram 23
 tvoje 22
 dijete 22
-zna 22
 tome 22
 gdje 22
 želi 22
 Ovaj 22
+Ima 22
 Mi 21
 tri 21
 novac 21
@@ -202,7 +203,6 @@ jezik 20
 Jučer 20
 došao 20
 ovu 20
-Ima 20
 zar 19
 žena 19
 kaže 19
@@ -222,6 +222,7 @@ mora 18
 dovoljno 18
 želim 18
 govoriti 18
+ona 18
 Na 18
 tebe 18
 koje 18
@@ -240,7 +241,6 @@ Nema 17
 školu 17
 psa 17
 znati 17
-ona 17
 knjige 17
 svog 17
 Još 17
@@ -257,6 +257,7 @@ Kad 16
 toga 16
 nalazi 16
 napraviti 16
+tebi 16
 Sada 16
 učinio 16
 kavu 16
@@ -264,6 +265,7 @@ stvarno 16
 svi 16
 mnom 16
 previše 16
+novca 16
 kuću 16
 Svaki 16
 Tomu 16
@@ -282,7 +284,6 @@ Neki 15
 gradu 15
 majka 15
 života 15
-tebi 15
 koja 15
 imao 15
 možemo 15
@@ -314,6 +315,7 @@ Budi 14
 hladno 14
 ide 14
 žene 14
+sama 14
 mačka 13
 ova 13
 imaju 13
@@ -337,7 +339,6 @@ brat 13
 nisi 13
 ni 13
 hvala 13
-sama 13
 Njegova 12
 prijatelj 12
 Vrijeme 12
@@ -358,6 +359,7 @@ misliš 12
 sestra 12
 naučiti 12
 sobi 12
+imaš 12
 bolje 12
 blizu 12
 djece 12
@@ -365,7 +367,6 @@ bude 12
 išao 12
 radiš 12
 sat 12
-novca 12
 oko 12
 smrti 12
 čekati 12
@@ -392,7 +393,6 @@ Japanu 11
 čitati 11
 Moramo 11
 Vrlo 11
-imaš 11
 Kao 11
 vam 11
 Nisi 11
@@ -427,6 +427,7 @@ bolestan 10
 glazbu 10
 Dao 10
 vole 10
+Bog 10
 težak 10
 pušiti 10
 liječnik 10
@@ -630,6 +631,7 @@ voliš 7
 Tvoj 7
 Tvoja 7
 Trebaš 7
+mala 7
 3 7
 vani 7
 dobru 7
@@ -695,6 +697,7 @@ Jedan 6
 šest 6
 pivo 6
 Pušenje 6
+soba 6
 veliki 6
 Kakav 6
 Vi 6
@@ -707,7 +710,7 @@ platiti 6
 okus 6
 Nadam 6
 toj 6
-Bog 6
+nama 6
 mrtav 6
 vodom 6
 visoko 6
@@ -738,7 +741,6 @@ našeg 6
 sir 6
 mnoge 6
 Vam 6
-mala 6
 Mrzim 6
 njihov 6
 također 6
@@ -810,7 +812,6 @@ jest 5
 trebaju 5
 drugima 5
 siguran 5
-soba 5
 majci 5
 otvoriti 5
 zvijezda 5
@@ -825,7 +826,6 @@ mjeseca 5
 zaista 5
 priča 5
 zadovoljan 5
-nama 5
 bismo 5
 kralj 5
 čovjeku 5
@@ -876,6 +876,7 @@ jednostavan 5
 tek 5
 takav 5
 Pokaži 5
+meni 5
 muškarac 5
 jabuku 5
 loše 5
@@ -1044,6 +1045,7 @@ smiješ 4
 djeda 4
 dane 4
 popraviti 4
+imate 4
 inozemstvo 4
 pjevač 4
 30 4
@@ -1128,7 +1130,6 @@ Ići 4
 boli 4
 Nakon 4
 Boga 4
-meni 4
 isti 4
 stanice 4
 Kupio 4
@@ -1203,6 +1204,7 @@ slušati 4
 vozi 4
 uči 4
 poslao 4
+Radim 4
 desert 4
 Učinio 4
 dečka 4
@@ -1370,7 +1372,6 @@ nikome 3
 nemoguće 3
 osobno 3
 Umorio 3
-imate 3
 Pitala 3
 svojem 3
 drva 3
@@ -2332,7 +2333,6 @@ glavom 2
 pridružiti 2
 krvari 2
 glasnije 2
-Radim 2
 francuskog 2
 poznat 2
 radimo 2
@@ -8887,3 +8887,4 @@ Budizam 1
 velikih 1
 svjetskih 1
 religija 1
+vami 1

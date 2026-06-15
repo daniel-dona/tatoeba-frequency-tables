@@ -1,20 +1,20 @@
 i 42
 is 37
+I 35
 Da 34
-I 34
 ma 32
 a 31
-net 27
+net 28
 da 22
 Thomas 22
 des 21
 hob 20
 Des 17
 du 16
+di 15
 Tom 14
-di 14
+ois 14
 ned 13
-ois 13
 so 12
 an 12
 wos 12
@@ -45,6 +45,7 @@ wia 6
 Tog 6
 mit 6
 host 5
+woaß 5
 bin 5
 nia 5
 jo 5
@@ -63,7 +64,6 @@ hod 4
 au 4
 zwoa 4
 geht's 4
-woaß 4
 de 4
 gem 4
 Es 4
@@ -203,6 +203,7 @@ Zene 2
 zwånzge 2
 gehört 2
 Haus 2
+mag 2
 Sie 2
 moi 2
 leicht 2
@@ -595,7 +596,6 @@ glaubt's 1
 Viech 1
 ins 1
 kimmt 1
-mag 1
 guadn 1
 z'spot 1
 wei 1
@@ -824,3 +824,4 @@ miaßt's 1
 as 1
 eana 1
 januar 1
+Ea 1

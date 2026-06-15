@@ -1,35 +1,35 @@
-le 15785
-es 11746
-un 9510
-de 8727
-ha 6471
+le 15790
+es 11751
+un 9512
+de 8730
+ha 6473
 Le 6046
 Io 5657
 in 5422
-non 5324
-que 5159
+non 5326
+que 5161
 e 3639
-del 3404
+del 3406
 a 3396
 tu 3096
-Tom 3014
-Ille 2409
-me 2299
+Tom 3020
+Ille 2410
+me 2301
 io 2143
 Il 1902
 vos 1899
-lo 1886
+lo 1887
 su 1859
 al 1833
 se 1788
 pro 1666
-con 1606
+con 1607
 plus 1540
 ille 1534
 mi 1365
 pote 1347
 nos 1275
-Nos 1158
+Nos 1160
 esseva 1147
 multo 1147
 iste 1108
@@ -56,8 +56,8 @@ qui 660
 son 651
 Illes 646
 Isto 644
+Illo 610
 Un 608
-Illo 608
 sape 607
 super 607
 isto 603
@@ -106,9 +106,9 @@ aqua 338
 ancora 333
 sol 328
 A 328
-diceva 318
+diceva 320
+Maria 319
 An 318
-Maria 318
 dice 311
 la 310
 pensa 310
@@ -118,7 +118,7 @@ dicer 305
 Su 303
 mal 300
 quando 299
-sempre 295
+sempre 296
 crede 295
 cosa 291
 nihil 283
@@ -163,7 +163,7 @@ Qual 216
 bibe 214
 usque 212
 melior 211
-essera 210
+essera 211
 loco 210
 Tote 208
 parve 208
@@ -223,10 +223,10 @@ vidite 158
 tosto 157
 vide 155
 juvene 155
-mais 154
+mais 155
 problema 153
+illac 150
 infante 150
-illac 149
 amicos 148
 ration 147
 minus 147
@@ -299,12 +299,12 @@ habe 116
 tabula 115
 odia 115
 possibile 114
+sembla 114
 plen 114
 comenciava 114
 filio 113
 mie 113
 Multe 113
-sembla 113
 Tatoeba 113
 causa 112
 circa 111
@@ -687,6 +687,7 @@ Face 49
 Solmente 49
 bucca 49
 profunde 49
+prendite 49
 blauette 49
 pede 48
 dormir 48
@@ -699,7 +700,6 @@ cavallo 48
 poema 48
 campo 48
 herba 48
-prendite 48
 puta 48
 paises 47
 perfecte 47
@@ -739,6 +739,7 @@ intention 45
 magic 45
 qualcosa 44
 voluntate 44
+gruppo 44
 ligno 44
 Ben 44
 postea 44
@@ -747,7 +748,6 @@ America 44
 principal 44
 considera 44
 policia 43
-gruppo 43
 entrava 43
 brun 43
 incontrava 43
@@ -891,6 +891,7 @@ necesse 38
 sonios 38
 mamma 38
 gratiose 38
+John 37
 rememora 37
 lassava 37
 poneva 37
@@ -916,7 +917,6 @@ Japon 36
 visitara 36
 dominica 36
 passar 36
-John 36
 natar 36
 finalmente 36
 visitava 36
@@ -1660,6 +1660,7 @@ an 19
 reflecte 19
 basse 19
 porto 19
+movimento 19
 corte 19
 immunde 19
 pensatas 19
@@ -1690,6 +1691,7 @@ labios 18
 revela 18
 patientia 18
 ja 18
+controlo 18
 silente 18
 honeste 18
 decider 18
@@ -1732,7 +1734,6 @@ version 18
 Mangia 18
 planta 18
 cessa 18
-movimento 18
 aperi 18
 multes 18
 discoperite 18
@@ -1776,6 +1777,7 @@ traduce 17
 visitate 17
 heroe 17
 sortiva 17
+leader 17
 armea 17
 sorores 17
 monstrar 17
@@ -1868,9 +1870,9 @@ elephante 16
 classic 16
 enoiose 16
 carta 16
+lunedi 16
 conduce 16
 rar 16
-controlo 16
 respondeva 16
 pupa 16
 jentaculo 16
@@ -1968,7 +1970,6 @@ pardona 15
 evolution 15
 depende 15
 pagina 15
-lunedi 15
 limites 15
 gamba 15
 vulnerate 15
@@ -2065,7 +2066,6 @@ opportunitate 14
 oranges 14
 magazin 14
 suffre 14
-leader 14
 allegre 14
 crear 14
 essential 14
@@ -2943,6 +2943,7 @@ plateau 10
 slitta 10
 Ultra 10
 vespertiliones 10
+pute 10
 pronomine 10
 statouniteses 10
 futueva 10
@@ -3223,7 +3224,6 @@ patrono 9
 caressava 9
 parente 9
 maga 9
-pute 9
 instruction 9
 parlantes 9
 Saussure 9
@@ -3514,6 +3514,7 @@ reflecter 8
 jecta 8
 illimitate 8
 anate 8
+immunditias 8
 aspirationes 8
 flammas 8
 spectro 8
@@ -3930,7 +3931,6 @@ demonstra 7
 acquire 7
 cadavere 7
 espaventate 7
-immunditias 7
 solve 7
 pinos 7
 reuniva 7
@@ -4087,6 +4087,7 @@ credite 6
 retorno 6
 contento 6
 dextre 6
+explication 6
 Elige 6
 Fumar 6
 focar 6
@@ -4671,7 +4672,6 @@ profito 5
 characteristic 5
 Belle 5
 cognoscera 5
-explication 5
 apportava 5
 obliga 5
 matches 5
@@ -4889,6 +4889,7 @@ pardono 5
 13 5
 utilisar 5
 currentemente 5
+Alice 5
 preserva 5
 flamma 5
 ducha 5
@@ -5676,7 +5677,6 @@ revidera 4
 rocca 4
 approba 4
 Quecunque 4
-Alice 4
 compassion 4
 essayara 4
 compromisso 4
@@ -6065,6 +6065,7 @@ insecur 4
 floccos 4
 contagiose 4
 simplificate 4
+motivation 4
 inexpectate 4
 campatores 4
 celtic 4
@@ -6190,6 +6191,7 @@ Homer 4
 impacto 4
 ephemere 4
 infortunate 4
+assumite 4
 remarcabile 4
 bulgaro 4
 destinate 4
@@ -7378,7 +7380,6 @@ cambiarea 3
 lavara 3
 "Tom" 3
 deviation 3
-motivation 3
 Habitualmente 3
 Numerose 3
 assumer 3
@@ -7589,7 +7590,6 @@ guarnite 3
 caste 3
 carnal 3
 definition 3
-assumite 3
 terrorista 3
 flecha 3
 Larry 3
@@ -8221,6 +8221,7 @@ Libya 3
 "Quanto 3
 memecoin 3
 granfilias 3
+Anonyme 3
 Require 2
 typhon 2
 exceptiones 2
@@ -9469,6 +9470,7 @@ valerea 2
 Presto 2
 Provence 2
 2009) 2
+collector 2
 kilos 2
 courgettes 2
 auberginas 2
@@ -9996,5 +9998,3 @@ Magnus 2
 dissolution 2
 frustrate 2
 Fortunate 2
-synonyme 2
-Patrick 2

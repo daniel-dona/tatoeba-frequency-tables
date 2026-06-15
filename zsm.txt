@@ -1,9 +1,9 @@
-Saya 1460
-saya 1348
+Saya 1461
+saya 1350
 yang 1214
 Tom 1167
 tidak 1156
-di 773
+di 774
 awak 744
 itu 703
 ini 614
@@ -19,7 +19,7 @@ telah 321
 Mary 315
 pergi 282
 boleh 268
-dalam 261
+dalam 262
 tahu 247
 Awak 238
 kita 231
@@ -86,7 +86,7 @@ satu 83
 nak 82
 berada 80
 buku 80
-buat 78
+buat 79
 masih 78
 malam 75
 tinggal 73
@@ -97,13 +97,13 @@ lain 70
 pun 70
 Ini 70
 Anda 69
-tahun 68
+tahun 69
 beliau 68
 berbuat 67
 oleh 66
+sebelum 66
 sebuah 66
 kereta 66
-sebelum 65
 sahaja 65
 melihat 64
 Perancis 63
@@ -115,9 +115,9 @@ atas 60
 pasti 60
 mungkin 60
 ia 59
+sesuatu 59
 hanya 59
 apa-apa 58
-sesuatu 58
 sekolah 57
 dua 57
 setiap 56
@@ -133,8 +133,8 @@ tidur 53
 lama 53
 bekerja 53
 tempat 52
+kerja 52
 begitu 51
-kerja 51
 Aku 50
 terlalu 50
 jika 50
@@ -144,11 +144,11 @@ Mengapa 50
 kelihatan 50
 mesti 49
 tiada 49
+tiga 48
 Ada 48
 lakukan 48
 Apakah 47
 Bahasa 47
-tiga 47
 membeli 47
 Sami 47
 Semua 46
@@ -201,6 +201,7 @@ mengambil 38
 air 37
 menggunakan 37
 semasa 37
+Itu 37
 salah 36
 kembali 36
 bilik 36
@@ -208,7 +209,6 @@ bertanya 36
 selalu 36
 mampu 36
 selepas 36
-Itu 36
 tiba 36
 Kadazan 36
 merasakan 36
@@ -223,13 +223,13 @@ anak 34
 mudah 34
 luar 34
 si 34
+Bagaimana 34
+hati 33
 pertama 33
 berapa 33
 masuk 33
 lalu 33
-Bagaimana 33
 tapi 33
-hati 32
 negara 32
 pagi 32
 gembira 32
@@ -297,6 +297,7 @@ benda 26
 Bilakah 25
 terbang 25
 meninggalkan 25
+dahulu 25
 mati 25
 menulis 25
 kan 25
@@ -310,7 +311,6 @@ betul 25
 ayah 24
 tersebut 24
 manakah 24
-dahulu 24
 menarik 24
 cukup 24
 cakap 24
@@ -373,6 +373,7 @@ agak 21
 kepadanya 21
 ماري 21
 terbaik 20
+baju 20
 meja 20
 meninggal 20
 lupa 20
@@ -393,7 +394,6 @@ berbahasa 19
 tinggi 19
 Malaysia 19
 merupakan 19
-baju 19
 api 19
 berasa 19
 pelajar 19
@@ -962,6 +962,7 @@ Cuba 7
 Air 7
 hebat 7
 perhatian 7
+tempoh 7
 maksud 7
 kulit 7
 kebenaran 7
@@ -1082,6 +1083,7 @@ seharusnya 6
 Dari 6
 biliknya 6
 memerhatikan 6
+memikirkan 6
 seolah-olah 6
 agaknya 6
 betapa 6
@@ -1106,7 +1108,6 @@ menyesal 6
 sangkakan 6
 kat 6
 membakar 6
-tempoh 6
 berakhir 6
 Nanti 6
 bahagia 6
@@ -1246,7 +1247,6 @@ kandungan 5
 menyedari 5
 Tanpa 5
 memasukkan 5
-memikirkan 5
 Universiti 5
 Muhammad 5
 pasangan 5
@@ -7903,3 +7903,4 @@ Kaamatan: 1
 Menuai 1
 perpaduan 1
 keharmonian 1
+keadaannya 1

@@ -6,13 +6,13 @@ i 849
 Tom 705
 ko 665
 ku 664
-o 659
+o 660
 id 487
 nu 473
 nopo 438
-doid 427
+doid 428
 Au 409
-dii 386
+dii 387
 isido 386
 dau 382
 om 379
@@ -65,11 +65,11 @@ tu' 78
 kio 74
 dino 69
 nung 67
+Onu 67
 aiso 66
-Onu 66
 maan 65
+toun 64
 koiho 64
-toun 63
 timpu 63
 Mimang 62
 buuk 61
@@ -131,7 +131,7 @@ pomusaavan 37
 Kadazan 37
 diozu 37
 Osuusuvab 37
-tohu 35
+tohu 36
 nangku 35
 tondu 34
 haid 34
@@ -1140,6 +1140,7 @@ opuak 4
 Miingat-ingat 4
 pisaasavaan 4
 komponi 4
+kozuuzuvo' 4
 Pinosunudan 4
 Noumbak 4
 Noinsudan 4
@@ -1572,7 +1573,6 @@ sasau 3
 ko'onduan 3
 kobohi 3
 na'antakan 3
-kozuuzuvo' 3
 kouvang 3
 isido' 3
 Tumoodo 3
