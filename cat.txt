@@ -1,15 +1,15 @@
-la 2098
+la 2101
 de 2048
 a 1811
 que 1768
-el 1587
-és 1476
+el 1588
+és 1477
 no 1095
-un 1054
+un 1055
 va 1006
 i 845
 No 831
-en 821
+en 822
 una 751
 per 705
 El 684
@@ -20,9 +20,9 @@ Tom 506
 al 492
 amb 491
 més 464
-ha 456
+ha 457
 es 402
-En 386
+En 387
 del 383
 molt 300
 vaig 282
@@ -34,13 +34,13 @@ està 248
 És 234
 Els 232
 fer 229
-hi 225
+hi 226
 Ella 220
 meva 212
 seu 209
 fa 201
 té 200
-què 199
+què 200
 són 198
 seva 193
 ser 193
@@ -115,10 +115,10 @@ tres 86
 menjar 86
 parlar 86
 Tinc 85
+llengua 85
 tinc 84
 jo 84
 Qui 84
-llengua 84
 sobre 83
 mare 81
 seus 81
@@ -169,18 +169,18 @@ amic 56
 bon 56
 sóc 56
 tots 56
+d'un 56
 porta 55
 on 55
 llibres 55
+Et 55
 Encara 55
 meus 55
-d'un 55
 racisme 55
 Ets 54
+s'ha 54
 comprar 53
 mal 53
-Et 53
-s'ha 53
 bona 53
 Quin 52
 ningú 52
@@ -562,6 +562,7 @@ bons 18
 d'agost 18
 idiomes 17
 ganes 17
+cas 17
 França 17
 quedar 17
 caminar 17
@@ -590,7 +591,6 @@ noves 16
 te 16
 Cada 16
 taula 16
-cas 16
 Anem 16
 córrer 16
 rellotge 16
@@ -858,6 +858,7 @@ mena 11
 novel·la 11
 sota 11
 noies 11
+L'amor 11
 Deu 11
 treballa 11
 obrir 11
@@ -930,7 +931,6 @@ alguns 10
 popular 10
 blau 10
 parc 10
-L'amor 10
 deixa 10
 caixa 10
 vingut 10
@@ -1264,6 +1264,7 @@ silenci 7
 l'autor 7
 m'agraden 7
 sobretot 7
+benvinguda 7
 medicament 7
 seguir 7
 semblava 7
@@ -1672,7 +1673,6 @@ veure'm 5
 somriure 5
 ciutats 5
 contacte 5
-benvinguda 5
 menjo 5
 S'està 5
 llargs 5
@@ -2216,6 +2216,7 @@ Menjo 4
 calent 4
 esperes 4
 trobava 4
+dono 4
 podries 4
 pintura 4
 28 4
@@ -2301,6 +2302,7 @@ Rentareu 4
 ordres 4
 L'esperança 4
 sexual 4
+anomenat 4
 mandra 4
 semblat 4
 queden 4
@@ -2398,6 +2400,7 @@ incapaç 3
 dades 3
 impossible 3
 Pau 3
+verb 3
 Menja 3
 fenomen 3
 engreixat 3
@@ -2597,6 +2600,7 @@ seients 3
 creixent 3
 roda 3
 judici 3
+subjecte 3
 crida 3
 l'impossible 3
 independent 3
@@ -2874,7 +2878,6 @@ usuaris 3
 vé 3
 brut 3
 pura 3
-dono 3
 protegir 3
 gallines 3
 Hom 3
@@ -3036,7 +3039,6 @@ s'equivoca 3
 terrat 3
 fleca 3
 gènere 3
-anomenat 3
 biblioteques 3
 peresa 3
 suposa 3
@@ -3203,7 +3205,6 @@ Dubto 2
 Taro 2
 fiar 2
 acampar 2
-verb 2
 mor 2
 deixarà 2
 àcida 2
@@ -3506,7 +3507,6 @@ penjar 2
 nuclears 2
 urbana 2
 artistes 2
-subjecte 2
 you" 2
 t'equivoques 2
 m'estima 2
@@ -4898,6 +4898,7 @@ utilitzada 2
 «No 2
 conflicte 2
 millorarà 2
+harmonia 2
 cossos 2
 calma 2
 destí 2
@@ -9997,4 +9998,3 @@ Dona‘m 1
 d‘hora 1
 SpaceChem 1
 dispersa 1
-s‘ofegava 1

@@ -6,7 +6,7 @@ da 474
 li 431
 na 364
 Tom 327
-ne 316
+ne 317
 i 272
 mi 244
 su 241
@@ -22,7 +22,7 @@ ti 140
 To 134
 te 130
 me 126
-smo 120
+smo 122
 s 118
 će 112
 Ja 105
@@ -43,7 +43,7 @@ mogu 65
 Jesi 64
 sve 59
 još 59
-Zašto 57
+Zašto 58
 Je 56
 bih 56
 Mary 56
@@ -131,11 +131,11 @@ vrata 29
 engleski 29
 Svi 29
 Možeš 29
+želiš 29
 mogao 28
 po 28
 dvije 28
 danas 28
-želiš 28
 ovaj 27
 knjigu 27
 Molim 27
@@ -284,6 +284,7 @@ Neki 15
 gradu 15
 majka 15
 života 15
+jesti 15
 koja 15
 imao 15
 možemo 15
@@ -303,7 +304,6 @@ vode 14
 Htio 14
 kojeg 14
 kuća 14
-jesti 14
 učitelj 14
 pismo 14
 nekoliko 14
@@ -465,6 +465,7 @@ jednog 10
 rođendan 10
 ikada 10
 rekla 10
+Sami 10
 pas 9
 prema 9
 četiri 9
@@ -686,7 +687,6 @@ dvoje 7
 računalo 7
 znamo 7
 Layla 7
-Sami 7
 Bok 6
 Zovem 6
 njegovo 6

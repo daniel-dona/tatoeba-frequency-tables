@@ -3,7 +3,7 @@ ass 233
 du 93
 net 81
 Dir 80
-an 64
+an 65
 e 57
 dir 55
 Tom 53
@@ -12,8 +12,8 @@ huet 48
 Wéi 45
 sinn 44
 Wat 42
+Den 40
 eng 39
-Den 39
 Et 38
 si 38
 Mir 38
@@ -32,7 +32,7 @@ scho 26
 mir 26
 zu 25
 keng 25
-den 24
+den 25
 mech 22
 Hues 22
 Dat 21
@@ -87,6 +87,7 @@ meng 9
 Buch 9
 elo 9
 mäi 9
+gëtt 9
 datt 9
 iessen 9
 Ass 9
@@ -95,7 +96,6 @@ Sidd 9
 Kanner 9
 Stad 8
 al 8
-gëtt 8
 eis 8
 Wie 8
 Joer 8
@@ -1257,6 +1257,12 @@ Ziga 1
 Schleesesch 1
 D'Vereenegt 1
 besiegt 1
+Europadag 1
+9 1
+Mee 1
+alle 1
+Memberstaaten 1
+gefeiert 1
 Muhammad 1
 Wëllt 1
 danzen 1

@@ -1,24 +1,24 @@
 się 17494
 nie 14912
-jest 14576
-w 13150
+jest 14585
+w 13151
 Tom 11515
 na 11024
 Nie 9660
 to 8968
 że 8360
 do 7947
-z 7667
+z 7668
 i 4795
 To 4733
-Czy 4179
+Czy 4197
 mi 3850
 o 3651
 mnie 3636
 ma 3217
-co 3143
+co 3152
 On 3003
-za 2950
+za 2951
 jak 2852
 tego 2658
 po 2588
@@ -29,7 +29,7 @@ W 2090
 bardzo 2074
 od 1889
 tak 1882
-był 1880
+był 1881
 Ona 1777
 Jestem 1668
 go 1661
@@ -60,7 +60,7 @@ cię 1120
 ze 1086
 przez 1083
 może 1074
-jestem 1042
+jestem 1051
 Jesteś 1031
 niż 1017
 żeby 1012
@@ -68,8 +68,8 @@ coś 1000
 mu 993
 by 982
 jeszcze 972
+pan 964
 tej 961
-pan 957
 mam 952
 była 933
 tam 899
@@ -79,9 +79,9 @@ Mój 866
 Dlaczego 833
 dobrze 822
 powiedział 817
+on 814
 dużo 812
 Ta 811
-on 804
 Na 798
 nic 798
 wszystko 789
@@ -151,8 +151,8 @@ ludzi 486
 nim 486
 moim 484
 książkę 481
-Moja 476
-gdzie 469
+Moja 477
+gdzie 474
 raz 467
 ty 467
 możesz 463
@@ -162,13 +162,13 @@ pod 458
 Oni 458
 swój 456
 Z 453
+wie 450
 Ile 450
 Masz 443
 Nikt 442
 dwa 441
 mojego 440
 szybko 437
-wie 435
 dzisiaj 435
 dom 433
 Lubię 431
@@ -202,13 +202,13 @@ zostać 373
 powodu 371
 lubię 369
 więc 368
+zrobił 368
 też 365
 Może 365
 chciał 365
 mają 363
 mojej 363
 swojego 362
-zrobił 359
 jeśli 353
 temu 353
 rano 352
@@ -316,12 +316,13 @@ wody 252
 jeść 251
 pokój 248
 dni 247
-Pan 245
+Pan 246
 angielskiego 245
 Naprawdę 245
 miejsce 244
 Powinieneś 244
 sposób 243
+pani 243
 końcu 242
 Przepraszam 242
 prawie 242
@@ -339,7 +340,6 @@ twoja 234
 myśli 233
 imię 233
 tygodniu 232
-pani 231
 były 230
 świecie 229
 Teraz 229
@@ -358,12 +358,12 @@ grać 224
 znaleźć 222
 porozmawiać 222
 Daj 221
+wiesz 221
 jeden 220
 Maria 219
 dwie 218
 Dziś 218
 pomoc 217
-wiesz 217
 im 217
 żebyś 217
 chodzi 216
@@ -384,6 +384,7 @@ samo 209
 Potrzebuję 208
 człowiek 207
 mieście 207
+kim 207
 Niech 207
 Myślałem 206
 tyle 206
@@ -408,7 +409,6 @@ powinien 198
 kiedykolwiek 198
 pociąg 197
 Ma 197
-kim 197
 przyszedł 197
 film 196
 jedzenia 196
@@ -467,13 +467,13 @@ zupełnie 171
 Znam 171
 czytać 170
 Jeszcze 170
+Wiesz 170
 znam 170
 ode 170
 Są 169
 południu 169
 jedzenie 169
 miejscu 169
-Wiesz 168
 została 168
 wolno 168
 czegoś 168
@@ -673,11 +673,11 @@ Nienawidzę 125
 słowo 124
 jakby 124
 zewnątrz 124
+piłkę 123
 jaki 123
 Tu 123
 dać 123
 wystarczająco 123
-piłkę 122
 robisz 122
 pojęcia 122
 Kupiłem 122
@@ -717,6 +717,7 @@ słownik 116
 godzin 116
 radę 116
 mama 116
+Pani 116
 wodę 116
 Bóg 116
 powiedziałeś 115
@@ -725,7 +726,6 @@ kwiaty 115
 końca 115
 Twoje 115
 klasie 115
-Pani 115
 pisać 115
 syna 115
 Gdy 114
@@ -828,6 +828,7 @@ całe 102
 spróbować 102
 uwierzyć 102
 pada 101
+Skąd 101
 zrobiłeś 101
 klucz 101
 nową 101
@@ -843,7 +844,6 @@ Wydaje 100
 języków 100
 Oto 99
 uwagę 99
-Skąd 99
 prowadzić 99
 wkrótce 99
 Lubisz 99
@@ -1038,6 +1038,7 @@ Wyglądasz 80
 łóżku 80
 Bill 80
 Ken 80
+córka 80
 Powinniśmy 80
 pożyczyć 80
 problemy 80
@@ -1051,7 +1052,6 @@ kapelusz 79
 jeździ 79
 imprezę 79
 pochodzi 79
-córka 79
 koty 79
 Szukam 79
 prawdopodobnie 79
@@ -1360,12 +1360,14 @@ grę 61
 płakać 61
 widzi 61
 Sam 61
+granicą 61
 ciemno 61
 różne 61
 Zrobił 61
 składa 61
 najlepszy 61
 liście 61
+Jeden 61
 piwa 61
 następny 61
 lekarstwo 61
@@ -1381,7 +1383,6 @@ dawna 60
 Znalazłem 60
 wspólnego 60
 niemiecku 60
-granicą 60
 mieli 60
 spotkaniu 60
 złe 60
@@ -1390,7 +1391,6 @@ Zgubiłem 60
 chłopiec 60
 jedynym 60
 silny 60
-Jeden 60
 przykład 60
 propozycję 60
 uczył 60
@@ -1831,6 +1831,7 @@ Mówiłem 45
 Dostałem 45
 angielskim 45
 naczynia 45
+fortepianie 45
 broń 45
 50 45
 Umiesz 45
@@ -1866,7 +1867,6 @@ zabił 45
 krajów 44
 tysięcy 44
 młodszy 44
-fortepianie 44
 zauważył 44
 dziesięciu 44
 Mało 44
@@ -2107,6 +2107,7 @@ firmie 39
 wiadomo 39
 bierze 39
 bilety 39
+psów 39
 mile 39
 uważnie 39
 nowym 39
@@ -2170,7 +2171,6 @@ wodzie 38
 drużyna 38
 hałasu 38
 Chętnie 38
-psów 38
 Zjadłem 38
 wdzięczny 38
 przyjedzie 38
@@ -2466,6 +2466,7 @@ Zdaje 33
 kolejny 33
 zdaje 33
 posiada 33
+studiuje 33
 potrafią 33
 następnego 33
 zmiany 33
@@ -2539,7 +2540,6 @@ zapomniałem 32
 pracowników 32
 Jedzenie 32
 mysz 32
-studiuje 32
 Niczego 32
 uniwersytet 32
 zamierzam 32
@@ -5982,6 +5982,7 @@ płytę 12
 przebrać 12
 wrażliwy 12
 płyt 12
+Wie 12
 zostaliśmy 12
 płyty 12
 Wszedłem 12
@@ -6516,6 +6517,7 @@ pobrać 11
 nagrody 11
 kłamcą 11
 kostkę 11
+wzrokiem 11
 Koszty 11
 faktów 11
 Zrozumiałem 11
@@ -7088,7 +7090,6 @@ napiszę 10
 Sprawdziłem 10
 mylą 10
 reputację 10
-wzrokiem 10
 brzydka 10
 pracując 10
 siedzenia 10
@@ -7235,6 +7236,7 @@ podejmować 10
 pożyczyłem 10
 kurwa 10
 zamykają 10
+Polką 10
 "A 10
 Plik 10
 śniadaniu 10
@@ -7624,7 +7626,6 @@ rozwój 9
 rozważyć 9
 konno 9
 wazon 9
-Wie 9
 zaprzeczyć 9
 Ojca 9
 piecze 9
@@ -8757,7 +8758,6 @@ spowodować 8
 złożył 8
 społeczeństwie 8
 guzik 8
-Polką 8
 lepszej 8
 skrzynkę 8
 rachunki 8

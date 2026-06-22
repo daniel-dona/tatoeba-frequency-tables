@@ -1,19 +1,19 @@
-on 1588
+on 1591
 Ma 950
 ei 754
 Tom 623
 Kas 455
 sa 441
-Ta 357
+Ta 358
 et 350
 See 286
 ma 227
 seda 214
 oma 206
-see 194
+see 195
 oli 172
 ja 161
-ta 154
+ta 155
 ole 150
 Sa 144
 olen 142
@@ -160,6 +160,7 @@ valmis 23
 naine 23
 tegi 23
 olete 23
+aastat 23
 Sul 23
 õpetaja 23
 auto 23
@@ -173,7 +174,6 @@ teine 22
 lapsed 22
 parem 22
 raamatu 22
-aastat 22
 üles 22
 tee 22
 saan 22
@@ -192,6 +192,7 @@ meeldivad 20
 Täna 20
 minuga 20
 oleme 20
+vana 20
 pea 20
 tahtnud 20
 Toomas 20
@@ -202,7 +203,6 @@ kiiresti 19
 elan 19
 saada 19
 väsinud 19
-vana 19
 kus 19
 Tomiga 19
 end 18
@@ -480,6 +480,7 @@ türgi 8
 kardan 8
 armastab 8
 kõrval 8
+Maria 8
 joon 8
 Aitäh 8
 teid 8
@@ -566,7 +567,6 @@ muusikat 7
 Seda 7
 sinine 7
 hakkas 7
-Maria 7
 kirjutab 7
 abi 7
 vabandust 7
@@ -1000,6 +1000,7 @@ jääd 4
 purjus 4
 usub 4
 kannab 4
+– 4
 silma 4
 avada 4
 kuulsin 4
@@ -1085,6 +1086,7 @@ ujub 4
 oodata 4
 ehitas 4
 televiisorit 4
+viiskümmend 4
 sild 4
 jalga 4
 vigu 4
@@ -1481,7 +1483,6 @@ vaatab 3
 maksid 3
 Portugal 3
 Inglise 3
-viiskümmend 3
 pudelit 3
 Mõlemad 3
 puidust 3
@@ -2544,6 +2545,7 @@ jäätunud 2
 Castle 2
 Logi 2
 Logige 2
+on“ 2
 Sellises 1
 kärestikus 1
 mõtlematu 1
@@ -3604,7 +3606,6 @@ puuvilja 1
 muudame 1
 teadus 1
 särki 1
-– 1
 Merel 1
 saared 1
 tõin 1
@@ -6857,3 +6858,9 @@ päikse 1
 sätendav 1
 emajõgi 1
 ennustan 1
+„Kes 1
+„See 1
+õpetaja“ 1
+„Kui 1
+„Ta 1
+vana“ 1

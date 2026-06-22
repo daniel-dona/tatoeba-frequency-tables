@@ -4,7 +4,7 @@ I 35
 Da 34
 ma 32
 a 31
-net 28
+net 29
 da 22
 Thomas 22
 des 21
@@ -24,13 +24,13 @@ scho 10
 und 10
 amoi 9
 eh 8
+– 8
 dass 7
 tuan 7
 uns 7
 in 7
 nu 7
 Wos 7
-– 7
 Mir 7
 zum 7
 Gö 6
@@ -49,6 +49,7 @@ woaß 5
 bin 5
 nia 5
 jo 5
+nix 5
 die 5
 es 5
 Glei 5
@@ -71,7 +72,6 @@ imma 4
 san 4
 'n 4
 Du 4
-nix 4
 mi 4
 gö 4
 Host 4
@@ -95,6 +95,7 @@ echt 3
 neamd 3
 ist 3
 weida 3
+bist 3
 d‘ 3
 ma's 3
 ham 3
@@ -124,6 +125,7 @@ angfressn 2
 Gemma 2
 aussi 2
 Schau 2
+im 2
 Tamma 2
 Hau 2
 waun 2
@@ -135,6 +137,7 @@ nie 2
 docht 2
 Millionen 2
 hättatst 2
+„Na 2
 „I 2
 sei 2
 Radl 2
@@ -169,7 +172,6 @@ kinnts 2
 denga 2
 wos'd 2
 „Des 2
-bist 2
 üba 2
 mein 2
 kana 2
@@ -217,6 +219,7 @@ Braan 2
 hoid 2
 ebas 2
 kon 2
+owa 2
 Um 2
 etza 2
 schen 2
@@ -290,7 +293,6 @@ mocha 1
 setz 1
 d'Sunn 1
 m'amoi 1
-im 1
 einfoit 1
 Dass 1
 dabei 1
@@ -332,7 +334,6 @@ wem 1
 hüfst’n 1
 Leicht 1
 Deitschn“ 1
-„Na 1
 aundern 1
 kloar“ 1
 a“ 1
@@ -700,7 +701,6 @@ datrogats 1
 nia/ 1
 hiazt 1
 datrogn/ 1
-owa 1
 frogts 1
 Foahr 1
 Zeigs 1
@@ -825,3 +825,10 @@ as 1
 eana 1
 januar 1
 Ea 1
+„Kumm 1
+Oida“ 1
+sicher 1
+Waunnst‘ 1
+unten 1
+erreichst‘ 1
+Lebm“ 1

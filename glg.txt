@@ -1,12 +1,12 @@
 a 1847
-que 1711
-o 1600
+que 1712
+o 1601
 de 1585
-é 1210
-e 905
+é 1211
+e 906
 non 836
-O 791
-un 775
+O 792
+un 776
 A 691
 unha 609
 Non 572
@@ -16,7 +16,7 @@ máis 429
 da 429
 os 427
 para 354
-no 338
+no 339
 as 335
 meu 307
 se 303
@@ -63,7 +63,7 @@ tempo 105
 das 105
 cando 101
 nada 97
-lingua 96
+lingua 97
 túa 95
 el 92
 era 92
@@ -74,7 +74,7 @@ mañá 89
 sempre 89
 tan 89
 só 88
-amor 87
+amor 88
 esta 85
 polo 85
 te 85
@@ -133,10 +133,10 @@ vai 58
 entre 58
 nosa 57
 veces 57
+dun 57
 aínda 57
 xente 56
 tarde 56
-dun 56
 bo 56
 che 54
 ir 54
@@ -359,12 +359,14 @@ tren 23
 nova 23
 Ese 23
 Aínda 23
+existe 23
 será 23
 miñas 22
 deste 22
 Cada 22
 café 22
 festa 22
+Na 22
 Vai 22
 corpo 22
 estación 22
@@ -380,12 +382,10 @@ beleza 22
 durmir 22
 pasado 22
 forma 22
-existe 22
 mesma 22
 idiomas 22
 desta 21
 certo 21
-Na 21
 Pero 21
 poden 21
 carta 21
@@ -462,6 +462,7 @@ pobre 17
 vas 17
 rico 17
 pelo 17
+debe 17
 senón 17
 estudar 17
 tivo 17
@@ -486,7 +487,6 @@ vén 16
 tódolos 16
 problemas 16
 chorar 16
-debe 16
 temos 16
 nosos 16
 chover 16
@@ -818,6 +818,7 @@ botar 9
 longo 9
 voar 9
 esforzos 9
+caso 9
 estuda 9
 ovos 9
 ouro 9
@@ -910,7 +911,6 @@ bos 8
 orde 8
 noivo 8
 chamada 8
-caso 8
 Terra 8
 fas 8
 famoso 8
@@ -1535,6 +1535,7 @@ mentira 5
 España 5
 carreira 5
 cadea 5
+suxeito 5
 piso 5
 deixe 5
 dentro 5
@@ -1612,6 +1613,7 @@ adoitan 5
 pon 5
 lentamente 5
 chea 5
+chamado 5
 Chegou 5
 Rusia 5
 voan 5
@@ -1658,6 +1660,7 @@ ilusión 5
 ondas 5
 inmensa 5
 importantes 5
+verbo 5
 oídos 5
 comunicación 5
 goles 5
@@ -1874,7 +1877,6 @@ voces 4
 forzas 4
 Nesta 4
 igrexas 4
-suxeito 4
 cordóns 4
 obter 4
 penses 4
@@ -2006,7 +2008,6 @@ ordenador 4
 morreron 4
 seca 4
 xeran 4
-chamado 4
 desgraza 4
 falou 4
 toma 4
@@ -2082,7 +2083,6 @@ pensamento 4
 reino 4
 médicos 4
 epónimos 4
-verbo 4
 Tres 4
 romanos 4
 progreso 4
@@ -4626,6 +4626,7 @@ nacemento 2
 mellorará 2
 viláns 2
 afecto 2
+harmonía 2
 cascallos 2
 adolescente 2
 volverá 2
@@ -9997,4 +9998,3 @@ lavei 1
 vounos 1
 ensuciar 1
 aseguramos 1
-cargos 1

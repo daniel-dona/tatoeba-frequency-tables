@@ -1,22 +1,22 @@
-d 400
-ad 332
+d 404
+ad 333
 n 239
-di 237
+di 238
 Tom 224
 Ziri 216
-i 205
+i 206
 Ma 163
 ar 153
 Mani 149
 war 128
 Necc 120
 Min 115
-Wer 110
+Wer 111
 Qa 109
 zi 106
 War 105
 ɣer 100
-Ad 94
+Ad 95
 wer 93
 Maɣer 92
 Yanni 88
@@ -26,7 +26,7 @@ da 82
 aṭṭas 75
 Man 69
 din 67
-min 65
+min 66
 Wi 64
 deg 63
  62
@@ -46,10 +46,10 @@ ca 42
 am 41
 ma 41
 a 41
+manaya 41
 Sami 40
 D 40
 Manis 40
-manaya 40
 aked 39
 ayi 38
 tameccit 38
@@ -57,9 +57,9 @@ ttuɣa 37
 x 36
 ɣer-s 36
 yella 35
+Xseɣ 35
 tamaziɣt 34
-Xseɣ 34
-xseɣ 33
+xseɣ 34
 ijjen 32
 mliḥ 32
 Ur 31
@@ -67,8 +67,8 @@ aman 30
 walu 30
 Mamek 30
 abrid 30
+yelli 29
 marra 28
-yelli 28
 wen 28
 Cekk 27
 ur 26
@@ -83,6 +83,7 @@ cem 24
 Rima 24
 ci 24
 zeg 23
+Ssneɣ 23
 s 23
 ɛad 23
 nican 23
@@ -90,7 +91,6 @@ Walu 23
 yeqqim 23
 nettat 23
 ṯexseḏ 23
-Ssneɣ 22
 tutlayt 22
 aɣrum 22
 amenni 22
@@ -99,6 +99,7 @@ aysum 22
 tella 22
 inu 21
 yexs 21
+yellan 21
 Ṭanja 21
 cwayt 20
 cemm 20
@@ -108,15 +109,14 @@ ak 20
 netta 20
 aḏ 20
 tinmel 20
-yellan 20
 ɣef 20
 cay 20
 ac 19
 sɣeɣ 19
 ssneɣ 19
+qaɛ 19
 As-d 19
 Cek 18
-qaɛ 18
 lliɣ 18
 Tum 18
 ass-a 18
@@ -162,6 +162,7 @@ adlis 14
 Manaya 14
 tcamma 14
 tenna 14
+tuɣa 13
 bu 13
 Kenniw 13
 yeɛna 13
@@ -179,7 +180,6 @@ Dzayer 13
 Lmeɣrib 13
 yenna 13
 tacacit 13
-tuɣa 12
 wenẓar 12
 lmliḥ 12
 Nec 12
@@ -247,6 +247,7 @@ Cḥal 9
 Ɣer-neɣ 9
 tunubil 9
 yedwel 9
+lebda 9
 ataras 9
 ubrid 9
 Sakura 9
@@ -288,7 +289,6 @@ Iraḥ 8
 amaynu 8
 kul 8
 Ɣer-k 8
-lebda 8
 aweddar 8
 Ijjen 8
 iḍlisen 8
@@ -361,6 +361,7 @@ qama 6
 ameẓyan 6
 mala 6
 Necnin 6
+iliɣ 6
 Bedd 6
 qqaren 6
 Ṯezmmreḏ 6
@@ -425,7 +426,6 @@ awarni 5
 axxam 5
 xmi 5
 As-dd 5
-iliɣ 5
 maci 5
 tellim 5
 Kennint 5
@@ -651,6 +651,7 @@ Nitninti 4
 Abrid 4
 tezwid 4
 Tettɣil 4
+tameḥḍart 4
 Kennimti 4
 Yerreḍ 4
 arruḍ-nni 4
@@ -826,6 +827,7 @@ Isnta 3
 tarbat 3
 Sseneɣ 3
 ɛzizi 3
+memmi-s 3
 imesgnef 3
 d-as 3
 Lquran 3
@@ -887,6 +889,7 @@ truḥ 3
 ɣliɣ 3
 Tudert 3
 tasebḥant 3
+tabaḥt 3
 ḍi 3
 ya 3
 aḍ 3
@@ -955,7 +958,6 @@ yenni 3
 missa 3
 tecqa 3
 tecca 3
-tameḥḍart 3
 Timmy 3
 iwala 3
 Imun 3
@@ -1330,7 +1332,6 @@ d-wenni 2
 yeḥman 2
 uɣzdis 2
 ixemmem 2
-memmi-s 2
 Skura 2
 iman-nes 2
 arbɛa 2
@@ -1504,7 +1505,6 @@ tegguj 2
 aẓru-ya 2
 Ggut 2
 taɛwejt 2
-tabaḥt 2
 Nercel 2
 yettaggud 2
 tizizwa 2
@@ -1867,6 +1867,8 @@ Tenqer 2
 Aftaḥ 2
 tsufɣed 2
 tewta-yi 2
+Tejja 2
+weḥd-s 2
 iḥman 1
 Araḥed 1
 kkaren 1
@@ -5173,3 +5175,12 @@ yettɣaz 1
 yettqaz 1
 Trebḥed 1
 Intirnit 1
+Yuri-asen 1
+mmi-s 1
+Taftilt 1
+texxamt-nnes 1
+neqjeb 1
+zzher-nneɣ 1
+Asusem 1
+ilelli 1
+Marya 1
