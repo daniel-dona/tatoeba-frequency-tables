@@ -1,17 +1,17 @@
-d 404
+d 406
 ad 333
-n 239
+n 241
 di 238
 Tom 224
 Ziri 216
-i 206
-Ma 163
-ar 153
+i 207
+Ma 165
+ar 154
 Mani 149
 war 128
-Necc 120
+Necc 121
 Min 115
-Wer 111
+Wer 112
 Qa 109
 zi 106
 War 105
@@ -31,8 +31,8 @@ Wi 64
 deg 63
  62
 ḏ 59
+Mary 56
 qa 56
-Mary 55
 ɣa 55
 as 51
 ked 49
@@ -41,8 +41,8 @@ Nettat 48
 Taziri 48
 ssineɣ 45
 Mayemmi 44
+ca 43
 cek 43
-ca 42
 am 41
 ma 41
 a 41
@@ -123,13 +123,13 @@ ass-a 18
 manaynni 18
 dd 18
 waha 18
+teggurd 18
 uɣerbaz 18
 Cemm 17
 mani 17
 waman 17
 lux 17
 drus 17
-teggurd 17
 Texseɣ 17
 Wa 16
 ɣar 16
@@ -147,6 +147,7 @@ nniɣ 15
 necc 15
 yessen 15
 azirar 15
+ula 15
 zdat 15
 ten 15
 taḍuft 15
@@ -154,7 +155,6 @@ nnek 14
 yarzu 14
 llan 14
 tidet 14
-ula 14
 izdeɣ 14
 ḏi 14
 Ttexseɣ 14
@@ -187,6 +187,7 @@ man 12
 aydi 12
 ṯaglinziṯ 12
 Neččin 12
+iḍennaṭ 12
 manayenni 12
 Newweḍ 12
 llant 12
@@ -208,9 +209,9 @@ Ta 11
 tin 11
 tisnt 11
 Igg 11
+tiwecca 11
 Marra 11
 rxeḏmeṯ 11
-iḍennaṭ 11
 Ṯeqqel 11
 imeslem 11
 Iccat 10
@@ -222,7 +223,6 @@ yeggur 10
 zik 10
 bla 10
 ṯ 10
-tiwecca 10
 maɣer 10
 Ṯexẓar 10
 Ggureɣ 10
@@ -252,6 +252,7 @@ ataras 9
 ubrid 9
 Sakura 9
 zemmreɣ 9
+qqar 9
 inniɣ 9
 amaziɣ 9
 imaziɣen 9
@@ -263,6 +264,7 @@ tellam 9
 tellamt 9
 ariɣ 9
 arzuɣ 8
+A 8
 Wah 8
 Deg 8
 Azul 8
@@ -294,14 +296,12 @@ Ijjen 8
 iḍlisen 8
 teɛna 8
 Iwdan 8
-qqar 8
 Qa-t 8
 Ttuɣa-tt 8
 Yefser 8
 yeṭṭes 8
 Aṭṭas 7
 Ar 7
-A 7
 ɛawed 7
 isu 7
 asen 7
@@ -486,6 +486,7 @@ yek 5
 afessay 5
 tanfust-nni 5
 texseɣ 5
+umkan 5
 Ɣra 5
 iḍgiḍ 5
 texs 5
@@ -568,6 +569,7 @@ uɣarbaz 4
 timellalin 4
 Afiɣat 4
 Ɣares 4
+xsen 4
 Sitimeɣ 4
 neqqim 4
 yemma 4
@@ -615,7 +617,6 @@ irareɣ 4
 weltma-k 4
 ssiwleɣ 4
 Ayaw 4
-umkan 4
 Teqqel 4
 zdat-s 4
 tzemred 4
@@ -789,7 +790,6 @@ Arẓem 3
 Qqaɛ 3
 amcic 3
 d-acmlal 3
-xsen 3
 Isala 3
 misa 3
 acem 3
@@ -900,6 +900,7 @@ tas 3
 Ruḥ 3
 Yedwel-d 3
 yedwel-d 3
+ayawya 3
 Nekkes 3
 wargaz 3
 tameddit-a 3
@@ -1526,7 +1527,6 @@ Texs 2
 Tenɣa 2
 Betty 2
 Taknarit 2
-ayawya 2
 unafag 2
 imeggura 2
 jdid 2
@@ -1772,6 +1772,7 @@ Tessned-t 2
 Tessned-nneɣ 2
 Tessned-ten 2
 Tessned-tent 2
+yercel 2
 yemsren 2
 tettru 2
 nru 2
@@ -1869,6 +1870,7 @@ tsufɣed 2
 tewta-yi 2
 Tejja 2
 weḥd-s 2
+Jon 2
 iḥman 1
 Araḥed 1
 kkaren 1
@@ -4692,7 +4694,6 @@ tessned-t 1
 tessned-tt 1
 taḥaryat 1
 George 1
-yercel 1
 Jurej 1
 Yefsey 1
 udfel 1
@@ -5184,3 +5185,11 @@ zzher-nneɣ 1
 Asusem 1
 ilelli 1
 Marya 1
+Neẓra 1
+izem 1
+Yann 1
+yijjen 1
+xek 1
+sijeɣ 1
+idlisen-a 1
+Kanji 1

@@ -15,14 +15,14 @@ obe 163
 dö 160
 Kikod 158
 is 148
-olik 145
+olik 146
 at 144
 ko 141
 Kisi 132
 vemo 126
 Binob 111
 Vilob 110
-ob 109
+ob 110
 obi 108
 oli 103
 Nolob 99
@@ -35,9 +35,9 @@ ole 92
 ka 90
 vilom 88
 al 86
+binob 81
 ol 81
 Tomase 81
-binob 80
 golön 79
 keli 79
 adelo 77
@@ -141,6 +141,7 @@ vifiko 30
 usi 30
 sod 30
 esagom 30
+fat 29
 Fat 29
 nedom 29
 löfob 29
@@ -150,7 +151,6 @@ it 29
 tikol 29
 oni 28
 gretik 28
-fat 28
 gletik 28
 men 28
 kiöp 28
@@ -1087,6 +1087,7 @@ votik 3
 Ols 3
 mutols 3
 selidöp 3
+Nö 3
 paseti 3
 Nog 3
 svidik 3
@@ -1554,7 +1555,6 @@ visitön 2
 topon-li 2
 panemon 2
 volapük 2
-Nö 2
 löfon 2
 votükön 2
 Ereidob 2

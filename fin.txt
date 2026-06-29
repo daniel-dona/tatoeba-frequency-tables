@@ -1,4 +1,4 @@
-on 29498
+on 29499
 ei 10804
 Tom 9926
 Hän 8490
@@ -6,14 +6,14 @@ ja 6913
 että 6907
 Tomi 6404
 ole 6370
-oli 5777
+oli 5778
 En 4985
 Minä 4487
 Se 3818
 hän 3611
 se 3435
 kuin 3385
-Olen 3030
+Olen 3032
 ovat 2958
 sinä 2885
 sen 2769
@@ -38,7 +38,7 @@ minua 1752
 He 1707
 olla 1688
 minä 1687
-Minulla 1654
+Minulla 1655
 koskaan 1653
 sinun 1578
 Älä 1568
@@ -68,7 +68,7 @@ kaikki 1148
 vielä 1125
 Oletko 1118
 Miksi 1102
-tämän 1095
+tämän 1096
 aina 1083
 mennä 1076
 Tomilla 1076
@@ -82,7 +82,7 @@ jo 986
 Ei 982
 pitäisi 970
 vähän 954
-Tuo 946
+Tuo 947
 tulee 931
 et 892
 juuri 863
@@ -234,7 +234,7 @@ sanoa 361
 Meillä 360
 kaunis 360
 töitä 359
-yli 355
+yli 356
 kirjan 353
 pitänyt 352
 Emme 350
@@ -310,7 +310,7 @@ pitkään 288
 Mihin 287
 emme 286
 aikaan 285
-menee 284
+menee 285
 tarpeeksi 282
 Etkö 281
 ongelma 281
@@ -995,12 +995,12 @@ Vain 88
 kaupunki 88
 opiskelee 88
 sairas 88
+Tapasin 88
 seitsemän 88
 viiniä 88
 Tulin 88
 Antakaa 88
 miestä 87
-Tapasin 87
 pöydän 87
 kiinnostaa 87
 Kävin 87
@@ -9418,6 +9418,7 @@ hautajaisissa 8
 tunsivat 8
 shokissa 8
 yhtiön 8
+toimittaja 8
 vitsailee 8
 varoa 8
 Osakan 8
@@ -9997,4 +9998,3 @@ neljäsosan 8
 mäntyjen 8
 vesirokon 8
 laulakin 8
-rakennussuunnitelmat 8

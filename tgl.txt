@@ -1,12 +1,12 @@
-ang 35265
-sa 27963
+ang 35266
+sa 27965
 ng 26509
 na 16785
 po 13866
 ko 12687
 mga 12296
-Tom 9626
-si 8964
+Tom 9628
+si 8965
 ako 8395
 mo 6341
 ni 6300
@@ -14,12 +14,12 @@ Hindi 6103
 at 5493
 ba 5347
 niya 4912
-ay 4725
+ay 4727
 ito 4668
 siya 4639
 May 4072
 nang 3739
-Ang 3682
+Ang 3683
 ka 3667
 hindi 3057
 akong 2892
@@ -122,7 +122,7 @@ ano 485
 raw 476
 tayong 474
 kahit 467
-Si 466
+Si 467
 Ayaw 464
 libro 463
 nating 452
@@ -342,9 +342,9 @@ langit 169
 gatas 169
 gulang 168
 galing 168
+kusina 168
 kitang 167
 mansanas 167
-kusina 166
 ayaw 165
 niyan 165
 kapihan 165
@@ -372,8 +372,8 @@ muna 153
 John 153
 dati 153
 ibon 151
+naging 151
 karne 150
-naging 150
 papel 150
 bus 149
 bawat 148
@@ -585,9 +585,9 @@ Nakikita 97
 basahin 96
 magbasa 96
 Mayroong 96
+Naging 96
 Nitong 96
 Amerika 95
-Naging 95
 Tingnan 95
 keso 95
 ama 95
@@ -1855,6 +1855,7 @@ tawad 30
 ipagtanggol 30
 naaalala 30
 bulag 30
+gripo 30
 sobre 30
 pansit 30
 estatwa 30
@@ -1964,7 +1965,6 @@ Pinakita 28
 Aprika 28
 Mag-isa 28
 matinding 28
-gripo 28
 Dilaw 28
 aktor 28
 Antonio 28
@@ -3825,6 +3825,7 @@ Gabi 13
 Hapong 13
 tinitingnan 13
 sila'y 13
+tumutulo 13
 karami 13
 sinabing 13
 batong 13
@@ -4098,7 +4099,6 @@ nagkakape 12
 Nagsisinungaling 12
 Matanda 12
 krema 12
-tumutulo 12
 bampira 12
 lalagyan 12
 mamang 12
@@ -5160,6 +5160,7 @@ Na 9
 Sumayaw 9
 Sumang-ayon 9
 itinuturing 9
+dentista 9
 maghuhugas 9
 Kamukhang-kamukha 9
 kapitan 9
@@ -6291,7 +6292,6 @@ Alisin 7
 Sinasayang 7
 bata-bata 7
 nakapagsabi 7
-dentista 7
 nahahanap 7
 kabaitan 7
 Sumakit 7
@@ -9777,6 +9777,7 @@ Pinaalis 4
 Nag-gigitara 4
 weyter 4
 nakahinga 4
+Tumutulo 4
 Kinalabit 4
 Dapot 4
 lagpasan 4
@@ -9997,4 +9998,3 @@ pagpilian 4
 Iiwanan 4
 Hinihikayat 4
 palutang-lutang 4
-madaanan 4

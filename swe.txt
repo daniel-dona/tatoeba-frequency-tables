@@ -4,14 +4,14 @@ att 7171
 Tom 7140
 inte 6992
 en 5191
-du 5179
-på 4895
+du 5180
+på 4896
 det 4804
 i 4630
 har 4266
 Det 3929
 Han 3440
-jag 3185
+jag 3186
 mig 2755
 för 2719
 här 2682
@@ -25,7 +25,7 @@ ett 1966
 som 1924
 dig 1917
 Vi 1908
-den 1850
+den 1851
 kan 1694
 av 1618
 Du 1614
@@ -52,11 +52,11 @@ där 782
 vara 782
 Har 774
 ha 762
-hade 747
+hade 748
 ut 743
-Var 737
+Var 738
 Den 730
-vad 722
+vad 723
 de 696
 din 694
 tycker 651
@@ -88,8 +88,8 @@ blev 444
 dag 430
 eller 430
 gick 426
+gör 425
 alla 425
-gör 424
 lite 420
 mitt 416
 något 415
@@ -122,7 +122,7 @@ borde 338
 När 335
 få 328
 komma 322
-hans 321
+hans 320
 sitt 317
 tog 315
 verkligen 311
@@ -148,7 +148,7 @@ ditt 277
 franska 276
 mina 271
 vid 269
-sina 266
+sina 267
 kunna 263
 ligger 262
 vilja 259
@@ -479,12 +479,12 @@ runt 73
 land 73
 Gillar 73
 gärna 72
+Så 72
 brev 72
 Vilket 72
 vecka 72
 saknar 72
 natten 72
-Så 71
 tro 71
 tillräckligt 71
 lärare 70
@@ -617,7 +617,6 @@ hört 55
 kläder 55
 sak 55
 redo 55
-behövde 55
 härifrån 54
 japanska 54
 vinna 54
@@ -626,6 +625,7 @@ Känner 54
 tur 54
 drack 54
 låta 54
+behövde 54
 tyst 54
 betyder 53
 bussen 53
@@ -1362,6 +1362,7 @@ använde 21
 lat 21
 kilometer 21
 ringt 21
+Köpte 21
 kastade 21
 gammalt 21
 pojke 21
@@ -1416,7 +1417,6 @@ rörde 20
 kolla 20
 närvarande 20
 Visst 20
-Köpte 20
 kropp 20
 Norge 20
 unga 20
@@ -1548,6 +1548,7 @@ kamera 18
 Bara 18
 byn 18
 Både 18
+svarta 18
 stirrade 18
 våren 18
 Sveriges 18
@@ -1599,7 +1600,6 @@ kriget 17
 Katter 17
 luft 17
 lärt 17
-svarta 17
 faller 17
 meter 17
 byggnaden 17
@@ -3315,6 +3315,7 @@ poesi 7
 klassrummet 7
 njuter 7
 förlät 7
+behövt 7
 Glad 7
 pensionerad 7
 tidig 7
@@ -3769,7 +3770,6 @@ vems 6
 absorberar 6
 livets 6
 taxichaufför 6
-behövt 6
 Ert 6
 moln 6
 skyller 6

@@ -1,19 +1,19 @@
-t 1961
-is 1925
+t 1962
+is 1927
 k 1874
-n 1753
-nait 1088
-Tom 901
+n 1754
+nait 1089
+Tom 902
 van 787
 Ik 739
 Hai 694
-dat 639
+dat 640
 binnen 613
 de 560
-te 530
+te 531
 op 507
 mie 500
-het 490
+het 491
 in 463
 Wie 451
 mit 438
@@ -25,10 +25,10 @@ doe 339
 Zai 338
 veur 327
 aan 318
-was 314
+was 315
 noar 312
 joe 298
-heur 293
+heur 294
 zien 282
 dien 275
 De 274
@@ -36,16 +36,16 @@ die 269
 hebben 268
 Wat 265
 gain 263
+as 261
 wat 261
-as 260
-Ze 253
-Mien 252
+Ze 254
+Mien 253
 ik 249
 Doe 242
 Heb 240
 der 236
 Dat 235
-om 228
+om 229
 heb 220
 Bin 199
 hom 198
@@ -60,7 +60,7 @@ veul 162
 dizze 160
 Woar 156
 Dit 155
-hier 154
+hier 155
 ie 150
 doun 149
 Kin 147
@@ -69,7 +69,7 @@ mor 144
 bin 142
 oet 137
 goan 135
-ze 134
+ze 135
 bie 131
 zo 127
 dit 127
@@ -90,10 +90,10 @@ Hest 104
 Zie 104
 meer 103
 haar 103
-joar 99
+joar 100
 niks 96
+wezen 95
 Was 94
-wezen 94
 muide 92
 kovvie 92
 zel 91
@@ -125,9 +125,9 @@ worden 67
 geern 66
 wotter 66
 vroagen 66
+vraauw 66
 Joe 65
 hoes 65
-vraauw 65
 old 64
 kommen 63
 doan 62
@@ -147,9 +147,9 @@ aine 57
 laank 57
 komt 57
 woar 55
+beter 55
 wait 55
 woont 54
-beter 54
 zee 54
 zol 54
 aal 53
@@ -177,9 +177,9 @@ mienent 48
 nije 47
 tegen 47
 neudeg 47
+bruier 47
 lezen 46
 willen 46
-bruier 46
 mout 46
 Welke 45
 ais 45
@@ -417,6 +417,7 @@ blaauw 20
 Joen 20
 wereld 20
 tien 20
+geboren 20
 bloumen 20
 snij 20
 perbaaiern 20
@@ -441,7 +442,6 @@ dust 19
 zollen 19
 kees 19
 vergeten 19
-geboren 19
 blaauwe 19
 fiets 19
 Wor 19
@@ -600,6 +600,7 @@ klaid 13
 gruine 13
 gongen 13
 rieden 13
+twinteg 13
 gebeurd 13
 Wilstoe 13
 dokter 13
@@ -643,7 +644,6 @@ slik 12
 keek 12
 zelst 12
 winnen 12
-twinteg 12
 appel 12
 gelukkeg 12
 ston 12
@@ -841,6 +841,7 @@ kwiet 10
 gewoon 10
 Ast 10
 je 10
+eerder 10
 begon 10
 droeven 10
 kwammen 9
@@ -935,7 +936,6 @@ steur 9
 laind 9
 Aan 9
 steuren 9
-eerder 9
 begriep 9
 zunnebril 9
 zuske 9
@@ -2471,6 +2471,7 @@ stel 3
 steld 3
 Die 3
 aandoan 3
+recht 3
 moakte 3
 muik 3
 speul 3
@@ -2721,6 +2722,7 @@ eerlieks 2
 pazen 2
 smookst 2
 Aarg 2
+bibbern 2
 onmis 2
 fietse 2
 hoatte 2
@@ -3486,7 +3488,6 @@ dessert 2
 Vroagen 2
 Beantwoord 2
 begriept 2
-recht 2
 maank 2
 waitenschoppelke 2
 betwievel 2
@@ -4071,6 +4072,7 @@ verkocht" 2
 verschiensel 2
 accu 2
 experts 2
+rechter 2
 noagenog 2
 middelpunt 2
 vissen 2
@@ -4184,7 +4186,6 @@ Grootmoe 1
 heer" 1
 Paries" 1
 swaiten 1
-bibbern 1
 fleddermoezen 1
 Jeuzelt 1
 Kloagt 1
@@ -8382,7 +8383,6 @@ onholden 1
 ziebaalk 1
 theepot 1
 Oordail 1
-rechter 1
 definitief 1
 grootvoader 1
 aarfd 1
@@ -9082,3 +9082,5 @@ wens 1
 Wensen 1
 miste 1
 boog 1
+wenste 1
+Swaiten 1

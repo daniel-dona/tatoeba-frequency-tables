@@ -1,7 +1,7 @@
-esas 3742
+esas 3744
 Me 2821
 la 2621
-ne 1660
+ne 1662
 Tom 1359
 La 1266
 me 1113
@@ -12,7 +12,7 @@ en 734
 havas 723
 Il 572
 vu 563
-Ni 530
+Ni 532
 ke 526
 mea 499
 a 491
@@ -26,8 +26,8 @@ tre 344
 por 342
 to 329
 El 324
-il 322
-Mea 314
+il 323
+Mea 316
 vi 282
 kun 269
 savas 262
@@ -41,8 +41,8 @@ To 227
 Li 225
 sua 217
 kam 204
+Ne 203
 Ilu 202
-Ne 202
 pri 201
 prizas 199
 el 195
@@ -104,9 +104,9 @@ patro 96
 odias 95
 ad 93
 multe 92
+Quale 92
 dum 92
 bone 92
-Quale 91
 devas 91
 dicis 91
 nia 90
@@ -125,12 +125,12 @@ Vi 81
 facar 81
 al 80
 esar 79
+nomo 76
 nomesas 76
 kande 74
 amiko 74
 sen 74
 mondo 74
-nomo 74
 matro 72
 darfas 71
 kompris 71
@@ -205,20 +205,20 @@ havis 48
 yuna 47
 Bona 46
 problemo 46
+hodie 46
 elua 45
 vivas 45
 altra 45
-hodie 45
 libri 44
 hiere 44
 arivis 44
 On 44
 che 44
+standas 44
 okuli 44
 venas 44
 existas 44
 iras 43
-standas 43
 infanti 43
 dormas 43
 ante 43
@@ -386,6 +386,7 @@ cielo 24
 fisho 24
 Onu 24
 jus 24
+karno 24
 esperas 23
 komencis 23
 preske 23
@@ -401,7 +402,6 @@ plusa 23
 fatigita 23
 mortigis 23
 stranja 23
-karno 23
 supo 23
 Franciana 23
 Rima 23
@@ -783,6 +783,7 @@ surda 11
 volfo 11
 korekta 11
 plezas 11
+manjez 11
 reala 11
 diferanta 11
 koquas 11
@@ -862,7 +863,6 @@ simii 10
 furtis 10
 pladi 10
 ploris 10
-manjez 10
 frukti 10
 Hispana 10
 Sen 10
@@ -1155,6 +1155,7 @@ korto 7
 Ibe 7
 vicini 7
 L'uceli 7
+flugas 7
 postmarki 7
 kolektas 7
 festo 7
@@ -1305,7 +1306,6 @@ aviono 6
 favorata 6
 marchas 6
 saturdio 6
-flugas 6
 motivo 6
 evidenta 6
 papilioni 6
@@ -9610,3 +9610,6 @@ L'automobilo 1
 eskombristo 1
 ekspliko 1
 movemento 1
+Hiraya 1
+Makisig 1
+aviacas 1

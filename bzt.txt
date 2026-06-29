@@ -1,9 +1,9 @@
 es 301
 Eo 213
 yn 171
-rhen 152
+rhen 153
 di 117
-Tomos 105
+Tomos 106
 ill 98
 lla 89
 Ys 85
@@ -16,8 +16,8 @@ a 54
 yst 46
 mew 44
 eo 42
+Nw 39
 sunt 38
-Nw 38
 er 37
 Llo 33
 Ty 32
@@ -34,7 +34,7 @@ per 20
 gw 19
 gath 19
 Gw 19
-llw 17
+llw 18
 gws 17
 sun 17
 sew 17
@@ -358,6 +358,7 @@ meddig 3
 i'll 3
 safad 3
 inheirfent 3
+h-af 3
 yddew 3
 Der 3
 'walurun 3
@@ -581,7 +582,6 @@ k'lwg 2
 baref 2
 ffyfan 2
 faistres 2
-h-af 2
 criediwn 2
 wach 2
 Ioan 2
@@ -1383,3 +1383,4 @@ carn 1
 borch 1
 proifed 1
 islam 1
+'wolan 1

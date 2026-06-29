@@ -11,10 +11,10 @@ Tena 31
 vare 30
 si 29
 vorek 29
- 26
 moǩo 26
 oǩo 25
 Chki 25
+ 25
 tena 25
 Tina 24
 Tomi 23
@@ -44,13 +44,13 @@ ula 15
 Çki 14
 Ase 14
 mushi 14
-meri 13
 mutuni 13
 djgiri 13
 djoxo 13
 çkimi 13
 rdƨ 13
 iro 12
+meri 12
 toms 12
 xvale 12
 bordji 12
@@ -62,7 +62,6 @@ tak 11
 Tomk 11
 va 11
 michku 10
-Tiki 10
 tzaneri 10
 arti 10
 - 10
@@ -76,6 +75,7 @@ reki 9
 teshi 9
 Djgiri 9
 ç̌ita 9
+Tiki 9
 para 9
 Amdǧa 9
 gverdi 9
@@ -131,7 +131,6 @@ shilebe 5
 mutun 5
 dolari 5
 Moǩo 5
-martal 5
 voxora 5
 didi 5
 ichiebu 5
@@ -179,6 +178,7 @@ tashi 4
 mortu 4
 muç̌ot 4
 mashƨna 4
+martal 4
 oxori 4
 iuuapu 4
 Muzma 4
@@ -189,7 +189,6 @@ oǩodƨ 4
 Tinepk 4
 mapu 4
 peri 4
-Migaxvamant 4
 Namu 4
 ǧvini 4
 teki 4
@@ -214,7 +213,6 @@ vamiçkƨ 4
 uudes 4
 çkaras 4
 rek 4
-oxorana 4
 p̌eulepi 4
 oxorans 4
 mangari 4
@@ -269,6 +267,7 @@ Chkini 3
 gvalo 3
 tzq'ari 3
 Michku 3
+Migaxvamant 3
 Tomish 3
 Tik 3
 Mozodjit 3
@@ -312,6 +311,7 @@ Sode 3
 aǧani 3
 Meu 3
 ɣuça 3
+oxorana 3
 kumortƨ 3
 Meris 3
 getu 3
@@ -1096,9 +1096,10 @@ sṫudenṫepi 1
 mudgaren 1
 musikas 1
 ibjina 1
-mushit 1
-gaketu 1
-oç̌kumali 1
+მერიქ 1
+მუშით 1
+გაკეთუ 1
+ოჭკომალი 1
 Tomi-k 1
 doitsiganu 1
 ubadoshe 1
@@ -1167,6 +1168,7 @@ sakme 1
 p̌eulis 1
 udjinedƨ 1
 Ushulebu 1
+მიგახვამანთ 1
 Djgirobua 1
 ragadanc 1
 prangulc 1
@@ -1378,7 +1380,9 @@ shaxmatish 1
 laaapi 1
 Muzhamts 1
 michomilua 1
-vatku 1
+ეთიქ 1
+ვათქუ 1
+მართალი 1
 mamonǩa 1
 mokodu 1
 imṫiǩoni 1
@@ -3364,8 +3368,9 @@ Mili 1
 Ǩochi 1
 kobalʒ 1
 Goǩono 1
-Chxomepi 1
-zuǧas 1
+ჩხომეფი 1
+ზღვას 1
+ოხორანა 1
 ǩirbis 1
 diachkims 1
 etzuxeki 1

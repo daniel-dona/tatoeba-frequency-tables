@@ -138,11 +138,11 @@ ndege 158
 chakula 157
 pesa 157
 wana 157
-Nili 156
 ba 156
 zake 156
 hakuna 156
 ambao 155
+Nili 155
 kisha 153
 kumi 152
 rangi 152
@@ -819,7 +819,6 @@ inaendelea 32
 hotuba 32
 miti 32
 nasema 32
-sikia 32
 kujuwa 32
 mwanadamu 32
 cheza 32
@@ -845,6 +844,7 @@ miezi 31
 yepeke 31
 kuchekesha 31
 endelea 31
+sikia 31
 kiwanja 31
 Ili 31
 kuuza 31
@@ -1164,6 +1164,7 @@ umoya 22
 sanaa 22
 Oh 22
 mwandishi 22
+Nilisikia 22
 natafuta 22
 upepo 22
 miungu 22
@@ -1212,7 +1213,6 @@ Ndani 21
 shamba 21
 Minajua 21
 aibu 21
-Nilisikia 21
 misemo 21
 nguruwe 21
 binafsi 21
@@ -1444,7 +1444,6 @@ inaanza 17
 tengeneza 17
 kiasi 17
 ngazi 17
-aki 17
 sa 17
 malipo 17
 changu 17
@@ -1530,6 +1529,7 @@ tembea 16
 utulivu 16
 uwe 16
 kitendo 16
+aki 16
 kigeni 16
 sekondari 16
 kata 16
@@ -2637,7 +2637,6 @@ angaliya 9
 FBI 9
 Ndaweza 9
 anatoka 9
-lia 9
 padiri 9
 Mpaka 9
 nilienda 9
@@ -2908,6 +2907,7 @@ Toa 8
 Wanaume 8
 mshindi 8
 p 8
+lia 8
 Ninawaza 8
 kutanana 8
 machafu 8
@@ -4051,6 +4051,7 @@ pendekeza 5
 kijinsia 5
 mayayi 5
 julu 5
+akilia 5
 itafanya 5
 maelewano 5
 Tim 5
@@ -4753,7 +4754,6 @@ tulisha 4
 inawaka 4
 muujiza 4
 Meya 4
-akilia 4
 kukuletea 4
 Nilipo 4
 kumushukuru 4

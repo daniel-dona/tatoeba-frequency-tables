@@ -1,14 +1,14 @@
-je 1889
-se 697
+je 1891
+se 698
 u 633
-sam 513
+sam 515
 da 474
 li 431
 na 364
-Tom 327
-ne 317
+Tom 328
+ne 318
 i 272
-mi 244
+mi 245
 su 241
 Ne 207
 to 205
@@ -25,7 +25,7 @@ me 126
 smo 122
 s 118
 će 112
-Ja 105
+Ja 107
 Što 103
 Ona 103
 bi 102
@@ -47,18 +47,18 @@ Zašto 58
 Je 56
 bih 56
 Mary 56
+ali 55
+Imam 55
 Kako 54
-ali 54
 Želim 54
 dobro 54
-Imam 54
 kako 53
 ići 53
 iz 52
+uvijek 51
 Ovo 50
 dan 50
 može 50
-uvijek 50
 prije 50
 tako 49
 vrijeme 49
@@ -164,6 +164,7 @@ dobar 24
 čovjek 24
 ste 24
 sutra 24
+jednu 24
 Ta 23
 tko 23
 kući 23
@@ -175,7 +176,6 @@ Bio 23
 jer 23
 voli 23
 vidio 23
-jednu 23
 Znam 23
 ćemo 23
 dok 23
@@ -192,6 +192,7 @@ tri 21
 novac 21
 svojim 21
 Uvijek 21
+jezik 21
 trebao 21
 Imaš 21
 problem 21
@@ -199,7 +200,6 @@ zbog 21
 zove 20
 govori 20
 kupio 20
-jezik 20
 Jučer 20
 došao 20
 ovu 20
@@ -291,6 +291,7 @@ možemo 15
 riječi 15
 ujutro 15
 najbolje 15
+ide 15
 znao 15
 jednom 14
 svijetu 14
@@ -313,7 +314,6 @@ njega 14
 novaca 14
 Budi 14
 hladno 14
-ide 14
 žene 14
 sama 14
 mačka 13
@@ -556,6 +556,7 @@ svijeta 8
 svijet 8
 djeca 8
 zemlja 8
+dobru 8
 sin 8
 naše 8
 nakon 8
@@ -583,6 +584,7 @@ ubiti 8
 kurac 8
 plažu 8
 onaj 8
+Zovem 7
 njegova 7
 Njegovo 7
 A 7
@@ -635,7 +637,6 @@ Trebaš 7
 mala 7
 3 7
 vani 7
-dobru 7
 zajedno 7
 pjevačica 7
 pravi 7
@@ -688,7 +689,6 @@ računalo 7
 znamo 7
 Layla 7
 Bok 6
-Zovem 6
 njegovo 6
 Dobar 6
 Pas 6
@@ -756,6 +756,7 @@ svemu 6
 daje 6
 Mnogi 6
 obično 6
+doba 6
 radim 6
 cvijeće 6
 ljudima 6
@@ -790,6 +791,7 @@ mraka 6
 niti 6
 pjesmu 6
 rečenice 6
+Hrvatske 6
 trebamo 6
 Hrvatska 6
 Europe 6
@@ -951,7 +953,6 @@ Postoji 5
 Dječak 5
 Bogu 5
 slučajno 5
-Hrvatske 5
 zadnji 5
 Kuća 5
 očima 5
@@ -1069,6 +1070,7 @@ nad 4
 ponašanje 4
 kažeš 4
 španjolski 4
+Naše 4
 Jer 4
 skijati 4
 sestre 4
@@ -1141,7 +1143,6 @@ padala 4
 zabave 4
 posla 4
 adresa 4
-doba 4
 zimi 4
 popiti 4
 piće 4
@@ -1150,6 +1151,7 @@ zemalja 4
 žao 4
 ljeti 4
 kave 4
+Wang 4
 Rado 4
 selu 4
 Tatoeba 4
@@ -1413,7 +1415,6 @@ milijun 3
 nismo 3
 pješke 3
 moći 3
-Naše 3
 brinuti 3
 "Je 3
 naučim 3
@@ -1501,6 +1502,7 @@ mišljenja 3
 čaja 3
 truda 3
 uzima 3
+jezikom 3
 Kyoto 3
 vrijedna 3
 riješio 3
@@ -1620,6 +1622,7 @@ mraku 3
 napisati 3
 karta 3
 imena 3
+Jiaming 3
 prekjučer 3
 tim 3
 Ostani 3
@@ -2161,7 +2164,6 @@ pošta 2
 banka 2
 Čak 2
 soli 2
-jezikom 2
 Nijedna 2
 čitanja 2
 domaćom 2
@@ -2208,7 +2210,6 @@ zaslužujem 2
 imali 2
 smetati 2
 Trebalo 2
-Wang 2
 vlastiti 2
 Obično 2
 8 2
@@ -2280,6 +2281,7 @@ bolnice 2
 stolici 2
 osjetljiv 2
 takve 2
+kritike 2
 ćete 2
 uživati 2
 radiju 2
@@ -2690,6 +2692,7 @@ prvom 2
 Posao 2
 poći 2
 korisni 2
+Republike 2
 jugoistočnom 2
 hrvatskom 2
 Srbiji 2
@@ -2777,6 +2780,7 @@ ubija 2
 Kruh 2
 auti 2
 Eurovizije 2
+službeni 2
 Europske 2
 unije 2
 primijetila 2
@@ -4407,7 +4411,6 @@ pušenja 1
 ljubazna 1
 sjedio 1
 Smith 1
-kritike 1
 duhovi 1
 Podjelio 1
 sinova 1
@@ -4689,7 +4692,6 @@ uključuje 1
 nasilja 1
 sunčeva 1
 energija 1
-Jiaming 1
 ljutio 1
 Vrijedno 1
 pokušaja 1
@@ -6063,7 +6065,6 @@ ograničeno 1
 španjolskoga 1
 Grčki 1
 prijestolnica 1
-Republike 1
 "Hrvatska" 1
 Vlakovi 1
 spori 1
@@ -6410,7 +6411,6 @@ Cornwall 1
 izrađeni 1
 uzbuđen 1
 Bojite 1
-službeni 1
 Nacrtaj 1
 ovcu 1
 ljubiti 1
@@ -8888,3 +8888,8 @@ velikih 1
 svjetskih 1
 religija 1
 vami 1
+Vladam 1
+njemačkim 1
+Hunter 1
+Hrvatski 1
+vijest 1

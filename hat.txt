@@ -1,7 +1,7 @@
 Mwen 31
 se 24
+pa 21
 ou 20
-pa 20
 te 16
 yon 16
 Tom 14
@@ -23,18 +23,18 @@ nou 6
 di 6
 fè 6
 w 6
+Nou 6
 kote 6
  6
 Kijan 5
 angle 5
 maten 5
 pi 5
-Nou 5
+manje 5
 Èske 5
 kreyòl 4
 M 4
 Li 4
-manje 4
 la 4
 ayisyen 4
 Bonjou 3
@@ -82,6 +82,7 @@ Esperanto 2
 gen 2
 fanm 2
 Iran 2
+vole 2
 chat 2
 frè 2
 pou 2
@@ -231,7 +232,6 @@ anglè 1
 Modpas 1
 "modpas" 1
 Mouch 1
-vole 1
 Yon 1
 revolisyon 1
 dine 1
@@ -282,3 +282,5 @@ ranmasè 1
 fatra 1
 sab 1
 vòlè 1
+Pa 1
+vyann 1

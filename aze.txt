@@ -2,7 +2,7 @@ Tom 1026
 Mən 916
 O 750
 Bu 700
-bir 460
+bir 461
 var 449
 və 435
 ki 392
@@ -110,13 +110,13 @@ bilərəm 50
 Bütün 50
 bilmir 50
 zəng 50
+ver 50
 Respublikasının 50
 İlham 50
 səni 49
+Məni 49
 nifrət 49
 Xahiş 49
-ver 49
-Məni 48
 oldu 48
 gedir 47
 indi 46
@@ -172,12 +172,12 @@ sizə 36
 bizə 36
 məktəbə 35
 alma 35
+gecə 35
 Prezidenti 35
 sevir 34
 Dünən 34
 yaşayıram 34
 ya 34
-gecə 34
 qulaq 34
 Onlarla 34
 yerə 34
@@ -766,6 +766,7 @@ Mahnı 9
 İçəri 9
 üstündə 9
 pişiyi 9
+qərar 9
 yaxşıyam 9
 baxdı 9
 pişik 9
@@ -865,7 +866,6 @@ məşğuldur 8
 oynayır 8
 adlanır 8
 özü 8
-qərar 8
 balıq 8
 Siqaret 8
 Qəhvə 8
@@ -2071,6 +2071,7 @@ otağını 4
 meyvə 4
 dəyişin 4
 gəlmə 4
+Səhər 4
 açılır 4
 mübahisə 4
 babam 4
@@ -2781,7 +2782,6 @@ Fillər 3
 Günün 3
 arxasında 3
 xatırlayıram 3
-Səhər 3
 yeməmişəm 3
 qurtardım 3
 asmadım 3

@@ -10,17 +10,17 @@ to 78
 nat 65
 The 60
 Thomas 52
-be 44
+be 46
 was 41
 am 38
-He 33
+He 34
 man 32
 me 32
+with 30
 his 29
 an 29
-with 28
+no 28
 for 28
-no 27
 it 27
 he 24
 ben 24
@@ -67,6 +67,7 @@ or 9
 love 9
 moder 9
 trewe 9
+shal 9
 thy 9
 thyn 9
 woundes 9
@@ -79,6 +80,7 @@ from 8
 thee 8
 Is 8
 Ther 8
+hire 8
 ful 8
 which 7
 A 7
@@ -94,7 +96,6 @@ wol 7
 on 7
 been 7
 sholde 7
-shal 7
 nedeth 7
 hir 7
 athel 7
@@ -124,7 +125,6 @@ Marie 6
 seith 6
 knowe 6
 nis 6
-hire 6
 pleyn 6
 yen 6
 erthe 5
@@ -269,6 +269,7 @@ laste 3
 what 3
 fynde 3
 womman 3
+Sche 3
 anon 3
 tite 3
 tymes 3
@@ -450,7 +451,6 @@ walke 2
 Lerne 2
 quene 2
 tok 2
-Sche 2
 demen 2
 chesen 2
 mot 2
@@ -1416,3 +1416,5 @@ Thow 1
 skile 1
 up 1
 norisshed 1
+Ete 1
+flessh 1

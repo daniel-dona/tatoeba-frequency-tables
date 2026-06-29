@@ -1,4 +1,4 @@
-ya 1299
+ya 1300
 na 1073
 wa 756
 kwa 698
@@ -8,7 +8,7 @@ kwenye 227
 kuwa 215
 za 213
 la 201
-cha 179
+cha 180
 sana 177
 Je 169
 kama 151
@@ -53,10 +53,10 @@ hapa 52
 hilo 51
 nzuri 50
 Kuna 50
+Nina 49
 sasa 49
 kuhusu 49
 nyingi 49
-Nina 48
 ndani 48
 mbaya 48
 ili 47
@@ -181,6 +181,7 @@ zake 23
 mrefu 23
 Millie 23
 moto 23
+zamani 23
 kulala 23
 Asante 23
 joto 23
@@ -189,8 +190,8 @@ wengine 23
 biashara 23
 pesa 23
 Wewe 22
+kitabu 22
 lugha 22
-zamani 22
 mwaka 22
 kadhaa 22
 bahati 22
@@ -202,7 +203,6 @@ hakuna 22
 fulani 22
 yeyote 22
 gari 21
-kitabu 21
 jina 21
 Hii 21
 Kila 21
@@ -273,6 +273,7 @@ mwa 17
 usalama 17
 nyuma 17
 roho 17
+wana 16
 Hiyo 16
 mwalimu 16
 mchezo 16
@@ -293,7 +294,6 @@ huwa 16
 - 16
 baadaye 16
 akili 15
-wana 15
 changu 15
 mlango 15
 wasiwasi 15
@@ -361,6 +361,7 @@ michezo 13
 jamii 13
 Ningependa 13
 Jina 13
+Tom 13
 kufa 13
 paka 13
 Ndege 13
@@ -395,7 +396,6 @@ wanaume 12
 maana 12
 "La 12
 marafiki 12
-Tom 12
 Ulaya 12
 Australia 12
 mkate 12
@@ -454,6 +454,7 @@ kibinafsi 11
 halisi 11
 wazazi 11
 Wanafunzi 11
+maumivu 11
 mia 11
 Smith 11
 kiti 11
@@ -508,7 +509,6 @@ umeme 10
 chupa 10
 kuongea 10
 badala 10
-maumivu 10
 ujasiri 10
 Ili 10
 kuendesha 10
@@ -532,6 +532,7 @@ nilikuwa 10
 wale 10
 Maisha 10
 Sijui 9
+Watoto 9
 mwingi 9
 Wanaume 9
 mpaka 9
@@ -592,7 +593,6 @@ miwili 9
 wala 9
 wanadamu 9
 salama 8
-Watoto 8
 Nani 8
 hana 8
 je" 8
@@ -784,6 +784,7 @@ huru 6
 swali 6
 heri 6
 shuleni 6
+anasoma 6
 kazini 6
 majani 6
 huwezi 6
@@ -928,7 +929,6 @@ nywele 6
 Wacha 6
 Wote 5
 Jack 5
-anasoma 5
 Pengine 5
 moshi 5
 asante 5
@@ -1931,6 +1931,7 @@ Ubongo 3
 kupendekeza 3
 upendo 3
 sekta 3
+kifua 3
 haiwezekani 3
 alienda 3
 mwanangu 3
@@ -2904,7 +2905,6 @@ mshumaa 2
 mashujaa 2
 mioyo 2
 inahusu 2
-kifua 2
 kuvumilia 2
 kumpoteza 2
 kujijua 2
@@ -9322,9 +9322,6 @@ alichelewa 1
 ataokoa 1
 anapika 1
 koko 1
-Desconecta 1
-el 1
-enchufe 1
 Alichora 1
 23 1
 Sitaenda 1
@@ -9332,3 +9329,5 @@ Hatusomi 1
 kigumu 1
 Utakula 1
 Wataenda 1
+Agano 1
+Jipya 1
