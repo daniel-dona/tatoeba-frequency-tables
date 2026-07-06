@@ -1,10 +1,10 @@
 is 116
 on 72
-Ic 70
+Ic 71
 ne 63
 and 61
-þæt 52
-Iċ 42
+þæt 53
+Iċ 43
 biþ 35
 þū 32
 mid 29
@@ -21,16 +21,16 @@ wæs 21
 Mīn 21
 God 20
 þa 20
+Wē 20
 ic 19
 mīn 19
 tō 19
-Wē 19
 Ziri 19
 þǣm 18
 Tom 18
+eart 18
 mann 18
 of 16
-eart 16
 mē 16
 Þæt 15
 þīn 15
@@ -39,14 +39,15 @@ mē 16
 ac 14
 swa 13
 hit 13
+hē 13
 sind 13
-hē 12
 Ič 12
+hæbbe 12
 þā 12
 Sēo 12
+Þū 12
 swā 12
 nis 12
-hæbbe 11
 cyning 11
 he 10
 He 10
@@ -54,7 +55,6 @@ He 10
 ƿæs 10
 þē 10
 æppel 10
-Þū 10
 Sē 10
 Þis 10
 þam 9
@@ -67,6 +67,7 @@ sceal 8
 Mē 8
 gōd 8
 mæg 8
+wīf 8
 wille 8
 Hit 8
 iċ 8
@@ -91,6 +92,7 @@ Hwæt 7
 bēo 7
 bēon 7
 ġē 7
+hīe 7
 nān 7
 Isaac 6
 Abraham 6
@@ -103,7 +105,6 @@ eald 6
 wel 6
 wē 6
 swīþe 6
-wīf 6
 Þes 6
 Hwā 6
 yfel 6
@@ -136,7 +137,6 @@ us 5
 sculon 5
 nǣfre 5
 þīnne 5
-hīe 5
 sōþ 5
 hire 5
 Þa 4
@@ -261,6 +261,7 @@ eallunga 3
 mæġ 3
 lēoþ 3
 þyncþ 3
+ġesēoþ 3
 clipode 2
 naman 2
 lufast 2
@@ -493,9 +494,10 @@ rihtan 2
 sīen 2
 wīsoste 2
 "For 2
-ġesēoþ 2
+hatiġe 2
 ġīet 2
 untrūwiende 2
+weras 2
 ǣfre 2
 fandian 1
 Abrahames 1
@@ -1603,7 +1605,6 @@ hwon 1
 dēad" 1
 rēadra 1
 Witodlīċe 1
-hatiġe 1
 ārn 1
 bodung 1
 dysiġe 1
@@ -1626,7 +1627,6 @@ witenne 1
 flīemende 1
 wandriende 1
 hwām 1
-weras 1
 openheort 1
 Bēoþ 1
 openheorte 1
@@ -1644,3 +1644,7 @@ sæġde 1
 Alice 1
 Mōnandæġe 1
 flǣsc 1
+hēah 1
+lang 1
+wēne 1
+ġestolen 1

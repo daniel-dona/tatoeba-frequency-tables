@@ -128,8 +128,8 @@ leo 170
 gisi 166
 mwaka 165
 Kila 164
-Na 164
 mzuri 164
+Na 163
 hivyo 163
 wazi 161
 yenyi 160
@@ -665,7 +665,6 @@ heshima 39
 Kulikuwa 39
 kimya 39
 fursa 39
-ji 38
 mashua 38
 karata 38
 ishi 38
@@ -684,6 +683,7 @@ kurudia 38
 ki 37
 kumaliza 37
 ajali 37
+ji 37
 kituo 37
 inakuwaka 37
 kipande 37
@@ -1339,6 +1339,7 @@ muti 19
 jinsi 19
 soko 19
 bombe 19
+Sawa 19
 maagizo 19
 vikosi 19
 uzoefu 19
@@ -1375,7 +1376,6 @@ Ndoto 18
 kutumika 18
 chunga 18
 Anasema 18
-uliza 18
 kupumzika 18
 utaweza 18
 kuimba 18
@@ -1406,7 +1406,6 @@ makao 18
 ambiya 18
 kuongezeka 18
 utawala 18
-Sawa 18
 Mapenzi 18
 jifunza 18
 mboga 18
@@ -1444,6 +1443,7 @@ inaanza 17
 tengeneza 17
 kiasi 17
 ngazi 17
+uliza 17
 sa 17
 malipo 17
 changu 17
@@ -2769,6 +2769,7 @@ anaona 8
 furahisha 8
 soksi 8
 geuza 8
+Najiuliza 8
 Anajua 8
 kuunga 8
 kuosha 8
@@ -3068,7 +3069,6 @@ Alifika 7
 parc 7
 kuamua 7
 mumea 7
-Najiuliza 7
 ahidi 7
 kulamuka 7
 kikosi 7
@@ -7011,7 +7011,6 @@ wingi 3
 inasaidiaka 3
 aliuzisha 3
 kutenganisha 3
-Ji 3
 nyota; 3
 tuendelee 3
 tia 3
@@ -9952,6 +9951,7 @@ hongera 2
 utahitaji 2
 pai 2
 parachichi 2
+Ji 2
 ndafanya 2
 tupatia 2
 wanaruhusiwa 2

@@ -1,16 +1,16 @@
-się 17497
+się 17499
 nie 14919
 jest 14592
 w 13153
 Tom 11515
-na 11026
+na 11025
 Nie 9662
-to 8971
+to 8972
 że 8362
 do 7947
 z 7668
 i 4795
-To 4734
+To 4735
 Czy 4201
 mi 3850
 o 3652
@@ -23,7 +23,7 @@ jak 2852
 tego 2663
 po 2588
 Mary 2469
-są 2380
+są 2381
 tym 2106
 W 2092
 bardzo 2074
@@ -31,7 +31,7 @@ od 1889
 tak 1883
 był 1881
 Ona 1777
-Jestem 1668
+Jestem 1669
 go 1661
 już 1650
 ci 1557
@@ -41,7 +41,7 @@ dla 1516
 Toma 1440
 domu 1386
 Mam 1346
-tylko 1328
+tylko 1329
 być 1328
 Jak 1295
 ten 1275
@@ -76,7 +76,7 @@ tam 899
 Proszę 875
 Kiedy 871
 Mój 866
-Dlaczego 835
+Dlaczego 836
 dobrze 822
 powiedział 817
 on 815
@@ -119,8 +119,8 @@ miał 594
 ja 590
 chcę 589
 Tomowi 587
+bez 586
 trzy 585
-bez 585
 Jeśli 584
 prawda 584
 swoje 581
@@ -207,7 +207,7 @@ chciał 366
 też 365
 Może 365
 mają 364
-mojej 363
+mojej 364
 swojego 362
 jeśli 353
 temu 353
@@ -665,11 +665,11 @@ Uwielbiam 127
 piękny 126
 zdjęcie 126
 Gdybym 126
+Nienawidzę 126
 dlatego 125
 wrócił 125
 rękę 125
 będziemy 125
-Nienawidzę 125
 słowo 124
 jakby 124
 zewnątrz 124
@@ -1035,7 +1035,6 @@ weekend 81
 Zapomniałem 81
 ulubiony 81
 powrotem 81
-Wyglądasz 80
 łóżku 80
 Bill 80
 Ken 80
@@ -1045,6 +1044,7 @@ problemy 80
 łóżka 80
 Spójrz 79
 przychodzi 79
+Wyglądasz 79
 chłopak 79
 zadzwonić 79
 znacznie 79
@@ -1067,6 +1067,7 @@ małe 78
 Przed 78
 robią 78
 miłość 78
+rodziny 78
 psy 78
 powoli 78
 wysoki 78
@@ -1084,7 +1085,6 @@ okna 77
 pozwolić 77
 stać 77
 muszą 77
-rodziny 77
 głowie 77
 mięso 77
 powód 77
@@ -1119,6 +1119,7 @@ aparat 75
 przyjaciel 75
 bilet 75
 Ich 75
+koniec 75
 długi 75
 nowych 75
 drzewo 75
@@ -1139,7 +1140,6 @@ obchodzi 74
 zrobię 74
 przestać 74
 wakacje 74
-koniec 74
 rodzinę 74
 stół 74
 Znasz 74
@@ -1366,6 +1366,7 @@ różne 61
 Zrobił 61
 składa 61
 najlepszy 61
+jedynym 61
 liście 61
 Jeden 61
 piwa 61
@@ -1389,7 +1390,6 @@ złe 60
 Jim 60
 Zgubiłem 60
 chłopiec 60
-jedynym 60
 silny 60
 przykład 60
 propozycję 60
@@ -1585,6 +1585,7 @@ statek 53
 uda 53
 Oczywiście 53
 pływa 53
+Pokój 53
 zdrowy 53
 siostrę 53
 dostał 53
@@ -1616,7 +1617,6 @@ Rozumiem 52
 sklepu 52
 taką 52
 wokół 52
-Pokój 52
 Zamierzam 52
 woli 52
 odkąd 52
@@ -1695,6 +1695,7 @@ dużym 49
 pogody 49
 dokąd 49
 Mówisz 49
+smutny 49
 więzienia 49
 japońskiego 49
 powie 49
@@ -1708,6 +1709,7 @@ widzenia 49
 Też 49
 plaży 49
 lepsze 49
+mężczyzn 49
 Musi 49
 Paryżu 49
 sweter 49
@@ -1734,7 +1736,6 @@ Widzisz 48
 dużą 48
 ulubionym 48
 ciepło 48
-smutny 48
 koncert 48
 ostatnie 48
 informacji 48
@@ -1748,7 +1749,6 @@ biega 48
 ulicę 48
 idź 48
 brudne 48
-mężczyzn 48
 powinni 48
 Tobą 48
 pracuję 48
@@ -2276,6 +2276,7 @@ miesiąca 36
 ramię 36
 bezpiecznie 36
 Zupełnie 36
+zielone 36
 widzieliśmy 36
 dzieciom 36
 potrzebne 36
@@ -2327,7 +2328,6 @@ rodzaju 35
 dziwny 35
 Robię 35
 Policjant 35
-zielone 35
 powietrze 35
 kolej 35
 zdarza 35
@@ -3210,6 +3210,7 @@ oka 24
 Brown 24
 spraw 24
 spóźnienie 24
+rośliny 24
 ostatnich 24
 wysoko 24
 śmieje 24
@@ -3338,7 +3339,6 @@ metra 23
 Wziąłem 23
 Mężczyźni 23
 oto 23
-rośliny 23
 pozwoli 23
 Jednak 23
 wolnym 23
@@ -3492,6 +3492,7 @@ wartości 22
 zacznie 22
 stołem 22
 zdecydowanie 22
+Nazywam 22
 białego 22
 planujesz 22
 Słyszę 22
@@ -3642,7 +3643,6 @@ przyszły 21
 Biorę 21
 poradził 21
 Dziadek 21
-Nazywam 21
 zamek 21
 Indiach 21
 Poszła 21
@@ -3652,6 +3652,7 @@ Pokażę 21
 rynku 21
 szkoda 21
 wszelkich 21
+członkiem 21
 Mieszkamy 21
 państwem 21
 sypialni 21
@@ -3825,7 +3826,6 @@ ostatnim 20
 mózgu 20
 Wracam 20
 krótki 20
-członkiem 20
 tamto 20
 meczu 20
 przygotowania 20
@@ -6411,6 +6411,7 @@ zaśpiewał 11
 płuc 11
 wszechświat 11
 zadzwoń 11
+Wydajesz 11
 polecieć 11
 Podnieś 11
 Skończyła 11
@@ -6467,6 +6468,7 @@ zatrzymuje 11
 pańskiego 11
 maila 11
 wściekłości 11
+sprawiedliwości 11
 próbowała 11
 Damy 11
 skończenie 11
@@ -6979,7 +6981,6 @@ Danii 10
 niezadowolony 10
 Czekaj 10
 Budynek 10
-Wydajesz 10
 kawą 10
 Zrobiło 10
 Szedłem 10
@@ -7029,7 +7030,6 @@ trudnym 10
 suma 10
 zza 10
 hamburgera 10
-sprawiedliwości 10
 umrzemy 10
 dotrzemy 10
 płonie 10
@@ -8531,6 +8531,7 @@ obsługiwać 8
 Marsa 8
 przybędzie 8
 perspektywy 8
+imperium 8
 Edukacja 8
 właściwe 8
 traktował 8
@@ -9396,7 +9397,6 @@ wydarzenie 7
 szerokie 7
 horyzoncie 7
 niepalących 7
-imperium 7
 Królowa 7
 błyskawicznie 7
 wypiła 7

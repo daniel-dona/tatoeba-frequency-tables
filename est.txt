@@ -1,10 +1,10 @@
-on 1598
-Ma 952
+on 1601
+Ma 953
 ei 756
-Tom 625
+Tom 627
 Kas 458
 sa 442
-Ta 359
+Ta 363
 et 350
 See 287
 ma 227
@@ -12,12 +12,12 @@ seda 214
 oma 206
 see 196
 oli 172
-ja 161
+ja 162
 ta 155
 ole 150
 Sa 144
 olen 143
-keelt 136
+keelt 140
 väga 134
 Mul 132
 kui 129
@@ -56,7 +56,7 @@ Kes 62
 sinu 60
 hea 59
 sul 57
-välja 55
+välja 56
 te 54
 mis 53
 ema 53
@@ -85,10 +85,10 @@ tema 40
 täna 40
 ilus 40
 nad 39
+prantsuse 39
 hästi 38
 kaks 38
 maja 38
-prantsuse 38
 koer 38
 Kõik 37
 kes 37
@@ -125,11 +125,11 @@ mitte 30
 armastan 30
 mul 30
 seal 30
+elab 30
 ka 29
 siis 29
 eest 29
 nagu 29
-elab 29
 arvan 29
 minema 29
 Tere 28
@@ -155,6 +155,7 @@ olid 24
 valmis 24
 kodus 24
 tead 24
+õpetaja 24
 auto 24
 siia 24
 Meil 24
@@ -163,7 +164,6 @@ tegi 23
 olete 23
 aastat 23
 Sul 23
-õpetaja 23
 Koer 23
 Te 23
 õppida 23
@@ -171,6 +171,7 @@ ikka 22
 alati 22
 läks 22
 teine 22
+praegu 22
 lapsed 22
 parem 22
 raamatu 22
@@ -181,7 +182,6 @@ natuke 22
 miks 22
 teada 21
 Keegi 21
-praegu 21
 Millal 21
 mina 21
 üks 21
@@ -190,6 +190,7 @@ ilma 20
 tuleb 20
 meeldivad 20
 Täna 20
+elan 20
 minuga 20
 oleme 20
 vana 20
@@ -200,12 +201,12 @@ läbi 19
 raamatut 19
 Ei 19
 kiiresti 19
-elan 19
 saada 19
 väsinud 19
 kus 19
 Tomiga 19
 end 18
+tuli 18
 tööd 18
 Kass 18
 taga 18
@@ -217,10 +218,10 @@ selles 18
 elada 18
 iga 18
 räägib 18
+Kell 18
 meid 17
 päev 17
 sai 17
-tuli 17
 tõesti 17
 enda 17
 minust 17
@@ -229,7 +230,6 @@ peaks 17
 pead 17
 kuu 17
 suri 17
-Kell 17
 inimesed 16
 palun 16
 tüdruk 16
@@ -250,6 +250,7 @@ vastu 16
 saab 16
 kogu 16
 aidata 16
+keele 16
 õpin 16
 kass 16
 sina 16
@@ -272,7 +273,6 @@ vanem 15
 elu 15
 vett 15
 töötab 15
-keele 15
 polnud 15
 lihtne 15
 näinud 15
@@ -306,6 +306,7 @@ tal 14
 surnud 14
 kindel 14
 kaasa 13
+pool 13
 teadnud 13
 kedagi 13
 külm 13
@@ -327,7 +328,6 @@ Sami 13
 peidus 13
 pani 12
 Pole 12
-pool 12
 üksi 12
 kohe 12
 esimene 12
@@ -416,6 +416,7 @@ noor 9
 Sina 9
 olevat 9
 meeldis 9
+saksa 9
 Jah 9
 raamatuid 9
 kala 9
@@ -460,10 +461,10 @@ Su 8
 aasta 8
 Ema 8
 igal 8
-saksa 8
 tunne 8
 uus 8
 surma 8
+neli 8
 kümme 8
 mäleta 8
 Kelle 8
@@ -541,7 +542,6 @@ näed 7
 toas 7
 vaba 7
 näe 7
-neli 7
 kaheksa 7
 üheksa 7
 söönud 7
@@ -609,6 +609,7 @@ aastal 7
 kardina 7
 poola 7
 ungari 7
+portugali 7
 Lõpuks 6
 Itaalia 6
 siit 6
@@ -848,6 +849,7 @@ täpselt 5
 öösel 5
 tohi 5
 räpane 5
+õpib 5
 õpid 5
 elanud 5
 kallis 5
@@ -860,7 +862,6 @@ viskas 5
 sündis 5
 karu 5
 räägivad 5
-portugali 5
 Aafrikas 5
 Kreekas 5
 Keda 5
@@ -1037,6 +1038,7 @@ mõnikord 4
 soovib 4
 terve 4
 vajame 4
+hiina 4
 alt 4
 Iga 4
 kindlasti 4
@@ -1094,6 +1096,7 @@ vigu 4
 järves 4
 võtnud 4
 ilmselt 4
+majas 4
 leidsin 4
 mõnda 4
 jaapani 4
@@ -1165,6 +1168,8 @@ kodu 3
 Naine 3
 tüdrukud 3
 poisid 3
+õpetab 3
+üliõpilane 3
 onu 3
 kivi 3
 Kaks 3
@@ -1366,7 +1371,6 @@ Arvan 3
 Poisid 3
 Mariga 3
 kolmsada 3
-hiina 3
 pilvine 3
 kuulanud 3
 teevad 3
@@ -1471,7 +1475,6 @@ katusel 3
 tööta 3
 3 3
 elas 3
-õpib 3
 Toas 3
 hilja 3
 Maal 3
@@ -1496,7 +1499,6 @@ laua 3
 kasti 3
 rivi 3
 keldris 3
-majas 3
 Austraaliasse 3
 jalast 3
 lause 3
@@ -1566,6 +1568,7 @@ mõjub 2
 viisakas 2
 panid 2
 rahvaarv 2
+Vihm 2
 mõistan 2
 ometigi 2
 millal 2
@@ -1659,7 +1662,6 @@ naersime 2
 võida 2
 pikka 2
 linna 2
-üliõpilane 2
 ostab 2
 Kasahstanis 2
 akna 2
@@ -2219,6 +2221,7 @@ Loodame 2
 elasid 2
 hakkad 2
 julgustavalt 2
+lossis 2
 põlema 2
 jalg 2
 Väga 2
@@ -2355,6 +2358,7 @@ telefoniga 2
 raamatutest 2
 viies 2
 Belgias 2
+Jorge 2
 Oslo 2
 Norra 2
 õiged 2
@@ -2504,6 +2508,7 @@ Nuuk 2
 Ilm 2
 Jumal 2
 esmaspäev 2
+päike 2
 Žanna 2
 laulsin 2
 Küprosele 2
@@ -2547,6 +2552,7 @@ Castle 2
 Logi 2
 Logige 2
 on“ 2
+vanas 2
 Sellises 1
 kärestikus 1
 mõtlematu 1
@@ -2640,7 +2646,6 @@ rahvastiku 1
 juurekasv 1
 vaesust 1
 häda 1
-Vihm 1
 kaljupinna 1
 lohkudesse 1
 mitmed 1
@@ -2932,7 +2937,6 @@ arvesti 1
 näit 1
 närvidele 1
 hullumaja 1
-õpetab 1
 kasvu 1
 kaarti 1
 unistusi 1
@@ -4755,7 +4759,6 @@ naistepäeva 1
 kaalus 1
 võtma 1
 Vanas 1
-lossis 1
 mõningaid 1
 muudatusi 1
 artiklit 1
@@ -5329,7 +5332,6 @@ kartsin 1
 vaiksemalt 1
 Egiptuses 1
 perest 1
-Jorge 1
 Norrasse 1
 Norras 1
 Saksa 1
@@ -6458,7 +6460,6 @@ kolmapäev 1
 reede 1
 loendasin 1
 Lumi 1
-päike 1
 Gruusiast 1
 Gruusias 1
 meres 1
@@ -6866,3 +6867,4 @@ ennustan 1
 vana“ 1
 Pedro 1
 Irina 1
+lakkas 1

@@ -1,21 +1,21 @@
 är 11774
-Jag 11359
+Jag 11360
 att 7171
 Tom 7140
-inte 6992
+inte 6993
 en 5191
-du 5180
+du 5181
 på 4896
-det 4804
-i 4630
-har 4266
+det 4805
+i 4631
+har 4267
 Det 3929
-Han 3440
+Han 3442
 jag 3186
 mig 2755
 för 2719
-här 2682
-var 2634
+här 2683
+var 2635
 med 2476
 till 2394
 och 2362
@@ -23,7 +23,7 @@ om 2281
 Hon 2090
 ett 1966
 som 1924
-dig 1917
+dig 1918
 Vi 1908
 den 1851
 kan 1694
@@ -36,7 +36,7 @@ så 1209
 Vad 1177
 vill 1130
 De 1111
-ni 1104
+ni 1105
 mycket 988
 min 986
 skulle 983
@@ -50,11 +50,11 @@ måste 830
 honom 824
 där 782
 vara 782
-Har 774
+Har 775
 ha 762
 hade 748
 ut 743
-Var 738
+Var 739
 Den 730
 vad 723
 de 696
@@ -85,8 +85,8 @@ gillar 464
 åt 462
 finns 445
 blev 444
+eller 431
 dag 430
-eller 430
 gick 426
 gör 425
 alla 425
@@ -172,7 +172,7 @@ morgon 218
 redan 217
 Vilken 216
 mot 216
-inget 215
+inget 216
 Detta 213
 detta 213
 hus 210
@@ -472,6 +472,7 @@ glömde 75
 båda 75
 minuter 74
 kort 74
+saknar 74
 sex 74
 idé 74
 runt 73
@@ -483,7 +484,6 @@ Så 72
 brev 72
 Vilket 72
 vecka 72
-saknar 72
 natten 72
 tro 71
 tillräckligt 71
@@ -674,6 +674,7 @@ kvinna 50
 arbeta 50
 menar 50
 spelade 49
+Lägg 49
 bör 49
 blommor 49
 säljer 49
@@ -684,8 +685,8 @@ ringer 49
 handen 49
 timme 49
 Varje 49
+flickvän 49
 ert 49
-Lägg 48
 dessa 48
 Behöver 48
 röka 48
@@ -696,7 +697,6 @@ aning 48
 förut 48
 hänt 48
 måndag 48
-flickvän 48
 skeppet 48
 klarar 47
 Ja 47
@@ -1619,6 +1619,7 @@ hopp 17
 längtar 17
 betalt 17
 namnet 17
+träffades 17
 biblioteket 17
 hungriga 17
 byggnad 17
@@ -1697,7 +1698,6 @@ Av 16
 Förra 16
 öppnar 16
 Er 16
-träffades 16
 värd 16
 bära 16
 undrade 16
@@ -2403,6 +2403,7 @@ fakta 10
 Välj 10
 rörelse 10
 snöa 10
+tålamod 10
 hoppar 10
 orsak 10
 soffa 10
@@ -2607,7 +2608,6 @@ bygger 9
 brast 9
 noga 9
 såsom 9
-tålamod 9
 scenen 9
 trä 9
 skära 9
@@ -3182,6 +3182,7 @@ tungan 7
 samlade 7
 gemensamt 7
 dödar 7
+Soldaterna 7
 föremål 7
 förvåning 7
 skiljer 7
@@ -3555,7 +3556,6 @@ miljarder 6
 såret 6
 Hinner 6
 metod 6
-Soldaterna 6
 blinda 6
 kritik 6
 skojar 6
@@ -3916,6 +3916,7 @@ engelskan 6
 kaféet 6
 memorera 6
 uppenbarligen 6
+beväpnade 6
 hemsökt 6
 kroatiska 6
 Stämmer 6
@@ -4408,6 +4409,7 @@ hjärtattack 5
 tummen 5
 Tag 5
 nötkött 5
+pojk- 5
 uppvuxen 5
 gubbe 5
 anställa 5
@@ -4518,7 +4520,6 @@ rättvisa 5
 Jupiter 5
 Stackars 5
 kassaskåpet 5
-beväpnade 5
 troligtvis 5
 böter 5
 locket 5
@@ -4690,6 +4691,7 @@ nuvarande 4
 dialekt 4
 konferensen 4
 födda 4
+förnuft 4
 gentemot 4
 Frukosten 4
 aktiv 4
@@ -5219,7 +5221,6 @@ vindruvor 4
 stapeln 4
 översatt 4
 fuskade 4
-pojk- 4
 dockan 4
 husvagn 4
 ersätta 4
@@ -5741,7 +5742,6 @@ klumpig 3
 imitera 3
 narr 3
 tvåhundra 3
-förnuft 3
 skvaller 3
 förvånar 3
 tillverkas 3
@@ -7780,6 +7780,7 @@ jordskalv 2
 Guldpriset 2
 ändras 2
 mode 2
+simpelt 2
 sångerskan 2
 republik 2
 Rie 2
@@ -9997,4 +9998,3 @@ munkar 2
 galant 2
 familjetraditioner 2
 ladugården 2
-inflyttningsfest 2

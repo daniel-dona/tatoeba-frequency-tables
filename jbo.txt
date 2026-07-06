@@ -1,19 +1,19 @@
-lo 13067
-mi 6390
+lo 13068
+mi 6391
 cu 3646
-do 3407
+do 3408
 la 3121
 le 2402
-pu 2376
+pu 2377
 nu 2165
 se 1969
 i 1908
 na 1686
 be 1378
-ko'a 1348
+ko'a 1350
 ma 1247
 ka 1239
-ko 1143
+ko 1144
 ca 1009
 tom 956
 xu 936
@@ -83,11 +83,11 @@ au 196
 li'u 193
 fo 188
 xamgu 187
+nanmu 185
 nitcu 184
-nanmu 184
 dunda 182
 karce 180
-lo'e 175
+lo'e 176
 fe 169
 xabju 168
 zo'u 163
@@ -171,8 +171,8 @@ ui 97
 cmalu 97
 mu 97
 la'e 96
+xebni 96
 sai 95
-xebni 95
 sipna 94
 jmive 94
 catra 94
@@ -257,6 +257,7 @@ ny 68
 ly 67
 sei 67
 cidja 67
+ko'e 66
 krici 66
 morji 66
 finti 66
@@ -266,7 +267,6 @@ ta'i 65
 ponjo 65
 kelci 65
 tcati 65
-ko'e 64
 curmi 64
 dy 64
 ai 64
@@ -429,6 +429,7 @@ za'i 38
 rinka 38
 io 38
 litru 38
+zerle'a 38
 jalge 38
 rirxe 37
 lacri 37
@@ -448,7 +449,6 @@ spofu 36
 cmana 36
 merko 36
 srana 36
-zerle'a 36
 bevri 36
 spuda 35
 sa'u 35
@@ -653,6 +653,7 @@ jibni 22
 vu 22
 tolcando 22
 tolmo'i 22
+fonta'a 22
 palci 22
 claxu 22
 daplu 22
@@ -674,7 +675,6 @@ o'u 21
 renvi 21
 mudri 21
 porpi 21
-fonta'a 21
 briju 21
 ju'i 21
 fange 21
@@ -788,6 +788,7 @@ ni'a 17
 uinai 17
 iu 17
 rokci 17
+ia 17
 soi 17
 za'ure'u 17
 e'apei 17
@@ -860,7 +861,6 @@ fi'e 15
 py 15
 balvi 15
 lakne 15
-ia 15
 cnita 15
 seja'e 15
 santa 15
@@ -3293,6 +3293,7 @@ turdida 2
 jbifavpre 2
 ko'u 2
 tozbartu 2
+puljytcana 2
 berbero 2
 islam 2
 selkra 2
@@ -6981,7 +6982,6 @@ tolvudypai 1
 nalmu'o 1
 nungalfi 1
 ci'ernunbi'opre 1
-puljytcana 1
 kunkevrutni 1
 kelci'e 1
 zuksmi 1
@@ -7048,3 +7048,4 @@ zbiru 1
 zerle'apre 1
 elis 1
 malpanci 1
+claninmu 1

@@ -1,4 +1,4 @@
-Tom 62
+Tom 63
 Njagala 22
 ku 20
 Ndi 20
@@ -49,6 +49,7 @@ musomesa 4
 ejjo 4
 ebibala 4
 Nja 4
+Osobola 4
 Ndowooza 4
 nti 4
 Enkuba 4
@@ -83,7 +84,6 @@ butya 3
 Bo 3
 ewedde 3
 kya 3
-Osobola 3
 lulimi 3
 mukaaga 3
 Leero 3
@@ -94,6 +94,7 @@ kutonnya 3
 ayagala 3
 okukulaba 3
 kunywa 3
+Ki 3
 kuyiga 3
 Mary 3
 Empewo 3
@@ -137,6 +138,8 @@ amaaso 2
 maddugavu 2
 kusoma 2
 ebitabo 2
+kyonna 2
+okusaba 2
 emiyembe 2
 obuyambi 2
 Sirowooza 2
@@ -174,7 +177,6 @@ Waliwo 2
 mugagga 2
 enviiri 2
 kati 2
-Ki 2
 yo 2
 Ebitabo 2
 Bambi 2
@@ -329,8 +331,6 @@ n'essomero 1
 Kyangu 1
 okutuukayo 1
 ekisere 1
-kyonna 1
-okusaba 1
 oluyimba 1
 olwo 1
 Nkuyambe 1
@@ -758,3 +758,7 @@ talina 1
 bwagazi 1
 bwa 1
 mupiira 1
+okusirika 1
+ekibaddewo 1
+asobola 1
+ekiseera 1

@@ -1,4 +1,4 @@
-d 406
+d 408
 ad 333
 n 241
 di 238
@@ -17,7 +17,7 @@ zi 106
 War 105
 ɣer 100
 Ad 95
-wer 93
+wer 94
 Maɣer 92
 Yanni 88
 taddart 86
@@ -31,8 +31,8 @@ Wi 64
 deg 63
  62
 ḏ 59
+qa 57
 Mary 56
-qa 56
 ɣa 55
 as 51
 ked 49
@@ -63,9 +63,9 @@ xseɣ 34
 ijjen 32
 mliḥ 32
 Ur 31
+Mamek 31
 aman 30
 walu 30
-Mamek 30
 abrid 30
 yelli 29
 marra 28
@@ -98,6 +98,7 @@ texsed 22
 aysum 22
 tella 22
 inu 21
+ak 21
 yexs 21
 yellan 21
 Ṭanja 21
@@ -105,7 +106,6 @@ cwayt 20
 cemm 20
 nni 20
 ila 20
-ak 20
 netta 20
 aḏ 20
 tinmel 20
@@ -5193,3 +5193,6 @@ xek 1
 sijeɣ 1
 idlisen-a 1
 Kanji 1
+Argaz-a 1
+afeḥli 1
+tesliɣ 1

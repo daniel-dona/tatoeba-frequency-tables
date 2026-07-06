@@ -1,4 +1,4 @@
-i 51
+i 52
 I 25
 Tom 22
 Im 13
@@ -98,6 +98,7 @@ illad 2
 annin 2
 naid 2
 egelrin 2
+Sevin 2
 Sâv 2
 cúthant 2
 san 2
@@ -383,7 +384,6 @@ sant 1
 Ephedo 1
 Anu 1
 orvedui 1
-Sevin 1
 thim 1
 Odungen 1
 iâf 1
@@ -464,3 +464,7 @@ be 1
 'alenas 1
 semmair 1
 norant 1
+Cenim 1
+hon 1
+bil 1
+tin 1

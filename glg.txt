@@ -1,18 +1,18 @@
-a 1850
+a 1852
 que 1714
-o 1606
+o 1609
 de 1586
-é 1212
-e 907
+é 1213
+e 910
 non 837
 O 793
 un 778
 A 691
 unha 609
 Non 572
-do 503
+do 504
 en 487
-da 430
+da 431
 máis 429
 os 429
 para 354
@@ -26,15 +26,15 @@ está 272
 na 267
 son 252
 Os 251
+á 247
 miña 246
-á 245
 súa 231
 Tom 224
 seu 220
 El 204
 con 198
 ten 191
-É 188
+É 190
 me 177
 moi 175
 Ela 172
@@ -48,9 +48,9 @@ todo 137
 vida 130
 ou 126
 moito 120
+As 118
 Se 117
 casa 117
-As 117
 foi 116
 facer 115
 pola 112
@@ -95,7 +95,7 @@ estaba 76
 coma 76
 lle 75
 mellor 75
-nos 74
+nos 75
 favor 74
 min 74
 nai 73
@@ -110,11 +110,11 @@ Cando 69
 Un 69
 inglés 68
 mesmo 68
+Deus 68
 vez 68
 corazón 68
 Esta 67
-Deus 67
-están 66
+están 67
 agora 65
 traballo 64
 algo 64
@@ -209,6 +209,7 @@ historia 38
 antes 37
 neno 36
 durante 36
+cidade 36
 nome 36
 No 36
 todas 36
@@ -218,7 +219,6 @@ irmá 36
 fillo 36
 Quero 35
 Só 35
-cidade 35
 persoa 35
 contra 35
 así 35
@@ -1349,6 +1349,7 @@ efecto 6
 tantos 6
 envexa 6
 chinés 6
+esquerda 6
 tolo 6
 luns 6
 buscando 6
@@ -1610,7 +1611,6 @@ levou 5
 entrar 5
 capacidade 5
 portuguesa 5
-esquerda 5
 adoitan 5
 pon 5
 lentamente 5
@@ -1670,6 +1670,7 @@ escura 5
 encantador 5
 natural 5
 etapa 5
+Mente 5
 padriño 5
 global 5
 consciencia 5
@@ -1982,6 +1983,7 @@ caza 4
 interese 4
 eficaz 4
 pobreza 4
+luces 4
 billa 4
 cravo 4
 abaixo 4
@@ -2104,7 +2106,6 @@ pódense 4
 partidos 4
 Dido 4
 troianos 4
-Mente 4
 "Por 4
 brilla 4
 aprendiches 4
@@ -2611,7 +2612,6 @@ pediulle 3
 cita 3
 debido 3
 sabemos 3
-luces 3
 prender 3
 dixera 3
 pingas 3
@@ -3783,6 +3783,7 @@ xogamos 2
 arxila 2
 prendeu 2
 Milleiros 2
+acesas 2
 sonche 2
 Toma 2
 pano 2
@@ -4253,6 +4254,7 @@ revela 2
 falsos 2
 pura 2
 Fonte 2
+Creación 2
 certamente 2
 tontería 2
 criado 2
@@ -4279,6 +4281,7 @@ desexando 2
 necesitará 2
 lirios 2
 florecen 2
+Xire 2
 conferencias 2
 escoites 2
 poderosa 2
@@ -4568,6 +4571,7 @@ metas 2
 refrán 2
 repetidamente 2
 sanción 2
+Universo 2
 Ámoo 2
 Ámoa 2
 sós 2
@@ -4629,6 +4633,7 @@ viláns 2
 afecto 2
 harmonía 2
 cascallos 2
+Alfa 2
 adolescente 2
 volverá 2
 balea 2
@@ -4663,6 +4668,7 @@ dinos 2
 creación 2
 Lembra 2
 Istambul 2
+Consciencia 2
 aprendemos 2
 inefábel 2
 doces 2
@@ -7063,7 +7069,6 @@ alumaban 1
 cerimonia 1
 durmas 1
 prendida 1
-acesas 1
 prendidas 1
 usada 1
 artesáns 1
@@ -9020,7 +9025,6 @@ revisores 1
 decátase 1
 eus 1
 líbrase 1
-Creación 1
 rebanada 1
 diagonal 1
 serviuse 1
@@ -9152,7 +9156,6 @@ inventado 1
 campo: 1
 traballan 1
 fian 1
-Xire 1
 Fotocopiar 1
 cristianismo 1
 misioneiros 1
@@ -9995,6 +9998,3 @@ orballada 1
 empapado 1
 relento" 1
 quitei 1
-voume 1
-lavei 1
-vounos 1

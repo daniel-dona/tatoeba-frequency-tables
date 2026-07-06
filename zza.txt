@@ -1,20 +1,20 @@
 Ez 232
-ra 151
+ra 152
+mi 124
 o 122
-mi 121
 Tom 105
-Ma 101
-de 98
-xo 96
+Ma 103
+de 100
+xo 97
 ma 89
 to 86
 a 77
 Tı 74
-bi 71
+bi 72
 ke 66
+do 65
 ey 63
-do 63
-yo 62
+yo 63
 nê 56
 ya 54
 û 51
@@ -53,6 +53,7 @@ xu 18
 Tomi 18
 tı 18
 seba 18
+estê 17
 ganî 17
 é 16
 ay 16
@@ -63,7 +64,6 @@ se 16
 keye 16
 zî 16
 esto 15
-estê 15
 keno 15
 Şima 15
 teber 14
@@ -111,6 +111,7 @@ hem 10
 ina 9
 viri 9
 derg 9
+Maya 9
 bo 9
 bêrê 9
 bêro 9
@@ -119,6 +120,7 @@ dê 9
 wa 9
 bî 9
 Tomî 9
+keyeyê 9
 ci 9
 kamca 9
 tîya 9
@@ -132,7 +134,6 @@ piya 8
 fına 8
 Kam 8
 bı 8
-Maya 8
 na 8
 pêro 8
 bena 8
@@ -141,7 +142,6 @@ sey 8
 Madê 8
 serrî 8
 Pîyê 8
-keyeyê 8
 eşkena 8
 her 8
 nas 8
@@ -170,6 +170,7 @@ kotî 7
 nîyo 7
 nêkena 7
 Înan 7
+meşte 7
 kitabê 7
 bike 7
 bikero 7
@@ -202,7 +203,6 @@ senîn 6
 şirî 6
 Birayê 6
 çin 6
-meşte 6
 dewa 6
 mekteb 6
 tena 6
@@ -241,6 +241,7 @@ Mayê 5
 goştarey 5
 xeylê 5
 fehm 5
+Deynê 5
 hema 5
 î 5
 Rojbaş 5
@@ -248,6 +249,7 @@ yî 5
 vaje 5
 şimena 5
 awe 5
+vizêrî 5
 verê 5
 îngilizkî 5
 bikerê 5
@@ -316,14 +318,13 @@ nêzana 4
 Nika 4
 Ziwanê 4
 meke 4
-Deynê 4
 şino 4
 Wexto 4
 Çira 4
 der 4
 heqê 4
 telefonê 4
-vizêrî 4
+hezar 4
 embaz 4
 hetkarîya 4
 bikerîme 4
@@ -344,6 +345,7 @@ Dîyarbekir 4
 Vizêrî 4
 dejeno 4
 Ella 4
+şiro 4
 serra 4
 cıwiyena 4
 Amed 4
@@ -434,6 +436,7 @@ lajekî 3
 vîst 3
 Welatê 3
 kenîme 3
+Almanya 3
 pereyî 3
 bîyê 3
 Waya 3
@@ -460,7 +463,6 @@ bibo 3
 tim 3
 Bi 3
 serran 3
-hezar 3
 kitabî 3
 Cinîya 3
 kurd 3
@@ -499,7 +501,6 @@ perwerde 3
 vet" 3
 kamcîn 3
 dare 3
-şiro 3
 mîlyar 3
 jê 3
 mîlyarî 3
@@ -695,7 +696,6 @@ Xatıré 2
 çî 2
 Kênaya 2
 Dêrsim 2
-Almanya 2
 Başûrî 2
 kurdî 2
 verêne 2
@@ -763,6 +763,7 @@ feydedar 2
 bar 2
 kole 2
 çîyêk 2
+Fransa 2
 tene 2
 werdî 2
 Çewlîgî 2
@@ -844,8 +845,10 @@ dêsê 2
 xerîta 2
 biwerîme 2
 şikîya 2
+tirk 2
 nêeşkayêne 2
 bîye 2
+roja 2
 aşitîye 2
 Dapîra 2
 xuré 2
@@ -862,6 +865,7 @@ qisaya 2
 şîme 2
 hewa 2
 Miletê 2
+Roşanî 2
 kolaya 2
 xora 2
 bızone 2
@@ -1973,7 +1977,6 @@ Verî 1
 Tay 1
 însanî 1
 Îran 1
-Fransa 1
 Dêrsimijî 1
 Herê 1
 qer 1
@@ -2471,7 +2474,6 @@ welatê 1
 nêkenîme 1
 ereb 1
 faris 1
-tirk 1
 mêmanan 1
 Embazê 1
 bişime 1
@@ -2502,7 +2504,6 @@ dewan 1
 dibistane 1
 musenîme 1
 Newroze 1
-roja 1
 azadîye 1
 yewbîyena 1
 kêna 1
@@ -2724,7 +2725,6 @@ Mangaya 1
 bore 1
 şit 1
 birîyaya 1
-Roşanî 1
 birnaya 1
 Esma 1
 sûke 1
@@ -2964,3 +2964,14 @@ teslîmkerdene 1
 deqeyan 1
 nanî 1
 dehîre 1
+500 1
+lîrayê 1
+zêdêrî 1
+şîyîme 1
+Gêxî 1
+şirîme 1
+Mûş 1
+xalanê 1
+dedanê 1
+Çarşeme 1
+pêranê 1

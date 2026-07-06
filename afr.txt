@@ -1,8 +1,8 @@
 nie 1426
-is 1216
+is 1217
 het 1133
 Ek 1055
-die 831
+die 832
 'n 678
 Tom 514
 jy 474
@@ -10,7 +10,7 @@ my 375
 te 359
 om 332
 dit 321
-van 315
+van 316
 jou 312
 Die 309
 vir 301
@@ -146,6 +146,7 @@ seker 25
 weer 25
 drink 25
 kat 24
+seun 24
 lief 24
 dood 24
 vriend 24
@@ -156,7 +157,6 @@ probeer 24
 gemaak 24
 kry 24
 mag 23
-seun 23
 kar 23
 koop 23
 gekom 22
@@ -3999,3 +3999,5 @@ geskep 1
 doms 1
 aanvang 1
 varkhok 1
+Zeus 1
+Kronos 1

@@ -3,10 +3,10 @@ saya 1350
 yang 1214
 Tom 1167
 tidak 1156
-di 774
+di 776
 awak 744
 itu 703
-ini 614
+ini 615
 akan 590
 untuk 584
 Dia 576
@@ -83,8 +83,8 @@ mana 84
 sekarang 84
 memberitahu 84
 satu 83
+berada 82
 nak 82
-berada 80
 buku 80
 buat 79
 masih 78
@@ -373,6 +373,7 @@ agak 21
 kepadanya 21
 ماري 21
 terbaik 20
+Malaysia 20
 baju 20
 meja 20
 meninggal 20
@@ -392,7 +393,6 @@ Layla 20
 کامو 20
 berbahasa 19
 tinggi 19
-Malaysia 19
 merupakan 19
 api 19
 berasa 19
@@ -518,6 +518,7 @@ raya 14
 nombor 14
 budak 14
 lapan 14
+Rumah 14
 langsung 14
 melawat 14
 menghantar 14
@@ -556,7 +557,6 @@ berat 13
 beg 13
 Encik 13
 Ayah 13
-Rumah 13
 Seorang 13
 membina 13
 kaya 13
@@ -572,6 +572,7 @@ teman 13
 kemalangan 13
 hadir 13
 lihat 13
+Indonesia 13
 rumahnya 13
 Tak 13
 mempercayai 13
@@ -604,9 +605,9 @@ pendapat 12
 Kereta 12
 ibunya 12
 memang 12
-Indonesia 12
 kini 12
 kelas 12
+dapur 12
 piano 12
 bunyi 12
 memakan 12
@@ -654,7 +655,6 @@ perniagaan 11
 ruang 11
 main 11
 halaman 11
-dapur 11
 gunakan 11
 Perkara 11
 ternampak 11
@@ -721,6 +721,7 @@ melalui 10
 membunuh 10
 dirinya 10
 berikan 10
+sempadan 10
 menyanyi 10
 adakah 10
 سامي 10
@@ -782,7 +783,6 @@ pecah 9
 membuatkan 9
 membelikan 9
 berusaha 9
-sempadan 9
 menyukainya 9
 menipu 9
 ujian 9
@@ -1247,6 +1247,7 @@ kandungan 5
 menyedari 5
 Tanpa 5
 memasukkan 5
+tamu 5
 Universiti 5
 Muhammad 5
 pasangan 5
@@ -1348,6 +1349,7 @@ agama 5
 musuh 5
 memulakan 5
 Algeria 5
+berhampiran 5
 Ambil 5
 awak" 5
 memaklumkan 5
@@ -1481,7 +1483,6 @@ jarang 4
 termasuk 4
 menguasai 4
 ilmu 4
-tamu 4
 panjang 4
 menentang 4
 Peter 4
@@ -1641,7 +1642,6 @@ mukanya 4
 coklat 4
 gila 4
 mulakan 4
-berhampiran 4
 berterima 4
 maksudnya 4
 ladang 4
@@ -2786,6 +2786,7 @@ Hati 2
 gurunya 2
 ikhlas 2
 sambung 2
+manakala 2
 hukuman 2
 model 2
 ejaan 2
@@ -3240,6 +3241,7 @@ fahami 2
 "Tom 2
 "Akhirnya" 2
 menatap 2
+Ruang 2
 ketam 2
 berbelanja 2
 pemain 2
@@ -4664,7 +4666,6 @@ Sebaliknya 1
 terluang 1
 belah 1
 tangan; 1
-manakala 1
 insan 1
 Kemiskinan 1
 ibarat 1
@@ -6239,7 +6240,6 @@ menyiapkannya 1
 Ditulis 1
 dahagakan 1
 kemasyhuran 1
-Ruang 1
 Abangnya 1
 "Reiko's 1
 Recommended" 1
@@ -7905,3 +7905,4 @@ perpaduan 1
 keharmonian 1
 keadaannya 1
 Daging 1
+Malaysia–Indonesia 1

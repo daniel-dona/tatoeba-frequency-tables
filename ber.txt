@@ -1,9 +1,9 @@
-ad 186957
-n 154195
+ad 186958
+n 154196
 d 114927
 ara 92901
 ay 71472
-i 65511
+i 65512
 deg 59745
 Ur 54295
 ur 49404
@@ -112,7 +112,7 @@ tura 2859
 wayen 2831
 yeɣs 2784
 imi 2770
-yesɛa 2750
+yesɛa 2751
 wasmi 2742
 ulac 2720
 uxxam 2698
@@ -456,7 +456,7 @@ tafat 795
 tufiḍ 795
 uẓawan 789
 tɣawla 788
-tɣawsiwin 787
+tɣawsiwin 788
 wussan 786
 tɣawsa 779
 Sriɣ 779
@@ -915,10 +915,10 @@ Yessen 393
 uzgen 393
 yiɣrem 393
 umezruy 391
+Ssneɣ 391
 ukeffay 391
 taseflut 391
 teẓgi 390
-Ssneɣ 390
 Ɣer-s 390
 tli 390
 uɣrab 390
@@ -5807,6 +5807,7 @@ tbeddlemt 56
 Tfuked 56
 tasestant 56
 taɣermant 56
+amcum 56
 treẓmed 56
 d-uɣalent 56
 iheddeṛ 56
@@ -5889,7 +5890,6 @@ yinebgi 55
 umedyaz 55
 nelmed 55
 Yeqqur 55
-amcum 55
 yinebgiwen 55
 Bnaqes 55
 yegzi 55
