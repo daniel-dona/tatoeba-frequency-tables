@@ -1,9 +1,9 @@
-es 12097
+es 12098
 ia 9227
 la 8382
-un 6107
+un 6108
 de 5699
-Me 5143
+Me 5144
 no 3898
 Tom 3795
 a 3268
@@ -14,7 +14,7 @@ en 2637
 tu 2457
 me 2411
 иа 2266
-ave 2093
+ave 2094
 де 1971
 ce 1941
 El 1875
@@ -733,6 +733,7 @@ intelijentia 38
 традуи 38
 Regarda 38
 Токи 38
+natural 37
 direto 37
 Dise 37
 ataca 37
@@ -753,7 +754,6 @@ estrema 37
 loco 37
 Пона 37
 longo 36
-natural 36
 senta 36
 reposa 36
 clar 36
@@ -6629,8 +6629,10 @@ ascolta 3
 gustada 3
 serpentin 3
 visconte 3
+Moria 3
 Uau 3
 sinifiosa 3
+amster 3
 opioides 3
 simhatora 3
 Tubixvat 3
@@ -9380,7 +9382,6 @@ Bad 2
 Bunny 2
 coabitor 2
 fantasiada 2
-Moria 2
 materialisme 2
 Redona 2
 Pospone 2
@@ -9393,7 +9394,6 @@ lingua; 2
 hausa 2
 Chuck 2
 Norris: 2
-amster 2
 kg 2
 pesah 2
 pascua 2

@@ -1,13 +1,13 @@
 er 18008
-Jeg 11456
+Jeg 11457
 at 9227
-Tom 8682
-en 8661
-i 8556
+Tom 8683
+en 8663
+i 8557
 ikke 8171
-har 7719
-du 5484
-til 5221
+har 7721
+du 5485
+til 5222
 det 4971
 på 4963
 og 3931
@@ -27,7 +27,7 @@ Hun 2230
 dig 2029
 om 1960
 Vi 1926
-I 1909
+I 1910
 Mary 1867
 Du 1784
 vil 1772
@@ -42,7 +42,7 @@ her 1281
 de 1196
 Hvor 1191
 Er 1171
-Hvad 1161
+Hvad 1162
 blev 1102
 sig 1093
 sin 1088
@@ -53,7 +53,7 @@ havde 990
 være 987
 Min 958
 din 925
-dag 911
+dag 912
 fra 903
 vi 895
 skal 877
@@ -124,7 +124,7 @@ gå 420
 god 417
 penge 417
 ser 414
-altid 408
+altid 409
 tage 407
 Sami 407
 været 398
@@ -300,9 +300,9 @@ fandt 161
 finde 161
 én 161
 vide 160
+laver 160
 Et 160
 sandt 160
-laver 159
 fået 159
 bedste 158
 skrive 158
@@ -471,11 +471,11 @@ omkring 100
 stranden 100
 syv 99
 hos 99
+arbejdet 99
 skete 98
 ryge 98
 sagt 98
 John 98
-arbejdet 98
 ondt 98
 behøver 97
 mening 97
@@ -620,6 +620,7 @@ køber 71
 glemte 71
 gennem 70
 udenfor 70
+Taler 70
 mistede 70
 heste 70
 slags 70
@@ -631,7 +632,6 @@ sukker 70
 lå 70
 lært 70
 blomster 69
-Taler 69
 låne 69
 fødselsdag 69
 besluttede 69
@@ -1275,6 +1275,7 @@ smed 31
 ja 31
 lastbil 31
 lo 31
+ungarsk 31
 fangede 31
 fanget 31
 Kvinder 31
@@ -1309,7 +1310,6 @@ vasket 30
 hænderne 30
 kysse 30
 såret 30
-ungarsk 30
 fortæller 30
 planet 30
 fyret 30
@@ -1439,6 +1439,7 @@ Drikker 27
 nøglen 27
 svin 27
 bidt 27
+elefant 27
 ris 27
 kysset 27
 2013 27
@@ -1490,7 +1491,6 @@ lillebror 26
 brændte 26
 kæmpe 26
 rakte 26
-elefant 26
 Peter 26
 Læg 26
 Samis 26
@@ -4308,6 +4308,7 @@ Læser 7
 nu" 7
 bund 7
 officielt 7
+flue 7
 bark 7
 omkuld 7
 strømmen 7
@@ -4898,7 +4899,6 @@ ruger 6
 bh 6
 gæs 6
 prinsen 6
-flue 6
 0 6
 Merkel 6
 Ringede 6

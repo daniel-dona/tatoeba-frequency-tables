@@ -107,9 +107,9 @@ mezin 63
 kerema 62
 kar 61
 kî 60
+dibe 60
 bavê 60
 nas 60
-dibe 59
 bûn 59
 Mary 58
 bêriya 58
@@ -1254,6 +1254,7 @@ nebirin 5
 dengekî 5
 tevahî 5
 kuna 5
+Cejna 5
 nikaribin 5
 nizanibû 5
 xaneyan 5
@@ -1538,7 +1539,6 @@ diaxivim 4
 naxin 4
 sererast 4
 mafên 4
-Cejna 4
 Beriya 4
 taybetiyên 4
 înê 4
@@ -2360,6 +2360,7 @@ keçeke 3
 qestî 3
 Mary'ê 3
 danûstanê 3
+nêzikî 3
 Maisie 3
 Enqereyê 3
 cêwî 3
@@ -3677,7 +3678,6 @@ navçeya 2
 Otobusa 2
 Pismamê 2
 agahî 2
-nêzikî 2
 Awistiryayê 2
 nimêj 2
 nimêjê 2
@@ -9453,3 +9453,4 @@ Enteresan 1
 Heywan 1
 Rêçik 1
 xirabtir 1
+Paskalyayê 1

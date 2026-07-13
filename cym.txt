@@ -2,8 +2,8 @@ yn 570
 i 353
 Mae 292
 y 202
-Dw 195
-i'n 182
+Dw 196
+i'n 183
 Tom 170
 ddim 121
 o 117
@@ -54,10 +54,10 @@ gen 26
 ydy 25
 bwyta 25
 Mae'n 25
+dod 24
 yma 24
 gwneud 24
 hynny 24
-dod 23
 fel 23
 gan 23
 dim 23
@@ -72,9 +72,9 @@ Dych 21
 dw 21
 rhaid 21
 yfed 21
+o'r 20
 Oes 20
 dysgu 20
-o'r 19
 gallu 19
 da 19
 fod 19
@@ -225,6 +225,7 @@ wythnos 7
 hyd 7
 Dwi'n 7
 gwelwch 7
+hefyd 7
 heb 7
 anrheg 7
 ffilm 7
@@ -260,7 +261,6 @@ oer 6
 'na 6
 neu 6
 cyn 6
-hefyd 6
 well 6
 gyrru 6
 anodd 6
@@ -295,6 +295,7 @@ saith 5
 gwaith 5
 i'w 5
 bobl 5
+Almaen 5
 Esperanto 5
 Wnest 5
 ddrud 5
@@ -355,7 +356,6 @@ athrawes 4
 gilydd 4
 dri 4
 adnabod 4
-Almaen 4
 amdano 4
 ganddyn 4
 anghofio 4

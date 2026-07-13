@@ -1,6 +1,6 @@
 Ez 232
 ra 152
-mi 124
+mi 125
 o 122
 Tom 105
 Ma 103
@@ -11,10 +11,10 @@ to 86
 a 77
 Tı 74
 bi 72
+do 66
 ke 66
-do 65
+yo 64
 ey 63
-yo 63
 nê 56
 ya 54
 û 51
@@ -31,8 +31,8 @@ O 41
 kerd 37
 bê 35
 u 33
+Ewro 33
 dı 32
-Ewro 32
 ê 30
 To 29
 No 29
@@ -260,6 +260,7 @@ dî 5
 Kurdîstanî 5
 çunke 5
 şirê 5
+Vizêrî 5
 çıçi 4
 eza 4
 awan 4
@@ -324,6 +325,7 @@ Wexto 4
 der 4
 heqê 4
 telefonê 4
+Meşte 4
 hezar 4
 embaz 4
 hetkarîya 4
@@ -342,7 +344,6 @@ Roja 4
 Samiyî 4
 kurdkî 4
 Dîyarbekir 4
-Vizêrî 4
 dejeno 4
 Ella 4
 şiro 4
@@ -457,7 +458,6 @@ domanê 3
 bîyî 3
 nêeşkena 3
 nefret 3
-Meşte 3
 bibo 3
 şimite 3
 tim 3
@@ -501,6 +501,7 @@ perwerde 3
 vet" 3
 kamcîn 3
 dare 3
+roja 3
 mîlyar 3
 jê 3
 mîlyarî 3
@@ -848,7 +849,6 @@ biwerîme 2
 tirk 2
 nêeşkayêne 2
 bîye 2
-roja 2
 aşitîye 2
 Dapîra 2
 xuré 2
@@ -879,6 +879,7 @@ bikera 2
 mîyaneyê 2
 Estanbol 2
 ameya 2
+dindanê 2
 2025 2
 qedîyena 2
 vara 2
@@ -2860,7 +2861,6 @@ nêcıwiyena 1
 Krakow 1
 Polonya 1
 asnawe 1
-dindanê 1
 sîparîşê 1
 mamosteya 1
 şikîyayo 1
@@ -2975,3 +2975,9 @@ xalanê 1
 dedanê 1
 Çarşeme 1
 pêranê 1
+tewayêne 1
+fîksturê 1
+Lîga 1
+Supere 1
+biancîyo 1
+înê 1

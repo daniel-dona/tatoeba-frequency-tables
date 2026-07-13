@@ -1,9 +1,9 @@
 do 1032
 oku 621
-i 404
+i 405
 Tom 377
 ku 335
-no 315
+no 316
 di 299
 nopo 258
 nga 254
@@ -22,10 +22,10 @@ Milo' 113
 daa 113
 ilo 110
 tokou 108
-tu 103
+tu 104
 mantad 100
 boros 95
-dot 90
+dot 91
 tulun 89
 Nunu 89
 kopio 87
@@ -329,6 +329,7 @@ manu 7
 paganakan 7
 hopod 7
 Koilo' 7
+limo 7
 kanu 7
 ikoyu 7
 lihuai 7
@@ -374,7 +375,6 @@ tobpinai 6
 minit 6
 mirikau 6
 rahat 6
-limo 6
 Sikapai 6
 timpak 6
 tian 6
@@ -1407,6 +1407,7 @@ nongoi 2
 Minooi 2
 piunungan 2
 mata 2
+toon 2
 Kantonis 2
 Ziri 2
 tanga 2
@@ -3574,7 +3575,6 @@ salad 1
 dangaadau 1
 Naanu 1
 parai 1
-toon 1
 biano 1
 noopod 1
 karung 1
@@ -3984,3 +3984,6 @@ ugudii 1
 Kaamatan: 1
 Mongomot 1
 mamaramai 1
+Raaragayon 1
+Giluk 1
+tibion 1

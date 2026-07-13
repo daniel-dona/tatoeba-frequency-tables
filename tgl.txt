@@ -5,12 +5,12 @@ na 16785
 po 13867
 ko 12692
 mga 12298
-Tom 9629
+Tom 9630
 si 8965
-ako 8396
+ako 8397
 mo 6342
 ni 6300
-Hindi 6104
+Hindi 6105
 at 5493
 ba 5350
 niya 4912
@@ -52,7 +52,7 @@ tayo 1222
 bahay 1214
 Kailangan 1195
 Ano 1086
-kay 1071
+kay 1072
 ngayon 1061
 Huwag 1023
 bang 1016
@@ -72,7 +72,7 @@ o 801
 rin 798
 Bakit 766
 pero 739
-noong 722
+noong 723
 Mas 709
 Walang 702
 rito 677
@@ -752,6 +752,7 @@ klaseng 74
 Tokyo 74
 Kinailangan 74
 namatay 74
+una 74
 niyebe 74
 templo 74
 halos 74
@@ -762,7 +763,6 @@ sampung 73
 Aling 73
 pagod 73
 bisikleta 73
-una 73
 Matagal 73
 mayaman 73
 pader 73
@@ -4354,6 +4354,7 @@ kambal 11
 TV 11
 ipagpatuloy 11
 Pinanganak 11
+naniwala 11
 makitang 11
 dyus 11
 bisi 11
@@ -4656,7 +4657,6 @@ Mahuhuli 10
 mag-aalaga 10
 ibibigay 10
 minamahal 10
-naniwala 10
 lumipas 10
 gagaling 10
 Binato 10

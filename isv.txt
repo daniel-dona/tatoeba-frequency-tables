@@ -1,16 +1,16 @@
-jest 265
-Ja 210
+jest 266
+Ja 212
 ne 157
-Tom 106
+Tom 107
 jesm 105
 Ty 84
 v 81
-se 75
+se 76
 je 73
 On 66
 To 62
 My 57
-Vy 53
+Vy 54
 sut 52
 jesi 43
 Ona 42
@@ -25,7 +25,7 @@ Oni 25
 jeste 24
 vy 22
 li 22
-na 21
+na 22
 Мы 21
 јесмо 21
 ješče 19
@@ -179,6 +179,7 @@ Vsi 4
 umrl 4
 jej 4
 komnatě 4
+jete 4
 novy 4
 znaju 4
 mogu 4
@@ -254,7 +255,6 @@ Rus 3
 jedina 3
 jezyky 3
 hrabri 3
-jete 3
 našel 3
 pijany 3
 pijana 3
@@ -309,9 +309,12 @@ ljubim 3
 brata 3
 blizneca 3
 izuča 3
+imam 3
 ulicu 3
+Smrt 3
 vidimo 3
 heroj 3
+meso 3
 Dobry 2
 utro 2
 hodili 2
@@ -625,12 +628,10 @@ někogda 2
 Pravda 2
 me 2
 ale 2
-Smrt 2
 tak 2
 nenavidim 2
 idiot 2
 Kaky 2
-nekoliko 2
 gribov 2
 Sirena 2
 prěobrazila 2
@@ -647,7 +648,6 @@ bud 2
 budte 2
 Anonymous 2
 njej 2
-meso 2
 glasovala 2
 glasoval 2
 vam 2
@@ -1953,7 +1953,6 @@ Beri 1
 Berite 1
 lekcija 1
 ukončena 1
-imam 1
 modrym 1
 pokryvom 1
 znaš 1
@@ -2016,6 +2015,8 @@ poběgl 1
 propověd 1
 zaščitniki 1
 grada 1
+nekoliko 1
+několiko 1
 morsku 1
 amerikanska 1
 naučiti 1
@@ -2073,3 +2074,8 @@ mužev 1
 Tata 1
 kavu 1
 každo 1
+hrčka 1
+homjaka 1
+prizemjil 1
+Marsu 1
+prirodna 1

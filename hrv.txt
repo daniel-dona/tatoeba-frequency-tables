@@ -1,7 +1,7 @@
-je 1891
+je 1892
 se 698
 u 633
-sam 515
+sam 516
 da 474
 li 431
 na 364
@@ -10,12 +10,12 @@ ne 318
 i 272
 mi 245
 su 241
-Ne 207
-to 205
+Ne 208
+to 206
 nije 187
 za 184
-što 180
-si 177
+što 181
+si 180
 od 167
 On 158
 ti 140
@@ -26,7 +26,7 @@ smo 122
 s 118
 će 112
 Ja 107
-Što 103
+Što 106
 Ona 103
 bi 102
 ću 94
@@ -94,8 +94,8 @@ ili 40
 tamo 39
 mu 39
 Da 38
+znam 38
 Moja 37
-znam 37
 puno 37
 Volim 36
 Mogu 36
@@ -131,11 +131,11 @@ vrata 29
 engleski 29
 Svi 29
 Možeš 29
+danas 29
 želiš 29
 mogao 28
 po 28
 dvije 28
-danas 28
 ovaj 27
 knjigu 27
 Molim 27
@@ -192,6 +192,7 @@ tri 21
 novac 21
 svojim 21
 Uvijek 21
+kupio 21
 jezik 21
 trebao 21
 Imaš 21
@@ -199,7 +200,6 @@ problem 21
 zbog 21
 zove 20
 govori 20
-kupio 20
 Jučer 20
 došao 20
 ovu 20
@@ -293,6 +293,7 @@ ujutro 15
 najbolje 15
 ide 15
 znao 15
+sama 15
 jednom 14
 svijetu 14
 Hoćeš 14
@@ -315,7 +316,6 @@ novaca 14
 Budi 14
 hladno 14
 žene 14
-sama 14
 mačka 13
 ova 13
 imaju 13
@@ -1016,6 +1016,7 @@ svatko 4
 najviše 4
 Ljeto 4
 putovnicu 4
+Radio 4
 Čini 4
 vodi 4
 prilično 4
@@ -1239,6 +1240,7 @@ bolnici 4
 Poznajem 4
 važna 4
 dogoditi 4
+radio 4
 Muiriel 4
 sreću 4
 Zagreb 4
@@ -1690,7 +1692,6 @@ talijanski 3
 Stol 3
 prekriven 3
 mogli 3
-radio 3
 Hm 3
 greške 3
 "Muiriel" 3
@@ -1764,6 +1765,7 @@ kuca 3
 crn 3
 latinski 3
 Italije 3
+kupila 3
 Grčka 3
 votka 3
 puši 3
@@ -1904,7 +1906,6 @@ ranjen 2
 biće 2
 američku 2
 zgradu 2
-Radio 2
 danom 2
 pokuša 2
 nagovoriti 2
@@ -2701,7 +2702,6 @@ Beograd 2
 srpskom 2
 najljepši 2
 Njemačke 2
-kupila 2
 gradova 2
 Turska 2
 jača 2

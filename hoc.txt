@@ -1,12 +1,12 @@
 𑢡𑣍 225
 do 214
-ko 185
+ko 184
 re 145
 tana 139
 𑣙𑣁𑣕𑣃 127
-Tom 123
+Tom 124
 ket́a 96
-te 92
+te 93
 𑣇𑣖𑣈𑣜 81
 ge 76
 chi 76
@@ -63,11 +63,11 @@ taekena 26
 𑣚𑣁𑣋𑣂𑣑 26
 𑣌𑣁𑣓𑣁𑣍 26
 reć 25
+kać 24
 tan 24
 aḱ 24
 lagit́ 24
 ká 24
-kać 23
 Chenaḱ 23
 𑢡𑣖 23
 ena 22
@@ -96,6 +96,7 @@ senoḱ 17
 daea 17
 𑣜𑣈𑣅𑣁𑣄 17
 𑣁𑣜 17
+nel 16
 saben 16
 koń 16
 Ać 16
@@ -105,7 +106,6 @@ eć 16
 𑢡𑣍𑣁𑣄 16
 𑣙𑣂𑣎𑣃𑣇 16
 hoo 16
-nel 15
 banoḱa 15
 ań 15
 jom 15
@@ -267,6 +267,7 @@ daeoḱa 8
 Disum 8
 Science 8
 Ada 8
+imin 8
 Altitude 8
 Medical 8
 𑣖𑣞𑣎𑣂𑣔 8
@@ -318,7 +319,6 @@ nama 7
 bai 7
 enka 7
 rekô 7
-imin 7
 rená 7
 lekam 7
 dom 7
@@ -520,7 +520,6 @@ Hora 4
 Jibon 4
 menaḱća 4
 rege 4
-dae 4
 jahnaḱ 4
 𑣗𑣃𑣋𑣂 4
 𑢬𑣁𑣎𑣂 4
@@ -591,7 +590,6 @@ sirma 4
 evn 4
 tangi 4
 lekann 4
-emê 4
 𑢷𑣉𑣜𑣂𑣞 4
 menoḱa 4
 len 4
@@ -706,6 +704,7 @@ rebua 3
 menaḱbua 3
 baṅińa 3
 ci 3
+dae 3
 baioḱ 3
 bugina 3
 𑢯𑣁𑣕𑣉𑣖 3
@@ -824,6 +823,7 @@ bugi 3
 Sarite 3
 Vice 3
 Paeṭić 3
+emê 3
 Problem 3
 Gonoć 3
 aeteć 3
@@ -1356,6 +1356,7 @@ Hatukô 2
 eṭećoḱ 2
 aetekô 2
 sama 2
+Met́ 2
 joka 2
 Apple 2
 Sahara 2
@@ -1385,7 +1386,6 @@ Janagar 2
 menteaḱ 2
 kee 2
 adaić 2
-Daḱkô 2
 uḍuḱńa 2
 Hapaam 2
 namêa 2
@@ -3173,9 +3173,11 @@ Laboratory 1
 Taenpai 1
 mena 1
 soporoḱ 1
+dai 1
 Spacecraft 1
 Support 1
 Base 1
+eme 1
 Prime 1
 Minister 1
 Pedro 1
@@ -3186,7 +3188,6 @@ Haam 1
 Can 1
 Danaloṕeń 1
 hoṭaḱ 1
-Met́ 1
 japit́ 1
 reaḱć 1
 Candy 1
@@ -3359,6 +3360,7 @@ beṭaè 1
 𑢺𑣂𑣉𑣓𑣑𑣂 1
 𑣙𑣃𑣓𑣑𑣂𑣅𑣁𑣓𑣁 1
 Daḱringa 1
+Daḱkô 1
 ringa 1
 hunḍinn 1
 kabu 1
@@ -4067,10 +4069,10 @@ borote 1
 chenaḱm 1
 Supply 1
 chunḍuliń 1
-Chereṕiń 1
-Hey 1
-hey 1
-Chereṕ 1
+Cereṕiń 1
+Cia 1
+cia 1
+Cereṕ 1
 Flexible 1
 geać 1
 Firm 1
@@ -4160,12 +4162,13 @@ Huḍiṅ 1
 eskarmukuńoḱa 1
 Hoyo 1
 geon-geona 1
-jiaa-jiaa 1
+jiaa-jiaaà 1
 Haḍidaḱ 1
 atu 1
 enḍaḱ 1
 Siṅ-Sanḍom 1
-sorà 1
+Daḱ'ko 1
+sora 1
 rakaṕa 1
 Bahcaṭu 1
 Hasa'ć 1
@@ -4301,3 +4304,6 @@ pé 1
 duna 1
 lahḱ 1
 Kajibir 1
+kajikupula 1
+Sama 1
+daioḱa 1

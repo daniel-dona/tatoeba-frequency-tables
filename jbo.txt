@@ -1,7 +1,7 @@
-lo 13068
-mi 6391
+lo 13071
+mi 6393
 cu 3646
-do 3408
+do 3409
 la 3121
 le 2402
 pu 2377
@@ -26,7 +26,7 @@ poi 613
 ba 597
 du'u 582
 ro 530
-citka 529
+citka 530
 djica 508
 nelci 496
 tu'a 440
@@ -72,7 +72,7 @@ bangu 231
 ei 231
 re 221
 ba'o 221
-gerku 214
+gerku 215
 je 210
 mlatu 206
 kakne 201
@@ -133,8 +133,8 @@ nakni 124
 cabdei 122
 vecnu 121
 makau 121
+ponse 120
 lonu 118
-ponse 118
 la'o 116
 du 114
 ma'a 114
@@ -165,10 +165,10 @@ djedi 99
 tai 99
 jdini 99
 morsi 98
+cmalu 98
 prulamdei 97
 penmi 97
 ui 97
-cmalu 97
 mu 97
 la'e 96
 xebni 96
@@ -720,6 +720,7 @@ bacru 19
 ditcu 19
 ckana 19
 vimcu 19
+rectu 19
 je'i 19
 tolci'o 19
 bakni 19
@@ -750,7 +751,6 @@ ponbau 18
 vlacku 18
 djon 18
 tilju 18
-rectu 18
 culno 18
 spita 18
 krixa 18
@@ -7049,3 +7049,4 @@ zerle'apre 1
 elis 1
 malpanci 1
 claninmu 1
+kricetu 1

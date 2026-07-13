@@ -1,11 +1,11 @@
 le 15794
 es 11754
-un 9516
-de 8731
-ha 6481
-Le 6046
-Io 5668
-in 5423
+un 9517
+de 8732
+ha 6482
+Le 6047
+Io 5669
+in 5424
 non 5327
 que 5163
 e 3639
@@ -775,6 +775,7 @@ visitar 42
 lentemente 42
 functiona 42
 bibliotheca 42
+sole 42
 periculose 42
 village 42
 laco 42
@@ -797,7 +798,6 @@ classe 41
 lassa 41
 false 41
 legeva 41
-sole 41
 contar 41
 pomos 41
 fide 41
@@ -1221,6 +1221,7 @@ theatro 27
 naso 27
 memora 27
 oblidava 27
+genere 27
 Esser 27
 poeta 27
 euros 27
@@ -1257,7 +1258,6 @@ plantas 26
 religiones 26
 seculo 26
 discoperiva 26
-genere 26
 practica 26
 servi 26
 esque 26
@@ -1290,6 +1290,7 @@ cognoscentia 25
 agradabile 25
 cappello 25
 politica 25
+comenciar 25
 pluve 25
 tertie 25
 corage 25
@@ -1332,7 +1333,6 @@ vinti 24
 profundemente 24
 seriose 24
 mentiva 24
-comenciar 24
 regina 24
 curreva 24
 claudite 24
@@ -1776,6 +1776,7 @@ incendio 17
 traduce 17
 visitate 17
 heroe 17
+infantia 17
 sortiva 17
 leader 17
 armea 17
@@ -1861,7 +1862,6 @@ adverbios 17
 2024 17
 convincer 16
 exception 16
-infantia 16
 difficultate 16
 lineas 16
 quotidian 16
@@ -5385,6 +5385,7 @@ reparava 5
 ducer 5
 champignones 5
 Expelle 5
+hamster 5
 drag 5
 banana 5
 Joca 5
@@ -6445,7 +6446,6 @@ agricultor 4
 Annuncios 4
 marmita 4
 maledicte 4
-hamster 4
 cognate 4
 audira 4
 acos 4

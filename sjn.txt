@@ -40,6 +40,7 @@ lim 3
 nin 3
 sui 3
 min 3
+aes 3
 allen 3
 gallon 3
 im 3
@@ -78,7 +79,6 @@ dihen 2
 phith 2
 meren 2
 gordof 2
-aes 2
 nad 2
 Lasto 2
 lastad 2
@@ -468,3 +468,4 @@ Cenim 1
 hon 1
 bil 1
 tin 1
+Medich 1

@@ -1,7 +1,7 @@
-is 169
-I 131
+is 170
+I 132
 the 123
-a 100
+a 101
 that 95
 and 93
 of 80
@@ -29,10 +29,10 @@ but 23
 my 22
 Thou 21
 This 20
+Ye 19
 myn 19
 this 18
 thou 18
-Ye 18
 ye 18
 art 17
 What 17
@@ -46,12 +46,12 @@ That 14
 hath 13
 by 13
 good 13
+have 12
 folk 12
 They 12
 as 11
 so 11
 fader 11
-have 11
 wolde 11
 may 11
 oure 10
@@ -59,9 +59,9 @@ now 10
 us 10
 Me 10
 men 10
+hound 10
 whan 10
 ne 9
-hound 9
 þe 9
 or 9
 love 9
@@ -500,6 +500,7 @@ goder 2
 hele 2
 fele 2
 phisicien 2
+eten 2
 Ne 2
 lerne 2
 manful 2
@@ -523,6 +524,7 @@ dyn 2
 Youre 2
 argument 2
 water 2
+smal 2
 visage 2
 hue 2
 verray 2
@@ -578,6 +580,7 @@ kepen 2
 auncestres 2
 myghte 2
 lyven 2
+Deeth 2
 An 2
 sermoun 2
 citee 2
@@ -592,6 +595,7 @@ poverte 2
 Alice 2
 Moneday 2
 stinketh 2
+flessh 2
 long 2
 stolen 2
 heuene 1
@@ -1101,7 +1105,6 @@ praty 1
 tre 1
 leuen 1
 wicche 1
-eten 1
 madde 1
 sorceresse 1
 leve 1
@@ -1154,7 +1157,6 @@ salt 1
 drynketh 1
 salte 1
 boot 1
-smal 1
 contree 1
 turned 1
 colour 1
@@ -1360,7 +1362,6 @@ savage 1
 unlered 1
 ginnes 1
 thinken 1
-Deeth 1
 Hem 1
 Han 1
 stondeth 1
@@ -1419,5 +1420,5 @@ skile 1
 up 1
 norisshed 1
 Ete 1
-flessh 1
 wene 1
+kyndely 1

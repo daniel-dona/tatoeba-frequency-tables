@@ -1,17 +1,17 @@
-es 331
+es 332
 Tom 185
-un 168
+un 169
 de 126
-la 124
+la 125
 El 123
-en 119
+en 120
 el 117
 No 111
 no 103
 una 94
 esta 85
 a 84
-La 73
+La 74
 איס 73
 Los 59
 ke 56
@@ -22,8 +22,8 @@ Me 47
 los 47
 איל 45
 So 43
+esto 41
 i 40
-esto 40
 mi 39
 pan 38
 kon 37
@@ -43,22 +43,22 @@ me 23
 Sos 22
 Onde 22
 אונה 22
+perro 21
 Las 21
 lingua 20
 kaza 20
 djudio 20
-perro 20
 gato 20
 Somos 20
 Sosh 20
 Esta 20
+del 19
 Yo 19
+Tengo 19
 Sami 19
-del 18
 mas 18
 Kero 18
 era 18
-Tengo 18
 Deke 18
 lo 17
 djudios 17
@@ -213,6 +213,7 @@ Avla 6
 Grasias 6
 Mersi 6
 Avlash 6
+chiko 6
 buen 6
 nombre 6
 alegre 6
@@ -252,6 +253,7 @@ komprando 5
 somos 5
 Moramos 5
 Mueva 5
+Estambol 5
 marido 5
 todos 5
 mushteri 5
@@ -260,7 +262,6 @@ Tienes 5
 Nunka 5
 livros 5
 arabo 5
-chiko 5
 paiz 5
 ay 5
 estash 5
@@ -274,6 +275,7 @@ kave 5
 yo 5
 לינגואס 5
 lavoro 5
+karne 5
 בﬞידרי 5
 portugez 5
 פורטוגיז 5
@@ -304,8 +306,8 @@ entender 4
 Eyas 4
 bueno 4
 sosh 4
+Oy 4
 Shalom 4
-Estambol 4
 Devo 4
 Mos 4
 akordo 4
@@ -338,7 +340,6 @@ apoyo 4
 pertinente 4
 kaye 4
 Estava 4
-karne 4
 קירו 4
 אבﬞלאש 4
 ombres 4
@@ -397,6 +398,7 @@ Evropa 3
 tyene 3
 Aki 3
 ladino 3
+muerte 3
 buena 3
 eya 3
 vino 3
@@ -421,7 +423,6 @@ tengo 3
 parientes 3
 Miriam 3
 fashista 3
-Oy 3
 Mora 3
 moran 3
 lavoresh 3
@@ -578,7 +579,6 @@ frontieras 2
 buenos 2
 save 2
 Israel 2
-muerte 2
 Tyenes 2
 Le 2
 vido 2
@@ -846,6 +846,7 @@ amante 2
 opera 2
 les 2
 savia 2
+Komesh 2
 Vende 2
 vende 2
 vendiendo 2
@@ -947,6 +948,7 @@ mentira 2
 pueda 2
 Podriyamos 2
 Sinyor 2
+Mundo 2
 fenisyo 2
 artifisial 2
 Tyerra 2
@@ -1925,7 +1927,6 @@ Maga 1
 karate 1
 djudo 1
 Komes 1
-Komesh 1
 Kome 1
 tenia 1
 favor 1
@@ -2335,7 +2336,6 @@ peshkados 1
 malas 1
 Kadosh 1
 Baruh-u 1
-Mundo 1
 komiendo 1
 djudiyo 1
 relijiozo 1
@@ -2453,3 +2453,6 @@ bolamos 1
 djustisia 1
 solamente 1
 tregua 1
+Ganaron 1
+Kopa 1
+natural 1

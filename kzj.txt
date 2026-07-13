@@ -1,24 +1,24 @@
-do 3530
-zou 1231
-di 1042
-no 949
+do 3532
+zou 1232
+di 1043
+no 950
 i 849
 Tom 705
+ku 666
 ko 665
-ku 664
-o 660
+o 661
 id 487
 nu 473
 nopo 438
 doid 428
 Au 409
-dii 387
+dii 388
 isido 386
 dau 382
 om 379
 nga 314
 po 247
-diti 245
+diti 246
 au 229
 zosido 206
 zi 193
@@ -40,12 +40,12 @@ tu 138
 iti 136
 gia 130
 nunu 126
+ii 125
 baino 125
 mai 125
-ii 124
 Aiso 122
 Kivaa 117
-au' 115
+au' 116
 tadau 110
 ka 110
 nga' 107
@@ -74,9 +74,9 @@ timpu 63
 Mimang 62
 buuk 61
 Noikot 58
+sondii 58
 tanak 57
 mimang 57
-sondii 57
 kaanu 56
 nodii 56
 Aanangan 55
@@ -213,6 +213,7 @@ koni 22
 Isai 21
 kosodop 21
 saviavi 21
+kinoizonon 21
 Id 21
 kosivatan 21
 taakanon 21
@@ -223,7 +224,6 @@ kuukuamaon 20
 kokito 20
 apatut 20
 monongkiboos 20
-kinoizonon 20
 zapa 20
 hozou 20
 Tadau 20
@@ -407,6 +407,7 @@ totuvong 11
 nu" 11
 maso 11
 minit 11
+Ingkaa 11
 vahu 11
 tavaavasi 11
 Duutia 11
@@ -443,7 +444,6 @@ sangadau 10
 onu 10
 paganakan 10
 Oihaan 10
-Ingkaa 10
 bobog 10
 Maan 10
 kazu 10
@@ -519,6 +519,7 @@ modop 9
 tohikud 9
 Somoonu 9
 mai' 9
+popokito 9
 hivang 9
 Kantonis 9
 gibang 9
@@ -566,9 +567,9 @@ tontohu 8
 Songuhun 8
 kakaal 8
 Nombo 8
-popokito 8
 ku" 8
 sisimba 8
+nogi' 8
 miad 8
 vavazaan 8
 linaat 8
@@ -642,7 +643,6 @@ sisindion 7
 ginumu' 7
 tuminimpuun 7
 dii" 7
-nogi' 7
 titihion 7
 touvi 7
 nuhu 7
@@ -1404,6 +1404,7 @@ Minonoimo 3
 Sabap 3
 hobus 3
 Diisai 3
+asil 3
 Tondu 3
 dompuvan 3
 Popoiho 3
@@ -1997,7 +1998,6 @@ kotongkizadan 2
 mononsog 2
 noombo 2
 Nokotingkod 2
-asil 2
 noongou 2
 momohoou 2
 maza' 2
@@ -2341,6 +2341,7 @@ Ogonop 2
 timpoonan 2
 dangaadau 2
 Duminandi 2
+koguhian 2
 koizonon 2
 Kosimban 2
 tabpo-abpo 2
@@ -2402,6 +2403,7 @@ ais 2
 mamalamai 2
 Munsikou 2
 Pinopotunui 2
+mangangakan 2
 Maza 2
 kokiikitanai 2
 kotuhungan 2
@@ -2582,6 +2584,7 @@ adi' 2
 kulita' 2
 mositi' 2
 kopolotian 2
+mogiboboos 2
 Titombuhui 1
 Luputan 1
 Harry 1
@@ -5055,7 +5058,6 @@ Minimpuun 1
 binasug 1
 kinotutunan 1
 'Dazhong' 1
-koguhian 1
 Dumuom 1
 Minogizon 1
 kumointohu 1
@@ -5344,7 +5346,6 @@ montiga 1
 tahaahaid 1
 dinosaur 1
 teks 1
-mangangakan 1
 kumongkong 1
 gugunoon 1
 nokopiboos 1
@@ -7074,7 +7075,6 @@ Aḏaḏa 1
 mimpo-kimpo' 1
 Songinḏiikau 1
 ḏintuun 1
-mogiboboos 1
 ponongkibaasan 1
 izosido' 1
 oniiba 1
@@ -7086,3 +7086,5 @@ Gompoto 1
 Kaamatan: 1
 Mongomot 1
 piunungan 1
+Pogunoo' 1
+koinano 1

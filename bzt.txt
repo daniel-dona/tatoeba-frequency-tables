@@ -1,18 +1,18 @@
-es 302
+es 304
 Eo 218
 yn 173
 rhen 153
 di 117
-Tomos 106
-ill 98
+Tomos 108
+ill 100
 lla 91
 Ys 85
-Ill 80
+Ill 81
 Sa 79
 llo 70
-Lla 62
+Lla 63
 su 58
-a 54
+a 55
 yst 46
 mew 44
 eo 42
@@ -21,7 +21,7 @@ sunt 38
 er 37
 Ty 33
 Llo 33
-ci 30
+ci 31
 in 30
 mi 26
 Ke 23
@@ -29,10 +29,10 @@ tew 22
 can 21
 i 21
 nw 21
+Gw 21
 llw 20
 Mew 20
 per 20
-Gw 20
 gw 19
 gath 19
 gws 17
@@ -79,6 +79,7 @@ gran 10
 Saesonig 10
 Negyn 10
 Sew 10
+nwstr 10
 Pab 10
 gos 10
 h-es 10
@@ -90,7 +91,6 @@ Tom 9
 mai 9
 ffeirth 9
 morth 9
-nwstr 9
 ffager 9
 car 9
 cos 9
@@ -100,6 +100,7 @@ werdad 9
 dew 8
 mhod 8
 nôn 8
+paes 8
 Fair 8
 sa 8
 Ffrencig 8
@@ -120,7 +121,6 @@ agur 7
 h-yddew 7
 twy 7
 sulfent 7
-paes 7
 Greid 7
 barol 7
 Es-ys 7
@@ -129,6 +129,7 @@ lifr 7
 grêdd 7
 Domos 7
 iewen 7
+angh 7
 a'll 7
 anghor 7
 Angh 7
@@ -154,7 +155,6 @@ arient 6
 Si 6
 sempr 6
 la 6
-angh 6
 ystafl 6
 peg 6
 manugad 5
@@ -168,6 +168,7 @@ ddewindad 5
 Gwstr 5
 for 5
 dif 5
+subr 5
 Gwa 5
 afef 5
 wenif 5
@@ -302,7 +303,6 @@ Alchyn 3
 Ceosath 3
 Ceos 3
 athentiwn 3
-subr 3
 bon 3
 parol 3
 ffrencig 3
@@ -347,6 +347,7 @@ alchyn 3
 h-ant 3
 morid 3
 sabef 3
+Marth 3
 Se 3
 Ffag 3
 diwrn 3
@@ -378,6 +379,7 @@ problem 2
 asseth 2
 llafur 2
 d' 2
+fanugant 2
 segruid 2
 linghedig 2
 phar 2
@@ -437,6 +439,7 @@ es-ty 2
 leir 2
 menh 2
 noethfent 2
+nadyral 2
 chos 2
 gwerfent 2
 ystad 2
@@ -600,6 +603,7 @@ gwiwer 2
 h-orell 2
 "Perch 2
 Segyrfent 2
+carn 2
 ffuraf 2
 h-a 2
 ffurad 2
@@ -635,7 +639,6 @@ Pedr 1
 solfent 1
 Â-g 1
 h-eliffan 1
-fanugant 1
 erf 1
 garn 1
 asculltar 1
@@ -823,7 +826,6 @@ Arfath 1
 Arf 1
 nghongwenent 1
 homosesaldad 1
-nadyral 1
 morira 1
 dragun 1
 affar 1
@@ -1111,7 +1113,6 @@ periglus 1
 ffelicitar 1
 Dônig 1
 Llyn 1
-Marth 1
 Merchyr 1
 Ioi 1
 Gwener 1
@@ -1382,9 +1383,11 @@ Yscrifeth 1
 sabeth 1
 Yscrif 1
 bonisaf 1
-carn 1
 borch 1
 proifed 1
 islam 1
 'wolan 1
 h-of 1
+aribad 1
+aribaf 1
+forth 1

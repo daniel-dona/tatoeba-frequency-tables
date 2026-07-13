@@ -1,10 +1,10 @@
-is 116
+is 118
 on 72
 Ic 71
 ne 63
 and 61
 þæt 53
-Iċ 43
+Iċ 44
 biþ 35
 þū 32
 mid 29
@@ -40,9 +40,9 @@ ac 14
 swa 13
 hit 13
 hē 13
+hæbbe 13
 sind 13
 Ič 12
-hæbbe 12
 þā 12
 Sēo 12
 Þū 12
@@ -63,6 +63,7 @@ Ne 9
 fæder 8
 be 8
 sceal 8
+hund 8
 ūs 8
 Mē 8
 gōd 8
@@ -79,7 +80,6 @@ eft 7
 min 7
 him 7
 for 7
-hund 7
 hæfþ 7
 nū 7
 sindon 7
@@ -137,6 +137,7 @@ us 5
 sculon 5
 nǣfre 5
 þīnne 5
+Ġē 5
 sōþ 5
 hire 5
 Þa 4
@@ -166,7 +167,6 @@ hēr 4
 bēoþ 4
 wile 4
 etan 4
-Ġē 4
 Rima 4
 lufiġe 4
 beo 4
@@ -261,6 +261,7 @@ eallunga 3
 mæġ 3
 lēoþ 3
 þyncþ 3
+Dēaþ 3
 ġesēoþ 3
 clipode 2
 naman 2
@@ -362,6 +363,7 @@ gesund 2
 Hū 2
 And 2
 Ēalā 2
+etað 2
 wulf 2
 Līf 2
 Marian 2
@@ -487,7 +489,6 @@ wōd 2
 wið 2
 þēawas 2
 funde 2
-Dēaþ 2
 wīsesta 2
 betwux 2
 rihtan 2
@@ -499,6 +500,8 @@ hatiġe 2
 untrūwiende 2
 weras 2
 ǣfre 2
+flǣsc 2
+ġecyndelīċ 2
 fandian 1
 Abrahames 1
 gehiersumnesse 1
@@ -970,7 +973,6 @@ Of 1
 trēowa 1
 wæstme 1
 Paradīsum 1
-etað 1
 trēow 1
 hrepodon 1
 ðī 1
@@ -1643,8 +1645,9 @@ Maria 1
 sæġde 1
 Alice 1
 Mōnandæġe 1
-flǣsc 1
 hēah 1
 lang 1
 wēne 1
 ġestolen 1
+lȳtelne 1
+Sweltan 1

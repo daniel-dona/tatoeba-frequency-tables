@@ -1,13 +1,13 @@
-t 1965
+t 1966
 is 1927
-k 1874
+k 1876
 n 1754
 nait 1089
 Tom 902
 van 787
-Ik 740
+Ik 741
 Hai 694
-dat 640
+dat 643
 binnen 613
 de 560
 te 531
@@ -36,13 +36,13 @@ die 270
 hebben 268
 Wat 265
 gain 263
+wat 262
 as 261
-wat 261
 Ze 255
 Mien 253
-ik 249
+ik 250
 Doe 242
-Heb 240
+Heb 241
 der 236
 Dat 235
 om 229
@@ -86,10 +86,10 @@ over 110
 hai 109
 eten 105
 al 104
+haar 104
 Hest 104
 Zie 104
 meer 103
-haar 103
 joar 100
 niks 96
 wezen 95
@@ -288,6 +288,7 @@ gaf 28
 kold 28
 Fraans 28
 open 28
+elkenain 28
 dut 28
 grode 28
 bruiers 28
@@ -299,7 +300,6 @@ wonen 28
 leden 28
 wilst 27
 sikkom 27
-elkenain 27
 noa 27
 leren 27
 weg 27
@@ -378,6 +378,7 @@ Ien 22
 ollu 22
 dee 22
 Perbaaier 22
+vonden 22
 gaaist 22
 aans 22
 olle 22
@@ -385,6 +386,7 @@ moat 22
 motten 21
 schier 21
 Ain 21
+wis 21
 vaaier 21
 traain 21
 kennen 21
@@ -392,7 +394,6 @@ zusters 21
 drinkt 21
 Welk 21
 west 21
-vonden 21
 verlet 21
 achter 21
 wichtje 21
@@ -404,7 +405,6 @@ Mout 21
 zuk 21
 groag 21
 Hier 20
-wis 20
 runnen 20
 ter 20
 moand 20
@@ -439,6 +439,7 @@ En 19
 boksem 19
 Austroalie 19
 dust 19
+docht 19
 zollen 19
 kees 19
 vergeten 19
@@ -494,7 +495,6 @@ probleem 17
 zegt 17
 Neem 17
 heufdstad 17
-docht 17
 Gainain 17
 Guster 17
 daaier 17
@@ -947,6 +947,7 @@ leuk 8
 tv 8
 vong 8
 dronk 8
+verloren 8
 eerappels 8
 koken 8
 wacht 8
@@ -1066,7 +1067,6 @@ bedankt 7
 pioano 7
 troanen 7
 Hond 7
-verloren 7
 zun 7
 drije 7
 zeuventien 7
@@ -1312,6 +1312,7 @@ Boeten 6
 kwastjed 6
 vaarver 6
 aargens 6
+woarvan 6
 Revier 6
 nuimen 6
 zummer 6
@@ -1507,7 +1508,6 @@ dörst 5
 kepot 5
 Mike 5
 Muunsjen 5
-woarvan 5
 nuvere 5
 vuurwaark 5
 vieren 5

@@ -1,8 +1,8 @@
 tidak 3619
-Aku 3543
+Aku 3545
 Tom 3480
 yang 3231
-di 2875
+di 2877
 itu 2195
 Dia 2044
 ini 1966
@@ -19,7 +19,7 @@ adalah 1030
 untuk 909
 ada 905
 dia 856
-dari 827
+dari 828
 pergi 781
 ingin 764
 Kamu 763
@@ -30,7 +30,7 @@ Apakah 726
 orang 661
 Anda 648
 Mary 647
-lebih 630
+lebih 631
 suka 625
 apa 608
 bahasa 599
@@ -44,7 +44,7 @@ makan 520
 punya 498
 Ini 495
 hari 485
-pada 444
+pada 445
 banyak 437
 Mereka 432
 sini 424
@@ -73,15 +73,15 @@ seperti 301
 belajar 296
 masih 294
 Ada 279
+saja 278
 sebuah 277
-saja 277
 menjadi 276
 baik 274
 memiliki 268
 satu 261
 belum 259
+tidur 256
 bahwa 255
-tidur 254
 semua 254
 dua 247
 hal 241
@@ -98,7 +98,7 @@ malam 208
 sama 206
 Tolong 205
 membeli 203
-terlalu 202
+terlalu 203
 sekarang 200
 jam 198
 kalau 196
@@ -115,9 +115,9 @@ perlu 183
 besar 180
 kota 177
 sana 177
+daripada 175
 anak 175
 saat 174
-daripada 174
 pun 174
 lalu 173
 Kau 172
@@ -191,7 +191,7 @@ bilang 114
 menemukan 113
 Mengapa 113
 Mari 112
-bulan 111
+bulan 112
 apa-apa 111
 berkata 110
 masuk 109
@@ -290,15 +290,15 @@ jatuh 73
 berbahasa 73
 cinta 73
 menonton 73
+lahir 73
 dulu 72
 bawah 72
 rasa 72
 mengerti 72
-lahir 72
+mahal 71
 mudah 71
 terlambat 71
 ibu 71
-mahal 70
 meja 70
 menikah 70
 keras 70
@@ -538,13 +538,13 @@ gelap 38
 roti 38
 digunakan 38
 warna 38
+temanku 38
 bagian 38
 Bisa 37
 kerja 37
 Banyak 37
 berat 37
 menang 37
-temanku 37
 berdua 37
 terbang 36
 sebelah 36
@@ -1057,6 +1057,7 @@ perusahaan 17
 Bila 17
 mulut 17
 rahasia 17
+sofa 17
 pensil 17
 jenis 17
 gelas 17
@@ -1122,6 +1123,8 @@ hantu 16
 resmi 16
 harapan 16
 kemari 16
+mobilku 16
+pacarku 16
 membiarkan 16
 laki-lakiku 16
 tenggelam 16
@@ -1153,7 +1156,6 @@ darinya 15
 kebenaran 15
 Akan 15
 seratus 15
-sofa 15
 tamu 15
 hidupnya 15
 memelihara 15
@@ -1174,7 +1176,6 @@ boneka 15
 ditulis 15
 membicarakan 15
 buku-buku 15
-mobilku 15
 kacamata 15
 dimana 15
 lumayan 15
@@ -1182,7 +1183,6 @@ kakakku 15
 semi 15
 bersembunyi 15
 seni 15
-pacarku 15
 bingung 15
 kemampuan 15
 Natal 15
@@ -1336,6 +1336,7 @@ memberikannya 13
 si 13
 masing-masing 13
 menembak 13
+bagiku 13
 menahan 13
 Afrika 13
 jumpa 13
@@ -1419,7 +1420,6 @@ berbelanja 12
 dipecat 12
 diminum 12
 bendera 12
-bagiku 12
 hasil 12
 sembuh 12
 menyarankan 12
@@ -1477,6 +1477,7 @@ tajam 11
 derajat 11
 SMA 11
 Fuji 11
+Januari 11
 tubuh 11
 menganggap 11
 Mana 11
@@ -1710,6 +1711,7 @@ menikmati 10
 parkir 10
 sampai-sampai 10
 favorit 10
+Teman 10
 Universitas 10
 Warna 10
 asli 10
@@ -1764,7 +1766,6 @@ menghormati 9
 singkat 9
 Api 9
 mengantar 9
-Januari 9
 menyedihkan 9
 supaya 9
 sampah 9
@@ -2044,7 +2045,6 @@ termasuk 8
 mencobanya 8
 badannya 8
 fasih 8
-Teman 8
 Pintunya 8
 kelelahan 8
 perempuannya 8
@@ -4620,6 +4620,7 @@ horor 3
 kematiannya 3
 mempersulit 3
 akses 3
+Tasnya 3
 Selesaikan 3
 Putri 3
 praktis 3
@@ -6260,7 +6261,6 @@ berukuran 2
 Tipe 2
 berkedip 2
 kencing 2
-Tasnya 2
 yoga 2
 duyung 2
 napasnya 2
@@ -6677,6 +6677,7 @@ orak-arik 2
 kuantum 2
 zaitun 2
 keliru 2
+kelahiran 2
 Natrium 2
 Tiziri 2
 mangkuknya 2
@@ -9997,4 +9998,3 @@ Keigo 1
 kehalusan 1
 bahasa) 1
 merebahkan 1
-Honolulu 1

@@ -1,6 +1,6 @@
-on 29505
-ei 10807
-Tom 9928
+on 29506
+ei 10809
+Tom 9931
 Hän 8491
 ja 6913
 että 6909
@@ -9,10 +9,10 @@ ole 6373
 oli 5780
 En 4987
 Minä 4487
-Se 3818
+Se 3819
 hän 3612
 se 3435
-kuin 3385
+kuin 3386
 Olen 3033
 ovat 2958
 sinä 2885
@@ -35,7 +35,7 @@ Mitä 1830
 ollut 1829
 vain 1801
 minua 1753
-He 1709
+He 1710
 olla 1688
 minä 1687
 Minulla 1655
@@ -45,10 +45,10 @@ sinun 1578
 olen 1543
 hyvin 1535
 Minun 1533
+todella 1474
 tehdä 1473
-todella 1473
 kanssa 1402
-nyt 1397
+nyt 1398
 joka 1396
 mitään 1394
 siitä 1364
@@ -83,7 +83,7 @@ Ei 983
 pitäisi 970
 vähän 954
 Tuo 947
-tulee 931
+tulee 930
 et 892
 juuri 863
 Hänen 855
@@ -134,16 +134,16 @@ eilen 575
 he 573
 ettei 571
 takaisin 568
+tulla 566
 Kuka 564
-tulla 564
 enemmän 564
 rahaa 564
 usein 545
 olevan 542
 minut 541
-Tommi 539
 ihan 538
 Et 537
+Tommi 536
 Meidän 534
 mies 534
 pois 532
@@ -179,7 +179,7 @@ aivan 466
 auttaa 462
 siellä 458
 Minusta 453
-olemme 446
+olemme 447
 Ne 444
 varma 444
 ilman 441
@@ -196,11 +196,11 @@ tästä 412
 tosi 411
 jotka 410
 tänä 408
-Olemme 406
+Olemme 407
 Anna 405
 myös 403
 jonka 403
-Maria 403
+Maria 402
 vuonna 400
 Tiedän 399
 Tuomo 396
@@ -226,9 +226,9 @@ kaiken 369
 vanha 366
 puhuu 364
 kiinni 363
+tapahtui 363
 joten 362
 kerran 362
-tapahtui 362
 olin 361
 Meillä 361
 sanoa 360
@@ -238,12 +238,12 @@ yli 356
 pitänyt 353
 kirjan 353
 Emme 350
+Maryn 349
 Bostonissa 349
 asuu 348
 Kukaan 348
 käyttää 348
 tykkää 348
-Maryn 348
 Milloin 347
 yhtään 347
 tiennyt 347
@@ -302,8 +302,8 @@ tee 295
 sinne 293
 vettä 293
 antaa 293
+alkaa 292
 erittäin 291
-alkaa 291
 hänestä 290
 kukaan 290
 pitkään 288
@@ -725,12 +725,12 @@ jättää 119
 isä 119
 kuuma 119
 sekä 119
+Marya 119
 lapsia 118
 minuuttia 118
 henkilö 118
 rahat 118
 kestää 118
-Marya 118
 pidät 117
 koiran 117
 asua 117
@@ -751,6 +751,7 @@ teen 115
 pitävät 114
 minuun 114
 tehty 114
+edessä 114
 Montako 114
 Siitä 114
 ranskan 114
@@ -763,7 +764,6 @@ Mennään 114
 soitti 113
 hetken 113
 väärässä 113
-edessä 113
 jätti 113
 viikon 113
 kaikkea 113
@@ -967,6 +967,7 @@ tulevat 91
 työn 91
 pari 91
 Jumala 91
+aio 91
 koulusta 90
 Tätä 90
 välitä 90
@@ -989,7 +990,6 @@ minne 89
 vaarallista 89
 kaupungissa 89
 toimii 89
-aio 89
 viettää 89
 Vain 88
 kaupunki 88
@@ -1474,6 +1474,7 @@ kuukauden 58
 tuuli 58
 vieläkään 58
 oleva 58
+puistossa 58
 Opiskelen 58
 kieltäytyi 58
 kuolla 58
@@ -1485,7 +1486,6 @@ Tykkäätkö 58
 tarvitsemme 58
 vitun 58
 sua 58
-puistossa 57
 joutui 57
 lopetti 57
 pysyi 57
@@ -1611,6 +1611,7 @@ valita 53
 lähettää 53
 sanaa 53
 joen 53
+mielellään 53
 viedä 53
 Tähän 53
 tykkäät 53
@@ -1640,7 +1641,6 @@ aiheuttaa 52
 autossa 52
 kohta 52
 Juuri 52
-mielellään 52
 Suurin 52
 Syö 52
 viikonloppuna 52
@@ -2115,6 +2115,7 @@ vuodessa 41
 pystyn 41
 sanottavaa 41
 Haluatteko 41
+Voitteko 41
 kuvitella 41
 kaikilla 41
 rauhassa 41
@@ -2166,7 +2167,6 @@ matkaa 40
 minäkin 40
 Sota 40
 kuvaa 40
-Voitteko 40
 Ihminen 40
 Melkein 40
 Ranska 40
@@ -2850,6 +2850,7 @@ lahja 29
 millään 29
 ensimmäisenä 29
 hitaammin 29
+Tilanne 29
 aamiaiseksi 29
 ääressä 29
 päivältä 29
@@ -2930,7 +2931,6 @@ ihmisille 28
 pelaamaan 28
 Ainoa 28
 menimme 28
-Tilanne 28
 lahjakas 28
 veljesi 28
 kaupunkia 28
@@ -3012,6 +3012,7 @@ ympärillä 28
 pikku 28
 lähemmäksi 28
 tunteja 28
+ajattelin 28
 Boston 28
 kutsunut 28
 Pieni 28
@@ -3142,7 +3143,6 @@ Bostonin 27
 pidit 27
 linnun 27
 työni 27
-ajattelin 27
 keksejä 27
 huoneeseensa 27
 esimerkiksi 27
@@ -3531,7 +3531,6 @@ tarvitsin 24
 suunnittelee 24
 musiikin 24
 vasemmalla 24
-Marian 24
 surullisia 24
 Jaa 24
 kolmesti 24
@@ -3693,6 +3692,7 @@ häät 23
 hukannut 23
 hiiren 23
 hämmentynyt 23
+Marian 23
 syvältä 23
 kiireitä 23
 ylimielinen 23
@@ -4792,6 +4792,7 @@ Autoni 17
 kokeessa 17
 auttavan 17
 rengas 17
+luovuttaa 17
 johtopäätöksiä 17
 kaikissa 17
 lain 17
@@ -5064,7 +5065,6 @@ maksa 16
 vahingoitti 16
 kakusta 16
 kulman 16
-luovuttaa 16
 itkuun 16
 kuulosti 16
 sateenvarjonsa 16
@@ -7765,6 +7765,7 @@ hassu 10
 molempien 10
 kaduilla 10
 Juhlat 10
+museon 10
 pikkuveli 10
 todiste 10
 sukunimeä 10
@@ -8274,6 +8275,7 @@ mallia 9
 bileet 9
 tarjouksen 9
 sopimus 9
+Kumpikaan 9
 työhönsä 9
 kaikkialle 9
 edellisen 9
@@ -8488,7 +8490,6 @@ saisivat 9
 edessäni 9
 pyydät 9
 vauhdissa 9
-museon 9
 suhtautuu 9
 Liput 9
 kaivo 9
@@ -9571,6 +9572,7 @@ ammattilainen 8
 Autatko 8
 pohjoisesta 8
 naapurini 8
+pahempi 8
 lähempänä 8
 ottelua 8
 Matkustatko 8
@@ -9996,5 +9998,3 @@ tanskalaisen 8
 virstan 8
 laturia 8
 neljäsosan 8
-mäntyjen 8
-vesirokon 8
