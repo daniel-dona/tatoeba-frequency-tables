@@ -32,9 +32,9 @@ breli 18
 tina 18
 tis 17
 tom 17
-rdu 17
 skani 17
 So 16
+rdu 16
 Tomik 16
 Mu 16
 ragadi 16
@@ -65,22 +65,22 @@ arti 10
 - 10
 Tomk 10
 va 10
+ჩქი 9
 djoǧori 9
 glaxa 9
 ardza 9
 bosṫons 9
-so 9
 reki 9
 Djgiri 9
 ç̌ita 9
 Amdǧa 9
 gverdi 9
-ჩქი 8
 თე 8
 Ate 8
 ase 8
 Skani 8
 dio 8
+so 8
 teshi 8
 voreki 8
 vordi 8
@@ -106,7 +106,6 @@ uǧƨ 7
 მოკო 6
 ç̌iç̌e 6
 skvami 6
-borjis 6
 mus 6
 da 6
 Sumi 6
@@ -126,6 +125,7 @@ miɔors 6
 ǩaṫu 6
 თქვა 5
 shilebe 5
+borjis 5
 Kishilebeno 5
 mutun 5
 dolari 5
@@ -203,6 +203,7 @@ Mendi 4
 amnaxanṫi 4
 Kortxint 4
 midartu 4
+სო 4
 miçku 4
 uǩuli 4
 axal 4
@@ -227,6 +228,7 @@ namda 4
 დრო 3
 რექო 3
 ჩქიმ 3
+რდუ 3
 ოკო 3
 მუშენ 3
 კოჩი 3
@@ -328,7 +330,6 @@ isṫoria 3
 Arti 3
 Vamoǩo 3
 Ardza 3
-სო 3
 ameriǩari 3
 tkvani 3
 Muşeni 3
@@ -362,7 +363,6 @@ atena 3
 რექ 2
 ხანს 2
 გალენ 2
-რდუ 2
 სკან 2
 რაგადი 2
 მიღუდასუნი 2
@@ -419,7 +419,6 @@ bgurafule 2
 dumagurafal 2
 jveshi 2
 xom 2
-Chqi 2
 ish 2
 mofrti 2
 qore 2
@@ -431,6 +430,7 @@ kidiç̌q'u 2
 maras 2
 miogans 2
 xans 2
+ოჭკომალი 2
 burti 2
 çhiçhe 2
 sode 2
@@ -1009,6 +1009,7 @@ qotqvi 1
 vamoxvadunia 1
 Komuchit 1
 nivti 1
+Chqi 1
 taq 1
 olaꞇafusha 1
 vamomrtumna 1
@@ -1093,7 +1094,6 @@ ibjina 1
 მერიქ 1
 მუშით 1
 გაკეთუ 1
-ოჭკომალი 1
 Tomi-k 1
 doitsiganu 1
 ubadoshe 1
@@ -1687,13 +1687,13 @@ vamoçkaru 1
 dudtsu 1
 aç̌udun 1
 ტყურას 1
-kaxa 1
-Ç̌urç̌uli 1
-ṫabakis 1
-oçhkumali 1
-giladzu 1
-ṫɣurelo 1
-vodinuant 1
+კახა 1
+ჭურჭული 1
+ტაბაკის 1
+გილაძუ 1
+ტყურელო 1
+ვოდინუანთ 1
+ბორჯის 1
 meṫi 1
 vamatminebe 1
 Dozoji 1

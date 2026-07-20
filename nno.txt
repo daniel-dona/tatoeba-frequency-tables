@@ -1,37 +1,37 @@
-er 2856
-Eg 2253
-Tom 1658
-ikkje 1116
+er 2860
+Eg 2256
+Tom 1659
+ikkje 1118
 å 1047
-det 959
-i 935
-du 881
-på 867
-har 764
-ein 734
+det 960
+i 937
+du 882
+på 868
+har 769
+ein 736
 Det 732
 til 714
-Han 631
+Han 635
 meg 527
 var 497
 eg 496
 han 428
 med 413
 at 411
-Ho 404
+Ho 408
 deg 380
 og 370
-eit 360
+eit 361
 for 347
 av 324
 Vi 323
 som 319
 Du 314
-kan 264
+kan 265
 Dei 250
 Er 249
 fransk 249
-ei 247
+ei 248
 seg 243
 om 224
 likar 220
@@ -39,9 +39,9 @@ Kor 218
 Kva 208
 Mary 192
 vil 181
+den 178
 dei 178
 vart 178
-den 177
 min 174
 kjem 174
 dette 172
@@ -75,8 +75,8 @@ gå 112
 denne 109
 din 107
 Har 103
+bur 101
 aldri 99
-bur 99
 Boston 98
 snakkar 97
 so 97
@@ -85,7 +85,7 @@ Ikkje 96
 Kan 93
 Kvifor 92
 kom 92
-no 90
+no 91
 snakka 90
 skulle 89
 vi 88
@@ -99,10 +99,10 @@ såg 84
 Kvar 83
 lyst 82
 blei 81
+tre 81
 der 80
-tre 80
 ser 80
-Denne 78
+Denne 79
 godt 77
 etter 76
 gjer 76
@@ -118,8 +118,8 @@ alt 69
 høg 68
 I 65
 Den 65
+nokon 65
 Me 64
-nokon 64
 alle 63
 laga 62
 ville 62
@@ -135,12 +135,12 @@ gjorde 58
 spelar 58
 heile 57
 sett 57
+boka 56
 ned 56
 spela 56
 to 55
 et 55
 meir 54
-boka 54
 Ingen 54
 dykk 54
 gjort 53
@@ -185,6 +185,7 @@ Hellas 42
 alltid 41
 dine 41
 når 41
+lærer 41
 høfleg 41
 vert 40
 ingen 40
@@ -202,7 +203,6 @@ hennar 38
 morgon 37
 kvar 37
 Lat 37
-lærer 37
 Tak 37
 tek 36
 lei 36
@@ -227,13 +227,13 @@ Korleis 33
 visste 33
 ganske 33
 Ver 33
+gamal 33
 Gøym 33
 kjenner 32
 rett 32
 Gjev 32
 ingenting 32
 inn 32
-gamal 32
 fortalde 32
 livet 31
 enno 31
@@ -263,6 +263,7 @@ De 29
 studera 29
 les 28
 Maria 28
+huset 28
 nok 28
 lang 28
 Noreg 28
@@ -275,7 +276,6 @@ draum 28
 Her 27
 òg 27
 same 27
-huset 27
 kvifor 27
 ferdig 27
 svensk 27
@@ -342,6 +342,7 @@ paraply 22
 opera 22
 søv 21
 liv 21
+gamle 21
 likte 21
 prøvde 21
 jo 21
@@ -357,6 +358,8 @@ No 20
 åleine 20
 stort 20
 trist 20
+bok 20
+ny 20
 havet 20
 fleire 20
 time 20
@@ -369,15 +372,13 @@ brillene 20
 ferie 20
 snart 19
 teke 19
+katt 19
 sjuk 19
-gamle 19
 skriv 19
 vårt 19
 spurde 19
 jobbar 19
-bok 19
 skulen 19
-ny 19
 Les 19
 te 19
 bordet 19
@@ -424,7 +425,6 @@ Far 17
 Folk 17
 klokka 17
 Berre 17
-katt 17
 lever 17
 la 17
 hunden 17
@@ -525,6 +525,7 @@ fortelja 15
 gått 15
 Korso 15
 På 15
+Borna 15
 slutt 15
 Merkur 15
 landsbyen 15
@@ -539,8 +540,10 @@ høyrde 14
 Hald 14
 visst 14
 eig 14
+symja 14
 Viss 14
 sist 14
+hus 14
 drog 14
 Russland 14
 Ring 14
@@ -585,11 +588,9 @@ stå 13
 Rommet 13
 endå 13
 ord 13
-symja 13
 Ta 13
 jobb 13
 tenkt 13
-hus 13
 lett 13
 slik 13
 harpe 13
@@ -606,7 +607,6 @@ fortsette 13
 Fransk 13
 forklåra 13
 Ukraina 13
-Borna 13
 spel 13
 myser 13
 dusja 13
@@ -625,6 +625,7 @@ eigentleg 12
 Å 12
 Om 12
 svara 12
+fire 12
 ete 12
 svart 12
 ordet 12
@@ -674,7 +675,6 @@ kvarandre 11
 store 11
 fløyte 11
 senga 11
-fire 11
 tide 11
 vidt 11
 stolen 11
@@ -730,6 +730,7 @@ veg 10
 japansk 10
 vorte 10
 menneske 10
+kvit 10
 Unnskyld 10
 leva 10
 gjere 10
@@ -745,6 +746,7 @@ faktisk 10
 møta 10
 ynskja 10
 høyrer 10
+halv 10
 seks 10
 gode 10
 Skund 10
@@ -763,6 +765,7 @@ smilte 10
 øydelagt 10
 syng 10
 fengsel 10
+tysk 10
 måndag 10
 bilar 10
 Eit 10
@@ -820,7 +823,6 @@ geit 9
 dotter 9
 gift 9
 måte 9
-halv 9
 irriterande 9
 hjelper 9
 arbeider 9
@@ -881,7 +883,6 @@ arresterte 9
 flagget 8
 Vel 8
 tolv 8
-kvit 8
 maten 8
 krigen 8
 sliten 8
@@ -916,6 +917,7 @@ eksamen 8
 spesielt 8
 bjørn 8
 ris 8
+Klokka 8
 vin 8
 romanen 8
 Ser 8
@@ -927,7 +929,6 @@ nær 8
 natta 8
 høyra 8
 fantastisk 8
-tysk 8
 Bier 8
 alvorleg 8
 sand 8
@@ -1022,7 +1023,6 @@ tillate 7
 mens 7
 lova 7
 leksene 7
-Klokka 7
 væske 7
 rør 7
 vinna 7
@@ -1042,6 +1042,7 @@ klarer 7
 fisk 7
 reisa 7
 dame 7
+gamalt 7
 luktar 7
 egg 7
 ifrå 7
@@ -1132,6 +1133,7 @@ dansk 6
 en 6
 gjeld 6
 kjend 6
+student 6
 trefte 6
 TV-en 6
 flaug 6
@@ -1179,7 +1181,6 @@ frukost 6
 sleppa 6
 ekte 6
 Italia 6
-gamalt 6
 epla 6
 svevn 6
 dusjar 6
@@ -1446,6 +1447,7 @@ oppvarming 5
 imponerte 5
 imponerande 5
 strikka 5
+kinesisk 5
 hardare 5
 bryr 5
 leikane 5
@@ -1496,7 +1498,6 @@ orda 4
 nynorsk 4
 svært 4
 seie 4
-student 4
 framføre 4
 «Eg 4
 fødde 4
@@ -2194,7 +2195,6 @@ drøymer 3
 pianoet 3
 Namnet 3
 landar 3
-kinesisk 3
 svima 3
 Vink 3
 vifta 3
@@ -2451,6 +2451,7 @@ Eleven 2
 Løva 2
 veken 2
 måten 2
+systrer 2
 Mamma 2
 kjøtet 2
 forlate 2
@@ -3785,7 +3786,6 @@ pennen 1
 yngst 1
 appelsinane 1
 kjøleskåpet 1
-systrer 1
 Slaven 1
 selje 1
 bruktbilar 1
@@ -7192,3 +7192,4 @@ Stein 1
 Ladogasjøen 1
 tilfrosen 1
 Helsinki 1
+Ventar 1

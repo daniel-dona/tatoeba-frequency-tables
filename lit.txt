@@ -14,12 +14,12 @@ Tu 4964
 su 4902
 Mes 4570
 savo 4340
-Tai 4261
+Tai 4263
 jūs 4212
 buvo 4187
-man 4181
+man 4182
 iš 3899
-jis 3619
+jis 3620
 labai 3515
 ką 3042
 Jie 3014
@@ -32,7 +32,7 @@ kaip 2637
 taip 2305
 turi 2274
 čia 2225
-dar 2223
+dar 2224
 jo 2165
 mane 2144
 Mano 2104
@@ -52,7 +52,7 @@ tik 1667
 Marija 1618
 nori 1603
 per 1561
-bet 1471
+bet 1472
 gali 1455
 to 1439
 nieko 1429
@@ -165,7 +165,7 @@ Dabar 527
 Šita 525
 žino 521
 geriau 515
-prieš 514
+prieš 515
 tikrųjų 512
 Visi 511
 greitai 510
@@ -174,7 +174,7 @@ Kai 502
 visai 485
 neturi 481
 Tomu 479
-vieną 477
+vieną 478
 pats 476
 kalbėti 475
 Mūsų 475
@@ -372,8 +372,8 @@ būtų 219
 šita 218
 Šitą 218
 klausimą 217
+mirė 217
 toliau 217
-mirė 216
 save 216
 kambaryje 215
 Pasakyk 215
@@ -664,12 +664,12 @@ berniukas 117
 vieno 117
 patys 117
 niekur 117
+turėjau 117
 Šį 117
 kartų 117
 suprantu 116
 pasiruošęs 116
 Pagaliau 116
-turėjau 116
 Iki 116
 spalvos 115
 stovi 115
@@ -784,6 +784,7 @@ paskambinti 100
 pažįstu 100
 klausimas 99
 dviratį 99
+brolį 99
 skaito 99
 geria 99
 laukiu 99
@@ -792,7 +793,6 @@ pakeisti 99
 žinome 99
 lengvai 98
 nueiti 98
-brolį 98
 patikėti 98
 valgau 98
 galėtų 98
@@ -5530,6 +5530,7 @@ biuras 13
 kanadiečiai 13
 girti 13
 susitikimas 13
+Pasirodo 13
 kaulą 13
 jaudina 13
 kalti 13
@@ -5890,7 +5891,6 @@ pašalinti 12
 Liza 12
 užmušė 12
 Siūlau 12
-Pasirodo 12
 burna 12
 žinutes 12
 savyje 12

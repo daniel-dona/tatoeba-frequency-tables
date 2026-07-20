@@ -1,22 +1,22 @@
-Aku 191
-ora 149
+Aku 192
+ora 150
 Tom 128
 sing 75
 iku 55
 iki 53
 Kowé 53
-aku 52
+aku 53
 ing 51
 nang 47
 Dhèwèké 44
 karo 41
-ana 34
+ana 35
+basa 34
 kowé 33
-basa 33
 apa 32
+seneng 31
 dhéwé 30
 kuwi 30
-seneng 30
 lunga 29
 Iki 28
 kudu 27
@@ -86,6 +86,7 @@ kucing 9
 Wingi 9
 Sapa 9
 ning 9
+Inggris 9
 omah 9
 loro 9
 lali 9
@@ -95,7 +96,6 @@ kowe 8
 boten 8
 tak 8
 telu 8
-Inggris 8
 Punika 8
 kutha 8
 dhokter 8
@@ -136,6 +136,7 @@ péngin 6
 jam 6
 panjenengan 5
 werna 5
+kok 5
 pinten 5
 jus 5
 padha 5
@@ -176,7 +177,6 @@ mau 4
 katimbang 4
 aja 4
 tok 4
-kok 4
 Wonten 4
 udan 4
 pulisi 4
@@ -320,6 +320,7 @@ Dhuwité 3
 tah 3
 Tanganku 3
 cilik 3
+jaran 3
 Kepriyé 2
 Kepripun 2
 kawit 2
@@ -515,6 +516,7 @@ tutug 2
 loro-loroné 2
 matané 2
 Koréa 2
+La 2
 Ing 2
 dhéwé-dhéwé 2
 Ngapunten 2
@@ -579,7 +581,6 @@ Bojoku 2
 Manganmu 2
 dha 2
 Kucing 2
-jaran 2
 Bukuné 2
 wungu 2
 lawang 2
@@ -1379,7 +1380,6 @@ Kobalèni 1
 ꦠꦺꦴꦩ꧀ꦭꦤ꧀ꦩꦺꦫꦶꦭꦺꦴꦫꦺꦴꦭꦺꦴꦫꦺꦴꦤꦺꦩꦠꦤꦺꦧꦶꦫꦸ꧉ 1
 ꦲꦏꦸꦥꦺꦔꦶꦤ꧀ꦭꦸꦔꦩꦼꦚꦁꦏꦺꦴꦫꦺꦪ꧉ 1
 ꦲꦏꦸꦲꦉꦥ꧀ꦧꦸꦝꦭ꧀ꦩꦼꦚꦁꦏꦺꦴꦫꦺꦪ꧉ 1
-La 1
 lèk 1
 yaapa 1
 diceluk 1
@@ -2322,3 +2322,5 @@ Montoré 1
 ꦩꦺꦴꦤ꧀ꦠꦺꦴꦂꦫꦺꦕꦶꦭꦶꦏ꧀꧈ 1
 Kucingmu 1
 ꦏꦸꦕꦶꦁꦩꦸꦲꦶꦉꦁ꧉ 1
+ꦲꦏꦸꦲꦺꦴꦫꦱꦼꦤꦼꦁꦧꦱꦅꦁꦒꦿꦶꦱ꧀꧈ 1
+mbuntuti 1

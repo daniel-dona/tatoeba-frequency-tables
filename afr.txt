@@ -1,11 +1,11 @@
 nie 1426
-is 1221
+is 1222
 het 1133
-Ek 1055
+Ek 1056
 die 832
 'n 680
 Tom 515
-jy 475
+jy 476
 my 375
 te 359
 om 332
@@ -68,7 +68,7 @@ net 59
 hier 58
 Waar 58
 nou 56
-dink 54
+dink 55
 asseblief 53
 meer 53
 maar 52
@@ -168,6 +168,7 @@ vertel 21
 gebruik 21
 pa 21
 dag 21
+soek 21
 neem 21
 lank 21
 melk 21
@@ -178,9 +179,9 @@ sit 21
 drie 20
 ouers 20
 bang 20
-soek 20
 jaar 20
 gister 20
+genoeg 20
 vriende 20
 haat 20
 verstaan 20
@@ -189,7 +190,6 @@ broer 19
 man 19
 wêreld 19
 meisie 19
-genoeg 19
 saam 19
 moes 19
 kos 19
@@ -415,6 +415,7 @@ rook 8
 Julle 8
 moeg 8
 Frankryk 8
+sterk 8
 Mnr 8
 stel 8
 raak 8
@@ -464,7 +465,6 @@ God 7
 leef 7
 buurman 7
 groen 7
-sterk 7
 baas 7
 honger 7
 rivier 7
@@ -3555,7 +3555,6 @@ bekende 1
 lugvaart 1
 gegeee 1
 waarna 1
-zoek 1
 Ganumedes 1
 ysvorm 1
 vloeibare 1

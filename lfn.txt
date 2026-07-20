@@ -1,18 +1,18 @@
-es 12098
-ia 9227
-la 8382
-un 6108
-de 5699
+es 12101
+ia 9229
+la 8386
+un 6109
+de 5700
 Me 5144
 no 3898
-Tom 3795
+Tom 3797
 a 3268
 La 2981
 ла 2963
 ес 2882
 en 2637
 tu 2457
-me 2411
+me 2412
 иа 2266
 ave 2094
 де 1971
@@ -26,11 +26,11 @@ va 1305
 Ме 1215
 lo 1197
 pote 1174
-per 1158
+per 1159
 sua 1140
 plu 1130
 multe 1093
-Nos 1063
+Nos 1064
 mea 1060
 esta 997
 а 995
@@ -41,7 +41,7 @@ Tu 967
 ен 934
 Esta 912
 vole 901
-con 865
+con 866
 Lo 813
 fa 813
 tua 753
@@ -64,7 +64,7 @@ casa 575
 come 570
 parla 564
 dise 560
-on 558
+on 559
 debe 553
 como 553
 alga 536
@@ -75,9 +75,9 @@ vade 477
 los 473
 Том 469
 tota 465
-No 452
+No 453
 ama 448
-vide 436
+vide 437
 ва 430
 Un 414
 Еске 409
@@ -119,7 +119,7 @@ compra 276
 Нос 276
 кон 271
 veni 270
-jua 266
+jua 268
 padre 264
 gato 259
 cada 259
@@ -194,14 +194,14 @@ usa 168
 Cuando 167
 fini 166
 importante 165
+tre 164
 ala 164
 дебе 164
-tre 163
 franses 163
 сабе 163
 auto 160
+madre 160
 fem 160
-madre 159
 pais 159
 дисе 159
 do 157
@@ -211,8 +211,8 @@ do 157
 dona 152
 ваде 151
 Он 151
+tal 150
 studia 150
-tal 149
 tra 149
 vosa 149
 алга 149
@@ -404,12 +404,12 @@ pomas 71
 lasa 71
 serta 71
 doman 71
+prende 71
 pasa 71
 dulse 71
 девени 71
 Tatoeba 70
 deutx 70
-prende 70
 носа 70
 encontra 69
 move 69
@@ -426,9 +426,9 @@ cara 68
 custa 67
 De 67
 animales 67
+min 67
 era 67
 пос 67
-min 66
 pronto 66
 stupida 66
 Dona 66
@@ -674,6 +674,7 @@ razona 41
 eselente 41
 refusa 41
 Fa 41
+Persones 41
 фрасе 41
 Суа 41
 шико 41
@@ -686,7 +687,6 @@ plase 40
 istoria 40
 letera 40
 revade 40
-Persones 40
 кафе 40
 тро 40
 кан 40
@@ -744,6 +744,7 @@ basa 37
 America 37
 otel 37
 engana 37
+Sesa 37
 oposor 37
 estrema 37
 просима 37
@@ -767,7 +768,6 @@ oteni 36
 comentas 36
 clui 36
 universo 36
-Sesa 36
 lunlotra 36
 меa 36
 сиело 36
@@ -780,6 +780,7 @@ intende 35
 dial 35
 ambos 35
 fame 35
+lojical 35
 orgulosa 35
 polisia 35
 noncoreta 35
@@ -800,7 +801,6 @@ nesesada 34
 numero 34
 tren 34
 Esperanto 34
-lojical 34
 Oji 34
 para 34
 Vade 34
@@ -1226,6 +1226,7 @@ Sur 21
 pisina 21
 permeteda 21
 invia 21
+inventa 21
 susia 21
 secreta 21
 partisipa 21
@@ -1283,7 +1284,6 @@ acaso 20
 Clui 20
 Ave 20
 oculo 20
-inventa 20
 grave 20
 barata 20
 pesa 20
@@ -3734,6 +3734,7 @@ scemas 6
 ventre 6
 embarca 6
 paci 6
+jeneros 6
 cultivor 6
 spasial 6
 stange 6
@@ -4201,6 +4202,7 @@ Oro 5
 есенсал 5
 metro 5
 лиа 5
+"A 5
 амиа 5
 Adio 5
 консерва 5
@@ -4298,7 +4300,6 @@ Spasio 5
 informas 5
 empleas 5
 robotes 5
-jeneros 5
 atomal 5
 custas 5
 ojetos 5
@@ -4408,6 +4409,7 @@ nonculpablia 4
 ximpanzes 4
 vibra 4
 Besa 4
+ave" 4
 Irac 4
 Ohio 4
 23 4
@@ -4946,7 +4948,7 @@ espanioles 4
 Yankev 4
 Benedict 4
 конверса 4
-"A 4
+"Cuanto 4
 res 4
 zelo 4
 депинта 4
@@ -5277,7 +5279,6 @@ enaira 3
 sombre 3
 xercante 3
 sigaretas 3
-ave" 3
 Presidente 3
 Bagdad 3
 2006 3
@@ -6090,7 +6091,6 @@ duneto 3
 летерал 3
 Yaakov 3
 Фортуноса 3
-"Cuanto 3
 рес 3
 vejetaliste 3
 creante 3
@@ -6417,6 +6417,7 @@ siclon 3
 Gasolina 3
 elegante 3
 ajente 3
+selaco 3
 liscosa 3
 veia 3
 noncapasia 3
@@ -8745,7 +8746,6 @@ risa 2
 hora 2
 sustantia 2
 triangulo 2
-selaco 2
 popcorn 2
 bebes 2
 recomendada 2

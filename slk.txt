@@ -1,13 +1,13 @@
-je 5781
-sa 3638
+je 5792
+sa 3640
 som 2839
-Tom 2599
+Tom 2600
 si 2363
 to 2133
-na 1831
-že 1566
-v 1468
-a 1313
+na 1832
+že 1567
+v 1471
+a 1314
 Je 875
 mi 835
 sú 792
@@ -18,7 +18,7 @@ To 626
 by 614
 má 609
 ste 591
-nie 583
+nie 585
 do 573
 Som 568
 po 540
@@ -27,13 +27,13 @@ o 495
 Mária 466
 z 452
 veľmi 450
-Prečo 444
+Prečo 446
 Mám 421
 ti 404
 mesto 383
 sme 380
+Ako 378
 Nie 377
-Ako 376
 Kde 342
 tu 341
 ma 334
@@ -60,7 +60,7 @@ niečo 206
 ju 206
 Koľko 205
 Toma 205
-Toto 203
+Toto 204
 hlavné 203
 bola 201
 rada 195
@@ -109,8 +109,8 @@ k 138
 tom 137
 so 135
 knihu 135
+jazyk 132
 francúzsky 131
-jazyk 130
 čas 130
 dnes 129
 Kedy 127
@@ -125,9 +125,9 @@ teba 122
 tri 121
 pomôcť 121
 niekedy 121
+hovorí 119
 On 119
 kde 119
-hovorí 118
 Viem 118
 majú 116
 Moja 116
@@ -175,8 +175,8 @@ boli 95
 dvere 94
 Ty 93
 Sú 92
+dlho 92
 Všetci 90
-dlho 89
 žije 88
 Hovoríš 87
 Viete 87
@@ -185,20 +185,20 @@ môže 86
 Boh 86
 urobil 85
 Povedz 85
+Musím 85
 Ďakujem 85
 Máme 85
 než 84
 ktoré 84
-Musím 84
 Nič 84
 ten 83
 zo 83
+moje 83
 rokov 83
 vie 83
 Môžem 83
 chceš 83
 slovo 83
-moje 82
 Teraz 82
 však 82
 iba 81
@@ -228,6 +228,7 @@ povie 76
 odpoveď 76
 Nikto 75
 všetky 75
+život 73
 Aká 72
 Milujem 72
 Videl 72
@@ -236,7 +237,6 @@ stole 72
 pred 71
 kniha 70
 Rád 70
-život 70
 chce 70
 tým 70
 pes 69
@@ -282,6 +282,7 @@ robí 59
 vidieť 59
 mnou 59
 zvieratá 59
+taký 58
 poriadku 58
 vaše 58
 Anna 58
@@ -290,13 +291,12 @@ kým 57
 Boli 57
 Márii 57
 tú 57
+Musíš 56
 O 56
 naučiť 56
 trochu 56
 Tomom 56
-Musíš 55
 svojho 55
-taký 55
 dosť 55
 krajina 55
 brat 55
@@ -470,6 +470,7 @@ ruky 38
 Nehovorím 38
 obľúbená 38
 auto 37
+čakať 37
 našej 37
 Poznám 37
 tie 37
@@ -530,7 +531,6 @@ sebou 34
 Nemyslím 34
 štát 34
 kravu 34
-čakať 33
 viacej 33
 Kúpil 33
 počasie 33
@@ -613,6 +613,7 @@ veta 30
 začína 30
 hladná 30
 „Áno 30
+musím 29
 u 29
 presne 29
 unavený 29
@@ -634,7 +635,6 @@ kľúč 29
 Nech 29
 najväčším 29
 sebe 28
-musím 28
 zvyčajne 28
 môjho 28
 prísť 28
@@ -869,6 +869,7 @@ Pijem 21
 celú 21
 Pred 21
 nechceš 21
+aký 21
 sami 21
 uši 21
 mladší 21
@@ -903,7 +904,6 @@ Vedel 20
 film 20
 Nebol 20
 robil 20
-aký 20
 vták 20
 čaká 20
 tretej 20
@@ -999,6 +999,7 @@ malé 18
 kôň 18
 manžel 18
 hlave 18
+ťažký 18
 Dvere 18
 Poznáte 18
 Vlak 18
@@ -1052,7 +1053,6 @@ pamäť 17
 Slnka 17
 otázok 17
 slov 17
-ťažký 17
 nemáš 17
 nádherný 17
 myslel 17
@@ -1203,6 +1203,7 @@ ceste 15
 milujú 15
 musel 15
 pláži 15
+musíme 15
 nechcel 15
 inú 15
 ľahko 15
@@ -1292,7 +1293,6 @@ Vtáky 14
 Slovo 14
 veľkú 14
 Niečo 14
-musíme 14
 sen 14
 opäť 14
 Naša 14
@@ -1505,6 +1505,7 @@ spevák 12
 dávno 12
 prekvapenie 12
 Dostal 12
+ktorým 12
 K 12
 obsahuje 12
 Čoho 12
@@ -1564,6 +1565,7 @@ koľkej 11
 nepríde 11
 fakt 11
 stará 11
+matkou 11
 uvidím 11
 Išla 11
 nedeľu 11
@@ -1640,7 +1642,6 @@ Počkajte 11
 prírodu 11
 spoľahnúť 11
 Budete 11
-ktorým 11
 klamal 11
 svojím 11
 verím 11
@@ -1735,6 +1736,7 @@ ovocia 10
 poschodí 10
 York 10
 morské 10
+Číne 10
 spravil 10
 prídete 10
 materinský 10
@@ -1781,6 +1783,7 @@ narodeninám 10
 letisko 10
 niekde 10
 Arabčina 10
+každého 10
 zabudla 10
 istí 10
 nemali 10
@@ -1905,7 +1908,6 @@ cesnak 9
 jete 9
 stretnutí 9
 dedine 9
-Číne 9
 prestal 9
 daj 9
 Nemyslíš 9
@@ -2084,6 +2086,7 @@ Cítil 8
 vedľa 8
 strede 8
 načas 8
+brať 8
 pomohla 8
 Čítal 8
 žiadna 8
@@ -2225,7 +2228,6 @@ Jedla 8
 spal 8
 Pravda 8
 náboženstvo 8
-každého 8
 kamene 8
 rozprávajú 8
 zákonom 8
@@ -2332,6 +2334,7 @@ druhy 8
 Tokio 8
 významný 8
 líši 8
+Nechceme 8
 vlka 8
 najlepších 8
 ideme 8
@@ -2385,13 +2388,11 @@ práva 7
 Poľska 7
 rovné 7
 mäsa 7
-brať 7
 úvahy 7
 Zo 7
 dych 7
 spisovateľ 7
 okna 7
-matkou 7
 Matka 7
 lásky 7
 horká 7
@@ -2698,7 +2699,6 @@ zvierat 7
 právnik 7
 najdlhšia 7
 cvičiteľ 7
-Nechceme 7
 nadváhu 7
 arašidy 7
 slobodu 7
@@ -2803,6 +2803,7 @@ umenie 6
 prešiel 6
 vstávať 6
 hviezdy 6
+zahraničí 6
 ovláda 6
 Poprosil 6
 Ľutujem 6
@@ -3252,7 +3253,6 @@ Zabil 5
 Oči 5
 Sofia 5
 každom 5
-zahraničí 5
 bohov 5
 Počúvam 5
 Vietor 5
@@ -5054,6 +5054,7 @@ Maďar“ 4
 Maďarka“ 4
 materialistická 4
 mestský 4
+vynálezu 4
 Prekvapuje 3
 týka 3
 duchu 3
@@ -8951,6 +8952,7 @@ bod 2
 žiadam 2
 spôsobilo 2
 Upratal 2
+Vraví 2
 plecia 2
 širokoplecí 2
 Dievčatko 2
@@ -9996,5 +9998,3 @@ mastné 2
 Teheráne 2
 uč 2
 Nemusím 2
-omdlieť 2
-Myslia 2

@@ -1,4 +1,4 @@
-on 1603
+on 1604
 Ma 953
 ei 758
 Tom 628
@@ -185,6 +185,7 @@ Keegi 21
 Millal 21
 mina 21
 üks 21
+vana 21
 sinuga 21
 ilma 20
 tuleb 20
@@ -193,7 +194,6 @@ Täna 20
 elan 20
 minuga 20
 oleme 20
-vana 20
 pea 20
 tahtnud 20
 Toomas 20
@@ -222,6 +222,7 @@ Kell 18
 meid 17
 päev 17
 sai 17
+raamat 17
 tõesti 17
 õde 17
 viis 17
@@ -236,7 +237,6 @@ suri 17
 inimesed 16
 palun 16
 tüdruk 16
-raamat 16
 saanud 16
 just 16
 jaoks 16
@@ -6872,3 +6872,4 @@ ilusaid 1
 luuletusi 1
 teekond 1
 itta 1
+Lastel 1

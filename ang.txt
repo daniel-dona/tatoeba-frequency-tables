@@ -1,4 +1,4 @@
-is 118
+is 119
 on 72
 Ic 71
 ne 63
@@ -30,12 +30,12 @@ Ziri 19
 Tom 18
 eart 18
 mann 18
+þone 16
 of 16
 mē 16
 Þæt 15
 þīn 15
 þu 14
-þone 14
 ac 14
 swa 13
 hit 13
@@ -138,6 +138,7 @@ sculon 5
 nǣfre 5
 þīnne 5
 Ġē 5
+mōdor 5
 sōþ 5
 hire 5
 Þa 4
@@ -172,7 +173,6 @@ lufiġe 4
 beo 4
 Is 4
 þīnum 4
-mōdor 4
 sīe 4
 þām 4
 sē 4
@@ -256,10 +256,12 @@ dōn 3
 wæstm 3
 dyde 3
 wearð 3
+menn 3
 Nis 3
 eallunga 3
 mæġ 3
 lēoþ 3
+wǣron 3
 þyncþ 3
 Dēaþ 3
 ġesēoþ 3
@@ -417,6 +419,7 @@ sōþan 2
 geþohtas 2
 tīma 2
 ūte 2
+ā 2
 slǣpe 2
 Iōhannēs 2
 it 2
@@ -442,7 +445,6 @@ Hund 2
 hunde 2
 bāt 2
 Sume 2
-menn 2
 fyrndagum 2
 hæfdon 2
 heora 2
@@ -476,9 +478,9 @@ cynna 2
 lufaþ 2
 Iūdēisċ 2
 ġelēafful 2
+Swā 2
 wesan 2
 fæġeru 2
-wǣron 2
 sum 2
 ofslagen 2
 þēof 2
@@ -502,6 +504,7 @@ weras 2
 ǣfre 2
 flǣsc 2
 ġecyndelīċ 2
+Ælmihtigan 2
 fandian 1
 Abrahames 1
 gehiersumnesse 1
@@ -1320,7 +1323,6 @@ bīe 1
 mōt 1
 morgenmete 1
 gecōcian 1
-ā 1
 bere 1
 heard 1
 līchama 1
@@ -1522,7 +1524,6 @@ cræfte 1
 Lið 1
 Batman 1
 werum 1
-Swā 1
 ealdiaþ 1
 hraþor 1
 līþ 1
@@ -1651,3 +1652,7 @@ wēne 1
 ġestolen 1
 lȳtelne 1
 Sweltan 1
+Heriað 1
+Hera 1
+Slǣwþ 1
+āfindunge 1

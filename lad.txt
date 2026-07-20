@@ -1,8 +1,8 @@
-es 332
+es 334
 Tom 185
 un 169
-de 126
-la 125
+la 129
+de 128
 El 123
 en 120
 el 117
@@ -11,7 +11,7 @@ no 103
 una 94
 esta 85
 a 84
-La 74
+La 77
 איס 73
 Los 59
 ke 56
@@ -88,6 +88,7 @@ preto 14
 puerta 14
 komida 14
 yamo 13
+fue 13
 portokal 13
 estan 13
 איסטה 13
@@ -96,10 +97,10 @@ su 12
 vida 12
 le 12
 Vos 12
-fue 12
 ayi 12
 York 12
 mundo 12
+siempre 12
 Ke 12
 סון 12
 vedre 12
@@ -111,7 +112,6 @@ linguas 11
 gatos 11
 plazen 11
 dos 11
-siempre 11
 ebreo 11
 Trae 11
 frio 11
@@ -150,6 +150,7 @@ kalem 9
 Todos 9
 akodro 8
 Shabat 8
+madre 8
 este 8
 estamos 8
 ojos 8
@@ -203,7 +204,6 @@ ijo 7
 mozotros 6
 para 6
 ivrit 6
-madre 6
 djudeo-espanyol 6
 Dyo 6
 Su 6
@@ -283,6 +283,7 @@ tardjuman 5
 Donald 5
 chay 5
 סומוס 5
+djente 5
 yidish 5
 Un 5
 arabas 5
@@ -358,7 +359,6 @@ Karl 4
 Marx 4
 avlan 4
 Todo 4
-djente 4
 nona 4
 salata 4
 libertad 4
@@ -966,6 +966,7 @@ franko 2
 franka 2
 alta 2
 Votí 2
+invension 2
 Deké 1
 kara 1
 demudada 1
@@ -2456,3 +2457,6 @@ tregua 1
 Ganaron 1
 Kopa 1
 natural 1
+haraganud 1
+pareza 1
+ansí 1

@@ -1,7 +1,7 @@
 jest 266
 Ja 212
 ne 157
-Tom 107
+Tom 108
 jesm 105
 Ty 84
 v 81
@@ -126,6 +126,7 @@ Trump 5
 egzistuje 5
 Toj 5
 ljubet 5
+byli 5
 Kot 5
 protiv 5
 dnes 5
@@ -147,6 +148,7 @@ mnoju 4
 Tokipona 4
 dobra 4
 mrtvy 4
+Ljudi 4
 hčeš 4
 Amerika 4
 za 4
@@ -163,7 +165,6 @@ ryž 4
 napravdu 4
 napisala 4
 napisal 4
-byli 4
 samo 4
 Elon 4
 Musk 4
@@ -209,7 +210,6 @@ mentor 3
 hlěb 3
 jedl 3
 znajete 3
-Ljudi 3
 nenavidžu 3
 esperanto 3
 vaša 3
@@ -236,6 +236,7 @@ pročital 3
 "Kto 3
 Egiptu 3
 životiny 3
+Slava 3
 umirati 3
 muziku 3
 velika 3
@@ -308,6 +309,7 @@ ljubim 3
 žiti 3
 brata 3
 blizneca 3
+vsegda 3
 izuča 3
 imam 3
 ulicu 3
@@ -409,7 +411,6 @@ zapah 2
 Cěly 2
 sovsěm 2
 nenavidi 2
-Slava 2
 kartofelj 2
 Moje 2
 Trumpa 2
@@ -612,7 +613,6 @@ juna 2
 spiš 2
 bdim 2
 spite 2
-vsegda 2
 kazati 2
 Začto 2
 sdělala 2
@@ -2079,3 +2079,7 @@ homjaka 1
 prizemjil 1
 Marsu 1
 prirodna 1
+Vsemogučemu 1
+taki 1
+uviděl 1
+akulu 1

@@ -1,11 +1,11 @@
-yn 570
-i 353
+yn 571
+i 354
 Mae 292
 y 202
-Dw 196
+Dw 197
 i'n 183
 Tom 170
-ddim 121
+ddim 122
 o 117
 ei 98
 ar 88
@@ -95,6 +95,7 @@ oes 16
 rhy 16
 eu 15
 ni'n 15
+Saesneg 15
 Does 15
 bwrw 15
 Dydy 15
@@ -102,7 +103,6 @@ Yn 15
 ardd 15
 e'n 14
 Ydych 14
-Saesneg 14
 Nid 14
 un 14
 enw 14
@@ -148,6 +148,7 @@ Pwy 10
 arian 10
 yw'r 10
 deall 10
+iaith 10
 hapus 10
 Doedd 10
 aros 10
@@ -169,7 +170,6 @@ ydw 9
 ffrind 9
 hen 9
 cysgu 9
-iaith 9
 Peidiwch 9
 ferch 9
 sy'n 9
@@ -276,6 +276,7 @@ ifanc 6
 llawer 6
 Mae’r 6
 yno 6
+hoffi'r 6
 adeilad 6
 Ond 5
 Cafodd 5
@@ -322,7 +323,6 @@ Fe 5
 efo 5
 Efallai 5
 tocyn 5
-hoffi'r 5
 gwin 5
 Dan 5
 colli 5
