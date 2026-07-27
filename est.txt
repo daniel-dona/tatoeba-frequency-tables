@@ -95,6 +95,7 @@ kes 37
 tahab 37
 vaja 36
 teie 35
+üle 35
 koju 35
 räägi 35
 kas 35
@@ -104,7 +105,6 @@ inglise 35
 tean 35
 rääkida 35
 taha 34
-üle 34
 eile 34
 Tal 34
 keegi 34
@@ -162,6 +162,7 @@ Meil 24
 naine 23
 tegi 23
 olete 23
+raamatu 23
 aastat 23
 Sul 23
 Koer 23
@@ -174,7 +175,6 @@ teine 22
 praegu 22
 lapsed 22
 parem 22
-raamatu 22
 üles 22
 tee 22
 saan 22
@@ -317,6 +317,7 @@ ostis 13
 puu 13
 all 13
 ujuda 13
+maailma 13
 korda 13
 Kuhu 13
 piisavalt 13
@@ -335,7 +336,6 @@ esimene 12
 kirja 12
 uue 12
 Isa 12
-maailma 12
 On 12
 lahti 12
 teen 12
@@ -356,6 +356,7 @@ Aasta 12
 sellega 11
 Selle 11
 Selles 11
+päeva 11
 head 11
 Ärge 11
 elame 11
@@ -383,7 +384,6 @@ uut 10
 juurde 10
 varem 10
 pikk 10
-päeva 10
 osta 10
 poleks 10
 käib 10
@@ -416,6 +416,7 @@ noor 9
 Sina 9
 olevat 9
 meeldis 9
+igal 9
 saksa 9
 Jah 9
 raamatuid 9
@@ -461,7 +462,6 @@ võtta 8
 Su 8
 aasta 8
 Ema 8
-igal 8
 tunne 8
 surma 8
 neli 8
@@ -520,6 +520,7 @@ Tänan 8
 tulla 8
 inimesi 8
 suuda 8
+aastal 8
 kukkus 8
 joo 8
 kingad 8
@@ -606,7 +607,6 @@ küsis 7
 koht 7
 üsna 7
 Hei 7
-aastal 7
 kardina 7
 poola 7
 ungari 7
@@ -2070,6 +2070,7 @@ jagab 2
 eksiks 2
 rahul 2
 ütlen 2
+esimese 2
 hetke 2
 millalgi 2
 sellesse 2
@@ -2254,6 +2255,7 @@ suitseta 2
 berberi 2
 sulas 2
 hullem 2
+Esperanto 2
 nelja 2
 supp 2
 lõvi 2
@@ -4219,7 +4221,6 @@ kiirust 1
 kuulaja 1
 Kardan 1
 usaldan 1
-esimese 1
 vahetuse 1
 seletan 1
 leppima 1
@@ -4877,7 +4878,6 @@ Toomase 1
 hammustas 1
 pangas 1
 Hirm 1
-Esperanto 1
 elav 1
 kõndis 1
 Georg 1
@@ -6873,3 +6873,11 @@ luuletusi 1
 teekond 1
 itta 1
 Lastel 1
+tähistatakse 1
+esperanto-alase 1
+ilmumise 1
+aastapäeva 1
+tähistamiseks 1
+26 1
+juulil 1
+1887 1

@@ -1,6 +1,6 @@
 Tom 1173
 Men 906
-Ol 509
+Ol 510
 bilen 449
 Sen 325
 Bu 325
@@ -20,7 +20,7 @@ Meri 177
 aýtdy 173
 bar 165
 Tomuň 157
-men 152
+men 153
 Biz 143
 diýip 136
 ýaly 134
@@ -51,10 +51,10 @@ sen 83
 ýok 80
 seniň 75
 bolup 75
+kömek 72
 haçan 71
 şu 71
 Sami 71
-kömek 71
 Näme 69
 şony 69
 boldy 67
@@ -124,11 +124,11 @@ her 34
 başga 34
 Şu 34
 Tomyň 34
+diňe 34
 uly 34
 meniñ 34
 gitdi 33
 Hemme 33
-diňe 33
 biraz 33
 bize 33
 Sämi 33
@@ -161,6 +161,7 @@ Marynyň 28
 aldy 27
 güni 27
 eden 27
+edýär 27
 bolýar 27
 Hiç 27
 hemişe 26
@@ -169,7 +170,7 @@ aýt 26
 sany 26
 özüni 26
 etmeli 26
-edýär 26
+Düýn 26
 gelip 26
 kitaby 26
 yzyna 26
@@ -177,7 +178,6 @@ eýýäm 26
 görýärin 26
 iň 25
 iki 25
-Düýn 25
 hepde 25
 diýen 25
 Onuñ 25
@@ -266,6 +266,7 @@ bilmerin 17
 bilenok 17
 isledi 17
 Tomuñ 17
+mekdebe 16
 islemeýärin 16
 saz 16
 uzyn 16
@@ -286,7 +287,6 @@ bilmez 16
 öýüne 16
 Meñ 16
 beýle 16
-mekdebe 15
 boluň 15
 Täze 15
 ýa 15
@@ -758,6 +758,7 @@ Awstraliýadan 6
 ikinji 6
 o 6
 işden 6
+geldim 6
 meşgul 6
 Saminyň 6
 Jon 6
@@ -921,7 +922,6 @@ islemeýändigini 5
 alandygyny 5
 pikiriňçe 5
 nirden 5
-geldim 5
 entäk 5
 bilip 5
 sorap 5

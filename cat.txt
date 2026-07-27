@@ -1,29 +1,29 @@
-la 2122
-de 2058
+la 2123
+de 2062
 a 1817
 que 1775
-el 1596
-és 1490
-no 1098
+el 1597
+és 1491
+no 1100
 un 1064
 va 1011
 i 849
 No 833
 en 831
-una 754
-per 708
-El 688
+una 756
+per 709
+El 691
 La 631
 les 543
 els 518
 Tom 507
 al 494
 amb 492
-més 465
+més 466
 ha 461
-es 402
+es 403
 En 389
-del 383
+del 385
 molt 300
 vaig 285
 meu 266
@@ -89,10 +89,10 @@ vida 110
 teu 108
 Hi 106
 ja 102
+llibre 101
 als 101
 Estic 100
 mi 100
-llibre 100
 anys 100
 Jo 97
 sense 96
@@ -108,19 +108,19 @@ Com 89
 cosa 89
 dos 89
 sap 88
+Tinc 88
+món 88
 us 88
-Tinc 87
 Un 87
-món 87
+llengua 87
 tres 86
 menjar 86
 parlar 86
-llengua 85
 tinc 84
+sobre 84
 jo 84
 Qui 84
 mare 83
-sobre 83
 seus 82
 ens 81
 Aquesta 81
@@ -195,6 +195,7 @@ parla 50
 Crec 50
 començar 50
 cor 50
+difícil 49
 estan 49
 dona 49
 Quina 48
@@ -205,7 +206,6 @@ tornar 48
 nostra 48
 tard 48
 llegir 48
-difícil 47
 Avui 47
 molts 47
 passat 47
@@ -238,6 +238,7 @@ pena 43
 hem 42
 anglès 42
 nom 42
+se 42
 mort 42
 Són 42
 altres 42
@@ -247,7 +248,6 @@ Sami 42
 demà 41
 dies 41
 vegades 41
-se 41
 tenen 41
 prou 41
 música 40
@@ -292,13 +292,13 @@ amics 36
 contra 36
 paraules 36
 sembla 36
+primer 36
 Pots 36
 seves 36
 viu 36
 teus 36
 sentir 35
 altre 35
-primer 35
 poder 35
 germana 35
 problema 35
@@ -361,6 +361,7 @@ saber 30
 nens 30
 jove 30
 molta 30
+esperanto 30
 passa 29
 mà 29
 dormir 29
@@ -368,7 +369,6 @@ oi 29
 estudiar 29
 fora 29
 guerra 29
-esperanto 29
 l'amor 29
 tota 28
 altra 28
@@ -530,6 +530,7 @@ d'aquesta 19
 somni 19
 l'altre 19
 portar 19
+xinès 19
 quarts 19
 heu 19
 llatí 19
@@ -580,7 +581,6 @@ varen 17
 forma 17
 pels 17
 existeix 17
-xinès 17
 gats 17
 aquestes 17
 costat 17
@@ -756,6 +756,7 @@ poma 13
 Heu 13
 vent 13
 L'aigua 13
+unes 13
 quasi 13
 t'ho 13
 majoria 13
@@ -781,6 +782,7 @@ conduir 12
 éssers 12
 cura 12
 d'aigua 12
+pomes 12
 Quantes 12
 revista 12
 entenc 12
@@ -819,7 +821,6 @@ gossos 12
 feu 12
 seguida 12
 pregunto 12
-unes 12
 Som 12
 neu 12
 rus 12
@@ -846,7 +847,6 @@ Faré 11
 deures 11
 banc 11
 pugui 11
-pomes 11
 restaurant 11
 n'hi 11
 clau 11
@@ -900,6 +900,7 @@ donat 11
 humanitat 11
 animal 11
 Mira 11
+juliol 11
 açò 11
 crear 11
 queer 11
@@ -921,6 +922,7 @@ faig 10
 dissabte 10
 muntanya 10
 soroll 10
+arreu 10
 intentar 10
 hotel 10
 respondre 10
@@ -982,7 +984,6 @@ faldilles 10
 tanta 10
 llac 10
 Son 10
-juliol 10
 arribat 10
 propi 10
 tuitar 10
@@ -1016,7 +1017,6 @@ pescar 9
 ocupat 9
 paraigües 9
 oncle 9
-arreu 9
 importa 9
 països 9
 català 9
@@ -1039,6 +1039,7 @@ igual 9
 Catalunya 9
 vindrà 9
 vespre 9
+d'aprendre 9
 Sol 9
 experiència 9
 vermella 9
@@ -1066,6 +1067,7 @@ matar 9
 hagi 9
 l'estiu 9
 anava 9
+ous 9
 Podeu 9
 trist 9
 plena 9
@@ -1142,7 +1144,6 @@ Senyor 8
 calenta 8
 Sisplau 8
 vàrem 8
-d'aprendre 8
 volar 8
 Sovint 8
 segons 8
@@ -1171,7 +1172,6 @@ peixos 8
 l'hospital 8
 dius 8
 dijous 8
-ous 8
 diferència 8
 permet 8
 t'agrada 8
@@ -1292,6 +1292,7 @@ tret 7
 castellà 7
 empresa 7
 mantenir 7
+Dia 7
 normalment 7
 internacional 7
 vivia 7
@@ -1445,6 +1446,7 @@ Sap 6
 interessants 6
 italià 6
 pensant 6
+Necessitem 6
 darrera 6
 Me'n 6
 petites 6
@@ -1462,7 +1464,6 @@ Plou 6
 supermercat 6
 darrer 6
 peti 6
-Dia 6
 valor 6
 tassa 6
 àvia 6
@@ -1693,7 +1694,6 @@ escales 5
 generació 5
 Conec 5
 mira 5
-Necessitem 5
 mentider 5
 creuen 5
 Llavors 5
@@ -1936,7 +1936,6 @@ fe 4
 parlis 4
 barri 4
 gol 4
-luxe 4
 discussió 4
 corda 4
 senyal 4
@@ -2105,6 +2104,7 @@ plata 4
 salvat 4
 orgullós 4
 L'he 4
+26 4
 fer-se 4
 sant 4
 examen 4
@@ -2184,6 +2184,7 @@ mitjana 4
 plantar 4
 veuràs 4
 l'ús 4
+celebra 4
 propis 4
 nadar 4
 contractar 4
@@ -2462,6 +2463,7 @@ morint 3
 pais 3
 Betty 3
 Porto 3
+luxe 3
 venia 3
 formatge 3
 Cristóbal 3
@@ -2689,7 +2691,6 @@ batalla 3
 diversos 3
 dividir 3
 grups 3
-26 3
 capacitat 3
 detectiu 3
 temperatura 3
@@ -2798,7 +2799,6 @@ monjo 3
 companyia 3
 pinya 3
 àcid 3
-celebra 3
 finestres 3
 Creiem 3
 exemples 3
@@ -2916,6 +2916,7 @@ perfum 3
 passió 3
 mundial 3
 espero 3
+publicació 3
 rostre 3
 oficial 3
 Zelanda 3
@@ -4176,7 +4177,6 @@ veiés 2
 Provem 2
 confio 2
 tindria 2
-publicació 2
 cruel 2
 roig 2
 comestible 2
@@ -4316,7 +4316,6 @@ pastanagues 2
 context 2
 Depèn 2
 Ricardo 2
-is 2
 l'ou 2
 Ull 2
 Volen 2
@@ -4543,6 +4542,7 @@ Romà 2
 l'1 2
 estels 2
 Tindré 2
+1887 2
 fantasma 2
 Òndia 2
 LGBTI 2
@@ -8318,11 +8318,6 @@ estiguessis 1
 Mathias 1
 n'Helene 1
 passis 1
-Training 1
-geen 1
-het 1
-een 1
-investering 1
 incòlumes 1
 Lent 1
 completas 1
@@ -9123,7 +9118,6 @@ senars 1
 parells 1
 l'octubre 1
 mesos: 1
-1887 1
 Zamenhof 1
 Przejazd 1
 Varsòvia 1
@@ -9998,3 +9992,9 @@ tro 1
 m‘inporta 1
 brúixola 1
 senyala 1
+m‘està 1
+Argèlia 1
+Dona‘m 1
+d‘hora 1
+SpaceChem 1
+dispersa 1

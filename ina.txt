@@ -1,19 +1,19 @@
-le 15796
-es 11755
-un 9519
+le 15799
+es 11759
+un 9520
 de 8732
-ha 6485
-Le 6050
-Io 5669
-in 5424
+ha 6486
+Le 6051
+Io 5671
+in 5425
 non 5327
 que 5163
 e 3640
-del 3407
+del 3409
 a 3396
-tu 3098
-Tom 3022
-Ille 2411
+tu 3099
+Tom 3024
+Ille 2412
 me 2302
 io 2143
 Il 1903
@@ -26,7 +26,7 @@ pro 1666
 con 1608
 plus 1540
 ille 1537
-mi 1366
+mi 1367
 pote 1347
 nos 1275
 Nos 1162
@@ -39,8 +39,8 @@ te 1083
 como 1063
 Illa 1002
 il 957
-Esque 890
-vole 848
+Esque 891
+vole 849
 grande 835
 Iste 822
 illo 810
@@ -50,7 +50,7 @@ esser 728
 Que 718
 blau 706
 debe 705
-Mi 694
+Mi 695
 multe 692
 qui 660
 son 651
@@ -60,7 +60,7 @@ Illo 610
 Un 608
 sape 607
 super 607
-isto 603
+isto 604
 tempore 589
 Vos 588
 va 585
@@ -80,7 +80,7 @@ place 492
 sur 489
 parla 477
 illes 465
-mundo 455
+mundo 457
 vostre 452
 ama 448
 altere 446
@@ -93,7 +93,7 @@ essite 403
 mesme 394
 homine 391
 ben 389
-duo 387
+duo 388
 nostre 383
 Si 377
 tanto 372
@@ -122,7 +122,7 @@ sempre 297
 crede 296
 cosa 291
 nihil 283
-Ha 281
+Ha 282
 nove 280
 Qui 279
 annos 271
@@ -165,8 +165,8 @@ usque 212
 essera 212
 melior 211
 loco 210
+Tote 209
 parve 209
-Tote 208
 trova 207
 jammais 207
 ver 205
@@ -325,9 +325,9 @@ perdite 108
 scriber 106
 opinion 106
 deveni 105
+saper 103
 urbe 103
 Interlingua 102
-saper 102
 numero 102
 Quanto 102
 ultime 101
@@ -412,10 +412,10 @@ via 82
 feminas 82
 pena 81
 campania 81
+comprar 80
 simplemente 80
 leger 79
 rapidemente 79
-comprar 79
 littera 78
 medico 78
 etate 78
@@ -575,6 +575,7 @@ facie 58
 voce 58
 germano 58
 resta 58
+parlate 58
 las 58
 lacte 57
 time 57
@@ -590,7 +591,6 @@ pomo 57
 systema 57
 plure 57
 date 57
-parlate 57
 Esperanto 57
 Statos 56
 solo 56
@@ -777,6 +777,7 @@ functiona 42
 bibliotheca 42
 sole 42
 periculose 42
+pomos 42
 village 42
 laco 42
 marito 42
@@ -799,7 +800,6 @@ lassa 41
 false 41
 legeva 41
 contar 41
-pomos 41
 fide 41
 jorno 41
 reguardava 41
@@ -818,6 +818,7 @@ retro 40
 station 40
 audi 40
 ubique 40
+conto 40
 fame 40
 tamben 40
 realmente 40
@@ -845,7 +846,6 @@ remos 40
 comenciate 39
 audite 39
 dansar 39
-conto 39
 continua 39
 cantar 39
 pertine 39
@@ -1073,6 +1073,7 @@ relation 30
 cessava 30
 mori 30
 Germania 30
+inferno 30
 basso 30
 Va 30
 fumar 30
@@ -1080,6 +1081,7 @@ anniversario 30
 valor 30
 amusante 30
 pone 30
+ganiava 30
 continuava 30
 Cessa 30
 texto 30
@@ -1113,11 +1115,9 @@ amate 29
 restaurante 29
 morir 29
 gaude 29
-inferno 29
 succedeva 29
 ruito 29
 amicitate 29
-ganiava 29
 italiano 29
 Totes 29
 recipite 29
@@ -1139,6 +1139,7 @@ placia 29
 Russia 29
 etc 29
 Jupiter 29
+Totos 29
 Jackson 29
 sona 28
 ponte 28
@@ -1146,6 +1147,7 @@ punctos 28
 bicycletta 28
 officio 28
 ganiar 28
+Senior 28
 desiro 28
 dunque 28
 preparate 28
@@ -1180,7 +1182,6 @@ absolute 28
 papa 28
 Etiam 28
 statounitese 28
-Totos 28
 totos 28
 quante 27
 Alcuno 27
@@ -1195,7 +1196,6 @@ pueras 27
 pictura 27
 importantia 27
 mitte 27
-Senior 27
 virtute 27
 sedeva 27
 ascoltar 27
@@ -1392,6 +1392,7 @@ planetas 23
 avo 23
 sonia 23
 Super 23
+filias 23
 Era 23
 periculo 23
 adjutava 23
@@ -1450,7 +1451,6 @@ Papa 22
 scientific 22
 occidental 22
 ebrie 22
-filias 22
 placite 22
 passos 22
 Africa 22
@@ -1734,6 +1734,7 @@ version 18
 Mangia 18
 planta 18
 cessa 18
+augmenta 18
 aperi 18
 multes 18
 discoperite 18
@@ -1834,7 +1835,6 @@ gravide 17
 Aperi 17
 Urano 17
 position 17
-augmenta 17
 occidera 17
 povressa 17
 opera 17
@@ -2138,6 +2138,7 @@ cantatrice 14
 comporta 14
 uxor 14
 invisibile 14
+ovo 14
 diminue 14
 total 14
 Sur 14
@@ -2293,7 +2294,6 @@ intendeva 13
 venerdi 13
 complicate 13
 progresso 13
-ovo 13
 provincia 13
 african 13
 historic 13
@@ -2531,6 +2531,7 @@ servitor 12
 fragas 12
 preter 12
 bellemente 12
+Nord 12
 Eva 12
 Resta 12
 magia 12
@@ -2699,7 +2700,6 @@ pesa 11
 manieras 11
 Copenhagen 11
 previe 11
-Nord 11
 probar 11
 responsabile 11
 biscuites 11
@@ -3301,6 +3301,7 @@ retira 8
 cela 8
 nodo 8
 agite 8
+Corea 8
 dimension 8
 parlante 8
 Sempre 8
@@ -3673,7 +3674,6 @@ testes 7
 retirava 7
 forniva 7
 intriga 7
-Corea 7
 maximo 7
 salario 7
 vendita 7
@@ -4528,6 +4528,7 @@ Evita 6
 regrettava 6
 fugir 6
 attaccate 6
+Cuppa 6
 castiga 6
 demonstrar 6
 romantic 6
@@ -5253,7 +5254,6 @@ celeste 5
 imita 5
 lanceava 5
 falcon 5
-Cuppa 5
 Serbia 5
 sapientia 5
 traductrice 5
@@ -5332,6 +5332,7 @@ volapük 5
 tra 5
 sr 5
 Cleveland 5
+Ohio 5
 despecto 5
 Sulla 5
 occasionalmente 5
@@ -6222,6 +6223,7 @@ recommendabile 4
 debita 4
 glissar 4
 critar 4
+belligerente 4
 prisioneros 4
 sacre 4
 frumento 4
@@ -6360,7 +6362,6 @@ Liverpool 4
 Martinet 4
 Science 4
 Service 4
-Ohio 4
 summarios 4
 complimentos 4
 lesbiana 4
@@ -7652,7 +7653,6 @@ egyptie 3
 47 3
 residuos 3
 remarcava 3
-belligerente 3
 divideva 3
 functionarios 3
 pharaones 3
@@ -7671,6 +7671,7 @@ audacia 3
 senectute 3
 Sicilia 3
 bono 3
+Mundo 3
 2022 3
 Qatar 3
 respectate 3
@@ -8118,6 +8119,7 @@ influenza 3
 bello 3
 Carbon 3
 minator 3
+puteva 3
 Libertate 3
 champignon 3
 Phoeniciano 3
@@ -9996,5 +9998,3 @@ antipathic 2
 congresso 2
 inserite 2
 Magnus 2
-dissolution 2
-frustrate 2

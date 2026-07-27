@@ -1,16 +1,16 @@
-es 3817
-Yo 2724
-un 2225
+es 3822
+Yo 2728
+un 2228
 li 2011
-Tom 1753
+Tom 1754
 ne 1638
-Li 982
-in 939
-Esque 851
+Li 983
+in 940
+Esque 852
 tu 843
 have 825
 Il 773
-ha 759
+ha 760
 esset 701
 de 662
 que 633
@@ -20,12 +20,12 @@ quo 500
 va 497
 Noi 494
 me 470
-mi 454
+mi 455
 save 453
 it 453
 yo 452
 e 448
-vole 444
+vole 445
 Tu 414
 It 365
 To 360
@@ -42,7 +42,7 @@ Mary 267
 pri 264
 il 264
 con 259
-Mi 256
+Mi 257
 deve 248
 plu 248
 quam 248
@@ -97,9 +97,9 @@ vive 94
 du 93
 nov 92
 lingue 90
+parlat 90
 qui 89
 Ne 89
-parlat 89
 felici 87
 sempre 84
 nequande 84
@@ -120,10 +120,10 @@ old 73
 amico 71
 vell 70
 matre 70
+munde 69
 labora 69
 ma 69
 vos 69
-munde 68
 omnicos 68
 vide 68
 sur 68
@@ -135,9 +135,9 @@ nor 67
 fémina 66
 volet 66
 ili 66
+Su 66
 cane 66
 tri 65
-Su 65
 Boston 64
 manjar 64
 ear 64
@@ -220,10 +220,10 @@ quande 41
 auto 41
 amicos 40
 Francia 40
+comprar 40
 desfacil 40
 dormit 39
 lee 39
-comprar 39
 familie 39
 omnes 39
 policie 39
@@ -274,6 +274,7 @@ frigid 31
 amat 31
 alt 31
 lacte 31
+Chascun 31
 rich 31
 Australia 31
 malad 31
@@ -286,7 +287,6 @@ sembla 30
 cordie 29
 ante 29
 idé 29
-Chascun 29
 furtet 29
 ex 29
 til 29
@@ -302,6 +302,7 @@ existe 28
 yer 28
 lentmen 28
 dictionarium 27
+blu 27
 pom 27
 propri 27
 omni 27
@@ -311,7 +312,6 @@ parol 27
 bebé 26
 sovente 26
 cantar 26
-blu 26
 sport 26
 John 26
 aprende 26
@@ -447,6 +447,7 @@ incontrat 17
 canzon 17
 estive 17
 fine 17
+pomes 17
 ciel 17
 haver 17
 can 17
@@ -467,7 +468,6 @@ semblat 17
 brossa 17
 filios 16
 plora 16
-pomes 16
 ran 16
 verdi 16
 micri 16
@@ -560,6 +560,7 @@ aspecte 13
 sett 13
 sup 13
 animales 13
+capilles 13
 avie 13
 sapates 13
 changear 13
@@ -602,7 +603,6 @@ rapid 12
 vestimentes 12
 minutes 12
 solution 12
-capilles 12
 totmen 12
 pisc 12
 raconta 12
@@ -1048,6 +1048,7 @@ pisces 6
 poemas 6
 terre 6
 demon 6
+ove 6
 frisc 6
 vicinos 6
 triant 6
@@ -1090,6 +1091,7 @@ traductor 6
 martell 6
 fider 6
 Regretabilmen 6
+Senior 6
 alcun 6
 foy 6
 lépor 6
@@ -1221,7 +1223,6 @@ solitari 5
 leon 5
 impression 5
 landes 5
-ove 5
 perdir 5
 unvez 5
 faseoles 5
@@ -1261,7 +1262,6 @@ arte 5
 paya 5
 morde 5
 grandissim 5
-Senior 5
 solue 5
 Adío 5
 necessi 5
@@ -1544,6 +1544,7 @@ scale 4
 col 4
 combattet 4
 nepoto 4
+seculari 4
 arané 4
 electric 4
 apartament 4
@@ -1835,6 +1836,7 @@ familiari 3
 dextri 3
 adult 3
 Eva 3
+augmenta 3
 strade 3
 quocunc 3
 Pensa 3
@@ -2518,7 +2520,6 @@ Sarah 2
 imita 2
 Ex 2
 lampe 2
-augmenta 2
 absorpte 2
 combatter 2
 difficil 2
@@ -2743,7 +2744,6 @@ mache 2
 tabac 2
 Elon 2
 Musk 2
-seculari 2
 Atende 2
 Scotia 2
 Svines 2
@@ -2778,6 +2778,7 @@ incre 2
 soles 2
 fumar 2
 Ay 2
+fetet 2
 architectes 2
 Slovakia 2
 magri 2
@@ -2951,6 +2952,7 @@ littere 2
 norm) 2
 images 2
 Epstein 2
+saventie 2
 vapor 2
 Cookie 2
 desembarassat 2
@@ -2989,6 +2991,8 @@ oval 2
 diversi 2
 vicinas 2
 “Pro 2
+judéo 2
+judéa 2
 suspectiv 2
 lentilles 2
 control 2
@@ -5179,7 +5183,6 @@ homatine 1
 Reveni 1
 Felicitá 1
 malodorat 1
-fetet 1
 fa" 1
 manja" 1
 logí 1
@@ -6100,7 +6103,6 @@ inlada 1
 1390000000 1
 Chinés 1
 Luke 1
-saventie 1
 leontodon 1
 manjabil 1
 sorciero 1
@@ -6371,8 +6373,6 @@ Cyril; 1
 pundes 1
 graviditá 1
 reactiones 1
-judéo 1
-judéa 1
 "Tu 1
 viver" 1
 ancora 1
@@ -6437,3 +6437,5 @@ tussa 1
 Lauda 1
 Omnipotent 1
 pigresse 1
+Ohio 1
+mal-odorat 1

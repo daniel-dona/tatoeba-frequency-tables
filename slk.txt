@@ -1,12 +1,12 @@
-je 5792
-sa 3640
+je 5793
+sa 3641
 som 2839
 Tom 2600
 si 2363
 to 2133
 na 1832
 že 1567
-v 1471
+v 1472
 a 1314
 Je 875
 mi 835
@@ -18,10 +18,10 @@ To 626
 by 614
 má 609
 ste 591
-nie 585
+nie 586
 do 573
 Som 568
-po 540
+po 541
 s 506
 o 495
 Mária 466
@@ -219,11 +219,11 @@ svoju 79
 Nemôžem 79
 dve 78
 včera 78
-knihy 77
+knihy 78
+svete 77
 dom 76
 ak 76
 ráno 76
-svete 76
 povie 76
 odpoveď 76
 Nikto 75
@@ -239,10 +239,10 @@ kniha 70
 Rád 70
 chce 70
 tým 70
+pri 69
 pes 69
 svoj 69
 človek 69
-pri 68
 Mal 68
 deti 68
 Potrebujem 68
@@ -1188,6 +1188,7 @@ mojich 15
 Počkaj 15
 iný 15
 známy 15
+ťažká 15
 miluje 15
 Vianoce 15
 Napísal 15
@@ -1271,7 +1272,6 @@ dôkaz 14
 pomohol 14
 Obaja 14
 Samozrejme 14
-ťažká 14
 Nevidím 14
 skutočne 14
 sľub 14
@@ -1454,6 +1454,7 @@ otvoril 12
 zime 12
 pršalo 12
 Spojených 12
+Deň 12
 koniec 12
 potrebujete 12
 Paríži 12
@@ -1581,7 +1582,6 @@ nepočul 11
 Marse 11
 Prišli 11
 možno 11
-Deň 11
 rovnako 11
 skutočnosti 11
 krátke 11
@@ -1960,6 +1960,7 @@ ktorých 9
 nestačí 9
 Južnej 9
 Nerád 9
+celom 9
 rokmi 9
 ruke 9
 Levy 9
@@ -2209,7 +2210,6 @@ zjesť 8
 starosti 8
 meškal 8
 Komu 8
-celom 8
 potrebujeme 8
 Málokedy 8
 týždne 8
@@ -2347,6 +2347,7 @@ sviatok 8
 robote 8
 Naí 8
 Dillí 8
+Angličtina 8
 pavúky 8
 hrdinka 8
 cibuľu 8
@@ -2717,7 +2718,6 @@ slovnú 7
 zásobu 7
 živá 7
 románsky 7
-Angličtina 7
 východnej 7
 Cícer 7
 Ziri 7
@@ -2816,6 +2816,7 @@ ostáva 6
 eur 6
 dokonalý 6
 systém 6
+príležitosti 6
 Šťastný 6
 stretli 6
 Pracoval 6
@@ -3264,7 +3265,6 @@ bábätko 5
 brehu 5
 Robte 5
 mysleli 5
-príležitosti 5
 amerických 5
 minulosť 5
 tvojich 5
@@ -5756,6 +5756,7 @@ Taliani 3
 Oženil 3
 zostaneš 3
 trošku 3
+prvej 3
 rezerváciu 3
 Urobte 3
 slovesa 3
@@ -6790,6 +6791,7 @@ Islandská 2
 samostatne 2
 žijúcich 2
 nahý 2
+esperanta 2
 Pakistanom 2
 Justin 2
 Bieber 2
@@ -7883,7 +7885,6 @@ odporučili 2
 reštauráciu 2
 záľuby 2
 vybaviť 2
-prvej 2
 zajednané 2
 vyrobil 2
 Usmiali 2
@@ -8208,6 +8209,7 @@ Poliaci 2
 dedinke 2
 hlavného 2
 Všimla 2
+esperante 2
 podstatné 2
 príslovky 2
 druhmi 2
@@ -9996,5 +9998,3 @@ kvapalina 2
 bezfarebná 2
 mastné 2
 Teheráne 2
-uč 2
-Nemusím 2

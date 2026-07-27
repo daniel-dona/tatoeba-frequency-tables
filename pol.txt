@@ -1,9 +1,9 @@
 się 17499
 nie 14919
-jest 14593
+jest 14595
 w 13154
 Tom 11517
-na 11029
+na 11030
 Nie 9662
 to 8974
 że 8364
@@ -13,10 +13,10 @@ i 4795
 To 4735
 Czy 4202
 mi 3850
-o 3652
+o 3653
 mnie 3637
 ma 3219
-co 3152
+co 3153
 On 3006
 za 2951
 jak 2853
@@ -37,7 +37,7 @@ już 1650
 ci 1557
 ale 1542
 Co 1526
-dla 1516
+dla 1517
 Toma 1441
 domu 1386
 Mam 1347
@@ -124,7 +124,7 @@ trzy 585
 Jeśli 584
 prawda 584
 swoje 581
-roku 579
+roku 580
 chcesz 576
 Po 570
 samochód 558
@@ -280,7 +280,7 @@ wieczorem 283
 ludzie 283
 wygląda 281
 Jesteśmy 281
-książki 280
+książki 281
 Bostonu 280
 Sami 279
 spać 278
@@ -318,8 +318,8 @@ pokój 248
 dni 247
 Pan 246
 angielskiego 245
+miejsce 245
 Naprawdę 245
-miejsce 244
 Powinieneś 244
 sposób 243
 pani 243
@@ -340,8 +340,8 @@ twoja 234
 myśli 233
 imię 233
 tygodniu 232
+świecie 230
 były 230
-świecie 229
 Teraz 229
 której 228
 słowa 228
@@ -1209,9 +1209,11 @@ złego 69
 uwagi 69
 robił 69
 rozwiązać 69
+Który 69
 jazdy 69
 Dokąd 69
 Słońce 69
+całym 68
 studentów 68
 Matka 68
 daje 68
@@ -1224,7 +1226,6 @@ jem 68
 picia 68
 wierzy 68
 ból 68
-Który 68
 nauczyciela 68
 słyszałem 68
 Obawiam 68
@@ -1232,7 +1233,6 @@ znaczenia 68
 zdjęcia 68
 bratem 68
 Moi 68
-całym 67
 brzmi 67
 widać 67
 byłoby 67
@@ -1341,6 +1341,7 @@ Ostatnio 62
 palenie 62
 matematyki 62
 Europie 62
+najlepszy 62
 zdań 62
 córki 62
 ojcem 62
@@ -1365,7 +1366,6 @@ ciemno 61
 różne 61
 Zrobił 61
 składa 61
-najlepszy 61
 jedynym 61
 liście 61
 Jeden 61
@@ -1811,6 +1811,7 @@ przyszła 46
 zrozumiałem 46
 napić 46
 powietrza 46
+miało 46
 Niemczech 46
 rana 46
 zająć 46
@@ -1855,7 +1856,6 @@ kwiat 45
 rzeka 45
 kupiłeś 45
 położył 45
-miało 45
 przestał 45
 nauczycielką 45
 kochać 45
@@ -2077,6 +2077,7 @@ warzywa 40
 zwyczaj 40
 gotowa 40
 Zróbmy 40
+pierwszej 40
 żonaty 40
 niedziele 40
 jasne 40
@@ -2125,7 +2126,6 @@ chłopca 39
 chętnie 39
 wodą 39
 oko 39
-pierwszej 39
 siostrą 39
 samolotem 39
 wrócę 39
@@ -2853,6 +2853,7 @@ młodzi 28
 nieśmiały 28
 jedyny 28
 obejrzeć 28
+Dzień 28
 żółty 28
 Statek 28
 kartę 28
@@ -2956,7 +2957,6 @@ pomogę 27
 smak 27
 Fuji 27
 Robi 27
-Dzień 27
 zostanę 27
 przyjemność 27
 słowami 27
@@ -4173,6 +4173,7 @@ Afryki 18
 rezerwację 18
 spóźniony 18
 kupię 18
+lipca 18
 najwyżej 18
 popełnić 18
 niektórzy 18
@@ -4360,7 +4361,6 @@ powodów 17
 zepsute 17
 wręcz 17
 słuchasz 17
-lipca 17
 Poczekam 17
 inteligentna 17
 pracowity 17
@@ -9264,6 +9264,7 @@ me 7
 Joe 7
 rozpoczęła 7
 bohatera 7
+26 7
 odrzucony 7
 kwaśny 7
 robotą 7
@@ -9997,4 +9998,3 @@ butach 7
 szafy 7
 śmiało 7
 cukierków 7
-Módl 7

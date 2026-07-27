@@ -2,7 +2,7 @@ kan 33
 kani 26
 mana 23
 Mana 21
-Ñuqa 20
+Ñuqa 21
 kunan 18
 kanichu 17
 kanki 17
@@ -11,14 +11,14 @@ tukukun 16
 runa 14
 tawa 14
 kankichu 13
-killa 13
+hatun 12
 Chay 12
+huk 12
+killa 12
 kay 11
 Noqaqa 11
 Ñukaka 11
 runasimita 10
-hatun 10
-huk 10
 Pitaq 10
 chay 10
 Huk 8
@@ -169,6 +169,7 @@ Hatun 2
 Mariawan 2
 Marcelinawan 2
 Husiymi 2
+risaq 2
 kusikuni 2
 imatataq 2
 Niptinmi 2
@@ -191,7 +192,6 @@ Inlish 2
 rimani 2
 munakun 2
 Tomqa 2
-Urin 2
 Paykuna 2
 simi 2
 Aleman 2
@@ -217,6 +217,7 @@ punlla 2
 rimapay 2
 runakunaka 2
 kawsanchik 2
+Yupaychani 2
 Intika 2
 Ishki 2
 lulunkuna 2
@@ -239,8 +240,8 @@ chinkasqa 2
 Ancha 2
 mancharikuypaqmi 2
 karqan 2
+wakin 2
 Pawqar 2
-Kuskan 2
 Runa 2
 Pi 2
 tusuni 2
@@ -264,6 +265,7 @@ Mayk'apitaq 2
 valen 2
 ñuqamanta 2
 wiñay 2
+ñawpaq 2
 pukami 2
 Ñapaikuy 2
 qillqasqata 2
@@ -273,6 +275,10 @@ samakuchkani 2
 Ñuqapis 2
 qaten 2
 t'iran 2
+Viracochaqa 2
+runakunata 2
+rumimanta 2
+ruwarqan 2
 Cafetachu 1
 tetachu 1
 munanki 1
@@ -446,7 +452,6 @@ Ritisan 1
 risanku 1
 munasanku 1
 Kutimuptinku 1
-risaq 1
 Munaptiyki 1
 kutimusaq 1
 Rimaptiyku 1
@@ -593,6 +598,7 @@ Turaykiqa 1
 imaynam 1
 sumaq 1
 sipasllam 1
+Urin 1
 Awya-Yalamantam 1
 kutimuchkan 1
 aylluyuqmi 1
@@ -714,14 +720,12 @@ Lluqsiymanchu 1
 Maytuta 1
 wichqaychik 1
 ninkim 1
-Inglaterra 1
-mantami 1
+Inglaterramantami 1
 rimanichu 1
 uvyanayanami 1
 shutimi 1
 kullkita 1
 shuwarkan 1
-Yupaichani 1
 Yanapaway 1
 chisi 1
 Shoq 1
@@ -884,7 +888,6 @@ kachakanki 1
 Armana 1
 ukuman 1
 rina 1
-Yupaychani 1
 ñakcharirkani 1
 Tomaska 1
 ñakcharirka 1
@@ -954,7 +957,6 @@ chaypi 1
 tarisqay 1
 allinta 1
 willanaypaq 1
-wakin 1
 rikusqaykunatapas 1
 willasaq 1
 Hayk'ataq 1
@@ -1052,10 +1054,6 @@ rit'ichkan 1
 Maki 1
 ruwarusunchis 1
 ñawinchani 1
-Qichwap 1
-kunka 1
-uyarikuqninkunawan 1
-qillqakunanwan 1
 qanchis 1
 pusaq 1
 isqon 1
@@ -1195,7 +1193,6 @@ Ruwawarqan 1
 Diospa 1
 atiynin 1
 yachaynin 1
-ñawpaq 1
 munakuynin 1
 Manaraq 1
 kaptinqa 1
@@ -1297,3 +1294,7 @@ umasapam 1
 k'aspi 1
 chakin 1
 supayta 1
+chankamusaq 1
+cosaskunata 1
+ñawpa 1
+generacionta 1

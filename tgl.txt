@@ -1,6 +1,6 @@
-ang 35270
-sa 27969
-ng 26510
+ang 35271
+sa 27971
+ng 26513
 na 16785
 po 13867
 ko 12693
@@ -14,12 +14,12 @@ Hindi 6105
 at 5493
 ba 5350
 niya 4912
-ay 4731
+ay 4732
 ito 4670
 siya 4641
 May 4072
 nang 3739
-Ang 3686
+Ang 3687
 ka 3667
 hindi 3057
 akong 2892
@@ -72,7 +72,7 @@ o 801
 rin 798
 Bakit 766
 pero 739
-noong 723
+noong 724
 Mas 709
 Walang 702
 rito 677
@@ -97,7 +97,7 @@ Maraming 584
 Puwede 584
 kaming 564
 ibang 559
-tungkol 553
+tungkol 554
 Sabi 552
 kaysa 552
 kaya 549
@@ -165,7 +165,7 @@ nito 374
 ngayong 371
 sabi 368
 gabi 367
-aklat 363
+aklat 364
 kaibigan 360
 Mahilig 359
 Kaya 359
@@ -175,7 +175,7 @@ malaking 357
 labas 357
 iyong 355
 inyo 350
-buong 347
+buong 348
 Saan 344
 iba 343
 Paano 342
@@ -222,7 +222,7 @@ Greg 279
 pamilya 275
 nanay 273
 Sinabi 272
-mundo 269
+mundo 270
 ginawa 269
 baka 269
 pusa 264
@@ -309,8 +309,8 @@ Gaano 190
 yata 190
 Sobrang 188
 Silvestre 187
+unang 186
 totoo 185
-unang 185
 Nang 185
 keyk 184
 Bumili 183
@@ -346,6 +346,7 @@ kusina 168
 kitang 167
 mansanas 167
 ayaw 165
+Esperanto 165
 niyan 165
 kapihan 165
 Naroon 165
@@ -356,7 +357,6 @@ yelo 164
 Kailan 163
 isip 163
 masaya 163
-Esperanto 163
 sinasabi 162
 paborito 162
 Masyado 161
@@ -543,11 +543,11 @@ magagawa 103
 dahilan 103
 Tiyera 103
 baso 103
+Hulyo 103
 puso 102
 larawan 102
 tawag 102
 Abril 102
-Hulyo 102
 siyensiyang 102
 naroon 101
 tingnan 101
@@ -768,6 +768,7 @@ mayaman 73
 pader 73
 restawran 73
 bansang 73
+Araw 73
 Mamaya 73
 may-ari 73
 kakayahan 73
@@ -783,10 +784,10 @@ masarap 72
 kamatis 72
 gulay 72
 gumagawa 72
-Araw 72
 matanda 72
 lumilipad 72
 kaarawan 71
+upang 71
 kanina 71
 Agosto 71
 sukat 71
@@ -799,7 +800,6 @@ abenang 71
 hapunan 70
 yung 70
 pelikula 70
-upang 70
 Nag-aaral 70
 pakialam 70
 kausapin 70
@@ -1972,6 +1972,7 @@ pagbabago 28
 Byetnames 28
 magsuot 28
 kreyol 28
+ipinagdiriwang 28
 pamilyang 28
 mayelo 28
 kapulisan 28
@@ -2045,7 +2046,6 @@ Pumanaw 27
 Humihingi 27
 leon 27
 Kumalat 27
-ipinagdiriwang 27
 bulak 27
 Crónicas 27
 Majipur 27
@@ -4796,6 +4796,7 @@ naiwan 10
 iba-iba 10
 Dodong 10
 Barsoom 10
+anibersaryo 10
 selebrasyon 10
 Europeo 10
 Edwin 10
@@ -5182,7 +5183,6 @@ maglakbay 9
 pananampalataya 9
 espesye 9
 Benus 9
-anibersaryo 9
 Enrico 9
 Pinalaya 9
 propaganda 9
@@ -6162,6 +6162,7 @@ Ipinagluto 7
 menos 7
 ganap 7
 paraang 7
+1887 7
 Matahimik 7
 Picasso 7
 Pumila 7
@@ -6839,7 +6840,6 @@ hidroheno 6
 kaugalian 6
 Pakibukas 6
 bumibili 6
-1887 6
 Tumutuloy 6
 Ulitin 6
 Aalagaan 6

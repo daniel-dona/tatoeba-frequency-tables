@@ -1,6 +1,6 @@
-er 18008
+er 18009
 Jeg 11457
-at 9227
+at 9228
 Tom 8683
 en 8663
 i 8557
@@ -11,25 +11,25 @@ til 5222
 det 4971
 på 4963
 og 3931
-for 3913
+for 3915
 jeg 3740
 Han 3510
 Det 3493
 var 3419
 med 3348
-af 3341
+af 3342
 et 3273
 mig 3200
 kan 2653
-den 2336
+den 2337
 der 2334
 Hun 2231
 dig 2029
-om 1960
+om 1961
 Vi 1926
 I 1910
 Mary 1867
-Du 1784
+Du 1785
 vil 1772
 han 1706
 som 1682
@@ -76,7 +76,7 @@ mange 678
 hende 667
 to 667
 år 652
-over 631
+over 632
 kommer 622
 denne 609
 tog 605
@@ -171,8 +171,8 @@ kender 295
 også 289
 hjem 288
 tilbage 287
+bog 286
 skulle 285
-bog 285
 nok 283
 deres 280
 alene 279
@@ -205,8 +205,8 @@ Hans 249
 købte 249
 venner 247
 lille 245
+første 244
 Hvornår 244
-første 243
 vand 243
 stor 242
 købe 242
@@ -229,8 +229,8 @@ kone 218
 virkelig 216
 Vil 215
 ny 214
+verden 212
 lære 211
-verden 211
 lærer 211
 vidste 210
 Ingen 209
@@ -414,10 +414,10 @@ høre 113
 løb 113
 køre 113
 tur 113
+esperanto 112
 syg 112
 sidder 112
 venter 112
-esperanto 111
 sikker 111
 USA 111
 Disse 110
@@ -958,6 +958,7 @@ kalder 43
 tænkt 43
 lykkedes 43
 eget 43
+stærk 43
 glæder 43
 Kender 43
 ked 43
@@ -975,7 +976,6 @@ himlen 42
 indeholder 42
 ferie 42
 fattige 42
-stærk 42
 tør 42
 Katte 42
 fuldstændig 42
@@ -2838,6 +2838,7 @@ søns 11
 kok 11
 200 11
 tælle 11
+juli 11
 løve 11
 fuldt 11
 tv-apparat 11
@@ -3041,7 +3042,6 @@ mig: 10
 overraskede 10
 skydevåben 10
 Udenfor 10
-juli 10
 fandtes 10
 e-mailadresse 10
 Spillet 10
@@ -7519,6 +7519,7 @@ påskud 3
 fortsætter 3
 Fortsæt 3
 tasker 3
+26 3
 Roserne 3
 bangebukse 3
 indianerne 3
@@ -8708,6 +8709,7 @@ Virksomheden 3
 gennemtænkt 3
 til: 3
 jordbærrene 3
+fejres 3
 skål 3
 180 3
 spændt 3
@@ -9237,6 +9239,7 @@ modvilligt 3
 syvogfirs 3
 småsnak 3
 strikke 3
+årligt 3
 stilleben 3
 lue 3
 spilde 3
@@ -9858,7 +9861,6 @@ vejskiltet 2
 Ensrettet 2
 postbuddet 2
 termometer 2
-26 2
 Thailands 2
 ledige 2
 Opfandt 2
@@ -9996,5 +9998,3 @@ feje 2
 otteogtyve 2
 høstede 2
 hårforlængelse 2
-overfølsom 2
-overblikket 2

@@ -1,4 +1,4 @@
-is 171
+is 172
 I 132
 the 126
 a 102
@@ -8,7 +8,7 @@ of 81
 in 79
 to 78
 nat 65
-The 60
+The 61
 Thomas 53
 be 46
 was 41
@@ -17,8 +17,8 @@ He 34
 man 32
 me 32
 with 30
+an 30
 his 29
-an 29
 no 28
 for 28
 it 27
@@ -79,6 +79,7 @@ bith 8
 appel 8
 from 8
 hem 8
+world 8
 thee 8
 Is 8
 Ther 8
@@ -92,7 +93,6 @@ cat 7
 are 7
 al 7
 Ic 7
-world 7
 wol 7
 on 7
 been 7
@@ -1431,3 +1431,4 @@ So 1
 han 1
 seigh 1
 hound-fish 1
+ey 1

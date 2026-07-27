@@ -1,17 +1,17 @@
-jest 266
-Ja 212
+jest 267
+Ja 214
 ne 157
-Tom 108
-jesm 105
+Tom 109
+jesm 106
 Ty 84
-v 81
+v 83
 se 76
 je 73
 On 66
 To 62
 My 57
 Vy 54
-sut 52
+sut 54
 jesi 43
 Ona 42
 i 36
@@ -61,6 +61,7 @@ Kto 9
 o 9
 iz 9
 ili 9
+svoje 9
 my 9
 mně 9
 Moja 8
@@ -70,7 +71,6 @@ ljubil 8
 Moj 8
 krasivy 8
 Marija 8
-svoje 8
 idti 8
 се 8
 Она 8
@@ -83,6 +83,7 @@ hočeš 7
 može 7
 jesti 7
 hočete 7
+Svět 7
 pěnezy 7
 kot 6
 Či 6
@@ -92,13 +93,13 @@ budeš 6
 už 6
 ju 6
 svoj 6
+Jego 6
 ničego 6
 moja 6
 tož 6
 Ako 6
 roman 6
 jedino 6
-Svět 6
 blizko 6
 domu 6
 možeš 6
@@ -121,7 +122,6 @@ ime 5
 "Ja 5
 togo 5
 než 5
-Jego 5
 Trump 5
 egzistuje 5
 Toj 5
@@ -191,6 +191,7 @@ po 4
 Ta 4
 školu 4
 nam 4
+brata 4
 zlo 4
 mojih 4
 očah 4
@@ -221,6 +222,7 @@ maly 3
 napasti 3
 sjedl 3
 sjedla 3
+vlasy 3
 kotov 3
 smrdi 3
 kompjuter 3
@@ -307,7 +309,6 @@ te 3
 Mnoge 3
 ljubim 3
 žiti 3
-brata 3
 blizneca 3
 vsegda 3
 izuča 3
@@ -347,6 +348,7 @@ etiopka 2
 ktora 2
 imaješ 2
 gordy 2
+kupiti 2
 Panamu 2
 "Kde 2
 jest" 2
@@ -430,6 +432,7 @@ skazal 2
 slovo 2
 "magyar" 2
 jemo 2
+jabloka 2
 dobro 2
 specialno 2
 vsekde 2
@@ -461,6 +464,7 @@ ješ 2
 velosiped 2
 našla 2
 hotěli 2
+govoril 2
 krasna" 2
 kupila 2
 omal 2
@@ -542,6 +546,7 @@ Dověrite 2
 ekspertam 2
 prišel 2
 prišeli 2
+Jej 2
 moderny 2
 poeziju 2
 russka 2
@@ -574,6 +579,7 @@ tydnju 2
 čitati 2
 važna 2
 јеси 2
+Putin 2
 vojnu 2
 madjarsky 2
 ujgursky 2
@@ -594,6 +600,7 @@ Norris: 2
 nepotrěbno 2
 Jackson 2
 vzela 2
+moje 2
 Terapija 2
 konversije 2
 ubiva 2
@@ -644,6 +651,7 @@ probujem 2
 heroina 2
 Molči 2
 osy 2
+hočem 2
 bud 2
 budte 2
 Anonymous 2
@@ -651,6 +659,7 @@ njej 2
 glasovala 2
 glasoval 2
 vam 2
+modre 2
 Добродошли 1
 Dobrodošli 1
 Vitaj 1
@@ -763,7 +772,6 @@ imenuje 1
 Pomoli 1
 mehanična 1
 igračka 1
-kupiti 1
 Anglije 1
 Děte 1
 podbralo 1
@@ -780,7 +788,6 @@ krasivyh 1
 bystre 1
 sportkary 1
 shvatil 1
-vlasy 1
 Smetjari 1
 strajkujut 1
 pomidory 1
@@ -1035,7 +1042,6 @@ mnogobarvna 1
 krajina 1
 nakrmil 1
 kozy 1
-jabloka 1
 Čuda 1
 obyčne 1
 Kitaju 1
@@ -1206,7 +1212,6 @@ Griby 1
 mudre 1
 čarovne 1
 stvory 1
-govoril 1
 Beši 1
 Tomami 1
 Španija 1
@@ -1584,7 +1589,6 @@ prišela 1
 prišla 1
 napisati 1
 russkom 1
-Jej 1
 Dělaj 1
 Dělajte 1
 vratili 1
@@ -1798,7 +1802,6 @@ Afrikanci 1
 здрава 1
 слаба 1
 umorjeni 1
-Putin 1
 vojenny 1
 zločinec 1
 zvězdny 1
@@ -1884,7 +1887,6 @@ cělkom 1
 kompletno 1
 demonstracija 1
 sily 1
-moje 1
 Obyčajno 1
 zautrakam 1
 okolo 1
@@ -2036,7 +2038,6 @@ sočevice 1
 nomadi 1
 muži 1
 zaljubiti 1
-hočem 1
 Jedanje 1
 svininy 1
 zabranjeno 1
@@ -2083,3 +2084,13 @@ Vsemogučemu 1
 taki 1
 uviděl 1
 akulu 1
+Ohio 1
+jebe 1
+svojego 1
+prdak 1
+jajce 1
+Odstrani 1
+konto 1
+Gospodu 1
+povysi 1
+znanje 1

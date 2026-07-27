@@ -1,6 +1,6 @@
 je 1235
-se 285
-v 242
+se 286
+v 243
 Ali 241
 sem 213
 in 193
@@ -48,8 +48,8 @@ ga 37
 Zakaj 37
 ali 36
 kaj 36
+po 36
 še 35
-po 35
 dan 34
 V 34
 Kdo 33
@@ -99,6 +99,7 @@ dobro 20
 sta 20
 stane 20
 Ime 20
+svetu 19
 biti 19
 knjigo 19
 kar 19
@@ -108,7 +109,6 @@ Zelo 19
 jih 19
 Vse 19
 če 18
-svetu 18
 Ko 18
 imajo 18
 tako 18
@@ -186,6 +186,7 @@ kitajsko 11
 povedal 10
 ura 10
 Grem 10
+ob 10
 let 10
 kako 10
 Vsi 10
@@ -211,7 +212,6 @@ svoj 9
 leta 9
 domov 9
 prišel 9
-ob 9
 zakaj 9
 Nočem 9
 žena 9
@@ -257,6 +257,7 @@ Za 8
 japonsko 8
 Vem 8
 Ljudje 8
+leto 8
 učitelj 8
 Voda 8
 lep 8
@@ -294,7 +295,6 @@ miru 7
 Se 7
 družino 7
 švedsko 7
-leto 7
 Kateri 7
 vseh 7
 nas 7
@@ -446,6 +446,7 @@ Iz 5
 Nemčije 5
 sva 5
 New 5
+Dan 5
 naredi 5
 vroče 5
 dogaja 5
@@ -586,8 +587,10 @@ napak 4
 bili 4
 Tudi 4
 ostal 4
+knjige 4
 Nesreča 4
 utrujena 4
+vsem 4
 mraz 4
 bodi 4
 jim 4
@@ -613,7 +616,6 @@ Vedno 4
 pol 4
 pije 4
 Beseda 4
-Dan 4
 Šla 4
 sebe 4
 prevod 4
@@ -846,7 +848,6 @@ zna 3
 začne 3
 Mislil 3
 hočeš 3
-knjige 3
 Samo 3
 Takoj 3
 posluša 3
@@ -857,8 +858,8 @@ Imeli 3
 pojedel 3
 Boš 3
 uporabo 3
+esperanta 3
 narodov 3
-vsem 3
 popolnoma 3
 niti 3
 Trenutno 3
@@ -1016,6 +1017,7 @@ Možgani 3
 Naša 3
 Srednje 3
 želvo 3
+vsako 3
 zaklad 3
 živ 3
 vir 3
@@ -1253,7 +1255,6 @@ bolan 2
 jabolka 2
 šola 2
 rezultate 2
-esperanta 2
 morju 2
 Virus 2
 mnogo 2
@@ -1556,6 +1557,7 @@ laže 2
 Laž 2
 človeku 2
 Angleška 2
+26 2
 25 2
 sestavljena 2
 angleščino 2
@@ -1709,7 +1711,6 @@ izhaja 2
 Avokado 2
 Doma 2
 staro 2
-vsako 2
 Znanje 2
 meči 2
 avokado 2
@@ -3377,7 +3378,6 @@ Luni 1
 beloruško 1
 Ljubimo 1
 govoris 1
-26 1
 Danska 1
 29 1
 črk: 1
@@ -5478,3 +5478,10 @@ pišem 1
 vnukov 1
 Rastline 1
 rastline 1
+praznuje 1
+obletnici 1
+izida 1
+prve 1
+esperantu 1
+julija 1
+1887 1

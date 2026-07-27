@@ -1,6 +1,6 @@
-të 902
-e 589
-në 388
+të 906
+e 591
+në 389
 është 342
 i 280
 një 272
@@ -9,9 +9,9 @@ Nuk 235
 Tomi 219
 do 180
 me 177
-për 170
+për 171
 që 166
-më 165
+më 166
 Unë 135
 shumë 120
 se 119
@@ -67,11 +67,12 @@ Mos 29
 ime 29
 pëlqen 29
 mua 28
+gjithë 27
 shtëpi 27
 kishte 27
 Ti 27
 ke 27
-gjithë 26
+parë 26
 shkoj 26
 duke 26
 tha 26
@@ -79,7 +80,6 @@ pa 25
 je 25
 por 25
 I 25
-parë 25
 Çfarë 25
 kombësie 25
 "Të 25
@@ -160,6 +160,7 @@ bësh 13
 shkollë 13
 nëse 13
 libër 13
+çdo 13
 shkojnë 13
 vështirë 12
 bën 12
@@ -167,7 +168,6 @@ nesër 12
 aq 12
 së 12
 Boston 12
-çdo 12
 t'i 12
 kuptoj 12
 doja 12
@@ -236,6 +236,7 @@ jap 8
 erdhi 8
 herët 8
 ky 8
+mbi 8
 ndonjëherë 8
 jemi 8
 mos 8
@@ -264,7 +265,6 @@ asnjëherë 7
 vdekur 7
 sajë 7
 Jo 7
-mbi 7
 vend 7
 vetmja 7
 "Ku 7
@@ -435,6 +435,7 @@ cfare 4
 doni 4
 qen 4
 mace 4
+vit 4
 bere 4
 gjith 4
 vendin 4
@@ -562,7 +563,6 @@ idiot 3
 Nje 3
 vrapon 3
 gabim 3
-vit 3
 jeten 3
 njohur 3
 jeta 3
@@ -573,6 +573,7 @@ dime 3
 mbiemri 3
 ndonjehere 3
 Tani 3
+botën 3
 bota 3
 urren 3
 urrejnë 3
@@ -710,6 +711,7 @@ Ra 3
 Ha 3
 bezdisshme 3
 Ende 3
+esperanton 3
 bëre 3
 Bëra 3
 mësuar 3
@@ -837,7 +839,6 @@ gjithashtu 2
 njihni 2
 Allahut 2
 përgjigja 2
-botën 2
 macet 2
 punës 2
 shihte 2
@@ -1056,6 +1057,7 @@ the 2
 bashku 2
 përgjithmonë 2
 Pastaj 2
+Dita 2
 shihet 2
 jastëk 2
 dashurin 2
@@ -1124,7 +1126,6 @@ Prit 2
 djathë 2
 telefono 2
 çaji 2
-esperanton 2
 ndryshim 2
 helm 2
 menunë 2
@@ -2368,7 +2369,6 @@ birin 1
 nëntë 1
 Flisni 1
 largove 1
-Dita 1
 shmangej 1
 takimit 1
 mbante 1
@@ -4166,3 +4166,12 @@ Amerika 1
 yll 1
 rumune 1
 fluturojmë 1
+Esperantos 1
+festohet 1
+shënuar 1
+përvjetorin 1
+botimit 1
+librit 1
+26 1
+korrik 1
+1887 1

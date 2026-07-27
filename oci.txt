@@ -1,36 +1,36 @@
-de 4713
+de 4715
  3758
 pas 3284
 es 3034
-a 2802
+a 2803
 la 2755
-un 2219
+un 2221
 lo 2071
 que 1721
-Tom 1494
+Tom 1495
 Lo 1416
-una 1382
-Es 1364
+una 1384
+Es 1368
 La 1014
 e 930
-son 873
+son 874
 en 761
 las 746
 per 734
-Soi 676
+Soi 677
 los 620
 se 589
 Ai 574
 Me 498
 dins 487
-mai 480
+mai 481
 plan 443
 Los 430
 al 414
 èra 392
 amb 387
-A 383
-mon 371
+A 384
+mon 372
 çò 362
 me 320
 Tòm 310
@@ -40,7 +40,7 @@ aquò 284
 I 284
 tot 258
 Aqueste 258
-coma 256
+coma 257
 aqueste 250
 temps 246
 Las 242
@@ -104,7 +104,7 @@ Sabi 128
 pauc 127
 vida 126
 tròp 124
-dels 121
+dels 122
 Qual 120
 non 119
 quicòm 119
@@ -176,10 +176,10 @@ quan 80
 plai 80
 causa 78
 Cresi 78
+fach 78
 còr 77
 ans 77
 manjar 77
-fach 77
 Pensi 76
 E 76
 d'una 76
@@ -323,6 +323,7 @@ content 46
 deus 45
 qu'un 45
 vièlh 45
+burèu 45
 gos 45
 pòdes 45
 telefòn 45
@@ -330,7 +331,6 @@ Quita 45
 perdut 44
 taula 44
 acabat 44
-burèu 44
 L'aiga 44
 letra 44
 uèlhs 44
@@ -715,6 +715,7 @@ gai 22
 Vòl 22
 poiriá 22
 afar 22
+miralh 22
 Siatz 22
 simple 22
 pluèja 21
@@ -753,7 +754,6 @@ Amb 21
 teu 21
 aprèp 21
 cuol 21
-miralh 21
 mots 20
 trin 20
 mena 20
@@ -1028,6 +1028,7 @@ visitar 15
 festenal 15
 conferéncia 15
 aparelh 15
+fòtos 15
 doç 15
 disnar 15
 rumor 15
@@ -1110,7 +1111,6 @@ cagar 14
 causir 14
 seriós 14
 lop 14
-fòtos 14
 triste 14
 fasiá 14
 Te'n 14
@@ -1512,6 +1512,7 @@ nafrat 10
 dents 10
 paquet 10
 semblava 10
+utilizat 10
 signe 10
 L'ascensor 10
 femnas 10
@@ -1660,7 +1661,6 @@ comandat 9
 lums 9
 bòrd 9
 ; 9
-utilizat 9
 ausir 9
 Aquò´s 9
 vendrà 9
@@ -2268,6 +2268,7 @@ policièr 6
 departament 6
 viscut 6
 S'ei 6
+emplegat 6
 que'vs 6
 hòrt 6
 faus 6
@@ -2675,7 +2676,6 @@ batèu 5
 Quins 5
 coneish 5
 Bill 5
-emplegat 5
 direccion 5
 pren 5
 traversat 5
@@ -3947,6 +3947,7 @@ caufatge 4
 lenha 4
 traçar 4
 cellular 4
+mobil 4
 inepcias 4
 casanièr 4
 brasas 4
@@ -5286,7 +5287,6 @@ internacional 3
 malautas 3
 complir 3
 periple 3
-mobil 3
 realament 3
 comic 3
 risible 3
@@ -8758,6 +8758,7 @@ intruses 2
 dinosaures 2
 Itch 2
 estequit 2
+subaltèrne 2
 tornarèi 1
 Cridèc 1
 "ajuda" 1
@@ -9997,4 +9998,3 @@ d'està's 1
 Suzuki 1
 braca 1
 lhèvi 1
-qu'aprestissi 1

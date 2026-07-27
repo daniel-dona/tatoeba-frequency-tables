@@ -1,6 +1,6 @@
-ya 11344
+ya 11346
 na 7136
-kwa 3135
+kwa 3136
 wa 3050
 ni 2733
 kama 2136
@@ -19,7 +19,7 @@ Ni 738
 iko 721
 yenye 699
 siku 656
-kila 647
+kila 648
 juu 642
 kitu 622
 tu 619
@@ -64,13 +64,13 @@ mbele 325
 la 321
 mbili 313
 kabisa 308
-cha 306
+cha 307
 sawa 305
 Wakati 305
 Kama 298
 moya 297
 wangu 295
-kwanza 293
+kwanza 294
 nyumba 291
 ina 289
 kubwa 287
@@ -88,7 +88,7 @@ njia 250
  240
 nyuma 237
 maisha 236
-kuhusu 233
+kuhusu 234
 hiyo 231
 wako 231
 gari 227
@@ -125,8 +125,8 @@ maana 174
 kusema 173
 zamani 172
 leo 170
+mwaka 166
 gisi 166
-mwaka 165
 Kila 164
 mzuri 164
 Na 163
@@ -170,9 +170,9 @@ batu 133
 « 133
 mtoto 132
 Nilikuwa 130
+kitabu 129
 Marie 129
 au 128
-kitabu 128
 weye 128
 anaweza 128
 haiko 128
@@ -194,7 +194,7 @@ hivi 121
 Yeye 120
 ukweli 120
 yao 120
-Siku 118
+Siku 119
 Mungu 118
 inje 117
 muhimu 117
@@ -788,6 +788,7 @@ Toka 33
 soma 33
 kuni 33
 polepole 33
+kumbukumbu 33
 niya 33
 Minawaza 33
 kushoto 33
@@ -814,7 +815,6 @@ waku 32
 mfalme 32
 Mary 32
 Angalia 32
-kumbukumbu 32
 inaendelea 32
 hotuba 32
 miti 32
@@ -863,6 +863,7 @@ kuku 30
 tarehe 30
 alipata 30
 marron 30
+mnamo 30
 Kwanini 30
 harufu 30
 kulikuwa 30
@@ -895,7 +896,6 @@ sinema 29
 kyenye 29
 raisi 29
 kaka 29
-mnamo 29
 majibu 29
 zahabu 29
 lako 29
@@ -1178,6 +1178,7 @@ bosi 22
 Huko 22
 Sita 22
 vidole 22
+Kiesperanto 22
 Uli 22
 Niliwaza 22
 pamoya 21
@@ -1250,6 +1251,7 @@ kufunga 20
 kuume 20
 kupotea 20
 Bakia 20
+ulimwenguni 20
 budongo 20
 anakuwaka 20
 cheo 20
@@ -1280,7 +1282,6 @@ ushindi 20
 wiki 20
 kuvala 20
 tunataka 20
-Kiesperanto 20
 unasema 20
 tate 20
 Boston 20
@@ -1309,7 +1310,6 @@ funga 19
 wadogo 19
 Maoni 19
 mafunzo 19
-ulimwenguni 19
 ijapokuwa 19
 kizuri 19
 Alisema 19
@@ -1849,6 +1849,7 @@ Fungula 13
 kimia 13
 jengo 13
 Moto 13
+kote 13
 vumilia 13
 butamu 13
 kukaa 13
@@ -1974,7 +1975,6 @@ kimoja 12
 kushambulia 12
 chelewa 12
 kivuli 12
-kote 12
 limoya 12
 msamaha 12
 Jackson 12
@@ -4826,6 +4826,7 @@ Nawa 4
 machine 4
 Ingia 4
 Kyoto 4
+26 4
 sindiyo 4
 Enda 4
 Jason 4
@@ -5970,7 +5971,6 @@ Facebook 3
 Ulinzi 3
 amemaliza 3
 takriban 3
-26 3
 Marseille 3
 anakumbuka 3
 alisisitiza 3
@@ -8554,6 +8554,7 @@ Gusa 2
 kuizimisha 2
 «O» 2
 zinafanana 2
+kuchapishwa 2
 timbre 2
 taja 2
 examen 2
@@ -9997,4 +9998,3 @@ umekuwa 2
 WC 2
 Capone 2
 kuhusa 2
-mtafsiri 2

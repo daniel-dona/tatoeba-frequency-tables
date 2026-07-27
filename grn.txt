@@ -11,8 +11,8 @@ nde 126
 pe 116
 Nde 92
 rehe 88
+ko 79
 chéve 79
-ko 78
 kuri 72
 mba'e 72
 niko 66
@@ -20,7 +20,7 @@ hag̃ua 57
 chupe 56
 oĩ 53
 Ko 52
-ára 49
+ára 51
 voi 48
 va'erã 48
 umi 47
@@ -59,6 +59,7 @@ Mba'éichapa 23
 pegua 22
 ndaha'éi 22
 hese 22
+ary 22
 Aikuaa 22
 heta 21
 ramo 21
@@ -66,14 +67,13 @@ vai 21
 mba'eve 21
 guasu 20
 Peteĩ 20
-ary 20
 kóva 20
 arã 20
 peve 19
+ári 19
 gueteri 19
 ko'ãga 18
 Ha'ekuéra 18
-ári 18
 guarã 18
 ojapo 18
 araka'eve 18
@@ -86,6 +86,7 @@ ajépa 17
 Ñande 17
 mba'épa 17
 marandu'asãihára 17
+yvy 16
 mbo'ehao 16
 óga 16
 Mávapa 16
@@ -96,7 +97,6 @@ chupekuéra 16
 Tom-pe 16
 Okañy 16
 javete 16
-yvy 15
 sy 15
 rejapo 15
 ndaikatúi 15
@@ -105,6 +105,7 @@ Añetehápe 15
 avei 15
 Upe 15
 Mba'ére 15
+aranduka 15
 hũ 15
 Cheaguara 15
 hepy 15
@@ -114,7 +115,6 @@ hákatu 14
 jave 14
 ndive 14
 Heta 14
-aranduka 14
 hi'upyjehe'a 14
 Ndaikatúi 13
 Ndaikuaái 13
@@ -307,6 +307,7 @@ Jaguakuéra 6
 ome'ẽ 6
 Rohayhu 6
 inandi 6
+rehegua 6
 Mitãnguéra 6
 pyharevekue 6
 Ko'ẽrõ 6
@@ -362,6 +363,7 @@ ho'a 5
 ka'aru 5
 omimbi 5
 asy 5
+hague 5
 Mamópa 5
 año 5
 jajapóta 5
@@ -378,7 +380,6 @@ Jagua 5
 arai 5
 tesaparápe 5
 Nahániri 5
-rehegua 5
 orehegui 5
 ha'ékuri 5
 mesa 5
@@ -472,7 +473,6 @@ irũ 4
 Mitãkuña 4
 ogue 4
 vy'a 4
-hague 4
 ñe'ẽme 4
 angirũ 4
 yva 4
@@ -623,6 +623,7 @@ Ndépa 3
 Hyãsia 3
 tenda 3
 aháta 3
+peteĩha 3
 Eheka 3
 tembiapo 3
 Añetépa 3
@@ -634,6 +635,7 @@ okápe 3
 añetehápe 3
 tapére 3
 ñe'ẽjoapy 3
+jasypoteĩ 3
 jajapo 3
 hápe 3
 Toiko 3
@@ -937,7 +939,6 @@ Ava 2
 reikotevẽ 2
 hasaha 2
 Ehasa 2
-peteĩha 2
 puraheiha 2
 ipu 2
 ary" 2
@@ -958,7 +959,6 @@ mbo'ehaorusúpe 2
 itarova 2
 alemañañe'ẽme 2
 mavave 2
-jasypoteĩ 2
 20 2
 ajapose 2
 Aikove 2
@@ -1165,6 +1165,7 @@ yvyrapetái 2
 Reguereko 2
 guavirana'akuéra 2
 YouTube 2
+esperanto 2
 Laurie 2
 rohayhuha 2
 ingleñe'ẽ 2
@@ -1353,6 +1354,7 @@ oñemoĩkuri 2
 ambueháicha 2
 ho'úkuri 2
 ho'úvo 2
+ojegueromandu'a 2
 nderehe 2
 ñe'ẽnga 2
 rombo'e 2
@@ -1366,6 +1368,7 @@ kaguápe 2
 dólar 2
 hi'año 2
 Amoñe'ẽ 2
+pukukue 2
 añemoarandu 2
 Añe'ẽ 2
 jeroviave'ỹ 2
@@ -2669,7 +2672,6 @@ Ahundise 1
 ñemomarandunguéra 1
 techarã 1
 Ahayhuite 1
-esperanto 1
 Jatyta 1
 yta 1
 kytasyrykusuvi 1
@@ -3448,7 +3450,6 @@ ereséva 1
 reipotáva 1
 Brasil-pe 1
 ojohayhúva 1
-ojegueromandu'a 1
 12 1
 heindýre 1
 chembojavo'ói 1
@@ -3541,7 +3542,6 @@ ikypy'ýgui 1
 ohaitypo 1
 yvyramátape 1
 Jajerokýpy 1
-pukukue 1
 Peikotevẽ 1
 okẽndavokáre 1
 iñemíkuri 1
@@ -4934,3 +4934,10 @@ Roiko 1
 Jaiko 1
 mondaha 1
 hepyvéva 1
+Esperanto 1
+ape 1
+ojegueromandu'ávo 1
+aniversario 1
+oñemoherakuã 1
+26 1
+1887-pe 1

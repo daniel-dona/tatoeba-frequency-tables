@@ -2,7 +2,7 @@ on 29506
 ei 10809
 Tom 9931
 Hän 8491
-ja 6913
+ja 6915
 että 6909
 Tomi 6404
 ole 6373
@@ -58,9 +58,9 @@ olisi 1263
 Mari 1262
 Sinun 1245
 Me 1236
-täytyy 1205
+täytyy 1206
 tämä 1188
-hyvä 1172
+hyvä 1171
 ranskaa 1167
 pitää 1156
 täällä 1149
@@ -235,8 +235,8 @@ sanoa 360
 kaunis 360
 töitä 359
 yli 356
+kirjan 354
 pitänyt 353
-kirjan 353
 Emme 350
 Maryn 349
 Bostonissa 349
@@ -299,9 +299,9 @@ mun 297
 heti 296
 meitä 296
 tee 295
+vettä 294
+antaa 294
 sinne 293
-vettä 293
-antaa 293
 alkaa 292
 erittäin 291
 hänestä 290
@@ -367,9 +367,9 @@ antoi 243
 näytti 243
 soittaa 241
 Tule 241
+päivää 240
 käynyt 240
 kovasti 239
-päivää 239
 Nämä 238
 Hei 237
 vaikeaa 236
@@ -473,9 +473,9 @@ Isäni 186
 Sen 186
 Tulen 185
 sanonut 185
-Sain 184
 lähellä 184
 kanssaan 184
+Sain 183
 lukenut 183
 lainata 183
 Onpa 183
@@ -642,12 +642,12 @@ mennessä 136
 teille 136
 uida 136
 vastata 136
+ympäri 135
 Saisinko 135
 alla 135
 asiaa 135
 töissä 135
 ohi 134
-ympäri 134
 autoa 134
 välillä 134
 tarkoittaa 134
@@ -821,6 +821,7 @@ paikka 108
 yritä 108
 ajatus 108
 isänsä 107
+Heidän 107
 irti 107
 valmiiksi 107
 luottaa 107
@@ -834,7 +835,6 @@ Pysy 107
 äiti 106
 matkalla 106
 maa 106
-Heidän 106
 menivät 106
 joitakin 106
 Vihaan 106
@@ -881,6 +881,7 @@ vaikutti 100
 olekin 100
 huolta 99
 televisiota 99
+hetki 99
 elämää 99
 hitaasti 99
 sanoit 99
@@ -888,7 +889,6 @@ Näyttää 99
 katsomaan 99
 harvoin 99
 maan 98
-hetki 98
 eli 98
 puhuvat 98
 Olette 98
@@ -1374,6 +1374,7 @@ Puhutko 63
 viimeksi 63
 huolimatta 63
 Opettaja 63
+ensimmäisen 63
 ikäinen 63
 alkanut 63
 Olitko 63
@@ -1387,7 +1388,6 @@ Mitkä 62
 aloittaa 62
 jotenkin 62
 Aiotko 62
-ensimmäisen 62
 kiva 62
 kysymyksiä 62
 poikki 62
@@ -1483,6 +1483,7 @@ sata 58
 valehtele 58
 sanan 58
 Tykkäätkö 58
+kerralla 58
 tarvitsemme 58
 vitun 58
 sua 58
@@ -1494,7 +1495,6 @@ valittaa 57
 pimeää 57
 Moi 57
 kuunnella 57
-kerralla 57
 miltä 57
 katso 57
 kieliä 57
@@ -1685,6 +1685,7 @@ hereillä 51
 musiikista 51
 veti 51
 Jumalan 51
+levätä 51
 unessa 51
 onnea 51
 outo 51
@@ -1722,7 +1723,6 @@ paikassa 50
 uskoo 50
 fiksu 50
 onkin 50
-levätä 50
 tekevän 50
 missään 50
 kesänä 50
@@ -1842,7 +1842,9 @@ olevani 47
 juosta 47
 kerron 47
 tytöt 47
+maailmaa 47
 Kolme 47
+esperantoa 47
 kukka 47
 poistaa 47
 Monelta 47
@@ -1885,7 +1887,6 @@ Muistatko 46
 Pitääkö 46
 Vesi 46
 Heitä 46
-maailmaa 46
 paikkaa 46
 Kysy 46
 tavallinen 46
@@ -1893,7 +1894,6 @@ hiukan 46
 vaikuta 46
 ranskasta 46
 tähtitieteestä 46
-esperantoa 46
 erään 46
 tulit 46
 lukemassa 46
@@ -2663,6 +2663,7 @@ Asuin 32
 hankalaa 32
 enkeli 32
 vastustaa 32
+muille 32
 Näitkö 32
 ratkaisu 32
 johonkin 32
@@ -2735,7 +2736,6 @@ käynnissä 31
 jalkaan 31
 epäonnistui 31
 Saimme 31
-muille 31
 Inhoan 31
 suojella 31
 rakkaus 31
@@ -3299,6 +3299,7 @@ työt 25
 saattoi 25
 aluksi 25
 bussin 25
+seuraavalla 25
 puolestaan 25
 18 25
 Linnut 25
@@ -3436,7 +3437,6 @@ Yorkissa 24
 ketun 24
 otin 24
 miljoona 24
-seuraavalla 24
 joessa 24
 Isoveljeni 24
 Eurooppaan 24
@@ -3450,6 +3450,7 @@ tilasi 24
 kupillisen 24
 kärsivällinen 24
 suhteellisen 24
+yhteydessä 24
 likaiset 24
 ellei 24
 vihaavat 24
@@ -3595,7 +3596,6 @@ toisemme 23
 Ostitko 23
 maaseudulla 23
 seisomaan 23
-yhteydessä 23
 talvena 23
 purskahti 23
 veitsen 23
@@ -4098,6 +4098,7 @@ lyhyesti 20
 neljän 20
 sulaa 20
 silmiin 20
+Maksan 20
 verrattuna 20
 lukkoon 20
 olevat 20
@@ -4303,7 +4304,6 @@ kipua 19
 elä 19
 katsovat 19
 Tapasimme 19
-Maksan 19
 isoäitini 19
 Matka 19
 taipumusta 19
@@ -4460,6 +4460,7 @@ Unelmani 18
 käden 18
 varalle 18
 piknikille 18
+vuosittain 18
 korkealla 18
 kantoi 18
 ohjeita 18
@@ -4471,7 +4472,6 @@ vasemmalle 18
 ”Kiitos” 18
 Kauan 18
 pyykit 18
-idean 18
 Auton 18
 kadonnut 18
 Arvostan 18
@@ -4671,7 +4671,6 @@ viimeiseen 17
 viulua 17
 pienemmälle 17
 koirasi 17
-vuosittain 17
 takin 17
 satuttaa 17
 Nuori 17
@@ -4683,6 +4682,7 @@ Tulipalon 17
 Menetin 17
 Kuuntelen 17
 Täytyy 17
+idean 17
 tilanteeseen 17
 isälleni 17
 katto 17
@@ -8144,6 +8144,7 @@ filosofia 9
 seinällä 9
 Saari 9
 osaamme 9
+selitys 9
 Unohdan 9
 Bush 9
 nukkuvansa 9
@@ -8681,6 +8682,7 @@ hyvästit 9
 säälittävä 9
 irtisanoutui 9
 puhumatta 9
+huonosta 9
 Vastustan 9
 nenä 9
 väestöstä 9
@@ -8987,7 +8989,6 @@ Pojalla 8
 sanomalehti 8
 kylvyn 8
 kulttuurin 8
-selitys 8
 runo 8
 Avaisitko 8
 kultainen 8
@@ -9674,7 +9675,6 @@ Huhut 8
 katolta 8
 joidenkin 8
 baari 8
-huonosta 8
 itsenne 8
 murhattiin 8
 lukiolainen 8

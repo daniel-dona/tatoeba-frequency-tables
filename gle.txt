@@ -1,11 +1,11 @@
-an 680
-a 650
+an 683
+a 651
 Tá 632
 mé 406
 ag 401
 Is 335
 é 271
-ar 245
+ar 249
 tú 221
 go 218
 bhfuil 214
@@ -59,14 +59,14 @@ ina 43
 ach 41
 duit 41
 nach 40
+gach 39
 obair 39
-gach 38
 in 37
 anseo 37
 teach 34
+dhéanamh 34
 anois 33
 féin 33
-dhéanamh 33
 dom 33
 ríomhaire 33
 air 31
@@ -79,9 +79,9 @@ labhairt 26
 bith 26
 bhí 25
 ort 25
+chun 25
 Máire 25
 ó 24
-chun 24
 éigin 24
 fear 24
 bhean 24
@@ -175,6 +175,7 @@ againn 13
 Táimid 13
 focal 13
 bhur 13
+leabhair 12
 litir 12
 Fuair 12
 seomra 12
@@ -194,7 +195,6 @@ Thomáis 12
 liomsa 12
 insint 12
 riamh 11
-leabhair 11
 mháthair 11
 inné 11
 deich 11
@@ -257,6 +257,7 @@ ngrá 8
 ár 8
 tar 8
 bhliain 8
+chéad 8
 mhéad 8
 cúramach 8
 caife 8
@@ -288,7 +289,6 @@ Thomás 8
 Nuair 7
 brón 7
 Cuir 7
-chéad 7
 ón 7
 iníon 7
 beirt 7
@@ -300,6 +300,7 @@ mbeidh 7
 orthu 7
 chaoi 7
 freisin 7
+bliain 7
 sneachta 7
 domhan 7
 chur 7
@@ -338,13 +339,13 @@ dúirt 6
 mall 6
 dhéanfaidh 6
 tháinig 6
+Lá 6
 dóibh 6
 bhfuair 6
 chuir 6
 tinn 6
 Rugadh 6
 Teastaíonn 6
-bliain 6
 tiomáint 6
 rudaí 6
 áthas 6
@@ -394,7 +395,6 @@ nár 5
 Cathain 5
 Ag 5
 ’Séard 5
-Lá 5
 freagra 5
 aréir 5
 mórán 5
@@ -659,6 +659,8 @@ deartháir 3
 bhfuilimid 3
 laoch 3
 tolg 3
+Esperanto 3
+domhain 3
 Díolann 3
 úsáideann 3
 aráin 3
@@ -935,7 +937,6 @@ t-ospidéal 2
 botúin 2
 an-bheag 2
 ospidéal 2
-domhain 2
 taisteal 2
 leonta 2
 m'fhear 2
@@ -1013,6 +1014,7 @@ Aontaithe 2
 nuachtáin 2
 D'fhoghlaim 2
 cheacht 2
+fud 2
 cheolchoirm 2
 gramadaí 2
 inseoidh 2
@@ -1597,7 +1599,6 @@ leadránach 1
 gearr 1
 matamaitice 1
 feabhas 1
-Esperanto 1
 oifigiúil 1
 Aontais 1
 óglach 1
@@ -1810,7 +1811,6 @@ cinneadh 1
 stuaim 1
 Stát 1
 Ghaeltacht 1
-fud 1
 seantír 1
 nílim 1
 láimhseáil 1
@@ -3082,3 +3082,9 @@ nAingil 1
 Taraigí 1
 tugaigí 1
 adhradh 1
+Ceiliúrtar 1
+comóradh 1
+fhoilsiú 1
+26 1
+Iúil 1
+1887 1

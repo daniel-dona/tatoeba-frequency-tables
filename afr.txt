@@ -1,10 +1,10 @@
-nie 1426
+nie 1427
 is 1222
 het 1133
 Ek 1056
 die 832
 'n 680
-Tom 515
+Tom 516
 jy 476
 my 375
 te 359
@@ -14,7 +14,7 @@ van 317
 jou 313
 Die 311
 vir 301
-in 277
+in 278
 ek 249
 Hy 247
 was 246
@@ -22,8 +22,8 @@ sal 221
 Ons 214
 gaan 194
 Dit 186
+Jy 172
 wil 172
-Jy 171
 wat 162
 ons 161
 kan 157
@@ -114,10 +114,10 @@ altyd 33
 af 33
 nooit 33
 al 33
-water 32
 gesien 31
 As 31
 niks 31
+water 31
 waar 30
 tyd 30
 geen 30
@@ -205,7 +205,6 @@ naam 17
 Jou 17
 vrou 17
 mens 17
-weg 17
 wanneer 17
 tot 17
 gevra 17
@@ -215,6 +214,7 @@ hulp 16
 ou 16
 eerste 16
 mooi 16
+weg 16
 wou 16
 Niemand 16
 dom 16
@@ -962,6 +962,7 @@ wys 3
 vriendin 3
 potlood 3
 eintlik 3
+staat 3
 Dollar 3
 klip 3
 foute 3
@@ -1091,7 +1092,6 @@ Verstaan 3
 seermaak 3
 geskiet 3
 PowerPoint-aanbieding 3
-veg 3
 derde 3
 kollegas 3
 badkamer 3
@@ -1281,7 +1281,6 @@ ernstige 2
 aktiewe 2
 burgerskap 2
 hemp 2
-staat 2
 jaloers 2
 dogtertjie 2
 aangeneem 2
@@ -1415,7 +1414,6 @@ hulself 2
 verdedig 2
 werking 2
 opgee 2
-instaat 2
 onlangse 2
 uniek 2
 taak 2
@@ -1436,6 +1434,7 @@ twintig 2
 Beplan 2
 daarna 2
 afspraak 2
+eensaam 2
 onderbreek 2
 uittree 2
 nou-nou 2
@@ -1521,6 +1520,7 @@ red 2
 wolf 2
 dankbaar 2
 koppie 2
+veg 2
 been 2
 koors 2
 geteken 2
@@ -1528,7 +1528,6 @@ briewe 2
 grootword 2
 rus 2
 Boere 2
-Je 2
 waai 2
 Waarheen 2
 Waarna 2
@@ -1654,7 +1653,7 @@ verhuur 2
 besit 2
 verblyf 2
 boontjies 2
-artikkel 2
+artikel 2
 sonnestelsel 2
 gegaan" 2
 lekkergoed 2
@@ -1667,7 +1666,6 @@ Nou 2
 omhels 2
 gestaan 2
 digter 2
-getrek 2
 tom 2
 soen 2
 heeldag 2
@@ -1676,6 +1674,7 @@ gehuil 2
 koevert 2
 Verskoon 2
 Skielik 2
+geveg 2
 dikwels 2
 kontak 2
 bos 2
@@ -2359,7 +2358,7 @@ verpleegster 1
 bedel 1
 ondersoek 1
 beurt 1
-sanza 1
+sangza 1
 rof 1
 dikste 1
 kleed 1
@@ -2560,8 +2559,6 @@ sekonde 1
 vasgevang 1
 verkeer 1
 gedwing 1
-Toom 1
-eensellig 1
 buitentoe 1
 beleefd 1
 weddingskap 1
@@ -2654,7 +2651,7 @@ enjin 1
 ontwerpe 1
 Aktiviste 1
 graags 1
-damp 1
+waterdamp 1
 koeltorings 1
 ingeskroef 1
 onskuldige 1
@@ -2860,6 +2857,7 @@ konstant 1
 verskoon 1
 kommery 1
 vrugte 1
+Je 1
 vlk 1
 samotář 1
 klok 1
@@ -3319,6 +3317,7 @@ skrikkerig 1
 vreastel 1
 voltooi 1
 werklikheid 1
+instaat 1
 vredesverdrag 1
 immer 1
 Haat 1
@@ -3329,6 +3328,7 @@ haare 1
 vent 1
 beseer 1
 gaande 1
+weggetrek 1
 Vetrou 1
 besering 1
 geheime 1
@@ -3347,10 +3347,12 @@ teleurstellend 1
 betreur 1
 koel 1
 roeiboot 1
+getrek 1
 spreekbeurt 1
 heelwaarskynlik 1
 bely 1
 makk 1
+artikkel 1
 sterrenag 1
 vannag 1
 krediet 1
@@ -3369,7 +3371,6 @@ vogtige 1
 Junie 1
 vaste 1
 on 1
-geveg 1
 byna 1
 e-pos 1
 grappe 1
@@ -3690,7 +3691,6 @@ geskakel 1
 Lukas 1
 onmiddelik 1
 Felix 1
-artikel 1
 huurmotor 1
 ontbied 1
 skaats 1
@@ -3738,7 +3738,6 @@ lewendig" 1
 oorgaan 1
 slegste 1
 omdraai 1
-eensaam 1
 dryf 1
 kleinboet 1
 behoorlik 1

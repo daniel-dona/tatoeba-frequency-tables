@@ -1,4 +1,4 @@
-da 1025
+da 1026
 ez 578
 dut 529
 bat 414
@@ -135,13 +135,13 @@ jaten 30
 gertatu 30
 guztia 29
 zenuen 29
+lehen 29
 ni 28
 egiteko 28
 nahiko 28
 galdu 28
 aita 28
 dauka 28
-lehen 28
 honetan 28
 Layla 28
 daukat 27
@@ -260,6 +260,7 @@ gogoko 16
 jan 16
 irakurtzen 15
 mina 15
+osoan 15
 berriro 15
 Benetan 15
 munduko 15
@@ -277,7 +278,6 @@ Egin 14
 diru 14
 nekatuta 14
 ginen 14
-osoan 14
 irakurri 14
 Barkatu 14
 hauek 14
@@ -344,6 +344,7 @@ osoa 12
 erraza 12
 Etorri 12
 frantsesa 12
+Mundu 12
 ziur 12
 biok 12
 didate 12
@@ -367,6 +368,7 @@ hainbat 11
 jo 11
 baizik 11
 aukera 11
+liburua 11
 ordutan 11
 Euskara 11
 aurretik 11
@@ -381,7 +383,6 @@ horretan 11
 nion 11
 begiratu 11
 Lan 11
-Mundu 11
 sinesten 11
 entzuten 11
 nirea 11
@@ -401,7 +402,6 @@ onena 10
 berriz 10
 alde 10
 duzuna 10
-liburua 10
 emango 10
 dauzkat 10
 Ongi 10
@@ -797,6 +797,7 @@ mundu 5
 hemendik 5
 urrun 5
 beraien 5
+buruzko 5
 zeukan 5
 kamera 5
 onartu 5
@@ -987,7 +988,6 @@ arteko 4
 zenetik 4
 esatea 4
 azpian 4
-buruzko 4
 Txarto 4
 esne 4
 mugitu 4
@@ -2351,6 +2351,8 @@ imitatu 2
 itzulpen 2
 Helioa 2
 gas 2
+Eguna 2
+26an 2
 Lola 2
 behiak 2
 Hondartzako 2
@@ -2883,6 +2885,7 @@ Badakigu 2
 Deitzen 2
 listan 2
 datorren 2
+urtero 2
 nintzake 2
 autoz 2
 bazidan 2
@@ -2901,6 +2904,7 @@ Mariarekin 2
 saskibaloira 2
 prisarik 2
 saldu 2
+gogoratzeko 2
 PC 2
 erligio 2
 Metalak 2
@@ -5020,12 +5024,10 @@ xenona 1
 radona 1
 nobleak 1
 Independentzia 1
-Eguna 1
 Belgikan 1
 flandriarrek 1
 Armeniak 1
 1918ko 1
-26an 1
 Bulgariak 1
 1908ko 1
 urrian 1
@@ -7875,7 +7877,6 @@ portaeragatik 1
 esku-dirutan 1
 onuragarriagoa 1
 Biodibertsitatea 1
-urtero 1
 gutxitzen 1
 Irten 1
 Erabiltzaile 1
@@ -8092,7 +8093,6 @@ Lepoko 1
 astelehenerarte 1
 aititea 1
 inzenetaz 1
-gogoratzeko 1
 B 1
 fisikan 1
 Lyme 1
@@ -8643,3 +8643,11 @@ Hiriaren 1
 defendatzaileak 1
 Hala 1
 Anta 1
+ospatzen 1
+Esperantoaren 1
+1887ko 1
+uztailaren 1
+esperantoari 1
+argitaratu 1
+zeneko 1
+urteurrena 1
