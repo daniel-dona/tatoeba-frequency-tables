@@ -65,7 +65,7 @@ davam 78
 baş 77
 il 76
 etmək 76
-iki 74
+iki 75
 artıq 73
 olmasa 72
 dedi 71
@@ -80,8 +80,8 @@ kömək 67
 hələ 66
 ona 66
 Toma 65
+Hər 64
 Heç 64
-Hər 63
 Sənin 63
 məni 63
 öz 62
@@ -433,6 +433,7 @@ nəsə 15
 gəlmir 15
 əsas 15
 Günəş 15
+təhsil 15
 verə 15
 ala 15
 qara 15
@@ -465,7 +466,6 @@ tələb 14
 idin 14
 Çay 14
 səndən 14
-təhsil 14
 Çin 14
 Bakı 14
 insanlar 14
@@ -616,6 +616,7 @@ it 11
 öyrənmək 11
 idarə 11
 getdik 11
+oxuyur 11
 biridir 11
 maraqlı 11
 aşiq 11
@@ -680,7 +681,6 @@ içində 10
 tennis 10
 Ev 10
 məşhur 10
-oxuyur 10
 olacam 10
 dildir 10
 dilidir 10
@@ -1546,6 +1546,7 @@ Harda 5
 işləməyi 5
 işıq 5
 yuxuya 5
+alır 5
 Nəhayət 5
 verməyəcək 5
 bilmirdim 5
@@ -1920,7 +1921,6 @@ apar 4
 bank 4
 fikrim 4
 bahadır 4
-alır 4
 varmı 4
 olması 4
 Yunanıstan 4
@@ -2658,6 +2658,7 @@ cavanam 3
 xəstəyəm 3
 getmədin 3
 Qoca 3
+universitetdə 3
 işləyirsən 3
 gözəldirlər 3
 yerlərdə 3
@@ -3816,7 +3817,6 @@ baxmırdım 2
 gələcəklər 2
 itləri 2
 fikirlərimi 2
-universitetdə 2
 qaldırdılar 2
 Milanda 2
 komandanın 2
@@ -4630,6 +4630,7 @@ Qızlarınız 2
 Qızların 2
 Qızınızı 2
 Qızımla 2
+Qızım 2
 qəzəbləndirməkdən 2
 kimisə 2
 sırf 2
@@ -4971,6 +4972,7 @@ məhəllə 2
 tanışam 2
 Çayda 2
 çatmır 2
+xaricdə 2
 Bananları 2
 almalardan 2
 dururam 2
@@ -9884,7 +9886,6 @@ qəzəblənib 1
 qəzəbləndi 1
 ağlayırdılar 1
 çirkin 1
-Qızım 1
 qəzəbləndirməyi 1
 çəkmədi 1
 istəyib 1
@@ -9997,4 +9998,3 @@ incə 1
 oyadır 1
 xoşagəlməz 1
 yumşaldır 1
-duyuram 1

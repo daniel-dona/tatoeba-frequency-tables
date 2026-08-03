@@ -7,10 +7,10 @@ bir 32
 edi 28
 bilan 27
 Mening 26
+emas 25
 bormi 25
 uchun 24
 nima 24
-emas 24
 qayerda 23
 ham 21
 kerak 20
@@ -54,7 +54,9 @@ narsa 8
 u 8
 javob 8
 menga 8
+Kecha 8
 qaysi 8
+men 8
 ва 7
 senga 7
 meni 7
@@ -64,13 +66,12 @@ yerda 7
 yashaydi 7
 Qancha 7
 Kim 7
-Kecha 7
+faqat 7
 Ular 7
 sotib 7
 qachon 7
 olib 7
 mumkin 7
-men 7
 ko‘raman 7
 менинг 6
 йўқ 6
@@ -80,7 +81,6 @@ Bir 6
 boraman 6
 odam 6
 hamma 6
-faqat 6
 emasmi 6
 turadi 6
 soat 6
@@ -88,6 +88,7 @@ Uni 6
 учун 5
 Менинг 5
 yashayman 5
+keldim 5
 bo'ldi 5
 бўлади 5
 sening 5
@@ -95,6 +96,7 @@ ko'p 5
 go'zal 5
 ustida 5
 katta 5
+maktabga 5
 kecha 5
 Har 5
 qildi 5
@@ -113,7 +115,6 @@ yo‘q 5
 Улар 4
 яхши 4
 эмас 4
-keldim 4
 Hech 4
 билан 4
 haqida 4
@@ -121,7 +122,6 @@ sovuq 4
 Choy 4
 it 4
 Lori 4
-maktabga 4
 baland 4
 Menda 4
 o'qish 4
@@ -232,6 +232,7 @@ aytib 3
 Nimaga 3
 olamanmi 3
 xohlayman 3
+qiyin 3
 ber 3
 narsani 3
 ovqat 3
@@ -472,7 +473,6 @@ iltimos 2
 sevaman 2
 berib 2
 Kitoblarni 2
-qiyin 2
 boshlayman 2
 yashaymiz 2
 Qizimni 2
@@ -2593,6 +2593,5 @@ borishga 1
 soʻzlashgich 1
 salom 1
 qalesan 1
-he 1
-stinketh 1
-alwey 1
+Xitoycha 1
+oʻrganish 1

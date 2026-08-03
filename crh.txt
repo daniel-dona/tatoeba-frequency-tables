@@ -1,8 +1,8 @@
 Men 78
 O 56
 edi 43
+ne 37
 bar 36
-ne 33
 Bu 33
 bir 31
 Tom 25
@@ -13,6 +13,7 @@ bu 18
 içün 17
 çoq 17
 ve 15
+Onıñ 15
 Sen 15
 Olar 14
 да 13
@@ -24,7 +25,6 @@ kerek 12
 Menim 11
 я 11
 Bugün 11
-Onıñ 11
 yoq 10
 er 10
 de 10
@@ -37,10 +37,13 @@ iç 8
 ava 8
 büyük 8
 amma 8
+adı 8
 Siz 7
 olsun 7
 eki 7
+keldim 7
 keldi 7
+tek 7
 qadar 7
 Ava 7
 onıñ 7
@@ -52,14 +55,11 @@ Maña 6
 бу 6
 ичюн 6
 üç 6
-keldim 6
 Onı 6
-tek 6
 yardım 6
 maña 6
 başladı 6
 kibi 6
-adı 6
 qayda 6
 öz 6
 etem 6
@@ -117,6 +117,7 @@ kerekmey 4
 aldım 4
 adam 4
 körüne 4
+deyler 4
 bilem 4
 ерлерде 3
 ерлешкен 3
@@ -146,6 +147,7 @@ yedi 3
 seve 3
 Keçken 3
 künü 3
+men 3
 öldi 3
 Nasıl 3
 Kim 3
@@ -268,7 +270,6 @@ köyde 2
 yaşamaqta 2
 arqadaşımnıñ 2
 ailesinde 2
-men 2
 arqadaşı 2
 otuz 2
 keçken 2
@@ -333,6 +334,7 @@ ber 2
 dilimde 2
 etesiñ 2
 bozulğan 2
+Tünevin 2
 Aqlı 2
 Mında 2
 buña 2
@@ -409,7 +411,6 @@ tez 2
 Sami 2
 yaramay 2
 Meri 2
-deyler 2
 radio 2
 aşadı 2
 işni 2
@@ -418,6 +419,7 @@ Tomğa 2
 yataqhanede 2
 senesi 2
 aqta 2
+köpeginiñ 2
 aynı 2
 çıqarıp 2
 padişanıñ 1
@@ -1165,7 +1167,6 @@ kimden 1
 Bular 1
 qarandaşlarıñmı 1
 professordan 1
-Tünevin 1
 yağa 1
 Sualge 1
 Aqayıñız 1
@@ -1919,7 +1920,6 @@ ekimine 1
 bardım 1
 ziyafetten 1
 eşitem 1
-köpeginiñ 1
 magnitidir 1
 üylege 1
 buterbrod 1
@@ -2006,3 +2006,7 @@ etilgeniniñ 1
 yıldönümi 1
 qayd 1
 etile 1
+mektepke 1
+qızına 1
+oğluna 1
+mışığınıñ 1

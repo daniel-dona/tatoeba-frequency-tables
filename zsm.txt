@@ -1,21 +1,21 @@
 Saya 1462
 saya 1351
-yang 1215
+yang 1216
 Tom 1167
 tidak 1157
 di 776
-awak 744
-itu 703
-ini 616
+awak 745
+itu 706
+ini 617
 akan 590
 untuk 584
-Dia 576
+Dia 577
 dia 446
 dan 437
 dengan 434
-ke 384
+ke 385
 anda 345
-telah 322
+telah 323
 Mary 315
 pergi 282
 boleh 268
@@ -45,9 +45,9 @@ mereka 152
 bahawa 152
 seorang 151
 bahasa 142
+kerana 139
 mempunyai 138
 sangat 138
-kerana 138
 daripada 129
 kami 127
 pernah 126
@@ -66,7 +66,7 @@ masa 104
 Apa 101
 Kita 101
 seperti 101
-datang 96
+datang 97
 bercakap 95
 ialah 93
 semua 93
@@ -92,7 +92,7 @@ malam 75
 tinggal 73
 membuat 73
 melakukan 72
-Mereka 70
+Mereka 71
 lain 70
 pun 70
 Ini 70
@@ -134,13 +134,13 @@ tidur 53
 lama 53
 bekerja 53
 kerja 52
+terlalu 51
 begitu 51
+Mengapa 51
 Aku 50
-terlalu 50
 jika 50
 sana 50
 wang 50
-Mengapa 50
 kelihatan 50
 mesti 49
 tiada 49
@@ -215,11 +215,12 @@ merasakan 36
 كامو 36
 Sila 35
 Tolong 35
+kecil 35
 tangan 35
 Australia 34
-kecil 34
 katakan 34
 anak 34
+masuk 34
 mudah 34
 luar 34
 si 34
@@ -227,7 +228,6 @@ Bagaimana 34
 hati 33
 pertama 33
 berapa 33
-masuk 33
 selama 33
 lalu 33
 tapi 33
@@ -304,6 +304,7 @@ kan 25
 jatuh 25
 minum 25
 cara 25
+pintu 25
 epal 25
 wanita 25
 beritahu 25
@@ -315,9 +316,10 @@ menarik 24
 cukup 24
 cakap 24
 memandu 24
+supaya 24
 bas 24
 membawa 24
-pintu 24
+dengannya 24
 nama 24
 bagi 24
 pandai 24
@@ -326,9 +328,7 @@ Krismas 24
 اين 24
 Ibu 23
 percaya 23
-supaya 23
 soalan 23
-dengannya 23
 cantik 23
 musim 23
 tadi 23
@@ -612,6 +612,7 @@ piano 12
 bunyi 12
 memakan 12
 berbanding 12
+padi 12
 terlambat 12
 lambat 12
 menemui 12
@@ -663,7 +664,6 @@ benci 11
 bersedia 11
 masanya 11
 terdengar 11
-padi 11
 menaiki 11
 terjadi 11
 namun 11
@@ -674,6 +674,7 @@ fasih 10
 Buku 10
 syarikat 10
 Cina 10
+susah 10
 sempat 10
 dekat 10
 menangkap 10
@@ -711,6 +712,7 @@ kawasan 10
 sesuai 10
 Telefon 10
 roti 10
+senang 10
 ataupun 10
 isteri 10
 tandas 10
@@ -736,7 +738,6 @@ tiket 9
 beri 9
 nasihat 9
 kasut 9
-susah 9
 sepuluh 9
 ekor 9
 menghadiri 9
@@ -773,8 +774,8 @@ bukanlah 9
 menyebabkan 9
 berlari 9
 suami 9
-senang 9
 tanah 9
+Ramai 9
 semuanya 9
 saat 9
 gitar 9
@@ -851,7 +852,6 @@ kira-kira 8
 mengucapkan 8
 akal 8
 Jom 8
-Ramai 8
 belikan 8
 mengeluarkan 8
 tepat 8
@@ -931,6 +931,7 @@ disini 7
 Eropah 7
 kanan 7
 kedua 7
+kunci 7
 mengembara 7
 menyertai 7
 Abang 7
@@ -1065,7 +1066,6 @@ hotel 6
 mengalami 6
 usia 6
 tertidur 6
-kunci 6
 Bola 6
 Paris 6
 langit 6
@@ -1081,6 +1081,7 @@ bergerak 6
 kakaknya 6
 Para 6
 seharusnya 6
+memasukkan 6
 Dari 6
 biliknya 6
 memerhatikan 6
@@ -1247,7 +1248,6 @@ membelinya 5
 kandungan 5
 menyedari 5
 Tanpa 5
-memasukkan 5
 tamu 5
 Universiti 5
 Muhammad 5
@@ -1290,6 +1290,7 @@ berani 5
 pasukan 5
 siapkan 5
 udara 5
+menuai 5
 Bukankah 5
 dompet 5
 pau 5
@@ -1330,6 +1331,7 @@ waktunya 5
 mempercayainya 5
 bersempadan 5
 Kadang-kadang 5
+lubang 5
 Kadazandusun 5
 Beri 5
 pusat 5
@@ -1537,7 +1539,6 @@ Gunung 4
 menjalani 4
 berkenalan 4
 tanaman 4
-menuai 4
 syurga 4
 memelihara 4
 berharga 4
@@ -2054,7 +2055,6 @@ Program 3
 bertahan 3
 penasaran 3
 pelukis 3
-lubang 3
 menjangkakan 3
 tawaran 3
 kiralah 3
@@ -3277,6 +3277,7 @@ Giliran 2
 موڠكين 2
 نيسبه 2
 4:3 2
+berlawan 2
 برهنتي 2
 لاون 2
 Perlawanan 2
@@ -3331,6 +3332,7 @@ dikenakan 2
 menyodok 2
 kepastian 2
 biadab 2
+Agak 2
 bar 2
 pengsan 2
 "Nah 2
@@ -3342,6 +3344,7 @@ budaya 2
 cuai 2
 meluncur 2
 Nyawanya 2
+benang 2
 keadilan 2
 bersihkan 2
 sunyi 2
@@ -6509,7 +6512,6 @@ isi 1
 ڤادو 1
 بلوجور؟ 1
 Serang 1
-berlawan 1
 برلاون 1
 برڬادوه 1
 ڤراڠ 1
@@ -6831,7 +6833,6 @@ singkat 1
 Tunggul 1
 reput 1
 pintas 1
-Agak 1
 perniagaannya 1
 keranjangnya 1
 mendabik 1
@@ -6937,7 +6938,6 @@ Tai 1
 ananasas 1
 imbangan 1
 seutas 1
-benang 1
 Mahasiswa 1
 Hai 1
 Awam 1
@@ -7912,3 +7912,8 @@ Giluk 1
 berlarutan 1
 tibi 1
 kembalikan 1
+merangkak 1
+melubangi 1
+memasang 1
+jarum 1
+bergotong-royong 1

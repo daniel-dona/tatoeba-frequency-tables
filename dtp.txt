@@ -1,4 +1,4 @@
-do 1032
+do 1035
 oku 621
 i 405
 Tom 377
@@ -20,7 +20,7 @@ o 117
 doho 114
 Milo' 113
 daa 113
-ilo 110
+ilo 111
 tokou 108
 tu 104
 mantad 100
@@ -54,10 +54,10 @@ dika 45
 hodi 45
 yau 45
 Nokuro 45
+isio 45
 montok 44
 Manu 44
 yahai 44
-isio 44
 Kada 43
 Poransis 42
 kio 40
@@ -125,6 +125,7 @@ kusai 20
 soira 19
 korikot 19
 Apatut 19
+mooi 19
 moti 19
 dit 18
 ngaran 18
@@ -132,7 +133,6 @@ mangan 18
 Maan 18
 ndo 18
 taakanon 18
-mooi 18
 iri 18
 karaja 18
 Yoho 18
@@ -244,6 +244,7 @@ tungau 10
 isai 10
 kasasari 10
 Kokito 10
+wayaan 10
 kalas 10
 kobolingkangan 10
 Koilo 10
@@ -271,7 +272,6 @@ kopiro 9
 Apagon 9
 nodii 9
 Amorika 9
-wayaan 9
 mumboyo 9
 momoguno 9
 tosonong 9
@@ -413,6 +413,7 @@ i' 6
 apagon 6
 komolohingan 6
 podi 6
+momonsoi 6
 kada 6
 sada 6
 kunsi 6
@@ -503,7 +504,6 @@ tua' 5
 apatut 5
 Kumaraja 5
 Isio 5
-momonsoi 5
 Mogot 5
 Jaam 5
 sabaagi 5
@@ -1390,6 +1390,7 @@ kosiat 2
 pogotulan 2
 naratu 2
 Nabalu 2
+asanang 2
 gama 2
 Nokosondot 2
 mundok 2
@@ -3218,7 +3219,6 @@ Sokiro 1
 sansagai 1
 Gumuon 1
 sakag 1
-asanang 1
 "Solimodo 1
 kalat" 1
 Gidu 1
@@ -3987,3 +3987,6 @@ mamaramai 1
 Raaragayon 1
 Giluk 1
 tibion 1
+Maamaso 1
+momolisok 1
+kukunsian 1

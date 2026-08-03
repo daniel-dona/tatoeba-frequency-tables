@@ -1,7 +1,7 @@
 is 119
 on 72
 Ic 71
-ne 63
+ne 64
 and 61
 þæt 53
 Iċ 44
@@ -48,8 +48,8 @@ Ič 12
 Þū 12
 swā 12
 nis 12
+he 11
 cyning 11
-he 10
 He 10
 þonne 10
 ƿæs 10
@@ -135,6 +135,7 @@ us 5
 Þu 5
 ūre 5
 sculon 5
+bēoþ 5
 nǣfre 5
 þīnne 5
 Ġē 5
@@ -165,7 +166,6 @@ rīċe 4
 þing 4
 word 4
 hēr 4
-bēoþ 4
 wile 4
 etan 4
 Rima 4
@@ -199,6 +199,7 @@ meaht 3
 sēon 3
 fēoh 3
 ēac 3
+Þǣr 3
 ᵹit 3
 æftera 3
 Ġēola 3
@@ -236,6 +237,7 @@ sċōs 3
 gān 3
 Cwele 3
 cnǣwþ 3
+in 3
 weorold 3
 Algeria 3
 þās 3
@@ -318,7 +320,6 @@ dæᵹ 2
 grēat 2
 leornere 2
 bēode 2
-Þǣr 2
 Man 2
 forma 2
 Ēastermōnaþ 2
@@ -396,7 +397,6 @@ mīnne 2
 cumeþ 2
 wīfmann 2
 dēor 2
-in 2
 Slǣp 2
 hwȳ 2
 earon 2
@@ -501,6 +501,7 @@ wīsoste 2
 hatiġe 2
 ġīet 2
 untrūwiende 2
+hæleþ 2
 weras 2
 ǣfre 2
 flǣsc 2
@@ -1620,7 +1621,6 @@ wearþ 1
 sǣfāme 1
 Hwæðere 1
 Wrīt 1
-hæleþ 1
 sōþlīċe 1
 ġesetnessa 1
 ġesċyldnysse 1
@@ -1647,6 +1647,8 @@ Maria 1
 sæġde 1
 Alice 1
 Mōnandæġe 1
+stinketh 1
+alwey 1
 hēah 1
 lang 1
 wēne 1
@@ -1657,3 +1659,5 @@ Heriað 1
 Hera 1
 Slǣwþ 1
 āfindunge 1
+nāne 1
+hilde 1

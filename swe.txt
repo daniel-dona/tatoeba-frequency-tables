@@ -2,7 +2,7 @@
 Jag 11360
 att 7173
 Tom 7140
-inte 6993
+inte 6992
 en 5191
 du 5181
 på 4897
@@ -29,9 +29,9 @@ den 1853
 kan 1694
 av 1620
 Du 1614
-han 1271
+han 1270
 kommer 1266
-sig 1231
+sig 1230
 så 1209
 Vad 1177
 vill 1130
@@ -60,7 +60,7 @@ vad 723
 de 696
 din 694
 tycker 651
-vet 635
+vet 634
 Kan 631
 oss 631
 än 624
@@ -69,7 +69,7 @@ bara 608
 behöver 607
 hon 603
 sin 590
-henne 583
+henne 582
 nu 567
 går 555
 bra 554
@@ -85,8 +85,8 @@ gillar 464
 åt 462
 finns 445
 blev 444
-eller 431
 dag 430
+eller 430
 gick 426
 gör 425
 alla 425
@@ -112,10 +112,10 @@ Vem 360
 efter 357
 Ni 357
 in 351
-älskar 350
 över 350
 såg 350
 kom 350
+älskar 349
 hur 348
 dem 339
 borde 338
@@ -166,7 +166,7 @@ hem 240
 några 232
 säga 230
 säger 226
-Ingen 221
+Ingen 220
 själv 219
 morgon 218
 redan 217
@@ -1677,7 +1677,6 @@ for 16
 förr 16
 vis 16
 varnade 16
-vare 16
 acceptera 16
 bit 16
 Vid 16
@@ -1775,6 +1774,7 @@ dela 15
 handstil 15
 fattade 15
 dyra 15
+vare 15
 Tar 15
 andas 15
 – 15
