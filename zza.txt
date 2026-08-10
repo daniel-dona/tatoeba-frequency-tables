@@ -1,18 +1,18 @@
 Ez 232
-ra 154
-mi 126
-o 123
+ra 155
+mi 127
+o 124
 Tom 105
 Ma 103
-de 101
+de 103
 xo 98
 ma 89
 to 86
 a 77
 Tı 74
 bi 72
-do 66
-ke 66
+do 67
+ke 67
 yo 65
 ey 63
 nê 56
@@ -29,8 +29,8 @@ mı 43
 Ti 42
 O 41
 kerd 37
+Ewro 37
 bê 35
-Ewro 35
 u 33
 dı 32
 ê 30
@@ -42,8 +42,8 @@ A 26
 ney 26
 Mary 25
 bé 22
+di 21
 wazena 21
-di 20
 né 19
 qısey 19
 ewro 19
@@ -94,6 +94,7 @@ esta 11
 peyd 11
 yé 11
 kê 11
+bo 11
 şenê 11
 înan 11
 bikerî 11
@@ -104,10 +105,10 @@ ziwanê 11
 şi 10
 dé 10
 tiyad 10
-bo 10
 weş 10
 maya 10
 E 10
+yew 10
 hem 10
 ina 9
 viri 9
@@ -116,6 +117,7 @@ Maya 9
 bêrê 9
 bêro 9
 Nê 9
+germ 9
 dê 9
 wa 9
 bî 9
@@ -124,7 +126,6 @@ keyeyê 9
 ci 9
 kamca 9
 tîya 9
-yew 9
 dest 8
 yena 8
 meşt 8
@@ -136,7 +137,6 @@ Kam 8
 bı 8
 na 8
 pêro 8
-germ 8
 bena 8
 da 8
 sey 8
@@ -197,6 +197,7 @@ zanê 6
 Tomdo 6
 cayê 6
 serre 6
+destê 6
 waya 6
 ciwîyenê 6
 bibî 6
@@ -227,6 +228,7 @@ kera 5
 pey 5
 Ney 5
 bıkera 5
+şeno 5
 teweno 5
 hewt 5
 tiyara 5
@@ -234,7 +236,6 @@ serd 5
 par 5
 kerê 5
 Keye 5
-destê 5
 şamîya 5
 Nêşena 5
 vînî 5
@@ -247,6 +248,7 @@ hema 5
 î 5
 Rojbaş 5
 yî 5
+Meşte 5
 vaje 5
 şimena 5
 awe 5
@@ -260,6 +262,7 @@ keyeyî 5
 dî 5
 Kurdîstanî 5
 çunke 5
+Çewlîg 5
 şirê 5
 çıçi 4
 eza 4
@@ -282,7 +285,6 @@ huwa 4
 kotid 4
 wazenê 4
 ju 4
-şeno 4
 şıro 4
 pers 4
 sıfte 4
@@ -300,6 +302,7 @@ Raşt 4
 pak 4
 Qe 4
 emşo 4
+uca 4
 nezdidê 4
 rakewa 4
 hewna 4
@@ -307,6 +310,7 @@ bol 4
 cı 4
 pîya 4
 bîyo 4
+kerdî 4
 nêweş 4
 nêşena 4
 şewra 4
@@ -325,8 +329,8 @@ Wexto 4
 der 4
 heqê 4
 telefonê 4
-Meşte 4
 hezar 4
+kitabî 4
 embaz 4
 hetkarîya 4
 bikerîme 4
@@ -407,7 +411,6 @@ sero 3
 resa 3
 vana 3
 manê 3
-uca 3
 "Ez 3
 deynê 3
 Çi 3
@@ -419,7 +422,6 @@ vinê 3
 şeş 3
 bîn 3
 kewt 3
-kerdî 3
 berz 3
 nêkenê 3
 hewn 3
@@ -464,7 +466,6 @@ bibo 3
 tim 3
 Bi 3
 serran 3
-kitabî 3
 Cinîya 3
 kurd 3
 ciwîyena 3
@@ -487,7 +488,6 @@ rojî 3
 Telefonê 3
 labelê 3
 Rojhelatê 3
-Çewlîg 3
 aver 3
 mileta 3
 Êdî 3
@@ -505,6 +505,7 @@ vet" 3
 kamcîn 3
 dare 3
 roja 3
+hewa 3
 mîlyar 3
 jê 3
 mîlyarî 3
@@ -864,7 +865,7 @@ vırazé 2
 tersa 2
 qisaya 2
 şîme 2
-hewa 2
+merdim 2
 Miletê 2
 Roşanî 2
 kolaya 2
@@ -894,6 +895,8 @@ Ercan 2
 çaye 2
 unîversîte 2
 varê 2
+derece 2
+websîteya 2
 zıwandê 1
 Şanê 1
 Payra 1
@@ -2706,7 +2709,6 @@ Kamî 1
 vato 1
 mêman 1
 Zaf 1
-merdim 1
 şoriş 1
 biciwîyo 1
 Teknîkê 1
@@ -2996,3 +2998,12 @@ amadehîye 1
 ecêb 1
 Ehmedî 1
 zewicîyê 1
+36 1
+35 1
+Nadîr 1
+Kîtapî 1
+sîparîş 1
+Abebooks 1
+kitabanê 1
+diyinî 1
+bivîno 1

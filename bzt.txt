@@ -1,8 +1,8 @@
-es 306
+es 309
 Eo 221
 yn 175
-rhen 156
-di 118
+rhen 159
+di 120
 Tomos 110
 ill 107
 lla 94
@@ -45,6 +45,7 @@ llifr 16
 lw 16
 di'll 16
 ys 16
+Dew 16
 e 16
 ffuin 15
 nonc 15
@@ -57,7 +58,6 @@ wer 14
 Yn 13
 Perch 13
 llâ 13
-Dew 13
 gas 13
 pab 13
 ai 12
@@ -168,6 +168,7 @@ mun 5
 alltr 5
 ddewindad 5
 Gwstr 5
+pherson 5
 for 5
 dif 5
 subr 5
@@ -209,7 +210,6 @@ cungwsc 4
 d'yn 4
 Ddew 4
 pobl 4
-pherson 4
 mulltisaf 4
 liferthad 4
 maled 4
@@ -329,6 +329,7 @@ inheir 3
 ystant 3
 phuf 3
 rhîs 3
+uddiged 3
 gwer 3
 ghindig 3
 probablfent 3
@@ -474,7 +475,6 @@ cruiscen 2
 ystath 2
 yst-sa 2
 ddiger 2
-uddiged 2
 fas 2
 gomprênef 2
 abitaf 2
@@ -500,6 +500,7 @@ god 2
 d'ystybidd 2
 gontrw 2
 pran 2
+Cant 2
 I 2
 ffon 2
 "Ke'gws 2
@@ -995,7 +996,6 @@ Ke'gws 1
 ffageran-nw 1
 dibos 1
 chomprar 1
-Cant 1
 sunt-sa 1
 America 1
 Clig 1
@@ -1418,3 +1418,7 @@ Af 1
 Afath 1
 circhafan 1
 sollteir 1
+gristian 1
+d'yddew 1
+Fusulfan 1
+as-ty 1

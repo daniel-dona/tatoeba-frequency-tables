@@ -1,4 +1,4 @@
-is 173
+is 177
 I 136
 the 129
 a 104
@@ -8,18 +8,18 @@ to 82
 of 82
 in 80
 nat 66
-The 62
+The 64
 Thomas 55
 be 46
 was 41
 am 38
 me 36
 He 34
+no 32
 man 32
 with 30
 an 30
 his 29
-no 29
 for 28
 ben 28
 it 27
@@ -29,6 +29,7 @@ We 24
 but 23
 my 22
 Ye 21
+God 20
 ye 20
 This 20
 art 19
@@ -36,7 +37,6 @@ thou 19
 myn 19
 this 18
 What 17
-God 17
 She 17
 And 17
 It 17
@@ -120,6 +120,7 @@ greet 6
 eek 6
 alwey 6
 My 6
+yong 6
 hous 6
 John 6
 yet 6
@@ -150,13 +151,13 @@ loven 5
 englyssche 5
 therin 5
 also 5
+weren 5
 womman 5
 mote 5
 fond 5
 where 5
 right 5
 old 5
-yong 5
 doon 5
 youre 5
 Som 5
@@ -186,10 +187,10 @@ togidere 4
 one 4
 haue 4
 hadde 4
-weren 4
 moneye 4
 moten 4
 mynde 4
+Cristen 4
 bere 4
 orenge 4
 sonne 4
@@ -286,7 +287,6 @@ seyn 3
 oon 3
 Iewissh 3
 Paske 3
-Cristen 3
 deyde 3
 eteth 3
 dide 3
@@ -429,6 +429,7 @@ desired 2
 redde 2
 rude 2
 wele 2
+ded 2
 certayn 2
 reduce 2
 our 2
@@ -567,6 +568,7 @@ thenketh 2
 Al 2
 lesing 2
 devout 2
+Jeu 2
 Polayne 2
 haven 2
 faire 2
@@ -589,6 +591,7 @@ An 2
 sermoun 2
 citee 2
 suspicious 2
+Sarasin 2
 savete 2
 writen 2
 blod 2
@@ -859,7 +862,6 @@ brood 1
 lorde 1
 abbot 1
 westmynster 1
-ded 1
 shewe 1
 euydences 1
 wryton 1
@@ -1288,7 +1290,6 @@ nam 1
 Punical 1
 semblable 1
 Ebreu 1
-Jeu 1
 contree-man 1
 cherl 1
 uplond-man 1
@@ -1402,7 +1403,6 @@ assaye 1
 Spaynissh 1
 Mahounes 1
 lawe 1
-Sarasin 1
 Wherefore 1
 Wryt 1
 beforen 1
@@ -1465,3 +1465,5 @@ overal 1
 yaf 1
 Johnes 1
 seintes 1
+soudiours 1
+pope 1

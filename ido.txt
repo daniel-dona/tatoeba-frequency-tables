@@ -1,14 +1,14 @@
-esas 3769
-Me 2840
+esas 3774
+Me 2843
 la 2635
-ne 1665
+ne 1668
 Tom 1366
-La 1273
+La 1275
 me 1114
-tu 1067
+tu 1068
 Ka 948
 es 762
-en 741
+en 742
 havas 726
 Il 573
 vu 568
@@ -29,7 +29,7 @@ il 327
 El 325
 Mea 319
 vi 284
-kun 271
+kun 274
 savas 263
 plu 262
 de 250
@@ -40,7 +40,7 @@ quo 232
 To 227
 Li 226
 sua 217
-Ne 206
+Ne 207
 kam 204
 Ilu 202
 pri 202
@@ -98,8 +98,8 @@ vidis 103
 Maria 102
 pekunio 101
 lernas 101
+homi 99
 ilu 98
-homi 98
 odias 97
 patro 96
 ad 93
@@ -132,6 +132,7 @@ sen 75
 kande 74
 amiko 74
 matro 73
+Deo 73
 nulo 72
 darfas 71
 kompris 71
@@ -140,7 +141,6 @@ mikra 71
 ibe 71
 volis 70
 kredas 70
-Deo 70
 Ica 69
 parolar 68
 vidas 68
@@ -250,10 +250,10 @@ alta 39
 tale 39
 pomo 39
 Franca 39
+mortis 39
 deziras 38
 iros 38
 helpar 38
-mortis 38
 Co 38
 lektar 37
 letro 37
@@ -280,6 +280,7 @@ lernar 35
 komprar 35
 tota 35
 lektas 35
+Quanta 34
 amoras 34
 Nia 34
 mediko 34
@@ -289,7 +290,6 @@ venos 33
 qui 33
 vivar 33
 povus 33
-Quanta 33
 fratulo 33
 semblas 33
 kozi 33
@@ -396,12 +396,14 @@ tra 23
 respondo 23
 donis 23
 ita 23
+milito 23
 flori 23
 quar 23
 lente 23
 venar 23
 fatigita 23
 mortigis 23
+ocidis 23
 stranja 23
 supo 23
 Franciana 23
@@ -409,12 +411,10 @@ Rima 23
 irga 22
 enorma 22
 loko 22
-milito 22
 Forsan 22
 muziko 22
 instruktisto 22
 Ili 22
-ocidis 22
 pupeo 22
 skribar 21
 kloki 21
@@ -450,6 +450,7 @@ familio 20
 esez 20
 shui 20
 Vua 20
+mortinta 20
 eventis 19
 Dicez 19
 vino 19
@@ -470,7 +471,6 @@ fratini 19
 ucelo 19
 vartar 19
 maro 19
-mortinta 19
 matrala 19
 biblioteko 18
 butiko 18
@@ -1244,6 +1244,7 @@ pedo 7
 kindi 7
 proximeskis 7
 kindo 7
+Judo 7
 klozis 6
 nexta 6
 pacoza 6
@@ -1418,6 +1419,7 @@ domi 6
 picho 6
 Gruzia 6
 futuis 6
+spozeskis 6
 klozar 5
 projetas 5
 timez 5
@@ -1682,7 +1684,6 @@ vekanta 5
 Vestizez 5
 kome 5
 Quantan 5
-Judo 5
 Kobe 4
 explozo 4
 energio 4
@@ -2020,6 +2021,7 @@ ecelanta 4
 soldato 4
 timida 4
 avertis 4
+Kristano 4
 marmoto 4
 skolano 4
 violea 4
@@ -2514,6 +2516,7 @@ kontrato 3
 cavespere 3
 liberigis 3
 premio 3
+papo 3
 korbo 3
 quanto 3
 pasable 3
@@ -2612,7 +2615,6 @@ Toki 3
 Pona 3
 ofro 3
 operi 3
-Kristano 3
 bebo 3
 Kosovo 3
 Marx 3
@@ -2754,6 +2756,7 @@ panifis 3
 lernolibro 3
 texti 3
 exerci 3
+heroi 3
 totala 3
 forjetez 3
 bezonas" 3
@@ -2775,7 +2778,6 @@ preparar 3
 impresar 3
 vizis 3
 oficale 3
-spozeskis 3
 querar 3
 dormas; 3
 vekinta 3
@@ -4132,7 +4134,6 @@ Ohio 2
 demandos 2
 pregos 2
 furtita 2
-heroi 2
 Tintin 2
 povri 2
 skriptas 2
@@ -4207,6 +4208,7 @@ kredeble 2
 katokarno 2
 paranoyika 2
 suspektema 2
+Islamano 2
 ekprenar 2
 lensi 2
 Anonimo 2
@@ -6665,7 +6667,6 @@ e-posto/niuzo-softwaro 1
 20014" 1
 1ma 1
 parolo-konkurso 1
-papo 1
 elektesis 1
 frua 1
 ekkomencar 1
@@ -9590,7 +9591,6 @@ spumo 1
 Abasez 1
 kolonialismo 1
 viva 1
-Islamano 1
 Islamisto 1
 bankomato 1
 bankautomato 1
@@ -9647,3 +9647,5 @@ augmentez 1
 hosemane 1
 pavorez 1
 misuzez 1
+Judulo 1
+Judino 1

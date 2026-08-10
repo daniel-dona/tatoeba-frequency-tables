@@ -160,13 +160,13 @@ Dom 27
 dom 27
 domi 27
 zif 27
+obs 27
 nolol 27
 velati 27
 cilis 26
 ofik 26
 nulik 26
 lilädön 26
-obs 26
 Hetob 26
 kanol 26
 Atos 26
@@ -242,6 +242,7 @@ gudikün 19
 bal 19
 velatiko 19
 nen 19
+lü 18
 Buk 18
 bukis 18
 Man 18
@@ -256,7 +257,6 @@ vilof 18
 lemön 18
 malädik 18
 I 18
-lü 17
 binon-li 17
 Fransänapüki 17
 liegik 17
@@ -892,6 +892,7 @@ Hipal 4
 jison 4
 atos 4
 Poscil 4
+Of 4
 Äspelob 4
 Ni 4
 äbinobs 4
@@ -1147,7 +1148,6 @@ ogolob 3
 Äkömob 3
 Dunolöd 3
 labon-li 3
-Of 3
 obinol 3
 Fögetolöd 3
 pükon 3
@@ -5258,3 +5258,4 @@ Sumolsös 1
 Sumolsöd 1
 Studof 1
 foginäno 1
+spikof 1

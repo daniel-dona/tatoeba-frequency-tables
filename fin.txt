@@ -1,7 +1,7 @@
 on 29513
 ei 10809
 Tom 9931
-Hän 8491
+Hän 8492
 ja 6916
 että 6909
 Tomi 6404
@@ -37,7 +37,7 @@ vain 1801
 minua 1753
 He 1711
 olla 1689
-minä 1687
+minä 1689
 Minulla 1657
 koskaan 1656
 sinun 1578
@@ -143,7 +143,7 @@ olevan 542
 minut 541
 ihan 538
 Et 537
-Tommi 536
+Tommi 537
 Meidän 534
 mies 534
 pois 532
@@ -445,8 +445,8 @@ halunnut 200
 Tykkään 199
 kanssasi 198
 vaikea 198
+tiedän 198
 Teidän 197
-tiedän 197
 kirjoja 196
 menossa 196
 opiskella 195
@@ -477,12 +477,12 @@ lähellä 184
 kanssaan 184
 Sain 183
 lukenut 183
+läpi 183
 lainata 183
 Onpa 183
 jossa 183
 mistä 183
 Ota 183
-läpi 182
 ajaa 182
 mahdollista 182
 mennyt 182
@@ -664,6 +664,7 @@ muutaman 131
 sattuu 130
 varten 130
 sanotaan 130
+katsoi 130
 Kenen 130
 ystäväni 130
 milloin 130
@@ -674,7 +675,6 @@ mielestä 130
 päässä 130
 kertonut 130
 Kuulin 129
-katsoi 129
 mieli 129
 meidät 129
 Teen 128
@@ -2886,6 +2886,7 @@ vastannut 29
 lopettanut 29
 tuottaa 29
 Ensimmäinen 29
+huonoa 29
 Kaikilla 29
 Pyydän 29
 puhuvan 29
@@ -2968,7 +2969,6 @@ neuvoi 28
 sakset 28
 oikeaa 28
 Huomasin 28
-huonoa 28
 kertoja 28
 kaupasta 28
 summa 28
@@ -3704,6 +3704,7 @@ Esperanto 23
 Koirat 23
 ympyrän 23
 Laylan 23
+mää 23
 P 23
 kaukaisuudessa 22
 Norjan 22
@@ -3864,7 +3865,6 @@ huomiotta 22
 tappoivat 22
 haluu 22
 mukaanlukien 22
-mää 22
 Kakun 22
 pääministerin 22
 Tuomaalla 22
@@ -5970,6 +5970,7 @@ kuningatar 13
 nouse 13
 Kone 13
 Sinuna 13
+tietäisin 13
 katkaisi 13
 äännetään 13
 Senkin 13
@@ -6430,7 +6431,6 @@ Hetkinen 12
 nähden 12
 kirkas 12
 Tuomari 12
-tietäisin 12
 korkeintaan 12
 paikkaansa 12
 ajatukset 12

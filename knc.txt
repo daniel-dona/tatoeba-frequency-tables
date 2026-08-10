@@ -578,7 +578,6 @@ taidazә 7
 surin 7
 kәnәm 7
 mazayin 7
-nde 7
 sandǝna 7
 ruh 7
 Shara 7
@@ -693,6 +692,7 @@ kallo 6
 lardәbe 6
 ilmube 6
 wune 6
+nde 6
 gaana 6
 dǝ-a 6
 burobe 6
@@ -1770,7 +1770,6 @@ lenǝmin 3
 Mary 3
 kǝlanzǝro 3
 fujiwo 3
-hitaande 3
 manǝmin 2
 Magǝ 2
 bayanna 2
@@ -2793,7 +2792,6 @@ sasabe 2
 sǝra'ana 2
 lelenzǝ 2
 kәnasartәna 2
-kala 2
 Kajim 2
 cidatǝ 2
 Mountain 2
@@ -3120,7 +3118,6 @@ siyasabe 2
 nyangǝna 2
 hawarbe 2
 kawoye 2
-ngam 2
 diwiye 2
 tәmza'a 2
 sǝraanyi 2
@@ -3200,8 +3197,6 @@ guljin: 2
 Ibrahim 2
 ceno: 2
 Israella 2
-Esperanto 2
-e 2
 sawanǝm 1
 kǝlaye 1
 fandon 1
@@ -7449,6 +7444,7 @@ liwunyibe 1
 daanadǝ 1
 tǝmajo 1
 Superitenda 1
+kala 1
 champion 1
 ciwondo 1
 wiwibe 1
@@ -9895,6 +9891,7 @@ tǝs 1
 katabfa 1
 nowatalan 1
 gaworam 1
+ngam 1
 Godu 1
 shawazayin 1
 Wai 1
@@ -9998,3 +9995,6 @@ tadanzǝ-a 1
 surutsana 1
 fәletәbe 1
 dinba 1
+Dalil 1
+wanәma 1
+asungәnyi 1

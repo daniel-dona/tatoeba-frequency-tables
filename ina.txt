@@ -1,31 +1,31 @@
 le 15802
-es 11762
-un 9523
+es 11767
+un 9531
 de 8734
-ha 6493
-Le 6054
-Io 5677
-in 5428
-non 5329
+ha 6497
+Le 6056
+Io 5679
+in 5429
+non 5332
 que 5169
 e 3641
 del 3410
 a 3396
-tu 3103
+tu 3104
 Tom 3029
 Ille 2413
-me 2304
+me 2306
 io 2143
-Il 1906
+Il 1907
 vos 1904
 lo 1888
 su 1861
 al 1834
 se 1788
 pro 1666
-con 1609
+con 1611
+ille 1540
 plus 1540
-ille 1539
 mi 1367
 pote 1347
 nos 1275
@@ -71,7 +71,7 @@ Non 563
 In 537
 lingua 537
 si 531
-on 519
+on 520
 illa 513
 casa 504
 face 502
@@ -96,8 +96,8 @@ ben 390
 duo 388
 nostre 383
 Si 377
+Deo 375
 tanto 373
-Deo 372
 sin 364
 On 352
 hic 348
@@ -117,7 +117,7 @@ lor 307
 dicer 305
 Su 303
 mal 301
-quando 299
+quando 300
 sempre 297
 crede 296
 cosa 291
@@ -126,12 +126,12 @@ Ha 283
 nove 280
 Qui 279
 annos 271
+personas 269
 libro 268
-personas 268
 persona 264
 besonio 262
+morte 261
 faceva 260
-morte 260
 mangia 260
 catto 257
 haber 256
@@ -299,10 +299,10 @@ tabula 116
 cerca 116
 habe 116
 comenciava 115
+los 114
 possibile 114
 sembla 114
 plen 114
-los 113
 filio 113
 mie 113
 Multe 113
@@ -317,9 +317,9 @@ sed 110
 deman 110
 Toto 110
 ancian 109
+Quante 109
 ego 109
 pare 108
-Quante 108
 adjuta 108
 perdite 108
 scriber 106
@@ -938,6 +938,7 @@ stilo 36
 coco 36
 lasse 36
 grammatica 36
+occidite 35
 laborar 35
 novas 35
 totalmente 35
@@ -962,7 +963,6 @@ deo 35
 gris 35
 alimento 35
 templo 35
-occidite 34
 pejor 34
 responder 34
 expression 34
@@ -1136,6 +1136,7 @@ salata 29
 debera 29
 representa 29
 placia 29
+papa 29
 Russia 29
 etc 29
 Jupiter 29
@@ -1180,7 +1181,6 @@ amicas 28
 pur 28
 salvate 28
 absolute 28
-papa 28
 Etiam 28
 statounitese 28
 totos 28
@@ -1518,6 +1518,7 @@ armas 21
 vapor 21
 compania 21
 cambiava 21
+alcohol 21
 incorrecte 21
 balla 21
 universal 21
@@ -1585,7 +1586,6 @@ carbon 20
 enoia 20
 phantasia 20
 rende 20
-alcohol 20
 comparation 20
 club 20
 solide 20
@@ -1601,6 +1601,7 @@ baby 20
 romanos 20
 corpulente 20
 minuscule 20
+judeo 20
 Philippe 20
 orangette 20
 Cookie 20
@@ -1678,6 +1679,7 @@ saison 19
 Sed 19
 Istos 19
 bollas 19
+WC 19
 Mahomet 19
 ager 18
 estranier 18
@@ -1768,10 +1770,8 @@ Qualque 18
 fider 18
 vincer 18
 Futue 18
-judeo 18
 Cassandra 18
 Wisit 18
-WC 18
 banco 17
 apprecia 17
 incendio 17
@@ -1818,6 +1818,7 @@ basio 17
 detalios 17
 dece-duo 17
 membros 17
+menacia 17
 patria 17
 ad 17
 odiava 17
@@ -1905,7 +1906,6 @@ signal 16
 kilometros 16
 voler 16
 duple 16
-menacia 16
 talento 16
 expectava 16
 san 16
@@ -2282,6 +2282,7 @@ remaner 13
 approchava 13
 touristas 13
 technologia 13
+sposate 13
 laboratorio 13
 Shakespeare 13
 Gaude 13
@@ -2556,6 +2557,7 @@ tracto 12
 islam 12
 violette 12
 muralia 12
+judea 12
 (pro 12
 mulieres 12
 Pella 12
@@ -2614,7 +2616,6 @@ Alcunos 11
 exacte 11
 internet 11
 dece-cinque 11
-sposate 11
 "Esque 11
 entrata 11
 cambio 11
@@ -2724,7 +2725,6 @@ miaula 11
 toxicomano 11
 myrtillo 11
 brunette 11
-judea 11
 australian 11
 extraterrestres 11
 Humanos 11
@@ -2948,6 +2948,7 @@ vespertiliones 10
 pute 10
 pronomine 10
 statouniteses 10
+christiano 10
 futueva 10
 pruri 10
 cool 10
@@ -3137,6 +3138,7 @@ acquisition 9
 isolate 9
 admirabile 9
 adolescente 9
+odor 9
 tirate 9
 appetito 9
 tonitro 9
@@ -3231,7 +3233,6 @@ maga 9
 instruction 9
 parlantes 9
 Saussure 9
-christiano 9
 Dr 9
 obteneva 9
 transgenere 9
@@ -3439,7 +3440,6 @@ principios 8
 contacto 8
 incargate 8
 delicto 8
-odor 8
 saltava 8
 altera 8
 inseniamento 8
@@ -3600,6 +3600,7 @@ fascistas 8
 francese" 8
 anates 8
 Ukraina 8
+musulman 8
 Ido 8
 mordeva 8
 vocabulos 8
@@ -3792,6 +3793,7 @@ culturas 7
 similar 7
 plenilunio 7
 mentes 7
+droga 7
 superviver 7
 Audi 7
 trovarea 7
@@ -4045,7 +4047,6 @@ junkie 7
 nudista 7
 bipolar 7
 televisor 7
-musulman 7
 demente 7
 sexy 7
 barbacoa 7
@@ -4276,7 +4277,6 @@ Eliza 6
 rango 6
 experientias 6
 vicina 6
-droga 6
 patella 6
 surge 6
 distingue 6
@@ -7444,6 +7444,7 @@ João 3
 metaphora 3
 cadentia 3
 magistro 3
+emitte 3
 seriemente 3
 cupa 3
 succutite 3
@@ -7631,6 +7632,7 @@ Visa 3
 diagonal 3
 vespa 3
 gratia 3
+fetide 3
 diminuer 3
 vegetation 3
 Yan 3
@@ -9703,7 +9705,6 @@ Homero 2
 tupi 2
 intelligibile 2
 abominabile 2
-emitte 2
 deficiente 2
 ede 2
 nectare 2
@@ -9997,4 +9998,3 @@ Mars 2
 electoral 2
 aggressive 2
 inflammate 2
-antipathic 2
