@@ -6,7 +6,7 @@ en 8663
 i 8557
 ikke 8171
 har 7721
-du 5485
+du 5486
 til 5222
 det 4971
 på 4963
@@ -46,7 +46,7 @@ Hvad 1162
 blev 1102
 sig 1093
 sin 1088
-ham 1075
+ham 1076
 Har 1042
 Der 1001
 havde 990
@@ -93,8 +93,8 @@ Kan 542
 nu 527
 sagde 526
 kun 523
+dem 517
 ingen 516
-dem 516
 bil 495
 efter 495
 tror 491
@@ -114,8 +114,8 @@ taler 443
 selv 443
 Denne 438
 lige 436
+Hvem 432
 tager 432
-Hvem 431
 bor 430
 se 424
 alt 423
@@ -167,7 +167,7 @@ Hvis 304
 kaffe 303
 bange 301
 sprog 297
-kender 295
+kender 296
 også 289
 hjem 288
 tilbage 287
@@ -931,6 +931,7 @@ Kun 44
 handler 44
 inde 44
 savner 44
+Kender 44
 forskellige 44
 grønne 44
 videre 44
@@ -960,7 +961,6 @@ lykkedes 43
 eget 43
 stærk 43
 glæder 43
-Kender 43
 ked 43
 loftet 43
 plan 43

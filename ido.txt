@@ -1,10 +1,10 @@
-esas 3774
-Me 2843
-la 2635
-ne 1668
-Tom 1366
+esas 3777
+Me 2845
+la 2636
+ne 1670
+Tom 1367
 La 1275
-me 1114
+me 1115
 tu 1068
 Ka 948
 es 762
@@ -30,7 +30,7 @@ El 325
 Mea 319
 vi 284
 kun 274
-savas 263
+savas 264
 plu 262
 de 250
 ni 239
@@ -47,12 +47,12 @@ pri 202
 prizas 199
 el 198
 ol 186
-qua 183
+qua 184
 bela 183
 Vu 166
+Qua 165
 parolas 164
 bezonas 164
-Qua 164
 Pro 163
 amas 160
 libro 159
@@ -95,11 +95,11 @@ Kad 105
 sur 104
 mustas 104
 vidis 103
+pekunio 102
 Maria 102
-pekunio 101
 lernas 101
-homi 99
 ilu 98
+homi 98
 odias 97
 patro 96
 ad 93
@@ -122,8 +122,8 @@ su 83
 Vi 83
 vivo 82
 omno 82
+al 81
 facar 81
-al 80
 esar 79
 mondo 77
 nomo 76
@@ -131,8 +131,8 @@ nomesas 76
 sen 75
 kande 74
 amiko 74
+Deo 74
 matro 73
-Deo 73
 nulo 72
 darfas 71
 kompris 71
@@ -164,8 +164,8 @@ ube 61
 En 61
 Se 59
 Kande 59
+Omna 59
 o 59
-Omna 58
 ja 58
 elu 58
 nultempe 57
@@ -190,11 +190,11 @@ vidar 51
 chambro 51
 manjis 51
 on 51
+mala 51
 quan 50
 kom 50
 morge 50
 drinkas 50
-mala 50
 automobilo 50
 anke 50
 lua 49
@@ -221,11 +221,11 @@ venas 44
 existas 44
 infanti 43
 dormas 43
+savis 43
 ante 43
 rapide 42
 lojas 42
 puerino 42
-savis 42
 dio 42
 filiulo 42
 iris 41
@@ -318,6 +318,7 @@ suno 30
 puero 30
 divenis 30
 infanto 30
+sama 30
 naskis 30
 forta 30
 ulu 30
@@ -325,7 +326,6 @@ Omni 30
 matino 30
 vorti 29
 agar 29
-sama 29
 puerulo 29
 Yes 29
 tablo 28
@@ -356,6 +356,7 @@ importas 26
 portas 26
 semano 26
 nokto 26
+No 26
 chefurbo 26
 savar 26
 vendas 26
@@ -371,7 +372,6 @@ Esis 25
 lago 25
 adheme 25
 Australia 25
-No 25
 helpo 25
 jemeli 25
 onu 25
@@ -396,6 +396,7 @@ tra 23
 respondo 23
 donis 23
 ita 23
+loko 23
 milito 23
 flori 23
 quar 23
@@ -410,7 +411,6 @@ Franciana 23
 Rima 23
 irga 22
 enorma 22
-loko 22
 Forsan 22
 muziko 22
 instruktisto 22
@@ -425,6 +425,7 @@ Multa 21
 lia 21
 heme 21
 yunini 21
+mentias 21
 uzas 21
 spozulo 21
 rizo 21
@@ -466,11 +467,11 @@ Hodie 19
 lito 19
 nigra 19
 Germania 19
-mentias 19
 fratini 19
 ucelo 19
 vartar 19
 maro 19
+Omno 19
 matrala 19
 biblioteko 18
 butiko 18
@@ -489,7 +490,6 @@ longe 18
 telefonilo 18
 min 18
 facos 18
-Omno 18
 floro 18
 Danko 18
 obliviis 18
@@ -541,6 +541,7 @@ mortar 16
 od 16
 saneso 16
 ludar 16
+ponto 16
 Ulu 16
 regardas 16
 larja 16
@@ -551,6 +552,7 @@ rejo 16
 povra 16
 komprenar 16
 apud 16
+religio 16
 Vivez 16
 autismoza 16
 uzar 15
@@ -577,7 +579,6 @@ tarde 15
 sub 15
 dicos 15
 audar 15
-ponto 15
 dormis 15
 natas 15
 lasta 15
@@ -589,7 +590,6 @@ vakua 15
 sucesis 15
 koloro 15
 sango 15
-religio 15
 Kati 15
 "Ka 14
 "Me 14
@@ -850,6 +850,7 @@ vundita 10
 glaso 10
 irgu 10
 letri 10
+Lia 10
 oli 10
 promenar 10
 Latina 10
@@ -870,6 +871,7 @@ frukti 10
 Hispana 10
 Sen 10
 rezidas 10
+deo 10
 faliis 10
 jaluza 10
 Hungariana 10
@@ -941,7 +943,6 @@ Facez 9
 peniso 9
 Lernar 9
 pluvoza 9
-Lia 9
 obskura 9
 plezuro 9
 Hundo 9
@@ -959,7 +960,6 @@ amo 9
 espero 9
 lundio 9
 intencas 9
-deo 9
 prizis 9
 vartas 9
 restas 9
@@ -1867,6 +1867,7 @@ sablo 4
 Obliviez 4
 pantalono 4
 matura 4
+Helpez 4
 lor 4
 junio 4
 decido 4
@@ -2317,7 +2318,6 @@ programaro 3
 heredis 3
 klimato 3
 apta 3
-Helpez 3
 pezas 3
 Irgu 3
 falias 3
@@ -9649,3 +9649,6 @@ pavorez 1
 misuzez 1
 Judulo 1
 Judino 1
+homin 1
+kantabis 1
+futuas 1

@@ -1,7 +1,7 @@
 es 309
 Eo 221
 yn 175
-rhen 159
+rhen 160
 di 120
 Tomos 110
 ill 107
@@ -15,7 +15,7 @@ su 60
 a 57
 yst 46
 mew 44
-eo 43
+eo 44
 Nw 40
 sunt 38
 er 37
@@ -122,6 +122,7 @@ Gion 7
 bod 7
 ti 7
 agur 7
+No 7
 h-yddew 7
 twy 7
 Es-ty 7
@@ -141,7 +142,6 @@ Angh 7
 ystaf 7
 ddef 6
 gwol 6
-No 6
 thud 6
 dy 6
 llinghedig 6
@@ -247,6 +247,7 @@ tuif 4
 kemin 4
 circhan 4
 ddig 4
+sabef 4
 ddewr 4
 saber 4
 opiniwn 4
@@ -357,7 +358,6 @@ american 3
 alchyn 3
 h-ant 3
 morid 3
-sabef 3
 Marth 3
 Se 3
 an 3

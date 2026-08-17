@@ -1,4 +1,4 @@
-je 1235
+je 1234
 se 286
 v 243
 Ali 241
@@ -6,7 +6,7 @@ sem 213
 in 193
 ne 159
 da 142
-so 138
+so 137
 Tom 134
 na 126
 Ne 108
@@ -23,7 +23,7 @@ Govorite 86
 ki 84
 mi 83
 bi 79
-zelo 72
+zelo 70
 glavno 65
 lahko 64
 Jaz 63
@@ -235,7 +235,6 @@ psa 9
 država 9
 mogoče 9
 hvala 9
-pomemben 9
 srce 9
 Dober 8
 pevka 8
@@ -312,6 +311,7 @@ učiteljica 7
 tisoč 7
 Svet 7
 žival 7
+pomemben 7
 obožujejo 7
 celo 7
 zasebna 7
@@ -504,7 +504,6 @@ napake 5
 Amerike 5
 Madžarske 5
 Stranka 5
-organ 5
 ptice 5
 največji 5
 Srce 5
@@ -1013,7 +1012,7 @@ nadzorom 3
 velika 3
 bitja 3
 pevec 3
-Možgani 3
+organ 3
 Naša 3
 Srednje 3
 želvo 3
@@ -1697,6 +1696,7 @@ Taščica 2
 razen 2
 detektiv 2
 slovnica 2
+Možgani 2
 našem 2
 Rjavi 2
 medvedi 2
@@ -3514,7 +3514,6 @@ diham 1
 upam 1
 Izjema 1
 potrjuje 1
-Koža 1
 Tam 1
 kluč 1
 paket 1

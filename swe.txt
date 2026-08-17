@@ -1,8 +1,8 @@
 är 11774
-Jag 11360
+Jag 11362
 att 7173
 Tom 7140
-inte 6992
+inte 6993
 en 5191
 du 5181
 på 4897
@@ -26,7 +26,7 @@ som 1924
 dig 1918
 Vi 1908
 den 1853
-kan 1694
+kan 1695
 av 1620
 Du 1614
 han 1270
@@ -79,7 +79,7 @@ gå 525
 Min 524
 er 518
 från 514
-aldrig 504
+aldrig 505
 någon 484
 gillar 464
 åt 462
@@ -107,7 +107,7 @@ väldigt 378
 när 374
 två 373
 En 365
-kunde 364
+kunde 365
 Vem 360
 efter 357
 Ni 357
@@ -143,8 +143,8 @@ känner 289
 Sami 289
 hjälpa 287
 bor 278
+ditt 278
 tid 277
-ditt 277
 franska 276
 mina 271
 vid 269
@@ -787,6 +787,7 @@ Vänta 42
 ögonen 42
 äpple 42
 dator 42
+kärlek 42
 bär 42
 äldre 42
 skrattade 42
@@ -803,7 +804,6 @@ veckan 41
 förklara 41
 ordet 41
 sängen 41
-kärlek 41
 Ser 41
 blå 41
 dansa 41
@@ -860,6 +860,7 @@ spanska 37
 kött 37
 trettio 37
 långa 37
+hjärta 37
 val 37
 färdigt 37
 Sätt 37
@@ -875,7 +876,6 @@ goda 36
 van 36
 promenad 36
 vart 36
-hjärta 36
 springa 36
 halv 36
 schack 36
@@ -1596,6 +1596,7 @@ förkylning 17
 Fråga 17
 levde 17
 hobby 17
+somnade 17
 kriget 17
 Katter 17
 luft 17
@@ -1662,7 +1663,6 @@ kronor 16
 student 16
 studenter 16
 pris 16
-somnade 16
 deltog 16
 stiga 16
 översättning 16
@@ -2530,6 +2530,7 @@ Skrev 10
 Endast 10
 hantera 10
 deprimerad 10
+krossa 10
 hjärtat 10
 artig 10
 generad 10
@@ -2740,7 +2741,6 @@ ordboken 9
 snygg 9
 lik 9
 raka 9
-krossa 9
 bekräfta 9
 betalat 9
 fjäril 9
@@ -6212,6 +6212,7 @@ drakar 3
 Twitter 3
 överraskningar 3
 Desto 3
+vägra 3
 neka 3
 bortförd 3
 utomjordingar 3
@@ -8143,7 +8144,6 @@ Dödade 2
 Varnade 2
 tidsfråga 2
 kannibaler 2
-vägra 2
 föräldralös 2
 rymdvarelser 2
 utdöd 2

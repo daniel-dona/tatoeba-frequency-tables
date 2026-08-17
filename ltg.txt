@@ -1,4 +1,4 @@
-ir 119
+ir 120
 Es 55
 ka 30
 Tys 29
@@ -17,7 +17,7 @@ kū 18
 nu 17
 cīši 15
 tu 15
-kai 14
+kai 15
 ar 12
 dareit 11
 sovu 11
@@ -37,10 +37,10 @@ napateik 7
 tev 7
 Mes 7
 sevi 7
+jūs 7
 Cylvāki 7
 itū 6
 dīna 6
-jūs 6
 jū 6
 mes 6
 jam 6
@@ -241,6 +241,7 @@ durovys 2
 kačs 2
 Kaids 2
 mans 2
+zyrgs 2
 īneist 2
 drupeit 2
 sīva 2
@@ -262,6 +263,7 @@ Reigā 2
 saprast 2
 baltu 2
 nadzeivoju 2
+skrīn 2
 laiku 2
 vīgli 2
 myusu 2
@@ -812,7 +814,6 @@ laseju 1
 mekleju 1
 izturēt 1
 runuojūšs 1
-zyrgs 1
 skaistas 1
 zilys 1
 acs 1
@@ -984,7 +985,6 @@ nivīns 1
 Kopeja 1
 čajs 1
 Zyrgi 1
-skrīn 1
 Ejmu 1
 kuojom 1
 dzer 1
@@ -1254,3 +1254,9 @@ patiks 1
 Īlīc 1
 veļas 1
 mašynā 1
+Lai 1
+tovs 1
+viejs 1
+Nu 1
+kurīnis 1
+seņči 1

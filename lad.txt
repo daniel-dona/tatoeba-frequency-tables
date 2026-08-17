@@ -1,4 +1,4 @@
-es 336
+es 337
 Tom 186
 un 170
 la 130
@@ -6,13 +6,13 @@ de 128
 El 124
 en 122
 el 117
-No 112
-no 103
+No 113
+no 104
 una 95
 esta 85
 a 84
 La 78
-איס 73
+איס 74
 Los 59
 ke 56
 son 55
@@ -33,7 +33,7 @@ Mi 35
 se 34
 און 32
 לה 30
-las 28
+las 29
 so 27
 plaze 25
 tiene 24
@@ -57,22 +57,22 @@ Kero 19
 Yo 19
 Tengo 19
 Sami 19
+lo 18
 mas 18
 era 18
 Deke 18
-lo 17
 djudios 17
 agua 17
 לוס 17
 aki 16
 inglez 16
 Dio 16
+paras 16
 אין 16
 al 15
 tu 15
 mansana 15
 vos 15
-paras 15
 te 15
 djudia 15
 ambezando 15
@@ -98,6 +98,7 @@ su 12
 vida 12
 le 12
 Vos 12
+Ken 12
 ayi 12
 York 12
 siempre 12
@@ -106,7 +107,6 @@ Ke 12
 vedre 12
 kero 11
 Te 11
-Ken 11
 ir 11
 linguas 11
 gatos 11
@@ -130,6 +130,7 @@ ladron 10
 די 10
 Ay 10
 קי 10
+לאס 10
 emportantes 10
 Todos 10
 arvoles 10
@@ -147,7 +148,6 @@ grande 9
 Este 9
 kalem 9
 איסטו 9
-לאס 9
 akodro 8
 Shabat 8
 madre 8
@@ -338,6 +338,7 @@ munchas 4
 munchos 4
 gerra 4
 bovo 4
+פאראס 4
 alkunya 4
 estas 4
 Avre 4
@@ -366,6 +367,7 @@ Todo 4
 nona 4
 salata 4
 libertad 4
+דייו 4
 Podemos 4
 araba 4
 eran 4
@@ -455,7 +457,6 @@ Keremos 3
 בﬞיאו 3
 בלאנקו 3
 Teman 3
-פאראס 3
 אקי 3
 Avrid 3
 Alguno 3
@@ -512,7 +513,6 @@ kreo 3
 אליגרי 3
 אשכנזי 3
 izo 3
-דייו 3
 puede 3
 טי 3
 ver 3
@@ -523,6 +523,7 @@ Afilu 3
 Rio 3
 akorruto 3
 akodesh 3
+miente 3
 tienes 3
 hazinos 3
 egziste 3
@@ -587,6 +588,7 @@ medra 2
 luz 2
 Nadar 2
 fasil 2
+Sus 2
 Buenas 2
 tadres 2
 Muncho 2
@@ -778,6 +780,7 @@ anarkisto 2
 riko 2
 ריקו 2
 luna 2
+סוס 2
 נורמאלידאד 2
 kuchiyo 2
 בﬞידה 2
@@ -830,7 +833,6 @@ muerta 2
 Buen 2
 בואין 2
 dia 2
-miente 2
 devemos 2
 neshama 2
 alma 2
@@ -1089,7 +1091,6 @@ tyerra 1
 I 1
 buenas 1
 ideas 1
-Sus 1
 demande 1
 amigo 1
 muevas 1
@@ -1615,7 +1616,6 @@ chincha 1
 אייה‎ 1
 manseva 1
 מאנסיבﬞה 1
-סוס 1
 aborresido 1
 אבוריסידﬞו 1
 אבולטארימוס 1
@@ -2470,3 +2470,5 @@ kuento 1
 eroes 1
 Kuantas 1
 matates 1
+dyo 1
+savía 1

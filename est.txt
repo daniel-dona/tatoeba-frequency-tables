@@ -1,4 +1,4 @@
-on 1604
+on 1606
 Ma 953
 ei 758
 Tom 628
@@ -41,8 +41,8 @@ sulle 72
 tahan 72
 meeldib 71
 sind 70
+Kus 70
 kõik 69
-Kus 69
 su 69
 siin 68
 mida 68
@@ -120,11 +120,11 @@ koos 31
 suur 31
 räägin 31
 pealinn 31
+seal 31
 meie 30
 mitte 30
 armastan 30
 mul 30
-seal 30
 elab 30
 ka 29
 siis 29
@@ -249,6 +249,7 @@ vend 16
 teab 16
 öelda 16
 vastu 16
+elu 16
 saab 16
 kogu 16
 aidata 16
@@ -271,7 +272,6 @@ kuidas 15
 teeb 15
 teinud 15
 vanem 15
-elu 15
 vett 15
 töötab 15
 polnud 15
@@ -722,6 +722,7 @@ kümne 5
 ööd 5
 Laual 5
 selga 5
+vesi 5
 lähed 5
 said 5
 ootas 5
@@ -887,7 +888,6 @@ poolest 4
 loom 4
 suu 4
 Nagu 4
-vesi 4
 kiiremini 4
 hobused 4
 otsast 4
