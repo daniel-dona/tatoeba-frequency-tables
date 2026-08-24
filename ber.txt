@@ -1,10 +1,10 @@
-ad 186962
+ad 186963
 n 154201
 d 114927
 ara 92903
 ay 71472
 i 65515
-deg 59747
+deg 59748
 Ur 54297
 ur 49408
 Tom 42501
@@ -106,7 +106,7 @@ srint 2918
 teḥwaj 2904
 Silya 2887
 La 2881
-medden 2866
+medden 2867
 amek 2865
 tura 2859
 wayen 2831
@@ -375,7 +375,7 @@ tankult 952
 tebɣam 952
 ɣseɣ 951
 ameqqran 950
-Ilaq 941
+Ilaq 942
 učči 938
 Win 933
 almi 930
@@ -1042,10 +1042,10 @@ tacirḍart 342
 isett 342
 Atni 339
 Teɣsed 339
+ilin 338
 wakk 338
 Yeḥwaj 338
 nezzeh 338
-ilin 337
 txedmeḍ 337
 Ttxil-wen 337
 Dayen 336
@@ -1946,6 +1946,7 @@ ttgeɣ 172
 takrabaḍt 172
 yettmuqqul 172
 d-afeɣ 172
+gar-asen 172
 ilul 172
 tqerfit 172
 d-tinid 172
@@ -1959,7 +1960,6 @@ yifen 171
 iger 171
 ḥemmlent 171
 yisem 171
-gar-asen 171
 warraw 171
 teččeḍ 171
 yilin 171
@@ -7210,6 +7210,7 @@ kent-iɛawen 42
 takeṛṛust-nnem 42
 nerzu 42
 arraw-nwen 42
+way 42
 tfernemt 42
 Asakal-a 42
 iyi-tɛawnemt 42
@@ -7352,7 +7353,6 @@ Nettwali 41
 tasdawant 41
 iceḍḍiḍen-nwent 41
 Ffɣeɣ-d 41
-way 41
 Tezgamt 41
 Zgant 41
 tbeddem 41

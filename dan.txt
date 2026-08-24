@@ -1,8 +1,8 @@
-er 18009
-Jeg 11457
-at 9228
+er 18014
+Jeg 11461
+at 9230
 Tom 8683
-en 8663
+en 8664
 i 8557
 ikke 8171
 har 7721
@@ -13,7 +13,7 @@ på 4963
 og 3931
 for 3915
 jeg 3740
-Han 3510
+Han 3512
 Det 3493
 var 3419
 med 3348
@@ -28,9 +28,9 @@ dig 2029
 om 1961
 Vi 1926
 I 1910
-Mary 1867
+Mary 1868
 Du 1785
-vil 1772
+vil 1774
 han 1706
 som 1682
 så 1668
@@ -45,7 +45,7 @@ Er 1171
 Hvad 1162
 blev 1102
 sig 1093
-sin 1088
+sin 1089
 ham 1076
 Har 1042
 Der 1001
@@ -55,8 +55,8 @@ Min 958
 din 925
 dag 912
 fra 903
-vi 895
-skal 877
+vi 899
+skal 878
 ud 861
 os 846
 går 844
@@ -93,7 +93,7 @@ Kan 542
 nu 527
 sagde 526
 kun 523
-dem 517
+dem 521
 ingen 516
 bil 495
 efter 495
@@ -123,7 +123,7 @@ alt 423
 gå 420
 god 417
 penge 417
-ser 414
+ser 415
 altid 409
 tage 407
 Sami 407
@@ -142,7 +142,7 @@ far 366
 fransk 366
 set 364
 mor 361
-ind 359
+ind 360
 sit 357
 mennesker 353
 da 349
@@ -155,14 +155,14 @@ Alle 331
 gang 329
 sine 327
 siger 327
-komme 324
+komme 325
 spiser 319
 blevet 318
 gerne 307
 dine 307
 siden 306
 hendes 306
-stadig 304
+stadig 305
 Hvis 304
 kaffe 303
 bange 301
@@ -404,11 +404,11 @@ træt 118
 tak 118
 tidligt 117
 spille 117
+fortælle 116
 Nu 116
 sad 115
 langt 115
 søster 115
-fortælle 114
 ad 114
 høre 113
 løb 113
@@ -489,6 +489,7 @@ regner 95
 par 95
 ihjel 94
 skrev 94
+klar 94
 Skal 94
 vinduet 94
 For 93
@@ -510,7 +511,6 @@ timer 90
 glemt 90
 begynder 90
 film 90
-klar 90
 lyst 90
 rejse 89
 telefon 89
@@ -520,13 +520,13 @@ glad 89
 Ziri 89
 ringe 88
 foretrækker 88
+egen 88
 dræbt 88
 talte 88
 side 88
 Nogle 88
 satte 88
 sker 88
-egen 87
 Sikke 87
 læst 87
 ude 86
@@ -734,6 +734,7 @@ Tror 58
 danse 58
 forkert 58
 ønske 58
+først 58
 sikkert 57
 fjernsyn 57
 Hvilket 57
@@ -743,7 +744,6 @@ boet 57
 sælge 57
 Se 57
 åbne 57
-først 57
 største 57
 værd 57
 består 57
@@ -1236,6 +1236,7 @@ lukkede 32
 sidde 32
 vokser 32
 Kig 32
+fortæller 32
 Vent 31
 nå 31
 sød 31
@@ -1310,7 +1311,6 @@ vasket 30
 hænderne 30
 kysse 30
 såret 30
-fortæller 30
 planet 30
 fyret 30
 tanker 30
@@ -1552,6 +1552,7 @@ anelse 25
 ringet 25
 led 25
 vundet 25
+chef 25
 smartphone 25
 islam 25
 Tilgav 25
@@ -1598,7 +1599,6 @@ græsk 24
 du" 24
 Sådan 24
 åbnet 24
-chef 24
 Amerikanere 24
 Trump 24
 oppe 23
@@ -2991,6 +2991,7 @@ kylling 11
 økologiske 11
 mistænkt 11
 mønter 11
+rotte 11
 Ha' 11
 Fruen 11
 strikket 11
@@ -3239,7 +3240,6 @@ sømmet 10
 foregav 10
 slikkede 10
 fodrede 10
-rotte 10
 soldat 10
 religion 10
 stuearrest 10
@@ -9498,6 +9498,7 @@ Marts 3
 Eksperimentet 3
 Flybilletten 3
 727 3
+Sikkerhed 3
 hostesaft 2
 kyllingesuppe 2
 1912 2
@@ -9997,4 +9998,3 @@ hæfter 2
 feje 2
 otteogtyve 2
 høstede 2
-hårforlængelse 2

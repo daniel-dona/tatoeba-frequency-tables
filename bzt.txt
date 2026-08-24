@@ -1,8 +1,8 @@
 es 309
-Eo 221
-yn 175
-rhen 160
-di 120
+Eo 223
+yn 176
+rhen 161
+di 121
 Tomos 110
 ill 107
 lla 94
@@ -42,12 +42,12 @@ sew 17
 cu 17
 Nu 16
 llifr 16
+ffuin 16
 lw 16
 di'll 16
 ys 16
 Dew 16
 e 16
-ffuin 15
 nonc 15
 wol 15
 gwstr 14
@@ -75,6 +75,7 @@ padr 11
 wid 11
 Yst 11
 Sew 11
+Pab 11
 gos 11
 h-es 11
 negyn 11
@@ -84,7 +85,6 @@ gran 10
 Saesonig 10
 Negyn 10
 nwstr 10
-Pab 10
 sempr 10
 fi 10
 ô 10
@@ -156,6 +156,7 @@ berson 6
 si 6
 arient 6
 Si 6
+wenif 6
 ystafl 6
 peg 6
 manugad 5
@@ -174,7 +175,6 @@ dif 5
 subr 5
 Gwa 5
 afef 5
-wenif 5
 lâ 5
 sorth 5
 iog 5
@@ -398,7 +398,7 @@ fefeirafan 2
 canhaf 2
 fasterig 2
 basterig 2
-pharlant 2
+pharolant 2
 Basterig 2
 'armenar 2
 h-ôn 2
@@ -424,6 +424,7 @@ phab 2
 compran 2
 ros 2
 iogan 2
+sentfent 2
 ffaeth 2
 inelleith 2
 ddragun 2
@@ -589,6 +590,7 @@ Ffeirth 2
 sia 2
 ynisaf 2
 passad 2
+mharol 2
 klingon 2
 k'lwg 2
 baref 2
@@ -742,7 +744,6 @@ cherfel 1
 h-ystran 1
 lew 1
 phlant 1
-sentfent 1
 nghompren 1
 pib 1
 mengyb 1
@@ -1270,10 +1271,9 @@ Scura 1
 ngherchafan 1
 wolerent 1
 wolafant 1
-singiwir 1
+singhuir 1
 Ôlid 1
 Ôlidath 1
-mharol 1
 Persig 1
 milides 1
 annibenhal 1
@@ -1422,3 +1422,5 @@ gristian 1
 d'yddew 1
 Fusulfan 1
 as-ty 1
+phassant 1
+Giaponuis 1
