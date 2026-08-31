@@ -1,4 +1,4 @@
-va 960
+va 961
  936
 Va 698
 tir 604
@@ -16,7 +16,7 @@ Tom 123
 zo 109
 pu 101
 gu 97
-batcoba 91
+batcoba 92
 is 85
 Me 81
 tigir 65
@@ -39,7 +39,7 @@ Toklize 41
 dam 41
 sin 41
 tokcoba 38
-til 37
+til 38
 : 36
 di 34
 Bat 33
@@ -70,9 +70,9 @@ blira 26
 bartiv 26
 albá 26
 ava 25
+Ede 25
 direm 25
 loon 24
-Ede 24
 erba 24
 min 23
 ok 23
@@ -6330,3 +6330,5 @@ dralucaova 1
 gruye 1
 milaf 1
 raveneem 1
+doplekul 1
+divulapaf 1

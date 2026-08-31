@@ -1,12 +1,12 @@
-le 15805
-es 11773
-un 9534
+le 15807
+es 11774
+un 9536
 de 8734
-ha 6506
-Le 6059
-Io 5684
+ha 6508
+Le 6060
+Io 5686
 in 5430
-non 5337
+non 5338
 que 5169
 e 3641
 del 3410
@@ -19,7 +19,7 @@ io 2144
 Il 1908
 vos 1904
 lo 1888
-su 1861
+su 1860
 al 1835
 se 1788
 pro 1666
@@ -29,7 +29,7 @@ plus 1540
 mi 1367
 pote 1347
 nos 1275
-Nos 1162
+Nos 1164
 multo 1150
 esseva 1147
 iste 1110
@@ -46,17 +46,17 @@ Iste 823
 illo 810
 era 789
 habeva 731
-esser 728
+esser 731
 Que 719
 debe 706
 blau 706
 Mi 695
 multe 692
 qui 661
-son 653
+son 654
 Illes 646
 Isto 645
-Illo 610
+Illo 611
 sape 609
 Un 609
 super 607
@@ -223,7 +223,7 @@ musica 158
 tosto 157
 vide 156
 juvene 156
-mais 155
+mais 156
 problema 153
 illac 150
 infante 150
@@ -260,8 +260,8 @@ etiam 133
 castello 133
 vices 132
 Boston 132
-fratre 131
 gente 131
+fratre 130
 homines 129
 ulle 128
 forte 127
@@ -282,6 +282,7 @@ lege 120
 esserea 120
 Nostre 120
 Pote 120
+human 119
 horas 119
 hora 119
 quasi 119
@@ -291,7 +292,6 @@ sapeva 118
 vice 118
 trovar 118
 viver 118
-human 117
 parte 117
 habita 117
 odia 117
@@ -777,6 +777,7 @@ visitar 42
 lentemente 42
 functiona 42
 bibliotheca 42
+false 42
 sole 42
 periculose 42
 dolor 42
@@ -798,7 +799,6 @@ senior 41
 classe 41
 – 41
 lassa 41
-false 41
 legeva 41
 contar 41
 fide 41
@@ -833,6 +833,7 @@ distantia 40
 attende 40
 empleo 40
 autor 40
+soleva 40
 septe 40
 travalia 40
 horologio 40
@@ -880,7 +881,6 @@ Europa 38
 studiava 38
 partiva 38
 ideas 38
-soleva 38
 vacantias 38
 avion 38
 retardo 38
@@ -892,6 +892,7 @@ sequer 38
 necesse 38
 sonios 38
 gratiose 38
+occidite 37
 John 37
 rememora 37
 lassava 37
@@ -939,7 +940,6 @@ stilo 36
 deo 36
 coco 36
 grammatica 36
-occidite 35
 laborar 35
 novas 35
 totalmente 35
@@ -1407,6 +1407,7 @@ epocha 23
 fiction 23
 Italia 23
 Africa 23
+humanos 23
 Amor 23
 rosa 23
 fede 23
@@ -1454,7 +1455,6 @@ occidental 22
 ebrie 22
 placite 22
 passos 22
-humanos 22
 suffice 22
 pecia 22
 urso 22
@@ -3354,6 +3354,7 @@ contante 8
 baseball 8
 Lava 8
 camminos 8
+reges 8
 quarto 8
 sensibilitate 8
 olla 8
@@ -3725,7 +3726,6 @@ Existe 7
 nuces 7
 billet 7
 potabile 7
-reges 7
 Certemente 7
 jocante 7
 bureau 7
@@ -4330,6 +4330,7 @@ Quicunque 6
 improbabile 6
 accidentes 6
 acido 6
+humano 6
 Hiberno 6
 tapete 6
 sauce 6
@@ -4967,7 +4968,6 @@ agitate 5
 replica 5
 chimia 5
 disavantages 5
-humano 5
 alien 5
 reservas 5
 anello 5
@@ -5373,7 +5373,6 @@ dentifricio 5
 nigrette 5
 guarani 5
 marihuana 5
-Putin 5
 ollero 5
 ultramoderne 5
 kami 5
@@ -5431,6 +5430,7 @@ chec 5
 cenava 5
 Leaderes 5
 guerrero 5
+haiku 5
 sideva 5
 tataro 5
 pregnantia 4
@@ -6428,6 +6428,7 @@ yucatec 4
 boschetto 4
 redole 4
 cocaina 4
+Putin 4
 Rāgarāja 4
 chineses 4
 astrobiologia 4
@@ -6513,7 +6514,6 @@ hot 4
 Va; 4
 telephono" 4
 seminate 4
-haiku 4
 molestar 4
 dinosauro 4
 Sen 4

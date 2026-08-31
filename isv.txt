@@ -3,7 +3,7 @@ Ja 238
 ne 179
 jesm 119
 Tom 113
-v 94
+v 93
 Ty 87
 je 87
 se 79
@@ -14,7 +14,7 @@ Vy 55
 sut 55
 Ona 49
 jesi 43
-Ја 42
+Ја 43
 i 37
 s 35
 to 34
@@ -37,7 +37,7 @@ ješče 20
 Bog 19
 byla 19
 Toma 19
-не 18
+не 19
 mnogo 17
 Čemu 17
 јесм 17
@@ -213,7 +213,6 @@ nam 4
 glupec 4
 znam 4
 ljubim 4
-brata 4
 zlo 4
 mojih 4
 očah 4
@@ -341,6 +340,7 @@ te 3
 Mnoge 3
 govorim 3
 žiti 3
+brata 3
 blizneca 3
 vsegda 3
 izuča 3
@@ -627,7 +627,6 @@ važna 2
 град 2
 находи 2
 јеси 2
-Putin 2
 vojnu 2
 madjarsky 2
 ujgursky 2
@@ -1919,6 +1918,7 @@ Afrikanci 1
 здрава 1
 слаба 1
 umorjeni 1
+Putin 1
 vojenny 1
 zločinec 1
 zvězdny 1
@@ -2195,9 +2195,6 @@ taki 1
 uviděl 1
 akulu 1
 Ohio 1
-jebe 1
-svojego 1
-prdak 1
 jajce 1
 Odstrani 1
 konto 1
@@ -2452,3 +2449,5 @@ zly 1
 stala 1
 стала 1
 japonsky 1
+говорим 1
+јапонску 1

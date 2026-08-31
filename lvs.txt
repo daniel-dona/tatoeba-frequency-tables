@@ -1,5 +1,5 @@
 ir 4135
-Es 3123
+Es 3124
 Toms 1452
 ka 1310
 to 1279
@@ -8,7 +8,7 @@ Man 1102
 es 943
 tu 899
 un 868
-Viņš 858
+Viņš 860
 par 772
 bija 768
 man 750
@@ -43,7 +43,7 @@ viņa 278
 bet 273
 var 261
 Esmu 254
-viņu 251
+viņu 252
 patīk 246
 kaut 245
 pārāk 240
@@ -158,11 +158,11 @@ manu 76
 dzīvo 75
 mūsu 75
 līdz 73
+runāt 73
 negribu 72
 dzīvot 71
 gandrīz 71
 valodu 71
-runāt 71
 viegli 71
 Ar 70
 cik 69
@@ -449,6 +449,7 @@ Tam 25
 starp 25
 uzmanību 25
 ceru 24
+spēj 24
 problēmu 24
 ūdens 24
 aizmirsu 24
@@ -473,7 +474,6 @@ atpūsties 24
 Esi 24
 tāpēc 24
 sāp 24
-spēj 23
 visas 23
 izdarīja 23
 reizi 23
@@ -610,6 +610,7 @@ draugi 18
 angliski 18
 alu 18
 gaidīt 18
+desmit 18
 stundas 18
 draugu 18
 spēli 18
@@ -688,7 +689,6 @@ iespēju 16
 dzīvnieki 16
 suni 16
 bērni 16
-desmit 16
 miegains 16
 Viens 16
 beidzot 16
@@ -877,6 +877,7 @@ tomēr 13
 iepriekš 13
 bērniem 13
 skumji 13
+prot 13
 olas 13
 jūties 13
 Vienkārši 13
@@ -941,7 +942,6 @@ palīdzēja 12
 nespēja 12
 kādā 12
 Izvēlies 12
-prot 12
 kādas 12
 pilsētā 12
 izdarīji 12
@@ -2031,6 +2031,7 @@ nogurdinoši 6
 neciešams 6
 padarīt 6
 nožēlojami 6
+valodās 6
 nākamreiz 6
 banāli 6
 normāls 6
@@ -2541,6 +2542,7 @@ miegs 5
 strādājot 5
 sākās 5
 komandā 5
+darīšanās 5
 ietekmēt 5
 pusēm 5
 skumjš 5
@@ -3249,10 +3251,8 @@ pazemot 4
 laimīgi 4
 savienojums 4
 Taivāna 4
-darīšanās 4
 dūmiem 4
 jātiek 4
-valodās 4
 nedrīkstam 4
 neieredzu 4
 atrasties 4
@@ -6962,6 +6962,7 @@ Plastmasas 2
 novērtē 2
 Nekādu 2
 paspēju 2
+nejaucos 2
 apvainojās 2
 nepadodies 2
 izcepu 2
@@ -9997,4 +9998,3 @@ apaugļošanai 1
 indivīds 1
 Plaši 1
 laivas 1
-Laikraksta 1

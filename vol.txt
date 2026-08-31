@@ -19,7 +19,7 @@ olik 146
 at 144
 ko 141
 Kisi 132
-vemo 126
+vemo 127
 Binob 111
 Vilob 110
 ob 110
@@ -67,7 +67,7 @@ moni 56
 kil 55
 Kiöp 55
 Tomasi 55
-binol 52
+binol 53
 nu 52
 binön 52
 tel 51
@@ -140,12 +140,12 @@ kömön 31
 vifiko 30
 usi 30
 sod 30
+atosi 30
 esagom 30
 fat 29
 Fat 29
 nedom 29
 löfob 29
-atosi 29
 Boston 29
 it 29
 tikol 29
@@ -335,6 +335,7 @@ lilön 13
 bodi 13
 oma 13
 Nem 13
+If 13
 püki 13
 kanon 13
 ot 13
@@ -359,7 +360,6 @@ mateli 12
 Li-logol 12
 cil 12
 Nolobs 12
-If 12
 Binos-li 12
 äkanom 12
 Li-nolol 12
@@ -948,6 +948,7 @@ Olemob 4
 beginön 4
 Dotob 4
 Pükon 4
+bisarik 4
 vilobs 4
 lödof 4
 numavi 4
@@ -1224,7 +1225,6 @@ kanitel 3
 tikolöd 3
 flentel 3
 elemom 3
-bisarik 3
 gepükön 3
 neito 3
 elautom 3
@@ -5259,3 +5259,4 @@ Sumolsöd 1
 Studof 1
 foginäno 1
 spikof 1
+suemol 1

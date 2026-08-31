@@ -1,4 +1,4 @@
-je 1933
+je 1935
 se 706
 u 647
 sam 534
@@ -17,9 +17,9 @@ za 184
 što 184
 si 183
 od 171
-On 161
+On 162
 ti 144
-To 134
+To 135
 te 132
 me 128
 smo 124
@@ -33,8 +33,8 @@ bi 102
 bio 88
 o 88
 ga 81
+ima 75
 biti 74
-ima 74
 mogu 69
 Tko 68
 Jesi 68
@@ -49,9 +49,9 @@ Zašto 59
 ali 58
 uvijek 56
 Želim 56
+Imam 56
 bih 56
 dobro 55
-Imam 55
 Kako 54
 kako 54
 ići 53
@@ -112,6 +112,7 @@ vidjeti 34
 moja 33
 kada 33
 tu 33
+knjigu 33
 mene 33
 ćeš 33
 Nije 33
@@ -119,7 +120,6 @@ učiniti 33
 taj 32
 ništa 32
 doći 32
-knjigu 32
 Mislim 32
 Ti 32
 Toma 32
@@ -186,13 +186,13 @@ ovu 23
 Ima 23
 dok 23
 tvoje 22
+tri 22
 dijete 22
 tome 22
 Ovaj 22
 trebao 22
 Imaš 22
 Mi 21
-tri 21
 novac 21
 Uvijek 21
 govori 21
@@ -228,6 +228,7 @@ svojoj 18
 volim 18
 često 18
 školu 18
+psa 18
 znati 18
 govoriti 18
 knjige 18
@@ -248,7 +249,6 @@ bez 17
 Sviđa 17
 Nema 17
 sviđa 17
-psa 17
 rano 17
 ostati 17
 napraviti 17
@@ -431,6 +431,7 @@ Otišao 10
 postoji 10
 Koja 10
 njemački 10
+prozor 10
 bolestan 10
 Dao 10
 vole 10
@@ -486,7 +487,6 @@ imati 9
 stići 9
 omiljeni 9
 Evo 9
-prozor 9
 opasnosti 9
 možda 9
 Neka 9
@@ -661,6 +661,7 @@ priču 7
 jeo 7
 ljudima 7
 onda 7
+Sunce 7
 star 7
 kraju 7
 voda 7
@@ -771,7 +772,6 @@ obično 6
 doba 6
 radim 6
 cvijeće 6
-Sunce 6
 uskoro 6
 tog 6
 van 6
@@ -8949,3 +8949,4 @@ smiješi 1
 Banke 1
 zatvorene 1
 zdrav 1
+žuto 1

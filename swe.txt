@@ -283,9 +283,9 @@ böcker 126
 just 126
 På 126
 tiden 125
-fråga 125
 ord 124
 Gå 124
+fråga 124
 precis 124
 bok 123
 Får 123
@@ -523,6 +523,7 @@ Vilka 65
 musik 65
 person 64
 mår 64
+be 64
 Japan 64
 ringde 64
 död 64
@@ -540,7 +541,6 @@ stannade 63
 sov 63
 lär 63
 svar 63
-be 63
 kul 63
 skriver 62
 vin 62
@@ -906,6 +906,7 @@ Tatoeba 35
 personer 35
 leka 35
 Snälla 35
+vänlig 35
 vattnet 35
 finska 35
 öppen 35
@@ -936,7 +937,6 @@ före 34
 ändå 34
 översätta 34
 överens 34
-vänlig 34
 Livet 34
 Hämta 34
 modersmål 34
@@ -1096,6 +1096,7 @@ Tyskland 28
 kall 28
 Ring 28
 glass 28
+ställer 28
 drog 28
 svarade 28
 all 28
@@ -1175,7 +1176,6 @@ Gjorde 26
 öga 26
 Skriv 26
 humör 26
-ställer 26
 Stockholm 26
 plånbok 25
 själva 25
@@ -1322,7 +1322,6 @@ Trots 22
 varm 22
 vinner 22
 istället 22
-frågar 22
 euro 22
 lyckliga 22
 fest 22
@@ -1416,6 +1415,7 @@ skjuta 20
 Kanada 20
 rörde 20
 kolla 20
+frågar 20
 närvarande 20
 Visst 20
 kropp 20
@@ -2785,7 +2785,6 @@ Försvinn 9
 nuförtiden 9
 Tio 9
 hoppades 9
-vänliga 9
 kämpa 9
 begå 9
 mus 9
@@ -3069,6 +3068,7 @@ flyttar 8
 sekunder 8
 Ormen 8
 kastrullen 8
+vänliga 8
 papperet 8
 internet 8
 dömdes 8

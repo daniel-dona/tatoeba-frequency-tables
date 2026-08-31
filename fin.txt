@@ -1,5 +1,5 @@
 on 29513
-ei 10809
+ei 10810
 Tom 9931
 Hän 8492
 ja 6916
@@ -100,7 +100,7 @@ On 806
 puhua 802
 tietää 798
 te 793
-liian 790
+liian 789
 Tomia 776
 Tomille 756
 osaa 755
@@ -224,8 +224,8 @@ itse 370
 voinut 369
 kaiken 369
 vanha 366
+kiinni 364
 puhuu 364
-kiinni 363
 tapahtui 363
 joten 362
 kerran 362
@@ -389,11 +389,11 @@ lisää 230
 Eikö 229
 vastaan 229
 teitä 227
+liikaa 225
 otti 225
 tekemään 225
 Tomista 225
 lähti 224
-liikaa 224
 uusi 224
 voit 224
 oikeassa 224
@@ -2251,7 +2251,6 @@ leikata 38
 ääneen 38
 Maa 38
 Sitten 38
-varattu 38
 muistan 38
 osaavat 38
 läsnä 38
@@ -2307,6 +2306,7 @@ kävelyllä 37
 pukeutunut 37
 kantaa 37
 siisti 37
+varattu 37
 tietoa 37
 kauhean 37
 tuntemaan 37
@@ -8200,6 +8200,7 @@ aiheesta 9
 esineet 9
 Osaisinpa 9
 aivot 9
+muissa 9
 taivaalta 9
 veljeäni 9
 Seuratkaa 9
@@ -8312,6 +8313,7 @@ kiirehdi 9
 koskettaa 9
 ajoista 9
 Sveitsissä 9
+asioissa 9
 hullua 9
 soitat 9
 Liisaa 9
@@ -9050,7 +9052,6 @@ Nouskaa 8
 Lähetin 8
 paperit 8
 Näillä 8
-muissa 8
 nolla 8
 päivin 8
 kieliopin 8
@@ -9599,7 +9600,6 @@ näinä 8
 raapia 8
 henkilökohtainen 8
 Pysähdy 8
-asioissa 8
 hymyile 8
 palaamaan 8
 jatkuva 8
