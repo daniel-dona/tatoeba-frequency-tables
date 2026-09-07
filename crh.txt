@@ -1,7 +1,7 @@
 Men 78
 O 56
 edi 43
-ne 37
+ne 38
 bar 36
 Bu 33
 bir 31
@@ -19,12 +19,12 @@ Olar 14
 да 13
 suvuq 13
 yaşında 12
+Bugün 12
 on 12
 oldı 12
 kerek 12
 Menim 11
 я 11
-Bugün 11
 yoq 10
 er 10
 de 10
@@ -422,6 +422,9 @@ aqta 2
 köpeginiñ 2
 aynı 2
 çıqarıp 2
+mektepke 2
+Mektepte 2
+ögrendiñiz 2
 padişanıñ 1
 oğlu 1
 eken 1
@@ -2006,7 +2009,8 @@ etilgeniniñ 1
 yıldönümi 1
 qayd 1
 etile 1
-mektepke 1
 qızına 1
 oğluna 1
 mışığınıñ 1
+kelmeycem 1
+neler 1

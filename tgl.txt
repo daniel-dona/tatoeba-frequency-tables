@@ -1,32 +1,32 @@
-ang 35275
-sa 27980
-ng 26516
-na 16794
+ang 35277
+sa 27984
+ng 26518
+na 16798
 po 13868
-ko 12696
-mga 12301
-Tom 9643
-si 8973
-ako 8401
-mo 6344
-ni 6303
-Hindi 6107
+ko 12699
+mga 12303
+Tom 9646
+si 8974
+ako 8402
+mo 6346
+ni 6304
+Hindi 6108
 at 5494
 ba 5351
-niya 4913
-ay 4739
+niya 4914
+ay 4740
 ito 4671
 siya 4645
 May 4072
 nang 3740
-Ang 3689
-ka 3670
+Ang 3690
+ka 3673
 hindi 3059
 akong 2893
-isang 2871
+isang 2873
 may 2764
 ninyo 2618
-kong 2568
+kong 2570
 para 2494
 kung 2455
 Sa 2231
@@ -44,15 +44,15 @@ kanyang 1473
 Wala 1426
 kami 1425
 siyang 1414
-lahat 1398
+lahat 1400
 nila 1335
 sila 1307
 natin 1262
 tayo 1222
 bahay 1215
-Kailangan 1195
+Kailangan 1196
 Ano 1086
-kay 1074
+kay 1075
 ngayon 1062
 Huwag 1023
 bang 1016
@@ -123,7 +123,7 @@ raw 476
 tayong 474
 Si 470
 kahit 467
-Ayaw 464
+Ayaw 465
 libro 463
 nating 452
 hanggang 452
@@ -135,7 +135,7 @@ kita 439
 nakita 432
 sasakyan 430
 tubig 427
-Isa 426
+Isa 427
 bagong 424
 sarili 424
 aso 423
@@ -170,8 +170,8 @@ kaibigan 360
 Baka 359
 Mahilig 359
 Kaya 359
+malaking 358
 daw 358
-malaking 357
 labas 357
 iyong 355
 inyo 350
@@ -231,7 +231,7 @@ lugar 261
 asawa 259
 Kumain 258
 librong 256
-nilang 255
+nilang 256
 kahapon 254
 hapon 254
 sinabi 253
@@ -243,9 +243,9 @@ paano 248
 ginagawa 247
 bakit 244
 Maaari 240
+Akala 240
 Tomas 240
 problema 239
-Akala 239
 Kumakain 239
 bintana 238
 lalaking 238
@@ -258,8 +258,8 @@ daan 236
 Siya 234
 damit 234
 Istarbak 234
+batang 233
 wikang 233
-batang 232
 Sana 232
 magsalita 232
 isda 229
@@ -292,7 +292,7 @@ tindahan 206
 Sinong 201
 talagang 201
 kapitbahay 200
-salita 199
+salita 200
 huwag 198
 gumawa 197
 linggo 197
@@ -332,9 +332,9 @@ Ikaw 177
 magulang 176
 guro 175
 mayroon 174
+bumili 174
 Para 174
 pupunta 173
-bumili 173
 maganda 171
 salamin 171
 Iyan 171
@@ -345,6 +345,7 @@ galing 168
 kusina 168
 kitang 167
 mansanas 167
+Kailan 165
 ayaw 165
 Esperanto 165
 niyan 165
@@ -352,13 +353,12 @@ kapihan 165
 Naroon 165
 nangyari 164
 malapit 164
+masaya 164
 ulo 164
 yelo 164
-Kailan 163
+sinasabi 163
 isip 163
-masaya 163
-sinasabi 162
-paborito 162
+paborito 163
 Masyado 161
 dalawa 159
 hayop 157
@@ -385,7 +385,7 @@ aming 146
 atin 146
 Marunong 146
 lawa 146
-paaralan 143
+paaralan 144
 plano 143
 lakas 143
 estudyante 142
@@ -519,11 +519,11 @@ kuya 108
 gamitin 107
 Pinag-usapan 107
 laman 107
+sapatos 107
 Kapag 107
 pagsusulit 106
 bundok 106
 likod 106
-sapatos 106
 lengguwahe 106
 mahilig 106
 Nestor 106
@@ -564,12 +564,12 @@ dilim 100
 paraan 100
 paligid 100
 susi 100
+lungsod 100
 Sigurado 99
 malakas 99
 kinain 99
 Magandang 99
 Tatlong 99
-lungsod 99
 Nawala 98
 mainit 98
 tunay 98
@@ -635,6 +635,7 @@ iyang 88
 madalas 88
 madaling-araw 88
 gaano 87
+sasabihin 87
 Mahirap 87
 maleta 87
 ikaw 87
@@ -643,7 +644,6 @@ binti 87
 bukid 87
 dating 87
 tema 87
-sasabihin 86
 pagkakataon 86
 elepante 86
 ganyan 86
@@ -727,6 +727,7 @@ tapos 77
 takot 77
 Juan 77
 iba-ibang 77
+Masaya 77
 tatlo 77
 nahanap 77
 pagitan 77
@@ -734,7 +735,6 @@ Portuges 77
 Tsinong 77
 kalusugan 76
 Takot 76
-Masaya 76
 pulisya 76
 Tsino 76
 plaslayt 76
@@ -873,6 +873,7 @@ ganoong 64
 pakiramdam 64
 Nahuli 64
 nagsasalita 64
+narinig 64
 naglalakad 64
 Marte 64
 "Hindi 64
@@ -884,7 +885,6 @@ sombrero 63
 Buong 63
 madali 63
 makipag-usap 63
-narinig 63
 kainin 63
 tsip 63
 Marso 63
@@ -1129,6 +1129,7 @@ Pilipinang 50
 tindera 50
 Simon 50
 ibahin 50
+kasi 49
 Naaalala 49
 alagaan 49
 ulap 49
@@ -1154,7 +1155,6 @@ iba't-ibang 49
 mahiwagang 49
 Kastilang 49
 rati 49
-kasi 48
 hinahanap 48
 Malakas 48
 Nakaupo 48
@@ -1179,6 +1179,7 @@ kalawakan 47
 malinis 47
 tumakbo 47
 paninigarilyo 47
+tumira 47
 Brasil 47
 buko 47
 itaas 47
@@ -1206,7 +1207,6 @@ Nais 46
 dumaan 46
 numero 46
 hawak 46
-tumira 46
 katapusan 46
 kinakausap 46
 Griyego 46
@@ -1347,6 +1347,7 @@ timbang 42
 bangketa 42
 puwet 42
 nawala 41
+'yan 41
 makikita 41
 Bukas 41
 Dumaan 41
@@ -1389,7 +1390,6 @@ pasado 41
 mag-alala 40
 Ginoong 40
 Pagod 40
-'yan 40
 panaginip 40
 hintayin 40
 mo" 40
@@ -1435,6 +1435,7 @@ Nanalo 39
 ako'y 39
 pagbabasa 39
 Binasa 39
+luma 39
 paruparo 39
 kalimutan 39
 Nagbebenta 39
@@ -1469,7 +1470,6 @@ bituin 38
 lapis 38
 akala 38
 gising 38
-luma 38
 pinya 38
 bolpen 38
 oso 38
@@ -1892,6 +1892,7 @@ maalala 29
 nagustuhan 29
 pista 29
 personal 29
+kumakanta 29
 posibilidad 29
 palaka 29
 bilhin 29
@@ -1944,7 +1945,6 @@ itsura 28
 Tinulungan 28
 ubas 28
 Yaong 28
-kumakanta 28
 bastos 28
 Parati 28
 magasin 28
@@ -2036,6 +2036,7 @@ tila 27
 Ibinaba 27
 labag 27
 Itim 27
+nawawala 27
 O 27
 Nawa'y 27
 ugat 27
@@ -2104,7 +2105,6 @@ mahigpit 26
 makapasok 26
 inimbitahan 26
 Bibliya 26
-nawawala 26
 Chris 26
 protektahan 26
 Sarah 26
@@ -2721,6 +2721,7 @@ lalamunan 19
 bakod 19
 tapusin 19
 magkano 19
+'yo 19
 Sige 19
 Tumutugtog 19
 Sinundan 19
@@ -2843,7 +2844,6 @@ mamamatay 18
 Kakaiba 18
 depende 18
 hanggan 18
-'yo 18
 makarating 18
 lumipad 18
 Naglakad-lakad 18
@@ -3197,6 +3197,7 @@ Hawaii 16
 katunayan 16
 natagpo 16
 puro 16
+Hinanap 16
 Ganyan 16
 ganang 16
 kataas 16
@@ -3369,7 +3370,6 @@ dakilang 15
 kahawig 15
 guwapo 15
 mamimili 15
-Hinanap 15
 Sansinukob 15
 Ay 15
 nuwebe 15
@@ -4434,6 +4434,7 @@ Pinakiusapan 11
 magmukhang 11
 magkasundo 11
 Washington 11
+uuwi 11
 daanan 11
 natalo 11
 isáng 11
@@ -4738,7 +4739,6 @@ tinatago 10
 sumang-ayon 10
 Iabot 10
 ipaayos 10
-uuwi 10
 labasan 10
 Bahay 10
 bilihin 10
@@ -4766,6 +4766,7 @@ ikakasal 10
 Ikinasal 10
 itatanong 10
 sirko 10
+pares 10
 pagtitiwala 10
 Sinuri 10
 Itinayo 10
@@ -5154,7 +5155,6 @@ tanyag 9
 Rusya 9
 nasunog 9
 atbp 9
-pares 9
 naglaro 9
 prinsesa 9
 pang-araw-araw 9
@@ -6678,6 +6678,7 @@ bota 7
 reserbang 7
 liit-liit 7
 magulang; 7
+sira-sira 7
 paninda 7
 Malalagpasan 7
 Limampung 7
@@ -7072,6 +7073,7 @@ Ginalit 6
 ginataang 6
 "Akala 6
 He 6
+pupuntahan 6
 tatsulok 6
 kabilugan 6
 umaalis 6
@@ -7497,7 +7499,6 @@ Nagsalitan 6
 laso 6
 karunong 6
 teknik 6
-sira-sira 6
 sumuporta 6
 Dinepensahan 6
 pambabatikos 6
@@ -7760,6 +7761,7 @@ Pakisara 5
 birtud 5
 maalaman 5
 Angeles 5
+Bahala 5
 Paalam 5
 kalimitang 5
 niya" 5
@@ -8123,7 +8125,6 @@ Papayagan 5
 nakasintas 5
 Gawang 5
 sanlibutan 5
-pupuntahan 5
 24 5
 mababaw 5
 mapasainyo 5
@@ -8871,7 +8872,6 @@ Magmaneho 4
 umaagos 4
 Alis 4
 Makina 4
-Bahala 4
 Nakakatuwang 4
 Tumindig 4
 nag-asawa 4

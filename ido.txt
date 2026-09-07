@@ -1,6 +1,6 @@
 esas 3778
 Me 2848
-la 2636
+la 2637
 ne 1670
 Tom 1368
 La 1275
@@ -99,8 +99,8 @@ pekunio 102
 Maria 102
 lernas 101
 ilu 98
+odias 98
 homi 98
-odias 97
 patro 96
 ad 93
 multe 92
@@ -313,6 +313,7 @@ nek 31
 ofte 31
 divenis 31
 kaptis 31
+Omni 31
 Tatoeba 30
 omni 30
 suno 30
@@ -322,7 +323,6 @@ sama 30
 naskis 30
 forta 30
 ulu 30
-Omni 30
 matino 30
 vorti 29
 agar 29
@@ -1218,6 +1218,7 @@ facenda 7
 fenestri 7
 foresto 7
 Germaniana 7
+policistaro 7
 repteri 7
 homino 7
 kulo 7
@@ -1373,7 +1374,6 @@ valo 6
 sive 6
 latrino 6
 lego 6
-policistaro 6
 fetidesas 6
 alkoholo 6
 mondumo 6

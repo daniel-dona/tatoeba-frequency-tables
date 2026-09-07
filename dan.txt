@@ -1,17 +1,17 @@
 er 18014
 Jeg 11461
-at 9230
+at 9231
 Tom 8683
 en 8664
 i 8557
 ikke 8171
-har 7721
-du 5486
+har 7722
+du 5488
 til 5222
 det 4971
 på 4963
 og 3931
-for 3915
+for 3916
 jeg 3740
 Han 3512
 Det 3493
@@ -22,7 +22,7 @@ et 3273
 mig 3200
 kan 2653
 den 2337
-der 2334
+der 2335
 Hun 2231
 dig 2029
 om 1961
@@ -42,7 +42,7 @@ her 1281
 de 1196
 Hvor 1191
 Er 1171
-Hvad 1162
+Hvad 1164
 blev 1102
 sig 1093
 sin 1089
@@ -85,9 +85,9 @@ kunne 588
 Toms 583
 man 576
 gøre 571
-aldrig 566
+aldrig 567
 eller 565
-En 556
+En 557
 tre 548
 Kan 542
 nu 527
@@ -97,7 +97,7 @@ dem 521
 ingen 516
 bil 495
 efter 495
-tror 491
+tror 492
 mit 491
 Dette 489
 Lad 480
@@ -108,8 +108,8 @@ hund 461
 mine 460
 brug 453
 hans 449
+dette 447
 morgen 446
-dette 446
 taler 443
 selv 443
 Denne 438
@@ -117,8 +117,8 @@ lige 436
 Hvem 432
 tager 432
 bor 430
+alt 424
 se 424
-alt 423
 ønsker 421
 gå 420
 god 417
@@ -544,6 +544,7 @@ huske 85
 rundt 85
 sov 84
 stjålet 84
+betyder 84
 sort 83
 stand 83
 hest 83
@@ -552,7 +553,6 @@ mest 83
 huset 83
 dollar 83
 boede 83
-betyder 83
 muligt 82
 Hunden 82
 betale 82
@@ -602,6 +602,7 @@ Europa 74
 kød 74
 "Det 74
 tidligere 73
+Tak 73
 åbnede 73
 sne 73
 forstå 73
@@ -610,7 +611,6 @@ fleste 73
 søvn 72
 ur 72
 forbi 72
-Tak 72
 livet 72
 piger 72
 bedstefar 72
@@ -1393,6 +1393,7 @@ spil 28
 dansede 28
 farvel 28
 hadede 28
+elefant 28
 bar 28
 derhjemme 28
 umuligt 27
@@ -1439,7 +1440,6 @@ Drikker 27
 nøglen 27
 svin 27
 bidt 27
-elefant 27
 ris 27
 kysset 27
 2013 27
@@ -1867,6 +1867,7 @@ fløj 19
 skyldig 19
 kalde 19
 eksamen 19
+glemmer 19
 dens 19
 gal 19
 forskel 19
@@ -1940,7 +1941,6 @@ Algeriets 19
 overleve 18
 ro 18
 lommen 18
-glemmer 18
 sødt 18
 dukke 18
 Østrig 18

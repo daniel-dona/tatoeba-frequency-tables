@@ -5,7 +5,7 @@ n 1788
 nait 1106
 Tom 916
 van 800
-Ik 765
+Ik 766
 Hai 705
 dat 671
 binnen 617
@@ -16,9 +16,9 @@ mie 507
 het 506
 in 477
 Wie 454
-mit 443
+mit 444
 en 436
-mien 431
+mien 432
 ien 403
 Is 372
 doe 355
@@ -194,10 +194,10 @@ wèl 44
 kwam 44
 toal 44
 tot 44
+voak 43
 ogen 43
 bouken 43
 guster 43
-voak 42
 nooit 42
 laand 42
 Mary 42
@@ -435,6 +435,7 @@ zat 19
 Woon 19
 Joa 19
 Wenneer 19
+pa 19
 swemmen 19
 veurbie 19
 verteld 19
@@ -463,7 +464,6 @@ roadio 19
 dudelk 18
 waren 18
 elke 18
-pa 18
 vol 18
 loater 18
 da'k 18
@@ -3042,6 +3042,7 @@ Ricardo 2
 twijbak 2
 euliekouken 2
 Ludwig 2
+Zaand 2
 Oam 2
 Vizzen 2
 Kreeft 2
@@ -4819,7 +4820,6 @@ fleer 1
 fleerst 1
 Marina 1
 Clarissa 1
-Zaand 1
 smokt 1
 Goienacht 1
 Netuurlek 1
@@ -9244,3 +9244,6 @@ deurzichteg 1
 Hassan 1
 schoakplezaaier 1
 beweert 1
+schuurt 1
+moag 1
+schoak 1

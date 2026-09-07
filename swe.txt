@@ -1,15 +1,15 @@
 är 11775
-Jag 11362
+Jag 11363
 att 7173
 Tom 7140
-inte 6993
+inte 6994
 en 5191
 du 5181
 på 4897
 det 4805
 i 4632
 har 4267
-Det 3929
+Det 3931
 Han 3442
 jag 3186
 mig 2756
@@ -27,7 +27,7 @@ dig 1918
 Vi 1908
 den 1853
 kan 1695
-av 1620
+av 1621
 Du 1614
 han 1270
 kommer 1266
@@ -203,7 +203,7 @@ tala 186
 Låt 185
 under 184
 stor 184
-längre 182
+längre 183
 ofta 182
 hatar 182
 sett 182
@@ -737,6 +737,7 @@ Och 45
 Vart 45
 ben 45
 parken 45
+slutade 45
 träd 45
 läkare 44
 stå 44
@@ -750,7 +751,6 @@ händerna 44
 gråta 44
 vilket 44
 beslut 44
-slutade 44
 jul 44
 ibland 44
 Rima 44
@@ -864,6 +864,7 @@ hjärta 37
 val 37
 färdigt 37
 Sätt 37
+regnar 36
 exempel 36
 tåg 36
 stället 36
@@ -886,7 +887,6 @@ Fick 36
 semester 35
 nej 35
 åtta 35
-regnar 35
 fler 35
 allting 35
 skall 35
@@ -1029,6 +1029,7 @@ lyckades 30
 stan 30
 gratis 30
 tv:n 30
+stängde 30
 penna 30
 blod 30
 hatade 30
@@ -1037,6 +1038,7 @@ barnet 29
 besökte 29
 glömma 29
 hög 29
+regna 29
 består 29
 mörkt 29
 Frankrike 29
@@ -1060,13 +1062,11 @@ slutar 29
 riktig 29
 floden 29
 förbi 29
-stängde 29
 idiot 29
 Ha 29
 pojkvän 29
 ambassaden 28
 olyckan 28
-regna 28
 senast 28
 ena 28
 röker 28
@@ -1750,6 +1750,7 @@ Herr 15
 desto 15
 slag 15
 Förr 15
+teven 15
 England 15
 bänken 15
 tvungna 15
@@ -1847,7 +1848,6 @@ sämre 14
 kosta 14
 vinter 14
 högra 14
-teven 14
 förändras 14
 bron 14
 skyndade 14
@@ -3673,6 +3673,7 @@ lunchen 6
 bensin 6
 Å 6
 tillfälle 6
+Regnet 6
 tappar 6
 fallit 6
 fot 6
@@ -4206,7 +4207,6 @@ ungdom 5
 stöter 5
 existerar 5
 kylskåp 5
-Regnet 5
 flaskor 5
 avtog 5
 Översätt 5
@@ -8334,6 +8334,7 @@ Achille 2
 1908 2
 skör 2
 Snygg 2
+upphörde 2
 schweizisk 2
 hundvalp 2
 Alan 2
@@ -9997,4 +9998,3 @@ Jobba 2
 munkar 2
 galant 2
 familjetraditioner 2
-ladugården 2

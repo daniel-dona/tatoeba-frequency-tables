@@ -1,17 +1,17 @@
-się 17515
+się 17517
 nie 14933
-jest 14600
-w 13164
+jest 14601
+w 13165
 Tom 11520
 na 11038
-Nie 9669
-to 8984
+Nie 9670
+to 8989
 że 8378
 do 7954
 z 7675
 i 4797
 To 4735
-Czy 4206
+Czy 4208
 mi 3851
 o 3655
 mnie 3642
@@ -24,7 +24,7 @@ tego 2666
 po 2591
 Mary 2470
 są 2382
-tym 2107
+tym 2109
 W 2095
 bardzo 2079
 od 1895
@@ -35,7 +35,7 @@ Jestem 1671
 go 1662
 już 1652
 ci 1558
-ale 1543
+ale 1544
 Co 1526
 dla 1518
 Toma 1441
@@ -46,7 +46,7 @@ być 1328
 Jak 1295
 Jest 1275
 ten 1275
-jej 1254
+jej 1255
 było 1243
 jego 1225
 mogę 1214
@@ -56,9 +56,9 @@ będzie 1172
 Ten 1161
 sobie 1153
 czy 1151
-cię 1120
+cię 1122
 ze 1086
-przez 1083
+przez 1084
 może 1075
 jestem 1052
 Jesteś 1032
@@ -89,7 +89,7 @@ kiedy 777
 więcej 769
 a 759
 jesteś 757
-teraz 748
+teraz 750
 Chcę 737
 zawsze 730
 iść 730
@@ -120,8 +120,8 @@ ja 590
 chcę 589
 prawda 587
 Tomowi 587
+trzy 586
 bez 586
-trzy 585
 Jeśli 585
 swoje 581
 roku 580
@@ -155,8 +155,8 @@ Moja 478
 gdzie 474
 raz 467
 ty 467
+możesz 465
 dzień 464
-możesz 464
 sam 462
 pod 458
 Oni 458
@@ -220,8 +220,8 @@ można 346
 te 345
 bo 345
 mną 342
+Już 340
 mógł 340
-Już 338
 stanie 338
 Ja 336
 Mogę 335
@@ -237,8 +237,8 @@ Musimy 317
 czego 317
 bardziej 316
 Tak 316
+razem 316
 swoim 315
-razem 315
 stało 313
 nocy 313
 długo 312
@@ -253,9 +253,9 @@ Był 305
 Bostonie 304
 list 303
 które 302
+lata 301
 moja 301
 Tomem 301
-lata 300
 ta 298
 wszyscy 298
 dobry 297
@@ -267,8 +267,8 @@ Te 292
 kupić 292
 właśnie 291
 mamy 290
+jako 289
 lepiej 289
-jako 288
 O 288
 wiedzieć 288
 nad 286
@@ -315,9 +315,9 @@ Każdy 252
 wody 252
 jeść 251
 pokój 248
+angielskiego 247
 dni 247
 Pan 246
-angielskiego 246
 miejsce 245
 Naprawdę 245
 Powinieneś 244
@@ -451,7 +451,7 @@ mogłem 179
 Widziałem 178
 rozmawiać 178
 język 177
-później 176
+później 177
 Tokio 176
 takiego 176
 Ty 176
@@ -504,11 +504,11 @@ miała 162
 którzy 162
 twojego 162
 powinienem 162
+znowu 161
 jechać 160
 Dziękuję 160
 mogą 160
 języka 160
-znowu 160
 pójść 160
 stąd 159
 oni 159
@@ -567,11 +567,11 @@ dziesięć 148
 późno 147
 Przez 147
 temat 147
+Była 147
 całą 147
 plan 147
 życiu 147
 mało 146
-Była 146
 twoją 146
 całkiem 146
 chwili 146
@@ -651,13 +651,13 @@ Pies 129
 angielski 129
 Twoja 129
 Nawet 129
+śnieg 128
 dobrą 128
 piękne 128
 Myślisz 128
 łatwo 128
 pić 128
 Nasz 127
-śnieg 127
 ziemi 127
 przyjaciółmi 127
 ponieważ 127
@@ -671,10 +671,10 @@ dlatego 125
 wrócił 125
 rękę 125
 będziemy 125
+jaki 124
 słowo 124
 zewnątrz 124
 piłkę 123
-jaki 123
 Tu 123
 kota 123
 dać 123
@@ -813,6 +813,7 @@ całe 103
 mógłbyś 103
 herbatę 103
 żadnych 103
+pada 102
 ponownie 102
 prezent 102
 języku 102
@@ -828,7 +829,6 @@ językiem 102
 Dzięki 102
 spróbować 102
 uwierzyć 102
-pada 101
 Skąd 101
 klucz 101
 nową 101
@@ -1105,6 +1105,7 @@ strasznie 76
 wrócić 76
 Powinienem 76
 kobietą 76
+restauracji 76
  76
 myślałem 75
 Zrób 75
@@ -1128,7 +1129,6 @@ Podoba 75
 zajęta 75
 Tatoeba 75
 pewny 75
-restauracji 75
 zadzwonił 74
 płaszcz 74
 Dziecko 74
@@ -1183,6 +1183,7 @@ sześć 71
 Próbowałem 71
 jedzie 71
 wojny 71
+cicho 71
 istnieje 70
 głowę 70
 miłości 70
@@ -1196,7 +1197,6 @@ firmy 70
 wszedł 70
 błędy 70
 ładna 70
-cicho 70
 napisał 70
 Tutaj 70
 niebie 69
@@ -1331,6 +1331,7 @@ okulary 62
 Dziewczyna 62
 niemożliwe 62
 męża 62
+Sam 62
 sklepie 62
 parę 62
 dziecka 62
@@ -1353,6 +1354,7 @@ rób 62
 gitarze 62
 pasuje 62
 nogi 62
+następnym 62
 takich 61
 nasza 61
 problemów 61
@@ -1360,7 +1362,6 @@ podróż 61
 grę 61
 płakać 61
 widzi 61
-Sam 61
 granicą 61
 ciemno 61
 różne 61
@@ -1380,7 +1381,6 @@ stracił 61
 zaczęła 61
 chcemy 61
 konia 61
-następnym 61
 macie 61
 dawna 60
 Znalazłem 60
@@ -1638,6 +1638,7 @@ Chłopak 51
 listu 51
 most 51
 biurze 51
+warto 51
 ochoty 51
 piosenki 51
 padał 51
@@ -1664,7 +1665,6 @@ Paryża 50
 jakim 50
 czarny 50
 gdybym 50
-warto 50
 poszedłem 50
 samolot 50
 pali 50
@@ -1726,6 +1726,7 @@ Wierzę 48
 najmniej 48
 chodzę 48
 Ilu 48
+niedługo 48
 muzeum 48
 studentem 48
 wybrać 48
@@ -1760,7 +1761,6 @@ szkołę 47
 gości 47
 ranny 47
 nowa 47
-niedługo 47
 Boli 47
 pierwszą 47
 zabrać 47
@@ -2009,6 +2009,7 @@ Kobieta 41
 zapomnieć 41
 darmo 41
 Żałuję 41
+Nauka 41
 matkę 41
 Sądzę 41
 zasady 41
@@ -2071,7 +2072,6 @@ byłby 40
 pora 40
 Smith 40
 hotel 40
-Nauka 40
 Brazylii 40
 własny 40
 warzywa 40
@@ -2256,6 +2256,7 @@ wściekły 36
 rozmawia 36
 Boję 36
 późna 36
+trudna 36
 błędzie 36
 Europy 36
 Ameryce 36
@@ -2300,7 +2301,6 @@ zginął 35
 oczywiste 35
 drzwiami 35
 Rzadko 35
-trudna 35
 zeszłej 35
 zamierzasz 35
 robiłeś 35
@@ -2466,6 +2466,7 @@ różnica 33
 wstał 33
 starego 33
 Zdaje 33
+pracowników 33
 kolejny 33
 zdaje 33
 posiada 33
@@ -2538,7 +2539,6 @@ Umiem 32
 jeziora 32
 łatwa 32
 zapomniałem 32
-pracowników 32
 Jedzenie 32
 wierzysz 32
 mysz 32
@@ -2581,6 +2581,7 @@ Kilka 31
 odróżnić 31
 Pana 31
 prawdziwa 31
+Niedługo 31
 ptaków 31
 zima 31
 przypadku 31
@@ -2738,7 +2739,6 @@ Praca 29
 muzyka 29
 Wziął 29
 pieniędzmi 29
-Niedługo 29
 przeszedł 29
 drużyny 29
 łazience 29
@@ -3019,6 +3019,7 @@ Prawda 26
 myślą 26
 duszy 26
 wzgórzu 26
+sposobem 26
 pił 26
 fakty 26
 zacząłem 26
@@ -3109,12 +3110,12 @@ uczuć 25
 wuj 25
 stu 25
 praktycznie 25
-sposobem 25
 słuchał 25
 dniem 25
 Wybacz 25
 Ogólnie 25
 okazało 25
+Sama 25
 wyjechał 25
 Chicago 25
 Czytałem 25
@@ -3234,7 +3235,6 @@ ciężki 24
 przystanku 24
 ilość 24
 wyszedłem 24
-Sama 24
 ciastka 24
 Pomyśl 24
 Światło 24
@@ -3745,6 +3745,7 @@ boją 21
 śmiał 21
 bezpieczne 21
 spojrzał 21
+Bądźcie 21
 Tom'owi 21
 2:30 21
 żyję 20
@@ -3935,7 +3936,6 @@ słodki 20
 Rosja 20
 Emily 20
 spytać 20
-Bądźcie 20
 bezpieczni 20
 Moglibyśmy 20
 potwór 20
@@ -5141,6 +5141,7 @@ ważniejsze 14
 przerażony 14
 Staram 14
 filmów 14
+Pracował 14
 korzyści 14
 Pora 14
 Poczekajmy 14
@@ -5489,7 +5490,6 @@ drogowego 13
 obietnic 13
 najwięcej 13
 klatki 13
-Pracował 13
 dolary 13
 kaszel 13
 Jedź 13
@@ -6853,6 +6853,7 @@ White 10
 następnie 10
 zakup 10
 hiszpański 10
+Zapłacę 10
 Uczył 10
 Złoto 10
 żelazo 10
@@ -7381,6 +7382,7 @@ Idźcie 9
 1945 9
 przejazd 9
 zgodę 9
+wyjdę 9
 łacinie 9
 owocami 9
 bieżąco 9
@@ -7476,7 +7478,6 @@ głodne 9
 umiała 9
 Dni 9
 pokazują 9
-Zapłacę 9
 butelek 9
 myliłem 9
 Ted 9
@@ -7564,6 +7565,7 @@ otwartych 9
 Obiecała 9
 osiągnie 9
 długiego 9
+Wyślę 9
 gospodarstwie 9
 usłyszy 9
 przestępstwa 9
@@ -7719,6 +7721,7 @@ przysłał 9
 przejście 9
 popełnia 9
 miejscowym 9
+traktował 9
 otworzyłem 9
 zaprzeczył 9
 wstawania 9
@@ -7752,6 +7755,7 @@ przepraszać 9
 Dziękujemy 9
 gonił 9
 dotrzymuje 9
+Skończę 9
 nazwa 9
 2000 9
 klawiaturze 9
@@ -8152,7 +8156,6 @@ finansowo 8
 żołądka 8
 skrzyżowaniu 8
 Pracowała 8
-wyjdę 8
 Anglia 8
 dzielnicy 8
 planowi 8
@@ -8356,7 +8359,6 @@ wykonany 8
 graniczą 8
 podniosła 8
 uszyła 8
-Wyślę 8
 przejrzeć 8
 tle 8
 Postanowiliśmy 8
@@ -8539,7 +8541,6 @@ perspektywy 8
 imperium 8
 Edukacja 8
 właściwe 8
-traktował 8
 wcisnąć 8
 skandal 8
 niezwykły 8
@@ -8569,7 +8570,6 @@ zwraca 8
 Mówiąc 8
 gęś 8
 pieska 8
-Skończę 8
 zapłaci 8
 znajomi 8
 Mowa 8
@@ -9306,6 +9306,7 @@ gośćmi 7
 podwyżki 7
 łamać 7
 operacja 7
+zajmę 7
 trzymała 7
 trzema 7
 Zaśpiewaj 7
@@ -9829,6 +9830,7 @@ Wybrałem 7
 zabawnie 7
 Milcz 7
 zimowe 7
+Wyjdę 7
 rozpocząć 7
 branży 7
 postanowili 7
@@ -9996,5 +9998,3 @@ przetłumaczona 7
 szczurów 7
 akcentu 7
 obudziłam 7
-butach 7
-szafy 7

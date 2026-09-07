@@ -1,6 +1,6 @@
-d 411
-ad 339
-n 245
+d 412
+ad 342
+n 247
 di 239
 Tom 228
 Ziri 216
@@ -11,7 +11,7 @@ Mani 149
 war 128
 Necc 121
 Min 117
-Wer 115
+Wer 116
 Qa 110
 zi 107
 War 105
@@ -19,17 +19,17 @@ War 105
 Ad 95
 wer 94
 Maɣer 92
+Ttuɣa 90
 Yanni 88
-taddart 86
-Ttuɣa 86
+taddart 87
 da 85
 aṭṭas 77
 Man 69
 din 68
 min 66
+ 66
 Wi 64
 deg 63
- 62
 ḏ 59
 Mary 57
 qa 57
@@ -46,18 +46,18 @@ ca 43
 cek 43
 am 41
 ma 41
+Sami 41
 manaya 41
 aked 41
-Sami 40
 D 40
 Manis 40
 ttuɣa 40
 ayi 39
 Xseɣ 38
 tameccit 38
-x 36
+x 37
+yella 37
 ɣer-s 36
-yella 36
 tamaziɣt 34
 xseɣ 34
 Mamek 33
@@ -70,6 +70,7 @@ abrid 30
 marra 29
 yelli 29
 Cekk 28
+ɛad 28
 wen 28
 tellid 27
 ur 26
@@ -82,10 +83,10 @@ cem 24
 ɣer-i 24
 Rima 24
 ci 24
+tella 24
 zeg 23
 Ssneɣ 23
 s 23
-ɛad 23
 nican 23
 Walu 23
 yeqqim 23
@@ -96,7 +97,6 @@ aɣrum 22
 amenni 22
 texsed 22
 aysum 22
-tella 22
 inu 21
 cemm 21
 ak 21
@@ -137,6 +137,7 @@ Wa 16
 niɣ 16
 ijj 16
 xef 16
+llan 16
 qa-t 16
 Ɣer-i 16
 dihi 16
@@ -155,13 +156,13 @@ taḍuft 15
 nnek 14
 Mamec 14
 yarzu 14
-llan 14
 tidet 14
 izdeɣ 14
 ḏi 14
 adlis 14
 Manaya 14
 tcamma 14
+manayenni 14
 tenna 14
 tuɣa 13
 bu 13
@@ -176,7 +177,6 @@ ass 13
 lebda 13
 Layla 13
 musika 13
-manayenni 13
 zemreɣ 13
 k 13
 srajem 13
@@ -188,6 +188,7 @@ lmliḥ 12
 Nec 12
 man 12
 aydi 12
+tamaynut 12
 tilifun 12
 ṯaglinziṯ 12
 Neččin 12
@@ -218,8 +219,10 @@ rxeḏmeṯ 11
 imeslem 11
 Iccat 10
 anẓar 10
+ixes 10
 aya 10
 yecnan 10
+tudert 10
 Ula 10
 yeggur 10
 tawwurt 10
@@ -228,6 +231,8 @@ bla 10
 ṯ 10
 maɣer 10
 Ṯexẓar 10
+amaziɣ 10
+kra 10
 Ggureɣ 10
 tfuyt 10
 Dezzayer 10
@@ -244,6 +249,7 @@ taɛrabt 9
 Mism 9
 ay 9
 dd-tewwuyd 9
+taxxamt 9
 yeqqimen 9
 Cḥal 9
 Ɣer-neɣ 9
@@ -255,7 +261,6 @@ Sakura 9
 zemmreɣ 9
 qqar 9
 inniɣ 9
-amaziɣ 9
 imaziɣen 9
 kid-k 9
 yefreẓ 9
@@ -287,7 +292,6 @@ mamek 8
 fus-nes 8
 taggurt 8
 Baba 8
-taxxamt 8
 Iraḥ 8
 amaynu 8
 kul 8
@@ -298,6 +302,7 @@ iḍlisen 8
 teɛna 8
 Iwdan 8
 Qa-t 8
+qa-tt 8
 Ttuɣa-tt 8
 Yefser 8
 yeṭṭes 8
@@ -308,7 +313,6 @@ isu 7
 asen 7
 nnes 7
 tegged 7
-ixes 7
 gi 7
 wass 7
 qbel 7
@@ -319,10 +323,8 @@ yili 7
 g 7
 rebbi 7
 xsɣ 7
-tudert 7
 qqaren-as 7
 Nečč 7
-tamaynut 7
 yessin 7
 maṛṛa 7
 Qqen 7
@@ -334,9 +336,8 @@ Nuca-s 7
 awal 7
 Tḥakiɣ 7
 Ẓriɣ-t 7
-kra 7
-qa-tt 7
 imeddukal 7
+qa-ten 7
 ddreɣ 7
 tessned 7
 Izmar 7
@@ -376,6 +377,7 @@ Mari 6
 uxxam 6
 iṯ 6
 Ɣer-s 6
+Tamaziɣt 6
 baba-s 6
 yi 6
 Yeqqim 6
@@ -399,7 +401,6 @@ la 6
 ifilmawen 6
 izelwaɣ 6
 ccikulati 6
-qa-ten 6
 ittett 6
 tasarjemt 6
 Imeslmen 6
@@ -485,6 +486,7 @@ udlis 5
 tmurt 5
 ḥenna 5
 Ṯetbaneḏ 5
+Din 5
 yek 5
 afessay 5
 tanfust-nni 5
@@ -581,7 +583,6 @@ yemma 4
 tudert-inu 4
 yeɣra 4
 atssiwled 4
-Tamaziɣt 4
 dzzayer 4
 Zeg 4
 yebedd 4
@@ -616,7 +617,6 @@ tafransist 4
 Ili 4
 sennj 4
 arifi 4
-Din 4
 Nitnti 4
 Hi 4
 irareɣ 4
@@ -641,6 +641,7 @@ Tesswaled 4
 tarifiyt 4
 Aysum 4
 yettegg 4
+faḍil 4
 lluẓeɣ 4
 ubrid-nes 4
 Zemreɣ 4
@@ -703,6 +704,7 @@ Teɛjeb-yi 4
 areẓmeɣ 4
 ufiɣ-t 4
 arruḍ-nnes 4
+umaynu 4
 Ufiɣ 3
 Zi 3
 tamɣart-inu 3
@@ -804,6 +806,7 @@ Isala 3
 misa 3
 acem 3
 lkampu 3
+Yella 3
 yeseqsa 3
 ɣef-s 3
 yiwdan 3
@@ -973,6 +976,7 @@ yessawal 3
 qa-k 3
 tuḥled 3
 ijjet 3
+tajapunit 3
 Tenni 3
 Tin 3
 yettxes 3
@@ -1129,6 +1133,7 @@ isewweq 2
 yedja 2
 tabadut 2
 teɣawsa 2
+tinat 2
 wedlis 2
 azguaɣ 2
 Uřa 2
@@ -1269,6 +1274,7 @@ d-ak 2
 tetteɣ 2
 aḍlis 2
 Qa-ṯ 2
+Cra 2
 dfin 2
 izmmar 2
 Mayk 2
@@ -1292,7 +1298,6 @@ Yesnen 2
 iḍnnaṭ 2
 marbi 2
 Rẓuɣ 2
-Yella 2
 teynnurt 2
 Ṯegga 2
 timellalin-nes 2
@@ -1718,7 +1723,6 @@ ayd-nni 2
 teɛfid 2
 Misem 2
 adlis-nnes 2
-tajapunit 2
 Tunubil-a 2
 angul 2
 tt-ssineɣ 2
@@ -1880,8 +1884,14 @@ tewta-yi 2
 Tejja 2
 weḥd-s 2
 Jon 2
+cra 2
 tercled 2
 Sswingimeɣ 2
+ssiwileɣ 2
+Imaziɣen 2
+issenta 2
+Nekra 2
+Nxes 2
 iḥman 1
 Araḥed 1
 kkaren 1
@@ -2200,7 +2210,6 @@ tamalṭṭit 1
 malṭṭa 1
 Texmameɣ 1
 Swingmeɣ 1
-tinat 1
 Swingimɣ 1
 tiwaɣcin 1
 Tirbatin 1
@@ -2765,7 +2774,6 @@ nexs 1
 kullci 1
 ssrusa 1
 uxxam-nes 1
-Cra 1
 iḥanjiren 1
 tfataḥen 1
 lebḥer 1
@@ -3929,7 +3937,6 @@ tbadut 1
 asafar-nes 1
 igmar 1
 yettɛiwin 1
-faḍil 1
 Faḍil 1
 usbeddad 1
 Iraja-k 1
@@ -5213,7 +5220,6 @@ tteqqsen-yi 1
 Ammya 1
 Tussna-nneɣ 1
 tecna 1
-cra 1
 utaras 1
 sexddmeɣ 1
 msali 1
@@ -5236,5 +5242,10 @@ iles-nnec 1
 tutlayt-nnem 1
 fatḥeɣ 1
 ɛumeɣ 1
-ssiwileɣ 1
 tayabanit 1
+Kksen 1
+Agdud 1
+ibda 1
+yebuhley 1
+Kra 1
+tɣewsa 1

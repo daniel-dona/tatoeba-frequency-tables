@@ -1,7 +1,7 @@
-ast 1186
+ast 1187
 As 1011
 ni 869
-en 626
+en 627
 as 391
 tū 377
 Tāns 368
@@ -199,6 +199,7 @@ wisāi 21
 Tenesses 21
 pra 21
 pergūbi 20
+mīstan 20
 beggi 20
 Šī 20
 mazēi 20
@@ -208,7 +209,6 @@ zmūnin 20
 pagaūwa 20
 Kawīds 20
 nūmans 19
-mīstan 19
 mazzimai 19
 Teinū 19
 tenesses 19
@@ -6622,3 +6622,6 @@ izprettuns 1
 mālarini 1
 studīwusi 1
 winalaiwāi 1
+Bilbao 1
+Baskan 1
+Tāutai 1
