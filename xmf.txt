@@ -2,11 +2,11 @@ Ma 267
 re 168
 Tom 59
 Si 54
-Toms 41
+Toms 40
 do 37
 ma 35
 Tkva 35
-te 33
+te 32
 Tena 31
 vare 29
 მა 28
@@ -43,7 +43,6 @@ vore 14
 mu 14
 çkimi 13
 iro 12
-Ase 12
 meri 12
 mutuni 12
 djgiri 12
@@ -55,18 +54,19 @@ mushi 12
 rdƨ 12
 ვორექ 11
 ჩქი 11
+ტომს 11
 toms 11
 ɣudes 11
 xvale 11
 rena 11
 tes 11
-ტომს 10
+Ase 11
 michku 10
 arti 10
 Tomk 10
 va 10
+თე 9
 djoǧori 9
-tak 9
 ardza 9
 bosṫons 9
 reki 9
@@ -74,7 +74,6 @@ Djgiri 9
 ç̌ita 9
 - 9
 gverdi 9
-თე 8
 Ate 8
 ase 8
 Skani 8
@@ -88,6 +87,7 @@ Goǧa 8
 tzaneri 8
 Amdǧa 8
 tomi 8
+tak 8
 rina 7
 glaxa 7
 dzǧabi 7
@@ -110,7 +110,6 @@ teshi 6
 ǧolama 6
 da 6
 Sumi 6
-ǩitxiri 6
 Mardi 6
 Atena 6
 Ena 6
@@ -142,6 +141,7 @@ Oxori 5
 Mus 5
 tzanas 5
 pranguli 5
+ǩitxiri 5
 kianas 5
 ardzashe 5
 Tinepi 5
@@ -149,6 +149,7 @@ reto 5
 mitin 5
 Taki 5
 Maxolo 5
+მუში 5
 Ko 5
 chkini 5
 Kumodziri 5
@@ -170,6 +171,7 @@ meris 5
 ǩata 5
 წანერი 4
 ტომიქ 4
+ასე 4
 ვორეთ 4
 ჯგირი 4
 muç̌o 4
@@ -188,6 +190,7 @@ mapu 4
 peri 4
 Namu 4
 ǧvini 4
+კითხირი 4
 ქო 4
 teki 4
 xuti 4
@@ -200,7 +203,6 @@ osaç̌iru 4
 Malas 4
 Mendi 4
 amnaxanṫi 4
-მუში 4
 Kortxint 4
 სო 4
 miçku 4
@@ -226,7 +228,6 @@ kiana 4
 ჩქიმ 3
 რდუ 3
 მუშენ 3
-ასე 3
 გლახა 3
 კოჩი 3
 ჭკომუნს 3
@@ -240,7 +241,7 @@ Tkvan 3
 Art 3
 sakvars 3
 ip̌it 3
-Yanni 3
+თაქ 3
 rdasin 3
 Musho 3
 sum 3
@@ -269,7 +270,6 @@ Chkini 3
 gvalo 3
 მუ 3
 tzq'ari 3
-კითხირი 3
 მიჩქუ 3
 Migaxvamant 3
 Tomish 3
@@ -400,7 +400,6 @@ vamushens 2
 vamiors 2
 mushens 2
 skvam 2
-muzhams 2
 mudgas 2
 voxorandi 2
 vauǧudu 2
@@ -530,6 +529,7 @@ prangulo 2
 Moxiolu 2
 Oç̌mare 2
 axali 2
+Yanni 2
 ṫeleponi 2
 ardgili 2
 Ziri 2
@@ -629,7 +629,6 @@ tunti 2
 tkvani 2
 vamǧuna 2
 uɣorsu 2
-Gomordzgua 2
 irdixas 2
 Opuṫes 2
 oşǩuru 2
@@ -661,7 +660,6 @@ Tişi 2
 iap̌onari 2
 mosaç̌iru 2
 vausxunu 2
-Muşi 2
 miɔorsu 2
 doxturi 2
 ip̌ik 2
@@ -748,7 +746,6 @@ Etinepi 2
 ხვალე 2
 vauɔors 2
 ლაზი 2
-თაქ 2
 ქობალს 2
 გოკონო 2
 chais 2
@@ -914,11 +911,13 @@ bankis 1
 piprkenk 1
 semi 1
 Portugalias 1
-luǧis 1
-ǯiluns 1
-kodzirit 1
-ashu 1
-kudik 1
+იანნი 1
+ლუღის 1
+წილუნს 1
+ქოძირით 1
+მუჟამს 1
+აშუ 1
+ქუდიქ 1
 Irpel 1
 artneri 1
 orǯq'ek 1
@@ -2512,6 +2511,7 @@ komondjis 1
 ganǩortu 1
 q'ali 1
 erçkinaşi 1
+Gomordzgua 1
 nensi 1
 Giiinito 1
 Odzitse 1
@@ -2542,6 +2542,7 @@ Meksiǩas 1
 Apxazeti 1
 samaçablo 1
 sakortuo 1
+Muşi 1
 mortzonts 1
 Gitilit 1
 maşƨnaşe 1
@@ -2838,7 +2839,7 @@ uparet 1
 ɣidiri 1
 onaxval 1
 vamçinens 1
-gioora 1
+გიჸორა 1
 ulu 1
 dandjirşa 1
 iino 1
@@ -2999,6 +3000,7 @@ vomoǩodu 1
 Teureşe 1
 vadirtuni 1
 Bolos 1
+muzhams 1
 nandiditzǩuma 1
 Birǩuls 1
 kimeǩidi 1

@@ -1,12 +1,12 @@
 er 2862
-Eg 2258
+Eg 2259
 Tom 1659
-ikkje 1119
+ikkje 1120
 å 1047
 det 960
 i 937
 du 882
-på 869
+på 870
 har 769
 ein 736
 Det 733
@@ -38,7 +38,7 @@ likar 220
 Kor 218
 Kva 208
 Mary 192
-vil 181
+vil 182
 den 178
 dei 178
 vart 178
@@ -193,13 +193,13 @@ ingen 40
 feil 40
 Korfor 40
 tilbake 39
+hennar 39
 vore 39
 seier 38
 folk 38
 heime 38
 fekk 38
 andre 38
-hennar 38
 morgon 37
 kvar 37
 Lat 37
@@ -339,6 +339,7 @@ Jupiter 22
 nye 22
 Europa 22
 paraply 22
+brevet 22
 dykkar 22
 opera 22
 søv 21
@@ -350,7 +351,6 @@ jo 21
 heiter 21
 fem 21
 Skal 21
-brevet 21
 fødd 21
 brua 21
 regna 21
@@ -2693,6 +2693,7 @@ fødselsdagen 2
 tenk 2
 tener 2
 paven 2
+svare 2
 femte 2
 forslaget 2
 tolmodig 2
@@ -4500,7 +4501,6 @@ lurer 1
 soverom 1
 hukommelse 1
 Francis 1
-svare 1
 smiler 1
 stemde 1
 poliklinikkar 1

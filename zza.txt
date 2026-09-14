@@ -1,7 +1,7 @@
 Ez 232
 ra 155
-mi 127
-o 124
+mi 128
+o 125
 Tom 105
 Ma 103
 de 103
@@ -9,15 +9,15 @@ xo 98
 ma 89
 to 86
 a 77
+bi 74
 Tı 74
-bi 72
 do 67
 ke 67
 yo 65
 ey 63
 nê 56
 ya 54
-û 52
+û 53
 kena 49
 ez 47
 zaf 47
@@ -28,8 +28,8 @@ Mı 43
 mı 43
 Ti 42
 O 41
+Ewro 38
 kerd 37
-Ewro 37
 bê 35
 u 33
 dı 32
@@ -49,11 +49,12 @@ qısey 19
 ewro 19
 Eza 19
 kenê 19
+seba 19
 xu 18
 Tomi 18
 tı 18
 estê 18
-seba 18
+Na 17
 ganî 17
 esto 16
 é 16
@@ -67,7 +68,6 @@ zî 16
 teber 15
 keno 15
 Şima 15
-Na 14
 şena 14
 çi 14
 Ê 14
@@ -120,6 +120,7 @@ Nê 9
 germ 9
 dê 9
 wa 9
+da 9
 bî 9
 Tomî 9
 keyeyê 9
@@ -138,7 +139,6 @@ bı 8
 na 8
 pêro 8
 bena 8
-da 8
 sey 8
 Madê 8
 serrî 8
@@ -202,11 +202,14 @@ waya 6
 ciwîyenê 6
 bibî 6
 hîna 6
+hema 6
 senîn 6
 şirî 6
+heqê 6
 Birayê 6
 çin 6
 dewa 6
+awe 6
 mekteb 6
 tena 6
 Her 6
@@ -244,14 +247,12 @@ goştarey 5
 xeylê 5
 fehm 5
 Deynê 5
-hema 5
 î 5
 Rojbaş 5
 yî 5
 Meşte 5
 vaje 5
 şimena 5
-awe 5
 vizêrî 5
 verê 5
 îngilizkî 5
@@ -264,6 +265,7 @@ Kurdîstanî 5
 çunke 5
 Çewlîg 5
 şirê 5
+menge 5
 çıçi 4
 eza 4
 awan 4
@@ -317,6 +319,7 @@ nêşena 4
 nîno 4
 Emser 4
 vewre 4
+menga 4
 coka 4
 nêzana 4
 şewe 4
@@ -327,7 +330,6 @@ meke 4
 Wexto 4
 Çira 4
 der 4
-heqê 4
 telefonê 4
 hezar 4
 kitabî 4
@@ -432,6 +434,7 @@ heme 3
 néy 3
 nékené 3
 Tatoeba 3
+reyna 3
 Né 3
 maré 3
 Bejna 3
@@ -443,7 +446,6 @@ Almanya 3
 pereyî 3
 bîyê 3
 Waya 3
-menga 3
 karê 3
 vîndî 3
 vêşan 3
@@ -512,6 +514,7 @@ mîlyarî 3
 hetê 3
 mamoste 3
 jî 3
+lîra 3
 Maria 2
 karé 2
 qedina 2
@@ -687,7 +690,6 @@ zé 2
 nékerd 2
 bomra 2
 edo 2
-reyna 2
 toya 2
 çıré 2
 Harvard 2
@@ -889,7 +891,6 @@ bierşawî 2
 çinî 2
 deyn 2
 biwazî 2
-menge 2
 ekonomî 2
 Ercan 2
 çaye 2
@@ -897,6 +898,7 @@ unîversîte 2
 varê 2
 derece 2
 websîteya 2
+faturaya 2
 zıwandê 1
 Şanê 1
 Payra 1
@@ -3007,3 +3009,13 @@ Abebooks 1
 kitabanê 1
 diyinî 1
 bivîno 1
+ceyranî 1
+355 1
+înternetî 1
+1160 1
+gazê 1
+xozayîyî 1
+257 1
+10ê 1
+Îlon 1
+nîyameya 1

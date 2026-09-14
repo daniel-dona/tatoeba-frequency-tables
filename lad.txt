@@ -1,17 +1,17 @@
-es 337
-Tom 186
+es 339
+Tom 187
 un 170
-la 130
-de 128
-El 125
-en 122
-el 117
+la 131
+de 129
+El 126
+en 123
+el 118
 No 114
 no 105
 una 95
 esta 85
 a 84
-La 78
+La 79
 איס 75
 Los 59
 ke 57
@@ -43,9 +43,9 @@ me 23
 אונה 23
 Sos 22
 Onde 22
+lingua 21
 perro 21
 Las 21
-lingua 20
 kaza 20
 djudio 20
 gato 20
@@ -88,6 +88,7 @@ preto 14
 puerta 14
 komida 14
 yamo 13
+le 13
 fue 13
 portokal 13
 estan 13
@@ -97,9 +98,9 @@ mundo 13
 pasharos 13
 su 12
 vida 12
-le 12
 Vos 12
 Ken 12
+plazen 12
 ayi 12
 York 12
 די 12
@@ -109,10 +110,10 @@ Ke 12
 vedre 12
 kero 11
 Te 11
+A 11
 ir 11
 linguas 11
 gatos 11
-plazen 11
 dos 11
 איסטו 11
 ebreo 11
@@ -120,7 +121,7 @@ Trae 11
 frio 11
 Si 10
 fransez 10
-A 10
+kozas 10
 komo 10
 Kualo 10
 ermano 10
@@ -141,7 +142,6 @@ En 9
 avla 9
 sus 9
 kolorada 9
-kozas 9
 Mozotros 9
 Estamos 9
 moendiz 9
@@ -220,6 +220,7 @@ buen 6
 nombre 6
 alegre 6
 ay 6
+ermozo 6
 madjar 6
 kastilyano 6
 גאטו 6
@@ -268,7 +269,6 @@ paiz 5
 estash 5
 Berlin 5
 מאנסאנה 5
-ermozo 5
 טייני 5
 ama 5
 sin 5
@@ -396,6 +396,7 @@ merko 4
 ma 4
 Puedemos 4
 estás 4
+verdad 4
 está 4
 Seásh 4
 rovó 4
@@ -563,7 +564,6 @@ azerlo 3
 bushkando 3
 kontra 3
 Está 3
-verdad 3
 tipo 3
 vemos 3
 lentejas 3
@@ -890,6 +890,7 @@ kayen 2
 demandes 2
 demandesh 2
 planto 2
+Kurdistan 2
 dar 2
 bivos 2
 rika 2
@@ -2076,7 +2077,6 @@ pishkados 1
 fuertes 1
 matando 1
 inosentes 1
-Kurdistan 1
 sinagoga 1
 organizmos 1
 animales 1
@@ -2508,3 +2508,11 @@ savía 1
 אל 1
 אומאנו 1
 mehoram 1
+byervo 1
+"pas" 1
+kualkera 1
+sensia 1
+arte 1
+bushkar 1
+simples 1
+Freies 1

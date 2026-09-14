@@ -1,4 +1,4 @@
-i 42
+i 43
 is 37
 I 35
 Da 34
@@ -43,13 +43,13 @@ vo 6
 hom 6
 wia 6
 Tog 6
+nix 6
 mit 6
 host 5
 woaß 5
 bin 5
 nia 5
 jo 5
-nix 5
 die 5
 es 5
 Glei 5
@@ -75,6 +75,7 @@ Du 4
 mi 4
 gö 4
 Host 4
+konn 4
 Passt 3
 si 3
 tau 3
@@ -107,7 +108,6 @@ fümfe 3
 's 3
 braan 3
 Minga 3
-konn 3
 der 2
 wissat 2
 tarat 2
@@ -832,3 +832,5 @@ Waunnst‘ 1
 unten 1
 erreichst‘ 1
 Lebm“ 1
+Leida 1
+tua 1

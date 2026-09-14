@@ -1,4 +1,4 @@
-es 309
+es 310
 Eo 223
 yn 176
 rhen 161
@@ -10,7 +10,7 @@ Ys 86
 Ill 83
 Sa 81
 llo 71
-Lla 63
+Lla 64
 su 60
 a 57
 yst 46
@@ -26,8 +26,8 @@ in 30
 mi 26
 Ke 23
 tew 23
+i 23
 Gw 23
-i 22
 Mew 21
 can 21
 nw 21
@@ -103,6 +103,7 @@ ke 9
 dew 8
 mhod 8
 nôn 8
+barol 8
 Fair 8
 sa 8
 Ffrencig 8
@@ -127,12 +128,13 @@ h-yddew 7
 twy 7
 Es-ty 7
 sulfent 7
+llinghedig 7
 Greid 7
-barol 7
 Es-ys 7
 of 7
 lifr 7
 grêdd 7
+bel 7
 Domos 7
 la 7
 angh 7
@@ -144,14 +146,12 @@ ddef 6
 gwol 6
 thud 6
 dy 6
-llinghedig 6
 Almein 6
 ca 6
 mefeiran 6
 ffradr 6
 Calfath 6
 Calf 6
-bel 6
 berson 6
 si 6
 arient 6
@@ -483,6 +483,7 @@ yndig 2
 h-erant 2
 'yfarfent 2
 ew 2
+mhab 2
 adof 2
 Es-Tomos 2
 Can 2
@@ -962,7 +963,6 @@ lleis 1
 menhin 1
 Coinosceant 1
 ddynaldad 1
-mhab 1
 ffagent 1
 godd 1
 Pissar 1
@@ -1424,3 +1424,4 @@ Fusulfan 1
 as-ty 1
 phassant 1
 Giaponuis 1
+"peg" 1

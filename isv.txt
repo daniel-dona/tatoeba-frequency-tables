@@ -1,9 +1,9 @@
-jest 288
+jest 290
 Ja 238
 ne 179
 jesm 119
-Tom 113
-v 93
+Tom 114
+v 94
 Ty 87
 je 87
 se 79
@@ -31,9 +31,9 @@ jeste 24
 li 24
 јесмо 23
 bude 21
+јест 21
 Kde 20
 ješče 20
-јест 20
 Bog 19
 byla 19
 Toma 19
@@ -44,13 +44,13 @@ mnogo 17
 Amerikanci 16
 a 16
 budu 15
+в 15
+ljubi 14
 mene 14
 ljubju 14
 Ne 14
 се 14
-в 14
 Она 14
-ljubi 13
 jego 13
 V 13
 tu 13
@@ -433,6 +433,7 @@ prodal 2
 piše 2
 Budizm 2
 Hristijanstvo 2
+krasivo 2
 Izraelju 2
 shematične 2
 plany 2
@@ -547,6 +548,7 @@ Kaku 2
 rybu 2
 susědi 2
 kto 2
+pravdy 2
 skoro 2
 prositi 2
 sprašati 2
@@ -681,6 +683,7 @@ otec 2
 Zemje 2
 ubity 2
 někogda 2
+věči 2
 Pravda 2
 me 2
 ale 2
@@ -1025,7 +1028,6 @@ judaizm 1
 Judaizm 1
 Islam 1
 Jezik 1
-krasivo 1
 nenadežny 1
 duže 1
 hrapaju 1
@@ -1498,7 +1500,6 @@ ostal 1
 jezero 1
 rozovo 1
 borju 1
-pravdy 1
 Igra 1
 načinati 1
 pomidor 1
@@ -2093,7 +2094,6 @@ narkotik 1
 pravdopodobno 1
 bezumny 1
 Čije 1
-věči 1
 iměje 1
 važnost 1
 ista 1
@@ -2459,3 +2459,18 @@ policiju 1
 Svobodnu 1
 Свободну 1
 Палестину 1
+Слава 1
+Украјинє 1
+Slovo 1
+"mir" 1
+každom 1
+jezyku 1
+Слово 1
+"мир" 1
+красиво 1
+каждом 1
+језыку 1
+Nauka 1
+umětnost 1
+izkanja 1
+proste 1

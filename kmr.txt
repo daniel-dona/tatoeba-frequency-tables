@@ -1,9 +1,9 @@
 Ez 1252
 e 1060
-xwe 1050
+xwe 1051
 min 1029
 ji 1027
-bi 953
+bi 954
 li 859
 Ew 824
 ê 749
@@ -18,7 +18,7 @@ te 510
 de 475
 ne 419
 re 397
-Min 366
+Min 367
 di 309
 Hûn 307
 kir 302
@@ -73,7 +73,7 @@ dest 110
 vir 106
 Bi 105
 hev 102
-ev 96
+ev 97
 Divê 95
 got 92
 kiriye 92
@@ -292,6 +292,7 @@ dûr 20
 u 20
 serdana 20
 pênc 20
+pirtûk 20
 ciwan 20
 hebû 20
 xweşik 20
@@ -308,10 +309,10 @@ destê 19
 ka 19
 zarokên 19
 qasî 19
-pirtûk 19
 nabe 19
 biçin 19
 biçûk 19
+kirî 19
 kêfxweş 19
 jêr 19
 nava 19
@@ -333,7 +334,6 @@ Kurdî 18
 serbajarê 18
 Mala 18
 carî 18
-kirî 18
 baran 18
 pêş 18
 karî 18
@@ -474,6 +474,7 @@ der 12
 girtî 12
 bêje 12
 muzîkê 12
+azad 12
 ketin 12
 dizî 12
 dibînin 12
@@ -522,7 +523,6 @@ nikarî 11
 dengê 11
 derew 11
 bikirim 11
-azad 11
 mir 11
 herim 11
 Yek 11
@@ -1083,6 +1083,7 @@ nade 6
 fîlmekî 6
 bigere 6
 neyê 6
+pereyên 6
 pirtir 6
 dikanê 6
 lazim 6
@@ -1298,7 +1299,6 @@ sînemayê 5
 dixebitin 5
 Qet 5
 tevlihev 5
-pereyên 5
 nêz 5
 vegerim 5
 berdim 5
@@ -9454,3 +9454,4 @@ Heywan 1
 Rêçik 1
 xirabtir 1
 Paskalyayê 1
+Filistîna 1

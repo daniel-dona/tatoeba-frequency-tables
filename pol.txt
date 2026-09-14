@@ -1,7 +1,7 @@
 się 17517
 nie 14933
 jest 14601
-w 13165
+w 13166
 Tom 11520
 na 11038
 Nie 9670
@@ -18,7 +18,7 @@ mnie 3642
 ma 3221
 co 3156
 On 3006
-za 2952
+za 2953
 jak 2854
 tego 2666
 po 2591
@@ -62,7 +62,7 @@ przez 1084
 może 1075
 jestem 1052
 Jesteś 1032
-niż 1018
+niż 1019
 żeby 1014
 coś 1002
 mu 994
@@ -99,7 +99,7 @@ Gdzie 720
 mówi 714
 nas 712
 nigdy 699
-tę 697
+tę 698
 lat 695
 ciebie 681
 Kto 675
@@ -134,7 +134,7 @@ dziś 550
 Muszę 549
 nam 545
 masz 539
-czas 537
+czas 538
 naprawdę 526
 powiedzieć 521
 Wszyscy 519
@@ -150,7 +150,7 @@ jutro 487
 ludzi 486
 nim 486
 moim 484
-książkę 482
+książkę 483
 Moja 478
 gdzie 474
 raz 467
@@ -194,8 +194,8 @@ twój 383
 nadzieję 381
 ojciec 380
 Wiem 378
+pieniądze 377
 Musisz 376
-pieniądze 376
 musi 375
 Byłem 374
 zostać 374
@@ -242,8 +242,8 @@ swoim 315
 stało 313
 nocy 313
 długo 312
+cały 311
 kiedyś 310
-cały 310
 moją 310
 A 309
 Bardzo 309
@@ -267,8 +267,8 @@ Te 292
 kupić 292
 właśnie 291
 mamy 290
+lepiej 290
 jako 289
-lepiej 289
 O 288
 wiedzieć 288
 nad 286
@@ -559,13 +559,13 @@ nikogo 149
 wyjść 149
 wziąć 149
 zegarek 148
+Przez 148
 tydzień 148
 źle 148
 którego 148
 zjeść 148
 dziesięć 148
 późno 147
-Przez 147
 temat 147
 Była 147
 całą 147
@@ -675,13 +675,13 @@ jaki 124
 słowo 124
 zewnątrz 124
 piłkę 123
+Kupiłem 123
 Tu 123
 kota 123
 dać 123
 wystarczająco 123
 robisz 122
 pojęcia 122
-Kupiłem 122
 Uważam 122
 szczęście 122
 zrozumieć 122
@@ -1215,6 +1215,7 @@ Dokąd 69
 Słońce 69
 całym 68
 studentów 68
+brzmi 68
 Matka 68
 daje 68
 najszybciej 68
@@ -1234,7 +1235,6 @@ znaczenia 68
 zdjęcia 68
 bratem 68
 Moi 68
-brzmi 67
 widać 67
 byłoby 67
 Dam 67
@@ -1478,6 +1478,7 @@ Drzwi 56
 przekonać 56
 egzaminu 56
 gotować 56
+kieszeni 56
 śniegu 56
 godzinie 56
 duża 56
@@ -1508,7 +1509,6 @@ Pokaż 55
 Londynu 55
 owoce 55
 Widziałeś 55
-kieszeni 55
 Ciągle 55
 pijany 55
 ostatniej 55
@@ -1844,6 +1844,7 @@ siedział 45
 musiałem 45
 choć 45
 ziemię 45
+własne 45
 słowniku 45
 Która 45
 ulubiona 45
@@ -1879,7 +1880,6 @@ jezioro 44
 Żaden 44
 miastem 44
 zwierzę 44
-własne 44
 samochody 44
 dała 44
 ulubione 44
@@ -5838,6 +5838,7 @@ Impreza 12
 bynajmniej 12
 autor 12
 doskonały 12
+noszę 12
 prezydent 12
 dniu 12
 postać 12
@@ -6282,7 +6283,6 @@ zadzwoniła 11
 zawiesił 11
 pisaniu 11
 ryzyka 11
-noszę 11
 Przestałem 11
 ulica 11
 rugby 11
