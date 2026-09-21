@@ -1,4 +1,4 @@
-esas 3781
+esas 3784
 Me 2848
 la 2637
 ne 1670
@@ -152,12 +152,12 @@ konocas 65
 laboras 65
 tante 64
 tri 64
+lando 64
 ye 63
 habitas 63
 da 63
 irar 62
 lu 62
-lando 62
 Voluntez 61
 amiki 61
 ube 61
@@ -466,6 +466,7 @@ manjar 19
 Hodie 19
 lito 19
 nigra 19
+Francia 19
 Germania 19
 fratini 19
 ucelo 19
@@ -510,7 +511,6 @@ aden 17
 verajo 17
 Chinia 17
 amba 17
-Francia 17
 ridas 17
 ridis 17
 drinkis 17
@@ -813,6 +813,7 @@ laboris 10
 finis 10
 komputero 10
 moderna 10
+l'amoro 10
 ideo 10
 chera 10
 agis 10
@@ -901,7 +902,6 @@ l'aquo 9
 nokte 9
 sat 9
 utila 9
-l'amoro 9
 New 9
 York 9
 cirkume 9
@@ -1376,6 +1376,7 @@ sive 6
 latrino 6
 lego 6
 fetidesas 6
+L'amoro 6
 alkoholo 6
 mondumo 6
 kamiono 6
@@ -1620,7 +1621,6 @@ momento 5
 universitato 5
 Tomo 5
 estas 5
-L'amoro 5
 Nord-Korea 5
 Altra 5
 injenioro 5
@@ -4054,6 +4054,7 @@ baraktis 2
 luktis 2
 postulis 2
 Dansez 2
+geniala 2
 kalveskas 2
 kalva 2
 metodo 2
@@ -4172,6 +4173,7 @@ repasar 2
 kuseni 2
 exhaustita 2
 Preparez 2
+magna 2
 civila 2
 habitantaro 2
 ruptos 2
@@ -8521,7 +8523,6 @@ Klimez 1
 fekundeso 1
 lokaco 1
 scribas 1
-geniala 1
 invento 1
 Matisse 1
 experiencoza 1
@@ -9309,7 +9310,6 @@ nutraji 1
 Red 1
 Bull 1
 Zeus 1
-magna 1
 mitologio 1
 Hura 1
 Konkurso 1

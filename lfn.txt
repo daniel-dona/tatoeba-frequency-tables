@@ -1,7 +1,7 @@
-es 12242
+es 12246
 ia 9290
 la 8453
-un 6182
+un 6185
 de 5754
 Me 5208
 no 3935
@@ -76,7 +76,7 @@ vade 477
 Том 476
 tota 470
 No 459
-ama 450
+ama 451
 vide 439
 ва 430
 Un 416
@@ -198,11 +198,11 @@ ala 166
 tre 164
 franses 164
 дебе 164
+pais 163
 сабе 163
 madre 162
 fem 162
 auto 161
-pais 160
 дисе 159
 do 157
 лос 155
@@ -373,6 +373,7 @@ Multe 78
 ier 78
 flores 78
 апренде 78
+Frans 77
 testa 77
 recorda 76
 engles 76
@@ -386,7 +387,6 @@ parolas 74
 pasada 74
 pluve 74
 cuasi 74
-Frans 74
 frases 73
 pasa 73
 completa 73
@@ -666,6 +666,7 @@ Rusia 42
 popla 42
 disputa 42
 juor 42
+eselente 42
 refusa 42
 беви 42
 рекорда 42
@@ -681,7 +682,6 @@ ateni 41
 razona 41
 Xina 41
 letera 41
-eselente 41
 Fa 41
 фрасе 41
 Суа 41
@@ -773,6 +773,7 @@ nasion 36
 comentas 36
 Prende 36
 clui 36
+merveliosa 36
 universo 36
 Mostra 36
 lunlotra 36
@@ -792,7 +793,6 @@ lojical 35
 orgulosa 35
 governa 35
 noncoreta 35
-merveliosa 35
 costa 35
 весес 35
 еспета 35
@@ -979,6 +979,7 @@ arde 27
 lia 27
 spasio 27
 clima 27
+Ama 27
 seria 27
 studiante 27
 solo 27
@@ -1008,7 +1009,6 @@ punto 26
 dio 26
 studiantes 26
 Asi 26
-Ama 26
 ueste 26
 Parla 26
 novas 26

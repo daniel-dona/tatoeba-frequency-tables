@@ -1,9 +1,9 @@
 le 15812
-es 11777
-un 9536
-de 8735
-ha 6508
-Le 6062
+es 11782
+un 9540
+de 8736
+ha 6509
+Le 6063
 Io 5687
 in 5432
 non 5339
@@ -14,7 +14,7 @@ a 3396
 tu 3107
 Tom 3032
 Ille 2414
-me 2307
+me 2308
 io 2144
 Il 1908
 vos 1904
@@ -23,7 +23,7 @@ su 1860
 al 1835
 se 1788
 pro 1666
-con 1611
+con 1612
 ille 1541
 plus 1540
 mi 1367
@@ -67,7 +67,7 @@ tote 586
 va 585
 bon 570
 facer 570
-Non 563
+Non 564
 lingua 538
 In 537
 si 531
@@ -141,7 +141,7 @@ inter 251
 linguas 250
 jam 249
 — 247
-amor 244
+amor 246
 durante 243
 Como 243
 die 242
@@ -177,7 +177,7 @@ ora 202
 Ubi 199
 nulle 198
 infantes 197
-tres 194
+tres 195
 parolas 194
 importante 193
 matre 191
@@ -197,8 +197,8 @@ assi 178
 veni 176
 porta 175
 citate 175
+pais 174
 felice 170
-pais 170
 flores 170
 sta 167
 mar 166
@@ -228,8 +228,8 @@ problema 153
 illac 150
 infante 150
 amicos 148
+minus 148
 ration 147
-minus 147
 omne 146
 ab 146
 corde 146
@@ -331,6 +331,7 @@ Interlingua 102
 numero 102
 Quanto 102
 ultime 101
+merda 101
 heri 100
 alcun 100
 matino 100
@@ -338,7 +339,6 @@ habera 100
 familia 100
 ibi 100
 momento 100
-merda 100
 celo 99
 sia 98
 usa 98
@@ -471,6 +471,7 @@ festa 69
 lumine 69
 volerea 69
 viage 69
+Francia 69
 Vostre 69
 dece 69
 phrase 69
@@ -508,7 +509,6 @@ foras 65
 problemas 65
 football 65
 confidentia 65
-Francia 65
 vader 65
 ipse 65
 manos 64
@@ -569,6 +569,7 @@ certe 59
 habite 59
 sex 58
 latere 58
+joca 58
 pauco 58
 vale 58
 facie 58
@@ -583,7 +584,6 @@ dar 57
 somno 57
 casas 57
 haberea 57
-joca 57
 occupate 57
 futuro 57
 scribeva 57
@@ -978,6 +978,7 @@ silentio 34
 fortia 34
 nec 34
 projecto 34
+excellente 34
 insula 34
 arma 34
 breve 33
@@ -1002,7 +1003,6 @@ sexo 33
 experientia 33
 cura 33
 Ante 33
-excellente 33
 occurre 33
 original 33
 Poterea 32
@@ -1379,6 +1379,7 @@ colores 23
 retornava 23
 nata 23
 bordo 23
+meraviliose 23
 decideva 23
 decision 23
 salvage 23
@@ -1439,7 +1440,6 @@ effortio 22
 boteca 22
 folios 22
 O 22
-meraviliose 22
 crimine 22
 practic 22
 linea 22
@@ -2911,6 +2911,7 @@ initial 10
 protege 10
 arrivata 10
 pessime 10
+stupende 10
 liberar 10
 fugi 10
 distinction 10
@@ -3202,7 +3203,6 @@ sancte 9
 humile 9
 judice 9
 suave 9
-stupende 9
 soniava 9
 representate 9
 rational 9
@@ -5066,6 +5066,7 @@ guantos 5
 purmente 5
 campion 5
 Attention 5
+il" 5
 programmas 5
 Retorna 5
 jornales 5
@@ -5934,7 +5935,6 @@ triangulo 4
 quarte 4
 sexte 4
 decime 4
-il" 4
 inscription 4
 rolos 4
 offerite 4
@@ -6170,6 +6170,7 @@ hydrogeno 4
 principe 4
 practicava 4
 multissime 4
+generes 4
 inconsciente 4
 angleses 4
 discordo 4
@@ -7537,7 +7538,6 @@ benefic 3
 promovite 3
 anatomia 3
 Traduce 3
-generes 3
 validitate 3
 attraher 3
 violate 3
@@ -8214,6 +8214,7 @@ vagante 3
 militari 3
 furries 3
 pornographia 3
+"Al 3
 blasma 3
 furchetta-coclear 3
 bottinas 3
@@ -8230,6 +8231,7 @@ inundava 3
 Fibonacci 3
 Libya 3
 "Quanto 3
+"Quante 3
 memecoin 3
 granfilias 3
 Anonyme 3
@@ -9996,5 +9998,3 @@ remove 2
 axe 2
 indura 2
 marmores 2
-Mars 2
-electoral 2

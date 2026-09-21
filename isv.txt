@@ -4,9 +4,9 @@ ne 179
 jesm 119
 Tom 114
 v 94
+je 89
 Ty 87
-je 87
-se 79
+se 80
 On 69
 To 65
 My 59
@@ -17,7 +17,7 @@ jesi 43
 Ја 43
 i 37
 s 35
-to 34
+to 35
 jesmo 33
 byl 32
 је 32
@@ -58,10 +58,10 @@ vse 13
 knigu 13
 že 12
 Žitje 12
+jezyk 11
 kak 11
 ili 11
 Kto 10
-jezyk 10
 včera 10
 on 10
 moj 10
@@ -72,6 +72,7 @@ svoje 9
 byli 9
 mně 9
 Moja 8
+velmi 8
 nas 8
 dom 8
 ljubil 8
@@ -79,6 +80,7 @@ Moj 8
 Jego 8
 krasivy 8
 Marija 8
+moja 8
 idti 8
 Он 8
 Pes 7
@@ -87,13 +89,11 @@ kot 7
 žena 7
 Čto 7
 imaju 7
-velmi 7
 hočeš 7
 može 7
 jesti 7
 ju 7
 hočete 7
-moja 7
 tebe 7
 Svět 7
 pěnezy 7
@@ -180,6 +180,7 @@ glupy 4
 tom 4
 ryž 4
 napravdu 4
+kako 4
 napisala 4
 napisal 4
 samo 4
@@ -222,6 +223,7 @@ očah 4
 ли 4
 Тєњ 4
 Prosim 3
+Dobry 3
 denj 3
 Dobro 3
 govori 3
@@ -258,7 +260,6 @@ avtobus 3
 poema 3
 byvaje 3
 gitaru 3
-kako 3
 hoču 3
 silno 3
 pročital 3
@@ -365,7 +366,6 @@ nikogdy 3
 ја 3
 ту 3
 нас 3
-Dobry 2
 utro 2
 hodili 2
 kralja 2
@@ -439,6 +439,7 @@ shematične 2
 plany 2
 A 2
 nos 2
+lěpy 2
 uviděti 2
 Fadil 2
 čital 2
@@ -1048,7 +1049,6 @@ Ahoj 1
 pravdivo 1
 pocělunky 1
 Isus 1
-lěpy 1
 nevdečni 1
 Život 1
 son 1
@@ -2474,3 +2474,9 @@ Nauka 1
 umětnost 1
 izkanja 1
 proste 1
+Zdravite 1
+imate 1
+den 1
+prva 1
+rečenica 1
+Interslavsky 1

@@ -1,7 +1,7 @@
-is 197
+is 200
 I 147
 the 140
-a 110
+a 112
 that 102
 and 95
 to 85
@@ -66,6 +66,7 @@ hound 10
 appel 10
 whan 10
 wol 10
+love 10
 shal 10
 Who 10
 Ther 10
@@ -76,7 +77,6 @@ ne 9
 þe 9
 or 9
 hem 9
-love 9
 trewe 9
 thyn 9
 woundes 9
@@ -192,6 +192,7 @@ mi 4
 cruelest 4
 moneth 4
 houndes 4
+contre 4
 Alle 4
 place 4
 Tom 4
@@ -223,6 +224,7 @@ helpe 4
 oother 4
 semeth 4
 wisest 4
+Fraunce 4
 who 4
 lieth 4
 faren 4
@@ -396,7 +398,6 @@ borken 2
 Berlyn 2
 think 2
 forthan 2
-contre 2
 floodis 2
 tho 2
 comen 2
@@ -438,6 +439,7 @@ voide 2
 same 2
 moste 2
 better 2
+Love 2
 Tres 2
 fisch 2
 boke 2
@@ -637,7 +639,6 @@ Almyghty 2
 han 2
 Dremeth 2
 Drem 2
-Fraunce 2
 sam 2
 poet 2
 briddes 2
@@ -857,7 +858,6 @@ wiþdrawynge 1
 auntes 1
 Epstein 1
 morthered 1
-Love 1
 Fre 1
 Scotlond 1
 Bihold 1
@@ -1560,3 +1560,5 @@ wyket 1
 Venus 1
 pryve 1
 shap 1
+waried 1
+wonderful 1

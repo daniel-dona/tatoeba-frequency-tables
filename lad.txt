@@ -1,9 +1,9 @@
-es 339
+es 343
 Tom 187
-un 170
+un 173
 la 131
-de 129
-El 126
+de 130
+El 127
 en 123
 el 118
 No 114
@@ -192,6 +192,7 @@ Ma 7
 Avlas 7
 ermoza 7
 avlash 7
+paiz 7
 livro 7
 personas 7
 abandono 7
@@ -243,6 +244,7 @@ kayendo 6
 arina 6
 vuestro 6
 albanez 6
+pais 5
 Eyos 5
 muncho 5
 avlar 5
@@ -265,7 +267,6 @@ Tienes 5
 Nunka 5
 livros 5
 arabo 5
-paiz 5
 estash 5
 Berlin 5
 מאנסאנה 5
@@ -276,6 +277,7 @@ kave 5
 yo 5
 לינגואס 5
 lavoro 5
+amor 5
 karne 5
 קירו 5
 בﬞידרי 5
@@ -298,7 +300,6 @@ mos 5
 tan 4
 Mis 4
 kapital 4
-pais 4
 muerte 4
 mama 4
 por 4
@@ -413,6 +414,7 @@ vino 3
 lavorando 3
 bive 3
 kavayo 3
+medra 3
 sea 3
 amariya 3
 John 3
@@ -456,6 +458,7 @@ atakaron 3
 dezir 3
 vedra 3
 Islam 3
+ekselente 3
 persona 3
 Keremos 3
 בﬞיאו 3
@@ -475,7 +478,7 @@ pirata 3
 piratas 3
 libera 3
 afilu 3
-amor 3
+Fransia 3
 גאטוס 3
 perriko 3
 similares 3
@@ -591,7 +594,6 @@ Tyenes 2
 Le 2
 vido 2
 gusta 2
-medra 2
 luz 2
 Nadar 2
 fasil 2
@@ -693,7 +695,6 @@ puerpo 2
 kuerpo 2
 Internet 2
 Djudaismo 2
-ekselente 2
 Abandono 2
 entendi 2
 japonez 2
@@ -1396,7 +1397,6 @@ briye 1
 senta 1
 ביבﬞימוס 1
 סוסיידﬞאד 1
-Fransia 1
 Oksidentala 1
 פﬞראנצייה 1
 איברופה 1
@@ -2516,3 +2516,5 @@ arte 1
 bushkar 1
 simples 1
 Freies 1
+Francia 1
+maraviyozo 1

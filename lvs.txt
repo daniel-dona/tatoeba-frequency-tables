@@ -1,6 +1,6 @@
 ir 4137
-Es 3127
-Toms 1453
+Es 3128
+Toms 1454
 ka 1310
 to 1282
 Vai 1176
@@ -35,7 +35,7 @@ vai 322
 daudz 310
 savu 307
 Tomam 301
-esi 285
+esi 286
 būt 284
 jūs 284
 viņš 282
@@ -82,10 +82,10 @@ vienkārši 142
 arī 141
 Jūs 141
 Šī 140
+Lūdzu 140
 varētu 138
 ja 138
 vēl 136
-Lūdzu 135
 kad 134
 nekā 134
 vajag 134
@@ -405,6 +405,7 @@ nevarēju 27
 jautājumu 27
 noticēt 27
 Un 27
+uzmanību 27
 strādāt 26
 vēlreiz 26
 grāmata 26
@@ -412,6 +413,7 @@ vakar 26
 izdevās 26
 puses 26
 priekš 26
+Mariju 26
 mājas 26
 Šīs 26
 divas 26
@@ -433,7 +435,6 @@ kamēr 25
 likās 25
 dīvaini 25
 Ļauj 25
-Mariju 25
 skaļi 25
 Jūsu 25
 Šķiet 25
@@ -442,12 +443,12 @@ zināju 25
 it 25
 sieviete 25
 nezināju 25
+pāri 25
 dzīvē 25
 Kaut 25
 mēdz 25
 Tam 25
 starp 25
-uzmanību 25
 ceru 24
 spēj 24
 problēmu 24
@@ -467,7 +468,6 @@ cukura 24
 slikts 24
 tieši 24
 izdarīju 24
-pāri 24
 franču 24
 paldies 24
 lika 24
@@ -575,6 +575,7 @@ trūkst 20
 nevari 20
 pareizi 20
 izklausās 20
+uzmanīgs 20
 mēģināt 20
 jautājumus 20
 negrib 19
@@ -641,7 +642,6 @@ labā 18
 tos 18
 mieru 18
 Pie 18
-uzmanīgs 18
 piekusis 18
 sirdsapziņa 17
 rokas 17
@@ -963,6 +963,7 @@ uzdot 12
 jauka 12
 atvainoties 12
 muļķīgi 12
+uzmanīgi 12
 saules 12
 jūras 12
 kuriem 12
@@ -1047,7 +1048,6 @@ negaršo 11
 nedomā 11
 Cerams 11
 padomāt 11
-uzmanīgi 11
 veselībai 11
 Jo 11
 daudzas 11
@@ -1643,6 +1643,7 @@ atšķiras 7
 salīdzināt 7
 apēda 7
 dziļāku 7
+esiet 7
 reizes 7
 pateicu 7
 saprātu 7
@@ -2308,7 +2309,6 @@ juta 5
 gaitā 5
 sāpīgi 5
 vīna 5
-esiet 5
 smiekli 5
 veselo 5
 tūkstošiem 5
@@ -5374,6 +5374,7 @@ nepieciešamos 2
 čūskas 2
 guļam 2
 zālē 2
+slieksnim 2
 slieksnis 2
 Rimas 2
 Iesim 2
@@ -7278,6 +7279,7 @@ citronu 2
 paskriet 2
 cīnījās 2
 pelējums 2
+kodu 2
 karogus 2
 tumši 2
 rakstāmgalds 2
@@ -9565,7 +9567,6 @@ neproduktīvi 1
 iekļaut 1
 vadīja 1
 pārkāpa 1
-slieksnim 1
 pārkāpis 1
 slieksni 1
 iešāva 1
@@ -9997,4 +9998,3 @@ nagu 1
 deguna 1
 rok 1
 sliekai 1
-vīriešu 1

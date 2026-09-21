@@ -1,6 +1,6 @@
 Ez 232
 ra 155
-mi 128
+mi 129
 o 125
 Tom 105
 Ma 103
@@ -19,8 +19,8 @@ nê 56
 ya 54
 û 53
 kena 49
+zaf 48
 ez 47
-zaf 47
 hes 46
 yê 45
 rê 45
@@ -36,8 +36,8 @@ dı 32
 ê 30
 To 29
 No 29
+Mi 29
 va 28
-Mi 28
 A 26
 ney 26
 Mary 25
@@ -149,6 +149,7 @@ nas 8
 rind 8
 şîya 8
 Aye 8
+hîrê 8
 Keyeyê 8
 ké 7
 Şo 7
@@ -176,7 +177,6 @@ kitabê 7
 bike 7
 bikero 7
 ne 7
-hîrê 7
 la 7
 Eke 7
 rojan 7
@@ -210,6 +210,7 @@ Birayê 6
 çin 6
 dewa 6
 awe 6
+vizêrî 6
 mekteb 6
 tena 6
 Her 6
@@ -253,12 +254,12 @@ yî 5
 Meşte 5
 vaje 5
 şimena 5
-vizêrî 5
 verê 5
 îngilizkî 5
 bikerê 5
 kontrol 5
 ça 5
+sereyê 5
 keyeyî 5
 dî 5
 Kurdîstanî 5
@@ -341,7 +342,6 @@ newe 4
 newîye 4
 bide 4
 bido 4
-sereyê 4
 Yew 4
 Kurdê 4
 goşt 4
@@ -3019,3 +3019,10 @@ xozayîyî 1
 10ê 1
 Îlon 1
 nîyameya 1
+perey 1
+bişewe 1
+dubleyî 1
+whîskey 1
+şimit 1
+Cokanî 1
+dejayêne 1

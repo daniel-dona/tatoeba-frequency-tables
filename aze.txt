@@ -1,24 +1,24 @@
-Tom 1026
+Tom 1028
 Mən 918
 O 751
 Bu 705
-bir 462
+bir 463
 var 449
 və 436
 ki 394
 çox 332
-nə 306
+nə 308
 üçün 257
 Onlar 256
 idi 249
-də 245
+də 246
 Biz 226
-deyil 221
+deyil 222
 bu 218
 heç 216
 ilə 182
-Sən 171
-daha 163
+Sən 172
+daha 164
 Tomun 161
 bunu 150
 istəyirəm 149
@@ -32,9 +32,9 @@ Onun 133
 gün 126
 Siz 121
 elə 121
-onu 117
+onu 118
 o 115
-Bir 112
+Bir 113
 edə 112
 Azərbaycan 110
 yoxdur 107
@@ -59,10 +59,10 @@ danışmaq 84
 bilirəm 84
 deyiləm 84
 bilmirəm 81
+etmək 79
 Bunu 78
 şey 78
 davam 78
-etmək 77
 baş 77
 il 76
 iki 75
@@ -73,20 +73,20 @@ dedi 71
 sənin 70
 niyə 70
 Niyə 70
+et 70
 onun 69
-et 69
 istifadə 69
 hələ 67
 kömək 67
 ona 66
+Heç 65
 Toma 65
 Hər 64
-Heç 64
 Sənin 63
 məni 63
+ildə 63
 öz 62
 sonra 62
-ildə 62
 kim 61
 Zəhmət 60
 Yaponiya 60
@@ -105,8 +105,8 @@ neçə 52
 az 52
 bilər 52
 Sami 52
+bilərəm 51
 həmişə 51
-bilərəm 50
 Bütün 50
 bilmir 50
 zəng 50
@@ -120,10 +120,10 @@ Xahiş 49
 oldu 48
 belə 47
 gedir 47
+Onunla 47
 Sənə 47
 olan 47
 indi 46
-Onunla 46
 idim 45
 haradadır 45
 yeni 45
@@ -148,22 +148,23 @@ ol 41
 danışa 41
 deyildi 41
 verdi 41
+sən 41
 Əliyev 41
 Bizim 40
 bütün 40
 bilərsən 40
 cəhd 40
-sən 40
 paytaxtıdır 39
 etməyə 39
 Sizin 38
 əvvəl 38
 isə 38
 dilində 38
+Onların 38
 istəmirəm 37
 olmaq 37
 qəbul 37
-Onların 37
+gecə 37
 amma 37
 harada 36
 gözəl 36
@@ -173,8 +174,8 @@ sizə 36
 bizə 36
 Dünən 35
 alma 35
-gecə 35
 Prezidenti 35
+istəyirsən 34
 sevir 34
 yaşayıram 34
 ya 34
@@ -184,7 +185,6 @@ Onlarla 34
 yerə 34
 lazımdır 33
 verin 33
-istəyirsən 32
 gedirəm 32
 gəldi 32
 siz 32
@@ -199,6 +199,7 @@ saat 31
 ölkədir 31
 su 31
 gördüm 30
+kəs 30
 başladı 30
 başqa 30
 sizi 30
@@ -214,7 +215,6 @@ yaxşıdır 29
 Gəlin 29
 barədə 29
 bizim 29
-kəs 29
 verir 29
 böyükdür 29
 istəyir 29
@@ -257,6 +257,7 @@ danışmağa 25
 onlarla 25
 on 24
 iş 24
+Burada 24
 Hansı 24
 bilərsiniz 24
 maşın 24
@@ -266,7 +267,6 @@ bax 24
 etdilər 24
 ehtiyacı 24
 eləyin 24
-Burada 23
 ingilis 23
 demək 23
 dəqiqə 23
@@ -570,6 +570,7 @@ görmək 12
 etməyi 12
 kifayət 12
 at 12
+qala 12
 kişi 12
 dost 12
 Bazar 12
@@ -626,7 +627,6 @@ digər 11
 dil 11
 əti 11
 bundan 11
-qala 11
 Mənimlə 11
 edilib 11
 Mənlə 11
@@ -648,6 +648,7 @@ başlayır 11
 gedib 11
 onları 11
 get 11
+rəqs 11
 deyin 11
 bizimlə 11
 danışırlar 11
@@ -677,6 +678,7 @@ yüksək 11
 olmuşdur 11
 üzrə 11
 Silahı 11
+seçilib 11
 Amerika 10
 içində 10
 tennis 10
@@ -721,7 +723,6 @@ Müharibə 10
 hardan 10
 velosiped 10
 - 10
-rəqs 10
 yerinə 10
 gəlmişəm 10
 qadağan 10
@@ -855,7 +856,6 @@ dayandır 9
 uyğun 9
 düşünürsüz 9
 bip 9
-seçilib 9
 tarixi 8
 tutdu 8
 hanı 8
@@ -896,6 +896,7 @@ Fransızca 8
 Həmişə 8
 Məndən 8
 şirin 8
+bilərəmmi 8
 İnsan 8
 gedirsən 8
 Ad 8
@@ -905,6 +906,7 @@ təşkil 8
 yerləşən 8
 yağır 8
 Rusiya 8
+gülümsədi 8
 qədim 8
 xoşlayır 8
 Bilmirəm 8
@@ -1053,7 +1055,6 @@ gətirəcəm 7
 olduğuna 7
 avtobus 7
 ac 7
-bilərəmmi 7
 yəqin 7
 vurma 7
 axmaq 7
@@ -1065,7 +1066,6 @@ Atam 7
 balası 7
 oxudu 7
 kənd 7
-gülümsədi 7
 kağız 7
 dəqiq 7
 Problem 7
@@ -1281,6 +1281,7 @@ bacım 6
 aid 6
 milli 6
 Yaponiyadan 6
+dəvət 6
 gedəcək 6
 alıram 6
 itirmişəm 6
@@ -1568,7 +1569,6 @@ eşidə 5
 yaşaya 5
 ağıllıdırlar 5
 fincan 5
-dəvət 5
 boyu 5
 dur 5
 özümü 5
@@ -1859,6 +1859,7 @@ Melani 4
 Qırmızı 4
 içə 4
 dilləri 4
+Nensi 4
 avtobusa 4
 baxaq 4
 birdən 4
@@ -2170,6 +2171,7 @@ təsəvvür 4
 varsa 4
 Fikir 4
 çoxdur 4
+Orada 4
 birinə 4
 düşündüm 4
 görmüsən 4
@@ -2386,6 +2388,7 @@ Tövbə 4
 Sorğu-sual 4
 Kapitulyasiya 4
 içirsiz 4
+Axı 4
 ədalətlidir 4
 uzanıb 4
 dəxli 4
@@ -2474,7 +2477,6 @@ Buxar 3
 Pendir 3
 Kitablarınızı 3
 kollecdə 3
-Nensi 3
 oynayaq 3
 qatar 3
 anidən 3
@@ -2944,7 +2946,6 @@ duz 3
 duzladı 3
 Çinin 3
 hissəsi 3
-Orada 3
 təhlükəli 3
 Doğrudur 3
 deyəcək 3
@@ -3173,6 +3174,7 @@ faciəsi 3
 illərdir 3
 Əliyevanın 3
 dünyaya 3
+2008-ci 3
 15-də 3
 haqqında” 3
 Pythonda 3
@@ -3350,7 +3352,6 @@ Gördüm 3
 bəyəndim 3
 Yollar 3
 eynidir 3
-Axı 3
 gicdıllaq 3
 Şahmat 3
 Qədeş 3
@@ -3375,6 +3376,7 @@ undur 3
 axtarırdıq 3
 önəmlidir 3
 nəzakətli 3
+axı 3
 müvəqqəti 3
 həbsdən 3
 türmədən 3
@@ -3626,6 +3628,7 @@ qocadır 2
 qalacaqsan 2
 çalıram 2
 Gözüm 2
+görüşərik 2
 Yanğına 2
 tibb 2
 Minlərlə 2
@@ -3886,6 +3889,7 @@ imzaladı 2
 gərək 2
 Cümə 2
 görməyimə 2
+qalmağı 2
 yazılı 2
 pulun 2
 buradadır 2
@@ -4348,6 +4352,7 @@ soydu 2
 kartof 2
 Cənubi 2
 Dakotada 2
+etməyib 2
 Montana 2
 Şərqi 2
 xüsusilə 2
@@ -5017,7 +5022,6 @@ sistemli 2
 soyqırımının 2
 Ümummilli 2
 Fondunun 2
-2008-ci 2
 ictimaiyyətə 2
 simasına 2
 ruhları 2
@@ -5867,7 +5871,6 @@ cəmiyyət 2
 mədəniyyəti 2
 quraq 2
 düşündü 2
-axı 2
 İşimi 2
 heyrətamiz 2
 bağlanmayıb 2
@@ -5997,6 +6000,7 @@ başlayırsan 2
 uçurum 2
 çəkinin 2
 başındayam 2
+Senata 2
 vә 1
 cәnablar 1
 Sizә 1
@@ -6592,7 +6596,6 @@ Rahatlaşaq 1
 islaqdır 1
 Qumarı 1
 Dinclik 1
-görüşərik 1
 Yeriyek 1
 Ozərifdir 1
 yuyundu 1
@@ -7291,7 +7294,6 @@ bağlayasınız 1
 günorta 1
 boşsan 1
 zombiyəm 1
-qalmağı 1
 getməkdən 1
 Qiymətlər 1
 oğludur 1
@@ -8747,7 +8749,6 @@ Raşmor 1
 dağını 1
 yataqları 1
 tapılmışdı 1
-etməyib 1
 Meksikayla 1
 təqribən 1
 qışda 1
@@ -9997,4 +9998,3 @@ eşşəyindir 1
 pianinada 1
 ikinizə 1
 xoşbəxtliyini 1
-arzulayıram 1

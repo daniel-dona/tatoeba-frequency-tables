@@ -1,5 +1,5 @@
 on 29513
-ei 10810
+ei 10811
 Tom 9931
 Hän 8492
 ja 6916
@@ -131,13 +131,13 @@ yksi 604
 tuo 601
 tässä 576
 eilen 575
-he 573
+he 574
 ettei 571
 takaisin 568
 tulla 566
 Kuka 565
+rahaa 565
 enemmän 564
-rahaa 564
 usein 545
 olevan 542
 minut 541
@@ -1058,6 +1058,7 @@ haluavat 83
 sano 83
 jatkuvasti 83
 Tää 83
+oo 83
 Lääkäri 82
 tappoi 82
 huone 82
@@ -1066,12 +1067,12 @@ Juna 82
 nimesi 82
 jää 82
 muut 82
+loppui 82
 kaikkien 82
 asun 82
 muuttaa 82
 pelkkä 82
 Tomiin 82
-oo 82
 tiesi 82
 hyväksi 81
 Yritän 81
@@ -1080,7 +1081,6 @@ Hyvä 81
 huoneeseen 81
 lisäksi 81
 tuohon 81
-loppui 81
 niistä 81
 asiasta 81
 autoni 81
@@ -1362,6 +1362,7 @@ elokuva 64
 joukko 64
 tein 64
 Olimme 64
+Mulla 64
 Yanni 64
 puolesta 63
 katsoo 63
@@ -1379,7 +1380,6 @@ ikäinen 63
 alkanut 63
 Olitko 63
 kokeile 63
-Mulla 63
 totuus 62
 vahva 62
 toisiaan 62
@@ -1572,6 +1572,7 @@ sairaalassa 55
 seksiä 55
 mulle 55
 Hänestä 54
+kirjettä 54
 velkaa 54
 juhlissa 54
 lahjan 54
@@ -1602,7 +1603,6 @@ kateellinen 54
 Pysykää 54
 kunpa 54
 kielletty 53
-kirjettä 53
 yliopistossa 53
 monet 53
 vaimonsa 53

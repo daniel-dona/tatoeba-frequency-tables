@@ -5,7 +5,7 @@ Si 54
 Toms 40
 do 37
 ma 35
-Tkva 35
+Tkva 34
 te 32
 Tena 31
 vare 29
@@ -23,9 +23,9 @@ taki 21
 Chkimi 21
 Chki 20
 chkimi 20
-Tis 20
 Te 19
 reno 19
+Tis 19
 xolo 18
 dǧas 18
 breli 18
@@ -56,12 +56,12 @@ rdƨ 12
 ჩქი 11
 ტომს 11
 toms 11
-ɣudes 11
 xvale 11
 rena 11
 tes 11
 Ase 11
 michku 10
+ɣudes 10
 arti 10
 Tomk 10
 va 10
@@ -102,6 +102,7 @@ uǧƨ 7
 თენა 6
 ოკო 6
 მოკო 6
+თქვა 6
 ტომი 6
 ç̌iç̌e 6
 skvami 6
@@ -124,7 +125,6 @@ miɔors 6
 ǩaṫu 6
 სი 5
 რექო 5
-თქვა 5
 shilebe 5
 borjis 5
 Kishilebeno 5
@@ -163,7 +163,6 @@ tişi 5
 miɣorsu 5
 ragadanko 5
 vamoǩo 5
-osuri 5
 Çkimi 5
 mangaro 5
 ტომქ 5
@@ -200,7 +199,6 @@ xamu 4
 ეთიქ 4
 Mushi 4
 osaç̌iru 4
-Malas 4
 Mendi 4
 amnaxanṫi 4
 Kortxint 4
@@ -214,6 +212,7 @@ uudes 4
 çkaras 4
 rek 4
 oxorans 4
+osuri 4
 mangari 4
 Musheni 4
 reko 4
@@ -281,6 +280,7 @@ Diachkimi 3
 boshi 3
 chxuru 3
 დღას 3
+Malas 3
 mudgareni 3
 oxorants 3
 sharas 3
@@ -403,6 +403,7 @@ skvam 2
 mudgas 2
 voxorandi 2
 vauǧudu 2
+თაში 2
 Glaxat 2
 ginirtƨ 2
 doǧuru 2
@@ -547,6 +548,7 @@ gomordzgua 2
 ჭიჭე 2
 რაგადანქო 2
 ბორჯის 2
+ეთის 2
 universiṫeṫish 2
 teşe 2
 moko 2
@@ -584,7 +586,7 @@ Dozodjit 2
 ortudi 2
 mangioro 2
 shuntsu 2
-Mire 2
+ჸუდეს 2
 odinuans 2
 bç̌ǩomu 2
 vart 2
@@ -726,7 +728,6 @@ djveshi 2
 giǧuno 2
 dzǧabis 2
 Briuselsha 2
-xvadu 2
 Vari 2
 gepshvat 2
 vamiɔorʒ 2
@@ -930,7 +931,6 @@ vamartinasin 1
 mutuner 1
 Gaç̌ireba 1
 კანკალე 1
-თაში 1
 ფირქენს 1
 mordebuan 1
 sharaluash 1
@@ -1695,7 +1695,6 @@ aç̌udun 1
 გილაძუ 1
 ტყურელო 1
 ვოდინუანთ 1
-ეთის 1
 მეტი 1
 ვამათმინებე 1
 დოზოჯი 1
@@ -1919,10 +1918,13 @@ Geishagorit 1
 Sore 1
 tzq'ars 1
 bshunk 1
-vauuns 1
-gegito 1
-muk 1
-moxvad 1
+ვაჸუნს 1
+ოსური 1
+მირე 1
+მალას 1
+გეგითო 1
+მუქ 1
+მოხვადჷ 1
 Ebdirtutu 1
 ushkurts 1
 fifrke 1
@@ -2424,6 +2426,7 @@ vap̌irenki 1
 vaulinuna 1
 Otxi 1
 p̌undu 1
+Mire 1
 maɣ'ale 1
 girçkileku 1
 reǩio 1
@@ -3171,7 +3174,6 @@ Hoṫelsha 1
 xiba 1
 gandju 1
 tsiraskua 1
-ჸუდეს 1
 ვაუღუ 1
 Kigegito 1
 bǧurutu 1
@@ -3191,6 +3193,7 @@ alaidirtukƨ 1
 Sǩua 1
 vap̌unʒ 1
 michkƨdas 1
+xvadu 1
 sichxiani 1
 Oç̌ishuanko 1
 Ǩope 1
@@ -3622,7 +3625,7 @@ giç̌q'oliduasƨn 1
 ირიათო 1
 მანგარი 1
 კოფეს 1
-Tash 1
+ხვადუ 1
 ოსორსქუა 1
 ქიანას 1
 გურაფულენს 1
