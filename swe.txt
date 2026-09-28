@@ -1,29 +1,29 @@
-är 11775
-Jag 11368
+är 11776
+Jag 11369
 att 7173
-Tom 7140
-inte 6995
+Tom 7143
+inte 6997
 en 5191
 du 5181
-på 4898
+på 4899
 det 4806
-i 4634
-har 4268
-Det 3931
+i 4636
+har 4269
+Det 3932
 Han 3442
 jag 3187
 mig 2757
 för 2720
-här 2683
+här 2684
 var 2635
 med 2477
 till 2395
 och 2362
 om 2282
-Hon 2091
+Hon 2092
 ett 1967
 som 1924
-dig 1920
+dig 1922
 Vi 1908
 den 1853
 kan 1696
@@ -38,7 +38,7 @@ vill 1131
 De 1111
 ni 1105
 mycket 989
-min 986
+min 987
 skulle 983
 Hur 966
 Mary 946
@@ -77,8 +77,8 @@ Varför 540
 man 534
 Min 525
 gå 525
-er 518
-från 514
+er 520
+från 517
 aldrig 505
 någon 484
 gillar 464
@@ -377,6 +377,7 @@ sitter 95
 hitta 95
 glad 94
 del 94
+borta 93
 arbetar 93
 ihåg 93
 långt 93
@@ -384,7 +385,6 @@ slog 93
 kvar 93
 igår 92
 genom 92
-borta 92
 rummet 92
 alls 92
 snabbt 91
@@ -398,13 +398,13 @@ bästa 89
 tidigt 89
 öl 89
 åker 89
+Håll 89
 ger 88
 Finns 88
 Sverige 87
 börjar 87
 Ett 86
 arg 86
-Håll 86
 särskilt 86
 varandra 85
 ögon 85
@@ -418,11 +418,11 @@ hörde 84
 enda 83
 mor 83
 annan 83
+lade 83
 Marys 83
 ung 82
 bordet 82
 föll 82
-lade 82
 familj 82
 mellan 82
 sätt 82
@@ -521,6 +521,7 @@ livet 65
 medan 65
 Vilka 65
 musik 65
+huvudet 65
 person 64
 mår 64
 be 64
@@ -532,7 +533,6 @@ hjälpte 64
 dotter 64
 tvungen 64
 våra 64
-huvudet 64
 stora 64
 deras 63
 enkelt 63
@@ -803,6 +803,7 @@ katten 41
 veckan 41
 förklara 41
 ordet 41
+okej 41
 sängen 41
 Ser 41
 blå 41
@@ -821,7 +822,6 @@ lägga 40
 Inte 40
 senaste 40
 saken 40
-okej 40
 stark 40
 någonstans 40
 sjunger 40
@@ -1075,6 +1075,7 @@ menade 28
 genast 28
 polisen 28
 ikväll 28
+undan 28
 USA 28
 häst 28
 vikt 28
@@ -1147,7 +1148,6 @@ gitarr 26
 hittar 26
 Två 26
 vanligt 26
-undan 26
 sparken 26
 skrek 26
 läxor 26
@@ -1445,6 +1445,7 @@ antagligen 20
 ö 20
 beredd 20
 simmar 20
+Bilen 20
 direkt 20
 sökte 20
 rena 20
@@ -1514,7 +1515,6 @@ pass 19
 tydligt 19
 bråttom 19
 hatten 19
-Bilen 19
 Bli 19
 matematik 19
 skidor 19
@@ -1700,6 +1700,7 @@ Er 16
 värd 16
 bära 16
 undrade 16
+benet 16
 danska 16
 minnas 16
 överraskning 16
@@ -1787,7 +1788,6 @@ cyklar 15
 skämtar 15
 systrar 15
 fötter 15
-benet 15
 drömmar 15
 fruktansvärt 15
 svensk 15
@@ -2446,6 +2446,7 @@ sträng 10
 nöje 10
 erfarenhet 10
 modern 10
+fastnade 10
 lös 10
 mobiltelefon 10
 velat 10
@@ -2674,7 +2675,6 @@ bokstäver 9
 Fåglarna 9
 alfabetet 9
 bita 9
-fastnade 9
 öde 9
 saknade 9
 ångra 9
@@ -7373,6 +7373,7 @@ berömt 3
 kurder 3
 vässade 3
 Vik 3
+skuldra 3
 armstödet 3
 huvudstationen 3
 urinen 3
@@ -9997,4 +9998,3 @@ kroppar 2
 Jobba 2
 munkar 2
 galant 2
-familjetraditioner 2

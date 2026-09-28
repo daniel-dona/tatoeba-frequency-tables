@@ -1,6 +1,6 @@
-Mwen 36
+Mwen 37
 se 29
-yon 23
+yon 24
 pa 22
 ou 21
 te 18
@@ -33,6 +33,7 @@ angle 5
 pi 5
 Li 5
 Èske 5
+gen 5
 kreyòl 4
 M 4
 wo 4
@@ -40,7 +41,6 @@ m 4
 wè 4
 la 4
 ayisyen 4
-gen 4
 gason 4
 Bonjou 3
 konprann 3
@@ -315,3 +315,4 @@ byè 1
 dòmi 1
 Lanmou 1
 lanmou 1
+kouto 1

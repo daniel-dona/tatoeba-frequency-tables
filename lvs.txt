@@ -1,13 +1,13 @@
 ir 4137
 Es 3128
-Toms 1454
+Toms 1455
 ka 1310
 to 1282
 Vai 1176
 Man 1102
 es 943
 tu 901
-un 868
+un 869
 Viņš 861
 par 773
 bija 769
@@ -36,7 +36,7 @@ daudz 310
 savu 307
 Tomam 301
 esi 286
-būt 284
+būt 285
 jūs 284
 viņš 282
 viņa 278
@@ -47,7 +47,7 @@ viņu 252
 patīk 246
 kaut 245
 pārāk 240
-tikai 235
+tikai 236
 ne 232
 Tā 229
 Kāpēc 228
@@ -823,6 +823,7 @@ Manuprāt 14
 esot 14
 varēja 14
 Pietiek 14
+mēģināja 14
 kādi 14
 vietu 14
 visam 14
@@ -887,7 +888,6 @@ sievietes 13
 iemeslu 13
 Agrāk 13
 darīju 13
-mēģināja 13
 domājat 13
 savs 13
 Katrs 13
@@ -1322,6 +1322,7 @@ radis 9
 paciest 9
 iesākt 9
 tīri 9
+godīgs 9
 katrs 9
 Sākumā 9
 palaidu 9
@@ -1487,7 +1488,6 @@ klātbūtne 8
 apzināti 8
 cukuru 8
 drošību 8
-godīgs 8
 sajūtas 8
 tēmas 8
 saprātīgi 8
@@ -5265,6 +5265,7 @@ viesnīcas 2
 apskatīt 2
 aizsardzības 2
 aizliegta 2
+atklāts 2
 ūdenim 2
 dzīvībai 2
 gabala 2
@@ -9264,7 +9265,6 @@ iejūtīgi 1
 nodarbojaties 1
 Lasīšana 1
 ierodas 1
-atklāts 1
 Papildus 1
 Gaļas 1
 biezums 1

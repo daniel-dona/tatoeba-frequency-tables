@@ -16,7 +16,7 @@ a 57
 yst 46
 mew 44
 eo 44
-Nw 40
+Nw 41
 sunt 38
 er 37
 Ty 35
@@ -35,7 +35,7 @@ llw 20
 gath 20
 per 20
 gw 19
-sun 18
+sun 19
 gws 17
 af 17
 sew 17
@@ -448,6 +448,7 @@ menh 2
 noethfent 2
 nadyral 2
 chos 2
+ystran 2
 dyn 2
 uddirant 2
 compraf 2
@@ -857,7 +858,6 @@ effeith 1
 athened 1
 yspidal 1
 ddorfirai 1
-ystran 1
 cloddef 1
 tornad 1
 Gheis 1

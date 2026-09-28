@@ -1,5 +1,5 @@
 d 417
-ad 355
+ad 356
 n 249
 di 239
 Tom 229
@@ -11,7 +11,7 @@ Mani 153
 war 128
 Necc 121
 Min 117
-Wer 116
+Wer 117
 Qa 110
 zi 107
 War 105
@@ -53,8 +53,8 @@ manaya 41
 ayi 40
 Manis 40
 ttuɣa 40
+x 39
 ɣer-s 39
-x 38
 Xseɣ 38
 tameccit 38
 yella 37
@@ -170,6 +170,7 @@ qqimeɣ 13
 tuɣa 13
 bu 13
 wenẓar 13
+aydi 13
 Kenniw 13
 yeɛna 13
 d-ijjen 13
@@ -189,7 +190,6 @@ lmliḥ 12
 Nec 12
 ixes 12
 man 12
-aydi 12
 tamaynut 12
 tilifun 12
 ṯaglinziṯ 12
@@ -233,6 +233,7 @@ yeggur 10
 tawwurt 10
 Baba 10
 bla 10
+ubrid 10
 ṯ 10
 maɣer 10
 Ṯexẓar 10
@@ -255,11 +256,12 @@ dd-tewwuyd 9
 baba 9
 taxxamt 9
 yeqqimen 9
+Ɣer-k 9
 Ɣer-neɣ 9
+Ɣer-s 9
 tunubil 9
 yedwel 9
 ataras 9
-ubrid 9
 Sakura 9
 zemmreɣ 9
 qqar 9
@@ -297,7 +299,6 @@ taggurt 8
 Iraḥ 8
 amaynu 8
 kul 8
-Ɣer-k 8
 aweddar 8
 Ijjen 8
 iḍlisen 8
@@ -383,7 +384,6 @@ Mari 6
 ḏa 6
 uxxam 6
 iṯ 6
-Ɣer-s 6
 Tamaziɣt 6
 baba-s 6
 yi 6
@@ -554,6 +554,7 @@ Mayen 4
 da-yi 4
 ṯinniḏ 4
 ijen 4
+aqzin 4
 ujenna 4
 neggur 4
 akeḏ 4
@@ -770,7 +771,6 @@ texsd 3
 neɣ 3
 ayyur 3
 tameqrant 3
-aqzin 3
 tfawt 3
 qa-c 3
 ustralya 3
@@ -1026,6 +1026,7 @@ timeḍlin 3
 Tiɣri 3
 umḍal 3
 tanglizit 3
+yyis 3
 Arzuɣ 2
 wami 2
 tecceɣ 2
@@ -1752,6 +1753,7 @@ Idezzayriyen 2
 texsen 2
 ɣer-k 2
 ɣer-wem 2
+Ɣer-m 2
 d-yedwel 2
 udem-nnes 2
 Yirar 2
@@ -1820,6 +1822,7 @@ taddart-nnes 2
 ttexseɣ-tt 2
 tessawaled 2
 yewwet 2
+Ufiɣ-t 2
 uɛdis 2
 ussan-a 2
 tettharded 2
@@ -4580,7 +4583,6 @@ afunas 1
 ɣer-nneɣ 1
 ɣer-wemt 1
 ɣer-sent 1
-Ɣer-m 1
 Ɣer-wem 1
 Ɣer-wemt 1
 Leonid 1
@@ -4828,7 +4830,6 @@ Iḍennaṭ 1
 Friḍennaṭ 1
 Friwafriḍennat 1
 Usint-d 1
-Ufiɣ-t 1
 Ẓrin-nneɣ 1
 Ɛawneɣ-ten 1
 Yewta 1
@@ -5291,3 +5292,7 @@ Francisco 1
 Fransisku 1
 Jjiɣ-t 1
 Jiyfeɣ-t 1
+Lemdeɣ-t 1
+tt-tejja 1
+tendeh 1
+Ttesqsiɣ 1

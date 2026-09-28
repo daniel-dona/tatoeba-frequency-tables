@@ -1,7 +1,7 @@
-an 683
+an 684
 a 651
 Tá 632
-mé 406
+mé 407
 ag 401
 Is 335
 é 271
@@ -11,8 +11,8 @@ go 218
 bhfuil 214
 sé 214
 An 211
-seo 194
-Ní 184
+seo 195
+Ní 185
 agam 173
 Níl 167
 liom 155
@@ -45,8 +45,8 @@ dul 55
 ann 55
 leis 54
 Cad 54
+leabhar 53
 Cén 53
-leabhar 52
 siad 51
 duine 48
 iarraidh 48
@@ -490,6 +490,7 @@ nDoire 4
 gúna 4
 bhris 4
 Seán 4
+cheannóidh 4
 hocht 4
 bhfanann 4
 slaghdán 4
@@ -613,7 +614,6 @@ dinnéir 3
 amhlaidh 3
 bhriseadh 3
 ghlanadh 3
-cheannóidh 3
 Inniu 3
 t-airgead 3
 cáca 3

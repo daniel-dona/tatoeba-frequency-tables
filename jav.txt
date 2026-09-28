@@ -6,13 +6,13 @@ iku 55
 aku 54
 iki 53
 Kowé 53
-ing 51
+ing 52
 nang 48
 Dhèwèké 44
 karo 41
-ana 35
+ana 36
+kowé 34
 basa 34
-kowé 33
 apa 32
 seneng 31
 dhéwé 30
@@ -39,9 +39,9 @@ lagi 19
 Ana 18
 weruh 18
 saka 18
+gawé 18
 sinau 18
 manèh 17
-gawé 17
 buku 17
 kaya 16
 ta 16
@@ -70,6 +70,7 @@ isih 11
 ngono 11
 teka 11
 turu 11
+nyambut 11
 tuku 11
 awak 11
 ngombé 11
@@ -80,7 +81,6 @@ ngerti 10
 kanggo 10
 akèh 10
 Kowe 10
-nyambut 10
 apik 9
 Panjenengan 9
 kucing 9
@@ -131,6 +131,7 @@ waé 6
 larang 6
 maca 6
 Dhèké 6
+ngendi 6
 nanging 6
 banget 6
 péngin 6
@@ -165,7 +166,6 @@ dhèké 5
 banyu 5
 tindak 5
 dhateng 5
-ngendi 5
 dhéwéké 5
 Basa 5
 Indhonésia 5
@@ -224,6 +224,7 @@ ingkang 4
 kaping 4
 Ayo 4
 Jam 4
+Biyèn 4
 blas 4
 dalan 4
 teles 4
@@ -297,7 +298,6 @@ budhal 3
 dhuwit 3
 Anaké 3
 sisan 3
-Biyèn 3
 pèlem 3
 asuné 3
 iling 3
@@ -1762,7 +1762,6 @@ gratis 1
 ꦲꦏꦸꦲꦶꦱꦠꦸꦫꦸꦤꦁꦲꦼꦤ꧀ꦢꦶꦲꦼꦤ꧀ꦢꦶ꧉ 1
 dicokot 1
 ꦲꦏꦸꦢꦶꦕꦺꦴꦏꦺꦴꦠ꧀ꦲꦱꦸ꧉ 1
- 1
 ꦒꦼꦤꦺꦪꦝꦺꦮꦺꦏ꧀ꦏꦺꦲꦉꦥ꧀ꦏꦽꦗꦤꦁꦏꦺꦤꦺ 1
 ꦤꦁꦏꦺꦤꦺꦩꦺꦃꦲꦺꦴꦫꦠꦲꦸꦲꦸꦢꦤ꧀꧈ 1
 ꦲꦏꦸꦲꦶꦏꦶꦧꦺꦴꦗꦺꦴꦩꦸ 1
@@ -2328,3 +2327,4 @@ mbuntuti 1
 rajané 1
 ꦲꦏꦸꦫꦗꦤꦺꦢꦺꦴꦚ꧉ 1
 ꦏꦧꦺꦃꦭꦫꦁ꧉ 1
+ꦧꦶꦶꦪꦺꦤ꧀ꦏꦺꦴꦮꦺꦚꦩ꧀ꦧꦸꦠ꧀ꦒꦮꦺꦲꦤꦲꦶꦁꦔꦼꦤ꧀ꦢꦶ 1

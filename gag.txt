@@ -1,4 +1,4 @@
-Bän 13
+Bän 14
 var 10
 Neredä 4
 hayır 4
@@ -7,6 +7,7 @@ kedi 3
 yaşêêrım 3
 çalışêrım 3
 yaşêêr 3
+kiyadı 3
 mü 2
 kızımı 2
 Bendä 2
@@ -19,7 +20,6 @@ Benim 2
 Ördeklär 2
 deredä 2
 Petri 2
-kiyadı 2
 yazêr 2
 oynêêrım 2
 Sendä 1
@@ -152,3 +152,6 @@ Sadece 1
 bän 1
 geldim 1
 dün 1
+satın 1
+almayacam 1
+bu 1

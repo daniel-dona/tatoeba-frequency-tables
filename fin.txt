@@ -1,7 +1,7 @@
 on 29513
 ei 10811
-Tom 9931
-Hän 8492
+Tom 9932
+Hän 8493
 ja 6916
 että 6909
 Tomi 6404
@@ -628,9 +628,9 @@ tuntuu 140
 onko 140
 Tämän 139
 ettet 139
+mihin 139
 tulet 139
 aikana 138
-mihin 138
 häneltä 137
 pelkää 137
 tärkeää 137
@@ -3245,6 +3245,7 @@ suusi 26
 odota 26
 näyttämään 26
 Pojat 26
+pelkäsi 26
 kolmas 26
 asioiden 26
 mustasukkainen 26
@@ -3371,7 +3372,6 @@ Käykö 25
 itsemurhan 25
 ilmainen 25
 oppimaan 25
-pelkäsi 25
 Mikäli 25
 pysy 25
 joukossa 25
@@ -5532,6 +5532,7 @@ kylmään 14
 minuutti 14
 Opiskeletko 14
 hyvä” 14
+kykenee 14
 eilisestä 14
 annettu 14
 riisistä 14
@@ -5893,7 +5894,6 @@ Välillä 13
 väärän 13
 määrän 13
 eläimistä 13
-kykenee 13
 lopetat 13
 jolle 13
 koreaa 13
@@ -9505,7 +9505,6 @@ tonnia 8
 päivisin 8
 matkustan 8
 matolla 8
-Pelkäsin 8
 t 8
 4 8
 toit 8
@@ -9998,3 +9997,4 @@ herättäkö 8
 tanskalaisen 8
 virstan 8
 laturia 8
+neljäsosan 8

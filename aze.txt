@@ -1,8 +1,8 @@
-Tom 1028
+Tom 1029
 Mən 918
 O 751
-Bu 705
-bir 463
+Bu 706
+bir 464
 var 449
 və 436
 ki 394
@@ -14,7 +14,7 @@ idi 249
 də 246
 Biz 226
 deyil 222
-bu 218
+bu 219
 heç 216
 ilə 182
 Sən 172
@@ -67,7 +67,7 @@ baş 77
 il 76
 iki 75
 artıq 73
-olmasa 72
+olmasa 73
 görə 71
 dedi 71
 sənin 70
@@ -129,12 +129,12 @@ haradadır 45
 yeni 45
 sizin 45
 İndi 44
+kitab 44
 dilini 44
 burada 44
 istərdim 44
 bilir 44
 olub 44
-kitab 43
 daxil 43
 onunla 43
 nədir 42
@@ -347,6 +347,7 @@ Sİ 19
 çətindir 18
 bilərik 18
 tanış 18
+zəhmət 18
 təşəkkür 18
 hava 18
 oğlu 18
@@ -371,7 +372,6 @@ yüklədi 18
 asan 17
 beş 17
 Həyat 17
-zəhmət 17
 dedim 17
 verdim 17
 pulu 17
@@ -402,9 +402,11 @@ tapa 16
 oxumağa 16
 Yalnız 16
 danışıram 16
+verə 16
 deyə 16
 güclü 16
 evdə 16
+Kimsə 16
 Merini 16
 Onlara 16
 məşğul 16
@@ -435,10 +437,8 @@ gəlmir 15
 əsas 15
 Günəş 15
 təhsil 15
-verə 15
 ala 15
 qara 15
-Kimsə 15
 etməyin 15
 Bunun 15
 istədi 15
@@ -746,6 +746,7 @@ Məhəmməd 10
 Kömək 10
 görünürdü 10
 söylədi 10
+görmüşəm 10
 düzgün 10
 video 10
 saxla 10
@@ -842,7 +843,6 @@ danışın 9
 müstəqilliyi 9
 razı 9
 al 9
-görmüşəm 9
 gedən 9
 istirahət 9
 Verilənlər 9
@@ -923,6 +923,7 @@ yer 8
 tərəf 8
 hamımız 8
 istəyirlər 8
+əvvəllər 8
 biraz 8
 üstünlük 8
 atam 8
@@ -1094,7 +1095,6 @@ bilirlər 7
 bıçaq 7
 qayğısına 7
 etdik 7
-əvvəllər 7
 olmayacam 7
 uzaq 7
 oxuyursan 7
@@ -1518,6 +1518,7 @@ asır 5
 dostu 5
 bizdən 5
 bezdim 5
+əlində 5
 qutu 5
 inkar 5
 zərər 5
@@ -1684,6 +1685,7 @@ düz 5
 Çində 5
 üzmək 5
 yeyə 5
+içəri 5
 Türk 5
 təbrik 5
 səyahət 5
@@ -1899,7 +1901,6 @@ Riyaziyyatı 4
 maşına 4
 paltar 4
 qırdı 4
-əlində 4
 barmağını 4
 həsr 4
 acdır 4
@@ -2175,7 +2176,6 @@ Orada 4
 birinə 4
 düşündüm 4
 görmüsən 4
-içəri 4
 Spagetti 4
 olmaqla 4
 xalqına 4
@@ -2769,6 +2769,7 @@ yaşayıb 3
 İspaniyanın 3
 asılıdır 3
 küləkli 3
+oynadım 3
 birbaşa 3
 Çətirimi 3
 ağaca 3
@@ -2866,6 +2867,7 @@ etibarlı 3
 içmir 3
 qanadları 3
 İsrailin 3
+üzü 3
 yu 3
 saymağa 3
 Amerikaya 3
@@ -4056,7 +4058,6 @@ Atamın 2
 axtar 2
 dayazdır 2
 yazıçıdır 2
-oynadım 2
 Əlcəzairdə 2
 Meymun 2
 haqlıdır 2
@@ -4290,7 +4291,6 @@ Məsihə 2
 çevirdi 2
 Məsih 2
 Məryəm 2
-üzü 2
 Dəməşq 2
 pomidor 2
 fındıq 2
@@ -4661,6 +4661,7 @@ imzalamaq 2
 Xəstəlik 2
 təsirini 2
 təsiri 2
+şərh 2
 xərclədilər 2
 itirdilər 2
 pulunu 2
@@ -4741,6 +4742,7 @@ artaraq 2
 itirdiniz 2
 qoymuram 2
 Martino 2
+girdi 2
 tapıb 2
 yuxumda 2
 şərqdən 2
@@ -9951,7 +9953,6 @@ Sankt-Peterburqda 1
 Donuzlar 1
 Kənddə 1
 Hazırda 1
-şərh 1
 aşpaz 1
 boşam 1
 xərcləyiblər 1
@@ -9997,4 +9998,3 @@ yazılmış 1
 eşşəyindir 1
 pianinada 1
 ikinizə 1
-xoşbəxtliyini 1

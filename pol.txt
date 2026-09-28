@@ -4,7 +4,7 @@ jest 14602
 w 13166
 Tom 11520
 na 11038
-Nie 9670
+Nie 9672
 to 8989
 że 8378
 do 7954
@@ -69,7 +69,7 @@ mu 994
 by 982
 jeszcze 972
 pan 964
-tej 961
+tej 962
 mam 952
 była 933
 tam 899
@@ -93,7 +93,7 @@ teraz 750
 Chcę 737
 zawsze 730
 iść 730
-ją 728
+ją 729
 chce 726
 Gdzie 721
 mówi 714
@@ -112,7 +112,7 @@ wiele 609
 Nigdy 609
 czasu 608
 pracy 603
-wiem 601
+wiem 602
 zbyt 598
 trochę 597
 miał 595
@@ -275,9 +275,9 @@ nad 286
 razy 286
 angielsku 285
 Japonii 284
+książki 284
 niej 283
 wieczorem 283
-książki 283
 ludzie 283
 wygląda 281
 Jesteśmy 281
@@ -308,7 +308,7 @@ wielu 259
 u 258
 Do 257
 swoich 256
-dlaczego 254
+dlaczego 255
 uczyć 254
 Jaki 252
 Każdy 252
@@ -966,6 +966,7 @@ problemu 87
 Tego 87
 zapomnij 87
 sprawy 87
+kocham 87
 Większość 87
 jaką 87
 rodzina 87
@@ -977,7 +978,6 @@ jenów 86
 szóstej 86
 Szkoda 86
 otwarte 86
-kocham 86
 czasem 86
 Będziemy 86
 śmierć 86
@@ -4002,6 +4002,7 @@ tłumaczenia 19
 Wskutek 19
 innej 19
 węży 19
+kupię 19
 Między 19
 powierzchni 19
 niesie 19
@@ -4175,7 +4176,6 @@ szła 18
 Afryki 18
 rezerwację 18
 spóźniony 18
-kupię 18
 lipca 18
 najwyżej 18
 popełnić 18

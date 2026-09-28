@@ -1,10 +1,10 @@
-le 15812
-es 11782
-un 9540
-de 8736
-ha 6509
-Le 6063
-Io 5687
+le 15815
+es 11786
+un 9544
+de 8737
+ha 6512
+Le 6065
+Io 5689
 in 5432
 non 5339
 que 5169
@@ -12,7 +12,7 @@ e 3641
 del 3411
 a 3396
 tu 3107
-Tom 3032
+Tom 3033
 Ille 2414
 me 2308
 io 2144
@@ -80,7 +80,7 @@ place 494
 sur 489
 parla 477
 illes 465
-mundo 458
+mundo 460
 vostre 454
 ama 448
 belle 447
@@ -123,13 +123,13 @@ crede 296
 cosa 292
 nihil 285
 Ha 283
-nove 280
+nove 281
 Qui 280
 annos 271
 personas 269
 libro 268
 persona 264
-besonio 262
+besonio 263
 morte 261
 faceva 260
 mangia 260
@@ -161,9 +161,9 @@ amico 220
 ante 217
 Qual 217
 bibe 215
+Tote 213
 usque 212
 essera 212
-Tote 211
 melior 211
 loco 211
 parve 209
@@ -195,8 +195,8 @@ the 183
 alicun 181
 assi 178
 veni 176
+citate 176
 porta 175
-citate 175
 pais 174
 felice 170
 flores 170
@@ -215,10 +215,10 @@ les 161
 alique 161
 parola 160
 terra 160
+schola 159
 poteva 159
 vidite 159
 qual 158
-schola 158
 musica 158
 tosto 157
 vide 156
@@ -301,16 +301,16 @@ habe 116
 comenciava 115
 los 114
 possibile 114
+mie 114
 sembla 114
 plen 114
 filio 113
-mie 113
 Multe 113
 Tatoeba 113
+perdite 113
 causa 112
 deveniva 112
 caffe 112
-perdite 112
 circa 111
 nonne 111
 alteres 110
@@ -627,6 +627,7 @@ nasceva 53
 vento 53
 Sape 53
 gratias 53
+perdeva 53
 legite 53
 beltate 53
 mente 53
@@ -640,7 +641,6 @@ inimico 52
 "Io 52
 oblida 52
 Durante 52
-perdeva 52
 demandava 52
 caso 52
 general 52
@@ -3462,6 +3462,7 @@ Bilthoven 8
 memorias 8
 organisate 8
 plan 8
+culo 8
 signate 8
 avantages 8
 repete 8
@@ -3872,7 +3873,6 @@ revenite 7
 limitate 7
 confessa 7
 humilitate 7
-culo 7
 miseria 7
 apertura 7
 apparatos 7
@@ -4391,6 +4391,7 @@ Islanda 6
 schermo 6
 fixemente 6
 crescite 6
+Alex 6
 habitation 6
 cliente 6
 Hebreo 6
@@ -5070,7 +5071,6 @@ il" 5
 programmas 5
 Retorna 5
 jornales 5
-Alex 5
 alba 5
 convictiones 5
 convincente 5
@@ -6142,6 +6142,7 @@ antiquate 4
 funebre 4
 vanitate 4
 calefaction 4
+foramine 4
 apprendera 4
 scintilla 4
 venenose 4
@@ -7510,7 +7511,6 @@ cognoscimentos 3
 Lectores 3
 immortalitate 3
 enunciation 3
-foramine 3
 florescer 3
 strictemente 3
 depressive 3
