@@ -6,7 +6,7 @@ ja 6916
 että 6909
 Tomi 6404
 ole 6373
-oli 5780
+oli 5781
 En 4988
 Minä 4487
 Se 3820
@@ -700,11 +700,11 @@ kolmen 122
 Minulle 122
 mieluummin 122
 minkä 122
+alle 122
 Näytät 122
 sellaista 121
 uutta 121
 voittaa 121
-alle 121
 Laita 120
 Kissa 120
 töihin 120
@@ -2113,6 +2113,7 @@ ratkaista 41
 tarinan 41
 vuodessa 41
 pystyn 41
+matkaa 41
 sanottavaa 41
 Haluatteko 41
 Voitteko 41
@@ -2163,7 +2164,6 @@ kuulemma 40
 uudesta 40
 Jokaisella 40
 töistä 40
-matkaa 40
 minäkin 40
 Sota 40
 runsaasti 40

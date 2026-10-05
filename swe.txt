@@ -1,7 +1,7 @@
 är 11776
 Jag 11369
 att 7173
-Tom 7143
+Tom 7144
 inte 6997
 en 5191
 du 5181
@@ -16,7 +16,7 @@ mig 2757
 för 2720
 här 2684
 var 2635
-med 2477
+med 2478
 till 2395
 och 2362
 om 2282
@@ -31,11 +31,11 @@ av 1621
 Du 1614
 han 1270
 kommer 1266
-sig 1230
+sig 1231
 så 1209
 Vad 1177
 vill 1131
-De 1111
+De 1112
 ni 1105
 mycket 989
 min 987
@@ -82,7 +82,7 @@ från 517
 aldrig 505
 någon 484
 gillar 464
-åt 462
+åt 463
 finns 445
 blev 444
 dag 430
@@ -117,7 +117,7 @@ såg 350
 kom 350
 älskar 349
 hur 348
-dem 339
+dem 340
 borde 338
 När 335
 få 328
@@ -238,7 +238,7 @@ andra 159
 liv 156
 verkar 155
 förstår 154
-ur 153
+ur 154
 ingenting 153
 ner 151
 Man 150
@@ -352,12 +352,12 @@ dagar 101
 satt 101
 annat 99
 Tack 99
+vägen 99
 Allt 99
 Din 99
 te 99
 fått 99
 son 98
-vägen 98
 Mina 98
 fru 98
 katt 98
@@ -449,7 +449,7 @@ lämna 78
 arbete 78
 lever 78
 dricka 78
-fyra 77
+fyra 78
 ute 77
 gått 77
 träffade 77
@@ -489,11 +489,11 @@ tro 71
 tillräckligt 71
 lärare 70
 folk 70
+råd 70
 låg 70
 undrar 70
 flera 69
 dö 69
-råd 69
 skrev 69
 använder 69
 tyska 68
@@ -1328,6 +1328,7 @@ fest 22
 slutet 22
 söt 22
 uppskattar 22
+Få 22
 meddelande 22
 flyger 22
 djupt 22
@@ -1370,7 +1371,6 @@ nyligen 21
 flickan 21
 betalade 21
 nycklar 21
-Få 21
 egna 21
 misslyckades 21
 esperanto 21
@@ -3254,6 +3254,7 @@ skräckfilmer 7
 svaga 7
 öst 7
 knät 7
+finner 7
 mans 7
 - 7
 känslig 7
@@ -3662,7 +3663,6 @@ byggt 6
 kuvert 6
 träna 6
 gudar 6
-finner 6
 jamar 6
 höna 6
 människans 6
@@ -3819,6 +3819,7 @@ hoppet 6
 lata 6
 klädde 6
 rosa 6
+års 6
 befinner 6
 unionen 6
 nål 6
@@ -4420,7 +4421,6 @@ Res 5
 Tysklands 5
 påstod 5
 Somliga 5
-års 5
 avsnitt 5
 fabrik 5
 släkting 5
@@ -6536,6 +6536,8 @@ hopplöst 3
 malaria 3
 omloppsbana 3
 inträffar 3
+olympiska 3
+spelen 3
 Meddela 3
 franskt 3
 självförtroende 3
@@ -8750,8 +8752,7 @@ Raketen 2
 fenomen 2
 Skadorna 2
 översvämningen 2
-olympiska 2
-spelen 2
+anordnas 2
 jag” 2
 Grannarna 2
 dras 2
@@ -9997,4 +9998,3 @@ tillåtelse 2
 kroppar 2
 Jobba 2
 munkar 2
-galant 2

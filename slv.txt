@@ -2,7 +2,7 @@ je 1234
 se 286
 v 243
 Ali 241
-sem 213
+sem 214
 in 193
 ne 159
 da 142
@@ -95,6 +95,7 @@ prosim 20
 Na 20
 oče 20
 do 20
+Zelo 20
 dobro 20
 sta 20
 stane 20
@@ -104,7 +105,6 @@ biti 19
 knjigo 19
 kar 19
 vem 19
-Zelo 19
 življenje 19
 jih 19
 Vse 19
@@ -824,6 +824,7 @@ pomlad 3
 koder 3
 pravijo 3
 nimajo 3
+hrane 3
 učiti 3
 kakor 3
 Njegov 3
@@ -1060,6 +1061,7 @@ vedo 3
 čudovito 3
 obstaja 3
 nauči 3
+glede 3
 Umetna 3
 Učenje 3
 Znaš 2
@@ -1217,7 +1219,6 @@ zgodila 2
 preden 2
 Gre 2
 enako 2
-hrane 2
 kolesa 2
 telefona 2
 navdušila 2
@@ -1909,7 +1910,6 @@ papeža 2
 odrasteš 2
 Poroka 2
 oddaje 2
-glede 2
 ven 2
 nabiralnik 2
 izgleda 2
@@ -5485,3 +5485,4 @@ esperantu 1
 julija 1
 1887 1
 Dodaj 1
+izbirčen 1

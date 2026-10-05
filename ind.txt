@@ -1,12 +1,12 @@
-tidak 3673
+tidak 3674
 Aku 3590
 Tom 3503
-yang 3266
-di 2911
-itu 2219
-Dia 2067
+yang 3267
+di 2912
+itu 2220
+Dia 2068
 ini 1997
-Saya 1632
+Saya 1634
 kamu 1561
 akan 1412
 aku 1215
@@ -17,16 +17,16 @@ dan 1079
 ke 1047
 adalah 1035
 untuk 922
-ada 915
-dia 858
+ada 916
+dia 859
 dari 831
-pergi 790
+pergi 791
 ingin 772
 Kamu 770
 Apa 748
 sudah 741
 tahu 740
-Apakah 733
+Apakah 734
 orang 668
 Anda 651
 Mary 650
@@ -40,7 +40,7 @@ harus 549
 dalam 545
 sedang 533
 Kami 530
-makan 524
+makan 525
 punya 509
 Ini 500
 hari 491
@@ -65,14 +65,14 @@ Di 328
 tinggal 323
 Tidak 321
 datang 320
+bukan 319
 Itu 319
-bukan 318
 Kita 312
 melakukan 309
 seperti 304
 belajar 300
-masih 297
-saja 282
+masih 298
+saja 283
 Ada 281
 sebuah 278
 menjadi 277
@@ -80,7 +80,7 @@ baik 276
 memiliki 270
 tidur 265
 satu 263
-belum 260
+belum 261
 bahwa 255
 semua 255
 dua 248
@@ -89,7 +89,7 @@ buku 242
 waktu 241
 juga 240
 sekali 236
-baru 235
+baru 236
 berbicara 225
 tiga 224
 dapat 215
@@ -118,7 +118,7 @@ saat 179
 kota 177
 daripada 176
 anak 176
-lalu 174
+lalu 175
 pun 174
 lakukan 172
 Kau 172
@@ -141,8 +141,8 @@ uang 156
 Prancis 155
 mulai 154
 kepada 153
+hidup 152
 kembali 152
-hidup 151
 membuat 150
 bertemu 149
 terlihat 148
@@ -178,12 +178,12 @@ jalan 123
 benar-benar 123
 oleh 121
 berada 121
+bulan 119
 tua 119
 Berapa 118
-bulan 118
+mati 118
 pulang 118
 bagus 117
-mati 117
 Kalau 116
 sering 116
 begitu 115
@@ -261,8 +261,8 @@ butuh 83
 seekor 83
 muda 82
 jauh 82
+siang 82
 laki-laki 82
-siang 81
 memberi 81
 pekerjaan 81
 dekat 80
@@ -286,11 +286,11 @@ sebagai 75
 jangan 75
 enak 74
 mudah 74
+menit 74
 dulu 74
 rasa 74
 cinta 74
 mahal 73
-menit 73
 jatuh 73
 bawah 73
 berbahasa 73
@@ -314,6 +314,7 @@ mencari 69
 Buku 69
 Indonesia 69
 indah 68
+lima 68
 berjalan 68
 denganmu 68
 surat 68
@@ -321,7 +322,6 @@ mengambil 68
 hitam 68
 selesai 68
 Mungkin 68
-lima 67
 penting 67
 marah 67
 bagaimana 67
@@ -400,6 +400,7 @@ tadi 54
 Pada 53
 ruangan 53
 kaki 53
+manusia 53
 biasanya 53
 menerima 53
 sekitar 53
@@ -415,7 +416,6 @@ milik 52
 Ziri 52
 taman 51
 Karena 51
-manusia 51
 kesalahan 51
 bahagia 51
 bertanya 51
@@ -424,11 +424,11 @@ setuju 51
 Saat 50
 kelas 50
 lelah 50
+lapar 50
 kapan 50
 nggak 50
 sepanjang 49
 daging 49
-lapar 49
 Ketika 49
 ingat 49
 Esperanto 49
@@ -465,6 +465,7 @@ membawa 44
 Ayo 44
 belas 44
 sebenarnya 44
+bukanlah 44
 membuatku 44
 tolong 43
 Boleh 43
@@ -476,7 +477,6 @@ Kucing 43
 hati 43
 kedua 43
 kosong 43
-bukanlah 43
 tertawa 42
 mengunjungi 42
 biasa 42
@@ -1845,6 +1845,7 @@ acara 9
 pucat 9
 Baik 9
 melukis 9
+kelinci 9
 Meksiko 9
 kejadian 9
 pembohong 9
@@ -2036,7 +2037,6 @@ hendak 8
 tanyakan 8
 berbaring 8
 jantung 8
-kelinci 8
 rokok 8
 filmnya 8
 internet 8
@@ -2703,6 +2703,7 @@ pusing 5
 demikian 5
 koper 5
 keberuntungan 5
+Hewan 5
 menghubunginya 5
 mengingatkanku 5
 memungkinkan 5
@@ -3143,7 +3144,6 @@ temui 4
 Pengetahuan 4
 menyediakan 4
 Kurang 4
-Hewan 4
 finansial 4
 umurmu 4
 lift 4
@@ -4348,6 +4348,7 @@ merebus 3
 sekian 3
 menyuruhmu 3
 Michael 3
+Binatang 3
 membiarkanku 3
 gambarnya 3
 santun 3
@@ -5720,7 +5721,6 @@ pintu-pintunya 2
 ditinggal 2
 lobster 2
 diberitahukan 2
-Binatang 2
 lukisan-lukisan 2
 "Eh 2
 kita" 2
@@ -6924,6 +6924,7 @@ mukaku 2
 kolom 2
 hemat 2
 Jawabanku 2
+Suamimu 2
 menstimulasi 2
 Suami 2
 keraguan 2
@@ -9997,4 +9998,3 @@ Kaukasia 1
 luput 1
 kepercayaanku 1
 didasarkan 1
-kemarau 1

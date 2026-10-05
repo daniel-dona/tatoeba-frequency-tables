@@ -1,41 +1,41 @@
 t 2026
 is 1966
 k 1880
-n 1812
-nait 1114
+n 1816
+nait 1115
 Tom 919
 van 814
-Ik 781
-Hai 713
+Ik 784
+Hai 714
 dat 677
-binnen 621
-de 603
+binnen 623
+de 606
 te 557
 op 527
-mie 512
-het 510
-in 489
-Wie 457
+mie 513
+het 512
+in 491
+Wie 459
 mit 453
-en 442
+en 443
 mien 437
 ien 402
 Is 374
-doe 360
+doe 356
 Zai 340
 veur 336
 aan 328
+noar 328
 was 324
-noar 324
 heur 306
 joe 296
 zien 293
 De 288
 dien 279
+die 273
 Wat 273
-die 272
+hebben 272
 gain 272
-hebben 271
 wat 271
 as 268
 Ze 264
@@ -47,7 +47,7 @@ Heb 243
 om 241
 Dat 238
 heb 231
-hom 202
+hom 203
 Bin 199
 dij 183
 kin 180
@@ -57,7 +57,7 @@ Hou 174
 Der 171
 veul 170
 Dizze 169
-dizze 163
+dizze 164
 ie 161
 Dit 160
 Woar 159
@@ -69,9 +69,9 @@ Kin 147
 ons 147
 ze 147
 oet 141
-goan 138
+goan 139
+zain 134
 bie 134
-zain 133
 e 133
 dit 132
 zo 129
@@ -93,7 +93,7 @@ Zie 104
 joar 102
 wezen 99
 niks 98
-zel 96
+zel 97
 Was 95
 of 94
 ook 92
@@ -122,8 +122,8 @@ Dij 73
 Houveul 71
 vroagen 69
 Wil 68
+hoes 68
 geern 67
-hoes 67
 Bist 67
 wotter 66
 tied 66
@@ -160,6 +160,7 @@ hou 54
 gaait 54
 kocht 53
 waiten 53
+wol 53
 vroag 53
 weer 52
 Dou 52
@@ -167,7 +168,6 @@ nije 52
 Wait 52
 Heur 52
 loat 52
-wol 52
 uut 52
 dag 51
 gaauw 51
@@ -208,16 +208,17 @@ huus 42
 goie 41
 Zel 41
 As 41
+kinst 41
 kinder 41
 boeten 40
 wazzen 40
-kinst 40
 moaken 40
 Het 39
 Dien 39
 geld 39
 man 39
 staait 39
+kon 39
 loaten 39
 zellen 39
 Kiek 38
@@ -225,7 +226,6 @@ Mag 38
 stad 38
 gong 38
 jong 38
-kon 38
 Elkenain 38
 noeit 38
 wien 37
@@ -244,10 +244,10 @@ helpen 36
 zitten 36
 dou 36
 zunder 36
+In 36
 waarkt 35
 ligt 35
 Op 35
-In 35
 moeke 34
 Engels 34
 din 34
@@ -304,7 +304,6 @@ weg 28
 leden 28
 alles 28
 best 27
-wast 27
 haard 27
 vroug 27
 lopen 27
@@ -328,6 +327,7 @@ net 26
 voader 26
 aigen 26
 Hoat 25
+wast 25
 kloar 25
 thoes 25
 spreken 25
@@ -411,7 +411,6 @@ tien 21
 geboren 21
 verlet 21
 achter 21
-mìnsen 21
 schrieven 21
 Mout 21
 groag 21
@@ -424,6 +423,7 @@ staark 20
 stoet 20
 Gain 20
 kieken 20
+boksem 20
 Mot 20
 taiken 20
 Joen 20
@@ -447,9 +447,9 @@ wichter 19
 verteld 19
 schoul 19
 zuiken 19
-boksem 19
 houd 19
 Austroalie 19
+schreven 19
 dust 19
 zollen 19
 kees 19
@@ -478,7 +478,6 @@ toalen 18
 Ken 18
 femilie 18
 hoat 18
-schreven 18
 appels 18
 hol 18
 belang 18
@@ -514,6 +513,7 @@ Gainain 17
 Guster 17
 daaier 17
 traauwd 17
+leroar 17
 woarhaid 17
 Wees 17
 leste 17
@@ -528,11 +528,11 @@ vrouger 16
 kost 16
 verjoardag 16
 toukomst 16
+verhoal 16
 stroat 16
 betoald 16
 viskern 16
 denken 16
-leroar 16
 dochter 16
 makkelk 16
 woordenbouk 16
@@ -557,7 +557,6 @@ Jong 15
 lös 15
 beetje 15
 weerd 15
-verhoal 15
 vienen 15
 eerguster 15
 had 15
@@ -691,6 +690,7 @@ nemen 12
 bezuiken 12
 Veraind 12
 perbaaierde 12
+mìnsen 12
 menaaier 12
 denk 12
 paark 12
@@ -845,6 +845,7 @@ roam 10
 Hoop 10
 mag 10
 peerd 10
+minsen 10
 zaand 10
 reken 10
 oplözzen 10
@@ -853,6 +854,7 @@ kopzere 10
 kameroaden 10
 vrij 10
 kwiet 10
+schoule 10
 klopt 10
 je 10
 zunnebril 10
@@ -935,12 +937,12 @@ minder 9
 kaizen 9
 grond 9
 eerdbeven 9
+wastoe 9
 lief 9
 Alles 9
 klaain 9
 Kinder 9
 groter 9
-schoule 9
 Gainaine 9
 steur 9
 laind 9
@@ -1052,7 +1054,6 @@ boudel 8
 allinneg 8
 toamelk 8
 rook 8
-Wast 8
 Paas 8
 interessant 8
 zeer 8
@@ -1193,6 +1194,7 @@ Roep 7
 Kon 7
 gruinte 7
 vast 7
+körte 7
 vraauwen 7
 diskuzzie 7
 pladdelaand 7
@@ -1200,7 +1202,6 @@ nat 7
 Popke 7
 ienformoatsie 7
 boan 7
-wastoe 7
 bibeltaik 7
 veureg 7
 dailen 7
@@ -1229,6 +1230,7 @@ baankje 7
 riekdom 7
 lucht 7
 twijdoezend 7
+dijent 7
 stroaten 7
 omdat 7
 waaineg 7
@@ -1366,7 +1368,6 @@ heurde 6
 insekt 6
 kestail 6
 ledder 6
-körte 6
 brogge 6
 maark 6
 Gaaist 6
@@ -1388,6 +1389,7 @@ veurstellen 6
 besteld 6
 stukkend 6
 Volg 6
+Wast 6
 onzent 6
 Sorry 6
 zoaken 6
@@ -1412,7 +1414,6 @@ oma 6
 hemmen 6
 ainegste 6
 vertelden 6
-dijent 6
 heurt 6
 bekend 6
 online 6
@@ -1428,6 +1429,7 @@ verkloaren 6
 Frans 6
 trekken 6
 nust 6
+onderwegens 6
 ales 6
 dastoe 6
 jongere 6
@@ -1664,6 +1666,7 @@ spel 5
 tillevisie 5
 gezin 5
 begrepen 5
+mensen 5
 begripst 5
 benijd 5
 vertoald 5
@@ -1787,6 +1790,7 @@ helm 4
 schaarm 4
 projekt 4
 handeln 4
+Wastoe 4
 hek 4
 soorten 4
 Sloag 4
@@ -1813,6 +1817,7 @@ regend 4
 menaaiern 4
 vinger 4
 vongen 4
+nomen 4
 5 4
 koien 4
 fioul 4
@@ -1868,6 +1873,7 @@ doarhìn 4
 Gold 4
 repareren 4
 Road 4
+verrazzen 4
 nuigd 4
 doame 4
 alkohol 4
@@ -2039,6 +2045,7 @@ inains 4
 hoalen 4
 schonken 4
 woarschaauwen 4
+luit 4
 kikst 4
 keers 4
 glas 4
@@ -2294,7 +2301,6 @@ schaiper 3
 Twijde 3
 Wereldoorlog 3
 Oorlog 3
-nomen 3
 Amerikoanen 3
 t" 3
 Graimde 3
@@ -2377,7 +2383,6 @@ Woarveur 3
 bain 3
 meroakel 3
 akkedaaiern 3
-verrazzen 3
 kado 3
 groep 3
 wiskunde 3
@@ -2388,7 +2393,6 @@ derop 3
 test 3
 Tel 3
 Drij 3
-okse 3
 vlam 3
 Goastoe 3
 leert 3
@@ -2492,6 +2496,7 @@ naargens 3
 opgoave 3
 gooien 3
 dudden 3
+klaaine 3
 geheurzoamen 3
 vremde 3
 klinken 3
@@ -2607,7 +2612,6 @@ overleden 3
 Vanoavend 3
 vlak 3
 tiedschriften 3
-luit 3
 stroom 3
 weke 3
 nicht 3
@@ -2657,7 +2661,6 @@ knipt 3
 put 3
 verplicht 3
 wekt 3
-minsen 3
 Ben 3
 kaaste 3
 vertelt 3
@@ -2721,7 +2724,6 @@ noaderhand 3
 waarkloos 3
 vermouden 3
 zoal 3
-mensen 3
 versmachten 3
 versmacht 3
 schoal 3
@@ -3042,7 +3044,6 @@ spij 2
 Tsjechië 2
 òfkörten 2
 Wales 2
-Wastoe 2
 zunschien 2
 verdaipens 2
 touglieks 2
@@ -3288,6 +3289,7 @@ aantrovven 2
 d'r 2
 bèrgoanstied 2
 Baaident 2
+verrast 2
 verrazzens 2
 drong 2
 deun 2
@@ -3297,6 +3299,7 @@ wint 2
 "datteg 2
 euro" 2
 gulden 2
+kounavvel 2
 kulpers 2
 foas 2
 swoarder 2
@@ -3502,7 +3505,6 @@ Verdold 2
 schieven 2
 Leest 2
 Onderzuik 2
-klaaine 2
 stoarde 2
 putje 2
 Schud 2
@@ -3754,6 +3756,7 @@ spoor 2
 kloarmoaken 2
 ekkels 2
 hónk 2
+pauze 2
 loaken 2
 slikkerij 2
 vergist 2
@@ -3817,7 +3820,9 @@ eerlekhaid 2
 uutdrukken 2
 zal 2
 schoamte 2
+veuraal 2
 soamen 2
+bloadern 2
 handzoam 2
 sesteg 2
 pergram 2
@@ -3885,7 +3890,6 @@ versleten 2
 herhoalen 2
 Jammer 2
 boerinnen 2
-onderwegens 2
 touholdt 2
 Holland 2
 òfvalen 2
@@ -5517,7 +5521,6 @@ oetsproaken 1
 Òfblieven 1
 Woonde 1
 Bydgoszcz 1
-verrast 1
 verrazzend 1
 Holstoe 1
 cola 1
@@ -5532,6 +5535,8 @@ körtsleden 1
 Zeden 1
 Zeestoe 1
 òfrond 1
+slaif 1
+tammo 1
 Swoavel 1
 hoakte 1
 kedde 1
@@ -6768,7 +6773,6 @@ schoft 1
 achteruut 1
 schofst 1
 Gun 1
-pauze 1
 India 1
 absörd 1
 gun 1
@@ -6994,7 +6998,6 @@ We 1
 teruggoan 1
 stoareg 1
 poppen 1
-veuraal 1
 dataset 1
 koptillefoon 1
 aantrekken 1
@@ -7006,7 +7009,6 @@ keuning 1
 heerst 1
 regeert 1
 died 1
-bloadern 1
 domste 1
 dink 1
 kerkklokken 1
@@ -8156,7 +8158,6 @@ post 1
 verwaarken 1
 waarkzoamheden 1
 duren 1
-brutaal 1
 coöperatief 1
 zunnege 1
 Oorlogen 1
@@ -8332,7 +8333,6 @@ lettergreep 1
 lettergrepen 1
 tèlde 1
 wereld: 1
-dijen 1
 zaandbak 1
 boetenspeulen 1
 vrundjes 1
@@ -9001,7 +9001,6 @@ mesienen 1
 geraidschop 1
 pakjederij 1
 administroatsie 1
-kounavvel 1
 bulgur 1
 gezonder 1
 riest 1
@@ -9338,3 +9337,13 @@ verstuurde 1
 schoaker 1
 Doezenden 1
 baauwprojecten 1
+spiekerschrift 1
+noazummer 1
+haarfst 1
+verkleuren 1
+Onverwachtse 1
+störtbui 1
+braiven 1
+e-mailen 1
+Sami's 1
+wc 1

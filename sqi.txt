@@ -1,14 +1,14 @@
-të 906
-e 591
+të 905
+e 589
 në 389
 është 342
 i 280
-një 272
-nuk 253
+një 273
+nuk 254
 Nuk 235
 Tomi 219
-do 180
-me 177
+do 179
+me 176
 për 171
 që 166
 më 166
@@ -16,7 +16,7 @@ Unë 135
 shumë 120
 se 119
 te 106
-ta 88
+ta 89
 dhe 85
 po 82
 ka 80
@@ -29,9 +29,9 @@ Do 65
 janë 65
 Ai 62
 E 61
-nga 59
+nga 58
+ishte 56
 mirë 55
-ishte 55
 Më 51
 ju 51
 Të 50
@@ -129,6 +129,7 @@ vërtetë 17
 shkojmë 17
 dy 16
 Sa 16
+Një 16
 ndërtosh 16
 kjo 15
 nje 15
@@ -136,10 +137,10 @@ Ke 15
 ku 15
 ty 15
 tuaj 15
-Një 15
 saj 15
 Maria 15
 shkoni 15
+kanë 14
 keq 14
 Kur 14
 herë 14
@@ -151,8 +152,6 @@ gjithmonë 14
 shkosh 14
 deri 14
 flet 14
-kanë 13
-tyre 13
 pak 13
 Ky 13
 duket 13
@@ -160,14 +159,15 @@ bësh 13
 shkollë 13
 nëse 13
 libër 13
-çdo 13
 shkojnë 13
+tyre 12
 vështirë 12
 bën 12
 nesër 12
 aq 12
 së 12
 Boston 12
+çdo 12
 t'i 12
 kuptoj 12
 doja 12
@@ -202,7 +202,6 @@ gjuha 10
 asnjë 10
 them 10
 njeri 10
-Gratë 10
 Ka 9
 shume 9
 mia 9
@@ -218,12 +217,12 @@ gjuhën 9
 mësues 9
 madhe 9
 fortë 9
+Gratë 9
 as 9
 frëngjisht 9
 kaq 9
 Edhe 9
 Meri 9
-shqiptare 9
 vjen 8
 tashmë 8
 lumtur 8
@@ -251,6 +250,7 @@ cilës 8
 gjuhët 8
 edhe 8
 kush 8
+shqiptare 8
 Gëzuar 7
 lirë 7
 anglisht 7
@@ -267,6 +267,7 @@ sajë 7
 Jo 7
 vend 7
 vetmja 7
+nën 7
 "Ku 7
 zgjuar 7
 pashë 7
@@ -310,7 +311,6 @@ orën 6
 tre 6
 thuash 6
 Sot 6
-nën 6
 ishe 6
 pesë 6
 shqetësuar 6
@@ -326,6 +326,7 @@ thjeshtë 6
 makinë 6
 thotë 6
 jashtë 6
+ulur 6
 ardhur 6
 pothuajse 6
 Dikush 6
@@ -401,7 +402,6 @@ lexuar 5
 mrekullueshme 5
 hapur 5
 Kishte 5
-ulur 5
 vetmi 5
 tërë 5
 shikon 5
@@ -470,6 +470,7 @@ quajnë 4
 grua 4
 këtij 4
 vij 4
+burrë 4
 mend 4
 mbajtur 4
 Njeriu 4
@@ -528,7 +529,6 @@ Brazil 4
 hanë 4
 javën 4
 tillë 4
-martohen 4
 Arabinë 4
 Saudite 4
 Shko 4
@@ -626,7 +626,6 @@ rrugë 3
 punoj 3
 tryezë 3
 ia 3
-burrë 3
 Japonia 3
 vendosur 3
 vajza 3
@@ -687,6 +686,7 @@ Bashkuara 3
 Ato 3
 kopshtin 3
 Ana 3
+pemë 3
 përfundojë 3
 grup 3
 zakonisht 3
@@ -757,6 +757,7 @@ shqetëson 3
 dhënë 3
 sonte 3
 shpejti 3
+martohen 3
 fare 3
 shkollën 3
 Belgjikë 3
@@ -786,7 +787,7 @@ menjëherë 3
 parasysh 3
 Estoni 3
 trembëdhjetë 3
-Niqab 3
+mysliman 3
 barabartë 2
 drejta 2
 njëri 2
@@ -902,6 +903,7 @@ djalë 2
 Mendova 2
 ndryshëm 2
 mundua 2
+besimtar 2
 Merin 2
 Vazhdo 2
 fjetur 2
@@ -1077,7 +1079,6 @@ largua 2
 ndodhur 2
 dëgjonte 2
 zoologjik 2
-pemë 2
 dardhë 2
 buzëqesh 2
 këndoj 2
@@ -1287,7 +1288,6 @@ ketë 2
 jetës 2
 sime 2
 Duan 2
-pavarësisht 2
 hënën 2
 ndaloi 2
 tekst 2
@@ -1359,9 +1359,9 @@ Shqipërinë 2
 ngushtë 2
 Shqipëria 2
 Namaz 2
-mysliman 2
 xhihadin 2
 veshin 2
+Niqab 2
 S'jam 2
 Shoqja 2
 këngëtare 2
@@ -1801,7 +1801,6 @@ thua 1
 kollar 1
 kostumi 1
 Pra 1
-besimtar 1
 treni 1
 sugjeroi 1
 bënim 1
@@ -3268,6 +3267,7 @@ kamerunese 1
 lejojmë 1
 palestinez 1
 Hajdutët 1
+pavarësisht 1
 shkëmbimi 1
 shkurtër 1
 zjarri 1
@@ -4064,9 +4064,11 @@ Burrin 1
 Babanë 1
 Vëllain 1
 Bijtë 1
-Bukurat 1
+bukurat 1
+prirje 1
 mbulojnë 1
-Bukurinë 1
+bukurinë 1
+nikab 1
 Burrit 1
 Fëmijëve 1
 Burrat 1
@@ -4078,9 +4080,6 @@ Perandorinë 1
 Osmane 1
 besnike 1
 burrit 1
-Mysliman 1
-Fetar 1
-raca 1
 inteligjencë 1
 Hafiz 1
 Çka 1

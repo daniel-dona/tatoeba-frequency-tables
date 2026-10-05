@@ -1,11 +1,11 @@
-le 15815
-es 11786
+le 15816
+es 11787
 un 9544
 de 8737
 ha 6512
 Le 6065
-Io 5689
-in 5432
+Io 5690
+in 5433
 non 5339
 que 5169
 e 3641
@@ -96,7 +96,7 @@ ben 390
 duo 388
 nostre 383
 Si 377
-Deo 376
+Deo 377
 tanto 373
 sin 364
 On 352
@@ -264,10 +264,10 @@ gente 131
 fratre 130
 homines 129
 ulle 128
+contra 127
 forte 127
 theeria 127
 mesmo 126
-contra 126
 vetule 125
 existe 125
 camera 123
@@ -1231,6 +1231,7 @@ alas 27
 mesura 26
 cultura 26
 plorar 26
+ovos 26
 Anglaterra 26
 audientia 26
 vacue 26
@@ -1273,7 +1274,6 @@ postmeridie 25
 dormiva 25
 preoccupa 25
 interessa 25
-ovos 25
 fresc 25
 conversation 25
 metros 25
@@ -1518,6 +1518,7 @@ spectaculo 21
 unquam 21
 armas 21
 vapor 21
+cholera 21
 compania 21
 cambiava 21
 alcohol 21
@@ -1581,7 +1582,6 @@ reparar 20
 reguardo 20
 christianos 20
 volante 20
-cholera 20
 creava 20
 carbon 20
 enoia 20
@@ -1658,6 +1658,7 @@ Saturno 19
 dura 19
 structuras 19
 an 19
+Mangia 19
 reflecte 19
 basse 19
 porto 19
@@ -1734,7 +1735,6 @@ spatial 18
 frequentia 18
 princessa 18
 version 18
-Mangia 18
 planta 18
 cessa 18
 augmenta 18

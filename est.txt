@@ -1,4 +1,4 @@
-on 1606
+on 1609
 Ma 953
 ei 758
 Tom 628
@@ -115,18 +115,18 @@ liiga 33
 räägid 33
 Olen 33
 keel 32
+seal 32
 aega 31
 koos 31
 suur 31
 räägin 31
 pealinn 31
-seal 31
+ka 30
 meie 30
 mitte 30
 armastan 30
 mul 30
 elab 30
-ka 29
 siis 29
 eest 29
 nagu 29
@@ -196,6 +196,7 @@ minuga 20
 oleme 20
 pea 20
 tahtnud 20
+kus 20
 Toomas 20
 läbi 19
 raamatut 19
@@ -203,7 +204,6 @@ Ei 19
 kiiresti 19
 saada 19
 väsinud 19
-kus 19
 Tomiga 19
 end 18
 tuli 18
@@ -228,6 +228,7 @@ tõesti 17
 viis 17
 enda 17
 minust 17
+elu 17
 Siin 17
 peaks 17
 kass 17
@@ -249,7 +250,6 @@ vend 16
 teab 16
 öelda 16
 vastu 16
-elu 16
 saab 16
 kogu 16
 aidata 16
@@ -540,6 +540,7 @@ vaid 7
 järgi 7
 tule 7
 öö 7
+Eesti 7
 sõi 7
 näed 7
 toas 7
@@ -620,9 +621,9 @@ ootab 6
 sõna 6
 Arst 6
 laul 6
-Eesti 6
 läinud 6
 punane 6
+vesi 6
 järgmisel 6
 väärt 6
 seitse 6
@@ -678,6 +679,7 @@ peaksime 6
 vale 6
 tühi 6
 sinust 6
+Seal 6
 reisida 6
 dollarit 6
 filmi 6
@@ -722,7 +724,6 @@ kümne 5
 ööd 5
 Laual 5
 selga 5
-vesi 5
 lähed 5
 said 5
 ootas 5
@@ -777,6 +778,7 @@ jah 5
 meiega 5
 ning 5
 kõvasti 5
+jõgi 5
 värvi 5
 õuna 5
 aitan 5
@@ -805,7 +807,6 @@ saate 5
 eks 5
 jääb 5
 ütlevad 5
-Seal 5
 Kuula 5
 kaugel 5
 valikut 5
@@ -962,7 +963,6 @@ kauneim 4
 keda 4
 töötanud 4
 korral 4
-jõgi 4
 suurim 4
 lilled 4
 söön 4
@@ -2279,6 +2279,7 @@ kutsutakse 2
 suurem 2
 poes 2
 uks 2
+pikim 2
 käekell 2
 saatsin 2
 e-maili 2
@@ -4932,7 +4933,6 @@ müüda 1
 marke 1
 pealkiri 1
 osariiki 1
-pikim 1
 mahu 1
 mängivad 1
 murul 1
@@ -6881,3 +6881,4 @@ tähistamiseks 1
 26 1
 juulil 1
 1887 1
+Emajõgi 1
