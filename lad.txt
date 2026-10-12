@@ -4,7 +4,7 @@ un 173
 la 131
 de 130
 El 127
-en 123
+en 125
 el 118
 No 115
 no 105
@@ -28,9 +28,9 @@ mi 39
 pan 38
 kon 37
 Eya 36
+se 36
 muy 35
 Mi 35
-se 34
 לה 33
 און 32
 las 29
@@ -108,6 +108,7 @@ siempre 12
 Ke 12
 סון 12
 vedre 12
+avla 11
 kero 11
 Te 11
 A 11
@@ -139,7 +140,6 @@ arvoles 10
 findjan 10
 Ladino 9
 En 9
-avla 9
 sus 9
 kolorada 9
 Mozotros 9
@@ -407,6 +407,7 @@ kada 3
 diya 3
 Evropa 3
 tyene 3
+Israel 3
 Aki 3
 ladino 3
 buena 3
@@ -584,13 +585,13 @@ paez 2
 Madjaristan 2
 Bucureshti 2
 relijiozos 2
+Ivrit 2
 kapitala 2
 Fransya 2
 komparte 2
 frontieras 2
 buenos 2
 save 2
-Israel 2
 Tyenes 2
 Le 2
 vido 2
@@ -1027,7 +1028,6 @@ milyones 1
 Munchos 1
 kantes 1
 traduksiones 1
-Ivrit 1
 Paris 1
 Portugal 1
 prinsipado 1
@@ -2523,3 +2523,6 @@ relijión 1
 guevos 1
 קומי 1
 גואיב'וס 1
+Kantonéz 1
+Hong 1
+Kong 1

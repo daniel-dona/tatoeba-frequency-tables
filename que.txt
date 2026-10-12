@@ -1,8 +1,8 @@
 kan 33
 kani 26
 mana 23
+Ñuqa 23
 Mana 21
-Ñuqa 21
 kunan 18
 kanichu 17
 kanki 17
@@ -29,13 +29,14 @@ Kay 7
 Ama 7
 Kanka 7
 Ñuka 7
+Imataq 6
 Payka 6
 mallkimanta 6
 urmaymun 6
 kasani 5
 Payqa 5
-Imataq 5
 Arí 5
+Chayqa 5
 Haku 5
 yachani 5
 watayuqmi 5
@@ -50,7 +51,6 @@ Noqapaq 4
 kasan 4
 Runasimita 4
 ancha 4
-Chayqa 4
 Ima 4
 Noqa 4
 kaypi 4
@@ -58,6 +58,7 @@ Iskay 4
 takisanku 4
 Hakay 4
 yachayta 4
+risaq 4
 yachakuni 4
 aswan 4
 Manan 4
@@ -169,7 +170,6 @@ Hatun 2
 Mariawan 2
 Marcelinawan 2
 Husiymi 2
-risaq 2
 kusikuni 2
 imatataq 2
 Niptinmi 2
@@ -248,6 +248,7 @@ tusuni 2
 Qankuna 2
 mikhuni 2
 Khunan 2
+paqarin 2
 hinaspa 2
 pisqa 2
 chunka 2
@@ -263,6 +264,7 @@ wasiykichiqman 2
 mamayki 2
 Mayk'apitaq 2
 valen 2
+yachaywasiman 2
 ñuqamanta 2
 wiñay 2
 ñawpaq 2
@@ -273,6 +275,7 @@ pisiyachiyta 2
 samakuni 2
 samakuchkani 2
 Ñuqapis 2
+ruwamunki 2
 qaten 2
 t'iran 2
 Viracochaqa 2
@@ -1014,7 +1017,6 @@ tusunku 1
 umanchani 1
 paqariptin 1
 pachapas 1
-paqarin 1
 paquchata 1
 pampapi 1
 qhawan 1
@@ -1175,7 +1177,6 @@ arroba 1
 remolacha 1
 pesoslla 1
 Piwan 1
-yachaywasiman 1
 rinki 1
 Piwantaq 1
 kutinkichiq 1
@@ -1269,7 +1270,6 @@ away 1
 ponchun 1
 Chaymantaraq 1
 imata 1
-ruwamunki 1
 Mikhuchkaniraqmi 1
 mikhusaq 1
 Rubik 1
@@ -1307,3 +1307,8 @@ millayniykin 1
 hamuchkan 1
 Kikinka 1
 Upyan 1
+computadorapi 1
+llamk'ashani 1
+Kusa 1
+Kusam 1
+puñuqmi 1

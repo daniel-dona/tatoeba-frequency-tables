@@ -12,9 +12,9 @@ i 27
 A 25
 d 24
 daɣ 23
+y 22
 Ad 22
-y 21
-awa 20
+awa 21
 as 17
 Nǝkk 17
 wan 16
@@ -26,11 +26,11 @@ I 13
 win 12
 Tamajaq 12
 iga 11
+Allahu 11
 Wǝr 11
 anta 11
 ǝs 10
 dǝr 10
-Allahu 10
 Ak 10
 Mǝššina 9
 aytedan 9
@@ -103,6 +103,7 @@ eɣaf 4
 šat 4
 d-asu 4
 imos 4
+Har 4
 igi 4
 tǝqqǝla 4
 kalar 4
@@ -131,15 +132,16 @@ issan 3
 din 3
 anu 3
 tanat 3
+dǝffǝr 3
 Azǝl 3
 tinay 3
 Ǝlǝlli 3
 tǝnna 3
+alxer 3
 tayttay 3
 abarad 3
 aharog 3
 Agoḍa 3
-Har 3
 ag-ay 3
 Eway 3
 tu-wǝr 3
@@ -165,6 +167,7 @@ Man-id 3
 kayy 3
 Man 3
 Dǝɣ 3
+Tanammert 3
 tan 3
 meɣ 3
 amagrad 3
@@ -203,6 +206,7 @@ id 2
 dər 2
 hărwa 2
 Məni-d 2
+wallen 2
 Awal 2
 itǝkkǝs 2
 Tawallammat 2
@@ -222,7 +226,6 @@ nǝnzay 2
 Iba 2
 tǝge 2
 fǝlas 2
-dǝffǝr 2
 tǝnay 2
 tǝnǝya 2
 Tǝtaraw 2
@@ -232,7 +235,6 @@ dat-ǝk 2
 Bahu 2
 ofa 2
 Tidǝt 2
-alxer 2
 Masnat 2
 tǝle 2
 annu 2
@@ -326,7 +328,6 @@ y-awan 2
 tifot 2
 Ǝglu 2
 ǝglu 2
-Tanammert 2
 Ǝgeɣ 2
 Fannǝɣǝɣ 2
 Tuksay 2
@@ -421,6 +422,7 @@ Azawaɣ 2
 ابن 2
 ازواغ 2
 ⴰⵡ 2
+Amme 2
 Aɣšud 1
 ogar 1
 tǝrɣǝsay 1
@@ -451,7 +453,6 @@ Məni 1
 Ig-ak 1
 Inn-ak 1
 olaɣ 1
-wallen 1
 Ǝrǝggan 1
 man-net 1
 kerrad 1
@@ -1642,5 +1643,9 @@ kǝl-Tamajaq 1
 Aṭṭǝf 1
 aɣanib 1
 Ammeden 1
-Amme 1
-متى؟ 1
+den 1
+Sidaranǝɣ-ak 1
+Ǝggoḍăyǝɣ 1
+Ehan-in 1
+Akal-in 1
+Tara-nin 1

@@ -1,15 +1,15 @@
-ono 147
-Miä 81
+ono 148
+Miä 86
 Foma 61
 koti 50
 Miun 48
-ei 33
+ei 34
 Hää 30
 jot 28
 siä 27
 Tänäpään 27
 ollaa 23
-en 17
+en 20
 siun 15
 kirjoja 15
 Miul 15
@@ -40,6 +40,7 @@ mitä 9
 Se 9
 liki 9
 hyvä 9
+kallaa 9
 suvajaa 9
 peen 9
 Joo 9
@@ -47,7 +48,6 @@ vaa 8
 Tämä 8
 siulle 8
 tämä 8
-kallaa 8
 hiiri 8
 elokkaita 8
 Ken 7
@@ -70,6 +70,7 @@ Kus 6
 pittää 6
 veel 6
 Hiiri 6
+Laps 6
 Söö 6
 Telefona 6
 kirjat 6
@@ -85,12 +86,12 @@ tiijen 5
 sööp 5
 lohta 5
 Avvaa 5
-Laps 5
 päivä 5
 elokkaat 5
 Meil 4
 Hänel 4
 oot 4
+taho 4
 kottii 4
 mittää 4
 vai 4
@@ -116,6 +117,7 @@ Nämät 4
 tytär 4
 Töö 4
 tekköö 4
+vanha 4
 liijen 4
 kunigas 4
 telefonalle 4
@@ -123,14 +125,15 @@ soittaa 4
 Maaro 4
 on 3
 kutsui 3
-taho 3
 evät 3
+konskaa 3
 kiin 3
 Anna 3
 vast 3
 tiije 3
 siint 3
 kyläs 3
+sinnua 3
 Miulle 3
 Too 3
 Soita 3
@@ -149,6 +152,7 @@ Mää 3
 kooli 3
 pois 3
 Kutsu 3
+poikaa 3
 joop 3
 minnua 3
 Siun 3
@@ -157,7 +161,6 @@ tytärtä 3
 Uutta 3
 Vootta 3
 miks 3
-vanha 3
 vari 3
 kylmä 3
 synnynpäivä 3
@@ -189,7 +192,6 @@ tahon 2
 Suuremp 2
 osa 2
 ennää 2
-konskaa 2
 piä 2
 Australiaa 2
 käppiöjä 2
@@ -202,8 +204,8 @@ kuult 2
 kasvoi 2
 Yks 2
 kertaa 2
+leene 2
 höö 2
-sinnua 2
 noisoo 2
 pyhä 2
 tihtii 2
@@ -231,10 +233,10 @@ Cerepahat 2
 cerepahoja 2
 Cerepaha 2
 hampaita 2
-poikaa 2
 mikälee 2
 vettä 2
 kohvia 2
+söö 2
 linnut 2
 nain 2
 Tere 2
@@ -307,6 +309,7 @@ saa 2
 et 2
 tahot 2
 annoit 2
+suvvaa 2
 öötä 1
 inkeroin 1
 koira 1
@@ -374,7 +377,6 @@ kysymys 1
 pissettii 1
 kolttoist 1
 tekkiit 1
-leene 1
 valmis 1
 osti 1
 toisen 1
@@ -489,7 +491,6 @@ joomma 1
 fruktia 1
 lunta 1
 söömmä 1
-söö 1
 laulaat 1
 Käppiä 1
 lauloit 1
@@ -922,5 +923,10 @@ joi 1
 kupin 1
 ikävöitämmä 1
 laulamista 1
-suvvaa 1
 Saatoitk 1
+suutuin 1
+herviin 1
+kalmoja 1
+Kunikaal 1
+kolt 1
+maata 1

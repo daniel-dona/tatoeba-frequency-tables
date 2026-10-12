@@ -1,4 +1,4 @@
-is 200
+is 202
 I 147
 the 140
 a 112
@@ -37,8 +37,8 @@ Ye 21
 This 21
 That 20
 this 19
+She 19
 myn 19
-She 17
 And 17
 It 17
 thi 15
@@ -1562,3 +1562,5 @@ pryve 1
 shap 1
 waried 1
 wonderful 1
+loved 1
+yloved 1

@@ -1,22 +1,22 @@
-es 12294
-ia 9322
-la 8470
+es 12299
+ia 9324
+la 8472
 un 6238
-de 5777
-Me 5240
+de 5778
+Me 5243
 no 3958
 Tom 3836
 a 3318
 La 3000
 ла 2967
 ес 2898
-en 2659
+en 2663
 tu 2496
-me 2453
+me 2454
 иа 2272
-ave 2114
+ave 2115
 де 1974
-ce 1959
+ce 1961
 El 1893
 e 1813
 Esce 1755
@@ -24,7 +24,7 @@ Esce 1755
 el 1339
 va 1312
 Ме 1220
-lo 1207
+lo 1208
 pote 1184
 per 1167
 sua 1148
@@ -54,7 +54,7 @@ gusta 642
 cosa 642
 е 640
 Mea 626
-On 619
+On 620
 acel 607
 par 593
 аве 586
@@ -62,7 +62,7 @@ sur 580
 bon 580
 casa 579
 come 573
-on 566
+on 567
 dise 565
 parla 564
 como 563
@@ -96,10 +96,10 @@ nesesa 369
 mundo 358
 ca 348
 cuando 348
-pensa 345
+pensa 346
 o 342
 Cual 335
-ci 333
+ci 334
 пер 333
 куал 333
 суа 332
@@ -107,7 +107,7 @@ sola 329
 ma 324
 asi 323
 поте 319
-persones 311
+persones 312
 ло 306
 lingua 305
 person 299
@@ -320,17 +320,17 @@ roja 94
 alta 93
 iudi 93
 meа 92
+oji 92
 forte 92
-oji 91
 ora 91
 amis 90
 темпо 90
 car 89
+blanca 89
 difisil 89
 Мариа 89
 esce 88
 estra 88
-blanca 88
 libros 88
 – 88
 causa 88
@@ -372,9 +372,9 @@ sol 79
 Multe 78
 ier 78
 flores 78
+Frans 78
 апренде 78
 frate 77
-Frans 77
 testa 77
 recorda 76
 engles 76
@@ -533,6 +533,7 @@ aspeta 54
 usada 54
 susede 54
 reveni 54
+posible 54
 Ance 54
 crese 54
 merita 54
@@ -545,7 +546,6 @@ nomi 53
 salva 53
 spesial 53
 esperanto 53
-posible 53
 leto 53
 Тота 53
 лингуас 53
@@ -561,6 +561,7 @@ arabi 52
 сите 51
 падре 51
 fumi 51
+Israel 51
 intelijente 50
 Aora 50
 vola 50
@@ -570,7 +571,6 @@ te 50
 анке 50
 дорми 50
 мар 50
-Israel 50
 lenta 49
 lete 49
 brasilera 49
@@ -605,6 +605,7 @@ ajunta 46
 perfeta 46
 rie 46
 grupo 46
+construi 46
 jenitores 46
 енфантес 46
 ауто 46
@@ -620,7 +621,6 @@ rica 45
 SUA 45
 escuta 45
 otras 45
-construi 45
 fema 45
 max 45
 семана 45
@@ -647,6 +647,7 @@ artifis 44
 lor 44
 libre 43
 portuges 43
+segue 43
 prefere 43
 futbal 43
 trae 43
@@ -660,10 +661,10 @@ alora 43
 ном 43
 omes 42
 blu 42
-segue 42
 proba 42
 gera 42
 esplica 42
+Algun 42
 Nun 42
 Rusia 42
 popla 42
@@ -678,7 +679,6 @@ refusa 42
 bus 41
 ensenia 41
 simil 41
-Algun 41
 ateni 41
 razona 41
 Xina 41
@@ -1170,6 +1170,7 @@ interesada 23
 Туа 23
 куаси 23
 merda 23
+caca 23
 Elo 23
 Ela 23
 bobo 23
@@ -1191,6 +1192,7 @@ paper 22
 natur 22
 situa 22
 pedes 22
+obesa 22
 bir 22
 nion 22
 Olimpiales 22
@@ -1214,7 +1216,6 @@ magiar 22
 еспера 22
 Русиа 22
 Есперанто 22
-caca 22
 lapis 22
 piza 22
 fode 22
@@ -1246,7 +1247,6 @@ inventa 21
 susia 21
 secreta 21
 partisipa 21
-obesa 21
 dui 21
 foto 21
 interna 21
@@ -1443,6 +1443,7 @@ limpa 18
 ava 18
 brilia 18
 duple 18
+rea 18
 furni 18
 alcol 18
 pal 18
@@ -1526,7 +1527,6 @@ sidra 17
 ordina 17
 cavalos 17
 tolera 17
-rea 17
 fundida 17
 dialeto 17
 "No 17
@@ -1849,6 +1849,7 @@ Presta 14
 "Tom 14
 castel 13
 menses 13
+parlada 13
 arco 13
 corente 13
 prefereda 13
@@ -2148,7 +2149,6 @@ George 11
 nervosa 11
 silente 11
 april 11
-parlada 11
 janero 11
 estas 11
 mercurdi 11
@@ -2451,6 +2451,7 @@ Filastin 10
 лунлотра 10
 Basi 10
 supradosa 10
+Ivri 10
 peri 10
 Iudisme 10
 ne 10
@@ -2643,6 +2644,7 @@ Lava 9
 касас 9
 модерна 9
 фавореда 9
+gantos 9
 пратика 9
 фаме 9
 Curan 9
@@ -2679,7 +2681,6 @@ morida 9
 dependente 9
 trauma 9
 sputa 9
-Ivri 9
 asasina 9
 suscrive 9
 Facebook 9
@@ -2872,7 +2873,6 @@ nonlegal 8
 saborea 8
 дулсе 8
 рика 8
-gantos 8
 tu" 8
 фас 8
 манос 8
@@ -3260,6 +3260,7 @@ jura 7
 Pronto 7
 ido 7
 astronauta 7
+airoporto 7
 alti 7
 netes 7
 porton 7
@@ -3661,6 +3662,7 @@ favas 6
 mendica 6
 flori 6
 barati 6
+sosialisme 6
 roc 6
 profita 6
 gardor 6
@@ -3699,7 +3701,6 @@ Jacob 6
 James 6
 basi 6
 масима 6
-airoporto 6
 Енгланд 6
 colina 6
 planetas 6
@@ -4188,7 +4189,6 @@ autocratia 5
 alcolomanica 5
 abea 5
 Omid 5
-sosialisme 5
 pasajores 5
 antiiudiste 5
 tela 5
@@ -9442,6 +9442,7 @@ Diabete 2
 Bad 2
 Bunny 2
 coabitor 2
+Guangdong 2
 fantasiada 2
 materialisme 2
 Redona 2
@@ -9997,4 +9998,3 @@ Erital 1
 56 1
 Prinsesa 1
 Aiko 1
-rejente 1

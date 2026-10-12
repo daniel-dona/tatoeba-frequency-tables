@@ -1,6 +1,6 @@
 är 11776
 Jag 11369
-att 7173
+att 7172
 Tom 7144
 inte 6997
 en 5191
@@ -25,7 +25,7 @@ ett 1967
 som 1924
 dig 1922
 Vi 1908
-den 1853
+den 1854
 kan 1696
 av 1621
 Du 1614
@@ -46,7 +46,7 @@ vi 914
 göra 890
 Är 866
 ska 860
-måste 830
+måste 831
 honom 824
 där 782
 vara 782
@@ -215,7 +215,7 @@ namn 179
 gammal 178
 Skulle 176
 kaffe 175
-står 174
+står 175
 gjort 172
 språk 170
 håller 169
@@ -240,8 +240,8 @@ verkar 155
 förstår 154
 ur 154
 ingenting 153
+Man 151
 ner 151
-Man 150
 hoppas 148
 hand 145
 vänner 145
@@ -307,11 +307,11 @@ riktigt 114
 vänta 113
 ned 113
 spelar 113
+hålla 113
 saker 113
 fem 112
 klockan 112
 ganska 112
-hålla 112
 gånger 112
 kväll 112
 lätt 111
@@ -489,11 +489,11 @@ tro 71
 tillräckligt 71
 lärare 70
 folk 70
-råd 70
 låg 70
 undrar 70
 flera 69
 dö 69
+råd 69
 skrev 69
 använder 69
 tyska 68
@@ -3206,6 +3206,7 @@ miljön 7
 vitlök 7
 diet 7
 mysterium 7
+Fastän 7
 förväntat 7
 ögonkastet 7
 Esperanto 7
@@ -3254,7 +3255,6 @@ skräckfilmer 7
 svaga 7
 öst 7
 knät 7
-finner 7
 mans 7
 - 7
 känslig 7
@@ -3663,6 +3663,7 @@ byggt 6
 kuvert 6
 träna 6
 gudar 6
+finner 6
 jamar 6
 höna 6
 människans 6
@@ -3809,7 +3810,6 @@ Olyckligtvis 6
 Nyheten 6
 temperaturen 6
 Arbetar 6
-Fastän 6
 hälsosamt 6
 internationella 6
 städar 6
@@ -6448,6 +6448,7 @@ USB-minnet 3
 turist 3
 förberedde 3
 bota 3
+Lyckan 3
 feg 3
 Popcorn 3
 mobilen 3
@@ -6460,6 +6461,7 @@ ateist 3
 Klänningen 3
 upplevelse 3
 vida 3
+bi 3
 rått 3
 bred 3
 bondgård 3
@@ -7671,7 +7673,6 @@ fridfull 2
 rejäl 2
 ryktet 2
 utspelar 2
-Fast 2
 varorna 2
 fantasin 2
 måltiden 2
@@ -8570,7 +8571,6 @@ vardagsliv 2
 beslutsamhet 2
 mönster 2
 Döden 2
-Lyckan 2
 marsvin 2
 plektrum 2
 plektrumet 2
@@ -8604,7 +8604,6 @@ undvikas 2
 Haren 2
 Kämpa 2
 styrelsen 2
-bi 2
 söderläge 2
 säcken 2
 huvudgatan 2
@@ -9921,6 +9920,7 @@ släpps 2
 disken 2
 Maträtterna 2
 "Känner 2
+formen 2
 instämmer 2
 Abraham 2
 Frankrikes 2
