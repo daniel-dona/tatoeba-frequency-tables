@@ -1,11 +1,11 @@
 lo 13098
-mi 6399
+mi 6401
 cu 3660
 do 3413
-la 3132
-le 2408
+la 3133
+le 2409
 pu 2383
-nu 2170
+nu 2171
 se 1974
 i 1908
 na 1688
@@ -48,7 +48,7 @@ bu'u 300
 tavla 299
 pinxe 297
 mi'a 297
-ta 290
+ta 289
 no 284
 pa 276
 viska 272
@@ -117,7 +117,7 @@ simlu 139
 ce'u 138
 mo 137
 su'o 137
-go'i 135
+go'i 136
 gi 132
 zmadu 131
 mu'i 130
@@ -929,6 +929,7 @@ su'u 13
 senpi 13
 le'i 13
 midju 13
+fasygu'e 13
 pau 13
 rusko 13
 racli 13
@@ -971,7 +972,6 @@ fi'i 12
 stagi 12
 pare 12
 kufra 12
-fasygu'e 12
 ga'u 12
 ropno 12
 brazo 12
@@ -2783,6 +2783,7 @@ nerkalri 2
 velcradi 2
 nik 2
 nikol 2
+frans 2
 soltolfa'u 2
 pesku'i 2
 ficybi'o 2
@@ -3310,6 +3311,7 @@ xlamu'ijijnu 2
 malpanci 2
 serlaxi 2
 gugdepusu 2
+noltrufe'i 2
 braiyn 1
 larxra 1
 xelvetiko 1
@@ -4538,7 +4540,6 @@ firsku 1
 xa'urjudri 1
 nikodimys 1
 ritcardniksyn 1
-frans 1
 ca'erbi'e 1
 sy'ubuvys 1
 mlejgi 1

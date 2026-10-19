@@ -1,6 +1,6 @@
 is 120
 on 72
-Ic 71
+Ic 72
 ne 64
 and 61
 þæt 53
@@ -10,8 +10,8 @@ biþ 38
 mid 29
 Se 29
 Hē 29
+eom 27
 þe 26
-eom 26
 se 25
 Þōmas 25
 to 24
@@ -467,6 +467,7 @@ bringþ 2
 dohtor 2
 lēah 2
 hiera 2
+cwēn 2
 forsace 2
 pinn 2
 healdaþ 2
@@ -1475,7 +1476,6 @@ bohte 1
 andswaru 1
 sceort 1
 ēower 1
-cwēn 1
 þrīe 1
 bycge 1
 ānne 1
@@ -1671,3 +1671,4 @@ wundorful 1
 Lufu 1
 seldcūþe 1
 seldcūþa 1
+Franclandes 1

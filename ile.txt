@@ -1,14 +1,14 @@
-es 3923
+es 3925
 Yo 2792
-un 2271
+un 2273
 li 2076
-Tom 1795
-ne 1680
-Li 1007
+Tom 1796
+ne 1681
+Li 1008
 in 961
 Esque 865
 tu 859
-have 844
+have 845
 Il 796
 ha 784
 esset 721
@@ -16,12 +16,12 @@ de 678
 que 645
 Ella 568
 to 551
-va 507
+va 508
 quo 507
 Noi 502
 me 488
 mi 467
-yo 463
+yo 465
 save 463
 it 462
 vole 458
@@ -44,7 +44,7 @@ pri 266
 Mi 265
 con 264
 plu 258
-quam 255
+quam 256
 deve 252
 del 247
 far 242
@@ -59,7 +59,7 @@ Quo 184
 besona 182
 ella 177
 dit 167
-Ti 161
+Ti 162
 videt 154
 U 153
 bell 146
@@ -90,7 +90,7 @@ habita 110
 fa 110
 Quel 109
 Ples 107
-puella 105
+puella 106
 Qui 105
 se 105
 vive 95
@@ -106,8 +106,8 @@ nequande 85
 annus 85
 Qualmen 84
 manja 84
+solmen 83
 Un 82
-solmen 82
 conosse 79
 Nequí 79
 lude 77
@@ -116,7 +116,7 @@ al 77
 Sami 77
 cat 76
 odia 76
-old 75
+old 76
 matre 74
 nor 74
 hem 72
@@ -152,17 +152,17 @@ dormi 62
 mann 62
 yun 62
 chambre 62
+tam 62
 Lass 61
 scrit 61
 témpor 61
-tam 61
 In 61
 dir 61
 moné 60
 saver 60
 nequó 60
+havet 60
 nómine 59
-havet 59
 dentes 59
 filio 58
 auxiliar 58
@@ -178,10 +178,10 @@ studia 55
 mem 55
 crede 55
 long 54
+fratre 54
 mal 54
 filia 53
 important 53
-fratre 53
 ver 53
 vider 53
 francesi 53
@@ -384,6 +384,7 @@ Trinca 22
 menti 21
 comprendet 21
 poc 21
+village 21
 Qual 21
 visitat 21
 café 21
@@ -406,7 +407,6 @@ dangerosi 20
 cocina 20
 parc 20
 canes 20
-village 20
 scrir 20
 horas 20
 E 19
@@ -414,6 +414,7 @@ Ma 19
 cavalle 19
 cates 19
 har 19
+Yer 19
 jalusi 19
 just 19
 portat 19
@@ -427,7 +428,6 @@ marito 18
 manu 18
 Ti-ci 18
 micri 18
-Yer 18
 maritar 18
 ciel 18
 Japan 18
@@ -522,6 +522,7 @@ Unit 14
 fenestre 14
 biblioteca 14
 questiona 14
+comensa 14
 mori 14
 besat 14
 mentit 14
@@ -554,7 +555,6 @@ evenir 14
 francés 14
 chapel 13
 hiverne 13
-comensa 13
 Salute 13
 Roma 13
 durant 13
@@ -1022,6 +1022,7 @@ Aperte 6
 lune 6
 tegment 6
 mersiar 6
+mensu 6
 nubes 6
 India 6
 idés 6
@@ -1178,6 +1179,7 @@ transformat 5
 fore 5
 septembre 5
 octobre 5
+decembre 5
 decidu 5
 bocca 5
 cusino 5
@@ -1187,7 +1189,6 @@ battet 5
 joca 5
 secretes 5
 permisset 5
-mensu 5
 surprise 5
 poete 5
 cusina 5
@@ -1376,7 +1377,6 @@ raporte 4
 calsonette 4
 except 4
 junio 4
-decembre 4
 súper 4
 option 4
 accidente 4
@@ -2159,6 +2159,7 @@ prates 2
 calsones 2
 calson 2
 tigres 2
+Ucraina 2
 desórdine 2
 nett 2
 aboya 2
@@ -3240,7 +3241,6 @@ clima 1
 Circum 1
 capiilles 1
 Ad 1
-Ucraina 1
 Kyiv 1
 apartment 1
 comande 1
@@ -6509,3 +6509,6 @@ Marino 1
 recevit 1
 taches 1
 Serb 1
+ventre-dolor 1
+Zugda 1
+prevaler 1

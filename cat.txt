@@ -17,7 +17,7 @@ La 631
 les 543
 els 518
 Tom 509
-al 494
+al 495
 amb 492
 més 466
 ha 461
@@ -64,7 +64,7 @@ Vaig 135
 ell 134
 Si 133
 he 131
-veure 129
+veure 130
 era 128
 pot 126
 això 126
@@ -106,10 +106,10 @@ sempre 92
 ella 91
 Com 89
 cosa 89
+món 89
 dos 89
 sap 88
 Tinc 88
-món 88
 us 88
 Un 87
 llengua 87
@@ -334,6 +334,7 @@ Ha 32
 tenim 32
 important 32
 nostres 32
+frase 32
 petit 32
 Hem 32
 part 32
@@ -345,7 +346,6 @@ home 32
 nostre 32
 mentre 32
 des 31
-frase 31
 hauria 31
 pares 31
 manera 31
@@ -600,6 +600,7 @@ córrer 16
 rellotge 16
 Canadà 16
 gana 16
+nombre 16
 trobat 16
 John 16
 saps 16
@@ -631,7 +632,6 @@ L'home 15
 llegint 15
 Vas 15
 S'ha 15
-nombre 15
 servir 15
 estrany 15
 televisió 15
@@ -770,6 +770,7 @@ president 12
 poble 12
 Deixa'm 12
 habitació 12
+necessita 12
 eren 12
 tanca 12
 cuina 12
@@ -837,7 +838,6 @@ famós 11
 sang 11
 professora 11
 passant 11
-necessita 11
 conegut 11
 Nova 11
 York 11
@@ -1300,6 +1300,7 @@ coneixement 7
 siusplau 7
 cec 7
 cua 7
+d'idiomes 7
 Veniu 7
 trànsit 7
 cartes 7
@@ -1475,7 +1476,6 @@ sorpresa 6
 zero 6
 ven 6
 brillant 6
-d'idiomes 6
 barret 6
 l'última 6
 L'any 6
@@ -2065,6 +2065,7 @@ edifici 4
 abandonar 4
 inmediatament 4
 veure'l 4
+"El 4
 25 4
 lluita 4
 company 4
@@ -2640,7 +2641,6 @@ criar 3
 vola 3
 preparar 3
 infermera 3
-"El 3
 lletra 3
 línia 3
 l'institut 3
@@ -4203,6 +4203,7 @@ barrals 2
 absent 2
 destruïda 2
 inevitable 2
+possible" 2
 "Però 2
 durarà 2
 divertida 2
@@ -4827,6 +4828,7 @@ afortunada 2
 rares 2
 cares 2
 l'encisadora 2
+traduïda 2
 convertint 2
 perillosa 2
 estimo 2
@@ -7918,7 +7920,6 @@ arrestat 1
 jutja 1
 superada; 1
 coqueta 1
-possible" 1
 ser" 1
 anà 1
 agafar-se 1
@@ -9997,4 +9998,3 @@ Argèlia 1
 Dona‘m 1
 d‘hora 1
 SpaceChem 1
-dispersa 1

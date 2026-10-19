@@ -1,4 +1,4 @@
-a 1859
+a 1860
 que 1718
 o 1614
 de 1591
@@ -39,7 +39,7 @@ me 177
 moi 175
 Ela 172
 dos 170
-como 160
+como 161
 Que 155
 pero 146
 hai 144
@@ -120,9 +120,9 @@ algo 65
 traballo 64
 ás 63
 eu 63
+ver 63
 porque 63
 frases 63
-ver 62
 quen 62
 Quen 61
 coa 61
@@ -138,8 +138,8 @@ veces 57
 xente 56
 tarde 56
 bo 56
+che 55
 iso 55
-che 54
 ir 54
 En 54
 todos 54
@@ -173,10 +173,10 @@ gran 47
 verdade 46
 nun 46
 súas 46
+frase 46
 demasiado 45
 nin 45
 Tatoeba 45
-frase 45
 hora 44
 tes 44
 isto 44
@@ -196,25 +196,25 @@ persoas 41
 amigo 40
 teus 40
 Onde 40
+linguas 40
 dunha 39
 quero 39
 morte 39
 noso 39
 De 39
-linguas 39
 ese 38
 can 38
 ano 38
 historia 38
 No 37
 antes 37
+sexa 37
 neno 36
 durante 36
 cidade 36
 nome 36
 todas 36
 mal 36
-sexa 36
 irmá 36
 fillo 36
 Quero 35
@@ -741,6 +741,7 @@ media 10
 edificio 10
 segredo 10
 irmás 10
+necesita 10
 vella 10
 bonita 10
 espera 10
@@ -814,7 +815,6 @@ español 9
 cea 9
 reloxo 9
 rúa 9
-necesita 9
 Mañá 9
 dúbida 9
 botar 9
@@ -1003,6 +1003,7 @@ tirar 8
 Debería 8
 sabía 8
 mestra 8
+tantas 8
 sufrimento 8
 estrela 8
 planeta 8
@@ -1168,7 +1169,6 @@ atopei 7
 membros 7
 outras 7
 dereita 7
-tantas 7
 compaixón 7
 tiven 7
 chámase 7
@@ -1270,6 +1270,7 @@ normalmente 6
 botou 6
 amizade 6
 curto 6
+"O 6
 Algunhas 6
 oportunidade 6
 dálle 6
@@ -1378,8 +1379,10 @@ correcta 6
 escrita 6
 rostro 6
 Marina 6
+traducida 6
 tolos 6
 pensamentos 6
+"Que 6
 espazo-tempo 6
 emoción 6
 millóns 6
@@ -1492,7 +1495,6 @@ casar 5
 perna 5
 facilmente 5
 internacional 5
-"O 5
 Madrid 5
 coñecido 5
 vermellos 5
@@ -1660,9 +1662,7 @@ amarelo 5
 aprendeu 5
 deber 5
 raras 5
-traducida 5
 mala 5
-"Que 5
 ante 5
 domina 5
 ilusión 5
@@ -2188,6 +2188,7 @@ colexio 3
 Ensíname 3
 Saíu 3
 despedir 3
+gustaría 3
 tomou 3
 aburrido 3
 precisas 3
@@ -3015,7 +3016,6 @@ morras 2
 cepillo 2
 Falamos 2
 admitido 2
-gustaría 2
 esforzouse 2
 ledicia 2
 preparar 2
@@ -4697,6 +4697,7 @@ corredores 2
 apoia 2
 canario 2
 Diniz 2
+paz" 2
 cubertos 2
 abominables 2
 preguiceiro 2
@@ -9997,4 +9998,3 @@ vixía 1
 porta: 1
 "Abre 1
 impecable 1
-orballada 1

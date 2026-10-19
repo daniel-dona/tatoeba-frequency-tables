@@ -1,17 +1,17 @@
 es 311
-Eo 223
+Eo 224
 yn 176
 rhen 161
-di 121
+di 122
 Tomos 110
 ill 107
-lla 94
+lla 95
 Ys 86
 Ill 84
 Sa 81
 llo 71
 Lla 64
-su 60
+su 61
 a 57
 yst 46
 mew 44
@@ -38,6 +38,7 @@ gw 19
 sun 19
 gws 17
 af 17
+Dew 17
 sew 17
 cu 17
 Nu 16
@@ -46,7 +47,6 @@ ffuin 16
 lw 16
 di'll 16
 ys 16
-Dew 16
 e 16
 nonc 15
 wol 15
@@ -198,6 +198,7 @@ fath 4
 bif 4
 fif 4
 menhif 4
+riant 4
 briwad 4
 cach 4
 sul 4
@@ -208,7 +209,6 @@ noeth 4
 cunheg 4
 cungwsc 4
 d'yn 4
-Ddew 4
 pobl 4
 mulltisaf 4
 liferthad 4
@@ -268,7 +268,6 @@ ifern 3
 gwenin 3
 yscrifen 3
 ngwol 3
-riant 3
 phar 3
 h-alltr 3
 mhens 3
@@ -283,6 +282,7 @@ Pod-eo 3
 sidder 3
 fefeiran 3
 châr 3
+Ddew 3
 Sami 3
 mar 3
 Tew 3
@@ -464,6 +464,7 @@ Pona 2
 almenig 2
 iogar 2
 eisistent 2
+Ffreinċ 2
 Esser 2
 fedissif 2
 widd 2
@@ -911,7 +912,6 @@ Rhen 1
 d'ystydd 1
 ddyled 1
 barlar 1
-Ffreinċ 1
 sertheir 1
 angorreith 1
 menhir 1

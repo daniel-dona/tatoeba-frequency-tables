@@ -1,5 +1,5 @@
 Ma 267
-re 168
+re 167
 Tom 59
 Si 54
 Toms 40
@@ -12,7 +12,7 @@ vare 29
 მა 28
 si 28
 vorek 28
-რე 24
+რე 25
  24
 moǩo 24
 tena 24
@@ -273,7 +273,6 @@ tzq'ari 3
 Migaxvamant 3
 Tomish 3
 tashi 3
-Mozodjit 3
 uǩaxle 3
 resṫorani 3
 Diachkimi 3
@@ -465,6 +464,7 @@ Gandjit 2
 ǧolamiri 2
 Tik 2
 baǧana 2
+Mozodjit 2
 tzanash 2
 ç̌opili 2
 Asho 2
@@ -647,7 +647,6 @@ sǩua 2
 ordo 2
 mutƨ 2
 vaxorans 2
-Musi 2
 ჯგირო 2
 მორთუ 2
 იჸუაფუ 2
@@ -747,6 +746,7 @@ vauɔors 2
 ლაზი 2
 ქობალს 2
 გოკონო 2
+გურაფულენს 2
 chais 2
 email-ish 2
 shurishxa 2
@@ -1824,16 +1824,17 @@ uǩlashi 1
 Tuntis 1
 jasha 1
 eshula 1
-ႧႳႬႧႨႱ 1
-ႸႤႳႪႤႡჇ 1
-ႿႠႸႠ 1
-ႤႸႳႪႠ 1
+თუნთის 1
+შეულებუ 1
+ჯაშა 1
+ეშულა 1
 rusetişe 1
 Rusetshe 1
-Uşkuri 1
-çhita 1
+უშქური 1
+ჭითა 1
 tzq̌ar 1
 Shkvit 1
+მოზოჯით 1
 Mozojiti 1
 dzirafa 1
 Gijineky 1
@@ -2432,6 +2433,7 @@ girçkileku 1
 reǩio 1
 Koǧolioo 1
 degegvianu 1
+Musi 1
 gurapulents 1
 sovet‌̌ologi 1
 tat‌̌rişa 1
@@ -3457,8 +3459,8 @@ Tataruli 1
 Google 1
 Translate-s 1
 ბილინგვი 1
-gurapulenʒ 1
-soveṫologi 1
+მუსი 1
+სოვეტოლოგი 1
 Resṫoranʒ 1
 Dzghabi 1
 shunts 1
@@ -3630,7 +3632,6 @@ giç̌q'oliduasƨn 1
 ხვადუ 1
 ოსორსქუა 1
 ქიანას 1
-გურაფულენს 1
 ისტორია 1
 ამბე 1
 უახალაში 1

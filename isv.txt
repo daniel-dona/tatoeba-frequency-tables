@@ -1,7 +1,7 @@
 jest 291
-Ja 242
+Ja 243
 ne 179
-jesm 123
+jesm 124
 Tom 115
 v 94
 je 89
@@ -497,6 +497,7 @@ viděl 2
 kota 2
 viděla 2
 kotku 2
+kraljeva 2
 vojně 2
 herojev 2
 mojego 2
@@ -1226,7 +1227,6 @@ praktična 1
 kelner 1
 glupa 1
 neonacist 1
-kraljeva 1
 někaky 1
 tajny 1
 kod 1
@@ -2520,3 +2520,4 @@ Izraelu 1
 шуми 1
 debela 1
 debely 1
+Francije 1

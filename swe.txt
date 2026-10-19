@@ -1,37 +1,37 @@
-är 11776
-Jag 11369
-att 7172
+är 11777
+Jag 11371
+att 7173
 Tom 7144
-inte 6997
+inte 6999
 en 5191
 du 5181
-på 4899
+på 4900
 det 4806
-i 4636
+i 4637
 har 4269
-Det 3932
+Det 3933
 Han 3442
-jag 3187
+jag 3190
 mig 2757
-för 2720
-här 2684
-var 2635
+för 2721
+här 2685
+var 2637
 med 2478
-till 2395
-och 2362
+till 2396
+och 2364
 om 2282
 Hon 2092
 ett 1967
 som 1924
 dig 1922
-Vi 1908
+Vi 1909
 den 1854
 kan 1696
 av 1621
 Du 1614
-han 1270
+han 1271
 kommer 1266
-sig 1231
+sig 1232
 så 1209
 Vad 1177
 vill 1131
@@ -47,12 +47,12 @@ göra 890
 Är 866
 ska 860
 måste 831
-honom 824
+honom 826
 där 782
 vara 782
 Har 775
 ha 762
-hade 748
+hade 749
 ut 743
 Var 739
 Den 730
@@ -94,7 +94,7 @@ lite 420
 mitt 416
 något 416
 tror 410
-många 404
+många 405
 fick 400
 ingen 399
 ser 394
@@ -119,7 +119,7 @@ kom 350
 hur 348
 dem 340
 borde 338
-När 335
+När 336
 få 328
 komma 322
 hans 320
@@ -131,10 +131,10 @@ igen 310
 får 309
 tre 309
 mer 307
-I 301
-år 299
+I 302
+år 300
 Toms 296
-barn 295
+barn 294
 allt 294
 bli 293
 fortfarande 293
@@ -154,7 +154,7 @@ ligger 262
 vilja 259
 tillbaka 257
 Alla 253
-pengar 252
+pengar 253
 talar 250
 se 249
 Om 248
@@ -389,9 +389,9 @@ rummet 92
 alls 92
 snabbt 91
 tyckte 91
+liten 91
 sjuk 90
 samma 90
-liten 90
 tillsammans 90
 Denna 89
 bästa 89
@@ -512,6 +512,7 @@ tidigare 66
 följa 66
 kostar 66
 John 66
+ringde 66
 vore 66
 simma 65
 Många 65
@@ -526,7 +527,6 @@ person 64
 mår 64
 be 64
 Japan 64
-ringde 64
 död 64
 problemet 64
 hjälpte 64
@@ -764,6 +764,7 @@ ställa 43
 galen 43
 skyldig 43
 månader 43
+ögonen 43
 bröt 43
 möjligt 43
 litar 43
@@ -784,7 +785,6 @@ maten 42
 uppe 42
 nyss 42
 Vänta 42
-ögonen 42
 äpple 42
 dator 42
 kärlek 42
@@ -808,6 +808,7 @@ sängen 41
 Ser 41
 blå 41
 dansa 41
+eftersom 41
 anledning 41
 tittar 41
 förstod 41
@@ -842,7 +843,6 @@ nöjd 39
 verkade 39
 skogen 39
 kinesiska 39
-eftersom 39
 även 39
 sådan 38
 största 38
@@ -897,6 +897,7 @@ sägs 35
 röda 35
 luktar 35
 glasögon 35
+stannar 35
 Såg 35
 skämt 35
 Ibland 35
@@ -924,7 +925,6 @@ trädgården 34
 följde 34
 letar 34
 äpplen 34
-stannar 34
 Släpp 34
 köper 34
 igenom 34
@@ -974,6 +974,7 @@ ber 32
 håret 32
 springer 32
 meningar 32
+la 32
 säng 32
 Hade 32
 ansikte 32
@@ -992,7 +993,6 @@ sidan 31
 sommaren 31
 större 31
 tjänar 31
-Som 31
 Kanske 31
 bild 31
 beställde 31
@@ -1001,7 +1001,6 @@ ryska 31
 gäller 31
 gifte 31
 sköt 31
-la 31
 hoppade 31
 stan 31
 berättar 31
@@ -1021,6 +1020,7 @@ skrivit 30
 bestämt 30
 Pojken 30
 vitt 30
+Som 30
 pojken 30
 kvällen 30
 omöjligt 30
@@ -1540,6 +1540,7 @@ golf 18
 ledig 18
 Helsingfors 18
 fisken 18
+förkyld 18
 dött 18
 regn 18
 Rom 18
@@ -1590,7 +1591,6 @@ grönsaker 17
 Kyoto 17
 intelligent 17
 åkt 17
-förkyld 17
 ögat 17
 förkylning 17
 Fråga 17
@@ -2157,6 +2157,7 @@ förstörde 12
 Irland 12
 sömnig 12
 erbjöd 12
+vände 12
 sovrum 12
 näsan 12
 allvarlig 12
@@ -2312,7 +2313,7 @@ kunder 11
 somna 11
 kallade 11
 studerat 11
-vände 11
+spara 11
 tavlan 11
 Finlands 11
 imponerad 11
@@ -2432,6 +2433,7 @@ rådde 10
 svor 10
 övermorgon 10
 kartan 10
+Prinsessan 10
 gissa 10
 svåra 10
 kompisar 10
@@ -2501,7 +2503,6 @@ damm 10
 givet 10
 Rita 10
 författare 10
-spara 10
 tjäna 10
 sidor 10
 amerikansk 10
@@ -2512,6 +2513,7 @@ tände 10
 Fyll 10
 sjuka 10
 beskriva 10
+passagerare 10
 personen 10
 Marias 10
 Stå 10
@@ -2638,7 +2640,6 @@ kulspetspenna 9
 rygg 9
 nyheten 9
 marknaden 9
-Prinsessan 9
 sker 9
 botten 9
 liter 9
@@ -2728,7 +2729,6 @@ artikel 9
 fånga 9
 sängs 9
 lyckligt 9
-passagerare 9
 Lådan 9
 utsikt 9
 kurs 9
@@ -3144,6 +3144,7 @@ Lite 7
 sexton 7
 kvinnorna 7
 planeten 7
+öre 7
 Räck 7
 pojkarna 7
 försörja 7
@@ -3515,7 +3516,6 @@ Hästen 6
 staketet 6
 amerikanska 6
 vykort 6
-öre 6
 porten 6
 mig” 6
 Våren 6
@@ -3852,6 +3852,7 @@ groda 6
 jude 6
 olagligt 6
 rocken 6
+slöt 6
 Johns 6
 begravning 6
 mask 6
@@ -4455,7 +4456,6 @@ tillbringar 5
 Tittar 5
 spegel 5
 använd 5
-slöt 5
 vattnade 5
 blekaste 5
 hjärtan 5
@@ -8007,6 +8007,7 @@ haiku 2
 pinnar 2
 Indonesien 2
 Valresultatet 2
+vartenda 2
 cola 2
 jämna 2
 stater 2
@@ -9683,6 +9684,7 @@ försvinner 2
 Jons 2
 "Ja" 2
 masken 2
+Bästa 2
 spänna 2
 mesta 2
 ömtåliga 2
@@ -9996,5 +9998,3 @@ smörgåsar 2
 "Säg 2
 tillåtelse 2
 kroppar 2
-Jobba 2
-munkar 2
