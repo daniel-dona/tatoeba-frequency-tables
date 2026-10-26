@@ -1,10 +1,10 @@
 się 17519
-nie 14933
+nie 14934
 jest 14603
-w 13167
+w 13168
 Tom 11520
 na 11040
-Nie 9675
+Nie 9677
 to 8992
 że 8381
 do 7955
@@ -17,8 +17,8 @@ o 3655
 mnie 3644
 ma 3221
 co 3156
-On 3007
-za 2954
+On 3008
+za 2956
 jak 2855
 tego 2666
 po 2592
@@ -36,7 +36,7 @@ go 1664
 już 1652
 ci 1559
 ale 1544
-Co 1526
+Co 1527
 dla 1518
 Toma 1441
 domu 1392
@@ -47,7 +47,7 @@ Jak 1295
 Jest 1275
 ten 1275
 jej 1255
-było 1243
+było 1244
 jego 1225
 mogę 1215
 zrobić 1201
@@ -70,7 +70,7 @@ by 982
 jeszcze 972
 pan 964
 tej 962
-mam 952
+mam 953
 była 933
 tam 899
 Proszę 875
@@ -171,7 +171,7 @@ mojego 441
 szybko 438
 dzisiaj 437
 dom 433
-Lubię 431
+Lubię 432
 został 429
 swoją 428
 tobą 428
@@ -318,7 +318,7 @@ pokój 248
 angielskiego 247
 dni 247
 Pan 246
-miejsce 245
+miejsce 246
 Naprawdę 245
 Powinieneś 244
 końcu 243
@@ -497,6 +497,7 @@ którym 163
 kocha 162
 pływać 162
 zdania 162
+Dziękuję 162
 nikt 162
 John 162
 zanim 162
@@ -506,7 +507,6 @@ twojego 162
 powinienem 162
 znowu 161
 jechać 160
-Dziękuję 160
 mogą 160
 języka 160
 pójść 160
@@ -618,13 +618,13 @@ spotkać 137
 ważne 137
 mógłbym 137
 Było 136
+trzeba 136
 znać 136
 jakiś 136
 człowieka 136
 prawo 136
 których 136
 tobie 135
-trzeba 135
 kot 135
 Gdyby 135
 strony 134
@@ -632,6 +632,7 @@ sama 133
 również 133
 musimy 133
 działa 133
+nadal 133
 Wszystkie 132
 da 132
 mówię 132
@@ -639,7 +640,6 @@ praca 132
 nowe 132
 każdego 132
 Możemy 132
-nadal 132
 pewno 131
 innego 131
 jednym 130
@@ -773,7 +773,6 @@ ostatnio 108
 dzieje 108
 inny 108
 Idę 107
-I 107
 zostanie 107
 osobą 107
 Cię 107
@@ -783,6 +782,7 @@ muzyki 106
 Dla 106
 Pozwól 106
 bogaty 106
+I 106
 Nasza 106
 widział 106
 przeciwko 106
@@ -1078,6 +1078,7 @@ zostały 78
 chleb 78
 potem 78
 Jane 77
+Niestety 77
 wsi 77
 jeździć 77
 wiedzą 77
@@ -1092,7 +1093,6 @@ powód 77
 Woda 77
 myślę 77
 napisać 77
-Niestety 76
 Czasami 76
 naszych 76
 serca 76
@@ -1191,6 +1191,7 @@ miłości 70
 celu 70
 dworzec 70
 Wkrótce 70
+uwagi 70
 zdrowia 70
 Będziesz 70
 firmy 70
@@ -1206,7 +1207,6 @@ japońsku 69
 wielki 69
 oznacza 69
 złego 69
-uwagi 69
 robił 69
 rozwiązać 69
 Który 69
@@ -3946,6 +3946,7 @@ grałem 19
 Uważa 19
 północy 19
 sposobu 19
+udowodnić 19
 kosztować 19
 odebrać 19
 wątpienia 19
@@ -4108,7 +4109,6 @@ urodziła 18
 Mógłby 18
 kurs 18
 cóż 18
-udowodnić 18
 turystów 18
 pozostaje 18
 włosku 18
@@ -5648,6 +5648,7 @@ pracujemy 13
 CD 13
 Bilety 13
 mieszkała 13
+zajął 13
 przemówienia 13
 miecza 13
 zdrowa 13
@@ -5865,6 +5866,7 @@ odkrycie 12
 urocze 12
 popularne 12
 piątą 12
+biletu 12
 poczta 12
 Włosy 12
 wybierać 12
@@ -6064,7 +6066,6 @@ końcem 12
 mądrzejsza 12
 zimniej 12
 mur 12
-zajął 12
 podatek 12
 13 12
 trójki 12
@@ -6307,7 +6308,6 @@ Dostała 11
 przegrał 11
 Przyszło 11
 szóstą 11
-biletu 11
 umieją 11
 uśmiechu 11
 „Czy 11

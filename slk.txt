@@ -1,5 +1,5 @@
-je 6142
-sa 3809
+je 6145
+sa 3811
 som 2974
 Tom 2683
 si 2490
@@ -7,7 +7,7 @@ to 2219
 na 1936
 že 1616
 v 1579
-a 1470
+a 1471
 Je 892
 mi 874
 sú 842
@@ -21,7 +21,7 @@ nie 625
 do 615
 ste 605
 Som 603
-po 548
+po 549
 o 528
 s 527
 z 507
@@ -147,8 +147,8 @@ sám 115
 tvoja 113
 svoje 113
 toto 113
+Vieš 113
 Bola 113
-Vieš 112
 ty 111
 Ona 111
 dobrý 111
@@ -162,10 +162,10 @@ Má 109
 máš 108
 povedať 107
 Ty 106
+hovoriť 106
 toho 106
 Včera 105
 prosím 105
-hovoriť 105
 robiť 105
 bez 104
 teraz 104
@@ -411,6 +411,7 @@ tieto 45
 názor 45
 Povedzte 45
 narodeniny 44
+Učím 44
 taká 44
 matka 44
 nami 44
@@ -431,7 +432,6 @@ zmysel 43
 ním 42
 ryby 42
 až 42
-Učím 42
 krásna 42
 Akú 42
 Chceš 42
@@ -585,6 +585,7 @@ otázku 32
 Prišiel 32
 Vitajte 32
 hovorím 32
+Človek 32
 vety 32
 celkom 32
 troch 32
@@ -651,7 +652,6 @@ rusky 29
 vami 29
 hrať 29
 pozná 29
-Človek 29
 našiel 29
 naša 29
 Videli 29
@@ -1651,6 +1651,7 @@ smrti 11
 približne 11
 Japonsko 11
 príjemne 11
+priateľom 11
 nepríde 11
 fakt 11
 ostrov 11
@@ -1706,6 +1707,7 @@ hlavou 11
 Ale 11
 odo 11
 slepá 11
+človeku 11
 svojimi 11
 východe 11
 Skoro 11
@@ -1954,7 +1956,6 @@ slovenčine 10
 Bobor 10
 myšlienka 9
 použiť 9
-priateľom 9
 dvaja 9
 zhruba 9
 žiadna 9
@@ -2113,6 +2114,7 @@ Vidíte 9
 nájdete 9
 nájde 9
 veľkej 9
+fínsky 9
 nesmierne 9
 Učíme 9
 druhov 9
@@ -2302,7 +2304,6 @@ strávil 8
 jenov 8
 zlato 8
 spánok 8
-človeku 8
 uvidíme 8
 urobíš 8
 zaneprázdnení 8
@@ -2406,7 +2407,6 @@ rohu 8
 Žije 8
 Odvtedy 8
 oblohu 8
-fínsky 8
 Blahoslavení 8
 priateľku 8
 diela 8
@@ -3220,6 +3220,7 @@ Zase 6
 neba 6
 nastalo 6
 semeno 6
+bratom 6
 Kým 6
 „Máš 6
 Nemôžete 6
@@ -3794,7 +3795,6 @@ nebo 5
 nocou 5
 plazy 5
 všetku 5
-bratom 5
 Modli 5
 Ryby 5
 bystrá 5
@@ -8290,6 +8290,7 @@ planétu 2
 pridajte 2
 ľúbil 2
 Taktiež 2
+češtinu 2
 pritiahol 2
 Najlepší 2
 dnešnom 2
@@ -8995,6 +8996,7 @@ vystrašil 2
 Etiópčan 2
 Etiópčanka 2
 Čiňte 2
+vlkom 2
 strata 2
 presťahoval 2
 Stáva 2
@@ -9996,5 +9998,3 @@ jedáva 2
 Malta 2
 Lopty 2
 Náboženstvo 2
-ópium 2
-ušetriť 2

@@ -1,18 +1,18 @@
-le 15826
-es 11803
-un 9549
+le 15828
+es 11804
+un 9551
 de 8738
-ha 6516
-Le 6065
-Io 5696
+ha 6517
+Le 6067
+Io 5697
 in 5435
 non 5342
 que 5173
 e 3642
 del 3411
-a 3396
+a 3397
 tu 3110
-Tom 3034
+Tom 3035
 Ille 2415
 me 2309
 io 2147
@@ -20,7 +20,7 @@ Il 1910
 vos 1905
 lo 1888
 su 1860
-al 1835
+al 1836
 se 1788
 pro 1666
 con 1615
@@ -29,7 +29,7 @@ plus 1540
 mi 1368
 pote 1347
 nos 1275
-Nos 1164
+Nos 1165
 multo 1150
 esseva 1147
 iste 1110
@@ -38,13 +38,13 @@ per 1088
 te 1085
 como 1066
 Illa 1006
-il 961
+il 962
 Esque 891
-vole 852
+vole 854
 grande 835
 Iste 823
 illo 812
-era 789
+era 790
 esser 732
 habeva 731
 Que 719
@@ -80,7 +80,7 @@ place 494
 sur 489
 parla 477
 illes 465
-mundo 460
+mundo 462
 vostre 455
 ama 449
 belle 447
@@ -97,14 +97,14 @@ duo 389
 nostre 383
 Si 377
 Deo 377
-tanto 373
+tanto 374
 sin 368
 On 352
 hic 348
 anglese 344
 aqua 338
 ancora 334
-A 329
+A 330
 sol 328
 diceva 322
 Maria 322
@@ -160,8 +160,8 @@ Illas 221
 amico 220
 ante 217
 Qual 217
+Tote 215
 bibe 215
-Tote 213
 usque 212
 essera 212
 melior 211
@@ -175,7 +175,7 @@ deberea 204
 Ego 203
 ora 202
 Ubi 199
-nulle 198
+nulle 199
 infantes 197
 tres 195
 parolas 194
@@ -389,6 +389,7 @@ puncto 86
 Ecce 86
 pauc 86
 esperanto 86
+pace 86
 iva 86
 anima 86
 interlingua 85
@@ -398,7 +399,6 @@ corpore 84
 vino 84
 trovava 84
 presso 84
-pace 84
 libere 83
 mercato 83
 guerra 83
@@ -497,6 +497,7 @@ espaniol 67
 capillos 66
 facera 66
 tassa 66
+football 66
 typo 66
 insimul 66
 Ma 66
@@ -507,7 +508,6 @@ desde 65
 immediatemente 65
 foras 65
 problemas 65
-football 65
 confidentia 65
 vader 65
 ipse 65
@@ -515,6 +515,7 @@ manos 64
 nemo 64
 parentes 64
 inseniante 64
+derecto 64
 gigantesc 64
 mille 64
 seque 64
@@ -527,7 +528,6 @@ Parla 63
 amabile 63
 parlava 63
 universo 63
-derecto 63
 re 63
 verso 62
 dormi 62
@@ -1104,6 +1104,7 @@ contente 30
 occider 30
 Uno 30
 papa 30
+Russia 30
 meditar 30
 nahuatl 30
 scande 30
@@ -1140,7 +1141,6 @@ debera 29
 representa 29
 placia 29
 Israel 29
-Russia 29
 etc 29
 Jupiter 29
 Totos 29
@@ -1313,6 +1313,7 @@ eterne 25
 currente 25
 rideva 25
 inimicos 25
+occide 25
 bananas 25
 prova 25
 construction 24
@@ -1357,7 +1358,6 @@ official 24
 medietate 24
 principio 24
 filios 24
-occide 24
 baby 24
 Marco 24
 substantivos 24
@@ -1488,6 +1488,7 @@ oncle 21
 terreno 21
 decidite 21
 appare 21
+jocava 21
 partite 21
 definite 21
 scriptor 21
@@ -1558,7 +1559,6 @@ Mexico 20
 numeros 20
 van 20
 accompaniar 20
-jocava 20
 chocolate 20
 remaneva 20
 avante 20
@@ -2350,6 +2350,7 @@ collo 13
 separate 13
 physica 13
 Sancte 13
+Resta 13
 physic 13
 carriera 13
 deriva 13
@@ -2430,6 +2431,7 @@ fontes 12
 sport 12
 hibernal 12
 refusava 12
+permanente 12
 malgrado 12
 pression 12
 fugiva 12
@@ -2536,7 +2538,6 @@ preter 12
 bellemente 12
 Nord 12
 Eva 12
-Resta 12
 magia 12
 revolution 12
 formicas 12
@@ -2603,7 +2604,6 @@ secrete 11
 scholas 11
 habilitates 11
 attraheva 11
-permanente 11
 assistente 11
 firma 11
 acquirer 11
@@ -2724,6 +2724,7 @@ Islam 11
 miaula 11
 toxicomano 11
 myrtillo 11
+Ukraina 11
 brunette 11
 australian 11
 extraterrestres 11
@@ -2963,7 +2964,6 @@ kabyle 10
 "De 10
 albanese 10
 penis 10
-Ukraina 10
 Porcos 10
 pochetto 10
 incircula 10
@@ -3241,6 +3241,7 @@ Dr 9
 obteneva 9
 transgenere 9
 violetta 9
+queer 9
 cacate 9
 guidava 9
 job 9
@@ -3598,7 +3599,6 @@ H 8
 Merda 8
 Salva 8
 synagoga 8
-queer 8
 incostose 8
 fascistas 8
 "Illo 8
@@ -4088,6 +4088,7 @@ americanos 6
 conflicto 6
 erumpeva 6
 organisation 6
+americano 6
 trahe 6
 credite 6
 retorno 6
@@ -4673,7 +4674,6 @@ verificar 5
 empleato 5
 indicar 5
 suggestion 5
-americano 5
 traduceva 5
 profito 5
 characteristic 5
@@ -6408,6 +6408,7 @@ Laco 4
 Mashuu 4
 dormira 4
 uyghur 4
+conscie 4
 sape" 4
 tigres 4
 quecunque 4
@@ -6430,6 +6431,7 @@ yucatec 4
 boschetto 4
 redole 4
 cocaina 4
+crack 4
 Putin 4
 Rāgarāja 4
 chineses 4
@@ -7049,6 +7051,7 @@ bassessa 3
 consolation 3
 Melio 3
 gazon 3
+durabile 3
 interrate 3
 subitemente 3
 angustia 3
@@ -7974,7 +7977,6 @@ antecamera 3
 Jammais 3
 narcomano 3
 narcomana 3
-conscie 3
 toast 3
 Tentar 3
 conciper 3
@@ -8021,7 +8023,6 @@ transhumanista 3
 robotic 3
 furar 3
 Americanos 3
-crack 3
 factual 3
 solera 3
 talmente 3
@@ -8963,7 +8964,6 @@ attentiones 2
 invocate 2
 testimonio 2
 umbrella 2
-durabile 2
 revolutionario 2
 affrontate 2
 combattite 2

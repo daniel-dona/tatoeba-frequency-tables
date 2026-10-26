@@ -1,4 +1,4 @@
-an 684
+an 686
 a 651
 Tá 632
 mé 407
@@ -8,17 +8,17 @@ Is 335
 ar 249
 tú 221
 go 218
+sé 216
 bhfuil 214
-sé 214
 An 211
 seo 195
-Ní 185
-agam 173
+Ní 186
+agam 174
 Níl 167
 liom 155
 i 136
 mo 133
-le 117
+le 118
 na 107
 do 99
 maith 98
@@ -30,9 +30,9 @@ Tomás 83
 sa 80
 atá 79
 is 75
+Táim 73
 leat 73
 sí 73
-Táim 72
 orm 70
 rud 69
 féidir 68
@@ -41,13 +41,13 @@ mhaith 65
 agus 63
 raibh 62
 Ba 60
+leis 55
 dul 55
 ann 55
-leis 54
+leabhar 54
 Cad 54
-leabhar 53
 Cén 53
-siad 51
+siad 52
 duine 48
 iarraidh 48
 fhios 48
@@ -133,8 +133,10 @@ faoin 17
 Sin 17
 bhaile 16
 ól 16
+Ar 16
 bhfaca 16
 léi 16
+bia 16
 ní 16
 scoil 16
 Chuir 16
@@ -147,9 +149,7 @@ gan 15
 aithne 15
 Mary 15
 caint 15
-Ar 15
 Cheannaigh 15
-bia 15
 gcónaí 15
 Nach 15
 Caithfidh 15
@@ -276,6 +276,7 @@ bean 8
 chodladh 8
 fós 8
 ceart 8
+níl 8
 cheannach 8
 peann 8
 úsáid 8
@@ -310,13 +311,13 @@ bainne 7
 airgead 7
 éisteacht 7
 smaoineamh 7
-níl 7
 díreach 7
 chailín 7
 dtuigeann 7
 fhírinne 7
 á 7
 labhraím 7
+cé 7
 cá 7
 conas 7
 ábalta 6
@@ -334,6 +335,7 @@ ndearna 6
 thuigim 6
 siúl 6
 Londain 6
+nár 6
 oíche 6
 dúirt 6
 mall 6
@@ -372,7 +374,6 @@ chugam 6
 D'éirigh 6
 A 6
 Bíonn 6
-cé 6
 cuma 6
 cuir 6
 saor 6
@@ -391,7 +392,6 @@ gá 5
 bheag 5
 éasca 5
 deacair 5
-nár 5
 Cathain 5
 Ag 5
 ’Séard 5
@@ -437,6 +437,7 @@ tSín 5
 Labhraím 5
 Tuigeann 5
 t-ábhar 5
+ticéad 5
 luaidhe 5
 sheoladh 5
 rua 5
@@ -459,6 +460,7 @@ greim 5
 fonn 5
 Nílimid 5
 mbeadh 5
+thaitin 5
 luath 5
 glúine 5
 Sami 5
@@ -540,7 +542,6 @@ chóir 4
 rís 4
 fhoghlaim 4
 foclóir 4
-ticéad 4
 eochair 4
 hiontach 4
 Dún 4
@@ -571,7 +572,6 @@ gceart 4
 Amach 4
 Rith 4
 Chomh 4
-thaitin 4
 scoile 3
 Feicim 3
 chat 3
@@ -635,6 +635,7 @@ romhat 3
 Oíche 3
 D'fhreagair 3
 tábla 3
+torthaí 3
 cathracha 3
 siúcra 3
 úll 3
@@ -886,7 +887,6 @@ eitleán 2
 Rúiseach 2
 Íosfaidh 2
 fheoil 2
-torthaí 2
 léarscáil 2
 mhonarcha 2
 iriseoir 2
@@ -914,6 +914,7 @@ tugtar 2
 crann 2
 fás 2
 láidir 2
+Léigh 2
 phian 2
 ghrian 2
 Thit 2
@@ -1127,6 +1128,7 @@ ndúirt 2
 fhillfidh 2
 choíche 2
 cuairt 2
+maidir 2
 dia 2
 ola 2
 uile 2
@@ -1257,6 +1259,7 @@ Thom 2
 Ceannóidh 2
 idirlín 2
 an-mhall 2
+dhíolann 2
 fhreagra 2
 scuadcharr 2
 tSeoirsia 2
@@ -1570,7 +1573,6 @@ anála 1
 fangirl 1
 Sníonn 1
 pósta 1
-Léigh 1
 Bille 1
 gnách 1
 Neiptiún 1
@@ -2245,7 +2247,6 @@ ngasúr 1
 marcaíocht 1
 tsiocair 1
 shásamh 1
-maidir 1
 gnó 1
 bun 1
 Anseo 1
@@ -2992,7 +2993,6 @@ himeacht 1
 Jabu 1
 cineál 1
 seodra 1
-dhíolann 1
 fínéagar 1
 D'óladh 1
 ullmhaigh 1
@@ -3088,3 +3088,5 @@ fhoilsiú 1
 26 1
 Iúil 1
 1887 1
+an-éisealach 1
+drochuair 1

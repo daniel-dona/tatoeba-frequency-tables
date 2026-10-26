@@ -1,23 +1,23 @@
-t 2034
-is 1969
+t 2035
+is 1971
 k 1880
 n 1819
 nait 1118
 Tom 920
-van 818
+van 819
 Ik 789
-Hai 716
-dat 679
+Hai 717
+dat 680
 binnen 623
-de 615
-te 557
-op 528
+de 618
+te 559
+op 529
 het 516
 mie 515
 in 497
 Wie 461
 mit 454
-en 443
+en 444
 mien 439
 ien 402
 Is 376
@@ -26,11 +26,11 @@ Zai 340
 veur 337
 noar 332
 aan 330
-was 326
+was 327
 heur 306
 joe 296
 zien 293
-De 290
+De 291
 dien 281
 die 273
 Wat 273
@@ -44,7 +44,7 @@ Mien 258
 der 248
 Doe 245
 Heb 243
-om 242
+om 243
 Dat 239
 heb 233
 hom 203
@@ -71,8 +71,8 @@ ons 147
 oet 141
 goan 139
 zain 135
-bie 134
-e 133
+bie 135
+e 134
 dit 132
 zo 129
 goud 123
@@ -125,8 +125,8 @@ Wil 68
 hoes 68
 geern 67
 Bist 67
+tied 67
 wotter 66
-tied 66
 vraauw 66
 Joe 65
 kommen 65
@@ -142,10 +142,10 @@ aaltied 60
 zol 60
 Kinst 59
 Sami 59
+komt 59
 zee 59
 aal 58
 ain 58
-komt 58
 leutje 58
 moakt 57
 hond 57
@@ -156,12 +156,12 @@ beter 57
 Hebben 55
 woont 54
 hou 54
+loat 54
 òf 54
 gaait 54
 kocht 53
 waiten 53
 nije 53
-loat 53
 wol 53
 vroag 53
 weer 52
@@ -169,10 +169,10 @@ Dou 52
 Wait 52
 Heur 52
 uut 52
+proaten 51
 dag 51
 gaauw 51
 zai 51
-proaten 50
 mouten 50
 lezen 49
 neudeg 49
@@ -322,6 +322,7 @@ thoes 26
 aander 26
 botter 26
 mos 26
+zeun 26
 woarom 26
 Boston 26
 hait 26
@@ -334,7 +335,6 @@ kloar 25
 spreken 25
 Geef 25
 Eet 25
-zeun 25
 Veul 25
 revier 25
 stoer 25
@@ -736,6 +736,7 @@ hulp 11
 Docht 11
 Begriep 11
 kopke 11
+meschain 11
 brengen 11
 vouten 11
 laiver 11
@@ -813,7 +814,6 @@ vervoarde 10
 pobbe 10
 licht 10
 Wichter 10
-meschain 10
 handen 10
 onmeugelk 10
 dervan 10
@@ -892,6 +892,7 @@ Astoe 9
 mes 9
 toen 9
 eerste 9
+Om 9
 sloap 9
 Begun 9
 schaarp 9
@@ -1004,7 +1005,6 @@ glaas 8
 knoflook 8
 von 8
 Zet 8
-Om 8
 rond 8
 smoak 8
 grootste 8
@@ -1431,6 +1431,7 @@ trekken 6
 nust 6
 onderwegens 6
 ales 6
+mensen 6
 dastoe 6
 jongere 6
 bezwoar 6
@@ -1602,6 +1603,7 @@ leuf 5
 Ook 5
 Achter 5
 Zugst 5
+bezörgd 5
 kluig 5
 brocht 5
 laag 5
@@ -1669,7 +1671,6 @@ spel 5
 tillevisie 5
 gezin 5
 begrepen 5
-mensen 5
 begripst 5
 benijd 5
 vertoald 5
@@ -1930,7 +1931,6 @@ twievel 4
 Bloud 4
 geluud 4
 denkt 4
-bezörgd 4
 woarschienlek 4
 Leg 4
 voas 4
@@ -2148,6 +2148,7 @@ aarven 3
 bonk 3
 bril 3
 Te 3
+Endelk 3
 schriefst 3
 Bestoan 3
 Hail 3
@@ -2640,6 +2641,7 @@ des 3
 brug 3
 speuld 3
 twieveln 3
+veuraal 3
 kwaliteit 3
 staarkste 3
 odder 3
@@ -2861,7 +2863,6 @@ winkels 2
 feestke 2
 Smoken 2
 Dudelk 2
-Endelk 2
 Genog 2
 Schaai 2
 Onmeugelk 2
@@ -3824,7 +3825,6 @@ eerlekhaid 2
 uutdrukken 2
 zal 2
 schoamte 2
-veuraal 2
 soamen 2
 bloadern 2
 handzoam 2
@@ -9378,3 +9378,10 @@ onverdachts 1
 doekersbril 1
 kokhaalzen 1
 ommeneden 1
+3000 1
+Fering 1
+Westerland-Föhr 1
+grondwet 1
+ondertaiken 1
+prins 1
+keuneg 1

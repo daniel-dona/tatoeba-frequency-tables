@@ -1,4 +1,4 @@
-je 1969
+je 1970
 se 712
 u 655
 sam 551
@@ -25,7 +25,7 @@ me 131
 smo 126
 s 126
 će 116
-Što 111
+Što 112
 Ja 109
 Ona 108
 bi 102
@@ -41,7 +41,7 @@ Tko 69
 mogu 69
 nego 67
 više 66
-Mary 65
+Mary 66
 još 63
 Zašto 62
 Je 61
@@ -93,9 +93,9 @@ do 42
 Moj 41
 vremena 40
 tamo 40
+Volim 39
 znam 39
 Da 38
-Volim 38
 Kada 38
 puno 38
 Moja 37
@@ -107,13 +107,13 @@ tvoj 36
 Toma 36
 mnogo 36
 nema 35
+učiniti 35
 ništa 34
 nas 34
 knjigu 34
 mene 34
 godine 34
 vidjeti 34
-učiniti 34
 moja 33
 kada 33
 doći 33
@@ -131,11 +131,11 @@ radi 31
 danas 31
 možeš 31
 posao 31
+želiš 31
 auto 30
 vrata 30
 engleski 30
 sada 30
-želiš 30
 po 29
 Svi 29
 ovaj 28
@@ -274,6 +274,7 @@ Kad 16
 gradu 16
 toga 16
 nalazi 16
+majka 16
 koju 16
 tebi 16
 Sada 16
@@ -297,7 +298,6 @@ lijepa 15
 uopće 15
 Neki 15
 znaš 15
-majka 15
 života 15
 kojeg 15
 jesti 15
@@ -305,6 +305,7 @@ možemo 15
 učitelj 15
 riječi 15
 ide 15
+mačka 14
 jednom 14
 svijetu 14
 Zar 14
@@ -330,7 +331,6 @@ Budi 14
 hladno 14
 žene 14
 kuće 14
-mačka 13
 ova 13
 Vrijeme 13
 mislim 13
@@ -642,6 +642,7 @@ odgovor 7
 plakati 7
 umro 7
 Boli 7
+brzo 7
 čak 7
 hotel 7
 Samo 7
@@ -750,7 +751,6 @@ svome 6
 ocu 6
 prazna 6
 njima 6
-brzo 6
 ukrao 6
 dom 6
 imala 6
@@ -774,6 +774,7 @@ jabuku 6
 John 6
 poznaje 6
 svemu 6
+trči 6
 Mnogi 6
 obično 6
 doba 6
@@ -813,6 +814,7 @@ rečenice 6
 radio 6
 Hrvatske 6
 trebamo 6
+Tomova 6
 Želimo 6
 Hrvatska 6
 Europe 6
@@ -916,7 +918,6 @@ smisla 5
 Radi 5
 sljedeći 5
 pošten 5
-trči 5
 početi 5
 Često 5
 pri 5
@@ -989,7 +990,6 @@ očima 5
 drugih 5
 Ostavi 5
 najviši 5
-Tomova 5
 daj 5
 jedini 5
 Dali 5
@@ -1473,6 +1473,7 @@ posuditi 3
 ulica 3
 busa 3
 lice 3
+Crna 3
 zadovoljno 3
 stanici 3
 učim 3
@@ -2090,7 +2091,6 @@ ukusni 2
 zapravo 2
 Najprije 2
 prekrasno 2
-Crna 2
 predila 2
 kemijsku 2
 pokupiti 2
@@ -8985,3 +8985,5 @@ odgovore 1
 ključeve 1
 mrkvu 1
 kauču 1
+Plešu 1
+kruške 1

@@ -5,10 +5,10 @@ na 16800
 po 13869
 ko 12701
 mga 12311
-Tom 9657
-si 8979
+Tom 9658
+si 8980
 ako 8405
-mo 6354
+mo 6355
 ni 6306
 Hindi 6111
 at 5495
@@ -32,7 +32,7 @@ kung 2458
 Sa 2231
 iyon 2156
 iyan 2104
-pa 1990
+pa 1991
 lang 1789
 pong 1787
 kayo 1614
@@ -89,7 +89,7 @@ aking 628
 ninyong 616
 loob 612
 oras 609
-buhay 607
+buhay 608
 dapat 596
 yaong 592
 walang 587
@@ -345,7 +345,7 @@ galing 168
 kusina 168
 kitang 167
 mansanas 167
-Kailan 165
+Kailan 166
 ayaw 165
 Esperanto 165
 niyan 165
@@ -421,10 +421,10 @@ mahal 133
 kabayo 133
 Pilipino 133
 maaraw 133
+huling 132
 ilaw 132
 Maganda 132
 Australia 131
-huling 131
 Malapit 131
 maaaring 131
 relihiyon 131
@@ -1115,6 +1115,7 @@ kamatayan 50
 mahanap 50
 tulay 50
 init 50
+nakitang 50
 espasyo 50
 Lahat 50
 malawak 50
@@ -1139,7 +1140,6 @@ natutulog 49
 Kita 49
 istorya 49
 tulog 49
-nakitang 49
 pangarap 49
 apartment 49
 almusal 49

@@ -1,25 +1,25 @@
 esas 3787
 Me 2851
-la 2638
+la 2640
 ne 1670
 Tom 1369
-La 1277
+La 1279
 me 1118
 tu 1072
 Ka 949
 es 762
 en 743
-havas 726
-Il 574
+havas 727
+Il 575
 vu 572
 Ni 535
 ke 530
 mea 502
 a 497
-esis 478
+esis 479
 di 474
-e 437
-volas 422
+e 438
+volas 423
 povas 387
 Tu 360
 tre 345
@@ -31,17 +31,17 @@ Mea 319
 vi 287
 kun 274
 savas 265
-plu 262
-de 250
+plu 263
+de 251
 ni 239
 tua 239
 bona 233
 quo 232
 To 227
 Li 226
-sua 216
+sua 217
 Ne 208
-kam 204
+kam 205
 Ilu 202
 pri 202
 prizas 199
@@ -56,7 +56,7 @@ bezonas 164
 Pro 163
 amas 161
 libro 159
-granda 147
+granda 148
 Ube 147
 Mary 145
 Esas 141
@@ -99,8 +99,8 @@ pekunio 102
 Maria 102
 lernas 101
 ilu 99
+homi 99
 odias 98
-homi 98
 patro 96
 ad 93
 Quale 93
@@ -199,17 +199,18 @@ drinkas 50
 automobilo 50
 anke 50
 lua 49
+havis 49
 kati 48
 komprenas 48
 importanta 48
 venas 48
-havis 48
 yuna 48
 Bona 46
 problemo 46
 hodie 46
 elua 45
 vivas 45
+okuli 45
 altra 45
 libri 44
 hiere 44
@@ -217,7 +218,6 @@ arivis 44
 On 44
 che 44
 standas 44
-okuli 44
 existas 44
 infanti 43
 dormas 43
@@ -305,6 +305,7 @@ kavalo 32
 filiino 32
 Ido 32
 fishi 32
+Omni 32
 Ziri 32
 lingui 31
 kozo 31
@@ -313,7 +314,6 @@ nek 31
 ofte 31
 divenis 31
 kaptis 31
-Omni 31
 Tatoeba 30
 suno 30
 puero 30
@@ -585,6 +585,7 @@ lasta 15
 preferas 15
 okupata 15
 fino 15
+propra 15
 bezonis 15
 vakua 15
 sucesis 15
@@ -618,7 +619,6 @@ dankas 14
 posedas 14
 recevis 14
 konocis 14
-propra 14
 komprenis 14
 Plu 14
 A 14
@@ -700,6 +700,7 @@ Amerika 12
 Ye 12
 memoras 12
 danjero 12
+kune 12
 hararo 12
 pasinta 12
 pavoras 12
@@ -731,6 +732,7 @@ gambi 12
 Yanni 12
 Ti 11
 taso 11
+paco 11
 navo 11
 afero 11
 respondar 11
@@ -772,7 +774,6 @@ kustoza 11
 filii 11
 duris 11
 vizitis 11
-kune 11
 natis 11
 Amba 11
 Manjez 11
@@ -808,7 +809,6 @@ justatempe 11
 Deube 11
 docisto 10
 London 10
-paco 10
 solvar 10
 avan 10
 l'aquo 10
@@ -1610,6 +1610,7 @@ evo 5
 voluntez 5
 ocidos 5
 komuna 5
+Interlingue 5
 eventar 5
 koito 5
 Ton 5
@@ -1651,6 +1652,7 @@ nevino 5
 piro 5
 venenoza 5
 pagas 5
+ocidas 5
 maladesas 5
 Laurie 5
  5
@@ -1951,7 +1953,6 @@ pardonos 4
 retenis 4
 dubitas 4
 vespertilio 4
-Interlingue 4
 Lore 4
 Quar 4
 Existas 4
@@ -2579,7 +2580,6 @@ harda 3
 kuseno 3
 mola 3
 plorar 3
-ocidas 3
 dejuneto 3
 Etiopia 3
 Peter 3
@@ -2901,6 +2901,7 @@ aperceptis 2
 Parolar 2
 prizentar 2
 spozini 2
+leoni 2
 Quanton 2
 vokez 2
 ne" 2
@@ -3473,6 +3474,7 @@ ilun 2
 gaye 2
 graveso 2
 filozofiala 2
+Wikipedio 2
 Muliero 2
 bezonesas 2
 budisto 2
@@ -4472,7 +4474,6 @@ longeso 1
 profitas 1
 obskureskas 1
 roro 1
-leoni 1
 cinemo-bilieto 1
 lasta-foye 1
 Monto 1
@@ -6221,7 +6222,6 @@ Koprolito 1
 exkremento 1
 petreskinta 1
 fosila 1
-Wikipedio 1
 konoceso 1
 komplika 1
 bonvenino 1
@@ -9662,3 +9662,10 @@ Charlie 1
 gargaris 1
 Zugba 1
 Forkurez 1
+Krak-kokaino 1
+hipopotami 1
+omnayare 1
+sharki 1
+krucomilitanti 1
+perderi 1
+duranta 1

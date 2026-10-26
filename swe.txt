@@ -1,23 +1,23 @@
 är 11777
 Jag 11371
-att 7173
+att 7174
 Tom 7144
-inte 6999
-en 5191
+inte 7000
+en 5193
 du 5181
 på 4900
 det 4806
 i 4637
-har 4269
+har 4270
 Det 3933
 Han 3442
-jag 3190
+jag 3191
 mig 2757
 för 2721
 här 2685
 var 2637
-med 2478
-till 2396
+med 2479
+till 2397
 och 2364
 om 2282
 Hon 2092
@@ -30,7 +30,7 @@ kan 1696
 av 1621
 Du 1614
 han 1271
-kommer 1266
+kommer 1267
 sig 1232
 så 1209
 Vad 1177
@@ -65,8 +65,8 @@ Kan 631
 oss 631
 än 624
 upp 616
+behöver 608
 bara 608
-behöver 607
 hon 603
 sin 590
 henne 582
@@ -95,8 +95,8 @@ mitt 416
 något 416
 tror 410
 många 405
+ingen 400
 fick 400
-ingen 399
 ser 394
 men 384
 sa 384
@@ -260,9 +260,9 @@ snäll 136
 Gör 136
 ensam 136
 då 136
+ny 135
 fram 135
 huset 134
-ny 134
 säker 134
 ge 134
 jobb 133
@@ -462,6 +462,7 @@ tittade 76
 roligt 75
 dålig 75
 stod 75
+runt 75
 Sluta 75
 hos 75
 sover 75
@@ -470,7 +471,6 @@ tåget 75
 god 75
 glömde 75
 båda 75
-runt 74
 minuter 74
 kort 74
 saknar 74
@@ -903,6 +903,7 @@ skämt 35
 Ibland 35
 farfar 35
 bredvid 35
+Ryssland 35
 Tatoeba 35
 personer 35
 leka 35
@@ -928,7 +929,6 @@ letar 34
 Släpp 34
 köper 34
 igenom 34
-Ryssland 34
 lyssna 34
 piano 34
 förlora 34
@@ -1084,6 +1084,8 @@ fred 28
 tolv 28
 golvet 28
 smakar 28
+jorden 28
+Ställ 28
 skepp 28
 väska 28
 reglerna 28
@@ -1117,7 +1119,6 @@ ordbok 27
 flög 27
 fågel 27
 följer 27
-Ställ 27
 Hör 27
 vintern 27
 Välkommen 27
@@ -1155,7 +1156,6 @@ tusen 26
 tidningen 26
 arm 26
 fångade 26
-jorden 26
 bar 26
 taget 26
 farbror 26
@@ -1228,6 +1228,7 @@ planet 24
 ögonblick 24
 Då 24
 skillnaden 24
+Tyvärr 24
 Hjälp 24
 tjock 24
 frisk 24
@@ -1270,7 +1271,6 @@ hål 23
 orolig 23
 erkände 23
 flyga 23
-Tyvärr 23
 berget 23
 växte 23
 kontakt 23
@@ -1862,6 +1862,7 @@ bollen 14
 lagen 14
 platsen 14
 frånvarande 14
+biljett 14
 låda 14
 morbror 14
 cykeln 14
@@ -1973,7 +1974,6 @@ toaletten 13
 krävde 13
 lov 13
 äntligen 13
-biljett 13
 breda 13
 kontoret 13
 villkor 13
@@ -2186,6 +2186,7 @@ telefonnummer 12
 källaren 12
 rök 12
 norra 12
+Ukraina 12
 uppfann 12
 ko 12
 vårrullar 12
@@ -2364,7 +2365,6 @@ avsikt 11
 viktiga 11
 pennan 11
 kakor 11
-Ukraina 11
 kontroll 11
 Melanie 11
 Marika 11
@@ -2733,6 +2733,7 @@ Lådan 9
 utsikt 9
 kurs 9
 samtidigt 9
+kring 9
 rolig 9
 företaget 9
 burken 9
@@ -3004,7 +3005,6 @@ irriterande 8
 släppa 8
 försenat 8
 Oj 8
-kring 8
 pluggar 8
 bjuder 8
 Hörde 8
@@ -3202,6 +3202,7 @@ gemensamma 7
 faran 7
 överenskommelse 7
 engelsklärare 7
+Månen 7
 fuktigt 7
 miljön 7
 vitlök 7
@@ -3247,6 +3248,7 @@ Vädret 7
 jordbävning 7
 ritade 7
 varma 7
+president 7
 förstås 7
 Harry 7
 styrka 7
@@ -3643,7 +3645,6 @@ blont 6
 skrivet 6
 sanna 6
 bakhåll 6
-president 6
 blad 6
 läppar 6
 George 6
@@ -4123,7 +4124,6 @@ Mor 5
 besvärlig 5
 kupé 5
 svärdet 5
-Månen 5
 gruppen 5
 tvätten 5
 södra 5
@@ -4650,6 +4650,7 @@ dusch 5
 Platsen 5
 ersatte 5
 bruten 5
+snurrar 5
 börda 5
 åttiosju 5
 dammar 5
@@ -5322,6 +5323,7 @@ minnet 4
 förändrades 4
 torra 4
 Kon 4
+kretsar 4
 dygnet 4
 roterar 4
 långsam 4
@@ -5650,7 +5652,6 @@ koloni 4
 Taiwan 4
 kapitulera 4
 uppfylld 4
-snurrar 4
 Mata 4
 rymmer 4
 lättlurad 4
@@ -6618,7 +6619,6 @@ Hit 3
 häftiga 3
 snackar 3
 strå 3
-kretsar 3
 uppdelad 3
 metoden 3
 Israel 3
@@ -8191,6 +8191,7 @@ rutan 2
 närhelst 2
 robotar 2
 paranoid 2
+scen 2
 drama 2
 queen 2
 nyfödde 2
@@ -9997,4 +9998,3 @@ juryn 2
 smörgåsar 2
 "Säg 2
 tillåtelse 2
-kroppar 2
