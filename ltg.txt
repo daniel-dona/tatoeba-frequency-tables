@@ -1,4 +1,4 @@
-ir 120
+ir 121
 Es 55
 ka 30
 Tys 29
@@ -9,13 +9,13 @@ tū 27
 i 25
 Jis 23
 Toms 22
+beja 21
 par 20
-beja 20
 tys 19
 es 18
 kū 18
 nu 17
-cīši 15
+cīši 16
 tu 15
 kai 15
 ar 12
@@ -68,6 +68,7 @@ Tu 4
 vēļ 4
 dzeivuot 4
 irā 4
+Jai 4
 Jam 4
 pa 4
 beju 4
@@ -92,7 +93,6 @@ as 3
 nazynu 3
 lobs 3
 vīns 3
-Jai 3
 Lobs 3
 mōte 3
 raud 3
@@ -249,6 +249,7 @@ sīva 2
 Mani 2
 Juos 2
 sirdsapziņa 2
+teira 2
 dūma 2
 ēdu 2
 vītni 2
@@ -267,12 +268,14 @@ nadzeivoju 2
 skrīn 2
 laiku 2
 vīgli 2
+Drūšeiba 2
 myusu 2
 Vakar 2
 dzeivinīku 2
 politiku 2
 beistās 2
 attīceibys 2
+svareiga 2
 kompanejā 2
 Tom 2
 stuosts 2
@@ -842,7 +845,6 @@ asmu 1
 pasauļs 1
 puorsteigt 1
 skaidra 1
-teira 1
 improvizāts 1
 Bārnim 1
 īdzymta 1
@@ -1023,7 +1025,6 @@ Vysums 1
 bezgaleigs 1
 rupai 1
 beistami 1
-Drūšeiba 1
 prioritate 1
 zyluo 1
 valis 1
@@ -1113,7 +1114,6 @@ atstuošu 1
 ēstu 1
 dzeivuotu 1
 dzeiveibai 1
-svareiga 1
 svareigi 1
 socialys 1
 Marejai 1
@@ -1264,3 +1264,4 @@ spēle 1
 teik 1
 spieleita 1
 četrūs 1
+sūzine 1

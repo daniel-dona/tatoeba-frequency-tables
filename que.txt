@@ -21,11 +21,11 @@ Noqaqa 11
 runasimita 10
 Pitaq 10
 chay 10
+Kay 8
 Huk 8
 charin 8
 munasani 7
 kanchu 7
-Kay 7
 Ama 7
 Kanka 7
 Ñuka 7
@@ -188,6 +188,7 @@ Khalifa 2
 wasim 2
 muyuriy 2
 huch'uy 2
+wasiqa 2
 Inlish 2
 rimani 2
 munakun 2
@@ -236,12 +237,14 @@ taytami 2
 muchikoka 2
 Kutin 2
 ripunki 2
+Ñuqaqa 2
 chinkasqa 2
 Ancha 2
 mancharikuypaqmi 2
 karqan 2
 wakin 2
 Pawqar 2
+kachkan 2
 Runa 2
 Pi 2
 tusuni 2
@@ -261,6 +264,7 @@ munakusunki 2
 tiyan 2
 kankichiq 2
 wasiykichiqman 2
+Maypitaq 2
 mamayki 2
 Mayk'apitaq 2
 valen 2
@@ -565,7 +569,6 @@ Aylluypaq 1
 llank'ani 1
 Wardiyawan 1
 rimashanku 1
-wasiqa 1
 chakatayuqmi 1
 pataraqa 1
 chaqayta 1
@@ -897,7 +900,6 @@ Tomaska 1
 Warmikuka 1
 mishiwan 1
 puñun 1
-Ñuqaqa 1
 wasiypim 1
 qipani 1
 Antañiqiqniypiqa 1
@@ -985,7 +987,6 @@ Killan 1
 killan 1
 Taytay 1
 wasiypi 1
-kachkan 1
 Allin 1
 wasita 1
 ruwachkan 1
@@ -1161,7 +1162,6 @@ maymanta 1
 Mayninta 1
 ripunkichiq 1
 tiyakuni 1
-Maypitaq 1
 "Maypitaq 1
 kashan" 1
 "Wasiypi" 1
@@ -1312,3 +1312,9 @@ llamk'ashani 1
 Kusa 1
 Kusam 1
 puñuqmi 1
+tren 1
+hinallam 1
+purirqani 1
+chawpi 1
+punchaw 1
+sumaqmi 1

@@ -1,14 +1,14 @@
 er 4579
-Jeg 3938
+Jeg 3939
 ikke 2614
 å 2308
-i 2266
+i 2268
 en 2137
 du 1976
 det 1891
 Tom 1877
 har 1858
-på 1795
+på 1796
 til 1657
 jeg 1420
 og 1370
@@ -17,12 +17,12 @@ med 1121
 meg 1107
 for 1106
 Han 1026
-var 1021
+var 1022
 av 1016
-som 996
+som 997
 at 926
 Du 780
-et 774
+et 775
 deg 759
 Hun 756
 kan 686
@@ -46,8 +46,8 @@ vi 334
 skal 327
 veldig 326
 ble 320
+dette 319
 fra 319
-dette 318
 ha 317
 gjøre 316
 ut 308
@@ -97,7 +97,7 @@ gjør 175
 når 175
 vært 174
 dem 174
-etter 173
+etter 174
 hans 165
 eller 161
 nå 160
@@ -112,9 +112,9 @@ over 147
 år 145
 ta 144
 igjen 144
+der 143
 Maria 143
 få 142
-der 142
 Den 141
 to 140
 kom 140
@@ -1420,6 +1420,7 @@ skutt 8
 spillet 8
 skylder 8
 kranglet 8
+lette 8
 heldig 8
 taket 8
 skyene 8
@@ -1574,7 +1575,6 @@ uskyldig 7
 Navnet 7
 listen 7
 fjerne 7
-lette 7
 gøy 7
 lurt 7
 takknemlig 7
@@ -1992,6 +1992,7 @@ forsøk 5
 Blir 5
 biter 5
 sann 5
+kart 5
 vanskeligheter 5
 Bussen 5
 onkel 5
@@ -2383,7 +2384,6 @@ hovedstaden 4
 senest 4
 økte 4
 innrømme 4
-kart 4
 Døren 4
 skyggen 4
 dukke 4
@@ -2691,6 +2691,7 @@ periode 4
 sånne 4
 mirakel 4
 Ansiktet 4
+rekkefølge 4
 elendig 4
 førerkort 4
 Lillebroren 4
@@ -3376,7 +3377,6 @@ hemmeligheter 3
 seriøst 3
 arrangert 3
 magasiner 3
-rekkefølge 3
 At 3
 Sovjetunionen 3
 felt 3
@@ -3763,6 +3763,7 @@ Små 2
 Tilkall 2
 blomstrer 2
 Klokka 2
+Navnene 2
 Haruki 2
 oppmerksom 2
 lettet 2
@@ -5684,7 +5685,6 @@ fotnoten 1
 Passordet 1
 "Muiriel" 1
 sluppet 1
-Navnene 1
 eksamenskarakterene 1
 Tåken 1
 Linjen 1

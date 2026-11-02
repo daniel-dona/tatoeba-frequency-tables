@@ -1,5 +1,5 @@
-er 18017
-Jeg 11463
+er 18018
+Jeg 11464
 at 9231
 Tom 8684
 en 8664
@@ -19,8 +19,8 @@ var 3419
 med 3348
 af 3343
 et 3273
-mig 3201
-kan 2653
+mig 3202
+kan 2654
 den 2337
 der 2335
 Hun 2231
@@ -40,7 +40,7 @@ De 1455
 meget 1444
 her 1281
 de 1196
-Hvor 1193
+Hvor 1194
 Er 1171
 Hvad 1165
 blev 1102
@@ -114,7 +114,7 @@ taler 443
 selv 443
 Denne 438
 lige 436
-Hvem 432
+Hvem 433
 tager 432
 bor 430
 se 425
@@ -219,8 +219,8 @@ gjorde 234
 navn 231
 sidste 231
 lidt 226
+hjælpe 222
 helt 221
-hjælpe 221
 ned 220
 engelsk 219
 holder 219
@@ -2261,6 +2261,7 @@ virkede 15
 snakkede 15
 Kærlighed 15
 babyen 15
+fortsatte 15
 frygt 15
 begik 15
 selvmord 15
@@ -2376,7 +2377,6 @@ forventer 14
 projekt 14
 hytte 14
 forestille 14
-fortsatte 14
 fortsætte 14
 kunnet 14
 væg 14
@@ -3461,6 +3461,7 @@ simpel 9
 forbliver 9
 legetøj 9
 stærkeste 9
+markedet 9
 Græsset 9
 dørklokken 9
 vold 9
@@ -3781,7 +3782,6 @@ Tyskerne 8
 omstændigheder 8
 lykken 8
 16 8
-markedet 8
 tydeligvis 8
 Ægypten 8
 testet 8

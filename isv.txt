@@ -1,5 +1,5 @@
 jest 291
-Ja 243
+Ja 245
 ne 179
 jesm 124
 Tom 115
@@ -12,8 +12,8 @@ To 65
 My 61
 Vy 55
 sut 55
+Ја 50
 Ona 49
-Ја 46
 jesi 43
 i 37
 jesmo 35
@@ -580,6 +580,7 @@ iznova 2
 netopyrev 2
 samozvanec 2
 samozvanca 2
+gori 2
 Te 2
 pomalo 2
 možemo 2
@@ -1608,7 +1609,6 @@ Govorite 1
 Priroda 1
 živo 1
 izključenje 1
-gori 1
 griby 1
 jadovite 1
 nejedlive 1
@@ -2521,3 +2521,12 @@ Izraelu 1
 debela 1
 debely 1
 Francije 1
+Папир 1
+гори 1
+Papir 1
+скакају 1
+скакам 1
+танцују 1
+танцујем 1
+tancuju 1
+tancujem 1

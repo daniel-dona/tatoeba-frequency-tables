@@ -1,9 +1,9 @@
 a 2634
-ar 1146
+ar 1147
 e 962
  850
 da 759
-eo 698
+eo 699
 bara 698
 ket 620
 an 583
@@ -13,9 +13,9 @@ o 414
 ur 335
 Ar 328
 ra 317
-en 308
+en 309
 ma 308
-deus 273
+deus 274
 c'hafe 267
 Tom 263
 em 260
@@ -32,7 +32,7 @@ Ur 184
 Ne 183
 un 175
 Bara 173
-Ma 160
+Ma 161
 An 159
 oa 157
 war 155
@@ -1564,6 +1564,7 @@ bannac'h 3
 dalc'hmat 3
 beuz 3
 vil 3
+bus 3
 Yukina 3
 Mil 3
 bennozh 3
@@ -2036,6 +2037,7 @@ skinwel 2
 nebeutoc'h 2
 Aleksandr 2
 berberek 2
+c'haredig 2
 vignon 2
 mestrez 2
 diegezh 2
@@ -2120,7 +2122,6 @@ Se 2
 voest 2
 kousto 2
 Koust 2
-bus 2
 doue 2
 breudeur 2
 zañvad 2
@@ -3305,7 +3306,6 @@ drederenn 1
 arabeg 1
 traezhennoù 1
 krenoù-douar 1
-c'haredig 1
 Bras-kenañ 1
 c'hastell 1
 Ugent 1
@@ -6492,3 +6492,11 @@ Klouker 1
 sae-gouronkañ 1
 vragez-kouronkañ 1
 zilhad-kouronkañ 1
+Ren 1
+mee 1
+my 1
+obbyr 1
+thie 1
+Gourc'hemennet 1
+lili 1
+Marc'hadmatoc'h 1

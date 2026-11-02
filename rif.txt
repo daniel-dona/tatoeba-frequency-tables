@@ -3,8 +3,8 @@ ad 356
 n 250
 di 239
 Tom 229
-Ziri 221
-i 212
+Ziri 225
+i 215
 Ma 171
 ar 156
 Mani 153
@@ -304,6 +304,7 @@ Ijjen 8
 iḍlisen 8
 teɛna 8
 Iwdan 8
+macca 8
 Qa-t 8
 qa-tt 8
 Ttuɣa-tt 8
@@ -593,6 +594,7 @@ yeɣra 4
 atssiwled 4
 dzzayer 4
 Zeg 4
+Yuca 4
 yebedd 4
 balkun 4
 ayt 4
@@ -608,7 +610,6 @@ Flafyu 4
 zi-sen 4
 icten 4
 Uca 4
-macca 4
 xef-i 4
 imddukar 4
 wah 4
@@ -685,6 +686,7 @@ la" 4
 turid 4
 tegga 4
 tewtid 4
+tajapunit 4
 tunubil-nnes 4
 tunubil-nnec 4
 llint 4
@@ -981,7 +983,6 @@ yessawal 3
 qa-k 3
 tuḥled 3
 ijjet 3
-tajapunit 3
 Tenni 3
 Tin 3
 yettxes 3
@@ -1599,6 +1600,7 @@ traḥed 2
 zureɣ 2
 s-ixef-inu 2
 Uḥleɣ 2
+tessawal 2
 uwweyeɣ 2
 Tettɛawaned 2
 yujren 2
@@ -1820,6 +1822,7 @@ Qa-ken 2
 Qa-kent 2
 taddart-nnes 2
 ttexseɣ-tt 2
+yessnen 2
 tessawaled 2
 yewwet 2
 Ufiɣ-t 2
@@ -1915,6 +1918,7 @@ Tesswalem 2
 Ttemsayseɣ 2
 Ttexseɣ-t 2
 San 2
+umecc 2
 iḥman 1
 Araḥed 1
 kkaren 1
@@ -2846,7 +2850,6 @@ yeḥli 1
 Ṯesɣa 1
 ṯesɣiḏ 1
 yesɣi 1
-Yuca 1
 weydi-nes 1
 Aɣrum 1
 saɣeɣ 1
@@ -4003,7 +4006,6 @@ lmaɛdin 1
 Yefreḥ 1
 ⵢⴼⵔⵃ 1
 ⴰⵟⵟⴰⵙ 1
-tessawal 1
 Yeɣla 1
 yegguj 1
 Baẓ 1
@@ -4804,7 +4806,6 @@ teṭṭsemt 1
 ṭṭsen 1
 ṭṭsent 1
 xseɣ-tt 1
-yessnen 1
 amkan-a 1
 ẓar 1
 qqel 1
@@ -5301,3 +5302,5 @@ yimsujji-nnem 1
 tuɣmas 1
 yernu 1
 yeqbel 1
+iɛjeb-as 1
+Tiziri 1

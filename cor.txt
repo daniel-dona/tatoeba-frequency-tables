@@ -238,6 +238,7 @@ vos 11
 a’n 11
 triga 11
 peswar 11
+ny 11
 tos 11
 yeyn 11
 moy 11
@@ -255,7 +256,6 @@ bara 10
 lies 10
 gar 10
 mamm 10
-ny 10
 vyn’ta 10
 korev 10
 a’th 10
@@ -1640,3 +1640,6 @@ neb 1
 leversys 1
 Ba-Amajegh 1
 ne 1
+Ta'n 1
+bus 1
+sassey 1

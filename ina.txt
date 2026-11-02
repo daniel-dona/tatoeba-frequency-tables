@@ -1,12 +1,12 @@
-le 15828
-es 11804
-un 9551
+le 15830
+es 11808
+un 9552
 de 8738
-ha 6517
-Le 6067
-Io 5697
+ha 6518
+Le 6068
+Io 5702
 in 5435
-non 5342
+non 5343
 que 5173
 e 3642
 del 3411
@@ -15,7 +15,7 @@ tu 3110
 Tom 3035
 Ille 2415
 me 2309
-io 2147
+io 2148
 Il 1910
 vos 1905
 lo 1888
@@ -26,7 +26,7 @@ pro 1666
 con 1615
 ille 1541
 plus 1540
-mi 1368
+mi 1370
 pote 1347
 nos 1275
 Nos 1165
@@ -35,13 +35,13 @@ esseva 1147
 iste 1110
 Tu 1098
 per 1088
-te 1085
+te 1087
 como 1066
 Illa 1006
 il 962
 Esque 891
 vole 854
-grande 835
+grande 836
 Iste 823
 illo 812
 era 790
@@ -83,7 +83,7 @@ illes 465
 mundo 462
 vostre 455
 ama 449
-belle 447
+belle 448
 altere 446
 vita 443
 solmente 427
@@ -97,11 +97,11 @@ duo 389
 nostre 383
 Si 377
 Deo 377
-tanto 374
+tanto 375
 sin 368
 On 352
 hic 348
-anglese 344
+anglese 345
 aqua 338
 ancora 334
 A 330
@@ -143,12 +143,12 @@ linguas 250
 — 247
 amor 246
 Como 244
+die 243
 durante 243
-die 242
 facite 241
 cosas 238
 Quando 236
-patre 231
+patre 232
 moneta 230
 can 229
 troppo 228
@@ -156,16 +156,16 @@ ubi 228
 nunquam 225
 favor 224
 francese 224
+amico 221
 Illas 221
-amico 220
 ante 217
 Qual 217
 Tote 215
 bibe 215
 usque 212
 essera 212
+loco 212
 melior 211
-loco 211
 parve 209
 jammais 208
 trova 207
@@ -203,11 +203,11 @@ flores 170
 sta 167
 mar 166
 Proque 165
+cognosce 164
+mangiar 164
 nocte 164
 nomine 164
 difficile 164
-cognosce 163
-mangiar 163
 poterea 163
 voleva 162
 vermente 161
@@ -230,7 +230,7 @@ infante 150
 amicos 148
 minus 148
 ration 147
-omne 146
+omne 147
 ab 146
 corde 146
 perque 146
@@ -341,8 +341,8 @@ familia 100
 ibi 100
 momento 100
 celo 99
+usa 99
 sia 98
-usa 98
 apprende 98
 da 97
 Nemo 97
@@ -621,6 +621,7 @@ compra 54
 necuno 54
 Bon 53
 completemente 53
+"Io 53
 facto 53
 devenir 53
 nasceva 53
@@ -638,7 +639,6 @@ fenestra 53
 Terra 53
 antique 53
 inimico 52
-"Io 52
 oblida 52
 Durante 52
 demandava 52
@@ -993,6 +993,7 @@ terribile 33
 dentes 33
 american 33
 digne 33
+Cessa 33
 facilemente 33
 litteras 33
 Sia 33
@@ -1023,7 +1024,6 @@ vestimentos 32
 normal 32
 computator 32
 explicar 32
-Cessa 32
 deber 32
 quales 32
 curre 32
@@ -2105,6 +2105,7 @@ tractar 14
 contrario 14
 telephonate 14
 mercuridi 14
+catton 14
 jovedi 14
 succede 14
 function 14
@@ -2420,7 +2421,6 @@ infelice 12
 linguistica 12
 alimentos 12
 solver 12
-catton 12
 mantene 12
 historias 12
 pagate 12
@@ -2947,6 +2947,7 @@ accentuate 10
 nebula 10
 plateau 10
 slitta 10
+caressava 10
 Ultra 10
 vespertiliones 10
 pute 10
@@ -3030,6 +3031,7 @@ adequate 9
 aciero 9
 pugno 9
 architecto 9
+ama" 9
 tresor 9
 pluviose 9
 Omnes 9
@@ -3230,7 +3232,6 @@ futuer 9
 prohibe 9
 patrono 9
 signar 9
-caressava 9
 parente 9
 maga 9
 instruction 9
@@ -3684,7 +3685,6 @@ intriga 7
 maximo 7
 salario 7
 vendita 7
-ama" 7
 faltas 7
 permitteva 7
 republica 7
@@ -4590,6 +4590,7 @@ episcopo 6
 pagan 6
 tamen 6
 disveloppava 6
+Arabe 6
 Moriva 6
 mandava 6
 bottinero 6
@@ -5330,7 +5331,6 @@ slavic 5
 elfs 5
 Damasco 5
 conversion 5
-Arabe 5
 saracenos 5
 volapük 5
 tra 5
@@ -8089,6 +8089,7 @@ Krishna 3
 chilen 3
 Albania 3
 Gabon 3
+Satana 3
 Coyotes 3
 Disincarcera 3
 embarassose 3
@@ -8163,6 +8164,7 @@ Allio 3
 Biden 3
 mentira 3
 eradicator 3
+lardo 3
 Pomos 3
 captivate 3
 Essuga 3
@@ -9461,6 +9463,7 @@ comprehender 2
 hirundine 2
 posteriormente 2
 limita 2
+pantheista 2
 vole" 2
 Intertanto 2
 lamina 2
@@ -9995,6 +9998,3 @@ limo 2
 tremite 2
 aratro 2
 fertilisa 2
-descendite 2
-remove 2
-axe 2

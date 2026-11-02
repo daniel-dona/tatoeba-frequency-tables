@@ -1,6 +1,6 @@
 Ez 233
 ra 156
-mi 129
+mi 131
 o 125
 Tom 105
 Ma 103
@@ -126,6 +126,7 @@ Tomî 9
 keyeyê 9
 ci 9
 kamca 9
+şirî 9
 tîya 9
 hîrê 9
 dest 8
@@ -145,7 +146,6 @@ Madê 8
 serrî 8
 Pîyê 8
 eşkena 8
-şirî 8
 Meşte 8
 her 8
 nas 8
@@ -153,6 +153,7 @@ rind 8
 şîya 8
 Aye 8
 Keyeyê 8
+Vizêrî 8
 ké 7
 Şo 7
 beno 7
@@ -184,7 +185,6 @@ la 7
 Eke 7
 rojan 7
 lazim 7
-Vizêrî 7
 veyşan 6
 xeyr 6
 ver 6
@@ -665,6 +665,7 @@ Fına 2
 bırema 2
 pê 2
 mebê 2
+nêşa 2
 rakewo 2
 bıberma 2
 bıpawê 2
@@ -896,6 +897,7 @@ Ercan 2
 çaye 2
 unîversîte 2
 varê 2
+kargoyê 2
 derece 2
 websîteya 2
 faturaya 2
@@ -1467,7 +1469,6 @@ nêvanê 1
 Metersê 1
 Tıdı 1
 vinî 1
-nêşa 1
 şayê 1
 mırda 1
 bigirê 1
@@ -2962,7 +2963,6 @@ weşe 1
 22ê 1
 Hezîrane 1
 2026î 1
-kargoyê 1
 PTT 1
 teslîmkerdene 1
 20na 1
@@ -3033,3 +3033,6 @@ herînayî 1
 farisî 1
 zazakî 1
 Amerîka 1
+nîyame 1
+cokanî 1
+Riha 1

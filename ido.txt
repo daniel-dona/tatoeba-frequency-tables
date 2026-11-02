@@ -1,10 +1,10 @@
-esas 3787
-Me 2851
+esas 3789
+Me 2853
 la 2640
 ne 1670
 Tom 1369
 La 1279
-me 1118
+me 1119
 tu 1072
 Ka 949
 es 762
@@ -14,9 +14,9 @@ Il 575
 vu 572
 Ni 535
 ke 530
-mea 502
+mea 504
 a 497
-esis 479
+esis 480
 di 474
 e 438
 volas 423
@@ -101,7 +101,7 @@ lernas 101
 ilu 99
 homi 99
 odias 98
-patro 96
+patro 97
 ad 93
 Quale 93
 multe 92
@@ -125,8 +125,8 @@ omno 82
 al 81
 facar 81
 esar 80
+amiko 77
 mondo 77
-amiko 76
 nomo 76
 nomesas 76
 sen 75
@@ -139,8 +139,8 @@ darfas 71
 kompris 71
 dicas 71
 mikra 71
+konocas 71
 volis 70
-konocas 70
 kredas 70
 Ica 69
 parolar 68
@@ -266,6 +266,7 @@ desfacila 36
 laborar 36
 studias 36
 genitori 36
+amoras 36
 tote 36
 facila 36
 longa 36
@@ -281,7 +282,6 @@ komprar 35
 tota 35
 lektas 35
 Quanta 34
-amoras 34
 Nia 34
 mediko 34
 hundi 33
@@ -558,6 +558,7 @@ autismoza 16
 uzar 15
 Lua 15
 Hiere 15
+"Me 15
 vinkis 15
 devus 15
 Paris 15
@@ -593,7 +594,6 @@ koloro 15
 sango 15
 Kati 15
 "Ka 14
-"Me 14
 Semblas 14
 hungras 14
 nivo 14
@@ -1092,6 +1092,7 @@ falsa 8
 milionero 8
 remarkinda 8
 tapiso 8
+Judo 8
 fidar 7
 pluvas 7
 Shakespeare 7
@@ -1247,7 +1248,6 @@ pedo 7
 kindi 7
 proximeskis 7
 kindo 7
-Judo 7
 klozis 6
 nexta 6
 pacoza 6
@@ -2419,6 +2419,7 @@ exakta 3
 linguon 3
 klara 3
 "Pro 3
+tu" 3
 informi 3
 for 3
 gardisto 3
@@ -5752,7 +5753,6 @@ akompanesis 1
 akompanigis 1
 litotuki" 1
 li" 1
-tu" 1
 varma" 1
 exotika 1
 bruisi 1
@@ -9669,3 +9669,7 @@ sharki 1
 krucomilitanti 1
 perderi 1
 duranta 1
+panteisto 1
+Satan 1
+"Anke 1
+Iesus 1

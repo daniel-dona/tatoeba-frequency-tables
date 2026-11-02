@@ -1,5 +1,5 @@
-is 205
-I 149
+is 206
+I 151
 the 142
 a 114
 that 101
@@ -27,7 +27,7 @@ it 29
 for 28
 What 27
 We 25
-my 24
+my 25
 but 23
 art 22
 thou 22
@@ -35,11 +35,12 @@ Ye 22
 ye 22
 God 21
 This 21
+That 21
 She 20
-That 20
 myn 20
 this 19
 And 17
+love 17
 It 17
 thi 15
 thy 15
@@ -48,7 +49,6 @@ hath 13
 by 13
 folk 13
 good 13
-love 13
 us 12
 fader 12
 wolde 12
@@ -92,6 +92,7 @@ from 8
 world 8
 on 8
 thee 8
+eek 8
 Is 8
 How 8
 horesone 8
@@ -127,7 +128,6 @@ olde 6
 speke 6
 hadde 6
 lond 6
-eek 6
 alwey 6
 My 6
 yong 6
@@ -228,6 +228,7 @@ wisest 4
 who 4
 lieth 4
 faren 4
+thee" 4
 Oure 3
 fadir 3
 Whan 3
@@ -342,6 +343,7 @@ unto 3
 semeth 3
 seen 3
 hate 3
+stinketh 3
 saugh 3
 soudiours 3
 children 3
@@ -573,6 +575,7 @@ shoon 2
 frend 2
 Craft 2
 pees 2
+freend 2
 ofte 2
 dede 2
 passed 2
@@ -637,7 +640,6 @@ liketh 2
 poverte 2
 Alice 2
 Moneday 2
-stinketh 2
 flessh 2
 long 2
 stolen 2
@@ -653,6 +655,8 @@ yaf 2
 medicyne 2
 dyed 2
 withoute 2
+"I 2
+"And 2
 heuene 1
 Yyue 1
 foryyue 1
@@ -992,7 +996,6 @@ Frensch 1
 callest 1
 skabde 1
 biche 1
-Uzbek 1
 Flyes 1
 flie 1
 Fliȝen 1
@@ -1203,7 +1206,6 @@ soghten 1
 swetyng 1
 wolden 1
 juste 1
-freend 1
 dremeth 1
 Foryet 1
 Foryeteth 1
@@ -1571,3 +1573,4 @@ fish 1
 chaar 1
 Wel 1
 met 1
+Sathan 1

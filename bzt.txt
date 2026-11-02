@@ -1,21 +1,21 @@
 es 311
-Eo 224
+Eo 226
 yn 176
 rhen 161
-di 122
+di 123
 Tomos 110
 ill 107
 lla 95
 Ys 86
 Ill 84
 Sa 81
-llo 71
+llo 72
 Lla 64
 su 61
 a 57
 yst 46
-mew 44
-eo 44
+mew 45
+eo 45
 Nw 41
 sunt 38
 er 37
@@ -45,11 +45,11 @@ Nu 16
 llifr 16
 ffuin 16
 lw 16
+wol 16
 di'll 16
 ys 16
 e 16
 nonc 15
-wol 15
 gwstr 14
 ply 14
 Mair 14
@@ -63,6 +63,7 @@ pab 13
 ai 12
 chath 12
 gi 12
+padr 12
 sab 12
 ffeil 12
 ty 12
@@ -71,7 +72,6 @@ math 11
 ag 11
 ed 11
 ben 11
-padr 11
 wid 11
 Yst 11
 Sew 11
@@ -103,6 +103,7 @@ ke 9
 dew 8
 mhod 8
 nôn 8
+dy 8
 barol 8
 Fair 8
 sa 8
@@ -146,7 +147,6 @@ ystaf 7
 ddef 6
 gwol 6
 thud 6
-dy 6
 Almein 6
 ca 6
 mefeiran 6
@@ -232,6 +232,7 @@ Jackson 4
 sera 4
 cumeg 4
 fflur 4
+phuf 4
 manugan 4
 girch 4
 uddigef 4
@@ -328,7 +329,6 @@ Cookie 3
 muin 3
 inheir 3
 ystant 3
-phuf 3
 rhîs 3
 uddiged 3
 gwer 3
@@ -400,6 +400,7 @@ fasterig 2
 basterig 2
 pharolant 2
 Basterig 2
+comprar 2
 'armenar 2
 h-ôn 2
 Helo 2
@@ -557,6 +558,7 @@ diger 2
 fyd 2
 fydath 2
 Ffageth 2
+"Eo 2
 digef 2
 ren 2
 weddif 2
@@ -624,6 +626,7 @@ ystirddid 2
 blanc 2
 llenhewl 2
 Tudbodent 2
+af" 2
 mab 1
 cinc 1
 sei 1
@@ -689,7 +692,6 @@ gach 1
 llygen 1
 senh 1
 tosen 1
-comprar 1
 canhan 1
 chathr 1
 sur 1
@@ -1164,7 +1166,6 @@ Ffagath 1
 h-aydara 1
 aydara 1
 leirai 1
-"Eo 1
 segherai 1
 llui" 1
 Chuck 1
@@ -1425,3 +1426,5 @@ as-ty 1
 phassant 1
 Giaponuis 1
 "peg" 1
+"Angh 1
+goenosc 1

@@ -1,22 +1,22 @@
 ang 35294
-sa 27998
+sa 27999
 ng 26528
-na 16800
+na 16801
 po 13869
 ko 12701
 mga 12311
 Tom 9658
 si 8980
-ako 8405
+ako 8406
 mo 6355
 ni 6306
 Hindi 6111
-at 5495
+at 5496
 ba 5357
 niya 4917
 ay 4748
 ito 4674
-siya 4647
+siya 4648
 May 4072
 nang 3740
 Ang 3695
@@ -62,7 +62,7 @@ gusto 1007
 tao 978
 Alam 964
 niyo 963
-araw 916
+araw 917
 alam 907
 niyang 876
 dahil 857
@@ -2836,6 +2836,7 @@ magbabantay 19
 Sumasamba 19
 patak 19
 plastikong 19
+Gutom 18
 sumunod 18
 Pinayagan 18
 Bata 18
@@ -2992,7 +2993,6 @@ lente 18
 kapakipakinabang 18
 Les 18
 coach 18
-Gutom 17
 isa't 17
 ideyang 17
 pumili 17
@@ -4064,6 +4064,7 @@ bibilhin 12
 reklamo 12
 dayuhang 12
 eksamen 12
+maliwanag 12
 Lumulutang 12
 Bilhin 12
 suman 12
@@ -4363,7 +4364,6 @@ komplikado 11
 heograpiya 11
 pag-ikot 11
 binisita 11
-maliwanag 11
 segundo 11
 pambihirang 11
 yatang 11
@@ -9256,6 +9256,7 @@ kuwago 4
 Ngiti 4
 Turkey 4
 Eh 4
+uhaw 4
 Kakatapos 4
 bangungot 4
 Ford 4
@@ -9997,4 +9998,3 @@ Alan 4
 pinagdududahan 4
 Glen 4
 pagpilian 4
-Iiwanan 4

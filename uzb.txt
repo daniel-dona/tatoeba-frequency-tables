@@ -17,7 +17,7 @@ ham 21
 kerak 20
 Sen 19
 Nima 17
-hech 16
+hech 17
 Мен 15
 У 15
 mening 15
@@ -31,9 +31,9 @@ kitobni 12
 deb 12
 qanday 12
 bo'lib 12
+kim 11
 Siz 10
 va 10
-kim 10
 bu 10
 эмасман 10
 uni 10
@@ -56,6 +56,7 @@ javob 8
 menga 8
 faqat 8
 Kecha 8
+qachon 8
 qaysi 8
 men 8
 ва 7
@@ -69,7 +70,6 @@ Qancha 7
 Kim 7
 Ular 7
 sotib 7
-qachon 7
 olib 7
 mumkin 7
 ko‘raman 7
@@ -2624,3 +2624,7 @@ Tushunishingizni 1
 Tushunishingni 1
 yasaladi 1
 sizning 1
+Ota-onangni 1
+koʻrding 1
+Buni 1
+bilmaydi 1
