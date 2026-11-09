@@ -1,27 +1,27 @@
-t 2041
-is 1981
+t 2044
+is 1982
 k 1880
 n 1827
 nait 1118
 Tom 922
-van 822
-Ik 791
+van 823
+Ik 792
 Hai 720
 dat 680
 binnen 624
-de 622
-te 561
-op 529
+de 623
+te 562
+op 530
 het 517
 mie 516
-in 498
+in 499
 Wie 463
-mit 455
+mit 456
 en 444
 mien 441
 ien 402
-Is 376
-doe 356
+Is 378
+doe 358
 Zai 340
 veur 339
 noar 332
@@ -57,7 +57,7 @@ Hou 173
 Der 172
 veul 171
 Dizze 169
-dizze 165
+dizze 166
 ie 162
 Dit 161
 Woar 159
@@ -85,7 +85,7 @@ Wèl 116
 over 115
 bist 114
 hai 111
-Hest 109
+Hest 110
 meer 107
 eten 106
 al 106
@@ -161,10 +161,10 @@ hou 54
 loat 54
 òf 54
 gaait 54
+weer 53
 waiten 53
 wol 53
 vroag 53
-weer 52
 Dou 52
 Wait 52
 Heur 52
@@ -229,6 +229,8 @@ gong 38
 heuren 38
 jong 38
 Elkenain 38
+koamer 38
+goa 38
 noeit 38
 wien 37
 allain 37
@@ -237,9 +239,7 @@ Loaten 37
 auto 37
 sloapen 37
 holdt 37
-koamer 37
 nkander 37
-goa 37
 kind 37
 helpen 36
 zitten 36
@@ -342,6 +342,7 @@ schieterg 25
 kop 25
 wichtje 25
 student 25
+wachten 24
 nij 24
 vlaigen 24
 blieven 24
@@ -355,7 +356,6 @@ ale 24
 traauwen 24
 altied 24
 leest 23
-wachten 23
 Moi 23
 kadde 23
 vief 23
@@ -524,6 +524,7 @@ oom 17
 keek 16
 boom 16
 gries 16
+Wacht 16
 omreden 16
 regen 16
 vrouger 16
@@ -549,13 +550,13 @@ negen 15
 laifde 15
 Stop 15
 Vergeet 15
-Wacht 15
 begunt 15
 Wol 15
 las 15
 ken 15
 tussen 15
 Jong 15
+even 15
 lös 15
 beetje 15
 weerd 15
@@ -591,7 +592,6 @@ goat 14
 gruien 14
 worrels 14
 poar 14
-even 14
 kollegoa 14
 Spreken 14
 dörp 14
@@ -730,6 +730,7 @@ Leer 11
 stuk 11
 winkel 11
 achternoam 11
+muite 11
 verhoesde 11
 woond 11
 hulp 11
@@ -809,7 +810,6 @@ waist 10
 pampier 10
 soavends 10
 Haarst 10
-muite 10
 vervoarde 10
 pobbe 10
 licht 10
@@ -959,6 +959,7 @@ Aan 9
 steuren 9
 begriep 9
 zuske 9
+duuster 9
 Vien 8
 meneer 8
 at 8
@@ -1079,13 +1080,13 @@ teleur 8
 kat 8
 verwacht 8
 vreten 8
-duuster 8
 verstoan 7
 soezen 7
 Man 7
 favoriete 7
 Help 7
 laanger 7
+astoe 7
 bedankt 7
 gebaauw 7
 pioano 7
@@ -1253,7 +1254,6 @@ Goidag 6
 antwoorden 6
 televisie 6
 "k 6
-astoe 6
 schreef 6
 juni 6
 beduden 6
@@ -1341,6 +1341,7 @@ Revier 6
 nuimen 6
 zummer 6
 België 6
+raais 6
 jonger 6
 appelsien 6
 bloud 6
@@ -1427,6 +1428,7 @@ derin 6
 deure 6
 denkst 6
 opstoan 6
+boetendeure 6
 verkloaren 6
 Frans 6
 trekken 6
@@ -1522,7 +1524,6 @@ recht 5
 nuvere 5
 vuurwaark 5
 vieren 5
-raais 5
 stoatsion 5
 Koien 5
 gusteroavend 5
@@ -1685,6 +1686,7 @@ buurt 5
 veurkomen 5
 Suker 5
 aanvroag 5
+plat 5
 snijpop 5
 braivenbuzze 5
 proatst 4
@@ -2108,7 +2110,6 @@ model 4
 meerdere 4
 begriepelk 4
 kroaken 4
-plat 4
 vrees 4
 heurst 4
 allozie 3
@@ -2190,6 +2191,7 @@ Nij-Zeelaand 3
 Galizjoans 3
 Hibbrais 3
 wieze 3
+Oostenriek 3
 Itoalië 3
 kontinent 3
 Schreef 3
@@ -2535,6 +2537,7 @@ moakte 3
 muik 3
 speul 3
 Smid 3
+Staaist 3
 woater 3
 scheuveln 3
 Japanse 3
@@ -2693,6 +2696,7 @@ besmet 3
 gezelleg 3
 Amerikoanse 3
 toentje 3
+trappen 3
 Volgens 3
 pols 3
 perfester 3
@@ -2938,7 +2942,6 @@ Oelen 2
 iegelswien 2
 16 2
 moanden 2
-Oostenriek 2
 Egypte 2
 noamen 2
 kadden 2
@@ -3409,6 +3412,7 @@ woonde 2
 konstant 2
 rezienen 2
 netuurlek 2
+vrezelk 2
 kaarmen 2
 Konst 2
 Inuit 2
@@ -3591,7 +3595,6 @@ wold 2
 leerzen 2
 Gruin 2
 bovenaan 2
-Staaist 2
 soldoaten 2
 woapens 2
 stevel 2
@@ -3858,7 +3861,6 @@ geweld 2
 aailaanden 2
 duurfde 2
 haim 2
-boetendeure 2
 moaltied 2
 steun 2
 voldounde 2
@@ -3907,7 +3909,6 @@ rezeltoaten 2
 toencentrum 2
 schenken 2
 bom 2
-trappen 2
 bootje 2
 overleefd 2
 dainst 2
@@ -4162,6 +4163,7 @@ dekt 2
 biezaindhaid 2
 twievelt 2
 functie 2
+hailemoal 2
 boswachters 2
 laamp 2
 òfsloeten 2
@@ -5889,7 +5891,6 @@ moanen 1
 verscheelt 1
 kouken 1
 baisten 1
-vrezelk 1
 verhoest 1
 konsertzoalen 1
 word 1
@@ -8590,7 +8591,6 @@ winkelwoagen 1
 daauwde 1
 winkelwoagentje 1
 gangpad 1
-hailemoal 1
 strekte 1
 strekt 1
 boswachter 1
@@ -9406,3 +9406,6 @@ onmisboar 1
 onmisboare 1
 rol 1
 aankomen 1
+Endpunt 1
+oademhoalen 1
+ligst 1

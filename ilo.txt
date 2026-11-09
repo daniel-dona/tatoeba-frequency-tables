@@ -1,8 +1,8 @@
 a 1189
-ti 1171
-iti 664
+ti 1173
+iti 665
 ni 511
-nga 447
+nga 448
 Tom 423
 kadi 185
 daytoy 149
@@ -14,13 +14,13 @@ ken 103
 Saan 96
 Adda 76
 la 71
-Ania 69
+Ania 70
 pay 68
 laeng 65
 maysa 62
 idiay 61
 Mary 60
-dayta 58
+dayta 59
 idi 55
 unay 47
 kaniak 47
@@ -143,8 +143,10 @@ arak 9
 surat 9
 wagas 9
 itay 9
+kasta 9
 Kasla 9
 Nasken 9
+Sika 9
 Boston 9
 danum 8
 dagus 8
@@ -158,10 +160,8 @@ dara 8
 napasamak 8
 Ammo 8
 Napanak 8
-kasta 8
 pudno 8
 alas 8
-Sika 8
 Domingo 8
 kastoy 8
 tulbek 8
@@ -170,6 +170,7 @@ Lunes 8
 inaldaw 7
 ubbing 7
 eskuela 7
+aramidek 7
 Ammok 7
 Naimbag 7
 lubong 7
@@ -192,7 +193,6 @@ bakla 7
 Tatoeba 6
 dadduma 6
 umay 6
-aramidek 6
 ar-aramidem 6
 madanagan 6
 Naragsak 6
@@ -337,6 +337,7 @@ kabayatan 4
 maammuanna 4
 Napintas 4
 pagtaengan 4
+ngata 4
 adayo 4
 natnateng 4
 bunga 4
@@ -438,6 +439,7 @@ agsursuro 3
 Naut-ot 3
 init 3
 Nakitak 3
+kinapudno 3
 ad-adu 3
 French 3
 nagiyot 3
@@ -460,7 +462,6 @@ damo 3
 balasang 3
 mangidaulo 3
 mensahe 3
-ngata 3
 langana 3
 saba 3
 liplipatan 3
@@ -663,7 +664,6 @@ imbotosko 2
 umayak 2
 kitaen 2
 Mr 2
-kinapudno 2
 Mag-an 2
 Nasapaak 2
 impormasion 2
@@ -887,6 +887,7 @@ kadagidiay 2
 pagnanaedan 2
 nakaigapuan 2
 Nalaingka 2
+nangisingasing 2
 nangibaga 2
 tulong 2
 nalaklaka 2
@@ -2442,7 +2443,6 @@ ideam 1
 namnamada 1
 Nasingpetka 1
 madlaw 1
-nangisingasing 1
 paboritok 1
 Makumikomkayo 1
 Nakasarakam 1
@@ -3912,3 +3912,4 @@ Kayatda 1
 Awak 1
 awen 1
 məs 1
+nasakit 1

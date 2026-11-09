@@ -1,6 +1,6 @@
-að 3837
+að 3839
 er 3158
-Ég 2326
+Ég 2327
 í 2079
 á 1681
 ekki 1654
@@ -17,7 +17,7 @@ var 642
 hann 636
 sem 610
 þú 581
-með 522
+með 523
 Við 520
 fyrir 509
 um 485
@@ -27,13 +27,13 @@ mér 430
 en 430
 þér 417
 mig 306
-fara 295
+fara 296
 Þetta 293
 þetta 278
 því 258
 Tom 253
 þig 252
-honum 249
+honum 250
 vera 248
 Hvað 242
 svo 233
@@ -43,8 +43,8 @@ mjög 211
 eftir 205
 eins 190
 verður 183
+út 182
 hans 182
-út 181
 ert 181
 hún 180
 minn 178
@@ -54,7 +54,7 @@ hef 164
 hverju 164
 mun 161
 hafa 160
-hvað 157
+hvað 158
 frá 148
 þegar 146
 sér 142
@@ -197,10 +197,10 @@ minni 49
 góð 48
 elska 48
 ensku 48
+gaman 48
 lengur 48
 öll 47
 varð 47
-gaman 47
 annað 47
 vildi 46
 Má 46
@@ -213,7 +213,7 @@ nú 45
 Enginn 45
 fengið 45
 held 45
-Hvenær 44
+Hvenær 45
 kominn 43
 hvernig 43
 líka 43
@@ -263,6 +263,7 @@ búa 37
 Allir 37
 alla 36
 talar 36
+ganga 36
 bað 36
 mátt 36
 þínum 36
@@ -278,7 +279,6 @@ hitta 35
 stað 35
 hratt 35
 bókina 35
-ganga 35
 þennan 35
 Hefurðu 35
 Japan 35
@@ -411,6 +411,7 @@ strax 25
 ein 25
 Hvers 25
 vorum 24
+Klukkan 24
 allar 24
 gefa 24
 árum 24
@@ -425,7 +426,6 @@ herbergið 24
 þær 24
 búið 24
 sjónvarpið 23
-Klukkan 23
 dyrunum 23
 hringja 23
 næstum 23
@@ -624,6 +624,7 @@ vinum 16
 herra 16
 skólanum 16
 Tókíó 16
+Henni 16
 göngutúr 16
 morgunmat 16
 Ameríku 16
@@ -662,7 +663,6 @@ borðinu 15
 mínar 15
 líf 15
 nálægt 15
-Henni 15
 bauð 15
 best 15
 þannig 15
@@ -854,6 +854,7 @@ Lífið 12
 Fólk 12
 tveir 12
 Tatoeba 12
+byrjar 12
 heyri 12
 brauð 12
 háttinn 12
@@ -914,7 +915,6 @@ morguninn 11
 dó 11
 Barnið 11
 Jafnvel 11
-byrjar 11
 sækja 11
 hendurnar 11
 saga 11
@@ -1017,6 +1017,7 @@ langaði 10
 frjáls 9
 enska 9
 næst 9
+fannst 9
 sumar 9
 minnar 9
 glöð 9
@@ -1075,6 +1076,7 @@ varst 9
 hjálpar 9
 einmanna 9
 garðinn 9
+heiti 9
 drekkur 9
 skipta 9
 japönsk 9
@@ -1129,7 +1131,6 @@ breyta 8
 neinn 8
 Líkar 8
 nær 8
-fannst 8
 Sólin 8
 bílnum 8
 hönd 8
@@ -1217,7 +1218,6 @@ hug 8
 leitt 8
 skrifstofuna 8
 leysa 8
-heiti 8
 bestu 8
 búum 8
 þeirri 8
@@ -2363,6 +2363,7 @@ heimsækja 4
 Nýju 4
 esperantó 4
 setningarnar 4
+lokar 4
 Bara 4
 mínútu 4
 hefst 4
@@ -3093,7 +3094,6 @@ kasta 3
 Einu 3
 týnd 3
 plús 3
-lokar 3
 Borðaðu 3
 hljóður 3
 kvikmyndin 3

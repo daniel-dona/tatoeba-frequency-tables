@@ -1,6 +1,6 @@
 er 108
-Eg 95
-í 56
+Eg 96
+í 58
 at 55
 ikki 51
 tú 33
@@ -17,18 +17,18 @@ við 16
 eri 15
 hann 14
 um 13
+á 13
 eru 12
 fyri 12
-á 12
 var 12
 mær 12
 av 11
 Hvussu 11
+sum 11
 Vit 11
 teg 11
 Hvat 11
 Bilurin 11
-sum 10
 hevur 10
 Hon 10
 so 10
@@ -95,6 +95,7 @@ ov 4
 Luftpútufarið 4
 álli 4
 býr 4
+Lily 4
 Tey 3
 nátt 3
 kanst 3
@@ -110,6 +111,7 @@ sindur 3
 Dugir 3
 dugi 3
 fer 3
+upp 3
 má 3
 enn 3
 men 3
@@ -125,6 +127,7 @@ sær 3
 mjólk 3
 frið 3
 heim 3
+vakurt 3
 vil 3
 fortaldi 3
 Boston 3
@@ -156,6 +159,7 @@ ungur 2
 Sum 2
 bangin 2
 segði 2
+legði 2
 allan 2
 vita 2
 Har 2
@@ -275,6 +279,7 @@ fegin 2
 Ver 2
 Hansara 2
 høviskur 2
+rennur 2
 gerst 2
 Hvør 2
 skúlan 2
@@ -282,6 +287,7 @@ vilja 2
 glað 2
 Dámdi 2
 gávuna 2
+borðið 2
 menniskju 1
 fødd 1
 fræls 1
@@ -367,7 +373,6 @@ Betty 1
 sjóvar 1
 havt 1
 nakað 1
-legði 1
 merkis 1
 arbeiddu 1
 keiini 1
@@ -425,7 +430,6 @@ Elaine 1
 kirkju 1
 spælir 1
 guitar 1
-upp 1
 eystri 1
 setur 1
 vestri 1
@@ -656,7 +660,6 @@ gulur 1
 appelsingulur 1
 góður 1
 ringur 1
-vakurt 1
 vakri 1
 vakra 1
 høga 1
@@ -876,7 +879,6 @@ kalt 1
 sleppa 1
 rindaði 1
 hondina 1
-rennur 1
 skjótt 1
 føddur 1
 Bróður 1
@@ -964,3 +966,10 @@ glaður 1
 Eydnurikt 1
 nýggjár 1
 Helsinki 1
+Tíðin 1
+streymur 1
+eiti 1
+gekk 1
+túr 1
+fjøllunum 1
+setti 1

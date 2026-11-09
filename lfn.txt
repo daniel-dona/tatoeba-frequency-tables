@@ -1,11 +1,11 @@
-es 12328
-ia 9349
-la 8489
+es 12336
+ia 9351
+la 8492
 un 6251
-de 5793
-Me 5257
-no 3967
-Tom 3853
+de 5794
+Me 5258
+no 3970
+Tom 3856
 a 3327
 La 3003
 ла 2967
@@ -14,37 +14,37 @@ en 2664
 tu 2499
 me 2463
 иа 2272
-ave 2117
+ave 2118
 де 1974
-ce 1967
+ce 1968
 El 1895
 e 1815
 Esce 1757
 ун 1426
-el 1341
-va 1315
+el 1342
+va 1316
 Ме 1220
 lo 1211
 pote 1184
 per 1169
 sua 1153
 plu 1141
-multe 1106
+multe 1107
+Nos 1079
 mea 1076
-Nos 1075
 esta 1000
 а 998
 Ла 987
 cual 984
-Tu 979
+Tu 980
 но 958
 ен 937
 Esta 922
 vole 920
-con 875
+con 878
 fa 832
 Lo 824
-tua 770
+tua 772
 nos 759
 ме 711
 sabe 695
@@ -66,7 +66,7 @@ on 569
 dise 567
 como 566
 parla 565
-debe 563
+debe 564
 alga 546
 vos 532
 Los 531
@@ -74,8 +74,8 @@ Los 531
 los 484
 vade 477
 Том 476
+tota 471
 No 470
-tota 470
 ama 459
 vide 449
 ва 430
@@ -100,9 +100,9 @@ pensa 346
 o 342
 Cual 335
 ci 335
+sola 333
 пер 333
 куал 333
-sola 332
 суа 332
 asi 325
 ma 324
@@ -110,11 +110,11 @@ ma 324
 persones 314
 ло 306
 lingua 305
+tan 302
 person 301
-tan 300
 vera 296
 bela 292
-Perce 283
+Perce 284
 compra 278
 Нос 278
 veni 272
@@ -125,16 +125,16 @@ gato 265
 cada 261
 pare 258
 crede 257
+cosas 256
 otra 255
-cosas 255
 labora 252
 En 252
 aprende 250
 Tota 245
 воле 243
 A 242
+sempre 241
 nunca 240
-sempre 239
 ancora 234
 can 233
 нос 233
@@ -214,10 +214,10 @@ tra 151
 ami 151
 ваде 151
 Он 151
+vosa 150
 studia 150
-vosa 149
+Dio 149
 алга 149
-Dio 148
 mal 147
 ance 147
 anios 147
@@ -304,6 +304,7 @@ algun 98
 contra 98
 gania 97
 entre 97
+an 97
 каса 97
 персонес 97
 Ен 97
@@ -311,7 +312,6 @@ musica 96
 parti 96
 Cadun 96
 regarda 96
-an 96
 oios 95
 asta 95
 iudi 95
@@ -329,6 +329,7 @@ car 89
 esce 89
 blanca 89
 difisil 89
+xef 89
 Мариа 89
 estra 88
 libros 88
@@ -339,7 +340,6 @@ causa 88
 акел 88
 ariva 87
 resta 87
-xef 87
 su 86
 sinifia 86
 via 85
@@ -445,6 +445,7 @@ visita 66
 coreta 65
 malada 65
 entra 65
+rompe 65
 pan 65
 Ma 65
 modo 65
@@ -454,7 +455,6 @@ modo 65
 rio 64
 cadun 64
 capeles 64
-rompe 64
 fura 64
 umanas 64
 diferente 64
@@ -650,6 +650,7 @@ libre 43
 portuges 43
 segue 43
 prefere 43
+gera 43
 futbal 43
 Algun 43
 trae 43
@@ -665,7 +666,6 @@ alora 43
 omes 42
 blu 42
 proba 42
-gera 42
 esplica 42
 Nun 42
 juor 42
@@ -682,6 +682,7 @@ ensenia 41
 simil 41
 bebe 41
 ateni 41
+lava 41
 razona 41
 istoria 41
 Xina 41
@@ -695,7 +696,6 @@ natural 40
 ambos 40
 preparada 40
 desinia 40
-lava 40
 plase 40
 cua 40
 revade 40
@@ -791,6 +791,7 @@ dial 35
 nesesada 35
 fame 35
 lojical 35
+coler 35
 orgulosa 35
 governa 35
 pex 35
@@ -810,7 +811,6 @@ oscur 34
 numero 34
 tren 34
 Esperanto 34
-coler 34
 Oji 34
 para 34
 xines 34
@@ -916,6 +916,7 @@ mil 29
 eda 29
 telefon 29
 egal 29
+Deutxland 29
 roba 29
 sistem 29
 secur 29
@@ -947,7 +948,6 @@ parce 28
 destrui 28
 cosina 28
 rompeda 28
-Deutxland 28
 salta 28
 resulta 28
 lenio 28
@@ -1156,6 +1156,7 @@ trata 23
 Marte 23
 medical 23
 saja 23
+culo 23
 Grande 23
 espresa 23
 eseta 23
@@ -1202,7 +1203,6 @@ evita 22
 conta 22
 Libri 22
 controla 22
-culo 22
 cristian 22
 saleta 22
 canadian 22
@@ -1767,6 +1767,7 @@ peril 14
 jelada 14
 lege 14
 pelo 14
+Asia 14
 conserna 14
 ostinosa 14
 Olimpial 14
@@ -2020,7 +2021,6 @@ volante 12
 Dan 12
 matur 12
 forni 12
-Asia 12
 reali 12
 semanas 12
 autono 12
@@ -2987,6 +2987,7 @@ empleada 8
 Misca 8
 jenerosa 8
 infla 8
+nonbinar 8
 txa 8
 "Car 8
 scotes 8
@@ -3088,6 +3089,7 @@ Conose 7
 stadion 7
 regalada 7
 projetas 7
+sclavos 7
 Bach 7
 silenti 7
 consentra 7
@@ -3324,7 +3326,6 @@ casola 7
 xiceto 7
 reservada 7
 pali 7
-nonbinar 7
 trajedin 7
 Demones 7
 salones 7
@@ -3699,6 +3700,7 @@ instruor 6
 sesto 6
 режион 6
 nebla 6
+Berlin 6
 sanduitx 6
 testos 6
 Jacob 6
@@ -3915,7 +3917,6 @@ xasor 5
 foca 5
 juada 5
 da 5
-sclavos 5
 migrores 5
 acusas 5
 banda 5
@@ -4234,7 +4235,6 @@ lapises 5
 дистурба 5
 otodes 5
 tesoro 5
-Berlin 5
 Oro 5
 есенсал 5
 metro 5
@@ -5058,6 +5058,7 @@ Epstein 4
 Paulo 4
 Пауло 4
 deser 4
+Este 4
 xocolada 4
 tarde 4
 ateiste 4
@@ -6588,6 +6589,7 @@ evoca 3
 profunda 3
 sceleto 3
 Alio 3
+vampires 3
 Foca 3
 focada 3
 consentrada 3
@@ -8220,6 +8222,7 @@ Comeda 2
 Soros 2
 трено 2
 Prepara 2
+vampir 2
 124 2
 %" 2
 doleda 2
@@ -8331,7 +8334,6 @@ Gato 2
 teorias 2
 Bruxelles 2
 sumarina 2
-Este 2
 realosa 2
 infante 2
 Sonia 2
@@ -9043,7 +9045,6 @@ molduri 2
 24 2
 reservas 2
 Reserva 2
-vampires 2
 aidores 2
 gluteos 2
 nongrasiosa 2
@@ -9326,6 +9327,7 @@ Fediverso 2
 colonialisme 2
 umania 2
 rabano 2
+gerante 2
 parlantes 2
 note" 2
 Diablos 2
@@ -9996,5 +9998,3 @@ Helga 1
 indiceta 1
 Imperor 1
 dejenerante 1
-adorada 1
-(otodes-du) 1

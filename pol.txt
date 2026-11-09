@@ -1,20 +1,20 @@
-się 17520
-nie 14934
+się 17522
+nie 14936
 jest 14603
-w 13168
+w 13169
 Tom 11520
 na 11041
 Nie 9677
 to 8992
 że 8381
-do 7955
+do 7956
 z 7676
-i 4797
+i 4798
 To 4736
 Czy 4210
-mi 3852
+mi 3853
 o 3655
-mnie 3644
+mnie 3646
 ma 3221
 co 3156
 On 3008
@@ -39,7 +39,7 @@ ale 1544
 Co 1527
 dla 1518
 Toma 1441
-domu 1392
+domu 1393
 Mam 1349
 tylko 1331
 być 1328
@@ -65,7 +65,7 @@ Jesteś 1032
 niż 1020
 żeby 1014
 coś 1002
-mu 994
+mu 995
 by 982
 jeszcze 972
 pan 964
@@ -96,7 +96,7 @@ iść 730
 ją 729
 chce 726
 Gdzie 721
-mówi 714
+mówi 715
 nas 712
 nigdy 699
 tę 698
@@ -150,7 +150,7 @@ jutro 487
 ludzi 486
 nim 486
 moim 484
-książkę 483
+książkę 484
 Moja 478
 gdzie 474
 raz 467
@@ -232,8 +232,8 @@ drzwi 329
 Zawsze 327
 przy 321
 swojej 318
+Musimy 318
 kto 317
-Musimy 317
 czego 317
 bardziej 316
 Tak 316
@@ -360,8 +360,8 @@ wiesz 223
 znaleźć 222
 Daj 221
 jeden 220
+żebyś 220
 dwie 219
-żebyś 219
 Maria 219
 Dziś 218
 im 218
@@ -405,11 +405,11 @@ Lepiej 200
 we 199
 tą 198
 czasie 198
+przyszedł 198
 powinien 198
 kiedykolwiek 198
 pociąg 197
 Ma 197
-przyszedł 197
 jedzenia 197
 film 196
 obiad 196
@@ -444,9 +444,9 @@ wieku 181
 zmęczony 181
 umie 180
 Dobrze 180
+pracować 180
 ile 180
 Wygląda 180
-pracować 179
 mogłem 179
 Widziałem 178
 rozmawiać 178
@@ -649,6 +649,7 @@ młody 130
 trzech 129
 Pies 129
 angielski 129
+pić 129
 Twoja 129
 Nawet 129
 śnieg 128
@@ -656,7 +657,6 @@ dobrą 128
 piękne 128
 Myślisz 128
 łatwo 128
-pić 128
 Nasz 127
 ziemi 127
 przyjaciółmi 127
@@ -2985,6 +2985,7 @@ zmarła 27
 Kawa 27
 panie 27
 trakcie 27
+chociaż 27
 Esperanto 27
 Włoszech 27
 niedawno 27
@@ -3088,7 +3089,6 @@ Chciałam 26
 warte 26
 Jedz 26
 szybki 26
-chociaż 26
 śpią 26
 bezpieczny 26
 wydarzy 26
@@ -5341,6 +5341,7 @@ ilu 14
 popołudnia 14
 wyjaśnił 14
 wyszli 14
+no 14
 dokończyć 14
 trawa 14
 przymierzyć 14
@@ -5707,7 +5708,7 @@ powoduje 13
 klasyczną 13
 ciepłe 13
 Tamta 13
-no 13
+podobała 13
 przewodniczącego 13
 skończyliśmy 13
 żołądek 13
@@ -5879,6 +5880,7 @@ Francisco 12
 rokiem 12
 mistrzem 12
 przynoszą 12
+Skończył 12
 śpiewasz 12
 zatańczyć 12
 wyrok 12
@@ -6122,6 +6124,7 @@ tlenu 12
 poczułem 12
 Kościół 12
 facetem 12
+Najlepiej 12
 ulubionych 12
 surowo 12
 — 12
@@ -6136,7 +6139,6 @@ romans 12
 dzisiejszym 12
 osiemdziesiąt 12
 Plotka 12
-podobała 12
 ciocia 12
 zmieniają 12
 sercem 12
@@ -6325,7 +6327,6 @@ Wyłącz 11
 prania 11
 pragnie 11
 Zostawiła 11
-Skończył 11
 Księżyca 11
 Obudź 11
 uprzejmość 11
@@ -6607,7 +6608,6 @@ pomocne 11
 pustyni 11
 żartu 11
 wejściem 11
-Najlepiej 11
 spalił 11
 rządzi 11
 wnosić 11
@@ -7999,6 +7999,7 @@ Nowe 9
 pocieszyć 9
 niegrzeczny 9
 krokodyla 9
+słodkich 9
 ciasteczka 9
 społecznych 9
 zrezygnował 9
@@ -8015,6 +8016,7 @@ nauczy 9
 Stało 9
 wyrwał 9
 paliwa 9
+internet 9
 entuzjazmem 9
 oprzeć 9
 Nauczycielka 9
@@ -8121,6 +8123,7 @@ zdezorientowany 9
 wrzucił 9
 nienawidzisz 9
 sprawiedliwe 9
+telefonie 9
 zajętego 9
 Zastanawia 9
 nalał 9
@@ -8615,6 +8618,7 @@ zielonym 8
 potraw 8
 tabletki 8
 bezrobotny 8
+napojów 8
 palił 8
 chwile 8
 Sposób 8
@@ -8854,7 +8858,6 @@ piersiowej 8
 reszty 8
 Wstań 8
 twierdził 8
-słodkich 8
 kolorem 8
 dowiesz 8
 Cicho 8
@@ -8870,7 +8873,6 @@ spóźnię 8
 zszokowany 8
 dzieciach 8
 żyły 8
-internet 8
 błędnie 8
 dostarcza 8
 tolerować 8
@@ -8995,7 +8997,6 @@ ukrywa 8
 założyła 8
 14:30 8
 dalszym 8
-telefonie 8
 Zostawiłam 8
 trzymasz 8
 piekle 8
@@ -9499,7 +9500,6 @@ postępu 7
 przygodę 7
 dziewięćdziesiąt 7
 dzisiejszej 7
-napojów 7
 owadami 7
 Zbliża 7
 niewiedzy 7

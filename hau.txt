@@ -1,18 +1,18 @@
-da 10772
+da 10773
 a 4317
 ba 4282
-ya 3857
+ya 3858
 na 3800
 yi 2498
-ta 2473
+ta 2474
 ne 2313
 ka 1828
 iya 1397
 mai 1305
 Na 1229
-cikin 1218
+cikin 1219
 Ina 1215
-shi 1096
+shi 1097
 za 1067
 wannan 1060
 mu 981
@@ -33,7 +33,7 @@ ke 715
 sun 694
 zuwa 682
 zan 623
-haka 616
+haka 617
 zama 613
 Wannan 581
 ni 576
@@ -52,7 +52,7 @@ in 481
 so 475
 sa 468
 kai 465
-kyau 464
+kyau 465
 Ta 463
 tare 463
 amma 447
@@ -86,7 +86,7 @@ ki 319
 idan 318
 kawai 317
 gaba 313
-magana 311
+magana 312
 Yana 310
 Idan 308
 ci 308
@@ -96,7 +96,7 @@ mutane 301
 ban 295
 ganin 294
 ma 293
-fi 287
+fi 288
 wajen 286
 duk 284
 biyu 282
@@ -147,7 +147,7 @@ shiga 205
 gida 204
 Dan 204
 ruwan 204
-mutum 198
+mutum 199
 amfani 197
 abinda 196
 kuka 196
@@ -174,8 +174,8 @@ Duk 171
 baya 169
 faru 168
 kashe 165
+ake 164
 wa 164
-ake 163
 buƙatar 163
 nuna 163
 guda 163
@@ -199,9 +199,9 @@ kusa 148
 lafiya 146
 sha 146
 wancan 146
+yarda 145
 ruwa 145
 daidai 145
-yarda 144
 daya 143
 sani 143
 yanke 140
@@ -278,8 +278,8 @@ Zai 103
 Kamar 102
 nawa 101
 me 101
+shirya 100
 Bari 99
-shirya 99
 kara 98
 mutumin 98
 rubuta 98
@@ -293,10 +293,10 @@ karanta 96
 tilasta 96
 Yanzu 95
 fita 95
+yawan 95
 jiya 95
 inda 95
 matsala 95
-yawan 94
 makaranta 94
 ƙarshe 94
 can 94
@@ -395,12 +395,12 @@ Wancan 70
 baki 69
 koyaushe 69
 maza 69
+rage 69
 faɗi 68
 gudu 68
 bakin 68
 matsalar 68
 waɗanda 68
-rage 68
 siyasa 68
 gane 67
 tsoron 67
@@ -943,6 +943,7 @@ Ki 25
 yiwu 25
 kunna 24
 ƙasan 24
+teburin 24
 naman 24
 gwamnati 24
 yammacin 24
@@ -975,7 +976,6 @@ wadannan 23
 yaren 23
 tuka 23
 kwanakin 23
-teburin 23
 Gidan 23
 wawa 23
 adana 23
@@ -1171,6 +1171,7 @@ shakka 19
 ikon 19
 man 18
 Jamus 18
+kwarai 18
 bushe 18
 murya 18
 alade 18
@@ -1225,7 +1226,6 @@ bukata 17
 a'a 17
 gini 17
 mugun 17
-kwarai 17
 tsaho 17
 girmama 17
 hira 17
@@ -2055,6 +2055,7 @@ karye 9
 Oktoba 9
 Rufe 9
 Cikin 9
+Yadda 9
 zagayowar 9
 ɗina 9
 mutunci 9
@@ -2269,7 +2270,6 @@ kwastomomi 8
 tattaki 8
 tsofaffin 8
 zamantakewar 8
-Yadda 8
 dana 8
 dakata 8
 satar 8
@@ -3379,6 +3379,7 @@ nakan 4
 hura 4
 Gasar 4
 Gyara 4
+Lily 4
 wawan 4
 Zama 4
 Europe 4
@@ -4071,7 +4072,6 @@ kumfa 3
 Roy 3
 Dokin 3
 Louie 3
-Lily 3
 Richard 3
 Liz 3
 fare 3

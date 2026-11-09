@@ -1,4 +1,4 @@
-er 4579
+er 4583
 Jeg 3939
 ikke 2614
 å 2308
@@ -8,7 +8,7 @@ du 1976
 det 1891
 Tom 1877
 har 1858
-på 1796
+på 1798
 til 1657
 jeg 1420
 og 1370
@@ -39,8 +39,8 @@ Hva 378
 de 369
 må 359
 hadde 344
+De 341
 være 340
-De 339
 oss 337
 vi 334
 skal 327
@@ -72,7 +72,7 @@ her 228
 aldri 228
 skulle 228
 henne 227
-hun 224
+hun 226
 sin 222
 opp 215
 tror 214
@@ -102,8 +102,8 @@ hans 165
 eller 161
 nå 160
 ingen 154
+Når 154
 alt 152
-Når 152
 sa 150
 alltid 150
 Hvem 148
@@ -118,9 +118,9 @@ få 142
 Den 141
 to 140
 kom 140
+andre 138
 snakker 137
 gang 136
-andre 136
 litt 134
 tre 134
 selv 130
@@ -191,13 +191,13 @@ engelsk 81
 barn 81
 burde 81
 sammen 80
+fordi 80
 hvordan 79
 hvis 79
 alene 79
 spiser 78
 ned 78
 fortsatt 78
-fordi 78
 gammel 77
 fikk 77
 lære 76
@@ -395,6 +395,7 @@ måte 36
 Skal 36
 sted 36
 skjer 36
+begynner 35
 lage 35
 Gi 35
 vær 35
@@ -403,7 +404,6 @@ mannen 35
 hører 35
 stort 35
 ei 35
-begynner 34
 seks 34
 annen 34
 vei 34
@@ -756,6 +756,7 @@ Ha 17
 sengen 17
 familie 17
 overrasket 17
+butikken 17
 stedet 17
 legge 17
 saken 17
@@ -792,7 +793,6 @@ Prøv 16
 venstre 16
 krever 16
 Gud 16
-butikken 16
 Som 16
 regne 16
 flyet 16
@@ -1136,6 +1136,7 @@ glemt 11
 spør 11
 fast 11
 sommer 11
+ekstremt 11
 dumt 11
 Mitt 11
 plass 11
@@ -1277,6 +1278,7 @@ krigen 9
 henger 9
 sies 9
 bekymre 9
+pen 9
 avisen 9
 øye 9
 tilgi 9
@@ -1347,7 +1349,6 @@ medisin 9
 hoppet 9
 tanker 9
 intelligent 9
-ekstremt 9
 3 9
 skader 9
 hemmelighet 9
@@ -1555,7 +1556,6 @@ nede 7
 helvete 7
 driver 7
 Toget 7
-pen 7
 feber 7
 Regnet 7
 overbevist 7
@@ -2340,6 +2340,7 @@ russer 5
 dritt 5
 Nancy 4
 fortere 4
+stenger 4
 tørst 4
 sigaretter 4
 vanskeligere 4
@@ -2809,6 +2810,7 @@ basketball 4
 strøk 4
 salg 4
 vennens 4
+sjalu 4
 Hellas 4
 Deres 4
 Hmm 4
@@ -2859,7 +2861,6 @@ kanadiere 4
 omelett 4
 brødrene 3
 ekspert 3
-stenger 3
 15 3
 skjeve 3
 engel 3
@@ -3154,6 +3155,7 @@ dags 3
 Francisco 3
 blotte 3
 gror 3
+jentene 3
 klimaet 3
 løfter 3
 liggende 3
@@ -3579,7 +3581,6 @@ overdrive 3
 Pulver 3
 Kjøleskapet 3
 sykle 3
-sjalu 3
 bestilt 3
 snarvei 3
 tyske 3
@@ -5498,6 +5499,7 @@ aper 2
 Synd 2
 fregner 2
 kjeks 2
+misunnelige 2
 innrøm 2
 Ukraina 2
 Greit 2
@@ -5641,6 +5643,7 @@ lasagne 2
 Falafel 2
 mynte 2
 hamburgeren 2
+Lily 2
 menneskeverd 1
 menneskerettigheter 1
 brorskapets 1
@@ -6855,7 +6858,6 @@ tretopper 1
 trærne" 1
 "Fordi 1
 forsvinne" 1
-jentene 1
 anklaget 1
 gledestårer 1
 mildt 1
@@ -9996,5 +9998,3 @@ normer 1
 Oversetterens 1
 ekko 1
 originaler; 1
-ekkoet 1
-oversetterens 1

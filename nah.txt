@@ -6,6 +6,7 @@ Ahmo 8
 inic 8
 ye 8
 nacatl 7
+Ma 7
 ipan 7
 pilli 6
 ma 6
@@ -22,12 +23,12 @@ ahmo 5
 auh 5
 ahmō 5
 cē 5
-Ma 5
 cenca 5
 ya 5
 Auh 5
 Mēxihco 5
 ic 5
+cualli 4
 tlein 4
 Āxcān 4
 Ye 4
@@ -35,7 +36,6 @@ Notōcā 4
 Ahmō 4
 calli 4
 zan 4
-cualli 3
 īpan 3
 Niltze 3
 ce 3
@@ -50,6 +50,7 @@ ihcuac 3
 za 3
 mochi 3
 Dios 3
+tōnalli 3
 pesos 3
 Aztlan 3
 itzcuīntli 3
@@ -101,9 +102,9 @@ quicuep 2
 aca 2
 oncan 2
 matl 2
-tōnalli 2
 Ac 2
 quicuiznequiz 2
+occepa 2
 Caxtillān 2
 huitz 2
 peso 2
@@ -495,7 +496,6 @@ tictlazotla 1
 inoc 1
 Aca 1
 moyocoyaz 1
-occepa 1
 tecicicoliztica 1
 tlatzacauiltiloz 1
 iuhca 1
@@ -826,3 +826,6 @@ rumano 1
 Nicpia 1
 ōme 1
 miztōn 1
+Noehēcatlapalqui 1
+cōāmichtēnqui 1
+xitlato 1

@@ -1,4 +1,4 @@
-je 1972
+je 1973
 se 712
 u 655
 sam 551
@@ -10,8 +10,8 @@ ne 334
 i 281
 mi 255
 su 246
-to 224
-Ne 221
+to 225
+Ne 223
 nije 196
 si 188
 za 187
@@ -39,13 +39,13 @@ Gdje 73
 Jesi 71
 Tko 69
 mogu 69
-više 67
+više 68
 nego 67
 Mary 67
 još 63
 Zašto 62
+Želim 62
 Je 61
-Želim 61
 ali 60
 sve 59
 uvijek 57
@@ -54,8 +54,8 @@ ovdje 57
 dobro 56
 Imam 56
 Kako 55
+Ovo 55
 kako 55
-Ovo 54
 Nisam 53
 rekao 53
 ići 53
@@ -138,9 +138,9 @@ engleski 30
 sada 30
 po 29
 Svi 29
+vas 29
 ovaj 28
 Molim 28
-vas 28
 dvije 28
 već 28
 molim 28
@@ -165,9 +165,11 @@ bili 26
 Nemam 26
 čovjek 25
 kući 25
+raditi 25
 grad 25
 dana 25
 jedan 25
+Moram 25
 tvoje 24
 dobar 24
 tko 24
@@ -177,9 +179,7 @@ svojim 24
 jer 24
 vidio 24
 jednu 24
-Moram 24
 Ta 23
-raditi 23
 dijete 23
 Koji 23
 francuski 23
@@ -210,14 +210,15 @@ problem 21
 ono 21
 zbog 21
 zar 20
+želim 20
 Jučer 20
 tebe 20
 došao 20
 Još 20
 sati 20
 žena 19
+volim 19
 dovoljno 19
-želim 19
 psa 19
 znati 19
 Na 19
@@ -231,7 +232,6 @@ moje 18
 ime 18
 dva 18
 svojoj 18
-volim 18
 Nitko 18
 nikada 18
 često 18
@@ -343,6 +343,7 @@ bicikl 13
 poslije 13
 sobi 13
 manje 13
+Moramo 13
 minuta 13
 puta 13
 znači 13
@@ -366,7 +367,6 @@ misliš 12
 sestra 12
 naučiti 12
 pitati 12
-Moramo 12
 imaš 12
 bolje 12
 Nisi 12
@@ -535,6 +535,7 @@ Trebam 9
 čita 9
 tenis 9
 hoće 9
+Vidim 9
 roditelji 9
 ideju 9
 ubiti 9
@@ -599,7 +600,6 @@ Jeste 8
 Stvarno 8
 riješiti 8
 sad 8
-Vidim 8
 svom 8
 nemam 8
 mom 8
@@ -679,6 +679,7 @@ Sunce 7
 star 7
 kraju 7
 voda 7
+televiziju 7
 Naš 7
 nedjeljom 7
 spava 7
@@ -786,7 +787,6 @@ Sretan 6
 njom 6
 zub 6
 gitaru 6
-televiziju 6
 pokazao 6
 brini 6
 Nazovi 6
@@ -1130,6 +1130,7 @@ zanima 4
 Također 4
 Piotr 4
 ponovno 4
+navečer 4
 druge 4
 iza 4
 bojim 4
@@ -1486,7 +1487,6 @@ Odbila 3
 Poljske 3
 računala 3
 trinaest 3
-navečer 3
 lijepu 3
 trideset 3
 kasnio 3
@@ -2795,6 +2795,7 @@ komadiću 2
 šezdeset 2
 činiš 2
 Mike 2
+biljka 2
 politike 2
 ribu 2
 gladna 2
@@ -6263,7 +6264,6 @@ Zapisao 1
 Zapisala 1
 navršiti 1
 složenima 1
-biljka 1
 jestiva 1
 turist 1
 Čemu 1
@@ -8989,3 +8989,5 @@ Plešu 1
 kruške 1
 Čaša 1
 Stigla 1
+Gledam 1
+začine 1

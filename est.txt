@@ -1,5 +1,5 @@
-on 1677
-Ma 981
+on 1679
+Ma 982
 ei 777
 Tom 650
 Kas 469
@@ -8,12 +8,12 @@ Ta 379
 et 357
 See 299
 ma 230
-seda 222
+seda 223
 oma 210
 see 200
 oli 177
 ja 169
-ole 157
+ole 158
 ta 156
 Sa 152
 keelt 148
@@ -25,9 +25,9 @@ pole 130
 Me 130
 oled 107
 mulle 107
+mind 94
 selle 94
 midagi 93
-mind 93
 Nad 93
 mu 93
 ära 89
@@ -35,8 +35,8 @@ minu 87
 palju 83
 Miks 82
 Kui 80
+Mu 78
 Minu 77
-Mu 77
 Tomi 77
 meeldib 76
 tahan 75
@@ -44,11 +44,11 @@ sulle 73
 sind 72
 Kus 72
 kõik 71
+nii 70
 siin 70
 su 70
 Mary 70
 mida 69
-nii 68
 Mis 68
 veel 68
 Kes 65
@@ -68,18 +68,18 @@ tea 51
 minna 50
 me 50
 kunagi 50
+Kuidas 48
 ütles 48
-Kuidas 47
 keel 47
 olnud 44
 raha 43
+Ära 43
 tema 43
 isa 43
 ilus 43
 Tomile 43
 Tomil 43
 talle 42
-Ära 42
 tagasi 42
 pean 42
 maja 41
@@ -693,6 +693,7 @@ annan 6
 Suur 6
 – 6
 käed 6
+mustad 6
 püüdis 6
 peaksime 6
 vale 6
@@ -884,6 +885,7 @@ tohi 5
 räpane 5
 õpid 5
 elanud 5
+ujub 5
 Poola 5
 ehitas 5
 valutab 5
@@ -1034,7 +1036,6 @@ avada 4
 kuulsin 4
 loodan 4
 halba 4
-mustad 4
 ootasin 4
 aitas 4
 toitu 4
@@ -1052,6 +1053,7 @@ vähe 4
 neist 4
 noorem 4
 kaitsta 4
+järele 4
 Huvitav 4
 tundub 4
 korras 4
@@ -1113,7 +1115,6 @@ tugevam 4
 kasutab 4
 soovid 4
 silmas 4
-ujub 4
 oodata 4
 televiisorit 4
 viiskümmend 4
@@ -1365,7 +1366,6 @@ ainus 3
 oodanud 3
 puhkes 3
 kakskümmend 3
-järele 3
 jäänud 3
 hammustab 3
 küla 3
@@ -1462,6 +1462,7 @@ loe 3
 pühapäeviti 3
 neil 3
 palli 3
+annab 3
 kuulis 3
 linnu 3
 lipp 3
@@ -2174,7 +2175,6 @@ pilte 2
 sellise 2
 kihla 2
 meelest 2
-annab 2
 selliseid 2
 küsimustele 2
 vastata 2
@@ -2490,6 +2490,7 @@ müüa 2
 soovite 2
 tasuta 2
 särgi 2
+suudle 2
 kohal 2
 Arvasin 2
 saaksite 2
@@ -2533,6 +2534,7 @@ Igaüks 2
 tulite 2
 aeglane 2
 rahaga 2
+kallim 2
 vasakul 2
 kutsutud 2
 tegutses 2
@@ -5798,7 +5800,6 @@ lonka 1
 hundid 1
 ründa 1
 pisut 1
-suudle 1
 naasin 1
 töötajad 1
 ülemust 1
@@ -6226,7 +6227,6 @@ võitles 1
 jäin 1
 uniseks 1
 laenas 1
-kallim 1
 tõsiseks 1
 rahvast 1
 Roller 1
@@ -7039,3 +7039,12 @@ Uraani 1
 tüüta 1
 advokaati 1
 tsitaate 1
+kangekaelne 1
+kaunilt 1
+öeldaksegi 1
+Targem 1
+ujusin 1
+Naoko 1
+Lugege 1
+Rongad 1
+Varesed 1

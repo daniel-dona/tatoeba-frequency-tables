@@ -1,4 +1,4 @@
-es 343
+es 344
 Tom 187
 un 173
 la 133
@@ -29,8 +29,8 @@ pan 38
 kon 37
 Eya 36
 se 36
+Mi 36
 muy 35
-Mi 35
 לה 33
 און 32
 las 29
@@ -194,6 +194,7 @@ ermoza 7
 avlash 7
 paiz 7
 livro 7
+nombre 7
 personas 7
 abandono 7
 tienen 7
@@ -218,7 +219,6 @@ Mersi 6
 Avlash 6
 chiko 6
 buen 6
-nombre 6
 alegre 6
 ay 6
 ermozo 6
@@ -2527,3 +2527,4 @@ guevos 1
 Kantonéz 1
 Hong 1
 Kong 1
+Sasha 1

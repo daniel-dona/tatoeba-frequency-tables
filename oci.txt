@@ -1,7 +1,7 @@
-de 4856
- 3840
-pas 3349
-es 3130
+de 4858
+ 3841
+pas 3350
+es 3131
 a 2894
 la 2837
 un 2285
@@ -9,16 +9,16 @@ lo 2123
 que 1750
 Tom 1526
 Lo 1477
-Es 1433
+Es 1435
 una 1432
-La 1065
+La 1066
 e 968
 son 906
 en 780
 per 765
 las 764
 Soi 695
-los 641
+los 642
 se 602
 Ai 590
 Me 511
@@ -40,7 +40,7 @@ aquò 290
 I 286
 Aqueste 273
 coma 262
-tot 260
+tot 261
 aqueste 259
 temps 255
 Se 253
@@ -49,8 +49,8 @@ Las 247
 As 239
 te 231
 Te 231
+Son 231
 Vòli 231
-Son 230
 Que 228
 cal 227
 sus 222
@@ -88,9 +88,9 @@ totjorn 157
 tu 156
 jorn 154
 còp 151
-Ont 149
+Ont 150
+sens 144
 sembla 144
-sens 143
 mès 143
 Aquesta 141
 parlar 140
@@ -116,7 +116,7 @@ ua 117
 lenga 116
 jamai 116
 qui 115
-bona 114
+bona 115
 M'agrada 114
 ara 114
 cada 113
@@ -137,10 +137,10 @@ Nos 102
 deman 102
 besonh 102
 Quin 102
+pro 100
 Qu'ei 100
 Perqué 100
 ne 99
-pro 99
 pòdi 99
 mei 98
 nos 98
@@ -465,6 +465,7 @@ Yanni 34
 El 34
 cinèma 33
 Bon 33
+possible 33
 d'aquesta 33
 important 33
 Lor 33
@@ -478,7 +479,6 @@ plaser 32
 jogar 32
 sabes 32
 jornada 32
-possible 32
 dormir 32
 Tatoeba 32
 Parla 32
@@ -1251,6 +1251,7 @@ afars 13
 imatge 13
 tombar 13
 bacterias 13
+vivon 13
 fax 13
 l'argent 13
 conten 13
@@ -1343,7 +1344,6 @@ drech 12
 sòrt 12
 anuèch 12
 Cap 12
-vivon 12
 abelhas 12
 puslèu 12
 castelhan 12
@@ -3069,6 +3069,7 @@ deficit 5
 contengut 5
 colpable 5
 esperant 5
+manjam 5
 coja 5
 Halloween 5
 corbaduras 5
@@ -3754,7 +3755,6 @@ l'ocean 4
 d'òli 4
 pròpris 4
 ridicul 4
-manjam 4
 estrangièras 4
 balança 4
 deprimida 4
@@ -6500,6 +6500,7 @@ fotografic 2
 Lors 2
 atentius 2
 t'ausir 2
+Aser 2
 raportar 2
 m'acostumar 2
 demorava 2
@@ -8643,6 +8644,7 @@ passèri 2
 quatre-vint 2
 tropèl 2
 estagna 2
+percebre 2
 castigar 2
 d'identitat 2
 verdicte 2
@@ -8885,6 +8887,7 @@ eroïc 2
 instint 2
 instintivament 2
 estrangièr 2
+concebre 2
 efècte 2
 verbe 2
 transitiv 2
@@ -8986,6 +8989,7 @@ sevèr 2
 legiguèri 2
 impunidament 2
 rigor 2
+savoiards 2
 tornarèi 1
 Cridèc 1
 "ajuda" 1
@@ -9994,7 +9998,3 @@ botons 1
 Eths 1
 d'uei 1
 inabituau 1
-anaratz 1
-visitaratz 1
-castèth 1
-Dracula 1

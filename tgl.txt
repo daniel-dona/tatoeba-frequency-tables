@@ -1,9 +1,9 @@
-ang 35294
-sa 27999
-ng 26528
-na 16801
+ang 35297
+sa 28000
+ng 26529
+na 16803
 po 13869
-ko 12701
+ko 12702
 mga 12311
 Tom 9658
 si 8980
@@ -12,10 +12,10 @@ mo 6355
 ni 6306
 Hindi 6111
 at 5496
-ba 5357
+ba 5358
 niya 4917
 ay 4748
-ito 4674
+ito 4675
 siya 4648
 May 4072
 nang 3740
@@ -30,7 +30,7 @@ kong 2571
 para 2498
 kung 2458
 Sa 2231
-iyon 2156
+iyon 2157
 iyan 2104
 pa 1991
 lang 1789
@@ -43,7 +43,7 @@ akin 1476
 kanyang 1473
 kami 1426
 Wala 1426
-siyang 1414
+siyang 1415
 lahat 1401
 nila 1335
 sila 1307
@@ -57,7 +57,7 @@ ngayon 1062
 Huwag 1024
 bang 1017
 mong 1014
-gawin 1007
+gawin 1008
 gusto 1007
 tao 978
 Alam 964
@@ -88,7 +88,7 @@ dito 632
 aking 628
 ninyong 616
 loob 612
-oras 609
+oras 610
 buhay 608
 dapat 596
 yaong 592
@@ -190,7 +190,7 @@ kuwarto 332
 itim 332
 tatlong 331
 bukas 329
-Anong 325
+Anong 326
 buwan 320
 habang 314
 makita 314
@@ -254,8 +254,8 @@ pagkatapos 237
 Palagi 237
 ilalim 237
 nitong 236
+damit 236
 daan 236
-damit 235
 Siya 234
 Istarbak 234
 batang 233
@@ -287,8 +287,8 @@ ilog 210
 masyadong 210
 itlog 209
 kamay 209
+tindahan 207
 ganoon 207
-tindahan 206
 Sinong 202
 talagang 201
 kapitbahay 200
@@ -327,8 +327,8 @@ klase 179
 kulay 178
 pulis 178
 mukhang 178
+Ikaw 178
 malaki 177
-Ikaw 177
 magulang 176
 guro 175
 mayroon 174
@@ -391,13 +391,13 @@ plano 143
 lakas 143
 estudyante 142
 Iyon 142
+Magaling 141
 Ziri 141
-Magaling 140
 nakatira 140
+Magkano 140
 Medyo 139
 gubat 139
 Noong 139
-Magkano 139
 Mukha 139
 kailan 138
 suot 138
@@ -549,6 +549,7 @@ larawan 102
 tawag 102
 Abril 102
 siyensiyang 102
+paraan 101
 naroon 101
 tingnan 101
 Kastila 101
@@ -561,7 +562,6 @@ Masarap 100
 litrato 100
 limang 100
 dilim 100
-paraan 100
 paligid 100
 susi 100
 lungsod 100
@@ -859,6 +859,7 @@ tinderong 66
 istasyon 65
 makina 65
 Linggo 65
+ganoong 65
 sigurado 65
 mahusay 65
 kultura 65
@@ -869,7 +870,6 @@ kostumer 65
 tauhan 64
 Mabilis 64
 ideya 64
-ganoong 64
 pakiramdam 64
 Nahuli 64
 nagsasalita 64
@@ -1283,6 +1283,7 @@ natatakot 44
 Sumasakit 44
 kakaibang 44
 kesong 44
+halaga 44
 restawrang 44
 nauunawaan 44
 ilaw-ilaw 44
@@ -1308,7 +1309,6 @@ naririnig 43
 "Oo 43
 guwardiya 43
 kanser 43
-halaga 43
 kamiseta 43
 pagiging 43
 Lulung 43
@@ -2001,6 +2001,7 @@ Ginagamit 27
 Naiyak 27
 tula 27
 Sanay 27
+manggagawa 27
 nakatayo 27
 moradong 27
 dingding 27
@@ -2074,7 +2075,6 @@ Nakasuot 26
 katas 26
 ika-3 26
 Makinig 26
-manggagawa 26
 Maya 26
 karunungan 26
 Tayo 26
@@ -3551,6 +3551,7 @@ matakot 14
 makatulog 14
 Latin 14
 sumpa 14
+'di 14
 nakahanap 14
 Nag-order 14
 Nagluto 14
@@ -3803,7 +3804,6 @@ tumatawag 13
 reyna 13
 Karaniwang 13
 taglagas 13
-'di 13
 pulong 13
 2 13
 dila 13
@@ -7869,6 +7869,7 @@ Mabuting 5
 mahiya 5
 Magaan 5
 matingnan 5
+nagsasara 5
 Pakiabot 5
 tagak 5
 pindutin 5
@@ -9000,7 +9001,6 @@ dinuguan 4
 kinilaw 4
 tagagawa 4
 makakaalam 4
-nagsasara 4
 suhang 4
 impresyon 4
 nangangamoy 4

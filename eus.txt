@@ -1,12 +1,12 @@
 da 1026
 ez 578
-dut 529
+dut 530
 bat 414
 Ez 414
-du 395
+du 396
 eta 353
+naiz 284
 zuen 283
-naiz 283
 egin 277
 zen 267
 dago 237
@@ -32,8 +32,8 @@ zara 110
 baino 109
 zure 104
 joan 102
+ditut 93
 asko 92
-ditut 92
 al 90
 oso 83
 urte 81
@@ -45,8 +45,8 @@ dugu 76
 ditu 75
 nintzen 75
 ikusi 70
+Zenbat 66
 Mary 66
-Zenbat 65
 Ni 64
 izango 64
 Hau 63
@@ -60,8 +60,8 @@ Zure 60
 gehiago 59
 Non 59
 Bere 58
+gustatzen 57
 izena 57
-gustatzen 56
 inoiz 55
 Zein 54
 hemen 54
@@ -256,6 +256,7 @@ batzuk 16
 eskolara 16
 dirua 16
 baduzu 16
+honek 16
 gogoko 16
 jan 16
 irakurtzen 15
@@ -267,7 +268,6 @@ munduko 15
 hamar 15
 Noiz 15
 daki 15
-honek 15
 Ba 15
 gauean 15
 orok 15
@@ -277,6 +277,7 @@ ulertzen 14
 Egin 14
 diru 14
 nekatuta 14
+balio 14
 ginen 14
 irakurri 14
 Barkatu 14
@@ -298,10 +299,10 @@ dudala 14
 Maria 14
 inork 13
 Euria 13
+jotzen 13
 handi 13
 diot 13
 artean 13
-balio 13
 batera 13
 gustoko 13
 bakarra 13
@@ -328,7 +329,6 @@ batekin 12
 noa 12
 ondoren 12
 aitak 12
-jotzen 12
 azken 12
 txikia 12
 Lagundu 12
@@ -530,6 +530,7 @@ Bat 8
 Aupa 8
 zertan 8
 giltzak 8
+Gauza 8
 dagoeneko 8
 bezalakoa 8
 nahikoa 8
@@ -617,7 +618,6 @@ ohean 7
 Mutila 7
 igaro 7
 Real 7
-Gauza 7
 baita 7
 puntu 7
 batere 7
@@ -1128,6 +1128,7 @@ Ene 4
 guztiekin 4
 txartela 4
 ordainduko 4
+zaizkit 4
 aste 4
 telefono 4
 konpondu 4
@@ -1144,6 +1145,7 @@ mutilak 4
 Txakurra 4
 zaie 4
 Izan 4
+soineko 4
 Elurra 4
 Lehen 4
 zarata 4
@@ -1521,7 +1523,6 @@ Haragirik 3
 Ados 3
 Zaharra 3
 gazteleraz 3
-zaizkit 3
 Garbitu 3
 Dolar 3
 Txoria 3
@@ -1563,7 +1564,6 @@ giza 3
 egunen 3
 independentzia 3
 aldarrikatu 3
-soineko 3
 Ezinezkoa 3
 hondartzan 3
 Bigarren 3
@@ -2061,6 +2061,7 @@ osoak 2
 hirian 2
 botako 2
 ditzaket 2
+Urrezko 2
 Txinan 2
 haziko 2
 azkena 2
@@ -3936,7 +3937,6 @@ erriirik 1
 CR 1
 39 1
 pitxitxi 1
-Urrezko 1
 Bota 1
 Gazteek 1
 adinekoak 1
@@ -8653,3 +8653,7 @@ zeneko 1
 urteurrena 1
 Ba-Amazigh 1
 ne 1
+arrainak 1
+Lily 1
+goragoetara 1
+Espeziak 1

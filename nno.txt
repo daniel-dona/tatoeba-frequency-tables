@@ -6,13 +6,13 @@ ikkje 1120
 det 960
 i 937
 du 882
-på 870
+på 871
 har 769
 ein 736
 Det 733
 til 714
 Han 635
-meg 527
+meg 528
 eg 497
 var 497
 han 428
@@ -42,8 +42,8 @@ vil 182
 den 178
 dei 178
 vart 178
+kjem 175
 min 174
-kjem 174
 dette 173
 skal 170
 ho 167
@@ -64,8 +64,8 @@ veit 129
 Kven 125
 oss 124
 mange 123
+de 121
 ut 121
-de 120
 mykje 118
 dag 117
 går 116
@@ -147,20 +147,20 @@ gjort 53
 burde 53
 kunne 53
 mine 52
+tid 52
 kjøpte 52
 engelsk 52
-tid 51
 norsk 51
 sjå 50
 sitt 50
 Ein 49
 språk 49
 vondt 49
+Når 49
 sidan 48
 læra 48
 ditt 48
 si 48
-Når 48
 verkeleg 48
 Alle 47
 glad 47
@@ -367,6 +367,7 @@ time 20
 Nei 20
 Veit 20
 Algerie 20
+dit 20
 forstår 20
 Var 20
 brillene 20
@@ -393,7 +394,6 @@ helst 19
 hestar 19
 Gå 19
 ringde 19
-dit 19
 kake 19
 paraplyen 19
 sola 19
@@ -411,6 +411,7 @@ døra 18
 imot 18
 fara 18
 dårleg 18
+tidleg 18
 song 18
 plass 18
 blitt 18
@@ -431,7 +432,6 @@ hunden 17
 hovudstaden 17
 Vil 17
 skjer 17
-tidleg 17
 neste 17
 musikk 17
 pengane 17
@@ -576,6 +576,7 @@ matematikk 14
 obo 14
 grunn 13
 Tokyo 13
+Om 13
 driv 13
 verkar 13
 svart 13
@@ -624,7 +625,6 @@ geitene 13
 borna 12
 eigentleg 12
 Å 12
-Om 12
 svara 12
 fire 12
 ete 12
@@ -1766,6 +1766,7 @@ skjemt 4
 sjokkert 4
 turkmensk 4
 atmosfære 4
+vent 4
 matte 4
 kul 4
 esel 4
@@ -2252,7 +2253,6 @@ tynn 3
 flat 3
 flatt 3
 pannekake 3
-vent 3
 skund 3
 Matematikk 3
 matematisk 3
@@ -7193,3 +7193,5 @@ Ladogasjøen 1
 tilfrosen 1
 Helsinki 1
 Ventar 1
+starter 1
+rodeoen 1

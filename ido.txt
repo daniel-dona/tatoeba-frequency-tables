@@ -1,10 +1,10 @@
-esas 3789
-Me 2853
+esas 3793
+Me 2854
 la 2640
-ne 1670
+ne 1673
 Tom 1369
 La 1279
-me 1119
+me 1120
 tu 1072
 Ka 949
 es 762
@@ -12,7 +12,7 @@ en 743
 havas 727
 Il 575
 vu 572
-Ni 535
+Ni 537
 ke 530
 mea 504
 a 497
@@ -33,8 +33,8 @@ kun 274
 savas 265
 plu 263
 de 251
+tua 240
 ni 239
-tua 239
 bona 233
 quo 232
 To 227
@@ -99,8 +99,8 @@ pekunio 102
 Maria 102
 lernas 101
 ilu 99
+odias 99
 homi 99
-odias 98
 patro 97
 ad 93
 Quale 93
@@ -115,13 +115,13 @@ vere 89
 ica 89
 nova 89
 ed 86
+nur 84
 un 84
-nur 83
 su 83
 Vi 83
 aquo 83
+omno 83
 vivo 82
-omno 82
 al 81
 facar 81
 esar 80
@@ -129,8 +129,8 @@ amiko 77
 mondo 77
 nomo 76
 nomesas 76
+Deo 76
 sen 75
-Deo 75
 kande 74
 matro 73
 nulo 72
@@ -233,6 +233,7 @@ richa 41
 ek 41
 til 41
 yunino 41
+via 41
 trovis 40
 venis 40
 yari 40
@@ -244,7 +245,6 @@ spozino 40
 Tua 40
 ludas 40
 reda 40
-via 40
 felica 39
 alta 39
 tale 39
@@ -446,6 +446,7 @@ Nun 20
 questionis 20
 rivero 20
 Francia 20
+Germania 20
 De 20
 danjeroza 20
 familio 20
@@ -467,7 +468,6 @@ manjar 19
 Hodie 19
 lito 19
 nigra 19
-Germania 19
 fratini 19
 ucelo 19
 vartar 19
@@ -533,6 +533,7 @@ tanta 17
 pluse 16
 rejulo 16
 fenestro 16
+Segun 16
 arivos 16
 povos 16
 ya 16
@@ -566,7 +567,6 @@ Pos 15
 frue 15
 renkontris 15
 lakto 15
-Segun 15
 volus 15
 teniso 15
 eniris 15
@@ -619,6 +619,7 @@ dankas 14
 posedas 14
 recevis 14
 konocis 14
+Berlin 14
 komprenis 14
 Plu 14
 A 14
@@ -663,7 +664,6 @@ studenti 13
 studento 13
 vereso 13
 helpis 13
-Berlin 13
 eventas 13
 male 13
 vizajo 13
@@ -1685,6 +1685,7 @@ demoni 5
 Tenez 5
 Faligez 5
 damzelo 5
+sklavi 5
 aroganta 5
 tolerema 5
 kilogrami 5
@@ -2732,7 +2733,6 @@ piktistino 3
 individui 3
 perturbesar 3
 mercenario 3
-sklavi 3
 futuar 3
 amantulo 3
 Balayez 3
@@ -9673,3 +9673,4 @@ panteisto 1
 Satan 1
 "Anke 1
 Iesus 1
+Discord 1
