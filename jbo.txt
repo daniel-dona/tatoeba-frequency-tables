@@ -1,9 +1,9 @@
-lo 13099
+lo 13100
 mi 6402
-cu 3660
+cu 3661
 do 3413
 la 3133
-le 2409
+le 2410
 pu 2383
 nu 2171
 se 1974
@@ -46,7 +46,7 @@ tam 308
 me 304
 bu'u 300
 tavla 299
-pinxe 297
+pinxe 298
 mi'a 297
 ta 289
 no 284
@@ -208,10 +208,10 @@ speni 83
 zarci 83
 maris 83
 to'e 81
+djacu 81
 carvi 81
 zo'e 81
 bilga 80
-djacu 80
 gugde 80
 pe'u 79
 bau 78
@@ -1813,6 +1813,7 @@ cipnrlaru 4
 canja 4
 skiji 4
 seki'i 4
+arxokuna 4
 kindi'u 4
 ji'u 4
 uesai 4
@@ -2099,7 +2100,6 @@ serti 3
 sakli 3
 maxri 3
 xokaidon 3
-arxokuna 3
 cabvanci 3
 kamvli 3
 selfuzme 3

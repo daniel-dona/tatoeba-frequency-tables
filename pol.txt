@@ -1,6 +1,6 @@
 się 17522
 nie 14936
-jest 14603
+jest 14604
 w 13169
 Tom 11520
 na 11041
@@ -11,10 +11,10 @@ do 7956
 z 7676
 i 4798
 To 4736
-Czy 4210
+Czy 4211
 mi 3853
 o 3655
-mnie 3646
+mnie 3647
 ma 3221
 co 3156
 On 3008
@@ -68,7 +68,7 @@ coś 1002
 mu 995
 by 982
 jeszcze 972
-pan 964
+pan 965
 tej 963
 mam 953
 była 933
@@ -1273,6 +1273,7 @@ powiem 65
 Dałem 65
 Kioto 65
 udział 65
+rozumie 65
 mieszkanie 65
 banku 65
 przyjechał 65
@@ -1294,7 +1295,6 @@ Ameryki 64
 czeka 64
 mocno 64
 Uczę 64
-rozumie 64
 Przykro 64
 Mówię 64
 Nagle 64
@@ -3408,6 +3408,7 @@ zwrócić 23
 wyglądam 23
 Usłyszałem 23
 korzystać 23
+czasów 23
 mowy 23
 zdjęć 23
 Napisał 23
@@ -3529,7 +3530,6 @@ Poszliśmy 22
 liczy 22
 Zobacz 22
 zdjęciu 22
-czasów 22
 Szczęście 22
 Taro 22
 weszła 22
@@ -5209,6 +5209,7 @@ przyjaźni 14
 godny 14
 ulewy 14
 klucza 14
+największą 14
 ryzykować 14
 bramę 14
 żółw 14
@@ -5561,7 +5562,6 @@ półki 13
 polu 13
 faceta 13
 żywy 13
-największą 13
 lecieć 13
 białym 13
 Bierz 13

@@ -1,4 +1,4 @@
-teu 206
+teu 207
 Tom 173
 Aing 169
 aing 120
@@ -17,16 +17,16 @@ boga 45
 ngomong 44
 nyaho 44
 Manéh 40
-éta 39
+éta 40
 urang 38
 aya 36
 bisa 36
+pikeun 34
 kudu 34
-pikeun 33
 ngalakukeun 33
 itu 33
 pisan 32
-ti 30
+ti 31
 ku 30
 naon 28
 pakeun 27
@@ -43,7 +43,7 @@ datang 22
 kungsi 21
 Maranéhna 20
 imah 19
-hakan 17
+hakan 18
 teh 17
 jadi 17
 Sami 17
@@ -118,6 +118,7 @@ gawé 7
 ngarasa 7
 unggal 7
 Layla 7
+bener 7
 hirup 7
 tuluy 7
 tapi 7
@@ -142,7 +143,6 @@ bagja 6
 mikir 6
 masalah 6
 perlu 6
-bener 6
 meri 6
 Aljazair 6
 kawin 6
@@ -539,6 +539,7 @@ kedalkeun 2
 wanci 2
 ngalakukeunana 2
 getol 2
+Barudak 2
 nginjeum 2
 lumba-lumba 2
 kaleungitan 2
@@ -598,6 +599,7 @@ Pikeun 2
 gé 2
 toko 2
 dinya 2
+Lalaki 2
 nyeri 2
 sahiji 2
 pun 2
@@ -613,6 +615,7 @@ menit 2
 nyaur 2
 kai 2
 lama 2
+Manuk 2
 beus 2
 séwang 2
 ngira 2
@@ -1267,7 +1270,6 @@ rerejag 1
 Gunter 1
 dokterna 1
 ajaran 1
-Barudak 1
 péso 1
 awis 1
 sora 1
@@ -1775,7 +1777,6 @@ békas 1
 ngagunem 1
 nanda 1
 tangan 1
-Lalaki 1
 jait 1
 Waktu 1
 berkas-berkas 1
@@ -1958,7 +1959,6 @@ nyanghareupan 1
 supir 1
 ngahaturkeun 1
 Méré 1
-Manuk 1
 cikedih 1
 landeuh 1
 nénggér 1
@@ -2060,3 +2060,8 @@ umum 1
 transportasi 1
 aréa 1
 padayeuhan 1
+Anna 1
+Hudang 1
+kobong 1
+roti 1
+déngékeun 1

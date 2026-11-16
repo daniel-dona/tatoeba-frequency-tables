@@ -1,7 +1,7 @@
 on 29529
 ei 10823
 Tom 9934
-Hän 8500
+Hän 8501
 ja 6920
 että 6913
 Tomi 6408
@@ -89,7 +89,7 @@ juuri 863
 Hänen 856
 Miten 855
 eivät 852
-Haluan 849
+Haluan 850
 Mikä 847
 enää 841
 tiedä 841
@@ -191,7 +191,7 @@ syödä 428
 Pidän 422
 monta 419
 Tässä 418
-teki 415
+teki 416
 tästä 412
 tosi 411
 jotka 410
@@ -254,8 +254,8 @@ mukaan 341
 täysin 341
 kuinka 340
 pian 339
+englantia 337
 nopeasti 336
-englantia 336
 Tänään 335
 näin 333
 kovin 333
@@ -498,11 +498,11 @@ unohda 178
 ette 178
 tavata 176
 viisi 176
+oppia 176
 sun 176
 kävi 175
 oven 175
 teillä 175
-oppia 175
 Monet 175
 Mun 175
 Tomilta 174
@@ -1759,6 +1759,7 @@ onnistui 49
 Olisipa 49
 muistaa 49
 ujo 49
+toisensa 49
 oletko 49
 tunnettu 49
 pienen 49
@@ -1787,7 +1788,6 @@ Olisinpa 48
 Luin 48
 tarvitaan 48
 kannattaa 48
-toisensa 48
 kysynyt 48
 omenat 48
 vastaa 48
@@ -2866,6 +2866,7 @@ jano 29
 suunnitelmia 29
 Vaimoni 29
 löysit 29
+perään 29
 odottavat 29
 etukäteen 29
 tavarat 29
@@ -2951,7 +2952,6 @@ kesä 28
 telkkaria 28
 susi 28
 öisin 28
-perään 28
 hirveä 28
 kauppaan 28
 tulleet 28
@@ -5097,6 +5097,7 @@ kolmesataa 16
 japanilaiset 16
 lainaan 16
 keksit 16
+Nukun 16
 mereen 16
 varastanut 16
 lounas 16
@@ -5361,7 +5362,6 @@ tietokoneeni 15
 asumaan 15
 herkästi 15
 Sellainen 15
-Nukun 15
 portin 15
 Jotakin 15
 ihmeellistä 15

@@ -1,18 +1,18 @@
 tam 4548
 'e' 3586
 ghaH 2066
-'oH 1678
+'oH 1679
 Hol 1448
 je 1301
 Hoch 1187
 me'rIy 925
 'ej 864
 neH 811
-jIH 798
+jIH 799
 law' 765
 vIneH 673
 naDev 650
-vay' 644
+vay' 645
 pagh 634
 qatlh 627
 DaH 597
@@ -78,8 +78,8 @@ vIneHbe' 213
 be' 213
 Dochvam 211
 naH 211
+Soj 206
 HaSta 206
-Soj 205
 bIH 203
 loQ 199
 Ha'DIbaH 196
@@ -405,6 +405,7 @@ tlhopDaq 48
 Hochlogh 48
 je'ta' 48
 yISra'el 48
+noH 47
 vIghro'wIj 47
 jajvam 47
 wIneH 47
@@ -416,7 +417,6 @@ mIp 47
 SoHtaH 46
 vIghom 46
 QongtaH 46
-noH 46
 nagh 46
 puqbe' 46
 Humanpu' 46
@@ -491,6 +491,7 @@ paqvetlh 38
 'arlogh 38
 chorgh 38
 De'wI' 38
+yIjatlh 38
 jagh 38
 qech 38
 Dat 38
@@ -501,7 +502,6 @@ Hur 37
 tIv 37
 vIlIj 37
 QongDaqDaq 37
-yIjatlh 37
 wanI' 37
 Sum 37
 loDpu' 37
@@ -1954,6 +1954,7 @@ vIDIlmeH 9
 'Iv» 9
 DatIvjaj 9
 DaghoS 9
+DaSop'a' 9
 qalegh 9
 yISopQo' 9
 bIQtIqvam 9
@@ -1970,6 +1971,7 @@ vItlhap 9
 meQtaH 9
 QaQbogh 9
 bIvang 9
+Daleghchugh 9
 je'pu' 9
 qaSbogh 9
 paqmeywIj 9
@@ -2167,7 +2169,6 @@ yI'el 8
 buqlIj 8
 nay 8
 qettaH 8
-Daleghchugh 8
 puq'e' 8
 jI'oj 8
 balDaq 8
@@ -2392,7 +2393,6 @@ chenmoHwI' 7
 vIlo'pu' 7
 burghwIj 7
 bot 7
-DaSop'a' 7
 puqpu'vaD 7
 cha'; 7
 quSmey 7
@@ -2674,6 +2674,7 @@ vIlaStIn 7
 taygher 7
 vIteQ 7
 ju'Dangan'e' 7
+chuD 7
 DalaDpu''a' 7
 yIS 7
 je'be' 7
@@ -3103,7 +3104,6 @@ wevpev 6
 HIv 6
 re'lIng 6
 majaj 6
-chuD 6
 Hen 6
 to'qIpo'na 6
 roma'Daq 6
@@ -9837,6 +9837,7 @@ Qechjem'a' 2
 QemjIqmey 2
 'aljayIrnganpu' 2
 «wornagh 2
+Sojvetlh 2
 wIleghtaHbe' 2
 «pagh» 2
 DurI'pu' 2
@@ -9997,4 +9998,3 @@ chelbe' 2
 banglaDeSDaq 2
 vIQujmeH 2
 «yIvem» 2
-jIHtaHmeH 2

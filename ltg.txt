@@ -1,7 +1,7 @@
 ir 121
 Es 55
 ka 30
-Tys 29
+Tys 30
 nav 29
 Maņ 28
 Voi 28
@@ -121,10 +121,12 @@ nabeja 3
 tūs 3
 Tev 3
 tuoļuok 3
+ni 3
 pret 3
 piec 3
 godu 3
 Kas 3
+kurs 3
 Cylvākim 3
 puoruok 3
 Dzeive 3
@@ -198,7 +200,6 @@ Tomu 2
 Vīns 2
 Naļaun 2
 tova 2
-ni 2
 lobys 2
 Daudzi 2
 mīļoju 2
@@ -208,7 +209,6 @@ vajadzeiba 2
 suoka 2
 dīnu 2
 napīkreitu 2
-kurs 2
 sauc 2
 sapni 2
 sapnys 2
@@ -280,6 +280,7 @@ kompanejā 2
 Tom 2
 stuosts 2
 te 2
+vuorda 2
 — 2
 laidīroksts 2
 vuords 2
@@ -1153,7 +1154,6 @@ sveša 1
 apleicejī 1
 Myusim 1
 Ituo 1
-vuorda 1
 izruna 1
 napareiza 1
 Kotra 1
@@ -1265,3 +1265,5 @@ teik 1
 spieleita 1
 četrūs 1
 sūzine 1
+nasoka 1
+pīkreit 1

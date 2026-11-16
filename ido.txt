@@ -1,21 +1,21 @@
-esas 3793
-Me 2854
+esas 3795
+Me 2856
 la 2640
 ne 1673
 Tom 1369
-La 1279
-me 1120
-tu 1072
+La 1280
+me 1121
+tu 1073
 Ka 949
 es 762
 en 743
 havas 727
 Il 575
-vu 572
+vu 573
 Ni 537
 ke 530
 mea 504
-a 497
+a 500
 esis 480
 di 474
 e 438
@@ -28,7 +28,7 @@ to 330
 il 328
 El 325
 Mea 319
-vi 287
+vi 288
 kun 274
 savas 265
 plu 263
@@ -42,7 +42,7 @@ Li 226
 sua 217
 Ne 208
 kam 205
-Ilu 202
+Ilu 203
 pri 202
 prizas 199
 el 198
@@ -104,8 +104,8 @@ homi 99
 patro 97
 ad 93
 Quale 93
+dicis 93
 multe 92
-dicis 92
 dum 92
 bone 92
 dil 92
@@ -125,11 +125,11 @@ vivo 82
 al 81
 facar 81
 esar 80
+mondo 78
 amiko 77
-mondo 77
+Deo 77
 nomo 76
 nomesas 76
-Deo 76
 sen 75
 kande 74
 matro 73
@@ -347,6 +347,7 @@ kantas 27
 yaro 27
 verda 27
 Yen 27
+Onu 27
 olu 26
 persono 26
 komencis 26
@@ -386,9 +387,9 @@ nula 24
 irgo 24
 tero 24
 plusa 24
+mentias 24
 cielo 24
 fisho 24
-Onu 24
 jus 24
 irga 23
 esperas 23
@@ -425,7 +426,6 @@ Multa 21
 lia 21
 heme 21
 yunini 21
-mentias 21
 uzas 21
 spozulo 21
 rizo 21
@@ -583,6 +583,7 @@ audar 15
 dormis 15
 natas 15
 lasta 15
+chanjis 15
 preferas 15
 okupata 15
 fino 15
@@ -613,7 +614,6 @@ parko 14
 fumas 14
 Tero 14
 signifikas 14
-chanjis 14
 puerini 14
 dankas 14
 posedas 14
@@ -828,6 +828,7 @@ temo 10
 koquar 10
 grupo 10
 kuko 10
+manjajo 10
 habitis 10
 singla 10
 l'automobilo 10
@@ -917,7 +918,6 @@ matine 9
 vartis 9
 amar 9
 animalo 9
-manjajo 9
 alonge 9
 televiziono 9
 bestii 9
@@ -1275,6 +1275,7 @@ adsur 6
 Jack 6
 skribos 6
 kalma 6
+nutrajo 6
 mento 6
 erori 6
 finas 6
@@ -1458,7 +1459,6 @@ Morge 5
 bilieto 5
 livis 5
 adportis 5
-nutrajo 5
 ideala 5
 tabako 5
 recente 5
@@ -3045,6 +3045,7 @@ rekta 2
 presar 2
 Fortunoze 2
 bicikle 2
+lumo" 2
 facesis 2
 rezervita 2
 agro 2
@@ -4841,7 +4842,6 @@ Himeji 1
 chipe 1
 provizos 1
 "Onu 1
-lumo" 1
 Cafoye 1
 desvinkis 1
 barko 1
@@ -9674,3 +9674,5 @@ Satan 1
 "Anke 1
 Iesus 1
 Discord 1
+"Esez 1
+benedikis 1

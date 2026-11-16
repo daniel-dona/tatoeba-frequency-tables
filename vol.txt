@@ -7,7 +7,7 @@ etosi 430
 in 334
 obik 306
 Maria 232
-binon 212
+binon 213
 dunön 200
 Tom 171
 e 171
@@ -1060,6 +1060,7 @@ jifleni 3
 yufolöd 3
 "Si" 3
 Äsagol 3
+planet 3
 nilü 3
 Älemom 3
 äyufol 3
@@ -1492,7 +1493,6 @@ deadam 2
 Vödasbuk 2
 lilädöl 2
 ävilobs 2
-planet 2
 smokom 2
 Lödobs 2
 äkapälom 2
@@ -5262,3 +5262,4 @@ foginäno 1
 spikof 1
 suemol 1
 Pilöfom 1
+Yupitär 1

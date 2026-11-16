@@ -1,4 +1,4 @@
-i 43
+i 44
 is 38
 I 35
 Da 34
@@ -226,6 +226,7 @@ schen 2
 fia 2
 Etza 2
 kimm 2
+gehn 2
 G'rad 1
 jeder 1
 Schmarr'n 1
@@ -801,7 +802,6 @@ Stod 1
 Deitschland 1
 soitats 1
 Letzta 1
-gehn 1
 Winter 1
 besser 1
 Summa 1
@@ -839,3 +839,4 @@ woaßt 1
 Hansen 1
 teifi 1
 seibsd 1
+Konn 1

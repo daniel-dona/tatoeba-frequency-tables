@@ -1,6 +1,6 @@
-is 207
-I 151
-the 144
+is 208
+I 152
+the 146
 a 115
 that 101
 and 96
@@ -8,14 +8,14 @@ to 87
 of 85
 in 82
 nat 76
-The 70
+The 74
 Thomas 63
 was 52
-be 47
-am 41
-me 40
+be 48
+me 42
+am 42
+He 38
 man 37
-He 36
 ben 35
 an 34
 with 32
@@ -32,10 +32,10 @@ We 26
 my 25
 this 23
 but 23
+God 22
 Ye 22
 ye 22
 This 22
-God 21
 That 21
 She 20
 myn 20
@@ -43,9 +43,9 @@ And 17
 love 17
 It 17
 thi 15
+hath 15
 thy 15
 have 14
-hath 13
 by 13
 folk 13
 good 13
@@ -79,6 +79,7 @@ ne 9
 cat 9
 þe 9
 or 9
+world 9
 on 9
 trewe 9
 Is 9
@@ -91,7 +92,6 @@ greet 8
 bith 8
 al 8
 from 8
-world 8
 sholde 8
 thee 8
 eek 8
@@ -102,6 +102,7 @@ which 7
 they 7
 she 7
 ther 7
+seide 7
 two 7
 are 7
 Ic 7
@@ -115,7 +116,6 @@ athel 7
 more 6
 wel 6
 compaignye 6
-seide 6
 alle 6
 Y 6
 deed 6
@@ -183,6 +183,7 @@ Som 5
 sonne 5
 nevere 5
 tonge 5
+werre 5
 noot 5
 evere 5
 seyde 5
@@ -207,6 +208,8 @@ schulen 4
 deme 4
 togidere 4
 agayn 4
+straunge 4
+peple 4
 than 4
 one 4
 haue 4
@@ -290,7 +293,6 @@ aren 3
 alyve 3
 sayd 3
 penne 3
-straunge 3
 some 3
 whiche 3
 late 3
@@ -333,12 +335,12 @@ shul 3
 thinges 3
 wite 3
 hounde 3
+water 3
 auncien 3
 helden 3
 Us 3
 thynges 3
 book 3
-werre 3
 answere 3
 bicam 3
 sothe 3
@@ -463,7 +465,6 @@ toke 2
 blamed 2
 translacyons 2
 vnderstande 2
-peple 2
 desired 2
 redde 2
 rude 2
@@ -570,7 +571,7 @@ mayde 2
 dyn 2
 Youre 2
 argument 2
-water 2
+drynketh 2
 smal 2
 visage 2
 hue 2
@@ -614,6 +615,7 @@ lesing 2
 devout 2
 Jeu 2
 Polayne 2
+maad 2
 haven 2
 hoom 2
 faire 2
@@ -663,6 +665,7 @@ withoute 2
 "I 2
 "And 2
 Ich 2
+togidres 2
 heuene 1
 Yyue 1
 foryyue 1
@@ -1197,7 +1200,6 @@ strompets 1
 eme 1
 drinketh 1
 salt 1
-drynketh 1
 salte 1
 boot 1
 contree 1
@@ -1321,7 +1323,6 @@ contree-man 1
 cherl 1
 uplond-man 1
 artificial 1
-maad 1
 craft 1
 Batman 1
 couchour 1
@@ -1596,3 +1597,11 @@ Kanst 1
 helpen 1
 booke 1
 departen 1
+joygnede 1
+ijoygned 1
+ychaunged 1
+Liyt 1
+blessede 1
+yblessed 1
+beest 1
+foode 1

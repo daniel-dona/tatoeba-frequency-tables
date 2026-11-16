@@ -13,7 +13,7 @@ ku 650
 Tom 557
 Em 552
 me 536
-Tu 530
+Tu 531
 te 510
 de 475
 ne 419
@@ -47,7 +47,7 @@ in 179
 bikin 179
 hez 178
 Wê 178
-pir 173
+pir 174
 Di 158
 Me 157
 wan 155
@@ -82,7 +82,7 @@ ve 90
 xweş 88
 malê 87
 çawa 87
-Her 86
+Her 87
 nekir 85
 a 82
 dê 82
@@ -132,10 +132,10 @@ bibe 52
 dikarim 52
 baz 52
 hevalên 51
+yî 50
 kes 50
 nakim 50
 bûm 50
-yî 49
 bide 48
 dibim 48
 nekin 48
@@ -189,11 +189,11 @@ bûye 33
 tiştekî 33
 mamoste 32
 Çi 32
+zû 32
 caran 32
 pirr 31
 alîkariya 31
 jiyana 31
-zû 31
 dizanim 31
 ti 31
 Bavê 30
@@ -208,6 +208,7 @@ Kî 29
 were 29
 xwar 29
 çavên 29
+tişt 29
 Ka 29
 dibistana 29
 aciz 29
@@ -216,7 +217,6 @@ navê 28
 didin 28
 biçim 28
 derbas 28
-tişt 28
 bidim 27
 dikare 27
 nav 27
@@ -2475,6 +2475,7 @@ biya 2
 test 2
 Xweda 2
 nêza 2
+endamê 2
 Dixwazim 2
 De 2
 Dereng 2
@@ -4212,7 +4213,6 @@ tennîsî 1
 cheleng 1
 leystik 1
 ok 1
-endamê 1
 komîtê 1
 bizîvirim 1
 birînê 1
@@ -9455,3 +9455,5 @@ Rêçik 1
 xirabtir 1
 Paskalyayê 1
 Filistîna 1
+partiyê 1
+guherî 1

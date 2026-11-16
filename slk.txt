@@ -1,4 +1,4 @@
-je 6166
+je 6167
 sa 3812
 som 2978
 Tom 2686
@@ -6,7 +6,7 @@ si 2490
 to 2222
 na 1937
 že 1616
-v 1584
+v 1585
 a 1473
 Je 893
 mi 874
@@ -28,9 +28,9 @@ z 508
 veľmi 482
 Prečo 473
 Mária 472
-Mám 440
+Mám 442
 ti 424
-Ako 390
+Ako 391
 sme 388
 Nie 388
 mesto 387
@@ -43,7 +43,7 @@ aby 334
 ho 329
 za 319
 ťa 309
-rád 302
+rád 303
 jej 268
 vás 265
 pre 264
@@ -61,7 +61,7 @@ všetko 217
 Chcem 215
 niečo 215
 alebo 215
-rada 211
+rada 212
 Toto 211
 Toma 211
 bola 209
@@ -98,11 +98,11 @@ Hlavné 156
 Hlavným 156
 Neviem 155
 len 155
-Môj 152
+Môj 153
 ja 152
 moja 152
 bolo 150
-Máte 149
+Máte 150
 tom 148
 k 147
 so 146
@@ -203,10 +203,10 @@ než 86
 Môžem 86
 stalo 85
 vie 84
+otec 84
 svete 84
 slovo 84
 ten 83
-otec 83
 Ešte 83
 naozaj 83
 iba 82
@@ -648,6 +648,7 @@ raňajky 29
 ktorí 29
 Poznáš 29
 Vidím 29
+počítač 29
 rusky 29
 vami 29
 hrať 29
@@ -662,6 +663,7 @@ vlastne 29
 Boha 28
 budete 28
 pekné 28
+brata 28
 môjho 28
 preč 28
 prísť 28
@@ -675,7 +677,6 @@ Tá 28
 spievať 28
 jednu 28
 priateľov 28
-počítač 28
 živote 28
 náš 28
 šiestej 28
@@ -696,7 +697,6 @@ listy 27
 mojej 27
 nejaké 27
 vina 27
-brata 27
 pero 27
 Pes 27
 dní 27
@@ -726,6 +726,7 @@ správy 27
 mesta 27
 „Čo 27
 siedmej 27
+jar 27
 milujem 27
 učiť 26
 Jeden 26
@@ -780,7 +781,6 @@ telo 25
 Austrálie 25
 Zdravím 25
 hmyz 25
-jar 25
 viete 25
 šťastná 25
 republiky 25
@@ -1297,6 +1297,7 @@ sloveso 15
 švihadle 15
 zjedol 15
 Dneska 15
+fajčiť 15
 Nevedela 15
 1 15
 cicavce 15
@@ -1502,7 +1503,6 @@ slona 13
 nepoznám 13
 orechy 13
 Stratila 13
-fajčiť 13
 Sovy 13
 materiál 13
 rovní 12
@@ -2682,6 +2682,7 @@ Napíš 7
 Zostanem 7
 hľadáš 7
 robila 7
+funguje 7
 zbraň 7
 šéf 7
 zopár 7
@@ -2990,6 +2991,7 @@ učíš 6
 rade 6
 tučná 6
 studený 6
+továrni 6
 drahá 6
 slobodný 6
 mojou 6
@@ -3103,7 +3105,6 @@ fungovať 6
 Prší 6
 zložil 6
 večera 6
-funguje 6
 hlboké 6
 bránu 6
 našli 6
@@ -3474,7 +3475,6 @@ spoznávam 5
 študenti 5
 Dovidenia 5
 čerstvý 5
-továrni 5
 nových 5
 leva 5
 Muž 5
