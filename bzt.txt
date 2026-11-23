@@ -1,15 +1,15 @@
-es 311
+es 312
 Eo 226
 yn 176
-rhen 161
-di 123
+rhen 162
+di 125
 Tomos 110
 ill 107
 lla 95
 Ys 86
 Ill 85
-Sa 81
-llo 72
+Sa 82
+llo 73
 Lla 64
 su 61
 a 57
@@ -21,7 +21,7 @@ sunt 38
 er 37
 Ty 35
 Llo 35
-ci 31
+ci 32
 in 30
 mi 26
 Ke 23
@@ -36,9 +36,10 @@ gath 20
 per 20
 gw 19
 sun 19
+Dew 18
 gws 17
 af 17
-Dew 17
+e 17
 sew 17
 cu 17
 Nu 16
@@ -48,7 +49,6 @@ lw 16
 wol 16
 di'll 16
 ys 16
-e 16
 nonc 15
 gwstr 14
 ply 14
@@ -67,6 +67,7 @@ padr 12
 sab 12
 ffeil 12
 ty 12
+negyn 12
 cath 11
 math 11
 ag 11
@@ -78,7 +79,6 @@ Sew 11
 Pab 11
 gos 11
 h-es 11
-negyn 11
 werdad 11
 gran 10
 Ô-g 10
@@ -213,6 +213,7 @@ pobl 4
 mulltisaf 4
 liferthad 4
 maled 4
+mullt 4
 new 4
 arfur 4
 fengib 4
@@ -298,7 +299,6 @@ manugaf 3
 ddew 3
 cristian 3
 fanug 3
-mullt 3
 awenin 3
 mheg 3
 wiwer 3
@@ -1429,3 +1429,6 @@ Giaponuis 1
 "Angh 1
 goenosc 1
 mudaf 1
+lub 1
+dwn 1
+ngwend 1

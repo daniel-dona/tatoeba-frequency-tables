@@ -1,14 +1,14 @@
 ya 1305
 na 1075
 wa 757
-kwa 699
+kwa 700
 ni 631
 katika 243
 kwenye 228
 kuwa 215
 za 213
 la 201
-cha 180
+cha 181
 sana 178
 Je 169
 kama 151
@@ -50,9 +50,9 @@ siku 57
 miaka 56
 saa 54
 hapa 52
+sasa 51
 hilo 51
 nzuri 50
-sasa 50
 Kuna 50
 Nina 49
 kuhusu 49
@@ -141,16 +141,17 @@ nje 28
 tano 28
 kula 28
 hatari 28
+chakula 27
 mpya 27
 mwanamke 27
 mtoto 27
 wetu 27
+tofauti 27
 mfalme 27
 aina 27
 ambaye 27
 yoyote 26
 hivi 26
-chakula 26
 jinsi 26
 pia 26
 yeye 26
@@ -159,7 +160,6 @@ simu 26
 ndege 26
 Katika 26
 mwisho 26
-tofauti 26
 bado 26
 hiki 25
 Unaweza 25
@@ -179,6 +179,7 @@ rangi 24
 Watu 23
 zake 23
 mrefu 23
+lugha 23
 Millie 23
 moto 23
 zamani 23
@@ -192,7 +193,6 @@ biashara 23
 pesa 23
 Wewe 22
 kitabu 22
-lugha 22
 mwaka 22
 kadhaa 22
 bahati 22
@@ -297,6 +297,8 @@ baadaye 16
 akili 15
 safari 15
 Lakini 15
+mchana 15
+Tom 15
 changu 15
 mlango 15
 wasiwasi 15
@@ -324,10 +326,8 @@ Nilikuwa 15
 Dan 15
 peke 14
 mama 14
-mchana 14
 Na 14
 Lazima 14
-Tom 14
 njaa 14
 Boston 14
 kuzungumza 14
@@ -616,6 +616,7 @@ Kusini 8
 machungwa 8
 halali 8
 Anapenda 8
+kujifunza 8
 mkutano 8
 waandishi 8
 serikali 8
@@ -711,7 +712,6 @@ dada 7
 ujumbe 7
 Najua 7
 uhuru 7
-kujifunza 7
 taarifa 7
 mtazamo 7
 zingine 7
@@ -960,6 +960,7 @@ Niambie 5
 kaka 5
 Rangi 5
 masomo 5
+anaongea 5
 Bei 5
 sayansi 5
 kuleta 5
@@ -1167,7 +1168,6 @@ arobaini 4
 manane 4
 unachotaka 4
 Jumamosi 4
-anaongea 4
 Facebook 4
 najua 4
 Jumatatu 4
@@ -1466,6 +1466,8 @@ anayejua 3
 Huwezi 3
 Nilimaliza 3
 shamba 3
+Ninakula 3
+Kiswahili 3
 anampenda 3
 Nyinyi 3
 waalimu 3
@@ -2042,7 +2044,6 @@ Pua 2
 Nilikwenda 2
 Anapika 2
 Unasoma 2
-Ninakula 2
 sandwichi 2
 unakula 2
 kutunza 2
@@ -2146,6 +2147,7 @@ mzozo 2
 uchunguzi 2
 Tunaenda 2
 huharibika 2
+kukusaidia 2
 kuandikia 2
 kuzunguka 2
 ujumla 2
@@ -3312,7 +3314,6 @@ wasita 1
 Sisikilizi 1
 alibisha 1
 Atapita 1
-Kiswahili 1
 tuliangalia 1
 Hakumpenda 1
 Alimchukia 1
@@ -3584,7 +3585,6 @@ uliotangazwa 1
 imeshindwa 1
 Nilifurahi 1
 shambani 1
-kukusaidia 1
 ma'am 1
 mhasibu 1
 kukagua 1
@@ -9358,3 +9358,5 @@ Imefunikw 1
 miyale 1
 Inayoonyesha 1
 kusali 1
+Nafurahia 1
+Wanajifunza 1

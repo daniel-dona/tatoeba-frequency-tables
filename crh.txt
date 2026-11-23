@@ -58,6 +58,7 @@ Maña 6
 Onı 6
 yardım 6
 maña 6
+da 6
 başladı 6
 kibi 6
 qayda 6
@@ -79,7 +80,6 @@ nasıl 5
 Ne 5
 ediler 5
 meni 5
-da 5
 Gece 5
 o 5
 endi 5
@@ -107,6 +107,7 @@ qıymetli 4
 Camuslar 4
 Bunıñ 4
 qaranlıqta 4
+barmı 4
 şeyni 4
 olıp 4
 kün 4
@@ -115,12 +116,16 @@ edim 4
 bunı 4
 Lütfen 4
 kerekmey 4
+Sizge 4
 aldım 4
 adam 4
 körüne 4
+sizge 4
 Мен 4
 deyler 4
 bilem 4
+añlatıp 4
+olamayım 4
 ерлерде 3
 ерлешкен 3
 эсерлерини 3
@@ -151,6 +156,7 @@ künü 3
 men 3
 öldi 3
 Nasıl 3
+saña 3
 Kim 3
 oña 3
 iş 3
@@ -162,7 +168,6 @@ Oña 3
 yigirmi 3
 sizni 3
 onı 3
-barmı 3
 tütün 3
 yağmur 3
 olur 3
@@ -176,7 +181,6 @@ kitapnı 3
 oşağan 3
 mümkünmi 3
 bugün 3
-Sizge 3
 ol 3
 isteyim 3
 - 3
@@ -189,7 +193,6 @@ etmege 3
  3
 namuslı 3
 bellesem 3
-sizge 3
 ayttı 3
 mümkün 3
 dep 3
@@ -281,7 +284,6 @@ Selâm 2
 aleyküm 2
 aqşam 2
 küneşli 2
-saña 2
 Ana 2
 sesnen 2
 tercime 2
@@ -357,6 +359,7 @@ dünyada 2
 gibi 2
 bundan 2
 duyarlar 2
+oda 2
 yapmağa 2
 Poçta 2
 arasında 2
@@ -383,6 +386,7 @@ yaptım 2
 olarğa 2
 Yarın 2
 anda 2
+uçuz 2
 telefon 2
 istegen 2
 10 2
@@ -425,6 +429,8 @@ aynı 2
 mektepke 2
 Mektepte 2
 ögrendiñiz 2
+Qaideni 2
+qaideni 2
 padişanıñ 1
 oğlu 1
 eken 1
@@ -1251,7 +1257,6 @@ apay 1
 aqları 1
 kesniñ 1
 kelir 1
-oda 1
 birisinden 1
 alıñız 1
 mecbursıñız 1
@@ -1425,7 +1430,6 @@ Dostları 1
 bilgenime 1
 degiller 1
 Açlıq 1
-uçuz 1
 zorbalıq 1
 paalıdır 1
 Çadır 1
@@ -2023,3 +2027,9 @@ neler 1
 урбанынъ 1
 фияты 1
 не 1
+Saña 1
+Tükân 1
+saat 1
+qaçta 1
+qapala 1
+Bundan 1

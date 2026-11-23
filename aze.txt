@@ -1,5 +1,5 @@
 Tom 1029
-Mən 919
+Mən 923
 O 751
 Bu 706
 bir 466
@@ -11,10 +11,10 @@ nə 309
 üçün 257
 Onlar 256
 idi 250
-də 246
+də 248
 Biz 226
 deyil 224
-bu 219
+bu 221
 heç 216
 ilə 182
 Sən 173
@@ -32,10 +32,10 @@ Onun 133
 gün 126
 Siz 121
 elə 121
+edə 118
 onu 118
 o 115
 Bir 114
-edə 112
 Azərbaycan 110
 yoxdur 107
 mən 106
@@ -94,12 +94,12 @@ yox 59
 sevirəm 58
 necə 58
 Çox 57
+sənə 57
 başa 57
 Tomu 57
 dili 56
 üç 55
 olduğunu 55
-sənə 55
 getdi 53
 həmişə 53
 Sami 53
@@ -118,10 +118,10 @@ Məni 49
 nifrət 49
 Xahiş 49
 oldu 48
+Sənə 48
 belə 47
 gedir 47
 Onunla 47
-Sənə 47
 olan 47
 indi 46
 idim 45
@@ -160,6 +160,7 @@ Sizin 38
 əvvəl 38
 isə 38
 dilində 38
+sizə 38
 Onların 38
 amma 38
 istəmirəm 37
@@ -169,11 +170,11 @@ gecə 37
 harada 36
 gözəl 36
 məktəbə 36
-sizə 36
 Əgər 36
 bizə 36
 Dünən 35
 alma 35
+kitabı 35
 Prezidenti 35
 istəyirsən 34
 sevir 34
@@ -187,7 +188,7 @@ lazımdır 33
 gəldi 33
 verin 33
 gedirəm 32
-kitabı 32
+bilmərəm 32
 siz 32
 edib 32
 həftə 31
@@ -226,6 +227,7 @@ yenidən 29
 yardım 29
 arasında 29
 hansı 29
+Sizə 29
 Ziri 29
 səhər 28
 Səni 28
@@ -234,7 +236,6 @@ Gəl 28
 Yaponiyaya 28
 çoxlu 28
 Tomla 28
-Sizə 28
 insan 27
 Yaxşı 27
 Burda 27
@@ -246,11 +247,11 @@ Yeni 26
 olar 26
 məndən 26
 xoş 26
-bilmərəm 26
 həqiqətən 26
 Gələn 26
 Kim 26
 geri 25
+Hansı 25
 danışır 25
 burda 25
 hiss 25
@@ -259,7 +260,6 @@ onlarla 25
 on 24
 iş 24
 Burada 24
-Hansı 24
 bilərsiniz 24
 maşın 24
 Bilirəm 24
@@ -722,6 +722,7 @@ işləmir 10
 Müharibə 10
 hardan 10
 velosiped 10
+izah 10
 - 10
 yerinə 10
 gəlmişəm 10
@@ -882,6 +883,7 @@ xəbər 8
 aldın 8
 müəllim 8
 Səninlə 8
+oxumuşam 8
 deyirlər 8
 Beynəlxalq 8
 düşmürəm 8
@@ -1031,7 +1033,6 @@ dayandı 7
 xəbərim 7
 boşdur 7
 Polis 7
-oxumuşam 7
 Uilyam 7
 şəhərdir 7
 təmizdir 7
@@ -1217,6 +1218,7 @@ oluram 6
 hazırdır 6
 qadındır 6
 yazdım 6
+oxudum 6
 istəyirdi 6
 oğlum 6
 heyvanlar 6
@@ -1475,7 +1477,6 @@ Pis 5
 içirsən 5
 demədi 5
 burdadır 5
-oxudum 5
 Yaşıl 5
 olublar 5
 içir 5
@@ -1966,7 +1967,6 @@ oynayıram 4
 gözləyirdi 4
 haqlı 4
 oturdum 4
-izah 4
 gəlmədi 4
 Amma 4
 qadını 4
@@ -2417,6 +2417,7 @@ Sol 4
 dizaynerdir 4
 məscidə 4
 göstərəcəm 4
+qaydanı 4
 Sabahınız 3
 sirr 3
 çiçəkdir 3
@@ -3368,6 +3369,7 @@ Külək 3
 mövzu 3
 Ramiz 3
 Mehdiyev 3
+Qaydanı 3
 Oleq 3
 avtomat 3
 aparatından 3
@@ -9996,5 +9998,3 @@ edirdin 1
 şeytandır 1
 multivitamin 1
 həbi 1
-Sviterin 1
-üzünədir 1

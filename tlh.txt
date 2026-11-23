@@ -4,7 +4,7 @@ ghaH 2066
 'oH 1679
 Hol 1448
 je 1301
-Hoch 1187
+Hoch 1188
 me'rIy 925
 'ej 864
 neH 811
@@ -32,7 +32,7 @@ vIraS 417
 puS 405
 juH 399
 jIHvaD 395
-nuqDaq 393
+nuqDaq 394
 puH 388
 net 386
 DaHjaj 380
@@ -46,7 +46,7 @@ reH 346
 QaQ 338
 vIQub 338
 DIvI' 333
-Huch 320
+Huch 321
 'Iv 303
 tlhoy 295
 jaj 294
@@ -105,8 +105,8 @@ qa'vIn 164
 ghorgh 164
 juHDaq 161
 vavwI' 159
+vIlegh 158
 De' 158
-vIlegh 157
 DaneH'a' 155
 nIm 155
 puq 152
@@ -120,8 +120,8 @@ tamvaD 144
 maH 143
 ngogh 141
 Hegh 141
+'oHtaH 140
 yIngu' 139
-'oHtaH 139
 jan 138
 muD 133
 parHa' 130
@@ -160,9 +160,9 @@ yIn 111
 woch 108
 vItul 108
 Sep 108
+Qun 108
 Hogh 108
 boghpu' 107
-Qun 107
 jup 105
 be'Hom 104
 nav 103
@@ -594,6 +594,7 @@ cha'DIch 32
 jIratlh 32
 ghaH'a' 32
 Dujvam 32
+moQ 32
 jImej 32
 Qapbe' 32
 nIponDaq 32
@@ -612,7 +613,6 @@ Hov 31
 HochHom 31
 ngaj 31
 vIghoS 31
-moQ 31
 pem 31
 yaS 31
 vIyajbe' 31
@@ -1743,6 +1743,7 @@ bolegh 11
 De'vID 11
 po'lISqa' 11
 ya'nIy 11
+beSbal 11
 'aSteDDaj 11
 lay'la 11
 Su'roq 11
@@ -1907,7 +1908,6 @@ neHHa' 10
 DabchoH 10
 yoghan 10
 'aljayIr'e' 10
-beSbal 10
 DaHpo 10
 namlIgh 10
 tartItlh 10
@@ -3239,6 +3239,7 @@ jIjatlhlaHbe' 5
 HurghDaq 5
 bo'Deghvam 5
 loS; 5
+ghajnIS 5
 yIvbeHwIj 5
 Dujvo' 5
 Dogh 5
@@ -3911,7 +3912,6 @@ ghum 4
 yI'uchHa' 4
 pechuSQo' 4
 cham 4
-ghajnIS 4
 'utlh 4
 tu'pu'bogh 4
 bImej'a' 4
@@ -6205,6 +6205,7 @@ layyan 3
 DatuQbe' 3
 lughItlh 3
 muSwI' 3
+Daghaj" 3
 ya'aqov 3
 vIghojmoHtaH 3
 'aSteDchaj 3
@@ -6316,6 +6317,7 @@ QoQDaj 3
 HIt 3
 maS'e' 3
 way 3
+"'ej 3
 boSovbe' 3
 yIQaH 3
 yIlaDQo' 3
@@ -7395,7 +7397,6 @@ pIHlu'be'bogh 2
 Sepvam'e' 2
 bImejnIS'a' 2
 HeghmoHbogh 2
-Huchraj 2
 puqloDvaD 2
 jIHu'DI' 2
 ghem 2
@@ -8641,6 +8642,7 @@ paqDaj'e' 2
 vItuQHa'moH 2
 «vImuSHa'» 2
 DeSwarDaq 2
+vIparchu' 2
 juvwI' 2
 boghpu'be' 2
 qaSqa'taHvIS 2
@@ -8941,6 +8943,7 @@ lojmItDaj 2
 De'wI'vetlh 2
 qaytu'Daj 2
 wIjaHmeH 2
+Huchmaj 2
 vIneHlaw' 2
 jIyatlhbe' 2
 DaHaDtaH» 2
@@ -9995,6 +9998,3 @@ ghen 2
 Suqlu' 2
 Durur 2
 chelbe' 2
-banglaDeSDaq 2
-vIQujmeH 2
-«yIvem» 2

@@ -1,10 +1,10 @@
-i 52
+i 53
 I 27
 Tom 22
 Im 13
+nín 10
 a 10
 na 9
-nín 9
 Se 9
 ú-vaer 8
 barf 8
@@ -28,6 +28,7 @@ Menel 4
 ammen 4
 No 4
 Me 4
+Mas 4
 Nín 4
 dîn 4
 o 4
@@ -44,7 +45,6 @@ aes 3
 allen 3
 gallon 3
 im 3
-Mas 3
 Îdh 3
 emel 3
 Valt 3
@@ -472,3 +472,4 @@ Medich 1
 och 1
 prestar 1
 aen 1
+thôl 1

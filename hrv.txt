@@ -1,10 +1,10 @@
 je 1973
 se 712
 u 655
-sam 551
+sam 553
 da 514
 li 462
-Tom 377
+Tom 378
 na 374
 ne 334
 i 281
@@ -42,8 +42,8 @@ mogu 69
 više 68
 nego 67
 Mary 67
+Zašto 64
 još 63
-Zašto 62
 Želim 62
 Je 61
 ali 60
@@ -104,9 +104,9 @@ Mogu 37
 Danas 37
 ju 37
 tvoj 36
+nema 36
 Toma 36
 mnogo 36
-nema 35
 učiniti 35
 ništa 34
 nas 34
@@ -1283,6 +1283,7 @@ dođeš 4
 vrati 4
 plava 4
 objasniti 4
+umoran 4
 provodi 4
 stoji 4
 esperantu 4
@@ -1708,7 +1709,6 @@ rješenje 3
 boja 3
 uspjeti 3
 naočale 3
-umoran 3
 Rat 3
 posjetio 3
 Ivan 3
@@ -1886,6 +1886,7 @@ riskira 3
 Onaj 3
 viši 3
 poslala 3
+umorna 3
 lagao 3
 neku 3
 Venera 3
@@ -3099,7 +3100,6 @@ prestaneš 2
 budan 2
 sjeo 2
 Rimu 2
-umorna 2
 Isus 2
 Čuli 2
 oslijepi 2
@@ -8991,3 +8991,4 @@ kruške 1
 Stigla 1
 Gledam 1
 začine 1
+tjelo 1

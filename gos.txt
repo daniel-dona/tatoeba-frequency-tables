@@ -1,7 +1,7 @@
-t 2049
+t 2050
 is 1984
 k 1880
-n 1831
+n 1832
 nait 1120
 Tom 923
 van 826
@@ -87,8 +87,8 @@ bist 115
 hai 111
 Hest 110
 meer 107
+al 107
 eten 106
-al 106
 Zie 104
 joar 103
 wezen 99
@@ -305,13 +305,13 @@ Doar 28
 leren 28
 weg 28
 leden 28
+week 28
 alles 28
 lopen 27
 sikkom 27
 kopen 27
 zuster 27
 haile 27
-week 27
 dood 27
 levent 27
 mooi 27
@@ -3749,6 +3749,7 @@ verzoameld 2
 vindst 2
 ontdekken 2
 rok 2
+Wicht 2
 riebewies 2
 stemmen 2
 doodmoakt 2
@@ -6670,7 +6671,6 @@ Hartstikke 1
 knopen 1
 thuusbleven 1
 polyamoureus 1
-Wicht 1
 börg 1
 begunst 1
 dol 1
@@ -9423,3 +9423,4 @@ vreest 1
 beloftes 1
 Halloumi 1
 grild 1
+snöttert 1

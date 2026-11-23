@@ -1,8 +1,8 @@
-on 29529
+on 29530
 ei 10823
 Tom 9934
 Hän 8501
-ja 6920
+ja 6921
 että 6913
 Tomi 6408
 ole 6380
@@ -25,8 +25,8 @@ hänen 2168
 minulle 2137
 kun 2123
 en 2106
-Onko 2060
-sitä 2027
+Onko 2064
+sitä 2028
 voi 2027
 minun 1944
 mutta 1856
@@ -49,8 +49,8 @@ todella 1474
 tehdä 1473
 kanssa 1403
 nyt 1398
+mitään 1396
 joka 1396
-mitään 1395
 siitä 1364
 olet 1360
 sinua 1334
@@ -62,7 +62,7 @@ täytyy 1208
 tämä 1190
 hyvä 1171
 ranskaa 1167
-pitää 1158
+pitää 1159
 täällä 1149
 kaikki 1149
 vielä 1130
@@ -95,7 +95,7 @@ enää 841
 tiedä 841
 tätä 831
 jotain 830
-sinulla 823
+sinulla 825
 On 807
 puhua 802
 tietää 798
@@ -113,11 +113,11 @@ Olet 729
 tänään 726
 kaksi 721
 halua 713
-ennen 700
+ennen 701
 aikaa 681
 koko 680
 sitten 677
-hänet 664
+hänet 665
 hänelle 655
 meni 642
 tuli 624
@@ -177,7 +177,7 @@ sinut 472
 miten 468
 aivan 466
 auttaa 462
-siellä 459
+siellä 460
 Minusta 453
 olemme 448
 Ne 445
@@ -186,7 +186,7 @@ ilman 441
 haluat 438
 nähnyt 436
 Tuomas 432
-Olin 430
+Olin 431
 syödä 428
 Pidän 422
 monta 419
@@ -203,7 +203,7 @@ jonka 404
 vuonna 402
 Maria 402
 Tiedän 399
-muuta 396
+muuta 398
 Tuomo 396
 yksin 394
 kertoa 394
@@ -399,7 +399,7 @@ uusi 224
 voit 224
 oikeassa 224
 aikaisemmin 223
-ketään 222
+ketään 223
 poika 222
 Voit 221
 yleensä 220
@@ -541,10 +541,10 @@ joskus 163
 apua 163
 edelleen 162
 muista 162
+Menen 162
 yönä 161
 vasta 161
 huono 161
-Menen 161
 kiinnostunut 161
 kuullut 161
 kuollut 160
@@ -707,13 +707,13 @@ sellaista 121
 uutta 121
 voittaa 121
 Aion 121
+Niin 121
 Laita 120
 töihin 120
 todellakin 120
 Siellä 120
 auttamaan 120
 lause 120
-Niin 120
 sekä 120
 katsoa 120
 tahtoi 120
@@ -746,6 +746,7 @@ häneen 116
 Eilen 116
 nälkä 115
 laittoi 115
+muita 115
 kuulla 115
 oikea 115
 teen 115
@@ -770,7 +771,6 @@ kaikkea 113
 Mies 113
 ihmisten 113
 Äitini 113
-muita 113
 rikki 113
 herra 112
 kaikista 112
@@ -1377,6 +1377,7 @@ viimeksi 63
 huolimatta 63
 Opettaja 63
 ensimmäisen 63
+kysymyksiä 63
 ikäinen 63
 alkanut 63
 Olitko 63
@@ -1391,7 +1392,6 @@ Soitan 62
 jotenkin 62
 Aiotko 62
 kiva 62
-kysymyksiä 62
 poikki 62
 unohtanut 62
 ollaan 62
@@ -2069,6 +2069,7 @@ kupin 42
 koe 42
 takaa 42
 millaista 42
+kaupassa 42
 kakun 42
 sairaana 42
 vastauksen 42
@@ -2120,7 +2121,6 @@ Voitteko 41
 kuvitella 41
 kaikilla 41
 rauhassa 41
-kaupassa 41
 tyttäreni 41
 Menkää 41
 OK 41
@@ -3903,6 +3903,7 @@ loistaa 21
 lapsesi 21
 vaikeuksiin 21
 johtaja 21
+hiljaista 21
 myrskyn 21
 hölmö 21
 juovat 21
@@ -4075,8 +4076,8 @@ kirjoitin 20
 Tahdotko 20
 lukiossa 20
 kaloja 20
+maanantai 20
 Vie 20
-hiljaista 20
 lausutaan 20
 kummallista 20
 esitellä 20
@@ -4111,6 +4112,7 @@ liittyy 20
 Kenestä 20
 käyttöä 20
 molemmilla 20
+perjantai 20
 Autan 20
 nuorelta 20
 aamusta 20
@@ -4123,6 +4125,7 @@ Pahoittelen 20
 omenoista 20
 maksamaan 20
 Peli 20
+200 20
 aito 20
 Marylta 20
 neliö 20
@@ -4179,6 +4182,7 @@ Sinulle 20
 korjasi 20
 Enkö 20
 tuhlaa 20
+klo 20
 Meiltä 20
 suostui 20
 järjestyksessä 20
@@ -4276,7 +4280,6 @@ häiritse 19
 pelaan 19
 toiste 19
 märkä 19
-maanantai 19
 hyväksymään 19
 puhumisesta 19
 onnettomuus 19
@@ -4315,7 +4318,6 @@ tahallaan 19
 alku 19
 toivoo 19
 pane 19
-perjantai 19
 läksysi 19
 100 19
 annat 19
@@ -4338,7 +4340,6 @@ halpoja 19
 Lähetä 19
 lapsiaan 19
 mieltään 19
-200 19
 lippua 19
 matkusti 19
 Yhdysvalloissa 19
@@ -4380,7 +4381,6 @@ ongelmasi 19
 puhelinta 19
 vihaisia 19
 tullaan 19
-klo 19
 mahdollisuuksia 19
 suhde 19
 vapaalla 19
@@ -5327,6 +5327,7 @@ tahallasi 15
 harvinainen 15
 Kokeile 15
 Rauhoitu 15
+kysyttävää 15
 oveen 15
 tenniksestä 15
 iloiselta 15
@@ -5646,7 +5647,6 @@ Uutinen 14
 pysähtyy 14
 arvokas 14
 sankari 14
-kysyttävää 14
 vallassa 14
 matematiikkaa 14
 muuttuvat 14
@@ -5764,6 +5764,7 @@ syömisestä 14
 Näitä 14
 annoit 14
 mestari 14
+Lasten 14
 itkenyt 14
 Eipä 14
 mieluiten 14
@@ -5936,6 +5937,7 @@ uneen 13
 Mitenköhän 13
 Taivaalla 13
 elänyt 13
+maatilalla 13
 Tavataan 13
 syksy 13
 hampaansa 13
@@ -6157,7 +6159,6 @@ lukiota 13
 erityistä 13
 tapasit 13
 askel 13
-Lasten 13
 vallan 13
 munista 13
 tapaamisen 13
@@ -6376,7 +6377,6 @@ Kesällä 12
 saatat 12
 kirjastosta 12
 osaisin 12
-maatilalla 12
 nautit 12
 ystävieni 12
 putkeen 12
@@ -8982,6 +8982,7 @@ opetetaan 8
 ollutkin 8
 Japanilainen 8
 vitsiä 8
+saattamaan 8
 Äkkiä 8
 kuusikymmentä 8
 ystävääni 8
@@ -9997,4 +9998,3 @@ värjätä 8
 herättäkö 8
 tanskalaisen 8
 virstan 8
-laturia 8

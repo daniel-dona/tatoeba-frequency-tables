@@ -1,21 +1,22 @@
-Men 79
+Men 83
 U 76
 Bu 74
 bor 39
 Tom 36
 bir 32
+bilan 29
 edi 29
-bilan 28
 Mening 26
 emas 25
 bormi 25
+ham 25
 nima 24
 qayerda 23
 uchun 22
-ham 21
+Sen 20
 kerak 20
 yaxshi 19
-Sen 19
+kitobni 18
 Nima 17
 Мен 15
 У 15
@@ -27,14 +28,13 @@ Menga 13
 Biz 13
 juda 13
 hech 13
-kitobni 12
 kim 12
 deb 12
+bu 12
 qanday 12
 bo'lib 12
 Siz 10
 va 10
-bu 10
 эмасман 10
 uni 10
 yomon 10
@@ -43,6 +43,7 @@ suv 10
 Bugun 10
 Nega 10
 Ertaga 10
+senga 9
 Uning 9
 pul 9
 kitob 9
@@ -51,7 +52,6 @@ ishlayman 9
 бор 8
 бир 8
 u 8
-senga 8
 javob 8
 menga 8
 faqat 8
@@ -59,6 +59,7 @@ qaysi 8
 men 8
 ва 7
 narsa 7
+yordam 7
 meni 7
 issiq 7
 yerda 7
@@ -68,6 +69,7 @@ Kim 7
 Ular 7
 sotib 7
 qachon 7
+soat 7
 olib 7
 mumkin 7
 ko‘raman 7
@@ -75,7 +77,6 @@ ko‘raman 7
 йўқ 6
 Нима 6
 haqida 6
-yordam 6
 Bir 6
 boraman 6
 qancha 6
@@ -83,7 +84,6 @@ odam 6
 hamma 6
 emasmi 6
 turadi 6
-soat 6
 Uni 6
 учун 5
 Менинг 5
@@ -136,6 +136,7 @@ televizor 4
 ko'rmayapti 4
 uy 4
 yoqadi 4
+Senga 4
 buni 4
 keldi 4
 Iltimos 4
@@ -148,6 +149,7 @@ Mendan 4
 olmayman 4
 uch 4
 oz 4
+sizga 4
 berdi 4
 qushlarimni 4
 barcha 4
@@ -161,7 +163,10 @@ Bank 4
 birinchi 4
 Ko‘zlarim 4
 nimani 4
+Qaysi 4
 heç 4
+tuşuntirolmayman 4
+öqidim 4
 Seni 3
 Rahmat 3
 gap 3
@@ -210,7 +215,6 @@ Hamma 3
 bormoqchi 3
 Sening 3
 ko'raman 3
-Senga 3
 siz 3
 kel 3
 Bolalar 3
@@ -232,7 +236,6 @@ albatta 3
 kimga 3
 Shifokor 3
 olasan 3
-sizga 3
 aytib 3
 Nimaga 3
 olamanmi 3
@@ -253,6 +256,7 @@ kutib 3
 Nihoyat 3
 Savolga 3
 qor 3
+Sizga 3
 yemayman 3
 o‘z 3
 Baliqni 3
@@ -331,7 +335,6 @@ yapon 2
 do'stim 2
 Stol 2
 Go'sht 2
-Chaqaloqning 2
 tagligini 2
 Choy 2
 eng 2
@@ -526,7 +529,6 @@ haydovchisi 2
 Nimalarni 2
 o'rganaman 2
 bo'ladimi 2
-Sizga 2
 to'lashim 2
 Qayerda 2
 kerakmi 2
@@ -553,7 +555,6 @@ bo‘lishni 2
 qilishimiz 2
 yoqtirmayman 2
 Xonada 2
-Qaysi 2
 tillarda 2
 bo‘lsa 2
 imzolashni 2
@@ -594,6 +595,9 @@ köraman 2
 haqingizda 2
 söradi 2
 qurdi 2
+Qoidani 2
+qoidani 2
+şu 2
 barbod 1
 kutaman 1
 Барча 1
@@ -793,9 +797,9 @@ bo'ldim 1
 университети 1
 Қалбим 1
 осмонида 1
-Go‘l 1
+Göl 1
 tikansiz 1
-bo‘lmaydi 1
+bölmaydi 1
 пулим 1
 Аммо 1
 кофе 1
@@ -871,9 +875,9 @@ Sysko 1
 Kelilar 1
 gapalshamiz 1
  1
-Bo'ridan 1
+Böridan 1
 qurqqan 1
-to'qayg'a 1
+töqayğa 1
 kirmas 1
 singlimga 1
 O'ylashimcha 1
@@ -894,11 +898,7 @@ kelyapti 1
 ishingni 1
 to'liq 1
 bajarladingmi 1
-Getter 1
-Jaani 1
-ila 1
-o'lmaq 1
-istayiram 1
+ölmoqçiman 1
 кечаси 1
 улар 1
 уч 1
@@ -948,7 +948,8 @@ oilasi 1
 sevdi 1
 student 1
 istamayman 1
-o'zgartirishim 1
+Çaqaloqning 1
+özgartirişim 1
 Laurie 1
 Kofe 1
 Ah 1
@@ -980,6 +981,7 @@ murabbiyi 1
 yopadi 1
 Xonangizga 1
 boringiz 1
+Chaqaloqning 1
 o'zgartirdim 1
 rangning 1
 ma'nosi 1
@@ -2647,3 +2649,11 @@ körding 1
 Buni 1
 bilmaydi 1
 Muzeyga 1
+Yevropa 1
+Fransiyaga 1
+beradimi 1
+öqiysan 1
+öqidingiz 1
+Dökon 1
+neçada 1
+yopiladi 1

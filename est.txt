@@ -1,6 +1,6 @@
-on 1679
-Ma 982
-ei 777
+on 1681
+Ma 986
+ei 779
 Tom 650
 Kas 469
 sa 455
@@ -8,9 +8,9 @@ Ta 379
 et 357
 See 299
 ma 230
-seda 223
+seda 225
 oma 210
-see 200
+see 201
 oli 177
 ja 169
 ole 158
@@ -18,29 +18,29 @@ ta 156
 Sa 152
 keelt 148
 olen 144
-väga 138
+väga 139
 Mul 136
 kui 134
 pole 130
 Me 130
 oled 107
 mulle 107
+selle 96
 mind 94
-selle 94
 midagi 93
 Nad 93
 mu 93
 ära 89
 minu 87
-palju 83
+palju 84
 Miks 82
-Kui 80
-Mu 78
-Minu 77
+Kui 81
+Mu 79
+Minu 78
 Tomi 77
 meeldib 76
 tahan 75
-sulle 73
+sulle 74
 sind 72
 Kus 72
 kõik 71
@@ -58,11 +58,11 @@ hea 60
 sul 58
 välja 57
 mis 56
+saa 56
 Mulle 56
 teha 55
 te 55
 ema 54
-saa 54
 Palun 51
 tea 51
 minna 50
@@ -88,12 +88,12 @@ Tema 40
 aga 40
 täna 40
 nad 39
+Kõik 38
 hästi 38
 vaja 38
 kaks 38
 teda 38
 koer 38
-Kõik 37
 teie 37
 kes 37
 olla 37
@@ -108,6 +108,7 @@ taha 35
 koju 35
 või 35
 seal 35
+ka 34
 aru 34
 sellest 34
 eile 34
@@ -125,7 +126,6 @@ aega 31
 koos 31
 räägin 31
 elab 31
-ka 30
 meie 30
 nagu 30
 enam 30
@@ -148,6 +148,7 @@ sõber 27
 ainult 26
 tead 26
 peale 26
+raamatu 26
 tahad 26
 juba 25
 süüa 25
@@ -165,7 +166,6 @@ kodus 24
 naine 24
 tegi 24
 olete 24
-raamatu 24
 saan 24
 Koer 24
 Te 24
@@ -175,6 +175,7 @@ Millal 23
 aastat 23
 Sul 23
 üles 23
+läbi 22
 alati 22
 tuleb 22
 teine 22
@@ -188,13 +189,14 @@ natuke 22
 ilma 21
 teada 21
 Keegi 21
+raamatut 21
 elan 21
 üks 21
 vana 21
 sinuga 21
 kus 21
-läbi 20
 päev 20
+kiiresti 20
 meeldivad 20
 minuga 20
 oleme 20
@@ -202,9 +204,7 @@ pea 20
 tahtnud 20
 Tomiga 20
 Toomas 20
-raamatut 19
 Ei 19
-kiiresti 19
 taga 19
 Need 19
 saada 19
@@ -213,6 +213,7 @@ iga 19
 räägib 19
 end 18
 tuli 18
+nimi 18
 tõesti 18
 tööd 18
 Kass 18
@@ -251,7 +252,6 @@ inimesed 16
 peab 16
 palun 16
 tüdruk 16
-nimi 16
 saanud 16
 mees 16
 kõige 16
@@ -357,6 +357,7 @@ räägitakse 12
 Bostonis 12
 Tule 12
 Bostonisse 12
+teile 12
 meil 12
 usu 12
 Räägi 12
@@ -379,7 +380,6 @@ sööb 11
 huvitav 11
 uuesti 11
 pidanud 11
-teile 11
 Anna 11
 vanemad 11
 Mine 11
@@ -490,6 +490,7 @@ Teie 8
 arvasin 8
 kena 8
 magada 8
+maksab 8
 aeg 8
 kardan 8
 armastab 8
@@ -570,7 +571,6 @@ Eile 7
 hobune 7
 viimane 7
 hiljem 7
-maksab 7
 räägite 7
 naist 7
 Tee 7
@@ -643,6 +643,7 @@ rääkis 6
 kuul 6
 väärt 6
 seitse 6
+kleit 6
 Mees 6
 maailm 6
 sadas 6
@@ -754,7 +755,6 @@ ellu 5
 järgmine 5
 Üks 5
 ostsid 5
-kleit 5
 keelest 5
 rase 5
 hääl 5
@@ -1140,6 +1140,7 @@ ela 4
 tuju 4
 Tegin 4
 Maryl 4
+lugesin 4
 küsi 4
 Alžeeria 4
 Gröönimaa 4
@@ -1159,6 +1160,7 @@ palk 3
 Ateenasse 3
 teel 3
 selleks 3
+selgitada 3
 miski 3
 eksis 3
 kella 3
@@ -2483,7 +2485,6 @@ klient 2
 süütu 2
 tõlge 2
 õige 2
-lugesin 2
 romaane 2
 kavatse 2
 müüa 2
@@ -2634,6 +2635,9 @@ kala“ 2
 imetaja“ 2
 arusaamatus 2
 püüdsin 2
+Lily 2
+Lugesin 2
+reeglit 2
 Sellises 1
 kärestikus 1
 mõtlematu 1
@@ -2764,7 +2768,6 @@ talletatakse 1
 kirjutaja 1
 mõistlik 1
 siduda 1
-selgitada 1
 faktid 1
 kriitik 1
 magnetiks 1
@@ -7048,3 +7051,4 @@ Naoko 1
 Lugege 1
 Rongad 1
 Varesed 1
+muutus 1
